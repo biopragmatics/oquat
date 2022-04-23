@@ -28,7 +28,7 @@ class Meta(TypedDict):
 
     subsets: list
     xrefs: list
-    basicPropertyValues: list[Property]
+    basicPropertyValues: list[Property]  # noqa:N815
 
 
 class Graph(TypedDict):
@@ -38,10 +38,10 @@ class Graph(TypedDict):
     meta: Meta
     nodes: list
     edges: list[Edge]
-    equivalentNodesSets: Any
-    logicalDefinitionAxioms: Any
-    domainRangeAxioms: Any
-    propertyChainAxioms: Any
+    equivalentNodesSets: Any  # noqa:N815
+    logicalDefinitionAxioms: Any  # noqa:N815
+    domainRangeAxioms: Any  # noqa:N815
+    propertyChainAxioms: Any  # noqa:N815
 
 
 class Graphs(TypedDict):

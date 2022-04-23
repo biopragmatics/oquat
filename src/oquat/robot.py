@@ -40,7 +40,7 @@ def robot_parse_json(
     input_path: Union[str, Path],
     output_path: Union[None, str, Path] = None,
 ) -> Tuple[Graphs, Any]:
-    """Convert a local OWL file to a JSON file"""
+    """Convert a local OWL file to a JSON file."""
     with _path_context(output_path) as path:
         args = ["robot", "convert", flag, str(input_path), "-o", str(path), "--format", "json"]
         ret = check_output(args, cwd=os.path.dirname(__file__))  # noqa:S603

@@ -1,4 +1,6 @@
-import pickle
+"""Automate analysis on all ontologies listed in the Bioregistry."""
+
+import json
 import subprocess
 import urllib.error
 from pathlib import Path
@@ -7,11 +9,10 @@ from typing import Optional
 import bioregistry
 import click
 import jinja2
-import pystow
 from more_click import force_option
 from tqdm import tqdm
 
-from .api import SKIP_PREFIXES, check_prefix
+from .api import SKIP_PREFIXES, Results, analyze_by_prefix, extended_encoder
 
 __all__ = [
     "main",
@@ -19,27 +20,32 @@ __all__ = [
 
 HERE = Path(__file__).parent.resolve()
 TEMPLATES = HERE.joinpath("templates")
-OUTPUT = HERE.joinpath("output.md")
+ROOT = HERE.parent.parent.resolve()
+RESULTS = ROOT.joinpath("results")
+
 environment = jinja2.Environment(
     loader=jinja2.FileSystemLoader(TEMPLATES),
     trim_blocks=True,
+    autoescape=True,
 )
 
 
-def secho(s, fg=None):
+def secho(s: str, fg=None) -> None:
+    """Write text in tqdm with :func:`click.style`."""
     tqdm.write(click.style(s, fg=fg))
 
 
-CUSTOM_FILTERS = {
-    "efo": "http://www.ebi.ac.uk/efo/EFO_"
-}
+CUSTOM_FILTERS = {"efo": "http://www.ebi.ac.uk/efo/EFO_"}
 
 
 @click.command()
 @force_option
-@click.option('--inclusive', is_flag=True, help="Include non-OBO and less well annotated ontologies")
-@click.option('--minimum')
+@click.option(
+    "--inclusive", is_flag=True, help="Include non-OBO and less well annotated ontologies"
+)
+@click.option("--minimum")
 def main(force: bool, inclusive: bool, minimum: Optional[str]):
+    """Run large-scale ontology analysis."""
     rows = sorted(
         (
             prefix,
@@ -51,9 +57,11 @@ def main(force: bool, inclusive: bool, minimum: Optional[str]):
         if prefix not in SKIP_PREFIXES and (not minimum or minimum <= prefix)
     )
     results = []
-    tqdm.write(f'got info on {len(rows)} prefixes')
+    tqdm.write(f"got info on {len(rows)} prefixes")
     it = tqdm(rows)
     for prefix, iri_filter, owl_url, json_url in it:
+        if prefix not in {"go", "uberon", "cl", "clo", "doid"}:
+            continue
         iri_filter = CUSTOM_FILTERS.get(prefix, iri_filter)
         if not inclusive and iri_filter is None:
             continue
@@ -64,12 +72,14 @@ def main(force: bool, inclusive: bool, minimum: Optional[str]):
                 secho(f"{prefix} does not have an OWL URL: {owl_url}", fg="red")
                 continue
         it.set_postfix(prefix=prefix)
-        analysis_path = pystow.join("bio", "obofoundry", prefix, name="analysis.pkl")
+        analysis_path = RESULTS.joinpath(prefix).with_suffix(".json")
         if analysis_path.is_file() and not force:
-            result = pickle.loads(analysis_path.read_bytes())
+            result = {k: Results(**v) for k, v in json.loads(analysis_path.read_text()).items()}
         else:
             try:
-                result = check_prefix(prefix, iri_filter=iri_filter or CUSTOM_FILTERS.get(prefix))
+                result = analyze_by_prefix(
+                    prefix, iri_filter=iri_filter or CUSTOM_FILTERS.get(prefix)
+                )
             except urllib.error.URLError:
                 secho(f"{prefix} could not be downloaded", fg="red")
                 result = None
@@ -81,18 +91,22 @@ def main(force: bool, inclusive: bool, minimum: Optional[str]):
                 result = None
 
             # secho(f"{prefix} writing results to {analysis_path}")
-            analysis_path.write_bytes(pickle.dumps(result))
+            analysis_path.write_text(
+                json.dumps(
+                    result, indent=2, sort_keys=True, ensure_ascii=False, default=extended_encoder
+                )
+            )
 
         results.append((prefix, result))
         if result is None:
             pass
-        elif result.unknown_prefixes or result.malformed_curies:
-            secho(f"prefix: {prefix} has issues", fg="yellow")
-            # it.write(result.as_str())
+        # elif result.unknown_prefixes or result.malformed_curies:
+        #     secho(f"prefix: {prefix} has issues", fg="yellow")
+        # it.write(result.as_str())
 
-    template = environment.get_template("invalid_xrefs.md")
-    OUTPUT.write_text(template.render(results=results, bioregistry=bioregistry))
+    # template = environment.get_template("invalid_xrefs.md")
+    # OUTPUT.write_text(template.render(results=results, bioregistry=bioregistry))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
