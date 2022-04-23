@@ -50,8 +50,8 @@ class ResultPack(pydantic.BaseModel):
     label: str
     unknown_prefixes: dict[str, dict[str, str]]
     noncanonical_prefixes: dict[str, dict[str, str]]
-    malformed_curies: dict[str, set[str]]
-    invalid_luids: dict[str, set[str]]
+    malformed_curies: dict[str, list[str]]
+    invalid_luids: dict[str, list[str]]
 
     def _malformed_curies_table(self):
         bvi = [
@@ -146,6 +146,10 @@ SKIP_PREFIXES = {
     "gsso",
     # Overwhelming amount of trash
     "txpo",
+}
+NONCANONICAL_EXCEPTIONS = {
+    "Wikipedia",
+    "PMID",
 }
 
 
@@ -284,27 +288,31 @@ def analyze_graph(data: Graphs, *, iri_filter: Optional[str] = None) -> dict[str
             xref_pack=ResultPack(
                 label="Node Xrefs",
                 unknown_prefixes=node_xref_unknown_prefixes,
-                malformed_curies=node_xref_malformed_curies,
+                malformed_curies=_canonicalize_dict(node_xref_malformed_curies),
                 noncanonical_prefixes=node_xref_noncanonical_prefixes,
-                invalid_luids=node_xref_invalid_luids,
+                invalid_luids=_canonicalize_dict(node_xref_invalid_luids),
             ),
             prov_pack=ResultPack(
                 label="Provenance Xrefs",
                 unknown_prefixes=prov_xref_unknown_prefixes,
-                malformed_curies=prov_xref_malformed_curies,
+                malformed_curies=_canonicalize_dict(prov_xref_malformed_curies),
                 noncanonical_prefixes=prov_xref_noncanonical_prefixes,
-                invalid_luids=prov_xref_invalid_luids,
+                invalid_luids=_canonicalize_dict(prov_xref_invalid_luids),
             ),
             synonym_pack=ResultPack(
                 label="Synonym Xrefs",
                 unknown_prefixes=syn_xref_unknown_prefixes,
-                malformed_curies=syn_xref_malformed_curies,
+                malformed_curies=_canonicalize_dict(syn_xref_malformed_curies),
                 noncanonical_prefixes=syn_xref_noncanonical_prefixes,
-                invalid_luids=syn_xref_invalid_luids,
+                invalid_luids=_canonicalize_dict(syn_xref_invalid_luids),
             ),
         )
 
     return rv
+
+
+def _canonicalize_dict(dd: DefaultDict[str, set[str]]) -> dict[str, list[str]]:
+    return {k: sorted(v) for k, v in dd.items()}
 
 
 def _aggregate_curie_issues(
@@ -334,7 +342,8 @@ def _aggregate_curie_issues(
     if norm_prefix is None:
         unknown_prefixes[prefix][node_id] = curie
     elif norm_prefix.casefold() != prefix.casefold():
-        noncanonical_prefixes[prefix][node_id] = curie
+        if prefix not in NONCANONICAL_EXCEPTIONS:
+            noncanonical_prefixes[prefix][node_id] = curie
 
     # Check that the identifier validates against the prefix's regex
     pattern = bioregistry.get_pattern(prefix)
