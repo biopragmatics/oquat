@@ -66,6 +66,7 @@ extensions = [
     "sphinx_autodoc_typehints",
     "sphinx_automodapi.automodapi",
     "sphinx_automodapi.smart_resolver",
+    "sphinx_click.ext",
     # 'texext',
 ]
 
