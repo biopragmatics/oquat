@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 """A wrapper around ROBOT functionality.
 
 .. seealso:: https://robot.obolibrary.org

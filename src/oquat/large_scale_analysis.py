@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 """Automate analysis on all ontologies listed in the Bioregistry."""
 
 import json
