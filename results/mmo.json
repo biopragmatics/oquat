@@ -1,0 +1,1642 @@
+{
+  "http://purl.obolibrary.org/obo/mmo.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/mmo.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/MMO_0000017": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000023": [
+          "Wikipedia:http://en.wikipedia.org/wiki/"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000077": [
+          "Wikipedia:http://en.wikipedia.org/wiki/"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000078": [
+          "Wikipedia:http://en.wikipedia.org/wiki/"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000079": [
+          "Wikipedia:http://en.wikipedia.org/wiki/"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000081": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000088": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000091": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Hydrostatic_weighing"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000094": [
+          "Wikipedia:http://en.wikipedia.org/wiki/"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000097": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000099": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Thromboelastometry"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000104": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000111": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000113": [
+          "Wikipedia:http://en.wikipedia.org/wiki/"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000119": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000132": [
+          "RGD:SL"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000137": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000153": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000154": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000159": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Caliper"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000160": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000164": [
+          "Wikipedia:http://en.wikipedia.org/wiki/"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000171": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000178": [
+          "Wikipedia:http://en.wikipedia.org/wiki/"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000180": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000181": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000186": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000187": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000201": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Sphygmomanometry"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000204": [
+          "Wikipedia:http://en.wikipedia.org/wiki/"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000218": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000220": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000222": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000223": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000224": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000225": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000226": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000228": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Ultrasonic_flow_meter"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000231": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Inductively_coupled_plasma"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000232": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Atomic_absorption_spectroscopy"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000235": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000238": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Liquid_scintillation_counting"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000239": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000242": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000243": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000244": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000250": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000251": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000254": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000256": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000257": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000259": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000260": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000261": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000272": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000276": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000289": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Chromatography#Thin_layer_chromatography"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000291": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Electrophysiology"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000292": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Patch_clamp"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000293": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Patch_clamp#Whole-cell_recording_or_whole-cell_patch"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000303": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000326": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Glucose_tolerance_test"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000328": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Solid_%28state_of_matter%29"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000338": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Western_blot"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000340": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Southern_blot"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000364": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Quantitative_computed_tomography"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000365": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Quantitative_computed_tomography"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000367": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Quantitative_computed_tomography"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000368": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Hemocytometer"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000379": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Atomic_absorption_spectroscopy"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000380": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Graphite_furnace_atomic_absorption"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000384": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Gadolinium"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000386": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Electroanalytical_Methods"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000387": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Clark_electrode"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000393": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Mohr_pipette"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000402": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Morris_water_maze"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000415": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000419": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000420": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000421": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000422": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000424": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Bicinchoninic_acid_assay"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000425": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Lowry_protein_assay"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000426": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Bradford_protein_assay"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000436": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Bromocresol_green"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000438": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Ouchterlony_double_immunodiffusion"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000439": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Radial_immunodiffusion"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000440": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Radial_immunodiffusion"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000447": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Hemocytometer"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000448": [
+          "RGD:SJL"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000450": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Ion_selective_electrode"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000451": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Ion_selective_electrode"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000452": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Ion_selective_electrode"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000453": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Ion_selective_electrode"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000454": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Transducer"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000455": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Piezoelectric_accelerometer"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000458": [
+          "Wikipedia:http://en.wikipedia.org/wiki/ELISPOT"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000461": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Polymerase_Chain_Reaction"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000462": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Polymerase_Chain_Reaction"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000463": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000464": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000472": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000473": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000474": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000475": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000476": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000477": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000478": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000481": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000482": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000483": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000484": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000485": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000486": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000487": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000488": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000490": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000497": [
+          "RGD:GTH"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000502": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000508": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Quantitative_computed_tomography"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000514": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Calipers"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000515": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Calipers"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000516": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Calipers"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000517": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Calipers"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000520": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Campesterol"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000521": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Sitosterol"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000522": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Sitosterol"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000523": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Sitosterol"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000524": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Campesterol"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000525": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Campesterol"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000530": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Phytosterol"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000531": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Campesterol"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000532": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Sitosterol"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000542": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000543": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000544": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000545": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000546": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000561": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Histology#Staining"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000563": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Colony-forming_unit#Tools_for_counting_colonies"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000564": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Colony-forming_unit#Tools_for_counting_colonies",
+          "Wikipedia:http://en.wikipedia.org/wiki/Growth_medium#Selective_media"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000567": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Rotarod_performance_test"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000582": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Common_carotid_artery"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000586": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000595": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000598": [
+          "Wikipedia:https://en.wikipedia.org/wiki/SHIRPA"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000599": [
+          "Wikipedia:https://en.wikipedia.org/wiki/SHIRPA"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000611": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000616": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Electroretinography"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000617": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Flow_cytometry"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000622": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Pressure_measurement#Liquid_column_(manometer)"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000624": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Tympanometry"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000633": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Bronchoalveolar_lavage"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000640": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Gene_expression"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000641": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Primary_transcript"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000643": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Gene_expression",
+          "Wikipedia:https://en.wikipedia.org/wiki/In_situ#Biology_and_biomedical_engineering"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000644": [
+          "Wikipedia:https://en.wikipedia.org/wiki/High_throughput_biology"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000648": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Microarray"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000649": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Microarray"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000650": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Tiling_array"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000651": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Nuclease_protection_assay"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000652": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Nuclease_protection_assay"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000655": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Polymerase_chain_reaction",
+          "Wikipedia:https://en.wikipedia.org/wiki/Reverse_transcription_polymerase_chain_reaction"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000656": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Real-time_polymerase_chain_reaction"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000658": [
+          "Wikipedia:https://en.wikipedia.org/wiki/In_situ_hybridization"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000660": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Serial_analysis_of_gene_expression"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000662": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Immunofluorescence"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000664": [
+          "Wikipedia:https://en.wikipedia.org/wiki/High_throughput_biology",
+          "Wikipedia:https://en.wikipedia.org/wiki/Proteomics#High-throughput_proteomic_technologies"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000665": [
+          "Wikipedia:https://en.wikipedia.org/wiki/High_throughput_biology",
+          "Wikipedia:https://en.wikipedia.org/wiki/Proteomics"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000666": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Protein_microarray"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000667": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Tissue_microarray"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000668": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Antibody_microarray"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000669": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Western_blot"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000675": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Vapor_pressure_osmometry"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000678": [
+          "ECO:ECO:0001010"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000679": [
+          "ECO:ECO:0000004"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000680": [
+          "ECO:ECO:0000230"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000681": [
+          "ECO:ECO:0000102"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000682": [
+          "ECO:ECO:0000085"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000683": [
+          "ECO:ECO:0000070"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000684": [
+          "ECO:ECO:0001049"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000685": [
+          "ECO:ECO:0005587"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000686": [
+          "ECO:ECO:0005600"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000695": [
+          "PMID:PMID:3411196"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000696": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Optical_coherence_tomography"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000697": [
+          "MESH:https://meshb.nlm.nih.gov/record/ui?ui=D009543"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000698": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Comprehensive_metabolic_panel"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "PMCID": {
+          "http://purl.obolibrary.org/obo/MMO_0000637": "PMCID:PMC2954491"
+        },
+        "PMID": {
+          "http://purl.obolibrary.org/obo/MMO_0000000": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000004": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000026": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000027": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000162": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000163": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000252": "PMID:3838314",
+          "http://purl.obolibrary.org/obo/MMO_0000262": "PMID:22294128",
+          "http://purl.obolibrary.org/obo/MMO_0000263": "PMID:22294128",
+          "http://purl.obolibrary.org/obo/MMO_0000264": "PMID:22294128",
+          "http://purl.obolibrary.org/obo/MMO_0000265": "PMID:22294128",
+          "http://purl.obolibrary.org/obo/MMO_0000266": "PMID:22294128",
+          "http://purl.obolibrary.org/obo/MMO_0000267": "PMID:17401477",
+          "http://purl.obolibrary.org/obo/MMO_0000268": "PMID:17401477",
+          "http://purl.obolibrary.org/obo/MMO_0000269": "PMID:17401477",
+          "http://purl.obolibrary.org/obo/MMO_0000298": "PMID:20869983",
+          "http://purl.obolibrary.org/obo/MMO_0000299": "PMID:20869983",
+          "http://purl.obolibrary.org/obo/MMO_0000300": "PMID:20869983",
+          "http://purl.obolibrary.org/obo/MMO_0000303": "PMID:904439",
+          "http://purl.obolibrary.org/obo/MMO_0000305": "PMID:11108727",
+          "http://purl.obolibrary.org/obo/MMO_0000332": "PMID:3731450",
+          "http://purl.obolibrary.org/obo/MMO_0000342": "PMID:16028678",
+          "http://purl.obolibrary.org/obo/MMO_0000388": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000396": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000397": "PMID:8274302",
+          "http://purl.obolibrary.org/obo/MMO_0000398": "PMID:8274302",
+          "http://purl.obolibrary.org/obo/MMO_0000399": "PMID:8274302",
+          "http://purl.obolibrary.org/obo/MMO_0000400": "PMID:8274302",
+          "http://purl.obolibrary.org/obo/MMO_0000401": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000402": "PMID:17406317",
+          "http://purl.obolibrary.org/obo/MMO_0000412": "PMID:7582826",
+          "http://purl.obolibrary.org/obo/MMO_0000413": "PMID:7582826",
+          "http://purl.obolibrary.org/obo/MMO_0000440": "PMID:6797098",
+          "http://purl.obolibrary.org/obo/MMO_0000444": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000445": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000446": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000447": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000449": "PMID:11817600",
+          "http://purl.obolibrary.org/obo/MMO_0000467": "PMID:8698878",
+          "http://purl.obolibrary.org/obo/MMO_0000505": "PMID:18177873",
+          "http://purl.obolibrary.org/obo/MMO_0000506": "PMID:18177873",
+          "http://purl.obolibrary.org/obo/MMO_0000507": "PMID:2874900",
+          "http://purl.obolibrary.org/obo/MMO_0000512": "PMID:36810",
+          "http://purl.obolibrary.org/obo/MMO_0000513": "PMID:36810",
+          "http://purl.obolibrary.org/obo/MMO_0000559": "PMID:6117086",
+          "http://purl.obolibrary.org/obo/MMO_0000562": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000565": "PMID:20715928",
+          "http://purl.obolibrary.org/obo/MMO_0000566": "PMID:20715928",
+          "http://purl.obolibrary.org/obo/MMO_0000570": "PMID:25292366",
+          "http://purl.obolibrary.org/obo/MMO_0000574": "PMID:22555240",
+          "http://purl.obolibrary.org/obo/MMO_0000576": "PMID:21455458",
+          "http://purl.obolibrary.org/obo/MMO_0000587": "PMID:12884964",
+          "http://purl.obolibrary.org/obo/MMO_0000612": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/MMO_0000634": "PMID:17023465",
+          "http://purl.obolibrary.org/obo/MMO_0000635": "PMID:17023465",
+          "http://purl.obolibrary.org/obo/MMO_0000636": "PMID:7849255",
+          "http://purl.obolibrary.org/obo/MMO_0000642": "PMID:19381602",
+          "http://purl.obolibrary.org/obo/MMO_0000647": "PMID:21125485",
+          "http://purl.obolibrary.org/obo/MMO_0000657": "PMID:21922403",
+          "http://purl.obolibrary.org/obo/MMO_0000695": "PMID:PMID:3411196"
+        },
+        "Wikipedia": {
+          "http://purl.obolibrary.org/obo/MMO_0000023": "Wikipedia:http://en.wikipedia.org/wiki/",
+          "http://purl.obolibrary.org/obo/MMO_0000077": "Wikipedia:http://en.wikipedia.org/wiki/",
+          "http://purl.obolibrary.org/obo/MMO_0000078": "Wikipedia:http://en.wikipedia.org/wiki/",
+          "http://purl.obolibrary.org/obo/MMO_0000079": "Wikipedia:http://en.wikipedia.org/wiki/",
+          "http://purl.obolibrary.org/obo/MMO_0000091": "Wikipedia:http://en.wikipedia.org/wiki/Hydrostatic_weighing",
+          "http://purl.obolibrary.org/obo/MMO_0000094": "Wikipedia:http://en.wikipedia.org/wiki/",
+          "http://purl.obolibrary.org/obo/MMO_0000099": "Wikipedia:http://en.wikipedia.org/wiki/Thromboelastometry",
+          "http://purl.obolibrary.org/obo/MMO_0000111": "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum",
+          "http://purl.obolibrary.org/obo/MMO_0000113": "Wikipedia:http://en.wikipedia.org/wiki/",
+          "http://purl.obolibrary.org/obo/MMO_0000153": "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip",
+          "http://purl.obolibrary.org/obo/MMO_0000154": "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip",
+          "http://purl.obolibrary.org/obo/MMO_0000159": "Wikipedia:http://en.wikipedia.org/wiki/Caliper",
+          "http://purl.obolibrary.org/obo/MMO_0000164": "Wikipedia:http://en.wikipedia.org/wiki/",
+          "http://purl.obolibrary.org/obo/MMO_0000171": "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip",
+          "http://purl.obolibrary.org/obo/MMO_0000178": "Wikipedia:http://en.wikipedia.org/wiki/",
+          "http://purl.obolibrary.org/obo/MMO_0000180": "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip",
+          "http://purl.obolibrary.org/obo/MMO_0000181": "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip",
+          "http://purl.obolibrary.org/obo/MMO_0000186": "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip",
+          "http://purl.obolibrary.org/obo/MMO_0000187": "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip",
+          "http://purl.obolibrary.org/obo/MMO_0000201": "Wikipedia:http://en.wikipedia.org/wiki/Sphygmomanometry",
+          "http://purl.obolibrary.org/obo/MMO_0000204": "Wikipedia:http://en.wikipedia.org/wiki/",
+          "http://purl.obolibrary.org/obo/MMO_0000220": "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum",
+          "http://purl.obolibrary.org/obo/MMO_0000228": "Wikipedia:http://en.wikipedia.org/wiki/Ultrasonic_flow_meter",
+          "http://purl.obolibrary.org/obo/MMO_0000231": "Wikipedia:http://en.wikipedia.org/wiki/Inductively_coupled_plasma",
+          "http://purl.obolibrary.org/obo/MMO_0000232": "Wikipedia:http://en.wikipedia.org/wiki/Atomic_absorption_spectroscopy",
+          "http://purl.obolibrary.org/obo/MMO_0000238": "Wikipedia:http://en.wikipedia.org/wiki/Liquid_scintillation_counting",
+          "http://purl.obolibrary.org/obo/MMO_0000289": "Wikipedia:http://en.wikipedia.org/wiki/Chromatography#Thin_layer_chromatography",
+          "http://purl.obolibrary.org/obo/MMO_0000291": "Wikipedia:http://en.wikipedia.org/wiki/Electrophysiology",
+          "http://purl.obolibrary.org/obo/MMO_0000292": "Wikipedia:http://en.wikipedia.org/wiki/Patch_clamp",
+          "http://purl.obolibrary.org/obo/MMO_0000293": "Wikipedia:http://en.wikipedia.org/wiki/Patch_clamp#Whole-cell_recording_or_whole-cell_patch",
+          "http://purl.obolibrary.org/obo/MMO_0000326": "Wikipedia:http://en.wikipedia.org/wiki/Glucose_tolerance_test",
+          "http://purl.obolibrary.org/obo/MMO_0000328": "Wikipedia:http://en.wikipedia.org/wiki/Solid_%28state_of_matter%29",
+          "http://purl.obolibrary.org/obo/MMO_0000338": "Wikipedia:http://en.wikipedia.org/wiki/Western_blot",
+          "http://purl.obolibrary.org/obo/MMO_0000340": "Wikipedia:http://en.wikipedia.org/wiki/Southern_blot",
+          "http://purl.obolibrary.org/obo/MMO_0000364": "Wikipedia:http://en.wikipedia.org/wiki/Quantitative_computed_tomography",
+          "http://purl.obolibrary.org/obo/MMO_0000365": "Wikipedia:http://en.wikipedia.org/wiki/Quantitative_computed_tomography",
+          "http://purl.obolibrary.org/obo/MMO_0000367": "Wikipedia:http://en.wikipedia.org/wiki/Quantitative_computed_tomography",
+          "http://purl.obolibrary.org/obo/MMO_0000368": "Wikipedia:http://en.wikipedia.org/wiki/Hemocytometer",
+          "http://purl.obolibrary.org/obo/MMO_0000379": "Wikipedia:http://en.wikipedia.org/wiki/Atomic_absorption_spectroscopy",
+          "http://purl.obolibrary.org/obo/MMO_0000380": "Wikipedia:http://en.wikipedia.org/wiki/Graphite_furnace_atomic_absorption",
+          "http://purl.obolibrary.org/obo/MMO_0000384": "Wikipedia:http://en.wikipedia.org/wiki/Gadolinium",
+          "http://purl.obolibrary.org/obo/MMO_0000386": "Wikipedia:http://en.wikipedia.org/wiki/Electroanalytical_Methods",
+          "http://purl.obolibrary.org/obo/MMO_0000387": "Wikipedia:http://en.wikipedia.org/wiki/Clark_electrode",
+          "http://purl.obolibrary.org/obo/MMO_0000393": "Wikipedia:http://en.wikipedia.org/wiki/Mohr_pipette",
+          "http://purl.obolibrary.org/obo/MMO_0000402": "Wikipedia:http://en.wikipedia.org/wiki/Morris_water_maze",
+          "http://purl.obolibrary.org/obo/MMO_0000415": "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum",
+          "http://purl.obolibrary.org/obo/MMO_0000419": "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum",
+          "http://purl.obolibrary.org/obo/MMO_0000420": "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum",
+          "http://purl.obolibrary.org/obo/MMO_0000421": "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum",
+          "http://purl.obolibrary.org/obo/MMO_0000422": "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum",
+          "http://purl.obolibrary.org/obo/MMO_0000424": "Wikipedia:http://en.wikipedia.org/wiki/Bicinchoninic_acid_assay",
+          "http://purl.obolibrary.org/obo/MMO_0000425": "Wikipedia:http://en.wikipedia.org/wiki/Lowry_protein_assay",
+          "http://purl.obolibrary.org/obo/MMO_0000426": "Wikipedia:http://en.wikipedia.org/wiki/Bradford_protein_assay",
+          "http://purl.obolibrary.org/obo/MMO_0000436": "Wikipedia:http://en.wikipedia.org/wiki/Bromocresol_green",
+          "http://purl.obolibrary.org/obo/MMO_0000438": "Wikipedia:http://en.wikipedia.org/wiki/Ouchterlony_double_immunodiffusion",
+          "http://purl.obolibrary.org/obo/MMO_0000439": "Wikipedia:http://en.wikipedia.org/wiki/Radial_immunodiffusion",
+          "http://purl.obolibrary.org/obo/MMO_0000440": "Wikipedia:http://en.wikipedia.org/wiki/Radial_immunodiffusion",
+          "http://purl.obolibrary.org/obo/MMO_0000447": "Wikipedia:http://en.wikipedia.org/wiki/Hemocytometer",
+          "http://purl.obolibrary.org/obo/MMO_0000450": "Wikipedia:http://en.wikipedia.org/wiki/Ion_selective_electrode",
+          "http://purl.obolibrary.org/obo/MMO_0000451": "Wikipedia:http://en.wikipedia.org/wiki/Ion_selective_electrode",
+          "http://purl.obolibrary.org/obo/MMO_0000452": "Wikipedia:http://en.wikipedia.org/wiki/Ion_selective_electrode",
+          "http://purl.obolibrary.org/obo/MMO_0000453": "Wikipedia:http://en.wikipedia.org/wiki/Ion_selective_electrode",
+          "http://purl.obolibrary.org/obo/MMO_0000454": "Wikipedia:http://en.wikipedia.org/wiki/Transducer",
+          "http://purl.obolibrary.org/obo/MMO_0000455": "Wikipedia:http://en.wikipedia.org/wiki/Piezoelectric_accelerometer",
+          "http://purl.obolibrary.org/obo/MMO_0000458": "Wikipedia:http://en.wikipedia.org/wiki/ELISPOT",
+          "http://purl.obolibrary.org/obo/MMO_0000461": "Wikipedia:http://en.wikipedia.org/wiki/Polymerase_Chain_Reaction",
+          "http://purl.obolibrary.org/obo/MMO_0000462": "Wikipedia:http://en.wikipedia.org/wiki/Polymerase_Chain_Reaction",
+          "http://purl.obolibrary.org/obo/MMO_0000463": "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip",
+          "http://purl.obolibrary.org/obo/MMO_0000464": "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip",
+          "http://purl.obolibrary.org/obo/MMO_0000472": "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000473": "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000474": "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000475": "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000476": "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000477": "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000478": "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000481": "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000482": "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000483": "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000484": "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000485": "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000486": "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000487": "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000488": "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000490": "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein",
+          "http://purl.obolibrary.org/obo/MMO_0000508": "Wikipedia:http://en.wikipedia.org/wiki/Quantitative_computed_tomography",
+          "http://purl.obolibrary.org/obo/MMO_0000514": "Wikipedia:http://en.wikipedia.org/wiki/Calipers",
+          "http://purl.obolibrary.org/obo/MMO_0000515": "Wikipedia:http://en.wikipedia.org/wiki/Calipers",
+          "http://purl.obolibrary.org/obo/MMO_0000516": "Wikipedia:http://en.wikipedia.org/wiki/Calipers",
+          "http://purl.obolibrary.org/obo/MMO_0000517": "Wikipedia:http://en.wikipedia.org/wiki/Calipers",
+          "http://purl.obolibrary.org/obo/MMO_0000520": "Wikipedia:http://en.wikipedia.org/wiki/Campesterol",
+          "http://purl.obolibrary.org/obo/MMO_0000521": "Wikipedia:http://en.wikipedia.org/wiki/Sitosterol",
+          "http://purl.obolibrary.org/obo/MMO_0000522": "Wikipedia:http://en.wikipedia.org/wiki/Sitosterol",
+          "http://purl.obolibrary.org/obo/MMO_0000523": "Wikipedia:http://en.wikipedia.org/wiki/Sitosterol",
+          "http://purl.obolibrary.org/obo/MMO_0000524": "Wikipedia:http://en.wikipedia.org/wiki/Campesterol",
+          "http://purl.obolibrary.org/obo/MMO_0000525": "Wikipedia:http://en.wikipedia.org/wiki/Campesterol",
+          "http://purl.obolibrary.org/obo/MMO_0000530": "Wikipedia:http://en.wikipedia.org/wiki/Phytosterol",
+          "http://purl.obolibrary.org/obo/MMO_0000531": "Wikipedia:http://en.wikipedia.org/wiki/Campesterol",
+          "http://purl.obolibrary.org/obo/MMO_0000532": "Wikipedia:http://en.wikipedia.org/wiki/Sitosterol",
+          "http://purl.obolibrary.org/obo/MMO_0000542": "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction",
+          "http://purl.obolibrary.org/obo/MMO_0000543": "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction",
+          "http://purl.obolibrary.org/obo/MMO_0000544": "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction",
+          "http://purl.obolibrary.org/obo/MMO_0000545": "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction",
+          "http://purl.obolibrary.org/obo/MMO_0000546": "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction",
+          "http://purl.obolibrary.org/obo/MMO_0000561": "Wikipedia:http://en.wikipedia.org/wiki/Histology#Staining",
+          "http://purl.obolibrary.org/obo/MMO_0000563": "Wikipedia:http://en.wikipedia.org/wiki/Colony-forming_unit#Tools_for_counting_colonies",
+          "http://purl.obolibrary.org/obo/MMO_0000564": "Wikipedia:http://en.wikipedia.org/wiki/Growth_medium#Selective_media",
+          "http://purl.obolibrary.org/obo/MMO_0000567": "Wikipedia:https://en.wikipedia.org/wiki/Rotarod_performance_test",
+          "http://purl.obolibrary.org/obo/MMO_0000582": "Wikipedia:https://en.wikipedia.org/wiki/Common_carotid_artery",
+          "http://purl.obolibrary.org/obo/MMO_0000598": "Wikipedia:https://en.wikipedia.org/wiki/SHIRPA",
+          "http://purl.obolibrary.org/obo/MMO_0000599": "Wikipedia:https://en.wikipedia.org/wiki/SHIRPA",
+          "http://purl.obolibrary.org/obo/MMO_0000616": "Wikipedia:https://en.wikipedia.org/wiki/Electroretinography",
+          "http://purl.obolibrary.org/obo/MMO_0000617": "Wikipedia:https://en.wikipedia.org/wiki/Flow_cytometry",
+          "http://purl.obolibrary.org/obo/MMO_0000622": "Wikipedia:https://en.wikipedia.org/wiki/Pressure_measurement#Liquid_column_(manometer)",
+          "http://purl.obolibrary.org/obo/MMO_0000624": "Wikipedia:https://en.wikipedia.org/wiki/Tympanometry",
+          "http://purl.obolibrary.org/obo/MMO_0000633": "Wikipedia:https://en.wikipedia.org/wiki/Bronchoalveolar_lavage",
+          "http://purl.obolibrary.org/obo/MMO_0000640": "Wikipedia:https://en.wikipedia.org/wiki/Gene_expression",
+          "http://purl.obolibrary.org/obo/MMO_0000641": "Wikipedia:https://en.wikipedia.org/wiki/Primary_transcript",
+          "http://purl.obolibrary.org/obo/MMO_0000643": "Wikipedia:https://en.wikipedia.org/wiki/In_situ#Biology_and_biomedical_engineering",
+          "http://purl.obolibrary.org/obo/MMO_0000644": "Wikipedia:https://en.wikipedia.org/wiki/High_throughput_biology",
+          "http://purl.obolibrary.org/obo/MMO_0000648": "Wikipedia:https://en.wikipedia.org/wiki/Microarray",
+          "http://purl.obolibrary.org/obo/MMO_0000649": "Wikipedia:https://en.wikipedia.org/wiki/Microarray",
+          "http://purl.obolibrary.org/obo/MMO_0000650": "Wikipedia:https://en.wikipedia.org/wiki/Tiling_array",
+          "http://purl.obolibrary.org/obo/MMO_0000651": "Wikipedia:https://en.wikipedia.org/wiki/Nuclease_protection_assay",
+          "http://purl.obolibrary.org/obo/MMO_0000652": "Wikipedia:https://en.wikipedia.org/wiki/Nuclease_protection_assay",
+          "http://purl.obolibrary.org/obo/MMO_0000655": "Wikipedia:https://en.wikipedia.org/wiki/Reverse_transcription_polymerase_chain_reaction",
+          "http://purl.obolibrary.org/obo/MMO_0000656": "Wikipedia:https://en.wikipedia.org/wiki/Real-time_polymerase_chain_reaction",
+          "http://purl.obolibrary.org/obo/MMO_0000658": "Wikipedia:https://en.wikipedia.org/wiki/In_situ_hybridization",
+          "http://purl.obolibrary.org/obo/MMO_0000660": "Wikipedia:https://en.wikipedia.org/wiki/Serial_analysis_of_gene_expression",
+          "http://purl.obolibrary.org/obo/MMO_0000662": "Wikipedia:https://en.wikipedia.org/wiki/Immunofluorescence",
+          "http://purl.obolibrary.org/obo/MMO_0000664": "Wikipedia:https://en.wikipedia.org/wiki/Proteomics#High-throughput_proteomic_technologies",
+          "http://purl.obolibrary.org/obo/MMO_0000665": "Wikipedia:https://en.wikipedia.org/wiki/Proteomics",
+          "http://purl.obolibrary.org/obo/MMO_0000666": "Wikipedia:https://en.wikipedia.org/wiki/Protein_microarray",
+          "http://purl.obolibrary.org/obo/MMO_0000667": "Wikipedia:https://en.wikipedia.org/wiki/Tissue_microarray",
+          "http://purl.obolibrary.org/obo/MMO_0000668": "Wikipedia:https://en.wikipedia.org/wiki/Antibody_microarray",
+          "http://purl.obolibrary.org/obo/MMO_0000669": "Wikipedia:https://en.wikipedia.org/wiki/Western_blot",
+          "http://purl.obolibrary.org/obo/MMO_0000675": "Wikipedia:https://en.wikipedia.org/wiki/Vapor_pressure_osmometry",
+          "http://purl.obolibrary.org/obo/MMO_0000696": "Wikipedia:https://en.wikipedia.org/wiki/Optical_coherence_tomography",
+          "http://purl.obolibrary.org/obo/MMO_0000698": "Wikipedia:https://en.wikipedia.org/wiki/Comprehensive_metabolic_panel"
+        }
+      },
+      "unknown_prefixes": {
+        "AD_Instruments": {
+          "http://purl.obolibrary.org/obo/MMO_0000028": "AD_Instruments:http://www.adinstruments.com"
+        },
+        "APC": {
+          "http://purl.obolibrary.org/obo/MMO_0000077": "APC:www.apccardiovascular.co.uk"
+        },
+        "Alliance": {
+          "http://purl.obolibrary.org/obo/MMO_0000670": "Alliance:Alliance_Expression_Working_Group",
+          "http://purl.obolibrary.org/obo/MMO_0000671": "Alliance:Alliance_Expression_Working_Group",
+          "http://purl.obolibrary.org/obo/MMO_0000672": "Alliance:Alliance_Expression_Working_Group",
+          "http://purl.obolibrary.org/obo/MMO_0000673": "Alliance:Alliance_Expression_Working_Group"
+        },
+        "American_Heritage": {
+          "http://purl.obolibrary.org/obo/MMO_0000004": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000036": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000096": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000111": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000136": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000165": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000167": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000168": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000186": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000187": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000209": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000212": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/MMO_0000219": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000220": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000225": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000233": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000234": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000236": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000241": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000245": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000277": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000323": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000324": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000325": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000329": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/MMO_0000335": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000345": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000346": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000349": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000350": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000351": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000352": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000357": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/MMO_0000358": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000359": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000360": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000361": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000362": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000371": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000374": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000376": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000381": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000382": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000396": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000411": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000412": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000413": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000415": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000417": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000418": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000419": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000420": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000421": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000422": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000423": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000433": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000434": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000435": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000456": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000459": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000467": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000476": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000477": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000478": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000483": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000484": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000485": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000486": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000487": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000488": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000493": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000494": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000496": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000498": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000500": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000501": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000502": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000503": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000511": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/MMO_0000538": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000540": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000541": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000560": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000562": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000568": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/MMO_0000569": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/MMO_0000583": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--5th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000584": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--5th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000588": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--5th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000613": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000627": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/MMO_0000662": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007"
+        },
+        "Beta": {
+          "http://purl.obolibrary.org/obo/MMO_0000122": "Beta:www.beta-technology.com"
+        },
+        "CMDT": {
+          "http://purl.obolibrary.org/obo/MMO_0000132": "CMDT:Current_Medical_Diagnosis_and_Treatment--42nd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000133": "CMDT:Current_Medical_Diagnosis_and_Treatment--42nd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000134": "CMDT:Current_Medical_Diagnosis_and_Treatment--42nd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000135": "CMDT:Current_Medical_Diagnosis_and_Treatment--42nd_Ed"
+        },
+        "Churchill_Livingstone": {
+          "http://purl.obolibrary.org/obo/MMO_0000096": "Churchill_Livingstone:Dictionary_of_Sport_and_Exercise_Science_and_Medicine_2008"
+        },
+        "Collins": {
+          "http://purl.obolibrary.org/obo/MMO_0000153": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000154": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000171": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000180": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000181": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000186": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000187": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000211": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000414": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000463": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000464": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000466": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000479": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000480": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000494": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000640": "Collins:Collins_Dictionary_of_Biology--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000643": "Collins:Collins_Dictionary_of_Biology--3rd_Ed"
+        },
+        "Dictionary": {
+          "http://purl.obolibrary.org/obo/MMO_0000227": "Dictionary:Electrochemistry_Dictionary_Online"
+        },
+        "Dorland": {
+          "http://purl.obolibrary.org/obo/MMO_0000000": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000001": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000002": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000003": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000004": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000008": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000012": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000013": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000015": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000018": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000019": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000021": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000024": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000025": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000026": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000027": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000030": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000034": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000037": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000038": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000041": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000043": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000052": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000070": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000071": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000072": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000073": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000075": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000076": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000080": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000081": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000092": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000095": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000098": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000100": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000106": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000108": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000109": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000110": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000111": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000112": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000124": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000125": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000126": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000127": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000128": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000129": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000133": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000134": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000135": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000136": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000141": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000142": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000143": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000147": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000149": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000150": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000151": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000156": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000159": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000161": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000162": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000163": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000166": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000170": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000174": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000175": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000177": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000179": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000185": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000193": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000194": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000195": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000196": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000198": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000199": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000200": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000202": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000207": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000210": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000211": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000216": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000219": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000220": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000221": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000234": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000237": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000245": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000247": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000253": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000273": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000274": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000278": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000279": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000280": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000281": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000282": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000283": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000284": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000285": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000287": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000288": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000289": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000290": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000308": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000309": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000313": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000314": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000315": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000316": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000317": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000318": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000320": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000321": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000322": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000324": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000325": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000330": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000331": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000332": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000333": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000334": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000335": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000336": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000338": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000340": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000345": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000346": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000348": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000350": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000351": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000352": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000366": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000372": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000373": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000375": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000377": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000378": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000388": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000389": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000390": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000391": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000392": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000393": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000394": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000395": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000396": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000401": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000403": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000406": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000407": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000408": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000409": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000410": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000415": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000417": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000418": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000419": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000420": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000421": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000422": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000423": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000424": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000425": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000426": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000427": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000428": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000429": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000430": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000431": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000432": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000434": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000435": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000436": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000437": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000442": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000443": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000444": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000445": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000446": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000447": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000449": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000451": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000452": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000453": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000456": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000457": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000459": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000465": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000466": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000467": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000473": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000474": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000475": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000477": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000478": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000479": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000480": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000481": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000482": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000483": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000484": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000485": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000486": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000487": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000488": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000489": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000490": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000491": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000492": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000495": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000497": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000499": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000500": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000501": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000507": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000514": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000518": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000519": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000522": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000523": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000524": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000525": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000526": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000527": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000528": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000529": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000533": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000537": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000538": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000547": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000548": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000549": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000551": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000552": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000553": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000554": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000555": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000556": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000557": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000561": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000562": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000577": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000578": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000579": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000580": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000581": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000582": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000583": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000584": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000610": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000612": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000631": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000632": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000669": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed"
+        },
+        "Encarta": {
+          "http://purl.obolibrary.org/obo/MMO_0000081": "Encarta:Encarta_World_English_Dictionary"
+        },
+        "Farlex": {
+          "http://purl.obolibrary.org/obo/MMO_0000162": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/MMO_0000387": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/MMO_0000492": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/MMO_0000495": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/MMO_0000499": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/MMO_0000500": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/MMO_0000501": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/MMO_0000563": "Farlex:Medical_Dictionary_for_the_Health_Professions_and_Nursing_2012"
+        },
+        "FormulaMedical": {
+          "http://purl.obolibrary.org/obo/MMO_0000192": "FormulaMedical:http://www.formulamedical.com"
+        },
+        "Gale": {
+          "http://purl.obolibrary.org/obo/MMO_0000248": "Gale:Gale_Encyclopedia_of_Medicine",
+          "http://purl.obolibrary.org/obo/MMO_0000275": "Gale:Gale_Encyclopedia_of_Medicine",
+          "http://purl.obolibrary.org/obo/MMO_0000337": "Gale:Gale_Encyclopedia_of_Medicine",
+          "http://purl.obolibrary.org/obo/MMO_0000540": "Gale:Gale_Encyclopedia_of_Medicine_2008",
+          "http://purl.obolibrary.org/obo/MMO_0000541": "Gale:Gale_Encyclopedia_of_Medicine_2008"
+        },
+        "Google_Docs": {
+          "http://purl.obolibrary.org/obo/MMO_0000387": "Google_Docs:Oxygen_Analyzers.doc"
+        },
+        "Harpenden": {
+          "http://purl.obolibrary.org/obo/MMO_0000118": "Harpenden:http://www.skinfold-caliper.com/",
+          "http://purl.obolibrary.org/obo/MMO_0000191": "Harpenden:http://www.skinfold-caliper.com/"
+        },
+        "Harvard_Apparatus": {
+          "http://purl.obolibrary.org/obo/MMO_0000083": "Harvard_Apparatus:http://www.harvardapparatus.com"
+        },
+        "IUPAC": {
+          "http://purl.obolibrary.org/obo/MMO_0000304": "IUPAC:http://goldbook.iupac.org/R05102.html"
+        },
+        "Infoplease": {
+          "http://purl.obolibrary.org/obo/MMO_0000123": "Infoplease:http://dictionary.infoplease.com"
+        },
+        "Journal_Article": {
+          "http://purl.obolibrary.org/obo/MMO_0000635": "Journal_Article:http://www.jbc.org/content/178/2/839.citation"
+        },
+        "Kent": {
+          "http://purl.obolibrary.org/obo/MMO_0000009": "Kent:http://www.kentscientifc.com",
+          "http://purl.obolibrary.org/obo/MMO_0000053": "Kent:www.kentscientifc.com"
+        },
+        "Keogh": {
+          "http://purl.obolibrary.org/obo/MMO_0000115": "Keogh:Nursing_Laboratory_and_Diagnostic_Tests_Demystified"
+        },
+        "Life_Measurement": {
+          "http://purl.obolibrary.org/obo/MMO_0000130": "Life_Measurement:http://www.bodpod.com"
+        },
+        "MDPI": {
+          "http://purl.obolibrary.org/obo/MMO_0000369": "MDPI:http://www.mdpi.com/1424-8220/3/8/276/pdf",
+          "http://purl.obolibrary.org/obo/MMO_0000370": "MDPI:http://www.mdpi.com/1424-8220/3/8/276/pdf",
+          "http://purl.obolibrary.org/obo/MMO_0000373": "MDPI:http://www.mdpi.com/1424-8220/3/8/276/pdf",
+          "http://purl.obolibrary.org/obo/MMO_0000374": "MDPI:http://www.mdpi.com/1424-8220/3/8/276/pdf",
+          "http://purl.obolibrary.org/obo/MMO_0000375": "MDPI:http://www.mdpi.com/1424-8220/3/8/276/pdf",
+          "http://purl.obolibrary.org/obo/MMO_0000376": "MDPI:http://www.mdpi.com/1424-8220/3/8/276/pdf",
+          "http://purl.obolibrary.org/obo/MMO_0000377": "MDPI:http://www.mdpi.com/1424-8220/3/8/276/pdf",
+          "http://purl.obolibrary.org/obo/MMO_0000378": "MDPI:http://www.mdpi.com/1424-8220/3/8/276/pdf"
+        },
+        "MPD": {
+          "http://purl.obolibrary.org/obo/MMO_0000589": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000590": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000591": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000592": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000593": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000594": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000595": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000596": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000597": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000599": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000600": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000601": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000602": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000604": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000606": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000607": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000608": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000609": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000610": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000611": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000614": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000615": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000617": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000618": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000619": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000620": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000621": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000623": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000624": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000625": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000626": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000627": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000628": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000629": "MPD:MB",
+          "http://purl.obolibrary.org/obo/MMO_0000630": "MPD:MB"
+        },
+        "Macmillan": {
+          "http://purl.obolibrary.org/obo/MMO_0000588": "Macmillan:The_Macmillan_Online_Dictionary_of_American_English"
+        },
+        "McGraw-Hill": {
+          "http://purl.obolibrary.org/obo/MMO_0000039": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms",
+          "http://purl.obolibrary.org/obo/MMO_0000173": "McGraw-Hill:McGraw-Hill_Concise_Dictionary_of_Modern_Medicine",
+          "http://purl.obolibrary.org/obo/MMO_0000229": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms",
+          "http://purl.obolibrary.org/obo/MMO_0000230": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms",
+          "http://purl.obolibrary.org/obo/MMO_0000231": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms",
+          "http://purl.obolibrary.org/obo/MMO_0000327": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000328": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000329": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000330": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000331": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000333": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000424": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000425": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000426": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000436": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000557": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000585": "McGraw-Hill:McGraw-Hill_Dictionary_of_Scientific_and_Technical_Terms--4th_Ed"
+        },
+        "MedicalGlossary": {
+          "http://purl.obolibrary.org/obo/MMO_0000011": "MedicalGlossary:www.medicalglossary.org"
+        },
+        "Merriam-Webster": {
+          "http://purl.obolibrary.org/obo/MMO_0000105": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000120": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000172": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000213": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000217": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000241": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000245": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000343": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000344": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000407": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000408": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000409": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000410": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed"
+        },
+        "Miller-Keane": {
+          "http://purl.obolibrary.org/obo/MMO_0000383": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000384": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000385": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000427": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000431": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000441": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000442": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000449": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000474": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000480": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000482": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000484": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000486": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000488": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000523": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000524": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000553": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000631": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed"
+        },
+        "Mondofacto": {
+          "http://purl.obolibrary.org/obo/MMO_0000310": "Mondofacto:Mondofacto_Online_Medical_Dictionary"
+        },
+        "Mosby": {
+          "http://purl.obolibrary.org/obo/MMO_0000005": "Mosby:Mosbys_Dental_Dictionary--2nd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000006": "Mosby:Mosbys_Dental_Dictionary--2nd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000033": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000036": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000040": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000055": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000090": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000093": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000095": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000132": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000146": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000147": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000148": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000151": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000157": "Mosby:Mosbys_Dental_Dictionary--2nd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000162": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000163": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000168": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000173": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000176": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000179": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000185": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000186": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000187": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000189": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000190": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000206": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000207": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000214": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000215": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000216": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000225": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000238": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000239": "Mosby:Mosbys_Dental_Dictionary--2nd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000246": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000294": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000295": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000308": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000309": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000311": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000312": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000313": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000314": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000331": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000337": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000345": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000346": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000348": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000349": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000350": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000351": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000352": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000353": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000354": "Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000358": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000359": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000360": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000371": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000372": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000381": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000382": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000401": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000405": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000450": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000451": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000452": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000453": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000456": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000510": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000518": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000519": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000520": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000521": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000522": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000523": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000524": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000525": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000526": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000527": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000528": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000529": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000530": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000531": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000532": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000541": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000550": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000551": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000552": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000553": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000554": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000555": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000556": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000557": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000588": "Mosby:Mosbys_Medical_Dictionary--9th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000629": "Mosby:Mosbys_Medical_Dictionary--9th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000639": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000645": "Mosby:Mosbys_Medical_Dictionary--8th_Ed"
+        },
+        "Multiple_Dictionaries": {
+          "http://purl.obolibrary.org/obo/MMO_0000347": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/MMO_0000353": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/MMO_0000354": "Multiple_Dictionaries:http://www.thefreedictionary.com/--8th_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000355": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/MMO_0000356": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/MMO_0000364": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/MMO_0000365": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/MMO_0000367": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/MMO_0000508": "Multiple_Dictionaries:http://www.thefreedictionary.com/"
+        },
+        "Oxford": {
+          "http://purl.obolibrary.org/obo/MMO_0000255": "Oxford:The_Online_Compact_Oxford_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000286": "Oxford:The_Online_Compact_Oxford_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000454": "Oxford:The_Online_Compact_Oxford_English_Dictionary",
+          "http://purl.obolibrary.org/obo/MMO_0000455": "Oxford:The_Online_Compact_Oxford_English_Dictionary"
+        },
+        "PGA": {
+          "http://purl.obolibrary.org/obo/MMO_0000114": "PGA:Cardiac_protocol"
+        },
+        "RNA-seqlopedia": {
+          "http://purl.obolibrary.org/obo/MMO_0000659": "RNA-seqlopedia:https://rnaseq.uoregon.edu/"
+        },
+        "Regence": {
+          "http://purl.obolibrary.org/obo/MMO_0000074": "Regence:http://blue.regence.com"
+        },
+        "Saunders": {
+          "http://purl.obolibrary.org/obo/MMO_0000030": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000128": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000166": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000270": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000271": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000323": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000391": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000429": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000430": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000437": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000439": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000440": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000443": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000465": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000472": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000479": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000507": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000509": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/MMO_0000641": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed"
+        },
+        "Scitable": {
+          "http://purl.obolibrary.org/obo/MMO_0000642": "Scitable:https://www.nature.com/scitable/topicpage/translation-dna-to-mrna-to-protein-393"
+        },
+        "Segen": {
+          "http://purl.obolibrary.org/obo/MMO_0000534": "Segen:Segens_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/MMO_0000535": "Segen:Segens_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/MMO_0000536": "Segen:Segens_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/MMO_0000537": "Segen:Segens_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/MMO_0000641": "Segen:Segens_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/MMO_0000645": "Segen:Segens_Medical_Dictionary_2012"
+        },
+        "Springer_Protocols": {
+          "http://purl.obolibrary.org/obo/MMO_0000364": "Springer_Protocols:http://www.springerprotocols.com/Abstract/doi/10.1385/1-59259-366-6:323",
+          "http://purl.obolibrary.org/obo/MMO_0000365": "Springer_Protocols:http://www.springerprotocols.com/Abstract/doi/10.1385/1-59259-366-6:323",
+          "http://purl.obolibrary.org/obo/MMO_0000367": "Springer_Protocols:http://www.springerprotocols.com/Abstract/doi/10.1385/1-59259-366-6:323"
+        },
+        "TopEndSports": {
+          "http://purl.obolibrary.org/obo/MMO_0000080": "TopEndSports:http://www.topendsports.com"
+        },
+        "Web_Document": {
+          "http://purl.obolibrary.org/obo/MMO_0000638": "Web_Document:https://people.rit.edu/lffeee/pressure_flow.pdf"
+        },
+        "Web_article": {
+          "http://purl.obolibrary.org/obo/MMO_0000301": "Web_article:http://www.springerlink.com/content/j8r4800u137n37gw/"
+        },
+        "Website": {
+          "http://purl.obolibrary.org/obo/MMO_0000088": "Website:http://www.livestrong.com",
+          "http://purl.obolibrary.org/obo/MMO_0000110": "Website:http://www.answers.com/",
+          "http://purl.obolibrary.org/obo/MMO_0000111": "Website:http://www.answers.com/",
+          "http://purl.obolibrary.org/obo/MMO_0000169": "Website:https://labtestsonline.org/tests/chemistry-panels",
+          "http://purl.obolibrary.org/obo/MMO_0000210": "Website:http://www.vocabulary.com/dictionary/measuring_stick#word=measuring%20stick",
+          "http://purl.obolibrary.org/obo/MMO_0000220": "Website:http://www.answers.com/",
+          "http://purl.obolibrary.org/obo/MMO_0000221": "Website:http://www.answers.com/",
+          "http://purl.obolibrary.org/obo/MMO_0000226": "Website:https://www.beckmancoulter.com/",
+          "http://purl.obolibrary.org/obo/MMO_0000249": "Website:http://www.practical-haemostasis.com/Platelets/platelet_function_testing_lta.html",
+          "http://purl.obolibrary.org/obo/MMO_0000258": "Website:http://www.sandiegoinstruments.com",
+          "http://purl.obolibrary.org/obo/MMO_0000292": "Website:http://www.dddmag.com/content/glossary-drug-discovery-and-development-terms#p",
+          "http://purl.obolibrary.org/obo/MMO_0000296": "Website:http://www.ncbi.nlm.nih.gov/books/NBK5221/",
+          "http://purl.obolibrary.org/obo/MMO_0000297": "Website:http://www.ncbi.nlm.nih.gov/books/NBK5221/",
+          "http://purl.obolibrary.org/obo/MMO_0000301": "Website:http://psychology.wikia.com/wiki/Shuttle_boxes",
+          "http://purl.obolibrary.org/obo/MMO_0000302": "Website:http://users.ipfw.edu/abbott/314/Avoidance.html",
+          "http://purl.obolibrary.org/obo/MMO_0000341": "Website:http://www.adinstruments.com/solutions/research/applications/wire-myography#overview",
+          "http://purl.obolibrary.org/obo/MMO_0000362": "Website:http://www.panlab.com/panlabWeb/Hardware/php/displayHard.php?nameHard=TREADMILL",
+          "http://purl.obolibrary.org/obo/MMO_0000363": "Website:http://www.medterms.com/script/main/art.asp?articlekey=24486",
+          "http://purl.obolibrary.org/obo/MMO_0000379": "Website:http://www.files.chem.vt.edu/chem-ed/spec/atomic/aa.html",
+          "http://purl.obolibrary.org/obo/MMO_0000380": "Website:http://www.files.chem.vt.edu/chem-ed/spec/atomic/aa.html",
+          "http://purl.obolibrary.org/obo/MMO_0000382": "Website:http://www.panlab.com/panlabWeb/Hardware/php/displayHard.php?nameHard=TREADMILL",
+          "http://purl.obolibrary.org/obo/MMO_0000384": "Website:http://orthoinfo.aaos.org/topic.cfm?topic=a00413",
+          "http://purl.obolibrary.org/obo/MMO_0000385": "Website:http://orthoinfo.aaos.org/topic.cfm?topic=a00413",
+          "http://purl.obolibrary.org/obo/MMO_0000394": "Website:http://www.chemguide.co.uk/analysis/chromatography/hplc.html",
+          "http://purl.obolibrary.org/obo/MMO_0000395": "Website:http://www.dyets.com/blender.html",
+          "http://purl.obolibrary.org/obo/MMO_0000397": "Website:http://www.instron.us/wa/acc_catalog/prod_list.aspx?cid=833&cname=3%20and%204%20Point%20Flexure%20Fixtures",
+          "http://purl.obolibrary.org/obo/MMO_0000398": "Website:http://www.instron.us/wa/acc_catalog/prod_list.aspx?cid=833&cname=3%20and%204%20Point%20Flexure%20Fixtures",
+          "http://purl.obolibrary.org/obo/MMO_0000399": "Website:http://www.instron.us/wa/applications/test_types/compression.aspx",
+          "http://purl.obolibrary.org/obo/MMO_0000404": "Website:http://orgchem.colorado.edu/Technique/Procedures/Columnchrom/Columnchrom.html",
+          "http://purl.obolibrary.org/obo/MMO_0000417": "Website:http://www.dissectingmicroscope.com/what-is-a-dissecting-microscope.html",
+          "http://purl.obolibrary.org/obo/MMO_0000418": "Website:http://www.dissectingmicroscope.com/what-is-a-dissecting-microscope.html",
+          "http://purl.obolibrary.org/obo/MMO_0000419": "Website:http://www.dissectingmicroscope.com/what-is-a-dissecting-microscope.html",
+          "http://purl.obolibrary.org/obo/MMO_0000420": "Website:http://www.dissectingmicroscope.com/what-is-a-dissecting-microscope.html",
+          "http://purl.obolibrary.org/obo/MMO_0000421": "Website:http://www.answers.com",
+          "http://purl.obolibrary.org/obo/MMO_0000422": "Website:http://www.answers.com",
+          "http://purl.obolibrary.org/obo/MMO_0000424": "Website:http://www.piercenet.com/browse.cfm?fldID=876562B0-5056-8A76-4E0C-B764EAB3A339",
+          "http://purl.obolibrary.org/obo/MMO_0000425": "Website:http://www.piercenet.com/browse.cfm?fldID=876562B0-5056-8A76-4E0C-B764EAB3A339",
+          "http://purl.obolibrary.org/obo/MMO_0000426": "Website:http://www.piercenet.com/browse.cfm?fldID=876562B0-5056-8A76-4E0C-B764EAB3A339",
+          "http://purl.obolibrary.org/obo/MMO_0000436": "Website:http://www.usbio.net/item/A1309-50",
+          "http://purl.obolibrary.org/obo/MMO_0000438": "Website:http://www.piercenet.com/product/immunodiffusion-plates",
+          "http://purl.obolibrary.org/obo/MMO_0000455": "Website:http://www.new.mmf.de/introduction.htm",
+          "http://purl.obolibrary.org/obo/MMO_0000460": "Website:www.bio.davidson.edu/courses/genomics/method/realtimepcr.html",
+          "http://purl.obolibrary.org/obo/MMO_0000468": "Website:http://chemwiki.ucdavis.edu/Analytical_Chemistry/Instrumental_Analysis/Chromatography/Chromatographic_Columns",
+          "http://purl.obolibrary.org/obo/MMO_0000469": "Website:http://chemwiki.ucdavis.edu/Analytical_Chemistry/Instrumental_Analysis/Chromatography/Gas_Chromatography",
+          "http://purl.obolibrary.org/obo/MMO_0000470": "Website:http://chemwiki.ucdavis.edu/Analytical_Chemistry/Instrumental_Analysis/Chromatography/Gas_Chromatography",
+          "http://purl.obolibrary.org/obo/MMO_0000471": "Website:http://chemwiki.ucdavis.edu/Analytical_Chemistry/Instrumental_Analysis/Chromatography/Gas_Chromatography",
+          "http://purl.obolibrary.org/obo/MMO_0000493": "Website:http://www.vocabulary.com/dictionary/measuring_stick#word=measuring%20stick",
+          "http://purl.obolibrary.org/obo/MMO_0000504": "Website:http://www.fpnotebook.com/Urology/Lab/SlfslcylcAcd.htm",
+          "http://purl.obolibrary.org/obo/MMO_0000508": "Website:http://www.hitachi-aloka.co.jp/english/products/animal/lct200/index.html",
+          "http://purl.obolibrary.org/obo/MMO_0000511": "Website:http://www.pharmacelsus.de/metabolic_cage/",
+          "http://purl.obolibrary.org/obo/MMO_0000535": "Website:http://orgchem.colorado.edu/Technique/Procedures/Columnchrom/Columnchrom.html",
+          "http://purl.obolibrary.org/obo/MMO_0000536": "Website:http://chemwiki.ucdavis.edu/Analytical_Chemistry/Instrumental_Analysis/Chromatography/Gas_Chromatography",
+          "http://purl.obolibrary.org/obo/MMO_0000539": "Website:http://webmedia.unmc.edu/alliedhealth/CLS/CLS414%2009/Albumin%2009.pdf",
+          "http://purl.obolibrary.org/obo/MMO_0000558": "Website:http://www.dojindo.com/store/p/205-Total-Glutathione-Quantification-Kit.html",
+          "http://purl.obolibrary.org/obo/MMO_0000571": "Website:https://www.ncbi.nlm.nih.gov/books/NBK5223/",
+          "http://purl.obolibrary.org/obo/MMO_0000572": "Website:https://www.ncbi.nlm.nih.gov/books/NBK5223/",
+          "http://purl.obolibrary.org/obo/MMO_0000573": "Website:https://www.ncbi.nlm.nih.gov/books/NBK5223/",
+          "http://purl.obolibrary.org/obo/MMO_0000575": "Website:http://mathworld.wolfram.com/Computation.html",
+          "http://purl.obolibrary.org/obo/MMO_0000584": "Website:https://www.inorganicventures.com/ashing-sample-preparation-procedures",
+          "http://purl.obolibrary.org/obo/MMO_0000585": "Website:https://www.inorganicventures.com/ashing-sample-preparation-procedures",
+          "http://purl.obolibrary.org/obo/MMO_0000590": "Website:https://www.stoeltingco.com/parallel-rod-floor-apparatus.html",
+          "http://purl.obolibrary.org/obo/MMO_0000603": "Website:https://mazeengineers.com/portfolio/puzzle-box/",
+          "http://purl.obolibrary.org/obo/MMO_0000605": "Website:http://med.stanford.edu/sbfnl/services/bm/si/three-chamber.html",
+          "http://purl.obolibrary.org/obo/MMO_0000623": "Website:http://www.courage-khazaka.de/index.php/en/products/scientific/139-tewameter",
+          "http://purl.obolibrary.org/obo/MMO_0000627": "Website:http://www.cerebralmechanics.com/products.html",
+          "http://purl.obolibrary.org/obo/MMO_0000629": "Website:https://www.sinobiological.com/Cytokines-information-cytokine.html",
+          "http://purl.obolibrary.org/obo/MMO_0000631": "Website:https://labtestsonline.org/tests/chemistry-panels",
+          "http://purl.obolibrary.org/obo/MMO_0000632": "Website:https://labtestsonline.org/tests/chemistry-panels",
+          "http://purl.obolibrary.org/obo/MMO_0000633": "Website:https://www.thoracic.org/professionals/clinical-resources/critical-care/clinical-education/critical-care-procedures/bronchoalveolar-lavage.php",
+          "http://purl.obolibrary.org/obo/MMO_0000646": "Website:https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/dot-blot",
+          "http://purl.obolibrary.org/obo/MMO_0000651": "Website:https://www.thermofisher.com/us/en/home/references/ambion-tech-support/ribonuclease-protection-assays/general-articles/the-basics-what-is-a-nuclease-protection-assay.html",
+          "http://purl.obolibrary.org/obo/MMO_0000652": "Website:https://www.thermofisher.com/us/en/home/references/ambion-tech-support/ribonuclease-protection-assays/general-articles/the-basics-what-is-a-nuclease-protection-assay.html",
+          "http://purl.obolibrary.org/obo/MMO_0000654": "Website:https://www.nationaldiagnostics.com/electrophoresis/article/primer-extension",
+          "http://purl.obolibrary.org/obo/MMO_0000663": "Website:https://www.proteinatlas.org/learn/method/immunoelectron+microscopy",
+          "http://purl.obolibrary.org/obo/MMO_0000667": "Website:https://medicine.yale.edu/pathology/ypts/tissuemicroarrayfacility/index.aspx"
+        },
+        "Webster": {
+          "http://purl.obolibrary.org/obo/MMO_0000405": "Webster:Random_House_Kernerman_Websters_College_Dictionary_2010",
+          "http://purl.obolibrary.org/obo/MMO_0000427": "Webster:Random_House_Kernerman_Websters_College_Dictionary_2010",
+          "http://purl.obolibrary.org/obo/MMO_0000428": "Webster:Random_House_Kernerman_Websters_College_Dictionary_2010",
+          "http://purl.obolibrary.org/obo/MMO_0000443": "Webster:Random_House_Kernerman_Websters_College_Dictionary_2010"
+        },
+        "WordNet_3_0": {
+          "http://purl.obolibrary.org/obo/MMO_0000404": "WordNet_3_0:http://www.onelook.com/?w=column&ls=a"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "XX": {
+          "http://purl.obolibrary.org/obo/MMO_0000075": "XX:<new dbxref>"
+        }
+      }
+    },
+    "version": "http://purl.obolibrary.org/obo/mmo/2.39/mmo.owl",
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/MMO_0000642": [
+          "efo:EFO_0001458"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000648": [
+          "efo:EFO_0002768"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000655": [
+          "efo:EFO_0002943"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000659": [
+          "efo:EFO_0008896",
+          "efo:EFO_0002770"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000660": [
+          "efo:EFO_0002941"
+        ],
+        "http://purl.obolibrary.org/obo/MMO_0000672": [
+          "efo:EFO_0000561"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

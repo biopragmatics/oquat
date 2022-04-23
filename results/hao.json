@@ -1,0 +1,31 @@
+{
+  "http://purl.obolibrary.org/obo/hao.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/hao.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/HAO_0000569": [
+          "DOI:10.108/00222930701579732"
+        ]
+      },
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/hao/2021-03-05/hao.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

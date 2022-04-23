@@ -1,0 +1,31 @@
+{
+  "http://purl.obolibrary.org/obo/nbo.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/nbo.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "PMID": {
+          "http://purl.obolibrary.org/obo/NBO_0000043": "PMID:29327315"
+        }
+      },
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/nbo/releases/2021-02-15/nbo.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

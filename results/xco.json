@@ -1,0 +1,1582 @@
+{
+  "http://purl.obolibrary.org/obo/xco.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/xco.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/XCO_0000009": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000010": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000012": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000014": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000015": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000017": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000018": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000022": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000024": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000025": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000029": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000030": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000031": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000032": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000039": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Ionizing_radiation"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000040": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Gamma_ray"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000041": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Ionizing_radiation"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000042": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000043": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000044": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Non-ionizing_radiation"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000045": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000046": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000056": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000062": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000063": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000074": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Caffeine"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000083": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000086": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000091": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Steroid"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000092": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Estradiol"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000095": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000096": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000097": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000098": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000101": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000112": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000113": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000114": [
+          "RGD:MS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000119": [
+          "Wikipedia:http://en.eikipedia.org/wiki/"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000120": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000123": [
+          "Wikipedia:http://en.eikipedia.org/wiki/"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000124": [
+          "Wikipedia:http://en.eikipedia.org/wiki/"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000130": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Ketamine"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000131": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Xylazine"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000132": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Acepromazine"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000133": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000134": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Methacholine"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000138": [
+          "RGD:SL"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000142": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Sodium_nitroprusside"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000143": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Acetylcholine"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000145": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Phenylephrine"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000147": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Saline_%28medicine%29#Normal"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000148": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Saline_%28medicine%29#Normal"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000152": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000153": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000156": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Saline_%28medicine%29"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000158": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000165": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Surgery"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000166": [
+          "RGD:JRS",
+          "RGD:MRD"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000167": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000169": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000170": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000171": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000177": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Thrombin"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000178": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Thapsigargin"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000179": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Ionizing_radiation",
+          "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000180": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Ultraviolet",
+          "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000184": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Calcium"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000185": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Calcium"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000187": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Trimethaphan_camsylate"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000188": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Darodipine"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000192": [
+          "Wikipedia:http://en.wikipedia.org/wiki/11-Deoxycorticosterone"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000196": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Glibenclamide"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000200": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Alpha-Ketoisocaproic_acid"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000208": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Acetylaminofluorene"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000215": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Saline_%28medicine%29#Normal"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000224": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Ruthenium_red"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000225": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Potassium_channel"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000226": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Apamin"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000227": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Charybdotoxin"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000241": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Streptozotocin"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000242": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Alloxan"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000247": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000252": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Tolbutamide"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000256": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Isoprenaline#Chemistry"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000268": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Balloon_angioplasty"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000270": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Captopril"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000272": [
+          "Wikipedia:http://en.wikipedia.org/wiki/4-Hydroxy-TEMPO"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000273": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Carrageenan"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000279": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Terpene"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000280": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Squalene"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000281": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Collagen"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000282": [
+          "Wikipedia:http://en.wikipedia.org/wiki/CD90"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000293": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Technetium_%2899mTc%29_sestamibi"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000294": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Estrogen"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000295": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Diethylstilbestrol"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000318": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Surgery"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000320": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Hexamethonium"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000321": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Hexamethonium"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000322": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Hexamethonium"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000328": [
+          "Wikipedia:http://en.wikipedia.org/wiki/11-Deoxycorticosterone"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000329": [
+          "Wikipedia:http://en.wikipedia.org/wiki/11-Deoxycorticosterone"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000330": [
+          "Wikipedia:http://en.wikipedia.org/wiki/11-Deoxycorticosterone"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000331": [
+          "Wikipedia:http://en.wikipedia.org/wiki/RU28362"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000332": [
+          "Wikipedia:http://en.wikipedia.org/wiki/RU28362"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000333": [
+          "Wikipedia:http://en.wikipedia.org/wiki/RU28362"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000334": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Adrenal_gland"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000335": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Adrenal_gland"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000336": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Adrenergic_receptors"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000338": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Nanoparticle"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000339": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Nanoparticle",
+          "Wikipedia:http://en.wikipedia.org/wiki/Titanium_dioxide"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000343": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000344": [
+          "PubChem_Compound:CID_13157",
+          "Wikipedia:http://en.wikipedia.org/wiki/Propyl",
+          "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000345": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Ethyl_group",
+          "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000346": [
+          "Wikipedia:http://en.wikipedia.org/wiki/N-Methyl-N-nitrosourea",
+          "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea",
+          "Wikipedia:http://en.wikipedia.org/wiki/Methyl_group"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000348": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Middle_Cerebral_Artery"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000350": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Streptococcus"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000351": [
+          "Wikipedia:http://en.wikipedia.org/wiki/4-Nitroquinoline_1-oxide",
+          "Wikipedia:http://en.wikipedia.org/wiki/Quinoline"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000354": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Methylnitronitrosoguanidine"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000355": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Methylnitronitrosoguanidine"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000359": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Aminohippuric_acid"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000368": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000370": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Trichinella_spiralis"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000371": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Trichinella_spiralis"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000372": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Dexamethasone"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000382": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Captopril"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000383": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Losartan"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000384": [
+          "Wikipedia:http://en.wikipedia.org/wiki/TEMPOL"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000390": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Antimetabolite"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000391": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Bromodeoxyuridine"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000392": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Nucleotide"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000393": [
+          "Wikipedia:http://en.wikipedia.org/wiki/1,2-dimethylhydrazine"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000395": [
+          "Wikipedia:http://en.wikipedia.org/wiki/4-Nitroquinoline_1-oxide"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000397": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Bisphenol_A"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000398": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Cisplatin"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000402": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Habituation"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000404": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Bisphenol_A"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000405": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Cisplatin"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000406": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Bisphenol_A"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000408": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Metformin"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000409": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Metformin"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000410": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Metformin"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000423": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Thymoquinone"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000424": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Benfotiamine"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000425": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Lactoferrin"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000426": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Pyrazole"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000427": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Lycopene"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000428": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Fructose"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000429": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Fructose"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000436": [
+          "PubChem_Compound:CID_13157",
+          "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000437": [
+          "PubChem_Compound:CID_13157",
+          "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000438": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Candesartan"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000441": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Acetylaminofluorene"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000442": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Acetylaminofluorene"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000443": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Dexamethasone"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000444": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Dexamethasone"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000445": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Phosphate_buffered_saline"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000451": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Herpes_simplex_virus"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000456": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Retinyl_palmitate"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000458": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Retinyl_palmitate"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000468": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Vitamin_A"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000469": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Retinoid"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000470": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Flavonoid"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000473": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Naringenin"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000474": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Alendronic_acid"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000476": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Streptococcus_pneumoniae"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000477": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Streptococcus_pneumoniae"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000478": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Streptococcus_pneumoniae"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000479": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Haemophilus_influenzae"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000480": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Haemophilus_influenzae"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000481": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Haemophilus_influenzae"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000484": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Ceftriaxone"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000485": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000486": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000487": [
+          "RGD:JRS"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000507": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Carprofen"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000511": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Ester"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000512": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Teratology"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000513": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Dibutyl_phthalate"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000514": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Metoprolol"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000515": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Metoprolol"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000516": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Metoprolol"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000520": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Neuromodulation_(medicine)"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000521": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Neurostimulation"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000522": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Neurostimulation",
+          "Wikipedia:https://en.wikipedia.org/wiki/Common_peroneal_nerve"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000524": [
+          "Wikipedia:https://en.wikipedia.org/wiki/ACE_inhibitor"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000525": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Benazepril"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000532": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Protein_synthesis_inhibitor"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000533": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Puromycin"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000534": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Sunitinib"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000536": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Angiotensin_II_receptor_blocker"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000537": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Olmesartan"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000538": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Temocapril"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000539": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Doxorubicin",
+          "DrugBank:https://www.drugbank.ca/drugs/DB00997"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000540": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Delapril"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000541": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Bosentan"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000542": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Enalapril"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000543": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Vitamin_D"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000544": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Ergocalciferol"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000545": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Cholecalciferol"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000546": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Analog"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000547": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Paricalcitol"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000548": [
+          "DrugBank:https://www.drugbank.ca/drugs/DB00178"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000549": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Anterior_interventricular_branch_of_left_coronary_artery"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000550": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Reserpine",
+          "DrugBank:https://www.drugbank.ca/drugs/DB00206"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000551": [
+          "DrugBank:https://www.drugbank.ca/drugs/DB01275"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000552": [
+          "DrugBank:https://www.drugbank.ca/drugs/DB00999"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000553": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Everolimus"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000557": [
+          "Drugbank:https://www.drugbank.ca/drugs/DB01296"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000559": [
+          "MESH:https://meshb.nlm.nih.gov/record/ui?ui=D008550"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000563": [
+          "Medline Plus:http\\://www.nlm.nih.gov/medlineplus/"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000564": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Meclofenamic_acid"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000565": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Ipragliflozin"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000575": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Meropenem"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000587": [
+          "PMID:PMID:25312437"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000588": [
+          "Drugbank:https://www.drugbank.ca/drugs/DB00790"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000603": [
+          "Drugbank:https://www.drugbank.ca/drugs/DB01094"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000604": [
+          "Drugbank:https://www.drugbank.ca/drugs/DB06692"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000605": [
+          "CHEBI:CHEBI:2504"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000607": [
+          "CHEBI:CHEBI: 15366"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000608": [
+          "CHEBI:CHEBI:73224"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000610": [
+          "CHEBI:CHEBI:17303"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000611": [
+          "MESH:https://meshb.nlm.nih.gov/record/ui?ui=D009543"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000612": [
+          "PMID:PMID: 7609754"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000614": [
+          "MESH:https://www.ncbi.nlm.nih.gov/mesh/68020889"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000616": [
+          "MESH:https://www.ncbi.nlm.nih.gov/mesh?Db=mesh&Cmd=DetailsSearch&Term=%22Verapamil%22%5BMeSH+Terms%5D"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000617": [
+          "MESH:https://www.ncbi.nlm.nih.gov/mesh/68011802"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000618": [
+          "Drugbank:https://www.drugbank.ca/categories/DBCAT000600"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000620": [
+          "NCI Thesaurus:https://ncit-stage.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C930&ns=ncit"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000624": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Thiobutabarbital"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000627": [
+          "DRUGBANK:https://www.drugbank.ca/drugs/DB00421"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000631": [
+          "DRUGBANK:https://www.drugbank.ca/drugs/DB00572"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000633": [
+          "wikipedia:https://en.wikipedia.org/wiki/Cortisol"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000635": [
+          "PMID:PMID:15894899"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000636": [
+          "CHEBI:CHEBI:35705"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000637": [
+          "CHEBI:CHEBI:4031"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000638": [
+          "CHEBI:CHEBI:70773"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000639": [
+          "PMID:PMID:27671317"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000642": [
+          "MESH:https://www.ncbi.nlm.nih.gov/mesh/68016686"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000647": [
+          "drugbank:https://www.drugbank.ca/drugs/DB04883"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000677": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Enalapril"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "Medline Plus": {
+          "http://purl.obolibrary.org/obo/XCO_0000563": "Medline Plus:http\\://www.nlm.nih.gov/medlineplus/"
+        },
+        "NCBI_Gene": {
+          "http://purl.obolibrary.org/obo/XCO_0000195": "NCBI_Gene:4340"
+        },
+        "NCI Thesaurus": {
+          "http://purl.obolibrary.org/obo/XCO_0000620": "NCI Thesaurus:https://ncit-stage.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C930&ns=ncit"
+        },
+        "PMID": {
+          "http://purl.obolibrary.org/obo/XCO_0000000": "PMID:22654893",
+          "http://purl.obolibrary.org/obo/XCO_0000190": "PMID:18793332",
+          "http://purl.obolibrary.org/obo/XCO_0000191": "PMID:18793332",
+          "http://purl.obolibrary.org/obo/XCO_0000206": "PMID:8910949",
+          "http://purl.obolibrary.org/obo/XCO_0000231": "PMID:7559400",
+          "http://purl.obolibrary.org/obo/XCO_0000238": "PMID:19720792",
+          "http://purl.obolibrary.org/obo/XCO_0000367": "PMID:15687265",
+          "http://purl.obolibrary.org/obo/XCO_0000369": "PMID:15128826",
+          "http://purl.obolibrary.org/obo/XCO_0000430": "PMID:24145092",
+          "http://purl.obolibrary.org/obo/XCO_0000460": "PMID:7019400",
+          "http://purl.obolibrary.org/obo/XCO_0000461": "PMID:24739093",
+          "http://purl.obolibrary.org/obo/XCO_0000480": "PMID:15968074",
+          "http://purl.obolibrary.org/obo/XCO_0000481": "PMID:15968074",
+          "http://purl.obolibrary.org/obo/XCO_0000497": "PMID:22108613",
+          "http://purl.obolibrary.org/obo/XCO_0000498": "PMID:22108613",
+          "http://purl.obolibrary.org/obo/XCO_0000499": "PMID:22108613",
+          "http://purl.obolibrary.org/obo/XCO_0000500": "PMID:22108613",
+          "http://purl.obolibrary.org/obo/XCO_0000501": "PMID:22108613",
+          "http://purl.obolibrary.org/obo/XCO_0000504": "PMID:27188340",
+          "http://purl.obolibrary.org/obo/XCO_0000510": "PMID:27188340",
+          "http://purl.obolibrary.org/obo/XCO_0000518": "PMID:26904753",
+          "http://purl.obolibrary.org/obo/XCO_0000519": "PMID:26904753",
+          "http://purl.obolibrary.org/obo/XCO_0000544": "PMID:22552031",
+          "http://purl.obolibrary.org/obo/XCO_0000545": "PMID:22552031",
+          "http://purl.obolibrary.org/obo/XCO_0000550": "PMID:7905859",
+          "http://purl.obolibrary.org/obo/XCO_0000587": "PMID:PMID:25312437",
+          "http://purl.obolibrary.org/obo/XCO_0000606": "PMID:25363711",
+          "http://purl.obolibrary.org/obo/XCO_0000609": "PMID:24388923",
+          "http://purl.obolibrary.org/obo/XCO_0000612": "PMID:PMID: 7609754",
+          "http://purl.obolibrary.org/obo/XCO_0000635": "PMID:PMID:15894899",
+          "http://purl.obolibrary.org/obo/XCO_0000639": "PMID:PMID:27671317",
+          "http://purl.obolibrary.org/obo/XCO_0000670": "PMID:20620991",
+          "http://purl.obolibrary.org/obo/XCO_0000676": "PMID:1913683"
+        },
+        "PubChem_Compound": {
+          "http://purl.obolibrary.org/obo/XCO_0000344": "PubChem_Compound:CID_13157",
+          "http://purl.obolibrary.org/obo/XCO_0000436": "PubChem_Compound:CID_13157",
+          "http://purl.obolibrary.org/obo/XCO_0000437": "PubChem_Compound:CID_13157"
+        },
+        "UniProtKB": {
+          "http://purl.obolibrary.org/obo/XCO_0000290": "UniProtKB:P02689",
+          "http://purl.obolibrary.org/obo/XCO_0000291": "UniProtKB:P02689"
+        },
+        "Wikipedia": {
+          "http://purl.obolibrary.org/obo/XCO_0000039": "Wikipedia:http://en.wikipedia.org/wiki/Ionizing_radiation",
+          "http://purl.obolibrary.org/obo/XCO_0000040": "Wikipedia:http://en.wikipedia.org/wiki/Gamma_ray",
+          "http://purl.obolibrary.org/obo/XCO_0000041": "Wikipedia:http://en.wikipedia.org/wiki/Ionizing_radiation",
+          "http://purl.obolibrary.org/obo/XCO_0000042": "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation",
+          "http://purl.obolibrary.org/obo/XCO_0000043": "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation",
+          "http://purl.obolibrary.org/obo/XCO_0000044": "Wikipedia:http://en.wikipedia.org/wiki/Non-ionizing_radiation",
+          "http://purl.obolibrary.org/obo/XCO_0000045": "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation",
+          "http://purl.obolibrary.org/obo/XCO_0000046": "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation",
+          "http://purl.obolibrary.org/obo/XCO_0000074": "Wikipedia:http://en.wikipedia.org/wiki/Caffeine",
+          "http://purl.obolibrary.org/obo/XCO_0000091": "Wikipedia:http://en.wikipedia.org/wiki/Steroid",
+          "http://purl.obolibrary.org/obo/XCO_0000092": "Wikipedia:http://en.wikipedia.org/wiki/Estradiol",
+          "http://purl.obolibrary.org/obo/XCO_0000119": "Wikipedia:http://en.eikipedia.org/wiki/",
+          "http://purl.obolibrary.org/obo/XCO_0000123": "Wikipedia:http://en.eikipedia.org/wiki/",
+          "http://purl.obolibrary.org/obo/XCO_0000124": "Wikipedia:http://en.eikipedia.org/wiki/",
+          "http://purl.obolibrary.org/obo/XCO_0000130": "Wikipedia:http://en.wikipedia.org/wiki/Ketamine",
+          "http://purl.obolibrary.org/obo/XCO_0000131": "Wikipedia:http://en.wikipedia.org/wiki/Xylazine",
+          "http://purl.obolibrary.org/obo/XCO_0000132": "Wikipedia:http://en.wikipedia.org/wiki/Acepromazine",
+          "http://purl.obolibrary.org/obo/XCO_0000134": "Wikipedia:http://en.wikipedia.org/wiki/Methacholine",
+          "http://purl.obolibrary.org/obo/XCO_0000142": "Wikipedia:http://en.wikipedia.org/wiki/Sodium_nitroprusside",
+          "http://purl.obolibrary.org/obo/XCO_0000143": "Wikipedia:http://en.wikipedia.org/wiki/Acetylcholine",
+          "http://purl.obolibrary.org/obo/XCO_0000145": "Wikipedia:http://en.wikipedia.org/wiki/Phenylephrine",
+          "http://purl.obolibrary.org/obo/XCO_0000147": "Wikipedia:http://en.wikipedia.org/wiki/Saline_%28medicine%29#Normal",
+          "http://purl.obolibrary.org/obo/XCO_0000148": "Wikipedia:http://en.wikipedia.org/wiki/Saline_%28medicine%29#Normal",
+          "http://purl.obolibrary.org/obo/XCO_0000156": "Wikipedia:http://en.wikipedia.org/wiki/Saline_%28medicine%29",
+          "http://purl.obolibrary.org/obo/XCO_0000165": "Wikipedia:http://en.wikipedia.org/wiki/Surgery",
+          "http://purl.obolibrary.org/obo/XCO_0000177": "Wikipedia:http://en.wikipedia.org/wiki/Thrombin",
+          "http://purl.obolibrary.org/obo/XCO_0000178": "Wikipedia:http://en.wikipedia.org/wiki/Thapsigargin",
+          "http://purl.obolibrary.org/obo/XCO_0000179": "Wikipedia:http://en.wikipedia.org/wiki/Ionizing_radiation",
+          "http://purl.obolibrary.org/obo/XCO_0000180": "Wikipedia:http://en.wikipedia.org/wiki/Ultraviolet",
+          "http://purl.obolibrary.org/obo/XCO_0000184": "Wikipedia:http://en.wikipedia.org/wiki/Calcium",
+          "http://purl.obolibrary.org/obo/XCO_0000185": "Wikipedia:http://en.wikipedia.org/wiki/Calcium",
+          "http://purl.obolibrary.org/obo/XCO_0000187": "Wikipedia:http://en.wikipedia.org/wiki/Trimethaphan_camsylate",
+          "http://purl.obolibrary.org/obo/XCO_0000188": "Wikipedia:http://en.wikipedia.org/wiki/Darodipine",
+          "http://purl.obolibrary.org/obo/XCO_0000192": "Wikipedia:http://en.wikipedia.org/wiki/11-Deoxycorticosterone",
+          "http://purl.obolibrary.org/obo/XCO_0000196": "Wikipedia:http://en.wikipedia.org/wiki/Glibenclamide",
+          "http://purl.obolibrary.org/obo/XCO_0000200": "Wikipedia:http://en.wikipedia.org/wiki/Alpha-Ketoisocaproic_acid",
+          "http://purl.obolibrary.org/obo/XCO_0000208": "Wikipedia:http://en.wikipedia.org/wiki/Acetylaminofluorene",
+          "http://purl.obolibrary.org/obo/XCO_0000215": "Wikipedia:http://en.wikipedia.org/wiki/Saline_%28medicine%29#Normal",
+          "http://purl.obolibrary.org/obo/XCO_0000224": "Wikipedia:http://en.wikipedia.org/wiki/Ruthenium_red",
+          "http://purl.obolibrary.org/obo/XCO_0000225": "Wikipedia:http://en.wikipedia.org/wiki/Potassium_channel",
+          "http://purl.obolibrary.org/obo/XCO_0000226": "Wikipedia:http://en.wikipedia.org/wiki/Apamin",
+          "http://purl.obolibrary.org/obo/XCO_0000227": "Wikipedia:http://en.wikipedia.org/wiki/Charybdotoxin",
+          "http://purl.obolibrary.org/obo/XCO_0000241": "Wikipedia:http://en.wikipedia.org/wiki/Streptozotocin",
+          "http://purl.obolibrary.org/obo/XCO_0000242": "Wikipedia:http://en.wikipedia.org/wiki/Alloxan",
+          "http://purl.obolibrary.org/obo/XCO_0000252": "Wikipedia:http://en.wikipedia.org/wiki/Tolbutamide",
+          "http://purl.obolibrary.org/obo/XCO_0000256": "Wikipedia:http://en.wikipedia.org/wiki/Isoprenaline#Chemistry",
+          "http://purl.obolibrary.org/obo/XCO_0000268": "Wikipedia:http://en.wikipedia.org/wiki/Balloon_angioplasty",
+          "http://purl.obolibrary.org/obo/XCO_0000270": "Wikipedia:http://en.wikipedia.org/wiki/Captopril",
+          "http://purl.obolibrary.org/obo/XCO_0000272": "Wikipedia:http://en.wikipedia.org/wiki/4-Hydroxy-TEMPO",
+          "http://purl.obolibrary.org/obo/XCO_0000273": "Wikipedia:http://en.wikipedia.org/wiki/Carrageenan",
+          "http://purl.obolibrary.org/obo/XCO_0000279": "Wikipedia:http://en.wikipedia.org/wiki/Terpene",
+          "http://purl.obolibrary.org/obo/XCO_0000280": "Wikipedia:http://en.wikipedia.org/wiki/Squalene",
+          "http://purl.obolibrary.org/obo/XCO_0000281": "Wikipedia:http://en.wikipedia.org/wiki/Collagen",
+          "http://purl.obolibrary.org/obo/XCO_0000282": "Wikipedia:http://en.wikipedia.org/wiki/CD90",
+          "http://purl.obolibrary.org/obo/XCO_0000293": "Wikipedia:http://en.wikipedia.org/wiki/Technetium_%2899mTc%29_sestamibi",
+          "http://purl.obolibrary.org/obo/XCO_0000294": "Wikipedia:http://en.wikipedia.org/wiki/Estrogen",
+          "http://purl.obolibrary.org/obo/XCO_0000295": "Wikipedia:http://en.wikipedia.org/wiki/Diethylstilbestrol",
+          "http://purl.obolibrary.org/obo/XCO_0000318": "Wikipedia:http://en.wikipedia.org/wiki/Surgery",
+          "http://purl.obolibrary.org/obo/XCO_0000320": "Wikipedia:http://en.wikipedia.org/wiki/Hexamethonium",
+          "http://purl.obolibrary.org/obo/XCO_0000321": "Wikipedia:http://en.wikipedia.org/wiki/Hexamethonium",
+          "http://purl.obolibrary.org/obo/XCO_0000322": "Wikipedia:http://en.wikipedia.org/wiki/Hexamethonium",
+          "http://purl.obolibrary.org/obo/XCO_0000328": "Wikipedia:http://en.wikipedia.org/wiki/11-Deoxycorticosterone",
+          "http://purl.obolibrary.org/obo/XCO_0000329": "Wikipedia:http://en.wikipedia.org/wiki/11-Deoxycorticosterone",
+          "http://purl.obolibrary.org/obo/XCO_0000330": "Wikipedia:http://en.wikipedia.org/wiki/11-Deoxycorticosterone",
+          "http://purl.obolibrary.org/obo/XCO_0000331": "Wikipedia:http://en.wikipedia.org/wiki/RU28362",
+          "http://purl.obolibrary.org/obo/XCO_0000332": "Wikipedia:http://en.wikipedia.org/wiki/RU28362",
+          "http://purl.obolibrary.org/obo/XCO_0000333": "Wikipedia:http://en.wikipedia.org/wiki/RU28362",
+          "http://purl.obolibrary.org/obo/XCO_0000334": "Wikipedia:http://en.wikipedia.org/wiki/Adrenal_gland",
+          "http://purl.obolibrary.org/obo/XCO_0000335": "Wikipedia:http://en.wikipedia.org/wiki/Adrenal_gland",
+          "http://purl.obolibrary.org/obo/XCO_0000336": "Wikipedia:http://en.wikipedia.org/wiki/Adrenergic_receptors",
+          "http://purl.obolibrary.org/obo/XCO_0000338": "Wikipedia:http://en.wikipedia.org/wiki/Nanoparticle",
+          "http://purl.obolibrary.org/obo/XCO_0000339": "Wikipedia:http://en.wikipedia.org/wiki/Titanium_dioxide",
+          "http://purl.obolibrary.org/obo/XCO_0000343": "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea",
+          "http://purl.obolibrary.org/obo/XCO_0000344": "Wikipedia:http://en.wikipedia.org/wiki/Propyl",
+          "http://purl.obolibrary.org/obo/XCO_0000345": "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea",
+          "http://purl.obolibrary.org/obo/XCO_0000346": "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea",
+          "http://purl.obolibrary.org/obo/XCO_0000348": "Wikipedia:http://en.wikipedia.org/wiki/Middle_Cerebral_Artery",
+          "http://purl.obolibrary.org/obo/XCO_0000350": "Wikipedia:http://en.wikipedia.org/wiki/Streptococcus",
+          "http://purl.obolibrary.org/obo/XCO_0000351": "Wikipedia:http://en.wikipedia.org/wiki/Quinoline",
+          "http://purl.obolibrary.org/obo/XCO_0000354": "Wikipedia:http://en.wikipedia.org/wiki/Methylnitronitrosoguanidine",
+          "http://purl.obolibrary.org/obo/XCO_0000355": "Wikipedia:http://en.wikipedia.org/wiki/Methylnitronitrosoguanidine",
+          "http://purl.obolibrary.org/obo/XCO_0000359": "Wikipedia:http://en.wikipedia.org/wiki/Aminohippuric_acid",
+          "http://purl.obolibrary.org/obo/XCO_0000370": "Wikipedia:http://en.wikipedia.org/wiki/Trichinella_spiralis",
+          "http://purl.obolibrary.org/obo/XCO_0000371": "Wikipedia:http://en.wikipedia.org/wiki/Trichinella_spiralis",
+          "http://purl.obolibrary.org/obo/XCO_0000372": "Wikipedia:http://en.wikipedia.org/wiki/Dexamethasone",
+          "http://purl.obolibrary.org/obo/XCO_0000382": "Wikipedia:http://en.wikipedia.org/wiki/Captopril",
+          "http://purl.obolibrary.org/obo/XCO_0000383": "Wikipedia:http://en.wikipedia.org/wiki/Losartan",
+          "http://purl.obolibrary.org/obo/XCO_0000384": "Wikipedia:http://en.wikipedia.org/wiki/TEMPOL",
+          "http://purl.obolibrary.org/obo/XCO_0000390": "Wikipedia:http://en.wikipedia.org/wiki/Antimetabolite",
+          "http://purl.obolibrary.org/obo/XCO_0000391": "Wikipedia:http://en.wikipedia.org/wiki/Bromodeoxyuridine",
+          "http://purl.obolibrary.org/obo/XCO_0000392": "Wikipedia:http://en.wikipedia.org/wiki/Nucleotide",
+          "http://purl.obolibrary.org/obo/XCO_0000393": "Wikipedia:http://en.wikipedia.org/wiki/1,2-dimethylhydrazine",
+          "http://purl.obolibrary.org/obo/XCO_0000395": "Wikipedia:http://en.wikipedia.org/wiki/4-Nitroquinoline_1-oxide",
+          "http://purl.obolibrary.org/obo/XCO_0000397": "Wikipedia:http://en.wikipedia.org/wiki/Bisphenol_A",
+          "http://purl.obolibrary.org/obo/XCO_0000398": "Wikipedia:http://en.wikipedia.org/wiki/Cisplatin",
+          "http://purl.obolibrary.org/obo/XCO_0000402": "Wikipedia:http://en.wikipedia.org/wiki/Habituation",
+          "http://purl.obolibrary.org/obo/XCO_0000404": "Wikipedia:http://en.wikipedia.org/wiki/Bisphenol_A",
+          "http://purl.obolibrary.org/obo/XCO_0000405": "Wikipedia:http://en.wikipedia.org/wiki/Cisplatin",
+          "http://purl.obolibrary.org/obo/XCO_0000406": "Wikipedia:http://en.wikipedia.org/wiki/Bisphenol_A",
+          "http://purl.obolibrary.org/obo/XCO_0000408": "Wikipedia:http://en.wikipedia.org/wiki/Metformin",
+          "http://purl.obolibrary.org/obo/XCO_0000409": "Wikipedia:http://en.wikipedia.org/wiki/Metformin",
+          "http://purl.obolibrary.org/obo/XCO_0000410": "Wikipedia:http://en.wikipedia.org/wiki/Metformin",
+          "http://purl.obolibrary.org/obo/XCO_0000423": "Wikipedia:http://en.wikipedia.org/wiki/Thymoquinone",
+          "http://purl.obolibrary.org/obo/XCO_0000424": "Wikipedia:http://en.wikipedia.org/wiki/Benfotiamine",
+          "http://purl.obolibrary.org/obo/XCO_0000425": "Wikipedia:http://en.wikipedia.org/wiki/Lactoferrin",
+          "http://purl.obolibrary.org/obo/XCO_0000426": "Wikipedia:http://en.wikipedia.org/wiki/Pyrazole",
+          "http://purl.obolibrary.org/obo/XCO_0000427": "Wikipedia:http://en.wikipedia.org/wiki/Lycopene",
+          "http://purl.obolibrary.org/obo/XCO_0000428": "Wikipedia:http://en.wikipedia.org/wiki/Fructose",
+          "http://purl.obolibrary.org/obo/XCO_0000429": "Wikipedia:http://en.wikipedia.org/wiki/Fructose",
+          "http://purl.obolibrary.org/obo/XCO_0000436": "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea",
+          "http://purl.obolibrary.org/obo/XCO_0000437": "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea",
+          "http://purl.obolibrary.org/obo/XCO_0000438": "Wikipedia:http://en.wikipedia.org/wiki/Candesartan",
+          "http://purl.obolibrary.org/obo/XCO_0000441": "Wikipedia:http://en.wikipedia.org/wiki/Acetylaminofluorene",
+          "http://purl.obolibrary.org/obo/XCO_0000442": "Wikipedia:http://en.wikipedia.org/wiki/Acetylaminofluorene",
+          "http://purl.obolibrary.org/obo/XCO_0000443": "Wikipedia:http://en.wikipedia.org/wiki/Dexamethasone",
+          "http://purl.obolibrary.org/obo/XCO_0000444": "Wikipedia:http://en.wikipedia.org/wiki/Dexamethasone",
+          "http://purl.obolibrary.org/obo/XCO_0000445": "Wikipedia:http://en.wikipedia.org/wiki/Phosphate_buffered_saline",
+          "http://purl.obolibrary.org/obo/XCO_0000451": "Wikipedia:http://en.wikipedia.org/wiki/Herpes_simplex_virus",
+          "http://purl.obolibrary.org/obo/XCO_0000456": "Wikipedia:http://en.wikipedia.org/wiki/Retinyl_palmitate",
+          "http://purl.obolibrary.org/obo/XCO_0000458": "Wikipedia:http://en.wikipedia.org/wiki/Retinyl_palmitate",
+          "http://purl.obolibrary.org/obo/XCO_0000468": "Wikipedia:http://en.wikipedia.org/wiki/Vitamin_A",
+          "http://purl.obolibrary.org/obo/XCO_0000469": "Wikipedia:http://en.wikipedia.org/wiki/Retinoid",
+          "http://purl.obolibrary.org/obo/XCO_0000470": "Wikipedia:http://en.wikipedia.org/wiki/Flavonoid",
+          "http://purl.obolibrary.org/obo/XCO_0000473": "Wikipedia:http://en.wikipedia.org/wiki/Naringenin",
+          "http://purl.obolibrary.org/obo/XCO_0000474": "Wikipedia:http://en.wikipedia.org/wiki/Alendronic_acid",
+          "http://purl.obolibrary.org/obo/XCO_0000476": "Wikipedia:http://en.wikipedia.org/wiki/Streptococcus_pneumoniae",
+          "http://purl.obolibrary.org/obo/XCO_0000477": "Wikipedia:http://en.wikipedia.org/wiki/Streptococcus_pneumoniae",
+          "http://purl.obolibrary.org/obo/XCO_0000478": "Wikipedia:http://en.wikipedia.org/wiki/Streptococcus_pneumoniae",
+          "http://purl.obolibrary.org/obo/XCO_0000479": "Wikipedia:http://en.wikipedia.org/wiki/Haemophilus_influenzae",
+          "http://purl.obolibrary.org/obo/XCO_0000480": "Wikipedia:http://en.wikipedia.org/wiki/Haemophilus_influenzae",
+          "http://purl.obolibrary.org/obo/XCO_0000481": "Wikipedia:http://en.wikipedia.org/wiki/Haemophilus_influenzae",
+          "http://purl.obolibrary.org/obo/XCO_0000484": "Wikipedia:http://en.wikipedia.org/wiki/Ceftriaxone",
+          "http://purl.obolibrary.org/obo/XCO_0000507": "Wikipedia:https://en.wikipedia.org/wiki/Carprofen",
+          "http://purl.obolibrary.org/obo/XCO_0000511": "Wikipedia:https://en.wikipedia.org/wiki/Ester",
+          "http://purl.obolibrary.org/obo/XCO_0000512": "Wikipedia:https://en.wikipedia.org/wiki/Teratology",
+          "http://purl.obolibrary.org/obo/XCO_0000513": "Wikipedia:https://en.wikipedia.org/wiki/Dibutyl_phthalate",
+          "http://purl.obolibrary.org/obo/XCO_0000514": "Wikipedia:https://en.wikipedia.org/wiki/Metoprolol",
+          "http://purl.obolibrary.org/obo/XCO_0000515": "Wikipedia:https://en.wikipedia.org/wiki/Metoprolol",
+          "http://purl.obolibrary.org/obo/XCO_0000516": "Wikipedia:https://en.wikipedia.org/wiki/Metoprolol",
+          "http://purl.obolibrary.org/obo/XCO_0000520": "Wikipedia:https://en.wikipedia.org/wiki/Neuromodulation_(medicine)",
+          "http://purl.obolibrary.org/obo/XCO_0000521": "Wikipedia:https://en.wikipedia.org/wiki/Neurostimulation",
+          "http://purl.obolibrary.org/obo/XCO_0000522": "Wikipedia:https://en.wikipedia.org/wiki/Neurostimulation",
+          "http://purl.obolibrary.org/obo/XCO_0000524": "Wikipedia:https://en.wikipedia.org/wiki/ACE_inhibitor",
+          "http://purl.obolibrary.org/obo/XCO_0000525": "Wikipedia:https://en.wikipedia.org/wiki/Benazepril",
+          "http://purl.obolibrary.org/obo/XCO_0000532": "Wikipedia:https://en.wikipedia.org/wiki/Protein_synthesis_inhibitor",
+          "http://purl.obolibrary.org/obo/XCO_0000533": "Wikipedia:https://en.wikipedia.org/wiki/Puromycin",
+          "http://purl.obolibrary.org/obo/XCO_0000534": "Wikipedia:https://en.wikipedia.org/wiki/Sunitinib",
+          "http://purl.obolibrary.org/obo/XCO_0000536": "Wikipedia:https://en.wikipedia.org/wiki/Angiotensin_II_receptor_blocker",
+          "http://purl.obolibrary.org/obo/XCO_0000537": "Wikipedia:https://en.wikipedia.org/wiki/Olmesartan",
+          "http://purl.obolibrary.org/obo/XCO_0000538": "Wikipedia:https://en.wikipedia.org/wiki/Temocapril",
+          "http://purl.obolibrary.org/obo/XCO_0000539": "Wikipedia:https://en.wikipedia.org/wiki/Doxorubicin",
+          "http://purl.obolibrary.org/obo/XCO_0000540": "Wikipedia:https://en.wikipedia.org/wiki/Delapril",
+          "http://purl.obolibrary.org/obo/XCO_0000541": "Wikipedia:https://en.wikipedia.org/wiki/Bosentan",
+          "http://purl.obolibrary.org/obo/XCO_0000542": "Wikipedia:https://en.wikipedia.org/wiki/Enalapril",
+          "http://purl.obolibrary.org/obo/XCO_0000543": "Wikipedia:https://en.wikipedia.org/wiki/Vitamin_D",
+          "http://purl.obolibrary.org/obo/XCO_0000544": "Wikipedia:https://en.wikipedia.org/wiki/Ergocalciferol",
+          "http://purl.obolibrary.org/obo/XCO_0000545": "Wikipedia:https://en.wikipedia.org/wiki/Cholecalciferol",
+          "http://purl.obolibrary.org/obo/XCO_0000546": "Wikipedia:https://en.wikipedia.org/wiki/Analog",
+          "http://purl.obolibrary.org/obo/XCO_0000547": "Wikipedia:https://en.wikipedia.org/wiki/Paricalcitol",
+          "http://purl.obolibrary.org/obo/XCO_0000549": "Wikipedia:https://en.wikipedia.org/wiki/Anterior_interventricular_branch_of_left_coronary_artery",
+          "http://purl.obolibrary.org/obo/XCO_0000550": "Wikipedia:https://en.wikipedia.org/wiki/Reserpine",
+          "http://purl.obolibrary.org/obo/XCO_0000553": "Wikipedia:https://en.wikipedia.org/wiki/Everolimus",
+          "http://purl.obolibrary.org/obo/XCO_0000564": "Wikipedia:https://en.wikipedia.org/wiki/Meclofenamic_acid",
+          "http://purl.obolibrary.org/obo/XCO_0000565": "Wikipedia:https://en.wikipedia.org/wiki/Ipragliflozin",
+          "http://purl.obolibrary.org/obo/XCO_0000575": "Wikipedia:https://en.wikipedia.org/wiki/Meropenem",
+          "http://purl.obolibrary.org/obo/XCO_0000624": "Wikipedia:https://en.wikipedia.org/wiki/Thiobutabarbital",
+          "http://purl.obolibrary.org/obo/XCO_0000677": "Wikipedia:https://en.wikipedia.org/wiki/Enalapril"
+        },
+        "wikipedia": {
+          "http://purl.obolibrary.org/obo/XCO_0000633": "wikipedia:https://en.wikipedia.org/wiki/Cortisol"
+        }
+      },
+      "unknown_prefixes": {
+        "American_Heritage": {
+          "http://purl.obolibrary.org/obo/XCO_0000023": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/XCO_0000043": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000046": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000052": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000055": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000088": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/XCO_0000089": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/XCO_0000103": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/XCO_0000104": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/XCO_0000135": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000139": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000149": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/XCO_0000154": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/XCO_0000159": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000163": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000167": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000168": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000172": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000176": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000177": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000197": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000198": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000199": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000201": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000202": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000203": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000205": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000215": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/XCO_0000233": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000234": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000236": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000257": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000259": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/XCO_0000267": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000271": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000283": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000296": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000297": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000303": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000304": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000305": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000306": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000307": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000308": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000309": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000334": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000335": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000337": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/XCO_0000338": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/XCO_0000339": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000341": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/XCO_0000342": "American_Heritage:The_American_Heritage_Science_Dictionary_2005",
+          "http://purl.obolibrary.org/obo/XCO_0000356": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000357": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000361": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000362": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000363": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000364": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000365": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000375": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000392": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000413": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000416": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000432": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000433": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000448": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000453": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000466": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000488": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000489": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000491": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007",
+          "http://purl.obolibrary.org/obo/XCO_0000492": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000493": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000502": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--5th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000503": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--5th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000526": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--5th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000677": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed"
+        },
+        "Cambridge": {
+          "http://purl.obolibrary.org/obo/XCO_0000318": "Cambridge:Cambridge_Online_Dictionary_of_American_English"
+        },
+        "Collins": {
+          "http://purl.obolibrary.org/obo/XCO_0000027": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000053": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000054": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000088": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000089": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000117": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000118": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000258": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000259": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000261": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000318": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000338": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000341": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000342": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000349": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000350": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000362": "Collins:Collins_Online_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000490": "Collins:Collins_Online_English_Dictionary"
+        },
+        "Dorland": {
+          "http://purl.obolibrary.org/obo/XCO_0000001": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000002": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000009": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000011": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000013": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000019": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000020": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000023": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000027": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000028": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000038": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000039": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000040": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000041": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000044": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000045": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000048": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000049": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000050": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000051": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000052": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000055": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000058": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000059": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000060": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000065": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000066": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000070": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000074": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000076": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000077": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000080": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000081": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000084": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000089": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000094": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000099": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000102": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000103": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000104": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000105": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000106": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000107": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000108": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000109": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000110": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000115": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000116": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000117": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000118": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000122": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000125": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000126": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000127": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000135": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000146": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000149": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000150": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000154": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000155": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000160": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000164": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000168": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000193": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000204": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000229": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000230": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000240": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000245": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000253": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000254": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000258": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000259": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000260": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000261": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000262": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000264": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000265": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000266": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000269": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000281": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000285": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000292": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000293": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000295": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000301": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000302": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000311": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000312": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000313": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000315": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000316": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000317": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000327": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000328": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000329": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000336": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000340": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000349": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000350": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000355": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000360": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000365": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000373": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000374": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000375": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000376": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000377": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000378": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000381": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000382": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000383": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000384": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000386": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000387": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000388": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000394": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000405": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000406": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000409": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000417": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000418": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000419": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000421": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000429": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000431": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000432": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000433": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000437": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000439": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000441": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000444": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000454": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000455": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000457": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000459": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000462": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000463": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000466": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000475": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000483": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000494": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000495": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000496": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000509": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000523": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000524": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000525": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000535": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed"
+        },
+        "Drug Information Portal": {
+          "http://purl.obolibrary.org/obo/XCO_0000559": "Drug Information Portal:https://druginfo.nlm.nih.gov/drugportal/name/melatonin",
+          "http://purl.obolibrary.org/obo/XCO_0000562": "Drug Information Portal:https://druginfo.nlm.nih.gov/drugportal/name/salidroside",
+          "http://purl.obolibrary.org/obo/XCO_0000602": "Drug Information Portal:https://druginfo.nlm.nih.gov/drugportal/name/rosiglitazone"
+        },
+        "Encarta": {
+          "http://purl.obolibrary.org/obo/XCO_0000003": "Encarta:Encarta_World_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000004": "Encarta:Encarta_World_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000005": "Encarta:Encarta_World_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000006": "Encarta:Encarta_World_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000007": "Encarta:Encarta_World_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000008": "Encarta:Encarta_World_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000061": "Encarta:Encarta_World_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000064": "Encarta:Encarta_World_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000071": "Encarta:Encarta_World_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000072": "Encarta:Encarta_World_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000073": "Encarta:Encarta_World_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000082": "Encarta:Encarta_World_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000296": "Encarta:Encarta_World_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000357": "Encarta:Encarta_World_English_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000526": "Encarta:Encarta_World_English_Dictionary"
+        },
+        "Farlex": {
+          "http://purl.obolibrary.org/obo/XCO_0000376": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/XCO_0000401": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/XCO_0000412": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/XCO_0000420": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/XCO_0000464": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/XCO_0000465": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/XCO_0000466": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/XCO_0000508": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/XCO_0000522": "Farlex:Farlex_Partner_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/XCO_0000527": "Farlex:Farlex_Partner_Medical_Dictionary_2009"
+        },
+        "Fink": {
+          "http://purl.obolibrary.org/obo/XCO_0000189": "Fink:Encyclopedia_of_Stress"
+        },
+        "Gale": {
+          "http://purl.obolibrary.org/obo/XCO_0000140": "Gale:Gale_Encyclopedia_of_Medicine",
+          "http://purl.obolibrary.org/obo/XCO_0000243": "Gale:Gale_Encyclopedia_of_Medicine",
+          "http://purl.obolibrary.org/obo/XCO_0000248": "Gale:Gale_Encyclopedia_of_Medicine",
+          "http://purl.obolibrary.org/obo/XCO_0000249": "Gale:Gale_Encyclopedia_of_Medicine",
+          "http://purl.obolibrary.org/obo/XCO_0000250": "Gale:Gale_Encyclopedia_of_Medicine",
+          "http://purl.obolibrary.org/obo/XCO_0000361": "Gale:Gale_Encyclopedia_of_Medicine_2008"
+        },
+        "McGraw-Hill": {
+          "http://purl.obolibrary.org/obo/XCO_0000389": "McGraw-Hill:McGraw-Hill_Concise_Dictionary_of_Modern_Medicine"
+        },
+        "MediLexicon": {
+          "http://purl.obolibrary.org/obo/XCO_0000091": "MediLexicon:http://www.medilexicon.com/medicaldictionary.php?t=22261"
+        },
+        "MedicineNet": {
+          "http://purl.obolibrary.org/obo/XCO_0000047": "MedicineNet:http://www.medterms.com"
+        },
+        "Merriam-Webster": {
+          "http://purl.obolibrary.org/obo/XCO_0000057": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000100": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000239": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000320": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000321": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000322": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000401": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000446": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000447": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000448": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000449": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000450": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed"
+        },
+        "Miller-Keane": {
+          "http://purl.obolibrary.org/obo/XCO_0000133": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000181": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000182": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000183": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000194": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000214": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000234": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000246": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000255": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000260": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000282": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000283": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000284": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000363": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000385": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000517": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000518": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000519": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed"
+        },
+        "Mondofacto": {
+          "http://purl.obolibrary.org/obo/XCO_0000178": "Mondofacto:Mondofacto_Online_Medical_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000186": "Mondofacto:Mondofacto_Online_Medical_Dictionary",
+          "http://purl.obolibrary.org/obo/XCO_0000393": "Mondofacto:Mondofacto_Online_Medical_Dictionary"
+        },
+        "Mosby": {
+          "http://purl.obolibrary.org/obo/XCO_0000021": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000042": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000047": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000048": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000049": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000050": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000051": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000052": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000141": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000146": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000148": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000173": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000174": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000175": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000205": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000216": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000217": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000220": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000221": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000222": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000223": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000228": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000232": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000244": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000251": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000269": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000274": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000276": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000292": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000327": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000328": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000329": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000341": "Mosby:Mosbys_Dental_Dictionary--2nd_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000347": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000348": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000352": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000353": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000356": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000372": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000373": "Mosby:Mosbys_Dental_Dictionary--2nd_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000374": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000400": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000401": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000403": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000404": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000410": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000411": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000414": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000417": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000418": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000419": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000436": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000440": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000442": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000443": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000444": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000447": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000452": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000453": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000454": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000455": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000457": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000458": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000464": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000465": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000467": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000471": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000505": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000506": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000508": "Mosby:Mosbys_Medical_Dictionary--8th_Ed"
+        },
+        "Multiple_Dictionaries": {
+          "http://purl.obolibrary.org/obo/XCO_0000000": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/XCO_0000026": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/XCO_0000078": "Multiple_Dictionaries:http://medical-dictionary.thefreedictionary.com",
+          "http://purl.obolibrary.org/obo/XCO_0000079": "Multiple_Dictionaries:http://medical-dictionary.thefreedictionary.com",
+          "http://purl.obolibrary.org/obo/XCO_0000093": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/XCO_0000120": "Multiple_Dictionaries:http://medical-dictionary.thefreedictionary.com/inhibitor",
+          "http://purl.obolibrary.org/obo/XCO_0000166": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/XCO_0000275": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/XCO_0000277": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/XCO_0000278": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/XCO_0000298": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/XCO_0000299": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/XCO_0000300": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/XCO_0000332": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
+          "http://purl.obolibrary.org/obo/XCO_0000333": "Multiple_Dictionaries:http://www.thefreedictionary.com/"
+        },
+        "NCBI_GeneID": {
+          "http://purl.obolibrary.org/obo/XCO_0000286": "NCBI_GeneID:6295",
+          "http://purl.obolibrary.org/obo/XCO_0000287": "NCBI_GeneID:5949",
+          "http://purl.obolibrary.org/obo/XCO_0000288": "NCBI_GeneID:5949",
+          "http://purl.obolibrary.org/obo/XCO_0000289": "NCBI_GeneID:5949"
+        },
+        "NIH": {
+          "http://purl.obolibrary.org/obo/XCO_0000157": "NIH:http://grants.nih.gov/grants/olaw/Guide-for-the-care-and-use-of-Laboratory-animals.pdf",
+          "http://purl.obolibrary.org/obo/XCO_0000158": "NIH:http://grants.nih.gov/grants/olaw/Guide-for-the-care-and-use-of-Laboratory-animals.pdf",
+          "http://purl.obolibrary.org/obo/XCO_0000159": "NIH:http://grants.nih.gov/grants/olaw/Guide-for-the-care-and-use-of-Laboratory-animals.pdf",
+          "http://purl.obolibrary.org/obo/XCO_0000362": "NIH:http://grants.nih.gov/grants/olaw/Guide-for-the-care-and-use-of-Laboratory-animals.pdf"
+        },
+        "NIH Thesaurus": {
+          "http://purl.obolibrary.org/obo/XCO_0000613": "NIH Thesaurus:https://ncit.nci.nih.gov/ncitbrowser/"
+        },
+        "PGA": {
+          "http://purl.obolibrary.org/obo/XCO_0000129": "PGA:Renal_protocol"
+        },
+        "Saunders": {
+          "http://purl.obolibrary.org/obo/XCO_0000175": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000237": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000255": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000402": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000415": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000416": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000446": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000449": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000460": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000517": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000518": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed",
+          "http://purl.obolibrary.org/obo/XCO_0000519": "Saunders:Saunders_Comprehensive_Veterinary_Dictionary--3rd_Ed"
+        },
+        "Segen": {
+          "http://purl.obolibrary.org/obo/XCO_0000386": "Segen:Segens_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/XCO_0000387": "Segen:Segens_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/XCO_0000400": "Segen:Segens_Medical_Dictionary_2012",
+          "http://purl.obolibrary.org/obo/XCO_0000529": "Segen:Segens_Medical_Dictionary_2012"
+        },
+        "Sigma-Aldrich": {
+          "http://purl.obolibrary.org/obo/XCO_0000116": "Sigma-Aldrich:http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Product_Information_Sheet/1/k3753pis.Par.0001.File.tmp/k3753pis.pdf",
+          "http://purl.obolibrary.org/obo/XCO_0000146": "Sigma-Aldrich:http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Product_Information_Sheet/1/k3753pis.Par.0001.File.tmp/k3753pis.pdf"
+        },
+        "Stedman": {
+          "http://purl.obolibrary.org/obo/XCO_0000607": "Stedman:Stedmans_Medical_Dictionary 26th ed"
+        },
+        "Website": {
+          "http://purl.obolibrary.org/obo/XCO_0000137": "Website:http://www.trinitybiotech.com/Product%20Documents/305-10-29%20EN.pdf",
+          "http://purl.obolibrary.org/obo/XCO_0000207": "Website:http://potency.berkeley.edu/chempages/3%27-METHYL-4-DIMETHYLAMINOAZOBENZENE.html",
+          "http://purl.obolibrary.org/obo/XCO_0000218": "Website:http://www.lclabs.com/PRODFILE/P-R/P-2170.php4",
+          "http://purl.obolibrary.org/obo/XCO_0000219": "Website:http://datasheets.scbt.com/sc-202578.pdf",
+          "http://purl.obolibrary.org/obo/XCO_0000235": "Website:http://www.invivogen.com/tlr3-ligands?gclid=CLDYv5u4wLICFahaMgod_H8AGg",
+          "http://purl.obolibrary.org/obo/XCO_0000238": "Website:http://www.criver.com/SiteCollectionDocuments/rm_ld_r_Rat_Parvoviruses.pdf",
+          "http://purl.obolibrary.org/obo/XCO_0000310": "Website:http://www.drugbank.ca/drugs/DB01170#pharmacology",
+          "http://purl.obolibrary.org/obo/XCO_0000331": "Website:http://www.nursa.org/molecule.cfm?molType=ligand&molId=1123",
+          "http://purl.obolibrary.org/obo/XCO_0000332": "Website:http://www.nursa.org/molecule.cfm?molType=ligand&molId=1123",
+          "http://purl.obolibrary.org/obo/XCO_0000333": "Website:http://www.nursa.org/molecule.cfm?molType=ligand&molId=1123",
+          "http://purl.obolibrary.org/obo/XCO_0000372": "Website:http://www.nlm.nih.gov/medlineplus/druginfo/meds/a682792.html",
+          "http://purl.obolibrary.org/obo/XCO_0000378": "Website:http://www.cyberlipid.org/vite/vite0001.htm",
+          "http://purl.obolibrary.org/obo/XCO_0000379": "Website:http://www.cyberlipid.org/vite/vite0001.htm",
+          "http://purl.obolibrary.org/obo/XCO_0000380": "Website:http://www.cyberlipid.org/vite/vite0001.htm",
+          "http://purl.obolibrary.org/obo/XCO_0000399": "Website:http://www.chemguide.co.uk/inorganic/complexions/whatis.html#top",
+          "http://purl.obolibrary.org/obo/XCO_0000439": "Website:http://potency.berkeley.edu/chempages/3%27-METHYL-4-DIMETHYLAMINOAZOBENZENE.html",
+          "http://purl.obolibrary.org/obo/XCO_0000440": "Website:http://potency.berkeley.edu/chempages/3%27-METHYL-4-DIMETHYLAMINOAZOBENZENE.html",
+          "http://purl.obolibrary.org/obo/XCO_0000443": "Website:http://www.nlm.nih.gov/medlineplus/druginfo/meds/a682792.html",
+          "http://purl.obolibrary.org/obo/XCO_0000444": "Website:http://www.nlm.nih.gov/medlineplus/druginfo/meds/a682792.html",
+          "http://purl.obolibrary.org/obo/XCO_0000494": "Website:http://www.medicaldictionaryweb.com/Postmenopause-definition/",
+          "http://purl.obolibrary.org/obo/XCO_0000541": "Website:https://phassociation.org/patients/treatments/bosentan/",
+          "http://purl.obolibrary.org/obo/XCO_0000551": "Website:http://cvpharmacology.com/vasodilator/direct"
+        },
+        "Webster": {
+          "http://purl.obolibrary.org/obo/XCO_0000326": "Webster:Random_House_Kernerman_Websters_College_Dictionary_2010",
+          "http://purl.obolibrary.org/obo/XCO_0000358": "Webster:Random_House_Kernerman_Websters_College_Dictionary_2010",
+          "http://purl.obolibrary.org/obo/XCO_0000528": "Webster:Random_House_Kernerman_Websters_College_Dictionary_2010",
+          "http://purl.obolibrary.org/obo/XCO_0000530": "Webster:Random_House_Kernerman_Websters_College_Dictionary_2010",
+          "http://purl.obolibrary.org/obo/XCO_0000531": "Webster:Random_House_Kernerman_Websters_College_Dictionary_2010",
+          "http://purl.obolibrary.org/obo/XCO_0000678": "Webster:Random_House_Kernerman_Websters_College_Dictionary_2010"
+        },
+        "Wiktionary": {
+          "http://purl.obolibrary.org/obo/XCO_0000502": "Wiktionary:https://en.wiktionary.org/wiki/body_part",
+          "http://purl.obolibrary.org/obo/XCO_0000503": "Wiktionary:https://en.wiktionary.org/wiki/body_part"
+        },
+        "YourDictionary": {
+          "http://purl.obolibrary.org/obo/XCO_0000021": "YourDictionary:http://www.yourdictionary.com/drink",
+          "http://purl.obolibrary.org/obo/XCO_0000297": "YourDictionary:http://www.yourdictionary.com/drink",
+          "http://purl.obolibrary.org/obo/XCO_0000327": "YourDictionary:http://www.yourdictionary.com/drink",
+          "http://purl.obolibrary.org/obo/XCO_0000328": "YourDictionary:http://www.yourdictionary.com/drink",
+          "http://purl.obolibrary.org/obo/XCO_0000329": "YourDictionary:http://www.yourdictionary.com/drink",
+          "http://purl.obolibrary.org/obo/XCO_0000355": "YourDictionary:http://www.yourdictionary.com/drink"
+        },
+        "merriam-webster": {
+          "http://purl.obolibrary.org/obo/XCO_0000655": "merriam-webster:https://www.merriam-webster.com/dictionary/prion"
+        },
+        "url": {
+          "http://purl.obolibrary.org/obo/XCO_0000661": "url:https://www.hindawi.com/journals/bmri/2015/528757/tab1/",
+          "http://purl.obolibrary.org/obo/XCO_0000662": "url:https://www.hindawi.com/journals/bmri/2015/528757/tab1/",
+          "http://purl.obolibrary.org/obo/XCO_0000663": "url:https://www.hindawi.com/journals/bmri/2015/528757/tab1/",
+          "http://purl.obolibrary.org/obo/XCO_0000675": "url:https://www.merriam-webster.com/dictionary/retrovirus"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "NCI": {
+          "http://purl.obolibrary.org/obo/XCO_0000078": "NCI:C19702",
+          "http://purl.obolibrary.org/obo/XCO_0000079": "NCI:C18270"
+        }
+      },
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/xco/4.46/xco.owl",
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/XCO_0000131": [
+          "CHEMBL:297362"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000320": [
+          "CHEMBL:105608"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000321": [
+          "CHEMBL:105608"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000322": [
+          "CHEMBL:105608"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000345": [
+          "PubChem_Compound:CID_12967"
+        ],
+        "http://purl.obolibrary.org/obo/XCO_0000346": [
+          "PubChem_Compound:CID_12967"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "CASRN": {
+          "http://purl.obolibrary.org/obo/XCO_0000186": "CASRN:485-35-8",
+          "http://purl.obolibrary.org/obo/XCO_0000187": "CASRN:7187-66-8",
+          "http://purl.obolibrary.org/obo/XCO_0000188": "CASRN:72803-02-2"
+        },
+        "EC": {
+          "http://purl.obolibrary.org/obo/XCO_0000177": "EC:3.4.21.5"
+        },
+        "NCBI_Taxon": {
+          "http://purl.obolibrary.org/obo/XCO_0000476": "NCBI_Taxon:1313",
+          "http://purl.obolibrary.org/obo/XCO_0000477": "NCBI_Taxon:373153",
+          "http://purl.obolibrary.org/obo/XCO_0000478": "NCBI_Taxon:170187",
+          "http://purl.obolibrary.org/obo/XCO_0000479": "NCBI_Taxon:727",
+          "http://purl.obolibrary.org/obo/XCO_0000481": "NCBI_Taxon:281310",
+          "http://purl.obolibrary.org/obo/XCO_0000485": "NCBI_Taxon:281310",
+          "http://purl.obolibrary.org/obo/XCO_0000486": "NCBI_Taxon:281310",
+          "http://purl.obolibrary.org/obo/XCO_0000487": "NCBI_Taxon:170187"
+        },
+        "PMID": {
+          "http://purl.obolibrary.org/obo/XCO_0000288": "PMID:10323205",
+          "http://purl.obolibrary.org/obo/XCO_0000289": "PMID:18203685",
+          "http://purl.obolibrary.org/obo/XCO_0000319": "PMID:2142618"
+        },
+        "PubChem_Compound": {
+          "http://purl.obolibrary.org/obo/XCO_0000345": "PubChem_Compound:CID_12967",
+          "http://purl.obolibrary.org/obo/XCO_0000346": "PubChem_Compound:CID_12967"
+        },
+        "UniProtKB": {
+          "http://purl.obolibrary.org/obo/XCO_0000226": "UniProtKB:P01500",
+          "http://purl.obolibrary.org/obo/XCO_0000227": "UniProtKB:P13487"
+        }
+      },
+      "unknown_prefixes": {}
+    }
+  }
+}

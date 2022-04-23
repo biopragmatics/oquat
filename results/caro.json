@@ -1,0 +1,38 @@
+{
+  "http://purl.obolibrary.org/obo/caro.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/caro.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "CAROC": {
+          "http://purl.obolibrary.org/obo/CARO_0000000": "CAROC:Brownsville2014"
+        },
+        "FBC": {
+          "http://purl.obolibrary.org/obo/CARO_0002003": "FBC:DOS",
+          "http://purl.obolibrary.org/obo/CARO_0010005": "FBC:DOS"
+        },
+        "GOC": {
+          "http://purl.obolibrary.org/obo/CARO_0002101": "GOC:dos"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/caro/releases/2022-02-18/caro.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

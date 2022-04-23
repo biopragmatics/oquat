@@ -1,0 +1,84 @@
+{
+  "http://purl.obolibrary.org/obo/cio.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/cio.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "Bgee": {
+          "http://purl.obolibrary.org/obo/CIO_0000000": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000001": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000002": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000003": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000004": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000005": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000006": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000007": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000008": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000009": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000010": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000011": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000012": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000013": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000014": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000015": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000016": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000017": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000018": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000019": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000020": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000021": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000022": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000023": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000024": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000025": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000026": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000027": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000028": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000029": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000030": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000031": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000032": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000033": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000034": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000035": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000036": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000037": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000038": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000039": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000040": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000041": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000042": "Bgee:fbb",
+          "http://purl.obolibrary.org/obo/CIO_0000043": "Bgee:fbb"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {
+        "http://purl.obolibrary.org/obo/CIO_0000003": [
+          "neXtProt"
+        ],
+        "http://purl.obolibrary.org/obo/CIO_0000004": [
+          "neXtProt"
+        ],
+        "http://purl.obolibrary.org/obo/CIO_0000005": [
+          "neXtProt"
+        ]
+      },
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/cio/releases/2015-03-10/cio.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

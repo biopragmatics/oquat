@@ -1,0 +1,91 @@
+{
+  "http://purl.obolibrary.org/obo/ro.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/ro.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/RO_HOM0000010": [
+          "MeSH:Synteny"
+        ],
+        "http://purl.obolibrary.org/obo/RO_HOM0000016": [
+          "SO:non_functional_homolog_of"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "PMID": {
+          "http://purl.obolibrary.org/obo/RO_0002029": "PMID:24138933"
+        },
+        "Wikipedia": {
+          "http://purl.obolibrary.org/obo/RO_0002029": "Wikipedia:Infant_mortality"
+        }
+      },
+      "unknown_prefixes": {
+        "BGEE": {
+          "http://purl.obolibrary.org/obo/RO_HOM0000000": "BGEE:curator",
+          "http://purl.obolibrary.org/obo/RO_HOM0000019": "BGEE:curator",
+          "http://purl.obolibrary.org/obo/RO_HOM0000037": "BGEE:curator"
+        },
+        "GOC": {
+          "http://purl.obolibrary.org/obo/RO_0002023": "GOC:dos",
+          "http://purl.obolibrary.org/obo/RO_0002024": "GOC:dos",
+          "http://purl.obolibrary.org/obo/RO_0002025": "GOC:dos",
+          "http://purl.obolibrary.org/obo/RO_0002026": "GOC:dos",
+          "http://purl.obolibrary.org/obo/RO_0002432": "GOC:dos",
+          "http://purl.obolibrary.org/obo/RO_0004008": "GOC:pt",
+          "http://purl.obolibrary.org/obo/RO_0004009": "GOC:pt"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/RO_0009501": [
+          "RO:cjm"
+        ]
+      },
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/ro/releases/2022-02-07/ro.owl",
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/RO_HOM0000000": [
+          "SO:similar_to"
+        ],
+        "http://purl.obolibrary.org/obo/RO_HOM0000007": [
+          "RO_proposed_relation:homologous_to",
+          "SO:homologous_to"
+        ],
+        "http://purl.obolibrary.org/obo/RO_HOM0000010": [
+          "MeSH:Synteny"
+        ],
+        "http://purl.obolibrary.org/obo/RO_HOM0000011": [
+          "SO:paralogous_to"
+        ],
+        "http://purl.obolibrary.org/obo/RO_HOM0000015": [
+          "MeSH:Structural_Homology,_Protein"
+        ],
+        "http://purl.obolibrary.org/obo/RO_HOM0000016": [
+          "SO:non_functional_homolog_of"
+        ],
+        "http://purl.obolibrary.org/obo/RO_HOM0000017": [
+          "SO:orthologous_to",
+          "ECO:00000060"
+        ],
+        "http://purl.obolibrary.org/obo/RO_HOM0000047": [
+          "MeSH:Chromosome_Pairing"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "RO_proposed_relation": {
+          "http://purl.obolibrary.org/obo/RO_HOM0000007": "RO_proposed_relation:homologous_to"
+        }
+      },
+      "unknown_prefixes": {}
+    }
+  }
+}

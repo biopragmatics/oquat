@@ -1,0 +1,66 @@
+{
+  "http://purl.obolibrary.org/obo/agro-edit.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/agro-edit.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {
+        "http://purl.obolibrary.org/obo/AGRO_00000005": [
+          "agglossary.org/wiki/index.php?title=Residue_management"
+        ],
+        "http://purl.obolibrary.org/obo/AGRO_00000006": [
+          "www.dictionary.com/browse/irrigation"
+        ],
+        "http://purl.obolibrary.org/obo/AGRO_00000060": [
+          "www.fao.org/docrep/s8684e/s8684e06.htm"
+        ],
+        "http://purl.obolibrary.org/obo/AGRO_00000256": [
+          "www.cigrjournal.org/index.php/Ejounral/article/download/1073/1225"
+        ],
+        "http://purl.obolibrary.org/obo/AGRO_00000355": [
+          "FAO, 1990"
+        ],
+        "http://purl.obolibrary.org/obo/AGRO_00000374": [
+          "www.thefreedictionary.com/student"
+        ],
+        "http://purl.obolibrary.org/obo/AGRO_00000376": [
+          "www.thefreedictionary.com/extension+agent"
+        ],
+        "http://purl.obolibrary.org/obo/AGRO_00000377": [
+          "www.thefreedictionary.com/faculty+member"
+        ],
+        "http://purl.obolibrary.org/obo/AGRO_00000431": [
+          "www.sheep101.info/201/grazingsystems.html"
+        ],
+        "http://purl.obolibrary.org/obo/AGRO_00000436": [
+          "beeflambnz.com/Documents/Farm/Creep%20grazing%20lambs.pdf"
+        ]
+      },
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "Huelsen, W. A. (1943). Stand irregularity and its relation to the yields of sweet corn. Journal of Agricultural Research, 67(5), 211–224. https": {
+          "http://purl.obolibrary.org/obo/AGRO_00000570": "Huelsen, W. A. (1943). Stand irregularity and its relation to the yields of sweet corn. Journal of Agricultural Research, 67(5), 211–224. https://naldc.nal.usda.gov/download/IND43969864/PDF",
+          "http://purl.obolibrary.org/obo/AGRO_00000571": "Huelsen, W. A. (1943). Stand irregularity and its relation to the yields of sweet corn. Journal of Agricultural Research, 67(5), 211–224. https://naldc.nal.usda.gov/download/IND43969864/PDF"
+        },
+        "drum.http": {
+          "http://purl.obolibrary.org/obo/AGRO_00000397": "drum.http://www.kvkimphalwest.org/images/paddy-drum-seeder.pdf"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/agro/releases/2021-11-05/agro.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

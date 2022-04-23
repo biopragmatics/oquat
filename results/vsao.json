@@ -1,0 +1,170 @@
+{
+  "http://purl.obolibrary.org/obo/vsao.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/vsao.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/VSAO_0000001": [
+          "ZFIN:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000021": [
+          "GO:[GOC:mtg_sensu, ISBN:0198547684]"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000076": [
+          "UBERON:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000092": [
+          "GO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000155": [
+          "UBERON:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000156": [
+          "UBERON:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000164": [
+          "ZFIN:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000178": [
+          "ZFIN:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000303": [
+          "UBERON:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000304": [
+          "UBERON:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000305": [
+          "UBERON:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000306": [
+          "UBERON:cjm"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "GO_REF": {
+          "http://purl.obolibrary.org/obo/VSAO_0000000": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000003": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000006": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000015": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000017": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000020": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000021": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000022": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000023": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000025": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000026": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000027": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000028": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000029": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000030": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000032": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000035": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000036": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000037": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000040": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000046": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000047": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000049": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000050": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000051": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000052": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000053": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000054": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000055": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000056": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000057": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000059": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000062": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000063": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000065": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000066": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000069": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000070": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000071": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000072": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000073": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000074": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000076": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000078": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000079": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000080": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000081": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000082": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000086": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000088": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000089": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000090": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000091": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000093": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000094": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000095": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000097": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000101": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000103": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000104": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000105": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000106": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000107": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000108": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000109": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000110": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000113": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000114": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000115": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000118": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000119": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000120": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000122": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000123": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000127": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000128": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000130": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000135": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000136": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000138": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000139": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000145": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000146": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000159": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000214": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000300": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000301": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000302": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000307": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000308": "GO_REF:0000034"
+        }
+      },
+      "unknown_prefixes": {
+        "GOC": {
+          "http://purl.obolibrary.org/obo/VSAO_0000002": "GOC:mtg_mpo, PMID:17572649"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "GO_REF": {
+          "http://purl.obolibrary.org/obo/VSAO_0000046": "GO_REF:0000034",
+          "http://purl.obolibrary.org/obo/VSAO_0000087": "GO_REF:0000034"
+        }
+      },
+      "unknown_prefixes": {
+        "PAPUB": {
+          "http://purl.obolibrary.org/obo/VSAO_0000163": "PAPUB:0000142"
+        }
+      }
+    },
+    "version": "http://purl.obolibrary.org/obo/vsao/2012-11-06/vsao.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

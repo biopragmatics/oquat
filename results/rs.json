@@ -1,0 +1,42 @@
+{
+  "http://purl.obolibrary.org/obo/rs.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/rs.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/RS_0001091": [
+          "RGD:www.rgd.mcw.edu"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "RGD curators": {
+          "http://purl.obolibrary.org/obo/RS_0004522": "RGD curators:<sjwang>",
+          "http://purl.obolibrary.org/obo/RS_0004523": "RGD curators:<sjwang>",
+          "http://purl.obolibrary.org/obo/RS_0004531": "RGD curators:<sjwang>",
+          "http://purl.obolibrary.org/obo/RS_0004532": "RGD curators:<sjwang>",
+          "http://purl.obolibrary.org/obo/RS_0004534": "RGD curators:<sjwang>",
+          "http://purl.obolibrary.org/obo/RS_0004542": "RGD curators:<sjwang>",
+          "http://purl.obolibrary.org/obo/RS_0004543": "RGD curators:<sjwang>",
+          "http://purl.obolibrary.org/obo/RS_0004549": "RGD curators:<sjwang>"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/rs/6.167/rs.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

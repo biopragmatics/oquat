@@ -1,0 +1,185 @@
+{
+  "http://purl.obolibrary.org/obo/sibo.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/sibo.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/SIBO_0000079": [
+          "SIBO:csmith"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "Bolton Glossary": {
+          "http://purl.obolibrary.org/obo/SIBO_0000100": "Bolton Glossary:<new dbxref>"
+        },
+        "Book": {
+          "http://purl.obolibrary.org/obo/SIBO_0000010": "Book:0674040759",
+          "http://purl.obolibrary.org/obo/SIBO_0000011": "Book:0674040759",
+          "http://purl.obolibrary.org/obo/SIBO_0000012": "Book:0674040759",
+          "http://purl.obolibrary.org/obo/SIBO_0000013": "Book:0674040759",
+          "http://purl.obolibrary.org/obo/SIBO_0000014": "Book:0674040759",
+          "http://purl.obolibrary.org/obo/SIBO_0000015": "Book:0674040759",
+          "http://purl.obolibrary.org/obo/SIBO_0000016": "Book:0674040759",
+          "http://purl.obolibrary.org/obo/SIBO_0000018": "Book:0674040759",
+          "http://purl.obolibrary.org/obo/SIBO_0000020": "Book:0674040759",
+          "http://purl.obolibrary.org/obo/SIBO_0000021": "Book:0674040759",
+          "http://purl.obolibrary.org/obo/SIBO_0000023": "Book:0674040759",
+          "http://purl.obolibrary.org/obo/SIBO_0000024": "Book:0674040759",
+          "http://purl.obolibrary.org/obo/SIBO_0000030": "Book:0674040759"
+        },
+        "El-Sayed AM": {
+          "http://purl.obolibrary.org/obo/SIBO_0000413": "El-Sayed AM:The Pherobase: Database of Insect Phermones and Semiochemicals"
+        },
+        "El-Sayed AM. The Pherobase": {
+          "http://purl.obolibrary.org/obo/SIBO_0000225": "El-Sayed AM. The Pherobase:Database of Insect Phermones and Semiochemicals",
+          "http://purl.obolibrary.org/obo/SIBO_0000227": "El-Sayed AM. The Pherobase:Database of Insect Phermones and Semiochemicals",
+          "http://purl.obolibrary.org/obo/SIBO_0000228": "El-Sayed AM. The Pherobase:Database of Insect Phermones and Semiochemicals",
+          "http://purl.obolibrary.org/obo/SIBO_0000229": "El-Sayed AM. The Pherobase:Database of Insect Phermones and Semiochemicals"
+        },
+        "The Pherobase": {
+          "http://purl.obolibrary.org/obo/SIBO_0000061": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000257": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000268": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000272": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000274": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000332": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000336": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000337": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000338": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000339": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000340": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000341": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000344": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000345": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000353": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000366": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000377": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000378": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000379": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000380": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000393": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000408": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000412": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000448": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000451": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000453": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000470": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000475": "The Pherobase: Database of Insect Phermones and Semiochemicals:El-Sayed AM"
+        },
+        "The Pherobase - Database of Insect Phermones and Semiochemicals": {
+          "http://purl.obolibrary.org/obo/SIBO_0000273": "The Pherobase - Database of Insect Phermones and Semiochemicals:El-Sayed AM",
+          "http://purl.obolibrary.org/obo/SIBO_0000406": "The Pherobase - Database of Insect Phermones and Semiochemicals:El-Sayed AM"
+        },
+        "The Pherobase- Database of Insect Phermones and Semiochemicals": {
+          "http://purl.obolibrary.org/obo/SIBO_0000407": "The Pherobase- Database of Insect Phermones and Semiochemicals:El-Sayed AM"
+        },
+        "WP": {
+          "http://purl.obolibrary.org/obo/SIBO_0000143": "WP::http://en.wikipedia.org/wiki/Semiochemical"
+        },
+        "XX": {
+          "http://purl.obolibrary.org/obo/SIBO_0000080": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000081": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000082": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000083": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000085": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000087": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000088": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000090": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000093": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000094": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000097": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000105": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000107": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000108": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000109": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000112": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000120": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000122": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000126": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000136": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000141": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000142": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000143": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000152": "XX:0003-0147/2003/16205-20398",
+          "http://purl.obolibrary.org/obo/SIBO_0000182": "XX:28842",
+          "http://purl.obolibrary.org/obo/SIBO_0000261": "XX:DOI: 10.1086/522843",
+          "http://purl.obolibrary.org/obo/SIBO_0000485": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000502": "XX:<new dbxref>",
+          "http://purl.obolibrary.org/obo/SIBO_0000525": "XX:DOI: 10.1086/522843",
+          "http://purl.obolibrary.org/obo/SIBO_0000526": "XX:DOI: 10.1086/522843",
+          "http://purl.obolibrary.org/obo/SIBO_0000527": "XX:DOI: 10.1086/522843",
+          "http://purl.obolibrary.org/obo/SIBO_0000528": "XX:DOI:10.1093/beheco/arl105",
+          "http://purl.obolibrary.org/obo/SIBO_0000529": "XX:DOI: 10.1086/522843"
+        },
+        "mp biomedicals": {
+          "http://purl.obolibrary.org/obo/SIBO_0000202": "mp biomedicals:100085"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/SIBO_0000171": [
+          "KEGG COMPOUND:c00180"
+        ],
+        "http://purl.obolibrary.org/obo/SIBO_0000172": [
+          "KEGG COMPOUND:c00711"
+        ],
+        "http://purl.obolibrary.org/obo/SIBO_0000175": [
+          "KEGG COMPOUND:c00383"
+        ],
+        "http://purl.obolibrary.org/obo/SIBO_0000179": [
+          "KEGG COMPOUND:c00366"
+        ],
+        "http://purl.obolibrary.org/obo/SIBO_0000182": [
+          "KEGG COMPOUND:c01530"
+        ],
+        "http://purl.obolibrary.org/obo/SIBO_0000188": [
+          "KEGG COMPOUND:c02226"
+        ],
+        "http://purl.obolibrary.org/obo/SIBO_0000190": [
+          "KEGG COMPOUND:c01432"
+        ],
+        "http://purl.obolibrary.org/obo/SIBO_0000204": [
+          "KEGG COMPOUND:c00303"
+        ],
+        "http://purl.obolibrary.org/obo/SIBO_0000205": [
+          "KEGG COMPOUND:c02057"
+        ]
+      },
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "KEGG COMPOUND": {
+          "http://purl.obolibrary.org/obo/SIBO_0000003": "KEGG COMPOUND:C00086",
+          "http://purl.obolibrary.org/obo/SIBO_0000171": "KEGG COMPOUND:c00180",
+          "http://purl.obolibrary.org/obo/SIBO_0000172": "KEGG COMPOUND:c00711",
+          "http://purl.obolibrary.org/obo/SIBO_0000175": "KEGG COMPOUND:c00383",
+          "http://purl.obolibrary.org/obo/SIBO_0000179": "KEGG COMPOUND:c00366",
+          "http://purl.obolibrary.org/obo/SIBO_0000182": "KEGG COMPOUND:c01530",
+          "http://purl.obolibrary.org/obo/SIBO_0000188": "KEGG COMPOUND:c02226",
+          "http://purl.obolibrary.org/obo/SIBO_0000190": "KEGG COMPOUND:c01432",
+          "http://purl.obolibrary.org/obo/SIBO_0000204": "KEGG COMPOUND:c00303",
+          "http://purl.obolibrary.org/obo/SIBO_0000205": "KEGG COMPOUND:c02057"
+        },
+        "NIST Chemistry WebBook": {
+          "http://purl.obolibrary.org/obo/SIBO_0000179": "NIST Chemistry WebBook:69-93-2",
+          "http://purl.obolibrary.org/obo/SIBO_0000189": "NIST Chemistry WebBook:7664-38-2"
+        },
+        "nist chemistry webbook": {
+          "http://purl.obolibrary.org/obo/SIBO_0000193": "nist chemistry webbook:110-15-6"
+        }
+      },
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/sibo/releases/2015-06-15/sibo.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

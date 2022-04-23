@@ -1,0 +1,166 @@
+{
+  "http://purl.obolibrary.org/obo/olatdv.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/olatdv.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/OlatDv_0000020": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000030": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000040": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000050": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000060": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000070": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000080": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000090": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000100": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000110": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000120": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000130": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000140": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000150": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000160": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000170": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000180": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000190": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000200": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000210": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000220": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000230": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000240": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000250": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000260": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000270": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000280": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000290": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000300": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000310": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000320": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000330": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000340": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000350": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000360": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000370": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000380": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000390": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000400": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000410": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000420": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000430": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000440": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000450": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000460": [
+          "OlatDv:curators"
+        ],
+        "http://purl.obolibrary.org/obo/OlatDv_0000470": [
+          "OlatDv:curators"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/olatdv/releases/2020-03-10/olatdv.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

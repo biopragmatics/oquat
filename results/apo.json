@@ -1,0 +1,975 @@
+{
+  "http://purl.obolibrary.org/obo/apo.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/apo.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/APO_0000001": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000002": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000003": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000004": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000005": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000006": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000007": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000008": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000009": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000010": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000011": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000012": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000013": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000014": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000015": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000016": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000017": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000018": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000019": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000020": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000021": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000022": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000023": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000024": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000025": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000026": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000027": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000028": [
+          "SGD:rsn"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000029": [
+          "SGD:krc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000030": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000031": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000032": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000033": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000034": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000035": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000036": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000037": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000038": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000040": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000041": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000042": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000043": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000044": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000045": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000047": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000048": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000049": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000050": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000051": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000052": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000053": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000054": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000055": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000056": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000057": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000058": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000059": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000060": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000061": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000062": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000063": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000064": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000065": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000067": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000068": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000069": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000070": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000072": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000073": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000074": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000075": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000076": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000077": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000078": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000079": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000080": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000081": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000082": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000083": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000084": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000085": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000086": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000087": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000088": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000089": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000090": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000091": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000092": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000093": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000094": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000095": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000096": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000097": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000098": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000099": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000100": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000101": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000102": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000104": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000105": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000106": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000107": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000108": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000109": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000110": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000111": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000112": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000113": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000114": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000115": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000116": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000117": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000118": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000119": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000120": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000122": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000123": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000124": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000125": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000126": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000127": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000128": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000129": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000130": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000131": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000132": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000133": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000134": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000135": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000136": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000138": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000139": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000140": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000141": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000142": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000143": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000144": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000145": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000146": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000147": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000148": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000149": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000150": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000151": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000152": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000153": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000154": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000155": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000156": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000157": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000158": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000159": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000161": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000193": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000194": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000195": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000196": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000197": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000198": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000199": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000200": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000201": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000202": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000203": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000204": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000205": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000206": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000207": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000208": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000209": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000210": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000211": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000212": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000213": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000214": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000215": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000216": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000217": [
+          "SGD:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000218": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000219": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000220": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000221": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000222": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000223": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000224": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000225": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000226": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000227": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000228": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000229": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000230": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000231": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000232": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000233": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000234": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000235": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000236": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000237": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000238": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000239": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000240": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000241": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000242": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000243": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000245": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000246": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000247": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000248": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000249": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000250": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000251": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000252": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000253": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000254": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000255": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000256": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000257": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000258": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000259": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000260": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000261": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000262": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000263": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000264": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000265": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000266": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000267": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000268": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000269": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000270": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000271": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000273": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000274": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000275": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000276": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000277": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000278": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000296": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000297": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000298": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000299": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000300": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000301": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000302": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000303": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000307": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000308": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000309": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000310": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000311": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000312": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000315": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000316": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000317": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000318": [
+          "BioGRID:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000319": [
+          "CGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000320": [
+          "CGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000321": [
+          "CGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000324": [
+          "CGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000325": [
+          "CGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000326": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000327": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000328": [
+          "CGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000330": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000333": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000334": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000335": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000336": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000337": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000338": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000339": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000340": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000341": [
+          "SGD:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000342": [
+          "SGD:mcc"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "PMID": {
+          "http://purl.obolibrary.org/obo/APO_0000153": "PMID:9301019",
+          "http://purl.obolibrary.org/obo/APO_0000154": "PMID:16267274",
+          "http://purl.obolibrary.org/obo/APO_0000155": "PMID:19416362",
+          "http://purl.obolibrary.org/obo/APO_0000220": "PMID:18782613",
+          "http://purl.obolibrary.org/obo/APO_0000303": "PMID:19121819",
+          "http://purl.obolibrary.org/obo/APO_0000313": "PMID:19286987",
+          "http://purl.obolibrary.org/obo/APO_0000316": "PMID:17634577",
+          "http://purl.obolibrary.org/obo/APO_0000317": "PMID:17634577",
+          "http://purl.obolibrary.org/obo/APO_0000319": "PMID:14663094",
+          "http://purl.obolibrary.org/obo/APO_0000320": "PMID:17506678",
+          "http://purl.obolibrary.org/obo/APO_0000321": "PMID:17506678",
+          "http://purl.obolibrary.org/obo/APO_0000324": "PMID:20415594",
+          "http://purl.obolibrary.org/obo/APO_0000325": "PMID:16759234",
+          "http://purl.obolibrary.org/obo/APO_0000326": "PMID:18224659",
+          "http://purl.obolibrary.org/obo/APO_0000327": "PMID:18245339",
+          "http://purl.obolibrary.org/obo/APO_0000330": "PMID:23531409",
+          "http://purl.obolibrary.org/obo/APO_0000341": "PMID:26040717",
+          "http://purl.obolibrary.org/obo/APO_0000342": "PMID:24013549"
+        }
+      },
+      "unknown_prefixes": {
+        "AspGD": {
+          "http://purl.obolibrary.org/obo/APO_0000066": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000279": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000280": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000281": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000282": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000283": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000284": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000285": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000286": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000287": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000288": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000289": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000290": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000291": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000292": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000293": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000294": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000295": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000304": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000305": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000306": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000313": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/APO_0000314": "AspGD:di",
+          "http://purl.obolibrary.org/obo/APO_0000329": "AspGD:doi"
+        },
+        "CryptoGD": {
+          "http://purl.obolibrary.org/obo/APO_0000331": "CryptoGD:doi",
+          "http://purl.obolibrary.org/obo/APO_0000332": "CryptoGD:doi"
+        },
+        "GOC": {
+          "http://purl.obolibrary.org/obo/APO_0000039": "GOC:dph",
+          "http://purl.obolibrary.org/obo/APO_0000046": "GOC:mah",
+          "http://purl.obolibrary.org/obo/APO_0000071": "GOC:mtg_cell_cycle"
+        },
+        "RSN": {
+          "http://purl.obolibrary.org/obo/APO_0000137": "RSN:SGD"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/APO_0000011": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000012": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000025": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000026": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000101": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000102": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000117": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000129": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000145": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000147": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000149": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000242": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000245": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000246": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000247": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000248": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000249": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000256": [
+          "SGD:RSN"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000338": [
+          "SGD:mcc"
+        ]
+      },
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/apo/releases/2022-04-19/apo.owl",
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/APO_0000244": [
+          "BioGRID:curators"
+        ],
+        "http://purl.obolibrary.org/obo/APO_0000272": [
+          "BioGRID:curators"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

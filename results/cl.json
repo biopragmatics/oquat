@@ -74,8 +74,8 @@
           "MESH:A09.371.060.067.31"
         ],
         "http://purl.obolibrary.org/obo/CL_0000134": [
-          "FB:ma",
-          "PMID:10102814j"
+          "PMID:10102814j",
+          "FB:ma"
         ],
         "http://purl.obolibrary.org/obo/CL_0000136": [
           "MESH:A11.329.114"
@@ -595,8 +595,8 @@
           "CL:patterns/cellPartOfAnatomicalEntity"
         ],
         "http://purl.obolibrary.org/obo/CL_0011100": [
-          "ZFIN:YB",
-          "ZFIN:CVS"
+          "ZFIN:CVS",
+          "ZFIN:YB"
         ],
         "http://purl.obolibrary.org/obo/CL_0015000": [
           "ZFIN:CVS"

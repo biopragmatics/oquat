@@ -1,0 +1,194 @@
+{
+  "http://purl.obolibrary.org/obo/poro.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/poro.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/PORO_0000044": [
+          "UBERON:cjm"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "Wikipedia": {
+          "http://purl.obolibrary.org/obo/PORO_0000001": "Wikipedia:Sponge",
+          "http://purl.obolibrary.org/obo/PORO_0000003": "Wikipedia:Choanocyte",
+          "http://purl.obolibrary.org/obo/PORO_0000011": "Wikipedia:Sclerocyte",
+          "http://purl.obolibrary.org/obo/PORO_0000018": "Wikipedia:Osculum",
+          "http://purl.obolibrary.org/obo/PORO_0000023": "Wikipedia:Pinacocyte",
+          "http://purl.obolibrary.org/obo/PORO_0000026": "Wikipedia:Asconoid",
+          "http://purl.obolibrary.org/obo/PORO_0000027": "Wikipedia:Sea_sponge",
+          "http://purl.obolibrary.org/obo/PORO_0000028": "Wikipedia:Sea_sponge",
+          "http://purl.obolibrary.org/obo/PORO_0000029": "Wikipedia:Spongin",
+          "http://purl.obolibrary.org/obo/PORO_0000034": "Wikipedia:Trab",
+          "http://purl.obolibrary.org/obo/PORO_0000043": "Wikipedia:Pinacoderm",
+          "http://purl.obolibrary.org/obo/PORO_0000098": "Wikipedia:Sponge_spicule"
+        }
+      },
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/PORO_0000101": [
+          "UBERON:cjm"
+        ]
+      },
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/poro/releases/2016-10-06/poro.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/poro/imports/chebi_import.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/poro/imports/chebi_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/poro/imports/cl_import.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/poro/imports/cl_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/poro/imports/go_import.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/poro/imports/go_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/poro/imports/pato_import.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/poro/imports/pato_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/poro/imports/ro_import.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/poro/imports/ro_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/poro/imports/uberon_import.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/poro/imports/uberon_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

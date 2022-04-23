@@ -1,0 +1,74 @@
+{
+  "http://purl.obolibrary.org/obo/pdumdv.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/pdumdv.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "PLATY": {
+          "http://purl.obolibrary.org/obo/PdumDv_0000090": "PLATY:T_Henrich",
+          "http://purl.obolibrary.org/obo/PdumDv_0000100": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000200": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000300": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000400": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000500": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000600": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000700": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000800": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000900": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001000": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001100": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001200": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001300": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001410": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001510": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001520": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001530": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001540": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001550": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001600": "PLATY:A.H.L.Fischer"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "PLATY": {
+          "http://purl.obolibrary.org/obo/PdumDv_0000100": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000200": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000300": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000400": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000500": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000600": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000700": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000800": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0000900": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001000": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001100": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001200": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001300": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001410": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001510": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001520": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001530": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001540": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001550": "PLATY:A.H.L.Fischer",
+          "http://purl.obolibrary.org/obo/PdumDv_0001600": "PLATY:A.H.L.Fischer"
+        }
+      }
+    },
+    "version": "http://purl.obolibrary.org/obo/pdumdv/releases/2020-03-10/pdumdv.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

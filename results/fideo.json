@@ -1,0 +1,30 @@
+{
+  "http://purl.obolibrary.org/obo/fideo.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/fideo.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "SUBSET_SIREN": {
+          "http://purl.obolibrary.org/obo/FIDEO_00000028": "SUBSET_SIREN:F1702"
+        }
+      }
+    }
+  }
+}

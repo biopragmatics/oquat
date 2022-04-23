@@ -127,12 +127,12 @@
           "FB:gg"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001013": [
-          "MESH:A10.165.114",
-          "MGI:cwg"
+          "MGI:cwg",
+          "MESH:A10.165.114"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001016": [
-          "ZFIN:curator",
-          "WB:rynl"
+          "WB:rynl",
+          "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001027": [
           "UBERON:cjm"
@@ -159,8 +159,8 @@
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001111": [
-          "MESH:A02.633.567.900.500",
-          "MGI:csmith"
+          "MGI:csmith",
+          "MESH:A02.633.567.900.500"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001140": [
           "MGI:csmith"
@@ -196,8 +196,8 @@
           "MESH:A10.549.600"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001213": [
-          "MGI:rbabiuk",
-          "MGI:csmith"
+          "MGI:csmith",
+          "MGI:rbabiuk"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001217": [
           "ncithesaurus:Ileal_Vein"
@@ -212,8 +212,8 @@
           "MGI:llw2"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001236": [
-          "MESH:A06.407.071.265",
-          "MGI:llw2"
+          "MGI:llw2",
+          "MESH:A06.407.071.265"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001242": [
           "UBERON:cjm"
@@ -268,8 +268,8 @@
           "MESH:A05.360.319.679.490"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001296": [
-          "MESH:A02.633.570.500",
-          "MGI:brs"
+          "MGI:brs",
+          "MESH:A02.633.570.500"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001299": [
           "MGI:anna"
@@ -416,8 +416,8 @@
           "MESH:A09.371.060.067"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001772": [
-          "MESH:A09.371.060.217.325",
-          "MGI:smb"
+          "MGI:smb",
+          "MESH:A09.371.060.217.325"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001777": [
           "MESH:A09.371.060.217.228"
@@ -466,8 +466,8 @@
           "MGI:smb"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001860": [
-          "MGI:anna",
-          "MGI:smb"
+          "MGI:smb",
+          "MGI:anna"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001863": [
           "MGI:anna"
@@ -530,8 +530,8 @@
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002053": [
-          "MGI:llw2",
-          "MESH:A06.407.071.140.960"
+          "MESH:A06.407.071.140.960",
+          "MGI:llw2"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002054": [
           "MESH:A06.407.071.140.950"
@@ -826,8 +826,8 @@
           "MA:th"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0003299": [
-          "MGI:anna",
-          "MGI:smb"
+          "MGI:smb",
+          "MGI:anna"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0003316": [
           "UBERON:cjm"
@@ -938,8 +938,8 @@
           "ncithesaurus:Bowman_s_Membrane"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0004450": [
-          "ncithesaurus:Gastric_Vein",
-          "UBERON:cjm"
+          "UBERON:cjm",
+          "ncithesaurus:Gastric_Vein"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0004544": [
           "MGI:csmith"
@@ -1690,8 +1690,8 @@
           "MGI:csmith"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0010412": [
-          "MGI:rbabiuk",
-          "MGI:csmith"
+          "MGI:csmith",
+          "MGI:rbabiuk"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0010413": [
           "MGI:csmith"
@@ -2314,8 +2314,8 @@
           "ncithesaurus:Anterior_Surface_of_the_Prostate"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0035526": [
-          "ncithesaurus:Superficial_Peroneal_Nerve",
-          "UBERON:cjm"
+          "UBERON:cjm",
+          "ncithesaurus:Superficial_Peroneal_Nerve"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0035532": [
           "ncithesaurus:Deep_Middle_Cerebral_Vein"
@@ -8407,8 +8407,8 @@
           "MESH:A01.378.610"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0000983": [
-          "MA:th",
-          "FMA:TA"
+          "FMA:TA",
+          "MA:th"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0000988": [
           "ncithesaurus:Pons_Varolii"
@@ -8577,8 +8577,8 @@
           "FMA:TA"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001284": [
-          "ncithesaurus:Cortical_Column",
-          "FMA:TA"
+          "FMA:TA",
+          "ncithesaurus:Cortical_Column"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001293": [
           "FMA:TA"
@@ -9020,8 +9020,8 @@
           "FMA:TA"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002022": [
-          "FMA:CMA",
-          "FMA:TA"
+          "FMA:TA",
+          "FMA:CMA"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002024": [
           "FMA:TA"
@@ -9784,12 +9784,12 @@
           "FMA:TA"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0003822": [
-          "MA:th",
-          "FMA:TA"
+          "FMA:TA",
+          "MA:th"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0003823": [
-          "MESH:A01.378.610.500",
-          "FMA:TA"
+          "FMA:TA",
+          "MESH:A01.378.610.500"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0003864": [
           "FMA:TA"
@@ -9889,8 +9889,8 @@
           "FMA:TA"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0004200": [
-          "ncithesaurus:Pyramid_of_Malpighi",
-          "UBERON:cjm"
+          "UBERON:cjm",
+          "ncithesaurus:Pyramid_of_Malpighi"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0004201": [
           "FMA:TA"
@@ -9923,8 +9923,8 @@
           "FMA:TA"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0004452": [
-          "MA:th",
-          "FMA:TA"
+          "FMA:TA",
+          "MA:th"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0004454": [
           "MA:th"
@@ -10188,15 +10188,15 @@
           "FMA:TA"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0005390": [
-          "ncithesaurus:Molecular_layer",
-          "FMA:TA"
+          "FMA:TA",
+          "ncithesaurus:Molecular_layer"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0005391": [
           "FMA:TA"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0005392": [
-          "ncithesaurus:External_Pyramidal_Cell_Layer",
-          "FMA:TA"
+          "FMA:TA",
+          "ncithesaurus:External_Pyramidal_Cell_Layer"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0005393": [
           "FMA:TA"
@@ -10795,8 +10795,8 @@
           "FMA:TA"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0010544": [
-          "MA:th",
-          "FMA:TA"
+          "FMA:TA",
+          "MA:th"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0010545": [
           "FMA:TA"
@@ -10982,8 +10982,8 @@
           "FMA:TA"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0012279": [
-          "MESH:A06.224.736",
-          "ncithesaurus:Paraganglion"
+          "ncithesaurus:Paraganglion",
+          "MESH:A06.224.736"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0012281": [
           "MESH:A13.734"
@@ -11419,8 +11419,8 @@
           "FMA:FMA"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0016524": [
-          "FMA:FMA",
-          "FMA:TA"
+          "FMA:TA",
+          "FMA:FMA"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0016525": [
           "FMA:TA"
@@ -11726,8 +11726,8 @@
           "FMA:TA"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0035619": [
-          "MGI:cs",
-          "FMA:TA"
+          "FMA:TA",
+          "MGI:cs"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0035655": [
           "FMA:TA"
@@ -14521,8 +14521,8 @@
           "MESH:A08.186.211.577.699.573"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002289": [
-          "MESH:A08.186.211.132.659.822.187",
-          "ncithesaurus:Cerebral_Aqueduct"
+          "ncithesaurus:Cerebral_Aqueduct",
+          "MESH:A08.186.211.132.659.822.187"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002320": [
           "MESH:A05.810.453.736.520.380"
@@ -14709,8 +14709,8 @@
           "MESH:A01.047.412"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0003705": [
-          "ncithesaurus:Meckel_Diverticulum",
-          "MESH:A03.492.411.620.484.612"
+          "MESH:A03.492.411.620.484.612",
+          "ncithesaurus:Meckel_Diverticulum"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0003718": [
           "MESH:A08.800.550.700.500.500"
@@ -14732,8 +14732,8 @@
           "MESH:A16.254.462"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0004454": [
-          "MESH:A01.378.610.250.149",
-          "MESH:A13.473.821"
+          "MESH:A13.473.821",
+          "MESH:A01.378.610.250.149"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0004684": [
           "MESH:A08.186.211.132.659.632"
@@ -14826,8 +14826,8 @@
           "ncithesaurus:Vesicular_Gland"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0007378": [
-          "MESH:A16.631.325",
-          "ncithesaurus:Egg_Yolk"
+          "ncithesaurus:Egg_Yolk",
+          "MESH:A16.631.325"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0007650": [
           "MESH:A03.365.414"

@@ -1,0 +1,3828 @@
+{
+  "http://purl.obolibrary.org/obo/mod.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/mod.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/MOD_00030": [
+          "RESID:AA0021#FMET"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00034": [
+          "RESID:AA0025#CYS2"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00036": [
+          "Unimod:35#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00040": [
+          "Unimod:28#Q",
+          "RESID:AA0031#GLN"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00041": [
+          "Unimod:299#E"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00042": [
+          "Unimod:21#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00043": [
+          "Unimod:21#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00046": [
+          "Unimod:21#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00047": [
+          "Unimod:21#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00048": [
+          "Unimod:21#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00049": [
+          "Unimod:375#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00064": [
+          "Unimod:1#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00065": [
+          "Unimod:1#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00068": [
+          "Unimod:45#G"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00076": [
+          "Unimod:36#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00077": [
+          "Unimod:36#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00079": [
+          "Unimod:34#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00081": [
+          "RESID:AA0072#GLU",
+          "Unimod:34#E"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00084": [
+          "Unimod:36#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00085": [
+          "Unimod:34#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00086": [
+          "Unimod:47#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00087": [
+          "Unimod:45#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00088": [
+          "Unimod:47#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00089": [
+          "Unimod:47#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00110": [
+          "Unimod:39#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00111": [
+          "Unimod:44#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00113": [
+          "Unimod:48#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00114": [
+          "Unimod:34#C-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00115": [
+          "Unimod:47#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00116": [
+          "Unimod:377#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00119": [
+          "RESID:AA0110#CSX"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00123": [
+          "Unimod:299#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00124": [
+          "Unimod:378#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00125": [
+          "Unimod:379#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00126": [
+          "Unimod:3#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00127": [
+          "Unimod:42#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00128": [
+          "Unimod:46#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00129": [
+          "Unimod:380#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00130": [
+          "Unimod:352#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00131": [
+          "Unimod:381#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00132": [
+          "RESID:AA0123#KSX"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00133": [
+          "RESID:AA0124#GLN"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00136": [
+          "RESID:AA0127#CYS"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00137": [
+          "Unimod:7#F"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00138": [
+          "Unimod:385#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00139": [
+          "Unimod:64#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00140": [
+          "Unimod:387#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00141": [
+          "Unimod:388#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00142": [
+          "Unimod:389#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00144": [
+          "Unimod:390#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00151": [
+          "Unimod:391#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00152": [
+          "Unimod:50#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00153": [
+          "Unimod:50#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00154": [
+          "Unimod:50#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00155": [
+          "Unimod:35#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00156": [
+          "Unimod:392#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00157": [
+          "Unimod:392#W"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00159": [
+          "Unimod:49#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00160": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00161": [
+          "Unimod:41#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00166": [
+          "Unimod:41#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00176": [
+          "Unimod:395#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00177": [
+          "Unimod:213#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00178": [
+          "Unimod:213#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00179": [
+          "Unimod:396#E"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00180": [
+          "Unimod:40#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00181": [
+          "Unimod:40#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00182": [
+          "Unimod:340#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00188": [
+          "Unimod:340#W"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00189": [
+          "Unimod:23#S",
+          "RESID:AA0181#SER"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00190": [
+          "Unimod:23#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00193": [
+          "RESID:AA0185#CYS",
+          "Unimod:402#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00194": [
+          "Unimod:403#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00198": [
+          "RESID:AA0191#ALA"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00202": [
+          "RESID:AA0195#SER"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00208": [
+          "Unimod:405#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00209": [
+          "RESID:AA0204#SER"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00210": [
+          "Unimod:35#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00216": [
+          "Unimod:122#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00219": [
+          "Unimod:7#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00222": [
+          "Unimod:41#W"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00225": [
+          "Unimod:409#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00226": [
+          "Unimod:50#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00227": [
+          "Unimod:21#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00232": [
+          "Unimod:405#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00233": [
+          "Unimod:413#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00236": [
+          "Unimod:213#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00237": [
+          "Unimod:39#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00239": [
+          "Unimod:34#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00242": [
+          "Unimod:213#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00253": [
+          "RESID:AA0248#SEC"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00256": [
+          "Unimod:425#M"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00261": [
+          "Unimod:417#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00267": [
+          "Unimod:425#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00268": [
+          "Unimod:425#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00269": [
+          "Unimod:419#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00270": [
+          "RESID:AA0265#INT"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00272": [
+          "Unimod:405#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00279": [
+          "Unimod:422#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00280": [
+          "Unimod:422#V"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00282": [
+          "Unimod:423#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00286": [
+          "Unimod:424#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00287": [
+          "Unimod:425#P"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00292": [
+          "Unimod:422#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00295": [
+          "Unimod:426#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00296": [
+          "Unimod:54#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00300": [
+          "Unimod:213#E"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00304": [
+          "Unimod:34#C-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00307": [
+          "Unimod:23#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00308": [
+          "Unimod:23#Q"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00309": [
+          "Unimod:299#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00311": [
+          "Unimod:281#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00312": [
+          "Unimod:45#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00313": [
+          "Unimod:431#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00314": [
+          "Unimod:432#C-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00316": [
+          "Unimod:36#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00317": [
+          "Unimod:433#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00321": [
+          "Unimod:434#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00323": [
+          "Unimod:34#C-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00325": [
+          "Unimod:39#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00326": [
+          "Unimod:435#K",
+          "RESID:AA0321#LYS"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00329": [
+          "Unimod:436#E"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00330": [
+          "Unimod:413#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00332": [
+          "Unimod:41#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00333": [
+          "Unimod:437#C-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00334": [
+          "Unimod:390#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00337": [
+          "Unimod:5#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00338": [
+          "Unimod:438#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00339": [
+          "Unimod:439#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00340": [
+          "Unimod:440#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00354": [
+          "Unimod:442#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00355": [
+          "Unimod:442#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00356": [
+          "Unimod:443#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00357": [
+          "Unimod:409#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00358": [
+          "Unimod:409#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00360": [
+          "Unimod:444#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00363": [
+          "RESID:AA0358#SEC"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00364": [
+          "Unimod:445#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00366": [
+          "Unimod:40#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00367": [
+          "Unimod:40#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00368": [
+          "Unimod:299#M"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00369": [
+          "Unimod:1#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00374": [
+          "Unimod:425#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00375": [
+          "Unimod:425#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00376": [
+          "Unimod:405#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00377": [
+          "Unimod:417#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00378": [
+          "Unimod:447#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00379": [
+          "Unimod:448#C-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00380": [
+          "Unimod:424#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00381": [
+          "RESID:AA0376#SEC"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00389": [
+          "Unimod:122#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00390": [
+          "Unimod:449#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00391": [
+          "Unimod:426#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00392": [
+          "Unimod:449#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00401": [
+          "Unimod:8#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00402": [
+          "Unimod:9#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00403": [
+          "Unimod:10#M"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00404": [
+          "Unimod:11#M"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00405": [
+          "Unimod:12#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00406": [
+          "Unimod:13#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00410": [
+          "Unimod:17#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00413": [
+          "Unimod:20#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00414": [
+          "Unimod:34#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00417": [
+          "Unimod:24#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00419": [
+          "Unimod:26#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00420": [
+          "Unimod:27#E",
+          "RESID:AA0031#GLU"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00422": [
+          "Unimod:29#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00424": [
+          "Unimod:31#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00447": [
+          "Unimod:54#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00451": [
+          "Unimod:58#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00452": [
+          "Unimod:59#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00457": [
+          "Unimod:64#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00458": [
+          "Unimod:65#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00459": [
+          "Unimod:66#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00460": [
+          "Unimod:345#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00462": [
+          "Unimod:351#W"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00463": [
+          "Unimod:350#W"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00464": [
+          "Unimod:425#W"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00465": [
+          "RESID:AA0146#var",
+          "Unimod:425#F"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00474": [
+          "Unimod:97#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00475": [
+          "Unimod:342#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00477": [
+          "Unimod:360#P"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00478": [
+          "Unimod:35#P"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00479": [
+          "Unimod:344#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00480": [
+          "Unimod:105#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00481": [
+          "Unimod:106#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00482": [
+          "RESID:AA0021#MET",
+          "Unimod:122#M"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00483": [
+          "Unimod:108#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00484": [
+          "Unimod:112#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00485": [
+          "Unimod:113#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00486": [
+          "Unimod:114#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00487": [
+          "Unimod:115#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00488": [
+          "Unimod:116#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00489": [
+          "Unimod:117#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00491": [
+          "Unimod:119#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00492": [
+          "Unimod:121#K",
+          "RESID:AA0125#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00494": [
+          "Unimod:123#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00495": [
+          "Unimod:124#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00499": [
+          "Unimod:128#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00503": [
+          "RESID:AA0059#var",
+          "Unimod:134#G"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00504": [
+          "RESID:AA0059#var",
+          "Unimod:135#G"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00506": [
+          "RESID:AA0151#var",
+          "Unimod:137#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00510": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00511": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00512": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00513": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00514": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00515": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00516": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00518": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00519": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00520": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00521": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00522": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00523": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00524": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00525": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00526": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00527": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00529": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00530": [
+          "Unimod:162#M"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00565": [
+          "Unimod:7#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00588": [
+          "Unimod:268#V"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00600": [
+          "Unimod:280#E"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00618": [
+          "Unimod:299#W"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00648": [
+          "RESID:AA0364#var",
+          "RESID:AA0051#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00657": [
+          "RESID:AA0072#GLN"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00684": [
+          "Unimod:7#N",
+          "RESID:AA0004#ASN"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00685": [
+          "Unimod:7#Q",
+          "RESID:AA0006#GLN"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00686": [
+          "RESID:AA0022#CYS",
+          "Unimod:162#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00706": [
+          "Unimod:401#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00719": [
+          "Unimod:35#M"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00722": [
+          "Unimod:34#Q"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00724": [
+          "Unimod:34#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00765": [
+          "RESID:AA0025#CYS1"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00783": [
+          "Unimod:36#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00791": [
+          "Unimod:366#Q"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00793": [
+          "RESID:AA0181#CYS"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00807": [
+          "RESID:AA0127#SER",
+          "Unimod:385#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00812": [
+          "Unimod:295#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00813": [
+          "Unimod:295#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00818": [
+          "Unimod:394#C-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00824": [
+          "RESID:AA0181#TYR"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00831": [
+          "RESID:AA0151#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00835": [
+          "Unimod:401#S",
+          "RESID:AA0185#SER"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00838": [
+          "Unimod:262#L"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00855": [
+          "Unimod:37#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00857": [
+          "Unimod:37#A"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00858": [
+          "RESID:AA0191#SER"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00867": [
+          "RESID:AA0358#CYS"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00869": [
+          "RESID:AA0001#ASP"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00872": [
+          "RESID:AA0202#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00873": [
+          "RESID:AA0202#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00874": [
+          "RESID:AA0202#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00875": [
+          "RESID:AA0202#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00882": [
+          "Unimod:472#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00886": [
+          "Unimod:936#W"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00889": [
+          "Unimod:36#P"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00890": [
+          "Unimod:21#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00892": [
+          "RESID:AA0195#CYS"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00897": [
+          "RESID:AA0043#var",
+          "RESID:AA0223#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00898": [
+          "RESID:AA0107#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00899": [
+          "RESID:AA0069#var",
+          "RESID:AA0107#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00933": [
+          "Unimod:319#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00952": [
+          "RESID:AA0441#ASP"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00953": [
+          "RESID:AA0597#ESX"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00972": [
+          "Unimod:340#F"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01024": [
+          "Unimod:35#P"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01047": [
+          "Unimod:35#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01060": [
+          "Unimod:4#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01061": [
+          "Unimod:6#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01065": [
+          "Unimod:41#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01078": [
+          "Unimod:472#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01084": [
+          "Unimod:6#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01090": [
+          "Unimod:4#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01094": [
+          "Unimod:6#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01116": [
+          "RESID:AA0105#var",
+          "RESID:AA0102#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01119": [
+          "RESID:AA0104#var",
+          "RESID:AA0105#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01133": [
+          "RESID:AA0103#var",
+          "RESID:AA0105#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01140": [
+          "Unimod:130#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01144": [
+          "RESID:AA0107#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01171": [
+          "Unimod:1#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01181": [
+          "Unimod:34#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01182": [
+          "PubMed:"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01184": [
+          "RESID:AA0437#CYS2"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01185": [
+          "RESID:AA0003#ASP"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01188": [
+          "Unimod:212#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01189": [
+          "Unimod:212#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01191": [
+          "Unimod:211#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01192": [
+          "Unimod:211#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01193": [
+          "Unimod:264#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01194": [
+          "Unimod:264#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01195": [
+          "Unimod:136#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01197": [
+          "Unimod:490#Q"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01198": [
+          "Unimod:490#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01199": [
+          "Unimod:490#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01200": [
+          "Unimod:490#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01201": [
+          "Unimod:490#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01202": [
+          "Unimod:490#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01203": [
+          "Unimod:25#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01205": [
+          "Unimod:160#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01206": [
+          "Unimod:160#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01207": [
+          "Unimod:160#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01208": [
+          "Unimod:531#C-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01209": [
+          "Unimod:531#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01210": [
+          "Unimod:531#E"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01211": [
+          "Unimod:29#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01212": [
+          "Unimod:4#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01213": [
+          "Unimod:4#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01214": [
+          "Unimod:4#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01215": [
+          "Unimod:4#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01216": [
+          "Unimod:4#E"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01217": [
+          "Unimod:285#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01218": [
+          "Unimod:285#E"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01219": [
+          "Unimod:286#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01220": [
+          "Unimod:286#E"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01221": [
+          "Unimod:122#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01222": [
+          "Unimod:122#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01223": [
+          "Unimod:126#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01224": [
+          "Unimod:126#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01225": [
+          "Unimod:127#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01226": [
+          "Unimod:127#W"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01227": [
+          "Unimod:127#F"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01228": [
+          "Unimod:129#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01229": [
+          "Unimod:129#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01230": [
+          "Unimod:365#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01231": [
+          "Unimod:59#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01232": [
+          "Unimod:58#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01233": [
+          "Unimod:56#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01234": [
+          "Unimod:258#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01235": [
+          "Unimod:258#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01236": [
+          "Unimod:258#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01237": [
+          "Unimod:53#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01238": [
+          "Unimod:53#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01239": [
+          "Unimod:53#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01241": [
+          "Unimod:298#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01242": [
+          "Unimod:298#E"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01243": [
+          "Unimod:530#C-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01244": [
+          "Unimod:530#E"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01245": [
+          "Unimod:530#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01246": [
+          "Unimod:295#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01247": [
+          "Unimod:295#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01248": [
+          "Unimod:292#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01249": [
+          "Unimod:292#W"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01250": [
+          "Unimod:292#F"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01251": [
+          "Unimod:293#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01252": [
+          "Unimod:319#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01253": [
+          "Unimod:319#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01254": [
+          "Unimod:199#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01255": [
+          "Unimod:200#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01256": [
+          "Unimod:200#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01257": [
+          "Unimod:194#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01258": [
+          "Unimod:314#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01259": [
+          "Unimod:314#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01260": [
+          "Unimod:270#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01261": [
+          "Unimod:270#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01262": [
+          "Unimod:270#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01263": [
+          "Unimod:270#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01264": [
+          "Unimod:270#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01265": [
+          "Unimod:270#P"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01266": [
+          "Unimod:271#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01267": [
+          "Unimod:271#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01268": [
+          "Unimod:271#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01269": [
+          "Unimod:271#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01270": [
+          "Unimod:271#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01271": [
+          "Unimod:271#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01272": [
+          "Unimod:89#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01273": [
+          "Unimod:276#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01274": [
+          "Unimod:276#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01275": [
+          "Unimod:276#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01276": [
+          "Unimod:276#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01277": [
+          "Unimod:253#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01278": [
+          "Unimod:253#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01279": [
+          "Unimod:253#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01280": [
+          "Unimod:118#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01281": [
+          "Unimod:118#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01282": [
+          "Unimod:206#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01283": [
+          "Unimod:206#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01284": [
+          "Unimod:206#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01285": [
+          "Unimod:695#L"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01286": [
+          "Unimod:695#I"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01287": [
+          "Unimod:364#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01288": [
+          "Unimod:255#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01289": [
+          "Unimod:255#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01293": [
+          "Unimod:366#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01295": [
+          "Unimod:30#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01296": [
+          "Unimod:30#E"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01297": [
+          "Unimod:772#P"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01298": [
+          "Unimod:335#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01299": [
+          "Unimod:335#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01300": [
+          "Unimod:335#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01301": [
+          "Unimod:337#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01302": [
+          "Unimod:337#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01303": [
+          "Unimod:454#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01304": [
+          "Unimod:454#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01305": [
+          "Unimod:454#W"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01306": [
+          "Unimod:454#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01307": [
+          "Unimod:332#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01308": [
+          "Unimod:332#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01309": [
+          "Unimod:332#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01310": [
+          "Unimod:60#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01311": [
+          "Unimod:61#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01312": [
+          "Unimod:62#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01313": [
+          "Unimod:63#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01314": [
+          "Unimod:64#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01315": [
+          "Unimod:65#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01316": [
+          "Unimod:66#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01317": [
+          "Unimod:178#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01318": [
+          "Unimod:178#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01319": [
+          "Unimod:176#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01320": [
+          "Unimod:176#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01321": [
+          "Unimod:176#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01322": [
+          "Unimod:256#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01323": [
+          "Unimod:256#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01324": [
+          "Unimod:254#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01325": [
+          "Unimod:254#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01326": [
+          "Unimod:184#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01327": [
+          "Unimod:184#F"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01328": [
+          "Unimod:6#W"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01331": [
+          "Unimod:188#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01332": [
+          "Unimod:188#L"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01333": [
+          "Unimod:188#I"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01334": [
+          "Unimod:188#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01335": [
+          "Unimod:464#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01337": [
+          "Unimod:528#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01338": [
+          "Unimod:280#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01340": [
+          "Unimod:91#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01341": [
+          "Unimod:90#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01345": [
+          "Unimod:401#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01346": [
+          "Unimod:41#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01347": [
+          "Unimod:41#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01348": [
+          "Unimod:41#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01349": [
+          "Unimod:320#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01350": [
+          "Unimod:320#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01351": [
+          "Unimod:354#W"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01352": [
+          "Unimod:354#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01353": [
+          "Unimod:141#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01354": [
+          "Unimod:149#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01355": [
+          "Unimod:149#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01356": [
+          "Unimod:149#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01357": [
+          "Unimod:510#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01358": [
+          "Unimod:687#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01359": [
+          "Unimod:687#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01360": [
+          "Unimod:261#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01361": [
+          "Unimod:260#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01362": [
+          "Unimod:260#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01363": [
+          "Unimod:260#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01364": [
+          "Unimod:478#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01365": [
+          "Unimod:478#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01366": [
+          "Unimod:478#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01367": [
+          "Unimod:478#P"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01368": [
+          "Unimod:478#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01398": [
+          "Unimod:58#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01436": [
+          "RESID:AA0489#CYS"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01437": [
+          "RESID:AA0489#TRI"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01444": [
+          "RESID:AA0492#CYS"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01445": [
+          "RESID:AA0492#SER"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01458": [
+          "Unimod:1#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01459": [
+          "Unimod:199#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01466": [
+          "Unimod:302#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01467": [
+          "Unimod:302#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01468": [
+          "RESID:AA0248#CYS"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01469": [
+          "RESID:AA0376#CYS"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01484": [
+          "RESID:AA0124#GLU"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01486": [
+          "Unimod:532#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01487": [
+          "Unimod:532#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01488": [
+          "Unimod:532#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01493": [
+          "Unimod:533#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01494": [
+          "Unimod:533#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01495": [
+          "Unimod:533#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01500": [
+          "Unimod:214#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01501": [
+          "Unimod:214#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01502": [
+          "Unimod:214#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01507": [
+          "Unimod:214#N-term",
+          "Unimod:889#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01508": [
+          "Unimod:214#K",
+          "Unimod:889#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01509": [
+          "Unimod:889#Y",
+          "Unimod:214#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01529": [
+          "Unimod:730#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01530": [
+          "Unimod:730#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01531": [
+          "Unimod:730#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01536": [
+          "Unimod:730#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01537": [
+          "Unimod:730#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01538": [
+          "Unimod:730#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01543": [
+          "Unimod:731#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01544": [
+          "Unimod:731#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01545": [
+          "Unimod:731#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01550": [
+          "Unimod:730#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01551": [
+          "Unimod:730#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01552": [
+          "Unimod:730#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01557": [
+          "Unimod:730#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01558": [
+          "Unimod:730#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01559": [
+          "Unimod:730#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01564": [
+          "Unimod:731#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01565": [
+          "Unimod:731#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01566": [
+          "Unimod:731#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01571": [
+          "Unimod:731#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01572": [
+          "Unimod:731#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01573": [
+          "Unimod:731#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01578": [
+          "Unimod:731#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01579": [
+          "Unimod:731#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01580": [
+          "Unimod:731#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01622": [
+          "Unimod:35#W"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01623": [
+          "RESID:AA0265#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01624": [
+          "RESID:AA0441#ASN"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01654": [
+          "Unimod:139#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01655": [
+          "Unimod:139#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01661": [
+          "RESID:AA0127#TYR"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01669": [
+          "Unimod:37#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01671": [
+          "RESID:AA0525#THR"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01674": [
+          "Unimod:43#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01675": [
+          "Unimod:43#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01676": [
+          "Unimod:43#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01678": [
+          "Unimod:5#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01679": [
+          "Unimod:5#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01680": [
+          "Unimod:34#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01681": [
+          "Unimod:34#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01682": [
+          "Unimod:34#C"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01685": [
+          "Unimod:47#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01686": [
+          "Unimod:36#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01687": [
+          "Unimod:37#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01688": [
+          "Unimod:35#N"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01689": [
+          "Unimod:34#C-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01693": [
+          "Unimod:25#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01695": [
+          "Unimod:293#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01697": [
+          "Unimod:276#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01711": [
+          "Unimod:214#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01712": [
+          "Unimod:214#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01718": [
+          "Unimod:214#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01721": [
+          "Unimod:737#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01722": [
+          "Unimod:737#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01723": [
+          "Unimod:737#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01729": [
+          "Unimod:737#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01730": [
+          "Unimod:737#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01731": [
+          "Unimod:737#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01737": [
+          "Unimod:737#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01738": [
+          "Unimod:737#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01739": [
+          "Unimod:737#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01745": [
+          "Unimod:737#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01746": [
+          "Unimod:737#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01747": [
+          "Unimod:737#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01753": [
+          "Unimod:737#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01754": [
+          "Unimod:737#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01755": [
+          "Unimod:737#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01761": [
+          "Unimod:737#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01762": [
+          "Unimod:737#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01763": [
+          "Unimod:737#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01769": [
+          "RESID:AA0079#var",
+          "Unimod:431#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01770": [
+          "RESID:AA0079#var",
+          "RESID:AA0097#var"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01785": [
+          "RESID:AA0536#THR"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01810": [
+          "Unimod:268#P"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01811": [
+          "Unimod:268#M"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01812": [
+          "Unimod:268#M"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01837": [
+          "RESID:AA0110#CYS2"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01838": [
+          "RESID:AA0123#LYS"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01849": [
+          "RESID:AA0204#CYS2"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01865": [
+          "Unimod:888#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01866": [
+          "Unimod:888#K"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01867": [
+          "Unimod:888#Y"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01890": [
+          "RESID:AA0566#FMET"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01891": [
+          "RESID:AA0566#MET"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01895": [
+          "Unimod:58#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01908": [
+          "Unimod:261#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01909": [
+          "Unimod:464#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01917": [
+          "RESID:AA0294#ASP"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01921": [
+          "RESID:AA0190#ASP"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01926": [
+          "Unimod:35#D"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01930": [
+          "RESID:AA0190#ASN"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01938": [
+          "RESID:AA0592#ASN"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01939": [
+          "RESID:AA0592#ASP"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01940": [
+          "RESID:AA0593#ASN"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01941": [
+          "RESID:AA0593#ASP"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01947": [
+          "RESID:AA0525#TDX"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01951": [
+          "RESID:AA0597#QSX"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01952": [
+          "RESID:AA0536#TQX"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01961": [
+          "RESID:AA0536#THR"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01980": [
+          "Unimod:41#R"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02038": [
+          "Unimod:34#H"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02081": [
+          "Unimod:64#N-term"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02089": [
+          "Unimod:417#S"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02090": [
+          "Unimod:417#T"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02091": [
+          "Unimod:405#S"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "PMID": {
+          "http://purl.obolibrary.org/obo/MOD_01914": "PMID:743239"
+        }
+      },
+      "unknown_prefixes": {
+        "DeltaMass": {
+          "http://purl.obolibrary.org/obo/MOD_00010": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00011": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00012": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00013": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00014": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00015": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00016": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00017": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00018": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00019": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00020": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00021": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00022": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00023": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00024": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00025": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00026": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00027": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00028": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00029": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00034": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00040": "DeltaMass:123",
+          "http://purl.obolibrary.org/obo/MOD_00041": "DeltaMass:217",
+          "http://purl.obolibrary.org/obo/MOD_00046": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00047": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00048": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00049": "DeltaMass:122",
+          "http://purl.obolibrary.org/obo/MOD_00064": "DeltaMass:214",
+          "http://purl.obolibrary.org/obo/MOD_00072": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00073": "DeltaMass:169",
+          "http://purl.obolibrary.org/obo/MOD_00080": "DeltaMass:166",
+          "http://purl.obolibrary.org/obo/MOD_00081": "DeltaMass:167",
+          "http://purl.obolibrary.org/obo/MOD_00085": "DeltaMass:165",
+          "http://purl.obolibrary.org/obo/MOD_00111": "DeltaMass:293",
+          "http://purl.obolibrary.org/obo/MOD_00113": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00115": "DeltaMass:303",
+          "http://purl.obolibrary.org/obo/MOD_00117": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00118": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00119": "DeltaMass:7",
+          "http://purl.obolibrary.org/obo/MOD_00122": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00125": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00126": "DeltaMass:305",
+          "http://purl.obolibrary.org/obo/MOD_00127": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00128": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00130": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00131": "DeltaMass:353",
+          "http://purl.obolibrary.org/obo/MOD_00132": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00133": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00140": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00144": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00154": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00155": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00157": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00158": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00159": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00177": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00178": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00181": "DeltaMass:88",
+          "http://purl.obolibrary.org/obo/MOD_00183": "DeltaMass:83",
+          "http://purl.obolibrary.org/obo/MOD_00186": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00189": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00190": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00193": "DeltaMass:350",
+          "http://purl.obolibrary.org/obo/MOD_00208": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00210": "DeltaMass:41",
+          "http://purl.obolibrary.org/obo/MOD_00217": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00219": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00226": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00232": "DeltaMass:316",
+          "http://purl.obolibrary.org/obo/MOD_00233": "DeltaMass:304",
+          "http://purl.obolibrary.org/obo/MOD_00234": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00237": "DeltaMass:61",
+          "http://purl.obolibrary.org/obo/MOD_00256": "DeltaMass:205",
+          "http://purl.obolibrary.org/obo/MOD_00261": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00268": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00287": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00299": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00300": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00301": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00307": "DeltaMass:18",
+          "http://purl.obolibrary.org/obo/MOD_00311": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00343": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00372": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00373": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00394": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00398": "DeltaMass:56",
+          "http://purl.obolibrary.org/obo/MOD_00399": "DeltaMass:64",
+          "http://purl.obolibrary.org/obo/MOD_00400": "DeltaMass:32",
+          "http://purl.obolibrary.org/obo/MOD_00403": "DeltaMass:113",
+          "http://purl.obolibrary.org/obo/MOD_00404": "DeltaMass:90",
+          "http://purl.obolibrary.org/obo/MOD_00414": "DeltaMass:215",
+          "http://purl.obolibrary.org/obo/MOD_00417": "DeltaMass:72",
+          "http://purl.obolibrary.org/obo/MOD_00419": "DeltaMass:336",
+          "http://purl.obolibrary.org/obo/MOD_00420": "DeltaMass:16",
+          "http://purl.obolibrary.org/obo/MOD_00423": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00424": "DeltaMass:253",
+          "http://purl.obolibrary.org/obo/MOD_00427": "DeltaMass:36",
+          "http://purl.obolibrary.org/obo/MOD_00429": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00434": "DeltaMass:203",
+          "http://purl.obolibrary.org/obo/MOD_00437": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00438": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00440": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00441": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00447": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00460": "DeltaMass:334",
+          "http://purl.obolibrary.org/obo/MOD_00461": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00462": "DeltaMass:357",
+          "http://purl.obolibrary.org/obo/MOD_00464": "DeltaMass:356",
+          "http://purl.obolibrary.org/obo/MOD_00478": "DeltaMass:354",
+          "http://purl.obolibrary.org/obo/MOD_00479": "DeltaMass:351",
+          "http://purl.obolibrary.org/obo/MOD_00493": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00500": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00505": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00507": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00517": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00527": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00553": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00596": "DeltaMass:235",
+          "http://purl.obolibrary.org/obo/MOD_00600": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00622": "DeltaMass:80",
+          "http://purl.obolibrary.org/obo/MOD_00677": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00695": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00696": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00704": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00719": "DeltaMass:177",
+          "http://purl.obolibrary.org/obo/MOD_00729": "DeltaMass:172",
+          "http://purl.obolibrary.org/obo/MOD_00734": "DeltaMass:247",
+          "http://purl.obolibrary.org/obo/MOD_00736": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00737": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00752": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00765": "DeltaMass:260",
+          "http://purl.obolibrary.org/obo/MOD_00779": "DeltaMass:352",
+          "http://purl.obolibrary.org/obo/MOD_00793": "DeltaMass:8",
+          "http://purl.obolibrary.org/obo/MOD_00796": "DeltaMass:129",
+          "http://purl.obolibrary.org/obo/MOD_00807": "DeltaMass:23",
+          "http://purl.obolibrary.org/obo/MOD_00816": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00819": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00835": "DeltaMass:349",
+          "http://purl.obolibrary.org/obo/MOD_00855": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00873": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00874": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00882": "DeltaMass:171",
+          "http://purl.obolibrary.org/obo/MOD_00883": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00948": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00949": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00950": "DeltaMass:3",
+          "http://purl.obolibrary.org/obo/MOD_00951": "DeltaMass:58",
+          "http://purl.obolibrary.org/obo/MOD_00953": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00955": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00956": "DeltaMass:10",
+          "http://purl.obolibrary.org/obo/MOD_00958": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00959": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00961": "DeltaMass:333",
+          "http://purl.obolibrary.org/obo/MOD_00962": "DeltaMass:343",
+          "http://purl.obolibrary.org/obo/MOD_00963": "DeltaMass:357",
+          "http://purl.obolibrary.org/obo/MOD_00964": "DeltaMass:34",
+          "http://purl.obolibrary.org/obo/MOD_00965": "DeltaMass:342",
+          "http://purl.obolibrary.org/obo/MOD_00966": "DeltaMass:339",
+          "http://purl.obolibrary.org/obo/MOD_00967": "DeltaMass:35",
+          "http://purl.obolibrary.org/obo/MOD_00968": "DeltaMass:347",
+          "http://purl.obolibrary.org/obo/MOD_00969": "DeltaMass:346",
+          "http://purl.obolibrary.org/obo/MOD_00970": "DeltaMass:37",
+          "http://purl.obolibrary.org/obo/MOD_00971": "DeltaMass:38",
+          "http://purl.obolibrary.org/obo/MOD_00973": "DeltaMass:355",
+          "http://purl.obolibrary.org/obo/MOD_00974": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00975": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00976": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00977": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00978": "DeltaMass:345",
+          "http://purl.obolibrary.org/obo/MOD_00979": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00980": "DeltaMass:337",
+          "http://purl.obolibrary.org/obo/MOD_00981": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00982": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00983": "DeltaMass:67",
+          "http://purl.obolibrary.org/obo/MOD_00984": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00986": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00989": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00990": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00991": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00992": "DeltaMass:78",
+          "http://purl.obolibrary.org/obo/MOD_00993": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00994": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00995": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00996": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00997": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_00999": "DeltaMass:90",
+          "http://purl.obolibrary.org/obo/MOD_01001": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01002": "DeltaMass:92",
+          "http://purl.obolibrary.org/obo/MOD_01003": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01004": "DeltaMass:95",
+          "http://purl.obolibrary.org/obo/MOD_01005": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01007": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01008": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01009": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01010": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01011": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01012": "DeltaMass:335",
+          "http://purl.obolibrary.org/obo/MOD_01013": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01014": "DeltaMass:358",
+          "http://purl.obolibrary.org/obo/MOD_01015": "DeltaMass:110",
+          "http://purl.obolibrary.org/obo/MOD_01016": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01017": "DeltaMass:113",
+          "http://purl.obolibrary.org/obo/MOD_01018": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01019": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01020": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01021": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01022": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01023": "DeltaMass:156",
+          "http://purl.obolibrary.org/obo/MOD_01024": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01026": "DeltaMass:126",
+          "http://purl.obolibrary.org/obo/MOD_01027": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01029": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01030": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01031": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01032": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01033": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01034": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01035": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01038": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01040": "DeltaMass:154",
+          "http://purl.obolibrary.org/obo/MOD_01041": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01042": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01043": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01044": "DeltaMass:166",
+          "http://purl.obolibrary.org/obo/MOD_01047": "DeltaMass:168",
+          "http://purl.obolibrary.org/obo/MOD_01050": "DeltaMass:180",
+          "http://purl.obolibrary.org/obo/MOD_01051": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01052": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01053": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01054": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01055": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01056": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01057": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01058": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01059": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01060": "DeltaMass:337",
+          "http://purl.obolibrary.org/obo/MOD_01061": "DeltaMass:197",
+          "http://purl.obolibrary.org/obo/MOD_01062": "DeltaMass:197",
+          "http://purl.obolibrary.org/obo/MOD_01063": "DeltaMass:198",
+          "http://purl.obolibrary.org/obo/MOD_01064": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01065": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01067": "DeltaMass:341",
+          "http://purl.obolibrary.org/obo/MOD_01069": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01070": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01071": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01072": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01073": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01074": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01076": "DeltaMass:215",
+          "http://purl.obolibrary.org/obo/MOD_01077": "DeltaMass:216",
+          "http://purl.obolibrary.org/obo/MOD_01079": "DeltaMass:218",
+          "http://purl.obolibrary.org/obo/MOD_01080": "DeltaMass:219",
+          "http://purl.obolibrary.org/obo/MOD_01081": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01082": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01083": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01085": "DeltaMass:226",
+          "http://purl.obolibrary.org/obo/MOD_01086": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01087": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01088": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01089": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01091": "DeltaMass:233",
+          "http://purl.obolibrary.org/obo/MOD_01092": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01093": "DeltaMass:236",
+          "http://purl.obolibrary.org/obo/MOD_01094": "DeltaMass:237",
+          "http://purl.obolibrary.org/obo/MOD_01095": "DeltaMass:240",
+          "http://purl.obolibrary.org/obo/MOD_01096": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01097": "DeltaMass:242",
+          "http://purl.obolibrary.org/obo/MOD_01098": "DeltaMass:243",
+          "http://purl.obolibrary.org/obo/MOD_01099": "DeltaMass:244",
+          "http://purl.obolibrary.org/obo/MOD_01100": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01101": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01102": "DeltaMass:348",
+          "http://purl.obolibrary.org/obo/MOD_01103": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01104": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01105": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01106": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01107": "DeltaMass:258",
+          "http://purl.obolibrary.org/obo/MOD_01108": "DeltaMass:259",
+          "http://purl.obolibrary.org/obo/MOD_01109": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01111": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01112": "DeltaMass:266",
+          "http://purl.obolibrary.org/obo/MOD_01113": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01114": "DeltaMass:270",
+          "http://purl.obolibrary.org/obo/MOD_01117": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01118": "DeltaMass:275",
+          "http://purl.obolibrary.org/obo/MOD_01120": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01121": "DeltaMass:280",
+          "http://purl.obolibrary.org/obo/MOD_01122": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01123": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01124": "DeltaMass:285",
+          "http://purl.obolibrary.org/obo/MOD_01125": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01126": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01127": "DeltaMass:292",
+          "http://purl.obolibrary.org/obo/MOD_01128": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01129": "DeltaMass:295",
+          "http://purl.obolibrary.org/obo/MOD_01130": "DeltaMass:297",
+          "http://purl.obolibrary.org/obo/MOD_01131": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01132": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01134": "DeltaMass:306",
+          "http://purl.obolibrary.org/obo/MOD_01135": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01136": "DeltaMass:309",
+          "http://purl.obolibrary.org/obo/MOD_01137": "DeltaMass:310",
+          "http://purl.obolibrary.org/obo/MOD_01138": "DeltaMass:311",
+          "http://purl.obolibrary.org/obo/MOD_01139": "DeltaMass:312",
+          "http://purl.obolibrary.org/obo/MOD_01140": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01141": "DeltaMass:314",
+          "http://purl.obolibrary.org/obo/MOD_01144": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01145": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01146": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01147": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01163": "DeltaMass:304",
+          "http://purl.obolibrary.org/obo/MOD_01165": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01166": "DeltaMass:292",
+          "http://purl.obolibrary.org/obo/MOD_01169": "DeltaMass:349",
+          "http://purl.obolibrary.org/obo/MOD_01227": "DeltaMass:181",
+          "http://purl.obolibrary.org/obo/MOD_01228": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01329": "DeltaMass:197",
+          "http://purl.obolibrary.org/obo/MOD_01347": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01470": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01471": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01630": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01653": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01678": "DeltaMass:56",
+          "http://purl.obolibrary.org/obo/MOD_01679": "DeltaMass:56",
+          "http://purl.obolibrary.org/obo/MOD_01697": "DeltaMass:235",
+          "http://purl.obolibrary.org/obo/MOD_01852": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_01871": "DeltaMass:336",
+          "http://purl.obolibrary.org/obo/MOD_01929": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_02038": "DeltaMass:215",
+          "http://purl.obolibrary.org/obo/MOD_02087": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_02089": "DeltaMass:0",
+          "http://purl.obolibrary.org/obo/MOD_02090": "DeltaMass:0"
+        },
+        "OMSSA": {
+          "http://purl.obolibrary.org/obo/MOD_00030": "OMSSA:22",
+          "http://purl.obolibrary.org/obo/MOD_00036": "OMSSA:59",
+          "http://purl.obolibrary.org/obo/MOD_00040": "OMSSA:110",
+          "http://purl.obolibrary.org/obo/MOD_00041": "OMSSA:48",
+          "http://purl.obolibrary.org/obo/MOD_00046": "OMSSA:6",
+          "http://purl.obolibrary.org/obo/MOD_00047": "OMSSA:7",
+          "http://purl.obolibrary.org/obo/MOD_00048": "OMSSA:8",
+          "http://purl.obolibrary.org/obo/MOD_00064": "OMSSA:24",
+          "http://purl.obolibrary.org/obo/MOD_00067": "OMSSA:50",
+          "http://purl.obolibrary.org/obo/MOD_00068": "OMSSA:80",
+          "http://purl.obolibrary.org/obo/MOD_00079": "OMSSA:75",
+          "http://purl.obolibrary.org/obo/MOD_00081": "OMSSA:70",
+          "http://purl.obolibrary.org/obo/MOD_00084": "OMSSA:36",
+          "http://purl.obolibrary.org/obo/MOD_00086": "OMSSA:93",
+          "http://purl.obolibrary.org/obo/MOD_00087": "OMSSA:81",
+          "http://purl.obolibrary.org/obo/MOD_00088": "OMSSA:95",
+          "http://purl.obolibrary.org/obo/MOD_00089": "OMSSA:94",
+          "http://purl.obolibrary.org/obo/MOD_00110": "OMSSA:179",
+          "http://purl.obolibrary.org/obo/MOD_00111": "OMSSA:42",
+          "http://purl.obolibrary.org/obo/MOD_00113": "OMSSA:49",
+          "http://purl.obolibrary.org/obo/MOD_00127": "OMSSA:67",
+          "http://purl.obolibrary.org/obo/MOD_00155": "OMSSA:64",
+          "http://purl.obolibrary.org/obo/MOD_00181": "OMSSA:114",
+          "http://purl.obolibrary.org/obo/MOD_00189": "OMSSA:96",
+          "http://purl.obolibrary.org/obo/MOD_00190": "OMSSA:97",
+          "http://purl.obolibrary.org/obo/MOD_00210": "OMSSA:193",
+          "http://purl.obolibrary.org/obo/MOD_00216": "OMSSA:43",
+          "http://purl.obolibrary.org/obo/MOD_00219": "OMSSA:33",
+          "http://purl.obolibrary.org/obo/MOD_00234": "OMSSA:51",
+          "http://purl.obolibrary.org/obo/MOD_00237": "OMSSA:26",
+          "http://purl.obolibrary.org/obo/MOD_00256": "OMSSA:115",
+          "http://purl.obolibrary.org/obo/MOD_00267": "OMSSA:162",
+          "http://purl.obolibrary.org/obo/MOD_00309": "OMSSA:47",
+          "http://purl.obolibrary.org/obo/MOD_00313": "OMSSA:187",
+          "http://purl.obolibrary.org/obo/MOD_00400": "OMSSA:4",
+          "http://purl.obolibrary.org/obo/MOD_00403": "OMSSA:56",
+          "http://purl.obolibrary.org/obo/MOD_00404": "OMSSA:57",
+          "http://purl.obolibrary.org/obo/MOD_00409": "OMSSA:82",
+          "http://purl.obolibrary.org/obo/MOD_00410": "OMSSA:84",
+          "http://purl.obolibrary.org/obo/MOD_00414": "OMSSA:77",
+          "http://purl.obolibrary.org/obo/MOD_00417": "OMSSA:5",
+          "http://purl.obolibrary.org/obo/MOD_00420": "OMSSA:109",
+          "http://purl.obolibrary.org/obo/MOD_00424": "OMSSA:112",
+          "http://purl.obolibrary.org/obo/MOD_00444": "OMSSA:118",
+          "http://purl.obolibrary.org/obo/MOD_00445": "OMSSA:53",
+          "http://purl.obolibrary.org/obo/MOD_00460": "OMSSA:34",
+          "http://purl.obolibrary.org/obo/MOD_00462": "OMSSA:66",
+          "http://purl.obolibrary.org/obo/MOD_00463": "OMSSA:58",
+          "http://purl.obolibrary.org/obo/MOD_00464": "OMSSA:45",
+          "http://purl.obolibrary.org/obo/MOD_00465": "OMSSA:39",
+          "http://purl.obolibrary.org/obo/MOD_00480": "OMSSA:129",
+          "http://purl.obolibrary.org/obo/MOD_00481": "OMSSA:130",
+          "http://purl.obolibrary.org/obo/MOD_00483": "OMSSA:83",
+          "http://purl.obolibrary.org/obo/MOD_00492": "OMSSA:52",
+          "http://purl.obolibrary.org/obo/MOD_00502": "OMSSA:116",
+          "http://purl.obolibrary.org/obo/MOD_00503": "OMSSA:78",
+          "http://purl.obolibrary.org/obo/MOD_00504": "OMSSA:79",
+          "http://purl.obolibrary.org/obo/MOD_00510": "OMSSA:183",
+          "http://purl.obolibrary.org/obo/MOD_00530": "OMSSA:113",
+          "http://purl.obolibrary.org/obo/MOD_00546": "OMSSA:88",
+          "http://purl.obolibrary.org/obo/MOD_00571": "OMSSA:111",
+          "http://purl.obolibrary.org/obo/MOD_00581": "OMSSA:87",
+          "http://purl.obolibrary.org/obo/MOD_00582": "OMSSA:181",
+          "http://purl.obolibrary.org/obo/MOD_00587": "OMSSA:137",
+          "http://purl.obolibrary.org/obo/MOD_00617": "OMSSA:21",
+          "http://purl.obolibrary.org/obo/MOD_00719": "OMSSA:1",
+          "http://purl.obolibrary.org/obo/MOD_00722": "OMSSA:14",
+          "http://purl.obolibrary.org/obo/MOD_00724": "OMSSA:74",
+          "http://purl.obolibrary.org/obo/MOD_00775": "OMSSA:54",
+          "http://purl.obolibrary.org/obo/MOD_00776": "OMSSA:55",
+          "http://purl.obolibrary.org/obo/MOD_00783": "OMSSA:37",
+          "http://purl.obolibrary.org/obo/MOD_00796": "OMSSA:163",
+          "http://purl.obolibrary.org/obo/MOD_00855": "OMSSA:15",
+          "http://purl.obolibrary.org/obo/MOD_00883": "OMSSA:25",
+          "http://purl.obolibrary.org/obo/MOD_00890": "OMSSA:192",
+          "http://purl.obolibrary.org/obo/MOD_00942": "OMSSA:180",
+          "http://purl.obolibrary.org/obo/MOD_01024": "OMSSA:62",
+          "http://purl.obolibrary.org/obo/MOD_01047": "OMSSA:60",
+          "http://purl.obolibrary.org/obo/MOD_01060": "OMSSA:3",
+          "http://purl.obolibrary.org/obo/MOD_01061": "OMSSA:2",
+          "http://purl.obolibrary.org/obo/MOD_01140": "OMSSA:35",
+          "http://purl.obolibrary.org/obo/MOD_01181": "OMSSA:69",
+          "http://purl.obolibrary.org/obo/MOD_01212": "OMSSA:27",
+          "http://purl.obolibrary.org/obo/MOD_01213": "OMSSA:28",
+          "http://purl.obolibrary.org/obo/MOD_01215": "OMSSA:29",
+          "http://purl.obolibrary.org/obo/MOD_01216": "OMSSA:30",
+          "http://purl.obolibrary.org/obo/MOD_01223": "OMSSA:41",
+          "http://purl.obolibrary.org/obo/MOD_01224": "OMSSA:40",
+          "http://purl.obolibrary.org/obo/MOD_01225": "OMSSA:46",
+          "http://purl.obolibrary.org/obo/MOD_01227": "OMSSA:46",
+          "http://purl.obolibrary.org/obo/MOD_01228": "OMSSA:65",
+          "http://purl.obolibrary.org/obo/MOD_01241": "OMSSA:19",
+          "http://purl.obolibrary.org/obo/MOD_01242": "OMSSA:20",
+          "http://purl.obolibrary.org/obo/MOD_01254": "OMSSA:189",
+          "http://purl.obolibrary.org/obo/MOD_01293": "OMSSA:139",
+          "http://purl.obolibrary.org/obo/MOD_01331": "OMSSA:136",
+          "http://purl.obolibrary.org/obo/MOD_01334": "OMSSA:138",
+          "http://purl.obolibrary.org/obo/MOD_01345": "OMSSA:23",
+          "http://purl.obolibrary.org/obo/MOD_01351": "OMSSA:85",
+          "http://purl.obolibrary.org/obo/MOD_01352": "OMSSA:86",
+          "http://purl.obolibrary.org/obo/MOD_01381": "OMSSA:186",
+          "http://purl.obolibrary.org/obo/MOD_01385": "OMSSA:63",
+          "http://purl.obolibrary.org/obo/MOD_01458": "OMSSA:10",
+          "http://purl.obolibrary.org/obo/MOD_01459": "OMSSA:190",
+          "http://purl.obolibrary.org/obo/MOD_01486": "OMSSA:167",
+          "http://purl.obolibrary.org/obo/MOD_01487": "OMSSA:168",
+          "http://purl.obolibrary.org/obo/MOD_01488": "OMSSA:169",
+          "http://purl.obolibrary.org/obo/MOD_01493": "OMSSA:170",
+          "http://purl.obolibrary.org/obo/MOD_01494": "OMSSA:171",
+          "http://purl.obolibrary.org/obo/MOD_01495": "OMSSA:172",
+          "http://purl.obolibrary.org/obo/MOD_01500": "OMSSA:173",
+          "http://purl.obolibrary.org/obo/MOD_01501": "OMSSA:174",
+          "http://purl.obolibrary.org/obo/MOD_01502": "OMSSA:175",
+          "http://purl.obolibrary.org/obo/MOD_01507": "OMSSA:211",
+          "http://purl.obolibrary.org/obo/MOD_01508": "OMSSA:212",
+          "http://purl.obolibrary.org/obo/MOD_01509": "OMSSA:213",
+          "http://purl.obolibrary.org/obo/MOD_01622": "OMSSA:90",
+          "http://purl.obolibrary.org/obo/MOD_01643": "OMSSA:9",
+          "http://purl.obolibrary.org/obo/MOD_01669": "OMSSA:117",
+          "http://purl.obolibrary.org/obo/MOD_01674": "OMSSA:182",
+          "http://purl.obolibrary.org/obo/MOD_01675": "OMSSA:184",
+          "http://purl.obolibrary.org/obo/MOD_01676": "OMSSA:185",
+          "http://purl.obolibrary.org/obo/MOD_01678": "OMSSA:31",
+          "http://purl.obolibrary.org/obo/MOD_01679": "OMSSA:32",
+          "http://purl.obolibrary.org/obo/MOD_01680": "OMSSA:76",
+          "http://purl.obolibrary.org/obo/MOD_01681": "OMSSA:16",
+          "http://purl.obolibrary.org/obo/MOD_01682": "OMSSA:73",
+          "http://purl.obolibrary.org/obo/MOD_01683": "OMSSA:0",
+          "http://purl.obolibrary.org/obo/MOD_01684": "OMSSA:92",
+          "http://purl.obolibrary.org/obo/MOD_01686": "OMSSA:38",
+          "http://purl.obolibrary.org/obo/MOD_01687": "OMSSA:12",
+          "http://purl.obolibrary.org/obo/MOD_01688": "OMSSA:61",
+          "http://purl.obolibrary.org/obo/MOD_01689": "OMSSA:68",
+          "http://purl.obolibrary.org/obo/MOD_01693": "OMSSA:107",
+          "http://purl.obolibrary.org/obo/MOD_01769": "OMSSA:188",
+          "http://purl.obolibrary.org/obo/MOD_01865": "OMSSA:208",
+          "http://purl.obolibrary.org/obo/MOD_01866": "OMSSA:209",
+          "http://purl.obolibrary.org/obo/MOD_01867": "OMSSA:210",
+          "http://purl.obolibrary.org/obo/MOD_01926": "OMSSA:59",
+          "http://purl.obolibrary.org/obo/MOD_02038": "OMSSA:77"
+        },
+        "URL": {
+          "http://purl.obolibrary.org/obo/MOD_00472": "URL:http://dx.doi.org/10.1002/rcm.517",
+          "http://purl.obolibrary.org/obo/MOD_00473": "URL:http://dx.doi.org/10.1002/rcm.517",
+          "http://purl.obolibrary.org/obo/MOD_00480": "URL:http://www.appliedbiosystems.com/products/productdetail.cfm?prod_id=153",
+          "http://purl.obolibrary.org/obo/MOD_00481": "URL:http://www.appliedbiosystems.com/products/productdetail.cfm?prod_id=153",
+          "http://purl.obolibrary.org/obo/MOD_00564": "URL:http://docs.appliedbiosystems.com/pebiodocs/04351918.pdf",
+          "http://purl.obolibrary.org/obo/MOD_00789": "URL:http://www.serva.de/products/sheets/39230-E.pdf",
+          "http://purl.obolibrary.org/obo/MOD_00790": "URL:http://www.serva.de/products/sheets/39230-E.pdf",
+          "http://purl.obolibrary.org/obo/MOD_00877": "URL:http://www.piercenet.com/files/0668ss5.pdf",
+          "http://purl.obolibrary.org/obo/MOD_00878": "URL:http://dx.doi.org/10.1021/ja00877a017",
+          "http://purl.obolibrary.org/obo/MOD_00962": "URL:http://dx.doi.org/10.1016/S0040-4039(00)99113-5",
+          "http://purl.obolibrary.org/obo/MOD_01603": "URL:http://www.sigmaaldrich.com/catalog/ProductDetail.do?N4=609021|ALDRICH&N5=SEARCH_CONCAT_PNO|BRAND_KEY&F=SPEC&lang=en_US0.000000E+000",
+          "http://purl.obolibrary.org/obo/MOD_01604": "URL:http://www.sigmaaldrich.com/catalog/ProductDetail.do?N4=600113|ALDRICH&N5=SEARCH_CONCAT_PNO|BRAND_KEY&F=SPEC&lang=en_US0.000000E+000",
+          "http://purl.obolibrary.org/obo/MOD_01821": "URL:http://www.piercenet.com/files/2162220.pdf",
+          "http://purl.obolibrary.org/obo/MOD_01822": "URL:http://www.piercenet.com/files/2162220.pdf",
+          "http://purl.obolibrary.org/obo/MOD_01823": "URL:http://www.piercenet.com/files/2162220.pdf",
+          "http://purl.obolibrary.org/obo/MOD_01824": "URL:http://www.piercenet.com/files/2162220.pdf",
+          "http://purl.obolibrary.org/obo/MOD_01825": "URL:http://www.piercenet.com/files/2162220.pdf",
+          "http://purl.obolibrary.org/obo/MOD_01826": "URL:http://www.piercenet.com/files/2162220.pdf",
+          "http://purl.obolibrary.org/obo/MOD_01827": "URL:http://www.piercenet.com/files/2162220.pdf",
+          "http://purl.obolibrary.org/obo/MOD_01828": "URL:http://www.piercenet.com/files/2162220.pdf"
+        },
+        "url": {
+          "http://purl.obolibrary.org/obo/MOD_01833": "url:"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/mod/1.031.4/mod.owl",
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/MOD_00436": [
+          "GNO:G29068FM"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00506": [
+          "GNO:G02815KT"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00510": [
+          "GNO:G00194GV"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00511": [
+          "GNO:G27391WQ"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00512": [
+          "GNO:G39365VM"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00513": [
+          "GNO:G74392IM"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00514": [
+          "GNO:G54129SE"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00515": [
+          "GNO:G06042JP"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00516": [
+          "GNO:G58001LT"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00517": [
+          "GNO:G17015OC"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00518": [
+          "GNO:G90423UY"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00519": [
+          "GNO:G54968WM"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00520": [
+          "GNO:G94583DZ"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00521": [
+          "GNO:G53434XO"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00522": [
+          "GNO:G64686LL"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00523": [
+          "GNO:G84825UQ"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00524": [
+          "GNO:G05460KC"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00525": [
+          "GNO:G18999EB"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00526": [
+          "GNO:G93579XB"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00527": [
+          "GNO:G28681TP"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00528": [
+          "GNO:G23729WG"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00529": [
+          "GNO:G88520YF"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00614": [
+          "GNO:G49112ZN"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00623": [
+          "GNO:G25987BV"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00628": [
+          "GNO:G90627TW"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00736": [
+          "GNO:G02438LG"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00737": [
+          "GNO:G76685HR"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00759": [
+          "GNO:G59937CP"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00760": [
+          "GNO:G10486CT"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00761": [
+          "GNO:G81399MY"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00762": [
+          "GNO:G35029YA"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00763": [
+          "GNO:G72787SB"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01147": [
+          "GNO:G20956ZV"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01162": [
+          "GNO:G83555HU"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02031": [
+          "GNO:G03382KH"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02032": [
+          "GNO:G70418MS"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02033": [
+          "GNO:G82119TF"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02034": [
+          "GNO:G50757KG"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02035": [
+          "GNO:G84820NF"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02036": [
+          "GNO:G70101JE"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02037": [
+          "GNO:G05724UK"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {
+        "http://purl.obolibrary.org/obo/MOD_00035": [
+          "PTM-0369"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00036": [
+          "PTM-0371"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00037": [
+          "PTM-0044"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00038": [
+          "PTM-0030"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00039": [
+          "PTM-0043"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00040": [
+          "PTM-0261"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00041": [
+          "PTM-0039"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00042": [
+          "PTM-0038"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00043": [
+          "PTM-0251"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00044": [
+          "PTM-0325"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00045": [
+          "PTM-0260"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00046": [
+          "PTM-0253"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00047": [
+          "PTM-0254"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00048": [
+          "PTM-0255"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00049": [
+          "PTM-0118"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00050": [
+          "PTM-0199"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00051": [
+          "PTM-0200"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00052": [
+          "PTM-0201"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00053": [
+          "PTM-0202"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00055": [
+          "PTM-0203"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00056": [
+          "PTM-0204"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00058": [
+          "PTM-0205"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00059": [
+          "PTM-0206"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00060": [
+          "PTM-0207"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00061": [
+          "PTM-0208"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00062": [
+          "PTM-0209"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00063": [
+          "PTM-0210"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00064": [
+          "PTM-0190"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00066": [
+          "PTM-0211"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00067": [
+          "PTM-0331"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00068": [
+          "PTM-0221"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00069": [
+          "PTM-0222"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00070": [
+          "PTM-0214"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00071": [
+          "PTM-0177"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00072": [
+          "PTM-0483"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00073": [
+          "PTM-0217"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00074": [
+          "PTM-0218"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00075": [
+          "PTM-0179"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00076": [
+          "PTM-0287"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00077": [
+          "PTM-0066"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00078": [
+          "PTM-0237"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00079": [
+          "PTM-0183"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00080": [
+          "PTM-0185"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00081": [
+          "PTM-0128"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00082": [
+          "PTM-0259"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00083": [
+          "PTM-0187"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00084": [
+          "PTM-0188"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00085": [
+          "PTM-0194"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00086": [
+          "PTM-0197"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00087": [
+          "PTM-0196"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00088": [
+          "PTM-0242"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00089": [
+          "PTM-0241"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00090": [
+          "PTM-0057"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00091": [
+          "PTM-0060"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00092": [
+          "PTM-0062"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00093": [
+          "PTM-0063"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00094": [
+          "PTM-0102"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00095": [
+          "PTM-0130"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00096": [
+          "PTM-0129"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00097": [
+          "PTM-0132"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00098": [
+          "PTM-0148"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00099": [
+          "PTM-0161"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00100": [
+          "PTM-0166"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00101": [
+          "PTM-0168"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00102": [
+          "PTM-0164"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00103": [
+          "PTM-0248"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00104": [
+          "PTM-0257"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00105": [
+          "PTM-0275"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00106": [
+          "PTM-0293"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00107": [
+          "PTM-0296"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00108": [
+          "PTM-0302"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00109": [
+          "PTM-0303"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00110": [
+          "PTM-0104"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00111": [
+          "PTM-0277"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00112": [
+          "PTM-0269"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00113": [
+          "PTM-0278"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00114": [
+          "PTM-0105"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00115": [
+          "PTM-0281"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00116": [
+          "PTM-0274"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00117": [
+          "PTM-0156"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00118": [
+          "PTM-0005"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00120": [
+          "PTM-0164"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00121": [
+          "PTM-0067"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00122": [
+          "PTM-0019"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00123": [
+          "PTM-0191"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00124": [
+          "PTM-0189"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00125": [
+          "PTM-0150"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00126": [
+          "PTM-0382"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00127": [
+          "PTM-0383"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00128": [
+          "PTM-0387"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00129": [
+          "PTM-0388"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00130": [
+          "PTM-0059"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00132": [
+          "PTM-0172"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00133": [
+          "PTM-0158"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00134": [
+          "PTM-0134"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00135": [
+          "PTM-0489"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00136": [
+          "PTM-0265"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00137": [
+          "PTM-0035"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00138": [
+          "PTM-0017"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00139": [
+          "PTM-0181"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00152": [
+          "PTM-0272"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00153": [
+          "PTM-0258"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00154": [
+          "PTM-0231"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00155": [
+          "PTM-0023"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00156": [
+          "PTM-0009"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00157": [
+          "PTM-0299"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00158": [
+          "PTM-0298"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00159": [
+          "PTM-0391"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00161": [
+          "PTM-0626"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00163": [
+          "PTM-0564"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00164": [
+          "PTM-0567"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00165": [
+          "PTM-0535"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00166": [
+          "PTM-0575"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00167": [
+          "PTM-0137"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00168": [
+          "PTM-0138"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00169": [
+          "PTM-0140"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00170": [
+          "PTM-0141"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00171": [
+          "PTM-0142"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00172": [
+          "PTM-0136"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00173": [
+          "PTM-0143"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00174": [
+          "PTM-0146"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00175": [
+          "PTM-0147"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00176": [
+          "PTM-0389"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00177": [
+          "PTM-0053"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00178": [
+          "PTM-0055"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00179": [
+          "PTM-0403"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00181": [
+          "PTM-0286"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00182": [
+          "PTM-0089"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00186": [
+          "PTM-0295"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00187": [
+          "PTM-0294"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00188": [
+          "PTM-0051"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00189": [
+          "PTM-0006"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00190": [
+          "PTM-0007"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00191": [
+          "PTM-0002"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00192": [
+          "PTM-0049"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00193": [
+          "PTM-0034"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00194": [
+          "PTM-0163"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00195": [
+          "PTM-0045"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00196": [
+          "PTM-0047"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00197": [
+          "PTM-0013"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00198": [
+          "PTM-0112"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00199": [
+          "PTM-0114"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00200": [
+          "PTM-0120"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00201": [
+          "PTM-0121"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00202": [
+          "PTM-0308"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00203": [
+          "PTM-0115"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00204": [
+          "PTM-0119"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00205": [
+          "PTM-0123"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00206": [
+          "PTM-0394"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00207": [
+          "PTM-0395"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00208": [
+          "PTM-0332"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00209": [
+          "PTM-0268"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00210": [
+          "PTM-0107"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00211": [
+          "PTM-0429"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00212": [
+          "PTM-0414"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00216": [
+          "PTM-0192"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00217": [
+          "PTM-0545"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00218": [
+          "PTM-0227"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00219": [
+          "PTM-0092"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00220": [
+          "PTM-0042"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00221": [
+          "PTM-0151"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00222": [
+          "PTM-0505"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00223": [
+          "PTM-0195"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00224": [
+          "PTM-0334"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00225": [
+          "PTM-0271"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00226": [
+          "PTM-0288"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00227": [
+          "PTM-0250"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00228": [
+          "PTM-0273"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00234": [
+          "PTM-0311"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00235": [
+          "PTM-0280"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00236": [
+          "PTM-0054"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00237": [
+          "PTM-0032"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00238": [
+          "PTM-0171"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00239": [
+          "PTM-0636"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00240": [
+          "PTM-0664"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00242": [
+          "PTM-0056"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00243": [
+          "PTM-0376"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00244": [
+          "PTM-0381"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00245": [
+          "PTM-0377"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00246": [
+          "PTM-0378"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00247": [
+          "PTM-0363"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00248": [
+          "PTM-0375"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00249": [
+          "PTM-0360"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00251": [
+          "PTM-0226"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00254": [
+          "PTM-0229"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00255": [
+          "PTM-0027"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00256": [
+          "PTM-0175"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00257": [
+          "PTM-0421"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00258": [
+          "PTM-0267"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00259": [
+          "PTM-0228"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00261": [
+          "PTM-0333"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00267": [
+          "PTM-0108"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00268": [
+          "PTM-0667"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00269": [
+          "PTM-0230"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00270": [
+          "PTM-0004"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00272": [
+          "PTM-0393"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00274": [
+          "PTM-0106"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00275": [
+          "PTM-0003"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00277": [
+          "PTM-0050"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00278": [
+          "PTM-0016"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00279": [
+          "PTM-0224"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00280": [
+          "PTM-0225"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00282": [
+          "PTM-0282"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00283": [
+          "PTM-0198"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00287": [
+          "PTM-0306"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00288": [
+          "PTM-0263"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00295": [
+          "PTM-0239"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00296": [
+          "PTM-0577"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00299": [
+          "PTM-0153"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00301": [
+          "PTM-0586"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00302": [
+          "PTM-0594"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00304": [
+          "PTM-0167"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00310": [
+          "PTM-0185"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00313": [
+          "PTM-0645"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00314": [
+          "PTM-0090"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00316": [
+          "PTM-0182"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00318": [
+          "PTM-0041"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00319": [
+          "PTM-0025"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00320": [
+          "PTM-0040"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00321": [
+          "PTM-0091"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00322": [
+          "PTM-0290"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00323": [
+          "PTM-0170"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00327": [
+          "PTM-0031"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00332": [
+          "PTM-0515"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00333": [
+          "PTM-0335"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00335": [
+          "PTM-0069"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00337": [
+          "PTM-0649"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00338": [
+          "PTM-0650"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00341": [
+          "PTM-0215"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00342": [
+          "PTM-0216"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00343": [
+          "PTM-0220"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00344": [
+          "PTM-0223"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00345": [
+          "PTM-0012"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00346": [
+          "PTM-0011"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00347": [
+          "PTM-0010"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00348": [
+          "PTM-0374"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00349": [
+          "PTM-0037"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00350": [
+          "PTM-0246"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00351": [
+          "PTM-0249"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00352": [
+          "PTM-0236"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00353": [
+          "PTM-0328"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00354": [
+          "PTM-0126"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00355": [
+          "PTM-0125"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00356": [
+          "PTM-0270"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00357": [
+          "PTM-0289"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00359": [
+          "PTM-0180"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00363": [
+          "PTM-0109"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00364": [
+          "PTM-0186"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00365": [
+          "PTM-0157"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00366": [
+          "PTM-0284"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00367": [
+          "PTM-0285"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00369": [
+          "PTM-0232"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00370": [
+          "PTM-0001"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00373": [
+          "PTM-0155"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00374": [
+          "PTM-0022"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00375": [
+          "PTM-0036"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00377": [
+          "PTM-0500"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00378": [
+          "PTM-0064"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00379": [
+          "PTM-0276"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00383": [
+          "PTM-0014"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00384": [
+          "PTM-0015"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00385": [
+          "PTM-0046"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00386": [
+          "PTM-0048"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00387": [
+          "PTM-0018"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00388": [
+          "PTM-0245"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00390": [
+          "PTM-0234"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00391": [
+          "PTM-0240"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00392": [
+          "PTM-0235"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00420": [
+          "PTM-0262"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00460": [
+          "PTM-0634"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00482": [
+          "PTM-0212"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00657": [
+          "PTM-0127"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00658": [
+          "PTM-0238"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00663": [
+          "PTM-0193"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00682": [
+          "PTM-0498"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00684": [
+          "PTM-0116"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00685": [
+          "PTM-0117"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00705": [
+          "PTM-0124"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00706": [
+          "PTM-0008"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00719": [
+          "PTM-0469"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00720": [
+          "PTM-0480"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00721": [
+          "PTM-0481"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00756": [
+          "PTM-0111"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00757": [
+          "PTM-0558"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00758": [
+          "PTM-0578"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00765": [
+          "PTM-0415"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00783": [
+          "PTM-0341"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00793": [
+          "PTM-0468"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00797": [
+          "PTM-0424"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00799": [
+          "PTM-0624"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00803": [
+          "PTM-0020"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00804": [
+          "PTM-0573"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00805": [
+          "PTM-0580"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00806": [
+          "PTM-0582"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00807": [
+          "PTM-0266"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00808": [
+          "PTM-0560"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00809": [
+          "PTM-0562"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00810": [
+          "PTM-0588"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00811": [
+          "PTM-0591"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00812": [
+          "PTM-0550"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00813": [
+          "PTM-0552"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00814": [
+          "PTM-0598"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00816": [
+          "PTM-0283"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00817": [
+          "PTM-0026"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00818": [
+          "PTM-0139"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00824": [
+          "PTM-0647"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00830": [
+          "PTM-0219"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00831": [
+          "PTM-0527"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00832": [
+          "PTM-0512"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00833": [
+          "PTM-0517"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00834": [
+          "PTM-0553"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00858": [
+          "PTM-0113"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00863": [
+          "PTM-0310"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00865": [
+          "PTM-0322"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00866": [
+          "PTM-0024"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00869": [
+          "PTM-0314"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00886": [
+          "PTM-0052"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00890": [
+          "PTM-0252"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00892": [
+          "PTM-0309"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00924": [
+          "PTM-0326"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00929": [
+          "PTM-0511"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_00952": [
+          "PTM-0312"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01024": [
+          "PTM-0149"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01145": [
+          "PTM-0672"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01171": [
+          "PTM-0233"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01172": [
+          "PTM-0144"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01173": [
+          "PTM-0145"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01174": [
+          "PTM-0447"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01177": [
+          "PTM-0416"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01179": [
+          "PTM-0178"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01182": [
+          "PTM-0681"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01352": [
+          "PTM-0213"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01372": [
+          "PTM-0665"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01373": [
+          "PTM-0491"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01374": [
+          "PTM-0492"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01375": [
+          "PTM-0340"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01376": [
+          "PTM-0343"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01377": [
+          "PTM-0337"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01378": [
+          "PTM-0336"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01379": [
+          "PTM-0304"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01380": [
+          "PTM-0338"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01381": [
+          "PTM-0493"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01382": [
+          "PTM-0503"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01383": [
+          "PTM-0324"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01384": [
+          "PTM-0321"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01385": [
+          "PTM-0346"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01386": [
+          "PTM-0347"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01387": [
+          "PTM-0356"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01388": [
+          "PTM-0354"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01389": [
+          "PTM-0361"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01390": [
+          "PTM-0365"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01391": [
+          "PTM-0373"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01392": [
+          "PTM-0352"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01393": [
+          "PTM-0358"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01394": [
+          "PTM-0348"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01397": [
+          "PTM-0386"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01398": [
+          "PTM-0642"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01399": [
+          "PTM-0355"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01401": [
+          "PTM-0370"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01402": [
+          "PTM-0368"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01403": [
+          "PTM-0372"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01404": [
+          "PTM-0359"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01406": [
+          "PTM-0364"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01407": [
+          "PTM-0366"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01408": [
+          "PTM-0392"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01432": [
+          "PTM-0666"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01433": [
+          "PTM-0379"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01434": [
+          "PTM-0453"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01437": [
+          "PTM-0380"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01442": [
+          "PTM-0390"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01470": [
+          "PTM-0441"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01471": [
+          "PTM-0440"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01585": [
+          "PTM-0422"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01586": [
+          "PTM-0423"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01587": [
+          "PTM-0399"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01588": [
+          "PTM-0400"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01589": [
+          "PTM-0547"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01602": [
+          "PTM-0401"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01605": [
+          "PTM-0406"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01608": [
+          "PTM-0407"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01609": [
+          "PTM-0504"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01610": [
+          "PTM-0412"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01612": [
+          "PTM-0411"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01613": [
+          "PTM-0408"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01614": [
+          "PTM-0409"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01615": [
+          "PTM-0410"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01616": [
+          "PTM-0417"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01617": [
+          "PTM-0596"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01618": [
+          "PTM-0418"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01624": [
+          "PTM-0450"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01630": [
+          "PTM-0397"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01661": [
+          "PTM-0662"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01664": [
+          "PTM-0427"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01678": [
+          "PTM-0675"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01690": [
+          "PTM-0419"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01691": [
+          "PTM-0420"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01694": [
+          "PTM-0428"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01778": [
+          "PTM-0433"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01780": [
+          "PTM-0474"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01781": [
+          "PTM-0637"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01782": [
+          "PTM-0432"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01783": [
+          "PTM-0431"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01784": [
+          "PTM-0430"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01786": [
+          "PTM-0434"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01787": [
+          "PTM-0320"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01805": [
+          "PTM-0490"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01806": [
+          "PTM-0435"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01814": [
+          "PTM-0454"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01815": [
+          "PTM-0456"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01818": [
+          "PTM-0544"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01819": [
+          "PTM-0438"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01838": [
+          "PTM-0439"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01840": [
+          "PTM-0442"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01842": [
+          "PTM-0443"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01843": [
+          "PTM-0444"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01844": [
+          "PTM-0448"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01845": [
+          "PTM-0449"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01849": [
+          "PTM-0446"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01857": [
+          "PTM-0495"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01858": [
+          "PTM-0628"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01859": [
+          "PTM-0451"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01860": [
+          "PTM-0452"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01877": [
+          "PTM-0457"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01878": [
+          "PTM-0458"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01880": [
+          "PTM-0684"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01889": [
+          "PTM-0674"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01892": [
+          "PTM-0475"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01893": [
+          "PTM-0467"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01897": [
+          "PTM-0466"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01898": [
+          "PTM-0459"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01899": [
+          "PTM-0460"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01900": [
+          "PTM-0461"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01901": [
+          "PTM-0462"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01902": [
+          "PTM-0463"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01903": [
+          "PTM-0464"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01904": [
+          "PTM-0465"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01914": [
+          "PTM-0556"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01916": [
+          "PTM-0570"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01917": [
+          "PTM-0486"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01918": [
+          "PTM-0472"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01919": [
+          "PTM-0473"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01920": [
+          "PTM-0477"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01925": [
+          "PTM-0471"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01935": [
+          "PTM-0572"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01950": [
+          "PTM-0488"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01956": [
+          "PTM-0476"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01957": [
+          "PTM-0668"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01962": [
+          "PTM-0506"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01963": [
+          "PTM-0548"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01964": [
+          "PTM-0549"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01967": [
+          "PTM-0518"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01970": [
+          "PTM-0479"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01971": [
+          "PTM-0478"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01974": [
+          "PTM-0636"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01975": [
+          "PTM-0641"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01976": [
+          "PTM-0640"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01982": [
+          "PTM-0485"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_01983": [
+          "PTM-0484"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02038": [
+          "PTM-0176"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02089": [
+          "PTM-0501"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02090": [
+          "PTM-0502"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02091": [
+          "PTM-0651"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02092": [
+          "PTM-0676"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02093": [
+          "PTM-0638"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02094": [
+          "PTM-0499"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02095": [
+          "PTM-0487"
+        ],
+        "http://purl.obolibrary.org/obo/MOD_02096": [
+          "PTM-0691"
+        ]
+      },
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

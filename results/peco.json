@@ -1,0 +1,1589 @@
+{
+  "http://purl.obolibrary.org/obo/peco.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/peco.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/PECO_0001001": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001002": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001003": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001004": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001005": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001006": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001007": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001008": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001009": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001010": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001011": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001012": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001013": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001014": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001015": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001016": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001017": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001018": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001019": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001020": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001021": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001022": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001023": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001024": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001025": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001026": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001027": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001028": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001029": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001030": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001031": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001032": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001033": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001034": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001035": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001036": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001037": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001038": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001039": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001040": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001041": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001042": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001043": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001044": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001045": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001046": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001047": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001048": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001049": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001050": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001051": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001052": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001053": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001054": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001055": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001056": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001057": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001058": [
+          "PECO:laura_moore"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001059": [
+          "PECO:laura_moore"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001060": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001061": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001062": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001063": [
+          "PECO:Laurel_Cooper"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001064": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001065": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001067": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001069": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0001070": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007023": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007027": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007041": [
+          "TO:moorel"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007044": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007045": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007051": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007052": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007053": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007054": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007063": [
+          "TO:moorel"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007064": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007116": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007147": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007149": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007151": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007168": [
+          "TO:moorel"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007187": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007189": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007191": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007198": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007204": [
+          "CAS:[68-87-3]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007210": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007223": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007231": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007240": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007241": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007246": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007262": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007265": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007266": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007284": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007287": [
+          "TO:moorel"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007292": [
+          "TO:moorel"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007316": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007333": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007349": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007357": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007359": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007402": [
+          "TO:moorel"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007403": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007407": [
+          "PO:Cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007408": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007409": [
+          "TO:moorel"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007410": [
+          "TO:moorel"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007411": [
+          "PECO:cooperl"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007503": [
+          "CAS:[106-93-4]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007504": [
+          "CAS:[107-06-2]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007505": [
+          "CAS:[53-70-3]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007506": [
+          "CAS:[2514-83-2]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007507": [
+          "CAS:[2917-96-6]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007508": [
+          "CAS:[55-98-1]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007509": [
+          "CAS:[1187-00-4]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007510": [
+          "CAS:[2514-83-2]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007511": [
+          "CAS:[116-63-2]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007512": [
+          "CAS:[107-04-0]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007513": [
+          "CAS:[479-50-5]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007514": [
+          "CAS:[526-62-5]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007515": [
+          "CAS:[3570-58-9]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007516": [
+          "CAS:[461-31-4]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007517": [
+          "CAS:[109-86-4]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007518": [
+          "CAS:[51-20-7]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007519": [
+          "CAS:[957-75-5]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007520": [
+          "CAS:[16238-56-5]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007521": [
+          "CAS:[50-76-0]",
+          "TO:moorel"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007522": [
+          "CAS:[54-62-6]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007523": [
+          "CAS:[50-32-8]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007524": [
+          "CAS:[58-08-2]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007525": [
+          "CAS:[15663-27-1]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007526": [
+          "CAS:[64-86-8]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007527": [
+          "CAS:[7758-98-7]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007528": [
+          "CAS:[1464-53-5]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007529": [
+          "CAS:[2426-07-5]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007530": [
+          "CAS:[64-67-5]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007531": [
+          "CAS:[67-68-5]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007532": [
+          "CAS:[9007-49-2]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007533": [
+          "CAS:[60-29-7]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007534": [
+          "CAS:[62-50-0]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007535": [
+          "CAS:[759-73-9]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007537": [
+          "CAS:[151-56-4]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007539": [
+          "CAS:[50-00-0]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007541": [
+          "CAS:[520-26-3]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007542": [
+          "CAS:[645-05-6]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007543": [
+          "CAS:[680-31-9]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007544": [
+          "CAS:[23255-93-8]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007545": [
+          "CAS:[4213-45-0]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007546": [
+          "CAS:[146-59-8]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007547": [
+          "CAS:[7553-56-2]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007548": [
+          "CAS:[2869-83-2]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007550": [
+          "CAS:[66-27-3]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007551": [
+          "CAS:[50-07-7]",
+          "TO:moorel"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007552": [
+          "CAS:[505-60-2]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007553": [
+          "CAS:[70-25-7]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007554": [
+          "CAS:[62-75-9]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007556": [
+          "CAS:[51-75-2]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007557": [
+          "CAS:[684-93-5]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007558": [
+          "CAS:[64508-90-3]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007559": [
+          "CAS:[13045-94-8]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007560": [
+          "CAS:[148-82-3]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007562": [
+          "CAS:[305-03-3]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007563": [
+          "CAS:[58880-18-5]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007564": [
+          "CAS:[857-95-4]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007565": [
+          "CAS:[106-34-3]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007566": [
+          "CAS:[28361-96-8]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007567": [
+          "CAS:[7631-90-5]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007568": [
+          "CAS:[7681-49-4]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007570": [
+          "CAS:[505-60-2]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007571": [
+          "CAS:[68-76-8]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007572": [
+          "CAS:[51-18-3]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007573": [
+          "CAS:[51-79-6]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007574": [
+          "CAS:[15805-73-9]"
+        ],
+        "http://purl.obolibrary.org/obo/PECO_0007633": [
+          "TO:moorel"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "NCBI_taxid": {
+          "http://purl.obolibrary.org/obo/PECO_0007005": "NCBI_taxid:33090",
+          "http://purl.obolibrary.org/obo/PECO_0007008": "NCBI_taxid:44972",
+          "http://purl.obolibrary.org/obo/PECO_0007009": "NCBI_taxid:71240",
+          "http://purl.obolibrary.org/obo/PECO_0007010": "NCBI_taxid:118780",
+          "http://purl.obolibrary.org/obo/PECO_0007012": "NCBI_taxid:44958",
+          "http://purl.obolibrary.org/obo/PECO_0007014": "NCBI_taxid:13048",
+          "http://purl.obolibrary.org/obo/PECO_0007021": "NCBI_taxid:15000",
+          "http://purl.obolibrary.org/obo/PECO_0007022": "NCBI_taxid:4447",
+          "http://purl.obolibrary.org/obo/PECO_0007028": "NCBI_taxid:90397",
+          "http://purl.obolibrary.org/obo/PECO_0007029": "NCBI_taxid:4732",
+          "http://purl.obolibrary.org/obo/PECO_0007031": "NCBI_taxid:40674",
+          "http://purl.obolibrary.org/obo/PECO_0007055": "NCBI_taxid:5015",
+          "http://purl.obolibrary.org/obo/PECO_0007060": "NCBI_taxid:237189",
+          "http://purl.obolibrary.org/obo/PECO_0007073": "NCBI_taxid:5204",
+          "http://purl.obolibrary.org/obo/PECO_0007077": "NCBI_taxid:157178",
+          "http://purl.obolibrary.org/obo/PECO_0007083": "NCBI_taxid:73005",
+          "http://purl.obolibrary.org/obo/PECO_0007088": "NCBI_taxid:63189",
+          "http://purl.obolibrary.org/obo/PECO_0007106": "NCBI_taxid:33634",
+          "http://purl.obolibrary.org/obo/PECO_0007107": "NCBI_taxid:4890",
+          "http://purl.obolibrary.org/obo/PECO_0007110": "NCBI_taxid:35325",
+          "http://purl.obolibrary.org/obo/PECO_0007112": "NCBI_taxid:35268",
+          "http://purl.obolibrary.org/obo/PECO_0007113": "NCBI_taxid:59500",
+          "http://purl.obolibrary.org/obo/PECO_0007114": "NCBI_taxid:7088",
+          "http://purl.obolibrary.org/obo/PECO_0007115": "NCBI_taxid:7106",
+          "http://purl.obolibrary.org/obo/PECO_0007116": "NCBI_taxid:7524",
+          "http://purl.obolibrary.org/obo/PECO_0007117": "NCBI_taxid:7104",
+          "http://purl.obolibrary.org/obo/PECO_0007118": "NCBI_taxid:5126",
+          "http://purl.obolibrary.org/obo/PECO_0007119": "NCBI_taxid:7147",
+          "http://purl.obolibrary.org/obo/PECO_0007120": "NCBI_taxid:7041",
+          "http://purl.obolibrary.org/obo/PECO_0007121": "NCBI_taxid:30262",
+          "http://purl.obolibrary.org/obo/PECO_0007122": "NCBI_taxid:168630",
+          "http://purl.obolibrary.org/obo/PECO_0007127": "NCBI_taxid:189290",
+          "http://purl.obolibrary.org/obo/PECO_0007135": "NCBI_taxid:148303",
+          "http://purl.obolibrary.org/obo/PECO_0007136": "NCBI_taxid:4765",
+          "http://purl.obolibrary.org/obo/PECO_0007137": "NCBI_taxid:45618",
+          "http://purl.obolibrary.org/obo/PECO_0007138": "NCBI_taxid:13047",
+          "http://purl.obolibrary.org/obo/PECO_0007139": "NCBI_taxid:4450",
+          "http://purl.obolibrary.org/obo/PECO_0007140": "NCBI_taxid:46334",
+          "http://purl.obolibrary.org/obo/PECO_0007141": "NCBI_taxid:4610",
+          "http://purl.obolibrary.org/obo/PECO_0007142": "NCBI_taxid:72365",
+          "http://purl.obolibrary.org/obo/PECO_0007143": "NCBI_taxid:551",
+          "http://purl.obolibrary.org/obo/PECO_0007144": "NCBI_taxid:286",
+          "http://purl.obolibrary.org/obo/PECO_0007145": "NCBI_taxid:338",
+          "http://purl.obolibrary.org/obo/PECO_0007148": "NCBI_taxid:347",
+          "http://purl.obolibrary.org/obo/PECO_0007166": "NCBI_taxid:82948",
+          "http://purl.obolibrary.org/obo/PECO_0007177": "NCBI_taxid:82941",
+          "http://purl.obolibrary.org/obo/PECO_0007179": "NCBI_taxid:36331",
+          "http://purl.obolibrary.org/obo/PECO_0007182": "NCBI_taxid:82937",
+          "http://purl.obolibrary.org/obo/PECO_0007184": "NCBI_taxid:82936",
+          "http://purl.obolibrary.org/obo/PECO_0007186": "NCBI_taxid:83917",
+          "http://purl.obolibrary.org/obo/PECO_0007188": "NCBI_taxid:83932",
+          "http://purl.obolibrary.org/obo/PECO_0007190": "NCBI_taxid:124427",
+          "http://purl.obolibrary.org/obo/PECO_0007195": "NCBI_taxid:42475",
+          "http://purl.obolibrary.org/obo/PECO_0007205": "NCBI_taxid:66266",
+          "http://purl.obolibrary.org/obo/PECO_0007206": "NCBI_taxid:29850",
+          "http://purl.obolibrary.org/obo/PECO_0007208": "NCBI_taxid:66266",
+          "http://purl.obolibrary.org/obo/PECO_0007209": "NCBI_taxid:107452",
+          "http://purl.obolibrary.org/obo/PECO_0007210": "NCBI_taxid:10239",
+          "http://purl.obolibrary.org/obo/PECO_0007211": "NCBI_taxid:101162",
+          "http://purl.obolibrary.org/obo/PECO_0007212": "NCBI_taxid:2093",
+          "http://purl.obolibrary.org/obo/PECO_0007214": "NCBI_taxid:5598",
+          "http://purl.obolibrary.org/obo/PECO_0007226": "NCBI_taxid:148305",
+          "http://purl.obolibrary.org/obo/PECO_0007227": "NCBI_taxid:5503",
+          "http://purl.obolibrary.org/obo/PECO_0007229": "NCBI_taxid:5127",
+          "http://purl.obolibrary.org/obo/PECO_0007233": "NCBI_taxid:4751",
+          "http://purl.obolibrary.org/obo/PECO_0007234": "NCBI_taxid:50340",
+          "http://purl.obolibrary.org/obo/PECO_0007236": "NCBI_taxid:41899",
+          "http://purl.obolibrary.org/obo/PECO_0007243": "NCBI_taxid:337",
+          "http://purl.obolibrary.org/obo/PECO_0007245": "NCBI_taxid:556",
+          "http://purl.obolibrary.org/obo/PECO_0007246": "NCBI_taxid:2",
+          "http://purl.obolibrary.org/obo/PECO_0007247": "NCBI_taxid:549",
+          "http://purl.obolibrary.org/obo/PECO_0007249": "NCBI_taxid:129394",
+          "http://purl.obolibrary.org/obo/PECO_0007252": "NCBI_taxid:113103",
+          "http://purl.obolibrary.org/obo/PECO_0007254": "NCBI_taxid:80867",
+          "http://purl.obolibrary.org/obo/PECO_0007257": "NCBI_taxid:64187",
+          "http://purl.obolibrary.org/obo/PECO_0007279": "NCBI_taxid:168631",
+          "http://purl.obolibrary.org/obo/PECO_0007296": "NCBI_taxid:111238",
+          "http://purl.obolibrary.org/obo/PECO_0007308": "NCBI_taxid:94399",
+          "http://purl.obolibrary.org/obo/PECO_0007311": "NCBI_taxid:33408",
+          "http://purl.obolibrary.org/obo/PECO_0007317": "NCBI_taxid:108931",
+          "http://purl.obolibrary.org/obo/PECO_0007318": "NCBI_taxid:31744",
+          "http://purl.obolibrary.org/obo/PECO_0007320": "NCBI_taxid:6304",
+          "http://purl.obolibrary.org/obo/PECO_0007328": "NCBI_taxid:4797",
+          "http://purl.obolibrary.org/obo/PECO_0007333": "NCBI_taxid:50557",
+          "http://purl.obolibrary.org/obo/PECO_0007335": "NCBI_taxid:6447",
+          "http://purl.obolibrary.org/obo/PECO_0007337": "NCBI_taxid:6231",
+          "http://purl.obolibrary.org/obo/PECO_0007339": "NCBI_taxid:35287",
+          "http://purl.obolibrary.org/obo/PECO_0007340": "NCBI_taxid:112027",
+          "http://purl.obolibrary.org/obo/PECO_0007341": "NCBI_taxid:5506",
+          "http://purl.obolibrary.org/obo/PECO_0007342": "NCBI_taxid:4767",
+          "http://purl.obolibrary.org/obo/PECO_0007343": "NCBI_taxid:27592",
+          "http://purl.obolibrary.org/obo/PECO_0007344": "NCBI_taxid:10654",
+          "http://purl.obolibrary.org/obo/PECO_0007345": "NCBI_taxid:9989",
+          "http://purl.obolibrary.org/obo/PECO_0007346": "NCBI_taxid:59380",
+          "http://purl.obolibrary.org/obo/PECO_0007347": "NCBI_taxid:8782",
+          "http://purl.obolibrary.org/obo/PECO_0007349": "NCBI_taxid:33208",
+          "http://purl.obolibrary.org/obo/PECO_0007350": "NCBI_taxid:12331",
+          "http://purl.obolibrary.org/obo/PECO_0007356": "NCBI_taxid:12332",
+          "http://purl.obolibrary.org/obo/PECO_0007358": "NCBI_taxid:66266",
+          "http://purl.obolibrary.org/obo/PECO_0007360": "NCBI_taxid:12037",
+          "http://purl.obolibrary.org/obo/PECO_0007362": "NCBI_taxid:116609",
+          "http://purl.obolibrary.org/obo/PECO_0007363": "NCBI_taxid:165778",
+          "http://purl.obolibrary.org/obo/PECO_0007364": "NCBI_taxid:63190",
+          "http://purl.obolibrary.org/obo/PECO_0007365": "NCBI_taxid:10991",
+          "http://purl.obolibrary.org/obo/PECO_0007366": "NCBI_taxid:10990",
+          "http://purl.obolibrary.org/obo/PECO_0007371": "NCBI_taxid:6303",
+          "http://purl.obolibrary.org/obo/PECO_0007372": "NCBI_taxid:6306",
+          "http://purl.obolibrary.org/obo/PECO_0007374": "NCBI_taxid:40624",
+          "http://purl.obolibrary.org/obo/PECO_0007375": "NCBI_taxid:189291",
+          "http://purl.obolibrary.org/obo/PECO_0007377": "NCBI_taxid:109385",
+          "http://purl.obolibrary.org/obo/PECO_0007379": "NCBI_taxid:107832",
+          "http://purl.obolibrary.org/obo/PECO_0007386": "NCBI_taxid:87749",
+          "http://purl.obolibrary.org/obo/PECO_0007389": "NCBI_taxid:5518",
+          "http://purl.obolibrary.org/obo/PECO_0007411": "NCBI_taxid:274",
+          "http://purl.obolibrary.org/obo/PECO_0007631": "NCBI_taxid:162130"
+        },
+        "PMID": {
+          "http://purl.obolibrary.org/obo/PECO_0001063": "PMID:28282385"
+        },
+        "Wikipedia": {
+          "http://purl.obolibrary.org/obo/PECO_0007291": "Wikipedia:6-Benzylaminopurine"
+        }
+      },
+      "unknown_prefixes": {
+        "Gramene": {
+          "http://purl.obolibrary.org/obo/PECO_0007001": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007002": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007003": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007005": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007006": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007007": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007008": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007009": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007010": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007011": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007012": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007013": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007014": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007015": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007016": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007017": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007018": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007019": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007020": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007021": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007022": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007023": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007024": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007025": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007026": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007027": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007028": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007029": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007030": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007031": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007033": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007034": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007035": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007036": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007037": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007038": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007039": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007040": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007041": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007043": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007044": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007045": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007046": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007047": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007048": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007049": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007050": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007055": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007056": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007057": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007058": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007059": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007060": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007061": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007062": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007063": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007064": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007065": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007066": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007067": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007068": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007069": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007070": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007071": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007072": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007073": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007074": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007077": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007078": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007079": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007080": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007083": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007084": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007085": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007086": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007087": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007088": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007090": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007094": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007095": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007096": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007097": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007098": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007099": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007100": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007101": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007102": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007103": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007104": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007105": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007106": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007107": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007108": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007109": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007110": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007111": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007112": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007113": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007114": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007115": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007116": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007117": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007118": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007119": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007120": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007121": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007122": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007123": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007124": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007125": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007126": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007127": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007128": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007129": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007130": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007131": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007132": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007133": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007134": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007135": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007136": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007137": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007138": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007139": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007140": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007141": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007142": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007143": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007144": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007145": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007146": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007147": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007148": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007149": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007150": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007151": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007152": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007153": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007154": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007155": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007160": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007161": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007162": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007163": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007164": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007165": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007166": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007167": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007168": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007171": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007172": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007173": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007174": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007175": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007176": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007177": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007178": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007179": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007180": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007181": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007182": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007183": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007184": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007185": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007186": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007187": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007188": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007189": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007190": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007191": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007192": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007194": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007195": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007196": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007197": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007198": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007199": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007200": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007202": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007203": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007204": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007205": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007206": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007207": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007208": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007209": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007210": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007211": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007212": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007214": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007215": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007216": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007217": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007218": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007219": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007220": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007221": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007222": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007223": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007224": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007225": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007226": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007227": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007228": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007229": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007230": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007231": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007232": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007233": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007234": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007235": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007236": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007237": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007238": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007239": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007240": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007241": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007242": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007243": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007244": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007245": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007246": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007247": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007248": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007249": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007250": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007251": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007252": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007253": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007254": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007255": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007256": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007257": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007258": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007259": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007260": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007261": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007262": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007263": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007264": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007265": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007266": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007267": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007268": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007269": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007270": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007272": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007273": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007274": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007275": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007276": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007277": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007278": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007279": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007280": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007281": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007282": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007283": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007284": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007285": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007286": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007287": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007288": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007289": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007290": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007291": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007293": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007294": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007295": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007296": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007297": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007298": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007300": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007302": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007303": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007304": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007305": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007306": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007307": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007308": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007309": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007310": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007311": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007312": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007313": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007314": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007315": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007317": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007318": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007319": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007320": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007321": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007322": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007323": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007324": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007325": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007326": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007327": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007328": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007329": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007330": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007331": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007332": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007333": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007334": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007335": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007336": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007337": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007338": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007339": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007340": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007341": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007342": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007343": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007344": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007345": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007346": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007347": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007348": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007349": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007350": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007351": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007353": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007355": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007356": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007357": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007358": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007359": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007360": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007361": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007362": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007363": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007364": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007365": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007366": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007367": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007368": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007369": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007370": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007371": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007372": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007374": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007375": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007376": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007377": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007378": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007379": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007380": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007381": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007382": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007383": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007384": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007386": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007387": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007388": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007389": "Gramene:ivy",
+          "http://purl.obolibrary.org/obo/PECO_0007393": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007394": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007396": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007397": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007398": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007399": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007400": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007401": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007412": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007413": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007414": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007415": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007503": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007504": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007505": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007506": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007507": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007508": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007509": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007510": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007511": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007512": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007513": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007514": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007515": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007516": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007517": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007518": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007519": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007520": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007521": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007522": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007523": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007524": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007525": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007526": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007527": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007528": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007529": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007530": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007531": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007532": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007533": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007534": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007535": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007536": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007537": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007538": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007539": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007540": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007541": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007542": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007543": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007544": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007545": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007546": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007547": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007548": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007549": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007550": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007551": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007552": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007553": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007554": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007555": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007556": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007557": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007558": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007559": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007560": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007561": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007562": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007563": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007564": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007565": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007566": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007567": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007568": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007569": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007570": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007571": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007572": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007573": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007574": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007628": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007629": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007630": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007631": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007632": "Gramene:pankaj_jaiswal",
+          "http://purl.obolibrary.org/obo/PECO_0007634": "Gramene:pankaj_jaiswal"
+        },
+        "IRIS": {
+          "http://purl.obolibrary.org/obo/PECO_0007385": "IRIS:SES",
+          "http://purl.obolibrary.org/obo/PECO_0007391": "IRIS:SES",
+          "http://purl.obolibrary.org/obo/PECO_0007392": "IRIS:SES"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/peco/releases/2020-08-21/peco.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "NCBI_Taxon_ID": {
+          "http://purl.obolibrary.org/obo/PECO_0001058": "NCBI_Taxon_ID:214504",
+          "http://purl.obolibrary.org/obo/PECO_0007060": "NCBI_Taxon_ID:706553",
+          "http://purl.obolibrary.org/obo/PECO_0007073": "NCBI_Taxon_ID:5204",
+          "http://purl.obolibrary.org/obo/PECO_0007107": "NCBI_Taxon_ID:4890",
+          "http://purl.obolibrary.org/obo/PECO_0007378": "NCBI_Taxon_ID:284135"
+        },
+        "NCBI_taxid": {
+          "http://purl.obolibrary.org/obo/PECO_0007083": "NCBI_taxid:73005",
+          "http://purl.obolibrary.org/obo/PECO_0007234": "NCBI_taxid:50340",
+          "http://purl.obolibrary.org/obo/PECO_0007274": "NCBI_taxid:72366",
+          "http://purl.obolibrary.org/obo/PECO_0007313": "NCBI_taxid:7105",
+          "http://purl.obolibrary.org/obo/PECO_0007331": "NCBI_taxid:42880",
+          "http://purl.obolibrary.org/obo/PECO_0007365": "NCBI_taxid:10991",
+          "http://purl.obolibrary.org/obo/PECO_0007411": "NCBI_taxid:294"
+        }
+      },
+      "unknown_prefixes": {
+        "OBO_SF2_PECO": {
+          "http://purl.obolibrary.org/obo/PECO_0001001": "OBO_SF2_PECO:48",
+          "http://purl.obolibrary.org/obo/PECO_0001002": "OBO_SF2_PECO:59",
+          "http://purl.obolibrary.org/obo/PECO_0001003": "OBO_SF2_PECO:55",
+          "http://purl.obolibrary.org/obo/PECO_0001004": "OBO_SF2_PECO:51",
+          "http://purl.obolibrary.org/obo/PECO_0001005": "OBO_SF2_PECO:6",
+          "http://purl.obolibrary.org/obo/PECO_0001006": "OBO_SF2_PECO:7",
+          "http://purl.obolibrary.org/obo/PECO_0001007": "OBO_SF2_PECO:53",
+          "http://purl.obolibrary.org/obo/PECO_0001008": "OBO_SF2_PECO:8",
+          "http://purl.obolibrary.org/obo/PECO_0001009": "OBO_SF2_PECO:54",
+          "http://purl.obolibrary.org/obo/PECO_0001010": "OBO_SF2_PECO:9",
+          "http://purl.obolibrary.org/obo/PECO_0001011": "OBO_SF2_PECO:56",
+          "http://purl.obolibrary.org/obo/PECO_0001012": "OBO_SF2_PECO:57",
+          "http://purl.obolibrary.org/obo/PECO_0001013": "OBO_SF2_PECO:10",
+          "http://purl.obolibrary.org/obo/PECO_0001014": "OBO_SF2_PECO:58",
+          "http://purl.obolibrary.org/obo/PECO_0001015": "OBO_SF2_PECO:11",
+          "http://purl.obolibrary.org/obo/PECO_0001017": "OBO_SF2_PECO:5",
+          "http://purl.obolibrary.org/obo/PECO_0001018": "OBO_SF2_PECO:30",
+          "http://purl.obolibrary.org/obo/PECO_0001020": "OBO_SF2_PECO:28",
+          "http://purl.obolibrary.org/obo/PECO_0001021": "OBO_SF2_PECO:29",
+          "http://purl.obolibrary.org/obo/PECO_0001022": "OBO_SF2_PECO:41",
+          "http://purl.obolibrary.org/obo/PECO_0001023": "OBO_SF2_PECO:45",
+          "http://purl.obolibrary.org/obo/PECO_0001024": "OBO_SF2_PECO:46",
+          "http://purl.obolibrary.org/obo/PECO_0001025": "OBO_SF2_PECO:3",
+          "http://purl.obolibrary.org/obo/PECO_0001027": "OBO_SF2_PECO:3",
+          "http://purl.obolibrary.org/obo/PECO_0001028": "OBO_SF2_PECO:3",
+          "http://purl.obolibrary.org/obo/PECO_0001029": "OBO_SF2_PECO:3",
+          "http://purl.obolibrary.org/obo/PECO_0001030": "OBO_SF2_PECO:3",
+          "http://purl.obolibrary.org/obo/PECO_0001031": "OBO_SF2_PECO:3",
+          "http://purl.obolibrary.org/obo/PECO_0001033": "OBO_SF2_PECO:38",
+          "http://purl.obolibrary.org/obo/PECO_0001034": "OBO_SF2_PECO:40",
+          "http://purl.obolibrary.org/obo/PECO_0001035": "OBO_SF2_PECO:47",
+          "http://purl.obolibrary.org/obo/PECO_0001036": "OBO_SF2_PECO:64",
+          "http://purl.obolibrary.org/obo/PECO_0001037": "OBO_SF2_PECO:32",
+          "http://purl.obolibrary.org/obo/PECO_0001038": "OBO_SF2_PECO:31",
+          "http://purl.obolibrary.org/obo/PECO_0001039": "OBO_SF2_PECO:42",
+          "http://purl.obolibrary.org/obo/PECO_0001040": "OBO_SF2_PECO:44",
+          "http://purl.obolibrary.org/obo/PECO_0001041": "OBO_SF2_PECO:23",
+          "http://purl.obolibrary.org/obo/PECO_0001042": "OBO_SF2_PECO:15",
+          "http://purl.obolibrary.org/obo/PECO_0001043": "OBO_SF2_PECO:16",
+          "http://purl.obolibrary.org/obo/PECO_0001044": "OBO_SF2_PECO:13",
+          "http://purl.obolibrary.org/obo/PECO_0001045": "OBO_SF2_PECO:27",
+          "http://purl.obolibrary.org/obo/PECO_0001046": "OBO_SF2_PECO:20",
+          "http://purl.obolibrary.org/obo/PECO_0001047": "OBO_SF2_PECO:14",
+          "http://purl.obolibrary.org/obo/PECO_0001048": "OBO_SF2_PECO:18",
+          "http://purl.obolibrary.org/obo/PECO_0001049": "OBO_SF2_PECO:17",
+          "http://purl.obolibrary.org/obo/PECO_0001050": "OBO_SF2_PECO:19",
+          "http://purl.obolibrary.org/obo/PECO_0001051": "OBO_SF2_PECO:21",
+          "http://purl.obolibrary.org/obo/PECO_0001052": "OBO_SF2_PECO:22",
+          "http://purl.obolibrary.org/obo/PECO_0001053": "OBO_SF2_PECO:24",
+          "http://purl.obolibrary.org/obo/PECO_0001055": "OBO_SF2_PECO:66",
+          "http://purl.obolibrary.org/obo/PECO_0001056": "OBO_SF2_PECO:1",
+          "http://purl.obolibrary.org/obo/PECO_0001057": "OBO_SF2_PECO:47",
+          "http://purl.obolibrary.org/obo/PECO_0001058": "OBO_SF2_PECO:68",
+          "http://purl.obolibrary.org/obo/PECO_0001059": "OBO_SF2_PECO:68",
+          "http://purl.obolibrary.org/obo/PECO_0001060": "OBO_SF2_PECO:88",
+          "http://purl.obolibrary.org/obo/PECO_0007023": "OBO_SF2_PECO:86",
+          "http://purl.obolibrary.org/obo/PECO_0007027": "OBO_SF2_PECO:84",
+          "http://purl.obolibrary.org/obo/PECO_0007041": "OBO_SF2_PECO:70",
+          "http://purl.obolibrary.org/obo/PECO_0007044": "OBO_SF2_PECO:52",
+          "http://purl.obolibrary.org/obo/PECO_0007048": "OBO_SF2_PECO:77",
+          "http://purl.obolibrary.org/obo/PECO_0007063": "OBO_SF2_PECO:75",
+          "http://purl.obolibrary.org/obo/PECO_0007064": "OBO_SF2_PECO:80",
+          "http://purl.obolibrary.org/obo/PECO_0007066": "OBO_SF2_PECO:72",
+          "http://purl.obolibrary.org/obo/PECO_0007068": "OBO_SF2_PECO:72",
+          "http://purl.obolibrary.org/obo/PECO_0007069": "OBO_SF2_PECO:72",
+          "http://purl.obolibrary.org/obo/PECO_0007070": "OBO_SF2_PECO:72",
+          "http://purl.obolibrary.org/obo/PECO_0007074": "OBO_SF2_PECO:72",
+          "http://purl.obolibrary.org/obo/PECO_0007080": "OBO_SF2_PECO:72",
+          "http://purl.obolibrary.org/obo/PECO_0007105": "OBO_SF2_PECO:72",
+          "http://purl.obolibrary.org/obo/PECO_0007147": "OBO_SF2_PECO:82",
+          "http://purl.obolibrary.org/obo/PECO_0007149": "OBO_SF2_PECO:64",
+          "http://purl.obolibrary.org/obo/PECO_0007165": "OBO_SF2_PECO:72",
+          "http://purl.obolibrary.org/obo/PECO_0007167": "OBO_SF2_PECO:74",
+          "http://purl.obolibrary.org/obo/PECO_0007168": "OBO_SF2_PECO:70",
+          "http://purl.obolibrary.org/obo/PECO_0007180": "OBO_SF2_PECO:72",
+          "http://purl.obolibrary.org/obo/PECO_0007183": "OBO_SF2_PECO:74",
+          "http://purl.obolibrary.org/obo/PECO_0007185": "OBO_SF2_PECO:77",
+          "http://purl.obolibrary.org/obo/PECO_0007187": "OBO_SF2_PECO:63",
+          "http://purl.obolibrary.org/obo/PECO_0007189": "OBO_SF2_PECO:50",
+          "http://purl.obolibrary.org/obo/PECO_0007191": "OBO_SF2_PECO:49",
+          "http://purl.obolibrary.org/obo/PECO_0007198": "OBO_SF2_PECO:87",
+          "http://purl.obolibrary.org/obo/PECO_0007204": "OBO_SF2_PECO:72",
+          "http://purl.obolibrary.org/obo/PECO_0007223": "OBO_SF2_PECO:60",
+          "http://purl.obolibrary.org/obo/PECO_0007231": "OBO_SF2_PECO:82",
+          "http://purl.obolibrary.org/obo/PECO_0007241": "OBO_SF2_PECO:85",
+          "http://purl.obolibrary.org/obo/PECO_0007262": "OBO_SF2_PECO:65",
+          "http://purl.obolibrary.org/obo/PECO_0007265": "OBO_SF2_PECO:65",
+          "http://purl.obolibrary.org/obo/PECO_0007266": "OBO_SF2_PECO:65",
+          "http://purl.obolibrary.org/obo/PECO_0007267": "OBO_SF2_PECO:76",
+          "http://purl.obolibrary.org/obo/PECO_0007268": "OBO_SF2_PECO:74",
+          "http://purl.obolibrary.org/obo/PECO_0007284": "OBO_SF2_PECO:3",
+          "http://purl.obolibrary.org/obo/PECO_0007287": "OBO_SF2_PECO:75",
+          "http://purl.obolibrary.org/obo/PECO_0007288": "OBO_SF2_PECO:17",
+          "http://purl.obolibrary.org/obo/PECO_0007290": "OBO_SF2_PECO:72",
+          "http://purl.obolibrary.org/obo/PECO_0007291": "OBO_SF2_PECO:72",
+          "http://purl.obolibrary.org/obo/PECO_0007292": "OBO_SF2_PECO:75",
+          "http://purl.obolibrary.org/obo/PECO_0007316": "OBO_SF2_PECO:78",
+          "http://purl.obolibrary.org/obo/PECO_0007357": "OBO_SF2_PECO:79",
+          "http://purl.obolibrary.org/obo/PECO_0007359": "OBO_SF2_PECO:4",
+          "http://purl.obolibrary.org/obo/PECO_0007402": "OBO_SF2_PECO:71",
+          "http://purl.obolibrary.org/obo/PECO_0007403": "OBO_SF2_PECO:83",
+          "http://purl.obolibrary.org/obo/PECO_0007407": "OBO_SF2_PECO:62",
+          "http://purl.obolibrary.org/obo/PECO_0007408": "OBO_SF2_PECO:61",
+          "http://purl.obolibrary.org/obo/PECO_0007409": "OBO_SF2_PECO:72",
+          "http://purl.obolibrary.org/obo/PECO_0007410": "OBO_SF2_PECO:71",
+          "http://purl.obolibrary.org/obo/PECO_0007414": "OBO_SF2_PECO:73",
+          "http://purl.obolibrary.org/obo/PECO_0007415": "OBO_SF2_PECO:73",
+          "http://purl.obolibrary.org/obo/PECO_0007521": "OBO_SF2_PECO:70",
+          "http://purl.obolibrary.org/obo/PECO_0007551": "OBO_SF2_PECO:70",
+          "http://purl.obolibrary.org/obo/PECO_0007632": "OBO_SF2_PECO:74",
+          "http://purl.obolibrary.org/obo/PECO_0007633": "OBO_SF2_PECO:75"
+        },
+        "PECO_GIT": {
+          "http://purl.obolibrary.org/obo/PECO_0001001": "PECO_GIT:48",
+          "http://purl.obolibrary.org/obo/PECO_0001003": "PECO_GIT:55",
+          "http://purl.obolibrary.org/obo/PECO_0001004": "PECO_GIT:51",
+          "http://purl.obolibrary.org/obo/PECO_0001005": "PECO_GIT:6",
+          "http://purl.obolibrary.org/obo/PECO_0001006": "PECO_GIT:7",
+          "http://purl.obolibrary.org/obo/PECO_0001007": "PECO_GIT:53",
+          "http://purl.obolibrary.org/obo/PECO_0001008": "PECO_GIT:8",
+          "http://purl.obolibrary.org/obo/PECO_0001009": "PECO_GIT:54",
+          "http://purl.obolibrary.org/obo/PECO_0001010": "PECO_GIT:9",
+          "http://purl.obolibrary.org/obo/PECO_0001011": "PECO_GIT:56",
+          "http://purl.obolibrary.org/obo/PECO_0001012": "PECO_GIT:57",
+          "http://purl.obolibrary.org/obo/PECO_0001013": "PECO_GIT:10",
+          "http://purl.obolibrary.org/obo/PECO_0001014": "PECO_GIT:58",
+          "http://purl.obolibrary.org/obo/PECO_0001015": "PECO_GIT:11",
+          "http://purl.obolibrary.org/obo/PECO_0001017": "PECO_GIT:5",
+          "http://purl.obolibrary.org/obo/PECO_0001018": "PECO_GIT:30",
+          "http://purl.obolibrary.org/obo/PECO_0001020": "PECO_GIT:28",
+          "http://purl.obolibrary.org/obo/PECO_0001021": "PECO_GIT:29",
+          "http://purl.obolibrary.org/obo/PECO_0001022": "PECO_GIT:41",
+          "http://purl.obolibrary.org/obo/PECO_0001023": "PECO_GIT:45",
+          "http://purl.obolibrary.org/obo/PECO_0001024": "PECO_GIT:46",
+          "http://purl.obolibrary.org/obo/PECO_0001025": "PECO_GIT:3",
+          "http://purl.obolibrary.org/obo/PECO_0001026": "PECO_GIT:3",
+          "http://purl.obolibrary.org/obo/PECO_0001027": "PECO_GIT:3",
+          "http://purl.obolibrary.org/obo/PECO_0001028": "PECO_GIT:3",
+          "http://purl.obolibrary.org/obo/PECO_0001029": "PECO_GIT:3",
+          "http://purl.obolibrary.org/obo/PECO_0001030": "PECO_GIT:3",
+          "http://purl.obolibrary.org/obo/PECO_0001031": "PECO_GIT:3",
+          "http://purl.obolibrary.org/obo/PECO_0001033": "PECO_GIT:38",
+          "http://purl.obolibrary.org/obo/PECO_0001034": "PECO_GIT:40",
+          "http://purl.obolibrary.org/obo/PECO_0001035": "PECO_GIT:47",
+          "http://purl.obolibrary.org/obo/PECO_0001036": "PECO_GIT:64",
+          "http://purl.obolibrary.org/obo/PECO_0001037": "PECO_GIT:32",
+          "http://purl.obolibrary.org/obo/PECO_0001038": "PECO_GIT:31",
+          "http://purl.obolibrary.org/obo/PECO_0001039": "PECO_GIT:42",
+          "http://purl.obolibrary.org/obo/PECO_0001040": "PECO_GIT:44",
+          "http://purl.obolibrary.org/obo/PECO_0001041": "PECO_GIT:23",
+          "http://purl.obolibrary.org/obo/PECO_0001042": "PECO_GIT:15",
+          "http://purl.obolibrary.org/obo/PECO_0001043": "PECO_GIT:16",
+          "http://purl.obolibrary.org/obo/PECO_0001044": "PECO_GIT:13",
+          "http://purl.obolibrary.org/obo/PECO_0001045": "PECO_GIT:27",
+          "http://purl.obolibrary.org/obo/PECO_0001046": "PECO_GIT:20",
+          "http://purl.obolibrary.org/obo/PECO_0001047": "PECO_GIT:14",
+          "http://purl.obolibrary.org/obo/PECO_0001048": "PECO_GIT:18",
+          "http://purl.obolibrary.org/obo/PECO_0001049": "PECO_GIT:17",
+          "http://purl.obolibrary.org/obo/PECO_0001050": "PECO_GIT:19",
+          "http://purl.obolibrary.org/obo/PECO_0001051": "PECO_GIT:21",
+          "http://purl.obolibrary.org/obo/PECO_0001052": "PECO_GIT:22",
+          "http://purl.obolibrary.org/obo/PECO_0001053": "PECO_GIT:24",
+          "http://purl.obolibrary.org/obo/PECO_0001055": "PECO_GIT:66",
+          "http://purl.obolibrary.org/obo/PECO_0001056": "PECO_GIT:1",
+          "http://purl.obolibrary.org/obo/PECO_0001057": "PECO_GIT:47",
+          "http://purl.obolibrary.org/obo/PECO_0001058": "PECO_GIT:68",
+          "http://purl.obolibrary.org/obo/PECO_0001059": "PECO_GIT:68",
+          "http://purl.obolibrary.org/obo/PECO_0001060": "PECO_GIT:87",
+          "http://purl.obolibrary.org/obo/PECO_0001062": "PECO_GIT:88",
+          "http://purl.obolibrary.org/obo/PECO_0001063": "PECO_GIT:120",
+          "http://purl.obolibrary.org/obo/PECO_0001064": "PECO_GIT:112",
+          "http://purl.obolibrary.org/obo/PECO_0001065": "PECO_GIT:112",
+          "http://purl.obolibrary.org/obo/PECO_0001066": "PECO_GIT:113",
+          "http://purl.obolibrary.org/obo/PECO_0001067": "PECO_GIT:115",
+          "http://purl.obolibrary.org/obo/PECO_0001068": "PECO_GIT:117",
+          "http://purl.obolibrary.org/obo/PECO_0001069": "PECO_GIT:116",
+          "http://purl.obolibrary.org/obo/PECO_0007023": "PECO_GIT:85",
+          "http://purl.obolibrary.org/obo/PECO_0007027": "PECO_GIT:83",
+          "http://purl.obolibrary.org/obo/PECO_0007041": "PECO_GIT:69",
+          "http://purl.obolibrary.org/obo/PECO_0007044": "PECO_GIT:52",
+          "http://purl.obolibrary.org/obo/PECO_0007048": "PECO_GIT:76",
+          "http://purl.obolibrary.org/obo/PECO_0007063": "PECO_GIT:74",
+          "http://purl.obolibrary.org/obo/PECO_0007064": "PECO_GIT:79",
+          "http://purl.obolibrary.org/obo/PECO_0007066": "PECO_GIT:71",
+          "http://purl.obolibrary.org/obo/PECO_0007068": "PECO_GIT:71",
+          "http://purl.obolibrary.org/obo/PECO_0007069": "PECO_GIT:71",
+          "http://purl.obolibrary.org/obo/PECO_0007070": "PECO_GIT:71",
+          "http://purl.obolibrary.org/obo/PECO_0007074": "PECO_GIT:71",
+          "http://purl.obolibrary.org/obo/PECO_0007080": "PECO_GIT:71",
+          "http://purl.obolibrary.org/obo/PECO_0007105": "PECO_GIT:71",
+          "http://purl.obolibrary.org/obo/PECO_0007147": "PECO_GIT:81",
+          "http://purl.obolibrary.org/obo/PECO_0007149": "PECO_GIT:64",
+          "http://purl.obolibrary.org/obo/PECO_0007165": "PECO_GIT:71",
+          "http://purl.obolibrary.org/obo/PECO_0007167": "PECO_GIT:73",
+          "http://purl.obolibrary.org/obo/PECO_0007168": "PECO_GIT:69",
+          "http://purl.obolibrary.org/obo/PECO_0007180": "PECO_GIT:71",
+          "http://purl.obolibrary.org/obo/PECO_0007183": "PECO_GIT:73",
+          "http://purl.obolibrary.org/obo/PECO_0007185": "PECO_GIT:76",
+          "http://purl.obolibrary.org/obo/PECO_0007187": "PECO_GIT:63",
+          "http://purl.obolibrary.org/obo/PECO_0007189": "PECO_GIT:50",
+          "http://purl.obolibrary.org/obo/PECO_0007191": "PECO_GIT:49",
+          "http://purl.obolibrary.org/obo/PECO_0007198": "PECO_GIT:86",
+          "http://purl.obolibrary.org/obo/PECO_0007204": "PECO_GIT:71",
+          "http://purl.obolibrary.org/obo/PECO_0007223": "PECO_GIT:60",
+          "http://purl.obolibrary.org/obo/PECO_0007231": "PECO_GIT:81",
+          "http://purl.obolibrary.org/obo/PECO_0007241": "PECO_GIT:84",
+          "http://purl.obolibrary.org/obo/PECO_0007262": "PECO_GIT:65",
+          "http://purl.obolibrary.org/obo/PECO_0007265": "PECO_GIT:65",
+          "http://purl.obolibrary.org/obo/PECO_0007266": "PECO_GIT:65",
+          "http://purl.obolibrary.org/obo/PECO_0007267": "PECO_GIT:75",
+          "http://purl.obolibrary.org/obo/PECO_0007268": "PECO_GIT:73",
+          "http://purl.obolibrary.org/obo/PECO_0007284": "PECO_GIT:3",
+          "http://purl.obolibrary.org/obo/PECO_0007287": "PECO_GIT:74",
+          "http://purl.obolibrary.org/obo/PECO_0007288": "PECO_GIT:17",
+          "http://purl.obolibrary.org/obo/PECO_0007290": "PECO_GIT:71",
+          "http://purl.obolibrary.org/obo/PECO_0007291": "PECO_GIT:71",
+          "http://purl.obolibrary.org/obo/PECO_0007292": "PECO_GIT:74",
+          "http://purl.obolibrary.org/obo/PECO_0007316": "PECO_GIT:77",
+          "http://purl.obolibrary.org/obo/PECO_0007357": "PECO_GIT:78",
+          "http://purl.obolibrary.org/obo/PECO_0007359": "PECO_GIT:4",
+          "http://purl.obolibrary.org/obo/PECO_0007402": "PECO_GIT:70",
+          "http://purl.obolibrary.org/obo/PECO_0007403": "PECO_GIT:82",
+          "http://purl.obolibrary.org/obo/PECO_0007407": "PECO_GIT:62",
+          "http://purl.obolibrary.org/obo/PECO_0007408": "PECO_GIT:61",
+          "http://purl.obolibrary.org/obo/PECO_0007409": "PECO_GIT:71",
+          "http://purl.obolibrary.org/obo/PECO_0007410": "PECO_GIT:70",
+          "http://purl.obolibrary.org/obo/PECO_0007414": "PECO_GIT:72",
+          "http://purl.obolibrary.org/obo/PECO_0007415": "PECO_GIT:72",
+          "http://purl.obolibrary.org/obo/PECO_0007521": "PECO_GIT:69",
+          "http://purl.obolibrary.org/obo/PECO_0007551": "PECO_GIT:69",
+          "http://purl.obolibrary.org/obo/PECO_0007632": "PECO_GIT:73",
+          "http://purl.obolibrary.org/obo/PECO_0007633": "PECO_GIT:74"
+        }
+      }
+    }
+  },
+  "http://purl.obolibrary.org/obo/peco/imports/chebi_import.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/peco/imports/chebi_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/peco/imports/envo_import.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/peco/imports/envo_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/peco/imports/ncbitaxon_import.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/peco/imports/ncbitaxon_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/peco/imports/ro_import.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/peco/imports/ro_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/peco/patterns/exposure-chebi_pattern.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/peco/patterns/exposure-chebi_pattern.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/peco/patterns/exposure-chebi_role_pattern.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/peco/patterns/exposure-chebi_role_pattern.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/peco/patterns/exposure-envo_pattern.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/peco/patterns/exposure-envo_pattern.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/peco/patterns/exposure-ncbitaxon_pattern.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/peco/patterns/exposure-ncbitaxon_pattern.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

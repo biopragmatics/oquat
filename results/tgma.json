@@ -1,0 +1,88 @@
+{
+  "http://purl.obolibrary.org/obo/tgma.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/tgma.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/TGMA_0000001": [
+          "PubMed:PMID:15857775"
+        ],
+        "http://purl.obolibrary.org/obo/TGMA_0000316": [
+          "ISBN:0-937548-00-60-937548-00-6"
+        ],
+        "http://purl.obolibrary.org/obo/TGMA_0000457": [
+          "ISBN:0-937548-00-60-937548-00-6"
+        ],
+        "http://purl.obolibrary.org/obo/TGMA_0000710": [
+          "PubMed:PMID:15857775"
+        ],
+        "http://purl.obolibrary.org/obo/TGMA_0000910": [
+          "PubMed:PMID:15857775"
+        ],
+        "http://purl.obolibrary.org/obo/TGMA_0001282": [
+          "ISBN:0-937548-00-6."
+        ],
+        "http://purl.obolibrary.org/obo/TGMA_0001491": [
+          "ISBN:0--937548-00-6"
+        ],
+        "http://purl.obolibrary.org/obo/TGMA_0001814": [
+          "ISBN:0-412-40-1800"
+        ],
+        "http://purl.obolibrary.org/obo/TGMA_0001818": [
+          "PubMed:PMID:15857775"
+        ],
+        "http://purl.obolibrary.org/obo/TGMA_0001849": [
+          "PubMed:PMID:15857775"
+        ],
+        "http://purl.obolibrary.org/obo/TGMA_0001851": [
+          "PubMed:PMID:15857775"
+        ],
+        "http://purl.obolibrary.org/obo/TGMA_0001852": [
+          "PubMed:PMID:15857775"
+        ],
+        "http://purl.obolibrary.org/obo/TGMA_0001853": [
+          "PubMed:PMID:15857775"
+        ],
+        "http://purl.obolibrary.org/obo/TGMA_0001854": [
+          "PubMed:PMID:15857775"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "URL": {
+          "http://purl.obolibrary.org/obo/TGMA_0000000": "URL:http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&context=onlinedictinvertzoology",
+          "http://purl.obolibrary.org/obo/TGMA_0001855": "URL:http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&context=onlinedictinvertzoology"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/TGMA_0001124": [
+          "ISSN:00931-3669"
+        ],
+        "http://purl.obolibrary.org/obo/TGMA_0001282": [
+          "ISBN:0-937548-00-6."
+        ]
+      },
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "URL": {
+          "http://purl.obolibrary.org/obo/TGMA_0000000": "URL:http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&context=onlinedictinvertzoology",
+          "http://purl.obolibrary.org/obo/TGMA_0000001": "URL:http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&context=onlinedictinvertzoology",
+          "http://purl.obolibrary.org/obo/TGMA_0001855": "URL:http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&context=onlinedictinvertzoology"
+        }
+      }
+    },
+    "version": "http://purl.obolibrary.org/obo/tgma/releases/2013-06-03/tgma.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

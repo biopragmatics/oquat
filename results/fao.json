@@ -1,0 +1,422 @@
+{
+  "http://purl.obolibrary.org/obo/fao.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/fao.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/FAO_0000001": [
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000002": [
+          "SGD:clt",
+          "FAO:curators",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000003": [
+          "FAO:curators"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000004": [
+          "FAO:curators"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000005": [
+          "FAO:curators"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000006": [
+          "SGD:clt",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000007": [
+          "SGD:clt",
+          "FAO:curators"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000010": [
+          "FAO:curators"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000013": [
+          "FAO:curators",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000014": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000015": [
+          "FAO:curators"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000016": [
+          "FAO:curators",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000017": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000018": [
+          "SGD:clt",
+          "FAO:curators",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000020": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000021": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000022": [
+          "SGD:clt",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000023": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000024": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000025": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000026": [
+          "SGD:clt",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000027": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000028": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000029": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000030": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000031": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000032": [
+          "SGD:clt",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000033": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000034": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000035": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000036": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000037": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000038": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000039": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000040": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000041": [
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000042": [
+          "CGD:doi",
+          "SGD:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000052": [
+          "FAO:curators"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000053": [
+          "FAO:curators"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000054": [
+          "FAO:curators"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000055": [
+          "FAO:curators"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000056": [
+          "FAO:curators"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000057": [
+          "FAO:curators"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000058": [
+          "FAO:curators"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000059": [
+          "CGD:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000060": [
+          "CGD:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000061": [
+          "CGD:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000062": [
+          "CGD:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000063": [
+          "CGD:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000064": [
+          "CGD:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000065": [
+          "CGD:doi",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000066": [
+          "CGD:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000067": [
+          "CGD:doi",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001001": [
+          "FAO:mcc",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001002": [
+          "FAO:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001003": [
+          "FAO:mcc",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001004": [
+          "FAO:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001005": [
+          "FAO:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001006": [
+          "FAO:clt"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001007": [
+          "FAO:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001008": [
+          "FAO:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001009": [
+          "FAO:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001010": [
+          "FAO:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001011": [
+          "FAO:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001012": [
+          "FAO:mcc",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001013": [
+          "FAO:mcc",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001014": [
+          "FAO:mcc",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001015": [
+          "FAO:mcc",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001016": [
+          "FAO:mcc",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001017": [
+          "FAO:mcc",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001018": [
+          "FAO:mcc",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001019": [
+          "FAO:mcc",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001020": [
+          "FAO:mcc",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001021": [
+          "FAO:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001022": [
+          "FAO:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001023": [
+          "FAO:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001030": [
+          "FAO:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001031": [
+          "FAO:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0002002": [
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0002003": [
+          "FAO:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0002004": [
+          "FAO:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0002005": [
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0002006": [
+          "FAO:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0002007": [
+          "FAO:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0002008": [
+          "FAO:doi",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0002009": [
+          "FAO:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0002010": [
+          "FAO:doi",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0002011": [
+          "FAO:doi"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "PMID": {
+          "http://purl.obolibrary.org/obo/FAO_0000020": "PMID:16339736",
+          "http://purl.obolibrary.org/obo/FAO_0000022": "PMID:8898211",
+          "http://purl.obolibrary.org/obo/FAO_0000023": "PMID:9529886",
+          "http://purl.obolibrary.org/obo/FAO_0000024": "PMID:9529886",
+          "http://purl.obolibrary.org/obo/FAO_0000026": "PMID:30206343",
+          "http://purl.obolibrary.org/obo/FAO_0000027": "PMID:9529886",
+          "http://purl.obolibrary.org/obo/FAO_0000028": "PMID:8357339",
+          "http://purl.obolibrary.org/obo/FAO_0000041": "PMID:2524423",
+          "http://purl.obolibrary.org/obo/FAO_0000042": "PMID:2524423",
+          "http://purl.obolibrary.org/obo/FAO_0000043": "PMID:9529886",
+          "http://purl.obolibrary.org/obo/FAO_0000045": "PMID:9529886",
+          "http://purl.obolibrary.org/obo/FAO_0000046": "PMID:9529886",
+          "http://purl.obolibrary.org/obo/FAO_0000048": "PMID:19210625",
+          "http://purl.obolibrary.org/obo/FAO_0000049": "PMID:9529886",
+          "http://purl.obolibrary.org/obo/FAO_0000050": "PMID:9529886",
+          "http://purl.obolibrary.org/obo/FAO_0000063": "PMID:29775474",
+          "http://purl.obolibrary.org/obo/FAO_0000067": "PMID:16215181",
+          "http://purl.obolibrary.org/obo/FAO_0002001": "PMID:6235212",
+          "http://purl.obolibrary.org/obo/FAO_0002005": "PMID:31382649",
+          "http://purl.obolibrary.org/obo/FAO_0002008": "PMID:16040203"
+        }
+      },
+      "unknown_prefixes": {
+        "AspGD": {
+          "http://purl.obolibrary.org/obo/FAO_0000043": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/FAO_0000044": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/FAO_0000045": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/FAO_0000046": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/FAO_0000047": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/FAO_0000048": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/FAO_0000049": "AspGD:mcc",
+          "http://purl.obolibrary.org/obo/FAO_0000050": "AspGD:mcc"
+        },
+        "answers.com": {
+          "http://purl.obolibrary.org/obo/FAO_0000055": "answers.com:aplanospore"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/FAO_0000010": [
+          "FAO:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000025": [
+          "SGD:clt",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000026": [
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000029": [
+          "SGD:clt",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000030": [
+          "SGD:clt",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000031": [
+          "SGD:clt",
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0000058": [
+          "FAO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0002003": [
+          "FAO:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0002004": [
+          "FAO:doi"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0002006": [
+          "FAO:doi"
+        ]
+      },
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/fao/releases/2020-05-07/fao.owl",
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/FAO_0001010": [
+          "FAO:mcc"
+        ],
+        "http://purl.obolibrary.org/obo/FAO_0001014": [
+          "FAO:mcc"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/fao/imports/ncbitaxon_import.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/fao/imports/ncbitaxon_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

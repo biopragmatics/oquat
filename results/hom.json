@@ -1,0 +1,79 @@
+{
+  "http://purl.obolibrary.org/obo/hom.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/hom.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/HOM_0000010": [
+          "MeSH:Synteny"
+        ],
+        "http://purl.obolibrary.org/obo/HOM_0000016": [
+          "SO:non_functional_homolog_of"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "PMID": {
+          "http://purl.obolibrary.org/obo/HOM_0000011": "PMID:5449325",
+          "http://purl.obolibrary.org/obo/HOM_0000017": "PMID:5449325",
+          "http://purl.obolibrary.org/obo/HOM_0000046": "PMID:11110898",
+          "http://purl.obolibrary.org/obo/HOM_0000068": "PMID:3065587",
+          "http://purl.obolibrary.org/obo/HOM_0000069": "PMID:3065587"
+        }
+      },
+      "unknown_prefixes": {
+        "BGEE": {
+          "http://purl.obolibrary.org/obo/HOM_0000000": "BGEE:curator",
+          "http://purl.obolibrary.org/obo/HOM_0000019": "BGEE:curator",
+          "http://purl.obolibrary.org/obo/HOM_0000037": "BGEE:curator"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.obolibrary.org/obo/hom/releases/2015-01-07/hom.owl",
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/HOM_0000000": [
+          "SO:similar_to"
+        ],
+        "http://purl.obolibrary.org/obo/HOM_0000007": [
+          "RO_proposed_relation:homologous_to",
+          "SO:homologous_to"
+        ],
+        "http://purl.obolibrary.org/obo/HOM_0000010": [
+          "MeSH:Synteny"
+        ],
+        "http://purl.obolibrary.org/obo/HOM_0000011": [
+          "SO:paralogous_to"
+        ],
+        "http://purl.obolibrary.org/obo/HOM_0000015": [
+          "MeSH:Structural Homology, Protein"
+        ],
+        "http://purl.obolibrary.org/obo/HOM_0000016": [
+          "SO:non_functional_homolog_of"
+        ],
+        "http://purl.obolibrary.org/obo/HOM_0000017": [
+          "SO:orthologous_to",
+          "ECO:00000060"
+        ],
+        "http://purl.obolibrary.org/obo/HOM_0000047": [
+          "MeSH:Chromosome Pairing"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "RO_proposed_relation": {
+          "http://purl.obolibrary.org/obo/HOM_0000007": "RO_proposed_relation:homologous_to"
+        }
+      },
+      "unknown_prefixes": {}
+    }
+  }
+}

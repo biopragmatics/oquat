@@ -1,0 +1,2530 @@
+{
+  "http://purl.obolibrary.org/obo/spd.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/spd.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/SPD_0000001": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000002": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000003": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000004": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000005": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000006": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000010": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000012": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000013": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000014": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000015": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000016": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000017": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000020": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000021": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000022": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000023": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000024": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000025": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000026": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000027": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000028": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000029": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000030": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000031": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000033": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000034": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000035": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000036": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000037": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000038": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000041": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000042": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000043": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000044": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000045": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000046": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000048": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000049": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000050": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000051": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000052": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000053": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000054": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000055": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000058": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000059": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000060": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000061": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000063": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000064": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000066": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000067": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000069": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000070": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000071": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000072": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000073": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000074": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000075": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000076": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000077": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000078": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000079": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000081": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000082": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000083": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000084": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000085": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000086": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000087": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000088": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000089": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000090": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000091": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000092": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000093": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000094": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000095": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000096": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000097": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000098": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000099": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000100": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000101": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000102": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000103": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000104": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000105": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000106": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000107": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000108": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000109": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000110": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000111": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000112": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000113": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000114": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000115": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000116": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000117": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000119": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000121": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000122": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000123": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000124": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000125": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000126": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000127": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000128": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000129": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000131": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000132": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000135": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000137": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000138": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000140": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000143": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000144": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000149": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000150": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000151": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000152": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000154": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000155": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000156": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000157": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000158": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000159": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000160": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000161": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000162": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000163": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000164": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000165": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000166": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000167": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000171": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000172": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000174": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000175": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000176": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000177": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000178": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000179": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000180": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000182": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000183": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000184": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000187": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000188": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000189": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000190": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000191": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000192": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000193": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000194": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000197": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000199": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000200": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000201": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000202": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000203": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000204": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000205": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000206": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000207": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000208": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000209": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000210": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000211": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000212": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000213": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000214": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000216": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000218": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000219": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000220": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000221": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000222": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000223": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000224": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000225": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000226": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000227": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000228": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000229": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000230": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000231": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000232": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000233": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000234": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000235": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000236": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000237": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000238": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000239": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000240": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000241": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000243": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000244": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000245": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000246": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000248": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000250": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000251": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000253": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000254": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000255": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000257": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000258": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000259": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000260": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000261": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000262": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000263": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000264": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000265": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000267": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000268": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000269": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000270": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000271": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000272": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000273": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000274": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000276": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000277": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000278": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000279": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000280": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000281": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000282": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000283": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000284": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000285": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000287": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000290": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000292": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000293": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000294": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000295": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000296": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000297": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000298": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000299": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000300": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000301": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000303": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000304": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000305": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000307": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000308": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000309": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000311": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000312": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000313": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000314": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000316": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000317": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000318": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000319": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000320": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000321": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000323": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000324": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000325": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000327": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000328": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000329": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000331": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000333": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000334": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000335": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000342": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000344": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000346": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000348": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000349": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000350": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000352": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000353": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000354": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000356": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000357": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000358": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000359": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000360": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000361": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000362": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000363": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000365": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000366": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000368": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000369": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000371": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000372": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000374": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000375": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000376": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000378": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000379": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000380": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000381": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000382": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000383": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000384": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000385": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000386": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000390": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000391": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000392": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000393": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000394": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000395": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000396": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000397": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000401": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000403": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000406": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000407": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000408": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000409": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000410": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000411": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000412": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000413": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000414": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000415": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000416": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000417": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000418": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000419": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000420": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000421": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000422": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000423": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000424": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000425": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000426": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000427": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000428": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000429": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000430": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000431": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000432": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000433": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000434": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000435": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000437": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000438": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000439": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000440": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000443": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000444": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000445": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000446": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000447": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000449": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000450": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000451": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000452": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000453": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000454": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000455": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000457": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000458": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000459": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000460": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000461": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000462": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000463": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000464": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000465": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000466": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000467": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000468": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000469": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000470": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000471": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000472": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000473": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000474": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000475": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000479": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000480": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000482": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000483": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000484": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000486": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000488": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000489": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000490": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000491": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000492": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000493": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000494": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000495": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000496": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000498": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000499": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000500": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000501": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000502": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000503": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000504": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000505": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000506": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000507": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000508": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000509": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000510": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000511": [
+          "SPD:Barth_2002"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000513": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000514": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000517": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000520": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000522": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000523": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000524": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000525": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000526": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000527": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000528": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000529": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000530": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000531": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000532": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000534": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000535": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000536": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000537": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000538": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000539": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000540": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000541": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000542": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000544": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000545": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000546": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000547": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000548": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000549": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000550": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000551": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000553": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000554": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000555": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000556": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000557": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000558": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000559": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000560": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000561": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000562": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000563": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000564": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000565": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000566": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000567": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000568": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000569": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000570": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000571": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000572": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000573": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000574": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000575": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000576": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000577": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000578": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000579": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000580": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000581": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000582": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000583": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000584": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000585": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000586": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000587": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000588": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000589": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000590": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000591": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000592": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000593": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000594": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000595": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000596": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000597": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000598": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000599": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000600": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000601": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000602": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000603": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000604": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000605": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000606": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000607": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000608": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000609": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000610": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000611": [
+          "SPD:Wirkner"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000614": [
+          "SPD:Wirkner"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000615": [
+          "SPD:Wirkner"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000616": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000617": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000619": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000620": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000623": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000626": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000627": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000628": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000629": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000631": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000632": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000633": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000634": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000635": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000636": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000637": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000638": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000640": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000641": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000642": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000643": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000644": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000645": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000646": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000647": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000648": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000649": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000650": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000651": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000652": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000653": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000654": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000655": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000656": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000657": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000658": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000659": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000660": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000661": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000662": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000663": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000664": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000665": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000666": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000667": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000669": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000670": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000673": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000674": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000675": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000676": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000677": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000678": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000679": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000680": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000681": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000683": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000684": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000685": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000686": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000687": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000688": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000689": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000690": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000691": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000693": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000694": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000695": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000696": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000699": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000700": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000701": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000707": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000709": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000711": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000713": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000715": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000716": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000717": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000718": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000719": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000720": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000721": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000722": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000723": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000724": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000725": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000726": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000727": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000728": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000729": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000730": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000731": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000732": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000733": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000734": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000735": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000736": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000737": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000738": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000739": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000740": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000741": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000742": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000743": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000744": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000745": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000746": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000747": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000748": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000749": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000750": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000751": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000752": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000753": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000754": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000755": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000756": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000757": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000758": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000759": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000760": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000761": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000762": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000763": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000764": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000765": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000766": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000767": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000768": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000769": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000770": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000771": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000772": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000773": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000775": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000776": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000777": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000778": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000779": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000780": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000781": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000782": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000784": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000785": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000786": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000787": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000788": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000789": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000790": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000791": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000792": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000793": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000794": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000795": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000796": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000797": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000798": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000799": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000800": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000801": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000802": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000803": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000804": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000805": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000806": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000807": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000808": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000809": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000810": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000811": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000812": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000813": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000814": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000815": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000816": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000817": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000819": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000820": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000821": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000822": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000823": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000824": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000825": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000826": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000827": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000828": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000829": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000830": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000831": [
+          "SPD:Ramirez"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "PSD": {
+          "http://purl.obolibrary.org/obo/SPD_0000181": "PSD:Ramirez"
+        },
+        "SPDd": {
+          "http://purl.obolibrary.org/obo/SPD_0000377": "SPDd:Ramirez"
+        },
+        "SPDrf": {
+          "http://purl.obolibrary.org/obo/SPD_0000000": "SPDrf:CARO",
+          "http://purl.obolibrary.org/obo/SPD_0000008": "SPDrf:CARO",
+          "http://purl.obolibrary.org/obo/SPD_0000011": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000018": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000019": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000039": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000040": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000062": "SPDrf:Hormiga_1994",
+          "http://purl.obolibrary.org/obo/SPD_0000065": "SPDrf:Purcell_1909",
+          "http://purl.obolibrary.org/obo/SPD_0000068": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000080": "SPDrf:Wirkner_and_Huckstorf_2013",
+          "http://purl.obolibrary.org/obo/SPD_0000120": "SPDrf:Purcell_1909",
+          "http://purl.obolibrary.org/obo/SPD_0000130": "SPDrf:Wirkner_and_Huckstorf_2013",
+          "http://purl.obolibrary.org/obo/SPD_0000133": "SPDrf:Sierwald_1989",
+          "http://purl.obolibrary.org/obo/SPD_0000134": "SPDrf:Sierwald_1989",
+          "http://purl.obolibrary.org/obo/SPD_0000136": "SPDrf:Sierwald_1989",
+          "http://purl.obolibrary.org/obo/SPD_0000139": "SPDrf:Bennett_1992",
+          "http://purl.obolibrary.org/obo/SPD_0000141": "SPDrf:Sierwald_1989",
+          "http://purl.obolibrary.org/obo/SPD_0000142": "SPDrf:Townley_and_Tillingast_2003",
+          "http://purl.obolibrary.org/obo/SPD_0000147": "SPDrf:Kovoor_and_Peters_1988",
+          "http://purl.obolibrary.org/obo/SPD_0000153": "SPDrf:Kovoor_and_Peters_1988",
+          "http://purl.obolibrary.org/obo/SPD_0000168": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000169": "SPDrf:Sierwald_1990",
+          "http://purl.obolibrary.org/obo/SPD_0000170": "SPDrf:Huber_2004",
+          "http://purl.obolibrary.org/obo/SPD_0000173": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000178": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000185": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000186": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000198": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000242": "SPDrf:Raven_1985",
+          "http://purl.obolibrary.org/obo/SPD_0000249": "SPDrf:Foelix_1996",
+          "http://purl.obolibrary.org/obo/SPD_0000256": "SPDrf:Gorb_and_Barth_1996",
+          "http://purl.obolibrary.org/obo/SPD_0000266": "SPDrf:Griswold_et_al_2005",
+          "http://purl.obolibrary.org/obo/SPD_0000286": "SPDrf:Foelix_1996",
+          "http://purl.obolibrary.org/obo/SPD_0000288": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000289": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000291": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000302": "SPDrf:Bosselaers_and_Jocqu_2002:_247",
+          "http://purl.obolibrary.org/obo/SPD_0000310": "SPDrf:Barth_2002",
+          "http://purl.obolibrary.org/obo/SPD_0000315": "SPDrf:Foelix_1996",
+          "http://purl.obolibrary.org/obo/SPD_0000322": "SPDrf:Grawe_et_al_2104",
+          "http://purl.obolibrary.org/obo/SPD_0000326": "SPDrf:Grawe_et_al_2014",
+          "http://purl.obolibrary.org/obo/SPD_0000330": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000343": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000345": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000364": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000367": "SPDrf:Gheysens_et_al_2005",
+          "http://purl.obolibrary.org/obo/SPD_0000370": "SPDrf:Townley_and_Tillingast_2003",
+          "http://purl.obolibrary.org/obo/SPD_0000373": "SPDrf:Parry_1957",
+          "http://purl.obolibrary.org/obo/SPD_0000400": "SPDrf:Foelix_1996",
+          "http://purl.obolibrary.org/obo/SPD_0000402": "SPDrf:Townsend_and_Felgenhauer_1998",
+          "http://purl.obolibrary.org/obo/SPD_0000456": "SPDrf:CARO",
+          "http://purl.obolibrary.org/obo/SPD_0000476": "SPDrf:Parry_1957",
+          "http://purl.obolibrary.org/obo/SPD_0000477": "SPDrf:Parry_1957",
+          "http://purl.obolibrary.org/obo/SPD_0000478": "SPDrf:Seyfarth_et_al_1985",
+          "http://purl.obolibrary.org/obo/SPD_0000481": "SPDrf:Barth_2002",
+          "http://purl.obolibrary.org/obo/SPD_0000485": "SPDrf:Barth_2002",
+          "http://purl.obolibrary.org/obo/SPD_0000487": "SPDrf:Agnarsson_et_al_2008",
+          "http://purl.obolibrary.org/obo/SPD_0000497": "SPDrf:Barth_2002",
+          "http://purl.obolibrary.org/obo/SPD_0000512": "SPDrf:Griswold_et_al_2005",
+          "http://purl.obolibrary.org/obo/SPD_0000515": "SPDrf:Kovoor_and_Peters_1988",
+          "http://purl.obolibrary.org/obo/SPD_0000516": "SPDrf:Millot_1936",
+          "http://purl.obolibrary.org/obo/SPD_0000518": "SPDrf:Foelix_1970",
+          "http://purl.obolibrary.org/obo/SPD_0000519": "SPDrf:Huber_2002",
+          "http://purl.obolibrary.org/obo/SPD_0000521": "SPDrf:Coddington_1990",
+          "http://purl.obolibrary.org/obo/SPD_0000533": "SPDrf:Compagnucci_and_Ramirez_2000",
+          "http://purl.obolibrary.org/obo/SPD_0000543": "SPDrf:Sierwald_1989",
+          "http://purl.obolibrary.org/obo/SPD_0000552": "SPDrf:Platnick_2000",
+          "http://purl.obolibrary.org/obo/SPD_0000612": "SPDrf:Wirkner_and_Huckstorf_2013",
+          "http://purl.obolibrary.org/obo/SPD_0000613": "SPDrf:Wirkner_and_Huckstorf_2013",
+          "http://purl.obolibrary.org/obo/SPD_0000618": "SPDrf:Wirkner_and_Huckstorf_2013",
+          "http://purl.obolibrary.org/obo/SPD_0000621": "SPDrf:Foelix_2011",
+          "http://purl.obolibrary.org/obo/SPD_0000622": "SPDrf:Foelix_2011",
+          "http://purl.obolibrary.org/obo/SPD_0000624": "SPDrf:Foelix_2011",
+          "http://purl.obolibrary.org/obo/SPD_0000625": "SPDrf:Foelix_2011",
+          "http://purl.obolibrary.org/obo/SPD_0000630": "SPDrf:Foelix_2011",
+          "http://purl.obolibrary.org/obo/SPD_0000639": "SPDrf:Kovoor_1977",
+          "http://purl.obolibrary.org/obo/SPD_0000668": "SPDrf:Foelix_2011",
+          "http://purl.obolibrary.org/obo/SPD_0000671": "SPDrf:Shutlz_1989",
+          "http://purl.obolibrary.org/obo/SPD_0000672": "SPDrf:Shultz_1989",
+          "http://purl.obolibrary.org/obo/SPD_0000682": "SPDrf:Hormiga_1994",
+          "http://purl.obolibrary.org/obo/SPD_0000692": "SPDrf:Griswold_et_al_2005",
+          "http://purl.obolibrary.org/obo/SPD_0000697": "SPDrf:Huber_1994",
+          "http://purl.obolibrary.org/obo/SPD_0000698": "SPDrf:Huber_1994",
+          "http://purl.obolibrary.org/obo/SPD_0000702": "SPDrf:Huber_2000",
+          "http://purl.obolibrary.org/obo/SPD_0000703": "SPDrf:Saaristo_1971",
+          "http://purl.obolibrary.org/obo/SPD_0000704": "SPDrf:Sierwald_1990",
+          "http://purl.obolibrary.org/obo/SPD_0000705": "SPDrf:Comstock_1910",
+          "http://purl.obolibrary.org/obo/SPD_0000706": "SPDrf:Comstock_1910",
+          "http://purl.obolibrary.org/obo/SPD_0000708": "SPDrf:Griswold_1993",
+          "http://purl.obolibrary.org/obo/SPD_0000710": "SPDrf:Hormiga_1994",
+          "http://purl.obolibrary.org/obo/SPD_0000712": "SPDrf:Kovoor_&_Peters_1988",
+          "http://purl.obolibrary.org/obo/SPD_0000714": "SPDrf:Kovoor_&_Peters_1988",
+          "http://purl.obolibrary.org/obo/SPD_0000774": "SPDrf:Foelix_2011",
+          "http://purl.obolibrary.org/obo/SPD_0000783": "SPDrf:Ludwig_et_al_1990"
+        },
+        "SPR": {
+          "http://purl.obolibrary.org/obo/SPD_0000818": "SPR:Ramirez"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/SPD_0000001": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000002": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000003": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000005": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000007": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000016": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000021": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000022": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000023": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000024": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000025": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000026": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000028": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000034": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000050": [
+          "SPD:Ubick_et_al_2005_glossary"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000058": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000066": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000071": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000073": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000081": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000123": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000132": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000137": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000138": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000139": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000140": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000144": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000156": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000166": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000177": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000180": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000200": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000257": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000280": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000283": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000302": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000312": [
+          "SPD:Raven_1986"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000315": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000320": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000348": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000367": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000385": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000391": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000402": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000430": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000449": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000483": [
+          "SPD:Hill_1977"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000494": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000500": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000501": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000535": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000544": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000547": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000549": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000570": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000575": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000588": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000589": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000594": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000597": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000623": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000627": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000636": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000638": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000639": [
+          "SPD:Peters_1955"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000650": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000661": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000686": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000693": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000694": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000699": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000721": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000732": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000737": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000758": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000760": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000762": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000773": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000777": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000783": [
+          "SPD:Foelix_2011"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000789": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000794": [
+          "SPD:Michalik"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000795": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000796": [
+          "SPD:Ramirez"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000813": [
+          "SPD:Ruhland_&_Rathmayer_1978"
+        ],
+        "http://purl.obolibrary.org/obo/SPD_0000814": [
+          "SPD:Ruhland_&_Rathmayer_1978"
+        ]
+      },
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "SPDrf": {
+          "http://purl.obolibrary.org/obo/SPD_0000016": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000018": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000020": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000036": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000037": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000038": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000048": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000049": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000051": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000073": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000135": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000136": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000138": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000140": "SPDrf:Carico_and_Holt_1964",
+          "http://purl.obolibrary.org/obo/SPD_0000168": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000177": "SPDrf:Comstock_1910",
+          "http://purl.obolibrary.org/obo/SPD_0000287": "SPDrf:Lopardo_and_Hormiga_2008",
+          "http://purl.obolibrary.org/obo/SPD_0000288": "SPDrf:Foelix_2011",
+          "http://purl.obolibrary.org/obo/SPD_0000289": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000295": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000310": "SPDrf:Barth_2002",
+          "http://purl.obolibrary.org/obo/SPD_0000330": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000378": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000379": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000380": "SPDrf:Simon_1892",
+          "http://purl.obolibrary.org/obo/SPD_0000385": "SPDrf:Ubick_et_al_2005_glossary",
+          "http://purl.obolibrary.org/obo/SPD_0000400": "SPDrf:Foelix_1996",
+          "http://purl.obolibrary.org/obo/SPD_0000429": "SPDrf:Foelix_2011",
+          "http://purl.obolibrary.org/obo/SPD_0000484": "SPDrf:Speck_&_Barth_1982",
+          "http://purl.obolibrary.org/obo/SPD_0000485": "SPDrf:Speck_&_Barth_1982",
+          "http://purl.obolibrary.org/obo/SPD_0000523": "SPDrf:Sierwald_1990",
+          "http://purl.obolibrary.org/obo/SPD_0000649": "SPDrf:Simon_1892",
+          "http://purl.obolibrary.org/obo/SPD_0000680": "SPDrf:Uhl_et_al_2014",
+          "http://purl.obolibrary.org/obo/SPD_0000697": "SPDrf:Huber_1994",
+          "http://purl.obolibrary.org/obo/SPD_0000698": "SPDrf:Huber_1994",
+          "http://purl.obolibrary.org/obo/SPD_0000815": "SPDrf:Ruhland_&_Rathmayer_1978",
+          "http://purl.obolibrary.org/obo/SPD_0000816": "SPDrf:Ruhland_&_Rathmayer_1978"
+        }
+      }
+    },
+    "version": "http://purl.obolibrary.org/obo/spd/1.0/spd.owl",
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/SPD_0000820": [
+          "HAO:HAO:0000353"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "TrOn": {
+          "http://purl.obolibrary.org/obo/SPD_0000687": "TrOn:0000178"
+        }
+      }
+    }
+  }
+}
