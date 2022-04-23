@@ -140,7 +140,6 @@ SKIP_PREFIXES = {
     # Decomissioned
     "gaz",
     # Too big during development
-    "chebi",
     "ncbitaxon",
     "pr",
     # Problem parsing both OWL and JSON
@@ -197,6 +196,10 @@ def analyze_by_iri(iri: str, *, iri_filter: Optional[str] = None) -> dict[str, R
     return analyze_graph(data, iri_filter=iri_filter)
 
 
+class MissingGraphIRI(KeyError):
+    """Raised for graphs with no IRI."""
+
+
 def analyze_graph(data: Graphs, *, iri_filter: Optional[str] = None) -> dict[str, Results]:
     """Analyze an ontology that's pre-parsed into an OBO graph."""
     rv = {}
@@ -217,7 +220,9 @@ def analyze_graph(data: Graphs, *, iri_filter: Optional[str] = None) -> dict[str
         syn_xref_invalid_luids: DefaultDict[str, set[str]] = defaultdict(set)
 
         # this is the URI for the ontology, e.g. "http://purl.obolibrary.org/obo/go.owl"
-        graph_id = graph["id"]
+        graph_id = graph.get("id")
+        if graph_id is None:
+            raise MissingGraphIRI
 
         # This contains metadata for the graph
         graph_meta = graph.get("meta", {})
@@ -263,6 +268,9 @@ def analyze_graph(data: Graphs, *, iri_filter: Optional[str] = None) -> dict[str
                         syn_xref_unknown_prefixes,
                         syn_xref_noncanonical_prefixes,
                         syn_xref_invalid_luids,
+                        # A lot of times they stick random stuff
+                        # in here that aren't CURIEs
+                        track_non_curies=False,
                     )
 
             # for prop in node_meta.get("basicPropertyValues", []):
@@ -306,12 +314,15 @@ def _aggregate_curie_issues(
     unknown_prefixes,
     noncanonical_prefixes,
     invalid_luids,
+    *,
+    track_non_curies: bool = True,
 ) -> None:
     # Check that the CURIE syntax is used properly
     try:
         prefix, identifier = curie.split(":", 1)
     except ValueError:
-        malformed_curies[node_id].add(curie)
+        if track_non_curies:
+            malformed_curies[node_id].add(curie)
         return
 
     # Disregard URIs

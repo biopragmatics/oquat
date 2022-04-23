@@ -14,7 +14,7 @@ import jinja2
 from more_click import force_option
 from tqdm import tqdm
 
-from .api import SKIP_PREFIXES, Results, analyze_by_prefix, extended_encoder
+from .api import SKIP_PREFIXES, MissingGraphIRI, Results, analyze_by_prefix, extended_encoder
 
 __all__ = [
     "main",
@@ -24,6 +24,7 @@ HERE = Path(__file__).parent.resolve()
 TEMPLATES = HERE.joinpath("templates")
 ROOT = HERE.parent.parent.resolve()
 RESULTS = ROOT.joinpath("results")
+FAILURES_PATH = RESULTS.joinpath("failures.txt")
 
 environment = jinja2.Environment(
     loader=jinja2.FileSystemLoader(TEMPLATES),
@@ -55,23 +56,28 @@ def main(force: bool, inclusive: bool, minimum: Optional[str]):
             bioregistry.get_owl_download(prefix),
             bioregistry.get_json_download(prefix),
         )
-        for prefix in bioregistry.read_registry()
-        if prefix not in SKIP_PREFIXES and (not minimum or minimum <= prefix)
+        for prefix, resource in bioregistry.read_registry().items()
+        if prefix not in SKIP_PREFIXES
+        and (not minimum or minimum <= prefix)
+        and not resource.no_own_terms
     )
     results = []
+    failures = []
     tqdm.write(f"got info on {len(rows)} prefixes")
     it = tqdm(rows)
     for prefix, iri_filter, owl_url, json_url in it:
-        if prefix not in {"go", "uberon", "cl", "clo", "doid"}:
-            continue
         iri_filter = CUSTOM_FILTERS.get(prefix, iri_filter)
         if not inclusive and iri_filter is None:
             continue
         if json_url is None:
             if owl_url is None:
+                failure_text = f"{prefix} does not have a download URL: {owl_url}"
+                failures.append(failure_text)
                 continue
             if not owl_url.endswith(".owl"):
-                secho(f"{prefix} does not have an OWL URL: {owl_url}", fg="red")
+                failure_text = f"{prefix} does not have an OWL URL: {owl_url}"
+                secho(failure_text, fg="red")
+                failures.append(failure_text)
                 continue
         it.set_postfix(prefix=prefix)
         analysis_path = RESULTS.joinpath(prefix).with_suffix(".json")
@@ -83,21 +89,37 @@ def main(force: bool, inclusive: bool, minimum: Optional[str]):
                     prefix, iri_filter=iri_filter or CUSTOM_FILTERS.get(prefix)
                 )
             except urllib.error.URLError:
-                secho(f"{prefix} could not be downloaded", fg="red")
+                failure_text = f"{prefix} could not be downloaded"
+                secho(failure_text, fg="red")
+                failures.append(failure_text)
                 result = None
             except subprocess.CalledProcessError:
-                secho(f"{prefix} could not be parsed by ROBOT", fg="red")
+                failure_text = f"{prefix} could not be parsed by ROBOT"
+                secho(failure_text, fg="red")
+                failures.append(failure_text)
                 result = None
             except TypeError as e:
-                secho(f"{prefix} unknown error during parsing: {e}", fg="red")
+                failure_text = f"{prefix} unknown error during parsing: {e}"
+                secho(failure_text, fg="red")
+                failures.append(failure_text)
+                result = None
+            except MissingGraphIRI:
+                failure_text = f"{prefix} missing graph ID"
+                secho(failure_text, fg="red")
+                failures.append(failure_text)
                 result = None
 
             # secho(f"{prefix} writing results to {analysis_path}")
-            analysis_path.write_text(
-                json.dumps(
-                    result, indent=2, sort_keys=True, ensure_ascii=False, default=extended_encoder
+            if result is not None:
+                analysis_path.write_text(
+                    json.dumps(
+                        result,
+                        indent=2,
+                        sort_keys=True,
+                        ensure_ascii=False,
+                        default=extended_encoder,
+                    )
                 )
-            )
 
         results.append((prefix, result))
         if result is None:
@@ -106,6 +128,7 @@ def main(force: bool, inclusive: bool, minimum: Optional[str]):
         #     secho(f"prefix: {prefix} has issues", fg="yellow")
         # it.write(result.as_str())
 
+    FAILURES_PATH.write_text("\n".join(failures))
     # template = environment.get_template("invalid_xrefs.md")
     # OUTPUT.write_text(template.render(results=results, bioregistry=bioregistry))
 
