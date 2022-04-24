@@ -14,7 +14,15 @@ import jinja2
 from more_click import force_option, verbose_option
 from tqdm import tqdm
 
-from .api import SKIP_PREFIXES, MissingGraphIRI, Results, analyze_by_prefix, extended_encoder
+from .api import (
+    SKIP_PREFIXES,
+    MissingGraphIRI,
+    NoParsableURIs,
+    Results,
+    analyze_by_prefix,
+    extended_encoder,
+    secho,
+)
 
 __all__ = [
     "lsa",
@@ -32,13 +40,10 @@ environment = jinja2.Environment(
     autoescape=True,
 )
 
-
-def secho(s: str, fg=None) -> None:
-    """Write text in tqdm with :func:`click.style`."""
-    tqdm.write(click.style(s, fg=fg))
-
-
 CUSTOM_FILTERS = {"efo": "http://www.ebi.ac.uk/efo/EFO_"}
+EXTENSION_EXCEPTIONS = {
+    "http://www.w3.org/ns/prov-o-20130430",  # this is pointing to a RDF file
+}
 
 
 @click.command()
@@ -62,6 +67,11 @@ def lsa(force: bool, minimum: Optional[str]):
     )
     results = []
     failures = []
+
+    def _failure(text):
+        secho(text, fg="red")
+        failures.append(text)
+
     tqdm.write(f"got info on {len(rows)} prefixes")
     it = tqdm(rows)
     for prefix, iri_filter, owl_url, json_url, obo_url in it:
@@ -71,6 +81,8 @@ def lsa(force: bool, minimum: Optional[str]):
             json_url is None
             and owl_url
             and all(not owl_url.endswith(suffix) for suffix in [".owl", ".obo", ".rdf", ".xml"])
+            and owl_url not in EXTENSION_EXCEPTIONS
+            and not owl_url.startswith("https://cropontology.org/ontology/")
         ):
             failure_text = f"{prefix} has an unhanded suffix in its OWL URL: {owl_url}"
             secho(failure_text, fg="red")
@@ -86,30 +98,29 @@ def lsa(force: bool, minimum: Optional[str]):
         if analysis_path.is_file() and not force:
             result = {k: Results(**v) for k, v in json.loads(analysis_path.read_text()).items()}
         else:
+            result = None
             try:
-                result = analyze_by_prefix(
+                analysis_results = analyze_by_prefix(
                     prefix, iri_filter=iri_filter or CUSTOM_FILTERS.get(prefix)
                 )
             except urllib.error.URLError:
                 failure_text = f"{prefix} could not be downloaded"
-                secho(failure_text, fg="red")
-                failures.append(failure_text)
-                result = None
+                _failure(failure_text)
             except subprocess.CalledProcessError:
                 failure_text = f"{prefix} could not be parsed by ROBOT"
-                secho(failure_text, fg="red")
-                failures.append(failure_text)
-                result = None
+                _failure(failure_text)
             except TypeError as e:
                 failure_text = f"{prefix} unknown error during parsing: {e}"
-                secho(failure_text, fg="red")
-                failures.append(failure_text)
-                result = None
+                _failure(failure_text)
+                raise
             except MissingGraphIRI:
                 failure_text = f"{prefix} missing graph ID"
-                secho(failure_text, fg="red")
-                failures.append(failure_text)
-                result = None
+                _failure(failure_text)
+            except NoParsableURIs:
+                failure_text = f"{prefix} None of the URIs could be parsed"
+                _failure(failure_text)
+            else:
+                result = analysis_results.results
 
             # secho(f"{prefix} writing results to {analysis_path}")
             if result is not None:

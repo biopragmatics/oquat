@@ -7,8 +7,10 @@ import json.decoder
 import logging
 import random
 import re
+import subprocess
 import sys
 from collections import defaultdict
+from dataclasses import dataclass
 from operator import itemgetter
 from pathlib import Path
 from typing import Any, DefaultDict, Optional, Union
@@ -22,11 +24,17 @@ from more_click import verbose_option
 from pydantic import BaseModel
 from pydantic.json import ENCODERS_BY_TYPE
 from tabulate import tabulate
+from tqdm import tqdm
 
 from .robot import robot_parse_json_local, robot_parse_json_remote
-from .struct.obograph import Graphs
+from .struct.obograph import Graph, Graphs
 
 logger = logging.getLogger(__name__)
+
+
+def secho(s: str, fg=None) -> None:
+    """Write text in tqdm with :func:`click.style`."""
+    tqdm.write(click.style(s, fg=fg))
 
 
 def extended_encoder(obj: Any) -> Any:
@@ -156,26 +164,48 @@ NONCANONICAL_EXCEPTIONS = {
 }
 
 
+class NoParsableURIs(ValueError):
+    """Raised when none of the URIs work."""
+
+
+@dataclass
+class AnalysisResults:
+    """Results from analysis and messages from the journey."""
+
+    results: dict[str, Results]
+    messages: list[str]
+
+
 def analyze_by_prefix(
-    prefix: str, cache: bool = False, *, iri_filter: Optional[str] = None
-) -> dict[str, Results]:
+    prefix: str, *, cache: bool = False, iri_filter: Optional[str] = None
+) -> AnalysisResults:
     """Analyze an ontology based on a given Bioregistry prefix."""
     if prefix != bioregistry.normalize_prefix(prefix):
         raise ValueError("this function requires bioregistry canonical prefixes")
 
+    messages = []
+
+    def _error(text: str) -> None:
+        messages.append(text)
+        secho(text, fg="red")
+
     json_iri = bioregistry.get_json_download(prefix)
     if json_iri is not None:
         if cache:
-            data = pystow.ensure_json("bio", "obofoundry", url=json_iri)
-            return analyze_graph(data, iri_filter=iri_filter)
-        try:
-            data = requests.get(json_iri).json()
-        except json.decoder.JSONDecodeError:
-            click.secho(
-                f"{prefix} json could not be parsed at {json_iri}. Falling back to OWL", fg="red"
+            graphs = pystow.ensure_json("bio", "obofoundry", url=json_iri)
+            return AnalysisResults(
+                results=analyze_graphs(graphs, iri_filter=iri_filter),
+                messages=messages,
             )
+        try:
+            graphs = requests.get(json_iri).json()
+        except json.decoder.JSONDecodeError:
+            _error(f"{prefix} json could not be parsed at {json_iri}. Falling back to OWL")
         else:
-            return analyze_graph(data, iri_filter=iri_filter)
+            return AnalysisResults(
+                results=analyze_graphs(graphs, iri_filter=iri_filter),
+                messages=messages,
+            )
 
     _owl_iri = bioregistry.get_owl_download(prefix)
     _obo_iri = bioregistry.get_obo_download(prefix)
@@ -186,147 +216,164 @@ def analyze_by_prefix(
             module = pystow.module("bio", "obofoundry", prefix)
             download_path: Path = module.ensure(url=iri)
             json_path: Path = module.join(name=download_path.name).with_suffix(".json")
-            data, messages = robot_parse_json_local(download_path, json_path)
+            parse_results = robot_parse_json_local(download_path, json_path=json_path)
+            return AnalysisResults(
+                results=analyze_graphs(parse_results.graphs, iri_filter=iri_filter),
+                messages=messages,
+            )
+        try:
+            parse_results = robot_parse_json_remote(iri)
+        except subprocess.CalledProcessError:
+            _error(f"{prefix} remote data at {iri} could not be parsed")
+            continue
         else:
-            data, messages = robot_parse_json_remote(iri)
-        if messages:
-            click.secho(f"Output from parsing {prefix}", fg="blue")
-            click.secho(messages, fg="blue")
-        return analyze_graph(data, iri_filter=iri_filter)
+            if parse_results.messages:
+                secho(f"Output from parsing {prefix}", fg="blue")
+                secho("\n".join(parse_results.messages), fg="blue")
+            return AnalysisResults(
+                results=analyze_graphs(parse_results.graphs, iri_filter=iri_filter),
+                messages=messages,
+            )
 
-    raise ValueError(f"no IRI available for Bioregistry prefix {prefix}")
+    raise NoParsableURIs(f"no IRI available for Bioregistry prefix {prefix}")
 
 
-def analyze_by_path(
-    path: Union[str, Path], *, iri_filter: Optional[str] = None
-) -> dict[str, Results]:
+def analyze_by_path(path: Union[str, Path], *, iri_filter: Optional[str] = None) -> AnalysisResults:
     """Analyze an ontology at a given IRI."""
     path = Path(path).resolve()
-    data, messages = robot_parse_json_local(path)
-    if messages:
-        click.secho(f"Output from parsing {path}", fg="blue")
-        click.secho(messages, fg="blue")
-    return analyze_graph(data, iri_filter=iri_filter)
+    parse_results = robot_parse_json_local(path)
+    if parse_results.messages:
+        secho(f"Output from parsing {path}", fg="blue")
+        secho("\n".join(parse_results.messages), fg="blue")
+    return AnalysisResults(
+        results=analyze_graphs(parse_results.graphs, iri_filter=iri_filter),
+        messages=[],
+    )
 
 
-def analyze_by_iri(iri: str, *, iri_filter: Optional[str] = None) -> dict[str, Results]:
+def analyze_by_iri(iri: str, *, iri_filter: Optional[str] = None) -> AnalysisResults:
     """Analyze an ontology at a given IRI."""
-    data, messages = robot_parse_json_remote(iri)
-    if messages:
-        click.secho(f"Output from parsing {iri}", fg="blue")
-        click.secho(messages, fg="blue")
-    return analyze_graph(data, iri_filter=iri_filter)
+    parse_results = robot_parse_json_remote(iri)
+    if parse_results.messages:
+        secho(f"Output from parsing {iri}", fg="blue")
+        secho("\n".join(parse_results.messages), fg="blue")
+    return AnalysisResults(
+        results=analyze_graphs(parse_results.graphs, iri_filter=iri_filter),
+        messages=[],
+    )
 
 
 class MissingGraphIRI(KeyError):
     """Raised for graphs with no IRI."""
 
 
-def analyze_graph(data: Graphs, *, iri_filter: Optional[str] = None) -> dict[str, Results]:
+def analyze_graphs(graphs: Graphs, *, iri_filter: Optional[str] = None) -> dict[str, Results]:
     """Analyze an ontology that's pre-parsed into an OBO graph."""
-    rv = {}
-    for graph in data["graphs"]:
-        node_xref_unknown_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
-        node_xref_noncanonical_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
-        node_xref_malformed_curies: DefaultDict[str, set[str]] = defaultdict(set)
-        node_xref_invalid_luids: DefaultDict[str, set[str]] = defaultdict(set)
+    it = (analyze_graph(graph, iri_filter=iri_filter) for graph in graphs["graphs"])
+    return {results.graph_id: results for results in it}
 
-        prov_xref_unknown_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
-        prov_xref_noncanonical_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
-        prov_xref_malformed_curies: DefaultDict[str, set[str]] = defaultdict(set)
-        prov_xref_invalid_luids: DefaultDict[str, set[str]] = defaultdict(set)
 
-        syn_xref_unknown_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
-        syn_xref_noncanonical_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
-        syn_xref_malformed_curies: DefaultDict[str, set[str]] = defaultdict(set)
-        syn_xref_invalid_luids: DefaultDict[str, set[str]] = defaultdict(set)
+def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
+    """Analyze a single graph."""
+    node_xref_unknown_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
+    node_xref_noncanonical_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
+    node_xref_malformed_curies: DefaultDict[str, set[str]] = defaultdict(set)
+    node_xref_invalid_luids: DefaultDict[str, set[str]] = defaultdict(set)
 
-        # this is the URI for the ontology, e.g. "http://purl.obolibrary.org/obo/go.owl"
-        graph_id = graph.get("id")
-        if graph_id is None:
-            raise MissingGraphIRI
+    prov_xref_unknown_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
+    prov_xref_noncanonical_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
+    prov_xref_malformed_curies: DefaultDict[str, set[str]] = defaultdict(set)
+    prov_xref_invalid_luids: DefaultDict[str, set[str]] = defaultdict(set)
 
-        # This contains metadata for the graph
-        graph_meta = graph.get("meta", {})
-        version = graph_meta.get("version")
+    syn_xref_unknown_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
+    syn_xref_noncanonical_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
+    syn_xref_malformed_curies: DefaultDict[str, set[str]] = defaultdict(set)
+    syn_xref_invalid_luids: DefaultDict[str, set[str]] = defaultdict(set)
 
-        for node in graph["nodes"]:
-            node_id = node["id"]
-            if iri_filter and not node_id.startswith(iri_filter):
-                continue
-            node_meta = node.get("meta")
-            if node_meta is None:
-                continue
+    # this is the URI for the ontology, e.g. "http://purl.obolibrary.org/obo/go.owl"
+    graph_id = graph.get("id")
+    if graph_id is None:
+        raise MissingGraphIRI
 
-            node_xrefs = node_meta.get("xrefs", [])
-            for node_xref_dict in node_xrefs:
+    # This contains metadata for the graph
+    graph_meta = graph.get("meta", {})
+    version = graph_meta.get("version")
+
+    for node in graph["nodes"]:
+        node_id = node["id"]
+        if iri_filter and not node_id.startswith(iri_filter):
+            continue
+        node_meta = node.get("meta")
+        if node_meta is None:
+            continue
+
+        node_xrefs = node_meta.get("xrefs", [])
+        for node_xref_dict in node_xrefs:
+            _aggregate_curie_issues(
+                node_id,
+                node_xref_dict["val"],
+                node_xref_malformed_curies,
+                node_xref_unknown_prefixes,
+                node_xref_noncanonical_prefixes,
+                node_xref_invalid_luids,
+            )
+
+        definition_xrefs = node_meta.get("definition", {}).get("xrefs", [])
+        for prov_xref_curie in definition_xrefs:
+            _aggregate_curie_issues(
+                node_id,
+                prov_xref_curie,
+                prov_xref_malformed_curies,
+                prov_xref_unknown_prefixes,
+                prov_xref_noncanonical_prefixes,
+                prov_xref_invalid_luids,
+            )
+
+        synonyms = node_meta.get("synonyms", [])
+        for synonym in synonyms:
+            for synoynm_xref_curie in synonym.get("xrefs", []):
                 _aggregate_curie_issues(
                     node_id,
-                    node_xref_dict["val"],
-                    node_xref_malformed_curies,
-                    node_xref_unknown_prefixes,
-                    node_xref_noncanonical_prefixes,
-                    node_xref_invalid_luids,
+                    synoynm_xref_curie,
+                    syn_xref_malformed_curies,
+                    syn_xref_unknown_prefixes,
+                    syn_xref_noncanonical_prefixes,
+                    syn_xref_invalid_luids,
+                    # A lot of times they stick random stuff
+                    # in here that aren't CURIEs
+                    track_non_curies=False,
                 )
 
-            definition_xrefs = node_meta.get("definition", {}).get("xrefs", [])
-            for prov_xref_curie in definition_xrefs:
-                _aggregate_curie_issues(
-                    node_id,
-                    prov_xref_curie,
-                    prov_xref_malformed_curies,
-                    prov_xref_unknown_prefixes,
-                    prov_xref_noncanonical_prefixes,
-                    prov_xref_invalid_luids,
-                )
-
-            synonyms = node_meta.get("synonyms", [])
-            for synonym in synonyms:
-                for synoynm_xref_curie in synonym.get("xrefs", []):
-                    _aggregate_curie_issues(
-                        node_id,
-                        synoynm_xref_curie,
-                        syn_xref_malformed_curies,
-                        syn_xref_unknown_prefixes,
-                        syn_xref_noncanonical_prefixes,
-                        syn_xref_invalid_luids,
-                        # A lot of times they stick random stuff
-                        # in here that aren't CURIEs
-                        track_non_curies=False,
-                    )
-
-            # for prop in node_meta.get("basicPropertyValues", []):
-            #     pass
-        # for edge in graph["edges"]:
+        # for prop in node_meta.get("basicPropertyValues", []):
         #     pass
+    # for edge in graph["edges"]:
+    #     pass
 
-        rv[graph_id] = Results(
-            graph_id=graph_id,
-            version=version,
-            xref_pack=ResultPack(
-                label="Node Xrefs",
-                unknown_prefixes=node_xref_unknown_prefixes,
-                malformed_curies=_canonicalize_dict(node_xref_malformed_curies),
-                noncanonical_prefixes=node_xref_noncanonical_prefixes,
-                invalid_luids=_canonicalize_dict(node_xref_invalid_luids),
-            ),
-            prov_pack=ResultPack(
-                label="Provenance Xrefs",
-                unknown_prefixes=prov_xref_unknown_prefixes,
-                malformed_curies=_canonicalize_dict(prov_xref_malformed_curies),
-                noncanonical_prefixes=prov_xref_noncanonical_prefixes,
-                invalid_luids=_canonicalize_dict(prov_xref_invalid_luids),
-            ),
-            synonym_pack=ResultPack(
-                label="Synonym Xrefs",
-                unknown_prefixes=syn_xref_unknown_prefixes,
-                malformed_curies=_canonicalize_dict(syn_xref_malformed_curies),
-                noncanonical_prefixes=syn_xref_noncanonical_prefixes,
-                invalid_luids=_canonicalize_dict(syn_xref_invalid_luids),
-            ),
-        )
-
-    return rv
+    return Results(
+        graph_id=graph_id,
+        version=version,
+        xref_pack=ResultPack(
+            label="Node Xrefs",
+            unknown_prefixes=node_xref_unknown_prefixes,
+            malformed_curies=_canonicalize_dict(node_xref_malformed_curies),
+            noncanonical_prefixes=node_xref_noncanonical_prefixes,
+            invalid_luids=_canonicalize_dict(node_xref_invalid_luids),
+        ),
+        prov_pack=ResultPack(
+            label="Provenance Xrefs",
+            unknown_prefixes=prov_xref_unknown_prefixes,
+            malformed_curies=_canonicalize_dict(prov_xref_malformed_curies),
+            noncanonical_prefixes=prov_xref_noncanonical_prefixes,
+            invalid_luids=_canonicalize_dict(prov_xref_invalid_luids),
+        ),
+        synonym_pack=ResultPack(
+            label="Synonym Xrefs",
+            unknown_prefixes=syn_xref_unknown_prefixes,
+            malformed_curies=_canonicalize_dict(syn_xref_malformed_curies),
+            noncanonical_prefixes=syn_xref_noncanonical_prefixes,
+            invalid_luids=_canonicalize_dict(syn_xref_invalid_luids),
+        ),
+    )
 
 
 def _canonicalize_dict(dd: DefaultDict[str, set[str]]) -> dict[str, list[str]]:
@@ -411,29 +458,31 @@ def analyze(
     obo_filter: bool,
 ):
     """Analyze a given ontology."""
+    analysis_results: AnalysisResults
+
     if 1 != sum(arg is not None for arg in (iri, prefix, path)):
-        click.secho("Can only pass one of --iri, --prefix, and --path")
+        secho("Can only pass one of --iri, --prefix, and --path")
         return sys.exit(-1)
     elif path is not None:
         path = path.resolve()
         if not path.is_file():
-            click.secho(f"File does not exist: {path}")
+            secho(f"File does not exist: {path}")
             return sys.exit(-1)
-        results = analyze_by_path(path, iri_filter=iri_filter)
+        analysis_results = analyze_by_path(path, iri_filter=iri_filter)
     elif iri is not None:
-        results = analyze_by_iri(iri, iri_filter=iri_filter)
+        analysis_results = analyze_by_iri(iri, iri_filter=iri_filter)
     elif prefix is not None:
         norm_prefix = bioregistry.normalize_prefix(prefix)
         if norm_prefix is not None:
-            click.secho(f"An invalid Bioregistry prefix was given: {prefix}")
+            secho(f"An invalid Bioregistry prefix was given: {prefix}")
             return sys.exit(-1)
         iri_filter = coalesce_filters(norm_prefix, iri_filter, obo_filter)
-        results = analyze_by_prefix(prefix, cache=cache, iri_filter=iri_filter)
+        analysis_results = analyze_by_prefix(prefix, cache=cache, iri_filter=iri_filter)
     else:
         # This can't happen
         return sys.exit(-1)
 
-    result_str = "\n".join(v.to_markdown() for v in results.values())
+    result_str = "\n".join(v.to_markdown() for v in analysis_results.results.values())
     if prefix is not None:
         output_path = pystow.join("oquat", name=f"{prefix}.md")
         output_path.write_text(result_str)
