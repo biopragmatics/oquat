@@ -1,0 +1,1473 @@
+{
+  "http://purl.obolibrary.org/obo/TEMP": {
+    "graph_id": "http://purl.obolibrary.org/obo/TEMP",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/LPT_0000001": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000002": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000003": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000004": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000005": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000006": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000007": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000008": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000009": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000010": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000011": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000012": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000013": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000014": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000015": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000016": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000017": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000018": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000019": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000020": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000021": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000022": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000023": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000024": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000025": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000026": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000027": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000028": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000029": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000030": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000031": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000032": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000033": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000034": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000035": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000037": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000038": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000039": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000040": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000041": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000042": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000043": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000044": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000045": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000048": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000049": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000050": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000051": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000052": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000053": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000054": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000055": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000056": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000057": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000058": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000059": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000060": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000061": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000062": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000063": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000064": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000065": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000066": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000067": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000068": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000069": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000070": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000071": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000072": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000073": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000074": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000075": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000076": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000077": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000078": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000079": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000080": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000081": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000082": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000083": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000084": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000085": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000086": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000087": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000088": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000089": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000090": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000091": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000092": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000093": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000094": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000095": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000096": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000097": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000100": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000101": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000102": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000103": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000104": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000122": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000123": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000124": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000127": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000128": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000130": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000132": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000133": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000134": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000136": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000137": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000138": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000143": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000144": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000145": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000146": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000147": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000148": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000149": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000151": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000154": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000159": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000160": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000161": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000162": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000163": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000164": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000165": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000166": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000167": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000169": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000170": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000171": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000172": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000173": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000174": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000175": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000177": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000189": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000190": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000191": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000192": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000193": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000194": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000195": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0000196": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0004047": [
+          "MGI:smb",
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010003": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010007": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010008": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010009": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010015": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010020": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010026": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010027": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010028": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010029": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010099": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010256": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010257": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010261": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010264": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010265": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010266": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010267": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010268": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010269": [
+          "MGI:MP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010270": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010271": [
+          "MGI:MP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010272": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010273": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010274": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010275": [
+          "MGI:MP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010276": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010277": [
+          "MGI:MP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010279": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010280": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010281": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010282": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010283": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010284": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010285": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010286": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010287": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010288": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010289": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010290": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010291": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010292": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010293": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010294": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010295": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010296": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010297": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010298": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010299": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010300": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010301": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010302": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010306": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010307": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010308": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010309": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010310": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010311": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010312": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010313": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010314": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010315": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010316": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010317": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010318": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010319": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010320": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010321": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010322": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010323": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010324": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010325": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010326": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010327": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010328": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010329": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010330": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010331": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010332": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010333": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010334": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010335": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010336": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010337": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010338": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010339": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010340": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010341": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010342": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010343": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010344": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010345": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010346": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010347": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010348": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010349": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010350": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010351": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010352": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010353": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010354": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010355": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010356": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010357": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010358": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010359": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010360": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010361": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010362": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010363": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010364": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010365": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010366": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010367": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010368": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010369": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010370": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010371": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010372": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010373": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010374": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010375": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010376": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010377": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010378": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010379": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010380": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010382": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010383": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010384": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010385": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010386": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010387": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010388": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010389": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010390": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010391": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010392": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010393": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010394": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010395": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010396": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010397": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010398": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010399": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010400": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010401": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010402": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010403": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010404": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010405": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010406": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010407": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010408": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010409": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010410": [
+          "VTO:CP",
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010411": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010412": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010413": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010414": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010415": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010416": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010417": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010418": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010419": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010420": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010421": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010422": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010423": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010424": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010425": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010426": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010427": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010428": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010429": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010430": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010431": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010432": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010433": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010434": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010435": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010436": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010437": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010438": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010439": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010440": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010441": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010442": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010443": [
+          "VTO:INRA"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010444": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010445": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010446": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010447": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010448": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010449": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010450": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010451": [
+          "MGI:smb"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010452": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010453": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010454": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010455": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010456": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010457": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010458": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010459": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010460": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010461": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010462": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010463": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010464": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010465": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010466": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010467": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010468": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010469": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010470": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010471": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010472": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_0010473": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000015": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000072": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000104": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000106": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000109": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000114": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000155": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000161": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000165": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000225": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000234": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000235": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000237": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000239": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000253": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000254": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000255": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000257": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000258": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000259": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000260": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000263": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000264": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000266": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000269": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000270": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000271": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000272": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000408": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000411": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000422": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000426": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000529": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000533": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000539": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000546": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000547": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000548": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000550": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000560": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000561": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000563": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000577": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000587": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000588": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000592": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000602": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000603": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000605": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000608": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000609": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000618": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000619": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000685": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000695": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000696": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000697": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000699": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000700": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000709": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000714": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000719": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000722": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000729": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000742": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000744": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000745": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000759": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000760": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000765": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000766": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000767": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000768": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000769": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000770": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000771": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000772": [
+          "VTO:CP"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000773": [
+          "VTO:CP"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "ATOL0000647": {
+          "http://purl.obolibrary.org/obo/LPT_0010315": "ATOL0000647:<new dbxref>"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/LPT_0000185": [
+          "VT::0010808"
+        ],
+        "http://purl.obolibrary.org/obo/LPT_1000560": [
+          "VTO:CP"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "ATOL0000713": {
+          "http://purl.obolibrary.org/obo/LPT_0010384": "ATOL0000713:<new xref>"
+        }
+      }
+    }
+  }
+}
