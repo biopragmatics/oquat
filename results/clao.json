@@ -24,11 +24,7 @@
       },
       "label": "Node Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "Wikipedia": {
-          "http://purl.obolibrary.org/obo/CLAO_0001154": "Wikipedia:The_Free_Encyclopedia"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "GOC": {
           "http://purl.obolibrary.org/obo/CLAO_0001189": "GOC:cilia",

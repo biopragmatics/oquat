@@ -36,11 +36,7 @@
       },
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "Wikipedia": {
-          "http://purl.obolibrary.org/obo/TADS_0000224": "Wikipedia:www.wikipedia.org"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "Google": {
           "http://purl.obolibrary.org/obo/TADS_0000296": "Google:Steullet 1993"

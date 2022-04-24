@@ -151,8 +151,8 @@
           "AEO:JB"
         ],
         "http://purl.obolibrary.org/obo/AEO_0000147": [
-          "GO:curator",
-          "AEO:JB"
+          "AEO:JB",
+          "GO:curator"
         ],
         "http://purl.obolibrary.org/obo/AEO_0000148": [
           "AEO:JB"

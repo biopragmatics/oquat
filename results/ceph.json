@@ -5,23 +5,14 @@
       "invalid_luids": {},
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "Wikipedia": {
-          "http://purl.obolibrary.org/obo/CEPH_0000130": "Wikipedia:Hectocotylus",
-          "http://purl.obolibrary.org/obo/CEPH_0000144": "Wikipedia:Ommastrephidae"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
     "synonym_pack": {
       "invalid_luids": {},
       "label": "Synonym Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "Wikipedia": {
-          "http://purl.obolibrary.org/obo/CEPH_0000256": "Wikipedia:Cephalopod_limb"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
     "version": "http://purl.obolibrary.org/obo/ceph/releases/2016-01-12/ceph.owl",

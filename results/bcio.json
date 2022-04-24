@@ -1,0 +1,70 @@
+{
+  "http://humanbehaviourchange.org/ontology/bcio.owl": {
+    "graph_id": "http://humanbehaviourchange.org/ontology/bcio.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/ENVO_00000010": [
+          "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00000070": [
+          "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00000469": [
+          "MA:ma"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "ADL": {
+          "http://purl.obolibrary.org/obo/ENVO_00000856": "ADL:FTT"
+        },
+        "USGS": {
+          "http://purl.obolibrary.org/obo/ENVO_00000062": "USGS:http://mapping.usgs.gov/www/ti/GNIS/gnis_users_guide_appendixc.html",
+          "http://purl.obolibrary.org/obo/ENVO_00000109": "USGS:SDTS"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "ADL": {
+          "http://purl.obolibrary.org/obo/ENVO_00000064": "ADL:FTT",
+          "http://purl.obolibrary.org/obo/ENVO_00000091": "ADL:FTT",
+          "http://purl.obolibrary.org/obo/ENVO_00000109": "ADL:FTT",
+          "http://purl.obolibrary.org/obo/ENVO_00000191": "ADL:FTT",
+          "http://purl.obolibrary.org/obo/ENVO_00000856": "ADL:FTT"
+        },
+        "Getty": {
+          "http://purl.obolibrary.org/obo/ENVO_00000062": "Getty:TGN",
+          "http://purl.obolibrary.org/obo/ENVO_00000064": "Getty:TGN",
+          "http://purl.obolibrary.org/obo/ENVO_00000106": "Getty:TGN",
+          "http://purl.obolibrary.org/obo/ENVO_00000109": "Getty:TGN",
+          "http://purl.obolibrary.org/obo/ENVO_00000111": "Getty:TGN"
+        },
+        "NASA": {
+          "http://purl.obolibrary.org/obo/ENVO_00000091": "NASA:earthrealm"
+        },
+        "USGS": {
+          "http://purl.obolibrary.org/obo/ENVO_00000062": "USGS:SDTS",
+          "http://purl.obolibrary.org/obo/ENVO_00000064": "USGS:SDTS",
+          "http://purl.obolibrary.org/obo/ENVO_00000091": "USGS:SDTS",
+          "http://purl.obolibrary.org/obo/ENVO_00000106": "USGS:SDTS",
+          "http://purl.obolibrary.org/obo/ENVO_00000109": "USGS:SDTS"
+        }
+      }
+    },
+    "version": "http://humanbehaviourchange.org/ontology/bcio.owl/2021-01-28",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

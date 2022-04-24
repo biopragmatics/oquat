@@ -40,8 +40,8 @@
           "DoOR:Or13a"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067018": [
-          "DoOR:Or19b",
-          "DoOR:Or19a"
+          "DoOR:Or19a",
+          "DoOR:Or19b"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067020": [
           "DoOR:Or67a"
@@ -50,8 +50,8 @@
           "DoOR:Or67b"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067025": [
-          "DoOR:Or22b",
-          "DoOR:Or22a"
+          "DoOR:Or22a",
+          "DoOR:Or22b"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067027": [
           "DoOR:Or67c"
@@ -106,8 +106,8 @@
           "DoOR:Or47a"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067055": [
-          "DoOR:Or85f",
-          "DoOR:Or49a"
+          "DoOR:Or49a",
+          "DoOR:Or85f"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067056": [
           "DoOR:Or47b"
@@ -11323,8 +11323,8 @@
           "VFB:FBbt_00007388"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00007389": [
-          "VFB:FBbt_00007389",
-          "DoOR:ab3B"
+          "DoOR:ab3B",
+          "VFB:FBbt_00007389"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00007390": [
           "VFB:FBbt_00007390"
@@ -24576,15 +24576,15 @@
           "VFB:FBbt_00067000"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067001": [
-          "VFB:FBbt_00067001",
-          "DoOR:Or2a"
+          "DoOR:Or2a",
+          "VFB:FBbt_00067001"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067002": [
           "VFB:FBbt_00067002"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067003": [
-          "VFB:FBbt_00067003",
-          "DoOR:Or59b"
+          "DoOR:Or59b",
+          "VFB:FBbt_00067003"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067004": [
           "VFB:FBbt_00067004"
@@ -24597,8 +24597,8 @@
           "VFB:FBbt_00067006"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067007": [
-          "VFB:FBbt_00067007",
-          "DoOR:Or59c"
+          "DoOR:Or59c",
+          "VFB:FBbt_00067007"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067008": [
           "VFB:FBbt_00067008"
@@ -24618,15 +24618,15 @@
           "VFB:FBbt_00067012"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067013": [
-          "VFB:FBbt_00067013",
-          "DoOR:Or10a"
+          "DoOR:Or10a",
+          "VFB:FBbt_00067013"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067014": [
           "VFB:FBbt_00067014"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067016": [
-          "VFB:FBbt_00067016",
-          "DoOR:Or13a"
+          "DoOR:Or13a",
+          "VFB:FBbt_00067016"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067017": [
           "VFB:FBbt_00067017"
@@ -24648,8 +24648,8 @@
           "VFB:FBbt_00067022"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067023": [
-          "VFB:FBbt_00067023",
-          "DoOR:Or67b"
+          "DoOR:Or67b",
+          "VFB:FBbt_00067023"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067024": [
           "VFB:FBbt_00067024"
@@ -24678,8 +24678,8 @@
           "VFB:FBbt_00067032"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067033": [
-          "VFB:FBbt_00067033",
-          "DoOR:Or23a"
+          "DoOR:Or23a",
+          "VFB:FBbt_00067033"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067034": [
           "DoOR:Or69a",
@@ -24726,24 +24726,24 @@
           "VFB:FBbt_00067047"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067048": [
-          "VFB:FBbt_00067048",
-          "DoOR:Or43a"
+          "DoOR:Or43a",
+          "VFB:FBbt_00067048"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067049": [
           "DoOR:ab2B",
           "VFB:FBbt_00067049"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067050": [
-          "VFB:FBbt_00067050",
-          "DoOR:Or43b"
+          "DoOR:Or43b",
+          "VFB:FBbt_00067050"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067051": [
-          "VFB:FBbt_00067051",
-          "DoOR:Or85d"
+          "DoOR:Or85d",
+          "VFB:FBbt_00067051"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067052": [
-          "VFB:FBbt_00067052",
-          "DoOR:Or46a"
+          "DoOR:Or46a",
+          "VFB:FBbt_00067052"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067054": [
           "VFB:FBbt_00067054"
@@ -24752,31 +24752,31 @@
           "VFB:FBbt_00067055"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067056": [
-          "VFB:FBbt_00067056",
-          "DoOR:Or47b"
+          "DoOR:Or47b",
+          "VFB:FBbt_00067056"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067057": [
           "DoOR:Or88a",
           "VFB:FBbt_00067057"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067059": [
-          "VFB:FBbt_00067059",
-          "DoOR:Or92a"
+          "DoOR:Or92a",
+          "VFB:FBbt_00067059"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067060": [
           "VFB:FBbt_00067060"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067061": [
-          "VFB:FBbt_00067061",
-          "DoOR:Or49b"
+          "DoOR:Or49b",
+          "VFB:FBbt_00067061"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067062": [
           "DoOR:Or98a",
           "VFB:FBbt_00067062"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067063": [
-          "VFB:FBbt_00067063",
-          "DoOR:ab4B"
+          "DoOR:ab4B",
+          "VFB:FBbt_00067063"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00067064": [
           "DoOR:Gr21a.Gr63a",
@@ -25902,12 +25902,12 @@
           "VFB:FBbt_00100417"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100418": [
-          "VFB:FBbt_00100418",
-          "DoOR:Or1a"
+          "DoOR:Or1a",
+          "VFB:FBbt_00100418"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100419": [
-          "VFB:FBbt_00100419",
-          "DoOR:Or13a"
+          "DoOR:Or13a",
+          "VFB:FBbt_00100419"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100420": [
           "DoOR:Or22c",
@@ -25922,48 +25922,48 @@
           "VFB:FBbt_00100422"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100423": [
-          "VFB:FBbt_00100423",
-          "DoOR:Or33a"
+          "DoOR:Or33a",
+          "VFB:FBbt_00100423"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100424": [
-          "VFB:FBbt_00100424",
-          "DoOR:Or33b"
+          "DoOR:Or33b",
+          "VFB:FBbt_00100424"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100425": [
-          "VFB:FBbt_00100425",
-          "DoOR:Or35a"
+          "DoOR:Or35a",
+          "VFB:FBbt_00100425"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100426": [
           "DoOR:Or42a",
           "VFB:FBbt_00100426"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100427": [
-          "VFB:FBbt_00100427",
-          "DoOR:Or42b"
+          "DoOR:Or42b",
+          "VFB:FBbt_00100427"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100428": [
-          "VFB:FBbt_00100428",
-          "DoOR:Or45a"
+          "DoOR:Or45a",
+          "VFB:FBbt_00100428"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100429": [
           "DoOR:Or45b",
           "VFB:FBbt_00100429"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100431": [
-          "VFB:FBbt_00100431",
-          "DoOR:Or49a"
+          "DoOR:Or49a",
+          "VFB:FBbt_00100431"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100432": [
           "DoOR:Or59a",
           "VFB:FBbt_00100432"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100433": [
-          "VFB:FBbt_00100433",
-          "DoOR:Or63a"
+          "DoOR:Or63a",
+          "VFB:FBbt_00100433"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100434": [
-          "VFB:FBbt_00100434",
-          "DoOR:Or67b"
+          "DoOR:Or67b",
+          "VFB:FBbt_00100434"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100435": [
           "DoOR:Or74a",
@@ -25974,12 +25974,12 @@
           "VFB:FBbt_00100436"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100437": [
-          "VFB:FBbt_00100437",
-          "DoOR:Or83a"
+          "DoOR:Or83a",
+          "VFB:FBbt_00100437"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100438": [
-          "VFB:FBbt_00100438",
-          "DoOR:Or85c"
+          "DoOR:Or85c",
+          "VFB:FBbt_00100438"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00100439": [
           "VFB:FBbt_00100439"
@@ -26933,8 +26933,8 @@
           "VFB:FBbt_00110006"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00110007": [
-          "VFB:FBbt_00110007",
-          "DoOR:Ir84a"
+          "DoOR:Ir84a",
+          "VFB:FBbt_00110007"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00110008": [
           "VFB:FBbt_00110008"
@@ -26943,26 +26943,26 @@
           "VFB:FBbt_00110009"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00110010": [
-          "VFB:FBbt_00110010",
-          "DoOR:OrIr31a"
+          "DoOR:OrIr31a",
+          "VFB:FBbt_00110010"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00110011": [
           "VFB:FBbt_00110011"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00110012": [
-          "VFB:FBbt_00110012",
-          "DoOR:Ir92a"
+          "DoOR:Ir92a",
+          "VFB:FBbt_00110012"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00110013": [
-          "VFB:FBbt_00110013",
-          "DoOR:Ir75a"
+          "DoOR:Ir75a",
+          "VFB:FBbt_00110013"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00110014": [
           "VFB:FBbt_00110014"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00110015": [
-          "VFB:FBbt_00110015",
-          "DoOR:Ir41a"
+          "DoOR:Ir41a",
+          "VFB:FBbt_00110015"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00110016": [
           "DoOR:ac3A",
@@ -26972,8 +26972,8 @@
           "VFB:FBbt_00110017"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00110018": [
-          "VFB:FBbt_00110018",
-          "DoOR:Ir76a"
+          "DoOR:Ir76a",
+          "VFB:FBbt_00110018"
         ],
         "http://purl.obolibrary.org/obo/FBbt_00110019": [
           "VFB:FBbt_00110019"

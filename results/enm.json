@@ -1,0 +1,1866 @@
+{
+  "http://enanomapper.github.io/ontologies/enanomapper-auto.owl": {
+    "graph_id": "http://enanomapper.github.io/ontologies/enanomapper-auto.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://enanomapper.github.io/ontologies/enanomapper.owl": {
+    "graph_id": "http://enanomapper.github.io/ontologies/enanomapper.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://enanomapper.github.io/ontologies/internal/bao-ext.owl": {
+    "graph_id": "http://enanomapper.github.io/ontologies/internal/bao-ext.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://enanomapper.github.io/ontologies/internal/bfo-ext.owl": {
+    "graph_id": "http://enanomapper.github.io/ontologies/internal/bfo-ext.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://enanomapper.github.io/ontologies/internal/chebi-ext.owl": {
+    "graph_id": "http://enanomapper.github.io/ontologies/internal/chebi-ext.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://enanomapper.github.io/ontologies/internal/chmo-ext.owl": {
+    "graph_id": "http://enanomapper.github.io/ontologies/internal/chmo-ext.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://enanomapper.github.io/ontologies/internal/endpoints.owl": {
+    "graph_id": "http://enanomapper.github.io/ontologies/internal/endpoints.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://enanomapper.github.io/ontologies/internal/iao-ext.owl": {
+    "graph_id": "http://enanomapper.github.io/ontologies/internal/iao-ext.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://enanomapper.github.io/ontologies/internal/npo-ext.owl": {
+    "graph_id": "http://enanomapper.github.io/ontologies/internal/npo-ext.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://enanomapper.github.io/ontologies/internal/obi-ext.owl": {
+    "graph_id": "http://enanomapper.github.io/ontologies/internal/obi-ext.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://enanomapper.github.io/ontologies/internal/pato-ext.owl": {
+    "graph_id": "http://enanomapper.github.io/ontologies/internal/pato-ext.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://enanomapper.github.io/ontologies/internal/wikidata.owl": {
+    "graph_id": "http://enanomapper.github.io/ontologies/internal/wikidata.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://livercancer.imbi.uni-heidelberg.de/ccont": {
+    "graph_id": "http://livercancer.imbi.uni-heidelberg.de/ccont",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://protege.stanford.edu/plugins/owl/dc/protege-dc.owl": {
+    "graph_id": "http://protege.stanford.edu/plugins/owl/dc/protege-dc.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.bioontology.org/ontology/npo": {
+    "graph_id": "http://purl.bioontology.org/ontology/npo",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/aopo-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/aopo-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "PHENOSCPAE": {
+          "http://purl.obolibrary.org/obo/RO_0002173": "PHENOSCPAE:asilomar_mtg"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/bao-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/bao-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/bfo-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/bfo-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/bto-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/bto-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "The_Dictionary_of_Cell_and_Molecular_Biology": {
+          "http://purl.obolibrary.org/obo/BTO_0001025": "The_Dictionary_of_Cell_and_Molecular_Biology:Third_Edition"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/ccont-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/ccont-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/chebi-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/chebi-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/CHEBI_136643": [
+          "AGR:IND84086009"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_136644": [
+          "AGR:IND20386178",
+          "AGR:IND84086011",
+          "AGR:IND89021681",
+          "AGR:IND92003154"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_136646": [
+          "AGR:IND43789627"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_138675": [
+          "Wikipedia:https://en.wikipedia.org/wiki/Gas"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_15379": [
+          "Gmelin:485"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_50433": [
+          "Wikipedia:Glycoprotein_IIb/IIIa_inhibitors"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_64345": [
+          "Wikipedia:Matrix-assisted_laser_desorption/ionization#Matrix"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_77966": [
+          "Wikipedia:Stabiliser_(food)"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "AGR": {
+          "http://purl.obolibrary.org/obo/CHEBI_136643": "AGR:IND84086009",
+          "http://purl.obolibrary.org/obo/CHEBI_136644": "AGR:IND92003154",
+          "http://purl.obolibrary.org/obo/CHEBI_136646": "AGR:IND43789627"
+        },
+        "Beilstein": {
+          "http://purl.obolibrary.org/obo/CHEBI_33128": "Beilstein:5901022",
+          "http://purl.obolibrary.org/obo/CHEBI_33195": "Beilstein:6843004"
+        },
+        "Drug_Central": {
+          "http://purl.obolibrary.org/obo/CHEBI_30563": "Drug_Central:4284"
+        },
+        "MetaCyc": {
+          "http://purl.obolibrary.org/obo/CHEBI_15379": "MetaCyc:OXYGEN-MOLECULE"
+        },
+        "PDBeChem": {
+          "http://purl.obolibrary.org/obo/CHEBI_15379": "PDBeChem:OXY"
+        },
+        "PMCID": {
+          "http://purl.obolibrary.org/obo/CHEBI_133602": "PMCID:PMC3190904"
+        },
+        "Patent": {
+          "http://purl.obolibrary.org/obo/CHEBI_64345": "Patent:EP2060919"
+        }
+      },
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/cheminf-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/cheminf-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/chmo-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/chmo-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/OBI_0000070": [
+          "obi:pppb"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "Orange": {
+          "http://purl.obolibrary.org/obo/CHMO_0000098": "Orange:17.2.7",
+          "http://purl.obolibrary.org/obo/CHMO_0000344": "Orange:17.2.4",
+          "http://purl.obolibrary.org/obo/CHMO_0000346": "Orange:17.2.4",
+          "http://purl.obolibrary.org/obo/CHMO_0000353": "Orange:17.2.4",
+          "http://purl.obolibrary.org/obo/CHMO_0000407": "Orange:17.2.1.2"
+        },
+        "OrangeBook": {
+          "http://purl.obolibrary.org/obo/CHMO_0000343": "OrangeBook:17.2.1.4",
+          "http://purl.obolibrary.org/obo/CHMO_0000351": "OrangeBook:17.2.4",
+          "http://purl.obolibrary.org/obo/CHMO_0001577": "OrangeBook:9.4.1"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/clo-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/clo-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/CL_1001603": [
+          "HPA:HPA"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "NPX": {
+          "http://purl.obolibrary.org/obo/CL_1001603": "NPX:PDR"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/efo-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/efo-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/BSPO_0000096": [
+          "BSPO:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0000097": [
+          "BSPO:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0000098": [
+          "BSPO:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0000099": [
+          "BSPO:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0000100": [
+          "BSPO:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0000102": [
+          "BSPO:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0000107": [
+          "BSPO:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0000108": [
+          "BSPO:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0000120": [
+          "BSPO:PATO_mtg_2009"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0000121": [
+          "BSPO:PATO_mtg_2009"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0000122": [
+          "BSPO:PATO_mtg_2009"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0000123": [
+          "BSPO:PATO_mtg_2009"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0000124": [
+          "BSPO:PATO_mtg_2009"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0000125": [
+          "BSPO:PATO_mtg_2009"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0001100": [
+          "BSPO:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0001101": [
+          "BSPO:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_0001107": [
+          "BSPO:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/HP_0001522": [
+          "HPO:probinson"
+        ],
+        "http://purl.obolibrary.org/obo/HP_0003674": [
+          "HPO:probinson"
+        ],
+        "http://purl.obolibrary.org/obo/HP_0003811": [
+          "HPO:probinson"
+        ],
+        "http://purl.obolibrary.org/obo/HP_0003826": [
+          "HPO:probinson"
+        ],
+        "http://purl.obolibrary.org/obo/HP_0100613": [
+          "HPO:probinson"
+        ],
+        "http://purl.obolibrary.org/obo/RO_0002229": [
+          "ZFS:finishes"
+        ],
+        "http://purl.obolibrary.org/obo/RO_0002372": [
+          "Wikipedia:Insertion_(anatomy)#Muscles"
+        ],
+        "http://purl.obolibrary.org/obo/RO_0002373": [
+          "Wikipedia:Insertion_(anatomy)"
+        ],
+        "http://purl.obolibrary.org/obo/uberon#has_muscle_antagonist": [
+          "Wikipedia:Antagonist_(muscle)"
+        ],
+        "http://purl.obolibrary.org/obo/uberon#spatially_disjoint_from": [
+          "SO:cjm"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "HPO": {
+          "http://purl.obolibrary.org/obo/HP_0001522": "HPO:probinson",
+          "http://purl.obolibrary.org/obo/HP_0003674": "HPO:probinson",
+          "http://purl.obolibrary.org/obo/HP_0003811": "HPO:probinson",
+          "http://purl.obolibrary.org/obo/HP_0003826": "HPO:probinson",
+          "http://purl.obolibrary.org/obo/HP_0100613": "HPO:probinson"
+        }
+      },
+      "unknown_prefixes": {
+        "Allen": {
+          "http://purl.obolibrary.org/obo/RO_0002082": "Allen:is_equal_to",
+          "http://purl.obolibrary.org/obo/RO_0002224": "Allen:starts",
+          "http://purl.obolibrary.org/obo/RO_0002229": "Allen:starts"
+        },
+        "GOC": {
+          "http://purl.obolibrary.org/obo/uberon#site_of": "GOC:cjm"
+        },
+        "UBERONREF": {
+          "http://purl.obolibrary.org/obo/UBREL_0000001": "UBERONREF:0000004",
+          "http://purl.obolibrary.org/obo/uberon#anteriorly_connected_to": "UBERONREF:0000004",
+          "http://purl.obolibrary.org/obo/uberon#connects": "UBERONREF:0000004",
+          "http://purl.obolibrary.org/obo/uberon#distally_connected_to": "UBERONREF:0000004",
+          "http://purl.obolibrary.org/obo/uberon#posteriorly_connected_to": "UBERONREF:0000004",
+          "http://purl.obolibrary.org/obo/uberon#proximally_connected_to": "UBERONREF:0000004",
+          "http://purl.obolibrary.org/obo/uberon#transitively_anteriorly_connected_to": "UBERONREF:0000004",
+          "http://purl.obolibrary.org/obo/uberon#transitively_distally_connected_to": "UBERONREF:0000004",
+          "http://purl.obolibrary.org/obo/uberon#transitively_proximally_connected_to": "UBERONREF:0000004"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/BSPO_0001114": [
+          "MA:th"
+        ],
+        "http://purl.obolibrary.org/obo/BSPO_1000000": [
+          "MA:th"
+        ]
+      },
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "Allen": {
+          "http://purl.obolibrary.org/obo/BFO_0000062": "Allen:precedes"
+        }
+      }
+    },
+    "xref_pack": {
+      "invalid_luids": {
+        "http://www.ebi.ac.uk/efo/EFO_0004352": [
+          "MSH:Q000401"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0007836": [
+          "PMID:27149984 "
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0009750": [
+          "Wikipedia:Dissociation_(psychology)"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0010220": [
+          "Wikipedia:17α-Hydroxyprogesterone"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0010605": [
+          "PMID: 31636452"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0010749": [
+          "PMID: 32355309"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {
+        "http://www.ebi.ac.uk/efoIri": [
+          "suggestedNCIt"
+        ]
+      },
+      "noncanonical_prefixes": {
+        "ATC_code": {
+          "http://www.ebi.ac.uk/efo/EFO_0005638": "ATC_code:G",
+          "http://www.ebi.ac.uk/efo/EFO_0005645": "ATC_code:R"
+        },
+        "MSH": {
+          "http://purl.obolibrary.org/obo/HP_0003674": "MSH:D017668",
+          "http://purl.obolibrary.org/obo/HP_0003811": "MSH:D066087",
+          "http://purl.obolibrary.org/obo/HP_0003826": "MSH:D005313",
+          "http://www.ebi.ac.uk/efo/EFO_0000409": "MSH:D018572",
+          "http://www.ebi.ac.uk/efo/EFO_0000513": "MSH:D005838",
+          "http://www.ebi.ac.uk/efo/EFO_0000714": "MSH:D013534",
+          "http://www.ebi.ac.uk/efo/EFO_0000721": "MSH:D013995",
+          "http://www.ebi.ac.uk/efo/EFO_0001272": "MSH:D000328",
+          "http://www.ebi.ac.uk/efo/EFO_0003892": "MSH:D012129",
+          "http://www.ebi.ac.uk/efo/EFO_0003912": "MSH:D055109",
+          "http://www.ebi.ac.uk/efo/EFO_0003923": "MSH:D015519",
+          "http://www.ebi.ac.uk/efo/EFO_0003926": "MSH:D009483",
+          "http://www.ebi.ac.uk/efo/EFO_0003962": "MSH:D018619",
+          "http://www.ebi.ac.uk/efo/EFO_0003965": "MSH:D019102",
+          "http://www.ebi.ac.uk/efo/EFO_0004298": "MSH:D003935",
+          "http://www.ebi.ac.uk/efo/EFO_0004299": "MSH:D008017",
+          "http://www.ebi.ac.uk/efo/EFO_0004300": "MSH:D008136",
+          "http://www.ebi.ac.uk/efo/EFO_0004301": "MSH:D001809",
+          "http://www.ebi.ac.uk/efo/EFO_0004302": "MSH:D000886",
+          "http://www.ebi.ac.uk/efo/EFO_0004303": "MSH:D055986",
+          "http://www.ebi.ac.uk/efo/EFO_0004304": "MSH:D001799",
+          "http://www.ebi.ac.uk/efo/EFO_0004305": "MSH:D004906",
+          "http://www.ebi.ac.uk/efo/EFO_0004306": "MSH:D004909",
+          "http://www.ebi.ac.uk/efo/EFO_0004307": "MSH:D005951",
+          "http://www.ebi.ac.uk/efo/EFO_0004308": "MSH:D007958",
+          "http://www.ebi.ac.uk/efo/EFO_0004309": "MSH:D010976",
+          "http://www.ebi.ac.uk/efo/EFO_0004310": "MSH:D010314",
+          "http://www.ebi.ac.uk/efo/EFO_0004311": "MSH:D006334",
+          "http://www.ebi.ac.uk/efo/EFO_0004312": "MSH:D014797",
+          "http://www.ebi.ac.uk/efo/EFO_0004313": "MSH:D008450",
+          "http://www.ebi.ac.uk/efo/EFO_0004314": "MSH:D005541",
+          "http://www.ebi.ac.uk/efo/EFO_0004324": "MSH:D001837",
+          "http://www.ebi.ac.uk/efo/EFO_0004325": "MSH:D001794",
+          "http://www.ebi.ac.uk/efo/EFO_0004326": "MSH:D006339",
+          "http://www.ebi.ac.uk/efo/EFO_0004327": "MSH:D004562",
+          "http://www.ebi.ac.uk/efo/EFO_0004328": "MSH:D005080",
+          "http://www.ebi.ac.uk/efo/EFO_0004338": "MSH:D001835",
+          "http://www.ebi.ac.uk/efo/EFO_0004339": "MSH:D001827",
+          "http://www.ebi.ac.uk/efo/EFO_0004340": "MSH:D015992",
+          "http://www.ebi.ac.uk/efo/EFO_0004341": "MSH:D050218",
+          "http://www.ebi.ac.uk/efo/EFO_0004342": "MSH:D055105",
+          "http://www.ebi.ac.uk/efo/EFO_0004343": "MSH:D049629",
+          "http://www.ebi.ac.uk/efo/EFO_0004344": "MSH:D001724",
+          "http://www.ebi.ac.uk/efo/EFO_0004345": "MSH:D019781",
+          "http://www.ebi.ac.uk/efo/EFO_0004348": "MSH:D006400",
+          "http://www.ebi.ac.uk/efo/EFO_0004352": "MSH:D009026",
+          "http://www.ebi.ac.uk/efo/EFO_0004357": "MSH:D058256",
+          "http://www.ebi.ac.uk/efo/EFO_0004584": "MSH:D063847",
+          "http://www.ebi.ac.uk/efo/EFO_0004587": "MSH:D018655",
+          "http://www.ebi.ac.uk/efo/EFO_0004770": "MSH:D065851",
+          "http://www.ebi.ac.uk/efo/EFO_0004804": "MSH:D001723",
+          "http://www.ebi.ac.uk/efo/EFO_0004820": "MSH:D012744",
+          "http://www.ebi.ac.uk/efo/EFO_0004828": "MSH:D014644",
+          "http://www.ebi.ac.uk/efo/EFO_0005112": "MSH:D005865",
+          "http://www.ebi.ac.uk/efo/EFO_0005208": "MSH:D005919",
+          "http://www.ebi.ac.uk/efo/EFO_0005761": "MSH:D008181"
+        },
+        "SCTID": {
+          "http://www.ebi.ac.uk/efo/EFO_0005761": "SCTID:68815009"
+        },
+        "SNOMED": {
+          "http://www.ebi.ac.uk/efo/EFO_0004995": "SNOMED:248362003"
+        },
+        "SNOMEDCT_US": {
+          "http://purl.obolibrary.org/obo/HP_0003811": "SNOMEDCT_US:276506001",
+          "http://purl.obolibrary.org/obo/HP_0003826": "SNOMEDCT_US:237364002"
+        },
+        "UMLS_CUI": {
+          "http://www.ebi.ac.uk/efo/EFO_0004576": "UMLS_CUI:C0200695",
+          "http://www.ebi.ac.uk/efo/EFO_0004586": "UMLS_CUI:C0005771",
+          "http://www.ebi.ac.uk/efo/EFO_0005845": "UMLS_CUI:C0474543",
+          "http://www.ebi.ac.uk/efo/EFO_0009202": "UMLS_CUI:C3897698",
+          "http://www.ebi.ac.uk/efo/EFO_0009208": "UMLS_CUI:C1281911",
+          "http://www.ebi.ac.uk/efo/EFO_0009209": "UMLS_CUI:C2825554",
+          "http://www.ebi.ac.uk/efo/EFO_0009212": "UMLS_CUI:C2825555",
+          "http://www.ebi.ac.uk/efo/EFO_0009213": "UMLS_CUI:C2984939",
+          "http://www.ebi.ac.uk/efo/EFO_0009215": "UMLS_CUI:C1275423",
+          "http://www.ebi.ac.uk/efo/EFO_0009216": "UMLS_CUI:C2825556",
+          "http://www.ebi.ac.uk/efo/EFO_0009224": "UMLS_CUI:C2825557",
+          "http://www.ebi.ac.uk/efo/EFO_0009229": "UMLS_CUI:C3890034",
+          "http://www.ebi.ac.uk/efo/EFO_0009232": "UMLS_CUI:C0523113",
+          "http://www.ebi.ac.uk/efo/EFO_0009233": "UMLS_CUI:C1879889",
+          "http://www.ebi.ac.uk/efo/EFO_0009234": "UMLS_CUI:C0545131",
+          "http://www.ebi.ac.uk/efo/EFO_0009235": "UMLS_CUI:C2827509",
+          "http://www.ebi.ac.uk/efo/EFO_0009236": "UMLS_CUI:C2827510",
+          "http://www.ebi.ac.uk/efo/EFO_0009237": "UMLS_CUI:C0200642",
+          "http://www.ebi.ac.uk/efo/EFO_0009238": "UMLS_CUI:C3272957",
+          "http://www.ebi.ac.uk/efo/EFO_0009239": "UMLS_CUI:C2698029",
+          "http://www.ebi.ac.uk/efo/EFO_0009240": "UMLS_CUI:C0029330",
+          "http://www.ebi.ac.uk/efo/EFO_0009241": "UMLS_CUI:C4054477",
+          "http://www.ebi.ac.uk/efo/EFO_0009243": "UMLS_CUI:C2984931",
+          "http://www.ebi.ac.uk/efo/EFO_0009244": "UMLS_CUI:C2827511",
+          "http://www.ebi.ac.uk/efo/EFO_0009245": "UMLS_CUI:C2827512",
+          "http://www.ebi.ac.uk/efo/EFO_0009246": "UMLS_CUI:C4054355",
+          "http://www.ebi.ac.uk/efo/EFO_0009248": "UMLS_CUI:C0581142",
+          "http://www.ebi.ac.uk/efo/EFO_0009249": "UMLS_CUI:C2698870",
+          "http://www.ebi.ac.uk/efo/EFO_0009252": "UMLS_CUI:C4054040",
+          "http://www.ebi.ac.uk/efo/EFO_0009253": "UMLS_CUI:C1446165"
+        }
+      },
+      "unknown_prefixes": {
+        "NIFSTD": {
+          "http://www.ebi.ac.uk/efo/EFO_0000433": "NIFSTD:birnlex_2052",
+          "http://www.ebi.ac.uk/efo/EFO_0000513": "NIFSTD:birnlex_2023",
+          "http://www.ebi.ac.uk/efo/EFO_0001272": "NIFSTD:birnlex_681",
+          "http://www.ebi.ac.uk/efo/EFO_0001444": "NIFSTD:sao279801585",
+          "http://www.ebi.ac.uk/efo/EFO_0002694": "NIFSTD:birnlex_2117"
+        },
+        "PERSON": {
+          "http://www.ebi.ac.uk/efo/EFO_0000714": "PERSON: James Malone",
+          "http://www.ebi.ac.uk/efo/EFO_0004358": "PERSON: Dani Welter"
+        },
+        "UBREL": {
+          "http://purl.obolibrary.org/obo/UBREL_0000001": "UBREL:0000001",
+          "http://purl.obolibrary.org/obo/UBREL_0000002": "UBREL:0000002"
+        },
+        "modelled on http": {
+          "http://www.ebi.ac.uk/efo/EFO_0009285": "modelled on http://purl.obolibrary.org/obo/CMO_0001488"
+        }
+      }
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/envo-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/envo-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/ENVO_00000447": [
+          "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00000873": [
+          "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00001995": [
+          "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002006": [
+          "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002047": [
+          "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002054": [
+          "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002223": [
+          "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002224": [
+          "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002225": [
+          "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002229": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002231": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002233": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002234": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002235": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002236": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002237": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002238": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002239": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002240": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002241": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002242": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002243": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002244": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002245": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002246": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002247": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002249": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002250": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002251": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002252": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002253": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002255": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002256": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002273": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002274": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00002275": [
+          "FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00010483": [
+          "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_0010001": [
+          "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/envo#disconnected_from": [
+          "SO:cjm"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "ENVOC": {
+          "http://purl.obolibrary.org/obo/ENVO_00000338": "ENVOC:nm"
+        },
+        "GEMINA": {
+          "http://purl.obolibrary.org/obo/ENVO_00000338": "GEMINA:ls"
+        },
+        "Gemina": {
+          "http://purl.obolibrary.org/obo/ENVO_02000035": "Gemina:ls"
+        },
+        "URL": {
+          "http://purl.obolibrary.org/obo/ENVO_00000546": "URL:http://www.britannica.com/EBchecked/topic/328083/lake/59070/Sediments-and-sedimentation",
+          "http://purl.obolibrary.org/obo/ENVO_00002047": "URL:http://www.stjude.org/stjude/hospital/med_terms.jsp",
+          "http://purl.obolibrary.org/obo/ENVO_00010483": "URL:http://ontology.buffalo.edu/smith/articles/niches.html",
+          "http://purl.obolibrary.org/obo/ENVO_00010504": "URL:http://www.merriam-webster.com/dictionary/surface",
+          "http://purl.obolibrary.org/obo/ENVO_02000008": "URL:http://stemcells.nih.gov/StemCells/Templates/StemCellContentPage.aspx?NRMODE=Published&NRNODEGUID=%7b3C35BAB6-0FE6-4C4E-95F2-2CB61B58D96D%7d&NRORIGINALURL=%2finfo%2fglossary%2easp&NRCACHEHINT=NoModifyGuest#cellculture",
+          "http://purl.obolibrary.org/obo/ENVO_02000019": "URL:http://medical-dictionary.thefreedictionary.com/bodily+fluid",
+          "http://purl.obolibrary.org/obo/ENVO_02000021": "URL:http://en.wikipedia.org/wiki/Amniotic_fluid",
+          "http://purl.obolibrary.org/obo/ENVO_02000022": "URL:http://medical-dictionary.thefreedictionary.com/excreta",
+          "http://purl.obolibrary.org/obo/ENVO_02000030": "URL:http://wordnet.princeton.edu/perl/webwn?s=chyle",
+          "http://purl.obolibrary.org/obo/ENVO_02000031": "URL:http://www.fcs.uga.edu/ext/bbb/info/glossary.htm",
+          "http://purl.obolibrary.org/obo/ENVO_02000034": "URL:http://www.thefreedictionary.com/tear",
+          "http://purl.obolibrary.org/obo/ENVO_02000036": "URL:http://medical.merriam-webster.com/medical/saliva",
+          "http://purl.obolibrary.org/obo/ENVO_02000041": "URL:http://medical.merriam-webster.com/medical/lymph",
+          "http://purl.obolibrary.org/obo/ENVO_02000059": "URL:http://www.answers.com/topic/topsoil?cat=technology"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/ENVO_00000428": [
+          "WWF:Biome"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00005774": [
+          "ENVO:cjm"
+        ]
+      },
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "WWF": {
+          "http://purl.obolibrary.org/obo/ENVO_00000428": "WWF:Biome"
+        }
+      },
+      "unknown_prefixes": {
+        "ADL": {
+          "http://purl.obolibrary.org/obo/ENVO_00000003": "ADL:FTT"
+        },
+        "Getty": {
+          "http://purl.obolibrary.org/obo/ENVO_00000194": "Getty:TGN"
+        },
+        "NASA": {
+          "http://purl.obolibrary.org/obo/ENVO_00000134": "NASA:earthrealm",
+          "http://purl.obolibrary.org/obo/ENVO_00000428": "NASA:earthrealm",
+          "http://purl.obolibrary.org/obo/ENVO_00000546": "NASA:earthrealm"
+        },
+        "USGS": {
+          "http://purl.obolibrary.org/obo/ENVO_00000194": "USGS:SDTS"
+        }
+      }
+    },
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/ENVO_01001569": [
+          "WWF:AA1310"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01001572": [
+          "WWF:AA1309"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01001573": [
+          "WWF:AA1308"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01001574": [
+          "WWF:AA1307"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01001575": [
+          "WWF:AA1301"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01001576": [
+          "WWF:AA1302"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01001577": [
+          "WWF:AA1303"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01001578": [
+          "WWF:AA1304"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01001579": [
+          "WWF:AA1305"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01001580": [
+          "WWF:AA1306"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01001627": [
+          "WWF:IM1304"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01001628": [
+          "WWF:IM1303"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {
+        "http://purl.obolibrary.org/obo/ENVO_01001644": [
+          "Carbonate which is formed as the result of some biological process."
+        ]
+      },
+      "noncanonical_prefixes": {
+        "WWF": {
+          "http://purl.obolibrary.org/obo/ENVO_01001569": "WWF:AA1310",
+          "http://purl.obolibrary.org/obo/ENVO_01001572": "WWF:AA1309",
+          "http://purl.obolibrary.org/obo/ENVO_01001573": "WWF:AA1308",
+          "http://purl.obolibrary.org/obo/ENVO_01001574": "WWF:AA1307",
+          "http://purl.obolibrary.org/obo/ENVO_01001575": "WWF:AA1301",
+          "http://purl.obolibrary.org/obo/ENVO_01001576": "WWF:AA1302",
+          "http://purl.obolibrary.org/obo/ENVO_01001577": "WWF:AA1303",
+          "http://purl.obolibrary.org/obo/ENVO_01001578": "WWF:AA1304",
+          "http://purl.obolibrary.org/obo/ENVO_01001579": "WWF:AA1305",
+          "http://purl.obolibrary.org/obo/ENVO_01001580": "WWF:AA1306",
+          "http://purl.obolibrary.org/obo/ENVO_01001584": "WWF:AT1322",
+          "http://purl.obolibrary.org/obo/ENVO_01001585": "WWF:AT1321",
+          "http://purl.obolibrary.org/obo/ENVO_01001586": "WWF:AT1320",
+          "http://purl.obolibrary.org/obo/ENVO_01001587": "WWF:AT1319",
+          "http://purl.obolibrary.org/obo/ENVO_01001588": "WWF:AT1318",
+          "http://purl.obolibrary.org/obo/ENVO_01001589": "WWF:AT1317",
+          "http://purl.obolibrary.org/obo/ENVO_01001590": "WWF:AT1316",
+          "http://purl.obolibrary.org/obo/ENVO_01001591": "WWF:AT1315",
+          "http://purl.obolibrary.org/obo/ENVO_01001592": "WWF:AT1314",
+          "http://purl.obolibrary.org/obo/ENVO_01001593": "WWF:AT1313",
+          "http://purl.obolibrary.org/obo/ENVO_01001594": "WWF:AT1312",
+          "http://purl.obolibrary.org/obo/ENVO_01001595": "WWF:AT1311",
+          "http://purl.obolibrary.org/obo/ENVO_01001596": "WWF:AT1310",
+          "http://purl.obolibrary.org/obo/ENVO_01001597": "WWF:AT1309",
+          "http://purl.obolibrary.org/obo/ENVO_01001598": "WWF:AT1308",
+          "http://purl.obolibrary.org/obo/ENVO_01001599": "WWF:AT1307",
+          "http://purl.obolibrary.org/obo/ENVO_01001600": "WWF:AT1306",
+          "http://purl.obolibrary.org/obo/ENVO_01001601": "WWF:AT1305",
+          "http://purl.obolibrary.org/obo/ENVO_01001602": "WWF:AT1304",
+          "http://purl.obolibrary.org/obo/ENVO_01001603": "WWF:AT1303",
+          "http://purl.obolibrary.org/obo/ENVO_01001604": "WWF:AT1302",
+          "http://purl.obolibrary.org/obo/ENVO_01001605": "WWF:AT1301",
+          "http://purl.obolibrary.org/obo/ENVO_01001627": "WWF:IM1304",
+          "http://purl.obolibrary.org/obo/ENVO_01001628": "WWF:IM1303"
+        }
+      },
+      "unknown_prefixes": {
+        "SPIRE": {
+          "http://purl.obolibrary.org/obo/ENVO_00000446": "SPIRE:Terrestrial",
+          "http://purl.obolibrary.org/obo/ENVO_00000447": "SPIRE:Marine",
+          "http://purl.obolibrary.org/obo/ENVO_00000873": "SPIRE:Freshwater",
+          "http://purl.obolibrary.org/obo/ENVO_00001998": "SPIRE:Soil",
+          "http://purl.obolibrary.org/obo/ENVO_00002003": "SPIRE:Dung",
+          "http://purl.obolibrary.org/obo/ENVO_00002019": "SPIRE:Brackish_water",
+          "http://purl.obolibrary.org/obo/ENVO_01000020": "SPIRE:Estuarine",
+          "http://purl.obolibrary.org/obo/ENVO_01000024": "SPIRE:Benthic",
+          "http://purl.obolibrary.org/obo/ENVO_01000178": "SPIRE:Savannah_or_grassland",
+          "http://purl.obolibrary.org/obo/ENVO_01000180": "SPIRE:Tundra",
+          "http://purl.obolibrary.org/obo/ENVO_01000249": "SPIRE:Urban",
+          "http://purl.obolibrary.org/obo/ENVO_01001505": "SPIRE:Tundra"
+        },
+        "URL": {
+          "http://purl.obolibrary.org/obo/ENVO_01000404": "URL:http://aims.fao.org/aos/agrovoc/c_5998"
+        }
+      }
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/fabio-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/fabio-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/go-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/go-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "GOC": {
+          "http://purl.obolibrary.org/obo/GO_0003824": "GOC:vw"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "GOC": {
+          "http://purl.obolibrary.org/obo/GO_0003824": "GOC:tb"
+        }
+      }
+    },
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/GO_0009293": [
+          "Wikipedia:Transduction_(genetics)"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/iao-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/iao-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/ncit-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/ncit-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/npo-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/npo-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/oae-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/oae-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/obcs-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/obcs-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {
+        "http://purl.obolibrary.org/obo/OBCS_0000003": [
+          "STATO_0000204"
+        ],
+        "http://purl.obolibrary.org/obo/OBCS_0000004": [
+          "STATO_0000268"
+        ],
+        "http://purl.obolibrary.org/obo/OBCS_0000005": [
+          "STATO_0000227"
+        ],
+        "http://purl.obolibrary.org/obo/OBCS_0000006": [
+          "STATO_0000059"
+        ],
+        "http://purl.obolibrary.org/obo/OBCS_0000119": [
+          "STATO_0000229"
+        ],
+        "http://purl.obolibrary.org/obo/OBCS_0000125": [
+          "STATO_0000160"
+        ]
+      },
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/obi-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/obi-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/pato-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/pato-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/PATO_0000033": [
+          "Wikipedia:http://en.wikipedia.org/wiki/concentration"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0000044": [
+          "Wikipedia:http://en.wikipedia.org/wiki/frequency"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0000644": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Hyperplastic"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0000911": [
+          "PATO:GVG"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0000912": [
+          "PATO:GVG"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0001323": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Area"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0001334": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Diameter"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0001351": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Area_density"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0001352": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Linear_density"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0001353": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Mass_density"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0001464": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Electric_potential"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0001596": [
+          "PATO:GVG"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0001663": [
+          "PATO:GVG"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0001664": [
+          "PATO:GVG"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0001679": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Specific_volume"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0001680": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Molar_volume"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0001711": [
+          "Wikipedia:http://en.wikipedia.org/wiki/Perimeter"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0002390": [
+          "PATO:DS"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0002632": [
+          "PATO:MAH"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "Answers.com": {
+          "http://purl.obolibrary.org/obo/PATO_0000969": "Answers.com:Answers.com"
+        },
+        "PATOC": {
+          "http://purl.obolibrary.org/obo/PATO_0000049": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000119": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000122": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000125": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000146": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000150": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000161": "PATOC:melissa",
+          "http://purl.obolibrary.org/obo/PATO_0000380": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000381": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000569": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000570": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000573": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000574": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000584": "PATOC:MAH",
+          "http://purl.obolibrary.org/obo/PATO_0000585": "PATOC:MAH",
+          "http://purl.obolibrary.org/obo/PATO_0000586": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000587": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000591": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000592": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000595": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000596": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000599": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000600": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000645": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000918": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000921": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000973": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001018": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001164": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001241": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001472": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001555": "PATOC:CJM",
+          "http://purl.obolibrary.org/obo/PATO_0001585": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001708": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001709": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001710": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001712": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001713": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001714": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001715": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001781": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001788": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001790": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001898": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001899": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001940": "PATOC:UMH",
+          "http://purl.obolibrary.org/obo/PATO_0001986": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0002041": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0002042": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0002043": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0002057": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0002058": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0002093": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0002141": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0002149": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0005015": "PATOC:WD",
+          "http://purl.obolibrary.org/obo/PATO_0005022": "PATOC:WD"
+        },
+        "Wiikipedia": {
+          "http://purl.obolibrary.org/obo/PATO_0001623": "Wiikipedia:Wasting",
+          "http://purl.obolibrary.org/obo/PATO_0001780": "Wiikipedia:Wiikipedia"
+        },
+        "WordNet": {
+          "http://purl.obolibrary.org/obo/PATO_0000011": "WordNet:WordNet",
+          "http://purl.obolibrary.org/obo/PATO_0000117": "WordNet:WordNet",
+          "http://purl.obolibrary.org/obo/PATO_0000915": "WordNet:WordNet",
+          "http://purl.obolibrary.org/obo/PATO_0001019": "WordNet:WordNet",
+          "http://purl.obolibrary.org/obo/PATO_0001571": "WordNet:WordNet",
+          "http://purl.obolibrary.org/obo/PATO_0001595": "WordNet:WordNet",
+          "http://purl.obolibrary.org/obo/PATO_0001602": "WordNet:WordNet",
+          "http://purl.obolibrary.org/obo/PATO_0001648": "WordNet:WordNet"
+        },
+        "edp": {
+          "http://purl.obolibrary.org/obo/PATO_0001536": "edp:edp",
+          "http://purl.obolibrary.org/obo/PATO_0001537": "edp:edp",
+          "http://purl.obolibrary.org/obo/PATO_0001538": "edp:edp"
+        },
+        "studyphysics": {
+          "http://purl.obolibrary.org/obo/PATO_0001524": "studyphysics:studyphysics",
+          "http://purl.obolibrary.org/obo/PATO_0001526": "studyphysics:studyphysics"
+        },
+        "thefreedictionary.com": {
+          "http://purl.obolibrary.org/obo/PATO_0001520": "thefreedictionary.com:thefreedictionary.com"
+        },
+        "url": {
+          "http://purl.obolibrary.org/obo/PATO_0001525": "url:http://www.studyphysics.ca/"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/PATO_0001555": [
+          "OBO_REL:has_part"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "OBO_REL": {
+          "http://purl.obolibrary.org/obo/PATO_0001555": "OBO_REL:has_part"
+        }
+      },
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/sio-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/sio-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/uberon-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/uberon-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/UBERON_0002530": [
+          "MGI:csmith"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0006925": [
+          "UBERON:cjm"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "PHENOSCPAE": {
+          "http://purl.obolibrary.org/obo/RO_0002173": "PHENOSCPAE:asilomar_mtg"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "FBbt_root": {
+          "http://purl.obolibrary.org/obo/UBERON_0001062": "FBbt_root:00000000"
+        }
+      },
+      "unknown_prefixes": {
+        "OpenCyc": {
+          "http://purl.obolibrary.org/obo/UBERON_0000062": "OpenCyc:Mx4rwP3iWpwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0002530": "OpenCyc:Mx4rwP3vyJwpEbGdrcN5Y29ycA"
+        },
+        "WikipediaCategory": {
+          "http://purl.obolibrary.org/obo/UBERON_0002530": "WikipediaCategory:Glands"
+        }
+      }
+    }
+  },
+  "http://purl.enanomapper.net/onto/external/uo-slim.owl": {
+    "graph_id": "http://purl.enanomapper.net/onto/external/uo-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.enanomapper.org/onto/external/ontology-metadata-slim.owl": {
+    "graph_id": "http://purl.enanomapper.org/onto/external/ontology-metadata-slim.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/ro/core.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/ro/core.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://semanticchemistry.github.io/semanticchemistry/ontology/cheminf.owl": {
+    "graph_id": "http://semanticchemistry.github.io/semanticchemistry/ontology/cheminf.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://semanticscience.org/ontology/sio.owl": {
+    "graph_id": "http://semanticscience.org/ontology/sio.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.bioassayontology.org/bao/bao_complete_merged.owl": {
+    "graph_id": "http://www.bioassayontology.org/bao/bao_complete_merged.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

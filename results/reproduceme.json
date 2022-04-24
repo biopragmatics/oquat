@@ -1,0 +1,51 @@
+{
+  "http://www.w3.org/ns/prov-o#": {
+    "graph_id": "http://www.w3.org/ns/prov-o#",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://www.w3.org/ns/prov-o-20130430",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "https://w3id.org/reproduceme": {
+    "graph_id": "https://w3id.org/reproduceme",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

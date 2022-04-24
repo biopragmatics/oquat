@@ -730,17 +730,7 @@
         ]
       },
       "label": "Synonym Xrefs",
-      "malformed_curies": {
-        "http://purl.obolibrary.org/obo/ENVO_01001170": [
-          "www.awi.de/internas"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_01001171": [
-          "www.awi.de/internas"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_01001499": [
-          "www.awi.de/internas"
-        ]
-      },
+      "malformed_curies": {},
       "noncanonical_prefixes": {
         "WWF": {
           "http://purl.obolibrary.org/obo/ENVO_00000428": "WWF:Biome"

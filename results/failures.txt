@@ -1,51 +1,22 @@
-adw does not have a download URL: None
-ato does not have a download URL: None
-bcgo could not be parsed by ROBOT
-bila does not have a download URL: None
-bootstrep does not have a download URL: None
-cido could not be parsed by ROBOT
-cmf does not have a download URL: None
-cob could not be parsed by ROBOT
-cpga does not have a download URL: None
-dc_cl does not have a download URL: None
-ehda does not have a download URL: None
-ehdaa does not have a download URL: None
-eo could not be parsed by ROBOT
-ev does not have a download URL: None
-flu could not be parsed by ROBOT
-fovt could not be parsed by ROBOT
-genepio could not be parsed by ROBOT
-habronattus does not have a download URL: None
 ico could not be parsed by ROBOT
-iev does not have a download URL: None
-imr does not have a download URL: None
-interpro does not have a download URL: None
-lipro does not have a download URL: None
-loggerhead does not have a download URL: None
-mao does not have a download URL: None
-mat does not have a download URL: None
+idocovid19 missing graph ID
+lbo has an unhanded suffix in its OWL URL: http://data.bioontology.org/ontologies/LBO/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb
 mirnao could not be parsed by ROBOT
-nif_cell does not have a download URL: None
-nif_dysfunction does not have a download URL: None
-nif_grossanatomy does not have a download URL: None
 obcs could not be parsed by ROBOT
 ogi could not be parsed by ROBOT
 omiabis could not be parsed by ROBOT
-pao does not have a download URL: None
-pd_st does not have a download URL: None
-pgdso does not have a download URL: None
-plo does not have a download URL: None
-propreo does not have a download URL: None
+orth missing graph ID
+peff could not be parsed by ROBOT
+prov has an unhanded suffix in its OWL URL: http://www.w3.org/ns/prov-o-20130430
 rbo could not be parsed by ROBOT
-resid does not have a download URL: None
+reo could not be parsed by ROBOT
 rnao could not be parsed by ROBOT
-sao does not have a download URL: None
 scdo could not be parsed by ROBOT
 sep could not be parsed by ROBOT
-sopharm does not have a download URL: None
+snomedct has an unhanded suffix in its OWL URL: http://snomed.info/sct/900000000000207008/version/20200131
+srao has an unhanded suffix in its OWL URL: http://www.fairsharing.org/ontology/subject/SRAO.owl/0.3.0
+sweetrealm could not be parsed by ROBOT
 swo could not be parsed by ROBOT
-tahe does not have a download URL: None
-tahh does not have a download URL: None
 vhog could not be parsed by ROBOT
-ypo does not have a download URL: None
-zea does not have a download URL: None
+vido missing graph ID
+xl missing graph ID

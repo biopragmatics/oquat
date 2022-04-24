@@ -22,69 +22,8 @@
         "GO_REF": {
           "http://purl.obolibrary.org/obo/FBcv_0000448": "GO_REF:0000022"
         },
-        "PMID": {
-          "http://purl.obolibrary.org/obo/FBcv_0000387": "PMID:20160973",
-          "http://purl.obolibrary.org/obo/FBcv_0000393": "PMID:12843304",
-          "http://purl.obolibrary.org/obo/FBcv_0000396": "PMID:11715043",
-          "http://purl.obolibrary.org/obo/FBcv_0000401": "PMID:17276917",
-          "http://purl.obolibrary.org/obo/FBcv_0000402": "PMID:11092827",
-          "http://purl.obolibrary.org/obo/FBcv_0000423": "PMID:11563486",
-          "http://purl.obolibrary.org/obo/FBcv_0000451": "PMID:15269788",
-          "http://purl.obolibrary.org/obo/FBcv_0000471": "PMID:17846636",
-          "http://purl.obolibrary.org/obo/FBcv_0000481": "PMID:6954485",
-          "http://purl.obolibrary.org/obo/FBcv_0000669": "PMID:10436051",
-          "http://purl.obolibrary.org/obo/FBcv_0000725": "PMID:12115731",
-          "http://purl.obolibrary.org/obo/FBcv_0003009": "PMID:20660643",
-          "http://purl.obolibrary.org/obo/FBcv_0003060": "PMID:19056941",
-          "http://purl.obolibrary.org/obo/FBcv_0003063": "PMID:22936248",
-          "http://purl.obolibrary.org/obo/FBcv_0003064": "PMID:19966280",
-          "http://purl.obolibrary.org/obo/FBcv_0003065": "PMID:22056041",
-          "http://purl.obolibrary.org/obo/FBcv_0003066": "PMID:21051541",
-          "http://purl.obolibrary.org/obo/FBcv_0003068": "PMID:18451266",
-          "http://purl.obolibrary.org/obo/FBcv_0003195": "PMID:16489339",
-          "http://purl.obolibrary.org/obo/FBcv_0003239": "PMID:8577732",
-          "http://purl.obolibrary.org/obo/FBcv_0005000": "PMID:14636570",
-          "http://purl.obolibrary.org/obo/FBcv_0005016": "PMID:20539741",
-          "http://purl.obolibrary.org/obo/FBcv_0005041": "PMID:3399501",
-          "http://purl.obolibrary.org/obo/FBcv_0005044": "PMID:20664080",
-          "http://purl.obolibrary.org/obo/FBcv_0005052": "PMID:18255029",
-          "http://purl.obolibrary.org/obo/FBcv_0005053": "PMID:9237989",
-          "http://purl.obolibrary.org/obo/FBcv_0005069": "PMID:10899970",
-          "http://purl.obolibrary.org/obo/FBcv_0005071": "PMID:10899970",
-          "http://purl.obolibrary.org/obo/FBcv_0005072": "PMID:9560157",
-          "http://purl.obolibrary.org/obo/FBcv_0005073": "PMID:10899970",
-          "http://purl.obolibrary.org/obo/FBcv_0007021": "PMID:30774936",
-          "http://purl.obolibrary.org/obo/FBcv_0007022": "PMID:30774936",
-          "http://purl.obolibrary.org/obo/FBcv_0007023": "PMID:30774936",
-          "http://purl.obolibrary.org/obo/FBcv_0007024": "PMID:30774936",
-          "http://purl.obolibrary.org/obo/FBcv_0007026": "PMID:25491327",
-          "http://purl.obolibrary.org/obo/FBcv_0007040": "PMID:9323027",
-          "http://purl.obolibrary.org/obo/FBcv_0007041": "PMID:3045807",
-          "http://purl.obolibrary.org/obo/FBcv_0007042": "PMID:7947678",
-          "http://purl.obolibrary.org/obo/FBcv_0007043": "PMID:7947678",
-          "http://purl.obolibrary.org/obo/FBcv_0007044": "PMID:12563279",
-          "http://purl.obolibrary.org/obo/FBcv_0007045": "PMID:31367845",
-          "http://purl.obolibrary.org/obo/FBcv_0007046": "PMID:31367845",
-          "http://purl.obolibrary.org/obo/FBcv_0007500": "PMID:17088531",
-          "http://purl.obolibrary.org/obo/FBcv_0007502": "PMID:7923375",
-          "http://purl.obolibrary.org/obo/FBcv_0007523": "PMID:17088531",
-          "http://purl.obolibrary.org/obo/FBcv_0007524": "PMID:17088531",
-          "http://purl.obolibrary.org/obo/FBcv_0007525": "PMID:7923375",
-          "http://purl.obolibrary.org/obo/FBcv_0007526": "PMID:7923375",
-          "http://purl.obolibrary.org/obo/FBcv_0009000": "PMID:28821273",
-          "http://purl.obolibrary.org/obo/FBcv_0009001": "PMID:28821273",
-          "http://purl.obolibrary.org/obo/FBcv_0009002": "PMID:28821273",
-          "http://purl.obolibrary.org/obo/FBcv_0009003": "PMID:28821273",
-          "http://purl.obolibrary.org/obo/FBcv_0009006": "PMID:26000488",
-          "http://purl.obolibrary.org/obo/FBcv_0009007": "PMID:24056875",
-          "http://purl.obolibrary.org/obo/FBcv_0009008": "PMID:29126257"
-        },
         "WB_REF": {
           "http://purl.obolibrary.org/obo/FBcv_0000002": "WB_REF:cgc467"
-        },
-        "Wikipedia": {
-          "http://purl.obolibrary.org/obo/FBcv_0000393": "Wikipedia:Pain",
-          "http://purl.obolibrary.org/obo/FBcv_0000716": "Wikipedia:Cell_migration"
         }
       },
       "unknown_prefixes": {
@@ -1055,13 +994,7 @@
       "invalid_luids": {},
       "label": "Synonym Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/FBcv_0007041": "PMID:3045807",
-          "http://purl.obolibrary.org/obo/FBcv_0009000": "PMID:32405060",
-          "http://purl.obolibrary.org/obo/FBcv_0009001": "PMID:32405060"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "FBC": {
           "http://purl.obolibrary.org/obo/FBcv_0000008": "FBC:DOS",

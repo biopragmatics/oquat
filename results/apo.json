@@ -828,28 +828,7 @@
       },
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/APO_0000153": "PMID:9301019",
-          "http://purl.obolibrary.org/obo/APO_0000154": "PMID:16267274",
-          "http://purl.obolibrary.org/obo/APO_0000155": "PMID:19416362",
-          "http://purl.obolibrary.org/obo/APO_0000220": "PMID:18782613",
-          "http://purl.obolibrary.org/obo/APO_0000303": "PMID:19121819",
-          "http://purl.obolibrary.org/obo/APO_0000313": "PMID:19286987",
-          "http://purl.obolibrary.org/obo/APO_0000316": "PMID:17634577",
-          "http://purl.obolibrary.org/obo/APO_0000317": "PMID:17634577",
-          "http://purl.obolibrary.org/obo/APO_0000319": "PMID:14663094",
-          "http://purl.obolibrary.org/obo/APO_0000320": "PMID:17506678",
-          "http://purl.obolibrary.org/obo/APO_0000321": "PMID:17506678",
-          "http://purl.obolibrary.org/obo/APO_0000324": "PMID:20415594",
-          "http://purl.obolibrary.org/obo/APO_0000325": "PMID:16759234",
-          "http://purl.obolibrary.org/obo/APO_0000326": "PMID:18224659",
-          "http://purl.obolibrary.org/obo/APO_0000327": "PMID:18245339",
-          "http://purl.obolibrary.org/obo/APO_0000330": "PMID:23531409",
-          "http://purl.obolibrary.org/obo/APO_0000341": "PMID:26040717",
-          "http://purl.obolibrary.org/obo/APO_0000342": "PMID:24013549"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "AspGD": {
           "http://purl.obolibrary.org/obo/APO_0000066": "AspGD:mcc",

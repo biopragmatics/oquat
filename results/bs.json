@@ -1,0 +1,394 @@
+{
+  "http://purl.obolibrary.org/obo/so/subsets/biosapiens.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/so/subsets/biosapiens.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/SO_0000409": [
+          "SO:ke"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0000419": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0000839": [
+          "SO:GAR",
+          "SO:ke"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001064": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001066": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001067": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001070": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001072": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001073": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001074": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001076": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001077": [
+          "UniProt:curator_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001080": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001083": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001084": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001085": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001086": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001087": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001088": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001089": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001092": [
+          "SO:cb",
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001093": [
+          "UniProt:Curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001095": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001096": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001097": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001098": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001099": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001100": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001102": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001103": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001104": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001111": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001112": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001113": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001128": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001146": [
+          "SO:ke"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001147": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001148": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001149": [
+          "UniProt:curation_manual"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001150": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001151": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001154": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001155": [
+          "SO:cb"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0100020": [
+          "SO:ke"
+        ],
+        "http://purl.obolibrary.org/obo/so/subsets/biosapiens#adjacent_to": [
+          "SO:ke"
+        ],
+        "http://purl.obolibrary.org/obo/so/subsets/biosapiens#complete_evidence_for_feature": [
+          "SO:ke"
+        ],
+        "http://purl.obolibrary.org/obo/so/subsets/biosapiens#evidence_for_feature": [
+          "SO:ke"
+        ],
+        "http://purl.obolibrary.org/obo/so/subsets/biosapiens#exemplar_of": [
+          "SO:ke"
+        ],
+        "http://purl.obolibrary.org/obo/so/subsets/biosapiens#gained": [
+          "SO:ke"
+        ],
+        "http://purl.obolibrary.org/obo/so/subsets/biosapiens#lost": [
+          "SO:ke"
+        ],
+        "http://purl.obolibrary.org/obo/so/subsets/biosapiens#non_functional_homolog_of": [
+          "SO:ke"
+        ],
+        "http://purl.obolibrary.org/obo/so/subsets/biosapiens#partial_evidence_for_feature": [
+          "SO:ke"
+        ],
+        "http://purl.obolibrary.org/obo/so/subsets/biosapiens#variant_of": [
+          "SO:immuno_workshop"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "EBIBS": {
+          "http://purl.obolibrary.org/obo/SO_0000409": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0000417": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0000419": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0000691": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001061": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001062": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001063": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001064": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001066": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001067": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001068": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001070": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001071": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001072": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001073": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001074": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001075": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001076": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001077": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001078": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001079": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001080": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001081": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001082": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001083": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001084": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001085": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001086": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001087": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001088": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001089": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001090": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001091": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001092": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001093": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001094": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001095": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001096": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001097": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001098": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001099": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001100": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001101": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001102": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001103": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001104": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001105": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001106": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001107": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001108": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001109": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001110": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001111": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001112": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001113": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001114": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001115": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001116": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001117": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001118": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001119": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001120": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001121": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001122": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001123": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001124": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001125": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001126": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001127": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001128": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001129": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001130": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001131": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001132": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001133": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001134": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001135": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001136": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001137": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001138": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001139": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001140": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001141": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001142": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001143": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001144": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001145": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001146": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001147": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001148": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0001149": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100001": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100002": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100003": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100004": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100005": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100006": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100007": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100008": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100009": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100010": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100011": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100012": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100013": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100014": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100015": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100016": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100017": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100018": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100019": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100020": "EBIBS:GAR",
+          "http://purl.obolibrary.org/obo/SO_0100021": "EBIBS:GAR"
+        },
+        "Http": {
+          "http://purl.obolibrary.org/obo/SO_0001108": "Http://www.ebi.ac.uk/msd-srv/msdmotif/"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/SO_0000417": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0000418": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0000419": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0000691": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0000725": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0000839": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001062": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001064": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001066": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001067": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001068": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001072": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001077": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001080": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001083": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001084": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001085": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001086": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001089": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001091": [
+          "uniprot:curation"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001094": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001104": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001111": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001117": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001147": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001148": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001149": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0100018": [
+          "uniprot:feature_type"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0100020": [
+          "uniprot:feature"
+        ]
+      },
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

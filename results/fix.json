@@ -20,11 +20,7 @@
       "invalid_luids": {},
       "label": "Node Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/FIX_0000971": "PMID:7559516"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     }
   }

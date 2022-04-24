@@ -12,15 +12,7 @@
       },
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/HOM_0000011": "PMID:5449325",
-          "http://purl.obolibrary.org/obo/HOM_0000017": "PMID:5449325",
-          "http://purl.obolibrary.org/obo/HOM_0000046": "PMID:11110898",
-          "http://purl.obolibrary.org/obo/HOM_0000068": "PMID:3065587",
-          "http://purl.obolibrary.org/obo/HOM_0000069": "PMID:3065587"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "BGEE": {
           "http://purl.obolibrary.org/obo/HOM_0000000": "BGEE:curator",
@@ -59,8 +51,8 @@
           "SO:non_functional_homolog_of"
         ],
         "http://purl.obolibrary.org/obo/HOM_0000017": [
-          "SO:orthologous_to",
-          "ECO:00000060"
+          "ECO:00000060",
+          "SO:orthologous_to"
         ],
         "http://purl.obolibrary.org/obo/HOM_0000047": [
           "MeSH:Chromosome Pairing"

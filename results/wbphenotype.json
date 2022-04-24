@@ -28,12 +28,12 @@
           "WB:cab"
         ],
         "http://purl.obolibrary.org/obo/WBPhenotype_0000022": [
-          "WB:cgc31",
-          "WB:cab"
+          "WB:cab",
+          "WB:cgc31"
         ],
         "http://purl.obolibrary.org/obo/WBPhenotype_0000025": [
-          "WB:cgc31",
-          "WB:cab"
+          "WB:cab",
+          "WB:cgc31"
         ],
         "http://purl.obolibrary.org/obo/WBPhenotype_0000031": [
           "WB:cab"
@@ -101,8 +101,8 @@
           "WB:kmva"
         ],
         "http://purl.obolibrary.org/obo/WBPhenotype_0000229": [
-          "WB:cgc31",
-          "WB:cab"
+          "WB:cab",
+          "WB:cgc31"
         ],
         "http://purl.obolibrary.org/obo/WBPhenotype_0000247": [
           "WB:cab",
@@ -194,8 +194,8 @@
           "WB:WBperson363"
         ],
         "http://purl.obolibrary.org/obo/WBPhenotype_0000583": [
-          "WB:cgc31",
-          "WB:cab"
+          "WB:cab",
+          "WB:cgc31"
         ],
         "http://purl.obolibrary.org/obo/WBPhenotype_0000584": [
           "WB:cab"
@@ -252,8 +252,8 @@
           "WB:cab"
         ],
         "http://purl.obolibrary.org/obo/WBPhenotype_0000645": [
-          "WB:cgc31",
-          "WB:cab"
+          "WB:cab",
+          "WB:cgc31"
         ],
         "http://purl.obolibrary.org/obo/WBPhenotype_0000646": [
           "WB:cab"
@@ -775,21 +775,21 @@
           "WB:cgc5599"
         ],
         "http://purl.obolibrary.org/obo/WBPhenotype_0001193": [
-          "WB:cgc7545",
-          "WB:cab"
+          "WB:cab",
+          "WB:cgc7545"
         ],
         "http://purl.obolibrary.org/obo/WBPhenotype_0001195": [
-          "WB:cgc7545",
           "WB:cab",
-          "WB:cgc4194"
+          "WB:cgc4194",
+          "WB:cgc7545"
         ],
         "http://purl.obolibrary.org/obo/WBPhenotype_0001196": [
-          "WB:cgc7545",
-          "WB:cab"
+          "WB:cab",
+          "WB:cgc7545"
         ],
         "http://purl.obolibrary.org/obo/WBPhenotype_0001200": [
-          "WB:cgc7545",
-          "WB:cab"
+          "WB:cab",
+          "WB:cgc7545"
         ],
         "http://purl.obolibrary.org/obo/WBPhenotype_0001202": [
           "WB:cab",
@@ -958,15 +958,6 @@
       "label": "Provenance Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/WBPhenotype_0002624": "PMID:32973031",
-          "http://purl.obolibrary.org/obo/WBPhenotype_0002626": "PMID:32973031",
-          "http://purl.obolibrary.org/obo/WBPhenotype_0002627": "PMID:32973031",
-          "http://purl.obolibrary.org/obo/WBPhenotype_0002628": "PMID:32973031",
-          "http://purl.obolibrary.org/obo/WBPhenotype_0002629": "PMID:32973031",
-          "http://purl.obolibrary.org/obo/WBPhenotype_0002630": "PMID:32973031",
-          "http://purl.obolibrary.org/obo/WBPhenotype_0002631": "PMID:32973031"
-        },
         "WB": {
           "http://purl.obolibrary.org/obo/WBPhenotype_0000000": "WB:WBPerson712",
           "http://purl.obolibrary.org/obo/WBPhenotype_0000001": "WB:cab",
@@ -3704,10 +3695,6 @@
       "label": "Node Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/WBPhenotype_0000702": "PMID:15341747",
-          "http://purl.obolibrary.org/obo/WBPhenotype_0000706": "PMID:15843430"
-        },
         "WB": {
           "http://purl.obolibrary.org/obo/WBPhenotype_0010004": "WB:rk"
         }

@@ -1,0 +1,26 @@
+{
+  "http://www.ontology-of-units-of-measure.org/resource/om-2": {
+    "graph_id": "http://www.ontology-of-units-of-measure.org/resource/om-2",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

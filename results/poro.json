@@ -9,22 +9,7 @@
       },
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "Wikipedia": {
-          "http://purl.obolibrary.org/obo/PORO_0000001": "Wikipedia:Sponge",
-          "http://purl.obolibrary.org/obo/PORO_0000003": "Wikipedia:Choanocyte",
-          "http://purl.obolibrary.org/obo/PORO_0000011": "Wikipedia:Sclerocyte",
-          "http://purl.obolibrary.org/obo/PORO_0000018": "Wikipedia:Osculum",
-          "http://purl.obolibrary.org/obo/PORO_0000023": "Wikipedia:Pinacocyte",
-          "http://purl.obolibrary.org/obo/PORO_0000026": "Wikipedia:Asconoid",
-          "http://purl.obolibrary.org/obo/PORO_0000027": "Wikipedia:Sea_sponge",
-          "http://purl.obolibrary.org/obo/PORO_0000028": "Wikipedia:Sea_sponge",
-          "http://purl.obolibrary.org/obo/PORO_0000029": "Wikipedia:Spongin",
-          "http://purl.obolibrary.org/obo/PORO_0000034": "Wikipedia:Trab",
-          "http://purl.obolibrary.org/obo/PORO_0000043": "Wikipedia:Pinacoderm",
-          "http://purl.obolibrary.org/obo/PORO_0000098": "Wikipedia:Sponge_spicule"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
     "synonym_pack": {

@@ -8154,12 +8154,12 @@
           "WB:rynl"
         ],
         "http://purl.obolibrary.org/obo/WBbt_0005154": [
-          "WB:rynl",
-          "WB:Paper00004052"
+          "WB:Paper00004052",
+          "WB:rynl"
         ],
         "http://purl.obolibrary.org/obo/WBbt_0005171": [
-          "WB:rynl",
-          "WB:Paper00004052"
+          "WB:Paper00004052",
+          "WB:rynl"
         ],
         "http://purl.obolibrary.org/obo/WBbt_0005176": [
           "WB:rynl"
@@ -8228,8 +8228,8 @@
           "WB:rynl"
         ],
         "http://purl.obolibrary.org/obo/WBbt_0005310": [
-          "WB:sdm",
-          "WB:rynl"
+          "WB:rynl",
+          "WB:sdm"
         ],
         "http://purl.obolibrary.org/obo/WBbt_0005311": [
           "WB:rynl"
@@ -8253,8 +8253,8 @@
           "WB:rynl"
         ],
         "http://purl.obolibrary.org/obo/WBbt_0005346": [
-          "WB:rynl",
-          "WB:Paper00000938"
+          "WB:Paper00000938",
+          "WB:rynl"
         ],
         "http://purl.obolibrary.org/obo/WBbt_0005353": [
           "WB:Paper00000938"
@@ -8287,8 +8287,8 @@
           "WB:rynl"
         ],
         "http://purl.obolibrary.org/obo/WBbt_0005373": [
-          "WB:sdm",
-          "WB:rynl"
+          "WB:rynl",
+          "WB:sdm"
         ],
         "http://purl.obolibrary.org/obo/WBbt_0005374": [
           "WB:rynl"
@@ -11534,8 +11534,8 @@
           "WB:rynl"
         ],
         "http://purl.obolibrary.org/obo/WBbt_0006761": [
-          "WB:rynl",
-          "WB:Paper00001594"
+          "WB:Paper00001594",
+          "WB:rynl"
         ],
         "http://purl.obolibrary.org/obo/WBbt_0006762": [
           "Wb:wjc"

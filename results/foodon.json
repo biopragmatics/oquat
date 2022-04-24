@@ -2296,21 +2296,7 @@
       },
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "Wikipedia": {
-          "http://purl.obolibrary.org/obo/FOODON_00001019": "Wikipedia:Wort_%28brewing%29",
-          "http://purl.obolibrary.org/obo/FOODON_00001032": "Wikipedia:Swiss_cheese",
-          "http://purl.obolibrary.org/obo/FOODON_00001034": "Wikipedia:Harzer",
-          "http://purl.obolibrary.org/obo/FOODON_00001045": "Wikipedia:Ice_cream",
-          "http://purl.obolibrary.org/obo/FOODON_00001065": "Wikipedia:Blue_cheese",
-          "http://purl.obolibrary.org/obo/FOODON_00001067": "Wikipedia:Buttermilk",
-          "http://purl.obolibrary.org/obo/FOODON_00001073": "Wikipedia:Vinegar",
-          "http://purl.obolibrary.org/obo/FOODON_00001074": "Wikipedia:Malt_vinegar#Malt",
-          "http://purl.obolibrary.org/obo/FOODON_00001086": "Wikipedia:Kefir",
-          "http://purl.obolibrary.org/obo/FOODON_00001274": "Wikipedia:Egg_%28food%29",
-          "http://purl.obolibrary.org/obo/FOODON_00001278": "Wikipedia:Cake"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
     "synonym_pack": {

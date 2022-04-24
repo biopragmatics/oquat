@@ -13,8 +13,8 @@
           "Unimod:35#D"
         ],
         "http://purl.obolibrary.org/obo/MOD_00040": [
-          "Unimod:28#Q",
-          "RESID:AA0031#GLN"
+          "RESID:AA0031#GLN",
+          "Unimod:28#Q"
         ],
         "http://purl.obolibrary.org/obo/MOD_00041": [
           "Unimod:299#E"
@@ -213,8 +213,8 @@
           "Unimod:340#W"
         ],
         "http://purl.obolibrary.org/obo/MOD_00189": [
-          "Unimod:23#S",
-          "RESID:AA0181#SER"
+          "RESID:AA0181#SER",
+          "Unimod:23#S"
         ],
         "http://purl.obolibrary.org/obo/MOD_00190": [
           "Unimod:23#T"
@@ -368,8 +368,8 @@
           "Unimod:39#N"
         ],
         "http://purl.obolibrary.org/obo/MOD_00326": [
-          "Unimod:435#K",
-          "RESID:AA0321#LYS"
+          "RESID:AA0321#LYS",
+          "Unimod:435#K"
         ],
         "http://purl.obolibrary.org/obo/MOD_00329": [
           "Unimod:436#E"
@@ -504,8 +504,8 @@
           "Unimod:26#C"
         ],
         "http://purl.obolibrary.org/obo/MOD_00420": [
-          "Unimod:27#E",
-          "RESID:AA0031#GLU"
+          "RESID:AA0031#GLU",
+          "Unimod:27#E"
         ],
         "http://purl.obolibrary.org/obo/MOD_00422": [
           "Unimod:29#N-term"
@@ -597,8 +597,8 @@
           "Unimod:119#C"
         ],
         "http://purl.obolibrary.org/obo/MOD_00492": [
-          "Unimod:121#K",
-          "RESID:AA0125#var"
+          "RESID:AA0125#var",
+          "Unimod:121#K"
         ],
         "http://purl.obolibrary.org/obo/MOD_00494": [
           "Unimod:123#C"
@@ -691,19 +691,19 @@
           "Unimod:299#W"
         ],
         "http://purl.obolibrary.org/obo/MOD_00648": [
-          "RESID:AA0364#var",
-          "RESID:AA0051#var"
+          "RESID:AA0051#var",
+          "RESID:AA0364#var"
         ],
         "http://purl.obolibrary.org/obo/MOD_00657": [
           "RESID:AA0072#GLN"
         ],
         "http://purl.obolibrary.org/obo/MOD_00684": [
-          "Unimod:7#N",
-          "RESID:AA0004#ASN"
+          "RESID:AA0004#ASN",
+          "Unimod:7#N"
         ],
         "http://purl.obolibrary.org/obo/MOD_00685": [
-          "Unimod:7#Q",
-          "RESID:AA0006#GLN"
+          "RESID:AA0006#GLN",
+          "Unimod:7#Q"
         ],
         "http://purl.obolibrary.org/obo/MOD_00686": [
           "RESID:AA0022#CYS",
@@ -753,8 +753,8 @@
           "RESID:AA0151#var"
         ],
         "http://purl.obolibrary.org/obo/MOD_00835": [
-          "Unimod:401#S",
-          "RESID:AA0185#SER"
+          "RESID:AA0185#SER",
+          "Unimod:401#S"
         ],
         "http://purl.obolibrary.org/obo/MOD_00838": [
           "Unimod:262#L"
@@ -852,8 +852,8 @@
           "Unimod:6#K"
         ],
         "http://purl.obolibrary.org/obo/MOD_01116": [
-          "RESID:AA0105#var",
-          "RESID:AA0102#var"
+          "RESID:AA0102#var",
+          "RESID:AA0105#var"
         ],
         "http://purl.obolibrary.org/obo/MOD_01119": [
           "RESID:AA0104#var",
@@ -1454,8 +1454,8 @@
           "Unimod:889#K"
         ],
         "http://purl.obolibrary.org/obo/MOD_01509": [
-          "Unimod:889#Y",
-          "Unimod:214#Y"
+          "Unimod:214#Y",
+          "Unimod:889#Y"
         ],
         "http://purl.obolibrary.org/obo/MOD_01529": [
           "Unimod:730#N-term"
@@ -1774,11 +1774,7 @@
       },
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/MOD_01914": "PMID:743239"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "DeltaMass": {
           "http://purl.obolibrary.org/obo/MOD_00010": "DeltaMass:0",

@@ -337,9 +337,9 @@
           "BSPO:cjm"
         ],
         "http://purl.obolibrary.org/obo/BSPO_0000417": [
-          "BSPO:mah",
+          "BSPO:DOS",
           "BSPO:cjm",
-          "BSPO:DOS"
+          "BSPO:mah"
         ],
         "http://purl.obolibrary.org/obo/BSPO_0000671": [
           "BSPO:wd"

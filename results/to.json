@@ -265,8 +265,8 @@
           "TO:moorel"
         ],
         "http://purl.obolibrary.org/obo/TO_0000227": [
-          "TO:cooperl",
-          "TO:austin_meier"
+          "TO:austin_meier",
+          "TO:cooperl"
         ],
         "http://purl.obolibrary.org/obo/TO_0000228": [
           "TO:cooperl"
@@ -540,8 +540,8 @@
           "TO:cooperl"
         ],
         "http://purl.obolibrary.org/obo/TO_0000531": [
-          "TO:ethan_johnson",
-          "TO:austin_meier"
+          "TO:austin_meier",
+          "TO:ethan_johnson"
         ],
         "http://purl.obolibrary.org/obo/TO_0000536": [
           "TO:cooperl"
@@ -1479,8 +1479,8 @@
           "TO:Ethan_Johnson"
         ],
         "http://purl.obolibrary.org/obo/TO_0000966": [
-          "TO:cooperl",
-          "TO:Ethan_Johnson"
+          "TO:Ethan_Johnson",
+          "TO:cooperl"
         ],
         "http://purl.obolibrary.org/obo/TO_0000967": [
           "TO:austin_meier"
@@ -1507,8 +1507,8 @@
           "TO:Ethan_Johnson"
         ],
         "http://purl.obolibrary.org/obo/TO_0000975": [
-          "TO:cooperl",
-          "TO:austin_meier"
+          "TO:austin_meier",
+          "TO:cooperl"
         ],
         "http://purl.obolibrary.org/obo/TO_0000976": [
           "TO:Ethan_Johnson"
@@ -1839,12 +1839,12 @@
           "TO:austin_meier"
         ],
         "http://purl.obolibrary.org/obo/TO_0002619": [
-          "TO:cooperl",
-          "TO:austin_meier"
+          "TO:austin_meier",
+          "TO:cooperl"
         ],
         "http://purl.obolibrary.org/obo/TO_0002620": [
-          "TO:cooperl",
-          "TO:austin_meier"
+          "TO:austin_meier",
+          "TO:cooperl"
         ],
         "http://purl.obolibrary.org/obo/TO_0002621": [
           "TO:moorel"
@@ -1856,8 +1856,8 @@
           "TO:cooperl"
         ],
         "http://purl.obolibrary.org/obo/TO_0002624": [
-          "TO:cooperl",
-          "TO:austin_meier"
+          "TO:austin_meier",
+          "TO:cooperl"
         ],
         "http://purl.obolibrary.org/obo/TO_0002625": [
           "TO:moorel"
@@ -2808,51 +2808,6 @@
         },
         "PMCID": {
           "http://purl.obolibrary.org/obo/TO_0000374": "PMCID:PMC434838"
-        },
-        "PMID": {
-          "http://purl.obolibrary.org/obo/TO_0000004": "PMID:10645437",
-          "http://purl.obolibrary.org/obo/TO_0000310": "PMID:10066554",
-          "http://purl.obolibrary.org/obo/TO_0000519": "PMID:12582650",
-          "http://purl.obolibrary.org/obo/TO_0000669": "PMID:12897863",
-          "http://purl.obolibrary.org/obo/TO_0000798": "PMID:28373892",
-          "http://purl.obolibrary.org/obo/TO_0000937": "PMID:22027895",
-          "http://purl.obolibrary.org/obo/TO_0000939": "PMID:28373892",
-          "http://purl.obolibrary.org/obo/TO_0000940": "PMID:28373892",
-          "http://purl.obolibrary.org/obo/TO_0000996": "PMID:26841834",
-          "http://purl.obolibrary.org/obo/TO_0000997": "PMID:26842267",
-          "http://purl.obolibrary.org/obo/TO_0000998": "PMID:26842267",
-          "http://purl.obolibrary.org/obo/TO_0001051": "PMID:27294384",
-          "http://purl.obolibrary.org/obo/TO_0001052": "PMID:27294384",
-          "http://purl.obolibrary.org/obo/TO_0001054": "PMID:27294384",
-          "http://purl.obolibrary.org/obo/TO_0001055": "PMID:27294384",
-          "http://purl.obolibrary.org/obo/TO_0001056": "PMID:21454799",
-          "http://purl.obolibrary.org/obo/TO_0001057": "PMID:21454799",
-          "http://purl.obolibrary.org/obo/TO_0001058": "PMID:21454799",
-          "http://purl.obolibrary.org/obo/TO_0001059": "PMID:21454799",
-          "http://purl.obolibrary.org/obo/TO_0001061": "PMID:26841834",
-          "http://purl.obolibrary.org/obo/TO_0001062": "PMID:26841834",
-          "http://purl.obolibrary.org/obo/TO_0001063": "PMID:26841834",
-          "http://purl.obolibrary.org/obo/TO_0001064": "PMID:26841834",
-          "http://purl.obolibrary.org/obo/TO_0001066": "PMID:1186185",
-          "http://purl.obolibrary.org/obo/TO_0001067": "PMID:26841834",
-          "http://purl.obolibrary.org/obo/TO_0001072": "PMID:26841834",
-          "http://purl.obolibrary.org/obo/TO_0001074": "PMID:27888713",
-          "http://purl.obolibrary.org/obo/TO_0002643": "PMID:11756262",
-          "http://purl.obolibrary.org/obo/TO_0002645": "PMID:12677407",
-          "http://purl.obolibrary.org/obo/TO_0002650": "PMID:15598797",
-          "http://purl.obolibrary.org/obo/TO_0002651": "PMID:15598797",
-          "http://purl.obolibrary.org/obo/TO_0002652": "PMID:15598797",
-          "http://purl.obolibrary.org/obo/TO_0002668": "PMID:17031029",
-          "http://purl.obolibrary.org/obo/TO_0002670": "PMID:16569039",
-          "http://purl.obolibrary.org/obo/TO_0002671": "PMID:16569039",
-          "http://purl.obolibrary.org/obo/TO_0002672": "PMID:16908506",
-          "http://purl.obolibrary.org/obo/TO_0002688": "PMID:14615594",
-          "http://purl.obolibrary.org/obo/TO_0002692": "PMID:17303594"
-        },
-        "Wikipedia": {
-          "http://purl.obolibrary.org/obo/TO_0000522": "Wikipedia:Stomatal_conductance",
-          "http://purl.obolibrary.org/obo/TO_0000523": "Wikipedia:Stomatal_conductance",
-          "http://purl.obolibrary.org/obo/TO_0012001": "Wikipedia:Leaf_area_index"
         }
       },
       "unknown_prefixes": {
@@ -3944,9 +3899,6 @@
         "MaizeGDB": {
           "http://purl.obolibrary.org/obo/TO_0000919": "MaizeGDB:78154",
           "http://purl.obolibrary.org/obo/TO_0000923": "MaizeGDB:???"
-        },
-        "PMID": {
-          "http://purl.obolibrary.org/obo/TO_0002691": "PMID:17303594"
         }
       },
       "unknown_prefixes": {

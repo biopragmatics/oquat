@@ -1250,38 +1250,7 @@
       },
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/VariO_0237": "PMID:16527956",
-          "http://purl.obolibrary.org/obo/VariO_0238": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0239": "PMID:15833125",
-          "http://purl.obolibrary.org/obo/VariO_0242": "PMID:15833125",
-          "http://purl.obolibrary.org/obo/VariO_0243": "PMID:15833125",
-          "http://purl.obolibrary.org/obo/VariO_0248": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0249": "PMID:15833125",
-          "http://purl.obolibrary.org/obo/VariO_0250": "PMID:11988766",
-          "http://purl.obolibrary.org/obo/VariO_0251": "PMID:15833125",
-          "http://purl.obolibrary.org/obo/VariO_0252": "PMID:15833125",
-          "http://purl.obolibrary.org/obo/VariO_0253": "PMID:15833125",
-          "http://purl.obolibrary.org/obo/VariO_0254": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0255": "PMID:15833125",
-          "http://purl.obolibrary.org/obo/VariO_0256": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0257": "PMID:15833125",
-          "http://purl.obolibrary.org/obo/VariO_0261": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0263": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0267": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0268": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0269": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0270": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0271": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0273": "PMID:14577292",
-          "http://purl.obolibrary.org/obo/VariO_0274": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0275": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0276": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0277": "PMID:14755292",
-          "http://purl.obolibrary.org/obo/VariO_0278": "PMID:14755292"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "EBIBS": {
           "http://purl.obolibrary.org/obo/VariO_0281": "EBIBS:GAR"
@@ -1305,11 +1274,7 @@
       "invalid_luids": {},
       "label": "Node Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "Wikipedia": {
-          "http://purl.obolibrary.org/obo/VariO_0151": "Wikipedia:DNA_repair"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     }
   }

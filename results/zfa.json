@@ -576,32 +576,6 @@
       "noncanonical_prefixes": {
         "FB": {
           "http://purl.obolibrary.org/obo/ZFA_0009387": "FB:ma"
-        },
-        "PMID": {
-          "http://purl.obolibrary.org/obo/ZFA_0000003": "PMID:8951054",
-          "http://purl.obolibrary.org/obo/ZFA_0000294": "PMID:9552123",
-          "http://purl.obolibrary.org/obo/ZFA_0000397": "PMID:11923003",
-          "http://purl.obolibrary.org/obo/ZFA_0001356": "PMID:15821344",
-          "http://purl.obolibrary.org/obo/ZFA_0005238": "PMID:11457727",
-          "http://purl.obolibrary.org/obo/ZFA_0005561": "PMID:18344966",
-          "http://purl.obolibrary.org/obo/ZFA_0005574": "PMID:18773892",
-          "http://purl.obolibrary.org/obo/ZFA_0005598": "PMID:14970313",
-          "http://purl.obolibrary.org/obo/ZFA_0005731": "PMID:14699587",
-          "http://purl.obolibrary.org/obo/ZFA_0005732": "PMID:14699587",
-          "http://purl.obolibrary.org/obo/ZFA_0005733": "PMID:14699587",
-          "http://purl.obolibrary.org/obo/ZFA_0005778": "PMID:23848055",
-          "http://purl.obolibrary.org/obo/ZFA_0005932": "PMID:23799579",
-          "http://purl.obolibrary.org/obo/ZFA_0005933": "PMID:23799579",
-          "http://purl.obolibrary.org/obo/ZFA_0007082": "PMID:22305800",
-          "http://purl.obolibrary.org/obo/ZFA_0009108": "PMID:12050120",
-          "http://purl.obolibrary.org/obo/ZFA_0009112": "PMID:20024907",
-          "http://purl.obolibrary.org/obo/ZFA_0009259": "PMID:18816864",
-          "http://purl.obolibrary.org/obo/ZFA_0009354": "PMID:19022770",
-          "http://purl.obolibrary.org/obo/ZFA_0009355": "PMID:19022770",
-          "http://purl.obolibrary.org/obo/ZFA_0009356": "PMID:19022770",
-          "http://purl.obolibrary.org/obo/ZFA_0009394": "PMID:18430230",
-          "http://purl.obolibrary.org/obo/ZFA_0009397": "PMID:18356246",
-          "http://purl.obolibrary.org/obo/ZFA_0009398": "PMID:20483998"
         }
       },
       "unknown_prefixes": {
@@ -2633,11 +2607,7 @@
       },
       "label": "Synonym Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/ZFA_0009261": "PMID:16588565"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "GOC": {
           "http://purl.obolibrary.org/obo/ZFA_0000935": "GOC:ymb"

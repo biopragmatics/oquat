@@ -58,17 +58,7 @@
     "synonym_pack": {
       "invalid_luids": {},
       "label": "Synonym Xrefs",
-      "malformed_curies": {
-        "http://purl.obolibrary.org/obo/CIO_0000003": [
-          "neXtProt"
-        ],
-        "http://purl.obolibrary.org/obo/CIO_0000004": [
-          "neXtProt"
-        ],
-        "http://purl.obolibrary.org/obo/CIO_0000005": [
-          "neXtProt"
-        ]
-      },
+      "malformed_curies": {},
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },

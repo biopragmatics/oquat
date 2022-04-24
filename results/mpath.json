@@ -124,16 +124,16 @@
           "MPATH:Sundberg"
         ],
         "http://purl.obolibrary.org/obo/MPATH_770": [
-          "MPATH:PNS",
-          "MPATH:<new dbxref>"
+          "MPATH:<new dbxref>",
+          "MPATH:PNS"
         ],
         "http://purl.obolibrary.org/obo/MPATH_771": [
-          "MPATH:PNS",
-          "MPATH:<new dbxref>"
+          "MPATH:<new dbxref>",
+          "MPATH:PNS"
         ],
         "http://purl.obolibrary.org/obo/MPATH_772": [
-          "MPATH:PNS",
-          "MPATH:<new dbxref>"
+          "MPATH:<new dbxref>",
+          "MPATH:PNS"
         ],
         "http://purl.obolibrary.org/obo/MPATH_773": [
           "MPATH:PNS"
@@ -481,79 +481,6 @@
         },
         "PMCID": {
           "http://purl.obolibrary.org/obo/MPATH_499": "PMCID: 1964945"
-        },
-        "PMID": {
-          "http://purl.obolibrary.org/obo/MPATH_142": "PMID:10713680",
-          "http://purl.obolibrary.org/obo/MPATH_240": "PMID:8569146",
-          "http://purl.obolibrary.org/obo/MPATH_242": "PMID:8569146",
-          "http://purl.obolibrary.org/obo/MPATH_272": "PMID:15059877",
-          "http://purl.obolibrary.org/obo/MPATH_273": "PMID:15059877",
-          "http://purl.obolibrary.org/obo/MPATH_29": "PMID:9309781",
-          "http://purl.obolibrary.org/obo/MPATH_306": "PMID:12612914",
-          "http://purl.obolibrary.org/obo/MPATH_326": "PMID:9789961",
-          "http://purl.obolibrary.org/obo/MPATH_337": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_340": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_341": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_342": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_371": "PMID:15059877",
-          "http://purl.obolibrary.org/obo/MPATH_40": "PMID: 11794381",
-          "http://purl.obolibrary.org/obo/MPATH_486": "PMID:10713680",
-          "http://purl.obolibrary.org/obo/MPATH_487": "PMID:12612914",
-          "http://purl.obolibrary.org/obo/MPATH_496": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_497": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_498": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_500": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_501": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_502": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_503": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_504": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_505": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_506": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_507": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_508": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_509": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_510": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_511": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_512": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_513": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_515": "PMID:12070033",
-          "http://purl.obolibrary.org/obo/MPATH_517": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_518": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_519": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_521": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_522": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_523": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_524": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_525": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_526": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_527": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_528": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_529": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_530": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_532": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_533": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_534": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_535": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_536": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_537": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_538": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_539": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_540": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_541": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_542": "PMID:12070034",
-          "http://purl.obolibrary.org/obo/MPATH_557": "PMID:12612914",
-          "http://purl.obolibrary.org/obo/MPATH_558": "PMID:10713680",
-          "http://purl.obolibrary.org/obo/MPATH_559": "PMID:10713680",
-          "http://purl.obolibrary.org/obo/MPATH_560": "PMID:10713680",
-          "http://purl.obolibrary.org/obo/MPATH_561": "PMID:12612914",
-          "http://purl.obolibrary.org/obo/MPATH_563": "PMID:12612914",
-          "http://purl.obolibrary.org/obo/MPATH_574": "PMID:8383276",
-          "http://purl.obolibrary.org/obo/MPATH_592": "PMID:15625335",
-          "http://purl.obolibrary.org/obo/MPATH_722": "PMID:3525381",
-          "http://purl.obolibrary.org/obo/MPATH_815": "PMID:    21191096",
-          "http://purl.obolibrary.org/obo/MPATH_816": "PMID:21191096",
-          "http://purl.obolibrary.org/obo/MPATH_842": "PMID:1666161",
-          "http://purl.obolibrary.org/obo/MPATH_855": "PMID:18976399"
         }
       },
       "unknown_prefixes": {
@@ -1245,11 +1172,7 @@
       "invalid_luids": {},
       "label": "Node Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/MPATH_632": "PMID:7943185"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "URL": {
           "http://purl.obolibrary.org/obo/MPATH_272": "URL: http://emice.nci.nih.gov/mouse_models/organ_models/lung_models/murinecancer/tumorclass",

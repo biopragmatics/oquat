@@ -15044,11 +15044,7 @@
       "invalid_luids": {},
       "label": "Node Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "Wikipedia": {
-          "http://purl.obolibrary.org/obo/OBA_0000120": "Wikipedia:Osmotic_pressure"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     }
   }

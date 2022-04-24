@@ -662,12 +662,6 @@
           "http://purl.obolibrary.org/obo/PECO_0007389": "NCBI_taxid:5518",
           "http://purl.obolibrary.org/obo/PECO_0007411": "NCBI_taxid:274",
           "http://purl.obolibrary.org/obo/PECO_0007631": "NCBI_taxid:162130"
-        },
-        "PMID": {
-          "http://purl.obolibrary.org/obo/PECO_0001063": "PMID:28282385"
-        },
-        "Wikipedia": {
-          "http://purl.obolibrary.org/obo/PECO_0007291": "Wikipedia:6-Benzylaminopurine"
         }
       },
       "unknown_prefixes": {

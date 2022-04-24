@@ -12,17 +12,7 @@
       },
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/FBbi_00000089": "PMID:3043536",
-          "http://purl.obolibrary.org/obo/FBbi_00000585": "PMID:15514700",
-          "http://purl.obolibrary.org/obo/FBbi_00050000": "PMID:22119321"
-        },
-        "Wikipedia": {
-          "http://purl.obolibrary.org/obo/FBbi_00000037": "Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain",
-          "http://purl.obolibrary.org/obo/FBbi_00000041": "Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "": {
           "http://purl.obolibrary.org/obo/FBbi_00000291": ":"

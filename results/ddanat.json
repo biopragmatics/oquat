@@ -5,59 +5,7 @@
       "invalid_luids": {},
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/DDANAT_0000002": "PMID:4338436",
-          "http://purl.obolibrary.org/obo/DDANAT_0000003": "PMID:20268085",
-          "http://purl.obolibrary.org/obo/DDANAT_0000005": "PMID:20268085",
-          "http://purl.obolibrary.org/obo/DDANAT_0000006": "PMID:20268085",
-          "http://purl.obolibrary.org/obo/DDANAT_0000007": "PMID:18366659",
-          "http://purl.obolibrary.org/obo/DDANAT_0000008": "PMID:8223266",
-          "http://purl.obolibrary.org/obo/DDANAT_0000009": "PMID:1879341",
-          "http://purl.obolibrary.org/obo/DDANAT_0000010": "PMID:9799430",
-          "http://purl.obolibrary.org/obo/DDANAT_0000011": "PMID:1879341",
-          "http://purl.obolibrary.org/obo/DDANAT_0000014": "PMID:4338436",
-          "http://purl.obolibrary.org/obo/DDANAT_0000015": "PMID:557037",
-          "http://purl.obolibrary.org/obo/DDANAT_0000018": "PMID:4338436",
-          "http://purl.obolibrary.org/obo/DDANAT_0000027": "PMID:557037",
-          "http://purl.obolibrary.org/obo/DDANAT_0000029": "PMID:987586",
-          "http://purl.obolibrary.org/obo/DDANAT_0000036": "PMID:4338436",
-          "http://purl.obolibrary.org/obo/DDANAT_0000042": "PMID:8016318",
-          "http://purl.obolibrary.org/obo/DDANAT_0000043": "PMID:9799430",
-          "http://purl.obolibrary.org/obo/DDANAT_0000044": "PMID:1879341",
-          "http://purl.obolibrary.org/obo/DDANAT_0000047": "PMID:4338436",
-          "http://purl.obolibrary.org/obo/DDANAT_0000053": "PMID:9799430",
-          "http://purl.obolibrary.org/obo/DDANAT_0000055": "PMID:8016318",
-          "http://purl.obolibrary.org/obo/DDANAT_0000057": "PMID:8631253",
-          "http://purl.obolibrary.org/obo/DDANAT_0000060": "PMID:9799430",
-          "http://purl.obolibrary.org/obo/DDANAT_0000062": "PMID:9203345",
-          "http://purl.obolibrary.org/obo/DDANAT_0000063": "PMID:7128927",
-          "http://purl.obolibrary.org/obo/DDANAT_0000064": "PMID:7128927",
-          "http://purl.obolibrary.org/obo/DDANAT_0000065": "PMID:8631253",
-          "http://purl.obolibrary.org/obo/DDANAT_0000068": "PMID:565220",
-          "http://purl.obolibrary.org/obo/DDANAT_0000069": "PMID:11130075",
-          "http://purl.obolibrary.org/obo/DDANAT_0000071": "PMID:7128927",
-          "http://purl.obolibrary.org/obo/DDANAT_0000072": "PMID:8631253",
-          "http://purl.obolibrary.org/obo/DDANAT_0000073": "PMID:8631253",
-          "http://purl.obolibrary.org/obo/DDANAT_0000076": "PMID:4338436",
-          "http://purl.obolibrary.org/obo/DDANAT_0000077": "PMID:557037",
-          "http://purl.obolibrary.org/obo/DDANAT_0000078": "PMID:557037",
-          "http://purl.obolibrary.org/obo/DDANAT_0000079": "PMID:557037",
-          "http://purl.obolibrary.org/obo/DDANAT_0000084": "PMID:16592095",
-          "http://purl.obolibrary.org/obo/DDANAT_0000097": "PMID:9799430",
-          "http://purl.obolibrary.org/obo/DDANAT_0000402": "PMID:4338436",
-          "http://purl.obolibrary.org/obo/DDANAT_0000405": "PMID:4330277",
-          "http://purl.obolibrary.org/obo/DDANAT_0000406": "PMID:4330277",
-          "http://purl.obolibrary.org/obo/DDANAT_0000409": "PMID:8631253",
-          "http://purl.obolibrary.org/obo/DDANAT_0000412": "PMID:8205618",
-          "http://purl.obolibrary.org/obo/DDANAT_0000414": "PMID:4338436",
-          "http://purl.obolibrary.org/obo/DDANAT_0000415": "PMID:17259634",
-          "http://purl.obolibrary.org/obo/DDANAT_0000417": "PMID:8631254",
-          "http://purl.obolibrary.org/obo/DDANAT_0000418": "PMID:17673666",
-          "http://purl.obolibrary.org/obo/DDANAT_0001000": "PMID:20080085",
-          "http://purl.obolibrary.org/obo/DDANAT_0001001": "PMID:20080085"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "DDB": {
           "http://purl.obolibrary.org/obo/DDANAT_0000002": "DDB:pg",
@@ -193,16 +141,7 @@
       "invalid_luids": {},
       "label": "Synonym Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/DDANAT_0000005": "PMID:18366659",
-          "http://purl.obolibrary.org/obo/DDANAT_0000006": "PMID:7553878",
-          "http://purl.obolibrary.org/obo/DDANAT_0000008": "PMID:18366659",
-          "http://purl.obolibrary.org/obo/DDANAT_0000009": "PMID:18366659",
-          "http://purl.obolibrary.org/obo/DDANAT_0000010": "PMID:18366659",
-          "http://purl.obolibrary.org/obo/DDANAT_0000011": "PMID:18366659"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
     "version": "http://purl.obolibrary.org/obo/ddanat/releases/2020-04-13/ddanat.owl",
@@ -210,18 +149,7 @@
       "invalid_luids": {},
       "label": "Node Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/DDANAT_0000016": "PMID:2513127",
-          "http://purl.obolibrary.org/obo/DDANAT_0000019": "PMID:10642783",
-          "http://purl.obolibrary.org/obo/DDANAT_0000030": "PMID:10611970",
-          "http://purl.obolibrary.org/obo/DDANAT_0000032": "PMID:8223266",
-          "http://purl.obolibrary.org/obo/DDANAT_0000045": "PMID:10611970",
-          "http://purl.obolibrary.org/obo/DDANAT_0000049": "PMID:2513127",
-          "http://purl.obolibrary.org/obo/DDANAT_0000057": "PMID:10611970",
-          "http://purl.obolibrary.org/obo/DDANAT_0000063": "PMID:1879341"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     }
   }

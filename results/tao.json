@@ -2913,11 +2913,7 @@
       },
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/TAO_0002290": "PMID:18344966"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "ZIFIN": {
           "http://purl.obolibrary.org/obo/TAO_0001385": "ZIFIN:curator"

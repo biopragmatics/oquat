@@ -1,0 +1,27 @@
+{
+  "http://semanticscience.org/ontology/sio.owl": {
+    "graph_id": "http://semanticscience.org/ontology/sio.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://semanticscience.org/ontology/sio/v1.54/sio-release.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

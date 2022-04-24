@@ -12,14 +12,7 @@
       },
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/RO_0002029": "PMID:24138933"
-        },
-        "Wikipedia": {
-          "http://purl.obolibrary.org/obo/RO_0002029": "Wikipedia:Infant_mortality"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "BGEE": {
           "http://purl.obolibrary.org/obo/RO_HOM0000000": "BGEE:curator",
@@ -71,8 +64,8 @@
           "SO:non_functional_homolog_of"
         ],
         "http://purl.obolibrary.org/obo/RO_HOM0000017": [
-          "SO:orthologous_to",
-          "ECO:00000060"
+          "ECO:00000060",
+          "SO:orthologous_to"
         ],
         "http://purl.obolibrary.org/obo/RO_HOM0000047": [
           "MeSH:Chromosome_Pairing"

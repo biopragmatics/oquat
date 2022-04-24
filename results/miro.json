@@ -9,38 +9,8 @@
         "MSH": {
           "http://purl.obolibrary.org/obo/MIRO_10000227": "MSH:C030956"
         },
-        "PMID": {
-          "http://purl.obolibrary.org/obo/MIRO_00000003": "PMID:16925478",
-          "http://purl.obolibrary.org/obo/MIRO_00000012": "PMID:16925478",
-          "http://purl.obolibrary.org/obo/MIRO_00000014": "PMID:16925478",
-          "http://purl.obolibrary.org/obo/MIRO_00000015": "PMID:16925478",
-          "http://purl.obolibrary.org/obo/MIRO_00000120": "PMID:15242706",
-          "http://purl.obolibrary.org/obo/MIRO_00000121": "PMID:15242706",
-          "http://purl.obolibrary.org/obo/MIRO_00000122": "PMID:15242706",
-          "http://purl.obolibrary.org/obo/MIRO_00000123": "PMID:15242706",
-          "http://purl.obolibrary.org/obo/MIRO_00000125": "PMID:15242706",
-          "http://purl.obolibrary.org/obo/MIRO_00000126": "PMID:15242706",
-          "http://purl.obolibrary.org/obo/MIRO_20000008": "PMID:2708625",
-          "http://purl.obolibrary.org/obo/MIRO_20000103": "PMID:1986365",
-          "http://purl.obolibrary.org/obo/MIRO_20000123": "PMID:10890904",
-          "http://purl.obolibrary.org/obo/MIRO_40000803": "PMID:10645562",
-          "http://purl.obolibrary.org/obo/MIRO_40003065": "PMID:11240632",
-          "http://purl.obolibrary.org/obo/MIRO_40003235": "PMID:11240632",
-          "http://purl.obolibrary.org/obo/MIRO_40003830": "PMID:10645562",
-          "http://purl.obolibrary.org/obo/MIRO_40003831": "PMID:10645562",
-          "http://purl.obolibrary.org/obo/MIRO_40003832": "PMID:10645562",
-          "http://purl.obolibrary.org/obo/MIRO_40003833": "PMID:10645562",
-          "http://purl.obolibrary.org/obo/MIRO_40003835": "PMID:10645562"
-        },
         "PRO": {
           "http://purl.obolibrary.org/obo/MIRO_10000222": "PRO:000003626"
-        },
-        "Wikipedia": {
-          "http://purl.obolibrary.org/obo/MIRO_20000058": "Wikipedia:bioassay",
-          "http://purl.obolibrary.org/obo/MIRO_20000104": "Wikipedia:sequencing",
-          "http://purl.obolibrary.org/obo/MIRO_20000108": "Wikipedia:RT-PCR",
-          "http://purl.obolibrary.org/obo/MIRO_20000120": "Wikipedia:dot-blot",
-          "http://purl.obolibrary.org/obo/MIRO_30000016": "Wikipedia:ovitrap"
         }
       },
       "unknown_prefixes": {
@@ -5106,12 +5076,7 @@
       },
       "label": "Node Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/MIRO_00000012": "PMID:16925478",
-          "http://purl.obolibrary.org/obo/MIRO_00000015": "PMID:16925478"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "IRAC": {
           "http://purl.obolibrary.org/obo/MIRO_00000006": "IRAC:manual",

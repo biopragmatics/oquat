@@ -223,28 +223,28 @@
           "WB:jl"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000077": [
-          "WB:mb",
-          "WB:dr"
+          "WB:dr",
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000079": [
-          "WB:mb",
-          "WB:dr"
+          "WB:dr",
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000080": [
-          "WB:mb",
-          "WB:dr"
+          "WB:dr",
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000081": [
-          "WB:mb",
-          "WB:dr"
+          "WB:dr",
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000082": [
-          "WB:mb",
-          "WB:dr"
+          "WB:dr",
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000083": [
-          "WB:mb",
-          "WB:dr"
+          "WB:dr",
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000084": [
           "WB:dr"
@@ -268,9 +268,9 @@
           "WB:dr"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000091": [
-          "WB:mb",
+          "WB:dr",
           "WB:jl",
-          "WB:dr"
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000092": [
           "WB:dr"
@@ -279,35 +279,35 @@
           "WB:dr"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000094": [
-          "WB:mb",
-          "WB:dr"
+          "WB:dr",
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000095": [
-          "WB:mb",
-          "WB:dr"
+          "WB:dr",
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000096": [
-          "WB:mb",
-          "WB:dr"
+          "WB:dr",
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000097": [
           "WB:dr"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000098": [
-          "WB:mb",
-          "WB:dr"
+          "WB:dr",
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000099": [
-          "WB:mb",
-          "WB:dr"
+          "WB:dr",
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000100": [
-          "WB:mb",
-          "WB:dr"
+          "WB:dr",
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000101": [
-          "WB:jl",
-          "WB:dr"
+          "WB:dr",
+          "WB:jl"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000102": [
           "WB:dr"
@@ -1990,16 +1990,16 @@
           "WB:dr"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000663": [
-          "WB:mb",
-          "WB:dr"
+          "WB:dr",
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000664": [
-          "WB:jl",
-          "WB:dr"
+          "WB:dr",
+          "WB:jl"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000665": [
-          "WB:mb",
-          "WB:dr"
+          "WB:dr",
+          "WB:mb"
         ],
         "http://purl.obolibrary.org/obo/WBls_0000670": [
           "WB:dr"
@@ -2223,22 +2223,6 @@
       "label": "Provenance Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/WBls_0000052": "PMID:27417559",
-          "http://purl.obolibrary.org/obo/WBls_0000667": "PMID:1796232",
-          "http://purl.obolibrary.org/obo/WBls_0000668": "PMID:7797912",
-          "http://purl.obolibrary.org/obo/WBls_0000708": "PMID:25887684",
-          "http://purl.obolibrary.org/obo/WBls_0000714": "PMID:12462989",
-          "http://purl.obolibrary.org/obo/WBls_0000715": "PMID:12462989",
-          "http://purl.obolibrary.org/obo/WBls_0000718": "PMID:25887684",
-          "http://purl.obolibrary.org/obo/WBls_0000719": "PMID:25887684",
-          "http://purl.obolibrary.org/obo/WBls_0000720": "PMID:25887684",
-          "http://purl.obolibrary.org/obo/WBls_0000721": "PMID:19079187",
-          "http://purl.obolibrary.org/obo/WBls_0000722": "PMID:19079187",
-          "http://purl.obolibrary.org/obo/WBls_0000827": "PMID:27417559",
-          "http://purl.obolibrary.org/obo/WBls_0000828": "PMID:27417559",
-          "http://purl.obolibrary.org/obo/WBls_0000829": "PMID:27417559"
-        },
         "WB": {
           "http://purl.obolibrary.org/obo/WBls_0000001": "WB:jl",
           "http://purl.obolibrary.org/obo/WBls_0000002": "WB:wjc",

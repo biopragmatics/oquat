@@ -1,0 +1,76 @@
+{
+  "http://purl.unep.org/sdg/sdgio.owl": {
+    "graph_id": "http://purl.unep.org/sdg/sdgio.owl",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/ENVO_00000070": [
+          "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00010483": [
+          "MA:ma"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "Chemistry": {
+          "http://purl.obolibrary.org/obo/PATO_0001546": "Chemistry:http://chemistry.about.com/od/chemistryglossary/a/soliddefinition.htm",
+          "http://purl.obolibrary.org/obo/PATO_0001547": "Chemistry:http://chemistry.about.com/od/chemistryglossary/a/gasdefinition.htm"
+        },
+        "GOC": {
+          "http://purl.obolibrary.org/obo/GO_0008150": "GOC:isa_complete",
+          "http://purl.obolibrary.org/obo/RO_0002023": "GOC:dos",
+          "http://purl.obolibrary.org/obo/RO_0002024": "GOC:dos",
+          "http://purl.obolibrary.org/obo/RO_0002025": "GOC:dos",
+          "http://purl.obolibrary.org/obo/RO_0002432": "GOC:dos"
+        },
+        "NM": {
+          "http://purl.obolibrary.org/obo/ENVO_00002297": "NM:nm"
+        },
+        "PATOC": {
+          "http://purl.obolibrary.org/obo/PATO_0000001": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000140": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000165": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000308": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0000309": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001018": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001241": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001547": "PATOC:GVG",
+          "http://purl.obolibrary.org/obo/PATO_0001646": "PATOC:nc",
+          "http://purl.obolibrary.org/obo/PATO_0002138": "PATOC:VO",
+          "http://purl.obolibrary.org/obo/PATO_0002198": "PATOC:GVG"
+        },
+        "URL": {
+          "http://purl.obolibrary.org/obo/ENVO_00010483": "URL:http://ontology.buffalo.edu/smith/articles/niches.html"
+        },
+        "WordNet": {
+          "http://purl.obolibrary.org/obo/PATO_0000011": "WordNet:WordNet",
+          "http://purl.obolibrary.org/obo/PATO_0001598": "WordNet:WordNet"
+        },
+        "url": {
+          "http://purl.obolibrary.org/obo/PATO_0001548": "url:http://www.chemistry-dictionary.com/definition/liquid.php"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/RO_0009501": [
+          "RO:cjm"
+        ]
+      },
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "http://purl.unep.org/sdg/releases/2018-08-10/sdgio.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

@@ -5,12 +5,7 @@
       "invalid_luids": {},
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/DDPHENO_0000284": "PMID:23664307",
-          "http://purl.obolibrary.org/obo/DDPHENO_0000287": "PMID:23664307"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "DD": {
           "http://purl.obolibrary.org/obo/DDPHENO_0000116": "DD:pg",
@@ -1175,19 +1170,7 @@
       "invalid_luids": {},
       "label": "Node Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/DDPHENO_0000003": "PMID:18366659",
-          "http://purl.obolibrary.org/obo/DDPHENO_0000004": "PMID:18366659",
-          "http://purl.obolibrary.org/obo/DDPHENO_0000140": "PMID:4338436",
-          "http://purl.obolibrary.org/obo/DDPHENO_0000160": "PMID:18366659",
-          "http://purl.obolibrary.org/obo/DDPHENO_0000207": "PMID:18366659",
-          "http://purl.obolibrary.org/obo/DDPHENO_0000208": "PMID:18366659",
-          "http://purl.obolibrary.org/obo/DDPHENO_0000379": "PMID:18366659",
-          "http://purl.obolibrary.org/obo/DDPHENO_0000406": "PMID:18366659",
-          "http://purl.obolibrary.org/obo/DDPHENO_0000701": "PMID:18366659"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "DDB": {
           "http://purl.obolibrary.org/obo/DDPHENO_0001466": "DDB:pf",

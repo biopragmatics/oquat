@@ -5,11 +5,7 @@
       "invalid_luids": {},
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "PMID": {
-          "http://purl.obolibrary.org/obo/NBO_0000043": "PMID:29327315"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
     "synonym_pack": {
