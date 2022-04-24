@@ -4,13 +4,14 @@
 
 import dataclasses
 import json.decoder
+import logging
 import random
 import re
 import sys
 from collections import defaultdict
 from operator import itemgetter
 from pathlib import Path
-from typing import Any, DefaultDict, Optional
+from typing import Any, DefaultDict, Optional, Union
 
 import bioregistry
 import click
@@ -24,6 +25,8 @@ from tabulate import tabulate
 
 from .robot import robot_parse_json_local, robot_parse_json_remote
 from .struct.obograph import Graphs
+
+logger = logging.getLogger(__name__)
 
 
 def extended_encoder(obj: Any) -> Any:
@@ -174,21 +177,36 @@ def analyze_by_prefix(
         else:
             return analyze_graph(data, iri_filter=iri_filter)
 
-    owl_iri = bioregistry.get_owl_download(prefix)
-    if owl_iri is not None:
+    _owl_iri = bioregistry.get_owl_download(prefix)
+    _obo_iri = bioregistry.get_obo_download(prefix)
+    for iri in [_owl_iri, _obo_iri]:
+        if iri is None:
+            continue
         if cache:
             module = pystow.module("bio", "obofoundry", prefix)
-            owl_path: Path = module.ensure(url=owl_iri)
-            json_path: Path = module.join(name=owl_path.name).with_suffix(".json")
-            data, messages = robot_parse_json_local(owl_path, json_path)
+            download_path: Path = module.ensure(url=iri)
+            json_path: Path = module.join(name=download_path.name).with_suffix(".json")
+            data, messages = robot_parse_json_local(download_path, json_path)
         else:
-            data, messages = robot_parse_json_remote(owl_iri)
+            data, messages = robot_parse_json_remote(iri)
         if messages:
             click.secho(f"Output from parsing {prefix}", fg="blue")
             click.secho(messages, fg="blue")
         return analyze_graph(data, iri_filter=iri_filter)
 
-    raise ValueError(f"no OWL IRI available for Bioregistry prefix {prefix}")
+    raise ValueError(f"no IRI available for Bioregistry prefix {prefix}")
+
+
+def analyze_by_path(
+    path: Union[str, Path], *, iri_filter: Optional[str] = None
+) -> dict[str, Results]:
+    """Analyze an ontology at a given IRI."""
+    path = Path(path).resolve()
+    data, messages = robot_parse_json_local(path)
+    if messages:
+        click.secho(f"Output from parsing {path}", fg="blue")
+        click.secho(messages, fg="blue")
+    return analyze_graph(data, iri_filter=iri_filter)
 
 
 def analyze_by_iri(iri: str, *, iri_filter: Optional[str] = None) -> dict[str, Results]:
@@ -361,30 +379,68 @@ def _tabulate_dd(dd, name) -> str:
     )
 
 
+def coalesce_filters(prefix, iri_filter, obo_filter):
+    """Coalesce IRI and OBO filter."""
+    if not obo_filter:
+        return iri_filter
+    if iri_filter:
+        logger.info(f"[{prefix}] IRI filter overrides OBO filter, using {iri_filter}")
+        return iri_filter
+    iri_filter = bioregistry.get_obofoundry_uri_prefix(prefix)
+    if iri_filter:
+        logger.info(f"[{prefix}] Filtering to nodes originating from {iri_filter}")
+    else:
+        logger.debug(f"[{prefix}] Could not generate an OBO URI prefix")
+    return iri_filter
+
+
 @click.command()
-@click.argument("inp")
+@click.option("--iri")
+@click.option("--prefix")
+@click.option("--path", type=Path)
 @click.option("--cache", is_flag=True)
 @click.option("--iri-filter")
+@click.option("-o", "--obo-filter", is_flag=True)
 @verbose_option
-def main(inp: str, cache: bool, iri_filter: Optional[str]):
+def analyze(
+    iri: Optional[str],
+    prefix: Optional[str],
+    path: Optional[Path],
+    cache: bool,
+    iri_filter: Optional[str],
+    obo_filter: bool,
+):
     """Analyze a given ontology."""
-    if any(inp.startswith(protocol) for protocol in PROTOCOLS):
-        results = analyze_by_iri(inp, iri_filter=iri_filter)
-    elif (prefix := bioregistry.normalize_prefix(inp)) is not None:
+    if 1 != sum(arg is not None for arg in (iri, prefix, path)):
+        click.secho("Can only pass one of --iri, --prefix, and --path")
+        return sys.exit(-1)
+    elif path is not None:
+        path = path.resolve()
+        if not path.is_file():
+            click.secho(f"File does not exist: {path}")
+            return sys.exit(-1)
+        results = analyze_by_path(path, iri_filter=iri_filter)
+    elif iri is not None:
+        results = analyze_by_iri(iri, iri_filter=iri_filter)
+    elif prefix is not None:
+        norm_prefix = bioregistry.normalize_prefix(prefix)
+        if norm_prefix is not None:
+            click.secho(f"An invalid Bioregistry prefix was given: {prefix}")
+            return sys.exit(-1)
+        iri_filter = coalesce_filters(norm_prefix, iri_filter, obo_filter)
         results = analyze_by_prefix(prefix, cache=cache, iri_filter=iri_filter)
     else:
-        click.secho(f"Input is neither an IRI nor valid prefix in the Bioregistry: {inp}", fg="red")
-        sys.exit(-1)
+        # This can't happen
+        return sys.exit(-1)
 
     result_str = "\n".join(v.to_markdown() for v in results.values())
-    try:
-        path = pystow.join("oquat", name=f"{prefix}.md")
-    except NameError:
-        click.echo(result_str)
+    if prefix is not None:
+        output_path = pystow.join("oquat", name=f"{prefix}.md")
+        output_path.write_text(result_str)
+        click.echo(f"Results for {prefix} written to {output_path}")
     else:
-        path.write_text(result_str)
-        click.echo(f"Results for {prefix} written to {path}")
+        click.echo(result_str)
 
 
 if __name__ == "__main__":
-    main()
+    analyze()

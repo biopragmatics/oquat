@@ -11,13 +11,13 @@ from typing import Optional
 import bioregistry
 import click
 import jinja2
-from more_click import force_option
+from more_click import force_option, verbose_option
 from tqdm import tqdm
 
 from .api import SKIP_PREFIXES, MissingGraphIRI, Results, analyze_by_prefix, extended_encoder
 
 __all__ = [
-    "main",
+    "lsa",
 ]
 
 HERE = Path(__file__).parent.resolve()
@@ -43,18 +43,17 @@ CUSTOM_FILTERS = {"efo": "http://www.ebi.ac.uk/efo/EFO_"}
 
 @click.command()
 @force_option
-@click.option(
-    "--inclusive", is_flag=True, help="Include non-OBO and less well annotated ontologies"
-)
 @click.option("--minimum")
-def main(force: bool, inclusive: bool, minimum: Optional[str]):
+@verbose_option
+def lsa(force: bool, minimum: Optional[str]):
     """Run large-scale ontology analysis."""
     rows = sorted(
         (
             prefix,
-            bioregistry.get_obofoundry_uri_prefix(prefix),
+            CUSTOM_FILTERS.get(prefix) or bioregistry.get_obofoundry_uri_prefix(prefix),
             bioregistry.get_owl_download(prefix),
             bioregistry.get_json_download(prefix),
+            bioregistry.get_obo_download(prefix),
         )
         for prefix, resource in bioregistry.read_registry().items()
         if prefix not in SKIP_PREFIXES
@@ -65,20 +64,23 @@ def main(force: bool, inclusive: bool, minimum: Optional[str]):
     failures = []
     tqdm.write(f"got info on {len(rows)} prefixes")
     it = tqdm(rows)
-    for prefix, iri_filter, owl_url, json_url in it:
-        iri_filter = CUSTOM_FILTERS.get(prefix, iri_filter)
-        if not inclusive and iri_filter is None:
+    for prefix, iri_filter, owl_url, json_url, obo_url in it:
+        if owl_url is None and json_url is None and obo_url is None:
             continue
-        if json_url is None:
-            if owl_url is None:
-                failure_text = f"{prefix} does not have a download URL: {owl_url}"
-                failures.append(failure_text)
-                continue
-            if not owl_url.endswith(".owl"):
-                failure_text = f"{prefix} does not have an OWL URL: {owl_url}"
-                secho(failure_text, fg="red")
-                failures.append(failure_text)
-                continue
+        if (
+            json_url is None
+            and owl_url
+            and all(not owl_url.endswith(suffix) for suffix in [".owl", ".obo", ".rdf", ".xml"])
+        ):
+            failure_text = f"{prefix} has an unhanded suffix in its OWL URL: {owl_url}"
+            secho(failure_text, fg="red")
+            failures.append(failure_text)
+            continue
+        if json_url is None and owl_url is None and not obo_url.endswith(".obo"):
+            failure_text = f"{prefix} does not have an OBO URL: {obo_url}"
+            secho(failure_text, fg="red")
+            failures.append(failure_text)
+            continue
         it.set_postfix(prefix=prefix)
         analysis_path = RESULTS.joinpath(prefix).with_suffix(".json")
         if analysis_path.is_file() and not force:
@@ -134,4 +136,4 @@ def main(force: bool, inclusive: bool, minimum: Optional[str]):
 
 
 if __name__ == "__main__":
-    main()
+    lsa()
