@@ -6,8 +6,14 @@ from collections import defaultdict
 from operator import itemgetter
 
 from tabulate import tabulate
-
 from oquat.large_scale_analysis import DOCS, RESULTS
+
+UNKNOWNS = DOCS.joinpath("unknowns")
+UNKNOWNS.mkdir(exist_ok=True, parents=True)
+SOURCES = UNKNOWNS.joinpath("source")
+SOURCES.mkdir(exist_ok=True, parents=True)
+PREFIXES = UNKNOWNS.joinpath("prefix")
+PREFIXES.mkdir(exist_ok=True, parents=True)
 
 KEYS = [
     "prov_pack",
@@ -18,7 +24,8 @@ KEYS = [
 
 def main():
     """Analyze unknown prefixes."""
-    sources = defaultdict(dict)
+    prefix_agg = defaultdict(dict)
+    source_agg = defaultdict(dict)
     for path in RESULTS.glob("*.json"):
         name = path.stem
         for results in json.loads(path.read_text()).values():
@@ -26,26 +33,57 @@ def main():
                 for unknown_prefix, usages in results[key]["unknown_prefixes"].items():
                     if " " in unknown_prefix or len(unknown_prefix) > 20:
                         continue  # lots of garbage
-                    sources[unknown_prefix][name] = usages
+                    prefix_agg[unknown_prefix][name] = usages
+                    source_agg[name][unknown_prefix] = usages
 
-    rows = []
-    for unknown_prefix, counts in sources.items():
-        sources = ",".join(sorted(counts))
+
+    summary_rows = []
+    for unknown_prefix, counts in prefix_agg.items():
+        prefix_agg = ", ".join(f"[`{source}`](source/{source})" for source in sorted(counts))
         total_count = sum(len(v) for v in counts.values())
         example_source = random.choice(list(counts))
         example_key = random.choice(list(counts[example_source]))
-        example_value = counts[example_source][example_key]
-        rows.append(
+        example_curie = counts[example_source][example_key]
+
+        prefix_text = f"# `{unknown_prefix}`\n"
+        for source, usages in counts.items():
+            # from rich import print
+            # print(usages)
+            # raise
+            dd = defaultdict(set)
+            for node, curie in usages.items():
+                dd[curie].add(node.removeprefix("'http://purl.obolibrary.org/obo/").replace("_", ":"))
+            rows = [
+                (curie, f"{len(nodes):,}", ", ".join(
+                    f"[{node}](https://bioregistry.io/{node})"
+                    for node in sorted(nodes)
+                ))
+                for curie, nodes in dd.items()
+            ]
+
+            prefix_text += f"## {source}\n"
+            prefix_text += tabulate(
+                rows,
+                headers=["curie", "usages", "nodes"],
+                tablefmt="github",
+            )
+            prefix_text += "\n"
+
+        prefix_path = PREFIXES.joinpath(unknown_prefix.replace("/", "_")).with_suffix(".md")
+        prefix_path.write_text(prefix_text)
+
+        summary_rows.append(
             (
-                unknown_prefix,
-                sources,
-                total_count,
-                example_key,
-                example_value,
+                f"[`{unknown_prefix}`](prefix/{unknown_prefix})",
+                prefix_agg,
+                f"{total_count:,}",
+                f"[{example_key}]({example_key})",
+                f"`{example_curie}`",
             )
         )
-    rows = sorted(
-        rows,
+
+    summary_rows = sorted(
+        summary_rows,
         key=itemgetter(2),
         reverse=True,
     )
@@ -66,12 +104,11 @@ any prefix over 25 characters long.
         """
 
     text += tabulate(
-        rows,
-        headers=["prefix", "sources", "count", "example_key", "example_value"],
+        summary_rows,
+        headers=["prefix", "sources", "count", "example_key", "example_curie"],
         tablefmt="github",
     )
-    DOCS.joinpath("unknowns.md").write_text(text)
-
+    UNKNOWNS.joinpath("index.md").write_text(text)
 
 if __name__ == "__main__":
     main()
