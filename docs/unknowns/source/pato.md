@@ -1,109 +1,109 @@
 # pato
 
-## .answers.com
+## `.answers.com`
 
 | curie                     |   usages | nodes                                               |
 |---------------------------|----------|-----------------------------------------------------|
 | .answers.com:.answers.com |        1 | [PATO:0001606](https://bioregistry.io/PATO:0001606) |
 
-## Answers.com
+## `Answers.com`
 
 | curie                   |   usages | nodes                                                                                                    |
 |-------------------------|----------|----------------------------------------------------------------------------------------------------------|
 | Answers.com:Answers.com |        2 | [PATO:0000969](https://bioregistry.io/PATO:0000969), [PATO:0001480](https://bioregistry.io/PATO:0001480) |
 
-## Biology-online
+## `Biology-online`
 
 | curie                         |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Biology-online:Biology-online |        8 | [PATO:0000970](https://bioregistry.io/PATO:0000970), [PATO:0000982](https://bioregistry.io/PATO:0000982), [PATO:0000983](https://bioregistry.io/PATO:0000983), [PATO:0001405](https://bioregistry.io/PATO:0001405), [PATO:0001406](https://bioregistry.io/PATO:0001406), [PATO:0001407](https://bioregistry.io/PATO:0001407), [PATO:0001409](https://bioregistry.io/PATO:0001409), [PATO:0001410](https://bioregistry.io/PATO:0001410) |
 
-## Book
+## `Book`
 
 | curie     |   usages | nodes                                                                                                                                                         |
 |-----------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Book:Book |        3 | [PATO:0002294](https://bioregistry.io/PATO:0002294), [PATO:0002295](https://bioregistry.io/PATO:0002295), [PATO:0002296](https://bioregistry.io/PATO:0002296) |
 
-## Chemicool
+## `Chemicool`
 
 | curie               |   usages | nodes                                               |
 |---------------------|----------|-----------------------------------------------------|
 | Chemicool:Chemicool |        1 | [PATO:0001888](https://bioregistry.io/PATO:0001888) |
 
-## Chemistry
+## `Chemistry`
 
 | curie                                                                           |   usages | nodes                                               |
 |---------------------------------------------------------------------------------|----------|-----------------------------------------------------|
 | Chemistry:http://chemistry.about.com/od/chemistryglossary/a/soliddefinition.htm |        1 | [PATO:0001546](https://bioregistry.io/PATO:0001546) |
 | Chemistry:http://chemistry.about.com/od/chemistryglossary/a/gasdefinition.htm   |        1 | [PATO:0001547](https://bioregistry.io/PATO:0001547) |
 
-## Dictionary
+## `Dictionary`
 
 | curie                                       |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |---------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Dictionary:http://dictionary.reference.com/ |        9 | [PATO:0000318](https://bioregistry.io/PATO:0000318), [PATO:0000320](https://bioregistry.io/PATO:0000320), [PATO:0000322](https://bioregistry.io/PATO:0000322), [PATO:0000323](https://bioregistry.io/PATO:0000323), [PATO:0000324](https://bioregistry.io/PATO:0000324), [PATO:0000438](https://bioregistry.io/PATO:0000438), [PATO:0000951](https://bioregistry.io/PATO:0000951), [PATO:0001227](https://bioregistry.io/PATO:0001227), [PATO:0001303](https://bioregistry.io/PATO:0001303) |
 
-## Dictionary.com
+## `Dictionary.com`
 
 | curie                         |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                             |
 |-------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Dictionary.com:Dictionary.com |        7 | [PATO:0000329](https://bioregistry.io/PATO:0000329), [PATO:0000331](https://bioregistry.io/PATO:0000331), [PATO:0001473](https://bioregistry.io/PATO:0001473), [PATO:0001477](https://bioregistry.io/PATO:0001477), [PATO:0001478](https://bioregistry.io/PATO:0001478), [PATO:0001482](https://bioregistry.io/PATO:0001482), [PATO:0001665](https://bioregistry.io/PATO:0001665) |
 
-## FNA
+## `FNA`
 
 | curie   |   usages | nodes                                               |
 |---------|----------|-----------------------------------------------------|
 | FNA:FNA |        1 | [PATO:0002385](https://bioregistry.io/PATO:0002385) |
 
-## GOC
+## `GOC`
 
 | curie   |   usages | nodes                                                                                                    |
 |---------|----------|----------------------------------------------------------------------------------------------------------|
 | GOC:CJM |        2 | [PATO:0000077](https://bioregistry.io/PATO:0000077), [PATO:0002324](https://bioregistry.io/PATO:0002324) |
 
-## Hickey
+## `Hickey`
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                                                                        |
 |-------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hickey:1988 |        6 | [PATO:0001967](https://bioregistry.io/PATO:0001967), [PATO:0001968](https://bioregistry.io/PATO:0001968), [PATO:0001969](https://bioregistry.io/PATO:0001969), [PATO:0001970](https://bioregistry.io/PATO:0001970), [PATO:0001971](https://bioregistry.io/PATO:0001971), [PATO:0001972](https://bioregistry.io/PATO:0001972) |
 
-## IUPAC
+## `IUPAC`
 
 | curie       |   usages | nodes                                               |
 |-------------|----------|-----------------------------------------------------|
 | IUPAC:IUPAC |        1 | [PATO:0001674](https://bioregistry.io/PATO:0001674) |
 
-## InfoVisual
+## `InfoVisual`
 
 | curie                 |   usages | nodes                                               |
 |-----------------------|----------|-----------------------------------------------------|
 | InfoVisual:InfoVisual |        1 | [PATO:0001890](https://bioregistry.io/PATO:0001890) |
 
-## MAMMALOGY
+## `MAMMALOGY`
 
 | curie               |   usages | nodes                                               |
 |---------------------|----------|-----------------------------------------------------|
 | MAMMALOGY:MAMMALOGY |        1 | [PATO:0001448](https://bioregistry.io/PATO:0001448) |
 
-## MGED
+## `MGED`
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |-----------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MGED:MGED |       13 | [PATO:0000047](https://bioregistry.io/PATO:0000047), [PATO:0000383](https://bioregistry.io/PATO:0000383), [PATO:0000384](https://bioregistry.io/PATO:0000384), [PATO:0001335](https://bioregistry.io/PATO:0001335), [PATO:0001336](https://bioregistry.io/PATO:0001336), [PATO:0001338](https://bioregistry.io/PATO:0001338), [PATO:0001339](https://bioregistry.io/PATO:0001339), [PATO:0001340](https://bioregistry.io/PATO:0001340), [PATO:0001341](https://bioregistry.io/PATO:0001341), [PATO:0001344](https://bioregistry.io/PATO:0001344), [PATO:0001347](https://bioregistry.io/PATO:0001347), [PATO:0001348](https://bioregistry.io/PATO:0001348), [PATO:0001349](https://bioregistry.io/PATO:0001349) |
 
-## MedTerms
+## `MedTerms`
 
 | curie             |   usages | nodes                                               |
 |-------------------|----------|-----------------------------------------------------|
 | MedTerms:MedTerms |        1 | [PATO:0001438](https://bioregistry.io/PATO:0001438) |
 
-## Medical-dictionary
+## `Medical-dictionary`
 
 | curie                                 |   usages | nodes                                               |
 |---------------------------------------|----------|-----------------------------------------------------|
 | Medical-dictionary:Medical-dictionary |        1 | [PATO:0001432](https://bioregistry.io/PATO:0001432) |
 
-## Merriam-Webster
+## `Merriam-Webster`
 
 | curie                           |   usages | nodes                                                                                                                                                                                                                                                                                                                        |
 |---------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -111,68 +111,68 @@
 | Merriam-Webster:hexagonal       |        1 | [PATO:0002509](https://bioregistry.io/PATO:0002509)                                                                                                                                                                                                                                                                          |
 | Merriam-Webster:confluent       |        1 | [PATO:0002512](https://bioregistry.io/PATO:0002512)                                                                                                                                                                                                                                                                          |
 
-## NDI
+## `NDI`
 
 | curie   |   usages | nodes                                               |
 |---------|----------|-----------------------------------------------------|
 | NDI:NDI |        1 | [PATO:0000629](https://bioregistry.io/PATO:0000629) |
 
-## OED
+## `OED`
 
 | curie   |   usages | nodes                                               |
 |---------|----------|-----------------------------------------------------|
 | OED:    |        1 | [PATO:0002312](https://bioregistry.io/PATO:0002312) |
 
-## Online_Dictionary
+## `Online_Dictionary`
 
 | curie                               |   usages | nodes                                               |
 |-------------------------------------|----------|-----------------------------------------------------|
 | Online_Dictionary:Online_Dictionary |        1 | [PATO:0001794](https://bioregistry.io/PATO:0001794) |
 
-## Oxford
+## `Oxford`
 
 | curie                    |   usages | nodes                                               |
 |--------------------------|----------|-----------------------------------------------------|
 | Oxford:EnglishDictionary |        1 | [PATO:0001889](https://bioregistry.io/PATO:0001889) |
 
-## PATC
+## `PATC`
 
 | curie    |   usages | nodes                                               |
 |----------|----------|-----------------------------------------------------|
 | PATC:MAH |        1 | [PATO:0001511](https://bioregistry.io/PATO:0001511) |
 
-## PATOC
+## `PATOC`
 
 | curie     |   usages | nodes                                               |
 |-----------|----------|-----------------------------------------------------|
 | PATOC:MAH |        1 | [PATO:0001769](https://bioregistry.io/PATO:0001769) |
 
-## RKC
+## `RKC`
 
 | curie   |   usages | nodes                                               |
 |---------|----------|-----------------------------------------------------|
 | RKC:RKC |        1 | [PATO:0001881](https://bioregistry.io/PATO:0001881) |
 
-## TheFreeDictionary
+## `TheFreeDictionary`
 
 | curie                        |   usages | nodes                                               |
 |------------------------------|----------|-----------------------------------------------------|
 | TheFreeDictionary:cancellous |        1 | [PATO:0002519](https://bioregistry.io/PATO:0002519) |
 
-## Trailillustrated
+## `Trailillustrated`
 
 | curie                             |   usages | nodes                                               |
 |-----------------------------------|----------|-----------------------------------------------------|
 | Trailillustrated:Trailillustrated |        1 | [PATO:0001687](https://bioregistry.io/PATO:0001687) |
 
-## Wiikipedia
+## `Wiikipedia`
 
 | curie                 |   usages | nodes                                               |
 |-----------------------|----------|-----------------------------------------------------|
 | Wiikipedia:Wasting    |        1 | [PATO:0001623](https://bioregistry.io/PATO:0001623) |
 | Wiikipedia:Wiikipedia |        1 | [PATO:0001780](https://bioregistry.io/PATO:0001780) |
 
-## WikipediaVersioned
+## `WikipediaVersioned`
 
 | curie                                                   |   usages | nodes                                               |
 |---------------------------------------------------------|----------|-----------------------------------------------------|
@@ -183,106 +183,106 @@
 | WikipediaVersioned:Rust&oldid=1072363937                |        1 | [PATO:0070059](https://bioregistry.io/PATO:0070059) |
 | WikipediaVersioned:Fluid&oldid=1049126570               |        1 | [PATO:0080001](https://bioregistry.io/PATO:0080001) |
 
-## WordNet
+## `WordNet`
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |-----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | WordNet:WordNet |       85 | [PATO:0000011](https://bioregistry.io/PATO:0000011), [PATO:0000059](https://bioregistry.io/PATO:0000059), [PATO:0000117](https://bioregistry.io/PATO:0000117), [PATO:0000396](https://bioregistry.io/PATO:0000396), [PATO:0000402](https://bioregistry.io/PATO:0000402), [PATO:0000403](https://bioregistry.io/PATO:0000403), [PATO:0000404](https://bioregistry.io/PATO:0000404), [PATO:0000406](https://bioregistry.io/PATO:0000406), [PATO:0000409](https://bioregistry.io/PATO:0000409), [PATO:0000410](https://bioregistry.io/PATO:0000410), [PATO:0000415](https://bioregistry.io/PATO:0000415), [PATO:0000428](https://bioregistry.io/PATO:0000428), [PATO:0000433](https://bioregistry.io/PATO:0000433), [PATO:0000434](https://bioregistry.io/PATO:0000434), [PATO:0000442](https://bioregistry.io/PATO:0000442), ... |
 | WordNet:Wordnet |        1 | [PATO:0001486](https://bioregistry.io/PATO:0001486)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-## WordReference
+## `WordReference`
 
 | curie               |   usages | nodes                                               |
 |---------------------|----------|-----------------------------------------------------|
 | WordReference:flush |        1 | [PATO:0002518](https://bioregistry.io/PATO:0002518) |
 
-## answers.com
+## `answers.com`
 
 | curie                               |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |-------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | answers.com:answers.com             |       26 | [PATO:0000078](https://bioregistry.io/PATO:0000078), [PATO:0000167](https://bioregistry.io/PATO:0000167), [PATO:0000413](https://bioregistry.io/PATO:0000413), [PATO:0000608](https://bioregistry.io/PATO:0000608), [PATO:0000610](https://bioregistry.io/PATO:0000610), [PATO:0000692](https://bioregistry.io/PATO:0000692), [PATO:0000762](https://bioregistry.io/PATO:0000762), [PATO:0001487](https://bioregistry.io/PATO:0001487), [PATO:0001506](https://bioregistry.io/PATO:0001506), [PATO:0001521](https://bioregistry.io/PATO:0001521), [PATO:0001599](https://bioregistry.io/PATO:0001599), [PATO:0001802](https://bioregistry.io/PATO:0001802), [PATO:0001803](https://bioregistry.io/PATO:0001803), [PATO:0001804](https://bioregistry.io/PATO:0001804), [PATO:0001805](https://bioregistry.io/PATO:0001805), ... |
 | answers.com:http://www.answers.com/ |        1 | [PATO:0002013](https://bioregistry.io/PATO:0002013)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-## arpansa
+## `arpansa`
 
 | curie           |   usages | nodes                                                                                                                                                         |
 |-----------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | arpansa:arpansa |        3 | [PATO:0001745](https://bioregistry.io/PATO:0001745), [PATO:0001746](https://bioregistry.io/PATO:0001746), [PATO:0001747](https://bioregistry.io/PATO:0001747) |
 
-## bdid
+## `bdid`
 
 | curie     |   usages | nodes                                               |
 |-----------|----------|-----------------------------------------------------|
 | bdid:bdid |        1 | [PATO:0001474](https://bioregistry.io/PATO:0001474) |
 
-## biology-online
+## `biology-online`
 
 | curie                         |   usages | nodes                                                                                                    |
 |-------------------------------|----------|----------------------------------------------------------------------------------------------------------|
 | biology-online:biology-online |        2 | [PATO:0001423](https://bioregistry.io/PATO:0001423), [PATO:0001842](https://bioregistry.io/PATO:0001842) |
 
-## biology.lsu
+## `biology.lsu`
 
 | curie                   |   usages | nodes                                               |
 |-------------------------|----------|-----------------------------------------------------|
 | biology.lsu:biology.lsu |        1 | [PATO:0001609](https://bioregistry.io/PATO:0001609) |
 
-## chemicool
+## `chemicool`
 
 | curie               |   usages | nodes                                                                                                                                                                                                              |
 |---------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | chemicool:chemicool |        4 | [PATO:0001427](https://bioregistry.io/PATO:0001427), [PATO:0001428](https://bioregistry.io/PATO:0001428), [PATO:0001429](https://bioregistry.io/PATO:0001429), [PATO:0001430](https://bioregistry.io/PATO:0001430) |
 
-## dictionary
+## `dictionary`
 
 | curie                |   usages | nodes                                               |
 |----------------------|----------|-----------------------------------------------------|
 | dictionary:reference |        1 | [PATO:0000389](https://bioregistry.io/PATO:0000389) |
 
-## die.net
+## `die.net`
 
 | curie           |   usages | nodes                                                                                                    |
 |-----------------|----------|----------------------------------------------------------------------------------------------------------|
 | die.net:die.net |        2 | [PATO:0001786](https://bioregistry.io/PATO:0001786), [PATO:0001856](https://bioregistry.io/PATO:0001856) |
 
-## edp
+## `edp`
 
 | curie   |   usages | nodes                                                                                                                                                         |
 |---------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | edp:edp |        3 | [PATO:0001536](https://bioregistry.io/PATO:0001536), [PATO:0001537](https://bioregistry.io/PATO:0001537), [PATO:0001538](https://bioregistry.io/PATO:0001538) |
 
-## freedictionary
+## `freedictionary`
 
 | curie                         |   usages | nodes                                               |
 |-------------------------------|----------|-----------------------------------------------------|
 | freedictionary:freedictionary |        1 | [PATO:0002445](https://bioregistry.io/PATO:0002445) |
 
-## hefreedictionary.com
+## `hefreedictionary.com`
 
 | curie                                     |   usages | nodes                                               |
 |-------------------------------------------|----------|-----------------------------------------------------|
 | hefreedictionary.com:hefreedictionary.com |        1 | [PATO:0001773](https://bioregistry.io/PATO:0001773) |
 
-## hps
+## `hps`
 
 | curie   |   usages | nodes                                               |
 |---------|----------|-----------------------------------------------------|
 | hps:hps |        1 | [PATO:0001744](https://bioregistry.io/PATO:0001744) |
 
-## maths.org
+## `maths.org`
 
 | curie               |   usages | nodes                                               |
 |---------------------|----------|-----------------------------------------------------|
 | maths.org:maths.org |        1 | [PATO:0001053](https://bioregistry.io/PATO:0001053) |
 
-## medical-dictionary
+## `medical-dictionary`
 
 | curie                                                                      |   usages | nodes                                               |
 |----------------------------------------------------------------------------|----------|-----------------------------------------------------|
 | medical-dictionary:medical-dictionary                                      |        1 | [PATO:0001512](https://bioregistry.io/PATO:0001512) |
 | medical-dictionary:http://medical-dictionary.thefreedictionary.com/abaxial |        1 | [PATO:0002046](https://bioregistry.io/PATO:0002046) |
 
-## merriam-webster
+## `merriam-webster`
 
 | curie                                                                    |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |--------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -296,56 +296,56 @@
 | merriam-webster:http://www.merriam-webster.com/dictionary/subovoid       |        1 | [PATO:0002537](https://bioregistry.io/PATO:0002537)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | merriam-webster:http://www.merriam-webster.com/dictionary/concavo-convex |        1 | [PATO:0002538](https://bioregistry.io/PATO:0002538)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-## merriam-webster.
+## `merriam-webster.`
 
 | curie                             |   usages | nodes                                                                                                    |
 |-----------------------------------|----------|----------------------------------------------------------------------------------------------------------|
 | merriam-webster.:merriam-webster. |        2 | [PATO:0001534](https://bioregistry.io/PATO:0001534), [PATO:0001535](https://bioregistry.io/PATO:0001535) |
 
-## merriam-wester
+## `merriam-wester`
 
 | curie                                                            |   usages | nodes                                               |
 |------------------------------------------------------------------|----------|-----------------------------------------------------|
 | merriam-wester:http://www.merriam-webster.com/dictionary/oblique |        1 | [PATO:0002481](https://bioregistry.io/PATO:0002481) |
 
-## mondofacto
+## `mondofacto`
 
 | curie                 |   usages | nodes                                                                                                    |
 |-----------------------|----------|----------------------------------------------------------------------------------------------------------|
 | mondofacto:mondofacto |        2 | [PATO:0002088](https://bioregistry.io/PATO:0002088), [PATO:0002161](https://bioregistry.io/PATO:0002161) |
 
-## mw
+## `mw`
 
 | curie                                                    |   usages | nodes                                               |
 |----------------------------------------------------------|----------|-----------------------------------------------------|
 | mw:http://www.merriam-webster.com/dictionary/indurated   |        1 | [PATO:0002407](https://bioregistry.io/PATO:0002407) |
 | mw:http://www.merriam-webster.com/dictionary/cicatricial |        1 | [PATO:0002421](https://bioregistry.io/PATO:0002421) |
 
-## reference.com
+## `reference.com`
 
 | curie                       |   usages | nodes                                               |
 |-----------------------------|----------|-----------------------------------------------------|
 | reference.com:reference.com |        1 | [PATO:0000082](https://bioregistry.io/PATO:0000082) |
 
-## sdvc
+## `sdvc`
 
 | curie     |   usages | nodes                                               |
 |-----------|----------|-----------------------------------------------------|
 | sdvc:sdvc |        1 | [PATO:0000623](https://bioregistry.io/PATO:0000623) |
 
-## spinalstenosis
+## `spinalstenosis`
 
 | curie                         |   usages | nodes                                               |
 |-------------------------------|----------|-----------------------------------------------------|
 | spinalstenosis:spinalstenosis |        1 | [PATO:0000643](https://bioregistry.io/PATO:0000643) |
 
-## studyphysics
+## `studyphysics`
 
 | curie                     |   usages | nodes                                                                                                    |
 |---------------------------|----------|----------------------------------------------------------------------------------------------------------|
 | studyphysics:studyphysics |        2 | [PATO:0001524](https://bioregistry.io/PATO:0001524), [PATO:0001526](https://bioregistry.io/PATO:0001526) |
 
-## thefreedictionary
+## `thefreedictionary`
 
 | curie                                                           |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-----------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -359,25 +359,25 @@
 | thefreedictionary:http://www.thefreedictionary.com/demyelinated |        1 | [PATO:0002218](https://bioregistry.io/PATO:0002218)                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | thefreedictionary:http://www.thefreedictionary.com/fan-shaped   |        1 | [PATO:0002219](https://bioregistry.io/PATO:0002219)                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-## thefreedictionary.
+## `thefreedictionary.`
 
 | curie                                 |   usages | nodes                                                                                                    |
 |---------------------------------------|----------|----------------------------------------------------------------------------------------------------------|
 | thefreedictionary.:thefreedictionary. |        2 | [PATO:0000462](https://bioregistry.io/PATO:0000462), [PATO:0002165](https://bioregistry.io/PATO:0002165) |
 
-## thesaurus.math
+## `thesaurus.math`
 
 | curie                         |   usages | nodes                                               |
 |-------------------------------|----------|-----------------------------------------------------|
 | thesaurus.math:thesaurus.math |        1 | [PATO:0001321](https://bioregistry.io/PATO:0001321) |
 
-## thesaurus.maths
+## `thesaurus.maths`
 
 | curie                           |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                             |
 |---------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | thesaurus.maths:thesaurus.maths |        7 | [PATO:0000039](https://bioregistry.io/PATO:0000039), [PATO:0000080](https://bioregistry.io/PATO:0000080), [PATO:0001035](https://bioregistry.io/PATO:0001035), [PATO:0001051](https://bioregistry.io/PATO:0001051), [PATO:0001052](https://bioregistry.io/PATO:0001052), [PATO:0001055](https://bioregistry.io/PATO:0001055), [PATO:0001322](https://bioregistry.io/PATO:0001322) |
 
-## url
+## `url`
 
 | curie                                                                        |   usages | nodes                                                                                                                                                         |
 |------------------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -412,7 +412,7 @@
 | url:http://en.wikipedia.org/wiki/Dephosphorylation                           |        1 | [PATO:0002263](https://bioregistry.io/PATO:0002263)                                                                                                           |
 | url:http://en.wikipedia.org/wiki/Iridescence                                 |        1 | [PATO:0002277](https://bioregistry.io/PATO:0002277)                                                                                                           |
 
-## web
+## `web`
 
 | curie                               |   usages | nodes                                               |
 |-------------------------------------|----------|-----------------------------------------------------|
@@ -420,13 +420,13 @@
 | web:www.thefreedictionary.com/      |        1 | [PATO:0001290](https://bioregistry.io/PATO:0001290) |
 | web:http://www.expertglossary.com/  |        1 | [PATO:0002059](https://bioregistry.io/PATO:0002059) |
 
-## wiki
+## `wiki`
 
 | curie                                              |   usages | nodes                                                                                                                                                                                                              |
 |----------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | wiki:http://en.wikipedia.org/wiki/Parity_(biology) |        4 | [PATO:0002369](https://bioregistry.io/PATO:0002369), [PATO:0002370](https://bioregistry.io/PATO:0002370), [PATO:0002371](https://bioregistry.io/PATO:0002371), [PATO:0002372](https://bioregistry.io/PATO:0002372) |
 
-## wiktionary
+## `wiktionary`
 
 | curie                                              |   usages | nodes                                               |
 |----------------------------------------------------|----------|-----------------------------------------------------|
@@ -434,25 +434,25 @@
 | wiktionary:http://en.wiktionary.org/wiki/obconical |        1 | [PATO:0002347](https://bioregistry.io/PATO:0002347) |
 | wiktionary:http://en.wiktionary.org/wiki/fleshy    |        1 | [PATO:0002351](https://bioregistry.io/PATO:0002351) |
 
-## wordnetweb
+## `wordnetweb`
 
 | curie                 |   usages | nodes                                               |
 |-----------------------|----------|-----------------------------------------------------|
 | wordnetweb:wordnetweb |        1 | [PATO:0002426](https://bioregistry.io/PATO:0002426) |
 
-## wordreference
+## `wordreference`
 
 | curie                       |   usages | nodes                                                                                                                                                                                                              |
 |-----------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | wordreference:wordreference |        4 | [PATO:0001875](https://bioregistry.io/PATO:0001875), [PATO:0001936](https://bioregistry.io/PATO:0001936), [PATO:0001945](https://bioregistry.io/PATO:0001945), [PATO:0001955](https://bioregistry.io/PATO:0001955) |
 
-## wordreference.com
+## `wordreference.com`
 
 | curie                               |   usages | nodes                                               |
 |-------------------------------------|----------|-----------------------------------------------------|
 | wordreference.com:wordreference.com |        1 | [PATO:0001822](https://bioregistry.io/PATO:0001822) |
 
-## Image
+## `Image`
 
 | curie                                                                                                |   usages | nodes                                               |
 |------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------|
@@ -465,13 +465,13 @@
 | Image:http://www.thefreedictionary.com/_/viewer.aspx?path=hm&name=A4bicovx                           |        1 | [PATO:0002040](https://bioregistry.io/PATO:0002040) |
 | Image:http://2.bp.blogspot.com/_TbkIC-eqFNM/S66IJ3omNWI/AAAAAAAAFSk/pzThLJPvYZw/s1600/ard-detail.gif |        1 | [PATO:0002534](https://bioregistry.io/PATO:0002534) |
 
-## NLX
+## `NLX`
 
 | curie   |   usages | nodes                                               |
 |---------|----------|-----------------------------------------------------|
 | NLX:378 |        1 | [PATO:0070026](https://bioregistry.io/PATO:0070026) |
 
-## ilxtr
+## `ilxtr`
 
 | curie                              |   usages | nodes                                               |
 |------------------------------------|----------|-----------------------------------------------------|
@@ -492,7 +492,7 @@
 | ilxtr:StarPyramidalPhenotype       |        1 | [PATO:0070020](https://bioregistry.io/PATO:0070020) |
 | ilxtr:InvertedPyramidalPhenotype   |        1 | [PATO:0070021](https://bioregistry.io/PATO:0070021) |
 
-## nifext
+## `nifext`
 
 | curie    |   usages | nodes                                               |
 |----------|----------|-----------------------------------------------------|

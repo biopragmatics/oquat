@@ -134,24 +134,12 @@
         "BSA": {
           "http://purl.obolibrary.org/obo/PLANA_0000240": "BSA:0000058"
         },
-        "DHBA": {
-          "http://purl.obolibrary.org/obo/PLANA_0000459": "DHBA:10644"
-        },
-        "DMBA": {
-          "http://purl.obolibrary.org/obo/PLANA_0000459": "DMBA:17783"
-        },
         "GAID": {
           "http://purl.obolibrary.org/obo/PLANA_0000459": "GAID:832",
           "http://purl.obolibrary.org/obo/PLANA_0000470": "GAID:740"
         },
         "GOC": {
           "http://purl.obolibrary.org/obo/PLANA_0000137": "GOC:pr"
-        },
-        "HBA": {
-          "http://purl.obolibrary.org/obo/PLANA_0000459": "HBA:9310"
-        },
-        "MBA": {
-          "http://purl.obolibrary.org/obo/PLANA_0000459": "MBA:117"
         },
         "NIF": {
           "http://purl.obolibrary.org/obo/PLANA_0000470": "NIF:Subcellular:sao205380252"

@@ -1,19 +1,19 @@
 # maxo
 
-## GeneReviews
+## `GeneReviews`
 
 | curie              |   usages | nodes                                               |
 |--------------------|----------|-----------------------------------------------------|
 | GeneReviews:NBK331 |        1 | [MAXO:0000488](https://bioregistry.io/MAXO:0000488) |
 
-## NCBI
+## `NCBI`
 
 | curie          |   usages | nodes                                               |
 |----------------|----------|-----------------------------------------------------|
 | NCBI:NBK553097 |        1 | [MAXO:0000766](https://bioregistry.io/MAXO:0000766) |
 | NCBI:NBK537084 |        1 | [MAXO:0000770](https://bioregistry.io/MAXO:0000770) |
 
-## GeneReveiws
+## `GeneReveiws`
 
 | curie              |   usages | nodes                                               |
 |--------------------|----------|-----------------------------------------------------|

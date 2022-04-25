@@ -13,9 +13,11 @@ co_360 has an unhanded suffix in its OWL URL: http://www.cropontology.org/ontolo
 co_366 has an unhanded suffix in its OWL URL: http://www.cropontology.org/ontology/CO_366/Bambara%20groundnut/owl
 cob None of the URIs could be parsed
 covoc missing graph ID
+dinto missing graph ID
 edam None of the URIs could be parsed
 eo None of the URIs could be parsed
 eol missing graph ID
+ero missing graph ID
 flu None of the URIs could be parsed
 fovt None of the URIs could be parsed
 genepio None of the URIs could be parsed
@@ -23,7 +25,9 @@ gorel None of the URIs could be parsed
 icepo None of the URIs could be parsed
 ico None of the URIs could be parsed
 idocovid19 missing graph ID
+mfo missing graph ID
 mirnao None of the URIs could be parsed
+mo missing graph ID
 obcs None of the URIs could be parsed
 ogi None of the URIs could be parsed
 omiabis None of the URIs could be parsed
@@ -37,5 +41,6 @@ sep None of the URIs could be parsed
 snomedct has an unhanded suffix in its OWL URL: http://snomed.info/sct/900000000000207008/version/20200131
 sweetrealm None of the URIs could be parsed
 swo None of the URIs could be parsed
+symp None of the URIs could be parsed
 vido missing graph ID
 xl missing graph ID

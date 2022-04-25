@@ -1,57 +1,57 @@
 # uberon
 
-## AOO
+## `AOO`
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | AOO:LAP |        1 | [UBERON:3000406](https://bioregistry.io/UBERON:3000406) |
 
-## ASD
+## `ASD`
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | ASD:BJB |        1 | [UBERON:3010449](https://bioregistry.io/UBERON:3010449) |
 
-## BGEE
+## `BGEE`
 
 | curie          |   usages | nodes                                                                                                            |
 |----------------|----------|------------------------------------------------------------------------------------------------------------------|
 | BGEE:ANiknejad |        2 | [UBERON:0005998](https://bioregistry.io/UBERON:0005998), [UBERON:0014854](https://bioregistry.io/UBERON:0014854) |
 | BGEE:ANN       |        1 | [UBERON:0003929](https://bioregistry.io/UBERON:0003929)                                                          |
 
-## BRAINSPAN
+## `BRAINSPAN`
 
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                                                                                |
 |---------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | BRAINSPAN:BRAINSPAN |        6 | [UBERON:0001950](https://bioregistry.io/UBERON:0001950), [UBERON:0004035](https://bioregistry.io/UBERON:0004035), [UBERON:0004040](https://bioregistry.io/UBERON:0004040), [UBERON:0005343](https://bioregistry.io/UBERON:0005343), [UBERON:0014935](https://bioregistry.io/UBERON:0014935), [UBERON:0014940](https://bioregistry.io/UBERON:0014940) |
 
-## Bgee
+## `Bgee`
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                       |
 |---------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Bgee:AN |        5 | [UBERON:0018241](https://bioregistry.io/UBERON:0018241), [UBERON:0018685](https://bioregistry.io/UBERON:0018685), [UBERON:0034919](https://bioregistry.io/UBERON:0034919), [UBERON:0034920](https://bioregistry.io/UBERON:0034920), [UBERON:0035602](https://bioregistry.io/UBERON:0035602) |
 
-## BrainInfo
+## `BrainInfo`
 
 | curie          |   usages | nodes                                                   |
 |----------------|----------|---------------------------------------------------------|
 | BrainInfo:512  |        1 | [UBERON:0002043](https://bioregistry.io/UBERON:0002043) |
 | BrainInfo:2102 |        1 | [UBERON:0002436](https://bioregistry.io/UBERON:0002436) |
 
-## FBC
+## `FBC`
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | FBC:DOS |       15 | [UBERON:6000128](https://bioregistry.io/UBERON:6000128), [UBERON:6001055](https://bioregistry.io/UBERON:6001055), [UBERON:6001056](https://bioregistry.io/UBERON:6001056), [UBERON:6001059](https://bioregistry.io/UBERON:6001059), [UBERON:6004203](https://bioregistry.io/UBERON:6004203), [UBERON:6005037](https://bioregistry.io/UBERON:6005037), [UBERON:6005434](https://bioregistry.io/UBERON:6005434), [UBERON:6005436](https://bioregistry.io/UBERON:6005436), [UBERON:6005439](https://bioregistry.io/UBERON:6005439), [UBERON:6005514](https://bioregistry.io/UBERON:6005514), [UBERON:6005533](https://bioregistry.io/UBERON:6005533), [UBERON:6005541](https://bioregistry.io/UBERON:6005541), [UBERON:6005558](https://bioregistry.io/UBERON:6005558), [UBERON:6005569](https://bioregistry.io/UBERON:6005569), [UBERON:6005830](https://bioregistry.io/UBERON:6005830), ... |
 
-## FEED
+## `FEED`
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |-----------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | FEED:FEED |       12 | [UBERON:0006328](https://bioregistry.io/UBERON:0006328), [UBERON:0010939](https://bioregistry.io/UBERON:0010939), [UBERON:0010943](https://bioregistry.io/UBERON:0010943), [UBERON:0010944](https://bioregistry.io/UBERON:0010944), [UBERON:0010954](https://bioregistry.io/UBERON:0010954), [UBERON:0010995](https://bioregistry.io/UBERON:0010995), [UBERON:0011025](https://bioregistry.io/UBERON:0011025), [UBERON:0011140](https://bioregistry.io/UBERON:0011140), [UBERON:0011308](https://bioregistry.io/UBERON:0011308), [UBERON:0011313](https://bioregistry.io/UBERON:0011313), [UBERON:0011314](https://bioregistry.io/UBERON:0011314), [UBERON:0011315](https://bioregistry.io/UBERON:0011315) |
 | FEED:rd   |        1 | [UBERON:0006719](https://bioregistry.io/UBERON:0006719)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-## GAID
+## `GAID`
 
 | curie        |   usages | nodes                                                                                                            |
 |--------------|----------|------------------------------------------------------------------------------------------------------------------|
@@ -827,7 +827,7 @@
 | GAID:929     |        1 | [UBERON:0011818](https://bioregistry.io/UBERON:0011818)                                                          |
 | GAID:141     |        1 | [UBERON:0014892](https://bioregistry.io/UBERON:0014892)                                                          |
 
-## GOC
+## `GOC`
 
 | curie                |   usages | nodes                                                                                                            |
 |----------------------|----------|------------------------------------------------------------------------------------------------------------------|
@@ -836,31 +836,31 @@
 | GOC:dph              |        1 | [UBERON:0002450](https://bioregistry.io/UBERON:0002450)                                                          |
 | GOC:mtg_heart        |        1 | [UBERON:0004490](https://bioregistry.io/UBERON:0004490)                                                          |
 
-## ID
+## `ID`
 
 | curie         |   usages | nodes                                                   |
 |---------------|----------|---------------------------------------------------------|
 | ID:KFC0000604 |        1 | [UBERON:0011605](https://bioregistry.io/UBERON:0011605) |
 
-## INCF
+## `INCF`
 
 | curie                 |   usages | nodes                                                   |
 |-----------------------|----------|---------------------------------------------------------|
 | INCF:Seattle_mtg_2010 |        1 | [UBERON:0001880](https://bioregistry.io/UBERON:0001880) |
 
-## ISBM10
+## `ISBM10`
 
 | curie             |   usages | nodes                                                   |
 |-------------------|----------|---------------------------------------------------------|
 | ISBM10:0120885522 |        1 | [UBERON:0013188](https://bioregistry.io/UBERON:0013188) |
 
-## ISBM13
+## `ISBM13`
 
 | curie                 |   usages | nodes                                                   |
 |-----------------------|----------|---------------------------------------------------------|
 | ISBM13:978-0226870137 |        1 | [UBERON:0017643](https://bioregistry.io/UBERON:0017643) |
 
-## J
+## `J`
 
 | curie    |   usages | nodes                                                   |
 |----------|----------|---------------------------------------------------------|
@@ -868,13 +868,13 @@
 | J:97123  |        1 | [UBERON:0003604](https://bioregistry.io/UBERON:0003604) |
 | J:117841 |        1 | [UBERON:0015171](https://bioregistry.io/UBERON:0015171) |
 
-## JB
+## `JB`
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | JB:def  |        1 | [UBERON:0004706](https://bioregistry.io/UBERON:0004706) |
 
-## LG
+## `LG`
 
 | curie      |   usages | nodes                                                   |
 |------------|----------|---------------------------------------------------------|
@@ -890,26 +890,26 @@
 | LG:0012672 |        1 | [UBERON:0004900](https://bioregistry.io/UBERON:0004900) |
 | LG:0012681 |        1 | [UBERON:0004901](https://bioregistry.io/UBERON:0004901) |
 
-## MURDOCH
+## `MURDOCH`
 
 | curie        |   usages | nodes                                                   |
 |--------------|----------|---------------------------------------------------------|
 | MURDOCH:2183 |        1 | [UBERON:0011472](https://bioregistry.io/UBERON:0011472) |
 | MURDOCH:240  |        1 | [UBERON:0034767](https://bioregistry.io/UBERON:0034767) |
 
-## MorphoBank
+## `MorphoBank`
 
 | curie                 |   usages | nodes                                                   |
 |-----------------------|----------|---------------------------------------------------------|
 | MorphoBank:MorphoBank |        1 | [UBERON:0013637](https://bioregistry.io/UBERON:0013637) |
 
-## NCBI
+## `NCBI`
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
 | NCBI:matt |        1 | [UBERON:0001471](https://bioregistry.io/UBERON:0001471) |
 
-## NIFSTD
+## `NIFSTD`
 
 | curie                                           |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |-------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -920,7 +920,7 @@
 | NIFSTD:Paxinos-Franklin-mouse-2001_abbrevSource |        1 | [UBERON:0002701](https://bioregistry.io/UBERON:0002701)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | NIFSTD:oen_0001107                              |        1 | [UBERON:0035015](https://bioregistry.io/UBERON:0035015)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-## NIF_Subcellular
+## `NIF_Subcellular`
 
 | curie                                |   usages | nodes                                                   |
 |--------------------------------------|----------|---------------------------------------------------------|
@@ -937,7 +937,7 @@
 | NIF_Subcellular:FMA_83606            |        1 | [UBERON:0012456](https://bioregistry.io/UBERON:0012456) |
 | NIF_Subcellular:nlx_subcell_100209   |        1 | [UBERON:0018687](https://bioregistry.io/UBERON:0018687) |
 
-## NLX
+## `NLX`
 
 | curie      |   usages | nodes                                                   |
 |------------|----------|---------------------------------------------------------|
@@ -1054,7 +1054,7 @@
 | NLX:91101  |        1 | [UBERON:0036007](https://bioregistry.io/UBERON:0036007) |
 | NLX:144476 |        1 | [UBERON:0036012](https://bioregistry.io/UBERON:0036012) |
 
-## OBOL
+## `OBOL`
 
 | curie            |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1062,13 +1062,13 @@
 | OBOL:accepted    |       98 | [UBERON:0000020](https://bioregistry.io/UBERON:0000020), [UBERON:0001463](https://bioregistry.io/UBERON:0001463), [UBERON:0003522](https://bioregistry.io/UBERON:0003522), [UBERON:0003578](https://bioregistry.io/UBERON:0003578), [UBERON:0003597](https://bioregistry.io/UBERON:0003597), [UBERON:0003620](https://bioregistry.io/UBERON:0003620), [UBERON:0003622](https://bioregistry.io/UBERON:0003622), [UBERON:0003623](https://bioregistry.io/UBERON:0003623), [UBERON:0003624](https://bioregistry.io/UBERON:0003624), [UBERON:0003625](https://bioregistry.io/UBERON:0003625), [UBERON:0003631](https://bioregistry.io/UBERON:0003631), [UBERON:0003632](https://bioregistry.io/UBERON:0003632), [UBERON:0003633](https://bioregistry.io/UBERON:0003633), [UBERON:0003634](https://bioregistry.io/UBERON:0003634), [UBERON:0003635](https://bioregistry.io/UBERON:0003635), ... |
 | OBOL:exploratory |        1 | [UBERON:0003661](https://bioregistry.io/UBERON:0003661)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-## OMD
+## `OMD`
 
 | curie            |   usages | nodes                                                   |
 |------------------|----------|---------------------------------------------------------|
 | OMD:neural+plate |        1 | [UBERON:0003075](https://bioregistry.io/UBERON:0003075) |
 
-## OldNeuroNames
+## `OldNeuroNames`
 
 | curie                     |   usages | nodes                                                   |
 |---------------------------|----------|---------------------------------------------------------|
@@ -1081,13 +1081,13 @@
 | OldNeuroNames:2049637081  |        1 | [UBERON:0013545](https://bioregistry.io/UBERON:0013545) |
 | OldNeuroNames:2276        |        1 | [UBERON:0014284](https://bioregistry.io/UBERON:0014284) |
 
-## PATOC
+## `PATOC`
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
 | PATOC:MAH |        1 | [UBERON:0005160](https://bioregistry.io/UBERON:0005160) |
 
-## PHENOSCAPE
+## `PHENOSCAPE`
 
 | curie         |   usages | nodes                                                                                                                                                                                                                                                                                                                                                |
 |---------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1097,31 +1097,31 @@
 | PHENOSCAPE:NI |        2 | [UBERON:4200021](https://bioregistry.io/UBERON:4200021), [UBERON:4200025](https://bioregistry.io/UBERON:4200025)                                                                                                                                                                                                                                     |
 | PHENOSCAPE:AD |        1 | [UBERON:4200011](https://bioregistry.io/UBERON:4200011)                                                                                                                                                                                                                                                                                              |
 
-## PLB
+## `PLB`
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | PLB:plb |        1 | [UBERON:0013730](https://bioregistry.io/UBERON:0013730) |
 
-## Phenoscape
+## `Phenoscape`
 
 | curie         |   usages | nodes                                                   |
 |---------------|----------|---------------------------------------------------------|
 | Phenoscape:DB |        1 | [UBERON:3010831](https://bioregistry.io/UBERON:3010831) |
 
-## PhenoscapeRCN
+## `PhenoscapeRCN`
 
 | curie                 |   usages | nodes                                                                                                                                                                     |
 |-----------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | PhenoscapeRCN:Oct2012 |        3 | [UBERON:0012260](https://bioregistry.io/UBERON:0012260), [UBERON:0012261](https://bioregistry.io/UBERON:0012261), [UBERON:0012262](https://bioregistry.io/UBERON:0012262) |
 
-## Renal_Physiology
+## `Renal_Physiology`
 
 | curie                      |   usages | nodes                                                   |
 |----------------------------|----------|---------------------------------------------------------|
 | Renal_Physiology:Section_7 |        1 | [UBERON:0008404](https://bioregistry.io/UBERON:0008404) |
 
-## UBERONREF
+## `UBERONREF`
 
 | curie             |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                         |
 |-------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1129,37 +1129,37 @@
 | UBERONREF:0000007 |        2 | [UBERON:0003113](https://bioregistry.io/UBERON:0003113), [UBERON:0008895](https://bioregistry.io/UBERON:0008895)                                                                                                                                                                                                                                                                                              |
 | UBERONREF:0000006 |        1 | [UBERON:0006076](https://bioregistry.io/UBERON:0006076)                                                                                                                                                                                                                                                                                                                                                       |
 
-## WA
+## `WA`
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | WA:dh   |        1 | [UBERON:0003049](https://bioregistry.io/UBERON:0003049) |
 
-## WikipediaVersioned
+## `WikipediaVersioned`
 
 | curie                                                     |   usages | nodes                                                   |
 |-----------------------------------------------------------|----------|---------------------------------------------------------|
 | WikipediaVersioned:Duodenojejunal_flexure&oldid=937307798 |        1 | [UBERON:8410000](https://bioregistry.io/UBERON:8410000) |
 
-## XB
+## `XB`
 
 | curie      |   usages | nodes                                                                                                                                                                                                                                                                                       |
 |------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | XB:curator |        5 | [UBERON:0003056](https://bioregistry.io/UBERON:0003056), [UBERON:0003057](https://bioregistry.io/UBERON:0003057), [UBERON:0003089](https://bioregistry.io/UBERON:0003089), [UBERON:0005892](https://bioregistry.io/UBERON:0005892), [UBERON:0010075](https://bioregistry.io/UBERON:0010075) |
 
-## bgee
+## `bgee`
 
 | curie    |   usages | nodes                                                   |
 |----------|----------|---------------------------------------------------------|
 | bgee:ANN |        1 | [UBERON:0036219](https://bioregistry.io/UBERON:0036219) |
 
-## ref
+## `ref`
 
 | curie        |   usages | nodes                                                   |
 |--------------|----------|---------------------------------------------------------|
 | ref:Stedmans |        1 | [UBERON:0004870](https://bioregistry.io/UBERON:0004870) |
 
-## ABA
+## `ABA`
 
 | curie       |   usages | nodes                                                   |
 |-------------|----------|---------------------------------------------------------|
@@ -1173,7 +1173,7 @@
 | ABA:CTX5    |        1 | [UBERON:0005394](https://bioregistry.io/UBERON:0005394) |
 | ABA:CTX6    |        1 | [UBERON:0005395](https://bioregistry.io/UBERON:0005395) |
 
-## BM
+## `BM`
 
 | curie             |   usages | nodes                                                                                                            |
 |-------------------|----------|------------------------------------------------------------------------------------------------------------------|
@@ -1417,25 +1417,25 @@
 | BM:Tel-Cx-Te      |        1 | [UBERON:0016538](https://bioregistry.io/UBERON:0016538)                                                          |
 | BM:Tel-Cx-Ins     |        1 | [UBERON:0034891](https://bioregistry.io/UBERON:0034891)                                                          |
 
-## BioMart
+## `BioMart`
 
 | curie           |   usages | nodes                                                   |
 |-----------------|----------|---------------------------------------------------------|
 | BioMart:BioMart |        1 | [UBERON:0000363](https://bioregistry.io/UBERON:0000363) |
 
-## CHECKME
+## `CHECKME`
 
 | curie           |   usages | nodes                                                   |
 |-----------------|----------|---------------------------------------------------------|
 | CHECKME:CHECKME |        1 | [UBERON:0003997](https://bioregistry.io/UBERON:0003997) |
 
-## CUMBO
+## `CUMBO`
 
 | curie       |   usages | nodes                                                                                                            |
 |-------------|----------|------------------------------------------------------------------------------------------------------------------|
 | CUMBO:CUMBO |        2 | [UBERON:0001020](https://bioregistry.io/UBERON:0001020), [UBERON:0022303](https://bioregistry.io/UBERON:0022303) |
 
-## DHB
+## `DHB`
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
@@ -1443,2289 +1443,80 @@
 | DHB:OFC |        1 | [UBERON:0004167](https://bioregistry.io/UBERON:0004167) |
 | DHB:URL |        1 | [UBERON:0009841](https://bioregistry.io/UBERON:0009841) |
 
-## DHBA
-
-| curie          |   usages | nodes                                                                                                            |
-|----------------|----------|------------------------------------------------------------------------------------------------------------------|
-| DHBA:10426     |        2 | [UBERON:0002596](https://bioregistry.io/UBERON:0002596), [UBERON:0002939](https://bioregistry.io/UBERON:0002939) |
-| DHBA:10505     |        1 | [UBERON:0000007](https://bioregistry.io/UBERON:0000007)                                                          |
-| DHBA:10576     |        1 | [UBERON:0000052](https://bioregistry.io/UBERON:0000052)                                                          |
-| DHBA:12420     |        1 | [UBERON:0000127](https://bioregistry.io/UBERON:0000127)                                                          |
-| DHBA:12027     |        1 | [UBERON:0000373](https://bioregistry.io/UBERON:0000373)                                                          |
-| DHBA:13057     |        1 | [UBERON:0000432](https://bioregistry.io/UBERON:0000432)                                                          |
-| DHBA:10493     |        1 | [UBERON:0000435](https://bioregistry.io/UBERON:0000435)                                                          |
-| DHBA:10172     |        1 | [UBERON:0000451](https://bioregistry.io/UBERON:0000451)                                                          |
-| DHBA:10560     |        1 | [UBERON:0000908](https://bioregistry.io/UBERON:0000908)                                                          |
-| DHBA:10559     |        1 | [UBERON:0000935](https://bioregistry.io/UBERON:0000935)                                                          |
-| DHBA:10567     |        1 | [UBERON:0000936](https://bioregistry.io/UBERON:0000936)                                                          |
-| DHBA:15544     |        1 | [UBERON:0000941](https://bioregistry.io/UBERON:0000941)                                                          |
-| DHBA:10155     |        1 | [UBERON:0000955](https://bioregistry.io/UBERON:0000955)                                                          |
-| DHBA:10159     |        1 | [UBERON:0000956](https://bioregistry.io/UBERON:0000956)                                                          |
-| DHBA:10644     |        1 | [UBERON:0000959](https://bioregistry.io/UBERON:0000959)                                                          |
-| DHBA:10661     |        1 | [UBERON:0000988](https://bioregistry.io/UBERON:0000988)                                                          |
-| DHBA:10154     |        1 | [UBERON:0001049](https://bioregistry.io/UBERON:0001049)                                                          |
-| DHBA:10162     |        1 | [UBERON:0001384](https://bioregistry.io/UBERON:0001384)                                                          |
-| DHBA:12864     |        1 | [UBERON:0001699](https://bioregistry.io/UBERON:0001699)                                                          |
-| DHBA:12198     |        1 | [UBERON:0001715](https://bioregistry.io/UBERON:0001715)                                                          |
-| DHBA:12572     |        1 | [UBERON:0001717](https://bioregistry.io/UBERON:0001717)                                                          |
-| DHBA:12208     |        1 | [UBERON:0001718](https://bioregistry.io/UBERON:0001718)                                                          |
-| DHBA:12540     |        1 | [UBERON:0001719](https://bioregistry.io/UBERON:0001719)                                                          |
-| DHBA:12581     |        1 | [UBERON:0001722](https://bioregistry.io/UBERON:0001722)                                                          |
-| DHBA:10161     |        1 | [UBERON:0001870](https://bioregistry.io/UBERON:0001870)                                                          |
-| DHBA:12139     |        1 | [UBERON:0001871](https://bioregistry.io/UBERON:0001871)                                                          |
-| DHBA:12131     |        1 | [UBERON:0001872](https://bioregistry.io/UBERON:0001872)                                                          |
-| DHBA:10334     |        1 | [UBERON:0001873](https://bioregistry.io/UBERON:0001873)                                                          |
-| DHBA:10338     |        1 | [UBERON:0001874](https://bioregistry.io/UBERON:0001874)                                                          |
-| DHBA:10342     |        1 | [UBERON:0001875](https://bioregistry.io/UBERON:0001875)                                                          |
-| DHBA:10361     |        1 | [UBERON:0001876](https://bioregistry.io/UBERON:0001876)                                                          |
-| DHBA:10351     |        1 | [UBERON:0001877](https://bioregistry.io/UBERON:0001877)                                                          |
-| DHBA:13032     |        1 | [UBERON:0001878](https://bioregistry.io/UBERON:0001878)                                                          |
-| DHBA:10354     |        1 | [UBERON:0001879](https://bioregistry.io/UBERON:0001879)                                                          |
-| DHBA:10384     |        1 | [UBERON:0001880](https://bioregistry.io/UBERON:0001880)                                                          |
-| DHBA:10358     |        1 | [UBERON:0001881](https://bioregistry.io/UBERON:0001881)                                                          |
-| DHBA:10339     |        1 | [UBERON:0001882](https://bioregistry.io/UBERON:0001882)                                                          |
-| DHBA:10310     |        1 | [UBERON:0001883](https://bioregistry.io/UBERON:0001883)                                                          |
-| DHBA:10295     |        1 | [UBERON:0001885](https://bioregistry.io/UBERON:0001885)                                                          |
-| DHBA:10581     |        1 | [UBERON:0001887](https://bioregistry.io/UBERON:0001887)                                                          |
-| DHBA:12075     |        1 | [UBERON:0001888](https://bioregistry.io/UBERON:0001888)                                                          |
-| DHBA:10156     |        1 | [UBERON:0001890](https://bioregistry.io/UBERON:0001890)                                                          |
-| DHBA:10648     |        1 | [UBERON:0001891](https://bioregistry.io/UBERON:0001891)                                                          |
-| DHBA:12664     |        1 | [UBERON:0001892](https://bioregistry.io/UBERON:0001892)                                                          |
-| DHBA:10158     |        1 | [UBERON:0001893](https://bioregistry.io/UBERON:0001893)                                                          |
-| DHBA:10389     |        1 | [UBERON:0001894](https://bioregistry.io/UBERON:0001894)                                                          |
-| DHBA:10655     |        1 | [UBERON:0001895](https://bioregistry.io/UBERON:0001895)                                                          |
-| DHBA:10390     |        1 | [UBERON:0001897](https://bioregistry.io/UBERON:0001897)                                                          |
-| DHBA:10467     |        1 | [UBERON:0001898](https://bioregistry.io/UBERON:0001898)                                                          |
-| DHBA:10451     |        1 | [UBERON:0001899](https://bioregistry.io/UBERON:0001899)                                                          |
-| DHBA:10461     |        1 | [UBERON:0001900](https://bioregistry.io/UBERON:0001900)                                                          |
-| DHBA:10464     |        1 | [UBERON:0001903](https://bioregistry.io/UBERON:0001903)                                                          |
-| DHBA:10460     |        1 | [UBERON:0001905](https://bioregistry.io/UBERON:0001905)                                                          |
-| DHBA:10466     |        1 | [UBERON:0001906](https://bioregistry.io/UBERON:0001906)                                                          |
-| DHBA:10463     |        1 | [UBERON:0001907](https://bioregistry.io/UBERON:0001907)                                                          |
-| DHBA:10589     |        1 | [UBERON:0001908](https://bioregistry.io/UBERON:0001908)                                                          |
-| DHBA:10566     |        1 | [UBERON:0001909](https://bioregistry.io/UBERON:0001909)                                                          |
-| DHBA:10587     |        1 | [UBERON:0001910](https://bioregistry.io/UBERON:0001910)                                                          |
-| DHBA:10457     |        1 | [UBERON:0001920](https://bioregistry.io/UBERON:0001920)                                                          |
-| DHBA:10403     |        1 | [UBERON:0001921](https://bioregistry.io/UBERON:0001921)                                                          |
-| DHBA:10450     |        1 | [UBERON:0001922](https://bioregistry.io/UBERON:0001922)                                                          |
-| DHBA:10445     |        1 | [UBERON:0001923](https://bioregistry.io/UBERON:0001923)                                                          |
-| DHBA:10446     |        1 | [UBERON:0001924](https://bioregistry.io/UBERON:0001924)                                                          |
-| DHBA:10420     |        1 | [UBERON:0001925](https://bioregistry.io/UBERON:0001925)                                                          |
-| DHBA:10429     |        1 | [UBERON:0001926](https://bioregistry.io/UBERON:0001926)                                                          |
-| DHBA:10434     |        1 | [UBERON:0001927](https://bioregistry.io/UBERON:0001927)                                                          |
-| DHBA:10481     |        1 | [UBERON:0001929](https://bioregistry.io/UBERON:0001929)                                                          |
-| DHBA:10476     |        1 | [UBERON:0001930](https://bioregistry.io/UBERON:0001930)                                                          |
-| DHBA:10471     |        1 | [UBERON:0001931](https://bioregistry.io/UBERON:0001931)                                                          |
-| DHBA:10492     |        1 | [UBERON:0001932](https://bioregistry.io/UBERON:0001932)                                                          |
-| DHBA:10485     |        1 | [UBERON:0001934](https://bioregistry.io/UBERON:0001934)                                                          |
-| DHBA:10488     |        1 | [UBERON:0001935](https://bioregistry.io/UBERON:0001935)                                                          |
-| DHBA:10496     |        1 | [UBERON:0001936](https://bioregistry.io/UBERON:0001936)                                                          |
-| DHBA:10502     |        1 | [UBERON:0001938](https://bioregistry.io/UBERON:0001938)                                                          |
-| DHBA:10499     |        1 | [UBERON:0001939](https://bioregistry.io/UBERON:0001939)                                                          |
-| DHBA:10497     |        1 | [UBERON:0001940](https://bioregistry.io/UBERON:0001940)                                                          |
-| DHBA:10453     |        1 | [UBERON:0001941](https://bioregistry.io/UBERON:0001941)                                                          |
-| DHBA:10456     |        1 | [UBERON:0001942](https://bioregistry.io/UBERON:0001942)                                                          |
-| DHBA:12195     |        1 | [UBERON:0001943](https://bioregistry.io/UBERON:0001943)                                                          |
-| DHBA:12181     |        1 | [UBERON:0001944](https://bioregistry.io/UBERON:0001944)                                                          |
-| DHBA:12292     |        1 | [UBERON:0001945](https://bioregistry.io/UBERON:0001945)                                                          |
-| DHBA:12305     |        1 | [UBERON:0001946](https://bioregistry.io/UBERON:0001946)                                                          |
-| DHBA:12247     |        1 | [UBERON:0001947](https://bioregistry.io/UBERON:0001947)                                                          |
-| DHBA:10160     |        1 | [UBERON:0001950](https://bioregistry.io/UBERON:0001950)                                                          |
-| DHBA:10315     |        1 | [UBERON:0001953](https://bioregistry.io/UBERON:0001953)                                                          |
-| DHBA:10296     |        1 | [UBERON:0001954](https://bioregistry.io/UBERON:0001954)                                                          |
-| DHBA:12252     |        1 | [UBERON:0001965](https://bioregistry.io/UBERON:0001965)                                                          |
-| DHBA:12259     |        1 | [UBERON:0001966](https://bioregistry.io/UBERON:0001966)                                                          |
-| DHBA:12148     |        1 | [UBERON:0002021](https://bioregistry.io/UBERON:0002021)                                                          |
-| DHBA:12176     |        1 | [UBERON:0002022](https://bioregistry.io/UBERON:0002022)                                                          |
-| DHBA:10346     |        1 | [UBERON:0002023](https://bioregistry.io/UBERON:0002023)                                                          |
-| DHBA:10653     |        1 | [UBERON:0002028](https://bioregistry.io/UBERON:0002028)                                                          |
-| DHBA:10480     |        1 | [UBERON:0002034](https://bioregistry.io/UBERON:0002034)                                                          |
-| DHBA:10470     |        1 | [UBERON:0002035](https://bioregistry.io/UBERON:0002035)                                                          |
-| DHBA:10656     |        1 | [UBERON:0002037](https://bioregistry.io/UBERON:0002037)                                                          |
-| DHBA:12251     |        1 | [UBERON:0002038](https://bioregistry.io/UBERON:0002038)                                                          |
-| DHBA:12223     |        1 | [UBERON:0002043](https://bioregistry.io/UBERON:0002043)                                                          |
-| DHBA:12218     |        1 | [UBERON:0002044](https://bioregistry.io/UBERON:0002044)                                                          |
-| DHBA:12589     |        1 | [UBERON:0002045](https://bioregistry.io/UBERON:0002045)                                                          |
-| DHBA:12471     |        1 | [UBERON:0002047](https://bioregistry.io/UBERON:0002047)                                                          |
-| DHBA:12600     |        1 | [UBERON:0002127](https://bioregistry.io/UBERON:0002127)                                                          |
-| DHBA:12462     |        1 | [UBERON:0002128](https://bioregistry.io/UBERON:0002128)                                                          |
-| DHBA:10657     |        1 | [UBERON:0002129](https://bioregistry.io/UBERON:0002129)                                                          |
-| DHBA:10660     |        1 | [UBERON:0002130](https://bioregistry.io/UBERON:0002130)                                                          |
-| DHBA:12838     |        1 | [UBERON:0002131](https://bioregistry.io/UBERON:0002131)                                                          |
-| DHBA:12101     |        1 | [UBERON:0002139](https://bioregistry.io/UBERON:0002139)                                                          |
-| DHBA:12312     |        1 | [UBERON:0002140](https://bioregistry.io/UBERON:0002140)                                                          |
-| DHBA:12219     |        1 | [UBERON:0002141](https://bioregistry.io/UBERON:0002141)                                                          |
-| DHBA:12413     |        1 | [UBERON:0002142](https://bioregistry.io/UBERON:0002142)                                                          |
-| DHBA:12508     |        1 | [UBERON:0002143](https://bioregistry.io/UBERON:0002143)                                                          |
-| DHBA:12285     |        1 | [UBERON:0002144](https://bioregistry.io/UBERON:0002144)                                                          |
-| DHBA:12270     |        1 | [UBERON:0002145](https://bioregistry.io/UBERON:0002145)                                                          |
-| DHBA:12497     |        1 | [UBERON:0002147](https://bioregistry.io/UBERON:0002147)                                                          |
-| DHBA:12819     |        1 | [UBERON:0002148](https://bioregistry.io/UBERON:0002148)                                                          |
-| DHBA:12435     |        1 | [UBERON:0002149](https://bioregistry.io/UBERON:0002149)                                                          |
-| DHBA:12354     |        1 | [UBERON:0002150](https://bioregistry.io/UBERON:0002150)                                                          |
-| DHBA:12406     |        1 | [UBERON:0002151](https://bioregistry.io/UBERON:0002151)                                                          |
-| DHBA:12768     |        1 | [UBERON:0002152](https://bioregistry.io/UBERON:0002152)                                                          |
-| DHBA:12402     |        1 | [UBERON:0002153](https://bioregistry.io/UBERON:0002153)                                                          |
-| DHBA:12625     |        1 | [UBERON:0002155](https://bioregistry.io/UBERON:0002155)                                                          |
-| DHBA:12642     |        1 | [UBERON:0002156](https://bioregistry.io/UBERON:0002156)                                                          |
-| DHBA:12644     |        1 | [UBERON:0002157](https://bioregistry.io/UBERON:0002157)                                                          |
-| DHBA:12610     |        1 | [UBERON:0002158](https://bioregistry.io/UBERON:0002158)                                                          |
-| DHBA:12605     |        1 | [UBERON:0002159](https://bioregistry.io/UBERON:0002159)                                                          |
-| DHBA:12615     |        1 | [UBERON:0002160](https://bioregistry.io/UBERON:0002160)                                                          |
-| DHBA:12592     |        1 | [UBERON:0002161](https://bioregistry.io/UBERON:0002161)                                                          |
-| DHBA:12807     |        1 | [UBERON:0002162](https://bioregistry.io/UBERON:0002162)                                                          |
-| DHBA:12741     |        1 | [UBERON:0002163](https://bioregistry.io/UBERON:0002163)                                                          |
-| DHBA:12791     |        1 | [UBERON:0002164](https://bioregistry.io/UBERON:0002164)                                                          |
-| DHBA:10301     |        1 | [UBERON:0002191](https://bioregistry.io/UBERON:0002191)                                                          |
-| DHBA:12094     |        1 | [UBERON:0002192](https://bioregistry.io/UBERON:0002192)                                                          |
-| DHBA:13338     |        1 | [UBERON:0002197](https://bioregistry.io/UBERON:0002197)                                                          |
-| DHBA:15546     |        1 | [UBERON:0002206](https://bioregistry.io/UBERON:0002206)                                                          |
-| DHBA:12104     |        1 | [UBERON:0002219](https://bioregistry.io/UBERON:0002219)                                                          |
-| DHBA:12890     |        1 | [UBERON:0002240](https://bioregistry.io/UBERON:0002240)                                                          |
-| DHBA:10659     |        1 | [UBERON:0002245](https://bioregistry.io/UBERON:0002245)                                                          |
-| DHBA:12375     |        1 | [UBERON:0002259](https://bioregistry.io/UBERON:0002259)                                                          |
-| DHBA:10307     |        1 | [UBERON:0002264](https://bioregistry.io/UBERON:0002264)                                                          |
-| DHBA:12073     |        1 | [UBERON:0002265](https://bioregistry.io/UBERON:0002265)                                                          |
-| DHBA:10308     |        1 | [UBERON:0002266](https://bioregistry.io/UBERON:0002266)                                                          |
-| DHBA:12519     |        1 | [UBERON:0002267](https://bioregistry.io/UBERON:0002267)                                                          |
-| DHBA:11578     |        1 | [UBERON:0002274](https://bioregistry.io/UBERON:0002274)                                                          |
-| DHBA:10596     |        1 | [UBERON:0002285](https://bioregistry.io/UBERON:0002285)                                                          |
-| DHBA:10602     |        1 | [UBERON:0002286](https://bioregistry.io/UBERON:0002286)                                                          |
-| DHBA:10651     |        1 | [UBERON:0002289](https://bioregistry.io/UBERON:0002289)                                                          |
-| DHBA:12808     |        1 | [UBERON:0002290](https://bioregistry.io/UBERON:0002290)                                                          |
-| DHBA:146035108 |        1 | [UBERON:0002291](https://bioregistry.io/UBERON:0002291)                                                          |
-| DHBA:10601     |        1 | [UBERON:0002307](https://bioregistry.io/UBERON:0002307)                                                          |
-| DHBA:12764     |        1 | [UBERON:0002309](https://bioregistry.io/UBERON:0002309)                                                          |
-| DHBA:10575     |        1 | [UBERON:0002310](https://bioregistry.io/UBERON:0002310)                                                          |
-| DHBA:12291     |        1 | [UBERON:0002314](https://bioregistry.io/UBERON:0002314)                                                          |
-| DHBA:146035048 |        1 | [UBERON:0002315](https://bioregistry.io/UBERON:0002315)                                                          |
-| DHBA:146035088 |        1 | [UBERON:0002318](https://bioregistry.io/UBERON:0002318)                                                          |
-| DHBA:10561     |        1 | [UBERON:0002336](https://bioregistry.io/UBERON:0002336)                                                          |
-| DHBA:10332     |        1 | [UBERON:0002420](https://bioregistry.io/UBERON:0002420)                                                          |
-| DHBA:10294     |        1 | [UBERON:0002421](https://bioregistry.io/UBERON:0002421)                                                          |
-| DHBA:10669     |        1 | [UBERON:0002422](https://bioregistry.io/UBERON:0002422)                                                          |
-| DHBA:10643     |        1 | [UBERON:0002434](https://bioregistry.io/UBERON:0002434)                                                          |
-| DHBA:10333     |        1 | [UBERON:0002435](https://bioregistry.io/UBERON:0002435)                                                          |
-| DHBA:12266     |        1 | [UBERON:0002438](https://bioregistry.io/UBERON:0002438)                                                          |
-| DHBA:10344     |        1 | [UBERON:0002477](https://bioregistry.io/UBERON:0002477)                                                          |
-| DHBA:10430     |        1 | [UBERON:0002479](https://bioregistry.io/UBERON:0002479)                                                          |
-| DHBA:13042     |        1 | [UBERON:0002480](https://bioregistry.io/UBERON:0002480)                                                          |
-| DHBA:12803     |        1 | [UBERON:0002549](https://bioregistry.io/UBERON:0002549)                                                          |
-| DHBA:266441551 |        1 | [UBERON:0002550](https://bioregistry.io/UBERON:0002550)                                                          |
-| DHBA:12278     |        1 | [UBERON:0002551](https://bioregistry.io/UBERON:0002551)                                                          |
-| DHBA:12754     |        1 | [UBERON:0002552](https://bioregistry.io/UBERON:0002552)                                                          |
-| DHBA:12050     |        1 | [UBERON:0002556](https://bioregistry.io/UBERON:0002556)                                                          |
-| DHBA:12230     |        1 | [UBERON:0002557](https://bioregistry.io/UBERON:0002557)                                                          |
-| DHBA:12616     |        1 | [UBERON:0002559](https://bioregistry.io/UBERON:0002559)                                                          |
-| DHBA:10639     |        1 | [UBERON:0002562](https://bioregistry.io/UBERON:0002562)                                                          |
-| DHBA:12309     |        1 | [UBERON:0002563](https://bioregistry.io/UBERON:0002563)                                                          |
-| DHBA:12125     |        1 | [UBERON:0002564](https://bioregistry.io/UBERON:0002564)                                                          |
-| DHBA:12186     |        1 | [UBERON:0002565](https://bioregistry.io/UBERON:0002565)                                                          |
-| DHBA:12405     |        1 | [UBERON:0002567](https://bioregistry.io/UBERON:0002567)                                                          |
-| DHBA:146034852 |        1 | [UBERON:0002569](https://bioregistry.io/UBERON:0002569)                                                          |
-| DHBA:12122     |        1 | [UBERON:0002570](https://bioregistry.io/UBERON:0002570)                                                          |
-| DHBA:12308     |        1 | [UBERON:0002571](https://bioregistry.io/UBERON:0002571)                                                          |
-| DHBA:12480     |        1 | [UBERON:0002573](https://bioregistry.io/UBERON:0002573)                                                          |
-| DHBA:12146     |        1 | [UBERON:0002576](https://bioregistry.io/UBERON:0002576)                                                          |
-| DHBA:12306     |        1 | [UBERON:0002577](https://bioregistry.io/UBERON:0002577)                                                          |
-| DHBA:12328     |        1 | [UBERON:0002580](https://bioregistry.io/UBERON:0002580)                                                          |
-| DHBA:12132     |        1 | [UBERON:0002581](https://bioregistry.io/UBERON:0002581)                                                          |
-| DHBA:10612     |        1 | [UBERON:0002586](https://bioregistry.io/UBERON:0002586)                                                          |
-| DHBA:12500     |        1 | [UBERON:0002587](https://bioregistry.io/UBERON:0002587)                                                          |
-| DHBA:12337     |        1 | [UBERON:0002588](https://bioregistry.io/UBERON:0002588)                                                          |
-| DHBA:12759     |        1 | [UBERON:0002589](https://bioregistry.io/UBERON:0002589)                                                          |
-| DHBA:13229     |        1 | [UBERON:0002590](https://bioregistry.io/UBERON:0002590)                                                          |
-| DHBA:12750     |        1 | [UBERON:0002592](https://bioregistry.io/UBERON:0002592)                                                          |
-| DHBA:12128     |        1 | [UBERON:0002593](https://bioregistry.io/UBERON:0002593)                                                          |
-| DHBA:12357     |        1 | [UBERON:0002594](https://bioregistry.io/UBERON:0002594)                                                          |
-| DHBA:10625     |        1 | [UBERON:0002595](https://bioregistry.io/UBERON:0002595)                                                          |
-| DHBA:12444     |        1 | [UBERON:0002597](https://bioregistry.io/UBERON:0002597)                                                          |
-| DHBA:10633     |        1 | [UBERON:0002598](https://bioregistry.io/UBERON:0002598)                                                          |
-| DHBA:12155     |        1 | [UBERON:0002600](https://bioregistry.io/UBERON:0002600)                                                          |
-| DHBA:12175     |        1 | [UBERON:0002601](https://bioregistry.io/UBERON:0002601)                                                          |
-| DHBA:12401     |        1 | [UBERON:0002602](https://bioregistry.io/UBERON:0002602)                                                          |
-| DHBA:12161     |        1 | [UBERON:0002603](https://bioregistry.io/UBERON:0002603)                                                          |
-| DHBA:12457     |        1 | [UBERON:0002604](https://bioregistry.io/UBERON:0002604)                                                          |
-| DHBA:146034840 |        1 | [UBERON:0002607](https://bioregistry.io/UBERON:0002607)                                                          |
-| DHBA:10422     |        1 | [UBERON:0002608](https://bioregistry.io/UBERON:0002608)                                                          |
-| DHBA:12437     |        1 | [UBERON:0002610](https://bioregistry.io/UBERON:0002610)                                                          |
-| DHBA:13223     |        1 | [UBERON:0002612](https://bioregistry.io/UBERON:0002612)                                                          |
-| DHBA:12400     |        1 | [UBERON:0002613](https://bioregistry.io/UBERON:0002613)                                                          |
-| DHBA:10427     |        1 | [UBERON:0002614](https://bioregistry.io/UBERON:0002614)                                                          |
-| DHBA:12366     |        1 | [UBERON:0002615](https://bioregistry.io/UBERON:0002615)                                                          |
-| DHBA:12377     |        1 | [UBERON:0002618](https://bioregistry.io/UBERON:0002618)                                                          |
-| DHBA:10647     |        1 | [UBERON:0002620](https://bioregistry.io/UBERON:0002620)                                                          |
-| DHBA:12120     |        1 | [UBERON:0002624](https://bioregistry.io/UBERON:0002624)                                                          |
-| DHBA:13063     |        1 | [UBERON:0002625](https://bioregistry.io/UBERON:0002625)                                                          |
-| DHBA:10335     |        1 | [UBERON:0002626](https://bioregistry.io/UBERON:0002626)                                                          |
-| DHBA:10337     |        1 | [UBERON:0002628](https://bioregistry.io/UBERON:0002628)                                                          |
-| DHBA:12118     |        1 | [UBERON:0002629](https://bioregistry.io/UBERON:0002629)                                                          |
-| DHBA:10336     |        1 | [UBERON:0002630](https://bioregistry.io/UBERON:0002630)                                                          |
-| DHBA:10501     |        1 | [UBERON:0002632](https://bioregistry.io/UBERON:0002632)                                                          |
-| DHBA:12429     |        1 | [UBERON:0002633](https://bioregistry.io/UBERON:0002633)                                                          |
-| DHBA:10475     |        1 | [UBERON:0002634](https://bioregistry.io/UBERON:0002634)                                                          |
-| DHBA:10412     |        1 | [UBERON:0002636](https://bioregistry.io/UBERON:0002636)                                                          |
-| DHBA:10417     |        1 | [UBERON:0002637](https://bioregistry.io/UBERON:0002637)                                                          |
-| DHBA:10411     |        1 | [UBERON:0002638](https://bioregistry.io/UBERON:0002638)                                                          |
-| DHBA:12239     |        1 | [UBERON:0002639](https://bioregistry.io/UBERON:0002639)                                                          |
-| DHBA:12745     |        1 | [UBERON:0002640](https://bioregistry.io/UBERON:0002640)                                                          |
-| DHBA:10410     |        1 | [UBERON:0002641](https://bioregistry.io/UBERON:0002641)                                                          |
-| DHBA:12732     |        1 | [UBERON:0002643](https://bioregistry.io/UBERON:0002643)                                                          |
-| DHBA:10399     |        1 | [UBERON:0002645](https://bioregistry.io/UBERON:0002645)                                                          |
-| DHBA:10400     |        1 | [UBERON:0002647](https://bioregistry.io/UBERON:0002647)                                                          |
-| DHBA:10597     |        1 | [UBERON:0002651](https://bioregistry.io/UBERON:0002651)                                                          |
-| DHBA:12860     |        1 | [UBERON:0002652](https://bioregistry.io/UBERON:0002652)                                                          |
-| DHBA:10598     |        1 | [UBERON:0002655](https://bioregistry.io/UBERON:0002655)                                                          |
-| DHBA:10373     |        1 | [UBERON:0002656](https://bioregistry.io/UBERON:0002656)                                                          |
-| DHBA:12164     |        1 | [UBERON:0002657](https://bioregistry.io/UBERON:0002657)                                                          |
-| DHBA:12115     |        1 | [UBERON:0002661](https://bioregistry.io/UBERON:0002661)                                                          |
-| DHBA:10350     |        1 | [UBERON:0002663](https://bioregistry.io/UBERON:0002663)                                                          |
-| DHBA:10500     |        1 | [UBERON:0002664](https://bioregistry.io/UBERON:0002664)                                                          |
-| DHBA:12767     |        1 | [UBERON:0002666](https://bioregistry.io/UBERON:0002666)                                                          |
-| DHBA:10352     |        1 | [UBERON:0002667](https://bioregistry.io/UBERON:0002667)                                                          |
-| DHBA:12376     |        1 | [UBERON:0002668](https://bioregistry.io/UBERON:0002668)                                                          |
-| DHBA:12078     |        1 | [UBERON:0002671](https://bioregistry.io/UBERON:0002671)                                                          |
-| DHBA:146034788 |        1 | [UBERON:0002672](https://bioregistry.io/UBERON:0002672)                                                          |
-| DHBA:10393     |        1 | [UBERON:0002679](https://bioregistry.io/UBERON:0002679)                                                          |
-| DHBA:10394     |        1 | [UBERON:0002681](https://bioregistry.io/UBERON:0002681)                                                          |
-| DHBA:12418     |        1 | [UBERON:0002682](https://bioregistry.io/UBERON:0002682)                                                          |
-| DHBA:10636     |        1 | [UBERON:0002683](https://bioregistry.io/UBERON:0002683)                                                          |
-| DHBA:12643     |        1 | [UBERON:0002684](https://bioregistry.io/UBERON:0002684)                                                          |
-| DHBA:10395     |        1 | [UBERON:0002685](https://bioregistry.io/UBERON:0002685)                                                          |
-| DHBA:12136     |        1 | [UBERON:0002686](https://bioregistry.io/UBERON:0002686)                                                          |
-| DHBA:12653     |        1 | [UBERON:0002687](https://bioregistry.io/UBERON:0002687)                                                          |
-| DHBA:12135     |        1 | [UBERON:0002688](https://bioregistry.io/UBERON:0002688)                                                          |
-| DHBA:12106     |        1 | [UBERON:0002689](https://bioregistry.io/UBERON:0002689)                                                          |
-| DHBA:13061     |        1 | [UBERON:0002690](https://bioregistry.io/UBERON:0002690)                                                          |
-| DHBA:12261     |        1 | [UBERON:0002691](https://bioregistry.io/UBERON:0002691)                                                          |
-| DHBA:10623     |        1 | [UBERON:0002693](https://bioregistry.io/UBERON:0002693)                                                          |
-| DHBA:10626     |        1 | [UBERON:0002695](https://bioregistry.io/UBERON:0002695)                                                          |
-| DHBA:12240     |        1 | [UBERON:0002696](https://bioregistry.io/UBERON:0002696)                                                          |
-| DHBA:10645     |        1 | [UBERON:0002698](https://bioregistry.io/UBERON:0002698)                                                          |
-| DHBA:12246     |        1 | [UBERON:0002700](https://bioregistry.io/UBERON:0002700)                                                          |
-| DHBA:12199     |        1 | [UBERON:0002701](https://bioregistry.io/UBERON:0002701)                                                          |
-| DHBA:12116     |        1 | [UBERON:0002702](https://bioregistry.io/UBERON:0002702)                                                          |
-| DHBA:12114     |        1 | [UBERON:0002703](https://bioregistry.io/UBERON:0002703)                                                          |
-| DHBA:10503     |        1 | [UBERON:0002706](https://bioregistry.io/UBERON:0002706)                                                          |
-| DHBA:12776     |        1 | [UBERON:0002707](https://bioregistry.io/UBERON:0002707)                                                          |
-| DHBA:10428     |        1 | [UBERON:0002709](https://bioregistry.io/UBERON:0002709)                                                          |
-| DHBA:10615     |        1 | [UBERON:0002710](https://bioregistry.io/UBERON:0002710)                                                          |
-| DHBA:12782     |        1 | [UBERON:0002714](https://bioregistry.io/UBERON:0002714)                                                          |
-| DHBA:10618     |        1 | [UBERON:0002716](https://bioregistry.io/UBERON:0002716)                                                          |
-| DHBA:12783     |        1 | [UBERON:0002718](https://bioregistry.io/UBERON:0002718)                                                          |
-| DHBA:12793     |        1 | [UBERON:0002719](https://bioregistry.io/UBERON:0002719)                                                          |
-| DHBA:266441609 |        1 | [UBERON:0002720](https://bioregistry.io/UBERON:0002720)                                                          |
-| DHBA:10621     |        1 | [UBERON:0002721](https://bioregistry.io/UBERON:0002721)                                                          |
-| DHBA:12206     |        1 | [UBERON:0002722](https://bioregistry.io/UBERON:0002722)                                                          |
-| DHBA:12179     |        1 | [UBERON:0002724](https://bioregistry.io/UBERON:0002724)                                                          |
-| DHBA:12062     |        1 | [UBERON:0002727](https://bioregistry.io/UBERON:0002727)                                                          |
-| DHBA:10317     |        1 | [UBERON:0002728](https://bioregistry.io/UBERON:0002728)                                                          |
-| DHBA:10348     |        1 | [UBERON:0002729](https://bioregistry.io/UBERON:0002729)                                                          |
-| DHBA:12868     |        1 | [UBERON:0002731](https://bioregistry.io/UBERON:0002731)                                                          |
-| DHBA:12762     |        1 | [UBERON:0002732](https://bioregistry.io/UBERON:0002732)                                                          |
-| DHBA:10442     |        1 | [UBERON:0002733](https://bioregistry.io/UBERON:0002733)                                                          |
-| DHBA:10629     |        1 | [UBERON:0002734](https://bioregistry.io/UBERON:0002734)                                                          |
-| DHBA:12795     |        1 | [UBERON:0002735](https://bioregistry.io/UBERON:0002735)                                                          |
-| DHBA:10398     |        1 | [UBERON:0002739](https://bioregistry.io/UBERON:0002739)                                                          |
-| DHBA:12034     |        1 | [UBERON:0002741](https://bioregistry.io/UBERON:0002741)                                                          |
-| DHBA:10349     |        1 | [UBERON:0002743](https://bioregistry.io/UBERON:0002743)                                                          |
-| DHBA:12142     |        1 | [UBERON:0002751](https://bioregistry.io/UBERON:0002751)                                                          |
-| DHBA:12747     |        1 | [UBERON:0002752](https://bioregistry.io/UBERON:0002752)                                                          |
-| DHBA:12746     |        1 | [UBERON:0002753](https://bioregistry.io/UBERON:0002753)                                                          |
-| DHBA:12772     |        1 | [UBERON:0002755](https://bioregistry.io/UBERON:0002755)                                                          |
-| DHBA:10435     |        1 | [UBERON:0002758](https://bioregistry.io/UBERON:0002758)                                                          |
-| DHBA:10439     |        1 | [UBERON:0002759](https://bioregistry.io/UBERON:0002759)                                                          |
-| DHBA:12798     |        1 | [UBERON:0002760](https://bioregistry.io/UBERON:0002760)                                                          |
-| DHBA:10631     |        1 | [UBERON:0002761](https://bioregistry.io/UBERON:0002761)                                                          |
-| DHBA:12063     |        1 | [UBERON:0002762](https://bioregistry.io/UBERON:0002762)                                                          |
-| DHBA:12037     |        1 | [UBERON:0002765](https://bioregistry.io/UBERON:0002765)                                                          |
-| DHBA:146034844 |        1 | [UBERON:0002767](https://bioregistry.io/UBERON:0002767)                                                          |
-| DHBA:12140     |        1 | [UBERON:0002769](https://bioregistry.io/UBERON:0002769)                                                          |
-| DHBA:12141     |        1 | [UBERON:0002771](https://bioregistry.io/UBERON:0002771)                                                          |
-| DHBA:10624     |        1 | [UBERON:0002772](https://bioregistry.io/UBERON:0002772)                                                          |
-| DHBA:12771     |        1 | [UBERON:0002775](https://bioregistry.io/UBERON:0002775)                                                          |
-| DHBA:10345     |        1 | [UBERON:0002778](https://bioregistry.io/UBERON:0002778)                                                          |
-| DHBA:12469     |        1 | [UBERON:0002779](https://bioregistry.io/UBERON:0002779)                                                          |
-| DHBA:266441515 |        1 | [UBERON:0002781](https://bioregistry.io/UBERON:0002781)                                                          |
-| DHBA:12470     |        1 | [UBERON:0002782](https://bioregistry.io/UBERON:0002782)                                                          |
-| DHBA:12861     |        1 | [UBERON:0002786](https://bioregistry.io/UBERON:0002786)                                                          |
-| DHBA:12338     |        1 | [UBERON:0002787](https://bioregistry.io/UBERON:0002787)                                                          |
-| DHBA:10392     |        1 | [UBERON:0002788](https://bioregistry.io/UBERON:0002788)                                                          |
-| DHBA:12733     |        1 | [UBERON:0002790](https://bioregistry.io/UBERON:0002790)                                                          |
-| DHBA:146034888 |        1 | [UBERON:0002795](https://bioregistry.io/UBERON:0002795)                                                          |
-| DHBA:12866     |        1 | [UBERON:0002796](https://bioregistry.io/UBERON:0002796)                                                          |
-| DHBA:12736     |        1 | [UBERON:0002797](https://bioregistry.io/UBERON:0002797)                                                          |
-| DHBA:12085     |        1 | [UBERON:0002801](https://bioregistry.io/UBERON:0002801)                                                          |
-| DHBA:12439     |        1 | [UBERON:0002828](https://bioregistry.io/UBERON:0002828)                                                          |
-| DHBA:12438     |        1 | [UBERON:0002829](https://bioregistry.io/UBERON:0002829)                                                          |
-| DHBA:12440     |        1 | [UBERON:0002830](https://bioregistry.io/UBERON:0002830)                                                          |
-| DHBA:12441     |        1 | [UBERON:0002831](https://bioregistry.io/UBERON:0002831)                                                          |
-| DHBA:12461     |        1 | [UBERON:0002832](https://bioregistry.io/UBERON:0002832)                                                          |
-| DHBA:12460     |        1 | [UBERON:0002833](https://bioregistry.io/UBERON:0002833)                                                          |
-| DHBA:12536     |        1 | [UBERON:0002865](https://bioregistry.io/UBERON:0002865)                                                          |
-| DHBA:12573     |        1 | [UBERON:0002866](https://bioregistry.io/UBERON:0002866)                                                          |
-| DHBA:146034986 |        1 | [UBERON:0002867](https://bioregistry.io/UBERON:0002867)                                                          |
-| DHBA:12491     |        1 | [UBERON:0002869](https://bioregistry.io/UBERON:0002869)                                                          |
-| DHBA:12550     |        1 | [UBERON:0002870](https://bioregistry.io/UBERON:0002870)                                                          |
-| DHBA:12545     |        1 | [UBERON:0002871](https://bioregistry.io/UBERON:0002871)                                                          |
-| DHBA:12544     |        1 | [UBERON:0002872](https://bioregistry.io/UBERON:0002872)                                                          |
-| DHBA:12578     |        1 | [UBERON:0002873](https://bioregistry.io/UBERON:0002873)                                                          |
-| DHBA:12526     |        1 | [UBERON:0002874](https://bioregistry.io/UBERON:0002874)                                                          |
-| DHBA:12527     |        1 | [UBERON:0002875](https://bioregistry.io/UBERON:0002875)                                                          |
-| DHBA:12612     |        1 | [UBERON:0002876](https://bioregistry.io/UBERON:0002876)                                                          |
-| DHBA:12571     |        1 | [UBERON:0002877](https://bioregistry.io/UBERON:0002877)                                                          |
-| DHBA:12658     |        1 | [UBERON:0002879](https://bioregistry.io/UBERON:0002879)                                                          |
-| DHBA:12614     |        1 | [UBERON:0002880](https://bioregistry.io/UBERON:0002880)                                                          |
-| DHBA:12654     |        1 | [UBERON:0002881](https://bioregistry.io/UBERON:0002881)                                                          |
-| DHBA:12661     |        1 | [UBERON:0002882](https://bioregistry.io/UBERON:0002882)                                                          |
-| DHBA:10363     |        1 | [UBERON:0002883](https://bioregistry.io/UBERON:0002883)                                                          |
-| DHBA:10378     |        1 | [UBERON:0002884](https://bioregistry.io/UBERON:0002884)                                                          |
-| DHBA:10369     |        1 | [UBERON:0002885](https://bioregistry.io/UBERON:0002885)                                                          |
-| DHBA:10367     |        1 | [UBERON:0002886](https://bioregistry.io/UBERON:0002886)                                                          |
-| DHBA:10362     |        1 | [UBERON:0002890](https://bioregistry.io/UBERON:0002890)                                                          |
-| DHBA:10309     |        1 | [UBERON:0002893](https://bioregistry.io/UBERON:0002893)                                                          |
-| DHBA:10619     |        1 | [UBERON:0002899](https://bioregistry.io/UBERON:0002899)                                                          |
-| DHBA:13228     |        1 | [UBERON:0002900](https://bioregistry.io/UBERON:0002900)                                                          |
-| DHBA:10285     |        1 | [UBERON:0002901](https://bioregistry.io/UBERON:0002901)                                                          |
-| DHBA:12149     |        1 | [UBERON:0002902](https://bioregistry.io/UBERON:0002902)                                                          |
-| DHBA:146034812 |        1 | [UBERON:0002903](https://bioregistry.io/UBERON:0002903)                                                          |
-| DHBA:146034784 |        1 | [UBERON:0002906](https://bioregistry.io/UBERON:0002906)                                                          |
-| DHBA:10215     |        1 | [UBERON:0002907](https://bioregistry.io/UBERON:0002907)                                                          |
-| DHBA:13230     |        1 | [UBERON:0002911](https://bioregistry.io/UBERON:0002911)                                                          |
-| DHBA:10620     |        1 | [UBERON:0002913](https://bioregistry.io/UBERON:0002913)                                                          |
-| DHBA:10627     |        1 | [UBERON:0002915](https://bioregistry.io/UBERON:0002915)                                                          |
-| DHBA:10614     |        1 | [UBERON:0002916](https://bioregistry.io/UBERON:0002916)                                                          |
-| DHBA:12487     |        1 | [UBERON:0002918](https://bioregistry.io/UBERON:0002918)                                                          |
-| DHBA:146034824 |        1 | [UBERON:0002919](https://bioregistry.io/UBERON:0002919)                                                          |
-| DHBA:10613     |        1 | [UBERON:0002920](https://bioregistry.io/UBERON:0002920)                                                          |
-| DHBA:10622     |        1 | [UBERON:0002921](https://bioregistry.io/UBERON:0002921)                                                          |
-| DHBA:146034828 |        1 | [UBERON:0002923](https://bioregistry.io/UBERON:0002923)                                                          |
-| DHBA:12364     |        1 | [UBERON:0002930](https://bioregistry.io/UBERON:0002930)                                                          |
-| DHBA:12796     |        1 | [UBERON:0002932](https://bioregistry.io/UBERON:0002932)                                                          |
-| DHBA:12205     |        1 | [UBERON:0002934](https://bioregistry.io/UBERON:0002934)                                                          |
-| DHBA:10419     |        1 | [UBERON:0002935](https://bioregistry.io/UBERON:0002935)                                                          |
-| DHBA:12249     |        1 | [UBERON:0002936](https://bioregistry.io/UBERON:0002936)                                                          |
-| DHBA:12250     |        1 | [UBERON:0002938](https://bioregistry.io/UBERON:0002938)                                                          |
-| DHBA:10424     |        1 | [UBERON:0002942](https://bioregistry.io/UBERON:0002942)                                                          |
-| DHBA:12151     |        1 | [UBERON:0002943](https://bioregistry.io/UBERON:0002943)                                                          |
-| DHBA:10425     |        1 | [UBERON:0002945](https://bioregistry.io/UBERON:0002945)                                                          |
-| DHBA:12127     |        1 | [UBERON:0002947](https://bioregistry.io/UBERON:0002947)                                                          |
-| DHBA:12154     |        1 | [UBERON:0002948](https://bioregistry.io/UBERON:0002948)                                                          |
-| DHBA:12794     |        1 | [UBERON:0002949](https://bioregistry.io/UBERON:0002949)                                                          |
-| DHBA:12755     |        1 | [UBERON:0002952](https://bioregistry.io/UBERON:0002952)                                                          |
-| DHBA:12760     |        1 | [UBERON:0002953](https://bioregistry.io/UBERON:0002953)                                                          |
-| DHBA:13335     |        1 | [UBERON:0002954](https://bioregistry.io/UBERON:0002954)                                                          |
-| DHBA:10447     |        1 | [UBERON:0002955](https://bioregistry.io/UBERON:0002955)                                                          |
-| DHBA:12200     |        1 | [UBERON:0002957](https://bioregistry.io/UBERON:0002957)                                                          |
-| DHBA:12201     |        1 | [UBERON:0002960](https://bioregistry.io/UBERON:0002960)                                                          |
-| DHBA:10293     |        1 | [UBERON:0002961](https://bioregistry.io/UBERON:0002961)                                                          |
-| DHBA:12493     |        1 | [UBERON:0002963](https://bioregistry.io/UBERON:0002963)                                                          |
-| DHBA:12202     |        1 | [UBERON:0002964](https://bioregistry.io/UBERON:0002964)                                                          |
-| DHBA:10443     |        1 | [UBERON:0002965](https://bioregistry.io/UBERON:0002965)                                                          |
-| DHBA:12156     |        1 | [UBERON:0002967](https://bioregistry.io/UBERON:0002967)                                                          |
-| DHBA:146034964 |        1 | [UBERON:0002968](https://bioregistry.io/UBERON:0002968)                                                          |
-| DHBA:10632     |        1 | [UBERON:0002969](https://bioregistry.io/UBERON:0002969)                                                          |
-| DHBA:12203     |        1 | [UBERON:0002970](https://bioregistry.io/UBERON:0002970)                                                          |
-| DHBA:12464     |        1 | [UBERON:0002971](https://bioregistry.io/UBERON:0002971)                                                          |
-| DHBA:10449     |        1 | [UBERON:0002972](https://bioregistry.io/UBERON:0002972)                                                          |
-| DHBA:12162     |        1 | [UBERON:0002973](https://bioregistry.io/UBERON:0002973)                                                          |
-| DHBA:12204     |        1 | [UBERON:0002975](https://bioregistry.io/UBERON:0002975)                                                          |
-| DHBA:266441709 |        1 | [UBERON:0002976](https://bioregistry.io/UBERON:0002976)                                                          |
-| DHBA:266441491 |        1 | [UBERON:0002977](https://bioregistry.io/UBERON:0002977)                                                          |
-| DHBA:12119     |        1 | [UBERON:0002980](https://bioregistry.io/UBERON:0002980)                                                          |
-| DHBA:10409     |        1 | [UBERON:0002981](https://bioregistry.io/UBERON:0002981)                                                          |
-| DHBA:10413     |        1 | [UBERON:0002982](https://bioregistry.io/UBERON:0002982)                                                          |
-| DHBA:10408     |        1 | [UBERON:0002983](https://bioregistry.io/UBERON:0002983)                                                          |
-| DHBA:10396     |        1 | [UBERON:0002984](https://bioregistry.io/UBERON:0002984)                                                          |
-| DHBA:10438     |        1 | [UBERON:0002985](https://bioregistry.io/UBERON:0002985)                                                          |
-| DHBA:12801     |        1 | [UBERON:0002987](https://bioregistry.io/UBERON:0002987)                                                          |
-| DHBA:10404     |        1 | [UBERON:0002992](https://bioregistry.io/UBERON:0002992)                                                          |
-| DHBA:12257     |        1 | [UBERON:0002995](https://bioregistry.io/UBERON:0002995)                                                          |
-| DHBA:12117     |        1 | [UBERON:0002998](https://bioregistry.io/UBERON:0002998)                                                          |
-| DHBA:12494     |        1 | [UBERON:0002999](https://bioregistry.io/UBERON:0002999)                                                          |
-| DHBA:12763     |        1 | [UBERON:0003002](https://bioregistry.io/UBERON:0003002)                                                          |
-| DHBA:12235     |        1 | [UBERON:0003004](https://bioregistry.io/UBERON:0003004)                                                          |
-| DHBA:12455     |        1 | [UBERON:0003006](https://bioregistry.io/UBERON:0003006)                                                          |
-| DHBA:12482     |        1 | [UBERON:0003007](https://bioregistry.io/UBERON:0003007)                                                          |
-| DHBA:12340     |        1 | [UBERON:0003009](https://bioregistry.io/UBERON:0003009)                                                          |
-| DHBA:12852     |        1 | [UBERON:0003012](https://bioregistry.io/UBERON:0003012)                                                          |
-| DHBA:13034     |        1 | [UBERON:0003017](https://bioregistry.io/UBERON:0003017)                                                          |
-| DHBA:146034766 |        1 | [UBERON:0003018](https://bioregistry.io/UBERON:0003018)                                                          |
-| DHBA:12416     |        1 | [UBERON:0003023](https://bioregistry.io/UBERON:0003023)                                                          |
-| DHBA:12327     |        1 | [UBERON:0003025](https://bioregistry.io/UBERON:0003025)                                                          |
-| DHBA:13043     |        1 | [UBERON:0003026](https://bioregistry.io/UBERON:0003026)                                                          |
-| DHBA:10277     |        1 | [UBERON:0003027](https://bioregistry.io/UBERON:0003027)                                                          |
-| DHBA:12333     |        1 | [UBERON:0003028](https://bioregistry.io/UBERON:0003028)                                                          |
-| DHBA:10591     |        1 | [UBERON:0003029](https://bioregistry.io/UBERON:0003029)                                                          |
-| DHBA:10440     |        1 | [UBERON:0003030](https://bioregistry.io/UBERON:0003030)                                                          |
-| DHBA:13044     |        1 | [UBERON:0003033](https://bioregistry.io/UBERON:0003033)                                                          |
-| DHBA:13331     |        1 | [UBERON:0003034](https://bioregistry.io/UBERON:0003034)                                                          |
-| DHBA:10444     |        1 | [UBERON:0003036](https://bioregistry.io/UBERON:0003036)                                                          |
-| DHBA:12209     |        1 | [UBERON:0003040](https://bioregistry.io/UBERON:0003040)                                                          |
-| DHBA:10594     |        1 | [UBERON:0003044](https://bioregistry.io/UBERON:0003044)                                                          |
-| DHBA:12035     |        1 | [UBERON:0003045](https://bioregistry.io/UBERON:0003045)                                                          |
-| DHBA:10542     |        1 | [UBERON:0003053](https://bioregistry.io/UBERON:0003053)                                                          |
-| DHBA:10153     |        1 | [UBERON:0003075](https://bioregistry.io/UBERON:0003075)                                                          |
-| DHBA:12320     |        1 | [UBERON:0003299](https://bioregistry.io/UBERON:0003299)                                                          |
-| DHBA:12325     |        1 | [UBERON:0003307](https://bioregistry.io/UBERON:0003307)                                                          |
-| DHBA:12869     |        1 | [UBERON:0003723](https://bioregistry.io/UBERON:0003723)                                                          |
-| DHBA:10297     |        1 | [UBERON:0003881](https://bioregistry.io/UBERON:0003881)                                                          |
-| DHBA:10298     |        1 | [UBERON:0003882](https://bioregistry.io/UBERON:0003882)                                                          |
-| DHBA:10299     |        1 | [UBERON:0003883](https://bioregistry.io/UBERON:0003883)                                                          |
-| DHBA:10300     |        1 | [UBERON:0003884](https://bioregistry.io/UBERON:0003884)                                                          |
-| DHBA:10572     |        1 | [UBERON:0003961](https://bioregistry.io/UBERON:0003961)                                                          |
-| DHBA:12828     |        1 | [UBERON:0003980](https://bioregistry.io/UBERON:0003980)                                                          |
-| DHBA:10608     |        1 | [UBERON:0003993](https://bioregistry.io/UBERON:0003993)                                                          |
-| DHBA:12844     |        1 | [UBERON:0004002](https://bioregistry.io/UBERON:0004002)                                                          |
-| DHBA:12698     |        1 | [UBERON:0004008](https://bioregistry.io/UBERON:0004008)                                                          |
-| DHBA:10549     |        1 | [UBERON:0004023](https://bioregistry.io/UBERON:0004023)                                                          |
-| DHBA:10550     |        1 | [UBERON:0004024](https://bioregistry.io/UBERON:0004024)                                                          |
-| DHBA:10551     |        1 | [UBERON:0004025](https://bioregistry.io/UBERON:0004025)                                                          |
-| DHBA:10552     |        1 | [UBERON:0004026](https://bioregistry.io/UBERON:0004026)                                                          |
-| DHBA:10522     |        1 | [UBERON:0004035](https://bioregistry.io/UBERON:0004035)                                                          |
-| DHBA:12399     |        1 | [UBERON:0004073](https://bioregistry.io/UBERON:0004073)                                                          |
-| DHBA:12841     |        1 | [UBERON:0004076](https://bioregistry.io/UBERON:0004076)                                                          |
-| DHBA:12842     |        1 | [UBERON:0004077](https://bioregistry.io/UBERON:0004077)                                                          |
-| DHBA:12851     |        1 | [UBERON:0004078](https://bioregistry.io/UBERON:0004078)                                                          |
-| DHBA:12843     |        1 | [UBERON:0004079](https://bioregistry.io/UBERON:0004079)                                                          |
-| DHBA:12845     |        1 | [UBERON:0004080](https://bioregistry.io/UBERON:0004080)                                                          |
-| DHBA:10194     |        1 | [UBERON:0004167](https://bioregistry.io/UBERON:0004167)                                                          |
-| DHBA:12797     |        1 | [UBERON:0004171](https://bioregistry.io/UBERON:0004171)                                                          |
-| DHBA:11329     |        1 | [UBERON:0004186](https://bioregistry.io/UBERON:0004186)                                                          |
-| DHBA:10573     |        1 | [UBERON:0004545](https://bioregistry.io/UBERON:0004545)                                                          |
-| DHBA:10599     |        1 | [UBERON:0004672](https://bioregistry.io/UBERON:0004672)                                                          |
-| DHBA:12865     |        1 | [UBERON:0004673](https://bioregistry.io/UBERON:0004673)                                                          |
-| DHBA:12862     |        1 | [UBERON:0004674](https://bioregistry.io/UBERON:0004674)                                                          |
-| DHBA:12886     |        1 | [UBERON:0004675](https://bioregistry.io/UBERON:0004675)                                                          |
-| DHBA:12647     |        1 | [UBERON:0004677](https://bioregistry.io/UBERON:0004677)                                                          |
-| DHBA:10577     |        1 | [UBERON:0004680](https://bioregistry.io/UBERON:0004680)                                                          |
-| DHBA:12030     |        1 | [UBERON:0004682](https://bioregistry.io/UBERON:0004682)                                                          |
-| DHBA:10316     |        1 | [UBERON:0004683](https://bioregistry.io/UBERON:0004683)                                                          |
-| DHBA:10391     |        1 | [UBERON:0004703](https://bioregistry.io/UBERON:0004703)                                                          |
-| DHBA:12098     |        1 | [UBERON:0004714](https://bioregistry.io/UBERON:0004714)                                                          |
-| DHBA:10658     |        1 | [UBERON:0004720](https://bioregistry.io/UBERON:0004720)                                                          |
-| DHBA:10311     |        1 | [UBERON:0004725](https://bioregistry.io/UBERON:0004725)                                                          |
-| DHBA:10536     |        1 | [UBERON:0004922](https://bioregistry.io/UBERON:0004922)                                                          |
-| DHBA:12535     |        1 | [UBERON:0005159](https://bioregistry.io/UBERON:0005159)                                                          |
-| DHBA:10662     |        1 | [UBERON:0005290](https://bioregistry.io/UBERON:0005290)                                                          |
-| DHBA:10515     |        1 | [UBERON:0005343](https://bioregistry.io/UBERON:0005343)                                                          |
-| DHBA:12848     |        1 | [UBERON:0005346](https://bioregistry.io/UBERON:0005346)                                                          |
-| DHBA:12850     |        1 | [UBERON:0005349](https://bioregistry.io/UBERON:0005349)                                                          |
-| DHBA:11327     |        1 | [UBERON:0005377](https://bioregistry.io/UBERON:0005377)                                                          |
-| DHBA:11330     |        1 | [UBERON:0005379](https://bioregistry.io/UBERON:0005379)                                                          |
-| DHBA:12749     |        1 | [UBERON:0005413](https://bioregistry.io/UBERON:0005413)                                                          |
-| DHBA:12667     |        1 | [UBERON:0005499](https://bioregistry.io/UBERON:0005499)                                                          |
-| DHBA:12669     |        1 | [UBERON:0005507](https://bioregistry.io/UBERON:0005507)                                                          |
-| DHBA:12671     |        1 | [UBERON:0005511](https://bioregistry.io/UBERON:0005511)                                                          |
-| DHBA:12673     |        1 | [UBERON:0005515](https://bioregistry.io/UBERON:0005515)                                                          |
-| DHBA:12674     |        1 | [UBERON:0005519](https://bioregistry.io/UBERON:0005519)                                                          |
-| DHBA:12675     |        1 | [UBERON:0005523](https://bioregistry.io/UBERON:0005523)                                                          |
-| DHBA:12677     |        1 | [UBERON:0005527](https://bioregistry.io/UBERON:0005527)                                                          |
-| DHBA:12668     |        1 | [UBERON:0005569](https://bioregistry.io/UBERON:0005569)                                                          |
-| DHBA:12739     |        1 | [UBERON:0005821](https://bioregistry.io/UBERON:0005821)                                                          |
-| DHBA:12731     |        1 | [UBERON:0005832](https://bioregistry.io/UBERON:0005832)                                                          |
-| DHBA:11326     |        1 | [UBERON:0005978](https://bioregistry.io/UBERON:0005978)                                                          |
-| DHBA:12659     |        1 | [UBERON:0006007](https://bioregistry.io/UBERON:0006007)                                                          |
-| DHBA:10590     |        1 | [UBERON:0006086](https://bioregistry.io/UBERON:0006086)                                                          |
-| DHBA:12756     |        1 | [UBERON:0006087](https://bioregistry.io/UBERON:0006087)                                                          |
-| DHBA:12134     |        1 | [UBERON:0006088](https://bioregistry.io/UBERON:0006088)                                                          |
-| DHBA:12737     |        1 | [UBERON:0006089](https://bioregistry.io/UBERON:0006089)                                                          |
-| DHBA:10600     |        1 | [UBERON:0006091](https://bioregistry.io/UBERON:0006091)                                                          |
-| DHBA:12150     |        1 | [UBERON:0006092](https://bioregistry.io/UBERON:0006092)                                                          |
-| DHBA:12137     |        1 | [UBERON:0006093](https://bioregistry.io/UBERON:0006093)                                                          |
-| DHBA:10366     |        1 | [UBERON:0006107](https://bioregistry.io/UBERON:0006107)                                                          |
-| DHBA:10372     |        1 | [UBERON:0006108](https://bioregistry.io/UBERON:0006108)                                                          |
-| DHBA:10579     |        1 | [UBERON:0006115](https://bioregistry.io/UBERON:0006115)                                                          |
-| DHBA:12290     |        1 | [UBERON:0006119](https://bioregistry.io/UBERON:0006119)                                                          |
-| DHBA:12295     |        1 | [UBERON:0006120](https://bioregistry.io/UBERON:0006120)                                                          |
-| DHBA:10664     |        1 | [UBERON:0006215](https://bioregistry.io/UBERON:0006215)                                                          |
-| DHBA:10595     |        1 | [UBERON:0006284](https://bioregistry.io/UBERON:0006284)                                                          |
-| DHBA:10271     |        1 | [UBERON:0006473](https://bioregistry.io/UBERON:0006473)                                                          |
-| DHBA:10586     |        1 | [UBERON:0006696](https://bioregistry.io/UBERON:0006696)                                                          |
-| DHBA:12065     |        1 | [UBERON:0006698](https://bioregistry.io/UBERON:0006698)                                                          |
-| DHBA:12296     |        1 | [UBERON:0006779](https://bioregistry.io/UBERON:0006779)                                                          |
-| DHBA:12297     |        1 | [UBERON:0006780](https://bioregistry.io/UBERON:0006780)                                                          |
-| DHBA:12300     |        1 | [UBERON:0006787](https://bioregistry.io/UBERON:0006787)                                                          |
-| DHBA:12299     |        1 | [UBERON:0006788](https://bioregistry.io/UBERON:0006788)                                                          |
-| DHBA:12302     |        1 | [UBERON:0006789](https://bioregistry.io/UBERON:0006789)                                                          |
-| DHBA:12303     |        1 | [UBERON:0006790](https://bioregistry.io/UBERON:0006790)                                                          |
-| DHBA:12293     |        1 | [UBERON:0006791](https://bioregistry.io/UBERON:0006791)                                                          |
-| DHBA:12298     |        1 | [UBERON:0006792](https://bioregistry.io/UBERON:0006792)                                                          |
-| DHBA:12301     |        1 | [UBERON:0006793](https://bioregistry.io/UBERON:0006793)                                                          |
-| DHBA:12454     |        1 | [UBERON:0006840](https://bioregistry.io/UBERON:0006840)                                                          |
-| DHBA:10319     |        1 | [UBERON:0007224](https://bioregistry.io/UBERON:0007224)                                                          |
-| DHBA:10318     |        1 | [UBERON:0007225](https://bioregistry.io/UBERON:0007225)                                                          |
-| DHBA:12452     |        1 | [UBERON:0007227](https://bioregistry.io/UBERON:0007227)                                                          |
-| DHBA:12449     |        1 | [UBERON:0007230](https://bioregistry.io/UBERON:0007230)                                                          |
-| DHBA:12603     |        1 | [UBERON:0007249](https://bioregistry.io/UBERON:0007249)                                                          |
-| DHBA:12222     |        1 | [UBERON:0007412](https://bioregistry.io/UBERON:0007412)                                                          |
-| DHBA:266441555 |        1 | [UBERON:0007626](https://bioregistry.io/UBERON:0007626)                                                          |
-| DHBA:12506     |        1 | [UBERON:0007632](https://bioregistry.io/UBERON:0007632)                                                          |
-| DHBA:12458     |        1 | [UBERON:0007633](https://bioregistry.io/UBERON:0007633)                                                          |
-| DHBA:12481     |        1 | [UBERON:0007634](https://bioregistry.io/UBERON:0007634)                                                          |
-| DHBA:10570     |        1 | [UBERON:0007639](https://bioregistry.io/UBERON:0007639)                                                          |
-| DHBA:266441713 |        1 | [UBERON:0007641](https://bioregistry.io/UBERON:0007641)                                                          |
-| DHBA:12810     |        1 | [UBERON:0007656](https://bioregistry.io/UBERON:0007656)                                                          |
-| DHBA:12789     |        1 | [UBERON:0007703](https://bioregistry.io/UBERON:0007703)                                                          |
-| DHBA:12456     |        1 | [UBERON:0007710](https://bioregistry.io/UBERON:0007710)                                                          |
-| DHBA:12496     |        1 | [UBERON:0007764](https://bioregistry.io/UBERON:0007764)                                                          |
-| DHBA:266441547 |        1 | [UBERON:0007769](https://bioregistry.io/UBERON:0007769)                                                          |
-| DHBA:12873     |        1 | [UBERON:0008335](https://bioregistry.io/UBERON:0008335)                                                          |
-| DHBA:10556     |        1 | [UBERON:0008881](https://bioregistry.io/UBERON:0008881)                                                          |
-| DHBA:10209     |        1 | [UBERON:0008933](https://bioregistry.io/UBERON:0008933)                                                          |
-| DHBA:10452     |        1 | [UBERON:0008993](https://bioregistry.io/UBERON:0008993)                                                          |
-| DHBA:12557     |        1 | [UBERON:0009050](https://bioregistry.io/UBERON:0009050)                                                          |
-| DHBA:12823     |        1 | [UBERON:0009573](https://bioregistry.io/UBERON:0009573)                                                          |
-| DHBA:146035120 |        1 | [UBERON:0009623](https://bioregistry.io/UBERON:0009623)                                                          |
-| DHBA:10571     |        1 | [UBERON:0009641](https://bioregistry.io/UBERON:0009641)                                                          |
-| DHBA:12730     |        1 | [UBERON:0009643](https://bioregistry.io/UBERON:0009643)                                                          |
-| DHBA:12620     |        1 | [UBERON:0009777](https://bioregistry.io/UBERON:0009777)                                                          |
-| DHBA:10173     |        1 | [UBERON:0009834](https://bioregistry.io/UBERON:0009834)                                                          |
-| DHBA:10666     |        1 | [UBERON:0009840](https://bioregistry.io/UBERON:0009840)                                                          |
-| DHBA:10665     |        1 | [UBERON:0009841](https://bioregistry.io/UBERON:0009841)                                                          |
-| DHBA:12099     |        1 | [UBERON:0009857](https://bioregistry.io/UBERON:0009857)                                                          |
-| DHBA:12867     |        1 | [UBERON:0009907](https://bioregistry.io/UBERON:0009907)                                                          |
-| DHBA:12531     |        1 | [UBERON:0009918](https://bioregistry.io/UBERON:0009918)                                                          |
-| DHBA:10353     |        1 | [UBERON:0010010](https://bioregistry.io/UBERON:0010010)                                                          |
-| DHBA:10331     |        1 | [UBERON:0010011](https://bioregistry.io/UBERON:0010011)                                                          |
-| DHBA:12322     |        1 | [UBERON:0010285](https://bioregistry.io/UBERON:0010285)                                                          |
-| DHBA:12863     |        1 | [UBERON:0010287](https://bioregistry.io/UBERON:0010287)                                                          |
-| DHBA:10508     |        1 | [UBERON:0010403](https://bioregistry.io/UBERON:0010403)                                                          |
-| DHBA:12289     |        1 | [UBERON:0011172](https://bioregistry.io/UBERON:0011172)                                                          |
-| DHBA:12888     |        1 | [UBERON:0011213](https://bioregistry.io/UBERON:0011213)                                                          |
-| DHBA:10340     |        1 | [UBERON:0012170](https://bioregistry.io/UBERON:0012170)                                                          |
-| DHBA:10341     |        1 | [UBERON:0012171](https://bioregistry.io/UBERON:0012171)                                                          |
-| DHBA:10610     |        1 | [UBERON:0013118](https://bioregistry.io/UBERON:0013118)                                                          |
-| DHBA:266441669 |        1 | [UBERON:0013531](https://bioregistry.io/UBERON:0013531)                                                          |
-| DHBA:146034836 |        1 | [UBERON:0013541](https://bioregistry.io/UBERON:0013541)                                                          |
-| DHBA:13236     |        1 | [UBERON:0013600](https://bioregistry.io/UBERON:0013600)                                                          |
-| DHBA:10431     |        1 | [UBERON:0013606](https://bioregistry.io/UBERON:0013606)                                                          |
-| DHBA:12234     |        1 | [UBERON:0013734](https://bioregistry.io/UBERON:0013734)                                                          |
-| DHBA:12262     |        1 | [UBERON:0013736](https://bioregistry.io/UBERON:0013736)                                                          |
-| DHBA:12265     |        1 | [UBERON:0013737](https://bioregistry.io/UBERON:0013737)                                                          |
-| DHBA:12263     |        1 | [UBERON:0013738](https://bioregistry.io/UBERON:0013738)                                                          |
-| DHBA:11336     |        1 | [UBERON:0014280](https://bioregistry.io/UBERON:0014280)                                                          |
-| DHBA:10371     |        1 | [UBERON:0014284](https://bioregistry.io/UBERON:0014284)                                                          |
-| DHBA:10270     |        1 | [UBERON:0014370](https://bioregistry.io/UBERON:0014370)                                                          |
-| DHBA:12182     |        1 | [UBERON:0014450](https://bioregistry.io/UBERON:0014450)                                                          |
-| DHBA:266441733 |        1 | [UBERON:0014468](https://bioregistry.io/UBERON:0014468)                                                          |
-| DHBA:10582     |        1 | [UBERON:0014526](https://bioregistry.io/UBERON:0014526)                                                          |
-| DHBA:10584     |        1 | [UBERON:0014527](https://bioregistry.io/UBERON:0014527)                                                          |
-| DHBA:10574     |        1 | [UBERON:0014528](https://bioregistry.io/UBERON:0014528)                                                          |
-| DHBA:10585     |        1 | [UBERON:0014529](https://bioregistry.io/UBERON:0014529)                                                          |
-| DHBA:12038     |        1 | [UBERON:0014534](https://bioregistry.io/UBERON:0014534)                                                          |
-| DHBA:146034792 |        1 | [UBERON:0014544](https://bioregistry.io/UBERON:0014544)                                                          |
-| DHBA:10477     |        1 | [UBERON:0014602](https://bioregistry.io/UBERON:0014602)                                                          |
-| DHBA:10478     |        1 | [UBERON:0014603](https://bioregistry.io/UBERON:0014603)                                                          |
-| DHBA:10479     |        1 | [UBERON:0014604](https://bioregistry.io/UBERON:0014604)                                                          |
-| DHBA:12153     |        1 | [UBERON:0014608](https://bioregistry.io/UBERON:0014608)                                                          |
-| DHBA:12883     |        1 | [UBERON:0014615](https://bioregistry.io/UBERON:0014615)                                                          |
-| DHBA:146034816 |        1 | [UBERON:0014618](https://bioregistry.io/UBERON:0014618)                                                          |
-| DHBA:12390     |        1 | [UBERON:0014644](https://bioregistry.io/UBERON:0014644)                                                          |
-| DHBA:10292     |        1 | [UBERON:0014734](https://bioregistry.io/UBERON:0014734)                                                          |
-| DHBA:10306     |        1 | [UBERON:0014735](https://bioregistry.io/UBERON:0014735)                                                          |
-| DHBA:10313     |        1 | [UBERON:0014736](https://bioregistry.io/UBERON:0014736)                                                          |
-| DHBA:12792     |        1 | [UBERON:0014761](https://bioregistry.io/UBERON:0014761)                                                          |
-| DHBA:12738     |        1 | [UBERON:0014915](https://bioregistry.io/UBERON:0014915)                                                          |
-| DHBA:12105     |        1 | [UBERON:0015117](https://bioregistry.io/UBERON:0015117)                                                          |
-| DHBA:10564     |        1 | [UBERON:0015510](https://bioregistry.io/UBERON:0015510)                                                          |
-| DHBA:10563     |        1 | [UBERON:0015599](https://bioregistry.io/UBERON:0015599)                                                          |
-| DHBA:10562     |        1 | [UBERON:0015703](https://bioregistry.io/UBERON:0015703)                                                          |
-| DHBA:10565     |        1 | [UBERON:0015708](https://bioregistry.io/UBERON:0015708)                                                          |
-| DHBA:10304     |        1 | [UBERON:0015793](https://bioregistry.io/UBERON:0015793)                                                          |
-| DHBA:10305     |        1 | [UBERON:0015800](https://bioregistry.io/UBERON:0015800)                                                          |
-| DHBA:12113     |        1 | [UBERON:0016525](https://bioregistry.io/UBERON:0016525)                                                          |
-| DHBA:10208     |        1 | [UBERON:0016530](https://bioregistry.io/UBERON:0016530)                                                          |
-| DHBA:10235     |        1 | [UBERON:0016538](https://bioregistry.io/UBERON:0016538)                                                          |
-| DHBA:10268     |        1 | [UBERON:0016540](https://bioregistry.io/UBERON:0016540)                                                          |
-| DHBA:10650     |        1 | [UBERON:0016554](https://bioregistry.io/UBERON:0016554)                                                          |
-| DHBA:12618     |        1 | [UBERON:0016633](https://bioregistry.io/UBERON:0016633)                                                          |
-| DHBA:10168     |        1 | [UBERON:0016634](https://bioregistry.io/UBERON:0016634)                                                          |
-| DHBA:12626     |        1 | [UBERON:0016635](https://bioregistry.io/UBERON:0016635)                                                          |
-| DHBA:12465     |        1 | [UBERON:0016637](https://bioregistry.io/UBERON:0016637)                                                          |
-| DHBA:13054     |        1 | [UBERON:0016641](https://bioregistry.io/UBERON:0016641)                                                          |
-| DHBA:12629     |        1 | [UBERON:0016824](https://bioregistry.io/UBERON:0016824)                                                          |
-| DHBA:12628     |        1 | [UBERON:0016825](https://bioregistry.io/UBERON:0016825)                                                          |
-| DHBA:12597     |        1 | [UBERON:0016827](https://bioregistry.io/UBERON:0016827)                                                          |
-| DHBA:12656     |        1 | [UBERON:0016832](https://bioregistry.io/UBERON:0016832)                                                          |
-| DHBA:12459     |        1 | [UBERON:0016843](https://bioregistry.io/UBERON:0016843)                                                          |
-| DHBA:10642     |        1 | [UBERON:0018141](https://bioregistry.io/UBERON:0018141)                                                          |
-| DHBA:10668     |        1 | [UBERON:0019258](https://bioregistry.io/UBERON:0019258)                                                          |
-| DHBA:10557     |        1 | [UBERON:0019261](https://bioregistry.io/UBERON:0019261)                                                          |
-| DHBA:10654     |        1 | [UBERON:0019263](https://bioregistry.io/UBERON:0019263)                                                          |
-| DHBA:10157     |        1 | [UBERON:0019264](https://bioregistry.io/UBERON:0019264)                                                          |
-| DHBA:10649     |        1 | [UBERON:0019267](https://bioregistry.io/UBERON:0019267)                                                          |
-| DHBA:12316     |        1 | [UBERON:0019272](https://bioregistry.io/UBERON:0019272)                                                          |
-| DHBA:12317     |        1 | [UBERON:0019274](https://bioregistry.io/UBERON:0019274)                                                          |
-| DHBA:12130     |        1 | [UBERON:0019278](https://bioregistry.io/UBERON:0019278)                                                          |
-| DHBA:12129     |        1 | [UBERON:0019279](https://bioregistry.io/UBERON:0019279)                                                          |
-| DHBA:146034876 |        1 | [UBERON:0019280](https://bioregistry.io/UBERON:0019280)                                                          |
-| DHBA:12064     |        1 | [UBERON:0019283](https://bioregistry.io/UBERON:0019283)                                                          |
-| DHBA:10448     |        1 | [UBERON:0019295](https://bioregistry.io/UBERON:0019295)                                                          |
-| DHBA:13033     |        1 | [UBERON:0019308](https://bioregistry.io/UBERON:0019308)                                                          |
-| DHBA:12887     |        1 | [UBERON:0019310](https://bioregistry.io/UBERON:0019310)                                                          |
-| DHBA:12569     |        1 | [UBERON:0019312](https://bioregistry.io/UBERON:0019312)                                                          |
-| DHBA:12649     |        1 | [UBERON:0019314](https://bioregistry.io/UBERON:0019314)                                                          |
-| DHBA:12066     |        1 | [UBERON:0022234](https://bioregistry.io/UBERON:0022234)                                                          |
-| DHBA:266441633 |        1 | [UBERON:0022237](https://bioregistry.io/UBERON:0022237)                                                          |
-| DHBA:12059     |        1 | [UBERON:0022242](https://bioregistry.io/UBERON:0022242)                                                          |
-| DHBA:10592     |        1 | [UBERON:0022246](https://bioregistry.io/UBERON:0022246)                                                          |
-| DHBA:10568     |        1 | [UBERON:0022247](https://bioregistry.io/UBERON:0022247)                                                          |
-| DHBA:12071     |        1 | [UBERON:0022250](https://bioregistry.io/UBERON:0022250)                                                          |
-| DHBA:10628     |        1 | [UBERON:0022252](https://bioregistry.io/UBERON:0022252)                                                          |
-| DHBA:10593     |        1 | [UBERON:0022254](https://bioregistry.io/UBERON:0022254)                                                          |
-| DHBA:12089     |        1 | [UBERON:0022256](https://bioregistry.io/UBERON:0022256)                                                          |
-| DHBA:12648     |        1 | [UBERON:0022258](https://bioregistry.io/UBERON:0022258)                                                          |
-| DHBA:266441583 |        1 | [UBERON:0022262](https://bioregistry.io/UBERON:0022262)                                                          |
-| DHBA:266441621 |        1 | [UBERON:0022264](https://bioregistry.io/UBERON:0022264)                                                          |
-| DHBA:12145     |        1 | [UBERON:0022268](https://bioregistry.io/UBERON:0022268)                                                          |
-| DHBA:266441721 |        1 | [UBERON:0022271](https://bioregistry.io/UBERON:0022271)                                                          |
-| DHBA:12774     |        1 | [UBERON:0022272](https://bioregistry.io/UBERON:0022272)                                                          |
-| DHBA:266441661 |        1 | [UBERON:0022283](https://bioregistry.io/UBERON:0022283)                                                          |
-| DHBA:12152     |        1 | [UBERON:0022364](https://bioregistry.io/UBERON:0022364)                                                          |
-| DHBA:12163     |        1 | [UBERON:0022383](https://bioregistry.io/UBERON:0022383)                                                          |
-| DHBA:12143     |        1 | [UBERON:0022395](https://bioregistry.io/UBERON:0022395)                                                          |
-| DHBA:146034872 |        1 | [UBERON:0022398](https://bioregistry.io/UBERON:0022398)                                                          |
-| DHBA:12769     |        1 | [UBERON:0022421](https://bioregistry.io/UBERON:0022421)                                                          |
-| DHBA:12313     |        1 | [UBERON:0022423](https://bioregistry.io/UBERON:0022423)                                                          |
-| DHBA:12662     |        1 | [UBERON:0022424](https://bioregistry.io/UBERON:0022424)                                                          |
-| DHBA:15541     |        1 | [UBERON:0022425](https://bioregistry.io/UBERON:0022425)                                                          |
-| DHBA:15542     |        1 | [UBERON:0022426](https://bioregistry.io/UBERON:0022426)                                                          |
-| DHBA:15543     |        1 | [UBERON:0022427](https://bioregistry.io/UBERON:0022427)                                                          |
-| DHBA:15539     |        1 | [UBERON:0022428](https://bioregistry.io/UBERON:0022428)                                                          |
-| DHBA:15540     |        1 | [UBERON:0022429](https://bioregistry.io/UBERON:0022429)                                                          |
-| DHBA:12468     |        1 | [UBERON:0022434](https://bioregistry.io/UBERON:0022434)                                                          |
-| DHBA:15561     |        1 | [UBERON:0022437](https://bioregistry.io/UBERON:0022437)                                                          |
-| DHBA:10359     |        1 | [UBERON:0023868](https://bioregistry.io/UBERON:0023868)                                                          |
-| DHBA:12384     |        1 | [UBERON:0027285](https://bioregistry.io/UBERON:0027285)                                                          |
-| DHBA:12386     |        1 | [UBERON:0027309](https://bioregistry.io/UBERON:0027309)                                                          |
-| DHBA:12385     |        1 | [UBERON:0027310](https://bioregistry.io/UBERON:0027310)                                                          |
-| DHBA:10377     |        1 | [UBERON:0034673](https://bioregistry.io/UBERON:0034673)                                                          |
-| DHBA:12025     |        1 | [UBERON:0034676](https://bioregistry.io/UBERON:0034676)                                                          |
-| DHBA:12024     |        1 | [UBERON:0034678](https://bioregistry.io/UBERON:0034678)                                                          |
-| DHBA:12695     |        1 | [UBERON:0034708](https://bioregistry.io/UBERON:0034708)                                                          |
-| DHBA:12694     |        1 | [UBERON:0034709](https://bioregistry.io/UBERON:0034709)                                                          |
-| DHBA:12076     |        1 | [UBERON:0034734](https://bioregistry.io/UBERON:0034734)                                                          |
-| DHBA:10580     |        1 | [UBERON:0034743](https://bioregistry.io/UBERON:0034743)                                                          |
-| DHBA:12043     |        1 | [UBERON:0034746](https://bioregistry.io/UBERON:0034746)                                                          |
-| DHBA:12053     |        1 | [UBERON:0034747](https://bioregistry.io/UBERON:0034747)                                                          |
-| DHBA:12052     |        1 | [UBERON:0034749](https://bioregistry.io/UBERON:0034749)                                                          |
-| DHBA:10236     |        1 | [UBERON:0034751](https://bioregistry.io/UBERON:0034751)                                                          |
-| DHBA:10239     |        1 | [UBERON:0034752](https://bioregistry.io/UBERON:0034752)                                                          |
-| DHBA:12070     |        1 | [UBERON:0034753](https://bioregistry.io/UBERON:0034753)                                                          |
-| DHBA:10588     |        1 | [UBERON:0034754](https://bioregistry.io/UBERON:0034754)                                                          |
-| DHBA:12165     |        1 | [UBERON:0034773](https://bioregistry.io/UBERON:0034773)                                                          |
-| DHBA:266441267 |        1 | [UBERON:0034774](https://bioregistry.io/UBERON:0034774)                                                          |
-| DHBA:266441311 |        1 | [UBERON:0034775](https://bioregistry.io/UBERON:0034775)                                                          |
-| DHBA:266441355 |        1 | [UBERON:0034776](https://bioregistry.io/UBERON:0034776)                                                          |
-| DHBA:11275     |        1 | [UBERON:0034777](https://bioregistry.io/UBERON:0034777)                                                          |
-| DHBA:11285     |        1 | [UBERON:0034778](https://bioregistry.io/UBERON:0034778)                                                          |
-| DHBA:11295     |        1 | [UBERON:0034779](https://bioregistry.io/UBERON:0034779)                                                          |
-| DHBA:11280     |        1 | [UBERON:0034780](https://bioregistry.io/UBERON:0034780)                                                          |
-| DHBA:11290     |        1 | [UBERON:0034781](https://bioregistry.io/UBERON:0034781)                                                          |
-| DHBA:11301     |        1 | [UBERON:0034782](https://bioregistry.io/UBERON:0034782)                                                          |
-| DHBA:11281     |        1 | [UBERON:0034798](https://bioregistry.io/UBERON:0034798)                                                          |
-| DHBA:11282     |        1 | [UBERON:0034799](https://bioregistry.io/UBERON:0034799)                                                          |
-| DHBA:11283     |        1 | [UBERON:0034800](https://bioregistry.io/UBERON:0034800)                                                          |
-| DHBA:11284     |        1 | [UBERON:0034801](https://bioregistry.io/UBERON:0034801)                                                          |
-| DHBA:11291     |        1 | [UBERON:0034803](https://bioregistry.io/UBERON:0034803)                                                          |
-| DHBA:11292     |        1 | [UBERON:0034804](https://bioregistry.io/UBERON:0034804)                                                          |
-| DHBA:11293     |        1 | [UBERON:0034805](https://bioregistry.io/UBERON:0034805)                                                          |
-| DHBA:11294     |        1 | [UBERON:0034806](https://bioregistry.io/UBERON:0034806)                                                          |
-| DHBA:11302     |        1 | [UBERON:0034808](https://bioregistry.io/UBERON:0034808)                                                          |
-| DHBA:11303     |        1 | [UBERON:0034809](https://bioregistry.io/UBERON:0034809)                                                          |
-| DHBA:11304     |        1 | [UBERON:0034810](https://bioregistry.io/UBERON:0034810)                                                          |
-| DHBA:11305     |        1 | [UBERON:0034811](https://bioregistry.io/UBERON:0034811)                                                          |
-| DHBA:11306     |        1 | [UBERON:0034812](https://bioregistry.io/UBERON:0034812)                                                          |
-| DHBA:11276     |        1 | [UBERON:0034828](https://bioregistry.io/UBERON:0034828)                                                          |
-| DHBA:11277     |        1 | [UBERON:0034829](https://bioregistry.io/UBERON:0034829)                                                          |
-| DHBA:11278     |        1 | [UBERON:0034830](https://bioregistry.io/UBERON:0034830)                                                          |
-| DHBA:11279     |        1 | [UBERON:0034831](https://bioregistry.io/UBERON:0034831)                                                          |
-| DHBA:11286     |        1 | [UBERON:0034833](https://bioregistry.io/UBERON:0034833)                                                          |
-| DHBA:11287     |        1 | [UBERON:0034834](https://bioregistry.io/UBERON:0034834)                                                          |
-| DHBA:11288     |        1 | [UBERON:0034835](https://bioregistry.io/UBERON:0034835)                                                          |
-| DHBA:11289     |        1 | [UBERON:0034836](https://bioregistry.io/UBERON:0034836)                                                          |
-| DHBA:11296     |        1 | [UBERON:0034838](https://bioregistry.io/UBERON:0034838)                                                          |
-| DHBA:11297     |        1 | [UBERON:0034839](https://bioregistry.io/UBERON:0034839)                                                          |
-| DHBA:11298     |        1 | [UBERON:0034840](https://bioregistry.io/UBERON:0034840)                                                          |
-| DHBA:11299     |        1 | [UBERON:0034841](https://bioregistry.io/UBERON:0034841)                                                          |
-| DHBA:11300     |        1 | [UBERON:0034842](https://bioregistry.io/UBERON:0034842)                                                          |
-| DHBA:266441271 |        1 | [UBERON:0034858](https://bioregistry.io/UBERON:0034858)                                                          |
-| DHBA:266441283 |        1 | [UBERON:0034859](https://bioregistry.io/UBERON:0034859)                                                          |
-| DHBA:266441287 |        1 | [UBERON:0034860](https://bioregistry.io/UBERON:0034860)                                                          |
-| DHBA:266441291 |        1 | [UBERON:0034861](https://bioregistry.io/UBERON:0034861)                                                          |
-| DHBA:266441315 |        1 | [UBERON:0034863](https://bioregistry.io/UBERON:0034863)                                                          |
-| DHBA:266441327 |        1 | [UBERON:0034864](https://bioregistry.io/UBERON:0034864)                                                          |
-| DHBA:266441331 |        1 | [UBERON:0034865](https://bioregistry.io/UBERON:0034865)                                                          |
-| DHBA:266441335 |        1 | [UBERON:0034866](https://bioregistry.io/UBERON:0034866)                                                          |
-| DHBA:266441359 |        1 | [UBERON:0034868](https://bioregistry.io/UBERON:0034868)                                                          |
-| DHBA:266441371 |        1 | [UBERON:0034869](https://bioregistry.io/UBERON:0034869)                                                          |
-| DHBA:266441375 |        1 | [UBERON:0034870](https://bioregistry.io/UBERON:0034870)                                                          |
-| DHBA:266441379 |        1 | [UBERON:0034871](https://bioregistry.io/UBERON:0034871)                                                          |
-| DHBA:266441383 |        1 | [UBERON:0034872](https://bioregistry.io/UBERON:0034872)                                                          |
-| DHBA:10214     |        1 | [UBERON:0034889](https://bioregistry.io/UBERON:0034889)                                                          |
-| DHBA:10288     |        1 | [UBERON:0034891](https://bioregistry.io/UBERON:0034891)                                                          |
-| DHBA:10290     |        1 | [UBERON:0034892](https://bioregistry.io/UBERON:0034892)                                                          |
-| DHBA:10328     |        1 | [UBERON:0034893](https://bioregistry.io/UBERON:0034893)                                                          |
-| DHBA:10386     |        1 | [UBERON:0034894](https://bioregistry.io/UBERON:0034894)                                                          |
-| DHBA:10385     |        1 | [UBERON:0034895](https://bioregistry.io/UBERON:0034895)                                                          |
-| DHBA:266441591 |        1 | [UBERON:0034896](https://bioregistry.io/UBERON:0034896)                                                          |
-| DHBA:12184     |        1 | [UBERON:0034910](https://bioregistry.io/UBERON:0034910)                                                          |
-| DHBA:12187     |        1 | [UBERON:0034918](https://bioregistry.io/UBERON:0034918)                                                          |
-| DHBA:12080     |        1 | [UBERON:0034931](https://bioregistry.io/UBERON:0034931)                                                          |
-| DHBA:12682     |        1 | [UBERON:0034994](https://bioregistry.io/UBERON:0034994)                                                          |
-| DHBA:12602     |        1 | [UBERON:0035019](https://bioregistry.io/UBERON:0035019)                                                          |
-| DHBA:10380     |        1 | [UBERON:0035026](https://bioregistry.io/UBERON:0035026)                                                          |
-| DHBA:266441729 |        1 | [UBERON:0035922](https://bioregistry.io/UBERON:0035922)                                                          |
-| DHBA:12026     |        1 | [UBERON:0035924](https://bioregistry.io/UBERON:0035924)                                                          |
-| DHBA:13227     |        1 | [UBERON:0035925](https://bioregistry.io/UBERON:0035925)                                                          |
-| DHBA:12467     |        1 | [UBERON:0035930](https://bioregistry.io/UBERON:0035930)                                                          |
-| DHBA:12082     |        1 | [UBERON:0035931](https://bioregistry.io/UBERON:0035931)                                                          |
-| DHBA:10569     |        1 | [UBERON:0035937](https://bioregistry.io/UBERON:0035937)                                                          |
-| DHBA:12728     |        1 | [UBERON:0035938](https://bioregistry.io/UBERON:0035938)                                                          |
-| DHBA:12095     |        1 | [UBERON:0035970](https://bioregistry.io/UBERON:0035970)                                                          |
-| DHBA:146034972 |        1 | [UBERON:0035973](https://bioregistry.io/UBERON:0035973)                                                          |
-| DHBA:12389     |        1 | [UBERON:0036043](https://bioregistry.io/UBERON:0036043)                                                          |
-| DHBA:12846     |        1 | [UBERON:0036044](https://bioregistry.io/UBERON:0036044)                                                          |
-| DHBA:12847     |        1 | [UBERON:0036065](https://bioregistry.io/UBERON:0036065)                                                          |
-| DHBA:12166     |        1 | [UBERON:0036164](https://bioregistry.io/UBERON:0036164)                                                          |
-
-## DMBA
-
-| curie          |   usages | nodes                                                   |
-|----------------|----------|---------------------------------------------------------|
-| DMBA:17767     |        1 | [UBERON:0000052](https://bioregistry.io/UBERON:0000052) |
-| DMBA:15903     |        1 | [UBERON:0000203](https://bioregistry.io/UBERON:0000203) |
-| DMBA:15751     |        1 | [UBERON:0000204](https://bioregistry.io/UBERON:0000204) |
-| DMBA:16400     |        1 | [UBERON:0000434](https://bioregistry.io/UBERON:0000434) |
-| DMBA:16271     |        1 | [UBERON:0000435](https://bioregistry.io/UBERON:0000435) |
-| DMBA:17769     |        1 | [UBERON:0000908](https://bioregistry.io/UBERON:0000908) |
-| DMBA:17751     |        1 | [UBERON:0000935](https://bioregistry.io/UBERON:0000935) |
-| DMBA:17787     |        1 | [UBERON:0000936](https://bioregistry.io/UBERON:0000936) |
-| DMBA:17783     |        1 | [UBERON:0000959](https://bioregistry.io/UBERON:0000959) |
-| DMBA:16946     |        1 | [UBERON:0001063](https://bioregistry.io/UBERON:0001063) |
-| DMBA:15652     |        1 | [UBERON:0001793](https://bioregistry.io/UBERON:0001793) |
-| DMBA:15739     |        1 | [UBERON:0001869](https://bioregistry.io/UBERON:0001869) |
-| DMBA:16002     |        1 | [UBERON:0001870](https://bioregistry.io/UBERON:0001870) |
-| DMBA:15855     |        1 | [UBERON:0001873](https://bioregistry.io/UBERON:0001873) |
-| DMBA:15857     |        1 | [UBERON:0001874](https://bioregistry.io/UBERON:0001874) |
-| DMBA:15764     |        1 | [UBERON:0001877](https://bioregistry.io/UBERON:0001877) |
-| DMBA:15780     |        1 | [UBERON:0001878](https://bioregistry.io/UBERON:0001878) |
-| DMBA:16115     |        1 | [UBERON:0001885](https://bioregistry.io/UBERON:0001885) |
-| DMBA:17770     |        1 | [UBERON:0001887](https://bioregistry.io/UBERON:0001887) |
-| DMBA:17773     |        1 | [UBERON:0001888](https://bioregistry.io/UBERON:0001888) |
-| DMBA:15566     |        1 | [UBERON:0001890](https://bioregistry.io/UBERON:0001890) |
-| DMBA:16649     |        1 | [UBERON:0001891](https://bioregistry.io/UBERON:0001891) |
-| DMBA:16308     |        1 | [UBERON:0001894](https://bioregistry.io/UBERON:0001894) |
-| DMBA:17352     |        1 | [UBERON:0001896](https://bioregistry.io/UBERON:0001896) |
-| DMBA:16376     |        1 | [UBERON:0001897](https://bioregistry.io/UBERON:0001897) |
-| DMBA:16310     |        1 | [UBERON:0001900](https://bioregistry.io/UBERON:0001900) |
-| DMBA:17785     |        1 | [UBERON:0001908](https://bioregistry.io/UBERON:0001908) |
-| DMBA:17768     |        1 | [UBERON:0001909](https://bioregistry.io/UBERON:0001909) |
-| DMBA:16442     |        1 | [UBERON:0001922](https://bioregistry.io/UBERON:0001922) |
-| DMBA:16416     |        1 | [UBERON:0001924](https://bioregistry.io/UBERON:0001924) |
-| DMBA:16428     |        1 | [UBERON:0001925](https://bioregistry.io/UBERON:0001925) |
-| DMBA:16462     |        1 | [UBERON:0001927](https://bioregistry.io/UBERON:0001927) |
-| DMBA:15577     |        1 | [UBERON:0001928](https://bioregistry.io/UBERON:0001928) |
-| DMBA:15633     |        1 | [UBERON:0001929](https://bioregistry.io/UBERON:0001929) |
-| DMBA:15675     |        1 | [UBERON:0001935](https://bioregistry.io/UBERON:0001935) |
-| DMBA:15734     |        1 | [UBERON:0001938](https://bioregistry.io/UBERON:0001938) |
-| DMBA:15729     |        1 | [UBERON:0001939](https://bioregistry.io/UBERON:0001939) |
-| DMBA:16388     |        1 | [UBERON:0001942](https://bioregistry.io/UBERON:0001942) |
-| DMBA:16510     |        1 | [UBERON:0001944](https://bioregistry.io/UBERON:0001944) |
-| DMBA:16678     |        1 | [UBERON:0001945](https://bioregistry.io/UBERON:0001945) |
-| DMBA:16692     |        1 | [UBERON:0001946](https://bioregistry.io/UBERON:0001946) |
-| DMBA:16172     |        1 | [UBERON:0001953](https://bioregistry.io/UBERON:0001953) |
-| DMBA:16124     |        1 | [UBERON:0001954](https://bioregistry.io/UBERON:0001954) |
-| DMBA:15984     |        1 | [UBERON:0002023](https://bioregistry.io/UBERON:0002023) |
-| DMBA:16808     |        1 | [UBERON:0002028](https://bioregistry.io/UBERON:0002028) |
-| DMBA:15660     |        1 | [UBERON:0002034](https://bioregistry.io/UBERON:0002034) |
-| DMBA:15604     |        1 | [UBERON:0002035](https://bioregistry.io/UBERON:0002035) |
-| DMBA:16629     |        1 | [UBERON:0002044](https://bioregistry.io/UBERON:0002044) |
-| DMBA:16939     |        1 | [UBERON:0002129](https://bioregistry.io/UBERON:0002129) |
-| DMBA:17790     |        1 | [UBERON:0002138](https://bioregistry.io/UBERON:0002138) |
-| DMBA:16514     |        1 | [UBERON:0002139](https://bioregistry.io/UBERON:0002139) |
-| DMBA:16862     |        1 | [UBERON:0002140](https://bioregistry.io/UBERON:0002140) |
-| DMBA:16965     |        1 | [UBERON:0002142](https://bioregistry.io/UBERON:0002142) |
-| DMBA:17000     |        1 | [UBERON:0002143](https://bioregistry.io/UBERON:0002143) |
-| DMBA:16342     |        1 | [UBERON:0002144](https://bioregistry.io/UBERON:0002144) |
-| DMBA:16972     |        1 | [UBERON:0002148](https://bioregistry.io/UBERON:0002148) |
-| DMBA:17793     |        1 | [UBERON:0002150](https://bioregistry.io/UBERON:0002150) |
-| DMBA:16823     |        1 | [UBERON:0002153](https://bioregistry.io/UBERON:0002153) |
-| DMBA:17772     |        1 | [UBERON:0002163](https://bioregistry.io/UBERON:0002163) |
-| DMBA:17691     |        1 | [UBERON:0002176](https://bioregistry.io/UBERON:0002176) |
-| DMBA:16163     |        1 | [UBERON:0002191](https://bioregistry.io/UBERON:0002191) |
-| DMBA:15689     |        1 | [UBERON:0002197](https://bioregistry.io/UBERON:0002197) |
-| DMBA:15691     |        1 | [UBERON:0002198](https://bioregistry.io/UBERON:0002198) |
-| DMBA:15723     |        1 | [UBERON:0002206](https://bioregistry.io/UBERON:0002206) |
-| DMBA:17651     |        1 | [UBERON:0002240](https://bioregistry.io/UBERON:0002240) |
-| DMBA:16920     |        1 | [UBERON:0002245](https://bioregistry.io/UBERON:0002245) |
-| DMBA:16964     |        1 | [UBERON:0002267](https://bioregistry.io/UBERON:0002267) |
-| DMBA:126651562 |        1 | [UBERON:0002285](https://bioregistry.io/UBERON:0002285) |
-| DMBA:126651722 |        1 | [UBERON:0002289](https://bioregistry.io/UBERON:0002289) |
-| DMBA:126652042 |        1 | [UBERON:0002291](https://bioregistry.io/UBERON:0002291) |
-| DMBA:17766     |        1 | [UBERON:0002310](https://bioregistry.io/UBERON:0002310) |
-| DMBA:16926     |        1 | [UBERON:0002317](https://bioregistry.io/UBERON:0002317) |
-| DMBA:126651782 |        1 | [UBERON:0002422](https://bioregistry.io/UBERON:0002422) |
-| DMBA:15690     |        1 | [UBERON:0002434](https://bioregistry.io/UBERON:0002434) |
-| DMBA:15851     |        1 | [UBERON:0002435](https://bioregistry.io/UBERON:0002435) |
-| DMBA:17007     |        1 | [UBERON:0002438](https://bioregistry.io/UBERON:0002438) |
-| DMBA:15830     |        1 | [UBERON:0002477](https://bioregistry.io/UBERON:0002477) |
-| DMBA:16436     |        1 | [UBERON:0002479](https://bioregistry.io/UBERON:0002479) |
-| DMBA:16341     |        1 | [UBERON:0002480](https://bioregistry.io/UBERON:0002480) |
-| DMBA:16698     |        1 | [UBERON:0002563](https://bioregistry.io/UBERON:0002563) |
-| DMBA:16589     |        1 | [UBERON:0002565](https://bioregistry.io/UBERON:0002565) |
-| DMBA:16586     |        1 | [UBERON:0002572](https://bioregistry.io/UBERON:0002572) |
-| DMBA:112892265 |        1 | [UBERON:0002601](https://bioregistry.io/UBERON:0002601) |
-| DMBA:16930     |        1 | [UBERON:0002602](https://bioregistry.io/UBERON:0002602) |
-| DMBA:16932     |        1 | [UBERON:0002613](https://bioregistry.io/UBERON:0002613) |
-| DMBA:17807     |        1 | [UBERON:0002615](https://bioregistry.io/UBERON:0002615) |
-| DMBA:15612     |        1 | [UBERON:0002617](https://bioregistry.io/UBERON:0002617) |
-| DMBA:17737     |        1 | [UBERON:0002618](https://bioregistry.io/UBERON:0002618) |
-| DMBA:15665     |        1 | [UBERON:0002620](https://bioregistry.io/UBERON:0002620) |
-| DMBA:15730     |        1 | [UBERON:0002632](https://bioregistry.io/UBERON:0002632) |
-| DMBA:15662     |        1 | [UBERON:0002634](https://bioregistry.io/UBERON:0002634) |
-| DMBA:16427     |        1 | [UBERON:0002637](https://bioregistry.io/UBERON:0002637) |
-| DMBA:17777     |        1 | [UBERON:0002643](https://bioregistry.io/UBERON:0002643) |
-| DMBA:15731     |        1 | [UBERON:0002664](https://bioregistry.io/UBERON:0002664) |
-| DMBA:17736     |        1 | [UBERON:0002668](https://bioregistry.io/UBERON:0002668) |
-| DMBA:16420     |        1 | [UBERON:0002679](https://bioregistry.io/UBERON:0002679) |
-| DMBA:16422     |        1 | [UBERON:0002681](https://bioregistry.io/UBERON:0002681) |
-| DMBA:17279     |        1 | [UBERON:0002682](https://bioregistry.io/UBERON:0002682) |
-| DMBA:16421     |        1 | [UBERON:0002685](https://bioregistry.io/UBERON:0002685) |
-| DMBA:15582     |        1 | [UBERON:0002689](https://bioregistry.io/UBERON:0002689) |
-| DMBA:16777     |        1 | [UBERON:0002696](https://bioregistry.io/UBERON:0002696) |
-| DMBA:16787     |        1 | [UBERON:0002700](https://bioregistry.io/UBERON:0002700) |
-| DMBA:17756     |        1 | [UBERON:0002707](https://bioregistry.io/UBERON:0002707) |
-| DMBA:16441     |        1 | [UBERON:0002708](https://bioregistry.io/UBERON:0002708) |
-| DMBA:17792     |        1 | [UBERON:0002714](https://bioregistry.io/UBERON:0002714) |
-| DMBA:17796     |        1 | [UBERON:0002718](https://bioregistry.io/UBERON:0002718) |
-| DMBA:17780     |        1 | [UBERON:0002720](https://bioregistry.io/UBERON:0002720) |
-| DMBA:16903     |        1 | [UBERON:0002722](https://bioregistry.io/UBERON:0002722) |
-| DMBA:16102     |        1 | [UBERON:0002728](https://bioregistry.io/UBERON:0002728) |
-| DMBA:17746     |        1 | [UBERON:0002731](https://bioregistry.io/UBERON:0002731) |
-| DMBA:17761     |        1 | [UBERON:0002753](https://bioregistry.io/UBERON:0002753) |
-| DMBA:17760     |        1 | [UBERON:0002755](https://bioregistry.io/UBERON:0002755) |
-| DMBA:16423     |        1 | [UBERON:0002776](https://bioregistry.io/UBERON:0002776) |
-| DMBA:15844     |        1 | [UBERON:0002778](https://bioregistry.io/UBERON:0002778) |
-| DMBA:17261     |        1 | [UBERON:0002779](https://bioregistry.io/UBERON:0002779) |
-| DMBA:17262     |        1 | [UBERON:0002782](https://bioregistry.io/UBERON:0002782) |
-| DMBA:17741     |        1 | [UBERON:0002786](https://bioregistry.io/UBERON:0002786) |
-| DMBA:16853     |        1 | [UBERON:0002869](https://bioregistry.io/UBERON:0002869) |
-| DMBA:16339     |        1 | [UBERON:0002876](https://bioregistry.io/UBERON:0002876) |
-| DMBA:15876     |        1 | [UBERON:0002884](https://bioregistry.io/UBERON:0002884) |
-| DMBA:15944     |        1 | [UBERON:0002886](https://bioregistry.io/UBERON:0002886) |
-| DMBA:15947     |        1 | [UBERON:0002889](https://bioregistry.io/UBERON:0002889) |
-| DMBA:15994     |        1 | [UBERON:0002890](https://bioregistry.io/UBERON:0002890) |
-| DMBA:15951     |        1 | [UBERON:0002893](https://bioregistry.io/UBERON:0002893) |
-| DMBA:16850     |        1 | [UBERON:0002918](https://bioregistry.io/UBERON:0002918) |
-| DMBA:15794     |        1 | [UBERON:0002933](https://bioregistry.io/UBERON:0002933) |
-| DMBA:16737     |        1 | [UBERON:0002936](https://bioregistry.io/UBERON:0002936) |
-| DMBA:16633     |        1 | [UBERON:0002938](https://bioregistry.io/UBERON:0002938) |
-| DMBA:16430     |        1 | [UBERON:0002942](https://bioregistry.io/UBERON:0002942) |
-| DMBA:16429     |        1 | [UBERON:0002945](https://bioregistry.io/UBERON:0002945) |
-| DMBA:17802     |        1 | [UBERON:0002949](https://bioregistry.io/UBERON:0002949) |
-| DMBA:17774     |        1 | [UBERON:0002953](https://bioregistry.io/UBERON:0002953) |
-| DMBA:16405     |        1 | [UBERON:0002955](https://bioregistry.io/UBERON:0002955) |
-| DMBA:16402     |        1 | [UBERON:0002972](https://bioregistry.io/UBERON:0002972) |
-| DMBA:15779     |        1 | [UBERON:0002977](https://bioregistry.io/UBERON:0002977) |
-| DMBA:16435     |        1 | [UBERON:0002983](https://bioregistry.io/UBERON:0002983) |
-| DMBA:17805     |        1 | [UBERON:0002987](https://bioregistry.io/UBERON:0002987) |
-| DMBA:16410     |        1 | [UBERON:0002992](https://bioregistry.io/UBERON:0002992) |
-| DMBA:17776     |        1 | [UBERON:0003002](https://bioregistry.io/UBERON:0003002) |
-| DMBA:16860     |        1 | [UBERON:0003006](https://bioregistry.io/UBERON:0003006) |
-| DMBA:16852     |        1 | [UBERON:0003007](https://bioregistry.io/UBERON:0003007) |
-| DMBA:17317     |        1 | [UBERON:0003011](https://bioregistry.io/UBERON:0003011) |
-| DMBA:17753     |        1 | [UBERON:0003025](https://bioregistry.io/UBERON:0003025) |
-| DMBA:16072     |        1 | [UBERON:0003027](https://bioregistry.io/UBERON:0003027) |
-| DMBA:16426     |        1 | [UBERON:0003031](https://bioregistry.io/UBERON:0003031) |
-| DMBA:16452     |        1 | [UBERON:0003033](https://bioregistry.io/UBERON:0003033) |
-| DMBA:16418     |        1 | [UBERON:0003036](https://bioregistry.io/UBERON:0003036) |
-| DMBA:16810     |        1 | [UBERON:0003052](https://bioregistry.io/UBERON:0003052) |
-| DMBA:15565     |        1 | [UBERON:0003075](https://bioregistry.io/UBERON:0003075) |
-| DMBA:16131     |        1 | [UBERON:0003881](https://bioregistry.io/UBERON:0003881) |
-| DMBA:16136     |        1 | [UBERON:0003882](https://bioregistry.io/UBERON:0003882) |
-| DMBA:16141     |        1 | [UBERON:0003883](https://bioregistry.io/UBERON:0003883) |
-| DMBA:15957     |        1 | [UBERON:0004069](https://bioregistry.io/UBERON:0004069) |
-| DMBA:16929     |        1 | [UBERON:0004073](https://bioregistry.io/UBERON:0004073) |
-| DMBA:15912     |        1 | [UBERON:0004186](https://bioregistry.io/UBERON:0004186) |
-| DMBA:17765     |        1 | [UBERON:0004545](https://bioregistry.io/UBERON:0004545) |
-| DMBA:17739     |        1 | [UBERON:0004673](https://bioregistry.io/UBERON:0004673) |
-| DMBA:17742     |        1 | [UBERON:0004674](https://bioregistry.io/UBERON:0004674) |
-| DMBA:17750     |        1 | [UBERON:0004675](https://bioregistry.io/UBERON:0004675) |
-| DMBA:16186     |        1 | [UBERON:0004683](https://bioregistry.io/UBERON:0004683) |
-| DMBA:16396     |        1 | [UBERON:0004703](https://bioregistry.io/UBERON:0004703) |
-| DMBA:16814     |        1 | [UBERON:0004720](https://bioregistry.io/UBERON:0004720) |
-| DMBA:16943     |        1 | [UBERON:0005349](https://bioregistry.io/UBERON:0005349) |
-| DMBA:16940     |        1 | [UBERON:0005350](https://bioregistry.io/UBERON:0005350) |
-| DMBA:16945     |        1 | [UBERON:0005351](https://bioregistry.io/UBERON:0005351) |
-| DMBA:15913     |        1 | [UBERON:0005376](https://bioregistry.io/UBERON:0005376) |
-| DMBA:15909     |        1 | [UBERON:0005378](https://bioregistry.io/UBERON:0005378) |
-| DMBA:15910     |        1 | [UBERON:0005379](https://bioregistry.io/UBERON:0005379) |
-| DMBA:16122     |        1 | [UBERON:0005381](https://bioregistry.io/UBERON:0005381) |
-| DMBA:15858     |        1 | [UBERON:0005403](https://bioregistry.io/UBERON:0005403) |
-| DMBA:16915     |        1 | [UBERON:0005499](https://bioregistry.io/UBERON:0005499) |
-| DMBA:17093     |        1 | [UBERON:0005507](https://bioregistry.io/UBERON:0005507) |
-| DMBA:17156     |        1 | [UBERON:0005511](https://bioregistry.io/UBERON:0005511) |
-| DMBA:17221     |        1 | [UBERON:0005515](https://bioregistry.io/UBERON:0005515) |
-| DMBA:17290     |        1 | [UBERON:0005519](https://bioregistry.io/UBERON:0005519) |
-| DMBA:17353     |        1 | [UBERON:0005523](https://bioregistry.io/UBERON:0005523) |
-| DMBA:17416     |        1 | [UBERON:0005527](https://bioregistry.io/UBERON:0005527) |
-| DMBA:17022     |        1 | [UBERON:0005566](https://bioregistry.io/UBERON:0005566) |
-| DMBA:16916     |        1 | [UBERON:0005568](https://bioregistry.io/UBERON:0005568) |
-| DMBA:17023     |        1 | [UBERON:0005569](https://bioregistry.io/UBERON:0005569) |
-| DMBA:17091     |        1 | [UBERON:0005570](https://bioregistry.io/UBERON:0005570) |
-| DMBA:17024     |        1 | [UBERON:0005572](https://bioregistry.io/UBERON:0005572) |
-| DMBA:17155     |        1 | [UBERON:0005573](https://bioregistry.io/UBERON:0005573) |
-| DMBA:17094     |        1 | [UBERON:0005575](https://bioregistry.io/UBERON:0005575) |
-| DMBA:17219     |        1 | [UBERON:0005576](https://bioregistry.io/UBERON:0005576) |
-| DMBA:17157     |        1 | [UBERON:0005578](https://bioregistry.io/UBERON:0005578) |
-| DMBA:17289     |        1 | [UBERON:0005579](https://bioregistry.io/UBERON:0005579) |
-| DMBA:17222     |        1 | [UBERON:0005581](https://bioregistry.io/UBERON:0005581) |
-| DMBA:17351     |        1 | [UBERON:0005582](https://bioregistry.io/UBERON:0005582) |
-| DMBA:17291     |        1 | [UBERON:0005584](https://bioregistry.io/UBERON:0005584) |
-| DMBA:17415     |        1 | [UBERON:0005585](https://bioregistry.io/UBERON:0005585) |
-| DMBA:17354     |        1 | [UBERON:0005587](https://bioregistry.io/UBERON:0005587) |
-| DMBA:17475     |        1 | [UBERON:0005588](https://bioregistry.io/UBERON:0005588) |
-| DMBA:17417     |        1 | [UBERON:0005590](https://bioregistry.io/UBERON:0005590) |
-| DMBA:17794     |        1 | [UBERON:0006086](https://bioregistry.io/UBERON:0006086) |
-| DMBA:16086     |        1 | [UBERON:0006104](https://bioregistry.io/UBERON:0006104) |
-| DMBA:17782     |        1 | [UBERON:0006696](https://bioregistry.io/UBERON:0006696) |
-| DMBA:17781     |        1 | [UBERON:0006698](https://bioregistry.io/UBERON:0006698) |
-| DMBA:17754     |        1 | [UBERON:0006847](https://bioregistry.io/UBERON:0006847) |
-| DMBA:16204     |        1 | [UBERON:0007630](https://bioregistry.io/UBERON:0007630) |
-| DMBA:15967     |        1 | [UBERON:0007631](https://bioregistry.io/UBERON:0007631) |
-| DMBA:16973     |        1 | [UBERON:0007632](https://bioregistry.io/UBERON:0007632) |
-| DMBA:16844     |        1 | [UBERON:0007634](https://bioregistry.io/UBERON:0007634) |
-| DMBA:15719     |        1 | [UBERON:0007767](https://bioregistry.io/UBERON:0007767) |
-| DMBA:17327     |        1 | [UBERON:0009918](https://bioregistry.io/UBERON:0009918) |
-| DMBA:17008     |        1 | [UBERON:0010036](https://bioregistry.io/UBERON:0010036) |
-| DMBA:16884     |        1 | [UBERON:0011172](https://bioregistry.io/UBERON:0011172) |
-| DMBA:17748     |        1 | [UBERON:0011213](https://bioregistry.io/UBERON:0011213) |
-| DMBA:16093     |        1 | [UBERON:0013531](https://bioregistry.io/UBERON:0013531) |
-| DMBA:16590     |        1 | [UBERON:0013599](https://bioregistry.io/UBERON:0013599) |
-| DMBA:16748     |        1 | [UBERON:0013734](https://bioregistry.io/UBERON:0013734) |
-| DMBA:16133     |        1 | [UBERON:0014548](https://bioregistry.io/UBERON:0014548) |
-| DMBA:16138     |        1 | [UBERON:0014551](https://bioregistry.io/UBERON:0014551) |
-| DMBA:16132     |        1 | [UBERON:0014552](https://bioregistry.io/UBERON:0014552) |
-| DMBA:16142     |        1 | [UBERON:0014553](https://bioregistry.io/UBERON:0014553) |
-| DMBA:16134     |        1 | [UBERON:0014554](https://bioregistry.io/UBERON:0014554) |
-| DMBA:16140     |        1 | [UBERON:0014555](https://bioregistry.io/UBERON:0014555) |
-| DMBA:16145     |        1 | [UBERON:0014556](https://bioregistry.io/UBERON:0014556) |
-| DMBA:16135     |        1 | [UBERON:0014557](https://bioregistry.io/UBERON:0014557) |
-| DMBA:16137     |        1 | [UBERON:0014558](https://bioregistry.io/UBERON:0014558) |
-| DMBA:16146     |        1 | [UBERON:0014559](https://bioregistry.io/UBERON:0014559) |
-| DMBA:16144     |        1 | [UBERON:0014560](https://bioregistry.io/UBERON:0014560) |
-| DMBA:16240     |        1 | [UBERON:0014591](https://bioregistry.io/UBERON:0014591) |
-| DMBA:17749     |        1 | [UBERON:0014615](https://bioregistry.io/UBERON:0014615) |
-| DMBA:15956     |        1 | [UBERON:0014741](https://bioregistry.io/UBERON:0014741) |
-| DMBA:17797     |        1 | [UBERON:0014761](https://bioregistry.io/UBERON:0014761) |
-| DMBA:15904     |        1 | [UBERON:0014913](https://bioregistry.io/UBERON:0014913) |
-| DMBA:15961     |        1 | [UBERON:0015244](https://bioregistry.io/UBERON:0015244) |
-| DMBA:16147     |        1 | [UBERON:0015793](https://bioregistry.io/UBERON:0015793) |
-| DMBA:16154     |        1 | [UBERON:0015800](https://bioregistry.io/UBERON:0015800) |
-| DMBA:16016     |        1 | [UBERON:0016530](https://bioregistry.io/UBERON:0016530) |
-| DMBA:16044     |        1 | [UBERON:0016538](https://bioregistry.io/UBERON:0016538) |
-| DMBA:16030     |        1 | [UBERON:0016540](https://bioregistry.io/UBERON:0016540) |
-| DMBA:17274     |        1 | [UBERON:0016843](https://bioregistry.io/UBERON:0016843) |
-| DMBA:17759     |        1 | [UBERON:0018237](https://bioregistry.io/UBERON:0018237) |
-| DMBA:16650     |        1 | [UBERON:0019272](https://bioregistry.io/UBERON:0019272) |
-| DMBA:16751     |        1 | [UBERON:0019274](https://bioregistry.io/UBERON:0019274) |
-| DMBA:17476     |        1 | [UBERON:0019284](https://bioregistry.io/UBERON:0019284) |
-| DMBA:17538     |        1 | [UBERON:0019285](https://bioregistry.io/UBERON:0019285) |
-| DMBA:17596     |        1 | [UBERON:0019286](https://bioregistry.io/UBERON:0019286) |
-| DMBA:15965     |        1 | [UBERON:0019289](https://bioregistry.io/UBERON:0019289) |
-| DMBA:15962     |        1 | [UBERON:0019290](https://bioregistry.io/UBERON:0019290) |
-| DMBA:15761     |        1 | [UBERON:0019308](https://bioregistry.io/UBERON:0019308) |
-| DMBA:17747     |        1 | [UBERON:0019310](https://bioregistry.io/UBERON:0019310) |
-| DMBA:17190     |        1 | [UBERON:0022424](https://bioregistry.io/UBERON:0022424) |
-| DMBA:17260     |        1 | [UBERON:0022437](https://bioregistry.io/UBERON:0022437) |
-| DMBA:15945     |        1 | [UBERON:0034673](https://bioregistry.io/UBERON:0034673) |
-| DMBA:17779     |        1 | [UBERON:0034734](https://bioregistry.io/UBERON:0034734) |
-| DMBA:16058     |        1 | [UBERON:0034891](https://bioregistry.io/UBERON:0034891) |
-| DMBA:16585     |        1 | [UBERON:0034910](https://bioregistry.io/UBERON:0034910) |
-| DMBA:16000     |        1 | [UBERON:0034991](https://bioregistry.io/UBERON:0034991) |
-| DMBA:15999     |        1 | [UBERON:0034999](https://bioregistry.io/UBERON:0034999) |
-| DMBA:15950     |        1 | [UBERON:0035001](https://bioregistry.io/UBERON:0035001) |
-| DMBA:17690     |        1 | [UBERON:0035024](https://bioregistry.io/UBERON:0035024) |
-| DMBA:16598     |        1 | [UBERON:0035562](https://bioregistry.io/UBERON:0035562) |
-| DMBA:17084     |        1 | [UBERON:0035973](https://bioregistry.io/UBERON:0035973) |
-| DMBA:15567     |        1 | [UBERON:0036218](https://bioregistry.io/UBERON:0036218) |
-
-## Geisha
+## `Geisha`
 
 | curie      |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                         |
 |------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Geisha:syn |        7 | [UBERON:0003052](https://bioregistry.io/UBERON:0003052), [UBERON:0003372](https://bioregistry.io/UBERON:0003372), [UBERON:0003662](https://bioregistry.io/UBERON:0003662), [UBERON:0003859](https://bioregistry.io/UBERON:0003859), [UBERON:0008962](https://bioregistry.io/UBERON:0008962), [UBERON:0009749](https://bioregistry.io/UBERON:0009749), [UBERON:0009889](https://bioregistry.io/UBERON:0009889) |
 
-## Giesha
+## `Giesha`
 
 | curie      |   usages | nodes                                                   |
 |------------|----------|---------------------------------------------------------|
 | Giesha:syn |        1 | [UBERON:0005421](https://bioregistry.io/UBERON:0005421) |
 
-## HBA
-
-| curie         |   usages | nodes                                                                                                            |
-|---------------|----------|------------------------------------------------------------------------------------------------------------------|
-| HBA:9218      |        2 | [UBERON:0002316](https://bioregistry.io/UBERON:0002316), [UBERON:0003544](https://bioregistry.io/UBERON:0003544) |
-| HBA:4426      |        2 | [UBERON:0002596](https://bioregistry.io/UBERON:0002596), [UBERON:0002939](https://bioregistry.io/UBERON:0002939) |
-| HBA:9371      |        2 | [UBERON:0002915](https://bioregistry.io/UBERON:0002915), [UBERON:0003936](https://bioregistry.io/UBERON:0003936) |
-| HBA:4634      |        1 | [UBERON:0000007](https://bioregistry.io/UBERON:0000007)                                                          |
-| HBA:9249      |        1 | [UBERON:0000052](https://bioregistry.io/UBERON:0000052)                                                          |
-| HBA:265504966 |        1 | [UBERON:0000373](https://bioregistry.io/UBERON:0000373)                                                          |
-| HBA:4536      |        1 | [UBERON:0000433](https://bioregistry.io/UBERON:0000433)                                                          |
-| HBA:12906     |        1 | [UBERON:0000434](https://bioregistry.io/UBERON:0000434)                                                          |
-| HBA:12915     |        1 | [UBERON:0000435](https://bioregistry.io/UBERON:0000435)                                                          |
-| HBA:9228      |        1 | [UBERON:0000908](https://bioregistry.io/UBERON:0000908)                                                          |
-| HBA:9221      |        1 | [UBERON:0000935](https://bioregistry.io/UBERON:0000935)                                                          |
-| HBA:9229      |        1 | [UBERON:0000936](https://bioregistry.io/UBERON:0000936)                                                          |
-| HBA:9307      |        1 | [UBERON:0000941](https://bioregistry.io/UBERON:0000941)                                                          |
-| HBA:4005      |        1 | [UBERON:0000955](https://bioregistry.io/UBERON:0000955)                                                          |
-| HBA:4008      |        1 | [UBERON:0000956](https://bioregistry.io/UBERON:0000956)                                                          |
-| HBA:9310      |        1 | [UBERON:0000959](https://bioregistry.io/UBERON:0000959)                                                          |
-| HBA:9131      |        1 | [UBERON:0000988](https://bioregistry.io/UBERON:0000988)                                                          |
-| HBA:12945     |        1 | [UBERON:0001063](https://bioregistry.io/UBERON:0001063)                                                          |
-| HBA:9300      |        1 | [UBERON:0001579](https://bioregistry.io/UBERON:0001579)                                                          |
-| HBA:9316      |        1 | [UBERON:0001643](https://bioregistry.io/UBERON:0001643)                                                          |
-| HBA:9319      |        1 | [UBERON:0001644](https://bioregistry.io/UBERON:0001644)                                                          |
-| HBA:9322      |        1 | [UBERON:0001645](https://bioregistry.io/UBERON:0001645)                                                          |
-| HBA:9325      |        1 | [UBERON:0001646](https://bioregistry.io/UBERON:0001646)                                                          |
-| HBA:9328      |        1 | [UBERON:0001647](https://bioregistry.io/UBERON:0001647)                                                          |
-| HBA:9331      |        1 | [UBERON:0001648](https://bioregistry.io/UBERON:0001648)                                                          |
-| HBA:9334      |        1 | [UBERON:0001649](https://bioregistry.io/UBERON:0001649)                                                          |
-| HBA:9343      |        1 | [UBERON:0001650](https://bioregistry.io/UBERON:0001650)                                                          |
-| HBA:9030      |        1 | [UBERON:0001715](https://bioregistry.io/UBERON:0001715)                                                          |
-| HBA:9676      |        1 | [UBERON:0001717](https://bioregistry.io/UBERON:0001717)                                                          |
-| HBA:9205      |        1 | [UBERON:0001718](https://bioregistry.io/UBERON:0001718)                                                          |
-| HBA:9516      |        1 | [UBERON:0001719](https://bioregistry.io/UBERON:0001719)                                                          |
-| HBA:9702      |        1 | [UBERON:0001721](https://bioregistry.io/UBERON:0001721)                                                          |
-| HBA:9700      |        1 | [UBERON:0001722](https://bioregistry.io/UBERON:0001722)                                                          |
-| HBA:9337      |        1 | [UBERON:0001759](https://bioregistry.io/UBERON:0001759)                                                          |
-| HBA:9299      |        1 | [UBERON:0001785](https://bioregistry.io/UBERON:0001785)                                                          |
-| HBA:4132      |        1 | [UBERON:0001871](https://bioregistry.io/UBERON:0001871)                                                          |
-| HBA:4084      |        1 | [UBERON:0001872](https://bioregistry.io/UBERON:0001872)                                                          |
-| HBA:4278      |        1 | [UBERON:0001873](https://bioregistry.io/UBERON:0001873)                                                          |
-| HBA:4287      |        1 | [UBERON:0001874](https://bioregistry.io/UBERON:0001874)                                                          |
-| HBA:4293      |        1 | [UBERON:0001875](https://bioregistry.io/UBERON:0001875)                                                          |
-| HBA:4327      |        1 | [UBERON:0001876](https://bioregistry.io/UBERON:0001876)                                                          |
-| HBA:4302      |        1 | [UBERON:0001877](https://bioregistry.io/UBERON:0001877)                                                          |
-| HBA:4309      |        1 | [UBERON:0001879](https://bioregistry.io/UBERON:0001879)                                                          |
-| HBA:4313      |        1 | [UBERON:0001880](https://bioregistry.io/UBERON:0001880)                                                          |
-| HBA:265504792 |        1 | [UBERON:0001881](https://bioregistry.io/UBERON:0001881)                                                          |
-| HBA:4290      |        1 | [UBERON:0001882](https://bioregistry.io/UBERON:0001882)                                                          |
-| HBA:10145     |        1 | [UBERON:0001883](https://bioregistry.io/UBERON:0001883)                                                          |
-| HBA:12891     |        1 | [UBERON:0001885](https://bioregistry.io/UBERON:0001885)                                                          |
-| HBA:9263      |        1 | [UBERON:0001887](https://bioregistry.io/UBERON:0001887)                                                          |
-| HBA:265505514 |        1 | [UBERON:0001888](https://bioregistry.io/UBERON:0001888)                                                          |
-| HBA:9001      |        1 | [UBERON:0001891](https://bioregistry.io/UBERON:0001891)                                                          |
-| HBA:4007      |        1 | [UBERON:0001893](https://bioregistry.io/UBERON:0001893)                                                          |
-| HBA:4391      |        1 | [UBERON:0001894](https://bioregistry.io/UBERON:0001894)                                                          |
-| HBA:4833      |        1 | [UBERON:0001895](https://bioregistry.io/UBERON:0001895)                                                          |
-| HBA:4392      |        1 | [UBERON:0001897](https://bioregistry.io/UBERON:0001897)                                                          |
-| HBA:4540      |        1 | [UBERON:0001898](https://bioregistry.io/UBERON:0001898)                                                          |
-| HBA:4520      |        1 | [UBERON:0001899](https://bioregistry.io/UBERON:0001899)                                                          |
-| HBA:4504      |        1 | [UBERON:0001900](https://bioregistry.io/UBERON:0001900)                                                          |
-| HBA:4506      |        1 | [UBERON:0001903](https://bioregistry.io/UBERON:0001903)                                                          |
-| HBA:4522      |        1 | [UBERON:0001904](https://bioregistry.io/UBERON:0001904)                                                          |
-| HBA:4532      |        1 | [UBERON:0001905](https://bioregistry.io/UBERON:0001905)                                                          |
-| HBA:4518      |        1 | [UBERON:0001906](https://bioregistry.io/UBERON:0001906)                                                          |
-| HBA:4507      |        1 | [UBERON:0001907](https://bioregistry.io/UBERON:0001907)                                                          |
-| HBA:9309      |        1 | [UBERON:0001908](https://bioregistry.io/UBERON:0001908)                                                          |
-| HBA:9227      |        1 | [UBERON:0001909](https://bioregistry.io/UBERON:0001909)                                                          |
-| HBA:265505190 |        1 | [UBERON:0001910](https://bioregistry.io/UBERON:0001910)                                                          |
-| HBA:4533      |        1 | [UBERON:0001920](https://bioregistry.io/UBERON:0001920)                                                          |
-| HBA:4439      |        1 | [UBERON:0001922](https://bioregistry.io/UBERON:0001922)                                                          |
-| HBA:4438      |        1 | [UBERON:0001923](https://bioregistry.io/UBERON:0001923)                                                          |
-| HBA:4435      |        1 | [UBERON:0001924](https://bioregistry.io/UBERON:0001924)                                                          |
-| HBA:12925     |        1 | [UBERON:0001925](https://bioregistry.io/UBERON:0001925)                                                          |
-| HBA:12926     |        1 | [UBERON:0001927](https://bioregistry.io/UBERON:0001927)                                                          |
-| HBA:4541      |        1 | [UBERON:0001928](https://bioregistry.io/UBERON:0001928)                                                          |
-| HBA:12907     |        1 | [UBERON:0001929](https://bioregistry.io/UBERON:0001929)                                                          |
-| HBA:12905     |        1 | [UBERON:0001930](https://bioregistry.io/UBERON:0001930)                                                          |
-| HBA:4552      |        1 | [UBERON:0001931](https://bioregistry.io/UBERON:0001931)                                                          |
-| HBA:12913     |        1 | [UBERON:0001932](https://bioregistry.io/UBERON:0001932)                                                          |
-| HBA:12914     |        1 | [UBERON:0001934](https://bioregistry.io/UBERON:0001934)                                                          |
-| HBA:12919     |        1 | [UBERON:0001935](https://bioregistry.io/UBERON:0001935)                                                          |
-| HBA:12912     |        1 | [UBERON:0001936](https://bioregistry.io/UBERON:0001936)                                                          |
-| HBA:4675      |        1 | [UBERON:0001938](https://bioregistry.io/UBERON:0001938)                                                          |
-| HBA:4672      |        1 | [UBERON:0001939](https://bioregistry.io/UBERON:0001939)                                                          |
-| HBA:12911     |        1 | [UBERON:0001940](https://bioregistry.io/UBERON:0001940)                                                          |
-| HBA:4524      |        1 | [UBERON:0001941](https://bioregistry.io/UBERON:0001941)                                                          |
-| HBA:4523      |        1 | [UBERON:0001942](https://bioregistry.io/UBERON:0001942)                                                          |
-| HBA:9002      |        1 | [UBERON:0001943](https://bioregistry.io/UBERON:0001943)                                                          |
-| HBA:9079      |        1 | [UBERON:0001944](https://bioregistry.io/UBERON:0001944)                                                          |
-| HBA:9114      |        1 | [UBERON:0001945](https://bioregistry.io/UBERON:0001945)                                                          |
-| HBA:9102      |        1 | [UBERON:0001946](https://bioregistry.io/UBERON:0001946)                                                          |
-| HBA:9053      |        1 | [UBERON:0001947](https://bioregistry.io/UBERON:0001947)                                                          |
-| HBA:4252      |        1 | [UBERON:0001953](https://bioregistry.io/UBERON:0001953)                                                          |
-| HBA:9074      |        1 | [UBERON:0001965](https://bioregistry.io/UBERON:0001965)                                                          |
-| HBA:9075      |        1 | [UBERON:0001966](https://bioregistry.io/UBERON:0001966)                                                          |
-| HBA:9340      |        1 | [UBERON:0002019](https://bioregistry.io/UBERON:0002019)                                                          |
-| HBA:4006      |        1 | [UBERON:0002020](https://bioregistry.io/UBERON:0002020)                                                          |
-| HBA:4180      |        1 | [UBERON:0002021](https://bioregistry.io/UBERON:0002021)                                                          |
-| HBA:4268      |        1 | [UBERON:0002022](https://bioregistry.io/UBERON:0002022)                                                          |
-| HBA:4321      |        1 | [UBERON:0002023](https://bioregistry.io/UBERON:0002023)                                                          |
-| HBA:12908     |        1 | [UBERON:0002034](https://bioregistry.io/UBERON:0002034)                                                          |
-| HBA:4544      |        1 | [UBERON:0002035](https://bioregistry.io/UBERON:0002035)                                                          |
-| HBA:4696      |        1 | [UBERON:0002037](https://bioregistry.io/UBERON:0002037)                                                          |
-| HBA:9072      |        1 | [UBERON:0002038](https://bioregistry.io/UBERON:0002038)                                                          |
-| HBA:9457      |        1 | [UBERON:0002043](https://bioregistry.io/UBERON:0002043)                                                          |
-| HBA:9047      |        1 | [UBERON:0002044](https://bioregistry.io/UBERON:0002044)                                                          |
-| HBA:9542      |        1 | [UBERON:0002045](https://bioregistry.io/UBERON:0002045)                                                          |
-| HBA:9159      |        1 | [UBERON:0002047](https://bioregistry.io/UBERON:0002047)                                                          |
-| HBA:9560      |        1 | [UBERON:0002127](https://bioregistry.io/UBERON:0002127)                                                          |
-| HBA:9177      |        1 | [UBERON:0002128](https://bioregistry.io/UBERON:0002128)                                                          |
-| HBA:4697      |        1 | [UBERON:0002129](https://bioregistry.io/UBERON:0002129)                                                          |
-| HBA:4780      |        1 | [UBERON:0002130](https://bioregistry.io/UBERON:0002130)                                                          |
-| HBA:12946     |        1 | [UBERON:0002132](https://bioregistry.io/UBERON:0002132)                                                          |
-| HBA:12953     |        1 | [UBERON:0002138](https://bioregistry.io/UBERON:0002138)                                                          |
-| HBA:9489      |        1 | [UBERON:0002139](https://bioregistry.io/UBERON:0002139)                                                          |
-| HBA:9111      |        1 | [UBERON:0002140](https://bioregistry.io/UBERON:0002140)                                                          |
-| HBA:9449      |        1 | [UBERON:0002141](https://bioregistry.io/UBERON:0002141)                                                          |
-| HBA:9021      |        1 | [UBERON:0002142](https://bioregistry.io/UBERON:0002142)                                                          |
-| HBA:265504876 |        1 | [UBERON:0002143](https://bioregistry.io/UBERON:0002143)                                                          |
-| HBA:9050      |        1 | [UBERON:0002144](https://bioregistry.io/UBERON:0002144)                                                          |
-| HBA:9012      |        1 | [UBERON:0002145](https://bioregistry.io/UBERON:0002145)                                                          |
-| HBA:9167      |        1 | [UBERON:0002147](https://bioregistry.io/UBERON:0002147)                                                          |
-| HBA:9148      |        1 | [UBERON:0002148](https://bioregistry.io/UBERON:0002148)                                                          |
-| HBA:9194      |        1 | [UBERON:0002149](https://bioregistry.io/UBERON:0002149)                                                          |
-| HBA:9297      |        1 | [UBERON:0002150](https://bioregistry.io/UBERON:0002150)                                                          |
-| HBA:9133      |        1 | [UBERON:0002151](https://bioregistry.io/UBERON:0002151)                                                          |
-| HBA:9294      |        1 | [UBERON:0002152](https://bioregistry.io/UBERON:0002152)                                                          |
-| HBA:12948     |        1 | [UBERON:0002153](https://bioregistry.io/UBERON:0002153)                                                          |
-| HBA:9616      |        1 | [UBERON:0002154](https://bioregistry.io/UBERON:0002154)                                                          |
-| HBA:9602      |        1 | [UBERON:0002155](https://bioregistry.io/UBERON:0002155)                                                          |
-| HBA:9643      |        1 | [UBERON:0002156](https://bioregistry.io/UBERON:0002156)                                                          |
-| HBA:9649      |        1 | [UBERON:0002157](https://bioregistry.io/UBERON:0002157)                                                          |
-| HBA:9564      |        1 | [UBERON:0002158](https://bioregistry.io/UBERON:0002158)                                                          |
-| HBA:9563      |        1 | [UBERON:0002159](https://bioregistry.io/UBERON:0002159)                                                          |
-| HBA:9639      |        1 | [UBERON:0002160](https://bioregistry.io/UBERON:0002160)                                                          |
-| HBA:9554      |        1 | [UBERON:0002161](https://bioregistry.io/UBERON:0002161)                                                          |
-| HBA:9522      |        1 | [UBERON:0002162](https://bioregistry.io/UBERON:0002162)                                                          |
-| HBA:9291      |        1 | [UBERON:0002163](https://bioregistry.io/UBERON:0002163)                                                          |
-| HBA:12896     |        1 | [UBERON:0002191](https://bioregistry.io/UBERON:0002191)                                                          |
-| HBA:12916     |        1 | [UBERON:0002197](https://bioregistry.io/UBERON:0002197)                                                          |
-| HBA:12909     |        1 | [UBERON:0002206](https://bioregistry.io/UBERON:0002206)                                                          |
-| HBA:12930     |        1 | [UBERON:0002245](https://bioregistry.io/UBERON:0002245)                                                          |
-| HBA:9303      |        1 | [UBERON:0002264](https://bioregistry.io/UBERON:0002264)                                                          |
-| HBA:9302      |        1 | [UBERON:0002265](https://bioregistry.io/UBERON:0002265)                                                          |
-| HBA:4324      |        1 | [UBERON:0002266](https://bioregistry.io/UBERON:0002266)                                                          |
-| HBA:12917     |        1 | [UBERON:0002274](https://bioregistry.io/UBERON:0002274)                                                          |
-| HBA:9419      |        1 | [UBERON:0002285](https://bioregistry.io/UBERON:0002285)                                                          |
-| HBA:9420      |        1 | [UBERON:0002286](https://bioregistry.io/UBERON:0002286)                                                          |
-| HBA:9709      |        1 | [UBERON:0002288](https://bioregistry.io/UBERON:0002288)                                                          |
-| HBA:265505702 |        1 | [UBERON:0002289](https://bioregistry.io/UBERON:0002289)                                                          |
-| HBA:9710      |        1 | [UBERON:0002290](https://bioregistry.io/UBERON:0002290)                                                          |
-| HBA:9422      |        1 | [UBERON:0002291](https://bioregistry.io/UBERON:0002291)                                                          |
-| HBA:9708      |        1 | [UBERON:0002307](https://bioregistry.io/UBERON:0002307)                                                          |
-| HBA:9351      |        1 | [UBERON:0002309](https://bioregistry.io/UBERON:0002309)                                                          |
-| HBA:9253      |        1 | [UBERON:0002310](https://bioregistry.io/UBERON:0002310)                                                          |
-| HBA:9101      |        1 | [UBERON:0002314](https://bioregistry.io/UBERON:0002314)                                                          |
-| HBA:9288      |        1 | [UBERON:0002317](https://bioregistry.io/UBERON:0002317)                                                          |
-| HBA:9222      |        1 | [UBERON:0002336](https://bioregistry.io/UBERON:0002336)                                                          |
-| HBA:4249      |        1 | [UBERON:0002421](https://bioregistry.io/UBERON:0002421)                                                          |
-| HBA:9421      |        1 | [UBERON:0002422](https://bioregistry.io/UBERON:0002422)                                                          |
-| HBA:9358      |        1 | [UBERON:0002434](https://bioregistry.io/UBERON:0002434)                                                          |
-| HBA:4277      |        1 | [UBERON:0002435](https://bioregistry.io/UBERON:0002435)                                                          |
-| HBA:9069      |        1 | [UBERON:0002438](https://bioregistry.io/UBERON:0002438)                                                          |
-| HBA:12897     |        1 | [UBERON:0002476](https://bioregistry.io/UBERON:0002476)                                                          |
-| HBA:12898     |        1 | [UBERON:0002477](https://bioregistry.io/UBERON:0002477)                                                          |
-| HBA:4440      |        1 | [UBERON:0002479](https://bioregistry.io/UBERON:0002479)                                                          |
-| HBA:12902     |        1 | [UBERON:0002550](https://bioregistry.io/UBERON:0002550)                                                          |
-| HBA:9015      |        1 | [UBERON:0002551](https://bioregistry.io/UBERON:0002551)                                                          |
-| HBA:9587      |        1 | [UBERON:0002559](https://bioregistry.io/UBERON:0002559)                                                          |
-| HBA:9356      |        1 | [UBERON:0002562](https://bioregistry.io/UBERON:0002562)                                                          |
-| HBA:9104      |        1 | [UBERON:0002563](https://bioregistry.io/UBERON:0002563)                                                          |
-| HBA:4059      |        1 | [UBERON:0002564](https://bioregistry.io/UBERON:0002564)                                                          |
-| HBA:9086      |        1 | [UBERON:0002565](https://bioregistry.io/UBERON:0002565)                                                          |
-| HBA:265505362 |        1 | [UBERON:0002566](https://bioregistry.io/UBERON:0002566)                                                          |
-| HBA:9132      |        1 | [UBERON:0002567](https://bioregistry.io/UBERON:0002567)                                                          |
-| HBA:4050      |        1 | [UBERON:0002570](https://bioregistry.io/UBERON:0002570)                                                          |
-| HBA:9105      |        1 | [UBERON:0002571](https://bioregistry.io/UBERON:0002571)                                                          |
-| HBA:9089      |        1 | [UBERON:0002572](https://bioregistry.io/UBERON:0002572)                                                          |
-| HBA:9161      |        1 | [UBERON:0002573](https://bioregistry.io/UBERON:0002573)                                                          |
-| HBA:4056      |        1 | [UBERON:0002575](https://bioregistry.io/UBERON:0002575)                                                          |
-| HBA:4174      |        1 | [UBERON:0002576](https://bioregistry.io/UBERON:0002576)                                                          |
-| HBA:9106      |        1 | [UBERON:0002577](https://bioregistry.io/UBERON:0002577)                                                          |
-| HBA:9092      |        1 | [UBERON:0002578](https://bioregistry.io/UBERON:0002578)                                                          |
-| HBA:265505398 |        1 | [UBERON:0002580](https://bioregistry.io/UBERON:0002580)                                                          |
-| HBA:4085      |        1 | [UBERON:0002581](https://bioregistry.io/UBERON:0002581)                                                          |
-| HBA:9391      |        1 | [UBERON:0002586](https://bioregistry.io/UBERON:0002586)                                                          |
-| HBA:9154      |        1 | [UBERON:0002587](https://bioregistry.io/UBERON:0002587)                                                          |
-| HBA:265505482 |        1 | [UBERON:0002588](https://bioregistry.io/UBERON:0002588)                                                          |
-| HBA:9679      |        1 | [UBERON:0002591](https://bioregistry.io/UBERON:0002591)                                                          |
-| HBA:9360      |        1 | [UBERON:0002595](https://bioregistry.io/UBERON:0002595)                                                          |
-| HBA:9207      |        1 | [UBERON:0002597](https://bioregistry.io/UBERON:0002597)                                                          |
-| HBA:9365      |        1 | [UBERON:0002598](https://bioregistry.io/UBERON:0002598)                                                          |
-| HBA:4219      |        1 | [UBERON:0002600](https://bioregistry.io/UBERON:0002600)                                                          |
-| HBA:12947     |        1 | [UBERON:0002602](https://bioregistry.io/UBERON:0002602)                                                          |
-| HBA:4065      |        1 | [UBERON:0002603](https://bioregistry.io/UBERON:0002603)                                                          |
-| HBA:9200      |        1 | [UBERON:0002604](https://bioregistry.io/UBERON:0002604)                                                          |
-| HBA:9366      |        1 | [UBERON:0002607](https://bioregistry.io/UBERON:0002607)                                                          |
-| HBA:9528      |        1 | [UBERON:0002610](https://bioregistry.io/UBERON:0002610)                                                          |
-| HBA:12949     |        1 | [UBERON:0002613](https://bioregistry.io/UBERON:0002613)                                                          |
-| HBA:4421      |        1 | [UBERON:0002614](https://bioregistry.io/UBERON:0002614)                                                          |
-| HBA:4423      |        1 | [UBERON:0002617](https://bioregistry.io/UBERON:0002617)                                                          |
-| HBA:4633      |        1 | [UBERON:0002620](https://bioregistry.io/UBERON:0002620)                                                          |
-| HBA:4549      |        1 | [UBERON:0002622](https://bioregistry.io/UBERON:0002622)                                                          |
-| HBA:4044      |        1 | [UBERON:0002624](https://bioregistry.io/UBERON:0002624)                                                          |
-| HBA:4548      |        1 | [UBERON:0002625](https://bioregistry.io/UBERON:0002625)                                                          |
-| HBA:12900     |        1 | [UBERON:0002626](https://bioregistry.io/UBERON:0002626)                                                          |
-| HBA:12901     |        1 | [UBERON:0002628](https://bioregistry.io/UBERON:0002628)                                                          |
-| HBA:4038      |        1 | [UBERON:0002629](https://bioregistry.io/UBERON:0002629)                                                          |
-| HBA:12899     |        1 | [UBERON:0002630](https://bioregistry.io/UBERON:0002630)                                                          |
-| HBA:9206      |        1 | [UBERON:0002633](https://bioregistry.io/UBERON:0002633)                                                          |
-| HBA:12903     |        1 | [UBERON:0002634](https://bioregistry.io/UBERON:0002634)                                                          |
-| HBA:4418      |        1 | [UBERON:0002637](https://bioregistry.io/UBERON:0002637)                                                          |
-| HBA:4412      |        1 | [UBERON:0002638](https://bioregistry.io/UBERON:0002638)                                                          |
-| HBA:9018      |        1 | [UBERON:0002639](https://bioregistry.io/UBERON:0002639)                                                          |
-| HBA:4411      |        1 | [UBERON:0002641](https://bioregistry.io/UBERON:0002641)                                                          |
-| HBA:265505622 |        1 | [UBERON:0002643](https://bioregistry.io/UBERON:0002643)                                                          |
-| HBA:4404      |        1 | [UBERON:0002645](https://bioregistry.io/UBERON:0002645)                                                          |
-| HBA:4403      |        1 | [UBERON:0002647](https://bioregistry.io/UBERON:0002647)                                                          |
-| HBA:4419      |        1 | [UBERON:0002654](https://bioregistry.io/UBERON:0002654)                                                          |
-| HBA:4021      |        1 | [UBERON:0002661](https://bioregistry.io/UBERON:0002661)                                                          |
-| HBA:13002     |        1 | [UBERON:0002663](https://bioregistry.io/UBERON:0002663)                                                          |
-| HBA:4673      |        1 | [UBERON:0002664](https://bioregistry.io/UBERON:0002664)                                                          |
-| HBA:265505458 |        1 | [UBERON:0002666](https://bioregistry.io/UBERON:0002666)                                                          |
-| HBA:4303      |        1 | [UBERON:0002667](https://bioregistry.io/UBERON:0002667)                                                          |
-| HBA:9697      |        1 | [UBERON:0002673](https://bioregistry.io/UBERON:0002673)                                                          |
-| HBA:4398      |        1 | [UBERON:0002679](https://bioregistry.io/UBERON:0002679)                                                          |
-| HBA:4396      |        1 | [UBERON:0002681](https://bioregistry.io/UBERON:0002681)                                                          |
-| HBA:9136      |        1 | [UBERON:0002682](https://bioregistry.io/UBERON:0002682)                                                          |
-| HBA:9383      |        1 | [UBERON:0002683](https://bioregistry.io/UBERON:0002683)                                                          |
-| HBA:9646      |        1 | [UBERON:0002684](https://bioregistry.io/UBERON:0002684)                                                          |
-| HBA:4397      |        1 | [UBERON:0002685](https://bioregistry.io/UBERON:0002685)                                                          |
-| HBA:4111      |        1 | [UBERON:0002686](https://bioregistry.io/UBERON:0002686)                                                          |
-| HBA:4104      |        1 | [UBERON:0002688](https://bioregistry.io/UBERON:0002688)                                                          |
-| HBA:4550      |        1 | [UBERON:0002690](https://bioregistry.io/UBERON:0002690)                                                          |
-| HBA:9066      |        1 | [UBERON:0002691](https://bioregistry.io/UBERON:0002691)                                                          |
-| HBA:9642      |        1 | [UBERON:0002692](https://bioregistry.io/UBERON:0002692)                                                          |
-| HBA:4600      |        1 | [UBERON:0002694](https://bioregistry.io/UBERON:0002694)                                                          |
-| HBA:9392      |        1 | [UBERON:0002695](https://bioregistry.io/UBERON:0002695)                                                          |
-| HBA:9020      |        1 | [UBERON:0002696](https://bioregistry.io/UBERON:0002696)                                                          |
-| HBA:9387      |        1 | [UBERON:0002698](https://bioregistry.io/UBERON:0002698)                                                          |
-| HBA:9022      |        1 | [UBERON:0002700](https://bioregistry.io/UBERON:0002700)                                                          |
-| HBA:9032      |        1 | [UBERON:0002701](https://bioregistry.io/UBERON:0002701)                                                          |
-| HBA:4028      |        1 | [UBERON:0002702](https://bioregistry.io/UBERON:0002702)                                                          |
-| HBA:4010      |        1 | [UBERON:0002703](https://bioregistry.io/UBERON:0002703)                                                          |
-| HBA:12910     |        1 | [UBERON:0002706](https://bioregistry.io/UBERON:0002706)                                                          |
-| HBA:265505574 |        1 | [UBERON:0002707](https://bioregistry.io/UBERON:0002707)                                                          |
-| HBA:9364      |        1 | [UBERON:0002710](https://bioregistry.io/UBERON:0002710)                                                          |
-| HBA:9027      |        1 | [UBERON:0002711](https://bioregistry.io/UBERON:0002711)                                                          |
-| HBA:4676      |        1 | [UBERON:0002712](https://bioregistry.io/UBERON:0002712)                                                          |
-| HBA:9398      |        1 | [UBERON:0002713](https://bioregistry.io/UBERON:0002713)                                                          |
-| HBA:9380      |        1 | [UBERON:0002716](https://bioregistry.io/UBERON:0002716)                                                          |
-| HBA:9060      |        1 | [UBERON:0002717](https://bioregistry.io/UBERON:0002717)                                                          |
-| HBA:265505626 |        1 | [UBERON:0002718](https://bioregistry.io/UBERON:0002718)                                                          |
-| HBA:265505166 |        1 | [UBERON:0002720](https://bioregistry.io/UBERON:0002720)                                                          |
-| HBA:9402      |        1 | [UBERON:0002721](https://bioregistry.io/UBERON:0002721)                                                          |
-| HBA:9063      |        1 | [UBERON:0002722](https://bioregistry.io/UBERON:0002722)                                                          |
-| HBA:265505122 |        1 | [UBERON:0002727](https://bioregistry.io/UBERON:0002727)                                                          |
-| HBA:265505502 |        1 | [UBERON:0002732](https://bioregistry.io/UBERON:0002732)                                                          |
-| HBA:9378      |        1 | [UBERON:0002734](https://bioregistry.io/UBERON:0002734)                                                          |
-| HBA:12923     |        1 | [UBERON:0002736](https://bioregistry.io/UBERON:0002736)                                                          |
-| HBA:4401      |        1 | [UBERON:0002739](https://bioregistry.io/UBERON:0002739)                                                          |
-| HBA:4300      |        1 | [UBERON:0002743](https://bioregistry.io/UBERON:0002743)                                                          |
-| HBA:4147      |        1 | [UBERON:0002751](https://bioregistry.io/UBERON:0002751)                                                          |
-| HBA:12965     |        1 | [UBERON:0002755](https://bioregistry.io/UBERON:0002755)                                                          |
-| HBA:265504828 |        1 | [UBERON:0002758](https://bioregistry.io/UBERON:0002758)                                                          |
-| HBA:4448      |        1 | [UBERON:0002759](https://bioregistry.io/UBERON:0002759)                                                          |
-| HBA:9357      |        1 | [UBERON:0002761](https://bioregistry.io/UBERON:0002761)                                                          |
-| HBA:265505134 |        1 | [UBERON:0002762](https://bioregistry.io/UBERON:0002762)                                                          |
-| HBA:265505086 |        1 | [UBERON:0002765](https://bioregistry.io/UBERON:0002765)                                                          |
-| HBA:4156      |        1 | [UBERON:0002766](https://bioregistry.io/UBERON:0002766)                                                          |
-| HBA:9367      |        1 | [UBERON:0002767](https://bioregistry.io/UBERON:0002767)                                                          |
-| HBA:4133      |        1 | [UBERON:0002769](https://bioregistry.io/UBERON:0002769)                                                          |
-| HBA:4665      |        1 | [UBERON:0002770](https://bioregistry.io/UBERON:0002770)                                                          |
-| HBA:4140      |        1 | [UBERON:0002771](https://bioregistry.io/UBERON:0002771)                                                          |
-| HBA:9361      |        1 | [UBERON:0002772](https://bioregistry.io/UBERON:0002772)                                                          |
-| HBA:4165      |        1 | [UBERON:0002773](https://bioregistry.io/UBERON:0002773)                                                          |
-| HBA:9183      |        1 | [UBERON:0002779](https://bioregistry.io/UBERON:0002779)                                                          |
-| HBA:9184      |        1 | [UBERON:0002782](https://bioregistry.io/UBERON:0002782)                                                          |
-| HBA:4888      |        1 | [UBERON:0002795](https://bioregistry.io/UBERON:0002795)                                                          |
-| HBA:9362      |        1 | [UBERON:0002799](https://bioregistry.io/UBERON:0002799)                                                          |
-| HBA:265505326 |        1 | [UBERON:0002801](https://bioregistry.io/UBERON:0002801)                                                          |
-| HBA:9411      |        1 | [UBERON:0002814](https://bioregistry.io/UBERON:0002814)                                                          |
-| HBA:9412      |        1 | [UBERON:0002815](https://bioregistry.io/UBERON:0002815)                                                          |
-| HBA:9416      |        1 | [UBERON:0002817](https://bioregistry.io/UBERON:0002817)                                                          |
-| HBA:9417      |        1 | [UBERON:0002818](https://bioregistry.io/UBERON:0002818)                                                          |
-| HBA:9531      |        1 | [UBERON:0002828](https://bioregistry.io/UBERON:0002828)                                                          |
-| HBA:9530      |        1 | [UBERON:0002829](https://bioregistry.io/UBERON:0002829)                                                          |
-| HBA:9532      |        1 | [UBERON:0002830](https://bioregistry.io/UBERON:0002830)                                                          |
-| HBA:9533      |        1 | [UBERON:0002831](https://bioregistry.io/UBERON:0002831)                                                          |
-| HBA:9513      |        1 | [UBERON:0002864](https://bioregistry.io/UBERON:0002864)                                                          |
-| HBA:9519      |        1 | [UBERON:0002865](https://bioregistry.io/UBERON:0002865)                                                          |
-| HBA:265504914 |        1 | [UBERON:0002867](https://bioregistry.io/UBERON:0002867)                                                          |
-| HBA:9545      |        1 | [UBERON:0002870](https://bioregistry.io/UBERON:0002870)                                                          |
-| HBA:9557      |        1 | [UBERON:0002871](https://bioregistry.io/UBERON:0002871)                                                          |
-| HBA:9569      |        1 | [UBERON:0002872](https://bioregistry.io/UBERON:0002872)                                                          |
-| HBA:9678      |        1 | [UBERON:0002873](https://bioregistry.io/UBERON:0002873)                                                          |
-| HBA:9581      |        1 | [UBERON:0002874](https://bioregistry.io/UBERON:0002874)                                                          |
-| HBA:9584      |        1 | [UBERON:0002875](https://bioregistry.io/UBERON:0002875)                                                          |
-| HBA:9572      |        1 | [UBERON:0002876](https://bioregistry.io/UBERON:0002876)                                                          |
-| HBA:9633      |        1 | [UBERON:0002879](https://bioregistry.io/UBERON:0002879)                                                          |
-| HBA:9636      |        1 | [UBERON:0002880](https://bioregistry.io/UBERON:0002880)                                                          |
-| HBA:9627      |        1 | [UBERON:0002881](https://bioregistry.io/UBERON:0002881)                                                          |
-| HBA:9694      |        1 | [UBERON:0002882](https://bioregistry.io/UBERON:0002882)                                                          |
-| HBA:4359      |        1 | [UBERON:0002883](https://bioregistry.io/UBERON:0002883)                                                          |
-| HBA:4375      |        1 | [UBERON:0002884](https://bioregistry.io/UBERON:0002884)                                                          |
-| HBA:4350      |        1 | [UBERON:0002885](https://bioregistry.io/UBERON:0002885)                                                          |
-| HBA:4378      |        1 | [UBERON:0002886](https://bioregistry.io/UBERON:0002886)                                                          |
-| HBA:4341      |        1 | [UBERON:0002887](https://bioregistry.io/UBERON:0002887)                                                          |
-| HBA:265504476 |        1 | [UBERON:0002890](https://bioregistry.io/UBERON:0002890)                                                          |
-| HBA:4385      |        1 | [UBERON:0002893](https://bioregistry.io/UBERON:0002893)                                                          |
-| HBA:265504406 |        1 | [UBERON:0002894](https://bioregistry.io/UBERON:0002894)                                                          |
-| HBA:9394      |        1 | [UBERON:0002899](https://bioregistry.io/UBERON:0002899)                                                          |
-| HBA:9388      |        1 | [UBERON:0002900](https://bioregistry.io/UBERON:0002900)                                                          |
-| HBA:4181      |        1 | [UBERON:0002902](https://bioregistry.io/UBERON:0002902)                                                          |
-| HBA:9390      |        1 | [UBERON:0002903](https://bioregistry.io/UBERON:0002903)                                                          |
-| HBA:9389      |        1 | [UBERON:0002904](https://bioregistry.io/UBERON:0002904)                                                          |
-| HBA:9397      |        1 | [UBERON:0002905](https://bioregistry.io/UBERON:0002905)                                                          |
-| HBA:9385      |        1 | [UBERON:0002906](https://bioregistry.io/UBERON:0002906)                                                          |
-| HBA:9376      |        1 | [UBERON:0002908](https://bioregistry.io/UBERON:0002908)                                                          |
-| HBA:9372      |        1 | [UBERON:0002913](https://bioregistry.io/UBERON:0002913)                                                          |
-| HBA:9403      |        1 | [UBERON:0002916](https://bioregistry.io/UBERON:0002916)                                                          |
-| HBA:9153      |        1 | [UBERON:0002918](https://bioregistry.io/UBERON:0002918)                                                          |
-| HBA:9404      |        1 | [UBERON:0002920](https://bioregistry.io/UBERON:0002920)                                                          |
-| HBA:9401      |        1 | [UBERON:0002921](https://bioregistry.io/UBERON:0002921)                                                          |
-| HBA:9369      |        1 | [UBERON:0002923](https://bioregistry.io/UBERON:0002923)                                                          |
-| HBA:9197      |        1 | [UBERON:0002932](https://bioregistry.io/UBERON:0002932)                                                          |
-| HBA:4312      |        1 | [UBERON:0002933](https://bioregistry.io/UBERON:0002933)                                                          |
-| HBA:9038      |        1 | [UBERON:0002934](https://bioregistry.io/UBERON:0002934)                                                          |
-| HBA:4420      |        1 | [UBERON:0002935](https://bioregistry.io/UBERON:0002935)                                                          |
-| HBA:9055      |        1 | [UBERON:0002936](https://bioregistry.io/UBERON:0002936)                                                          |
-| HBA:9056      |        1 | [UBERON:0002938](https://bioregistry.io/UBERON:0002938)                                                          |
-| HBA:9251      |        1 | [UBERON:0002940](https://bioregistry.io/UBERON:0002940)                                                          |
-| HBA:4425      |        1 | [UBERON:0002942](https://bioregistry.io/UBERON:0002942)                                                          |
-| HBA:4191      |        1 | [UBERON:0002943](https://bioregistry.io/UBERON:0002943)                                                          |
-| HBA:4424      |        1 | [UBERON:0002945](https://bioregistry.io/UBERON:0002945)                                                          |
-| HBA:4078      |        1 | [UBERON:0002947](https://bioregistry.io/UBERON:0002947)                                                          |
-| HBA:4212      |        1 | [UBERON:0002948](https://bioregistry.io/UBERON:0002948)                                                          |
-| HBA:265505662 |        1 | [UBERON:0002949](https://bioregistry.io/UBERON:0002949)                                                          |
-| HBA:12958     |        1 | [UBERON:0002953](https://bioregistry.io/UBERON:0002953)                                                          |
-| HBA:4433      |        1 | [UBERON:0002955](https://bioregistry.io/UBERON:0002955)                                                          |
-| HBA:9033      |        1 | [UBERON:0002957](https://bioregistry.io/UBERON:0002957)                                                          |
-| HBA:9034      |        1 | [UBERON:0002960](https://bioregistry.io/UBERON:0002960)                                                          |
-| HBA:9162      |        1 | [UBERON:0002963](https://bioregistry.io/UBERON:0002963)                                                          |
-| HBA:9035      |        1 | [UBERON:0002964](https://bioregistry.io/UBERON:0002964)                                                          |
-| HBA:12929     |        1 | [UBERON:0002965](https://bioregistry.io/UBERON:0002965)                                                          |
-| HBA:4220      |        1 | [UBERON:0002967](https://bioregistry.io/UBERON:0002967)                                                          |
-| HBA:10147     |        1 | [UBERON:0002968](https://bioregistry.io/UBERON:0002968)                                                          |
-| HBA:9379      |        1 | [UBERON:0002969](https://bioregistry.io/UBERON:0002969)                                                          |
-| HBA:9036      |        1 | [UBERON:0002970](https://bioregistry.io/UBERON:0002970)                                                          |
-| HBA:9179      |        1 | [UBERON:0002971](https://bioregistry.io/UBERON:0002971)                                                          |
-| HBA:4242      |        1 | [UBERON:0002973](https://bioregistry.io/UBERON:0002973)                                                          |
-| HBA:9037      |        1 | [UBERON:0002975](https://bioregistry.io/UBERON:0002975)                                                          |
-| HBA:9180      |        1 | [UBERON:0002976](https://bioregistry.io/UBERON:0002976)                                                          |
-| HBA:4041      |        1 | [UBERON:0002980](https://bioregistry.io/UBERON:0002980)                                                          |
-| HBA:4414      |        1 | [UBERON:0002982](https://bioregistry.io/UBERON:0002982)                                                          |
-| HBA:4410      |        1 | [UBERON:0002983](https://bioregistry.io/UBERON:0002983)                                                          |
-| HBA:4399      |        1 | [UBERON:0002984](https://bioregistry.io/UBERON:0002984)                                                          |
-| HBA:4445      |        1 | [UBERON:0002985](https://bioregistry.io/UBERON:0002985)                                                          |
-| HBA:4405      |        1 | [UBERON:0002992](https://bioregistry.io/UBERON:0002992)                                                          |
-| HBA:9080      |        1 | [UBERON:0002996](https://bioregistry.io/UBERON:0002996)                                                          |
-| HBA:4035      |        1 | [UBERON:0002998](https://bioregistry.io/UBERON:0002998)                                                          |
-| HBA:9166      |        1 | [UBERON:0002999](https://bioregistry.io/UBERON:0002999)                                                          |
-| HBA:12961     |        1 | [UBERON:0003002](https://bioregistry.io/UBERON:0003002)                                                          |
-| HBA:9139      |        1 | [UBERON:0003006](https://bioregistry.io/UBERON:0003006)                                                          |
-| HBA:9145      |        1 | [UBERON:0003007](https://bioregistry.io/UBERON:0003007)                                                          |
-| HBA:9142      |        1 | [UBERON:0003011](https://bioregistry.io/UBERON:0003011)                                                          |
-| HBA:12944     |        1 | [UBERON:0003012](https://bioregistry.io/UBERON:0003012)                                                          |
-| HBA:13003     |        1 | [UBERON:0003017](https://bioregistry.io/UBERON:0003017)                                                          |
-| HBA:9135      |        1 | [UBERON:0003023](https://bioregistry.io/UBERON:0003023)                                                          |
-| HBA:265505386 |        1 | [UBERON:0003025](https://bioregistry.io/UBERON:0003025)                                                          |
-| HBA:4429      |        1 | [UBERON:0003026](https://bioregistry.io/UBERON:0003026)                                                          |
-| HBA:265505434 |        1 | [UBERON:0003028](https://bioregistry.io/UBERON:0003028)                                                          |
-| HBA:9278      |        1 | [UBERON:0003029](https://bioregistry.io/UBERON:0003029)                                                          |
-| HBA:4431      |        1 | [UBERON:0003030](https://bioregistry.io/UBERON:0003030)                                                          |
-| HBA:4406      |        1 | [UBERON:0003031](https://bioregistry.io/UBERON:0003031)                                                          |
-| HBA:4430      |        1 | [UBERON:0003033](https://bioregistry.io/UBERON:0003033)                                                          |
-| HBA:4434      |        1 | [UBERON:0003036](https://bioregistry.io/UBERON:0003036)                                                          |
-| HBA:9003      |        1 | [UBERON:0003040](https://bioregistry.io/UBERON:0003040)                                                          |
-| HBA:9348      |        1 | [UBERON:0003045](https://bioregistry.io/UBERON:0003045)                                                          |
-| HBA:12892     |        1 | [UBERON:0003881](https://bioregistry.io/UBERON:0003881)                                                          |
-| HBA:12893     |        1 | [UBERON:0003882](https://bioregistry.io/UBERON:0003882)                                                          |
-| HBA:12894     |        1 | [UBERON:0003883](https://bioregistry.io/UBERON:0003883)                                                          |
-| HBA:12895     |        1 | [UBERON:0003884](https://bioregistry.io/UBERON:0003884)                                                          |
-| HBA:4699      |        1 | [UBERON:0003941](https://bioregistry.io/UBERON:0003941)                                                          |
-| HBA:9240      |        1 | [UBERON:0003961](https://bioregistry.io/UBERON:0003961)                                                          |
-| HBA:9406      |        1 | [UBERON:0003980](https://bioregistry.io/UBERON:0003980)                                                          |
-| HBA:9611      |        1 | [UBERON:0004006](https://bioregistry.io/UBERON:0004006)                                                          |
-| HBA:4704      |        1 | [UBERON:0004009](https://bioregistry.io/UBERON:0004009)                                                          |
-| HBA:9578      |        1 | [UBERON:0004073](https://bioregistry.io/UBERON:0004073)                                                          |
-| HBA:12933     |        1 | [UBERON:0004076](https://bioregistry.io/UBERON:0004076)                                                          |
-| HBA:12934     |        1 | [UBERON:0004077](https://bioregistry.io/UBERON:0004077)                                                          |
-| HBA:12943     |        1 | [UBERON:0004078](https://bioregistry.io/UBERON:0004078)                                                          |
-| HBA:12935     |        1 | [UBERON:0004079](https://bioregistry.io/UBERON:0004079)                                                          |
-| HBA:12937     |        1 | [UBERON:0004080](https://bioregistry.io/UBERON:0004080)                                                          |
-| HBA:4713      |        1 | [UBERON:0004083](https://bioregistry.io/UBERON:0004083)                                                          |
-| HBA:9418      |        1 | [UBERON:0004086](https://bioregistry.io/UBERON:0004086)                                                          |
-| HBA:9243      |        1 | [UBERON:0004545](https://bioregistry.io/UBERON:0004545)                                                          |
-| HBA:4047      |        1 | [UBERON:0004671](https://bioregistry.io/UBERON:0004671)                                                          |
-| HBA:9525      |        1 | [UBERON:0004677](https://bioregistry.io/UBERON:0004677)                                                          |
-| HBA:9252      |        1 | [UBERON:0004680](https://bioregistry.io/UBERON:0004680)                                                          |
-| HBA:265505046 |        1 | [UBERON:0004682](https://bioregistry.io/UBERON:0004682)                                                          |
-| HBA:4253      |        1 | [UBERON:0004683](https://bioregistry.io/UBERON:0004683)                                                          |
-| HBA:4393      |        1 | [UBERON:0004703](https://bioregistry.io/UBERON:0004703)                                                          |
-| HBA:4698      |        1 | [UBERON:0004720](https://bioregistry.io/UBERON:0004720)                                                          |
-| HBA:10142     |        1 | [UBERON:0004725](https://bioregistry.io/UBERON:0004725)                                                          |
-| HBA:9512      |        1 | [UBERON:0005290](https://bioregistry.io/UBERON:0005290)                                                          |
-| HBA:4708      |        1 | [UBERON:0005346](https://bioregistry.io/UBERON:0005346)                                                          |
-| HBA:12942     |        1 | [UBERON:0005349](https://bioregistry.io/UBERON:0005349)                                                          |
-| HBA:265505586 |        1 | [UBERON:0005821](https://bioregistry.io/UBERON:0005821)                                                          |
-| HBA:265505550 |        1 | [UBERON:0005832](https://bioregistry.io/UBERON:0005832)                                                          |
-| HBA:12938     |        1 | [UBERON:0005976](https://bioregistry.io/UBERON:0005976)                                                          |
-| HBA:12939     |        1 | [UBERON:0005977](https://bioregistry.io/UBERON:0005977)                                                          |
-| HBA:9275      |        1 | [UBERON:0006086](https://bioregistry.io/UBERON:0006086)                                                          |
-| HBA:265505610 |        1 | [UBERON:0006087](https://bioregistry.io/UBERON:0006087)                                                          |
-| HBA:4103      |        1 | [UBERON:0006088](https://bioregistry.io/UBERON:0006088)                                                          |
-| HBA:4184      |        1 | [UBERON:0006092](https://bioregistry.io/UBERON:0006092)                                                          |
-| HBA:4118      |        1 | [UBERON:0006093](https://bioregistry.io/UBERON:0006093)                                                          |
-| HBA:4096      |        1 | [UBERON:0006094](https://bioregistry.io/UBERON:0006094)                                                          |
-| HBA:9254      |        1 | [UBERON:0006115](https://bioregistry.io/UBERON:0006115)                                                          |
-| HBA:9121      |        1 | [UBERON:0006120](https://bioregistry.io/UBERON:0006120)                                                          |
-| HBA:4413      |        1 | [UBERON:0006334](https://bioregistry.io/UBERON:0006334)                                                          |
-| HBA:9266      |        1 | [UBERON:0006696](https://bioregistry.io/UBERON:0006696)                                                          |
-| HBA:265505178 |        1 | [UBERON:0006698](https://bioregistry.io/UBERON:0006698)                                                          |
-| HBA:9122      |        1 | [UBERON:0006779](https://bioregistry.io/UBERON:0006779)                                                          |
-| HBA:9116      |        1 | [UBERON:0006782](https://bioregistry.io/UBERON:0006782)                                                          |
-| HBA:9120      |        1 | [UBERON:0006787](https://bioregistry.io/UBERON:0006787)                                                          |
-| HBA:9119      |        1 | [UBERON:0006788](https://bioregistry.io/UBERON:0006788)                                                          |
-| HBA:9117      |        1 | [UBERON:0006789](https://bioregistry.io/UBERON:0006789)                                                          |
-| HBA:9118      |        1 | [UBERON:0006790](https://bioregistry.io/UBERON:0006790)                                                          |
-| HBA:9701      |        1 | [UBERON:0007227](https://bioregistry.io/UBERON:0007227)                                                          |
-| HBA:9699      |        1 | [UBERON:0007230](https://bioregistry.io/UBERON:0007230)                                                          |
-| HBA:9562      |        1 | [UBERON:0007249](https://bioregistry.io/UBERON:0007249)                                                          |
-| HBA:9455      |        1 | [UBERON:0007412](https://bioregistry.io/UBERON:0007412)                                                          |
-| HBA:4574      |        1 | [UBERON:0007626](https://bioregistry.io/UBERON:0007626)                                                          |
-| HBA:9185      |        1 | [UBERON:0007633](https://bioregistry.io/UBERON:0007633)                                                          |
-| HBA:9234      |        1 | [UBERON:0007639](https://bioregistry.io/UBERON:0007639)                                                          |
-| HBA:9203      |        1 | [UBERON:0007641](https://bioregistry.io/UBERON:0007641)                                                          |
-| HBA:265504888 |        1 | [UBERON:0007710](https://bioregistry.io/UBERON:0007710)                                                          |
-| HBA:4677      |        1 | [UBERON:0007767](https://bioregistry.io/UBERON:0007767)                                                          |
-| HBA:4678      |        1 | [UBERON:0007768](https://bioregistry.io/UBERON:0007768)                                                          |
-| HBA:4543      |        1 | [UBERON:0007769](https://bioregistry.io/UBERON:0007769)                                                          |
-| HBA:4288      |        1 | [UBERON:0008884](https://bioregistry.io/UBERON:0008884)                                                          |
-| HBA:4289      |        1 | [UBERON:0008885](https://bioregistry.io/UBERON:0008885)                                                          |
-| HBA:4521      |        1 | [UBERON:0008993](https://bioregistry.io/UBERON:0008993)                                                          |
-| HBA:9653      |        1 | [UBERON:0009050](https://bioregistry.io/UBERON:0009050)                                                          |
-| HBA:9237      |        1 | [UBERON:0009641](https://bioregistry.io/UBERON:0009641)                                                          |
-| HBA:12952     |        1 | [UBERON:0009643](https://bioregistry.io/UBERON:0009643)                                                          |
-| HBA:9613      |        1 | [UBERON:0009775](https://bioregistry.io/UBERON:0009775)                                                          |
-| HBA:4308      |        1 | [UBERON:0010010](https://bioregistry.io/UBERON:0010010)                                                          |
-| HBA:4275      |        1 | [UBERON:0010011](https://bioregistry.io/UBERON:0010011)                                                          |
-| HBA:9230      |        1 | [UBERON:0011299](https://bioregistry.io/UBERON:0011299)                                                          |
-| HBA:9352      |        1 | [UBERON:0013118](https://bioregistry.io/UBERON:0013118)                                                          |
-| HBA:9470      |        1 | [UBERON:0013733](https://bioregistry.io/UBERON:0013733)                                                          |
-| HBA:9471      |        1 | [UBERON:0013734](https://bioregistry.io/UBERON:0013734)                                                          |
-| HBA:9472      |        1 | [UBERON:0013736](https://bioregistry.io/UBERON:0013736)                                                          |
-| HBA:9474      |        1 | [UBERON:0013737](https://bioregistry.io/UBERON:0013737)                                                          |
-| HBA:9473      |        1 | [UBERON:0013738](https://bioregistry.io/UBERON:0013738)                                                          |
-| HBA:9083      |        1 | [UBERON:0014450](https://bioregistry.io/UBERON:0014450)                                                          |
-| HBA:9413      |        1 | [UBERON:0014468](https://bioregistry.io/UBERON:0014468)                                                          |
-| HBA:9410      |        1 | [UBERON:0014471](https://bioregistry.io/UBERON:0014471)                                                          |
-| HBA:9407      |        1 | [UBERON:0014473](https://bioregistry.io/UBERON:0014473)                                                          |
-| HBA:4446      |        1 | [UBERON:0014521](https://bioregistry.io/UBERON:0014521)                                                          |
-| HBA:9246      |        1 | [UBERON:0014528](https://bioregistry.io/UBERON:0014528)                                                          |
-| HBA:265505158 |        1 | [UBERON:0014529](https://bioregistry.io/UBERON:0014529)                                                          |
-| HBA:265505098 |        1 | [UBERON:0014534](https://bioregistry.io/UBERON:0014534)                                                          |
-| HBA:9363      |        1 | [UBERON:0014544](https://bioregistry.io/UBERON:0014544)                                                          |
-| HBA:4576      |        1 | [UBERON:0014595](https://bioregistry.io/UBERON:0014595)                                                          |
-| HBA:4577      |        1 | [UBERON:0014596](https://bioregistry.io/UBERON:0014596)                                                          |
-| HBA:4578      |        1 | [UBERON:0014597](https://bioregistry.io/UBERON:0014597)                                                          |
-| HBA:4579      |        1 | [UBERON:0014598](https://bioregistry.io/UBERON:0014598)                                                          |
-| HBA:4581      |        1 | [UBERON:0014599](https://bioregistry.io/UBERON:0014599)                                                          |
-| HBA:4582      |        1 | [UBERON:0014600](https://bioregistry.io/UBERON:0014600)                                                          |
-| HBA:4583      |        1 | [UBERON:0014601](https://bioregistry.io/UBERON:0014601)                                                          |
-| HBA:4575      |        1 | [UBERON:0014602](https://bioregistry.io/UBERON:0014602)                                                          |
-| HBA:4580      |        1 | [UBERON:0014603](https://bioregistry.io/UBERON:0014603)                                                          |
-| HBA:4586      |        1 | [UBERON:0014604](https://bioregistry.io/UBERON:0014604)                                                          |
-| HBA:4205      |        1 | [UBERON:0014608](https://bioregistry.io/UBERON:0014608)                                                          |
-| HBA:9359      |        1 | [UBERON:0014618](https://bioregistry.io/UBERON:0014618)                                                          |
-| HBA:9354      |        1 | [UBERON:0014639](https://bioregistry.io/UBERON:0014639)                                                          |
-| HBA:12931     |        1 | [UBERON:0014647](https://bioregistry.io/UBERON:0014647)                                                          |
-| HBA:12936     |        1 | [UBERON:0014648](https://bioregistry.io/UBERON:0014648)                                                          |
-| HBA:9377      |        1 | [UBERON:0014687](https://bioregistry.io/UBERON:0014687)                                                          |
-| HBA:10150     |        1 | [UBERON:0014689](https://bioregistry.io/UBERON:0014689)                                                          |
-| HBA:265505650 |        1 | [UBERON:0014761](https://bioregistry.io/UBERON:0014761)                                                          |
-| HBA:9224      |        1 | [UBERON:0015510](https://bioregistry.io/UBERON:0015510)                                                          |
-| HBA:9223      |        1 | [UBERON:0015599](https://bioregistry.io/UBERON:0015599)                                                          |
-| HBA:9226      |        1 | [UBERON:0015703](https://bioregistry.io/UBERON:0015703)                                                          |
-| HBA:9225      |        1 | [UBERON:0015708](https://bioregistry.io/UBERON:0015708)                                                          |
-| HBA:265504424 |        1 | [UBERON:0015793](https://bioregistry.io/UBERON:0015793)                                                          |
-| HBA:4009      |        1 | [UBERON:0016525](https://bioregistry.io/UBERON:0016525)                                                          |
-| HBA:265505382 |        1 | [UBERON:0016554](https://bioregistry.io/UBERON:0016554)                                                          |
-| HBA:9624      |        1 | [UBERON:0016633](https://bioregistry.io/UBERON:0016633)                                                          |
-| HBA:9601      |        1 | [UBERON:0016824](https://bioregistry.io/UBERON:0016824)                                                          |
-| HBA:9600      |        1 | [UBERON:0016825](https://bioregistry.io/UBERON:0016825)                                                          |
-| HBA:9630      |        1 | [UBERON:0016832](https://bioregistry.io/UBERON:0016832)                                                          |
-| HBA:9650      |        1 | [UBERON:0016848](https://bioregistry.io/UBERON:0016848)                                                          |
-| HBA:9298      |        1 | [UBERON:0019262](https://bioregistry.io/UBERON:0019262)                                                          |
-| HBA:9284      |        1 | [UBERON:0019275](https://bioregistry.io/UBERON:0019275)                                                          |
-| HBA:4900      |        1 | [UBERON:0019278](https://bioregistry.io/UBERON:0019278)                                                          |
-| HBA:4897      |        1 | [UBERON:0019279](https://bioregistry.io/UBERON:0019279)                                                          |
-| HBA:265505146 |        1 | [UBERON:0019283](https://bioregistry.io/UBERON:0019283)                                                          |
-| HBA:9287      |        1 | [UBERON:0019291](https://bioregistry.io/UBERON:0019291)                                                          |
-| HBA:265505486 |        1 | [UBERON:0019293](https://bioregistry.io/UBERON:0019293)                                                          |
-| HBA:9220      |        1 | [UBERON:0019294](https://bioregistry.io/UBERON:0019294)                                                          |
-| HBA:12921     |        1 | [UBERON:0019295](https://bioregistry.io/UBERON:0019295)                                                          |
-| HBA:9386      |        1 | [UBERON:0019303](https://bioregistry.io/UBERON:0019303)                                                          |
-| HBA:9664      |        1 | [UBERON:0019312](https://bioregistry.io/UBERON:0019312)                                                          |
-| HBA:9551      |        1 | [UBERON:0019314](https://bioregistry.io/UBERON:0019314)                                                          |
-| HBA:265505202 |        1 | [UBERON:0022234](https://bioregistry.io/UBERON:0022234)                                                          |
-| HBA:265505274 |        1 | [UBERON:0022237](https://bioregistry.io/UBERON:0022237)                                                          |
-| HBA:265505110 |        1 | [UBERON:0022242](https://bioregistry.io/UBERON:0022242)                                                          |
-| HBA:4053      |        1 | [UBERON:0022244](https://bioregistry.io/UBERON:0022244)                                                          |
-| HBA:9281      |        1 | [UBERON:0022246](https://bioregistry.io/UBERON:0022246)                                                          |
-| HBA:265505338 |        1 | [UBERON:0022250](https://bioregistry.io/UBERON:0022250)                                                          |
-| HBA:9355      |        1 | [UBERON:0022252](https://bioregistry.io/UBERON:0022252)                                                          |
-| HBA:265505374 |        1 | [UBERON:0022254](https://bioregistry.io/UBERON:0022254)                                                          |
-| HBA:265505350 |        1 | [UBERON:0022256](https://bioregistry.io/UBERON:0022256)                                                          |
-| HBA:9548      |        1 | [UBERON:0022258](https://bioregistry.io/UBERON:0022258)                                                          |
-| HBA:265504974 |        1 | [UBERON:0022262](https://bioregistry.io/UBERON:0022262)                                                          |
-| HBA:9311      |        1 | [UBERON:0022264](https://bioregistry.io/UBERON:0022264)                                                          |
-| HBA:4171      |        1 | [UBERON:0022268](https://bioregistry.io/UBERON:0022268)                                                          |
-| HBA:265505490 |        1 | [UBERON:0022271](https://bioregistry.io/UBERON:0022271)                                                          |
-| HBA:265505058 |        1 | [UBERON:0022272](https://bioregistry.io/UBERON:0022272)                                                          |
-| HBA:265505470 |        1 | [UBERON:0022421](https://bioregistry.io/UBERON:0022421)                                                          |
-| HBA:9486      |        1 | [UBERON:0022423](https://bioregistry.io/UBERON:0022423)                                                          |
-| HBA:9182      |        1 | [UBERON:0022434](https://bioregistry.io/UBERON:0022434)                                                          |
-| HBA:4584      |        1 | [UBERON:0022783](https://bioregistry.io/UBERON:0022783)                                                          |
-| HBA:4585      |        1 | [UBERON:0022791](https://bioregistry.io/UBERON:0022791)                                                          |
-| HBA:4447      |        1 | [UBERON:0023094](https://bioregistry.io/UBERON:0023094)                                                          |
-| HBA:9661      |        1 | [UBERON:0023390](https://bioregistry.io/UBERON:0023390)                                                          |
-| HBA:4177      |        1 | [UBERON:0023861](https://bioregistry.io/UBERON:0023861)                                                          |
-| HBA:9384      |        1 | [UBERON:0026725](https://bioregistry.io/UBERON:0026725)                                                          |
-| HBA:4591      |        1 | [UBERON:0027768](https://bioregistry.io/UBERON:0027768)                                                          |
-| HBA:4592      |        1 | [UBERON:0027771](https://bioregistry.io/UBERON:0027771)                                                          |
-| HBA:4717      |        1 | [UBERON:0028918](https://bioregistry.io/UBERON:0028918)                                                          |
-| HBA:4718      |        1 | [UBERON:0028919](https://bioregistry.io/UBERON:0028919)                                                          |
-| HBA:4719      |        1 | [UBERON:0028920](https://bioregistry.io/UBERON:0028920)                                                          |
-| HBA:4728      |        1 | [UBERON:0028921](https://bioregistry.io/UBERON:0028921)                                                          |
-| HBA:4720      |        1 | [UBERON:0028922](https://bioregistry.io/UBERON:0028922)                                                          |
-| HBA:4722      |        1 | [UBERON:0028923](https://bioregistry.io/UBERON:0028923)                                                          |
-| HBA:4330      |        1 | [UBERON:0034673](https://bioregistry.io/UBERON:0034673)                                                          |
-| HBA:9393      |        1 | [UBERON:0034674](https://bioregistry.io/UBERON:0034674)                                                          |
-| HBA:265505518 |        1 | [UBERON:0034734](https://bioregistry.io/UBERON:0034734)                                                          |
-| HBA:9260      |        1 | [UBERON:0034743](https://bioregistry.io/UBERON:0034743)                                                          |
-| HBA:9269      |        1 | [UBERON:0034754](https://bioregistry.io/UBERON:0034754)                                                          |
-| HBA:265505250 |        1 | [UBERON:0034931](https://bioregistry.io/UBERON:0034931)                                                          |
-| HBA:4427      |        1 | [UBERON:0034993](https://bioregistry.io/UBERON:0034993)                                                          |
-| HBA:265504452 |        1 | [UBERON:0035027](https://bioregistry.io/UBERON:0035027)                                                          |
-| HBA:265504456 |        1 | [UBERON:0035028](https://bioregistry.io/UBERON:0035028)                                                          |
-| HBA:9409      |        1 | [UBERON:0035922](https://bioregistry.io/UBERON:0035922)                                                          |
-| HBA:265504962 |        1 | [UBERON:0035924](https://bioregistry.io/UBERON:0035924)                                                          |
-| HBA:9399      |        1 | [UBERON:0035925](https://bioregistry.io/UBERON:0035925)                                                          |
-| HBA:9408      |        1 | [UBERON:0035926](https://bioregistry.io/UBERON:0035926)                                                          |
-| HBA:9370      |        1 | [UBERON:0035927](https://bioregistry.io/UBERON:0035927)                                                          |
-| HBA:4594      |        1 | [UBERON:0035928](https://bioregistry.io/UBERON:0035928)                                                          |
-| HBA:9181      |        1 | [UBERON:0035930](https://bioregistry.io/UBERON:0035930)                                                          |
-| HBA:265505286 |        1 | [UBERON:0035931](https://bioregistry.io/UBERON:0035931)                                                          |
-| HBA:4071      |        1 | [UBERON:0035932](https://bioregistry.io/UBERON:0035932)                                                          |
-| HBA:4125      |        1 | [UBERON:0035934](https://bioregistry.io/UBERON:0035934)                                                          |
-| HBA:265505214 |        1 | [UBERON:0035935](https://bioregistry.io/UBERON:0035935)                                                          |
-| HBA:9231      |        1 | [UBERON:0035937](https://bioregistry.io/UBERON:0035937)                                                          |
-| HBA:265505538 |        1 | [UBERON:0035938](https://bioregistry.io/UBERON:0035938)                                                          |
-| HBA:9588      |        1 | [UBERON:0035940](https://bioregistry.io/UBERON:0035940)                                                          |
-| HBA:9483      |        1 | [UBERON:0036012](https://bioregistry.io/UBERON:0036012)                                                          |
-| HBA:4730      |        1 | [UBERON:0036043](https://bioregistry.io/UBERON:0036043)                                                          |
-| HBA:4706      |        1 | [UBERON:0036044](https://bioregistry.io/UBERON:0036044)                                                          |
-| HBA:4707      |        1 | [UBERON:0036065](https://bioregistry.io/UBERON:0036065)                                                          |
-
-## Hymans
+## `Hymans`
 
 | curie         |   usages | nodes                                                   |
 |---------------|----------|---------------------------------------------------------|
 | Hymans:Hymans |        1 | [UBERON:0010260](https://bioregistry.io/UBERON:0010260) |
 
-## MBA
-
-| curie         |   usages | nodes                                                                                                            |
-|---------------|----------|------------------------------------------------------------------------------------------------------------------|
-| MBA:403       |        2 | [UBERON:0001869](https://bioregistry.io/UBERON:0001869), [UBERON:0002892](https://bioregistry.io/UBERON:0002892) |
-| MBA:752       |        2 | [UBERON:0002474](https://bioregistry.io/UBERON:0002474), [UBERON:0007416](https://bioregistry.io/UBERON:0007416) |
-| MBA:669       |        1 | [UBERON:0000411](https://bioregistry.io/UBERON:0000411)                                                          |
-| MBA:30        |        1 | [UBERON:0000434](https://bioregistry.io/UBERON:0000434)                                                          |
-| MBA:614       |        1 | [UBERON:0000435](https://bioregistry.io/UBERON:0000435)                                                          |
-| MBA:618       |        1 | [UBERON:0000908](https://bioregistry.io/UBERON:0000908)                                                          |
-| MBA:158       |        1 | [UBERON:0000936](https://bioregistry.io/UBERON:0000936)                                                          |
-| MBA:848       |        1 | [UBERON:0000941](https://bioregistry.io/UBERON:0000941)                                                          |
-| MBA:997       |        1 | [UBERON:0000955](https://bioregistry.io/UBERON:0000955)                                                          |
-| MBA:688       |        1 | [UBERON:0000956](https://bioregistry.io/UBERON:0000956)                                                          |
-| MBA:117       |        1 | [UBERON:0000959](https://bioregistry.io/UBERON:0000959)                                                          |
-| MBA:304325711 |        1 | [UBERON:0000966](https://bioregistry.io/UBERON:0000966)                                                          |
-| MBA:771       |        1 | [UBERON:0000988](https://bioregistry.io/UBERON:0000988)                                                          |
-| MBA:1049      |        1 | [UBERON:0001063](https://bioregistry.io/UBERON:0001063)                                                          |
-| MBA:985       |        1 | [UBERON:0001384](https://bioregistry.io/UBERON:0001384)                                                          |
-| MBA:247       |        1 | [UBERON:0001393](https://bioregistry.io/UBERON:0001393)                                                          |
-| MBA:840       |        1 | [UBERON:0001579](https://bioregistry.io/UBERON:0001579)                                                          |
-| MBA:832       |        1 | [UBERON:0001643](https://bioregistry.io/UBERON:0001643)                                                          |
-| MBA:911       |        1 | [UBERON:0001644](https://bioregistry.io/UBERON:0001644)                                                          |
-| MBA:901       |        1 | [UBERON:0001645](https://bioregistry.io/UBERON:0001645)                                                          |
-| MBA:710       |        1 | [UBERON:0001646](https://bioregistry.io/UBERON:0001646)                                                          |
-| MBA:798       |        1 | [UBERON:0001647](https://bioregistry.io/UBERON:0001647)                                                          |
-| MBA:933       |        1 | [UBERON:0001648](https://bioregistry.io/UBERON:0001648)                                                          |
-| MBA:808       |        1 | [UBERON:0001649](https://bioregistry.io/UBERON:0001649)                                                          |
-| MBA:813       |        1 | [UBERON:0001650](https://bioregistry.io/UBERON:0001650)                                                          |
-| MBA:1131      |        1 | [UBERON:0001699](https://bioregistry.io/UBERON:0001699)                                                          |
-| MBA:35        |        1 | [UBERON:0001715](https://bioregistry.io/UBERON:0001715)                                                          |
-| MBA:460       |        1 | [UBERON:0001718](https://bioregistry.io/UBERON:0001718)                                                          |
-| MBA:135       |        1 | [UBERON:0001719](https://bioregistry.io/UBERON:0001719)                                                          |
-| MBA:225       |        1 | [UBERON:0001721](https://bioregistry.io/UBERON:0001721)                                                          |
-| MBA:202       |        1 | [UBERON:0001722](https://bioregistry.io/UBERON:0001722)                                                          |
-| MBA:917       |        1 | [UBERON:0001759](https://bioregistry.io/UBERON:0001759)                                                          |
-| MBA:967       |        1 | [UBERON:0001785](https://bioregistry.io/UBERON:0001785)                                                          |
-| MBA:564       |        1 | [UBERON:0001877](https://bioregistry.io/UBERON:0001877)                                                          |
-| MBA:310       |        1 | [UBERON:0001878](https://bioregistry.io/UBERON:0001878)                                                          |
-| MBA:596       |        1 | [UBERON:0001879](https://bioregistry.io/UBERON:0001879)                                                          |
-| MBA:351       |        1 | [UBERON:0001880](https://bioregistry.io/UBERON:0001880)                                                          |
-| MBA:481       |        1 | [UBERON:0001881](https://bioregistry.io/UBERON:0001881)                                                          |
-| MBA:56        |        1 | [UBERON:0001882](https://bioregistry.io/UBERON:0001882)                                                          |
-| MBA:754       |        1 | [UBERON:0001883](https://bioregistry.io/UBERON:0001883)                                                          |
-| MBA:726       |        1 | [UBERON:0001885](https://bioregistry.io/UBERON:0001885)                                                          |
-| MBA:108       |        1 | [UBERON:0001886](https://bioregistry.io/UBERON:0001886)                                                          |
-| MBA:6         |        1 | [UBERON:0001887](https://bioregistry.io/UBERON:0001887)                                                          |
-| MBA:665       |        1 | [UBERON:0001888](https://bioregistry.io/UBERON:0001888)                                                          |
-| MBA:313       |        1 | [UBERON:0001891](https://bioregistry.io/UBERON:0001891)                                                          |
-| MBA:567       |        1 | [UBERON:0001893](https://bioregistry.io/UBERON:0001893)                                                          |
-| MBA:1129      |        1 | [UBERON:0001894](https://bioregistry.io/UBERON:0001894)                                                          |
-| MBA:354       |        1 | [UBERON:0001896](https://bioregistry.io/UBERON:0001896)                                                          |
-| MBA:549       |        1 | [UBERON:0001897](https://bioregistry.io/UBERON:0001897)                                                          |
-| MBA:1097      |        1 | [UBERON:0001898](https://bioregistry.io/UBERON:0001898)                                                          |
-| MBA:958       |        1 | [UBERON:0001899](https://bioregistry.io/UBERON:0001899)                                                          |
-| MBA:262       |        1 | [UBERON:0001903](https://bioregistry.io/UBERON:0001903)                                                          |
-| MBA:953       |        1 | [UBERON:0001905](https://bioregistry.io/UBERON:0001905)                                                          |
-| MBA:470       |        1 | [UBERON:0001906](https://bioregistry.io/UBERON:0001906)                                                          |
-| MBA:797       |        1 | [UBERON:0001907](https://bioregistry.io/UBERON:0001907)                                                          |
-| MBA:125       |        1 | [UBERON:0001908](https://bioregistry.io/UBERON:0001908)                                                          |
-| MBA:611       |        1 | [UBERON:0001909](https://bioregistry.io/UBERON:0001909)                                                          |
-| MBA:54        |        1 | [UBERON:0001910](https://bioregistry.io/UBERON:0001910)                                                          |
-| MBA:149       |        1 | [UBERON:0001920](https://bioregistry.io/UBERON:0001920)                                                          |
-| MBA:181       |        1 | [UBERON:0001921](https://bioregistry.io/UBERON:0001921)                                                          |
-| MBA:930       |        1 | [UBERON:0001922](https://bioregistry.io/UBERON:0001922)                                                          |
-| MBA:599       |        1 | [UBERON:0001923](https://bioregistry.io/UBERON:0001923)                                                          |
-| MBA:907       |        1 | [UBERON:0001924](https://bioregistry.io/UBERON:0001924)                                                          |
-| MBA:475       |        1 | [UBERON:0001927](https://bioregistry.io/UBERON:0001927)                                                          |
-| MBA:390       |        1 | [UBERON:0001929](https://bioregistry.io/UBERON:0001929)                                                          |
-| MBA:38        |        1 | [UBERON:0001930](https://bioregistry.io/UBERON:0001930)                                                          |
-| MBA:226       |        1 | [UBERON:0001931](https://bioregistry.io/UBERON:0001931)                                                          |
-| MBA:223       |        1 | [UBERON:0001932](https://bioregistry.io/UBERON:0001932)                                                          |
-| MBA:173       |        1 | [UBERON:0001933](https://bioregistry.io/UBERON:0001933)                                                          |
-| MBA:830       |        1 | [UBERON:0001934](https://bioregistry.io/UBERON:0001934)                                                          |
-| MBA:693       |        1 | [UBERON:0001935](https://bioregistry.io/UBERON:0001935)                                                          |
-| MBA:557       |        1 | [UBERON:0001936](https://bioregistry.io/UBERON:0001936)                                                          |
-| MBA:210       |        1 | [UBERON:0001938](https://bioregistry.io/UBERON:0001938)                                                          |
-| MBA:491       |        1 | [UBERON:0001939](https://bioregistry.io/UBERON:0001939)                                                          |
-| MBA:525       |        1 | [UBERON:0001940](https://bioregistry.io/UBERON:0001940)                                                          |
-| MBA:186       |        1 | [UBERON:0001941](https://bioregistry.io/UBERON:0001941)                                                          |
-| MBA:483       |        1 | [UBERON:0001942](https://bioregistry.io/UBERON:0001942)                                                          |
-| MBA:1100      |        1 | [UBERON:0001944](https://bioregistry.io/UBERON:0001944)                                                          |
-| MBA:4         |        1 | [UBERON:0001946](https://bioregistry.io/UBERON:0001946)                                                          |
-| MBA:214       |        1 | [UBERON:0001947](https://bioregistry.io/UBERON:0001947)                                                          |
-| MBA:315       |        1 | [UBERON:0001950](https://bioregistry.io/UBERON:0001950)                                                          |
-| MBA:1084      |        1 | [UBERON:0001953](https://bioregistry.io/UBERON:0001953)                                                          |
-| MBA:375       |        1 | [UBERON:0001954](https://bioregistry.io/UBERON:0001954)                                                          |
-| MBA:374       |        1 | [UBERON:0001965](https://bioregistry.io/UBERON:0001965)                                                          |
-| MBA:381       |        1 | [UBERON:0001966](https://bioregistry.io/UBERON:0001966)                                                          |
-| MBA:717       |        1 | [UBERON:0002019](https://bioregistry.io/UBERON:0002019)                                                          |
-| MBA:583       |        1 | [UBERON:0002023](https://bioregistry.io/UBERON:0002023)                                                          |
-| MBA:1065      |        1 | [UBERON:0002028](https://bioregistry.io/UBERON:0002028)                                                          |
-| MBA:286       |        1 | [UBERON:0002034](https://bioregistry.io/UBERON:0002034)                                                          |
-| MBA:515       |        1 | [UBERON:0002035](https://bioregistry.io/UBERON:0002035)                                                          |
-| MBA:512       |        1 | [UBERON:0002037](https://bioregistry.io/UBERON:0002037)                                                          |
-| MBA:872       |        1 | [UBERON:0002043](https://bioregistry.io/UBERON:0002043)                                                          |
-| MBA:587       |        1 | [UBERON:0002044](https://bioregistry.io/UBERON:0002044)                                                          |
-| MBA:711       |        1 | [UBERON:0002045](https://bioregistry.io/UBERON:0002045)                                                          |
-| MBA:238       |        1 | [UBERON:0002047](https://bioregistry.io/UBERON:0002047)                                                          |
-| MBA:83        |        1 | [UBERON:0002127](https://bioregistry.io/UBERON:0002127)                                                          |
-| MBA:398       |        1 | [UBERON:0002128](https://bioregistry.io/UBERON:0002128)                                                          |
-| MBA:528       |        1 | [UBERON:0002129](https://bioregistry.io/UBERON:0002129)                                                          |
-| MBA:519       |        1 | [UBERON:0002130](https://bioregistry.io/UBERON:0002130)                                                          |
-| MBA:846       |        1 | [UBERON:0002132](https://bioregistry.io/UBERON:0002132)                                                          |
-| MBA:595       |        1 | [UBERON:0002138](https://bioregistry.io/UBERON:0002138)                                                          |
-| MBA:874       |        1 | [UBERON:0002140](https://bioregistry.io/UBERON:0002140)                                                          |
-| MBA:975       |        1 | [UBERON:0002141](https://bioregistry.io/UBERON:0002141)                                                          |
-| MBA:1052      |        1 | [UBERON:0002142](https://bioregistry.io/UBERON:0002142)                                                          |
-| MBA:880       |        1 | [UBERON:0002143](https://bioregistry.io/UBERON:0002143)                                                          |
-| MBA:1044      |        1 | [UBERON:0002144](https://bioregistry.io/UBERON:0002144)                                                          |
-| MBA:100       |        1 | [UBERON:0002145](https://bioregistry.io/UBERON:0002145)                                                          |
-| MBA:574       |        1 | [UBERON:0002147](https://bioregistry.io/UBERON:0002147)                                                          |
-| MBA:147       |        1 | [UBERON:0002148](https://bioregistry.io/UBERON:0002148)                                                          |
-| MBA:462       |        1 | [UBERON:0002149](https://bioregistry.io/UBERON:0002149)                                                          |
-| MBA:326       |        1 | [UBERON:0002150](https://bioregistry.io/UBERON:0002150)                                                          |
-| MBA:931       |        1 | [UBERON:0002151](https://bioregistry.io/UBERON:0002151)                                                          |
-| MBA:78        |        1 | [UBERON:0002152](https://bioregistry.io/UBERON:0002152)                                                          |
-| MBA:989       |        1 | [UBERON:0002153](https://bioregistry.io/UBERON:0002153)                                                          |
-| MBA:235       |        1 | [UBERON:0002154](https://bioregistry.io/UBERON:0002154)                                                          |
-| MBA:1048      |        1 | [UBERON:0002155](https://bioregistry.io/UBERON:0002155)                                                          |
-| MBA:206       |        1 | [UBERON:0002156](https://bioregistry.io/UBERON:0002156)                                                          |
-| MBA:230       |        1 | [UBERON:0002157](https://bioregistry.io/UBERON:0002157)                                                          |
-| MBA:169       |        1 | [UBERON:0002160](https://bioregistry.io/UBERON:0002160)                                                          |
-| MBA:1039      |        1 | [UBERON:0002161](https://bioregistry.io/UBERON:0002161)                                                          |
-| MBA:207       |        1 | [UBERON:0002162](https://bioregistry.io/UBERON:0002162)                                                          |
-| MBA:1123      |        1 | [UBERON:0002163](https://bioregistry.io/UBERON:0002163)                                                          |
-| MBA:502       |        1 | [UBERON:0002191](https://bioregistry.io/UBERON:0002191)                                                          |
-| MBA:116       |        1 | [UBERON:0002192](https://bioregistry.io/UBERON:0002192)                                                          |
-| MBA:10671     |        1 | [UBERON:0002197](https://bioregistry.io/UBERON:0002197)                                                          |
-| MBA:331       |        1 | [UBERON:0002206](https://bioregistry.io/UBERON:0002206)                                                          |
-| MBA:338       |        1 | [UBERON:0002219](https://bioregistry.io/UBERON:0002219)                                                          |
-| MBA:1073      |        1 | [UBERON:0002245](https://bioregistry.io/UBERON:0002245)                                                          |
-| MBA:159       |        1 | [UBERON:0002266](https://bioregistry.io/UBERON:0002266)                                                          |
-| MBA:162       |        1 | [UBERON:0002267](https://bioregistry.io/UBERON:0002267)                                                          |
-| MBA:157       |        1 | [UBERON:0002271](https://bioregistry.io/UBERON:0002271)                                                          |
-| MBA:467       |        1 | [UBERON:0002272](https://bioregistry.io/UBERON:0002272)                                                          |
-| MBA:290       |        1 | [UBERON:0002273](https://bioregistry.io/UBERON:0002273)                                                          |
-| MBA:81        |        1 | [UBERON:0002285](https://bioregistry.io/UBERON:0002285)                                                          |
-| MBA:129       |        1 | [UBERON:0002286](https://bioregistry.io/UBERON:0002286)                                                          |
-| MBA:140       |        1 | [UBERON:0002289](https://bioregistry.io/UBERON:0002289)                                                          |
-| MBA:164       |        1 | [UBERON:0002291](https://bioregistry.io/UBERON:0002291)                                                          |
-| MBA:343       |        1 | [UBERON:0002298](https://bioregistry.io/UBERON:0002298)                                                          |
-| MBA:62        |        1 | [UBERON:0002309](https://bioregistry.io/UBERON:0002309)                                                          |
-| MBA:603       |        1 | [UBERON:0002310](https://bioregistry.io/UBERON:0002310)                                                          |
-| MBA:776       |        1 | [UBERON:0002336](https://bioregistry.io/UBERON:0002336)                                                          |
-| MBA:1089      |        1 | [UBERON:0002421](https://bioregistry.io/UBERON:0002421)                                                          |
-| MBA:145       |        1 | [UBERON:0002422](https://bioregistry.io/UBERON:0002422)                                                          |
-| MBA:194       |        1 | [UBERON:0002430](https://bioregistry.io/UBERON:0002430)                                                          |
-| MBA:477       |        1 | [UBERON:0002435](https://bioregistry.io/UBERON:0002435)                                                          |
-| MBA:385       |        1 | [UBERON:0002436](https://bioregistry.io/UBERON:0002436)                                                          |
-| MBA:757       |        1 | [UBERON:0002438](https://bioregistry.io/UBERON:0002438)                                                          |
-| MBA:1022      |        1 | [UBERON:0002476](https://bioregistry.io/UBERON:0002476)                                                          |
-| MBA:1031      |        1 | [UBERON:0002477](https://bioregistry.io/UBERON:0002477)                                                          |
-| MBA:170       |        1 | [UBERON:0002479](https://bioregistry.io/UBERON:0002479)                                                          |
-| MBA:178       |        1 | [UBERON:0002480](https://bioregistry.io/UBERON:0002480)                                                          |
-| MBA:67        |        1 | [UBERON:0002551](https://bioregistry.io/UBERON:0002551)                                                          |
-| MBA:1036      |        1 | [UBERON:0002556](https://bioregistry.io/UBERON:0002556)                                                          |
-| MBA:395       |        1 | [UBERON:0002559](https://bioregistry.io/UBERON:0002559)                                                          |
-| MBA:811       |        1 | [UBERON:0002563](https://bioregistry.io/UBERON:0002563)                                                          |
-| MBA:706       |        1 | [UBERON:0002565](https://bioregistry.io/UBERON:0002565)                                                          |
-| MBA:828       |        1 | [UBERON:0002571](https://bioregistry.io/UBERON:0002571)                                                          |
-| MBA:820       |        1 | [UBERON:0002577](https://bioregistry.io/UBERON:0002577)                                                          |
-| MBA:916       |        1 | [UBERON:0002580](https://bioregistry.io/UBERON:0002580)                                                          |
-| MBA:336       |        1 | [UBERON:0002583](https://bioregistry.io/UBERON:0002583)                                                          |
-| MBA:350       |        1 | [UBERON:0002587](https://bioregistry.io/UBERON:0002587)                                                          |
-| MBA:812       |        1 | [UBERON:0002588](https://bioregistry.io/UBERON:0002588)                                                          |
-| MBA:1019      |        1 | [UBERON:0002589](https://bioregistry.io/UBERON:0002589)                                                          |
-| MBA:961       |        1 | [UBERON:0002590](https://bioregistry.io/UBERON:0002590)                                                          |
-| MBA:445       |        1 | [UBERON:0002591](https://bioregistry.io/UBERON:0002591)                                                          |
-| MBA:650       |        1 | [UBERON:0002592](https://bioregistry.io/UBERON:0002592)                                                          |
-| MBA:709       |        1 | [UBERON:0002596](https://bioregistry.io/UBERON:0002596)                                                          |
-| MBA:7         |        1 | [UBERON:0002597](https://bioregistry.io/UBERON:0002597)                                                          |
-| MBA:982       |        1 | [UBERON:0002601](https://bioregistry.io/UBERON:0002601)                                                          |
-| MBA:99        |        1 | [UBERON:0002604](https://bioregistry.io/UBERON:0002604)                                                          |
-| MBA:607       |        1 | [UBERON:0002610](https://bioregistry.io/UBERON:0002610)                                                          |
-| MBA:685       |        1 | [UBERON:0002614](https://bioregistry.io/UBERON:0002614)                                                          |
-| MBA:397       |        1 | [UBERON:0002615](https://bioregistry.io/UBERON:0002615)                                                          |
-| MBA:689       |        1 | [UBERON:0002617](https://bioregistry.io/UBERON:0002617)                                                          |
-| MBA:133       |        1 | [UBERON:0002622](https://bioregistry.io/UBERON:0002622)                                                          |
-| MBA:924       |        1 | [UBERON:0002623](https://bioregistry.io/UBERON:0002623)                                                          |
-| MBA:452       |        1 | [UBERON:0002625](https://bioregistry.io/UBERON:0002625)                                                          |
-| MBA:732       |        1 | [UBERON:0002632](https://bioregistry.io/UBERON:0002632)                                                          |
-| MBA:621       |        1 | [UBERON:0002633](https://bioregistry.io/UBERON:0002633)                                                          |
-| MBA:88        |        1 | [UBERON:0002634](https://bioregistry.io/UBERON:0002634)                                                          |
-| MBA:499       |        1 | [UBERON:0002640](https://bioregistry.io/UBERON:0002640)                                                          |
-| MBA:636       |        1 | [UBERON:0002647](https://bioregistry.io/UBERON:0002647)                                                          |
-| MBA:705       |        1 | [UBERON:0002666](https://bioregistry.io/UBERON:0002666)                                                          |
-| MBA:242       |        1 | [UBERON:0002667](https://bioregistry.io/UBERON:0002667)                                                          |
-| MBA:134       |        1 | [UBERON:0002671](https://bioregistry.io/UBERON:0002671)                                                          |
-| MBA:701       |        1 | [UBERON:0002673](https://bioregistry.io/UBERON:0002673)                                                          |
-| MBA:833       |        1 | [UBERON:0002676](https://bioregistry.io/UBERON:0002676)                                                          |
-| MBA:64        |        1 | [UBERON:0002679](https://bioregistry.io/UBERON:0002679)                                                          |
-| MBA:127       |        1 | [UBERON:0002681](https://bioregistry.io/UBERON:0002681)                                                          |
-| MBA:653       |        1 | [UBERON:0002682](https://bioregistry.io/UBERON:0002682)                                                          |
-| MBA:1071      |        1 | [UBERON:0002683](https://bioregistry.io/UBERON:0002683)                                                          |
-| MBA:222       |        1 | [UBERON:0002684](https://bioregistry.io/UBERON:0002684)                                                          |
-| MBA:255       |        1 | [UBERON:0002685](https://bioregistry.io/UBERON:0002685)                                                          |
-| MBA:763       |        1 | [UBERON:0002689](https://bioregistry.io/UBERON:0002689)                                                          |
-| MBA:272       |        1 | [UBERON:0002690](https://bioregistry.io/UBERON:0002690)                                                          |
-| MBA:749       |        1 | [UBERON:0002691](https://bioregistry.io/UBERON:0002691)                                                          |
-| MBA:616       |        1 | [UBERON:0002696](https://bioregistry.io/UBERON:0002696)                                                          |
-| MBA:825       |        1 | [UBERON:0002697](https://bioregistry.io/UBERON:0002697)                                                          |
-| MBA:1008      |        1 | [UBERON:0002704](https://bioregistry.io/UBERON:0002704)                                                          |
-| MBA:571       |        1 | [UBERON:0002705](https://bioregistry.io/UBERON:0002705)                                                          |
-| MBA:946       |        1 | [UBERON:0002706](https://bioregistry.io/UBERON:0002706)                                                          |
-| MBA:190       |        1 | [UBERON:0002707](https://bioregistry.io/UBERON:0002707)                                                          |
-| MBA:126       |        1 | [UBERON:0002708](https://bioregistry.io/UBERON:0002708)                                                          |
-| MBA:1020      |        1 | [UBERON:0002709](https://bioregistry.io/UBERON:0002709)                                                          |
-| MBA:634       |        1 | [UBERON:0002711](https://bioregistry.io/UBERON:0002711)                                                          |
-| MBA:863       |        1 | [UBERON:0002714](https://bioregistry.io/UBERON:0002714)                                                          |
-| MBA:1078      |        1 | [UBERON:0002717](https://bioregistry.io/UBERON:0002717)                                                          |
-| MBA:237       |        1 | [UBERON:0002718](https://bioregistry.io/UBERON:0002718)                                                          |
-| MBA:261       |        1 | [UBERON:0002719](https://bioregistry.io/UBERON:0002719)                                                          |
-| MBA:673       |        1 | [UBERON:0002720](https://bioregistry.io/UBERON:0002720)                                                          |
-| MBA:115       |        1 | [UBERON:0002722](https://bioregistry.io/UBERON:0002722)                                                          |
-| MBA:753       |        1 | [UBERON:0002723](https://bioregistry.io/UBERON:0002723)                                                          |
-| MBA:909       |        1 | [UBERON:0002728](https://bioregistry.io/UBERON:0002728)                                                          |
-| MBA:51        |        1 | [UBERON:0002733](https://bioregistry.io/UBERON:0002733)                                                          |
-| MBA:138       |        1 | [UBERON:0002736](https://bioregistry.io/UBERON:0002736)                                                          |
-| MBA:362       |        1 | [UBERON:0002739](https://bioregistry.io/UBERON:0002739)                                                          |
-| MBA:118       |        1 | [UBERON:0002746](https://bioregistry.io/UBERON:0002746)                                                          |
-| MBA:404       |        1 | [UBERON:0002752](https://bioregistry.io/UBERON:0002752)                                                          |
-| MBA:553       |        1 | [UBERON:0002753](https://bioregistry.io/UBERON:0002753)                                                          |
-| MBA:198       |        1 | [UBERON:0002755](https://bioregistry.io/UBERON:0002755)                                                          |
-| MBA:1072      |        1 | [UBERON:0002758](https://bioregistry.io/UBERON:0002758)                                                          |
-| MBA:1088      |        1 | [UBERON:0002759](https://bioregistry.io/UBERON:0002759)                                                          |
-| MBA:1028      |        1 | [UBERON:0002760](https://bioregistry.io/UBERON:0002760)                                                          |
-| MBA:14        |        1 | [UBERON:0002762](https://bioregistry.io/UBERON:0002762)                                                          |
-| MBA:941       |        1 | [UBERON:0002768](https://bioregistry.io/UBERON:0002768)                                                          |
-| MBA:637       |        1 | [UBERON:0002776](https://bioregistry.io/UBERON:0002776)                                                          |
-| MBA:835       |        1 | [UBERON:0002778](https://bioregistry.io/UBERON:0002778)                                                          |
-| MBA:114       |        1 | [UBERON:0002779](https://bioregistry.io/UBERON:0002779)                                                          |
-| MBA:105       |        1 | [UBERON:0002782](https://bioregistry.io/UBERON:0002782)                                                          |
-| MBA:384       |        1 | [UBERON:0002787](https://bioregistry.io/UBERON:0002787)                                                          |
-| MBA:239       |        1 | [UBERON:0002788](https://bioregistry.io/UBERON:0002788)                                                          |
-| MBA:506       |        1 | [UBERON:0002790](https://bioregistry.io/UBERON:0002790)                                                          |
-| MBA:184       |        1 | [UBERON:0002795](https://bioregistry.io/UBERON:0002795)                                                          |
-| MBA:93        |        1 | [UBERON:0002796](https://bioregistry.io/UBERON:0002796)                                                          |
-| MBA:277       |        1 | [UBERON:0002798](https://bioregistry.io/UBERON:0002798)                                                          |
-| MBA:1112      |        1 | [UBERON:0002814](https://bioregistry.io/UBERON:0002814)                                                          |
-| MBA:1119      |        1 | [UBERON:0002816](https://bioregistry.io/UBERON:0002816)                                                          |
-| MBA:3         |        1 | [UBERON:0002817](https://bioregistry.io/UBERON:0002817)                                                          |
-| MBA:11        |        1 | [UBERON:0002818](https://bioregistry.io/UBERON:0002818)                                                          |
-| MBA:101       |        1 | [UBERON:0002828](https://bioregistry.io/UBERON:0002828)                                                          |
-| MBA:96        |        1 | [UBERON:0002829](https://bioregistry.io/UBERON:0002829)                                                          |
-| MBA:903       |        1 | [UBERON:0002864](https://bioregistry.io/UBERON:0002864)                                                          |
-| MBA:429       |        1 | [UBERON:0002866](https://bioregistry.io/UBERON:0002866)                                                          |
-| MBA:839       |        1 | [UBERON:0002870](https://bioregistry.io/UBERON:0002870)                                                          |
-| MBA:773       |        1 | [UBERON:0002871](https://bioregistry.io/UBERON:0002871)                                                          |
-| MBA:106       |        1 | [UBERON:0002872](https://bioregistry.io/UBERON:0002872)                                                          |
-| MBA:437       |        1 | [UBERON:0002873](https://bioregistry.io/UBERON:0002873)                                                          |
-| MBA:161       |        1 | [UBERON:0002876](https://bioregistry.io/UBERON:0002876)                                                          |
-| MBA:859       |        1 | [UBERON:0002877](https://bioregistry.io/UBERON:0002877)                                                          |
-| MBA:177       |        1 | [UBERON:0002881](https://bioregistry.io/UBERON:0002881)                                                          |
-| MBA:536       |        1 | [UBERON:0002883](https://bioregistry.io/UBERON:0002883)                                                          |
-| MBA:1105      |        1 | [UBERON:0002884](https://bioregistry.io/UBERON:0002884)                                                          |
-| MBA:131       |        1 | [UBERON:0002886](https://bioregistry.io/UBERON:0002886)                                                          |
-| MBA:295       |        1 | [UBERON:0002887](https://bioregistry.io/UBERON:0002887)                                                          |
-| MBA:319       |        1 | [UBERON:0002889](https://bioregistry.io/UBERON:0002889)                                                          |
-| MBA:23        |        1 | [UBERON:0002890](https://bioregistry.io/UBERON:0002890)                                                          |
-| MBA:631       |        1 | [UBERON:0002891](https://bioregistry.io/UBERON:0002891)                                                          |
-| MBA:619       |        1 | [UBERON:0002893](https://bioregistry.io/UBERON:0002893)                                                          |
-| MBA:1063      |        1 | [UBERON:0002899](https://bioregistry.io/UBERON:0002899)                                                          |
-| MBA:890       |        1 | [UBERON:0002918](https://bioregistry.io/UBERON:0002918)                                                          |
-| MBA:885       |        1 | [UBERON:0002924](https://bioregistry.io/UBERON:0002924)                                                          |
-| MBA:10704     |        1 | [UBERON:0002928](https://bioregistry.io/UBERON:0002928)                                                          |
-| MBA:841       |        1 | [UBERON:0002932](https://bioregistry.io/UBERON:0002932)                                                          |
-| MBA:287       |        1 | [UBERON:0002933](https://bioregistry.io/UBERON:0002933)                                                          |
-| MBA:718       |        1 | [UBERON:0002942](https://bioregistry.io/UBERON:0002942)                                                          |
-| MBA:733       |        1 | [UBERON:0002945](https://bioregistry.io/UBERON:0002945)                                                          |
-| MBA:877       |        1 | [UBERON:0002949](https://bioregistry.io/UBERON:0002949)                                                          |
-| MBA:641       |        1 | [UBERON:0002952](https://bioregistry.io/UBERON:0002952)                                                          |
-| MBA:658       |        1 | [UBERON:0002953](https://bioregistry.io/UBERON:0002953)                                                          |
-| MBA:189       |        1 | [UBERON:0002955](https://bioregistry.io/UBERON:0002955)                                                          |
-| MBA:1143      |        1 | [UBERON:0002956](https://bioregistry.io/UBERON:0002956)                                                          |
-| MBA:1093      |        1 | [UBERON:0002963](https://bioregistry.io/UBERON:0002963)                                                          |
-| MBA:898       |        1 | [UBERON:0002968](https://bioregistry.io/UBERON:0002968)                                                          |
-| MBA:122       |        1 | [UBERON:0002971](https://bioregistry.io/UBERON:0002971)                                                          |
-| MBA:1144      |        1 | [UBERON:0002974](https://bioregistry.io/UBERON:0002974)                                                          |
-| MBA:581       |        1 | [UBERON:0002977](https://bioregistry.io/UBERON:0002977)                                                          |
-| MBA:1145      |        1 | [UBERON:0002979](https://bioregistry.io/UBERON:0002979)                                                          |
-| MBA:218       |        1 | [UBERON:0002983](https://bioregistry.io/UBERON:0002983)                                                          |
-| MBA:155       |        1 | [UBERON:0002984](https://bioregistry.io/UBERON:0002984)                                                          |
-| MBA:1079      |        1 | [UBERON:0002985](https://bioregistry.io/UBERON:0002985)                                                          |
-| MBA:866       |        1 | [UBERON:0002987](https://bioregistry.io/UBERON:0002987)                                                          |
-| MBA:341       |        1 | [UBERON:0002991](https://bioregistry.io/UBERON:0002991)                                                          |
-| MBA:15        |        1 | [UBERON:0002992](https://bioregistry.io/UBERON:0002992)                                                          |
-| MBA:615       |        1 | [UBERON:0002995](https://bioregistry.io/UBERON:0002995)                                                          |
-| MBA:628       |        1 | [UBERON:0002996](https://bioregistry.io/UBERON:0002996)                                                          |
-| MBA:552       |        1 | [UBERON:0002999](https://bioregistry.io/UBERON:0002999)                                                          |
-| MBA:697       |        1 | [UBERON:0003002](https://bioregistry.io/UBERON:0003002)                                                          |
-| MBA:679       |        1 | [UBERON:0003004](https://bioregistry.io/UBERON:0003004)                                                          |
-| MBA:82        |        1 | [UBERON:0003006](https://bioregistry.io/UBERON:0003006)                                                          |
-| MBA:881       |        1 | [UBERON:0003007](https://bioregistry.io/UBERON:0003007)                                                          |
-| MBA:661       |        1 | [UBERON:0003011](https://bioregistry.io/UBERON:0003011)                                                          |
-| MBA:737       |        1 | [UBERON:0003016](https://bioregistry.io/UBERON:0003016)                                                          |
-| MBA:342       |        1 | [UBERON:0003017](https://bioregistry.io/UBERON:0003017)                                                          |
-| MBA:741       |        1 | [UBERON:0003018](https://bioregistry.io/UBERON:0003018)                                                          |
-| MBA:920       |        1 | [UBERON:0003021](https://bioregistry.io/UBERON:0003021)                                                          |
-| MBA:482       |        1 | [UBERON:0003025](https://bioregistry.io/UBERON:0003025)                                                          |
-| MBA:633       |        1 | [UBERON:0003028](https://bioregistry.io/UBERON:0003028)                                                          |
-| MBA:301       |        1 | [UBERON:0003029](https://bioregistry.io/UBERON:0003029)                                                          |
-| MBA:366       |        1 | [UBERON:0003031](https://bioregistry.io/UBERON:0003031)                                                          |
-| MBA:325       |        1 | [UBERON:0003033](https://bioregistry.io/UBERON:0003033)                                                          |
-| MBA:575       |        1 | [UBERON:0003036](https://bioregistry.io/UBERON:0003036)                                                          |
-| MBA:900       |        1 | [UBERON:0003039](https://bioregistry.io/UBERON:0003039)                                                          |
-| MBA:795       |        1 | [UBERON:0003040](https://bioregistry.io/UBERON:0003040)                                                          |
-| MBA:908       |        1 | [UBERON:0003043](https://bioregistry.io/UBERON:0003043)                                                          |
-| MBA:547       |        1 | [UBERON:0003045](https://bioregistry.io/UBERON:0003045)                                                          |
-| MBA:413       |        1 | [UBERON:0003723](https://bioregistry.io/UBERON:0003723)                                                          |
-| MBA:382       |        1 | [UBERON:0003881](https://bioregistry.io/UBERON:0003881)                                                          |
-| MBA:423       |        1 | [UBERON:0003882](https://bioregistry.io/UBERON:0003882)                                                          |
-| MBA:463       |        1 | [UBERON:0003883](https://bioregistry.io/UBERON:0003883)                                                          |
-| MBA:174       |        1 | [UBERON:0003936](https://bioregistry.io/UBERON:0003936)                                                          |
-| MBA:940       |        1 | [UBERON:0003961](https://bioregistry.io/UBERON:0003961)                                                          |
-| MBA:124       |        1 | [UBERON:0003993](https://bioregistry.io/UBERON:0003993)                                                          |
-| MBA:151       |        1 | [UBERON:0004069](https://bioregistry.io/UBERON:0004069)                                                          |
-| MBA:912       |        1 | [UBERON:0004074](https://bioregistry.io/UBERON:0004074)                                                          |
-| MBA:976       |        1 | [UBERON:0004075](https://bioregistry.io/UBERON:0004075)                                                          |
-| MBA:984       |        1 | [UBERON:0004076](https://bioregistry.io/UBERON:0004076)                                                          |
-| MBA:992       |        1 | [UBERON:0004077](https://bioregistry.io/UBERON:0004077)                                                          |
-| MBA:957       |        1 | [UBERON:0004078](https://bioregistry.io/UBERON:0004078)                                                          |
-| MBA:1001      |        1 | [UBERON:0004079](https://bioregistry.io/UBERON:0004079)                                                          |
-| MBA:936       |        1 | [UBERON:0004080](https://bioregistry.io/UBERON:0004080)                                                          |
-| MBA:944       |        1 | [UBERON:0004081](https://bioregistry.io/UBERON:0004081)                                                          |
-| MBA:951       |        1 | [UBERON:0004082](https://bioregistry.io/UBERON:0004082)                                                          |
-| MBA:968       |        1 | [UBERON:0004083](https://bioregistry.io/UBERON:0004083)                                                          |
-| MBA:858       |        1 | [UBERON:0004170](https://bioregistry.io/UBERON:0004170)                                                          |
-| MBA:579       |        1 | [UBERON:0004545](https://bioregistry.io/UBERON:0004545)                                                          |
-| MBA:10703     |        1 | [UBERON:0004679](https://bioregistry.io/UBERON:0004679)                                                          |
-| MBA:436       |        1 | [UBERON:0004680](https://bioregistry.io/UBERON:0004680)                                                          |
-| MBA:843       |        1 | [UBERON:0004683](https://bioregistry.io/UBERON:0004683)                                                          |
-| MBA:645       |        1 | [UBERON:0004720](https://bioregistry.io/UBERON:0004720)                                                          |
-| MBA:948       |        1 | [UBERON:0004727](https://bioregistry.io/UBERON:0004727)                                                          |
-| MBA:98        |        1 | [UBERON:0004922](https://bioregistry.io/UBERON:0004922)                                                          |
-| MBA:73        |        1 | [UBERON:0005281](https://bioregistry.io/UBERON:0005281)                                                          |
-| MBA:695       |        1 | [UBERON:0005343](https://bioregistry.io/UBERON:0005343)                                                          |
-| MBA:1033      |        1 | [UBERON:0005347](https://bioregistry.io/UBERON:0005347)                                                          |
-| MBA:1017      |        1 | [UBERON:0005348](https://bioregistry.io/UBERON:0005348)                                                          |
-| MBA:1025      |        1 | [UBERON:0005349](https://bioregistry.io/UBERON:0005349)                                                          |
-| MBA:1007      |        1 | [UBERON:0005350](https://bioregistry.io/UBERON:0005350)                                                          |
-| MBA:1041      |        1 | [UBERON:0005351](https://bioregistry.io/UBERON:0005351)                                                          |
-| MBA:514       |        1 | [UBERON:0005373](https://bioregistry.io/UBERON:0005373)                                                          |
-| MBA:212       |        1 | [UBERON:0005377](https://bioregistry.io/UBERON:0005377)                                                          |
-| MBA:220       |        1 | [UBERON:0005378](https://bioregistry.io/UBERON:0005378)                                                          |
-| MBA:228       |        1 | [UBERON:0005379](https://bioregistry.io/UBERON:0005379)                                                          |
-| MBA:632       |        1 | [UBERON:0005381](https://bioregistry.io/UBERON:0005381)                                                          |
-| MBA:485       |        1 | [UBERON:0005382](https://bioregistry.io/UBERON:0005382)                                                          |
-| MBA:672       |        1 | [UBERON:0005383](https://bioregistry.io/UBERON:0005383)                                                          |
-| MBA:493       |        1 | [UBERON:0005403](https://bioregistry.io/UBERON:0005403)                                                          |
-| MBA:85        |        1 | [UBERON:0005413](https://bioregistry.io/UBERON:0005413)                                                          |
-| MBA:388       |        1 | [UBERON:0005821](https://bioregistry.io/UBERON:0005821)                                                          |
-| MBA:380       |        1 | [UBERON:0005832](https://bioregistry.io/UBERON:0005832)                                                          |
-| MBA:1056      |        1 | [UBERON:0005976](https://bioregistry.io/UBERON:0005976)                                                          |
-| MBA:1064      |        1 | [UBERON:0005977](https://bioregistry.io/UBERON:0005977)                                                          |
-| MBA:1016      |        1 | [UBERON:0005978](https://bioregistry.io/UBERON:0005978)                                                          |
-| MBA:922       |        1 | [UBERON:0006083](https://bioregistry.io/UBERON:0006083)                                                          |
-| MBA:802       |        1 | [UBERON:0006086](https://bioregistry.io/UBERON:0006086)                                                          |
-| MBA:396       |        1 | [UBERON:0006087](https://bioregistry.io/UBERON:0006087)                                                          |
-| MBA:31        |        1 | [UBERON:0006101](https://bioregistry.io/UBERON:0006101)                                                          |
-| MBA:842       |        1 | [UBERON:0006120](https://bioregistry.io/UBERON:0006120)                                                          |
-| MBA:803       |        1 | [UBERON:0006514](https://bioregistry.io/UBERON:0006514)                                                          |
-| MBA:818       |        1 | [UBERON:0006516](https://bioregistry.io/UBERON:0006516)                                                          |
-| MBA:681       |        1 | [UBERON:0006698](https://bioregistry.io/UBERON:0006698)                                                          |
-| MBA:851       |        1 | [UBERON:0006779](https://bioregistry.io/UBERON:0006779)                                                          |
-| MBA:834       |        1 | [UBERON:0006780](https://bioregistry.io/UBERON:0006780)                                                          |
-| MBA:612       |        1 | [UBERON:0006840](https://bioregistry.io/UBERON:0006840)                                                          |
-| MBA:744       |        1 | [UBERON:0006847](https://bioregistry.io/UBERON:0006847)                                                          |
-| MBA:1061      |        1 | [UBERON:0006848](https://bioregistry.io/UBERON:0006848)                                                          |
-| MBA:918       |        1 | [UBERON:0007225](https://bioregistry.io/UBERON:0007225)                                                          |
-| MBA:217       |        1 | [UBERON:0007227](https://bioregistry.io/UBERON:0007227)                                                          |
-| MBA:209       |        1 | [UBERON:0007230](https://bioregistry.io/UBERON:0007230)                                                          |
-| MBA:165       |        1 | [UBERON:0007412](https://bioregistry.io/UBERON:0007412)                                                          |
-| MBA:146       |        1 | [UBERON:0007413](https://bioregistry.io/UBERON:0007413)                                                          |
-| MBA:128       |        1 | [UBERON:0007415](https://bioregistry.io/UBERON:0007415)                                                          |
-| MBA:347       |        1 | [UBERON:0007626](https://bioregistry.io/UBERON:0007626)                                                          |
-| MBA:521       |        1 | [UBERON:0007627](https://bioregistry.io/UBERON:0007627)                                                          |
-| MBA:275       |        1 | [UBERON:0007628](https://bioregistry.io/UBERON:0007628)                                                          |
-| MBA:904       |        1 | [UBERON:0007629](https://bioregistry.io/UBERON:0007629)                                                          |
-| MBA:333       |        1 | [UBERON:0007630](https://bioregistry.io/UBERON:0007630)                                                          |
-| MBA:188       |        1 | [UBERON:0007631](https://bioregistry.io/UBERON:0007631)                                                          |
-| MBA:280       |        1 | [UBERON:0007632](https://bioregistry.io/UBERON:0007632)                                                          |
-| MBA:642       |        1 | [UBERON:0007633](https://bioregistry.io/UBERON:0007633)                                                          |
-| MBA:867       |        1 | [UBERON:0007634](https://bioregistry.io/UBERON:0007634)                                                          |
-| MBA:466       |        1 | [UBERON:0007639](https://bioregistry.io/UBERON:0007639)                                                          |
-| MBA:153       |        1 | [UBERON:0007656](https://bioregistry.io/UBERON:0007656)                                                          |
-| MBA:871       |        1 | [UBERON:0007703](https://bioregistry.io/UBERON:0007703)                                                          |
-| MBA:90        |        1 | [UBERON:0007710](https://bioregistry.io/UBERON:0007710)                                                          |
-| MBA:928       |        1 | [UBERON:0007763](https://bioregistry.io/UBERON:0007763)                                                          |
-| MBA:995       |        1 | [UBERON:0007764](https://bioregistry.io/UBERON:0007764)                                                          |
-| MBA:980       |        1 | [UBERON:0007767](https://bioregistry.io/UBERON:0007767)                                                          |
-| MBA:1004      |        1 | [UBERON:0007768](https://bioregistry.io/UBERON:0007768)                                                          |
-| MBA:523       |        1 | [UBERON:0007769](https://bioregistry.io/UBERON:0007769)                                                          |
-| MBA:453       |        1 | [UBERON:0008930](https://bioregistry.io/UBERON:0008930)                                                          |
-| MBA:322       |        1 | [UBERON:0008933](https://bioregistry.io/UBERON:0008933)                                                          |
-| MBA:378       |        1 | [UBERON:0008934](https://bioregistry.io/UBERON:0008934)                                                          |
-| MBA:651       |        1 | [UBERON:0009050](https://bioregistry.io/UBERON:0009050)                                                          |
-| MBA:674       |        1 | [UBERON:0009051](https://bioregistry.io/UBERON:0009051)                                                          |
-| MBA:691       |        1 | [UBERON:0009052](https://bioregistry.io/UBERON:0009052)                                                          |
-| MBA:949       |        1 | [UBERON:0009121](https://bioregistry.io/UBERON:0009121)                                                          |
-| MBA:136       |        1 | [UBERON:0009777](https://bioregistry.io/UBERON:0009777)                                                          |
-| MBA:229       |        1 | [UBERON:0009907](https://bioregistry.io/UBERON:0009907)                                                          |
-| MBA:507       |        1 | [UBERON:0009951](https://bioregistry.io/UBERON:0009951)                                                          |
-| MBA:10702     |        1 | [UBERON:0009952](https://bioregistry.io/UBERON:0009952)                                                          |
-| MBA:623       |        1 | [UBERON:0010011](https://bioregistry.io/UBERON:0010011)                                                          |
-| MBA:231       |        1 | [UBERON:0010036](https://bioregistry.io/UBERON:0010036)                                                          |
-| MBA:329       |        1 | [UBERON:0010415](https://bioregistry.io/UBERON:0010415)                                                          |
-| MBA:246       |        1 | [UBERON:0011172](https://bioregistry.io/UBERON:0011172)                                                          |
-| MBA:359       |        1 | [UBERON:0011173](https://bioregistry.io/UBERON:0011173)                                                          |
-| MBA:513       |        1 | [UBERON:0011175](https://bioregistry.io/UBERON:0011175)                                                          |
-| MBA:554       |        1 | [UBERON:0011176](https://bioregistry.io/UBERON:0011176)                                                          |
-| MBA:367       |        1 | [UBERON:0011177](https://bioregistry.io/UBERON:0011177)                                                          |
-| MBA:578       |        1 | [UBERON:0011178](https://bioregistry.io/UBERON:0011178)                                                          |
-| MBA:594       |        1 | [UBERON:0011179](https://bioregistry.io/UBERON:0011179)                                                          |
-| MBA:730       |        1 | [UBERON:0011768](https://bioregistry.io/UBERON:0011768)                                                          |
-| MBA:254       |        1 | [UBERON:0013531](https://bioregistry.io/UBERON:0013531)                                                          |
-| MBA:972       |        1 | [UBERON:0013560](https://bioregistry.io/UBERON:0013560)                                                          |
-| MBA:75        |        1 | [UBERON:0013599](https://bioregistry.io/UBERON:0013599)                                                          |
-| MBA:66        |        1 | [UBERON:0013600](https://bioregistry.io/UBERON:0013600)                                                          |
-| MBA:58        |        1 | [UBERON:0013601](https://bioregistry.io/UBERON:0013601)                                                          |
-| MBA:197       |        1 | [UBERON:0013734](https://bioregistry.io/UBERON:0013734)                                                          |
-| MBA:12        |        1 | [UBERON:0013736](https://bioregistry.io/UBERON:0013736)                                                          |
-| MBA:102       |        1 | [UBERON:0014169](https://bioregistry.io/UBERON:0014169)                                                          |
-| MBA:942       |        1 | [UBERON:0014284](https://bioregistry.io/UBERON:0014284)                                                          |
-| MBA:43        |        1 | [UBERON:0014468](https://bioregistry.io/UBERON:0014468)                                                          |
-| MBA:1103      |        1 | [UBERON:0014471](https://bioregistry.io/UBERON:0014471)                                                          |
-| MBA:1087      |        1 | [UBERON:0014473](https://bioregistry.io/UBERON:0014473)                                                          |
-| MBA:1092      |        1 | [UBERON:0014534](https://bioregistry.io/UBERON:0014534)                                                          |
-| MBA:407       |        1 | [UBERON:0014548](https://bioregistry.io/UBERON:0014548)                                                          |
-| MBA:446       |        1 | [UBERON:0014549](https://bioregistry.io/UBERON:0014549)                                                          |
-| MBA:495       |        1 | [UBERON:0014550](https://bioregistry.io/UBERON:0014550)                                                          |
-| MBA:438       |        1 | [UBERON:0014551](https://bioregistry.io/UBERON:0014551)                                                          |
-| MBA:399       |        1 | [UBERON:0014552](https://bioregistry.io/UBERON:0014552)                                                          |
-| MBA:486       |        1 | [UBERON:0014553](https://bioregistry.io/UBERON:0014553)                                                          |
-| MBA:415       |        1 | [UBERON:0014554](https://bioregistry.io/UBERON:0014554)                                                          |
-| MBA:454       |        1 | [UBERON:0014555](https://bioregistry.io/UBERON:0014555)                                                          |
-| MBA:504       |        1 | [UBERON:0014556](https://bioregistry.io/UBERON:0014556)                                                          |
-| MBA:391       |        1 | [UBERON:0014557](https://bioregistry.io/UBERON:0014557)                                                          |
-| MBA:431       |        1 | [UBERON:0014558](https://bioregistry.io/UBERON:0014558)                                                          |
-| MBA:471       |        1 | [UBERON:0014559](https://bioregistry.io/UBERON:0014559)                                                          |
-| MBA:479       |        1 | [UBERON:0014560](https://bioregistry.io/UBERON:0014560)                                                          |
-| MBA:700       |        1 | [UBERON:0014589](https://bioregistry.io/UBERON:0014589)                                                          |
-| MBA:708       |        1 | [UBERON:0014590](https://bioregistry.io/UBERON:0014590)                                                          |
-| MBA:724       |        1 | [UBERON:0014591](https://bioregistry.io/UBERON:0014591)                                                          |
-| MBA:716       |        1 | [UBERON:0014592](https://bioregistry.io/UBERON:0014592)                                                          |
-| MBA:1126      |        1 | [UBERON:0014593](https://bioregistry.io/UBERON:0014593)                                                          |
-| MBA:1         |        1 | [UBERON:0014594](https://bioregistry.io/UBERON:0014594)                                                          |
-| MBA:464       |        1 | [UBERON:0014595](https://bioregistry.io/UBERON:0014595)                                                          |
-| MBA:439       |        1 | [UBERON:0014596](https://bioregistry.io/UBERON:0014596)                                                          |
-| MBA:455       |        1 | [UBERON:0014597](https://bioregistry.io/UBERON:0014597)                                                          |
-| MBA:447       |        1 | [UBERON:0014598](https://bioregistry.io/UBERON:0014598)                                                          |
-| MBA:47        |        1 | [UBERON:0014599](https://bioregistry.io/UBERON:0014599)                                                          |
-| MBA:79        |        1 | [UBERON:0014600](https://bioregistry.io/UBERON:0014600)                                                          |
-| MBA:103       |        1 | [UBERON:0014601](https://bioregistry.io/UBERON:0014601)                                                          |
-| MBA:63        |        1 | [UBERON:0014602](https://bioregistry.io/UBERON:0014602)                                                          |
-| MBA:71        |        1 | [UBERON:0014603](https://bioregistry.io/UBERON:0014603)                                                          |
-| MBA:94        |        1 | [UBERON:0014604](https://bioregistry.io/UBERON:0014604)                                                          |
-| MBA:998       |        1 | [UBERON:0014605](https://bioregistry.io/UBERON:0014605)                                                          |
-| MBA:794       |        1 | [UBERON:0014761](https://bioregistry.io/UBERON:0014761)                                                          |
-| MBA:1116      |        1 | [UBERON:0014915](https://bioregistry.io/UBERON:0014915)                                                          |
-| MBA:886       |        1 | [UBERON:0014918](https://bioregistry.io/UBERON:0014918)                                                          |
-| MBA:196       |        1 | [UBERON:0015244](https://bioregistry.io/UBERON:0015244)                                                          |
-| MBA:204       |        1 | [UBERON:0015432](https://bioregistry.io/UBERON:0015432)                                                          |
-| MBA:1108      |        1 | [UBERON:0015599](https://bioregistry.io/UBERON:0015599)                                                          |
-| MBA:979       |        1 | [UBERON:0015703](https://bioregistry.io/UBERON:0015703)                                                          |
-| MBA:986       |        1 | [UBERON:0015708](https://bioregistry.io/UBERON:0015708)                                                          |
-| MBA:19        |        1 | [UBERON:0015793](https://bioregistry.io/UBERON:0015793)                                                          |
-| MBA:589       |        1 | [UBERON:0015800](https://bioregistry.io/UBERON:0015800)                                                          |
-| MBA:852       |        1 | [UBERON:0016633](https://bioregistry.io/UBERON:0016633)                                                          |
-| MBA:993       |        1 | [UBERON:0016634](https://bioregistry.io/UBERON:0016634)                                                          |
-| MBA:938       |        1 | [UBERON:0016635](https://bioregistry.io/UBERON:0016635)                                                          |
-| MBA:406       |        1 | [UBERON:0016641](https://bioregistry.io/UBERON:0016641)                                                          |
-| MBA:978       |        1 | [UBERON:0016824](https://bioregistry.io/UBERON:0016824)                                                          |
-| MBA:970       |        1 | [UBERON:0016825](https://bioregistry.io/UBERON:0016825)                                                          |
-| MBA:720       |        1 | [UBERON:0018238](https://bioregistry.io/UBERON:0018238)                                                          |
-| MBA:926       |        1 | [UBERON:0018262](https://bioregistry.io/UBERON:0018262)                                                          |
-| MBA:934       |        1 | [UBERON:0018263](https://bioregistry.io/UBERON:0018263)                                                          |
-| MBA:780       |        1 | [UBERON:0022229](https://bioregistry.io/UBERON:0022229)                                                          |
-| MBA:822       |        1 | [UBERON:0022230](https://bioregistry.io/UBERON:0022230)                                                          |
-| MBA:365       |        1 | [UBERON:0022236](https://bioregistry.io/UBERON:0022236)                                                          |
-| MBA:317       |        1 | [UBERON:0022256](https://bioregistry.io/UBERON:0022256)                                                          |
-| MBA:994       |        1 | [UBERON:0022272](https://bioregistry.io/UBERON:0022272)                                                          |
-| MBA:489       |        1 | [UBERON:0023868](https://bioregistry.io/UBERON:0023868)                                                          |
-| MBA:892       |        1 | [UBERON:0034896](https://bioregistry.io/UBERON:0034896)                                                          |
-| MBA:713       |        1 | [UBERON:0034931](https://bioregistry.io/UBERON:0034931)                                                          |
-| MBA:541       |        1 | [UBERON:0035013](https://bioregistry.io/UBERON:0035013)                                                          |
-| MBA:617       |        1 | [UBERON:0035113](https://bioregistry.io/UBERON:0035113)                                                          |
-| MBA:626       |        1 | [UBERON:0035114](https://bioregistry.io/UBERON:0035114)                                                          |
-| MBA:357       |        1 | [UBERON:0035570](https://bioregistry.io/UBERON:0035570)                                                          |
-| MBA:876       |        1 | [UBERON:0035595](https://bioregistry.io/UBERON:0035595)                                                          |
-| MBA:432       |        1 | [UBERON:0035596](https://bioregistry.io/UBERON:0035596)                                                          |
-| MBA:1000      |        1 | [UBERON:0035803](https://bioregistry.io/UBERON:0035803)                                                          |
-| MBA:1070      |        1 | [UBERON:0035872](https://bioregistry.io/UBERON:0035872)                                                          |
-| MBA:981       |        1 | [UBERON:0035873](https://bioregistry.io/UBERON:0035873)                                                          |
-| MBA:201       |        1 | [UBERON:0035874](https://bioregistry.io/UBERON:0035874)                                                          |
-| MBA:1062      |        1 | [UBERON:0035875](https://bioregistry.io/UBERON:0035875)                                                          |
-| MBA:1038      |        1 | [UBERON:0035876](https://bioregistry.io/UBERON:0035876)                                                          |
-| MBA:1047      |        1 | [UBERON:0035877](https://bioregistry.io/UBERON:0035877)                                                          |
-| MBA:1011      |        1 | [UBERON:0035885](https://bioregistry.io/UBERON:0035885)                                                          |
-| MBA:22        |        1 | [UBERON:0035886](https://bioregistry.io/UBERON:0035886)                                                          |
-| MBA:312782628 |        1 | [UBERON:0035890](https://bioregistry.io/UBERON:0035890)                                                          |
-| MBA:33        |        1 | [UBERON:0035892](https://bioregistry.io/UBERON:0035892)                                                          |
-| MBA:394       |        1 | [UBERON:0035893](https://bioregistry.io/UBERON:0035893)                                                          |
-| MBA:402       |        1 | [UBERON:0035894](https://bioregistry.io/UBERON:0035894)                                                          |
-| MBA:409       |        1 | [UBERON:0035895](https://bioregistry.io/UBERON:0035895)                                                          |
-| MBA:425       |        1 | [UBERON:0035897](https://bioregistry.io/UBERON:0035897)                                                          |
-| MBA:533       |        1 | [UBERON:0035900](https://bioregistry.io/UBERON:0035900)                                                          |
-| MBA:721       |        1 | [UBERON:0035904](https://bioregistry.io/UBERON:0035904)                                                          |
-| MBA:778       |        1 | [UBERON:0035906](https://bioregistry.io/UBERON:0035906)                                                          |
-| MBA:821       |        1 | [UBERON:0035907](https://bioregistry.io/UBERON:0035907)                                                          |
-| MBA:233       |        1 | [UBERON:0035908](https://bioregistry.io/UBERON:0035908)                                                          |
-| MBA:257       |        1 | [UBERON:0035909](https://bioregistry.io/UBERON:0035909)                                                          |
-| MBA:312782640 |        1 | [UBERON:0035911](https://bioregistry.io/UBERON:0035911)                                                          |
-| MBA:417       |        1 | [UBERON:0035912](https://bioregistry.io/UBERON:0035912)                                                          |
-| MBA:433       |        1 | [UBERON:0035913](https://bioregistry.io/UBERON:0035913)                                                          |
-| MBA:501       |        1 | [UBERON:0035914](https://bioregistry.io/UBERON:0035914)                                                          |
-| MBA:573       |        1 | [UBERON:0035915](https://bioregistry.io/UBERON:0035915)                                                          |
-| MBA:613       |        1 | [UBERON:0035916](https://bioregistry.io/UBERON:0035916)                                                          |
-| MBA:678       |        1 | [UBERON:0035917](https://bioregistry.io/UBERON:0035917)                                                          |
-| MBA:74        |        1 | [UBERON:0035918](https://bioregistry.io/UBERON:0035918)                                                          |
-| MBA:869       |        1 | [UBERON:0035919](https://bioregistry.io/UBERON:0035919)                                                          |
-| MBA:312782616 |        1 | [UBERON:0035920](https://bioregistry.io/UBERON:0035920)                                                          |
-| MBA:1095      |        1 | [UBERON:0035926](https://bioregistry.io/UBERON:0035926)                                                          |
-| MBA:1037      |        1 | [UBERON:0035971](https://bioregistry.io/UBERON:0035971)                                                          |
-| MBA:1113      |        1 | [UBERON:0035972](https://bioregistry.io/UBERON:0035972)                                                          |
-| MBA:604       |        1 | [UBERON:0035973](https://bioregistry.io/UBERON:0035973)                                                          |
-| MBA:263       |        1 | [UBERON:0035974](https://bioregistry.io/UBERON:0035974)                                                          |
-| MBA:27        |        1 | [UBERON:0035975](https://bioregistry.io/UBERON:0035975)                                                          |
-| MBA:568       |        1 | [UBERON:0035976](https://bioregistry.io/UBERON:0035976)                                                          |
-| MBA:292       |        1 | [UBERON:0035977](https://bioregistry.io/UBERON:0035977)                                                          |
-| MBA:796       |        1 | [UBERON:0036007](https://bioregistry.io/UBERON:0036007)                                                          |
-| MBA:580       |        1 | [UBERON:0036012](https://bioregistry.io/UBERON:0036012)                                                          |
-
-## MTB
+## `MTB`
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | MTB:379 |        1 | [UBERON:0002145](https://bioregistry.io/UBERON:0002145) |
 
-## NIF
+## `NIF`
 
 | curie   |   usages | nodes                                                                                                                                                                                                                              |
 |---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | NIF:NIF |        4 | [UBERON:0009630](https://bioregistry.io/UBERON:0009630), [UBERON:0009631](https://bioregistry.io/UBERON:0009631), [UBERON:0009632](https://bioregistry.io/UBERON:0009632), [UBERON:0009633](https://bioregistry.io/UBERON:0009633) |
 
-## NominaAnatomica
+## `NominaAnatomica`
 
 | curie              |   usages | nodes                                                                                                            |
 |--------------------|----------|------------------------------------------------------------------------------------------------------------------|
 | NominaAnatomica:NA |        2 | [UBERON:0010356](https://bioregistry.io/UBERON:0010356), [UBERON:0010357](https://bioregistry.io/UBERON:0010357) |
 
-## Obol
+## `Obol`
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
 | Obol:obol |        1 | [UBERON:0003281](https://bioregistry.io/UBERON:0003281) |
 | Obol:cjm  |        1 | [UBERON:0004673](https://bioregistry.io/UBERON:0004673) |
 
-## PAPUB
+## `PAPUB`
 
 | curie         |   usages | nodes                                                                                                            |
 |---------------|----------|------------------------------------------------------------------------------------------------------------------|
 | PAPUB:0000142 |        2 | [UBERON:2001162](https://bioregistry.io/UBERON:2001162), [UBERON:4000163](https://bioregistry.io/UBERON:4000163) |
 
-## PBA
-
-| curie         |   usages | nodes                                                                                                            |
-|---------------|----------|------------------------------------------------------------------------------------------------------------------|
-| PBA:294021970 |        2 | [UBERON:0004922](https://bioregistry.io/UBERON:0004922), [UBERON:0014940](https://bioregistry.io/UBERON:0014940) |
-| PBA:3999      |        1 | [UBERON:0000955](https://bioregistry.io/UBERON:0000955)                                                          |
-| PBA:128011354 |        1 | [UBERON:0000956](https://bioregistry.io/UBERON:0000956)                                                          |
-| PBA:10125     |        1 | [UBERON:0001722](https://bioregistry.io/UBERON:0001722)                                                          |
-| PBA:10082     |        1 | [UBERON:0001873](https://bioregistry.io/UBERON:0001873)                                                          |
-| PBA:10086     |        1 | [UBERON:0001874](https://bioregistry.io/UBERON:0001874)                                                          |
-| PBA:10097     |        1 | [UBERON:0001875](https://bioregistry.io/UBERON:0001875)                                                          |
-| PBA:4002      |        1 | [UBERON:0001876](https://bioregistry.io/UBERON:0001876)                                                          |
-| PBA:10095     |        1 | [UBERON:0001881](https://bioregistry.io/UBERON:0001881)                                                          |
-| PBA:10092     |        1 | [UBERON:0001882](https://bioregistry.io/UBERON:0001882)                                                          |
-| PBA:10096     |        1 | [UBERON:0001883](https://bioregistry.io/UBERON:0001883)                                                          |
-| PBA:10102     |        1 | [UBERON:0001887](https://bioregistry.io/UBERON:0001887)                                                          |
-| PBA:128011350 |        1 | [UBERON:0001893](https://bioregistry.io/UBERON:0001893)                                                          |
-| PBA:128013010 |        1 | [UBERON:0001894](https://bioregistry.io/UBERON:0001894)                                                          |
-| PBA:128013014 |        1 | [UBERON:0001897](https://bioregistry.io/UBERON:0001897)                                                          |
-| PBA:128013147 |        1 | [UBERON:0001899](https://bioregistry.io/UBERON:0001899)                                                          |
-| PBA:128012616 |        1 | [UBERON:0001923](https://bioregistry.io/UBERON:0001923)                                                          |
-| PBA:128013070 |        1 | [UBERON:0001926](https://bioregistry.io/UBERON:0001926)                                                          |
-| PBA:294021746 |        1 | [UBERON:0001950](https://bioregistry.io/UBERON:0001950)                                                          |
-| PBA:128012244 |        1 | [UBERON:0001954](https://bioregistry.io/UBERON:0001954)                                                          |
-| PBA:128012960 |        1 | [UBERON:0002023](https://bioregistry.io/UBERON:0002023)                                                          |
-| PBA:128012354 |        1 | [UBERON:0002191](https://bioregistry.io/UBERON:0002191)                                                          |
-| PBA:294022044 |        1 | [UBERON:0002316](https://bioregistry.io/UBERON:0002316)                                                          |
-| PBA:4003      |        1 | [UBERON:0002421](https://bioregistry.io/UBERON:0002421)                                                          |
-| PBA:10080     |        1 | [UBERON:0002435](https://bioregistry.io/UBERON:0002435)                                                          |
-| PBA:10026     |        1 | [UBERON:0002436](https://bioregistry.io/UBERON:0002436)                                                          |
-| PBA:10099     |        1 | [UBERON:0002476](https://bioregistry.io/UBERON:0002476)                                                          |
-| PBA:10098     |        1 | [UBERON:0002477](https://bioregistry.io/UBERON:0002477)                                                          |
-| PBA:128013074 |        1 | [UBERON:0002479](https://bioregistry.io/UBERON:0002479)                                                          |
-| PBA:294022158 |        1 | [UBERON:0002728](https://bioregistry.io/UBERON:0002728)                                                          |
-| PBA:128012976 |        1 | [UBERON:0002743](https://bioregistry.io/UBERON:0002743)                                                          |
-| PBA:10121     |        1 | [UBERON:0002883](https://bioregistry.io/UBERON:0002883)                                                          |
-| PBA:10132     |        1 | [UBERON:0002884](https://bioregistry.io/UBERON:0002884)                                                          |
-| PBA:10116     |        1 | [UBERON:0002886](https://bioregistry.io/UBERON:0002886)                                                          |
-| PBA:10103     |        1 | [UBERON:0002890](https://bioregistry.io/UBERON:0002890)                                                          |
-| PBA:294022030 |        1 | [UBERON:0003053](https://bioregistry.io/UBERON:0003053)                                                          |
-| PBA:10058     |        1 | [UBERON:0003881](https://bioregistry.io/UBERON:0003881)                                                          |
-| PBA:10063     |        1 | [UBERON:0003882](https://bioregistry.io/UBERON:0003882)                                                          |
-| PBA:10068     |        1 | [UBERON:0003883](https://bioregistry.io/UBERON:0003883)                                                          |
-| PBA:10074     |        1 | [UBERON:0003884](https://bioregistry.io/UBERON:0003884)                                                          |
-| PBA:294021942 |        1 | [UBERON:0004006](https://bioregistry.io/UBERON:0004006)                                                          |
-| PBA:128012818 |        1 | [UBERON:0004023](https://bioregistry.io/UBERON:0004023)                                                          |
-| PBA:128012834 |        1 | [UBERON:0004024](https://bioregistry.io/UBERON:0004024)                                                          |
-| PBA:128012822 |        1 | [UBERON:0004025](https://bioregistry.io/UBERON:0004025)                                                          |
-| PBA:128012846 |        1 | [UBERON:0004026](https://bioregistry.io/UBERON:0004026)                                                          |
-| PBA:294021932 |        1 | [UBERON:0004035](https://bioregistry.io/UBERON:0004035)                                                          |
-| PBA:128013018 |        1 | [UBERON:0004703](https://bioregistry.io/UBERON:0004703)                                                          |
-| PBA:294021914 |        1 | [UBERON:0005343](https://bioregistry.io/UBERON:0005343)                                                          |
-| PBA:10081     |        1 | [UBERON:0005382](https://bioregistry.io/UBERON:0005382)                                                          |
-| PBA:294021786 |        1 | [UBERON:0005390](https://bioregistry.io/UBERON:0005390)                                                          |
-| PBA:294021800 |        1 | [UBERON:0005391](https://bioregistry.io/UBERON:0005391)                                                          |
-| PBA:294021824 |        1 | [UBERON:0005392](https://bioregistry.io/UBERON:0005392)                                                          |
-| PBA:294021852 |        1 | [UBERON:0005393](https://bioregistry.io/UBERON:0005393)                                                          |
-| PBA:294021878 |        1 | [UBERON:0005394](https://bioregistry.io/UBERON:0005394)                                                          |
-| PBA:294021896 |        1 | [UBERON:0005395](https://bioregistry.io/UBERON:0005395)                                                          |
-| PBA:10091     |        1 | [UBERON:0005403](https://bioregistry.io/UBERON:0005403)                                                          |
-| PBA:128012080 |        1 | [UBERON:0006083](https://bioregistry.io/UBERON:0006083)                                                          |
-| PBA:128012678 |        1 | [UBERON:0006107](https://bioregistry.io/UBERON:0006107)                                                          |
-| PBA:10039     |        1 | [UBERON:0006473](https://bioregistry.io/UBERON:0006473)                                                          |
-| PBA:128011936 |        1 | [UBERON:0007224](https://bioregistry.io/UBERON:0007224)                                                          |
-| PBA:128011876 |        1 | [UBERON:0007225](https://bioregistry.io/UBERON:0007225)                                                          |
-| PBA:128012584 |        1 | [UBERON:0008881](https://bioregistry.io/UBERON:0008881)                                                          |
-| PBA:10141     |        1 | [UBERON:0010010](https://bioregistry.io/UBERON:0010010)                                                          |
-| PBA:128012596 |        1 | [UBERON:0010011](https://bioregistry.io/UBERON:0010011)                                                          |
-| PBA:10093     |        1 | [UBERON:0012170](https://bioregistry.io/UBERON:0012170)                                                          |
-| PBA:10094     |        1 | [UBERON:0012171](https://bioregistry.io/UBERON:0012171)                                                          |
-| PBA:128013078 |        1 | [UBERON:0013606](https://bioregistry.io/UBERON:0013606)                                                          |
-| PBA:128013091 |        1 | [UBERON:0013607](https://bioregistry.io/UBERON:0013607)                                                          |
-| PBA:10060     |        1 | [UBERON:0014548](https://bioregistry.io/UBERON:0014548)                                                          |
-| PBA:10065     |        1 | [UBERON:0014549](https://bioregistry.io/UBERON:0014549)                                                          |
-| PBA:10070     |        1 | [UBERON:0014550](https://bioregistry.io/UBERON:0014550)                                                          |
-| PBA:10064     |        1 | [UBERON:0014551](https://bioregistry.io/UBERON:0014551)                                                          |
-| PBA:10059     |        1 | [UBERON:0014552](https://bioregistry.io/UBERON:0014552)                                                          |
-| PBA:10069     |        1 | [UBERON:0014553](https://bioregistry.io/UBERON:0014553)                                                          |
-| PBA:10061     |        1 | [UBERON:0014554](https://bioregistry.io/UBERON:0014554)                                                          |
-| PBA:10066     |        1 | [UBERON:0014555](https://bioregistry.io/UBERON:0014555)                                                          |
-| PBA:10072     |        1 | [UBERON:0014556](https://bioregistry.io/UBERON:0014556)                                                          |
-| PBA:10062     |        1 | [UBERON:0014557](https://bioregistry.io/UBERON:0014557)                                                          |
-| PBA:10067     |        1 | [UBERON:0014558](https://bioregistry.io/UBERON:0014558)                                                          |
-| PBA:10073     |        1 | [UBERON:0014559](https://bioregistry.io/UBERON:0014559)                                                          |
-| PBA:10071     |        1 | [UBERON:0014560](https://bioregistry.io/UBERON:0014560)                                                          |
-| PBA:294021774 |        1 | [UBERON:0014935](https://bioregistry.io/UBERON:0014935)                                                          |
-| PBA:4004      |        1 | [UBERON:0016540](https://bioregistry.io/UBERON:0016540)                                                          |
-| PBA:10135     |        1 | [UBERON:0034673](https://bioregistry.io/UBERON:0034673)                                                          |
-| PBA:10140     |        1 | [UBERON:0034989](https://bioregistry.io/UBERON:0034989)                                                          |
-| PBA:10136     |        1 | [UBERON:0035027](https://bioregistry.io/UBERON:0035027)                                                          |
-| PBA:10137     |        1 | [UBERON:0035028](https://bioregistry.io/UBERON:0035028)                                                          |
-| PBA:12986     |        1 | [UBERON:0035154](https://bioregistry.io/UBERON:0035154)                                                          |
-| PBA:12987     |        1 | [UBERON:0035155](https://bioregistry.io/UBERON:0035155)                                                          |
-| PBA:12988     |        1 | [UBERON:0035156](https://bioregistry.io/UBERON:0035156)                                                          |
-| PBA:12989     |        1 | [UBERON:0035157](https://bioregistry.io/UBERON:0035157)                                                          |
-| PBA:12990     |        1 | [UBERON:0035158](https://bioregistry.io/UBERON:0035158)                                                          |
-
-## Swanson
+## `Swanson`
 
 | curie        |   usages | nodes                                                                                                            |
 |--------------|----------|------------------------------------------------------------------------------------------------------------------|
 | Swanson:2004 |        2 | [UBERON:0001893](https://bioregistry.io/UBERON:0001893), [UBERON:0001894](https://bioregistry.io/UBERON:0001894) |
 
-## TEMP
+## `TEMP`
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | TEMP:MP |        1 | [UBERON:0001263](https://bioregistry.io/UBERON:0001263) |
 
-## TODO
+## `TODO`
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
 | TODO:TODO |        1 | [UBERON:0001680](https://bioregistry.io/UBERON:0001680) |
 
-## UBERO
+## `UBERO`
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
 | UBERO:cjm |        1 | [UBERON:0001230](https://bioregistry.io/UBERON:0001230) |
 
-## UBERONTEMP
+## `UBERONTEMP`
 
 | curie                                           |   usages | nodes                                                   |
 |-------------------------------------------------|----------|---------------------------------------------------------|
@@ -3829,7 +1620,7 @@
 | UBERONTEMP:1ab99cc2-1435-4a9f-ade0-4e3b8efc8774 |        1 | [UBERON:0018373](https://bioregistry.io/UBERON:0018373) |
 | UBERONTEMP:caa10252-5f7e-4a55-a72c-cf7986a89363 |        1 | [UBERON:0018374](https://bioregistry.io/UBERON:0018374) |
 
-## ANISEED
+## `ANISEED`
 
 | curie           |   usages | nodes                                                   |
 |-----------------|----------|---------------------------------------------------------|
@@ -3847,7 +1638,7 @@
 | ANISEED:1225922 |        1 | [UBERON:0009896](https://bioregistry.io/UBERON:0009896) |
 | ANISEED:1235302 |        1 | [UBERON:0015227](https://bioregistry.io/UBERON:0015227) |
 
-## BILS
+## `BILS`
 
 | curie        |   usages | nodes                                                   |
 |--------------|----------|---------------------------------------------------------|
@@ -3861,7 +1652,7 @@
 | BILS:0000112 |        1 | [UBERON:0000112](https://bioregistry.io/UBERON:0000112) |
 | BILS:0000113 |        1 | [UBERON:0000113](https://bioregistry.io/UBERON:0000113) |
 
-## BSA
+## `BSA`
 
 | curie       |   usages | nodes                                                   |
 |-------------|----------|---------------------------------------------------------|
@@ -3892,7 +1683,7 @@
 | BSA:0000042 |        1 | [UBERON:0011302](https://bioregistry.io/UBERON:0011302) |
 | BSA:0000088 |        1 | [UBERON:0015227](https://bioregistry.io/UBERON:0015227) |
 
-## BilaDO
+## `BilaDO`
 
 | curie          |   usages | nodes                                                   |
 |----------------|----------|---------------------------------------------------------|
@@ -3906,25 +1697,25 @@
 | BilaDO:0000009 |        1 | [UBERON:0000110](https://bioregistry.io/UBERON:0000110) |
 | BilaDO:0000010 |        1 | [UBERON:0000111](https://bioregistry.io/UBERON:0000111) |
 
-## DrerDO
+## `DrerDO`
 
 | curie          |   usages | nodes                                                   |
 |----------------|----------|---------------------------------------------------------|
 | DrerDO:0000052 |        1 | [UBERON:0004707](https://bioregistry.io/UBERON:0004707) |
 
-## EMAPS
+## `EMAPS`
 
 | curie         |   usages | nodes                                                   |
 |---------------|----------|---------------------------------------------------------|
 | EMAPS:1818928 |        1 | [UBERON:0018240](https://bioregistry.io/UBERON:0018240) |
 
-## MAP
+## `MAP`
 
 | curie       |   usages | nodes                                                   |
 |-------------|----------|---------------------------------------------------------|
 | MAP:0000001 |        1 | [UBERON:0001155](https://bioregistry.io/UBERON:0001155) |
 
-## NIFSTD_RETIRED
+## `NIFSTD_RETIRED`
 
 | curie                           |   usages | nodes                                                   |
 |---------------------------------|----------|---------------------------------------------------------|
@@ -3937,20 +1728,20 @@
 | NIFSTD_RETIRED:birnlex_20081258 |        1 | [UBERON:0002817](https://bioregistry.io/UBERON:0002817) |
 | NIFSTD_RETIRED:birnlex_20081259 |        1 | [UBERON:0002818](https://bioregistry.io/UBERON:0002818) |
 
-## NIF_Organism
+## `NIF_Organism`
 
 | curie                    |   usages | nodes                                                   |
 |--------------------------|----------|---------------------------------------------------------|
 | NIF_Organism:birnlex_695 |        1 | [UBERON:0007221](https://bioregistry.io/UBERON:0007221) |
 | NIF_Organism:birnlex_691 |        1 | [UBERON:0007222](https://bioregistry.io/UBERON:0007222) |
 
-## NOID
+## `NOID`
 
 | curie   |   usages | nodes                                                                                                            |
 |---------|----------|------------------------------------------------------------------------------------------------------------------|
 | NOID:1  |        2 | [UBERON:0018367](https://bioregistry.io/UBERON:0018367), [UBERON:0018368](https://bioregistry.io/UBERON:0018368) |
 
-## NeuroNamesCNID
+## `NeuroNamesCNID`
 
 | curie              |   usages | nodes                                                   |
 |--------------------|----------|---------------------------------------------------------|
@@ -3960,14 +1751,14 @@
 | NeuroNamesCNID:178 |        1 | [UBERON:0015708](https://bioregistry.io/UBERON:0015708) |
 | NeuroNamesCNID:538 |        1 | [UBERON:0034743](https://bioregistry.io/UBERON:0034743) |
 
-## OGEM
+## `OGEM`
 
 | curie       |   usages | nodes                                                   |
 |-------------|----------|---------------------------------------------------------|
 | OGEM:000006 |        1 | [UBERON:0000307](https://bioregistry.io/UBERON:0000307) |
 | OGEM:000001 |        1 | [UBERON:0000922](https://bioregistry.io/UBERON:0000922) |
 
-## OGES
+## `OGES`
 
 | curie       |   usages | nodes                                                   |
 |-------------|----------|---------------------------------------------------------|
@@ -3985,7 +1776,7 @@
 | OGES:000023 |        1 | [UBERON:0007220](https://bioregistry.io/UBERON:0007220) |
 | OGES:000025 |        1 | [UBERON:0007221](https://bioregistry.io/UBERON:0007221) |
 
-## OpenCyc
+## `OpenCyc`
 
 | curie                                                                                                          |   usages | nodes                                                                                                            |
 |----------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------|
@@ -4525,7 +2316,7 @@
 | OpenCyc:Mx4rvViwtJwpEbGdrcN5Y29ycA                                                                             |        1 | [UBERON:0016490](https://bioregistry.io/UBERON:0016490)                                                          |
 | OpenCyc:Mx4rv3OJ8JwpEbGdrcN5Y29ycA                                                                             |        1 | [UBERON:0016525](https://bioregistry.io/UBERON:0016525)                                                          |
 
-## RadLex
+## `RadLex`
 
 | curie          |   usages | nodes                                                   |
 |----------------|----------|---------------------------------------------------------|
@@ -4534,25 +2325,25 @@
 | RadLex:RID6449 |        1 | [UBERON:0035933](https://bioregistry.io/UBERON:0035933) |
 | RadLex:RID6708 |        1 | [UBERON:0035939](https://bioregistry.io/UBERON:0035939) |
 
-## STID
+## `STID`
 
 | curie         |   usages | nodes                                                   |
 |---------------|----------|---------------------------------------------------------|
 | STID:29823001 |        1 | [UBERON:0010938](https://bioregistry.io/UBERON:0010938) |
 
-## TA2
+## `TA2`
 
 | curie    |   usages | nodes                                                   |
 |----------|----------|---------------------------------------------------------|
 | TA2:2952 |        1 | [UBERON:8410000](https://bioregistry.io/UBERON:8410000) |
 
-## Talairach
+## `Talairach`
 
 | curie          |   usages | nodes                                                   |
 |----------------|----------|---------------------------------------------------------|
 | Talairach:1047 |        1 | [UBERON:0035933](https://bioregistry.io/UBERON:0035933) |
 
-## WikipediaCategory
+## `WikipediaCategory`
 
 | curie                                        |   usages | nodes                                                   |
 |----------------------------------------------|----------|---------------------------------------------------------|
@@ -4564,7 +2355,7 @@
 | WikipediaCategory:Head_and_neck              |        1 | [UBERON:0007811](https://bioregistry.io/UBERON:0007811) |
 | WikipediaCategory:Brodmann_areas             |        1 | [UBERON:0013529](https://bioregistry.io/UBERON:0013529) |
 
-## XtroDO
+## `XtroDO`
 
 | curie          |   usages | nodes                                                   |
 |----------------|----------|---------------------------------------------------------|

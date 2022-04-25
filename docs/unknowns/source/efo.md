@@ -1,51 +1,51 @@
 # efo
 
-## WikipediaVersioned
+## `WikipediaVersioned`
 
 | curie                                                |   usages | nodes                                                                                               |
 |------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------|
 | WikipediaVersioned:Exome_sequencing&oldid=1000635953 |        1 | [http://www.ebi.ac.uk/efo/EFO:0005396](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005396) |
 
-## MONDOLEX
+## `MONDOLEX`
 
 | curie            |   usages | nodes                                                                                               |
 |------------------|----------|-----------------------------------------------------------------------------------------------------|
 | MONDOLEX:0015004 |        1 | [http://www.ebi.ac.uk/efo/EFO:0009301](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009301) |
 | MONDOLEX:0014857 |        1 | [http://www.ebi.ac.uk/efo/EFO:0009645](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009645) |
 
-## MONDORULE
+## `MONDORULE`
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MONDORULE:1 |       17 | [http://www.ebi.ac.uk/efo/EFO:0000248](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000248), [http://www.ebi.ac.uk/efo/EFO:0000437](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000437), [http://www.ebi.ac.uk/efo/EFO:0000640](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000640), [http://www.ebi.ac.uk/efo/EFO:0003047](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003047), [http://www.ebi.ac.uk/efo/EFO:0004197](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004197), [http://www.ebi.ac.uk/efo/EFO:0004799](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004799), [http://www.ebi.ac.uk/efo/EFO:0005425](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005425), [http://www.ebi.ac.uk/efo/EFO:0006342](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0006342), [http://www.ebi.ac.uk/efo/EFO:0007303](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007303), [http://www.ebi.ac.uk/efo/EFO:0007304](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007304), [http://www.ebi.ac.uk/efo/EFO:0007305](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007305), [http://www.ebi.ac.uk/efo/EFO:1000012](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000012), [http://www.ebi.ac.uk/efo/EFO:1000978](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000978), [http://www.ebi.ac.uk/efo/EFO:1001053](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001053), [http://www.ebi.ac.uk/efo/EFO:1001501](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001501), ... |
 | MONDORULE:2 |        1 | [http://www.ebi.ac.uk/efo/EFO:0009160](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009160)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-## MTH
+## `MTH`
 
 | curie   |   usages | nodes                                                                                               |
 |---------|----------|-----------------------------------------------------------------------------------------------------|
 | MTH:217 |        1 | [http://www.ebi.ac.uk/efo/EFO:0003894](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003894) |
 
-## NSH
+## `NSH`
 
 | curie       |   usages | nodes                                                                                               |
 |-------------|----------|-----------------------------------------------------------------------------------------------------|
 | NSH:D014029 |        1 | [http://www.ebi.ac.uk/efo/EFO:0003768](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003768) |
 
-## Germplasm
+## `Germplasm`
 
 | curie             |   usages | nodes                                                                                               |
 |-------------------|----------|-----------------------------------------------------------------------------------------------------|
 | Germplasm:4652085 |        1 | [http://www.ebi.ac.uk/efo/EFO:0001326](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001326) |
 | Germplasm:4640315 |        1 | [http://www.ebi.ac.uk/efo/EFO:0001354](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001354) |
 
-## MAP
+## `MAP`
 
 | curie       |   usages | nodes                                                                                               |
 |-------------|----------|-----------------------------------------------------------------------------------------------------|
 | MAP:0000001 |        1 | [http://www.ebi.ac.uk/efo/EFO:0000361](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000361) |
 
-## NIFSTD
+## `NIFSTD`
 
 | curie                    |   usages | nodes                                                                                                                                                                                                    |
 |--------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -142,21 +142,21 @@
 | NIFSTD:birnlex_484       |        1 | [http://www.ebi.ac.uk/efo/EFO:0002543](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0002543)                                                                                                      |
 | NIFSTD:birnlex_12648     |        1 | [http://www.ebi.ac.uk/efo/EFO:0002624](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0002624)                                                                                                      |
 
-## PERSON
+## `PERSON`
 
 | curie                |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | PERSON: James Malone |        4 | [http://www.ebi.ac.uk/efo/EFO:0000714](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000714), [http://www.ebi.ac.uk/efo/EFO:0001426](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001426), [http://www.ebi.ac.uk/efo/EFO:0001703](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001703), [http://www.ebi.ac.uk/efo/EFO:0001721](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001721) |
 | PERSON: Dani Welter  |        1 | [http://www.ebi.ac.uk/efo/EFO:0004358](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004358)                                                                                                                                                                                                                                                                                                                |
 
-## STRUCTURE_Formula
+## `STRUCTURE_Formula`
 
 | curie                          |   usages | nodes                                                                                               |
 |--------------------------------|----------|-----------------------------------------------------------------------------------------------------|
 | STRUCTURE_Formula:C10H16       |        1 | [http://www.ebi.ac.uk/efo/EFO:0003191](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003191) |
 | STRUCTURE_Formula:C64H106N8O41 |        1 | [http://www.ebi.ac.uk/efo/EFO:0003237](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003237) |
 
-## birn_anat
+## `birn_anat`
 
 | curie                       |   usages | nodes                                                                                               |
 |-----------------------------|----------|-----------------------------------------------------------------------------------------------------|

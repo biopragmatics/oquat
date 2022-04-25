@@ -862,14 +862,6 @@
         "ORDO": {
           "http://purl.obolibrary.org/obo/DOID_0060196": "ORDO:357043",
           "http://purl.obolibrary.org/obo/DOID_0060613": "ORDO:324601"
-        }
-      },
-      "unknown_prefixes": {
-        "MTH": {
-          "http://purl.obolibrary.org/obo/DOID_2975": "MTH:646",
-          "http://purl.obolibrary.org/obo/DOID_9230": "MTH:NOCODE",
-          "http://purl.obolibrary.org/obo/DOID_9250": "MTH:NOCODE",
-          "http://purl.obolibrary.org/obo/DOID_988": "MTH:097"
         },
         "SNOMEDCT_2005_07_31": {
           "http://purl.obolibrary.org/obo/DOID_0050175": "SNOMEDCT_2005_07_31:16901001",
@@ -1394,6 +1386,14 @@
           "http://purl.obolibrary.org/obo/DOID_9840": "SNOMEDCT_2005_07_31:246711006",
           "http://purl.obolibrary.org/obo/DOID_9849": "SNOMEDCT_2005_07_31:13445001",
           "http://purl.obolibrary.org/obo/DOID_9854": "SNOMEDCT_2005_07_31:155007009"
+        }
+      },
+      "unknown_prefixes": {
+        "MTH": {
+          "http://purl.obolibrary.org/obo/DOID_2975": "MTH:646",
+          "http://purl.obolibrary.org/obo/DOID_9230": "MTH:NOCODE",
+          "http://purl.obolibrary.org/obo/DOID_9250": "MTH:NOCODE",
+          "http://purl.obolibrary.org/obo/DOID_988": "MTH:097"
         }
       }
     },

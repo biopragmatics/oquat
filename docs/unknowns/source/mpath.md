@@ -1,6 +1,6 @@
 # mpath
 
-## 
+## ``
 
 | curie                                                                                                                                                                            |   usages | nodes                                                                                                                                       |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------|
@@ -11,7 +11,7 @@
 | :Ward; J.M.; Mann; P.C.; Mrishima; H.; and Frith; C.H. Thymus; Spleen and Lymph nodes. Ch 13.  p342. In Maronpot; R. Pathology of the Mouse. (1999) Cache River Press. Vienna IL |        1 | [MPATH:595](https://bioregistry.io/MPATH:595)                                                                                               |
 | :NCI Thesaurus / A7567983                                                                                                                                                        |        1 | [MPATH:615](https://bioregistry.io/MPATH:615)                                                                                               |
 
-## Book
+## `Book`
 
 | curie                                                                                                                                                                                                                                                                      |   usages | nodes                                         |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------|
@@ -24,13 +24,13 @@
 | Book: Luz A; Goessner; W.;and Murray AB.(1991) Ossifying fibroma; mouse. In; Jones TC; Mohr U; Hunt RD (eds) Monographs on pathology of laboratory animals. Cardiovascular and musculoskeletal systems. Springer; Berlin Heidelberg New York Tokyo; pp 228-232             |        1 | [MPATH:572](https://bioregistry.io/MPATH:572) |
 | Book: Albassam MA; Courtney CL (1996) Nonneoplastic and neoplastic lesions of the bone. In; Mohr U; Dungworth DL; Capen CC; Carlton WW; Sundberg JP; Ward JM (eds) Pathobiology of the aging mouse. Vol 2. Musculoskeletal system. ILSI Press; Washington D.C.; pp 425-437 |        1 | [MPATH:590](https://bioregistry.io/MPATH:590) |
 
-## CUI
+## `CUI`
 
 | curie        |   usages | nodes                                         |
 |--------------|----------|-----------------------------------------------|
 | CUI:C1266121 |        1 | [MPATH:824](https://bioregistry.io/MPATH:824) |
 
-## Journal
+## `Journal`
 
 | curie                                                                                                                                                                     |   usages | nodes                                                                                                                                                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -38,43 +38,43 @@
 | Journal: La Perle KM; Blomme EA; Sagartz JE; Capen CC (2002) Epididymal cribriform hyperplasia with nuclear atypia in p53 homozygous knockout. Comp Med.  2002 52:568-71. |        1 | [MPATH:587](https://bioregistry.io/MPATH:587)                                                                                                                                                                                             |
 | Journal: Ward; J.M.; Anver; M.R.; Haines; D.C. & Benveniste; R.E. (1994). Chronic active hepatitis in mice caused by Helicobacter hepaticus. Am J Pathol; 145; 959-68.    |        1 | [MPATH:632](https://bioregistry.io/MPATH:632)                                                                                                                                                                                             |
 
-## MAPTH
+## `MAPTH`
 
 | curie              |   usages | nodes                                         |
 |--------------------|----------|-----------------------------------------------|
 | MAPTH:<new dbxref> |        1 | [MPATH:880](https://bioregistry.io/MPATH:880) |
 
-## MPAHTH
+## `MPAHTH`
 
 | curie           |   usages | nodes                                         |
 |-----------------|----------|-----------------------------------------------|
 | MPAHTH:curation |        1 | [MPATH:852](https://bioregistry.io/MPATH:852) |
 
-## PMH
+## `PMH`
 
 | curie       |   usages | nodes                                         |
 |-------------|----------|-----------------------------------------------|
 | PMH:0001281 |        1 | [MPATH:767](https://bioregistry.io/MPATH:767) |
 
-## Pathbase
+## `Pathbase`
 
 | curie              |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |--------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Pathbase: Curation |      161 | [MPATH:10](https://bioregistry.io/MPATH:10), [MPATH:108](https://bioregistry.io/MPATH:108), [MPATH:121](https://bioregistry.io/MPATH:121), [MPATH:128](https://bioregistry.io/MPATH:128), [MPATH:130](https://bioregistry.io/MPATH:130), [MPATH:131](https://bioregistry.io/MPATH:131), [MPATH:132](https://bioregistry.io/MPATH:132), [MPATH:133](https://bioregistry.io/MPATH:133), [MPATH:136](https://bioregistry.io/MPATH:136), [MPATH:141](https://bioregistry.io/MPATH:141), [MPATH:143](https://bioregistry.io/MPATH:143), [MPATH:147](https://bioregistry.io/MPATH:147), [MPATH:148](https://bioregistry.io/MPATH:148), [MPATH:149](https://bioregistry.io/MPATH:149), [MPATH:154](https://bioregistry.io/MPATH:154), ... |
 
-## See
+## `See`
 
 | curie                                                                                                                                                                                      |   usages | nodes                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------|
 | See: Gat; U.; DasGupta; R.; Degenstein; L. and Fuchs; E. (1998) De Novo hair follicle morphogenesis and hair tumors in mice expressing a truncated beta-catenin in skin Cell; 95; 605-614. |        1 | [MPATH:571](https://bioregistry.io/MPATH:571) |
 
-## UOB
+## `UOB`
 
 | curie   |   usages | nodes                                           |
 |---------|----------|-------------------------------------------------|
 | UOB:LTS |        1 | [MPATH:1000](https://bioregistry.io/MPATH:1000) |
 
-## URL
+## `URL`
 
 | curie                                                                                                       |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |-------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -84,7 +84,7 @@
 | URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models/malignant_melanoma#melanoma_table |        1 | [MPATH:359](https://bioregistry.io/MPATH:359)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/prostate_models/path_class_mouse              |        1 | [MPATH:488](https://bioregistry.io/MPATH:488)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-## XX
+## `XX`
 
 | curie           |   usages | nodes                                         |
 |-----------------|----------|-----------------------------------------------|

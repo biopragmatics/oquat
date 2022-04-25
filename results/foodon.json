@@ -57,6 +57,9 @@
         ],
         "http://purl.obolibrary.org/obo/FOODON_03413974": [
           "EC:No 216/2009 RAX"
+        ],
+        "http://purl.obolibrary.org/obo/FOODON_03414802": [
+          "EOL:http://eol.org/pages/4757174/overview"
         ]
       },
       "label": "Node Xrefs",

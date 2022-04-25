@@ -1,12 +1,12 @@
 # enm
 
-## PHENOSCPAE
+## `PHENOSCPAE`
 
 | curie                   |   usages | nodes                                           |
 |-------------------------|----------|-------------------------------------------------|
 | PHENOSCPAE:asilomar_mtg |        1 | [RO:0002173](https://bioregistry.io/RO:0002173) |
 
-## Orange
+## `Orange`
 
 | curie           |   usages | nodes                                                                                                                                                         |
 |-----------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -14,7 +14,7 @@
 | Orange:17.2.7   |        1 | [CHMO:0000098](https://bioregistry.io/CHMO:0000098)                                                                                                           |
 | Orange:17.2.1.2 |        1 | [CHMO:0000407](https://bioregistry.io/CHMO:0000407)                                                                                                           |
 
-## OrangeBook
+## `OrangeBook`
 
 | curie               |   usages | nodes                                               |
 |---------------------|----------|-----------------------------------------------------|
@@ -22,31 +22,31 @@
 | OrangeBook:17.2.4   |        1 | [CHMO:0000351](https://bioregistry.io/CHMO:0000351) |
 | OrangeBook:9.4.1    |        1 | [CHMO:0001577](https://bioregistry.io/CHMO:0001577) |
 
-## NPX
+## `NPX`
 
 | curie   |   usages | nodes                                           |
 |---------|----------|-------------------------------------------------|
 | NPX:PDR |        1 | [CL:1001603](https://bioregistry.io/CL:1001603) |
 
-## Allen
+## `Allen`
 
 | curie          |   usages | nodes                                             |
 |----------------|----------|---------------------------------------------------|
 | Allen:precedes |        1 | [BFO:0000062](https://bioregistry.io/BFO:0000062) |
 
-## GOC
+## `GOC`
 
 | curie   |   usages | nodes                                           |
 |---------|----------|-------------------------------------------------|
 | GOC:tb  |        1 | [GO:0003824](https://bioregistry.io/GO:0003824) |
 
-## UBERONREF
+## `UBERONREF`
 
 | curie             |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |-------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | UBERONREF:0000004 |        9 | [UBREL:0000001](https://bioregistry.io/UBREL:0000001), [uberon#anteriorly:connected:to](https://bioregistry.io/uberon#anteriorly:connected:to), [uberon#connects](https://bioregistry.io/uberon#connects), [uberon#distally:connected:to](https://bioregistry.io/uberon#distally:connected:to), [uberon#posteriorly:connected:to](https://bioregistry.io/uberon#posteriorly:connected:to), [uberon#proximally:connected:to](https://bioregistry.io/uberon#proximally:connected:to), [uberon#transitively:anteriorly:connected:to](https://bioregistry.io/uberon#transitively:anteriorly:connected:to), [uberon#transitively:distally:connected:to](https://bioregistry.io/uberon#transitively:distally:connected:to), [uberon#transitively:proximally:connected:to](https://bioregistry.io/uberon#transitively:proximally:connected:to) |
 
-## NIFSTD
+## `NIFSTD`
 
 | curie               |   usages | nodes                                                                                               |
 |---------------------|----------|-----------------------------------------------------------------------------------------------------|
@@ -56,69 +56,69 @@
 | NIFSTD:sao279801585 |        1 | [http://www.ebi.ac.uk/efo/EFO:0001444](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001444) |
 | NIFSTD:birnlex_2117 |        1 | [http://www.ebi.ac.uk/efo/EFO:0002694](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0002694) |
 
-## PERSON
+## `PERSON`
 
 | curie                |   usages | nodes                                                                                               |
 |----------------------|----------|-----------------------------------------------------------------------------------------------------|
 | PERSON: James Malone |        1 | [http://www.ebi.ac.uk/efo/EFO:0000714](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000714) |
 | PERSON: Dani Welter  |        1 | [http://www.ebi.ac.uk/efo/EFO:0004358](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004358) |
 
-## UBREL
+## `UBREL`
 
 | curie         |   usages | nodes                                                 |
 |---------------|----------|-------------------------------------------------------|
 | UBREL:0000001 |        1 | [UBREL:0000001](https://bioregistry.io/UBREL:0000001) |
 | UBREL:0000002 |        1 | [UBREL:0000002](https://bioregistry.io/UBREL:0000002) |
 
-## ENVOC
+## `ENVOC`
 
 | curie    |   usages | nodes                                                 |
 |----------|----------|-------------------------------------------------------|
 | ENVOC:nm |        1 | [ENVO:00000338](https://bioregistry.io/ENVO:00000338) |
 
-## GEMINA
+## `GEMINA`
 
 | curie     |   usages | nodes                                                 |
 |-----------|----------|-------------------------------------------------------|
 | GEMINA:ls |        1 | [ENVO:00000338](https://bioregistry.io/ENVO:00000338) |
 
-## Gemina
+## `Gemina`
 
 | curie     |   usages | nodes                                                 |
 |-----------|----------|-------------------------------------------------------|
 | Gemina:ls |        1 | [ENVO:02000035](https://bioregistry.io/ENVO:02000035) |
 
-## URL
+## `URL`
 
 | curie                                      |   usages | nodes                                                 |
 |--------------------------------------------|----------|-------------------------------------------------------|
 | URL:http://aims.fao.org/aos/agrovoc/c_5998 |        1 | [ENVO:01000404](https://bioregistry.io/ENVO:01000404) |
 
-## ADL
+## `ADL`
 
 | curie   |   usages | nodes                                                 |
 |---------|----------|-------------------------------------------------------|
 | ADL:FTT |        1 | [ENVO:00000003](https://bioregistry.io/ENVO:00000003) |
 
-## Getty
+## `Getty`
 
 | curie     |   usages | nodes                                                 |
 |-----------|----------|-------------------------------------------------------|
 | Getty:TGN |        1 | [ENVO:00000194](https://bioregistry.io/ENVO:00000194) |
 
-## NASA
+## `NASA`
 
 | curie           |   usages | nodes                                                                                                                                                               |
 |-----------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | NASA:earthrealm |        3 | [ENVO:00000134](https://bioregistry.io/ENVO:00000134), [ENVO:00000428](https://bioregistry.io/ENVO:00000428), [ENVO:00000546](https://bioregistry.io/ENVO:00000546) |
 
-## USGS
+## `USGS`
 
 | curie     |   usages | nodes                                                 |
 |-----------|----------|-------------------------------------------------------|
 | USGS:SDTS |        1 | [ENVO:00000194](https://bioregistry.io/ENVO:00000194) |
 
-## SPIRE
+## `SPIRE`
 
 | curie                       |   usages | nodes                                                                                                        |
 |-----------------------------|----------|--------------------------------------------------------------------------------------------------------------|
@@ -134,13 +134,13 @@
 | SPIRE:Savannah_or_grassland |        1 | [ENVO:01000178](https://bioregistry.io/ENVO:01000178)                                                        |
 | SPIRE:Urban                 |        1 | [ENVO:01000249](https://bioregistry.io/ENVO:01000249)                                                        |
 
-## Answers.com
+## `Answers.com`
 
 | curie                   |   usages | nodes                                               |
 |-------------------------|----------|-----------------------------------------------------|
 | Answers.com:Answers.com |        1 | [PATO:0000969](https://bioregistry.io/PATO:0000969) |
 
-## PATOC
+## `PATOC`
 
 | curie         |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |---------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -151,45 +151,45 @@
 | PATOC:CJM     |        1 | [PATO:0001555](https://bioregistry.io/PATO:0001555)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | PATOC:UMH     |        1 | [PATO:0001940](https://bioregistry.io/PATO:0001940)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-## Wiikipedia
+## `Wiikipedia`
 
 | curie                 |   usages | nodes                                               |
 |-----------------------|----------|-----------------------------------------------------|
 | Wiikipedia:Wasting    |        1 | [PATO:0001623](https://bioregistry.io/PATO:0001623) |
 | Wiikipedia:Wiikipedia |        1 | [PATO:0001780](https://bioregistry.io/PATO:0001780) |
 
-## WordNet
+## `WordNet`
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-----------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | WordNet:WordNet |        8 | [PATO:0000011](https://bioregistry.io/PATO:0000011), [PATO:0000117](https://bioregistry.io/PATO:0000117), [PATO:0000915](https://bioregistry.io/PATO:0000915), [PATO:0001019](https://bioregistry.io/PATO:0001019), [PATO:0001571](https://bioregistry.io/PATO:0001571), [PATO:0001595](https://bioregistry.io/PATO:0001595), [PATO:0001602](https://bioregistry.io/PATO:0001602), [PATO:0001648](https://bioregistry.io/PATO:0001648) |
 
-## edp
+## `edp`
 
 | curie   |   usages | nodes                                                                                                                                                         |
 |---------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | edp:edp |        3 | [PATO:0001536](https://bioregistry.io/PATO:0001536), [PATO:0001537](https://bioregistry.io/PATO:0001537), [PATO:0001538](https://bioregistry.io/PATO:0001538) |
 
-## studyphysics
+## `studyphysics`
 
 | curie                     |   usages | nodes                                                                                                    |
 |---------------------------|----------|----------------------------------------------------------------------------------------------------------|
 | studyphysics:studyphysics |        2 | [PATO:0001524](https://bioregistry.io/PATO:0001524), [PATO:0001526](https://bioregistry.io/PATO:0001526) |
 
-## url
+## `url`
 
 | curie                           |   usages | nodes                                               |
 |---------------------------------|----------|-----------------------------------------------------|
 | url:http://www.studyphysics.ca/ |        1 | [PATO:0001525](https://bioregistry.io/PATO:0001525) |
 
-## OpenCyc
+## `OpenCyc`
 
 | curie                              |   usages | nodes                                                   |
 |------------------------------------|----------|---------------------------------------------------------|
 | OpenCyc:Mx4rwP3iWpwpEbGdrcN5Y29ycA |        1 | [UBERON:0000062](https://bioregistry.io/UBERON:0000062) |
 | OpenCyc:Mx4rwP3vyJwpEbGdrcN5Y29ycA |        1 | [UBERON:0002530](https://bioregistry.io/UBERON:0002530) |
 
-## WikipediaCategory
+## `WikipediaCategory`
 
 | curie                    |   usages | nodes                                                   |
 |--------------------------|----------|---------------------------------------------------------|

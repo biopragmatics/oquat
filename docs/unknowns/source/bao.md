@@ -1,12 +1,12 @@
 # bao
 
-## NIFSTD
+## `NIFSTD`
 
 | curie              |   usages | nodes                                                                                               |
 |--------------------|----------|-----------------------------------------------------------------------------------------------------|
 | NIFSTD:birnlex_681 |        1 | [http://www.ebi.ac.uk/efo/EFO:0001272](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001272) |
 
-## NIF_Subcellular
+## `NIF_Subcellular`
 
 | curie                         |   usages | nodes                                           |
 |-------------------------------|----------|-------------------------------------------------|
@@ -24,13 +24,13 @@
 | NIF_Subcellular:sao884265541  |        1 | [GO:0044307](https://bioregistry.io/GO:0044307) |
 | NIF_Subcellular:sao707332678  |        1 | [GO:1901589](https://bioregistry.io/GO:1901589) |
 
-## ABA
+## `ABA`
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
 | ABA:Brain |        1 | [UBERON:0000955](https://bioregistry.io/UBERON:0000955) |
 
-## ANISEED
+## `ANISEED`
 
 | curie           |   usages | nodes                                                   |
 |-----------------|----------|---------------------------------------------------------|
@@ -38,7 +38,7 @@
 | ANISEED:1235297 |        1 | [UBERON:0000945](https://bioregistry.io/UBERON:0000945) |
 | ANISEED:1235301 |        1 | [UBERON:0001043](https://bioregistry.io/UBERON:0001043) |
 
-## BILS
+## `BILS`
 
 | curie        |   usages | nodes                                                   |
 |--------------|----------|---------------------------------------------------------|
@@ -46,7 +46,7 @@
 | BILS:0000109 |        1 | [UBERON:0000109](https://bioregistry.io/UBERON:0000109) |
 | BILS:0000113 |        1 | [UBERON:0000113](https://bioregistry.io/UBERON:0000113) |
 
-## BSA
+## `BSA`
 
 | curie       |   usages | nodes                                                   |
 |-------------|----------|---------------------------------------------------------|
@@ -54,20 +54,14 @@
 | BSA:0000085 |        1 | [UBERON:0000473](https://bioregistry.io/UBERON:0000473) |
 | BSA:0000080 |        1 | [UBERON:0000992](https://bioregistry.io/UBERON:0000992) |
 
-## BilaDO
+## `BilaDO`
 
 | curie          |   usages | nodes                                                   |
 |----------------|----------|---------------------------------------------------------|
 | BilaDO:0000002 |        1 | [UBERON:0000068](https://bioregistry.io/UBERON:0000068) |
 | BilaDO:0000008 |        1 | [UBERON:0000109](https://bioregistry.io/UBERON:0000109) |
 
-## DHBA
-
-| curie      |   usages | nodes                                                   |
-|------------|----------|---------------------------------------------------------|
-| DHBA:10155 |        1 | [UBERON:0000955](https://bioregistry.io/UBERON:0000955) |
-
-## GAID
+## `GAID`
 
 | curie        |   usages | nodes                                                   |
 |--------------|----------|---------------------------------------------------------|
@@ -97,19 +91,7 @@
 | GAID:446     |        1 | [UBERON:0002369](https://bioregistry.io/UBERON:0002369) |
 | GAID:1186    |        1 | [UBERON:0002391](https://bioregistry.io/UBERON:0002391) |
 
-## HBA
-
-| curie    |   usages | nodes                                                   |
-|----------|----------|---------------------------------------------------------|
-| HBA:4005 |        1 | [UBERON:0000955](https://bioregistry.io/UBERON:0000955) |
-
-## MBA
-
-| curie   |   usages | nodes                                                   |
-|---------|----------|---------------------------------------------------------|
-| MBA:997 |        1 | [UBERON:0000955](https://bioregistry.io/UBERON:0000955) |
-
-## OGES
+## `OGES`
 
 | curie       |   usages | nodes                                                   |
 |-------------|----------|---------------------------------------------------------|
@@ -117,7 +99,7 @@
 | OGES:000019 |        1 | [UBERON:0000109](https://bioregistry.io/UBERON:0000109) |
 | OGES:000026 |        1 | [UBERON:0000113](https://bioregistry.io/UBERON:0000113) |
 
-## OpenCyc
+## `OpenCyc`
 
 | curie                              |   usages | nodes                                                   |
 |------------------------------------|----------|---------------------------------------------------------|
@@ -148,13 +130,7 @@
 | OpenCyc:Mx4rvXYiz5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002369](https://bioregistry.io/UBERON:0002369) |
 | OpenCyc:Mx4rvpDOU5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002391](https://bioregistry.io/UBERON:0002391) |
 
-## PBA
-
-| curie    |   usages | nodes                                                   |
-|----------|----------|---------------------------------------------------------|
-| PBA:3999 |        1 | [UBERON:0000955](https://bioregistry.io/UBERON:0000955) |
-
-## WikipediaCategory
+## `WikipediaCategory`
 
 | curie                           |   usages | nodes                                                   |
 |---------------------------------|----------|---------------------------------------------------------|

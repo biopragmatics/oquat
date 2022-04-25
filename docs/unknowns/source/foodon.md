@@ -1,6 +1,6 @@
 # foodon
 
-## APNI
+## `APNI`
 
 | curie        |   usages | nodes                                                     |
 |--------------|----------|-----------------------------------------------------------|
@@ -22,79 +22,79 @@
 | APNI:73475   |        1 | [FOODON:03414835](https://bioregistry.io/FOODON:03414835) |
 | APNI:73568   |        1 | [FOODON:03414837](https://bioregistry.io/FOODON:03414837) |
 
-## CCPR
+## `CCPR`
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | CCPR:   |       41 | [FOODON:03411385](https://bioregistry.io/FOODON:03411385), [FOODON:03413372](https://bioregistry.io/FOODON:03413372), [FOODON:03413374](https://bioregistry.io/FOODON:03413374), [FOODON:03413379](https://bioregistry.io/FOODON:03413379), [FOODON:03413380](https://bioregistry.io/FOODON:03413380), [FOODON:03413381](https://bioregistry.io/FOODON:03413381), [FOODON:03413382](https://bioregistry.io/FOODON:03413382), [FOODON:03413383](https://bioregistry.io/FOODON:03413383), [FOODON:03413384](https://bioregistry.io/FOODON:03413384), [FOODON:03413385](https://bioregistry.io/FOODON:03413385), [FOODON:03413386](https://bioregistry.io/FOODON:03413386), [FOODON:03413394](https://bioregistry.io/FOODON:03413394), [FOODON:03413396](https://bioregistry.io/FOODON:03413396), [FOODON:03413403](https://bioregistry.io/FOODON:03413403), [FOODON:03413406](https://bioregistry.io/FOODON:03413406), ... |
 
-## CEC
+## `CEC`
 
 | curie    |   usages | nodes                                                     |
 |----------|----------|-----------------------------------------------------------|
 | CEC:1295 |        1 | [FOODON:03413569](https://bioregistry.io/FOODON:03413569) |
 | CEC:1336 |        1 | [FOODON:03413675](https://bioregistry.io/FOODON:03413675) |
 
-## Codex
+## `Codex`
 
 | curie      |   usages | nodes                                                     |
 |------------|----------|-----------------------------------------------------------|
 | Codex::460 |        1 | [FOODON:03301343](https://bioregistry.io/FOODON:03301343) |
 | Codex::414 |        1 | [FOODON:03412975](https://bioregistry.io/FOODON:03412975) |
 
-## DPNL
+## `DPNL`
 
 | curie      |   usages | nodes                                                     |
 |------------|----------|-----------------------------------------------------------|
 | DPNL:10479 |        1 | [FOODON:03414741](https://bioregistry.io/FOODON:03414741) |
 
-## Europe
+## `Europe`
 
 | curie       |   usages | nodes                                                     |
 |-------------|----------|-----------------------------------------------------------|
 | Europe::460 |        1 | [FOODON:03301343](https://bioregistry.io/FOODON:03301343) |
 | Europe::414 |        1 | [FOODON:03412975](https://bioregistry.io/FOODON:03412975) |
 
-## GRIN
+## `GRIN`
 
 | curie     |   usages | nodes                                                     |
 |-----------|----------|-----------------------------------------------------------|
 | GRIN:2276 |        1 | [FOODON:00003172](https://bioregistry.io/FOODON:00003172) |
 | GRIN:7676 |        1 | [FOODON:03411369](https://bioregistry.io/FOODON:03411369) |
 
-## INDEX
+## `INDEX`
 
 | curie          |   usages | nodes                                                     |
 |----------------|----------|-----------------------------------------------------------|
 | INDEX:FUNGORUM |        1 | [FOODON:03414555](https://bioregistry.io/FOODON:03414555) |
 
-## ISTA
+## `ISTA`
 
 | curie   |   usages | nodes                                                     |
 |---------|----------|-----------------------------------------------------------|
 | ISTA:   |        1 | [FOODON:03414315](https://bioregistry.io/FOODON:03414315) |
 
-## KEW
+## `KEW`
 
 | curie      |   usages | nodes                                                     |
 |------------|----------|-----------------------------------------------------------|
 | KEW:178075 |        1 | [FOODON:03414784](https://bioregistry.io/FOODON:03414784) |
 
-## LANGUAL
+## `LANGUAL`
 
 | curie         |   usages | nodes                                                     |
 |---------------|----------|-----------------------------------------------------------|
 | LANGUAL:C0195 |        1 | [FOODON:00001216](https://bioregistry.io/FOODON:00001216) |
 | LANGUAL:C0220 |        1 | [FOODON:03301343](https://bioregistry.io/FOODON:03301343) |
 
-## MANSFELD
+## `MANSFELD`
 
 | curie          |   usages | nodes                                                     |
 |----------------|----------|-----------------------------------------------------------|
 | MANSFELD:126   |        1 | [FOODON:00003172](https://bioregistry.io/FOODON:00003172) |
 | MANSFELD:23859 |        1 | [FOODON:03411369](https://bioregistry.io/FOODON:03411369) |
 
-## MSW3
+## `MSW3`
 
 | curie         |   usages | nodes                                                     |
 |---------------|----------|-----------------------------------------------------------|
@@ -111,20 +111,20 @@
 | MSW3:13001727 |        1 | [FOODON:03414848](https://bioregistry.io/FOODON:03414848) |
 | MSW3:14100003 |        1 | [FOODON:03414849](https://bioregistry.io/FOODON:03414849) |
 
-## PLANTS
+## `PLANTS`
 
 | curie         |   usages | nodes                                                     |
 |---------------|----------|-----------------------------------------------------------|
 | PLANTS:ALFI4  |        1 | [FOODON:00003172](https://bioregistry.io/FOODON:00003172) |
 | PLANTS:BROLG2 |        1 | [FOODON:03411369](https://bioregistry.io/FOODON:03411369) |
 
-## SPRAT
+## `SPRAT`
 
 | curie       |   usages | nodes                                                     |
 |-------------|----------|-----------------------------------------------------------|
 | SPRAT:21484 |        1 | [FOODON:03414654](https://bioregistry.io/FOODON:03414654) |
 
-## SUBSET_SIREN
+## `SUBSET_SIREN`
 
 | curie               |   usages | nodes                                                     |
 |---------------------|----------|-----------------------------------------------------------|
