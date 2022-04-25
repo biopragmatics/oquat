@@ -4,8 +4,8 @@
 
 | curie      |   usages | nodes                                                                                                                                                                                                                    |
 |------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MTH:646    |        1 | [http://purl.obolibrary.org/obo/DOID:2975](https://bioregistry.io/http://purl.obolibrary.org/obo/DOID:2975)                                                                                                              |
 | MTH:NOCODE |        2 | [http://purl.obolibrary.org/obo/DOID:9230](https://bioregistry.io/http://purl.obolibrary.org/obo/DOID:9230), [http://purl.obolibrary.org/obo/DOID:9250](https://bioregistry.io/http://purl.obolibrary.org/obo/DOID:9250) |
+| MTH:646    |        1 | [http://purl.obolibrary.org/obo/DOID:2975](https://bioregistry.io/http://purl.obolibrary.org/obo/DOID:2975)                                                                                                              |
 | MTH:097    |        1 | [http://purl.obolibrary.org/obo/DOID:988](https://bioregistry.io/http://purl.obolibrary.org/obo/DOID:988)                                                                                                                |
 ## efo
 

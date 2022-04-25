@@ -75,11 +75,16 @@ def main():
             rows = [
                 (
                     curie,
-                    f"{len(nodes):,}",
+                    len(nodes),
                     ", ".join(f"[{node}](https://bioregistry.io/{node})" for node in sorted(nodes)),
                 )
                 for curie, nodes in dd.items()
             ]
+            rows = sorted(
+                rows,
+                key=itemgetter(1),
+                reverse=True,
+            )
 
             prefix_text += f"## {source}\n\n"
             prefix_text += tabulate(
@@ -96,7 +101,7 @@ def main():
             (
                 f"[`{unknown_prefix}`](prefix/{unknown_prefix_norm})",
                 prefix_agg,
-                f"{total_count:,}",
+                total_count,
                 f"[{example_key}]({example_key})",
                 f"`{example_curie}`",
             )
