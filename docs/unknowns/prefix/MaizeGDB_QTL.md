@@ -1,0 +1,19 @@
+# `MaizeGDB_QTL`
+
+## to
+
+| curie               |   usages | nodes                                                                                                                                                                                                                        |
+|---------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MaizeGDB_QTL:99383  |        2 | [http://purl.obolibrary.org/obo/TO:0000687](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0000687), [http://purl.obolibrary.org/obo/TO:0000937](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0000937) |
+| MaizeGDB_QTL:61715  |        1 | [http://purl.obolibrary.org/obo/TO:0000135](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0000135)                                                                                                                |
+| MaizeGDB_QTL:61714  |        1 | [http://purl.obolibrary.org/obo/TO:0000370](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0000370)                                                                                                                |
+| MaizeGDB_QTL:78112  |        1 | [http://purl.obolibrary.org/obo/TO:0000431](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0000431)                                                                                                                |
+| MaizeGDB_QTL:78113  |        1 | [http://purl.obolibrary.org/obo/TO:0000433](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0000433)                                                                                                                |
+| MaizeGDB_QTL:62044  |        1 | [http://purl.obolibrary.org/obo/TO:0000463](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0000463)                                                                                                                |
+| MaizeGDB_QTL:247869 |        1 | [http://purl.obolibrary.org/obo/TO:0000562](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0000562)                                                                                                                |
+| MaizeGDB_QTL:82753  |        1 | [http://purl.obolibrary.org/obo/TO:0000678](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0000678)                                                                                                                |
+| MaizeGDB_QTL:61369  |        1 | [http://purl.obolibrary.org/obo/TO:0000683](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0000683)                                                                                                                |
+| MaizeGDB_QTL:65408  |        1 | [http://purl.obolibrary.org/obo/TO:0000923](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0000923)                                                                                                                |
+| MaizeGDB_QTL:64797  |        1 | [http://purl.obolibrary.org/obo/TO:0000934](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0000934)                                                                                                                |
+| MaizeGDB_QTL:78114  |        1 | [http://purl.obolibrary.org/obo/TO:0000938](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0000938)                                                                                                                |
+| MaizeGDB_QTL:65770  |        1 | [http://purl.obolibrary.org/obo/TO:0000941](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0000941)                                                                                                                |

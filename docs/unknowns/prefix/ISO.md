@@ -1,0 +1,7 @@
+# `ISO`
+
+## omp
+
+| curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|-----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ISO:21348 |        4 | [http://purl.obolibrary.org/obo/OMP:0005084](https://bioregistry.io/http://purl.obolibrary.org/obo/OMP:0005084), [http://purl.obolibrary.org/obo/OMP:0007198](https://bioregistry.io/http://purl.obolibrary.org/obo/OMP:0007198), [http://purl.obolibrary.org/obo/OMP:0007199](https://bioregistry.io/http://purl.obolibrary.org/obo/OMP:0007199), [http://purl.obolibrary.org/obo/OMP:0007200](https://bioregistry.io/http://purl.obolibrary.org/obo/OMP:0007200) |
