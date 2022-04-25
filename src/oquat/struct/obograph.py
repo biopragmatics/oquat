@@ -3,7 +3,7 @@
 .. seealso:: https://github.com/geneontology/obographs
 """
 
-from typing import Any, TypedDict
+from typing import Any, Optional, TypedDict
 
 __all__ = ["Edge", "Property", "Meta", "Graph", "Graphs"]
 
@@ -26,8 +26,12 @@ class Property(TypedDict):
 class Meta(TypedDict):
     """Represents the metadata about a node or ontology."""
 
+    definition: str
     subsets: list
     xrefs: list
+    synonyms: list
+    comments: list
+    version: Optional[str]
     basicPropertyValues: list[Property]  # noqa:N815
 
 
