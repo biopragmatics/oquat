@@ -1,5 +1,7 @@
 # `GrainGenes_trait`
+
 ## to
+
 | curie                                          |   usages | nodes                                                                                                         |
 |------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------|
 | GrainGenes_trait:Acid_Detergent_Fiber          |        1 | [http://purl.obolibrary.org/obo/TO:0002641](https://bioregistry.io/http://purl.obolibrary.org/obo/TO:0002641) |

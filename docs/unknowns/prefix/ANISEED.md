@@ -1,11 +1,14 @@
 # `ANISEED`
+
 ## bao
+
 | curie           |   usages | nodes                                                                                                                 |
 |-----------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | ANISEED:1235303 |        1 | [http://purl.obolibrary.org/obo/UBERON:0000160](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000160) |
 | ANISEED:1235297 |        1 | [http://purl.obolibrary.org/obo/UBERON:0000945](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000945) |
 | ANISEED:1235301 |        1 | [http://purl.obolibrary.org/obo/UBERON:0001043](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0001043) |
 ## uberon
+
 | curie           |   usages | nodes                                                                                                                 |
 |-----------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | ANISEED:1235303 |        1 | [http://purl.obolibrary.org/obo/UBERON:0000160](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000160) |

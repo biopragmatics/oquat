@@ -1,5 +1,7 @@
 # `VAO`
+
 ## aeo
+
 | curie       |   usages | nodes                                                                                                           |
 |-------------|----------|-----------------------------------------------------------------------------------------------------------------|
 | VAO:0000145 |        1 | [http://purl.obolibrary.org/obo/AEO:0000083](https://bioregistry.io/http://purl.obolibrary.org/obo/AEO:0000083) |

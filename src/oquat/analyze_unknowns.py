@@ -6,6 +6,8 @@ from collections import defaultdict
 from operator import itemgetter
 
 from tabulate import tabulate
+from tqdm import tqdm
+
 from oquat.large_scale_analysis import DOCS, RESULTS
 
 UNKNOWNS = DOCS.joinpath("unknowns")
@@ -27,41 +29,59 @@ def main():
     prefix_agg = defaultdict(dict)
     source_agg = defaultdict(dict)
     for path in RESULTS.glob("*.json"):
-        name = path.stem
+        source = path.stem
         for results in json.loads(path.read_text()).values():
             for key in KEYS:
                 for unknown_prefix, usages in results[key]["unknown_prefixes"].items():
-                    if " " in unknown_prefix or len(unknown_prefix) > 20:
+                    if (
+                        " " in unknown_prefix
+                        or "www." in unknown_prefix
+                        or len(unknown_prefix) > 20
+                    ):
                         continue  # lots of garbage
-                    prefix_agg[unknown_prefix][name] = usages
-                    source_agg[name][unknown_prefix] = usages
-
+                    prefix_agg[unknown_prefix][source] = usages
+                    source_agg[source][unknown_prefix] = usages
 
     summary_rows = []
-    for unknown_prefix, counts in prefix_agg.items():
+    prefix_it = tqdm(prefix_agg.items(), desc="Generating unknown prefix pages", unit="prefix")
+    for unknown_prefix, counts in prefix_it:
+        unknown_prefix_norm = (
+            unknown_prefix.replace("/", "_")
+            .replace(".", "_")
+            .replace("[", "")
+            .replace("(", "")
+            .replace(")", "")
+        )
+        if not unknown_prefix_norm:
+            continue
+
+        prefix_it.set_postfix(prefix=unknown_prefix)
         prefix_agg = ", ".join(f"[`{source}`](source/{source})" for source in sorted(counts))
         total_count = sum(len(v) for v in counts.values())
         example_source = random.choice(list(counts))
         example_key = random.choice(list(counts[example_source]))
         example_curie = counts[example_source][example_key]
 
-        prefix_text = f"# `{unknown_prefix}`\n"
+        prefix_text = f"# `{unknown_prefix}`\n\n"
         for source, usages in counts.items():
             # from rich import print
             # print(usages)
             # raise
             dd = defaultdict(set)
             for node, curie in usages.items():
-                dd[curie].add(node.removeprefix("'http://purl.obolibrary.org/obo/").replace("_", ":"))
+                dd[curie].add(
+                    node.removeprefix("'http://purl.obolibrary.org/obo/").replace("_", ":")
+                )
             rows = [
-                (curie, f"{len(nodes):,}", ", ".join(
-                    f"[{node}](https://bioregistry.io/{node})"
-                    for node in sorted(nodes)
-                ))
+                (
+                    curie,
+                    f"{len(nodes):,}",
+                    ", ".join(f"[{node}](https://bioregistry.io/{node})" for node in sorted(nodes)),
+                )
                 for curie, nodes in dd.items()
             ]
 
-            prefix_text += f"## {source}\n"
+            prefix_text += f"## {source}\n\n"
             prefix_text += tabulate(
                 rows,
                 headers=["curie", "usages", "nodes"],
@@ -69,12 +89,12 @@ def main():
             )
             prefix_text += "\n"
 
-        prefix_path = PREFIXES.joinpath(unknown_prefix.replace("/", "_")).with_suffix(".md")
+        prefix_path = PREFIXES.joinpath(f"{unknown_prefix_norm}.md")
         prefix_path.write_text(prefix_text)
 
         summary_rows.append(
             (
-                f"[`{unknown_prefix}`](prefix/{unknown_prefix})",
+                f"[`{unknown_prefix}`](prefix/{unknown_prefix_norm})",
                 prefix_agg,
                 f"{total_count:,}",
                 f"[{example_key}]({example_key})",
@@ -101,7 +121,7 @@ There's an incredible amount of garbage that was heuristically removed from this
 list by removing all references containing a space in their prefix as well as
 any prefix over 25 characters long.
 
-        """
+"""
 
     text += tabulate(
         summary_rows,
@@ -109,6 +129,7 @@ any prefix over 25 characters long.
         tablefmt="github",
     )
     UNKNOWNS.joinpath("index.md").write_text(text)
+
 
 if __name__ == "__main__":
     main()

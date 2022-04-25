@@ -1,11 +1,14 @@
 # `BSA`
+
 ## bao
+
 | curie       |   usages | nodes                                                                                                                 |
 |-------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | BSA:0000093 |        1 | [http://purl.obolibrary.org/obo/UBERON:0000160](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000160) |
 | BSA:0000085 |        1 | [http://purl.obolibrary.org/obo/UBERON:0000473](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000473) |
 | BSA:0000080 |        1 | [http://purl.obolibrary.org/obo/UBERON:0000992](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000992) |
 ## uberon
+
 | curie       |   usages | nodes                                                                                                                 |
 |-------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | BSA:0000121 |        1 | [http://purl.obolibrary.org/obo/UBERON:0000020](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000020) |
@@ -35,6 +38,7 @@
 | BSA:0000042 |        1 | [http://purl.obolibrary.org/obo/UBERON:0011302](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0011302) |
 | BSA:0000088 |        1 | [http://purl.obolibrary.org/obo/UBERON:0015227](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0015227) |
 ## plana
+
 | curie       |   usages | nodes                                                                                                               |
 |-------------|----------|---------------------------------------------------------------------------------------------------------------------|
 | BSA:0000058 |        1 | [http://purl.obolibrary.org/obo/PLANA:0000240](https://bioregistry.io/http://purl.obolibrary.org/obo/PLANA:0000240) |

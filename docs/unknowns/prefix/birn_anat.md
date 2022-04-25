@@ -1,5 +1,7 @@
 # `birn_anat`
+
 ## efo
+
 | curie                       |   usages | nodes                                                                                               |
 |-----------------------------|----------|-----------------------------------------------------------------------------------------------------|
 | birn_anat:birnlex_1197      |        1 | [http://www.ebi.ac.uk/efo/EFO:0002454](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0002454) |

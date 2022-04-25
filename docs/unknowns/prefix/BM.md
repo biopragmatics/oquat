@@ -1,5 +1,7 @@
 # `BM`
+
 ## uberon
+
 | curie             |   usages | nodes                                                                                                                                                                                                                                        |
 |-------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | BM:Die-Hy-HY      |        1 | [http://purl.obolibrary.org/obo/UBERON:0000007](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000007)                                                                                                                        |
@@ -242,6 +244,7 @@
 | BM:Tel-Cx-Te      |        1 | [http://purl.obolibrary.org/obo/UBERON:0016538](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0016538)                                                                                                                        |
 | BM:Tel-Cx-Ins     |        1 | [http://purl.obolibrary.org/obo/UBERON:0034891](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0034891)                                                                                                                        |
 ## plana
+
 | curie      |   usages | nodes                                                                                                               |
 |------------|----------|---------------------------------------------------------------------------------------------------------------------|
 | BM:Tel-OCX |        1 | [http://purl.obolibrary.org/obo/PLANA:0000459](https://bioregistry.io/http://purl.obolibrary.org/obo/PLANA:0000459) |

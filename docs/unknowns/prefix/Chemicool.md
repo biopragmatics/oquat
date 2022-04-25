@@ -1,5 +1,7 @@
 # `chemicool`
+
 ## pato
+
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |---------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | chemicool:chemicool |        4 | [http://purl.obolibrary.org/obo/PATO:0001427](https://bioregistry.io/http://purl.obolibrary.org/obo/PATO:0001427), [http://purl.obolibrary.org/obo/PATO:0001428](https://bioregistry.io/http://purl.obolibrary.org/obo/PATO:0001428), [http://purl.obolibrary.org/obo/PATO:0001429](https://bioregistry.io/http://purl.obolibrary.org/obo/PATO:0001429), [http://purl.obolibrary.org/obo/PATO:0001430](https://bioregistry.io/http://purl.obolibrary.org/obo/PATO:0001430) |

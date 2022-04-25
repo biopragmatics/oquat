@@ -1,5 +1,7 @@
 # `LG`
+
 ## uberon
+
 | curie      |   usages | nodes                                                                                                                 |
 |------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | LG:0012616 |        1 | [http://purl.obolibrary.org/obo/UBERON:0004889](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0004889) |

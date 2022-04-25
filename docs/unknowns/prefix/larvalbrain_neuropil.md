@@ -1,5 +1,7 @@
 # `larvalbrain_neuropil`
+
 ## fbbt
+
 | curie                    |   usages | nodes                                                                                                               |
 |--------------------------|----------|---------------------------------------------------------------------------------------------------------------------|
 | larvalbrain_neuropil:570 |        1 | [http://purl.obolibrary.org/obo/FBbt:00001925](https://bioregistry.io/http://purl.obolibrary.org/obo/FBbt:00001925) |

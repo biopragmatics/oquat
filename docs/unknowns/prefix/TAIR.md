@@ -1,11 +1,14 @@
 # `TAIR`
+
 ## cl
+
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |---------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TAIR:lr |        7 | [http://purl.obolibrary.org/obo/CL:0000254](https://bioregistry.io/http://purl.obolibrary.org/obo/CL:0000254), [http://purl.obolibrary.org/obo/CL:0000278](https://bioregistry.io/http://purl.obolibrary.org/obo/CL:0000278), [http://purl.obolibrary.org/obo/CL:0000280](https://bioregistry.io/http://purl.obolibrary.org/obo/CL:0000280), [http://purl.obolibrary.org/obo/CL:0000296](https://bioregistry.io/http://purl.obolibrary.org/obo/CL:0000296), [http://purl.obolibrary.org/obo/CL:0000433](https://bioregistry.io/http://purl.obolibrary.org/obo/CL:0000433), [http://purl.obolibrary.org/obo/CL:0000475](https://bioregistry.io/http://purl.obolibrary.org/obo/CL:0000475), [http://purl.obolibrary.org/obo/CL:0000538](https://bioregistry.io/http://purl.obolibrary.org/obo/CL:0000538) |
 | TAIR:sr |        3 | [http://purl.obolibrary.org/obo/CL:0000293](https://bioregistry.io/http://purl.obolibrary.org/obo/CL:0000293), [http://purl.obolibrary.org/obo/CL:0000627](https://bioregistry.io/http://purl.obolibrary.org/obo/CL:0000627), [http://purl.obolibrary.org/obo/CL:0000628](https://bioregistry.io/http://purl.obolibrary.org/obo/CL:0000628)                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | TAIR:TB |        2 | [http://purl.obolibrary.org/obo/CL:0005016](https://bioregistry.io/http://purl.obolibrary.org/obo/CL:0005016), [http://purl.obolibrary.org/obo/CL:0005017](https://bioregistry.io/http://purl.obolibrary.org/obo/CL:0005017)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 ## cco
+
 | curie          |   usages | nodes                                                                                                                       |
 |----------------|----------|-----------------------------------------------------------------------------------------------------------------------------|
 | TAIR:AT1G12855 |        1 | [http://purl.obolibrary.org/obo/NCBIGene:10723026](https://bioregistry.io/http://purl.obolibrary.org/obo/NCBIGene:10723026) |
@@ -16383,10 +16386,12 @@
 | TAIR:AT1G77815 |        1 | [http://purl.obolibrary.org/obo/NCBIGene:844442](https://bioregistry.io/http://purl.obolibrary.org/obo/NCBIGene:844442)     |
 | TAIR:AT1G45243 |        1 | [http://purl.obolibrary.org/obo/NCBIGene:844573](https://bioregistry.io/http://purl.obolibrary.org/obo/NCBIGene:844573)     |
 ## zfa
+
 | curie   |   usages | nodes                                                                                                           |
 |---------|----------|-----------------------------------------------------------------------------------------------------------------|
 | TAIR:sr |        1 | [http://purl.obolibrary.org/obo/ZFA:0005745](https://bioregistry.io/http://purl.obolibrary.org/obo/ZFA:0005745) |
 ## po
+
 | curie         |   usages | nodes                                                                                                         |
 |---------------|----------|---------------------------------------------------------------------------------------------------------------|
 | TAIR:0000213  |        1 | [http://purl.obolibrary.org/obo/PO:0001040](https://bioregistry.io/http://purl.obolibrary.org/obo/PO:0001040) |
@@ -16423,6 +16428,7 @@
 | TAIR:0000305  |        1 | [http://purl.obolibrary.org/obo/PO:0007134](https://bioregistry.io/http://purl.obolibrary.org/obo/PO:0007134) |
 | TAIR:0000205  |        1 | [http://purl.obolibrary.org/obo/PO:0009012](https://bioregistry.io/http://purl.obolibrary.org/obo/PO:0009012) |
 ## eco
+
 | curie    |   usages | nodes                                                                                                                                                                                                                                                                                                                                             |
 |----------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TAIR:TED |        3 | [http://purl.obolibrary.org/obo/ECO:0000011](https://bioregistry.io/http://purl.obolibrary.org/obo/ECO:0000011), [http://purl.obolibrary.org/obo/ECO:0000052](https://bioregistry.io/http://purl.obolibrary.org/obo/ECO:0000052), [http://purl.obolibrary.org/obo/ECO:0000053](https://bioregistry.io/http://purl.obolibrary.org/obo/ECO:0000053) |

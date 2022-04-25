@@ -1,5 +1,7 @@
 # `GAID`
+
 ## bao
+
 | curie        |   usages | nodes                                                                                                                 |
 |--------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | GAID:376     |        1 | [http://purl.obolibrary.org/obo/UBERON:0000002](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000002) |
@@ -28,6 +30,7 @@
 | GAID:446     |        1 | [http://purl.obolibrary.org/obo/UBERON:0002369](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0002369) |
 | GAID:1186    |        1 | [http://purl.obolibrary.org/obo/UBERON:0002391](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0002391) |
 ## uberon
+
 | curie        |   usages | nodes                                                                                                                                                                                                                                        |
 |--------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | GAID:376     |        1 | [http://purl.obolibrary.org/obo/UBERON:0000002](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000002)                                                                                                                        |
@@ -802,6 +805,7 @@
 | GAID:929     |        1 | [http://purl.obolibrary.org/obo/UBERON:0011818](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0011818)                                                                                                                        |
 | GAID:141     |        1 | [http://purl.obolibrary.org/obo/UBERON:0014892](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0014892)                                                                                                                        |
 ## plana
+
 | curie    |   usages | nodes                                                                                                               |
 |----------|----------|---------------------------------------------------------------------------------------------------------------------|
 | GAID:832 |        1 | [http://purl.obolibrary.org/obo/PLANA:0000459](https://bioregistry.io/http://purl.obolibrary.org/obo/PLANA:0000459) |

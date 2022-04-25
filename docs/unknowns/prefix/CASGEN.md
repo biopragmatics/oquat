@@ -1,5 +1,7 @@
 # `CASGEN`
+
 ## tto
+
 | curie        |   usages | nodes                                                                                                                                                                                                                        |
 |--------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | CASGEN:566   |        1 | [http://purl.obolibrary.org/obo/TTO:100001](https://bioregistry.io/http://purl.obolibrary.org/obo/TTO:100001)                                                                                                                |
@@ -2194,6 +2196,7 @@
 | CASGEN:10942 |        1 | [http://purl.obolibrary.org/obo/TTO:110942](https://bioregistry.io/http://purl.obolibrary.org/obo/TTO:110942)                                                                                                                |
 | CASGEN:10998 |        1 | [http://purl.obolibrary.org/obo/TTO:110998](https://bioregistry.io/http://purl.obolibrary.org/obo/TTO:110998)                                                                                                                |
 ## vto
+
 | curie        |   usages | nodes                                                                                                                                                                                                                            |
 |--------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | CASGEN:5541  |        1 | [http://purl.obolibrary.org/obo/VTO:0000018](https://bioregistry.io/http://purl.obolibrary.org/obo/VTO:0000018)                                                                                                                  |

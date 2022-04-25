@@ -1,9 +1,12 @@
 # `DHBA`
+
 ## bao
+
 | curie      |   usages | nodes                                                                                                                 |
 |------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | DHBA:10155 |        1 | [http://purl.obolibrary.org/obo/UBERON:0000955](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000955) |
 ## uberon
+
 | curie          |   usages | nodes                                                                                                                                                                                                                                        |
 |----------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | DHBA:10505     |        1 | [http://purl.obolibrary.org/obo/UBERON:0000007](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000007)                                                                                                                        |
@@ -749,6 +752,7 @@
 | DHBA:12847     |        1 | [http://purl.obolibrary.org/obo/UBERON:0036065](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0036065)                                                                                                                        |
 | DHBA:12166     |        1 | [http://purl.obolibrary.org/obo/UBERON:0036164](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0036164)                                                                                                                        |
 ## plana
+
 | curie      |   usages | nodes                                                                                                               |
 |------------|----------|---------------------------------------------------------------------------------------------------------------------|
 | DHBA:10644 |        1 | [http://purl.obolibrary.org/obo/PLANA:0000459](https://bioregistry.io/http://purl.obolibrary.org/obo/PLANA:0000459) |

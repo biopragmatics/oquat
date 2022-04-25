@@ -1,5 +1,7 @@
 # `OpenCyc`
+
 ## bao
+
 | curie                              |   usages | nodes                                                                                                                 |
 |------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | OpenCyc:Mx4rvVipEJwpEbGdrcN5Y29ycA |        1 | [http://purl.obolibrary.org/obo/UBERON:0000002](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000002) |
@@ -29,6 +31,7 @@
 | OpenCyc:Mx4rvXYiz5wpEbGdrcN5Y29ycA |        1 | [http://purl.obolibrary.org/obo/UBERON:0002369](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0002369) |
 | OpenCyc:Mx4rvpDOU5wpEbGdrcN5Y29ycA |        1 | [http://purl.obolibrary.org/obo/UBERON:0002391](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0002391) |
 ## uberon
+
 | curie                                                                                                          |   usages | nodes                                                                                                                                                                                                                                        |
 |----------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | OpenCyc:Mx4rvVipEJwpEbGdrcN5Y29ycA                                                                             |        1 | [http://purl.obolibrary.org/obo/UBERON:0000002](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000002)                                                                                                                        |
@@ -567,6 +570,7 @@
 | OpenCyc:Mx4rvViwtJwpEbGdrcN5Y29ycA                                                                             |        1 | [http://purl.obolibrary.org/obo/UBERON:0016490](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0016490)                                                                                                                        |
 | OpenCyc:Mx4rv3OJ8JwpEbGdrcN5Y29ycA                                                                             |        1 | [http://purl.obolibrary.org/obo/UBERON:0016525](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0016525)                                                                                                                        |
 ## enm
+
 | curie                              |   usages | nodes                                                                                                                 |
 |------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | OpenCyc:Mx4rwP3iWpwpEbGdrcN5Y29ycA |        1 | [http://purl.obolibrary.org/obo/UBERON:0000062](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000062) |

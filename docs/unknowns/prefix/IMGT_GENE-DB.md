@@ -1,5 +1,7 @@
 # `IMGT/GENE-DB`
+
 ## ogg
+
 | curie                       |   usages | nodes                                                                                                                 |
 |-----------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | IMGT/GENE-DB:IGHA1          |        1 | [http://purl.obolibrary.org/obo/OGG:3000003493](https://bioregistry.io/http://purl.obolibrary.org/obo/OGG:3000003493) |

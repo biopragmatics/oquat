@@ -1,5 +1,7 @@
 # `SPIRE`
+
 ## enm
+
 | curie                       |   usages | nodes                                                                                                                                                                                                                                    |
 |-----------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SPIRE:Terrestrial           |        1 | [http://purl.obolibrary.org/obo/ENVO:00000446](https://bioregistry.io/http://purl.obolibrary.org/obo/ENVO:00000446)                                                                                                                      |
@@ -14,6 +16,7 @@
 | SPIRE:Tundra                |        2 | [http://purl.obolibrary.org/obo/ENVO:01000180](https://bioregistry.io/http://purl.obolibrary.org/obo/ENVO:01000180), [http://purl.obolibrary.org/obo/ENVO:01001505](https://bioregistry.io/http://purl.obolibrary.org/obo/ENVO:01001505) |
 | SPIRE:Urban                 |        1 | [http://purl.obolibrary.org/obo/ENVO:01000249](https://bioregistry.io/http://purl.obolibrary.org/obo/ENVO:01000249)                                                                                                                      |
 ## envo
+
 | curie                       |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |-----------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SPIRE:Lake_or_pond          |        2 | [http://purl.obolibrary.org/obo/ENVO:00000020](https://bioregistry.io/http://purl.obolibrary.org/obo/ENVO:00000020), [http://purl.obolibrary.org/obo/ENVO:00000033](https://bioregistry.io/http://purl.obolibrary.org/obo/ENVO:00000033)                                                                                                                                                                                                                                           |

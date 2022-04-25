@@ -1,10 +1,13 @@
 # `BilaDO`
+
 ## bao
+
 | curie          |   usages | nodes                                                                                                                 |
 |----------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | BilaDO:0000002 |        1 | [http://purl.obolibrary.org/obo/UBERON:0000068](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000068) |
 | BilaDO:0000008 |        1 | [http://purl.obolibrary.org/obo/UBERON:0000109](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000109) |
 ## uberon
+
 | curie          |   usages | nodes                                                                                                                 |
 |----------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | BilaDO:0000004 |        1 | [http://purl.obolibrary.org/obo/UBERON:0000066](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000066) |

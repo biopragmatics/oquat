@@ -1,9 +1,12 @@
 # `MBA`
+
 ## bao
+
 | curie   |   usages | nodes                                                                                                                 |
 |---------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | MBA:997 |        1 | [http://purl.obolibrary.org/obo/UBERON:0000955](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000955) |
 ## uberon
+
 | curie         |   usages | nodes                                                                                                                                                                                                                                        |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MBA:669       |        1 | [http://purl.obolibrary.org/obo/UBERON:0000411](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000411)                                                                                                                        |
@@ -535,6 +538,7 @@
 | MBA:796       |        1 | [http://purl.obolibrary.org/obo/UBERON:0036007](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0036007)                                                                                                                        |
 | MBA:580       |        1 | [http://purl.obolibrary.org/obo/UBERON:0036012](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0036012)                                                                                                                        |
 ## plana
+
 | curie   |   usages | nodes                                                                                                               |
 |---------|----------|---------------------------------------------------------------------------------------------------------------------|
 | MBA:117 |        1 | [http://purl.obolibrary.org/obo/PLANA:0000459](https://bioregistry.io/http://purl.obolibrary.org/obo/PLANA:0000459) |

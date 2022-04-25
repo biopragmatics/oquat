@@ -1,10 +1,13 @@
 # `IMG`
+
 ## go
+
 | curie     |   usages | nodes                                                                                                         |
 |-----------|----------|---------------------------------------------------------------------------------------------------------------|
 | IMG:01449 |        1 | [http://purl.obolibrary.org/obo/GO:0043745](https://bioregistry.io/http://purl.obolibrary.org/obo/GO:0043745) |
 | IMG:01450 |        1 | [http://purl.obolibrary.org/obo/GO:0043746](https://bioregistry.io/http://purl.obolibrary.org/obo/GO:0043746) |
 ## cco
+
 | curie     |   usages | nodes                                                                                                         |
 |-----------|----------|---------------------------------------------------------------------------------------------------------------|
 | IMG:02784 |        1 | [http://purl.obolibrary.org/obo/GO:0033785](https://bioregistry.io/http://purl.obolibrary.org/obo/GO:0033785) |

@@ -1,5 +1,7 @@
 # `cgc`
+
 ## wbphenotype
+
 | curie    |   usages | nodes                                                                                                                                                                                                                                                            |
 |----------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | cgc:5599 |        2 | [http://purl.obolibrary.org/obo/WBPhenotype:0001080](https://bioregistry.io/http://purl.obolibrary.org/obo/WBPhenotype:0001080), [http://purl.obolibrary.org/obo/WBPhenotype:0001083](https://bioregistry.io/http://purl.obolibrary.org/obo/WBPhenotype:0001083) |

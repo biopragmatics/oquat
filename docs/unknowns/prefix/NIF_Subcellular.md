@@ -1,5 +1,7 @@
 # `NIF_Subcellular`
+
 ## bao
+
 | curie                         |   usages | nodes                                                                                                         |
 |-------------------------------|----------|---------------------------------------------------------------------------------------------------------------|
 | NIF_Subcellular:sao1702920020 |        1 | [http://purl.obolibrary.org/obo/GO:0005634](https://bioregistry.io/http://purl.obolibrary.org/obo/GO:0005634) |
@@ -16,6 +18,7 @@
 | NIF_Subcellular:sao884265541  |        1 | [http://purl.obolibrary.org/obo/GO:0044307](https://bioregistry.io/http://purl.obolibrary.org/obo/GO:0044307) |
 | NIF_Subcellular:sao707332678  |        1 | [http://purl.obolibrary.org/obo/GO:1901589](https://bioregistry.io/http://purl.obolibrary.org/obo/GO:1901589) |
 ## uberon
+
 | curie                                |   usages | nodes                                                                                                                 |
 |--------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | NIF_Subcellular:nlx_subcell_100205   |        1 | [http://purl.obolibrary.org/obo/UBERON:0000201](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000201) |
@@ -31,6 +34,7 @@
 | NIF_Subcellular:FMA_83606            |        1 | [http://purl.obolibrary.org/obo/UBERON:0012456](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0012456) |
 | NIF_Subcellular:nlx_subcell_100209   |        1 | [http://purl.obolibrary.org/obo/UBERON:0018687](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0018687) |
 ## go
+
 | curie                                |   usages | nodes                                                                                                                                                                                                                        |
 |--------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | NIF_Subcellular:sao1186327184        |        1 | [http://purl.obolibrary.org/obo/GO:0000262](https://bioregistry.io/http://purl.obolibrary.org/obo/GO:0000262)                                                                                                                |
@@ -259,10 +263,12 @@
 | NIF_Subcellular:sao1634374950        |        1 | [http://purl.obolibrary.org/obo/GO:1990039](https://bioregistry.io/http://purl.obolibrary.org/obo/GO:1990039)                                                                                                                |
 | NIF_Subcellular:sao128470897         |        1 | [http://purl.obolibrary.org/obo/GO:1990040](https://bioregistry.io/http://purl.obolibrary.org/obo/GO:1990040)                                                                                                                |
 ## plana
+
 | curie                         |   usages | nodes                                                                                                               |
 |-------------------------------|----------|---------------------------------------------------------------------------------------------------------------------|
 | NIF_Subcellular:sao1397492660 |        1 | [http://purl.obolibrary.org/obo/PLANA:0001005](https://bioregistry.io/http://purl.obolibrary.org/obo/PLANA:0001005) |
 ## cco
+
 | curie                                |   usages | nodes                                                                                                                                                                                                                        |
 |--------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | NIF_Subcellular:sao1186327184        |        1 | [http://purl.obolibrary.org/obo/GO:0000262](https://bioregistry.io/http://purl.obolibrary.org/obo/GO:0000262)                                                                                                                |
@@ -496,6 +502,7 @@
 | NIF_Subcellular:sao1634374950        |        1 | [http://purl.obolibrary.org/obo/GO:1990039](https://bioregistry.io/http://purl.obolibrary.org/obo/GO:1990039)                                                                                                                |
 | NIF_Subcellular:sao128470897         |        1 | [http://purl.obolibrary.org/obo/GO:1990040](https://bioregistry.io/http://purl.obolibrary.org/obo/GO:1990040)                                                                                                                |
 ## cmpo
+
 | curie                              |   usages | nodes                                                                                                         |
 |------------------------------------|----------|---------------------------------------------------------------------------------------------------------------|
 | NIF_Subcellular:sao1337158144      |        1 | [http://purl.obolibrary.org/obo/GO:0005575](https://bioregistry.io/http://purl.obolibrary.org/obo/GO:0005575) |

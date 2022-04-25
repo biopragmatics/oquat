@@ -1,5 +1,7 @@
 # `DMBA`
+
 ## uberon
+
 | curie          |   usages | nodes                                                                                                                 |
 |----------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | DMBA:17767     |        1 | [http://purl.obolibrary.org/obo/UBERON:0000052](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0000052) |
@@ -260,6 +262,7 @@
 | DMBA:17084     |        1 | [http://purl.obolibrary.org/obo/UBERON:0035973](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0035973) |
 | DMBA:15567     |        1 | [http://purl.obolibrary.org/obo/UBERON:0036218](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0036218) |
 ## plana
+
 | curie      |   usages | nodes                                                                                                               |
 |------------|----------|---------------------------------------------------------------------------------------------------------------------|
 | DMBA:17783 |        1 | [http://purl.obolibrary.org/obo/PLANA:0000459](https://bioregistry.io/http://purl.obolibrary.org/obo/PLANA:0000459) |

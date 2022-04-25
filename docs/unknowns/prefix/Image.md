@@ -1,5 +1,7 @@
 # `Image`
+
 ## pato
+
 | curie                                                                                                |   usages | nodes                                                                                                             |
 |------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------|
 | Image:http://upload.wikimedia.org/wikipedia/commons/8/88/ProlateSpheroid.png                         |        1 | [http://purl.obolibrary.org/obo/PATO:0001866](https://bioregistry.io/http://purl.obolibrary.org/obo/PATO:0001866) |

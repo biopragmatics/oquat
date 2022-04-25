@@ -1,5 +1,7 @@
 # `OldNeuroNames`
+
 ## uberon
+
 | curie                     |   usages | nodes                                                                                                                 |
 |---------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | OldNeuroNames:-1761421113 |        1 | [http://purl.obolibrary.org/obo/UBERON:0002575](https://bioregistry.io/http://purl.obolibrary.org/obo/UBERON:0002575) |
