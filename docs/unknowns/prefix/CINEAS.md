@@ -2,6 +2,7 @@
 
 ## hp
 
-| curie          |   usages | nodes                                                                                                                                                                                                                                                                                                                                       |
-|----------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| CINEAS:asollie |        3 | [http://purl.obolibrary.org/obo/HP:0012775](https://bioregistry.io/http://purl.obolibrary.org/obo/HP:0012775), [http://purl.obolibrary.org/obo/HP:0012776](https://bioregistry.io/http://purl.obolibrary.org/obo/HP:0012776), [http://purl.obolibrary.org/obo/HP:0012777](https://bioregistry.io/http://purl.obolibrary.org/obo/HP:0012777) |
+| curie          |   usages | nodes                                                                                                                                             |
+|----------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| CINEAS:asollie |        3 | [HP:0012775](https://bioregistry.io/HP:0012775), [HP:0012776](https://bioregistry.io/HP:0012776), [HP:0012777](https://bioregistry.io/HP:0012777) |
+

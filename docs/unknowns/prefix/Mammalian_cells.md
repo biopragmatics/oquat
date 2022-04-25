@@ -2,6 +2,7 @@
 
 ## bto
 
-| curie                            |   usages | nodes                                                                                                                                                                                                                            |
-|----------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Mammalian_cells:Gibco/Invitrogen |        2 | [http://purl.obolibrary.org/obo/BTO:0003032](https://bioregistry.io/http://purl.obolibrary.org/obo/BTO:0003032), [http://purl.obolibrary.org/obo/BTO:0003033](https://bioregistry.io/http://purl.obolibrary.org/obo/BTO:0003033) |
+| curie                            |   usages | nodes                                                                                                |
+|----------------------------------|----------|------------------------------------------------------------------------------------------------------|
+| Mammalian_cells:Gibco/Invitrogen |        2 | [BTO:0003032](https://bioregistry.io/BTO:0003032), [BTO:0003033](https://bioregistry.io/BTO:0003033) |
+

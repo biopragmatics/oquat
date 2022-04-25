@@ -2,6 +2,7 @@
 
 ## so
 
-| curie      |   usages | nodes                                                                                                         |
-|------------|----------|---------------------------------------------------------------------------------------------------------------|
-| Clingen:mb |        1 | [http://purl.obolibrary.org/obo/SO:0002188](https://bioregistry.io/http://purl.obolibrary.org/obo/SO:0002188) |
+| curie      |   usages | nodes                                           |
+|------------|----------|-------------------------------------------------|
+| Clingen:mb |        1 | [SO:0002188](https://bioregistry.io/SO:0002188) |
+

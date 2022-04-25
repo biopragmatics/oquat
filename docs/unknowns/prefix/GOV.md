@@ -2,6 +2,7 @@
 
 ## go
 
-| curie   |   usages | nodes                                                                                                         |
-|---------|----------|---------------------------------------------------------------------------------------------------------------|
-| GOV:vw  |        1 | [http://purl.obolibrary.org/obo/GO:0072690](https://bioregistry.io/http://purl.obolibrary.org/obo/GO:0072690) |
+| curie   |   usages | nodes                                           |
+|---------|----------|-------------------------------------------------|
+| GOV:vw  |        1 | [GO:0072690](https://bioregistry.io/GO:0072690) |
+

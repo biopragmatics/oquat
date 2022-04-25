@@ -42,6 +42,42 @@ def main():
                     prefix_agg[unknown_prefix][source] = usages
                     source_agg[source][unknown_prefix] = usages
 
+    source_it = tqdm(source_agg.items(), desc="Generating source pages", unit="source")
+    for source, counts in source_it:
+        source_path = SOURCES.joinpath(f"{source}.md")
+        source_text = f"# {source}\n\n"
+        for unknown_prefix, usages in counts.items():
+            dd = defaultdict(set)
+            for node, curie in usages.items():
+                dd[curie].add(
+                    node.removeprefix("http://purl.obolibrary.org/obo/").replace("_", ":")
+                )
+            rows = [
+                (
+                    curie,
+                    len(nodes),
+                    ", ".join(
+                        f"[{node}](https://bioregistry.io/{node})" for node in sorted(nodes)[:15]
+                    )
+                    + ("" if len(nodes) < 15 else ", ..."),
+                )
+                for curie, nodes in dd.items()
+            ]
+            rows = sorted(
+                rows,
+                key=itemgetter(1),
+                reverse=True,
+            )
+            source_text += f"## `{unknown_prefix}`\n\n"
+            source_text += tabulate(
+                rows,
+                headers=["curie", "usages", "nodes"],
+                tablefmt="github",
+            )
+            source_text += "\n\n"
+
+        source_path.write_text(source_text)
+
     summary_rows = []
     prefix_it = tqdm(prefix_agg.items(), desc="Generating unknown prefix pages", unit="prefix")
     for unknown_prefix, counts in prefix_it:
@@ -70,13 +106,16 @@ def main():
             dd = defaultdict(set)
             for node, curie in usages.items():
                 dd[curie].add(
-                    node.removeprefix("'http://purl.obolibrary.org/obo/").replace("_", ":")
+                    node.removeprefix("http://purl.obolibrary.org/obo/").replace("_", ":")
                 )
             rows = [
                 (
                     curie,
                     len(nodes),
-                    ", ".join(f"[{node}](https://bioregistry.io/{node})" for node in sorted(nodes)),
+                    ", ".join(
+                        f"[{node}](https://bioregistry.io/{node})" for node in sorted(nodes)[:15]
+                    )
+                    + ("" if len(nodes) < 15 else ", ..."),
                 )
                 for curie, nodes in dd.items()
             ]
@@ -92,7 +131,7 @@ def main():
                 headers=["curie", "usages", "nodes"],
                 tablefmt="github",
             )
-            prefix_text += "\n"
+            prefix_text += "\n\n"
 
         prefix_path = PREFIXES.joinpath(f"{unknown_prefix_norm}.md")
         prefix_path.write_text(prefix_text)

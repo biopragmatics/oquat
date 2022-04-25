@@ -2,6 +2,7 @@
 
 ## agro
 
-| curie                                                          |   usages | nodes                                                                                                               |
-|----------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------|
-| drum.http://www.kvkimphalwest.org/images/paddy-drum-seeder.pdf |        1 | [http://purl.obolibrary.org/obo/AGRO:00000397](https://bioregistry.io/http://purl.obolibrary.org/obo/AGRO:00000397) |
+| curie                                                          |   usages | nodes                                                 |
+|----------------------------------------------------------------|----------|-------------------------------------------------------|
+| drum.http://www.kvkimphalwest.org/images/paddy-drum-seeder.pdf |        1 | [AGRO:00000397](https://bioregistry.io/AGRO:00000397) |
+

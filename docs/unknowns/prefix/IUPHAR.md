@@ -1001,3 +1001,4 @@
 | IUPHAR:2016 |        1 | [http://www.orpha.net/ORDO/Orphanet:609793](https://bioregistry.io/http://www.orpha.net/ORDO/Orphanet:609793) |
 | IUPHAR:295  |        1 | [http://www.orpha.net/ORDO/Orphanet:609955](https://bioregistry.io/http://www.orpha.net/ORDO/Orphanet:609955) |
 | IUPHAR:705  |        1 | [http://www.orpha.net/ORDO/Orphanet:610576](https://bioregistry.io/http://www.orpha.net/ORDO/Orphanet:610576) |
+

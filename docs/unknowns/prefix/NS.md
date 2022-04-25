@@ -2,6 +2,7 @@
 
 ## miro
 
-| curie   |   usages | nodes                                                                                                               |
-|---------|----------|---------------------------------------------------------------------------------------------------------------------|
-| NS:NS   |        1 | [http://purl.obolibrary.org/obo/MIRO:30000015](https://bioregistry.io/http://purl.obolibrary.org/obo/MIRO:30000015) |
+| curie   |   usages | nodes                                                 |
+|---------|----------|-------------------------------------------------------|
+| NS:NS   |        1 | [MIRO:30000015](https://bioregistry.io/MIRO:30000015) |
+

@@ -2,6 +2,7 @@
 
 ## exo
 
-| curie         |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|---------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| google:google |        4 | [http://purl.obolibrary.org/obo/ExO:0000006](https://bioregistry.io/http://purl.obolibrary.org/obo/ExO:0000006), [http://purl.obolibrary.org/obo/ExO:0000007](https://bioregistry.io/http://purl.obolibrary.org/obo/ExO:0000007), [http://purl.obolibrary.org/obo/ExO:0000008](https://bioregistry.io/http://purl.obolibrary.org/obo/ExO:0000008), [http://purl.obolibrary.org/obo/ExO:0000009](https://bioregistry.io/http://purl.obolibrary.org/obo/ExO:0000009) |
+| curie         |   usages | nodes                                                                                                                                                                                                      |
+|---------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| google:google |        4 | [ExO:0000006](https://bioregistry.io/ExO:0000006), [ExO:0000007](https://bioregistry.io/ExO:0000007), [ExO:0000008](https://bioregistry.io/ExO:0000008), [ExO:0000009](https://bioregistry.io/ExO:0000009) |
+

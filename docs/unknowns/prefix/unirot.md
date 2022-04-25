@@ -2,6 +2,7 @@
 
 ## so
 
-| curie           |   usages | nodes                                                                                                         |
-|-----------------|----------|---------------------------------------------------------------------------------------------------------------|
-| unirot:features |        1 | [http://purl.obolibrary.org/obo/SO:0001971](https://bioregistry.io/http://purl.obolibrary.org/obo/SO:0001971) |
+| curie           |   usages | nodes                                           |
+|-----------------|----------|-------------------------------------------------|
+| unirot:features |        1 | [SO:0001971](https://bioregistry.io/SO:0001971) |
+

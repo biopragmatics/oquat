@@ -2,16 +2,19 @@
 
 ## pato
 
-| curie                   |   usages | nodes                                                                                                                                                                                                                                |
-|-------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Answers.com:Answers.com |        2 | [http://purl.obolibrary.org/obo/PATO:0000969](https://bioregistry.io/http://purl.obolibrary.org/obo/PATO:0000969), [http://purl.obolibrary.org/obo/PATO:0001480](https://bioregistry.io/http://purl.obolibrary.org/obo/PATO:0001480) |
+| curie                   |   usages | nodes                                                                                                    |
+|-------------------------|----------|----------------------------------------------------------------------------------------------------------|
+| Answers.com:Answers.com |        2 | [PATO:0000969](https://bioregistry.io/PATO:0000969), [PATO:0001480](https://bioregistry.io/PATO:0001480) |
+
 ## enm
 
-| curie                   |   usages | nodes                                                                                                             |
-|-------------------------|----------|-------------------------------------------------------------------------------------------------------------------|
-| Answers.com:Answers.com |        1 | [http://purl.obolibrary.org/obo/PATO:0000969](https://bioregistry.io/http://purl.obolibrary.org/obo/PATO:0000969) |
+| curie                   |   usages | nodes                                               |
+|-------------------------|----------|-----------------------------------------------------|
+| Answers.com:Answers.com |        1 | [PATO:0000969](https://bioregistry.io/PATO:0000969) |
+
 ## bto
 
-| curie                               |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|-------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Answers.com:http://www.answers.com/ |        4 | [http://purl.obolibrary.org/obo/BTO:0004692](https://bioregistry.io/http://purl.obolibrary.org/obo/BTO:0004692), [http://purl.obolibrary.org/obo/BTO:0004721](https://bioregistry.io/http://purl.obolibrary.org/obo/BTO:0004721), [http://purl.obolibrary.org/obo/BTO:0004791](https://bioregistry.io/http://purl.obolibrary.org/obo/BTO:0004791), [http://purl.obolibrary.org/obo/BTO:0004904](https://bioregistry.io/http://purl.obolibrary.org/obo/BTO:0004904) |
+| curie                               |   usages | nodes                                                                                                                                                                                                      |
+|-------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Answers.com:http://www.answers.com/ |        4 | [BTO:0004692](https://bioregistry.io/BTO:0004692), [BTO:0004721](https://bioregistry.io/BTO:0004721), [BTO:0004791](https://bioregistry.io/BTO:0004791), [BTO:0004904](https://bioregistry.io/BTO:0004904) |
+
