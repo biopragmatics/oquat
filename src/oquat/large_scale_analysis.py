@@ -31,6 +31,7 @@ __all__ = [
 HERE = Path(__file__).parent.resolve()
 TEMPLATES = HERE.joinpath("templates")
 ROOT = HERE.parent.parent.resolve()
+DOCS = ROOT.joinpath("docs")
 RESULTS = ROOT.joinpath("results")
 FAILURES_PATH = RESULTS.joinpath("failures.txt")
 
