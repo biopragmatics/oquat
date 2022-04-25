@@ -6,6 +6,7 @@ jobs:
   lint:
     name: Lint
     runs-on: ubuntu-latest
+    container: obolibrary/odkfull:v1.2.30
     strategy:
       matrix:
         python-version: [ "3.9", "3.10" ]
