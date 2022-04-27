@@ -12,6 +12,6 @@ class TestAPI(unittest.TestCase):
 
     def test_parse_owl(self):
         """Test parsing a remote JSON graph."""
-        uri = "http://purl.obolibrary.org/obo/pato.owl"
+        uri = "https://raw.githubusercontent.com/pato-ontology/pato/master/pato.owl"
         result = robot_parse_json_remote(uri)
         self.assertIsNotNone(result)
