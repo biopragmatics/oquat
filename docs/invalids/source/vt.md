@@ -1,0 +1,122 @@
+# vt
+
+This document details the invalid local unique identifiers used in CURIEs
+for node, synonym, and definition cross-references in `vt`. See the [GitHub repository](https://github.com/AnimalGenome/vertebrate-trait-ontology).
+
+
+## `MESH`: Medical Subject Headings
+
+Overall, there were 2 invalid
+xrefs to external prefixed with `MESH` (standardized to Bioregistry
+prefix [`mesh`](https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
+
+| external_xref                      |   usages_count | usages                                                                                 |
+|------------------------------------|----------------|----------------------------------------------------------------------------------------|
+| `MESH:('MESH', 'D12.776.034.145')` |              1 | [http://purl.obolibrary.org/obo/VT_0002484](http://purl.obolibrary.org/obo/VT_0002484) |
+| `MESH:('MESH', 'D12.776.049.790')` |              1 | [http://purl.obolibrary.org/obo/VT_0002486](http://purl.obolibrary.org/obo/VT_0002486) |
+
+## `MeSH`: Medical Subject Headings
+
+Overall, there were 2 invalid
+xrefs to external prefixed with `MeSH` (standardized to Bioregistry
+prefix [`mesh`](https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
+
+| external_xref                              |   usages_count | usages                                                                                 |
+|--------------------------------------------|----------------|----------------------------------------------------------------------------------------|
+| `MeSH:('MeSH', 'D12.776.049.790')`         |              1 | [http://purl.obolibrary.org/obo/VT_0010037](http://purl.obolibrary.org/obo/VT_0010037) |
+| `MeSH:('MeSH', 'D12.644.276.374.500.800')` |              1 | [http://purl.obolibrary.org/obo/VT_0010160](http://purl.obolibrary.org/obo/VT_0010160) |
+
+## `MGI`: Mouse Genome Informatics
+
+Overall, there were 142 invalid
+xrefs to external prefixed with `MGI` (standardized to Bioregistry
+prefix [`mgi`](https://bioregistry.io/mgi)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref           |   usages_count | usages                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|-------------------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `MGI:('MGI', 'smb')`    |             73 | [http://purl.obolibrary.org/obo/VT_0000013](http://purl.obolibrary.org/obo/VT_0000013), [http://purl.obolibrary.org/obo/VT_0000061](http://purl.obolibrary.org/obo/VT_0000061), [http://purl.obolibrary.org/obo/VT_0000135](http://purl.obolibrary.org/obo/VT_0000135), [http://purl.obolibrary.org/obo/VT_0000179](http://purl.obolibrary.org/obo/VT_0000179), [http://purl.obolibrary.org/obo/VT_0000269](http://purl.obolibrary.org/obo/VT_0000269), ... |
+| `MGI:('MGI', 'cwg')`    |             22 | [http://purl.obolibrary.org/obo/VT_0000023](http://purl.obolibrary.org/obo/VT_0000023), [http://purl.obolibrary.org/obo/VT_0000179](http://purl.obolibrary.org/obo/VT_0000179), [http://purl.obolibrary.org/obo/VT_0001777](http://purl.obolibrary.org/obo/VT_0001777), [http://purl.obolibrary.org/obo/VT_0002204](http://purl.obolibrary.org/obo/VT_0002204), [http://purl.obolibrary.org/obo/VT_0002278](http://purl.obolibrary.org/obo/VT_0002278), ... |
+| `MGI:('MGI', 'MP')`     |             20 | [http://purl.obolibrary.org/obo/VT_0000023](http://purl.obolibrary.org/obo/VT_0000023), [http://purl.obolibrary.org/obo/VT_0000895](http://purl.obolibrary.org/obo/VT_0000895), [http://purl.obolibrary.org/obo/VT_0000896](http://purl.obolibrary.org/obo/VT_0000896), [http://purl.obolibrary.org/obo/VT_0000968](http://purl.obolibrary.org/obo/VT_0000968), [http://purl.obolibrary.org/obo/VT_0000974](http://purl.obolibrary.org/obo/VT_0000974), ... |
+| `MGI:('MGI', 'csmith')` |             12 | [http://purl.obolibrary.org/obo/VT_0000940](http://purl.obolibrary.org/obo/VT_0000940), [http://purl.obolibrary.org/obo/VT_0000977](http://purl.obolibrary.org/obo/VT_0000977), [http://purl.obolibrary.org/obo/VT_0001332](http://purl.obolibrary.org/obo/VT_0001332), [http://purl.obolibrary.org/obo/VT_0001747](http://purl.obolibrary.org/obo/VT_0001747), [http://purl.obolibrary.org/obo/VT_0001884](http://purl.obolibrary.org/obo/VT_0001884), ... |
+| `MGI:('MGI', 'mb')`     |             10 | [http://purl.obolibrary.org/obo/VT_0010471](http://purl.obolibrary.org/obo/VT_0010471), [http://purl.obolibrary.org/obo/VT_0010472](http://purl.obolibrary.org/obo/VT_0010472), [http://purl.obolibrary.org/obo/VT_0010474](http://purl.obolibrary.org/obo/VT_0010474), [http://purl.obolibrary.org/obo/VT_0010512](http://purl.obolibrary.org/obo/VT_0010512), [http://purl.obolibrary.org/obo/VT_0010689](http://purl.obolibrary.org/obo/VT_0010689), ... |
+| `MGI:('MGI', 'anna')`   |              2 | [http://purl.obolibrary.org/obo/VT_0004291](http://purl.obolibrary.org/obo/VT_0004291), [http://purl.obolibrary.org/obo/VT_0006028](http://purl.obolibrary.org/obo/VT_0006028)                                                                                                                                                                                                                                                                              |
+| `MGI:('MGI', 'brs')`    |              1 | [http://purl.obolibrary.org/obo/VT_0003847](http://purl.obolibrary.org/obo/VT_0003847)                                                                                                                                                                                                                                                                                                                                                                      |
+| `MGI:('MGI', 'hdene')`  |              1 | [http://purl.obolibrary.org/obo/VT_0010158](http://purl.obolibrary.org/obo/VT_0010158)                                                                                                                                                                                                                                                                                                                                                                      |
+| `MGI:('MGI', 'pvb')`    |              1 | [http://purl.obolibrary.org/obo/VT_0010162](http://purl.obolibrary.org/obo/VT_0010162)                                                                                                                                                                                                                                                                                                                                                                      |
+
+## `MP`: Mammalian Phenotype Ontology
+
+Overall, there were 4 invalid
+xrefs to external prefixed with `MP` (standardized to Bioregistry
+prefix [`mp`](https://bioregistry.io/mp)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref                     |   usages_count | usages                                                                                 |
+|-----------------------------------|----------------|----------------------------------------------------------------------------------------|
+| `MP:('MP', '001324')`             |              1 | [http://purl.obolibrary.org/obo/VT_0001324](http://purl.obolibrary.org/obo/VT_0001324) |
+| `MP:('MP', '00004293')`           |              1 | [http://purl.obolibrary.org/obo/VT_0004293](http://purl.obolibrary.org/obo/VT_0004293) |
+| `MP:('MP', 'MammalianPhenotype')` |              1 | [http://purl.obolibrary.org/obo/VT_0010442](http://purl.obolibrary.org/obo/VT_0010442) |
+| `MP:('MP', '00003257')`           |              1 | [http://purl.obolibrary.org/obo/VT_0010453](http://purl.obolibrary.org/obo/VT_0010453) |
+
+## `MS`: Mass spectrometry ontology
+
+Overall, there were 4 invalid
+xrefs to external prefixed with `MS` (standardized to Bioregistry
+prefix [`ms`](https://bioregistry.io/ms)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref      |   usages_count | usages                                                                                                                                                                                                                                                                                                                                                         |
+|--------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `MS:('MS', 'RGD')` |              4 | [http://purl.obolibrary.org/obo/VT_0000466](http://purl.obolibrary.org/obo/VT_0000466), [http://purl.obolibrary.org/obo/VT_0010213](http://purl.obolibrary.org/obo/VT_0010213), [http://purl.obolibrary.org/obo/VT_0010239](http://purl.obolibrary.org/obo/VT_0010239), [http://purl.obolibrary.org/obo/VT_1000711](http://purl.obolibrary.org/obo/VT_1000711) |
+
+## `PMID`: PubMed
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+prefix [`pubmed`](https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref                    |   usages_count | usages                                                                                 |
+|----------------------------------|----------------|----------------------------------------------------------------------------------------|
+| `PMID:('PMID', '0-87893-258-5')` |              1 | [http://purl.obolibrary.org/obo/VT_0003359](http://purl.obolibrary.org/obo/VT_0003359) |
+
+## `RGD`: Rat Genome Database
+
+Overall, there were 333 invalid
+xrefs to external prefixed with `RGD` (standardized to Bioregistry
+prefix [`rgd`](https://bioregistry.io/rgd)) that
+did not match the standard pattern `^\d{4,}$`.
+
+| external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|----------------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `RGD:('RGD', 'cur')` |            198 | [http://purl.obolibrary.org/obo/VT_0002871](http://purl.obolibrary.org/obo/VT_0002871), [http://purl.obolibrary.org/obo/VT_0002928](http://purl.obolibrary.org/obo/VT_0002928), [http://purl.obolibrary.org/obo/VT_0002929](http://purl.obolibrary.org/obo/VT_0002929), [http://purl.obolibrary.org/obo/VT_0002932](http://purl.obolibrary.org/obo/VT_0002932), [http://purl.obolibrary.org/obo/VT_0003015](http://purl.obolibrary.org/obo/VT_0003015), ... |
+| `RGD:('RGD', 'MS')`  |             62 | [http://purl.obolibrary.org/obo/VT_0000073](http://purl.obolibrary.org/obo/VT_0000073), [http://purl.obolibrary.org/obo/VT_0000222](http://purl.obolibrary.org/obo/VT_0000222), [http://purl.obolibrary.org/obo/VT_0000524](http://purl.obolibrary.org/obo/VT_0000524), [http://purl.obolibrary.org/obo/VT_0000535](http://purl.obolibrary.org/obo/VT_0000535), [http://purl.obolibrary.org/obo/VT_0000544](http://purl.obolibrary.org/obo/VT_0000544), ... |
+| `RGD:('RGD', 'dhm')` |             55 | [http://purl.obolibrary.org/obo/VT_0000050](http://purl.obolibrary.org/obo/VT_0000050), [http://purl.obolibrary.org/obo/VT_0000066](http://purl.obolibrary.org/obo/VT_0000066), [http://purl.obolibrary.org/obo/VT_0000153](http://purl.obolibrary.org/obo/VT_0000153), [http://purl.obolibrary.org/obo/VT_0000154](http://purl.obolibrary.org/obo/VT_0000154), [http://purl.obolibrary.org/obo/VT_0000170](http://purl.obolibrary.org/obo/VT_0000170), ... |
+| `RGD:('RGD', 'ms')`  |             18 | [http://purl.obolibrary.org/obo/VT_0002128](http://purl.obolibrary.org/obo/VT_0002128), [http://purl.obolibrary.org/obo/VT_0002295](http://purl.obolibrary.org/obo/VT_0002295), [http://purl.obolibrary.org/obo/VT_0002504](http://purl.obolibrary.org/obo/VT_0002504), [http://purl.obolibrary.org/obo/VT_0002726](http://purl.obolibrary.org/obo/VT_0002726), [http://purl.obolibrary.org/obo/VT_0002792](http://purl.obolibrary.org/obo/VT_0002792), ... |
+
+## `RGD `: Rat Genome Database
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `RGD ` (standardized to Bioregistry
+prefix [`rgd`](https://bioregistry.io/rgd)) that
+did not match the standard pattern `^\d{4,}$`.
+
+| external_xref         |   usages_count | usages                                                                                 |
+|-----------------------|----------------|----------------------------------------------------------------------------------------|
+| `RGD :('RGD ', 'MS')` |              1 | [http://purl.obolibrary.org/obo/VT_0010265](http://purl.obolibrary.org/obo/VT_0010265) |
+
+## `VTO`: Vertebrate Taxonomy Ontology
+
+Overall, there were 453 invalid
+xrefs to external prefixed with `VTO` (standardized to Bioregistry
+prefix [`vto`](https://bioregistry.io/vto)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref         |   usages_count | usages                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|-----------------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `VTO:('VTO', 'INRA')` |            229 | [http://purl.obolibrary.org/obo/VT_0001131](http://purl.obolibrary.org/obo/VT_0001131), [http://purl.obolibrary.org/obo/VT_0010001](http://purl.obolibrary.org/obo/VT_0010001), [http://purl.obolibrary.org/obo/VT_0010004](http://purl.obolibrary.org/obo/VT_0010004), [http://purl.obolibrary.org/obo/VT_0010018](http://purl.obolibrary.org/obo/VT_0010018), [http://purl.obolibrary.org/obo/VT_0010029](http://purl.obolibrary.org/obo/VT_0010029), ... |
+| `VTO:('VTO', 'CP')`   |            224 | [http://purl.obolibrary.org/obo/VT_0000001](http://purl.obolibrary.org/obo/VT_0000001), [http://purl.obolibrary.org/obo/VT_0000009](http://purl.obolibrary.org/obo/VT_0000009), [http://purl.obolibrary.org/obo/VT_0000072](http://purl.obolibrary.org/obo/VT_0000072), [http://purl.obolibrary.org/obo/VT_0000116](http://purl.obolibrary.org/obo/VT_0000116), [http://purl.obolibrary.org/obo/VT_0000444](http://purl.obolibrary.org/obo/VT_0000444), ... |
+
