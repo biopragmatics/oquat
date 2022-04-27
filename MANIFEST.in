@@ -3,6 +3,8 @@ graft tests
 prune scripts
 prune notebooks
 prune results
+prune docs/unknowns
+prune docs/invalids
 
 recursive-include docs/source *.py
 recursive-include docs/source *.rst

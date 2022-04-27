@@ -1,6 +1,6 @@
 {
-  "http://www.biomodels.net/kisao/KISAO#": {
-    "graph_id": "http://www.biomodels.net/kisao/KISAO#",
+  "http://identifiers.org/teddy/": {
+    "graph_id": "http://identifiers.org/teddy/",
     "prov_pack": {
       "invalid_luids": {},
       "label": "Provenance Xrefs",
@@ -15,6 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "http://identifiers.org/combine.specifications/teddy.rel-2014-04-24",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

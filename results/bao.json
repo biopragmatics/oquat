@@ -10224,9 +10224,6 @@
           "http://purl.obolibrary.org/obo/UBERON_0000068": "BilaDO:0000002",
           "http://purl.obolibrary.org/obo/UBERON_0000109": "BilaDO:0000008"
         },
-        "DHBA": {
-          "http://purl.obolibrary.org/obo/UBERON_0000955": "DHBA:10155"
-        },
         "GAID": {
           "http://purl.obolibrary.org/obo/UBERON_0000002": "GAID:376",
           "http://purl.obolibrary.org/obo/UBERON_0000056": "GAID:438",
@@ -10253,12 +10250,6 @@
           "http://purl.obolibrary.org/obo/UBERON_0002367": "GAID:392",
           "http://purl.obolibrary.org/obo/UBERON_0002369": "GAID:446",
           "http://purl.obolibrary.org/obo/UBERON_0002391": "GAID:1186"
-        },
-        "HBA": {
-          "http://purl.obolibrary.org/obo/UBERON_0000955": "HBA:4005"
-        },
-        "MBA": {
-          "http://purl.obolibrary.org/obo/UBERON_0000955": "MBA:997"
         },
         "OGES": {
           "http://purl.obolibrary.org/obo/UBERON_0000068": "OGES:000022",
@@ -10292,9 +10283,6 @@
           "http://purl.obolibrary.org/obo/UBERON_0002367": "OpenCyc:Mx4rv6trqZwpEbGdrcN5Y29ycA",
           "http://purl.obolibrary.org/obo/UBERON_0002369": "OpenCyc:Mx4rvXYiz5wpEbGdrcN5Y29ycA",
           "http://purl.obolibrary.org/obo/UBERON_0002391": "OpenCyc:Mx4rvpDOU5wpEbGdrcN5Y29ycA"
-        },
-        "PBA": {
-          "http://purl.obolibrary.org/obo/UBERON_0000955": "PBA:3999"
         },
         "WikipediaCategory": {
           "http://purl.obolibrary.org/obo/UBERON_0007811": "WikipediaCategory:Head_and_neck"

@@ -29468,7 +29468,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/mp/releases/2022-04-08/mp.json",
+    "version": "http://purl.obolibrary.org/obo/mp/releases/2022-04-21/mp.json",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/MP_0009875": [
