@@ -9,19 +9,19 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `cco`.
 
-| external_xref       |   usages_count | usages                                          |
-|---------------------|----------------|-------------------------------------------------|
-| `Prosite:PDOC0038`  |              1 | [GO:0043398](https://bioregistry.io/GO:0043398) |
-| `Prosite:PDOC50021` |              1 | [GO:0051401](https://bioregistry.io/GO:0051401) |
-| `Prosite:PDOC51022` |              1 | [GO:0097016](https://bioregistry.io/GO:0097016) |
+| external_xref       |   usages_count | usages                                                                                 |
+|---------------------|----------------|----------------------------------------------------------------------------------------|
+| `Prosite:PDOC0038`  |              1 | [http://purl.obolibrary.org/obo/GO_0043398](http://purl.obolibrary.org/obo/GO_0043398) |
+| `Prosite:PDOC50021` |              1 | [http://purl.obolibrary.org/obo/GO_0051401](http://purl.obolibrary.org/obo/GO_0051401) |
+| `Prosite:PDOC51022` |              1 | [http://purl.obolibrary.org/obo/GO_0097016](http://purl.obolibrary.org/obo/GO_0097016) |
 
 ## `go`: Gene Ontology
 
 Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
-| external_xref       |   usages_count | usages                                          |
-|---------------------|----------------|-------------------------------------------------|
-| `Prosite:PDOC0038`  |              1 | [GO:0043398](https://bioregistry.io/GO:0043398) |
-| `Prosite:PDOC50021` |              1 | [GO:0051401](https://bioregistry.io/GO:0051401) |
-| `Prosite:PDOC51022` |              1 | [GO:0097016](https://bioregistry.io/GO:0097016) |
+| external_xref       |   usages_count | usages                                                                                 |
+|---------------------|----------------|----------------------------------------------------------------------------------------|
+| `Prosite:PDOC0038`  |              1 | [http://purl.obolibrary.org/obo/GO_0043398](http://purl.obolibrary.org/obo/GO_0043398) |
+| `Prosite:PDOC50021` |              1 | [http://purl.obolibrary.org/obo/GO_0051401](http://purl.obolibrary.org/obo/GO_0051401) |
+| `Prosite:PDOC51022` |              1 | [http://purl.obolibrary.org/obo/GO_0097016](http://purl.obolibrary.org/obo/GO_0097016) |
 

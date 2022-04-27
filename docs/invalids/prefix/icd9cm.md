@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `symp`. See the [GitHub repository](https://github.com/DiseaseOntology/SymptomOntology).
 
-| external_xref              |   usages_count | usages                                              |
-|----------------------------|----------------|-----------------------------------------------------|
-| `ICD9CM_2005:<new dbxref>` |              1 | [SYMP:0000821](https://bioregistry.io/SYMP:0000821) |
+| external_xref              |   usages_count | usages                                                                                     |
+|----------------------------|----------------|--------------------------------------------------------------------------------------------|
+| `ICD9CM_2005:<new dbxref>` |              1 | [http://purl.obolibrary.org/obo/SYMP_0000821](http://purl.obolibrary.org/obo/SYMP_0000821) |
 

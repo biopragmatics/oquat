@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
-| external_xref   |   usages_count | usages                                                                                              |
-|-----------------|----------------|-----------------------------------------------------------------------------------------------------|
-| `TGMA:000136`   |              1 | [http://www.ebi.ac.uk/efo/EFO:0000965](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000965) |
+| external_xref   |   usages_count | usages                                                                       |
+|-----------------|----------------|------------------------------------------------------------------------------|
+| `TGMA:000136`   |              1 | [http://www.ebi.ac.uk/efo/EFO_0000965](http://www.ebi.ac.uk/efo/EFO_0000965) |
 

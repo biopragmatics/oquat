@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
 
-| external_xref                            |   usages_count | usages                                          |
-|------------------------------------------|----------------|-------------------------------------------------|
-| `BioRXiv:https://doi.org/10.1101/584664` |              1 | [SO:0002223](https://bioregistry.io/SO:0002223) |
+| external_xref                            |   usages_count | usages                                                                                 |
+|------------------------------------------|----------------|----------------------------------------------------------------------------------------|
+| `BioRXiv:https://doi.org/10.1101/584664` |              1 | [http://purl.obolibrary.org/obo/SO_0002223](http://purl.obolibrary.org/obo/SO_0002223) |
 

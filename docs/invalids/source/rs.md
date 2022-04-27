@@ -11,7 +11,7 @@ xrefs to external prefixed with `RGD` (standardized to Bioregistry
 prefix [`rgd`](https://bioregistry.io/rgd)) that
 did not match the standard pattern `^\d{4,}$`.
 
-| external_xref                    |   usages_count | usages                                          |
-|----------------------------------|----------------|-------------------------------------------------|
-| `RGD:('RGD', 'www.rgd.mcw.edu')` |              1 | [RS:0001091](https://bioregistry.io/RS:0001091) |
+| external_xref                    |   usages_count | usages                                                                                 |
+|----------------------------------|----------------|----------------------------------------------------------------------------------------|
+| `RGD:('RGD', 'www.rgd.mcw.edu')` |              1 | [http://purl.obolibrary.org/obo/RS_0001091](http://purl.obolibrary.org/obo/RS_0001091) |
 

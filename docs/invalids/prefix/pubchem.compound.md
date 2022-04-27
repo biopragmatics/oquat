@@ -9,16 +9,16 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
 
-| external_xref                                                          |   usages_count | usages                                                                                                                                            |
-|------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PubChem:https://pubchem.ncbi.nlm.nih.gov/compound/hydroflumethiazide` |              3 | [PW:0002377](https://bioregistry.io/PW:0002377), [PW:0002378](https://bioregistry.io/PW:0002378), [PW:0002379](https://bioregistry.io/PW:0002379) |
+| external_xref                                                          |   usages_count | usages                                                                                                                                                                                                                                                                 |
+|------------------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `PubChem:https://pubchem.ncbi.nlm.nih.gov/compound/hydroflumethiazide` |              3 | [http://purl.obolibrary.org/obo/PW_0002377](http://purl.obolibrary.org/obo/PW_0002377), [http://purl.obolibrary.org/obo/PW_0002378](http://purl.obolibrary.org/obo/PW_0002378), [http://purl.obolibrary.org/obo/PW_0002379](http://purl.obolibrary.org/obo/PW_0002379) |
 
 ## `xco`: Experimental condition ontology
 
 Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
 
-| external_xref                |   usages_count | usages                                                                                                                                                  |
-|------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PubChem_Compound:CID_13157` |              3 | [XCO:0000344](https://bioregistry.io/XCO:0000344), [XCO:0000436](https://bioregistry.io/XCO:0000436), [XCO:0000437](https://bioregistry.io/XCO:0000437) |
-| `PubChem_Compound:CID_12967` |              2 | [XCO:0000345](https://bioregistry.io/XCO:0000345), [XCO:0000346](https://bioregistry.io/XCO:0000346)                                                    |
+| external_xref                |   usages_count | usages                                                                                                                                                                                                                                                                       |
+|------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `PubChem_Compound:CID_13157` |              3 | [http://purl.obolibrary.org/obo/XCO_0000344](http://purl.obolibrary.org/obo/XCO_0000344), [http://purl.obolibrary.org/obo/XCO_0000436](http://purl.obolibrary.org/obo/XCO_0000436), [http://purl.obolibrary.org/obo/XCO_0000437](http://purl.obolibrary.org/obo/XCO_0000437) |
+| `PubChem_Compound:CID_12967` |              2 | [http://purl.obolibrary.org/obo/XCO_0000345](http://purl.obolibrary.org/obo/XCO_0000345), [http://purl.obolibrary.org/obo/XCO_0000346](http://purl.obolibrary.org/obo/XCO_0000346)                                                                                           |
 

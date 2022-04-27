@@ -1,6 +1,7 @@
 """Analyze invalid identifiers."""
 
 import json
+import random
 from collections import defaultdict
 from operator import itemgetter
 from textwrap import dedent
@@ -17,6 +18,7 @@ SOURCES = INVALIDS.joinpath("source")
 SOURCES.mkdir(exist_ok=True, parents=True)
 PREFIXES = INVALIDS.joinpath("prefix")
 PREFIXES.mkdir(exist_ok=True, parents=True)
+INDEX_PATH = INVALIDS.joinpath("index.md")
 
 KEYS = [
     "prov_pack",
@@ -37,16 +39,53 @@ def main():
         for results in json.loads(path.read_text()).values():
             for key in KEYS:
                 for node, invalid_xrefs in results[key][INVALID_KEY].items():
-                    node_curie = node.removeprefix(OBO_PREFIX).replace("_", ":")
+                    # node_curie = node.removeprefix(OBO_PREFIX).replace("_", ":")
                     for xref in invalid_xrefs:
                         xref_prefix, xref_identifier = xref.split(":", 1)
                         xref_norm_prefix = bioregistry.normalize_prefix(xref_prefix)
                         source_agg[source][xref_prefix][xref_prefix, xref_identifier].append(
-                            node_curie
+                            node
                         )
                         xref_agg[xref_norm_prefix][source][xref_prefix, xref_identifier].append(
-                            node_curie
+                            node
                         )
+
+    index_text = dedent(f"""\
+    # Invalid Identifier Analysis
+    
+    This analysis has been conducted across all ontologies listed in the Bioregistry by loading
+    them from source with ROBOT, converting to OBO Graph JSON, then looking through all nodes’
+    xrefs, nodes’ synonyms’ xrefs, and nodes’ definitions’ xrefs to see which ones make references
+    using identifiers that don't validate against patterns in the [Bioregistry](https://bioregistry.io).    
+
+    """)
+    rows = []
+    for xref_norm_prefix, inner in xref_agg.items():
+        sources = ",".join(
+            f"[`{source}`](/source/{source})"
+            for source in inner
+        )
+        total = sum(
+            len(d.values())
+            for d in inner.values()
+        )
+        example_source = random.choice(list(inner))
+        example_curie = random.choice(list(inner[example_source]))
+        example_node = random.choice(list(inner[example_source][example_curie]))
+        rows.append((
+            f"[`{xref_norm_prefix}`](/prefix/{xref_norm_prefix})",
+            sources,
+            total,
+            ":".join(example_curie),
+            example_node,
+        ))
+
+    index_text += tabulate(
+        rows,
+        headers=["xref_prefix", "sources", "count", "example_xref", "example_node"],
+        tablefmt="github",
+    )
+    INDEX_PATH.write_text(index_text)
 
     for xref_norm_prefix, xref_inner in tqdm(xref_agg.items(), unit="prefix"):
         xref_name = bioregistry.get_name(xref_norm_prefix)
@@ -83,15 +122,15 @@ def main():
                 if len(nodes) > 5:
                     examples = (
                         ", ".join(
-                            f"[{example_curie}](https://bioregistry.io/{example_curie})"
-                            for example_curie in sorted(nodes)[:5]
+                            f"[{example_node}]({example_node})"
+                            for example_node in sorted(nodes)[:5]
                         )
                         + ", ..."
                     )
                 else:
                     examples = ", ".join(
-                        f"[{example_curie}](https://bioregistry.io/{example_curie})"
-                        for example_curie in sorted(nodes)
+                        f"[{example_node}]({example_node})"
+                        for example_node in sorted(nodes)
                     )
 
                 rows.append(
@@ -145,15 +184,15 @@ def main():
                 if len(nodes) > 5:
                     examples = (
                         ", ".join(
-                            f"[{example_curie}](https://bioregistry.io/{example_curie})"
-                            for example_curie in sorted(nodes)[:5]
+                            f"[{example_node}]({example_node})"
+                            for example_node in sorted(nodes)[:5]
                         )
                         + ", ..."
                     )
                 else:
                     examples = ", ".join(
-                        f"[{example_curie}](https://bioregistry.io/{example_curie})"
-                        for example_curie in sorted(nodes)
+                        f"[{example_node}]({example_node})"
+                        for example_node in sorted(nodes)
                     )
 
                 rows.append(
@@ -172,7 +211,6 @@ def main():
             source_text += "\n\n"
 
         source_path.write_text(source_text)
-
 
 if __name__ == "__main__":
     main()

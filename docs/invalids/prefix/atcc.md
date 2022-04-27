@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
-| external_xref           |   usages_count | usages                                                                                              |
-|-------------------------|----------------|-----------------------------------------------------------------------------------------------------|
-| `ATCC number: CRL-2265` |              1 | [http://www.ebi.ac.uk/efo/EFO:0001667](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001667) |
+| external_xref           |   usages_count | usages                                                                       |
+|-------------------------|----------------|------------------------------------------------------------------------------|
+| `ATCC number: CRL-2265` |              1 | [http://www.ebi.ac.uk/efo/EFO_0001667](http://www.ebi.ac.uk/efo/EFO_0001667) |
 

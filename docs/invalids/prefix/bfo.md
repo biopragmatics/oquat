@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/IDOMAL).
 
-| external_xref   |   usages_count | usages                                                  |
-|-----------------|----------------|---------------------------------------------------------|
-| `BFO:SNAP`      |              1 | [IDOMAL:0000002](https://bioregistry.io/IDOMAL:0000002) |
+| external_xref   |   usages_count | usages                                                                                         |
+|-----------------|----------------|------------------------------------------------------------------------------------------------|
+| `BFO:SNAP`      |              1 | [http://purl.obolibrary.org/obo/IDOMAL_0000002](http://purl.obolibrary.org/obo/IDOMAL_0000002) |
 

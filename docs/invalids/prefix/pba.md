@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
 
-| external_xref   |   usages_count | usages                                                  |
-|-----------------|----------------|---------------------------------------------------------|
-| `PBA:BN`        |              1 | [UBERON:0010011](https://bioregistry.io/UBERON:0010011) |
+| external_xref   |   usages_count | usages                                                                                         |
+|-----------------|----------------|------------------------------------------------------------------------------------------------|
+| `PBA:BN`        |              1 | [http://purl.obolibrary.org/obo/UBERON_0010011](http://purl.obolibrary.org/obo/UBERON_0010011) |
 

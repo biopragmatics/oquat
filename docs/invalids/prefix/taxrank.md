@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `taxrank`. See the [GitHub repository](https://github.com/phenoscape/taxrank).
 
-| external_xref     |   usages_count | usages                                                                                                               |
-|-------------------|----------------|----------------------------------------------------------------------------------------------------------------------|
-| `TAXRANK:curator` |              2 | [TAXRANK:0000000](https://bioregistry.io/TAXRANK:0000000), [TAXRANK:0000060](https://bioregistry.io/TAXRANK:0000060) |
+| external_xref     |   usages_count | usages                                                                                                                                                                                             |
+|-------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `TAXRANK:curator` |              2 | [http://purl.obolibrary.org/obo/TAXRANK_0000000](http://purl.obolibrary.org/obo/TAXRANK_0000000), [http://purl.obolibrary.org/obo/TAXRANK_0000060](http://purl.obolibrary.org/obo/TAXRANK_0000060) |
 

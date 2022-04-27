@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `enm`.
 
-| external_xref   |   usages_count | usages                                          |
-|-----------------|----------------|-------------------------------------------------|
-| `ZFS:finishes`  |              1 | [RO:0002229](https://bioregistry.io/RO:0002229) |
+| external_xref   |   usages_count | usages                                                                                 |
+|-----------------|----------------|----------------------------------------------------------------------------------------|
+| `ZFS:finishes`  |              1 | [http://purl.obolibrary.org/obo/RO_0002229](http://purl.obolibrary.org/obo/RO_0002229) |
 

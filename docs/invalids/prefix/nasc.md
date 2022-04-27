@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `bto`. See the [GitHub repository](https://github.com/BRENDA-Enzymes/BTO).
 
-| external_xref                                |   usages_count | usages                                            |
-|----------------------------------------------|----------------|---------------------------------------------------|
-| `NASC:The_European_Arabidopsis_Stock_Centre` |              1 | [BTO:0003086](https://bioregistry.io/BTO:0003086) |
+| external_xref                                |   usages_count | usages                                                                                   |
+|----------------------------------------------|----------------|------------------------------------------------------------------------------------------|
+| `NASC:The_European_Arabidopsis_Stock_Centre` |              1 | [http://purl.obolibrary.org/obo/BTO_0003086](http://purl.obolibrary.org/obo/BTO_0003086) |
 

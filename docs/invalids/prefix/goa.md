@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
-| external_xref   |   usages_count | usages                                          |
-|-----------------|----------------|-------------------------------------------------|
-| `GOA:als`       |              1 | [GO:1903985](https://bioregistry.io/GO:1903985) |
+| external_xref   |   usages_count | usages                                                                                 |
+|-----------------|----------------|----------------------------------------------------------------------------------------|
+| `GOA:als`       |              1 | [http://purl.obolibrary.org/obo/GO_1903985](http://purl.obolibrary.org/obo/GO_1903985) |
 

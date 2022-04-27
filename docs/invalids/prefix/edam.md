@@ -9,16 +9,16 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology).
 
-| external_xref     |   usages_count | usages                                            |
-|-------------------|----------------|---------------------------------------------------|
-| `EDAM:topic:3298` |              1 | [ECO:0007075](https://bioregistry.io/ECO:0007075) |
+| external_xref     |   usages_count | usages                                                                                   |
+|-------------------|----------------|------------------------------------------------------------------------------------------|
+| `EDAM:topic:3298` |              1 | [http://purl.obolibrary.org/obo/ECO_0007075](http://purl.obolibrary.org/obo/ECO_0007075) |
 
 ## `ms`: Mass spectrometry ontology
 
 Identifiers for this prefix are given incorrectly in `ms`. See the [GitHub repository](https://github.com/HUPO-PSI/psi-ms-CV).
 
-| external_xref   |   usages_count | usages                                          |
-|-----------------|----------------|-------------------------------------------------|
-| `EDAM:0846`     |              1 | [MS:1000864](https://bioregistry.io/MS:1000864) |
-| `EDAM:2301`     |              1 | [MS:1000868](https://bioregistry.io/MS:1000868) |
+| external_xref   |   usages_count | usages                                                                                 |
+|-----------------|----------------|----------------------------------------------------------------------------------------|
+| `EDAM:0846`     |              1 | [http://purl.obolibrary.org/obo/MS_1000864](http://purl.obolibrary.org/obo/MS_1000864) |
+| `EDAM:2301`     |              1 | [http://purl.obolibrary.org/obo/MS_1000868](http://purl.obolibrary.org/obo/MS_1000868) |
 

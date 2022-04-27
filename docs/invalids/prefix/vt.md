@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `lpt`.
 
-| external_xref   |   usages_count | usages                                            |
-|-----------------|----------------|---------------------------------------------------|
-| `VT::0010808`   |              1 | [LPT:0000185](https://bioregistry.io/LPT:0000185) |
+| external_xref   |   usages_count | usages                                                                                   |
+|-----------------|----------------|------------------------------------------------------------------------------------------|
+| `VT::0010808`   |              1 | [http://purl.obolibrary.org/obo/LPT_0000185](http://purl.obolibrary.org/obo/LPT_0000185) |
 
