@@ -30,7 +30,8 @@ OBO_PREFIX = "http://purl.obolibrary.org/obo/"
 
 def main():
     """Analyze invalid identifiers."""
-    d = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+    source_agg = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+    xref_agg = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
     for path in RESULTS.glob("*.json"):
         source = path.stem
         for results in json.loads(path.read_text()).values():
@@ -39,9 +40,69 @@ def main():
                     node_curie = node.removeprefix(OBO_PREFIX).replace("_", ":")
                     for xref in invalid_xrefs:
                         xref_prefix, xref_identifier = xref.split(":", 1)
-                        d[source][xref_prefix][xref_identifier].append(node_curie)
+                        xref_norm_prefix = bioregistry.normalize_prefix(xref_prefix)
+                        source_agg[source][xref_prefix][xref_prefix, xref_identifier].append(node_curie)
+                        xref_agg[xref_norm_prefix][source][xref_prefix, xref_identifier].append(node_curie)
 
-    for source, inner in tqdm(d.items(), unit="source"):
+    for xref_norm_prefix, inner in tqdm(xref_agg.items(), unit="prefix"):
+        xref_name = bioregistry.get_name(xref_norm_prefix)
+        xref_pattern = bioregistry.get_pattern(xref_prefix)
+        xref_path = PREFIXES.joinpath(f"{xref_norm_prefix}.md")
+        variants = {
+            xref_prefix
+            for inner2 in inner.values()
+            for xref_prefix, _ in inner2
+        }
+        source_text = dedent(f"""\
+        # {xref_prefix}
+
+        The following {len(variants)} variants were found: {sorted(variants)}
+
+        """)
+
+        for source, inner2 in sorted(inner.items(), key=lambda t: t[0].casefold()):
+            source_text += dedent(f"""\
+            ## `{source}`
+
+            Identifiers for this prefix are given incorrectly correctly in {bioregistry.get_name(source)}.
+
+            """)
+            rows = []
+            for (xref_prefix, xref_identifier), nodes in inner2.items():
+                invalid_xref_curie = f"{xref_prefix}:{xref_identifier}"
+                if len(nodes) > 5:
+                    examples = (
+                        ", ".join(
+                            f"[{example_curie}](https://bioregistry.io/{example_curie})"
+                            for example_curie in sorted(nodes)[:5]
+                        )
+                        + ", ..."
+                    )
+                else:
+                    examples = ", ".join(
+                        f"[{example_curie}](https://bioregistry.io/{example_curie})"
+                        for example_curie in sorted(nodes)
+                    )
+
+                rows.append(
+                    (
+                        f"`{invalid_xref_curie}`",
+                        len(nodes),
+                        examples,
+                    )
+                )
+            rows = sorted(rows, key=itemgetter(1), reverse=True)
+            source_text += tabulate(
+                rows,
+                headers=["external_xref", "usages_count", "usages"],
+                tablefmt="github",
+            )
+            source_text += "\n\n"
+
+        xref_path.write_text(source_text)
+
+    return
+    for source, inner in tqdm(source_agg.items(), unit="source"):
         source_path = SOURCES.joinpath(f"{source}.md")
         repository = bioregistry.get_repository(source)
         repo_text = f" See the [GitHub repository]({repository})." if repository else ""
