@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `cmpo`.
 ## `EC`: Enzyme Nomenclature
 
 Overall, there were 2 invalid
-xrefs to external terms in `eccode` that did not match the standard
-pattern `^\d{1,2}(\.\d{0,3}){0,3}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/eccode).
+xrefs to external prefixed with `EC` (standardized to Bioregistry
+entry [`eccode`]((https://bioregistry.io/eccode)) that
+did not match the standard pattern `^\d{1,2}(\.\d{0,3}){0,3}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -20,10 +19,9 @@ external resource can be found on the
 ## `GO`: Gene Ontology
 
 Overall, there were 4 invalid
-xrefs to external terms in `go` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/go).
+xrefs to external prefixed with `GO` (standardized to Bioregistry
+entry [`go`]((https://bioregistry.io/go)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -32,10 +30,9 @@ external resource can be found on the
 ## `OBO_REL`: Relation Ontology
 
 Overall, there were 3 invalid
-xrefs to external terms in `ro` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ro).
+xrefs to external prefixed with `OBO_REL` (standardized to Bioregistry
+entry [`ro`]((https://bioregistry.io/ro)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref        |   usages_count | usages                                              |
 |----------------------|----------------|-----------------------------------------------------|
@@ -46,10 +43,9 @@ external resource can be found on the
 ## `PATO`: Phenotype And Trait Ontology
 
 Overall, there were 4 invalid
-xrefs to external terms in `pato` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pato).
+xrefs to external prefixed with `PATO` (standardized to Bioregistry
+entry [`pato`]((https://bioregistry.io/pato)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -58,10 +54,9 @@ external resource can be found on the
 ## `PomBase`: PomBase
 
 Overall, there were 1 invalid
-xrefs to external terms in `pombase` that did not match the standard
-pattern `^S\w+(\.)?\w+(\.)?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pombase).
+xrefs to external prefixed with `PomBase` (standardized to Bioregistry
+entry [`pombase`]((https://bioregistry.io/pombase)) that
+did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 | external_xref   |   usages_count | usages                                                                                                  |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------|
@@ -70,10 +65,9 @@ external resource can be found on the
 ## `Reactome`: Reactome
 
 Overall, there were 620 invalid
-xrefs to external terms in `reactome` that did not match the standard
-pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/reactome).
+xrefs to external prefixed with `Reactome` (standardized to Bioregistry
+entry [`reactome`]((https://bioregistry.io/reactome)) that
+did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 
 | external_xref            |   usages_count | usages                                                                                           |
 |--------------------------|----------------|--------------------------------------------------------------------------------------------------|
@@ -700,10 +694,9 @@ external resource can be found on the
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 14 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                                                      |   usages_count | usages                                                                                                                                                                         |
 |--------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -724,10 +717,9 @@ external resource can be found on the
 ## `wikipedia`: Wikipedia
 
 Overall, there were 1 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                                    |   usages_count | usages                                              |
 |--------------------------------------------------|----------------|-----------------------------------------------------|

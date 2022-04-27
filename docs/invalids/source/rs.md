@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `rs`. See the [GitHub repo
 ## `RGD`: Rat Genome Database
 
 Overall, there were 1 invalid
-xrefs to external terms in `rgd` that did not match the standard
-pattern `^\d{4,}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/rgd).
+xrefs to external prefixed with `RGD` (standardized to Bioregistry
+entry [`rgd`]((https://bioregistry.io/rgd)) that
+did not match the standard pattern `^\d{4,}$`.
 
 | external_xref         |   usages_count | usages                                          |
 |-----------------------|----------------|-------------------------------------------------|

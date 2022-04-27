@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `vsao`.
 ## `GO`: Gene Ontology
 
 Overall, there were 2 invalid
-xrefs to external terms in `go` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/go).
+xrefs to external prefixed with `GO` (standardized to Bioregistry
+entry [`go`]((https://bioregistry.io/go)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref                         |   usages_count | usages                                              |
 |---------------------------------------|----------------|-----------------------------------------------------|
@@ -20,22 +19,20 @@ external resource can be found on the
 ## `UBERON`: Uber Anatomy Ontology
 
 Overall, there were 7 invalid
-xrefs to external terms in `uberon` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/uberon).
+xrefs to external prefixed with `UBERON` (standardized to Bioregistry
+entry [`uberon`]((https://bioregistry.io/uberon)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `UBERON:cjm`    |              7 | [VSAO:0000076](https://bioregistry.io/VSAO:0000076), [VSAO:0000076](https://bioregistry.io/VSAO:0000076), [VSAO:0000155](https://bioregistry.io/VSAO:0000155), [VSAO:0000303](https://bioregistry.io/VSAO:0000303), [VSAO:0000305](https://bioregistry.io/VSAO:0000305), ... |
+| `UBERON:cjm`    |              7 | [VSAO:0000076](https://bioregistry.io/VSAO:0000076), [VSAO:0000155](https://bioregistry.io/VSAO:0000155), [VSAO:0000156](https://bioregistry.io/VSAO:0000156), [VSAO:0000305](https://bioregistry.io/VSAO:0000305), [VSAO:0000305](https://bioregistry.io/VSAO:0000305), ... |
 
 ## `ZFIN`: Zebrafish Information Network Gene
 
 Overall, there were 3 invalid
-xrefs to external terms in `zfin` that did not match the standard
-pattern `^ZDB\-\w+\-\d+\-\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/zfin).
+xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
+entry [`zfin`]((https://bioregistry.io/zfin)) that
+did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                        |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|

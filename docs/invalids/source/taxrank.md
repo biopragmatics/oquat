@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `taxrank`. See the [GitHub
 ## `NCBITaxon`: NCBI organismal classification
 
 Overall, there were 28 invalid
-xrefs to external terms in `ncbitaxon` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncbitaxon).
+xrefs to external prefixed with `NCBITaxon` (standardized to Bioregistry
+entry [`ncbitaxon`]((https://bioregistry.io/ncbitaxon)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref                |   usages_count | usages                                                    |
 |------------------------------|----------------|-----------------------------------------------------------|
@@ -46,10 +45,9 @@ external resource can be found on the
 ## `TAXRANK`: Taxonomic rank vocabulary
 
 Overall, there were 2 invalid
-xrefs to external terms in `taxrank` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/taxrank).
+xrefs to external prefixed with `TAXRANK` (standardized to Bioregistry
+entry [`taxrank`]((https://bioregistry.io/taxrank)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref     |   usages_count | usages                                                                                                               |
 |-------------------|----------------|----------------------------------------------------------------------------------------------------------------------|

@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `vario`.
 ## `MI`: Molecular Interactions Controlled Vocabulary
 
 Overall, there were 1 invalid
-xrefs to external terms in `mi` that did not match the standard
-pattern `^\d{4}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mi).
+xrefs to external prefixed with `MI` (standardized to Bioregistry
+entry [`mi`]((https://bioregistry.io/mi)) that
+did not match the standard pattern `^\d{4}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `SGD`: Saccharomyces Genome Database
 
 Overall, there were 2 invalid
-xrefs to external terms in `sgd` that did not match the standard
-pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/sgd).
+xrefs to external prefixed with `SGD` (standardized to Bioregistry
+entry [`sgd`]((https://bioregistry.io/sgd)) that
+did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`.
 
 | external_xref   |   usages_count | usages                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------|
@@ -31,10 +29,9 @@ external resource can be found on the
 ## `SO`: Sequence types and features ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `so` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/so).
+xrefs to external prefixed with `SO` (standardized to Bioregistry
+entry [`so`]((https://bioregistry.io/so)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -43,10 +40,9 @@ external resource can be found on the
 ## `UniProt`: UniProt Protein
 
 Overall, there were 1 invalid
-xrefs to external terms in `uniprot` that did not match the standard
-pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/uniprot).
+xrefs to external prefixed with `UniProt` (standardized to Bioregistry
+entry [`uniprot`]((https://bioregistry.io/uniprot)) that
+did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$`.
 
 | external_xref             |   usages_count | usages                                          |
 |---------------------------|----------------|-------------------------------------------------|
@@ -55,22 +51,20 @@ external resource can be found on the
 ## `VariO`: Variation Ontology
 
 Overall, there were 410 invalid
-xrefs to external terms in `vario` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/vario).
+xrefs to external prefixed with `VariO` (standardized to Bioregistry
+entry [`vario`]((https://bioregistry.io/vario)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `VariO:mv`      |            410 | [VariO:0051](https://bioregistry.io/VariO:0051), [VariO:0218](https://bioregistry.io/VariO:0218), [VariO:0412](https://bioregistry.io/VariO:0412), [VariO:0438](https://bioregistry.io/VariO:0438), [VariO:0440](https://bioregistry.io/VariO:0440), ... |
+| `VariO:mv`      |            410 | [VariO:0184](https://bioregistry.io/VariO:0184), [VariO:0230](https://bioregistry.io/VariO:0230), [VariO:0256](https://bioregistry.io/VariO:0256), [VariO:0289](https://bioregistry.io/VariO:0289), [VariO:0385](https://bioregistry.io/VariO:0385), ... |
 
 ## `Vario`: Variation Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `vario` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/vario).
+xrefs to external prefixed with `Vario` (standardized to Bioregistry
+entry [`vario`]((https://bioregistry.io/vario)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

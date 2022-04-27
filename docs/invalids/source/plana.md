@@ -7,22 +7,20 @@ for node, synonym, and definition cross-references in `plana`. See the [GitHub r
 ## `ASIN`: Amazon Standard Identification Number
 
 Overall, there were 18 invalid
-xrefs to external terms in `asin` that did not match the standard
-pattern `^[0-9]{10}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/asin).
+xrefs to external prefixed with `ASIN` (standardized to Bioregistry
+entry [`asin`]((https://bioregistry.io/asin)) that
+did not match the standard pattern `^[0-9]{10}$`.
 
 | external_xref     |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ASIN:B000M4NK9M` |             18 | [PLANA:0000472](https://bioregistry.io/PLANA:0000472), [PLANA:0000472](https://bioregistry.io/PLANA:0000472), [PLANA:0000473](https://bioregistry.io/PLANA:0000473), [PLANA:0000474](https://bioregistry.io/PLANA:0000474), [PLANA:0000476](https://bioregistry.io/PLANA:0000476), ... |
+| `ASIN:B000M4NK9M` |             18 | [PLANA:0000224](https://bioregistry.io/PLANA:0000224), [PLANA:0000473](https://bioregistry.io/PLANA:0000473), [PLANA:0000475](https://bioregistry.io/PLANA:0000475), [PLANA:0007535](https://bioregistry.io/PLANA:0007535), [PLANA:0007535](https://bioregistry.io/PLANA:0007535), ... |
 
 ## `ncithesaurus`: NCI Thesaurus
 
 Overall, there were 1 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `ncithesaurus` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref                 |   usages_count | usages                                                |
 |-------------------------------|----------------|-------------------------------------------------------|
@@ -31,10 +29,9 @@ external resource can be found on the
 ## `PMID`: PubMed
 
 Overall, there were 7 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref    |   usages_count | usages                                                                                                       |
 |------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -48,10 +45,9 @@ external resource can be found on the
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 1 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                      |   usages_count | usages                                                |
 |------------------------------------|----------------|-------------------------------------------------------|

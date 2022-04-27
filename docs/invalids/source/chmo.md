@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `chmo`. See the [GitHub re
 ## `CHEBI`: Chemical Entities of Biological Interest
 
 Overall, there were 1 invalid
-xrefs to external terms in `chebi` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/chebi).
+xrefs to external prefixed with `CHEBI` (standardized to Bioregistry
+entry [`chebi`]((https://bioregistry.io/chebi)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `FIX`: Physico-chemical methods and properties
 
 Overall, there were 7 invalid
-xrefs to external terms in `fix` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/fix).
+xrefs to external prefixed with `FIX` (standardized to Bioregistry
+entry [`fix`]((https://bioregistry.io/fix)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

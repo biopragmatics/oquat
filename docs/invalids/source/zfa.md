@@ -7,14 +7,13 @@ for node, synonym, and definition cross-references in `zfa`. See the [GitHub rep
 ## `CL`: Cell Ontology
 
 Overall, there were 172 invalid
-xrefs to external terms in `cl` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/cl).
+xrefs to external prefixed with `CL` (standardized to Bioregistry
+entry [`cl`]((https://bioregistry.io/cl)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CL:curator`    |            160 | [ZFA:0009043](https://bioregistry.io/ZFA:0009043), [ZFA:0009111](https://bioregistry.io/ZFA:0009111), [ZFA:0009311](https://bioregistry.io/ZFA:0009311), [ZFA:0009314](https://bioregistry.io/ZFA:0009314), [ZFA:0009324](https://bioregistry.io/ZFA:0009324), ... |
+| `CL:curator`    |            160 | [ZFA:0009051](https://bioregistry.io/ZFA:0009051), [ZFA:0009214](https://bioregistry.io/ZFA:0009214), [ZFA:0009236](https://bioregistry.io/ZFA:0009236), [ZFA:0009272](https://bioregistry.io/ZFA:0009272), [ZFA:0009312](https://bioregistry.io/ZFA:0009312), ... |
 | `CL:CVS`        |              4 | [ZFA:0009375](https://bioregistry.io/ZFA:0009375), [ZFA:0009376](https://bioregistry.io/ZFA:0009376), [ZFA:0009393](https://bioregistry.io/ZFA:0009393), [ZFA:0009395](https://bioregistry.io/ZFA:0009395)                                                         |
 | `CL:Curator`    |              2 | [ZFA:0005242](https://bioregistry.io/ZFA:0005242), [ZFA:0005873](https://bioregistry.io/ZFA:0005873)                                                                                                                                                               |
 | `CL:editor`     |              2 | [ZFA:0005769](https://bioregistry.io/ZFA:0005769), [ZFA:0009402](https://bioregistry.io/ZFA:0009402)                                                                                                                                                               |
@@ -26,10 +25,9 @@ external resource can be found on the
 ## `FB`: FlyBase Gene
 
 Overall, there were 1 invalid
-xrefs to external terms in `flybase` that did not match the standard
-pattern `^FB\w{2}\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/flybase).
+xrefs to external prefixed with `FB` (standardized to Bioregistry
+entry [`flybase`]((https://bioregistry.io/flybase)) that
+did not match the standard pattern `^FB\w{2}\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -38,10 +36,9 @@ external resource can be found on the
 ## `GO`: Gene Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `go` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/go).
+xrefs to external prefixed with `GO` (standardized to Bioregistry
+entry [`go`]((https://bioregistry.io/go)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -50,10 +47,9 @@ external resource can be found on the
 ## `MESH`: Medical Subject Headings
 
 Overall, there were 1 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MESH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -62,10 +58,9 @@ external resource can be found on the
 ## `ORCiD`: Open Researcher and Contributor
 
 Overall, there were 3 invalid
-xrefs to external terms in `orcid` that did not match the standard
-pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/orcid).
+xrefs to external prefixed with `ORCiD` (standardized to Bioregistry
+entry [`orcid`]((https://bioregistry.io/orcid)) that
+did not match the standard pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`.
 
 | external_xref                |   usages_count | usages                                            |
 |------------------------------|----------------|---------------------------------------------------|
@@ -76,10 +71,9 @@ external resource can be found on the
 ## `ORCID`: Open Researcher and Contributor
 
 Overall, there were 1 invalid
-xrefs to external terms in `orcid` that did not match the standard
-pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/orcid).
+xrefs to external prefixed with `ORCID` (standardized to Bioregistry
+entry [`orcid`]((https://bioregistry.io/orcid)) that
+did not match the standard pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`.
 
 | external_xref              |   usages_count | usages                                            |
 |----------------------------|----------------|---------------------------------------------------|
@@ -88,10 +82,9 @@ external resource can be found on the
 ## `UBERON`: Uber Anatomy Ontology
 
 Overall, there were 2 invalid
-xrefs to external terms in `uberon` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/uberon).
+xrefs to external prefixed with `UBERON` (standardized to Bioregistry
+entry [`uberon`]((https://bioregistry.io/uberon)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref    |   usages_count | usages                                                                                               |
 |------------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -100,14 +93,13 @@ external resource can be found on the
 ## `ZFIN`: Zebrafish Information Network Gene
 
 Overall, there were 12 invalid
-xrefs to external terms in `zfin` that did not match the standard
-pattern `^ZDB\-\w+\-\d+\-\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/zfin).
+xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
+entry [`zfin`]((https://bioregistry.io/zfin)) that
+did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 
 | external_xref              |   usages_count | usages                                                                                                                                                                                                                                                             |
 |----------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ZFIN:<new dbxref>`        |              6 | [ZFA:0000259](https://bioregistry.io/ZFA:0000259), [ZFA:0000424](https://bioregistry.io/ZFA:0000424), [ZFA:0000424](https://bioregistry.io/ZFA:0000424), [ZFA:0000464](https://bioregistry.io/ZFA:0000464), [ZFA:0000524](https://bioregistry.io/ZFA:0000524), ... |
+| `ZFIN:<new dbxref>`        |              6 | [ZFA:0000259](https://bioregistry.io/ZFA:0000259), [ZFA:0000259](https://bioregistry.io/ZFA:0000259), [ZFA:0000344](https://bioregistry.io/ZFA:0000344), [ZFA:0000400](https://bioregistry.io/ZFA:0000400), [ZFA:0000464](https://bioregistry.io/ZFA:0000464), ... |
 | `ZFIN:JCN 421-:189-198`    |              1 | [ZFA:0000443](https://bioregistry.io/ZFA:0000443)                                                                                                                                                                                                                  |
 | `ZFIN:ZDB-PUB-171118-8v`   |              1 | [ZFA:0000704](https://bioregistry.io/ZFA:0000704)                                                                                                                                                                                                                  |
 | `ZFIN:ZDB-PUB-120419-3.`   |              1 | [ZFA:0005877](https://bioregistry.io/ZFA:0005877)                                                                                                                                                                                                                  |

@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `tto`. See the [GitHub rep
 ## `NCBITaxon`: NCBI organismal classification
 
 Overall, there were 6 invalid
-xrefs to external terms in `ncbitaxon` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncbitaxon).
+xrefs to external prefixed with `NCBITaxon` (standardized to Bioregistry
+entry [`ncbitaxon`]((https://bioregistry.io/ncbitaxon)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref       |   usages_count | usages                                            |
 |---------------------|----------------|---------------------------------------------------|
@@ -24,13 +23,12 @@ external resource can be found on the
 ## `TTO`: Teleost taxonomy ontology
 
 Overall, there were 43 invalid
-xrefs to external terms in `tto` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/tto).
+xrefs to external prefixed with `TTO` (standardized to Bioregistry
+entry [`tto`]((https://bioregistry.io/tto)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `TTO:curator`   |             42 | [TTO:1005528](https://bioregistry.io/TTO:1005528), [TTO:1005567](https://bioregistry.io/TTO:1005567), [TTO:1005871](https://bioregistry.io/TTO:1005871), [TTO:1005889](https://bioregistry.io/TTO:1005889), [TTO:1056844](https://bioregistry.io/TTO:1056844), ... |
+| `TTO:curator`   |             42 | [TTO:1005387](https://bioregistry.io/TTO:1005387), [TTO:1005871](https://bioregistry.io/TTO:1005871), [TTO:1048281](https://bioregistry.io/TTO:1048281), [TTO:1053567](https://bioregistry.io/TTO:1053567), [TTO:1054251](https://bioregistry.io/TTO:1054251), ... |
 | `TTO:PEM`       |              1 | [TTO:1007547](https://bioregistry.io/TTO:1007547)                                                                                                                                                                                                                  |
 

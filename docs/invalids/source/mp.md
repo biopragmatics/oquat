@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `mp`. See the [GitHub repo
 ## `GO`: Gene Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `go` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/go).
+xrefs to external prefixed with `GO` (standardized to Bioregistry
+entry [`go`]((https://bioregistry.io/go)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `HPO`: Human Phenotype Ontology
 
 Overall, there were 2 invalid
-xrefs to external terms in `hp` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/hp).
+xrefs to external prefixed with `HPO` (standardized to Bioregistry
+entry [`hp`]((https://bioregistry.io/hp)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -32,53 +30,52 @@ external resource can be found on the
 ## `MESH`: Medical Subject Headings
 
 Overall, there were 832 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MESH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref                              |   usages_count | usages                                                                                                                                                                                                                                                   |
 |--------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MESH:A03.734.414`                         |             10 | [MP:0005215](https://bioregistry.io/MP:0005215), [MP:0005491](https://bioregistry.io/MP:0005491), [MP:0009167](https://bioregistry.io/MP:0009167), [MP:0009171](https://bioregistry.io/MP:0009171), [MP:0009172](https://bioregistry.io/MP:0009172), ... |
-| `MESH:A13.950`                             |              9 | [MP:0001274](https://bioregistry.io/MP:0001274), [MP:0001279](https://bioregistry.io/MP:0001279), [MP:0001281](https://bioregistry.io/MP:0001281), [MP:0001283](https://bioregistry.io/MP:0001283), [MP:0009003](https://bioregistry.io/MP:0009003), ... |
-| `MESH:A10.272.497.500`                     |              7 | [MP:0000378](https://bioregistry.io/MP:0000378), [MP:0000379](https://bioregistry.io/MP:0000379), [MP:0000379](https://bioregistry.io/MP:0000379), [MP:0000382](https://bioregistry.io/MP:0000382), [MP:0011194](https://bioregistry.io/MP:0011194), ... |
-| `MESH:D12.644.276.374.500.800`             |              7 | [MP:0008552](https://bioregistry.io/MP:0008552), [MP:0008553](https://bioregistry.io/MP:0008553), [MP:0008554](https://bioregistry.io/MP:0008554), [MP:0008556](https://bioregistry.io/MP:0008556), [MP:0008561](https://bioregistry.io/MP:0008561), ... |
-| `MESH:A.10.165.114.322`                    |              7 | [MP:0009128](https://bioregistry.io/MP:0009128), [MP:0009135](https://bioregistry.io/MP:0009135), [MP:0009135](https://bioregistry.io/MP:0009135), [MP:0009135](https://bioregistry.io/MP:0009135), [MP:0009136](https://bioregistry.io/MP:0009136), ... |
-| `MESH:A08.340.390.340`                     |              6 | [MP:0000961](https://bioregistry.io/MP:0000961), [MP:0000961](https://bioregistry.io/MP:0000961), [MP:0000964](https://bioregistry.io/MP:0000964), [MP:0008490](https://bioregistry.io/MP:0008490), [MP:0008491](https://bioregistry.io/MP:0008491), ... |
-| `MESH:D06.472.699.587.469.500`             |              6 | [MP:0002695](https://bioregistry.io/MP:0002695), [MP:0002695](https://bioregistry.io/MP:0002695), [MP:0002712](https://bioregistry.io/MP:0002712), [MP:0002712](https://bioregistry.io/MP:0002712), [MP:0002712](https://bioregistry.io/MP:0002712), ... |
-| `MESH:D02.033.100.291.310`                 |              6 | [MP:0003962](https://bioregistry.io/MP:0003962), [MP:0005662](https://bioregistry.io/MP:0005662), [MP:0030761](https://bioregistry.io/MP:0030761), [MP:0030762](https://bioregistry.io/MP:0030762), [MP:0030762](https://bioregistry.io/MP:0030762), ... |
-| `MESH:A03.556.875.875.440.854`             |              6 | [MP:0008952](https://bioregistry.io/MP:0008952), [MP:0009181](https://bioregistry.io/MP:0009181), [MP:0009183](https://bioregistry.io/MP:0009183), [MP:0009183](https://bioregistry.io/MP:0009183), [MP:0009183](https://bioregistry.io/MP:0009183), ... |
-| `MESH:D06.472.931.812`                     |              6 | [MP:0005469](https://bioregistry.io/MP:0005469), [MP:0005470](https://bioregistry.io/MP:0005470), [MP:0005470](https://bioregistry.io/MP:0005470), [MP:0005470](https://bioregistry.io/MP:0005470), [MP:0005478](https://bioregistry.io/MP:0005478), ... |
-| `MESH:A06.407.747.608.937`                 |              6 | [MP:0008322](https://bioregistry.io/MP:0008322), [MP:0008328](https://bioregistry.io/MP:0008328), [MP:0008328](https://bioregistry.io/MP:0008328), [MP:0008330](https://bioregistry.io/MP:0008330), [MP:0008416](https://bioregistry.io/MP:0008416), ... |
-| `MESH:A06.407.747.608.812`                 |              6 | [MP:0008331](https://bioregistry.io/MP:0008331), [MP:0008332](https://bioregistry.io/MP:0008332), [MP:0008333](https://bioregistry.io/MP:0008333), [MP:0008333](https://bioregistry.io/MP:0008333), [MP:0008422](https://bioregistry.io/MP:0008422), ... |
-| `MESH:A06.407.747.608.750`                 |              6 | [MP:0008335](https://bioregistry.io/MP:0008335), [MP:0008335](https://bioregistry.io/MP:0008335), [MP:0008336](https://bioregistry.io/MP:0008336), [MP:0008336](https://bioregistry.io/MP:0008336), [MP:0008336](https://bioregistry.io/MP:0008336), ... |
-| `MESH:A06.407.747.608.968`                 |              6 | [MP:0008339](https://bioregistry.io/MP:0008339), [MP:0008420](https://bioregistry.io/MP:0008420), [MP:0008420](https://bioregistry.io/MP:0008420), [MP:0008421](https://bioregistry.io/MP:0008421), [MP:0008421](https://bioregistry.io/MP:0008421), ... |
-| `MESH:A06.407.747.608.500`                 |              6 | [MP:0008327](https://bioregistry.io/MP:0008327), [MP:0008340](https://bioregistry.io/MP:0008340), [MP:0008340](https://bioregistry.io/MP:0008340), [MP:0008426](https://bioregistry.io/MP:0008426), [MP:0008427](https://bioregistry.io/MP:0008427), ... |
-| `MESH:D12.644.276.374.440.890.250`         |              6 | [MP:0008549](https://bioregistry.io/MP:0008549), [MP:0008562](https://bioregistry.io/MP:0008562), [MP:0008563](https://bioregistry.io/MP:0008563), [MP:0008563](https://bioregistry.io/MP:0008563), [MP:0008573](https://bioregistry.io/MP:0008573), ... |
-| `MESH:D12.644.276.374.440.890.275`         |              6 | [MP:0008558](https://bioregistry.io/MP:0008558), [MP:0008564](https://bioregistry.io/MP:0008564), [MP:0008564](https://bioregistry.io/MP:0008564), [MP:0008565](https://bioregistry.io/MP:0008565), [MP:0008576](https://bioregistry.io/MP:0008576), ... |
-| `MESH:D12.644.276.374.440.893`             |              6 | [MP:0008551](https://bioregistry.io/MP:0008551), [MP:0008551](https://bioregistry.io/MP:0008551), [MP:0008559](https://bioregistry.io/MP:0008559), [MP:0008566](https://bioregistry.io/MP:0008566), [MP:0008567](https://bioregistry.io/MP:0008567), ... |
-| `MESH:D12.644.276.374.465.501`             |              6 | [MP:0008589](https://bioregistry.io/MP:0008589), [MP:0008591](https://bioregistry.io/MP:0008591), [MP:0008650](https://bioregistry.io/MP:0008650), [MP:0008651](https://bioregistry.io/MP:0008651), [MP:0008652](https://bioregistry.io/MP:0008652), ... |
-| `MESH:D12.644.276.374.465.510`             |              6 | [MP:0008590](https://bioregistry.io/MP:0008590), [MP:0008659](https://bioregistry.io/MP:0008659), [MP:0008661](https://bioregistry.io/MP:0008661), [MP:0008661](https://bioregistry.io/MP:0008661), [MP:0008661](https://bioregistry.io/MP:0008661), ... |
-| `MESH:D12.644.276.374.465.506`             |              6 | [MP:0008595](https://bioregistry.io/MP:0008595), [MP:0008597](https://bioregistry.io/MP:0008597), [MP:0008705](https://bioregistry.io/MP:0008705), [MP:0008705](https://bioregistry.io/MP:0008705), [MP:0008705](https://bioregistry.io/MP:0008705), ... |
-| `MESH:D12.644.276.374.465.502`             |              6 | [MP:0008598](https://bioregistry.io/MP:0008598), [MP:0008599](https://bioregistry.io/MP:0008599), [MP:0008600](https://bioregistry.io/MP:0008600), [MP:0008686](https://bioregistry.io/MP:0008686), [MP:0008688](https://bioregistry.io/MP:0008688), ... |
-| `MESH:D12.644.276.374.465.504`             |              6 | [MP:0008601](https://bioregistry.io/MP:0008601), [MP:0008602](https://bioregistry.io/MP:0008602), [MP:0008602](https://bioregistry.io/MP:0008602), [MP:0008603](https://bioregistry.io/MP:0008603), [MP:0008700](https://bioregistry.io/MP:0008700), ... |
-| `MESH:D12.644.276.374.465.507`             |              6 | [MP:0008605](https://bioregistry.io/MP:0008605), [MP:0008606](https://bioregistry.io/MP:0008606), [MP:0008606](https://bioregistry.io/MP:0008606), [MP:0008707](https://bioregistry.io/MP:0008707), [MP:0008709](https://bioregistry.io/MP:0008709), ... |
-| `MESH:D12.644.276.374.465.513`             |              6 | [MP:0008608](https://bioregistry.io/MP:0008608), [MP:0008608](https://bioregistry.io/MP:0008608), [MP:0008673](https://bioregistry.io/MP:0008673), [MP:0008673](https://bioregistry.io/MP:0008673), [MP:0008673](https://bioregistry.io/MP:0008673), ... |
-| `MESH:D12.644.276.374.465.515`             |              6 | [MP:0008611](https://bioregistry.io/MP:0008611), [MP:0008612](https://bioregistry.io/MP:0008612), [MP:0008674](https://bioregistry.io/MP:0008674), [MP:0008675](https://bioregistry.io/MP:0008675), [MP:0008676](https://bioregistry.io/MP:0008676), ... |
-| `MESH:D12.644.276.374.465.517`             |              6 | [MP:0008614](https://bioregistry.io/MP:0008614), [MP:0008680](https://bioregistry.io/MP:0008680), [MP:0008681](https://bioregistry.io/MP:0008681), [MP:0008681](https://bioregistry.io/MP:0008681), [MP:0008682](https://bioregistry.io/MP:0008682), ... |
-| `MESH:D12.644.276.374.465.512`             |              6 | [MP:0008616](https://bioregistry.io/MP:0008616), [MP:0008617](https://bioregistry.io/MP:0008617), [MP:0008618](https://bioregistry.io/MP:0008618), [MP:0008663](https://bioregistry.io/MP:0008663), [MP:0008663](https://bioregistry.io/MP:0008663), ... |
-| `MESH:D12.644.276.374.465.759`             |              6 | [MP:0008619](https://bioregistry.io/MP:0008619), [MP:0008620](https://bioregistry.io/MP:0008620), [MP:0008621](https://bioregistry.io/MP:0008621), [MP:0008690](https://bioregistry.io/MP:0008690), [MP:0008691](https://bioregistry.io/MP:0008691), ... |
-| `MESH:D12.644.276.374.410.240.400`         |              6 | [MP:0008623](https://bioregistry.io/MP:0008623), [MP:0008695](https://bioregistry.io/MP:0008695), [MP:0008696](https://bioregistry.io/MP:0008696), [MP:0008697](https://bioregistry.io/MP:0008697), [MP:0008697](https://bioregistry.io/MP:0008697), ... |
-| `MESH:D12.644.276.374.465.505`             |              6 | [MP:0008625](https://bioregistry.io/MP:0008625), [MP:0008701](https://bioregistry.io/MP:0008701), [MP:0008701](https://bioregistry.io/MP:0008701), [MP:0008702](https://bioregistry.io/MP:0008702), [MP:0008703](https://bioregistry.io/MP:0008703), ... |
-| `MESH:D12.644.276.374.465.509`             |              6 | [MP:0008710](https://bioregistry.io/MP:0008710), [MP:0008710](https://bioregistry.io/MP:0008710), [MP:0008711](https://bioregistry.io/MP:0008711), [MP:0008712](https://bioregistry.io/MP:0008712), [MP:0008712](https://bioregistry.io/MP:0008712), ... |
-| `MESH:D12.644.276.374.465.516`             |              6 | [MP:0008632](https://bioregistry.io/MP:0008632), [MP:0008633](https://bioregistry.io/MP:0008633), [MP:0008677](https://bioregistry.io/MP:0008677), [MP:0008677](https://bioregistry.io/MP:0008677), [MP:0008678](https://bioregistry.io/MP:0008678), ... |
-| `MESH:D12.644.276.374.465.518`             |              6 | [MP:0008634](https://bioregistry.io/MP:0008634), [MP:0008634](https://bioregistry.io/MP:0008634), [MP:0008635](https://bioregistry.io/MP:0008635), [MP:0008636](https://bioregistry.io/MP:0008636), [MP:0008683](https://bioregistry.io/MP:0008683), ... |
-| `MESH:D12.644.276.374.465.501.300`         |              6 | [MP:0008637](https://bioregistry.io/MP:0008637), [MP:0008639](https://bioregistry.io/MP:0008639), [MP:0008639](https://bioregistry.io/MP:0008639), [MP:0008653](https://bioregistry.io/MP:0008653), [MP:0008655](https://bioregistry.io/MP:0008655), ... |
-| `MESH:D12.644.276.374.465.501.600`         |              6 | [MP:0008642](https://bioregistry.io/MP:0008642), [MP:0008656](https://bioregistry.io/MP:0008656), [MP:0008657](https://bioregistry.io/MP:0008657), [MP:0008658](https://bioregistry.io/MP:0008658), [MP:0008658](https://bioregistry.io/MP:0008658), ... |
-| `MESH:D12.644.276.374.465.512.249`         |              6 | [MP:0008643](https://bioregistry.io/MP:0008643), [MP:0008643](https://bioregistry.io/MP:0008643), [MP:0008644](https://bioregistry.io/MP:0008644), [MP:0008644](https://bioregistry.io/MP:0008644), [MP:0008665](https://bioregistry.io/MP:0008665), ... |
-| `MESH:D12.644.276.374.465.512.500`         |              6 | [MP:0008646](https://bioregistry.io/MP:0008646), [MP:0008647](https://bioregistry.io/MP:0008647), [MP:0008648](https://bioregistry.io/MP:0008648), [MP:0008648](https://bioregistry.io/MP:0008648), [MP:0008669](https://bioregistry.io/MP:0008669), ... |
-| `MESH:D08.811.277.450.066`                 |              6 | [MP:0008804](https://bioregistry.io/MP:0008804), [MP:0008804](https://bioregistry.io/MP:0008804), [MP:0008805](https://bioregistry.io/MP:0008805), [MP:0008805](https://bioregistry.io/MP:0008805), [MP:0008805](https://bioregistry.io/MP:0008805), ... |
-| `MESH:A03.734.414.587`                     |              6 | [MP:0009184](https://bioregistry.io/MP:0009184), [MP:0009185](https://bioregistry.io/MP:0009185), [MP:0009186](https://bioregistry.io/MP:0009186), [MP:0009186](https://bioregistry.io/MP:0009186), [MP:0009188](https://bioregistry.io/MP:0009188), ... |
+| `MESH:A03.734.414`                         |             10 | [MP:0005491](https://bioregistry.io/MP:0005491), [MP:0009166](https://bioregistry.io/MP:0009166), [MP:0009168](https://bioregistry.io/MP:0009168), [MP:0009170](https://bioregistry.io/MP:0009170), [MP:0009172](https://bioregistry.io/MP:0009172), ... |
+| `MESH:A13.950`                             |              9 | [MP:0001279](https://bioregistry.io/MP:0001279), [MP:0001283](https://bioregistry.io/MP:0001283), [MP:0001283](https://bioregistry.io/MP:0001283), [MP:0001283](https://bioregistry.io/MP:0001283), [MP:0001284](https://bioregistry.io/MP:0001284), ... |
+| `MESH:A10.272.497.500`                     |              7 | [MP:0000377](https://bioregistry.io/MP:0000377), [MP:0000380](https://bioregistry.io/MP:0000380), [MP:0000381](https://bioregistry.io/MP:0000381), [MP:0000381](https://bioregistry.io/MP:0000381), [MP:0000382](https://bioregistry.io/MP:0000382), ... |
+| `MESH:D12.644.276.374.500.800`             |              7 | [MP:0008552](https://bioregistry.io/MP:0008552), [MP:0008553](https://bioregistry.io/MP:0008553), [MP:0008560](https://bioregistry.io/MP:0008560), [MP:0008560](https://bioregistry.io/MP:0008560), [MP:0008752](https://bioregistry.io/MP:0008752), ... |
+| `MESH:A.10.165.114.322`                    |              7 | [MP:0009116](https://bioregistry.io/MP:0009116), [MP:0009119](https://bioregistry.io/MP:0009119), [MP:0009119](https://bioregistry.io/MP:0009119), [MP:0009135](https://bioregistry.io/MP:0009135), [MP:0009135](https://bioregistry.io/MP:0009135), ... |
+| `MESH:A08.340.390.340`                     |              6 | [MP:0008460](https://bioregistry.io/MP:0008460), [MP:0008460](https://bioregistry.io/MP:0008460), [MP:0008490](https://bioregistry.io/MP:0008490), [MP:0008490](https://bioregistry.io/MP:0008490), [MP:0008491](https://bioregistry.io/MP:0008491), ... |
+| `MESH:D06.472.699.587.469.500`             |              6 | [MP:0002695](https://bioregistry.io/MP:0002695), [MP:0002696](https://bioregistry.io/MP:0002696), [MP:0002696](https://bioregistry.io/MP:0002696), [MP:0002711](https://bioregistry.io/MP:0002711), [MP:0003565](https://bioregistry.io/MP:0003565), ... |
+| `MESH:D02.033.100.291.310`                 |              6 | [MP:0005662](https://bioregistry.io/MP:0005662), [MP:0005662](https://bioregistry.io/MP:0005662), [MP:0030762](https://bioregistry.io/MP:0030762), [MP:0030762](https://bioregistry.io/MP:0030762), [MP:0030762](https://bioregistry.io/MP:0030762), ... |
+| `MESH:A03.556.875.875.440.854`             |              6 | [MP:0009180](https://bioregistry.io/MP:0009180), [MP:0009180](https://bioregistry.io/MP:0009180), [MP:0009181](https://bioregistry.io/MP:0009181), [MP:0009182](https://bioregistry.io/MP:0009182), [MP:0009183](https://bioregistry.io/MP:0009183), ... |
+| `MESH:D06.472.931.812`                     |              6 | [MP:0005471](https://bioregistry.io/MP:0005471), [MP:0005471](https://bioregistry.io/MP:0005471), [MP:0005475](https://bioregistry.io/MP:0005475), [MP:0005475](https://bioregistry.io/MP:0005475), [MP:0005477](https://bioregistry.io/MP:0005477), ... |
+| `MESH:A06.407.747.608.937`                 |              6 | [MP:0008322](https://bioregistry.io/MP:0008322), [MP:0008329](https://bioregistry.io/MP:0008329), [MP:0008330](https://bioregistry.io/MP:0008330), [MP:0008416](https://bioregistry.io/MP:0008416), [MP:0008417](https://bioregistry.io/MP:0008417), ... |
+| `MESH:A06.407.747.608.812`                 |              6 | [MP:0008332](https://bioregistry.io/MP:0008332), [MP:0008332](https://bioregistry.io/MP:0008332), [MP:0008333](https://bioregistry.io/MP:0008333), [MP:0008422](https://bioregistry.io/MP:0008422), [MP:0008423](https://bioregistry.io/MP:0008423), ... |
+| `MESH:A06.407.747.608.750`                 |              6 | [MP:0008325](https://bioregistry.io/MP:0008325), [MP:0008335](https://bioregistry.io/MP:0008335), [MP:0008424](https://bioregistry.io/MP:0008424), [MP:0008424](https://bioregistry.io/MP:0008424), [MP:0008425](https://bioregistry.io/MP:0008425), ... |
+| `MESH:A06.407.747.608.968`                 |              6 | [MP:0008337](https://bioregistry.io/MP:0008337), [MP:0008337](https://bioregistry.io/MP:0008337), [MP:0008338](https://bioregistry.io/MP:0008338), [MP:0008338](https://bioregistry.io/MP:0008338), [MP:0008420](https://bioregistry.io/MP:0008420), ... |
+| `MESH:A06.407.747.608.500`                 |              6 | [MP:0008341](https://bioregistry.io/MP:0008341), [MP:0008341](https://bioregistry.io/MP:0008341), [MP:0008426](https://bioregistry.io/MP:0008426), [MP:0008426](https://bioregistry.io/MP:0008426), [MP:0008427](https://bioregistry.io/MP:0008427), ... |
+| `MESH:D12.644.276.374.440.890.250`         |              6 | [MP:0008557](https://bioregistry.io/MP:0008557), [MP:0008563](https://bioregistry.io/MP:0008563), [MP:0008563](https://bioregistry.io/MP:0008563), [MP:0008573](https://bioregistry.io/MP:0008573), [MP:0008574](https://bioregistry.io/MP:0008574), ... |
+| `MESH:D12.644.276.374.440.890.275`         |              6 | [MP:0008564](https://bioregistry.io/MP:0008564), [MP:0008565](https://bioregistry.io/MP:0008565), [MP:0008575](https://bioregistry.io/MP:0008575), [MP:0008575](https://bioregistry.io/MP:0008575), [MP:0008576](https://bioregistry.io/MP:0008576), ... |
+| `MESH:D12.644.276.374.440.893`             |              6 | [MP:0008559](https://bioregistry.io/MP:0008559), [MP:0008566](https://bioregistry.io/MP:0008566), [MP:0008577](https://bioregistry.io/MP:0008577), [MP:0008577](https://bioregistry.io/MP:0008577), [MP:0008578](https://bioregistry.io/MP:0008578), ... |
+| `MESH:D12.644.276.374.465.501`             |              6 | [MP:0008592](https://bioregistry.io/MP:0008592), [MP:0008592](https://bioregistry.io/MP:0008592), [MP:0008651](https://bioregistry.io/MP:0008651), [MP:0008652](https://bioregistry.io/MP:0008652), [MP:0008652](https://bioregistry.io/MP:0008652), ... |
+| `MESH:D12.644.276.374.465.510`             |              6 | [MP:0008590](https://bioregistry.io/MP:0008590), [MP:0008593](https://bioregistry.io/MP:0008593), [MP:0008594](https://bioregistry.io/MP:0008594), [MP:0008594](https://bioregistry.io/MP:0008594), [MP:0008660](https://bioregistry.io/MP:0008660), ... |
+| `MESH:D12.644.276.374.465.506`             |              6 | [MP:0008595](https://bioregistry.io/MP:0008595), [MP:0008595](https://bioregistry.io/MP:0008595), [MP:0008597](https://bioregistry.io/MP:0008597), [MP:0008704](https://bioregistry.io/MP:0008704), [MP:0008706](https://bioregistry.io/MP:0008706), ... |
+| `MESH:D12.644.276.374.465.502`             |              6 | [MP:0008598](https://bioregistry.io/MP:0008598), [MP:0008599](https://bioregistry.io/MP:0008599), [MP:0008686](https://bioregistry.io/MP:0008686), [MP:0008686](https://bioregistry.io/MP:0008686), [MP:0008687](https://bioregistry.io/MP:0008687), ... |
+| `MESH:D12.644.276.374.465.504`             |              6 | [MP:0008601](https://bioregistry.io/MP:0008601), [MP:0008602](https://bioregistry.io/MP:0008602), [MP:0008602](https://bioregistry.io/MP:0008602), [MP:0008602](https://bioregistry.io/MP:0008602), [MP:0008698](https://bioregistry.io/MP:0008698), ... |
+| `MESH:D12.644.276.374.465.507`             |              6 | [MP:0008604](https://bioregistry.io/MP:0008604), [MP:0008604](https://bioregistry.io/MP:0008604), [MP:0008708](https://bioregistry.io/MP:0008708), [MP:0008708](https://bioregistry.io/MP:0008708), [MP:0008709](https://bioregistry.io/MP:0008709), ... |
+| `MESH:D12.644.276.374.465.513`             |              6 | [MP:0008608](https://bioregistry.io/MP:0008608), [MP:0008609](https://bioregistry.io/MP:0008609), [MP:0008609](https://bioregistry.io/MP:0008609), [MP:0008671](https://bioregistry.io/MP:0008671), [MP:0008673](https://bioregistry.io/MP:0008673), ... |
+| `MESH:D12.644.276.374.465.515`             |              6 | [MP:0008610](https://bioregistry.io/MP:0008610), [MP:0008674](https://bioregistry.io/MP:0008674), [MP:0008674](https://bioregistry.io/MP:0008674), [MP:0008674](https://bioregistry.io/MP:0008674), [MP:0008675](https://bioregistry.io/MP:0008675), ... |
+| `MESH:D12.644.276.374.465.517`             |              6 | [MP:0008614](https://bioregistry.io/MP:0008614), [MP:0008614](https://bioregistry.io/MP:0008614), [MP:0008614](https://bioregistry.io/MP:0008614), [MP:0008682](https://bioregistry.io/MP:0008682), [MP:0008682](https://bioregistry.io/MP:0008682), ... |
+| `MESH:D12.644.276.374.465.512`             |              6 | [MP:0008617](https://bioregistry.io/MP:0008617), [MP:0008663](https://bioregistry.io/MP:0008663), [MP:0008663](https://bioregistry.io/MP:0008663), [MP:0008664](https://bioregistry.io/MP:0008664), [MP:0008664](https://bioregistry.io/MP:0008664), ... |
+| `MESH:D12.644.276.374.465.759`             |              6 | [MP:0008619](https://bioregistry.io/MP:0008619), [MP:0008620](https://bioregistry.io/MP:0008620), [MP:0008620](https://bioregistry.io/MP:0008620), [MP:0008689](https://bioregistry.io/MP:0008689), [MP:0008689](https://bioregistry.io/MP:0008689), ... |
+| `MESH:D12.644.276.374.410.240.400`         |              6 | [MP:0008622](https://bioregistry.io/MP:0008622), [MP:0008623](https://bioregistry.io/MP:0008623), [MP:0008624](https://bioregistry.io/MP:0008624), [MP:0008695](https://bioregistry.io/MP:0008695), [MP:0008697](https://bioregistry.io/MP:0008697), ... |
+| `MESH:D12.644.276.374.465.505`             |              6 | [MP:0008626](https://bioregistry.io/MP:0008626), [MP:0008626](https://bioregistry.io/MP:0008626), [MP:0008627](https://bioregistry.io/MP:0008627), [MP:0008701](https://bioregistry.io/MP:0008701), [MP:0008703](https://bioregistry.io/MP:0008703), ... |
+| `MESH:D12.644.276.374.465.509`             |              6 | [MP:0008629](https://bioregistry.io/MP:0008629), [MP:0008629](https://bioregistry.io/MP:0008629), [MP:0008630](https://bioregistry.io/MP:0008630), [MP:0008710](https://bioregistry.io/MP:0008710), [MP:0008711](https://bioregistry.io/MP:0008711), ... |
+| `MESH:D12.644.276.374.465.516`             |              6 | [MP:0008631](https://bioregistry.io/MP:0008631), [MP:0008633](https://bioregistry.io/MP:0008633), [MP:0008677](https://bioregistry.io/MP:0008677), [MP:0008677](https://bioregistry.io/MP:0008677), [MP:0008677](https://bioregistry.io/MP:0008677), ... |
+| `MESH:D12.644.276.374.465.518`             |              6 | [MP:0008634](https://bioregistry.io/MP:0008634), [MP:0008635](https://bioregistry.io/MP:0008635), [MP:0008635](https://bioregistry.io/MP:0008635), [MP:0008635](https://bioregistry.io/MP:0008635), [MP:0008685](https://bioregistry.io/MP:0008685), ... |
+| `MESH:D12.644.276.374.465.501.300`         |              6 | [MP:0008638](https://bioregistry.io/MP:0008638), [MP:0008639](https://bioregistry.io/MP:0008639), [MP:0008653](https://bioregistry.io/MP:0008653), [MP:0008654](https://bioregistry.io/MP:0008654), [MP:0008654](https://bioregistry.io/MP:0008654), ... |
+| `MESH:D12.644.276.374.465.501.600`         |              6 | [MP:0008642](https://bioregistry.io/MP:0008642), [MP:0008656](https://bioregistry.io/MP:0008656), [MP:0008657](https://bioregistry.io/MP:0008657), [MP:0008657](https://bioregistry.io/MP:0008657), [MP:0008658](https://bioregistry.io/MP:0008658), ... |
+| `MESH:D12.644.276.374.465.512.249`         |              6 | [MP:0008644](https://bioregistry.io/MP:0008644), [MP:0008645](https://bioregistry.io/MP:0008645), [MP:0008665](https://bioregistry.io/MP:0008665), [MP:0008666](https://bioregistry.io/MP:0008666), [MP:0008667](https://bioregistry.io/MP:0008667), ... |
+| `MESH:D12.644.276.374.465.512.500`         |              6 | [MP:0008646](https://bioregistry.io/MP:0008646), [MP:0008647](https://bioregistry.io/MP:0008647), [MP:0008647](https://bioregistry.io/MP:0008647), [MP:0008648](https://bioregistry.io/MP:0008648), [MP:0008648](https://bioregistry.io/MP:0008648), ... |
+| `MESH:D08.811.277.450.066`                 |              6 | [MP:0008804](https://bioregistry.io/MP:0008804), [MP:0008805](https://bioregistry.io/MP:0008805), [MP:0008806](https://bioregistry.io/MP:0008806), [MP:0008806](https://bioregistry.io/MP:0008806), [MP:0008806](https://bioregistry.io/MP:0008806), ... |
+| `MESH:A03.734.414.587`                     |              6 | [MP:0009184](https://bioregistry.io/MP:0009184), [MP:0009185](https://bioregistry.io/MP:0009185), [MP:0009187](https://bioregistry.io/MP:0009187), [MP:0009187](https://bioregistry.io/MP:0009187), [MP:0009188](https://bioregistry.io/MP:0009188), ... |
 | `MESH:A08.637.600`                         |              5 | [MP:0000953](https://bioregistry.io/MP:0000953), [MP:0003647](https://bioregistry.io/MP:0003647), [MP:0008917](https://bioregistry.io/MP:0008917), [MP:0009808](https://bioregistry.io/MP:0009808), [MP:0010160](https://bioregistry.io/MP:0010160)      |
 | `MESH:A08.663.650.650.670.650`             |              5 | [MP:0001005](https://bioregistry.io/MP:0001005), [MP:0008451](https://bioregistry.io/MP:0008451), [MP:0008452](https://bioregistry.io/MP:0008452), [MP:0008453](https://bioregistry.io/MP:0008453), [MP:0008454](https://bioregistry.io/MP:0008454)      |
 | `MESH:A08.663.650.650.670.100`             |              5 | [MP:0001006](https://bioregistry.io/MP:0001006), [MP:0008444](https://bioregistry.io/MP:0008444), [MP:0008445](https://bioregistry.io/MP:0008445), [MP:0008446](https://bioregistry.io/MP:0008446), [MP:0008447](https://bioregistry.io/MP:0008447)      |
@@ -462,55 +459,53 @@ external resource can be found on the
 ## `MeSH`: Medical Subject Headings
 
 Overall, there were 9 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MeSH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref                  |   usages_count | usages                                                                                                                                                                                                                                                   |
 |--------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MeSH:D08.811.682.047.551.400` |              6 | [MP:0002944](https://bioregistry.io/MP:0002944), [MP:0011970](https://bioregistry.io/MP:0011970), [MP:0011970](https://bioregistry.io/MP:0011970), [MP:0011971](https://bioregistry.io/MP:0011971), [MP:0011972](https://bioregistry.io/MP:0011972), ... |
+| `MeSH:D08.811.682.047.551.400` |              6 | [MP:0002943](https://bioregistry.io/MP:0002943), [MP:0002943](https://bioregistry.io/MP:0002943), [MP:0002944](https://bioregistry.io/MP:0002944), [MP:0002944](https://bioregistry.io/MP:0002944), [MP:0011970](https://bioregistry.io/MP:0011970), ... |
 | `MeSH:D12.776.124.125.350`     |              3 | [MP:0012327](https://bioregistry.io/MP:0012327), [MP:0012328](https://bioregistry.io/MP:0012328), [MP:0012329](https://bioregistry.io/MP:0012329)                                                                                                        |
 
 ## `MGI`: Mouse Genome Informatics
 
 Overall, there were 8,616 invalid
-xrefs to external terms in `mgi` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mgi).
+xrefs to external prefixed with `MGI` (standardized to Bioregistry
+entry [`mgi`]((https://bioregistry.io/mgi)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MGI:csmith`          |           3025 | [MP:0001809](https://bioregistry.io/MP:0001809), [MP:0003725](https://bioregistry.io/MP:0003725), [MP:0009501](https://bioregistry.io/MP:0009501), [MP:0009756](https://bioregistry.io/MP:0009756), [MP:0011500](https://bioregistry.io/MP:0011500), ... |
-| `MGI:anna`            |           2765 | [MP:0009536](https://bioregistry.io/MP:0009536), [MP:0010863](https://bioregistry.io/MP:0010863), [MP:0013311](https://bioregistry.io/MP:0013311), [MP:0013338](https://bioregistry.io/MP:0013338), [MP:0030868](https://bioregistry.io/MP:0030868), ... |
-| `MGI:smb`             |            942 | [MP:0003132](https://bioregistry.io/MP:0003132), [MP:0003135](https://bioregistry.io/MP:0003135), [MP:0006154](https://bioregistry.io/MP:0006154), [MP:0006262](https://bioregistry.io/MP:0006262), [MP:0009778](https://bioregistry.io/MP:0009778), ... |
-| `MGI:cwg`             |            598 | [MP:0001070](https://bioregistry.io/MP:0001070), [MP:0002523](https://bioregistry.io/MP:0002523), [MP:0005060](https://bioregistry.io/MP:0005060), [MP:0005489](https://bioregistry.io/MP:0005489), [MP:0005526](https://bioregistry.io/MP:0005526), ... |
-| `MGI:llw2`            |            377 | [MP:0002789](https://bioregistry.io/MP:0002789), [MP:0003174](https://bioregistry.io/MP:0003174), [MP:0008434](https://bioregistry.io/MP:0008434), [MP:0008732](https://bioregistry.io/MP:0008732), [MP:0010370](https://bioregistry.io/MP:0010370), ... |
-| `MGI:Ahmad_Retha`     |            122 | [MP:0013045](https://bioregistry.io/MP:0013045), [MP:0013089](https://bioregistry.io/MP:0013089), [MP:0013093](https://bioregistry.io/MP:0013093), [MP:0013130](https://bioregistry.io/MP:0013130), [MP:0013142](https://bioregistry.io/MP:0013142), ... |
-| `MGI:monikat`         |            118 | [MP:0004139](https://bioregistry.io/MP:0004139), [MP:0004141](https://bioregistry.io/MP:0004141), [MP:0004691](https://bioregistry.io/MP:0004691), [MP:0006263](https://bioregistry.io/MP:0006263), [MP:0008031](https://bioregistry.io/MP:0008031), ... |
-| `MGI:pvb`             |             99 | [MP:0002742](https://bioregistry.io/MP:0002742), [MP:0002745](https://bioregistry.io/MP:0002745), [MP:0002789](https://bioregistry.io/MP:0002789), [MP:0002835](https://bioregistry.io/MP:0002835), [MP:0003053](https://bioregistry.io/MP:0003053), ... |
-| `MGI:Saran`           |             67 | [MP:0013674](https://bioregistry.io/MP:0013674), [MP:0013675](https://bioregistry.io/MP:0013675), [MP:0013679](https://bioregistry.io/MP:0013679), [MP:0013683](https://bioregistry.io/MP:0013683), [MP:0013686](https://bioregistry.io/MP:0013686), ... |
-| `MGI:tc`              |             61 | [MP:0000467](https://bioregistry.io/MP:0000467), [MP:0000509](https://bioregistry.io/MP:0000509), [MP:0000533](https://bioregistry.io/MP:0000533), [MP:0000764](https://bioregistry.io/MP:0000764), [MP:0001867](https://bioregistry.io/MP:0001867), ... |
-| `MGI:brs`             |             44 | [MP:0003847](https://bioregistry.io/MP:0003847), [MP:0003890](https://bioregistry.io/MP:0003890), [MP:0003994](https://bioregistry.io/MP:0003994), [MP:0004148](https://bioregistry.io/MP:0004148), [MP:0004149](https://bioregistry.io/MP:0004149), ... |
-| `MGI:CFG`             |             33 | [MP:0001413](https://bioregistry.io/MP:0001413), [MP:0002559](https://bioregistry.io/MP:0002559), [MP:0002564](https://bioregistry.io/MP:0002564), [MP:0002798](https://bioregistry.io/MP:0002798), [MP:0003107](https://bioregistry.io/MP:0003107), ... |
-| `MGI:mberry`          |             33 | [MP:0003850](https://bioregistry.io/MP:0003850), [MP:0008862](https://bioregistry.io/MP:0008862), [MP:0009487](https://bioregistry.io/MP:0009487), [MP:0009553](https://bioregistry.io/MP:0009553), [MP:0009829](https://bioregistry.io/MP:0009829), ... |
-| `MGI:tmeehan`         |             33 | [MP:0008754](https://bioregistry.io/MP:0008754), [MP:0008764](https://bioregistry.io/MP:0008764), [MP:0008764](https://bioregistry.io/MP:0008764), [MP:0009058](https://bioregistry.io/MP:0009058), [MP:0009061](https://bioregistry.io/MP:0009061), ... |
-| `MGI:hdene`           |             31 | [MP:0002826](https://bioregistry.io/MP:0002826), [MP:0003011](https://bioregistry.io/MP:0003011), [MP:0005621](https://bioregistry.io/MP:0005621), [MP:0005621](https://bioregistry.io/MP:0005621), [MP:0008997](https://bioregistry.io/MP:0008997), ... |
-| `MGI:Nmice`           |             31 | [MP:0003463](https://bioregistry.io/MP:0003463), [MP:0003470](https://bioregistry.io/MP:0003470), [MP:0003477](https://bioregistry.io/MP:0003477), [MP:0003477](https://bioregistry.io/MP:0003477), [MP:0003479](https://bioregistry.io/MP:0003479), ... |
-| `MGI:cml`             |             25 | [MP:0000536](https://bioregistry.io/MP:0000536), [MP:0001395](https://bioregistry.io/MP:0001395), [MP:0001512](https://bioregistry.io/MP:0001512), [MP:0002055](https://bioregistry.io/MP:0002055), [MP:0002728](https://bioregistry.io/MP:0002728), ... |
-| `MGI:mnk`             |             25 | [MP:0003031](https://bioregistry.io/MP:0003031), [MP:0008869](https://bioregistry.io/MP:0008869), [MP:0008871](https://bioregistry.io/MP:0008871), [MP:0009277](https://bioregistry.io/MP:0009277), [MP:0011195](https://bioregistry.io/MP:0011195), ... |
-| `MGI:rbabiuk`         |             24 | [MP:0004083](https://bioregistry.io/MP:0004083), [MP:0004083](https://bioregistry.io/MP:0004083), [MP:0006283](https://bioregistry.io/MP:0006283), [MP:0006283](https://bioregistry.io/MP:0006283), [MP:0006319](https://bioregistry.io/MP:0006319), ... |
-| `MGI:jwhite`          |             22 | [MP:0013628](https://bioregistry.io/MP:0013628), [MP:0013632](https://bioregistry.io/MP:0013632), [MP:0013637](https://bioregistry.io/MP:0013637), [MP:0013643](https://bioregistry.io/MP:0013643), [MP:0013645](https://bioregistry.io/MP:0013645), ... |
-| `MGI:il`              |             21 | [MP:0001731](https://bioregistry.io/MP:0001731), [MP:0001889](https://bioregistry.io/MP:0001889), [MP:0002689](https://bioregistry.io/MP:0002689), [MP:0002732](https://bioregistry.io/MP:0002732), [MP:0002830](https://bioregistry.io/MP:0002830), ... |
-| `MGI:Annie_Speak`     |             16 | [MP:0013023](https://bioregistry.io/MP:0013023), [MP:0013025](https://bioregistry.io/MP:0013025), [MP:0013026](https://bioregistry.io/MP:0013026), [MP:0013299](https://bioregistry.io/MP:0013299), [MP:0013804](https://bioregistry.io/MP:0013804), ... |
-| `MGI:Colin_McKerlie`  |             13 | [MP:0011875](https://bioregistry.io/MP:0011875), [MP:0011875](https://bioregistry.io/MP:0011875), [MP:0011878](https://bioregistry.io/MP:0011878), [MP:0011879](https://bioregistry.io/MP:0011879), [MP:0011881](https://bioregistry.io/MP:0011881), ... |
-| `MGI:acv`             |             11 | [MP:0003156](https://bioregistry.io/MP:0003156), [MP:0003884](https://bioregistry.io/MP:0003884), [MP:0003884](https://bioregistry.io/MP:0003884), [MP:0004191](https://bioregistry.io/MP:0004191), [MP:0004254](https://bioregistry.io/MP:0004254), ... |
-| `MGI:Abeler-Dorner`   |             10 | [MP:0013881](https://bioregistry.io/MP:0013881), [MP:0013881](https://bioregistry.io/MP:0013881), [MP:0013883](https://bioregistry.io/MP:0013883), [MP:0013884](https://bioregistry.io/MP:0013884), [MP:0013885](https://bioregistry.io/MP:0013885), ... |
-| `MGI:dlb`             |              9 | [MP:0001255](https://bioregistry.io/MP:0001255), [MP:0001255](https://bioregistry.io/MP:0001255), [MP:0002691](https://bioregistry.io/MP:0002691), [MP:0002727](https://bioregistry.io/MP:0002727), [MP:0005033](https://bioregistry.io/MP:0005033), ... |
-| `MGI:LaurensWilming`  |              9 | [MP:0031198](https://bioregistry.io/MP:0031198), [MP:0031207](https://bioregistry.io/MP:0031207), [MP:0031332](https://bioregistry.io/MP:0031332), [MP:0031332](https://bioregistry.io/MP:0031332), [MP:0031333](https://bioregistry.io/MP:0031333), ... |
-| `MGI:Riken`           |              6 | [MP:0006348](https://bioregistry.io/MP:0006348), [MP:0006349](https://bioregistry.io/MP:0006349), [MP:0006350](https://bioregistry.io/MP:0006350), [MP:0006351](https://bioregistry.io/MP:0006351), [MP:0006352](https://bioregistry.io/MP:0006352), ... |
-| `MGI:Nicole`          |              6 | [MP:0012042](https://bioregistry.io/MP:0012042), [MP:0012044](https://bioregistry.io/MP:0012044), [MP:0012044](https://bioregistry.io/MP:0012044), [MP:0012044](https://bioregistry.io/MP:0012044), [MP:0012045](https://bioregistry.io/MP:0012045), ... |
+| `MGI:csmith`          |           3025 | [MP:0000346](https://bioregistry.io/MP:0000346), [MP:0003075](https://bioregistry.io/MP:0003075), [MP:0004928](https://bioregistry.io/MP:0004928), [MP:0008572](https://bioregistry.io/MP:0008572), [MP:0010279](https://bioregistry.io/MP:0010279), ... |
+| `MGI:anna`            |           2765 | [MP:0004749](https://bioregistry.io/MP:0004749), [MP:0006014](https://bioregistry.io/MP:0006014), [MP:0009213](https://bioregistry.io/MP:0009213), [MP:0030405](https://bioregistry.io/MP:0030405), [MP:0031132](https://bioregistry.io/MP:0031132), ... |
+| `MGI:smb`             |            942 | [MP:0006308](https://bioregistry.io/MP:0006308), [MP:0006353](https://bioregistry.io/MP:0006353), [MP:0009732](https://bioregistry.io/MP:0009732), [MP:0012618](https://bioregistry.io/MP:0012618), [MP:0020823](https://bioregistry.io/MP:0020823), ... |
+| `MGI:cwg`             |            598 | [MP:0001259](https://bioregistry.io/MP:0001259), [MP:0002218](https://bioregistry.io/MP:0002218), [MP:0002313](https://bioregistry.io/MP:0002313), [MP:0005406](https://bioregistry.io/MP:0005406), [MP:0005459](https://bioregistry.io/MP:0005459), ... |
+| `MGI:llw2`            |            377 | [MP:0006361](https://bioregistry.io/MP:0006361), [MP:0008020](https://bioregistry.io/MP:0008020), [MP:0008538](https://bioregistry.io/MP:0008538), [MP:0009546](https://bioregistry.io/MP:0009546), [MP:0009709](https://bioregistry.io/MP:0009709), ... |
+| `MGI:Ahmad_Retha`     |            122 | [MP:0013027](https://bioregistry.io/MP:0013027), [MP:0013038](https://bioregistry.io/MP:0013038), [MP:0013055](https://bioregistry.io/MP:0013055), [MP:0013062](https://bioregistry.io/MP:0013062), [MP:0013089](https://bioregistry.io/MP:0013089), ... |
+| `MGI:monikat`         |            118 | [MP:0004280](https://bioregistry.io/MP:0004280), [MP:0004560](https://bioregistry.io/MP:0004560), [MP:0006264](https://bioregistry.io/MP:0006264), [MP:0008030](https://bioregistry.io/MP:0008030), [MP:0008278](https://bioregistry.io/MP:0008278), ... |
+| `MGI:pvb`             |             99 | [MP:0001965](https://bioregistry.io/MP:0001965), [MP:0002687](https://bioregistry.io/MP:0002687), [MP:0002687](https://bioregistry.io/MP:0002687), [MP:0002776](https://bioregistry.io/MP:0002776), [MP:0002903](https://bioregistry.io/MP:0002903), ... |
+| `MGI:Saran`           |             67 | [MP:0013408](https://bioregistry.io/MP:0013408), [MP:0013513](https://bioregistry.io/MP:0013513), [MP:0013526](https://bioregistry.io/MP:0013526), [MP:0013673](https://bioregistry.io/MP:0013673), [MP:0013774](https://bioregistry.io/MP:0013774), ... |
+| `MGI:tc`              |             61 | [MP:0000457](https://bioregistry.io/MP:0000457), [MP:0000808](https://bioregistry.io/MP:0000808), [MP:0000808](https://bioregistry.io/MP:0000808), [MP:0001135](https://bioregistry.io/MP:0001135), [MP:0001138](https://bioregistry.io/MP:0001138), ... |
+| `MGI:brs`             |             44 | [MP:0004494](https://bioregistry.io/MP:0004494), [MP:0008791](https://bioregistry.io/MP:0008791), [MP:0008792](https://bioregistry.io/MP:0008792), [MP:0008805](https://bioregistry.io/MP:0008805), [MP:0008850](https://bioregistry.io/MP:0008850), ... |
+| `MGI:CFG`             |             33 | [MP:0001458](https://bioregistry.io/MP:0001458), [MP:0001462](https://bioregistry.io/MP:0001462), [MP:0001468](https://bioregistry.io/MP:0001468), [MP:0001469](https://bioregistry.io/MP:0001469), [MP:0002806](https://bioregistry.io/MP:0002806), ... |
+| `MGI:mberry`          |             33 | [MP:0003802](https://bioregistry.io/MP:0003802), [MP:0008831](https://bioregistry.io/MP:0008831), [MP:0009553](https://bioregistry.io/MP:0009553), [MP:0009558](https://bioregistry.io/MP:0009558), [MP:0020348](https://bioregistry.io/MP:0020348), ... |
+| `MGI:tmeehan`         |             33 | [MP:0008501](https://bioregistry.io/MP:0008501), [MP:0008734](https://bioregistry.io/MP:0008734), [MP:0008760](https://bioregistry.io/MP:0008760), [MP:0008764](https://bioregistry.io/MP:0008764), [MP:0008764](https://bioregistry.io/MP:0008764), ... |
+| `MGI:hdene`           |             31 | [MP:0002826](https://bioregistry.io/MP:0002826), [MP:0003179](https://bioregistry.io/MP:0003179), [MP:0003701](https://bioregistry.io/MP:0003701), [MP:0005621](https://bioregistry.io/MP:0005621), [MP:0005650](https://bioregistry.io/MP:0005650), ... |
+| `MGI:Nmice`           |             31 | [MP:0003463](https://bioregistry.io/MP:0003463), [MP:0003469](https://bioregistry.io/MP:0003469), [MP:0003475](https://bioregistry.io/MP:0003475), [MP:0003480](https://bioregistry.io/MP:0003480), [MP:0003483](https://bioregistry.io/MP:0003483), ... |
+| `MGI:cml`             |             25 | [MP:0000160](https://bioregistry.io/MP:0000160), [MP:0000575](https://bioregistry.io/MP:0000575), [MP:0001395](https://bioregistry.io/MP:0001395), [MP:0001526](https://bioregistry.io/MP:0001526), [MP:0002055](https://bioregistry.io/MP:0002055), ... |
+| `MGI:mnk`             |             25 | [MP:0003030](https://bioregistry.io/MP:0003030), [MP:0006302](https://bioregistry.io/MP:0006302), [MP:0010144](https://bioregistry.io/MP:0010144), [MP:0011195](https://bioregistry.io/MP:0011195), [MP:0011975](https://bioregistry.io/MP:0011975), ... |
+| `MGI:rbabiuk`         |             24 | [MP:0004031](https://bioregistry.io/MP:0004031), [MP:0006319](https://bioregistry.io/MP:0006319), [MP:0006320](https://bioregistry.io/MP:0006320), [MP:0008108](https://bioregistry.io/MP:0008108), [MP:0008941](https://bioregistry.io/MP:0008941), ... |
+| `MGI:jwhite`          |             22 | [MP:0013626](https://bioregistry.io/MP:0013626), [MP:0013627](https://bioregistry.io/MP:0013627), [MP:0013633](https://bioregistry.io/MP:0013633), [MP:0013636](https://bioregistry.io/MP:0013636), [MP:0013640](https://bioregistry.io/MP:0013640), ... |
+| `MGI:il`              |             21 | [MP:0002716](https://bioregistry.io/MP:0002716), [MP:0002838](https://bioregistry.io/MP:0002838), [MP:0002838](https://bioregistry.io/MP:0002838), [MP:0002839](https://bioregistry.io/MP:0002839), [MP:0002983](https://bioregistry.io/MP:0002983), ... |
+| `MGI:Annie_Speak`     |             16 | [MP:0013021](https://bioregistry.io/MP:0013021), [MP:0013024](https://bioregistry.io/MP:0013024), [MP:0013025](https://bioregistry.io/MP:0013025), [MP:0013025](https://bioregistry.io/MP:0013025), [MP:0013026](https://bioregistry.io/MP:0013026), ... |
+| `MGI:Colin_McKerlie`  |             13 | [MP:0011874](https://bioregistry.io/MP:0011874), [MP:0011874](https://bioregistry.io/MP:0011874), [MP:0011881](https://bioregistry.io/MP:0011881), [MP:0011882](https://bioregistry.io/MP:0011882), [MP:0011883](https://bioregistry.io/MP:0011883), ... |
+| `MGI:acv`             |             11 | [MP:0003726](https://bioregistry.io/MP:0003726), [MP:0003726](https://bioregistry.io/MP:0003726), [MP:0003884](https://bioregistry.io/MP:0003884), [MP:0003884](https://bioregistry.io/MP:0003884), [MP:0004995](https://bioregistry.io/MP:0004995), ... |
+| `MGI:Abeler-Dorner`   |             10 | [MP:0013885](https://bioregistry.io/MP:0013885), [MP:0013885](https://bioregistry.io/MP:0013885), [MP:0013887](https://bioregistry.io/MP:0013887), [MP:0013890](https://bioregistry.io/MP:0013890), [MP:0013890](https://bioregistry.io/MP:0013890), ... |
+| `MGI:dlb`             |              9 | [MP:0001254](https://bioregistry.io/MP:0001254), [MP:0001254](https://bioregistry.io/MP:0001254), [MP:0001255](https://bioregistry.io/MP:0001255), [MP:0002724](https://bioregistry.io/MP:0002724), [MP:0002727](https://bioregistry.io/MP:0002727), ... |
+| `MGI:LaurensWilming`  |              9 | [MP:0020838](https://bioregistry.io/MP:0020838), [MP:0031210](https://bioregistry.io/MP:0031210), [MP:0031332](https://bioregistry.io/MP:0031332), [MP:0031332](https://bioregistry.io/MP:0031332), [MP:0031332](https://bioregistry.io/MP:0031332), ... |
+| `MGI:Riken`           |              6 | [MP:0006348](https://bioregistry.io/MP:0006348), [MP:0006348](https://bioregistry.io/MP:0006348), [MP:0006349](https://bioregistry.io/MP:0006349), [MP:0006352](https://bioregistry.io/MP:0006352), [MP:0006353](https://bioregistry.io/MP:0006353), ... |
+| `MGI:Nicole`          |              6 | [MP:0012042](https://bioregistry.io/MP:0012042), [MP:0012042](https://bioregistry.io/MP:0012042), [MP:0012044](https://bioregistry.io/MP:0012044), [MP:0012045](https://bioregistry.io/MP:0012045), [MP:0012046](https://bioregistry.io/MP:0012046), ... |
 | `MGI:Sanger_Karp`     |              5 | [MP:0000427](https://bioregistry.io/MP:0000427), [MP:0010137](https://bioregistry.io/MP:0010137), [MP:0010202](https://bioregistry.io/MP:0010202), [MP:0010203](https://bioregistry.io/MP:0010203), [MP:0010770](https://bioregistry.io/MP:0010770)      |
 | `MGI:wf`              |              4 | [MP:0001650](https://bioregistry.io/MP:0001650), [MP:0002193](https://bioregistry.io/MP:0002193), [MP:0002194](https://bioregistry.io/MP:0002194), [MP:0002195](https://bioregistry.io/MP:0002195)                                                       |
 | `MGI:pg`              |              4 | [MP:0003706](https://bioregistry.io/MP:0003706), [MP:0003707](https://bioregistry.io/MP:0003707), [MP:0003708](https://bioregistry.io/MP:0003708), [MP:0003709](https://bioregistry.io/MP:0003709)                                                       |
@@ -530,22 +525,20 @@ external resource can be found on the
 ## `mgi`: Mouse Genome Informatics
 
 Overall, there were 6 invalid
-xrefs to external terms in `mgi` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mgi).
+xrefs to external prefixed with `mgi` (standardized to Bioregistry
+entry [`mgi`]((https://bioregistry.io/mgi)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `mgi:anna`      |              6 | [MP:0020413](https://bioregistry.io/MP:0020413), [MP:0020414](https://bioregistry.io/MP:0020414), [MP:0020414](https://bioregistry.io/MP:0020414), [MP:0020416](https://bioregistry.io/MP:0020416), [MP:0020417](https://bioregistry.io/MP:0020417), ... |
+| `mgi:anna`      |              6 | [MP:0020414](https://bioregistry.io/MP:0020414), [MP:0020415](https://bioregistry.io/MP:0020415), [MP:0020416](https://bioregistry.io/MP:0020416), [MP:0020416](https://bioregistry.io/MP:0020416), [MP:0020417](https://bioregistry.io/MP:0020417), ... |
 
 ## `NCI`: NCI Thesaurus
 
 Overall, there were 1 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `NCI` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref    |   usages_count | usages                                          |
 |------------------|----------------|-------------------------------------------------|
@@ -554,14 +547,13 @@ external resource can be found on the
 ## `ORCID`: Open Researcher and Contributor
 
 Overall, there were 14 invalid
-xrefs to external terms in `orcid` that did not match the standard
-pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/orcid).
+xrefs to external prefixed with `ORCID` (standardized to Bioregistry
+entry [`orcid`]((https://bioregistry.io/orcid)) that
+did not match the standard pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`.
 
 | external_xref                         |   usages_count | usages                                                                                                                                                                                                                                                   |
 |---------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ORCID:orcid.org/0000-0003-3645-6803` |              6 | [MP:0031186](https://bioregistry.io/MP:0031186), [MP:0031188](https://bioregistry.io/MP:0031188), [MP:0031189](https://bioregistry.io/MP:0031189), [MP:0031191](https://bioregistry.io/MP:0031191), [MP:0031191](https://bioregistry.io/MP:0031191), ... |
+| `ORCID:orcid.org/0000-0003-3645-6803` |              6 | [MP:0031187](https://bioregistry.io/MP:0031187), [MP:0031188](https://bioregistry.io/MP:0031188), [MP:0031189](https://bioregistry.io/MP:0031189), [MP:0031190](https://bioregistry.io/MP:0031190), [MP:0031191](https://bioregistry.io/MP:0031191), ... |
 | `ORCID:orcid.org/0000-0002-6490-7723` |              3 | [MP:0030000](https://bioregistry.io/MP:0030000), [MP:0030001](https://bioregistry.io/MP:0030001), [MP:0030002](https://bioregistry.io/MP:0030002)                                                                                                        |
 | `ORCID:orcid.org/0000-0001-5256-8683` |              2 | [MP:0031199](https://bioregistry.io/MP:0031199), [MP:0031200](https://bioregistry.io/MP:0031200)                                                                                                                                                         |
 | `ORCID:orcid.org/0000-0003-3691-0324` |              1 | [MP:0020342](https://bioregistry.io/MP:0020342)                                                                                                                                                                                                          |
@@ -571,10 +563,9 @@ external resource can be found on the
 ## `PMC`: Pubmed Central
 
 Overall, there were 3 invalid
-xrefs to external terms in `pmc` that did not match the standard
-pattern `^PMC\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pmc).
+xrefs to external prefixed with `PMC` (standardized to Bioregistry
+entry [`pmc`]((https://bioregistry.io/pmc)) that
+did not match the standard pattern `^PMC\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -583,15 +574,14 @@ external resource can be found on the
 ## `RGD`: Rat Genome Database
 
 Overall, there were 273 invalid
-xrefs to external terms in `rgd` that did not match the standard
-pattern `^\d{4,}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/rgd).
+xrefs to external prefixed with `RGD` (standardized to Bioregistry
+entry [`rgd`]((https://bioregistry.io/rgd)) that
+did not match the standard pattern `^\d{4,}$`.
 
 | external_xref       |   usages_count | usages                                                                                                                                                                                                                                                   |
 |---------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `RGD:cur`           |            256 | [MP:0003041](https://bioregistry.io/MP:0003041), [MP:0003223](https://bioregistry.io/MP:0003223), [MP:0005558](https://bioregistry.io/MP:0005558), [MP:0005608](https://bioregistry.io/MP:0005608), [MP:0006043](https://bioregistry.io/MP:0006043), ... |
-| `RGD:sjwang`        |              7 | [MP:0020445](https://bioregistry.io/MP:0020445), [MP:0020445](https://bioregistry.io/MP:0020445), [MP:0031022](https://bioregistry.io/MP:0031022), [MP:0031022](https://bioregistry.io/MP:0031022), [MP:0031022](https://bioregistry.io/MP:0031022), ... |
-| `RGD:gthayman`      |              6 | [MP:0020437](https://bioregistry.io/MP:0020437), [MP:0020437](https://bioregistry.io/MP:0020437), [MP:0031056](https://bioregistry.io/MP:0031056), [MP:0031057](https://bioregistry.io/MP:0031057), [MP:0031196](https://bioregistry.io/MP:0031196), ... |
+| `RGD:cur`           |            256 | [MP:0003080](https://bioregistry.io/MP:0003080), [MP:0003215](https://bioregistry.io/MP:0003215), [MP:0005595](https://bioregistry.io/MP:0005595), [MP:0005606](https://bioregistry.io/MP:0005606), [MP:0009674](https://bioregistry.io/MP:0009674), ... |
+| `RGD:sjwang`        |              7 | [MP:0020834](https://bioregistry.io/MP:0020834), [MP:0020835](https://bioregistry.io/MP:0020835), [MP:0020835](https://bioregistry.io/MP:0020835), [MP:0031008](https://bioregistry.io/MP:0031008), [MP:0031022](https://bioregistry.io/MP:0031022), ... |
+| `RGD:gthayman`      |              6 | [MP:0020437](https://bioregistry.io/MP:0020437), [MP:0031056](https://bioregistry.io/MP:0031056), [MP:0031057](https://bioregistry.io/MP:0031057), [MP:0031057](https://bioregistry.io/MP:0031057), [MP:0031195](https://bioregistry.io/MP:0031195), ... |
 | `RGD:slaulederkind` |              4 | [MP:0020382](https://bioregistry.io/MP:0020382), [MP:0031182](https://bioregistry.io/MP:0031182), [MP:0031183](https://bioregistry.io/MP:0031183), [MP:0031184](https://bioregistry.io/MP:0031184)                                                       |
 

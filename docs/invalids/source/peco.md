@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `peco`. See the [GitHub re
 ## `CAS`: CAS Chemical Registry
 
 Overall, there were 66 invalid
-xrefs to external terms in `cas` that did not match the standard
-pattern `^\d{1,7}\-\d{2}\-\d$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/cas).
+xrefs to external prefixed with `CAS` (standardized to Bioregistry
+entry [`cas`]((https://bioregistry.io/cas)) that
+did not match the standard pattern `^\d{1,7}\-\d{2}\-\d$`.
 
 | external_xref      |   usages_count | usages                                                                                                   |
 |--------------------|----------------|----------------------------------------------------------------------------------------------------------|
@@ -82,24 +81,22 @@ external resource can be found on the
 ## `PECO`: Plant Experimental Conditions Ontology
 
 Overall, there were 103 invalid
-xrefs to external terms in `peco` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/peco).
+xrefs to external prefixed with `PECO` (standardized to Bioregistry
+entry [`peco`]((https://bioregistry.io/peco)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PECO:cooperl`       |            100 | [PECO:0001009](https://bioregistry.io/PECO:0001009), [PECO:0001034](https://bioregistry.io/PECO:0001034), [PECO:0001042](https://bioregistry.io/PECO:0001042), [PECO:0001051](https://bioregistry.io/PECO:0001051), [PECO:0007147](https://bioregistry.io/PECO:0007147), ... |
+| `PECO:cooperl`       |            100 | [PECO:0001022](https://bioregistry.io/PECO:0001022), [PECO:0001050](https://bioregistry.io/PECO:0001050), [PECO:0001052](https://bioregistry.io/PECO:0001052), [PECO:0001062](https://bioregistry.io/PECO:0001062), [PECO:0007231](https://bioregistry.io/PECO:0007231), ... |
 | `PECO:laura_moore`   |              2 | [PECO:0001058](https://bioregistry.io/PECO:0001058), [PECO:0001059](https://bioregistry.io/PECO:0001059)                                                                                                                                                                     |
 | `PECO:Laurel_Cooper` |              1 | [PECO:0001063](https://bioregistry.io/PECO:0001063)                                                                                                                                                                                                                          |
 
 ## `PO`: Plant Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `po` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/po).
+xrefs to external prefixed with `PO` (standardized to Bioregistry
+entry [`po`]((https://bioregistry.io/po)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -108,12 +105,11 @@ external resource can be found on the
 ## `TO`: Plant Trait Ontology
 
 Overall, there were 11 invalid
-xrefs to external terms in `to` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/to).
+xrefs to external prefixed with `TO` (standardized to Bioregistry
+entry [`to`]((https://bioregistry.io/to)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `TO:moorel`     |             11 | [PECO:0007168](https://bioregistry.io/PECO:0007168), [PECO:0007402](https://bioregistry.io/PECO:0007402), [PECO:0007402](https://bioregistry.io/PECO:0007402), [PECO:0007410](https://bioregistry.io/PECO:0007410), [PECO:0007551](https://bioregistry.io/PECO:0007551), ... |
+| `TO:moorel`     |             11 | [PECO:0007063](https://bioregistry.io/PECO:0007063), [PECO:0007292](https://bioregistry.io/PECO:0007292), [PECO:0007402](https://bioregistry.io/PECO:0007402), [PECO:0007410](https://bioregistry.io/PECO:0007410), [PECO:0007521](https://bioregistry.io/PECO:0007521), ... |
 

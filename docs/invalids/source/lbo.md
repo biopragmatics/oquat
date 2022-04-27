@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `lbo`. See the [GitHub rep
 ## `VTO`: Vertebrate Taxonomy Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `vto` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/vto).
+xrefs to external prefixed with `VTO` (standardized to Bioregistry
+entry [`vto`]((https://bioregistry.io/vto)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|

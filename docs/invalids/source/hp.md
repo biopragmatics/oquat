@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `hp`. See the [GitHub repo
 ## `gc`: Genetic Code
 
 Overall, there were 3 invalid
-xrefs to external terms in `gc` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/gc).
+xrefs to external prefixed with `gc` (standardized to Bioregistry
+entry [`gc`]((https://bioregistry.io/gc)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `HP`: Human Phenotype Ontology
 
 Overall, there were 5 invalid
-xrefs to external terms in `hp` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/hp).
+xrefs to external prefixed with `HP` (standardized to Bioregistry
+entry [`hp`]((https://bioregistry.io/hp)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -31,23 +29,22 @@ external resource can be found on the
 ## `HPO`: Human Phenotype Ontology
 
 Overall, there were 7,564 invalid
-xrefs to external terms in `hp` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/hp).
+xrefs to external prefixed with `HPO` (standardized to Bioregistry
+entry [`hp`]((https://bioregistry.io/hp)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref            |   usages_count | usages                                                                                                                                                                                                                                                   |
 |--------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `HPO:probinson`          |           5438 | [HP:0002023](https://bioregistry.io/HP:0002023), [HP:0002650](https://bioregistry.io/HP:0002650), [HP:0003872](https://bioregistry.io/HP:0003872), [HP:0006099](https://bioregistry.io/HP:0006099), [HP:0030158](https://bioregistry.io/HP:0030158), ... |
-| `HPO:curators`           |            921 | [HP:0000119](https://bioregistry.io/HP:0000119), [HP:0000828](https://bioregistry.io/HP:0000828), [HP:0009330](https://bioregistry.io/HP:0009330), [HP:0010658](https://bioregistry.io/HP:0010658), [HP:0100144](https://bioregistry.io/HP:0100144), ... |
-| `HPO:sdoelken`           |            474 | [HP:0000734](https://bioregistry.io/HP:0000734), [HP:0010094](https://bioregistry.io/HP:0010094), [HP:0010426](https://bioregistry.io/HP:0010426), [HP:0100008](https://bioregistry.io/HP:0100008), [HP:0100489](https://bioregistry.io/HP:0100489), ... |
-| `HPO:skoehler`           |            385 | [HP:0000971](https://bioregistry.io/HP:0000971), [HP:0001338](https://bioregistry.io/HP:0001338), [HP:0001394](https://bioregistry.io/HP:0001394), [HP:0004401](https://bioregistry.io/HP:0004401), [HP:0040089](https://bioregistry.io/HP:0040089), ... |
-| `HPO:ibailleulforestier` |            107 | [HP:0000674](https://bioregistry.io/HP:0000674), [HP:0006282](https://bioregistry.io/HP:0006282), [HP:0006347](https://bioregistry.io/HP:0006347), [HP:0011076](https://bioregistry.io/HP:0011076), [HP:0011089](https://bioregistry.io/HP:0011089), ... |
-| `HPO:jalbers`            |             91 | [HP:0001326](https://bioregistry.io/HP:0001326), [HP:0011175](https://bioregistry.io/HP:0011175), [HP:0011176](https://bioregistry.io/HP:0011176), [HP:0011188](https://bioregistry.io/HP:0011188), [HP:0011287](https://bioregistry.io/HP:0011287), ... |
-| `HPO:gcarletti`          |             71 | [HP:0003217](https://bioregistry.io/HP:0003217), [HP:0003267](https://bioregistry.io/HP:0003267), [HP:0003362](https://bioregistry.io/HP:0003362), [HP:0003654](https://bioregistry.io/HP:0003654), [HP:0006535](https://bioregistry.io/HP:0006535), ... |
-| `HPO:cmiller`            |             11 | [HP:0030130](https://bioregistry.io/HP:0030130), [HP:0030131](https://bioregistry.io/HP:0030131), [HP:0030132](https://bioregistry.io/HP:0030132), [HP:0030134](https://bioregistry.io/HP:0030134), [HP:0030138](https://bioregistry.io/HP:0030138), ... |
-| `HPO:pnrobinson`         |              7 | [HP:0002069](https://bioregistry.io/HP:0002069), [HP:0002069](https://bioregistry.io/HP:0002069), [HP:0002680](https://bioregistry.io/HP:0002680), [HP:0003375](https://bioregistry.io/HP:0003375), [HP:0003375](https://bioregistry.io/HP:0003375), ... |
-| `HPO:SKOEHLER`           |              7 | [HP:0002745](https://bioregistry.io/HP:0002745), [HP:0003355](https://bioregistry.io/HP:0003355), [HP:0003355](https://bioregistry.io/HP:0003355), [HP:0200032](https://bioregistry.io/HP:0200032), [HP:0200032](https://bioregistry.io/HP:0200032), ... |
+| `HPO:probinson`          |           5438 | [HP:0003204](https://bioregistry.io/HP:0003204), [HP:0005237](https://bioregistry.io/HP:0005237), [HP:0011020](https://bioregistry.io/HP:0011020), [HP:0011989](https://bioregistry.io/HP:0011989), [HP:0030784](https://bioregistry.io/HP:0030784), ... |
+| `HPO:curators`           |            921 | [HP:0005914](https://bioregistry.io/HP:0005914), [HP:0006710](https://bioregistry.io/HP:0006710), [HP:0009390](https://bioregistry.io/HP:0009390), [HP:0009446](https://bioregistry.io/HP:0009446), [HP:0010640](https://bioregistry.io/HP:0010640), ... |
+| `HPO:sdoelken`           |            474 | [HP:0000456](https://bioregistry.io/HP:0000456), [HP:0006398](https://bioregistry.io/HP:0006398), [HP:0010709](https://bioregistry.io/HP:0010709), [HP:0100883](https://bioregistry.io/HP:0100883), [HP:0200013](https://bioregistry.io/HP:0200013), ... |
+| `HPO:skoehler`           |            385 | [HP:0000479](https://bioregistry.io/HP:0000479), [HP:0011327](https://bioregistry.io/HP:0011327), [HP:0012233](https://bioregistry.io/HP:0012233), [HP:0040134](https://bioregistry.io/HP:0040134), [HP:0200046](https://bioregistry.io/HP:0200046), ... |
+| `HPO:ibailleulforestier` |            107 | [HP:0006288](https://bioregistry.io/HP:0006288), [HP:0011058](https://bioregistry.io/HP:0011058), [HP:0011070](https://bioregistry.io/HP:0011070), [HP:0011071](https://bioregistry.io/HP:0011071), [HP:0011077](https://bioregistry.io/HP:0011077), ... |
+| `HPO:jalbers`            |             91 | [HP:0002123](https://bioregistry.io/HP:0002123), [HP:0011160](https://bioregistry.io/HP:0011160), [HP:0011173](https://bioregistry.io/HP:0011173), [HP:0011185](https://bioregistry.io/HP:0011185), [HP:0012009](https://bioregistry.io/HP:0012009), ... |
+| `HPO:gcarletti`          |             71 | [HP:0002157](https://bioregistry.io/HP:0002157), [HP:0003124](https://bioregistry.io/HP:0003124), [HP:0003362](https://bioregistry.io/HP:0003362), [HP:0005961](https://bioregistry.io/HP:0005961), [HP:0010934](https://bioregistry.io/HP:0010934), ... |
+| `HPO:cmiller`            |             11 | [HP:0030130](https://bioregistry.io/HP:0030130), [HP:0030131](https://bioregistry.io/HP:0030131), [HP:0030132](https://bioregistry.io/HP:0030132), [HP:0030132](https://bioregistry.io/HP:0030132), [HP:0030140](https://bioregistry.io/HP:0030140), ... |
+| `HPO:pnrobinson`         |              7 | [HP:0002069](https://bioregistry.io/HP:0002069), [HP:0002069](https://bioregistry.io/HP:0002069), [HP:0002384](https://bioregistry.io/HP:0002384), [HP:0002680](https://bioregistry.io/HP:0002680), [HP:0003375](https://bioregistry.io/HP:0003375), ... |
+| `HPO:SKOEHLER`           |              7 | [HP:0003355](https://bioregistry.io/HP:0003355), [HP:0200032](https://bioregistry.io/HP:0200032), [HP:0200032](https://bioregistry.io/HP:0200032), [HP:0200032](https://bioregistry.io/HP:0200032), [HP:0200037](https://bioregistry.io/HP:0200037), ... |
 | `HPO:nvasilevsky`        |              5 | [HP:0031783](https://bioregistry.io/HP:0031783), [HP:0031885](https://bioregistry.io/HP:0031885), [HP:0033031](https://bioregistry.io/HP:0033031), [HP:0033055](https://bioregistry.io/HP:0033055), [HP:0033056](https://bioregistry.io/HP:0033056)      |
 | `HPO:curator`            |              4 | [HP:0009153](https://bioregistry.io/HP:0009153), [HP:0009178](https://bioregistry.io/HP:0009178), [HP:0009186](https://bioregistry.io/HP:0009186), [HP:0010043](https://bioregistry.io/HP:0010043)                                                       |
 | `HPO:ihelbig`            |              4 | [HP:0011150](https://bioregistry.io/HP:0011150), [HP:0011152](https://bioregistry.io/HP:0011152), [HP:0011168](https://bioregistry.io/HP:0011168), [HP:0012469](https://bioregistry.io/HP:0012469)                                                       |
@@ -83,10 +80,9 @@ external resource can be found on the
 ## `ICD-10`: International Classification of Diseases, 10th Revision
 
 Overall, there were 1 invalid
-xrefs to external terms in `icd10` that did not match the standard
-pattern `^[A-Z]\d+(\.[-\d+])?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/icd10).
+xrefs to external prefixed with `ICD-10` (standardized to Bioregistry
+entry [`icd10`]((https://bioregistry.io/icd10)) that
+did not match the standard pattern `^[A-Z]\d+(\.[-\d+])?$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -95,10 +91,9 @@ external resource can be found on the
 ## `ICD-O`: International Classification of Diseases for Oncology
 
 Overall, there were 2 invalid
-xrefs to external terms in `icdo` that did not match the standard
-pattern `^[8-9]\d{3}(/[0-3])?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/icdo).
+xrefs to external prefixed with `ICD-O` (standardized to Bioregistry
+entry [`icdo`]((https://bioregistry.io/icdo)) that
+did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -108,10 +103,9 @@ external resource can be found on the
 ## `ISBN`: International Standard Book Number
 
 Overall, there were 1 invalid
-xrefs to external terms in `isbn` that did not match the standard
-pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/isbn).
+xrefs to external prefixed with `ISBN` (standardized to Bioregistry
+entry [`isbn`]((https://bioregistry.io/isbn)) that
+did not match the standard pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`.
 
 | external_xref      |   usages_count | usages                                          |
 |--------------------|----------------|-------------------------------------------------|
@@ -120,10 +114,9 @@ external resource can be found on the
 ## `NCIT`: NCI Thesaurus
 
 Overall, there were 1 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `NCIT` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -132,10 +125,9 @@ external resource can be found on the
 ## `OMIM`: Online Mendelian Inheritance in Man
 
 Overall, there were 1 invalid
-xrefs to external terms in `omim` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/omim).
+xrefs to external prefixed with `OMIM` (standardized to Bioregistry
+entry [`omim`]((https://bioregistry.io/omim)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -144,10 +136,9 @@ external resource can be found on the
 ## `ORCID`: Open Researcher and Contributor
 
 Overall, there were 1 invalid
-xrefs to external terms in `orcid` that did not match the standard
-pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/orcid).
+xrefs to external prefixed with `ORCID` (standardized to Bioregistry
+entry [`orcid`]((https://bioregistry.io/orcid)) that
+did not match the standard pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`.
 
 | external_xref              |   usages_count | usages                                          |
 |----------------------------|----------------|-------------------------------------------------|
@@ -156,10 +147,9 @@ external resource can be found on the
 ## `PMID`: PubMed
 
 Overall, there were 3 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref               |   usages_count | usages                                                                                           |
 |-----------------------------|----------------|--------------------------------------------------------------------------------------------------|
@@ -169,15 +159,14 @@ external resource can be found on the
 ## `RGD`: Rat Genome Database
 
 Overall, there were 29 invalid
-xrefs to external terms in `rgd` that did not match the standard
-pattern `^\d{4,}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/rgd).
+xrefs to external prefixed with `RGD` (standardized to Bioregistry
+entry [`rgd`]((https://bioregistry.io/rgd)) that
+did not match the standard pattern `^\d{4,}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `RGD:sjwang`    |             13 | [HP:0031414](https://bioregistry.io/HP:0031414), [HP:0031419](https://bioregistry.io/HP:0031419), [HP:0031424](https://bioregistry.io/HP:0031424), [HP:0031428](https://bioregistry.io/HP:0031428), [HP:0031429](https://bioregistry.io/HP:0031429), ... |
-| `RGD:gthayman`  |             11 | [HP:0031835](https://bioregistry.io/HP:0031835), [HP:0031883](https://bioregistry.io/HP:0031883), [HP:0031883](https://bioregistry.io/HP:0031883), [HP:0032156](https://bioregistry.io/HP:0032156), [HP:0550005](https://bioregistry.io/HP:0550005), ... |
+| `RGD:sjwang`    |             13 | [HP:0031414](https://bioregistry.io/HP:0031414), [HP:0031414](https://bioregistry.io/HP:0031414), [HP:0031425](https://bioregistry.io/HP:0031425), [HP:0031429](https://bioregistry.io/HP:0031429), [HP:0031823](https://bioregistry.io/HP:0031823), ... |
+| `RGD:gthayman`  |             11 | [HP:0031820](https://bioregistry.io/HP:0031820), [HP:0031831](https://bioregistry.io/HP:0031831), [HP:0031836](https://bioregistry.io/HP:0031836), [HP:0031883](https://bioregistry.io/HP:0031883), [HP:0032156](https://bioregistry.io/HP:0032156), ... |
 | `RGD:SJWang`    |              3 | [HP:0020182](https://bioregistry.io/HP:0020182), [HP:0020183](https://bioregistry.io/HP:0020183), [HP:0020184](https://bioregistry.io/HP:0020184)                                                                                                        |
 | `RGD:gth`       |              2 | [HP:0031421](https://bioregistry.io/HP:0031421), [HP:0031423](https://bioregistry.io/HP:0031423)                                                                                                                                                         |
 

@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `clao`. See the [GitHub re
 ## `FMA`: Foundational Model of Anatomy
 
 Overall, there were 1 invalid
-xrefs to external terms in `fma` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/fma).
+xrefs to external prefixed with `FMA` (standardized to Bioregistry
+entry [`fma`]((https://bioregistry.io/fma)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

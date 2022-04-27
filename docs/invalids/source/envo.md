@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `envo`. See the [GitHub re
 ## `BS`: Biosapiens Protein Feature Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `bs` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/bs).
+xrefs to external prefixed with `BS` (standardized to Bioregistry
+entry [`bs`]((https://bioregistry.io/bs)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `EnvO`: Environment Ontology
 
 Overall, there were 2 invalid
-xrefs to external terms in `envo` that did not match the standard
-pattern `^\d{7,8}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/envo).
+xrefs to external prefixed with `EnvO` (standardized to Bioregistry
+entry [`envo`]((https://bioregistry.io/envo)) that
+did not match the standard pattern `^\d{7,8}$`.
 
 | external_xref   |   usages_count | usages                                                                                                       |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -31,10 +29,9 @@ external resource can be found on the
 ## `ENVO`: Environment Ontology
 
 Overall, there were 2 invalid
-xrefs to external terms in `envo` that did not match the standard
-pattern `^\d{7,8}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/envo).
+xrefs to external prefixed with `ENVO` (standardized to Bioregistry
+entry [`envo`]((https://bioregistry.io/envo)) that
+did not match the standard pattern `^\d{7,8}$`.
 
 | external_xref   |   usages_count | usages                                                                                                     |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------|
@@ -43,35 +40,32 @@ external resource can be found on the
 ## `FAO`: Fungal gross anatomy
 
 Overall, there were 28 invalid
-xrefs to external terms in `fao` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/fao).
+xrefs to external prefixed with `FAO` (standardized to Bioregistry
+entry [`fao`]((https://bioregistry.io/fao)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref                                                          |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf`              |             27 | [ENVO:00002237](https://bioregistry.io/ENVO:00002237), [ENVO:00002241](https://bioregistry.io/ENVO:00002241), [ENVO:00002243](https://bioregistry.io/ENVO:00002243), [ENVO:00002256](https://bioregistry.io/ENVO:00002256), [ENVO:00002274](https://bioregistry.io/ENVO:00002274), ... |
+| `FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf`              |             27 | [ENVO:00002229](https://bioregistry.io/ENVO:00002229), [ENVO:00002229](https://bioregistry.io/ENVO:00002229), [ENVO:00002229](https://bioregistry.io/ENVO:00002229), [ENVO:00002247](https://bioregistry.io/ENVO:00002247), [ENVO:00002250](https://bioregistry.io/ENVO:00002250), ... |
 | `FAO:http://www.fao.org/soils-portal/soil-degradation-restoration/en/` |              1 | [ENVO:01000705](https://bioregistry.io/ENVO:01000705)                                                                                                                                                                                                                                  |
 
 ## `MA`: Mouse adult gross anatomy
 
 Overall, there were 133 invalid
-xrefs to external terms in `ma` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ma).
+xrefs to external prefixed with `MA` (standardized to Bioregistry
+entry [`ma`]((https://bioregistry.io/ma)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MA:ma`         |            133 | [ENVO:00000110](https://bioregistry.io/ENVO:00000110), [ENVO:00000426](https://bioregistry.io/ENVO:00000426), [ENVO:00002000](https://bioregistry.io/ENVO:00002000), [ENVO:00011764](https://bioregistry.io/ENVO:00011764), [ENVO:01001071](https://bioregistry.io/ENVO:01001071), ... |
+| `MA:ma`         |            133 | [ENVO:00000036](https://bioregistry.io/ENVO:00000036), [ENVO:00000180](https://bioregistry.io/ENVO:00000180), [ENVO:00000374](https://bioregistry.io/ENVO:00000374), [ENVO:00001995](https://bioregistry.io/ENVO:00001995), [ENVO:00002062](https://bioregistry.io/ENVO:00002062), ... |
 
 ## `WWF`: World Wildlife Fund Ecoregion
 
 Overall, there were 13 invalid
-xrefs to external terms in `wwf.ecoregion` that did not match the standard
-pattern `^AT\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wwf.ecoregion).
+xrefs to external prefixed with `WWF` (standardized to Bioregistry
+entry [`wwf.ecoregion`]((https://bioregistry.io/wwf.ecoregion)) that
+did not match the standard pattern `^AT\d+$`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|

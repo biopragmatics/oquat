@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `pride`.
 ## `CHEBI`: Chemical Entities of Biological Interest
 
 Overall, there were 1 invalid
-xrefs to external terms in `chebi` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/chebi).
+xrefs to external prefixed with `CHEBI` (standardized to Bioregistry
+entry [`chebi`]((https://bioregistry.io/chebi)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `FIX`: Physico-chemical methods and properties
 
 Overall, there were 7 invalid
-xrefs to external terms in `fix` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/fix).
+xrefs to external prefixed with `FIX` (standardized to Bioregistry
+entry [`fix`]((https://bioregistry.io/fix)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -37,15 +35,14 @@ external resource can be found on the
 ## `obi`: Ontology for Biomedical Investigations
 
 Overall, there were 32 invalid
-xrefs to external terms in `obi` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/obi).
+xrefs to external prefixed with `obi` (standardized to Bioregistry
+entry [`obi`]((https://bioregistry.io/obi)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `obi:bp`        |              6 | [OBI:0000443](https://bioregistry.io/OBI:0000443), [OBI:0000443](https://bioregistry.io/OBI:0000443), [OBI:0000443](https://bioregistry.io/OBI:0000443), [OBI:0000796](https://bioregistry.io/OBI:0000796), [OBI:0000838](https://bioregistry.io/OBI:0000838), ... |
-| `obi:prs`       |              6 | [OBI:0000094](https://bioregistry.io/OBI:0000094), [OBI:0000094](https://bioregistry.io/OBI:0000094), [OBI:0302893](https://bioregistry.io/OBI:0302893), [OBI:0302893](https://bioregistry.io/OBI:0302893), [OBI:0302912](https://bioregistry.io/OBI:0302912), ... |
+| `obi:bp`        |              6 | [OBI:0000094](https://bioregistry.io/OBI:0000094), [OBI:0000094](https://bioregistry.io/OBI:0000094), [OBI:0000417](https://bioregistry.io/OBI:0000417), [OBI:0000443](https://bioregistry.io/OBI:0000443), [OBI:0000796](https://bioregistry.io/OBI:0000796), ... |
+| `obi:prs`       |              6 | [OBI:0000094](https://bioregistry.io/OBI:0000094), [OBI:0000094](https://bioregistry.io/OBI:0000094), [OBI:0000443](https://bioregistry.io/OBI:0000443), [OBI:0302886](https://bioregistry.io/OBI:0302886), [OBI:0302893](https://bioregistry.io/OBI:0302893), ... |
 | `obi:pppb`      |              2 | [OBI:0000070](https://bioregistry.io/OBI:0000070), [OBI:0000185](https://bioregistry.io/OBI:0000185)                                                                                                                                                               |
 | `obi:mc`        |              2 | [OBI:0000094](https://bioregistry.io/OBI:0000094), [OBI:0200051](https://bioregistry.io/OBI:0200051)                                                                                                                                                               |
 | `obi:ar`        |              2 | [OBI:0000417](https://bioregistry.io/OBI:0000417), [OBI:0000443](https://bioregistry.io/OBI:0000443)                                                                                                                                                               |
@@ -64,10 +61,9 @@ external resource can be found on the
 ## `PRIDE`: PRIDE Controlled Vocabulary
 
 Overall, there were 3 invalid
-xrefs to external terms in `pride` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pride).
+xrefs to external prefixed with `PRIDE` (standardized to Bioregistry
+entry [`pride`]((https://bioregistry.io/pride)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                              |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|

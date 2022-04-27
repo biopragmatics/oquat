@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `fbcv`. See the [GitHub re
 ## `Reactome`: Reactome
 
 Overall, there were 1 invalid
-xrefs to external terms in `reactome` that did not match the standard
-pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/reactome).
+xrefs to external prefixed with `Reactome` (standardized to Bioregistry
+entry [`reactome`]((https://bioregistry.io/reactome)) that
+did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 
 | external_xref    |   usages_count | usages                                              |
 |------------------|----------------|-----------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `SO`: Sequence types and features ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `so` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/so).
+xrefs to external prefixed with `SO` (standardized to Bioregistry
+entry [`so`]((https://bioregistry.io/so)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -31,10 +29,9 @@ external resource can be found on the
 ## `WB_REF`: WormBase database of nematode biology
 
 Overall, there were 1 invalid
-xrefs to external terms in `wormbase` that did not match the standard
-pattern `^WB[A-Z][a-z]+\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wormbase).
+xrefs to external prefixed with `WB_REF` (standardized to Bioregistry
+entry [`wormbase`]((https://bioregistry.io/wormbase)) that
+did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

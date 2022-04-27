@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `xco`. See the [GitHub rep
 ## `CHEBI`: Chemical Entities of Biological Interest
 
 Overall, there were 7 invalid
-xrefs to external terms in `chebi` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/chebi).
+xrefs to external prefixed with `CHEBI` (standardized to Bioregistry
+entry [`chebi`]((https://bioregistry.io/chebi)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref        |   usages_count | usages                                            |
 |----------------------|----------------|---------------------------------------------------|
@@ -25,10 +24,9 @@ external resource can be found on the
 ## `CHEMBL`: ChEMBL
 
 Overall, there were 4 invalid
-xrefs to external terms in `chembl` that did not match the standard
-pattern `^CHEMBL\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/chembl).
+xrefs to external prefixed with `CHEMBL` (standardized to Bioregistry
+entry [`chembl`]((https://bioregistry.io/chembl)) that
+did not match the standard pattern `^CHEMBL\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                  |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -38,10 +36,9 @@ external resource can be found on the
 ## `DrugBank`: DrugBank
 
 Overall, there were 5 invalid
-xrefs to external terms in `drugbank` that did not match the standard
-pattern `^DB\d{5}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/drugbank).
+xrefs to external prefixed with `DrugBank` (standardized to Bioregistry
+entry [`drugbank`]((https://bioregistry.io/drugbank)) that
+did not match the standard pattern `^DB\d{5}$`.
 
 | external_xref                                    |   usages_count | usages                                            |
 |--------------------------------------------------|----------------|---------------------------------------------------|
@@ -54,10 +51,9 @@ external resource can be found on the
 ## `Drugbank`: DrugBank
 
 Overall, there were 5 invalid
-xrefs to external terms in `drugbank` that did not match the standard
-pattern `^DB\d{5}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/drugbank).
+xrefs to external prefixed with `Drugbank` (standardized to Bioregistry
+entry [`drugbank`]((https://bioregistry.io/drugbank)) that
+did not match the standard pattern `^DB\d{5}$`.
 
 | external_xref                                             |   usages_count | usages                                            |
 |-----------------------------------------------------------|----------------|---------------------------------------------------|
@@ -70,10 +66,9 @@ external resource can be found on the
 ## `DRUGBANK`: DrugBank
 
 Overall, there were 2 invalid
-xrefs to external terms in `drugbank` that did not match the standard
-pattern `^DB\d{5}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/drugbank).
+xrefs to external prefixed with `DRUGBANK` (standardized to Bioregistry
+entry [`drugbank`]((https://bioregistry.io/drugbank)) that
+did not match the standard pattern `^DB\d{5}$`.
 
 | external_xref                                    |   usages_count | usages                                            |
 |--------------------------------------------------|----------------|---------------------------------------------------|
@@ -83,10 +78,9 @@ external resource can be found on the
 ## `drugbank`: DrugBank
 
 Overall, there were 1 invalid
-xrefs to external terms in `drugbank` that did not match the standard
-pattern `^DB\d{5}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/drugbank).
+xrefs to external prefixed with `drugbank` (standardized to Bioregistry
+entry [`drugbank`]((https://bioregistry.io/drugbank)) that
+did not match the standard pattern `^DB\d{5}$`.
 
 | external_xref                                    |   usages_count | usages                                            |
 |--------------------------------------------------|----------------|---------------------------------------------------|
@@ -95,10 +89,9 @@ external resource can be found on the
 ## `Medline Plus`: MedlinePlus Health Topics
 
 Overall, there were 1 invalid
-xrefs to external terms in `medlineplus` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/medlineplus).
+xrefs to external prefixed with `Medline Plus` (standardized to Bioregistry
+entry [`medlineplus`]((https://bioregistry.io/medlineplus)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref                                       |   usages_count | usages                                            |
 |-----------------------------------------------------|----------------|---------------------------------------------------|
@@ -107,10 +100,9 @@ external resource can be found on the
 ## `MESH`: Medical Subject Headings
 
 Overall, there were 6 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MESH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref                                                                                           |   usages_count | usages                                            |
 |---------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------|
@@ -124,10 +116,9 @@ external resource can be found on the
 ## `NCI Thesaurus`: NCI Thesaurus
 
 Overall, there were 1 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `NCI Thesaurus` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref                                                                                                           |   usages_count | usages                                            |
 |-------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------|
@@ -136,10 +127,9 @@ external resource can be found on the
 ## `PMID`: PubMed
 
 Overall, there were 4 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref        |   usages_count | usages                                            |
 |----------------------|----------------|---------------------------------------------------|
@@ -151,10 +141,9 @@ external resource can be found on the
 ## `PubChem_Compound`: PubChem CID
 
 Overall, there were 5 invalid
-xrefs to external terms in `pubchem.compound` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubchem.compound).
+xrefs to external prefixed with `PubChem_Compound` (standardized to Bioregistry
+entry [`pubchem.compound`]((https://bioregistry.io/pubchem.compound)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref                |   usages_count | usages                                                                                                                                                  |
 |------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -164,30 +153,28 @@ external resource can be found on the
 ## `RGD`: Rat Genome Database
 
 Overall, there were 44 invalid
-xrefs to external terms in `rgd` that did not match the standard
-pattern `^\d{4,}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/rgd).
+xrefs to external prefixed with `RGD` (standardized to Bioregistry
+entry [`rgd`]((https://bioregistry.io/rgd)) that
+did not match the standard pattern `^\d{4,}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `RGD:MS`        |             27 | [XCO:0000015](https://bioregistry.io/XCO:0000015), [XCO:0000029](https://bioregistry.io/XCO:0000029), [XCO:0000086](https://bioregistry.io/XCO:0000086), [XCO:0000095](https://bioregistry.io/XCO:0000095), [XCO:0000101](https://bioregistry.io/XCO:0000101), ... |
-| `RGD:JRS`       |             15 | [XCO:0000120](https://bioregistry.io/XCO:0000120), [XCO:0000153](https://bioregistry.io/XCO:0000153), [XCO:0000169](https://bioregistry.io/XCO:0000169), [XCO:0000486](https://bioregistry.io/XCO:0000486), [XCO:0000487](https://bioregistry.io/XCO:0000487), ... |
+| `RGD:MS`        |             27 | [XCO:0000010](https://bioregistry.io/XCO:0000010), [XCO:0000030](https://bioregistry.io/XCO:0000030), [XCO:0000056](https://bioregistry.io/XCO:0000056), [XCO:0000056](https://bioregistry.io/XCO:0000056), [XCO:0000083](https://bioregistry.io/XCO:0000083), ... |
+| `RGD:JRS`       |             15 | [XCO:0000120](https://bioregistry.io/XCO:0000120), [XCO:0000120](https://bioregistry.io/XCO:0000120), [XCO:0000167](https://bioregistry.io/XCO:0000167), [XCO:0000167](https://bioregistry.io/XCO:0000167), [XCO:0000368](https://bioregistry.io/XCO:0000368), ... |
 | `RGD:SL`        |              1 | [XCO:0000138](https://bioregistry.io/XCO:0000138)                                                                                                                                                                                                                  |
 | `RGD:MRD`       |              1 | [XCO:0000166](https://bioregistry.io/XCO:0000166)                                                                                                                                                                                                                  |
 
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 176 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                                                                                      |   usages_count | usages                                                                                                                                                                                                                                                             |
 |----------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation`                                 |              6 | [XCO:0000042](https://bioregistry.io/XCO:0000042), [XCO:0000042](https://bioregistry.io/XCO:0000042), [XCO:0000046](https://bioregistry.io/XCO:0000046), [XCO:0000179](https://bioregistry.io/XCO:0000179), [XCO:0000179](https://bioregistry.io/XCO:0000179), ... |
-| `Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea`                                               |              6 | [XCO:0000344](https://bioregistry.io/XCO:0000344), [XCO:0000345](https://bioregistry.io/XCO:0000345), [XCO:0000436](https://bioregistry.io/XCO:0000436), [XCO:0000436](https://bioregistry.io/XCO:0000436), [XCO:0000437](https://bioregistry.io/XCO:0000437), ... |
+| `Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation`                                 |              6 | [XCO:0000042](https://bioregistry.io/XCO:0000042), [XCO:0000043](https://bioregistry.io/XCO:0000043), [XCO:0000045](https://bioregistry.io/XCO:0000045), [XCO:0000046](https://bioregistry.io/XCO:0000046), [XCO:0000180](https://bioregistry.io/XCO:0000180), ... |
+| `Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea`                                               |              6 | [XCO:0000345](https://bioregistry.io/XCO:0000345), [XCO:0000345](https://bioregistry.io/XCO:0000345), [XCO:0000346](https://bioregistry.io/XCO:0000346), [XCO:0000436](https://bioregistry.io/XCO:0000436), [XCO:0000436](https://bioregistry.io/XCO:0000436), ... |
 | `Wikipedia:http://en.wikipedia.org/wiki/11-Deoxycorticosterone`                                    |              4 | [XCO:0000192](https://bioregistry.io/XCO:0000192), [XCO:0000328](https://bioregistry.io/XCO:0000328), [XCO:0000329](https://bioregistry.io/XCO:0000329), [XCO:0000330](https://bioregistry.io/XCO:0000330)                                                         |
 | `Wikipedia:http://en.wikipedia.org/wiki/Ionizing_radiation`                                        |              3 | [XCO:0000039](https://bioregistry.io/XCO:0000039), [XCO:0000041](https://bioregistry.io/XCO:0000041), [XCO:0000179](https://bioregistry.io/XCO:0000179)                                                                                                            |
 | `Wikipedia:http://en.eikipedia.org/wiki/`                                                          |              3 | [XCO:0000119](https://bioregistry.io/XCO:0000119), [XCO:0000123](https://bioregistry.io/XCO:0000123), [XCO:0000124](https://bioregistry.io/XCO:0000124)                                                                                                            |
@@ -316,10 +303,9 @@ external resource can be found on the
 ## `wikipedia`: Wikipedia
 
 Overall, there were 1 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                                      |   usages_count | usages                                            |
 |----------------------------------------------------|----------------|---------------------------------------------------|

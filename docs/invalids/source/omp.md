@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `omp`. See the [GitHub rep
 ## `APO`: Ascomycete phenotype ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `apo` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/apo).
+xrefs to external prefixed with `APO` (standardized to Bioregistry
+entry [`apo`]((https://bioregistry.io/apo)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `CHEBI`: Chemical Entities of Biological Interest
 
 Overall, there were 2 invalid
-xrefs to external terms in `chebi` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/chebi).
+xrefs to external prefixed with `CHEBI` (standardized to Bioregistry
+entry [`chebi`]((https://bioregistry.io/chebi)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref       |   usages_count | usages                                            |
 |---------------------|----------------|---------------------------------------------------|
@@ -32,10 +30,9 @@ external resource can be found on the
 ## `FYPO`: Fission Yeast Phenotype Ontology
 
 Overall, there were 3 invalid
-xrefs to external terms in `fypo` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/fypo).
+xrefs to external prefixed with `FYPO` (standardized to Bioregistry
+entry [`fypo`]((https://bioregistry.io/fypo)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref       |   usages_count | usages                                            |
 |---------------------|----------------|---------------------------------------------------|
@@ -46,10 +43,9 @@ external resource can be found on the
 ## `GO`: Gene Ontology
 
 Overall, there were 8 invalid
-xrefs to external terms in `go` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/go).
+xrefs to external prefixed with `GO` (standardized to Bioregistry
+entry [`go`]((https://bioregistry.io/go)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                               |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -64,24 +60,23 @@ external resource can be found on the
 ## `OMP`: Ontology of Microbial Phenotypes
 
 Overall, there were 1,807 invalid
-xrefs to external terms in `omp` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/omp).
+xrefs to external prefixed with `OMP` (standardized to Bioregistry
+entry [`omp`]((https://bioregistry.io/omp)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `OMP:DAS`       |            665 | [OMP:0000189](https://bioregistry.io/OMP:0000189), [OMP:0007222](https://bioregistry.io/OMP:0007222), [OMP:0007276](https://bioregistry.io/OMP:0007276), [OMP:0007438](https://bioregistry.io/OMP:0007438), [OMP:0007641](https://bioregistry.io/OMP:0007641), ... |
-| `OMP:JG`        |            272 | [OMP:0005143](https://bioregistry.io/OMP:0005143), [OMP:0005189](https://bioregistry.io/OMP:0005189), [OMP:0005238](https://bioregistry.io/OMP:0005238), [OMP:0005254](https://bioregistry.io/OMP:0005254), [OMP:0005358](https://bioregistry.io/OMP:0005358), ... |
-| `OMP:WAM`       |            247 | [OMP:0000200](https://bioregistry.io/OMP:0000200), [OMP:0005002](https://bioregistry.io/OMP:0005002), [OMP:0005013](https://bioregistry.io/OMP:0005013), [OMP:0005016](https://bioregistry.io/OMP:0005016), [OMP:0005052](https://bioregistry.io/OMP:0005052), ... |
-| `OMP:das`       |            231 | [OMP:0007696](https://bioregistry.io/OMP:0007696), [OMP:0007727](https://bioregistry.io/OMP:0007727), [OMP:0007788](https://bioregistry.io/OMP:0007788), [OMP:0007826](https://bioregistry.io/OMP:0007826), [OMP:0007858](https://bioregistry.io/OMP:0007858), ... |
-| `OMP:JCH`       |            216 | [OMP:0006025](https://bioregistry.io/OMP:0006025), [OMP:0006079](https://bioregistry.io/OMP:0006079), [OMP:0006124](https://bioregistry.io/OMP:0006124), [OMP:0006129](https://bioregistry.io/OMP:0006129), [OMP:0006150](https://bioregistry.io/OMP:0006150), ... |
-| `OMP:MCC`       |             93 | [OMP:0000056](https://bioregistry.io/OMP:0000056), [OMP:0000072](https://bioregistry.io/OMP:0000072), [OMP:0000150](https://bioregistry.io/OMP:0000150), [OMP:0000150](https://bioregistry.io/OMP:0000150), [OMP:0000150](https://bioregistry.io/OMP:0000150), ... |
-| `OMP:KDA`       |             35 | [OMP:0008000](https://bioregistry.io/OMP:0008000), [OMP:0008008](https://bioregistry.io/OMP:0008008), [OMP:0008011](https://bioregistry.io/OMP:0008011), [OMP:0008027](https://bioregistry.io/OMP:0008027), [OMP:0008033](https://bioregistry.io/OMP:0008033), ... |
-| `OMP:AEZ`       |              9 | [OMP:0000117](https://bioregistry.io/OMP:0000117), [OMP:0000118](https://bioregistry.io/OMP:0000118), [OMP:0000118](https://bioregistry.io/OMP:0000118), [OMP:0000119](https://bioregistry.io/OMP:0000119), [OMP:0000124](https://bioregistry.io/OMP:0000124), ... |
-| `OMP:TZ`        |              9 | [OMP:0008039](https://bioregistry.io/OMP:0008039), [OMP:0008048](https://bioregistry.io/OMP:0008048), [OMP:0008048](https://bioregistry.io/OMP:0008048), [OMP:0008049](https://bioregistry.io/OMP:0008049), [OMP:0008049](https://bioregistry.io/OMP:0008049), ... |
-| `OMP:TCK`       |              8 | [OMP:0006000](https://bioregistry.io/OMP:0006000), [OMP:0006106](https://bioregistry.io/OMP:0006106), [OMP:0006172](https://bioregistry.io/OMP:0006172), [OMP:0006172](https://bioregistry.io/OMP:0006172), [OMP:0006172](https://bioregistry.io/OMP:0006172), ... |
-| `OMP:AZ`        |              6 | [OMP:0000140](https://bioregistry.io/OMP:0000140), [OMP:0000140](https://bioregistry.io/OMP:0000140), [OMP:0000141](https://bioregistry.io/OMP:0000141), [OMP:0000142](https://bioregistry.io/OMP:0000142), [OMP:0000148](https://bioregistry.io/OMP:0000148), ... |
+| `OMP:DAS`       |            665 | [OMP:0007040](https://bioregistry.io/OMP:0007040), [OMP:0007100](https://bioregistry.io/OMP:0007100), [OMP:0007596](https://bioregistry.io/OMP:0007596), [OMP:0007643](https://bioregistry.io/OMP:0007643), [OMP:0007677](https://bioregistry.io/OMP:0007677), ... |
+| `OMP:JG`        |            272 | [OMP:0005140](https://bioregistry.io/OMP:0005140), [OMP:0005171](https://bioregistry.io/OMP:0005171), [OMP:0005286](https://bioregistry.io/OMP:0005286), [OMP:0005311](https://bioregistry.io/OMP:0005311), [OMP:0005325](https://bioregistry.io/OMP:0005325), ... |
+| `OMP:WAM`       |            247 | [OMP:0000147](https://bioregistry.io/OMP:0000147), [OMP:0000243](https://bioregistry.io/OMP:0000243), [OMP:0005008](https://bioregistry.io/OMP:0005008), [OMP:0005122](https://bioregistry.io/OMP:0005122), [OMP:0006072](https://bioregistry.io/OMP:0006072), ... |
+| `OMP:das`       |            231 | [OMP:0007692](https://bioregistry.io/OMP:0007692), [OMP:0007692](https://bioregistry.io/OMP:0007692), [OMP:0007724](https://bioregistry.io/OMP:0007724), [OMP:0007788](https://bioregistry.io/OMP:0007788), [OMP:0007888](https://bioregistry.io/OMP:0007888), ... |
+| `OMP:JCH`       |            216 | [OMP:0000196](https://bioregistry.io/OMP:0000196), [OMP:0000202](https://bioregistry.io/OMP:0000202), [OMP:0000450](https://bioregistry.io/OMP:0000450), [OMP:0000454](https://bioregistry.io/OMP:0000454), [OMP:0006043](https://bioregistry.io/OMP:0006043), ... |
+| `OMP:MCC`       |             93 | [OMP:0000012](https://bioregistry.io/OMP:0000012), [OMP:0000024](https://bioregistry.io/OMP:0000024), [OMP:0000027](https://bioregistry.io/OMP:0000027), [OMP:0000054](https://bioregistry.io/OMP:0000054), [OMP:0000069](https://bioregistry.io/OMP:0000069), ... |
+| `OMP:KDA`       |             35 | [OMP:0008000](https://bioregistry.io/OMP:0008000), [OMP:0008008](https://bioregistry.io/OMP:0008008), [OMP:0008015](https://bioregistry.io/OMP:0008015), [OMP:0008018](https://bioregistry.io/OMP:0008018), [OMP:0008021](https://bioregistry.io/OMP:0008021), ... |
+| `OMP:AEZ`       |              9 | [OMP:0000117](https://bioregistry.io/OMP:0000117), [OMP:0000117](https://bioregistry.io/OMP:0000117), [OMP:0000117](https://bioregistry.io/OMP:0000117), [OMP:0000118](https://bioregistry.io/OMP:0000118), [OMP:0000121](https://bioregistry.io/OMP:0000121), ... |
+| `OMP:TZ`        |              9 | [OMP:0008037](https://bioregistry.io/OMP:0008037), [OMP:0008040](https://bioregistry.io/OMP:0008040), [OMP:0008043](https://bioregistry.io/OMP:0008043), [OMP:0008044](https://bioregistry.io/OMP:0008044), [OMP:0008045](https://bioregistry.io/OMP:0008045), ... |
+| `OMP:TCK`       |              8 | [OMP:0006000](https://bioregistry.io/OMP:0006000), [OMP:0006000](https://bioregistry.io/OMP:0006000), [OMP:0006118](https://bioregistry.io/OMP:0006118), [OMP:0006179](https://bioregistry.io/OMP:0006179), [OMP:0006180](https://bioregistry.io/OMP:0006180), ... |
+| `OMP:AZ`        |              6 | [OMP:0000140](https://bioregistry.io/OMP:0000140), [OMP:0000142](https://bioregistry.io/OMP:0000142), [OMP:0000142](https://bioregistry.io/OMP:0000142), [OMP:0000148](https://bioregistry.io/OMP:0000148), [OMP:0000148](https://bioregistry.io/OMP:0000148), ... |
 | `OMP:tz`        |              5 | [OMP:0008035](https://bioregistry.io/OMP:0008035), [OMP:0008036](https://bioregistry.io/OMP:0008036), [OMP:0008038](https://bioregistry.io/OMP:0008038), [OMP:0008052](https://bioregistry.io/OMP:0008052), [OMP:0008060](https://bioregistry.io/OMP:0008060)      |
 | `OMP:dr`        |              4 | [OMP:0005382](https://bioregistry.io/OMP:0005382), [OMP:0005393](https://bioregistry.io/OMP:0005393), [OMP:0005395](https://bioregistry.io/OMP:0005395), [OMP:0005398](https://bioregistry.io/OMP:0005398)                                                         |
 | `OMP:JHU`       |              2 | [OMP:0005035](https://bioregistry.io/OMP:0005035), [OMP:0005036](https://bioregistry.io/OMP:0005036)                                                                                                                                                               |
@@ -92,10 +87,9 @@ external resource can be found on the
 ## `OMp`: Ontology of Microbial Phenotypes
 
 Overall, there were 2 invalid
-xrefs to external terms in `omp` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/omp).
+xrefs to external prefixed with `OMp` (standardized to Bioregistry
+entry [`omp`]((https://bioregistry.io/omp)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                               |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -104,10 +98,9 @@ external resource can be found on the
 ## `SNOMED`: SNOMED CT (International Edition)
 
 Overall, there were 6 invalid
-xrefs to external terms in `snomedct` that did not match the standard
-pattern `^(\w+)?\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/snomedct).
+xrefs to external prefixed with `SNOMED` (standardized to Bioregistry
+entry [`snomedct`]((https://bioregistry.io/snomedct)) that
+did not match the standard pattern `^(\w+)?\d+$`.
 
 | external_xref      |   usages_count | usages                                            |
 |--------------------|----------------|---------------------------------------------------|

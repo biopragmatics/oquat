@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `bcio`.
 ## `MA`: Mouse adult gross anatomy
 
 Overall, there were 3 invalid
-xrefs to external terms in `ma` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ma).
+xrefs to external prefixed with `MA` (standardized to Bioregistry
+entry [`ma`]((https://bioregistry.io/ma)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                              |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|

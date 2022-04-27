@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `hom`. See the [GitHub rep
 ## `ECO`: Evidence ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `eco` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/eco).
+xrefs to external prefixed with `ECO` (standardized to Bioregistry
+entry [`eco`]((https://bioregistry.io/eco)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `MeSH`: Medical Subject Headings
 
 Overall, there were 4 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MeSH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref                       |   usages_count | usages                                                                                               |
 |-------------------------------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -33,10 +31,9 @@ external resource can be found on the
 ## `RO_proposed_relation`: Relation Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `ro` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ro).
+xrefs to external prefixed with `RO_proposed_relation` (standardized to Bioregistry
+entry [`ro`]((https://bioregistry.io/ro)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref                        |   usages_count | usages                                            |
 |--------------------------------------|----------------|---------------------------------------------------|
@@ -45,10 +42,9 @@ external resource can be found on the
 ## `SO`: Sequence types and features ontology
 
 Overall, there were 6 invalid
-xrefs to external terms in `so` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/so).
+xrefs to external prefixed with `SO` (standardized to Bioregistry
+entry [`so`]((https://bioregistry.io/so)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref                  |   usages_count | usages                                                                                               |
 |--------------------------------|----------------|------------------------------------------------------------------------------------------------------|

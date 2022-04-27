@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `bto`. See the [GitHub rep
 ## `Flybase`: FlyBase Gene
 
 Overall, there were 1 invalid
-xrefs to external terms in `flybase` that did not match the standard
-pattern `^FB\w{2}\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/flybase).
+xrefs to external prefixed with `Flybase` (standardized to Bioregistry
+entry [`flybase`]((https://bioregistry.io/flybase)) that
+did not match the standard pattern `^FB\w{2}\d{7}$`.
 
 | external_xref                                                                               |   usages_count | usages                                            |
 |---------------------------------------------------------------------------------------------|----------------|---------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `ISSN`: International Standard Serial Number
 
 Overall, there were 1 invalid
-xrefs to external terms in `issn` that did not match the standard
-pattern `^\d{4}-\d{3}[\dX]$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/issn).
+xrefs to external prefixed with `ISSN` (standardized to Bioregistry
+entry [`issn`]((https://bioregistry.io/issn)) that
+did not match the standard pattern `^\d{4}-\d{3}[\dX]$`.
 
 | external_xref                                                          |   usages_count | usages                                            |
 |------------------------------------------------------------------------|----------------|---------------------------------------------------|
@@ -31,10 +29,9 @@ external resource can be found on the
 ## `MedlinePlus`: MedlinePlus Health Topics
 
 Overall, there were 1 invalid
-xrefs to external terms in `medlineplus` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/medlineplus).
+xrefs to external prefixed with `MedlinePlus` (standardized to Bioregistry
+entry [`medlineplus`]((https://bioregistry.io/medlineplus)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref                                                                                           |   usages_count | usages                                            |
 |---------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------|
@@ -43,10 +40,9 @@ external resource can be found on the
 ## `MGI`: Mouse Genome Informatics
 
 Overall, there were 1 invalid
-xrefs to external terms in `mgi` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mgi).
+xrefs to external prefixed with `MGI` (standardized to Bioregistry
+entry [`mgi`]((https://bioregistry.io/mgi)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref                                              |   usages_count | usages                                            |
 |------------------------------------------------------------|----------------|---------------------------------------------------|
@@ -55,10 +51,9 @@ external resource can be found on the
 ## `NASC`: NASC code
 
 Overall, there were 1 invalid
-xrefs to external terms in `nasc` that did not match the standard
-pattern `^(\w+)?\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/nasc).
+xrefs to external prefixed with `NASC` (standardized to Bioregistry
+entry [`nasc`]((https://bioregistry.io/nasc)) that
+did not match the standard pattern `^(\w+)?\d+$`.
 
 | external_xref                                |   usages_count | usages                                            |
 |----------------------------------------------|----------------|---------------------------------------------------|
@@ -67,10 +62,9 @@ external resource can be found on the
 ## `Patent`: Google Patents
 
 Overall, there were 2 invalid
-xrefs to external terms in `google.patent` that did not match the standard
-pattern `^[A-Z]{2}\d+([A-Z])?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/google.patent).
+xrefs to external prefixed with `Patent` (standardized to Bioregistry
+entry [`google.patent`]((https://bioregistry.io/google.patent)) that
+did not match the standard pattern `^[A-Z]{2}\d+([A-Z])?$`.
 
 | external_xref              |   usages_count | usages                                                                                               |
 |----------------------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -79,10 +73,9 @@ external resource can be found on the
 ## `PMID`: PubMed
 
 Overall, there were 7 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref     |   usages_count | usages                                            |
 |-------------------|----------------|---------------------------------------------------|
@@ -97,10 +90,9 @@ external resource can be found on the
 ## `WormBase`: WormBase database of nematode biology
 
 Overall, there were 1 invalid
-xrefs to external terms in `wormbase` that did not match the standard
-pattern `^WB[A-Z][a-z]+\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wormbase).
+xrefs to external prefixed with `WormBase` (standardized to Bioregistry
+entry [`wormbase`]((https://bioregistry.io/wormbase)) that
+did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 | external_xref                       |   usages_count | usages                                            |
 |-------------------------------------|----------------|---------------------------------------------------|
@@ -109,10 +101,9 @@ external resource can be found on the
 ## `Wormbase`: WormBase database of nematode biology
 
 Overall, there were 1 invalid
-xrefs to external terms in `wormbase` that did not match the standard
-pattern `^WB[A-Z][a-z]+\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wormbase).
+xrefs to external prefixed with `Wormbase` (standardized to Bioregistry
+entry [`wormbase`]((https://bioregistry.io/wormbase)) that
+did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 | external_xref                                              |   usages_count | usages                                            |
 |------------------------------------------------------------|----------------|---------------------------------------------------|

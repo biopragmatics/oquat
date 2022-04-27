@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `poro`. See the [GitHub re
 ## `UBERON`: Uber Anatomy Ontology
 
 Overall, there were 2 invalid
-xrefs to external terms in `uberon` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/uberon).
+xrefs to external prefixed with `UBERON` (standardized to Bioregistry
+entry [`uberon`]((https://bioregistry.io/uberon)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------|

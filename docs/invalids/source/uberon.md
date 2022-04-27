@@ -7,23 +7,21 @@ for node, synonym, and definition cross-references in `uberon`. See the [GitHub 
 ## `AEO`: Anatomical Entity Ontology
 
 Overall, there were 31 invalid
-xrefs to external terms in `aeo` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/aeo).
+xrefs to external prefixed with `AEO` (standardized to Bioregistry
+entry [`aeo`]((https://bioregistry.io/aeo)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `AEO:JB`        |             30 | [UBERON:0001637](https://bioregistry.io/UBERON:0001637), [UBERON:0007500](https://bioregistry.io/UBERON:0007500), [UBERON:0007522](https://bioregistry.io/UBERON:0007522), [UBERON:0007524](https://bioregistry.io/UBERON:0007524), [UBERON:0007530](https://bioregistry.io/UBERON:0007530), ... |
+| `AEO:JB`        |             30 | [UBERON:0001637](https://bioregistry.io/UBERON:0001637), [UBERON:0005866](https://bioregistry.io/UBERON:0005866), [UBERON:0007500](https://bioregistry.io/UBERON:0007500), [UBERON:0014403](https://bioregistry.io/UBERON:0014403), [UBERON:0015203](https://bioregistry.io/UBERON:0015203), ... |
 | `AEO:000020`    |              1 | [UBERON:0001013](https://bioregistry.io/UBERON:0001013)                                                                                                                                                                                                                                          |
 
 ## `CALOHA`: CALIPHO Group Ontology of Human Anatomy
 
 Overall, there were 3 invalid
-xrefs to external terms in `caloha` that did not match the standard
-pattern `^TS-\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/caloha).
+xrefs to external prefixed with `CALOHA` (standardized to Bioregistry
+entry [`caloha`]((https://bioregistry.io/caloha)) that
+did not match the standard pattern `^TS-\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                    |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -32,22 +30,20 @@ external resource can be found on the
 ## `CL`: Cell Ontology
 
 Overall, there were 19 invalid
-xrefs to external terms in `cl` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/cl).
+xrefs to external prefixed with `CL` (standardized to Bioregistry
+entry [`cl`]((https://bioregistry.io/cl)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CL:tm`         |             19 | [UBERON:0001249](https://bioregistry.io/UBERON:0001249), [UBERON:0005196](https://bioregistry.io/UBERON:0005196), [UBERON:0010422](https://bioregistry.io/UBERON:0010422), [UBERON:0010753](https://bioregistry.io/UBERON:0010753), [UBERON:0010755](https://bioregistry.io/UBERON:0010755), ... |
+| `CL:tm`         |             19 | [UBERON:0001249](https://bioregistry.io/UBERON:0001249), [UBERON:0001745](https://bioregistry.io/UBERON:0001745), [UBERON:0004042](https://bioregistry.io/UBERON:0004042), [UBERON:0004870](https://bioregistry.io/UBERON:0004870), [UBERON:0010421](https://bioregistry.io/UBERON:0010421), ... |
 
 ## `DHBA`: Developing Human Brain Atlas
 
 Overall, there were 17 invalid
-xrefs to external terms in `dhba` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/dhba).
+xrefs to external prefixed with `DHBA` (standardized to Bioregistry
+entry [`dhba`]((https://bioregistry.io/dhba)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -72,10 +68,9 @@ external resource can be found on the
 ## `DMBA`: Developing Mouse Brain Atlas
 
 Overall, there were 16 invalid
-xrefs to external terms in `dmba` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/dmba).
+xrefs to external prefixed with `DMBA` (standardized to Bioregistry
+entry [`dmba`]((https://bioregistry.io/dmba)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -99,10 +94,9 @@ external resource can be found on the
 ## `EMAPA`: Mouse Developmental Anatomy Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `emapa` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/emapa).
+xrefs to external prefixed with `EMAPA` (standardized to Bioregistry
+entry [`emapa`]((https://bioregistry.io/emapa)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -111,23 +105,21 @@ external resource can be found on the
 ## `FB`: FlyBase Gene
 
 Overall, there were 8 invalid
-xrefs to external terms in `flybase` that did not match the standard
-pattern `^FB\w{2}\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/flybase).
+xrefs to external prefixed with `FB` (standardized to Bioregistry
+entry [`flybase`]((https://bioregistry.io/flybase)) that
+did not match the standard pattern `^FB\w{2}\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `FB:gg`         |              7 | [UBERON:0000018](https://bioregistry.io/UBERON:0000018), [UBERON:0000018](https://bioregistry.io/UBERON:0000018), [UBERON:0000918](https://bioregistry.io/UBERON:0000918), [UBERON:0000987](https://bioregistry.io/UBERON:0000987), [UBERON:0000987](https://bioregistry.io/UBERON:0000987), ... |
+| `FB:gg`         |              7 | [UBERON:0000984](https://bioregistry.io/UBERON:0000984), [UBERON:0000984](https://bioregistry.io/UBERON:0000984), [UBERON:0000987](https://bioregistry.io/UBERON:0000987), [UBERON:0000987](https://bioregistry.io/UBERON:0000987), [UBERON:0000987](https://bioregistry.io/UBERON:0000987), ... |
 | `FB:DJS`        |              1 | [UBERON:0001048](https://bioregistry.io/UBERON:0001048)                                                                                                                                                                                                                                          |
 
 ## `FlyBase`: FlyBase Gene
 
 Overall, there were 1 invalid
-xrefs to external terms in `flybase` that did not match the standard
-pattern `^FB\w{2}\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/flybase).
+xrefs to external prefixed with `FlyBase` (standardized to Bioregistry
+entry [`flybase`]((https://bioregistry.io/flybase)) that
+did not match the standard pattern `^FB\w{2}\d{7}$`.
 
 | external_xref              |   usages_count | usages                                                  |
 |----------------------------|----------------|---------------------------------------------------------|
@@ -136,24 +128,22 @@ external resource can be found on the
 ## `FMA`: Foundational Model of Anatomy
 
 Overall, there were 1,056 invalid
-xrefs to external terms in `fma` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/fma).
+xrefs to external prefixed with `FMA` (standardized to Bioregistry
+entry [`fma`]((https://bioregistry.io/fma)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `FMA:TA`        |           1023 | [UBERON:0004672](https://bioregistry.io/UBERON:0004672), [UBERON:0014380](https://bioregistry.io/UBERON:0014380), [UBERON:0014854](https://bioregistry.io/UBERON:0014854), [UBERON:0022250](https://bioregistry.io/UBERON:0022250), [UBERON:0038920](https://bioregistry.io/UBERON:0038920), ... |
-| `FMA:FMA`       |             27 | [UBERON:0002209](https://bioregistry.io/UBERON:0002209), [UBERON:0002209](https://bioregistry.io/UBERON:0002209), [UBERON:0002213](https://bioregistry.io/UBERON:0002213), [UBERON:0016516](https://bioregistry.io/UBERON:0016516), [UBERON:0016524](https://bioregistry.io/UBERON:0016524), ... |
-| `FMA:CMA`       |              6 | [UBERON:0002657](https://bioregistry.io/UBERON:0002657), [UBERON:0002657](https://bioregistry.io/UBERON:0002657), [UBERON:0034891](https://bioregistry.io/UBERON:0034891), [UBERON:0034891](https://bioregistry.io/UBERON:0034891), [UBERON:0034891](https://bioregistry.io/UBERON:0034891), ... |
+| `FMA:TA`        |           1023 | [UBERON:0001199](https://bioregistry.io/UBERON:0001199), [UBERON:0002551](https://bioregistry.io/UBERON:0002551), [UBERON:0012477](https://bioregistry.io/UBERON:0012477), [UBERON:0012499](https://bioregistry.io/UBERON:0012499), [UBERON:0018160](https://bioregistry.io/UBERON:0018160), ... |
+| `FMA:FMA`       |             27 | [UBERON:0000485](https://bioregistry.io/UBERON:0000485), [UBERON:0001943](https://bioregistry.io/UBERON:0001943), [UBERON:0002137](https://bioregistry.io/UBERON:0002137), [UBERON:0002168](https://bioregistry.io/UBERON:0002168), [UBERON:0016509](https://bioregistry.io/UBERON:0016509), ... |
+| `FMA:CMA`       |              6 | [UBERON:0002657](https://bioregistry.io/UBERON:0002657), [UBERON:0002740](https://bioregistry.io/UBERON:0002740), [UBERON:0002756](https://bioregistry.io/UBERON:0002756), [UBERON:0016636](https://bioregistry.io/UBERON:0016636), [UBERON:0034891](https://bioregistry.io/UBERON:0034891), ... |
 
 ## `GO`: Gene Ontology
 
 Overall, there were 3 invalid
-xrefs to external terms in `go` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/go).
+xrefs to external prefixed with `GO` (standardized to Bioregistry
+entry [`go`]((https://bioregistry.io/go)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                           |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
@@ -163,10 +153,9 @@ external resource can be found on the
 ## `HBA`: Human Brain Atlas
 
 Overall, there were 17 invalid
-xrefs to external terms in `hba` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/hba).
+xrefs to external prefixed with `HBA` (standardized to Bioregistry
+entry [`hba`]((https://bioregistry.io/hba)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -191,10 +180,9 @@ external resource can be found on the
 ## `HPO`: Human Phenotype Ontology
 
 Overall, there were 5 invalid
-xrefs to external terms in `hp` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/hp).
+xrefs to external prefixed with `HPO` (standardized to Bioregistry
+entry [`hp`]((https://bioregistry.io/hp)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                           |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
@@ -205,22 +193,20 @@ external resource can be found on the
 ## `MA`: Mouse adult gross anatomy
 
 Overall, there were 16 invalid
-xrefs to external terms in `ma` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ma).
+xrefs to external prefixed with `MA` (standardized to Bioregistry
+entry [`ma`]((https://bioregistry.io/ma)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MA:th`         |             16 | [UBERON:0002470](https://bioregistry.io/UBERON:0002470), [UBERON:0002471](https://bioregistry.io/UBERON:0002471), [UBERON:0002471](https://bioregistry.io/UBERON:0002471), [UBERON:0004454](https://bioregistry.io/UBERON:0004454), [UBERON:0010544](https://bioregistry.io/UBERON:0010544), ... |
+| `MA:th`         |             16 | [UBERON:0003822](https://bioregistry.io/UBERON:0003822), [UBERON:0005601](https://bioregistry.io/UBERON:0005601), [UBERON:0006716](https://bioregistry.io/UBERON:0006716), [UBERON:0006716](https://bioregistry.io/UBERON:0006716), [UBERON:0006854](https://bioregistry.io/UBERON:0006854), ... |
 
 ## `MESH`: Medical Subject Headings
 
 Overall, there were 452 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MESH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref                              |   usages_count | usages                                                                                                                                                                    |
 |--------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -614,19 +600,18 @@ external resource can be found on the
 ## `MGI`: Mouse Genome Informatics
 
 Overall, there were 262 invalid
-xrefs to external terms in `mgi` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mgi).
+xrefs to external prefixed with `MGI` (standardized to Bioregistry
+entry [`mgi`]((https://bioregistry.io/mgi)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MGI:anna`      |            104 | [UBERON:0000453](https://bioregistry.io/UBERON:0000453), [UBERON:0001702](https://bioregistry.io/UBERON:0001702), [UBERON:0006954](https://bioregistry.io/UBERON:0006954), [UBERON:0007679](https://bioregistry.io/UBERON:0007679), [UBERON:0034878](https://bioregistry.io/UBERON:0034878), ... |
-| `MGI:csmith`    |             73 | [UBERON:0001282](https://bioregistry.io/UBERON:0001282), [UBERON:0004639](https://bioregistry.io/UBERON:0004639), [UBERON:0006670](https://bioregistry.io/UBERON:0006670), [UBERON:0006875](https://bioregistry.io/UBERON:0006875), [UBERON:0010380](https://bioregistry.io/UBERON:0010380), ... |
-| `MGI:cwg`       |             25 | [UBERON:0001542](https://bioregistry.io/UBERON:0001542), [UBERON:0001732](https://bioregistry.io/UBERON:0001732), [UBERON:0002185](https://bioregistry.io/UBERON:0002185), [UBERON:0004785](https://bioregistry.io/UBERON:0004785), [UBERON:0004791](https://bioregistry.io/UBERON:0004791), ... |
-| `MGI:smb`       |             24 | [UBERON:0001804](https://bioregistry.io/UBERON:0001804), [UBERON:0001860](https://bioregistry.io/UBERON:0001860), [UBERON:0002489](https://bioregistry.io/UBERON:0002489), [UBERON:0006721](https://bioregistry.io/UBERON:0006721), [UBERON:0014396](https://bioregistry.io/UBERON:0014396), ... |
-| `MGI:llw2`      |             11 | [UBERON:0000388](https://bioregistry.io/UBERON:0000388), [UBERON:0000388](https://bioregistry.io/UBERON:0000388), [UBERON:0000959](https://bioregistry.io/UBERON:0000959), [UBERON:0001236](https://bioregistry.io/UBERON:0001236), [UBERON:0001451](https://bioregistry.io/UBERON:0001451), ... |
-| `MGI:cs`        |              8 | [UBERON:0034932](https://bioregistry.io/UBERON:0034932), [UBERON:0035617](https://bioregistry.io/UBERON:0035617), [UBERON:0035619](https://bioregistry.io/UBERON:0035619), [UBERON:0035619](https://bioregistry.io/UBERON:0035619), [UBERON:0035655](https://bioregistry.io/UBERON:0035655), ... |
+| `MGI:anna`      |            104 | [UBERON:0000325](https://bioregistry.io/UBERON:0000325), [UBERON:0001532](https://bioregistry.io/UBERON:0001532), [UBERON:0005313](https://bioregistry.io/UBERON:0005313), [UBERON:0005452](https://bioregistry.io/UBERON:0005452), [UBERON:0015189](https://bioregistry.io/UBERON:0015189), ... |
+| `MGI:csmith`    |             73 | [UBERON:0001279](https://bioregistry.io/UBERON:0001279), [UBERON:0001279](https://bioregistry.io/UBERON:0001279), [UBERON:0001959](https://bioregistry.io/UBERON:0001959), [UBERON:0004810](https://bioregistry.io/UBERON:0004810), [UBERON:0010412](https://bioregistry.io/UBERON:0010412), ... |
+| `MGI:cwg`       |             25 | [UBERON:0001728](https://bioregistry.io/UBERON:0001728), [UBERON:0001735](https://bioregistry.io/UBERON:0001735), [UBERON:0001740](https://bioregistry.io/UBERON:0001740), [UBERON:0004641](https://bioregistry.io/UBERON:0004641), [UBERON:0004693](https://bioregistry.io/UBERON:0004693), ... |
+| `MGI:smb`       |             24 | [UBERON:0001804](https://bioregistry.io/UBERON:0001804), [UBERON:0002491](https://bioregistry.io/UBERON:0002491), [UBERON:0002491](https://bioregistry.io/UBERON:0002491), [UBERON:0003889](https://bioregistry.io/UBERON:0003889), [UBERON:0013766](https://bioregistry.io/UBERON:0013766), ... |
+| `MGI:llw2`      |             11 | [UBERON:0002076](https://bioregistry.io/UBERON:0002076), [UBERON:0002242](https://bioregistry.io/UBERON:0002242), [UBERON:0002518](https://bioregistry.io/UBERON:0002518), [UBERON:0010419](https://bioregistry.io/UBERON:0010419), [UBERON:0011893](https://bioregistry.io/UBERON:0011893), ... |
+| `MGI:cs`        |              8 | [UBERON:0035617](https://bioregistry.io/UBERON:0035617), [UBERON:0035618](https://bioregistry.io/UBERON:0035618), [UBERON:0035619](https://bioregistry.io/UBERON:0035619), [UBERON:0035619](https://bioregistry.io/UBERON:0035619), [UBERON:0035845](https://bioregistry.io/UBERON:0035845), ... |
 | `MGI:pvb`       |              5 | [UBERON:0000087](https://bioregistry.io/UBERON:0000087), [UBERON:0001000](https://bioregistry.io/UBERON:0001000), [UBERON:0001230](https://bioregistry.io/UBERON:0001230), [UBERON:0001301](https://bioregistry.io/UBERON:0001301), [UBERON:0005623](https://bioregistry.io/UBERON:0005623)      |
 | `MGI:rbabiuk`   |              3 | [UBERON:0001213](https://bioregistry.io/UBERON:0001213), [UBERON:0010412](https://bioregistry.io/UBERON:0010412), [UBERON:0014396](https://bioregistry.io/UBERON:0014396)                                                                                                                        |
 | `MGI:monikat`   |              3 | [UBERON:0002115](https://bioregistry.io/UBERON:0002115), [UBERON:0002493](https://bioregistry.io/UBERON:0002493), [UBERON:0002511](https://bioregistry.io/UBERON:0002511)                                                                                                                        |
@@ -639,24 +624,22 @@ external resource can be found on the
 ## `MP`: Mammalian Phenotype Ontology
 
 Overall, there were 37 invalid
-xrefs to external terms in `mp` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mp).
+xrefs to external prefixed with `MP` (standardized to Bioregistry
+entry [`mp`]((https://bioregistry.io/mp)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MP:anna`       |             19 | [UBERON:0002068](https://bioregistry.io/UBERON:0002068), [UBERON:0002068](https://bioregistry.io/UBERON:0002068), [UBERON:0002068](https://bioregistry.io/UBERON:0002068), [UBERON:0012292](https://bioregistry.io/UBERON:0012292), [UBERON:0012295](https://bioregistry.io/UBERON:0012295), ... |
-| `MP:MP`         |             17 | [UBERON:0000173](https://bioregistry.io/UBERON:0000173), [UBERON:0001947](https://bioregistry.io/UBERON:0001947), [UBERON:0010198](https://bioregistry.io/UBERON:0010198), [UBERON:0010396](https://bioregistry.io/UBERON:0010396), [UBERON:0010420](https://bioregistry.io/UBERON:0010420), ... |
+| `MP:anna`       |             19 | [UBERON:0001258](https://bioregistry.io/UBERON:0001258), [UBERON:0001258](https://bioregistry.io/UBERON:0001258), [UBERON:0012296](https://bioregistry.io/UBERON:0012296), [UBERON:0012297](https://bioregistry.io/UBERON:0012297), [UBERON:0012297](https://bioregistry.io/UBERON:0012297), ... |
+| `MP:MP`         |             17 | [UBERON:0005452](https://bioregistry.io/UBERON:0005452), [UBERON:0010198](https://bioregistry.io/UBERON:0010198), [UBERON:0010401](https://bioregistry.io/UBERON:0010401), [UBERON:0010420](https://bioregistry.io/UBERON:0010420), [UBERON:0010420](https://bioregistry.io/UBERON:0010420), ... |
 | `MP:000999`     |              1 | [UBERON:0035922](https://bioregistry.io/UBERON:0035922)                                                                                                                                                                                                                                          |
 
 ## `NCIT`: NCI Thesaurus
 
 Overall, there were 1 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `NCIT` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -665,10 +648,9 @@ external resource can be found on the
 ## `ncithesaurus`: NCI Thesaurus
 
 Overall, there were 230 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `ncithesaurus` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref                                                 |   usages_count | usages                                                                                                           |
 |---------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------|
@@ -903,10 +885,9 @@ external resource can be found on the
 ## `OBI`: Ontology for Biomedical Investigations
 
 Overall, there were 1 invalid
-xrefs to external terms in `obi` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/obi).
+xrefs to external prefixed with `OBI` (standardized to Bioregistry
+entry [`obi`]((https://bioregistry.io/obi)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -915,10 +896,9 @@ external resource can be found on the
 ## `PBA`: Primate Brain Atlas
 
 Overall, there were 1 invalid
-xrefs to external terms in `pba` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pba).
+xrefs to external prefixed with `PBA` (standardized to Bioregistry
+entry [`pba`]((https://bioregistry.io/pba)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -927,15 +907,14 @@ external resource can be found on the
 ## `UBERON`: Uber Anatomy Ontology
 
 Overall, there were 212 invalid
-xrefs to external terms in `uberon` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/uberon).
+xrefs to external prefixed with `UBERON` (standardized to Bioregistry
+entry [`uberon`]((https://bioregistry.io/uberon)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |--------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `UBERON:cjm`       |            172 | [UBERON:0001413](https://bioregistry.io/UBERON:0001413), [UBERON:0003911](https://bioregistry.io/UBERON:0003911), [UBERON:0006871](https://bioregistry.io/UBERON:0006871), [UBERON:0009119](https://bioregistry.io/UBERON:0009119), [UBERON:0011510](https://bioregistry.io/UBERON:0011510), ... |
-| `UBERON:EJS`       |             19 | [UBERON:1000000](https://bioregistry.io/UBERON:1000000), [UBERON:1000012](https://bioregistry.io/UBERON:1000012), [UBERON:1000014](https://bioregistry.io/UBERON:1000014), [UBERON:1000017](https://bioregistry.io/UBERON:1000017), [UBERON:1000018](https://bioregistry.io/UBERON:1000018), ... |
+| `UBERON:cjm`       |            172 | [UBERON:0011363](https://bioregistry.io/UBERON:0011363), [UBERON:0015099](https://bioregistry.io/UBERON:0015099), [UBERON:0015231](https://bioregistry.io/UBERON:0015231), [UBERON:0018377](https://bioregistry.io/UBERON:0018377), [UBERON:0036150](https://bioregistry.io/UBERON:0036150), ... |
+| `UBERON:EJS`       |             19 | [UBERON:1000000](https://bioregistry.io/UBERON:1000000), [UBERON:1000001](https://bioregistry.io/UBERON:1000001), [UBERON:1000002](https://bioregistry.io/UBERON:1000002), [UBERON:1000009](https://bioregistry.io/UBERON:1000009), [UBERON:1000017](https://bioregistry.io/UBERON:1000017), ... |
 | `UBERON:mah`       |              4 | [UBERON:0001427](https://bioregistry.io/UBERON:0001427), [UBERON:0001428](https://bioregistry.io/UBERON:0001428), [UBERON:0015001](https://bioregistry.io/UBERON:0015001), [UBERON:0015003](https://bioregistry.io/UBERON:0015003)                                                               |
 | `UBERON:skansa`    |              4 | [UBERON:0012288](https://bioregistry.io/UBERON:0012288), [UBERON:0012289](https://bioregistry.io/UBERON:0012289), [UBERON:0012290](https://bioregistry.io/UBERON:0012290), [UBERON:0013649](https://bioregistry.io/UBERON:0013649)                                                               |
 | `UBERON:xp`        |              3 | [UBERON:0003133](https://bioregistry.io/UBERON:0003133), [UBERON:0003134](https://bioregistry.io/UBERON:0003134), [UBERON:0003135](https://bioregistry.io/UBERON:0003135)                                                                                                                        |
@@ -950,10 +929,9 @@ external resource can be found on the
 ## `WB`: WormBase database of nematode biology
 
 Overall, there were 3 invalid
-xrefs to external terms in `wormbase` that did not match the standard
-pattern `^WB[A-Z][a-z]+\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wormbase).
+xrefs to external prefixed with `WB` (standardized to Bioregistry
+entry [`wormbase`]((https://bioregistry.io/wormbase)) that
+did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 | external_xref      |   usages_count | usages                                                  |
 |--------------------|----------------|---------------------------------------------------------|
@@ -964,10 +942,9 @@ external resource can be found on the
 ## `XAO`: Xenopus Anatomy Ontology
 
 Overall, there were 7 invalid
-xrefs to external terms in `xao` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/xao).
+xrefs to external prefixed with `XAO` (standardized to Bioregistry
+entry [`xao`]((https://bioregistry.io/xao)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                             |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -978,14 +955,13 @@ external resource can be found on the
 ## `ZFA`: Zebrafish anatomy and development ontology
 
 Overall, there were 14 invalid
-xrefs to external terms in `zfa` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/zfa).
+xrefs to external prefixed with `ZFA` (standardized to Bioregistry
+entry [`zfa`]((https://bioregistry.io/zfa)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref           |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ZFA:curator`           |              9 | [UBERON:0018549](https://bioregistry.io/UBERON:0018549), [UBERON:2000120](https://bioregistry.io/UBERON:2000120), [UBERON:2000120](https://bioregistry.io/UBERON:2000120), [UBERON:2000603](https://bioregistry.io/UBERON:2000603), [UBERON:2000648](https://bioregistry.io/UBERON:2000648), ... |
+| `ZFA:curator`           |              9 | [UBERON:0008229](https://bioregistry.io/UBERON:0008229), [UBERON:0014903](https://bioregistry.io/UBERON:0014903), [UBERON:0014903](https://bioregistry.io/UBERON:0014903), [UBERON:2001316](https://bioregistry.io/UBERON:2001316), [UBERON:2002141](https://bioregistry.io/UBERON:2002141), ... |
 | `ZFA:CVS`               |              2 | [UBERON:0016499](https://bioregistry.io/UBERON:0016499), [UBERON:0018674](https://bioregistry.io/UBERON:0018674)                                                                                                                                                                                 |
 | `ZFA:yb`                |              1 | [UBERON:0002539](https://bioregistry.io/UBERON:0002539)                                                                                                                                                                                                                                          |
 | `ZFA:YMB`               |              1 | [UBERON:0016499](https://bioregistry.io/UBERON:0016499)                                                                                                                                                                                                                                          |
@@ -994,14 +970,13 @@ external resource can be found on the
 ## `ZFIN`: Zebrafish Information Network Gene
 
 Overall, there were 521 invalid
-xrefs to external terms in `zfin` that did not match the standard
-pattern `^ZDB\-\w+\-\d+\-\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/zfin).
+xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
+entry [`zfin`]((https://bioregistry.io/zfin)) that
+did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 
 | external_xref    |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ZFIN:curator`   |            516 | [UBERON:0002050](https://bioregistry.io/UBERON:0002050), [UBERON:0005789](https://bioregistry.io/UBERON:0005789), [UBERON:2000829](https://bioregistry.io/UBERON:2000829), [UBERON:2005170](https://bioregistry.io/UBERON:2005170), [UBERON:2005174](https://bioregistry.io/UBERON:2005174), ... |
+| `ZFIN:curator`   |            516 | [UBERON:0001989](https://bioregistry.io/UBERON:0001989), [UBERON:2000730](https://bioregistry.io/UBERON:2000730), [UBERON:2000978](https://bioregistry.io/UBERON:2000978), [UBERON:2001534](https://bioregistry.io/UBERON:2001534), [UBERON:2005056](https://bioregistry.io/UBERON:2005056), ... |
 | `ZFIN:Curator`   |              2 | [UBERON:0005817](https://bioregistry.io/UBERON:0005817), [UBERON:2005210](https://bioregistry.io/UBERON:2005210)                                                                                                                                                                                 |
 | `ZFIN:yb`        |              1 | [UBERON:0003066](https://bioregistry.io/UBERON:0003066)                                                                                                                                                                                                                                          |
 | `ZFIN:090511-18` |              1 | [UBERON:2002145](https://bioregistry.io/UBERON:2002145)                                                                                                                                                                                                                                          |
@@ -1010,10 +985,9 @@ external resource can be found on the
 ## `zfin`: Zebrafish Information Network Gene
 
 Overall, there were 1 invalid
-xrefs to external terms in `zfin` that did not match the standard
-pattern `^ZDB\-\w+\-\d+\-\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/zfin).
+xrefs to external prefixed with `zfin` (standardized to Bioregistry
+entry [`zfin`]((https://bioregistry.io/zfin)) that
+did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|

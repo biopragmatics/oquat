@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `mpath`. See the [GitHub r
 ## `ICD-O`: International Classification of Diseases for Oncology
 
 Overall, there were 1 invalid
-xrefs to external terms in `icdo` that did not match the standard
-pattern `^[8-9]\d{3}(/[0-3])?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/icdo).
+xrefs to external prefixed with `ICD-O` (standardized to Bioregistry
+entry [`icdo`]((https://bioregistry.io/icdo)) that
+did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 | external_xref    |   usages_count | usages                                        |
 |------------------|----------------|-----------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `ICDO`: International Classification of Diseases for Oncology
 
 Overall, there were 1 invalid
-xrefs to external terms in `icdo` that did not match the standard
-pattern `^[8-9]\d{3}(/[0-3])?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/icdo).
+xrefs to external prefixed with `ICDO` (standardized to Bioregistry
+entry [`icdo`]((https://bioregistry.io/icdo)) that
+did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 | external_xref   |   usages_count | usages                                        |
 |-----------------|----------------|-----------------------------------------------|
@@ -31,10 +29,9 @@ external resource can be found on the
 ## `ISBN`: International Standard Book Number
 
 Overall, there were 1 invalid
-xrefs to external terms in `isbn` that did not match the standard
-pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/isbn).
+xrefs to external prefixed with `ISBN` (standardized to Bioregistry
+entry [`isbn`]((https://bioregistry.io/isbn)) that
+did not match the standard pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`.
 
 | external_xref          |   usages_count | usages                                        |
 |------------------------|----------------|-----------------------------------------------|
@@ -43,17 +40,16 @@ external resource can be found on the
 ## `MPATH`: Mouse pathology ontology
 
 Overall, there were 143 invalid
-xrefs to external terms in `mpath` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mpath).
+xrefs to external prefixed with `MPATH` (standardized to Bioregistry
+entry [`mpath`]((https://bioregistry.io/mpath)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref               |   usages_count | usages                                                                                                                                                                                                                                         |
 |-----------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MPATH:curation`            |             53 | [MPATH:812](https://bioregistry.io/MPATH:812), [MPATH:817](https://bioregistry.io/MPATH:817), [MPATH:823](https://bioregistry.io/MPATH:823), [MPATH:861](https://bioregistry.io/MPATH:861), [MPATH:863](https://bioregistry.io/MPATH:863), ... |
-| `MPATH:Sundberg`            |             51 | [MPATH:739](https://bioregistry.io/MPATH:739), [MPATH:744](https://bioregistry.io/MPATH:744), [MPATH:763](https://bioregistry.io/MPATH:763), [MPATH:788](https://bioregistry.io/MPATH:788), [MPATH:800](https://bioregistry.io/MPATH:800), ... |
-| `MPATH:PNS`                 |             17 | [MPATH:764](https://bioregistry.io/MPATH:764), [MPATH:770](https://bioregistry.io/MPATH:770), [MPATH:775](https://bioregistry.io/MPATH:775), [MPATH:779](https://bioregistry.io/MPATH:779), [MPATH:889](https://bioregistry.io/MPATH:889), ... |
-| `MPATH:Pathology Committee` |             11 | [MPATH:875](https://bioregistry.io/MPATH:875), [MPATH:876](https://bioregistry.io/MPATH:876), [MPATH:878](https://bioregistry.io/MPATH:878), [MPATH:879](https://bioregistry.io/MPATH:879), [MPATH:885](https://bioregistry.io/MPATH:885), ... |
+| `MPATH:curation`            |             53 | [MPATH:820](https://bioregistry.io/MPATH:820), [MPATH:821](https://bioregistry.io/MPATH:821), [MPATH:832](https://bioregistry.io/MPATH:832), [MPATH:850](https://bioregistry.io/MPATH:850), [MPATH:856](https://bioregistry.io/MPATH:856), ... |
+| `MPATH:Sundberg`            |             51 | [MPATH:670](https://bioregistry.io/MPATH:670), [MPATH:765](https://bioregistry.io/MPATH:765), [MPATH:788](https://bioregistry.io/MPATH:788), [MPATH:791](https://bioregistry.io/MPATH:791), [MPATH:793](https://bioregistry.io/MPATH:793), ... |
+| `MPATH:PNS`                 |             17 | [MPATH:764](https://bioregistry.io/MPATH:764), [MPATH:772](https://bioregistry.io/MPATH:772), [MPATH:775](https://bioregistry.io/MPATH:775), [MPATH:777](https://bioregistry.io/MPATH:777), [MPATH:798](https://bioregistry.io/MPATH:798), ... |
+| `MPATH:Pathology Committee` |             11 | [MPATH:880](https://bioregistry.io/MPATH:880), [MPATH:880](https://bioregistry.io/MPATH:880), [MPATH:880](https://bioregistry.io/MPATH:880), [MPATH:881](https://bioregistry.io/MPATH:881), [MPATH:886](https://bioregistry.io/MPATH:886), ... |
 | `MPATH:JPS`                 |              4 | [MPATH:882](https://bioregistry.io/MPATH:882), [MPATH:883](https://bioregistry.io/MPATH:883), [MPATH:884](https://bioregistry.io/MPATH:884), [MPATH:888](https://bioregistry.io/MPATH:888)                                                     |
 | `MPATH:<new dbxref>`        |              3 | [MPATH:770](https://bioregistry.io/MPATH:770), [MPATH:771](https://bioregistry.io/MPATH:771), [MPATH:772](https://bioregistry.io/MPATH:772)                                                                                                    |
 | `MPATH:Curation`            |              1 | [MPATH:656](https://bioregistry.io/MPATH:656)                                                                                                                                                                                                  |
@@ -64,10 +60,9 @@ external resource can be found on the
 ## `mpath`: Mouse pathology ontology
 
 Overall, there were 2 invalid
-xrefs to external terms in `mpath` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mpath).
+xrefs to external prefixed with `mpath` (standardized to Bioregistry
+entry [`mpath`]((https://bioregistry.io/mpath)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref        |   usages_count | usages                                        |
 |----------------------|----------------|-----------------------------------------------|
@@ -77,10 +72,9 @@ external resource can be found on the
 ## `PMCID`: Pubmed Central
 
 Overall, there were 1 invalid
-xrefs to external terms in `pmc` that did not match the standard
-pattern `^PMC\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pmc).
+xrefs to external prefixed with `PMCID` (standardized to Bioregistry
+entry [`pmc`]((https://bioregistry.io/pmc)) that
+did not match the standard pattern `^PMC\d+$`.
 
 | external_xref    |   usages_count | usages                                        |
 |------------------|----------------|-----------------------------------------------|
@@ -89,10 +83,9 @@ external resource can be found on the
 ## `PMID`: PubMed
 
 Overall, there were 2 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref       |   usages_count | usages                                        |
 |---------------------|----------------|-----------------------------------------------|

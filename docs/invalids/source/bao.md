@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `bao`.
 ## `FBdv`: Drosophila development
 
 Overall, there were 1 invalid
-xrefs to external terms in `fbdv` that did not match the standard
-pattern `^\d{8}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/fbdv).
+xrefs to external prefixed with `FBdv` (standardized to Bioregistry
+entry [`fbdv`]((https://bioregistry.io/fbdv)) that
+did not match the standard pattern `^\d{8}$`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `ICDO`: International Classification of Diseases for Oncology
 
 Overall, there were 8 invalid
-xrefs to external terms in `icdo` that did not match the standard
-pattern `^[8-9]\d{3}(/[0-3])?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/icdo).
+xrefs to external prefixed with `ICDO` (standardized to Bioregistry
+entry [`icdo`]((https://bioregistry.io/icdo)) that
+did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 | external_xref   |   usages_count | usages                                        |
 |-----------------|----------------|-----------------------------------------------|
@@ -38,10 +36,9 @@ external resource can be found on the
 ## `KEGG`: Kyoto Encyclopedia of Genes and Genomes
 
 Overall, there were 34 invalid
-xrefs to external terms in `kegg` that did not match the standard
-pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/kegg).
+xrefs to external prefixed with `KEGG` (standardized to Bioregistry
+entry [`kegg`]((https://bioregistry.io/kegg)) that
+did not match the standard pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`.
 
 | external_xref   |   usages_count | usages                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------|
@@ -82,10 +79,9 @@ external resource can be found on the
 ## `MESH`: Medical Subject Headings
 
 Overall, there were 6 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MESH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref              |   usages_count | usages                                                  |
 |----------------------------|----------------|---------------------------------------------------------|
@@ -99,10 +95,9 @@ external resource can be found on the
 ## `ncithesaurus`: NCI Thesaurus
 
 Overall, there were 1 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `ncithesaurus` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref                      |   usages_count | usages                                                  |
 |------------------------------------|----------------|---------------------------------------------------------|
@@ -111,10 +106,9 @@ external resource can be found on the
 ## `OMIM`: Online Mendelian Inheritance in Man
 
 Overall, there were 120 invalid
-xrefs to external terms in `omim` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/omim).
+xrefs to external prefixed with `OMIM` (standardized to Bioregistry
+entry [`omim`]((https://bioregistry.io/omim)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -242,10 +236,9 @@ external resource can be found on the
 ## `ORDO`: Orphanet Rare Disease Ontology
 
 Overall, there were 381 invalid
-xrefs to external terms in `orphanet.ordo` that did not match the standard
-pattern `^Orphanet(_|:)C?\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/orphanet.ordo).
+xrefs to external prefixed with `ORDO` (standardized to Bioregistry
+entry [`orphanet.ordo`]((https://bioregistry.io/orphanet.ordo)) that
+did not match the standard pattern `^Orphanet(_|:)C?\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------|
@@ -632,10 +625,9 @@ external resource can be found on the
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 7 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                        |   usages_count | usages                                          |
 |--------------------------------------|----------------|-------------------------------------------------|

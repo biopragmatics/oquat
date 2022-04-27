@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `efo`. See the [GitHub rep
 ## `ATCC number`: American Type Culture Collection
 
 Overall, there were 1 invalid
-xrefs to external terms in `atcc` that did not match the standard
-pattern `^([A-Z]+-)?\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/atcc).
+xrefs to external prefixed with `ATCC number` (standardized to Bioregistry
+entry [`atcc`]((https://bioregistry.io/atcc)) that
+did not match the standard pattern `^([A-Z]+-)?\d+$`.
 
 | external_xref           |   usages_count | usages                                                                                              |
 |-------------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `doi`: Digital Object Identifier
 
 Overall, there were 1 invalid
-xrefs to external terms in `doi` that did not match the standard
-pattern `^(doi\:)?\d{2}\.\d{4}.*$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/doi).
+xrefs to external prefixed with `doi` (standardized to Bioregistry
+entry [`doi`]((https://bioregistry.io/doi)) that
+did not match the standard pattern `^(doi\:)?\d{2}\.\d{4}.*$`.
 
 | external_xref            |   usages_count | usages                                                                                              |
 |--------------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -31,10 +29,9 @@ external resource can be found on the
 ## `FBdv`: Drosophila development
 
 Overall, there were 1 invalid
-xrefs to external terms in `fbdv` that did not match the standard
-pattern `^\d{8}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/fbdv).
+xrefs to external prefixed with `FBdv` (standardized to Bioregistry
+entry [`fbdv`]((https://bioregistry.io/fbdv)) that
+did not match the standard pattern `^\d{8}$`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -43,10 +40,9 @@ external resource can be found on the
 ## `ICD10`: International Classification of Diseases, 10th Revision
 
 Overall, there were 297 invalid
-xrefs to external terms in `icd10` that did not match the standard
-pattern `^[A-Z]\d+(\.[-\d+])?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/icd10).
+xrefs to external prefixed with `ICD10` (standardized to Bioregistry
+entry [`icd10`]((https://bioregistry.io/icd10)) that
+did not match the standard pattern `^[A-Z]\d+(\.[-\d+])?$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -347,10 +343,9 @@ external resource can be found on the
 ## `ICDO`: International Classification of Diseases for Oncology
 
 Overall, there were 5 invalid
-xrefs to external terms in `icdo` that did not match the standard
-pattern `^[8-9]\d{3}(/[0-3])?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/icdo).
+xrefs to external prefixed with `ICDO` (standardized to Bioregistry
+entry [`icdo`]((https://bioregistry.io/icdo)) that
+did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -362,10 +357,9 @@ external resource can be found on the
 ## `IDO`: Infectious Disease Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `ido` that did not match the standard
-pattern `^[0-9]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ido).
+xrefs to external prefixed with `IDO` (standardized to Bioregistry
+entry [`ido`]((https://bioregistry.io/ido)) that
+did not match the standard pattern `^[0-9]+$`.
 
 | external_xref     |   usages_count | usages                                                                                              |
 |-------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -374,10 +368,9 @@ external resource can be found on the
 ## `KEGG`: Kyoto Encyclopedia of Genes and Genomes
 
 Overall, there were 18 invalid
-xrefs to external terms in `kegg` that did not match the standard
-pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/kegg).
+xrefs to external prefixed with `KEGG` (standardized to Bioregistry
+entry [`kegg`]((https://bioregistry.io/kegg)) that
+did not match the standard pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -403,10 +396,9 @@ external resource can be found on the
 ## `MedDRA`: Medical Dictionary for Regulatory Activities Terminology
 
 Overall, there were 9 invalid
-xrefs to external terms in `meddra` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/meddra).
+xrefs to external prefixed with `MedDRA` (standardized to Bioregistry
+entry [`meddra`]((https://bioregistry.io/meddra)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref            |   usages_count | usages                                                                                              |
 |--------------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -423,10 +415,9 @@ external resource can be found on the
 ## `MedlinePlus`: MedlinePlus Health Topics
 
 Overall, there were 1 invalid
-xrefs to external terms in `medlineplus` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/medlineplus).
+xrefs to external prefixed with `MedlinePlus` (standardized to Bioregistry
+entry [`medlineplus`]((https://bioregistry.io/medlineplus)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref         |   usages_count | usages                                                                                              |
 |-----------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -435,10 +426,9 @@ external resource can be found on the
 ## `MeSH`: Medical Subject Headings
 
 Overall, there were 8 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MeSH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                        |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -452,36 +442,35 @@ external resource can be found on the
 ## `MONDO`: Monarch Disease Ontology
 
 Overall, there were 1,758 invalid
-xrefs to external terms in `mondo` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mondo).
+xrefs to external prefixed with `MONDO` (standardized to Bioregistry
+entry [`mondo`]((https://bioregistry.io/mondo)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref                                          |   usages_count | usages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |--------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MONDO:patterns/location`                              |            618 | [http://www.ebi.ac.uk/efo/EFO:0001061](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001061), [http://www.ebi.ac.uk/efo/EFO:0002893](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0002893), [http://www.ebi.ac.uk/efo/EFO:0002938](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0002938), [http://www.ebi.ac.uk/efo/EFO:0007276](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007276), [http://www.ebi.ac.uk/efo/EFO:1000198](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000198), ... |
-| `MONDO:design_pattern`                                 |            208 | [http://www.ebi.ac.uk/efo/EFO:0004594](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004594), [http://www.ebi.ac.uk/efo/EFO:0005753](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005753), [http://www.ebi.ac.uk/efo/EFO:0007321](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007321), [http://www.ebi.ac.uk/efo/EFO:0009549](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009549), [http://www.ebi.ac.uk/efo/EFO:1001047](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001047), ... |
-| `MONDO:patterns/specific_infectious_disease_by_agent`  |            168 | [http://www.ebi.ac.uk/efo/EFO:0001076](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001076), [http://www.ebi.ac.uk/efo/EFO:0004196](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004196), [http://www.ebi.ac.uk/efo/EFO:0007150](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007150), [http://www.ebi.ac.uk/efo/EFO:0007391](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007391), [http://www.ebi.ac.uk/efo/EFO:0007495](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007495), ... |
-| `MONDO:ambiguous`                                      |            160 | [http://www.ebi.ac.uk/efo/EFO:0000519](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000519), [http://www.ebi.ac.uk/efo/EFO:0000558](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000558), [http://www.ebi.ac.uk/efo/EFO:0008519](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0008519), [http://www.ebi.ac.uk/efo/EFO:0009454](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009454), [http://www.ebi.ac.uk/efo/EFO:1000595](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000595), ... |
-| `MONDO:patterns/location_top`                          |            115 | [http://www.ebi.ac.uk/efo/EFO:0007352](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007352), [http://www.ebi.ac.uk/efo/EFO:0009660](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009660), [http://www.ebi.ac.uk/efo/EFO:0009950](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009950), [http://www.ebi.ac.uk/efo/EFO:1001047](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001047), [http://www.ebi.ac.uk/efo/EFO:1002018](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1002018), ... |
-| `MONDO:Lexical`                                        |             76 | [http://www.ebi.ac.uk/efo/EFO:0000309](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000309), [http://www.ebi.ac.uk/efo/EFO:0003095](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003095), [http://www.ebi.ac.uk/efo/EFO:0003095](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003095), [http://www.ebi.ac.uk/efo/EFO:0007160](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007160), [http://www.ebi.ac.uk/efo/EFO:1001977](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001977), ... |
-| `MONDO:patterns/neoplasm`                              |             69 | [http://www.ebi.ac.uk/efo/EFO:0000294](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000294), [http://www.ebi.ac.uk/efo/EFO:0007360](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007360), [http://www.ebi.ac.uk/efo/EFO:0008549](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0008549), [http://www.ebi.ac.uk/efo/EFO:0009255](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009255), [http://www.ebi.ac.uk/efo/EFO:1000849](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000849), ... |
-| `MONDO:patterns/inflammatory_disease_by_site`          |             62 | [http://www.ebi.ac.uk/efo/EFO:0007423](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007423), [http://www.ebi.ac.uk/efo/EFO:0007427](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007427), [http://www.ebi.ac.uk/efo/EFO:1001034](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001034), [http://www.ebi.ac.uk/efo/EFO:1001099](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001099), [http://www.ebi.ac.uk/efo/EFO:1001231](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001231), ... |
-| `MONDO:patterns/carcinoma`                             |             50 | [http://www.ebi.ac.uk/efo/EFO:0000182](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000182), [http://www.ebi.ac.uk/efo/EFO:0002618](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0002618), [http://www.ebi.ac.uk/efo/EFO:0002919](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0002919), [http://www.ebi.ac.uk/efo/EFO:1001252](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001252), [http://www.ebi.ac.uk/efo/EFO:1001942](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001942), ... |
-| `MONDO:patterns/cancer`                                |             41 | [http://www.ebi.ac.uk/efo/EFO:0005577](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005577), [http://www.ebi.ac.uk/efo/EFO:0006859](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0006859), [http://www.ebi.ac.uk/efo/EFO:0007384](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007384), [http://www.ebi.ac.uk/efo/EFO:0007466](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007466), [http://www.ebi.ac.uk/efo/EFO:1000884](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000884), ... |
-| `MONDO:cjm`                                            |             28 | [http://www.ebi.ac.uk/efo/EFO:0000319](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000319), [http://www.ebi.ac.uk/efo/EFO:0000734](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000734), [http://www.ebi.ac.uk/efo/EFO:0003955](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003955), [http://www.ebi.ac.uk/efo/EFO:0004243](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004243), [http://www.ebi.ac.uk/efo/EFO:0008598](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0008598), ... |
-| `MONDO:DesignPattern`                                  |             22 | [http://www.ebi.ac.uk/efo/EFO:0000305](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000305), [http://www.ebi.ac.uk/efo/EFO:0000305](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000305), [http://www.ebi.ac.uk/efo/EFO:0001071](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001071), [http://www.ebi.ac.uk/efo/EFO:0003016](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003016), [http://www.ebi.ac.uk/efo/EFO:1000071](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000071), ... |
-| `MONDO:patterns/chronic`                               |             16 | [http://www.ebi.ac.uk/efo/EFO:0000337](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000337), [http://www.ebi.ac.uk/efo/EFO:0000337](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000337), [http://www.ebi.ac.uk/efo/EFO:0000339](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000339), [http://www.ebi.ac.uk/efo/EFO:0003884](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003884), [http://www.ebi.ac.uk/efo/EFO:0004239](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004239), ... |
-| `MONDO:patterns/infectious_disease_by_agent`           |             12 | [http://www.ebi.ac.uk/efo/EFO:0004249](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004249), [http://www.ebi.ac.uk/efo/EFO:0007146](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007146), [http://www.ebi.ac.uk/efo/EFO:0007438](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007438), [http://www.ebi.ac.uk/efo/EFO:0007439](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007439), [http://www.ebi.ac.uk/efo/EFO:1001433](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001433), ... |
-| `MONDO:LexicalVariant`                                 |             12 | [http://www.ebi.ac.uk/efo/EFO:0003780](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003780), [http://www.ebi.ac.uk/efo/EFO:0003780](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003780), [http://www.ebi.ac.uk/efo/EFO:0005625](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005625), [http://www.ebi.ac.uk/efo/EFO:0005627](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005627), [http://www.ebi.ac.uk/efo/EFO:0007269](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007269), ... |
-| `MONDO:patterns/malignant`                             |             11 | [http://www.ebi.ac.uk/efo/EFO:0005567](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005567), [http://www.ebi.ac.uk/efo/EFO:1000124](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000124), [http://www.ebi.ac.uk/efo/EFO:1000355](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000355), [http://www.ebi.ac.uk/efo/EFO:1000654](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000654), [http://www.ebi.ac.uk/efo/EFO:1001080](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001080), ... |
-| `MONDO:patterns/sarcoma`                               |             10 | [http://www.ebi.ac.uk/efo/EFO:0000569](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000569), [http://www.ebi.ac.uk/efo/EFO:0000569](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000569), [http://www.ebi.ac.uk/efo/EFO:0002914](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0002914), [http://www.ebi.ac.uk/efo/EFO:0003968](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003968), [http://www.ebi.ac.uk/efo/EFO:1000364](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000364), ... |
-| `MONDO:patterns/basis_in_disruption_of_process`        |              9 | [http://www.ebi.ac.uk/efo/EFO:0000589](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000589), [http://www.ebi.ac.uk/efo/EFO:0000677](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000677), [http://www.ebi.ac.uk/efo/EFO:0005269](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005269), [http://www.ebi.ac.uk/efo/EFO:0005269](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005269), [http://www.ebi.ac.uk/efo/EFO:0008499](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0008499), ... |
-| `MONDO:patterns/disease_series_by_gene`                |              9 | [http://www.ebi.ac.uk/efo/EFO:1001978](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001978), [http://www.ebi.ac.uk/efo/EFO:1001983](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001983), [http://www.ebi.ac.uk/efo/EFO:1001983](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001983), [http://www.ebi.ac.uk/efo/EFO:1001983](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001983), [http://www.ebi.ac.uk/efo/EFO:1001983](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001983), ... |
-| `MONDO:patterns/hereditary`                            |              8 | [http://www.ebi.ac.uk/efo/EFO:0000508](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000508), [http://www.ebi.ac.uk/efo/EFO:0001356](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001356), [http://www.ebi.ac.uk/efo/EFO:0001356](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001356), [http://www.ebi.ac.uk/efo/EFO:0001356](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001356), [http://www.ebi.ac.uk/efo/EFO:1000681](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000681), ... |
-| `MONDO:patterns/neuroendocrine_neoplasm_grade1`        |              8 | [http://www.ebi.ac.uk/efo/EFO:1000092](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000092), [http://www.ebi.ac.uk/efo/EFO:1000154](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000154), [http://www.ebi.ac.uk/efo/EFO:1000195](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000195), [http://www.ebi.ac.uk/efo/EFO:1000300](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000300), [http://www.ebi.ac.uk/efo/EFO:1000308](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000308), ... |
-| `MONDO:patterns/acute`                                 |              7 | [http://www.ebi.ac.uk/efo/EFO:0000220](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000220), [http://www.ebi.ac.uk/efo/EFO:0000221](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000221), [http://www.ebi.ac.uk/efo/EFO:1000652](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000652), [http://www.ebi.ac.uk/efo/EFO:1000652](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000652), [http://www.ebi.ac.uk/efo/EFO:1000652](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000652), ... |
-| `MONDO:patterns/allergic_form_of_disease`              |              6 | [http://www.ebi.ac.uk/efo/EFO:0000274](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000274), [http://www.ebi.ac.uk/efo/EFO:0005854](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005854), [http://www.ebi.ac.uk/efo/EFO:0007141](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007141), [http://www.ebi.ac.uk/efo/EFO:1000668](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000668), [http://www.ebi.ac.uk/efo/EFO:1001321](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001321), ... |
+| `MONDO:patterns/location`                              |            618 | [http://www.ebi.ac.uk/efo/EFO:0002894](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0002894), [http://www.ebi.ac.uk/efo/EFO:0003817](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003817), [http://www.ebi.ac.uk/efo/EFO:0007416](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007416), [http://www.ebi.ac.uk/efo/EFO:0009002](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009002), [http://www.ebi.ac.uk/efo/EFO:1000456](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000456), ... |
+| `MONDO:design_pattern`                                 |            208 | [http://www.ebi.ac.uk/efo/EFO:0004260](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004260), [http://www.ebi.ac.uk/efo/EFO:0007167](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007167), [http://www.ebi.ac.uk/efo/EFO:1000535](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000535), [http://www.ebi.ac.uk/efo/EFO:1000702](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000702), [http://www.ebi.ac.uk/efo/EFO:1000767](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000767), ... |
+| `MONDO:patterns/specific_infectious_disease_by_agent`  |            168 | [http://www.ebi.ac.uk/efo/EFO:0007150](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007150), [http://www.ebi.ac.uk/efo/EFO:0007211](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007211), [http://www.ebi.ac.uk/efo/EFO:0007247](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007247), [http://www.ebi.ac.uk/efo/EFO:0007383](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007383), [http://www.ebi.ac.uk/efo/EFO:0007513](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007513), ... |
+| `MONDO:ambiguous`                                      |            160 | [http://www.ebi.ac.uk/efo/EFO:0004243](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004243), [http://www.ebi.ac.uk/efo/EFO:0004289](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004289), [http://www.ebi.ac.uk/efo/EFO:0005569](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005569), [http://www.ebi.ac.uk/efo/EFO:0007493](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007493), [http://www.ebi.ac.uk/efo/EFO:1000485](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000485), ... |
+| `MONDO:patterns/location_top`                          |            115 | [http://www.ebi.ac.uk/efo/EFO:0009002](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009002), [http://www.ebi.ac.uk/efo/EFO:0009534](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009534), [http://www.ebi.ac.uk/efo/EFO:0009542](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009542), [http://www.ebi.ac.uk/efo/EFO:0009660](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009660), [http://www.ebi.ac.uk/efo/EFO:0009668](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009668), ... |
+| `MONDO:Lexical`                                        |             76 | [http://www.ebi.ac.uk/efo/EFO:0004208](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004208), [http://www.ebi.ac.uk/efo/EFO:0007297](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007297), [http://www.ebi.ac.uk/efo/EFO:0007527](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007527), [http://www.ebi.ac.uk/efo/EFO:0009160](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009160), [http://www.ebi.ac.uk/efo/EFO:1000566](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000566), ... |
+| `MONDO:patterns/neoplasm`                              |             69 | [http://www.ebi.ac.uk/efo/EFO:0003844](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003844), [http://www.ebi.ac.uk/efo/EFO:0005950](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005950), [http://www.ebi.ac.uk/efo/EFO:0008550](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0008550), [http://www.ebi.ac.uk/efo/EFO:1000934](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000934), [http://www.ebi.ac.uk/efo/EFO:1001437](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001437), ... |
+| `MONDO:patterns/inflammatory_disease_by_site`          |             62 | [http://www.ebi.ac.uk/efo/EFO:0005856](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005856), [http://www.ebi.ac.uk/efo/EFO:0008997](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0008997), [http://www.ebi.ac.uk/efo/EFO:0009609](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009609), [http://www.ebi.ac.uk/efo/EFO:1001140](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001140), [http://www.ebi.ac.uk/efo/EFO:1001991](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001991), ... |
+| `MONDO:patterns/carcinoma`                             |             50 | [http://www.ebi.ac.uk/efo/EFO:0000182](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000182), [http://www.ebi.ac.uk/efo/EFO:0000501](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000501), [http://www.ebi.ac.uk/efo/EFO:0001061](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001061), [http://www.ebi.ac.uk/efo/EFO:0005582](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005582), [http://www.ebi.ac.uk/efo/EFO:1000576](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000576), ... |
+| `MONDO:patterns/cancer`                                |             41 | [http://www.ebi.ac.uk/efo/EFO:0005088](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005088), [http://www.ebi.ac.uk/efo/EFO:0005570](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005570), [http://www.ebi.ac.uk/efo/EFO:0006859](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0006859), [http://www.ebi.ac.uk/efo/EFO:0007356](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007356), [http://www.ebi.ac.uk/efo/EFO:1001019](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001019), ... |
+| `MONDO:cjm`                                            |             28 | [http://www.ebi.ac.uk/efo/EFO:0003955](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003955), [http://www.ebi.ac.uk/efo/EFO:0005137](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005137), [http://www.ebi.ac.uk/efo/EFO:1000681](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000681), [http://www.ebi.ac.uk/efo/EFO:1000681](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000681), [http://www.ebi.ac.uk/efo/EFO:1001147](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001147), ... |
+| `MONDO:DesignPattern`                                  |             22 | [http://www.ebi.ac.uk/efo/EFO:0000305](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000305), [http://www.ebi.ac.uk/efo/EFO:0003016](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003016), [http://www.ebi.ac.uk/efo/EFO:1000044](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000044), [http://www.ebi.ac.uk/efo/EFO:1000998](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000998), [http://www.ebi.ac.uk/efo/EFO:1001949](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001949), ... |
+| `MONDO:patterns/chronic`                               |             16 | [http://www.ebi.ac.uk/efo/EFO:0000337](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000337), [http://www.ebi.ac.uk/efo/EFO:0000339](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000339), [http://www.ebi.ac.uk/efo/EFO:0000341](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000341), [http://www.ebi.ac.uk/efo/EFO:1000024](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000024), [http://www.ebi.ac.uk/efo/EFO:1000024](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000024), ... |
+| `MONDO:patterns/infectious_disease_by_agent`           |             12 | [http://www.ebi.ac.uk/efo/EFO:0000763](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000763), [http://www.ebi.ac.uk/efo/EFO:0000763](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000763), [http://www.ebi.ac.uk/efo/EFO:0007173](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007173), [http://www.ebi.ac.uk/efo/EFO:0007439](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007439), [http://www.ebi.ac.uk/efo/EFO:1001433](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001433), ... |
+| `MONDO:LexicalVariant`                                 |             12 | [http://www.ebi.ac.uk/efo/EFO:0005625](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005625), [http://www.ebi.ac.uk/efo/EFO:0005625](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005625), [http://www.ebi.ac.uk/efo/EFO:0005625](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005625), [http://www.ebi.ac.uk/efo/EFO:0005625](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005625), [http://www.ebi.ac.uk/efo/EFO:0007547](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007547), ... |
+| `MONDO:patterns/malignant`                             |             11 | [http://www.ebi.ac.uk/efo/EFO:0000311](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000311), [http://www.ebi.ac.uk/efo/EFO:0005567](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005567), [http://www.ebi.ac.uk/efo/EFO:1000348](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000348), [http://www.ebi.ac.uk/efo/EFO:1000366](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000366), [http://www.ebi.ac.uk/efo/EFO:1000654](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000654), ... |
+| `MONDO:patterns/sarcoma`                               |             10 | [http://www.ebi.ac.uk/efo/EFO:0005287](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005287), [http://www.ebi.ac.uk/efo/EFO:0007276](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007276), [http://www.ebi.ac.uk/efo/EFO:1000364](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000364), [http://www.ebi.ac.uk/efo/EFO:1000364](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000364), [http://www.ebi.ac.uk/efo/EFO:1000531](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000531), ... |
+| `MONDO:patterns/basis_in_disruption_of_process`        |              9 | [http://www.ebi.ac.uk/efo/EFO:0005269](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005269), [http://www.ebi.ac.uk/efo/EFO:0005269](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005269), [http://www.ebi.ac.uk/efo/EFO:0005269](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005269), [http://www.ebi.ac.uk/efo/EFO:0008499](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0008499), [http://www.ebi.ac.uk/efo/EFO:1000647](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000647), ... |
+| `MONDO:patterns/disease_series_by_gene`                |              9 | [http://www.ebi.ac.uk/efo/EFO:0009301](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009301), [http://www.ebi.ac.uk/efo/EFO:1001977](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001977), [http://www.ebi.ac.uk/efo/EFO:1001978](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001978), [http://www.ebi.ac.uk/efo/EFO:1001983](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001983), [http://www.ebi.ac.uk/efo/EFO:1001983](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001983), ... |
+| `MONDO:patterns/hereditary`                            |              8 | [http://www.ebi.ac.uk/efo/EFO:0001356](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001356), [http://www.ebi.ac.uk/efo/EFO:0001356](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001356), [http://www.ebi.ac.uk/efo/EFO:0001356](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001356), [http://www.ebi.ac.uk/efo/EFO:0002945](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0002945), [http://www.ebi.ac.uk/efo/EFO:0002945](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0002945), ... |
+| `MONDO:patterns/neuroendocrine_neoplasm_grade1`        |              8 | [http://www.ebi.ac.uk/efo/EFO:1000092](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000092), [http://www.ebi.ac.uk/efo/EFO:1000094](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000094), [http://www.ebi.ac.uk/efo/EFO:1000154](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000154), [http://www.ebi.ac.uk/efo/EFO:1000188](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000188), [http://www.ebi.ac.uk/efo/EFO:1000195](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000195), ... |
+| `MONDO:patterns/acute`                                 |              7 | [http://www.ebi.ac.uk/efo/EFO:0000220](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000220), [http://www.ebi.ac.uk/efo/EFO:0000221](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000221), [http://www.ebi.ac.uk/efo/EFO:0008583](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0008583), [http://www.ebi.ac.uk/efo/EFO:0008583](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0008583), [http://www.ebi.ac.uk/efo/EFO:1000652](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000652), ... |
+| `MONDO:patterns/allergic_form_of_disease`              |              6 | [http://www.ebi.ac.uk/efo/EFO:0000274](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0000274), [http://www.ebi.ac.uk/efo/EFO:0005854](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005854), [http://www.ebi.ac.uk/efo/EFO:0005854](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005854), [http://www.ebi.ac.uk/efo/EFO:0007141](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007141), [http://www.ebi.ac.uk/efo/EFO:1000668](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000668), ... |
 | `MONDO:patterns/benign`                                |              5 | [http://www.ebi.ac.uk/efo/EFO:0002422](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0002422), [http://www.ebi.ac.uk/efo/EFO:1000028](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000028), [http://www.ebi.ac.uk/efo/EFO:1000106](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000106), [http://www.ebi.ac.uk/efo/EFO:1000108](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000108), [http://www.ebi.ac.uk/efo/EFO:1000485](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000485)      |
 | `MONDO:patterns/environmental_stimulus`                |              4 | [http://www.ebi.ac.uk/efo/EFO:0004712](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004712), [http://www.ebi.ac.uk/efo/EFO:0007153](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007153), [http://www.ebi.ac.uk/efo/EFO:1000814](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000814), [http://www.ebi.ac.uk/efo/EFO:1000851](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000851)                                                                                                           |
 | `MONDO:patterns/congenital`                            |              4 | [http://www.ebi.ac.uk/efo/EFO:0007217](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007217), [http://www.ebi.ac.uk/efo/EFO:0007218](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007218), [http://www.ebi.ac.uk/efo/EFO:0007219](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007219), [http://www.ebi.ac.uk/efo/EFO:0007220](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007220)                                                                                                           |
@@ -500,10 +489,9 @@ external resource can be found on the
 ## `NCIm`: NCI Metathesaurus
 
 Overall, there were 1 invalid
-xrefs to external terms in `ncim` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncim).
+xrefs to external prefixed with `NCIm` (standardized to Bioregistry
+entry [`ncim`]((https://bioregistry.io/ncim)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -512,23 +500,21 @@ external resource can be found on the
 ## `NCIT`: NCI Thesaurus
 
 Overall, there were 360 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `NCIT` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `NCIT:P378`           |            359 | [http://www.ebi.ac.uk/efo/EFO:0003902](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0003902), [http://www.ebi.ac.uk/efo/EFO:0005537](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005537), [http://www.ebi.ac.uk/efo/EFO:0007164](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0007164), [http://www.ebi.ac.uk/efo/EFO:1000525](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000525), [http://www.ebi.ac.uk/efo/EFO:1000816](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000816), ... |
+| `NCIT:P378`           |            359 | [http://www.ebi.ac.uk/efo/EFO:0005279](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005279), [http://www.ebi.ac.uk/efo/EFO:0005306](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0005306), [http://www.ebi.ac.uk/efo/EFO:1000116](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000116), [http://www.ebi.ac.uk/efo/EFO:1000882](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000882), [http://www.ebi.ac.uk/efo/EFO:1002023](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1002023), ... |
 | `NCIT:C92189-variant` |              1 | [http://www.ebi.ac.uk/efo/EFO:1001417](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001417)                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ## `NCIt`: NCI Thesaurus
 
 Overall, there were 1 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `NCIt` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -537,10 +523,9 @@ external resource can be found on the
 ## `OBI`: Ontology for Biomedical Investigations
 
 Overall, there were 1 invalid
-xrefs to external terms in `obi` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/obi).
+xrefs to external prefixed with `OBI` (standardized to Bioregistry
+entry [`obi`]((https://bioregistry.io/obi)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref     |   usages_count | usages                                                                                              |
 |-------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -549,10 +534,9 @@ external resource can be found on the
 ## `OMIMPS`: OMIM Phenotypic Series
 
 Overall, there were 56 invalid
-xrefs to external terms in `omim.ps` that did not match the standard
-pattern `^PS\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/omim.ps).
+xrefs to external prefixed with `OMIMPS` (standardized to Bioregistry
+entry [`omim.ps`]((https://bioregistry.io/omim.ps)) that
+did not match the standard pattern `^PS\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -601,10 +585,9 @@ external resource can be found on the
 ## `ORDO`: Orphanet Rare Disease Ontology
 
 Overall, there were 13 invalid
-xrefs to external terms in `orphanet.ordo` that did not match the standard
-pattern `^Orphanet(_|:)C?\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/orphanet.ordo).
+xrefs to external prefixed with `ORDO` (standardized to Bioregistry
+entry [`orphanet.ordo`]((https://bioregistry.io/orphanet.ordo)) that
+did not match the standard pattern `^Orphanet(_|:)C?\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -625,10 +608,9 @@ external resource can be found on the
 ## `PMID`: PubMed
 
 Overall, there were 8 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref     |   usages_count | usages                                                                                              |
 |-------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -644,10 +626,9 @@ external resource can be found on the
 ## `PR`: Protein Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `pr` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pr).
+xrefs to external prefixed with `PR` (standardized to Bioregistry
+entry [`pr`]((https://bioregistry.io/pr)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -656,10 +637,9 @@ external resource can be found on the
 ## `Reactome`: Reactome
 
 Overall, there were 3 invalid
-xrefs to external terms in `reactome` that did not match the standard
-pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/reactome).
+xrefs to external prefixed with `Reactome` (standardized to Bioregistry
+entry [`reactome`]((https://bioregistry.io/reactome)) that
+did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 
 | external_xref     |   usages_count | usages                                                                                              |
 |-------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -670,10 +650,9 @@ external resource can be found on the
 ## `SNOMEDCT`: SNOMED CT (International Edition)
 
 Overall, there were 3 invalid
-xrefs to external terms in `snomedct` that did not match the standard
-pattern `^(\w+)?\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/snomedct).
+xrefs to external prefixed with `SNOMEDCT` (standardized to Bioregistry
+entry [`snomedct`]((https://bioregistry.io/snomedct)) that
+did not match the standard pattern `^(\w+)?\d+$`.
 
 | external_xref         |   usages_count | usages                                                                                              |
 |-----------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -684,10 +663,9 @@ external resource can be found on the
 ## `TADS`: Tick Anatomy Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `tads` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/tads).
+xrefs to external prefixed with `TADS` (standardized to Bioregistry
+entry [`tads`]((https://bioregistry.io/tads)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -696,10 +674,9 @@ external resource can be found on the
 ## `TGMA`: Mosquito gross anatomy ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `tgma` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/tgma).
+xrefs to external prefixed with `TGMA` (standardized to Bioregistry
+entry [`tgma`]((https://bioregistry.io/tgma)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -708,10 +685,9 @@ external resource can be found on the
 ## `UMLS`: Unified Medical Language System Concept Unique Identifier
 
 Overall, there were 88 invalid
-xrefs to external terms in `umls` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/umls).
+xrefs to external prefixed with `UMLS` (standardized to Bioregistry
+entry [`umls`]((https://bioregistry.io/umls)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -807,10 +783,9 @@ external resource can be found on the
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 17 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                                                         |   usages_count | usages                                                                                                                                                                                                   |
 |-----------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `vhog`.
 ## `ZFIN`: Zebrafish Information Network Gene
 
 Overall, there were 1 invalid
-xrefs to external terms in `zfin` that did not match the standard
-pattern `^ZDB\-\w+\-\d+\-\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/zfin).
+xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
+entry [`zfin`]((https://bioregistry.io/zfin)) that
+did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

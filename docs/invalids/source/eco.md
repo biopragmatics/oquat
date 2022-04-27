@@ -7,29 +7,27 @@ for node, synonym, and definition cross-references in `eco`. See the [GitHub rep
 ## `DisProt`: DisProt
 
 Overall, there were 7 invalid
-xrefs to external terms in `disprot` that did not match the standard
-pattern `^DP\d{5}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/disprot).
+xrefs to external prefixed with `DisProt` (standardized to Bioregistry
+entry [`disprot`]((https://bioregistry.io/disprot)) that
+did not match the standard pattern `^DP\d{5}$`.
 
 | external_xref            |   usages_count | usages                                                                                                                                                                                                                                                             |
 |--------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `DisProt:BalintMeszaros` |              7 | [ECO:0006183](https://bioregistry.io/ECO:0006183), [ECO:0006187](https://bioregistry.io/ECO:0006187), [ECO:0006188](https://bioregistry.io/ECO:0006188), [ECO:0006188](https://bioregistry.io/ECO:0006188), [ECO:0006190](https://bioregistry.io/ECO:0006190), ... |
+| `DisProt:BalintMeszaros` |              7 | [ECO:0006185](https://bioregistry.io/ECO:0006185), [ECO:0006187](https://bioregistry.io/ECO:0006187), [ECO:0006188](https://bioregistry.io/ECO:0006188), [ECO:0006189](https://bioregistry.io/ECO:0006189), [ECO:0006189](https://bioregistry.io/ECO:0006189), ... |
 
 ## `ECO`: Evidence ontology
 
 Overall, there were 1,411 invalid
-xrefs to external terms in `eco` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/eco).
+xrefs to external prefixed with `ECO` (standardized to Bioregistry
+entry [`eco`]((https://bioregistry.io/eco)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ECO:RCT`       |            718 | [ECO:0006029](https://bioregistry.io/ECO:0006029), [ECO:0007334](https://bioregistry.io/ECO:0007334), [ECO:0007523](https://bioregistry.io/ECO:0007523), [ECO:0007673](https://bioregistry.io/ECO:0007673), [ECO:0007675](https://bioregistry.io/ECO:0007675), ... |
-| `ECO:SN`        |            328 | [ECO:0001079](https://bioregistry.io/ECO:0001079), [ECO:0001088](https://bioregistry.io/ECO:0001088), [ECO:0005630](https://bioregistry.io/ECO:0005630), [ECO:0005652](https://bioregistry.io/ECO:0005652), [ECO:0006143](https://bioregistry.io/ECO:0006143), ... |
-| `ECO:MCC`       |            297 | [ECO:0000205](https://bioregistry.io/ECO:0000205), [ECO:0000206](https://bioregistry.io/ECO:0000206), [ECO:0000293](https://bioregistry.io/ECO:0000293), [ECO:0001172](https://bioregistry.io/ECO:0001172), [ECO:0001186](https://bioregistry.io/ECO:0001186), ... |
-| `ECO:SW`        |             58 | [ECO:0000085](https://bioregistry.io/ECO:0000085), [ECO:0000110](https://bioregistry.io/ECO:0000110), [ECO:0001071](https://bioregistry.io/ECO:0001071), [ECO:0001801](https://bioregistry.io/ECO:0001801), [ECO:0001808](https://bioregistry.io/ECO:0001808), ... |
+| `ECO:RCT`       |            718 | [ECO:0007142](https://bioregistry.io/ECO:0007142), [ECO:0007234](https://bioregistry.io/ECO:0007234), [ECO:0007488](https://bioregistry.io/ECO:0007488), [ECO:0007594](https://bioregistry.io/ECO:0007594), [ECO:0007651](https://bioregistry.io/ECO:0007651), ... |
+| `ECO:SN`        |            328 | [ECO:0005574](https://bioregistry.io/ECO:0005574), [ECO:0005596](https://bioregistry.io/ECO:0005596), [ECO:0005629](https://bioregistry.io/ECO:0005629), [ECO:0006174](https://bioregistry.io/ECO:0006174), [ECO:0006219](https://bioregistry.io/ECO:0006219), ... |
+| `ECO:MCC`       |            297 | [ECO:0000273](https://bioregistry.io/ECO:0000273), [ECO:0000294](https://bioregistry.io/ECO:0000294), [ECO:0000337](https://bioregistry.io/ECO:0000337), [ECO:0000363](https://bioregistry.io/ECO:0000363), [ECO:0001245](https://bioregistry.io/ECO:0001245), ... |
+| `ECO:SW`        |             58 | [ECO:0001040](https://bioregistry.io/ECO:0001040), [ECO:0001040](https://bioregistry.io/ECO:0001040), [ECO:0001127](https://bioregistry.io/ECO:0001127), [ECO:0001826](https://bioregistry.io/ECO:0001826), [ECO:0005521](https://bioregistry.io/ECO:0005521), ... |
 | `ECO:KAV`       |              3 | [ECO:0000003](https://bioregistry.io/ECO:0000003), [ECO:0000154](https://bioregistry.io/ECO:0000154), [ECO:0000164](https://bioregistry.io/ECO:0000164)                                                                                                            |
 | `ECO:KIM`       |              2 | [ECO:0000004](https://bioregistry.io/ECO:0000004), [ECO:0000096](https://bioregistry.io/ECO:0000096)                                                                                                                                                               |
 | `ECO:RCJ`       |              2 | [ECO:0001828](https://bioregistry.io/ECO:0001828), [ECO:0007850](https://bioregistry.io/ECO:0007850)                                                                                                                                                               |
@@ -39,10 +37,9 @@ external resource can be found on the
 ## `EDAM`: Bioinformatics operations, data types, formats, identifiers and topics
 
 Overall, there were 1 invalid
-xrefs to external terms in `edam` that did not match the standard
-pattern `^(data|topic|operation|format)\_\d{4}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/edam).
+xrefs to external prefixed with `EDAM` (standardized to Bioregistry
+entry [`edam`]((https://bioregistry.io/edam)) that
+did not match the standard pattern `^(data|topic|operation|format)\_\d{4}$`.
 
 | external_xref     |   usages_count | usages                                            |
 |-------------------|----------------|---------------------------------------------------|
@@ -51,10 +48,9 @@ external resource can be found on the
 ## `GO`: Gene Ontology
 
 Overall, there were 7 invalid
-xrefs to external terms in `go` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/go).
+xrefs to external prefixed with `GO` (standardized to Bioregistry
+entry [`go`]((https://bioregistry.io/go)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                  |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -65,10 +61,9 @@ external resource can be found on the
 ## `HPO`: Human Phenotype Ontology
 
 Overall, there were 2 invalid
-xrefs to external terms in `hp` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/hp).
+xrefs to external prefixed with `HPO` (standardized to Bioregistry
+entry [`hp`]((https://bioregistry.io/hp)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -78,10 +73,9 @@ external resource can be found on the
 ## `PMC`: Pubmed Central
 
 Overall, there were 22 invalid
-xrefs to external terms in `pmc` that did not match the standard
-pattern `^PMC\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pmc).
+xrefs to external prefixed with `PMC` (standardized to Bioregistry
+entry [`pmc`]((https://bioregistry.io/pmc)) that
+did not match the standard pattern `^PMC\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                               |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -110,10 +104,9 @@ external resource can be found on the
 ## `PMCID`: Pubmed Central
 
 Overall, there were 1 invalid
-xrefs to external terms in `pmc` that did not match the standard
-pattern `^PMC\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pmc).
+xrefs to external prefixed with `PMCID` (standardized to Bioregistry
+entry [`pmc`]((https://bioregistry.io/pmc)) that
+did not match the standard pattern `^PMC\d+$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -122,10 +115,9 @@ external resource can be found on the
 ## `PMID`: PubMed
 
 Overall, there were 2 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref    |   usages_count | usages                                            |
 |------------------|----------------|---------------------------------------------------|
@@ -135,10 +127,9 @@ external resource can be found on the
 ## `PomBase`: PomBase
 
 Overall, there were 1 invalid
-xrefs to external terms in `pombase` that did not match the standard
-pattern `^S\w+(\.)?\w+(\.)?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pombase).
+xrefs to external prefixed with `PomBase` (standardized to Bioregistry
+entry [`pombase`]((https://bioregistry.io/pombase)) that
+did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -147,10 +138,9 @@ external resource can be found on the
 ## `PSI-MI`: Molecular Interactions Controlled Vocabulary
 
 Overall, there were 3 invalid
-xrefs to external terms in `mi` that did not match the standard
-pattern `^\d{4}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mi).
+xrefs to external prefixed with `PSI-MI` (standardized to Bioregistry
+entry [`mi`]((https://bioregistry.io/mi)) that
+did not match the standard pattern `^\d{4}$`.
 
 | external_xref    |   usages_count | usages                                            |
 |------------------|----------------|---------------------------------------------------|

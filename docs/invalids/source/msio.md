@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `msio`.
 ## `Gmelin`: Gmelins Handbuch der anorganischen Chemie
 
 Overall, there were 4 invalid
-xrefs to external terms in `gmelin` that did not match the standard
-pattern `^[1-9][0-9]{3,6}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/gmelin).
+xrefs to external prefixed with `Gmelin` (standardized to Bioregistry
+entry [`gmelin`]((https://bioregistry.io/gmelin)) that
+did not match the standard pattern `^[1-9][0-9]{3,6}$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -22,10 +21,9 @@ external resource can be found on the
 ## `LIPID_MAPS_class`: LIPID MAPS
 
 Overall, there were 1 invalid
-xrefs to external terms in `lipidmaps` that did not match the standard
-pattern `^LM(FA|GL|GP|SP|ST|PR|SL|PK)[0-9]{4}([0-9a-zA-Z]{4,6})?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/lipidmaps).
+xrefs to external prefixed with `LIPID_MAPS_class` (standardized to Bioregistry
+entry [`lipidmaps`]((https://bioregistry.io/lipidmaps)) that
+did not match the standard pattern `^LM(FA|GL|GP|SP|ST|PR|SL|PK)[0-9]{4}([0-9a-zA-Z]{4,6})?$`.
 
 | external_xref             |   usages_count | usages                                            |
 |---------------------------|----------------|---------------------------------------------------|
@@ -34,10 +32,9 @@ external resource can be found on the
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 1 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref           |   usages_count | usages                                            |
 |-------------------------|----------------|---------------------------------------------------|

@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `idomal`. See the [GitHub 
 ## `BFO`: Basic Formal Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `bfo` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/bfo).
+xrefs to external prefixed with `BFO` (standardized to Bioregistry
+entry [`bfo`]((https://bioregistry.io/bfo)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `ISBN`: International Standard Book Number
 
 Overall, there were 2 invalid
-xrefs to external terms in `isbn` that did not match the standard
-pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/isbn).
+xrefs to external prefixed with `ISBN` (standardized to Bioregistry
+entry [`isbn`]((https://bioregistry.io/isbn)) that
+did not match the standard pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`.
 
 | external_xref         |   usages_count | usages                                                  |
 |-----------------------|----------------|---------------------------------------------------------|
@@ -32,10 +30,9 @@ external resource can be found on the
 ## `NCI`: NCI Thesaurus
 
 Overall, there were 1 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `NCI` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|
@@ -44,10 +41,9 @@ external resource can be found on the
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 1 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref            |   usages_count | usages                                                  |
 |--------------------------|----------------|---------------------------------------------------------|

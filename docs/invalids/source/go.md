@@ -7,46 +7,45 @@ for node, synonym, and definition cross-references in `go`. See the [GitHub repo
 ## `EC`: Enzyme Nomenclature
 
 Overall, there were 1,117 invalid
-xrefs to external terms in `eccode` that did not match the standard
-pattern `^\d{1,2}(\.\d{0,3}){0,3}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/eccode).
+xrefs to external prefixed with `EC` (standardized to Bioregistry
+entry [`eccode`]((https://bioregistry.io/eccode)) that
+did not match the standard pattern `^\d{1,2}(\.\d{0,3}){0,3}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `EC:1.14.13.-`  |            114 | [GO:0102126](https://bioregistry.io/GO:0102126), [GO:0102172](https://bioregistry.io/GO:0102172), [GO:0102615](https://bioregistry.io/GO:0102615), [GO:0102780](https://bioregistry.io/GO:0102780), [GO:0102992](https://bioregistry.io/GO:0102992), ... |
-| `EC:2.4.1.-`    |             94 | [GO:0102156](https://bioregistry.io/GO:0102156), [GO:0102410](https://bioregistry.io/GO:0102410), [GO:0102926](https://bioregistry.io/GO:0102926), [GO:0102935](https://bioregistry.io/GO:0102935), [GO:0103078](https://bioregistry.io/GO:0103078), ... |
-| `EC:2.1.1.-`    |             64 | [GO:0051994](https://bioregistry.io/GO:0051994), [GO:0102629](https://bioregistry.io/GO:0102629), [GO:0102674](https://bioregistry.io/GO:0102674), [GO:0102913](https://bioregistry.io/GO:0102913), [GO:0102964](https://bioregistry.io/GO:0102964), ... |
-| `EC:1.13.11.-`  |             45 | [GO:0016702](https://bioregistry.io/GO:0016702), [GO:0018562](https://bioregistry.io/GO:0018562), [GO:0018565](https://bioregistry.io/GO:0018565), [GO:0018574](https://bioregistry.io/GO:0018574), [GO:0034806](https://bioregistry.io/GO:0034806), ... |
-| `EC:2.3.1.-`    |             41 | [GO:0043806](https://bioregistry.io/GO:0043806), [GO:0102247](https://bioregistry.io/GO:0102247), [GO:0102275](https://bioregistry.io/GO:0102275), [GO:0102583](https://bioregistry.io/GO:0102583), [GO:0102989](https://bioregistry.io/GO:0102989), ... |
-| `EC:1.1.1.-`    |             32 | [GO:0102280](https://bioregistry.io/GO:0102280), [GO:0102386](https://bioregistry.io/GO:0102386), [GO:0102394](https://bioregistry.io/GO:0102394), [GO:0102617](https://bioregistry.io/GO:0102617), [GO:0103090](https://bioregistry.io/GO:0103090), ... |
-| `EC:1.14.11.-`  |             25 | [GO:0102495](https://bioregistry.io/GO:0102495), [GO:0102711](https://bioregistry.io/GO:0102711), [GO:0103008](https://bioregistry.io/GO:0103008), [GO:0103054](https://bioregistry.io/GO:0103054), [GO:0103057](https://bioregistry.io/GO:0103057), ... |
-| `EC:1.14.12.-`  |             20 | [GO:0018603](https://bioregistry.io/GO:0018603), [GO:0018603](https://bioregistry.io/GO:0018603), [GO:0018617](https://bioregistry.io/GO:0018617), [GO:0034521](https://bioregistry.io/GO:0034521), [GO:0034825](https://bioregistry.io/GO:0034825), ... |
-| `EC:1.3.1.-`    |             19 | [GO:0102744](https://bioregistry.io/GO:0102744), [GO:0102746](https://bioregistry.io/GO:0102746), [GO:0102746](https://bioregistry.io/GO:0102746), [GO:0102749](https://bioregistry.io/GO:0102749), [GO:0102749](https://bioregistry.io/GO:0102749), ... |
-| `EC:4.2.3.-`    |             17 | [GO:0010334](https://bioregistry.io/GO:0010334), [GO:0102063](https://bioregistry.io/GO:0102063), [GO:0102066](https://bioregistry.io/GO:0102066), [GO:0102385](https://bioregistry.io/GO:0102385), [GO:0102889](https://bioregistry.io/GO:0102889), ... |
-| `EC:1.14.19.-`  |             17 | [GO:0102430](https://bioregistry.io/GO:0102430), [GO:0102430](https://bioregistry.io/GO:0102430), [GO:0102846](https://bioregistry.io/GO:0102846), [GO:0102854](https://bioregistry.io/GO:0102854), [GO:0102863](https://bioregistry.io/GO:0102863), ... |
-| `EC:3.2.1.-`    |             16 | [GO:0004553](https://bioregistry.io/GO:0004553), [GO:0008933](https://bioregistry.io/GO:0008933), [GO:0102278](https://bioregistry.io/GO:0102278), [GO:0102413](https://bioregistry.io/GO:0102413), [GO:0102413](https://bioregistry.io/GO:0102413), ... |
-| `EC:1.97.1.-`   |             16 | [GO:0018701](https://bioregistry.io/GO:0018701), [GO:0034542](https://bioregistry.io/GO:0034542), [GO:0034550](https://bioregistry.io/GO:0034550), [GO:0034937](https://bioregistry.io/GO:0034937), [GO:0043364](https://bioregistry.io/GO:0043364), ... |
-| `EC:3.3.2.-`    |             13 | [GO:0016803](https://bioregistry.io/GO:0016803), [GO:0018745](https://bioregistry.io/GO:0018745), [GO:0019118](https://bioregistry.io/GO:0019118), [GO:0103005](https://bioregistry.io/GO:0103005), [GO:0103005](https://bioregistry.io/GO:0103005), ... |
-| `EC:6.2.1.-`    |             13 | [GO:0047473](https://bioregistry.io/GO:0047473), [GO:0102214](https://bioregistry.io/GO:0102214), [GO:0102392](https://bioregistry.io/GO:0102392), [GO:0103062](https://bioregistry.io/GO:0103062), [GO:0103062](https://bioregistry.io/GO:0103062), ... |
-| `EC:1.2.1.-`    |             12 | [GO:0019115](https://bioregistry.io/GO:0019115), [GO:0034520](https://bioregistry.io/GO:0034520), [GO:0052814](https://bioregistry.io/GO:0052814), [GO:0052814](https://bioregistry.io/GO:0052814), [GO:0102819](https://bioregistry.io/GO:0102819), ... |
-| `EC:6.3.-.-`    |             12 | [GO:0016879](https://bioregistry.io/GO:0016879), [GO:0102086](https://bioregistry.io/GO:0102086), [GO:0102087](https://bioregistry.io/GO:0102087), [GO:0102950](https://bioregistry.io/GO:0102950), [GO:0102950](https://bioregistry.io/GO:0102950), ... |
-| `EC:2.8.2.-`    |             11 | [GO:0004394](https://bioregistry.io/GO:0004394), [GO:0080131](https://bioregistry.io/GO:0080131), [GO:0102141](https://bioregistry.io/GO:0102141), [GO:0103104](https://bioregistry.io/GO:0103104), [GO:0103104](https://bioregistry.io/GO:0103104), ... |
-| `EC:3.1.1.-`    |             10 | [GO:0004620](https://bioregistry.io/GO:0004620), [GO:0052689](https://bioregistry.io/GO:0052689), [GO:0052689](https://bioregistry.io/GO:0052689), [GO:0052767](https://bioregistry.io/GO:0052767), [GO:0052767](https://bioregistry.io/GO:0052767), ... |
-| `EC:1.3.99.-`   |             10 | [GO:0034580](https://bioregistry.io/GO:0034580), [GO:0034580](https://bioregistry.io/GO:0034580), [GO:0034916](https://bioregistry.io/GO:0034916), [GO:0052760](https://bioregistry.io/GO:0052760), [GO:0070991](https://bioregistry.io/GO:0070991), ... |
-| `EC:4.2.1.-`    |              9 | [GO:0016836](https://bioregistry.io/GO:0016836), [GO:0016836](https://bioregistry.io/GO:0016836), [GO:0018128](https://bioregistry.io/GO:0018128), [GO:0018135](https://bioregistry.io/GO:0018135), [GO:0018135](https://bioregistry.io/GO:0018135), ... |
-| `EC:1.14.-.-`   |              9 | [GO:0016705](https://bioregistry.io/GO:0016705), [GO:0018600](https://bioregistry.io/GO:0018600), [GO:0102123](https://bioregistry.io/GO:0102123), [GO:0102125](https://bioregistry.io/GO:0102125), [GO:0102764](https://bioregistry.io/GO:0102764), ... |
-| `EC:2.5.1.-`    |              8 | [GO:0102298](https://bioregistry.io/GO:0102298), [GO:0102747](https://bioregistry.io/GO:0102747), [GO:0102747](https://bioregistry.io/GO:0102747), [GO:0102747](https://bioregistry.io/GO:0102747), [GO:0102754](https://bioregistry.io/GO:0102754), ... |
-| `EC:1.14.15.-`  |              8 | [GO:0016713](https://bioregistry.io/GO:0016713), [GO:0034795](https://bioregistry.io/GO:0034795), [GO:0034795](https://bioregistry.io/GO:0034795), [GO:0034818](https://bioregistry.io/GO:0034818), [GO:0034818](https://bioregistry.io/GO:0034818), ... |
-| `EC:2.7.1.-`    |              7 | [GO:0016307](https://bioregistry.io/GO:0016307), [GO:0016773](https://bioregistry.io/GO:0016773), [GO:0051723](https://bioregistry.io/GO:0051723), [GO:0102238](https://bioregistry.io/GO:0102238), [GO:0102770](https://bioregistry.io/GO:0102770), ... |
-| `EC:3.1.2.-`    |              7 | [GO:0102150](https://bioregistry.io/GO:0102150), [GO:0102150](https://bioregistry.io/GO:0102150), [GO:0102150](https://bioregistry.io/GO:0102150), [GO:0102574](https://bioregistry.io/GO:0102574), [GO:0102575](https://bioregistry.io/GO:0102575), ... |
-| `EC:2.4.2.-`    |              7 | [GO:0018071](https://bioregistry.io/GO:0018071), [GO:0018127](https://bioregistry.io/GO:0018127), [GO:0102562](https://bioregistry.io/GO:0102562), [GO:0102582](https://bioregistry.io/GO:0102582), [GO:1990585](https://bioregistry.io/GO:1990585), ... |
-| `EC:2.6.1.-`    |              7 | [GO:0102081](https://bioregistry.io/GO:0102081), [GO:0102081](https://bioregistry.io/GO:0102081), [GO:0102570](https://bioregistry.io/GO:0102570), [GO:0102570](https://bioregistry.io/GO:0102570), [GO:0102658](https://bioregistry.io/GO:0102658), ... |
-| `EC:3.1.3.-`    |              7 | [GO:0016791](https://bioregistry.io/GO:0016791), [GO:0102091](https://bioregistry.io/GO:0102091), [GO:0102757](https://bioregistry.io/GO:0102757), [GO:0102757](https://bioregistry.io/GO:0102757), [GO:0103027](https://bioregistry.io/GO:0103027), ... |
-| `EC:1.13.12.-`  |              6 | [GO:0016703](https://bioregistry.io/GO:0016703), [GO:0034835](https://bioregistry.io/GO:0034835), [GO:0034836](https://bioregistry.io/GO:0034836), [GO:0034898](https://bioregistry.io/GO:0034898), [GO:0102818](https://bioregistry.io/GO:0102818), ... |
-| `EC:2.3.3.-`    |              6 | [GO:0103079](https://bioregistry.io/GO:0103079), [GO:0103082](https://bioregistry.io/GO:0103082), [GO:0103085](https://bioregistry.io/GO:0103085), [GO:0103085](https://bioregistry.io/GO:0103085), [GO:0103088](https://bioregistry.io/GO:0103088), ... |
-| `EC:5.4.4.-`    |              6 | [GO:0103083](https://bioregistry.io/GO:0103083), [GO:0103089](https://bioregistry.io/GO:0103089), [GO:0103089](https://bioregistry.io/GO:0103089), [GO:0103089](https://bioregistry.io/GO:0103089), [GO:0103092](https://bioregistry.io/GO:0103092), ... |
-| `EC:3.5.99.-`   |              6 | [GO:0034565](https://bioregistry.io/GO:0034565), [GO:0034565](https://bioregistry.io/GO:0034565), [GO:0034896](https://bioregistry.io/GO:0034896), [GO:0034958](https://bioregistry.io/GO:0034958), [GO:0034958](https://bioregistry.io/GO:0034958), ... |
+| `EC:1.14.13.-`  |            114 | [GO:0034894](https://bioregistry.io/GO:0034894), [GO:0102116](https://bioregistry.io/GO:0102116), [GO:0102782](https://bioregistry.io/GO:0102782), [GO:0102901](https://bioregistry.io/GO:0102901), [GO:0103006](https://bioregistry.io/GO:0103006), ... |
+| `EC:2.4.1.-`    |             94 | [GO:0080002](https://bioregistry.io/GO:0080002), [GO:0102384](https://bioregistry.io/GO:0102384), [GO:0102724](https://bioregistry.io/GO:0102724), [GO:0102944](https://bioregistry.io/GO:0102944), [GO:0103077](https://bioregistry.io/GO:0103077), ... |
+| `EC:2.1.1.-`    |             64 | [GO:0008172](https://bioregistry.io/GO:0008172), [GO:0102440](https://bioregistry.io/GO:0102440), [GO:0102448](https://bioregistry.io/GO:0102448), [GO:0102608](https://bioregistry.io/GO:0102608), [GO:0102709](https://bioregistry.io/GO:0102709), ... |
+| `EC:1.13.11.-`  |             45 | [GO:0018558](https://bioregistry.io/GO:0018558), [GO:0018559](https://bioregistry.io/GO:0018559), [GO:0034813](https://bioregistry.io/GO:0034813), [GO:0034955](https://bioregistry.io/GO:0034955), [GO:0034956](https://bioregistry.io/GO:0034956), ... |
+| `EC:2.3.1.-`    |             41 | [GO:0043806](https://bioregistry.io/GO:0043806), [GO:0102649](https://bioregistry.io/GO:0102649), [GO:0102737](https://bioregistry.io/GO:0102737), [GO:0102787](https://bioregistry.io/GO:0102787), [GO:0102989](https://bioregistry.io/GO:0102989), ... |
+| `EC:1.1.1.-`    |             32 | [GO:0004448](https://bioregistry.io/GO:0004448), [GO:0102394](https://bioregistry.io/GO:0102394), [GO:0103030](https://bioregistry.io/GO:0103030), [GO:0103093](https://bioregistry.io/GO:0103093), [GO:1990002](https://bioregistry.io/GO:1990002), ... |
+| `EC:1.14.11.-`  |             25 | [GO:0102495](https://bioregistry.io/GO:0102495), [GO:0102663](https://bioregistry.io/GO:0102663), [GO:0102714](https://bioregistry.io/GO:0102714), [GO:0102716](https://bioregistry.io/GO:0102716), [GO:0103008](https://bioregistry.io/GO:0103008), ... |
+| `EC:1.14.12.-`  |             20 | [GO:0018606](https://bioregistry.io/GO:0018606), [GO:0018606](https://bioregistry.io/GO:0018606), [GO:0018608](https://bioregistry.io/GO:0018608), [GO:0018609](https://bioregistry.io/GO:0018609), [GO:0034906](https://bioregistry.io/GO:0034906), ... |
+| `EC:1.3.1.-`    |             19 | [GO:0035671](https://bioregistry.io/GO:0035671), [GO:0102728](https://bioregistry.io/GO:0102728), [GO:0102748](https://bioregistry.io/GO:0102748), [GO:0102868](https://bioregistry.io/GO:0102868), [GO:0102981](https://bioregistry.io/GO:0102981), ... |
+| `EC:4.2.3.-`    |             17 | [GO:0010334](https://bioregistry.io/GO:0010334), [GO:0016838](https://bioregistry.io/GO:0016838), [GO:0102065](https://bioregistry.io/GO:0102065), [GO:0102882](https://bioregistry.io/GO:0102882), [GO:0102882](https://bioregistry.io/GO:0102882), ... |
+| `EC:1.14.19.-`  |             17 | [GO:0016717](https://bioregistry.io/GO:0016717), [GO:0102656](https://bioregistry.io/GO:0102656), [GO:0102847](https://bioregistry.io/GO:0102847), [GO:0102854](https://bioregistry.io/GO:0102854), [GO:0102854](https://bioregistry.io/GO:0102854), ... |
+| `EC:3.2.1.-`    |             16 | [GO:0004553](https://bioregistry.io/GO:0004553), [GO:0102224](https://bioregistry.io/GO:0102224), [GO:0102413](https://bioregistry.io/GO:0102413), [GO:0102413](https://bioregistry.io/GO:0102413), [GO:0102669](https://bioregistry.io/GO:0102669), ... |
+| `EC:1.97.1.-`   |             16 | [GO:0018698](https://bioregistry.io/GO:0018698), [GO:0034542](https://bioregistry.io/GO:0034542), [GO:0034546](https://bioregistry.io/GO:0034546), [GO:0034550](https://bioregistry.io/GO:0034550), [GO:0034567](https://bioregistry.io/GO:0034567), ... |
+| `EC:3.3.2.-`    |             13 | [GO:0008096](https://bioregistry.io/GO:0008096), [GO:0018743](https://bioregistry.io/GO:0018743), [GO:0019118](https://bioregistry.io/GO:0019118), [GO:0102546](https://bioregistry.io/GO:0102546), [GO:0102547](https://bioregistry.io/GO:0102547), ... |
+| `EC:6.2.1.-`    |             13 | [GO:0018853](https://bioregistry.io/GO:0018853), [GO:0047473](https://bioregistry.io/GO:0047473), [GO:0102392](https://bioregistry.io/GO:0102392), [GO:0102392](https://bioregistry.io/GO:0102392), [GO:0103063](https://bioregistry.io/GO:0103063), ... |
+| `EC:1.2.1.-`    |             12 | [GO:0016620](https://bioregistry.io/GO:0016620), [GO:0018474](https://bioregistry.io/GO:0018474), [GO:0034530](https://bioregistry.io/GO:0034530), [GO:0052814](https://bioregistry.io/GO:0052814), [GO:0102792](https://bioregistry.io/GO:0102792), ... |
+| `EC:6.3.-.-`    |             12 | [GO:0016879](https://bioregistry.io/GO:0016879), [GO:0102051](https://bioregistry.io/GO:0102051), [GO:0102085](https://bioregistry.io/GO:0102085), [GO:0102664](https://bioregistry.io/GO:0102664), [GO:0102951](https://bioregistry.io/GO:0102951), ... |
+| `EC:2.8.2.-`    |             11 | [GO:0004394](https://bioregistry.io/GO:0004394), [GO:0004394](https://bioregistry.io/GO:0004394), [GO:0017095](https://bioregistry.io/GO:0017095), [GO:0050698](https://bioregistry.io/GO:0050698), [GO:0103104](https://bioregistry.io/GO:0103104), ... |
+| `EC:3.1.1.-`    |             10 | [GO:0004620](https://bioregistry.io/GO:0004620), [GO:0004620](https://bioregistry.io/GO:0004620), [GO:0043906](https://bioregistry.io/GO:0043906), [GO:0043907](https://bioregistry.io/GO:0043907), [GO:0043908](https://bioregistry.io/GO:0043908), ... |
+| `EC:1.3.99.-`   |             10 | [GO:0034916](https://bioregistry.io/GO:0034916), [GO:0043830](https://bioregistry.io/GO:0043830), [GO:0043830](https://bioregistry.io/GO:0043830), [GO:0052758](https://bioregistry.io/GO:0052758), [GO:0052758](https://bioregistry.io/GO:0052758), ... |
+| `EC:4.2.1.-`    |              9 | [GO:0016836](https://bioregistry.io/GO:0016836), [GO:0102475](https://bioregistry.io/GO:0102475), [GO:0102477](https://bioregistry.io/GO:0102477), [GO:0102644](https://bioregistry.io/GO:0102644), [GO:0102644](https://bioregistry.io/GO:0102644), ... |
+| `EC:1.14.-.-`   |              9 | [GO:0016705](https://bioregistry.io/GO:0016705), [GO:0016705](https://bioregistry.io/GO:0016705), [GO:0102123](https://bioregistry.io/GO:0102123), [GO:0102125](https://bioregistry.io/GO:0102125), [GO:0102730](https://bioregistry.io/GO:0102730), ... |
+| `EC:2.5.1.-`    |              8 | [GO:0052622](https://bioregistry.io/GO:0052622), [GO:0052622](https://bioregistry.io/GO:0052622), [GO:0052623](https://bioregistry.io/GO:0052623), [GO:0102747](https://bioregistry.io/GO:0102747), [GO:0102753](https://bioregistry.io/GO:0102753), ... |
+| `EC:1.14.15.-`  |              8 | [GO:0018681](https://bioregistry.io/GO:0018681), [GO:0034577](https://bioregistry.io/GO:0034577), [GO:0034818](https://bioregistry.io/GO:0034818), [GO:0034818](https://bioregistry.io/GO:0034818), [GO:0034818](https://bioregistry.io/GO:0034818), ... |
+| `EC:2.7.1.-`    |              7 | [GO:0016307](https://bioregistry.io/GO:0016307), [GO:0051723](https://bioregistry.io/GO:0051723), [GO:0051723](https://bioregistry.io/GO:0051723), [GO:0102731](https://bioregistry.io/GO:0102731), [GO:0102770](https://bioregistry.io/GO:0102770), ... |
+| `EC:3.1.2.-`    |              7 | [GO:0016790](https://bioregistry.io/GO:0016790), [GO:0016790](https://bioregistry.io/GO:0016790), [GO:0102327](https://bioregistry.io/GO:0102327), [GO:0102575](https://bioregistry.io/GO:0102575), [GO:0102576](https://bioregistry.io/GO:0102576), ... |
+| `EC:2.4.2.-`    |              7 | [GO:0016763](https://bioregistry.io/GO:0016763), [GO:0018127](https://bioregistry.io/GO:0018127), [GO:0102562](https://bioregistry.io/GO:0102562), [GO:1990585](https://bioregistry.io/GO:1990585), [GO:1990585](https://bioregistry.io/GO:1990585), ... |
+| `EC:2.6.1.-`    |              7 | [GO:0008483](https://bioregistry.io/GO:0008483), [GO:0036137](https://bioregistry.io/GO:0036137), [GO:0102081](https://bioregistry.io/GO:0102081), [GO:0102658](https://bioregistry.io/GO:0102658), [GO:0102658](https://bioregistry.io/GO:0102658), ... |
+| `EC:3.1.3.-`    |              7 | [GO:0016791](https://bioregistry.io/GO:0016791), [GO:0102757](https://bioregistry.io/GO:0102757), [GO:0103026](https://bioregistry.io/GO:0103026), [GO:0103026](https://bioregistry.io/GO:0103026), [GO:0103026](https://bioregistry.io/GO:0103026), ... |
+| `EC:1.13.12.-`  |              6 | [GO:0034835](https://bioregistry.io/GO:0034835), [GO:0034836](https://bioregistry.io/GO:0034836), [GO:0034850](https://bioregistry.io/GO:0034850), [GO:0034898](https://bioregistry.io/GO:0034898), [GO:0034898](https://bioregistry.io/GO:0034898), ... |
+| `EC:2.3.3.-`    |              6 | [GO:0103082](https://bioregistry.io/GO:0103082), [GO:0103085](https://bioregistry.io/GO:0103085), [GO:0103088](https://bioregistry.io/GO:0103088), [GO:0103088](https://bioregistry.io/GO:0103088), [GO:0103091](https://bioregistry.io/GO:0103091), ... |
+| `EC:5.4.4.-`    |              6 | [GO:0103080](https://bioregistry.io/GO:0103080), [GO:0103086](https://bioregistry.io/GO:0103086), [GO:0103092](https://bioregistry.io/GO:0103092), [GO:0103092](https://bioregistry.io/GO:0103092), [GO:0103092](https://bioregistry.io/GO:0103092), ... |
+| `EC:3.5.99.-`   |              6 | [GO:0034886](https://bioregistry.io/GO:0034886), [GO:0034886](https://bioregistry.io/GO:0034886), [GO:0034958](https://bioregistry.io/GO:0034958), [GO:0034958](https://bioregistry.io/GO:0034958), [GO:0034958](https://bioregistry.io/GO:0034958), ... |
 | `EC:4.1.3.-`    |              5 | [GO:0016833](https://bioregistry.io/GO:0016833), [GO:0016833](https://bioregistry.io/GO:0016833), [GO:0034815](https://bioregistry.io/GO:0034815), [GO:0034830](https://bioregistry.io/GO:0034830), [GO:0034905](https://bioregistry.io/GO:0034905)      |
 | `EC:4.3.-.-`    |              5 | [GO:0016840](https://bioregistry.io/GO:0016840), [GO:0016840](https://bioregistry.io/GO:0016840), [GO:0016841](https://bioregistry.io/GO:0016841), [GO:0016842](https://bioregistry.io/GO:0016842), [GO:0016843](https://bioregistry.io/GO:0016843)      |
 | `EC:1.3.8.-`    |              5 | [GO:0052890](https://bioregistry.io/GO:0052890), [GO:0102225](https://bioregistry.io/GO:0102225), [GO:0102393](https://bioregistry.io/GO:0102393), [GO:0102961](https://bioregistry.io/GO:0102961), [GO:0102962](https://bioregistry.io/GO:0102962)      |
@@ -327,14 +326,13 @@ external resource can be found on the
 ## `GO`: Gene Ontology
 
 Overall, there were 27 invalid
-xrefs to external terms in `go` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/go).
+xrefs to external prefixed with `GO` (standardized to Bioregistry
+entry [`go`]((https://bioregistry.io/go)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `GO:jl`         |             12 | [GO:0044355](https://bioregistry.io/GO:0044355), [GO:0075525](https://bioregistry.io/GO:0075525), [GO:0075527](https://bioregistry.io/GO:0075527), [GO:1902679](https://bioregistry.io/GO:1902679), [GO:1990428](https://bioregistry.io/GO:1990428), ... |
+| `GO:jl`         |             12 | [GO:0044093](https://bioregistry.io/GO:0044093), [GO:0044113](https://bioregistry.io/GO:0044113), [GO:0075525](https://bioregistry.io/GO:0075525), [GO:1902680](https://bioregistry.io/GO:1902680), [GO:1902680](https://bioregistry.io/GO:1902680), ... |
 | `GO:kmv`        |              3 | [GO:1901074](https://bioregistry.io/GO:1901074), [GO:1901075](https://bioregistry.io/GO:1901075), [GO:1901076](https://bioregistry.io/GO:1901076)                                                                                                        |
 | `GO:dos`        |              2 | [GO:0099046](https://bioregistry.io/GO:0099046), [GO:0099047](https://bioregistry.io/GO:0099047)                                                                                                                                                         |
 | `GO:hjd`        |              1 | [GO:0002189](https://bioregistry.io/GO:0002189)                                                                                                                                                                                                          |
@@ -351,10 +349,9 @@ external resource can be found on the
 ## `GOA`: Gene Ontology Annotation Database
 
 Overall, there were 1 invalid
-xrefs to external terms in `goa` that did not match the standard
-pattern `^(([A-N,R-Z][0-9][A-Z][A-Z, 0-9][A-Z, 0-9][0-9])|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9]))|(URS[0-9A-F]{10}(_[0-9]+){0,1})|(EBI-[0-9]+)$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/goa).
+xrefs to external prefixed with `GOA` (standardized to Bioregistry
+entry [`goa`]((https://bioregistry.io/goa)) that
+did not match the standard pattern `^(([A-N,R-Z][0-9][A-Z][A-Z, 0-9][A-Z, 0-9][0-9])|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9]))|(URS[0-9A-F]{10}(_[0-9]+){0,1})|(EBI-[0-9]+)$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -363,23 +360,21 @@ external resource can be found on the
 ## `ISSN`: International Standard Serial Number
 
 Overall, there were 15 invalid
-xrefs to external terms in `issn` that did not match the standard
-pattern `^\d{4}-\d{3}[\dX]$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/issn).
+xrefs to external prefixed with `ISSN` (standardized to Bioregistry
+entry [`issn`]((https://bioregistry.io/issn)) that
+did not match the standard pattern `^\d{4}-\d{3}[\dX]$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ISSN:15518507` |              9 | [GO:0060105](https://bioregistry.io/GO:0060105), [GO:0060105](https://bioregistry.io/GO:0060105), [GO:0060106](https://bioregistry.io/GO:0060106), [GO:0060108](https://bioregistry.io/GO:0060108), [GO:0060109](https://bioregistry.io/GO:0060109), ... |
-| `ISSN:09498257` |              6 | [GO:0019720](https://bioregistry.io/GO:0019720), [GO:0019720](https://bioregistry.io/GO:0019720), [GO:0019720](https://bioregistry.io/GO:0019720), [GO:0042046](https://bioregistry.io/GO:0042046), [GO:0042046](https://bioregistry.io/GO:0042046), ... |
+| `ISSN:15518507` |              9 | [GO:0060106](https://bioregistry.io/GO:0060106), [GO:0060107](https://bioregistry.io/GO:0060107), [GO:0060107](https://bioregistry.io/GO:0060107), [GO:0060110](https://bioregistry.io/GO:0060110), [GO:0060111](https://bioregistry.io/GO:0060111), ... |
+| `ISSN:09498257` |              6 | [GO:0006777](https://bioregistry.io/GO:0006777), [GO:0006777](https://bioregistry.io/GO:0006777), [GO:0006777](https://bioregistry.io/GO:0006777), [GO:0042046](https://bioregistry.io/GO:0042046), [GO:0042046](https://bioregistry.io/GO:0042046), ... |
 
 ## `KEGG_PATHWAY`: KEGG Pathways Database
 
 Overall, there were 2 invalid
-xrefs to external terms in `kegg.pathway` that did not match the standard
-pattern `^\w{2,4}\d{5}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/kegg.pathway).
+xrefs to external prefixed with `KEGG_PATHWAY` (standardized to Bioregistry
+entry [`kegg.pathway`]((https://bioregistry.io/kegg.pathway)) that
+did not match the standard pattern `^\w{2,4}\d{5}$`.
 
 | external_xref         |   usages_count | usages                                          |
 |-----------------------|----------------|-------------------------------------------------|
@@ -389,10 +384,9 @@ external resource can be found on the
 ## `MEROPS`: MEROPS peptidase database
 
 Overall, there were 1 invalid
-xrefs to external terms in `merops` that did not match the standard
-pattern `^[SCTAGMNU]\d{2}\.([AB]\d{2}|\d{3})$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/merops).
+xrefs to external prefixed with `MEROPS` (standardized to Bioregistry
+entry [`merops`]((https://bioregistry.io/merops)) that
+did not match the standard pattern `^[SCTAGMNU]\d{2}\.([AB]\d{2}|\d{3})$`.
 
 | external_xref    |   usages_count | usages                                          |
 |------------------|----------------|-------------------------------------------------|
@@ -401,10 +395,9 @@ external resource can be found on the
 ## `MeSH`: Medical Subject Headings
 
 Overall, there were 1 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MeSH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -413,10 +406,9 @@ external resource can be found on the
 ## `MetaCyc`: Metabolic Encyclopedia of metabolic and other pathways
 
 Overall, there were 1 invalid
-xrefs to external terms in `metacyc.compound` that did not match the standard
-pattern `^[A-Za-z0-9+_.%-:]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/metacyc.compound).
+xrefs to external prefixed with `MetaCyc` (standardized to Bioregistry
+entry [`metacyc.compound`]((https://bioregistry.io/metacyc.compound)) that
+did not match the standard pattern `^[A-Za-z0-9+_.%-:]+$`.
 
 | external_xref                                 |   usages_count | usages                                          |
 |-----------------------------------------------|----------------|-------------------------------------------------|
@@ -425,10 +417,9 @@ external resource can be found on the
 ## `MGI`: Mouse Genome Informatics
 
 Overall, there were 1 invalid
-xrefs to external terms in `mgi` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mgi).
+xrefs to external prefixed with `MGI` (standardized to Bioregistry
+entry [`mgi`]((https://bioregistry.io/mgi)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -437,10 +428,9 @@ external resource can be found on the
 ## `Pfam`: Pfam
 
 Overall, there were 1 invalid
-xrefs to external terms in `pfam` that did not match the standard
-pattern `^PF\d{5}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pfam).
+xrefs to external prefixed with `Pfam` (standardized to Bioregistry
+entry [`pfam`]((https://bioregistry.io/pfam)) that
+did not match the standard pattern `^PF\d{5}$`.
 
 | external_xref    |   usages_count | usages                                          |
 |------------------|----------------|-------------------------------------------------|
@@ -449,10 +439,9 @@ external resource can be found on the
 ## `PMID`: PubMed
 
 Overall, there were 2 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref    |   usages_count | usages                                          |
 |------------------|----------------|-------------------------------------------------|
@@ -462,10 +451,9 @@ external resource can be found on the
 ## `Prosite`: PROSITE
 
 Overall, there were 3 invalid
-xrefs to external terms in `prosite` that did not match the standard
-pattern `^PS\d{5}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/prosite).
+xrefs to external prefixed with `Prosite` (standardized to Bioregistry
+entry [`prosite`]((https://bioregistry.io/prosite)) that
+did not match the standard pattern `^PS\d{5}$`.
 
 | external_xref       |   usages_count | usages                                          |
 |---------------------|----------------|-------------------------------------------------|
@@ -476,10 +464,9 @@ external resource can be found on the
 ## `Reactome`: Reactome
 
 Overall, there were 4 invalid
-xrefs to external terms in `reactome` that did not match the standard
-pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/reactome).
+xrefs to external prefixed with `Reactome` (standardized to Bioregistry
+entry [`reactome`]((https://bioregistry.io/reactome)) that
+did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 
 | external_xref       |   usages_count | usages                                          |
 |---------------------|----------------|-------------------------------------------------|
@@ -491,10 +478,9 @@ external resource can be found on the
 ## `RESID`: Protein covalent bond
 
 Overall, there were 3 invalid
-xrefs to external terms in `resid` that did not match the standard
-pattern `^AA\d{4}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/resid).
+xrefs to external prefixed with `RESID` (standardized to Bioregistry
+entry [`resid`]((https://bioregistry.io/resid)) that
+did not match the standard pattern `^AA\d{4}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -505,10 +491,9 @@ external resource can be found on the
 ## `TC`: Transporter Classification Database
 
 Overall, there were 42 invalid
-xrefs to external terms in `tcdb` that did not match the standard
-pattern `^\d+(\.[A-Z])?(\.\d+)?(\.\d+)?(\.\d+)?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/tcdb).
+xrefs to external prefixed with `TC` (standardized to Bioregistry
+entry [`tcdb`]((https://bioregistry.io/tcdb)) that
+did not match the standard pattern `^\d+(\.[A-Z])?(\.\d+)?(\.\d+)?(\.\d+)?$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -555,10 +540,9 @@ external resource can be found on the
 ## `UM-BBD_pathwayID`: EAWAG Biocatalysis/Biodegradation Database
 
 Overall, there were 4 invalid
-xrefs to external terms in `umbbd.pathway` that did not match the standard
-pattern `^\w+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/umbbd.pathway).
+xrefs to external prefixed with `UM-BBD_pathwayID` (standardized to Bioregistry
+entry [`umbbd.pathway`]((https://bioregistry.io/umbbd.pathway)) that
+did not match the standard pattern `^\w+$`.
 
 | external_xref              |   usages_count | usages                                                                                           |
 |----------------------------|----------------|--------------------------------------------------------------------------------------------------|
@@ -569,10 +553,9 @@ external resource can be found on the
 ## `UM-BBD_reactionID`: EAWAG Biocatalysis/Biodegradation Database
 
 Overall, there were 2 invalid
-xrefs to external terms in `umbbd.reaction` that did not match the standard
-pattern `^r\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/umbbd.reaction).
+xrefs to external prefixed with `UM-BBD_reactionID` (standardized to Bioregistry
+entry [`umbbd.reaction`]((https://bioregistry.io/umbbd.reaction)) that
+did not match the standard pattern `^r\d+$`.
 
 | external_xref            |   usages_count | usages                                          |
 |--------------------------|----------------|-------------------------------------------------|
@@ -582,10 +565,9 @@ external resource can be found on the
 ## `UniPathway`: Unipathway
 
 Overall, there were 1 invalid
-xrefs to external terms in `upa` that did not match the standard
-pattern `^(UCR|UCY|UER|ULS|UPA|UPC|UPX)\d{5}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/upa).
+xrefs to external prefixed with `UniPathway` (standardized to Bioregistry
+entry [`upa`]((https://bioregistry.io/upa)) that
+did not match the standard pattern `^(UCR|UCY|UER|ULS|UPA|UPC|UPX)\d{5}$`.
 
 | external_xref       |   usages_count | usages                                          |
 |---------------------|----------------|-------------------------------------------------|
@@ -594,10 +576,9 @@ external resource can be found on the
 ## `UniProtKB-KW`: UniProt Keywords
 
 Overall, there were 136 invalid
-xrefs to external terms in `uniprot.keyword` that did not match the standard
-pattern `^\d{4}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/uniprot.keyword).
+xrefs to external prefixed with `UniProtKB-KW` (standardized to Bioregistry
+entry [`uniprot.keyword`]((https://bioregistry.io/uniprot.keyword)) that
+did not match the standard pattern `^\d{4}$`.
 
 | external_xref          |   usages_count | usages                                                                                                                                            |
 |------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -695,10 +676,9 @@ external resource can be found on the
 ## `WB_REF`: WormBase database of nematode biology
 
 Overall, there were 2 invalid
-xrefs to external terms in `wormbase` that did not match the standard
-pattern `^WB[A-Z][a-z]+\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wormbase).
+xrefs to external prefixed with `WB_REF` (standardized to Bioregistry
+entry [`wormbase`]((https://bioregistry.io/wormbase)) that
+did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 | external_xref        |   usages_count | usages                                          |
 |----------------------|----------------|-------------------------------------------------|
@@ -708,15 +688,14 @@ external resource can be found on the
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 129 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                                                                                               |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-------------------------------------------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `Wikipedia:Dinoflagellate#Morphology`                                                                       |             10 | [GO:0097612](https://bioregistry.io/GO:0097612), [GO:0097614](https://bioregistry.io/GO:0097614), [GO:0097614](https://bioregistry.io/GO:0097614), [GO:0097684](https://bioregistry.io/GO:0097684), [GO:0097684](https://bioregistry.io/GO:0097684), ... |
-| `Wikipedia:Phytochelatin#History`                                                                           |              6 | [GO:0044604](https://bioregistry.io/GO:0044604), [GO:0046937](https://bioregistry.io/GO:0046937), [GO:0071993](https://bioregistry.io/GO:0071993), [GO:0071993](https://bioregistry.io/GO:0071993), [GO:0071995](https://bioregistry.io/GO:0071995), ... |
+| `Wikipedia:Dinoflagellate#Morphology`                                                                       |             10 | [GO:0097608](https://bioregistry.io/GO:0097608), [GO:0097608](https://bioregistry.io/GO:0097608), [GO:0097611](https://bioregistry.io/GO:0097611), [GO:0097612](https://bioregistry.io/GO:0097612), [GO:0097685](https://bioregistry.io/GO:0097685), ... |
+| `Wikipedia:Phytochelatin#History`                                                                           |              6 | [GO:0046937](https://bioregistry.io/GO:0046937), [GO:0071993](https://bioregistry.io/GO:0071993), [GO:0071994](https://bioregistry.io/GO:0071994), [GO:0071994](https://bioregistry.io/GO:0071994), [GO:0071995](https://bioregistry.io/GO:0071995), ... |
 | `Wikipedia:Bleb_(cell_biology)`                                                                             |              4 | [GO:0032059](https://bioregistry.io/GO:0032059), [GO:0032059](https://bioregistry.io/GO:0032059), [GO:0032060](https://bioregistry.io/GO:0032060), [GO:0097189](https://bioregistry.io/GO:0097189)                                                       |
 | `Wikipedia:Head_and_neck_anatomy#Musculoskeletal_system`                                                    |              4 | [GO:0097094](https://bioregistry.io/GO:0097094), [GO:0097095](https://bioregistry.io/GO:0097095), [GO:0097096](https://bioregistry.io/GO:0097096), [GO:0097097](https://bioregistry.io/GO:0097097)                                                       |
 | `Wikipedia:Sarcomere#bands`                                                                                 |              4 | [GO:0031430](https://bioregistry.io/GO:0031430), [GO:0031672](https://bioregistry.io/GO:0031672), [GO:0031673](https://bioregistry.io/GO:0031673), [GO:0031674](https://bioregistry.io/GO:0031674)                                                       |
@@ -821,10 +800,9 @@ external resource can be found on the
 ## `XAO`: Xenopus Anatomy Ontology
 
 Overall, there were 2 invalid
-xrefs to external terms in `xao` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/xao).
+xrefs to external prefixed with `XAO` (standardized to Bioregistry
+entry [`xao`]((https://bioregistry.io/xao)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -834,10 +812,9 @@ external resource can be found on the
 ## `ZFA`: Zebrafish anatomy and development ontology
 
 Overall, there were 2 invalid
-xrefs to external terms in `zfa` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/zfa).
+xrefs to external prefixed with `ZFA` (standardized to Bioregistry
+entry [`zfa`]((https://bioregistry.io/zfa)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -847,10 +824,9 @@ external resource can be found on the
 ## `ZFIN`: Zebrafish Information Network Gene
 
 Overall, there were 1 invalid
-xrefs to external terms in `zfin` that did not match the standard
-pattern `^ZDB\-\w+\-\d+\-\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/zfin).
+xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
+entry [`zfin`]((https://bioregistry.io/zfin)) that
+did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

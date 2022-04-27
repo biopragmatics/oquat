@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `xlmod`. See the [GitHub r
 ## `CAS`: CAS Chemical Registry
 
 Overall, there were 1 invalid
-xrefs to external terms in `cas` that did not match the standard
-pattern `^\d{1,7}\-\d{2}\-\d$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/cas).
+xrefs to external prefixed with `CAS` (standardized to Bioregistry
+entry [`cas`]((https://bioregistry.io/cas)) that
+did not match the standard pattern `^\d{1,7}\-\d{2}\-\d$`.
 
 | external_xref                               |   usages_count | usages                                            |
 |---------------------------------------------|----------------|---------------------------------------------------|

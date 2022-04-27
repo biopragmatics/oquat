@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `diseaseclass`.
 ## `PS`: OMIM Phenotypic Series
 
 Overall, there were 92 invalid
-xrefs to external terms in `omim.ps` that did not match the standard
-pattern `^PS\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/omim.ps).
+xrefs to external prefixed with `PS` (standardized to Bioregistry
+entry [`omim.ps`]((https://bioregistry.io/omim.ps)) that
+did not match the standard pattern `^PS\d+$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

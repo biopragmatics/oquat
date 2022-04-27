@@ -7,22 +7,20 @@ for node, synonym, and definition cross-references in `aeo`. See the [GitHub rep
 ## `AEO`: Anatomical Entity Ontology
 
 Overall, there were 111 invalid
-xrefs to external terms in `aeo` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/aeo).
+xrefs to external prefixed with `AEO` (standardized to Bioregistry
+entry [`aeo`]((https://bioregistry.io/aeo)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `AEO:JB`        |            111 | [AEO:0000135](https://bioregistry.io/AEO:0000135), [AEO:0000142](https://bioregistry.io/AEO:0000142), [AEO:0000146](https://bioregistry.io/AEO:0000146), [AEO:0000180](https://bioregistry.io/AEO:0000180), [AEO:0001017](https://bioregistry.io/AEO:0001017), ... |
+| `AEO:JB`        |            111 | [AEO:0000080](https://bioregistry.io/AEO:0000080), [AEO:0000172](https://bioregistry.io/AEO:0000172), [AEO:0000173](https://bioregistry.io/AEO:0000173), [AEO:0001009](https://bioregistry.io/AEO:0001009), [AEO:0001014](https://bioregistry.io/AEO:0001014), ... |
 
 ## `AEO.`: Anatomical Entity Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `aeo` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/aeo).
+xrefs to external prefixed with `AEO.` (standardized to Bioregistry
+entry [`aeo`]((https://bioregistry.io/aeo)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -31,10 +29,9 @@ external resource can be found on the
 ## `GO`: Gene Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `go` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/go).
+xrefs to external prefixed with `GO` (standardized to Bioregistry
+entry [`go`]((https://bioregistry.io/go)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|

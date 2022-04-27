@@ -7,40 +7,37 @@ for node, synonym, and definition cross-references in `fao`. See the [GitHub rep
 ## `CGD`: Candida Genome Database
 
 Overall, there were 10 invalid
-xrefs to external terms in `cgd` that did not match the standard
-pattern `^CAL\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/cgd).
+xrefs to external prefixed with `CGD` (standardized to Bioregistry
+entry [`cgd`]((https://bioregistry.io/cgd)) that
+did not match the standard pattern `^CAL\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CGD:doi`       |             10 | [FAO:0000042](https://bioregistry.io/FAO:0000042), [FAO:0000060](https://bioregistry.io/FAO:0000060), [FAO:0000062](https://bioregistry.io/FAO:0000062), [FAO:0000063](https://bioregistry.io/FAO:0000063), [FAO:0000066](https://bioregistry.io/FAO:0000066), ... |
+| `CGD:doi`       |             10 | [FAO:0000060](https://bioregistry.io/FAO:0000060), [FAO:0000062](https://bioregistry.io/FAO:0000062), [FAO:0000063](https://bioregistry.io/FAO:0000063), [FAO:0000063](https://bioregistry.io/FAO:0000063), [FAO:0000064](https://bioregistry.io/FAO:0000064), ... |
 
 ## `FAO`: Fungal gross anatomy
 
 Overall, there were 88 invalid
-xrefs to external terms in `fao` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/fao).
+xrefs to external prefixed with `FAO` (standardized to Bioregistry
+entry [`fao`]((https://bioregistry.io/fao)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `FAO:mah`       |             32 | [FAO:0000013](https://bioregistry.io/FAO:0000013), [FAO:0000058](https://bioregistry.io/FAO:0000058), [FAO:0001016](https://bioregistry.io/FAO:0001016), [FAO:0001017](https://bioregistry.io/FAO:0001017), [FAO:0002010](https://bioregistry.io/FAO:0002010), ... |
-| `FAO:mcc`       |             23 | [FAO:0001002](https://bioregistry.io/FAO:0001002), [FAO:0001007](https://bioregistry.io/FAO:0001007), [FAO:0001012](https://bioregistry.io/FAO:0001012), [FAO:0001023](https://bioregistry.io/FAO:0001023), [FAO:0001023](https://bioregistry.io/FAO:0001023), ... |
-| `FAO:curators`  |             17 | [FAO:0000002](https://bioregistry.io/FAO:0000002), [FAO:0000005](https://bioregistry.io/FAO:0000005), [FAO:0000052](https://bioregistry.io/FAO:0000052), [FAO:0000054](https://bioregistry.io/FAO:0000054), [FAO:0000058](https://bioregistry.io/FAO:0000058), ... |
-| `FAO:doi`       |             14 | [FAO:0002004](https://bioregistry.io/FAO:0002004), [FAO:0002004](https://bioregistry.io/FAO:0002004), [FAO:0002004](https://bioregistry.io/FAO:0002004), [FAO:0002007](https://bioregistry.io/FAO:0002007), [FAO:0002010](https://bioregistry.io/FAO:0002010), ... |
+| `FAO:mah`       |             32 | [FAO:0000006](https://bioregistry.io/FAO:0000006), [FAO:0000065](https://bioregistry.io/FAO:0000065), [FAO:0001017](https://bioregistry.io/FAO:0001017), [FAO:0001017](https://bioregistry.io/FAO:0001017), [FAO:0002008](https://bioregistry.io/FAO:0002008), ... |
+| `FAO:mcc`       |             23 | [FAO:0001001](https://bioregistry.io/FAO:0001001), [FAO:0001007](https://bioregistry.io/FAO:0001007), [FAO:0001015](https://bioregistry.io/FAO:0001015), [FAO:0001017](https://bioregistry.io/FAO:0001017), [FAO:0001018](https://bioregistry.io/FAO:0001018), ... |
+| `FAO:curators`  |             17 | [FAO:0000003](https://bioregistry.io/FAO:0000003), [FAO:0000007](https://bioregistry.io/FAO:0000007), [FAO:0000007](https://bioregistry.io/FAO:0000007), [FAO:0000013](https://bioregistry.io/FAO:0000013), [FAO:0000018](https://bioregistry.io/FAO:0000018), ... |
+| `FAO:doi`       |             14 | [FAO:0002003](https://bioregistry.io/FAO:0002003), [FAO:0002003](https://bioregistry.io/FAO:0002003), [FAO:0002006](https://bioregistry.io/FAO:0002006), [FAO:0002010](https://bioregistry.io/FAO:0002010), [FAO:0002011](https://bioregistry.io/FAO:0002011), ... |
 | `FAO:clt`       |              2 | [FAO:0001005](https://bioregistry.io/FAO:0001005), [FAO:0001006](https://bioregistry.io/FAO:0001006)                                                                                                                                                               |
 
 ## `SGD`: Saccharomyces Genome Database
 
 Overall, there were 33 invalid
-xrefs to external terms in `sgd` that did not match the standard
-pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/sgd).
+xrefs to external prefixed with `SGD` (standardized to Bioregistry
+entry [`sgd`]((https://bioregistry.io/sgd)) that
+did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `SGD:clt`       |             33 | [FAO:0000023](https://bioregistry.io/FAO:0000023), [FAO:0000030](https://bioregistry.io/FAO:0000030), [FAO:0000030](https://bioregistry.io/FAO:0000030), [FAO:0000030](https://bioregistry.io/FAO:0000030), [FAO:0000032](https://bioregistry.io/FAO:0000032), ... |
+| `SGD:clt`       |             33 | [FAO:0000020](https://bioregistry.io/FAO:0000020), [FAO:0000021](https://bioregistry.io/FAO:0000021), [FAO:0000022](https://bioregistry.io/FAO:0000022), [FAO:0000030](https://bioregistry.io/FAO:0000030), [FAO:0000042](https://bioregistry.io/FAO:0000042), ... |
 

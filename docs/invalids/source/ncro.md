@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `ncro`. See the [GitHub re
 ## `miRBase`: miRBase pre-miRNA
 
 Overall, there were 592 invalid
-xrefs to external terms in `mirbase` that did not match the standard
-pattern `^MI\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mirbase).
+xrefs to external prefixed with `miRBase` (standardized to Bioregistry
+entry [`mirbase`]((https://bioregistry.io/mirbase)) that
+did not match the standard pattern `^MI\d{7}$`.
 
 | external_xref          |   usages_count | usages                                              |
 |------------------------|----------------|-----------------------------------------------------|

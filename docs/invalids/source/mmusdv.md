@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `mmusdv`. See the [GitHub 
 ## `EMAPA`: Mouse Developmental Anatomy Ontology
 
 Overall, there were 57 invalid
-xrefs to external terms in `emapa` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/emapa).
+xrefs to external prefixed with `EMAPA` (standardized to Bioregistry
+entry [`emapa`]((https://bioregistry.io/emapa)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                    |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -46,10 +45,9 @@ external resource can be found on the
 ## `UBERON`: Uber Anatomy Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `uberon` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/uberon).
+xrefs to external prefixed with `UBERON` (standardized to Bioregistry
+entry [`uberon`]((https://bioregistry.io/uberon)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|

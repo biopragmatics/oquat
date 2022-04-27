@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `doid`. See the [GitHub re
 ## `DO`: Human Disease Ontology
 
 Overall, there were 2 invalid
-xrefs to external terms in `doid` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/doid).
+xrefs to external prefixed with `DO` (standardized to Bioregistry
+entry [`doid`]((https://bioregistry.io/doid)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -20,10 +19,9 @@ external resource can be found on the
 ## `ICDO`: International Classification of Diseases for Oncology
 
 Overall, there were 2 invalid
-xrefs to external terms in `icdo` that did not match the standard
-pattern `^[8-9]\d{3}(/[0-3])?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/icdo).
+xrefs to external prefixed with `ICDO` (standardized to Bioregistry
+entry [`icdo`]((https://bioregistry.io/icdo)) that
+did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 | external_xref   |   usages_count | usages                                        |
 |-----------------|----------------|-----------------------------------------------|
@@ -33,10 +31,9 @@ external resource can be found on the
 ## `KEGG`: Kyoto Encyclopedia of Genes and Genomes
 
 Overall, there were 36 invalid
-xrefs to external terms in `kegg` that did not match the standard
-pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/kegg).
+xrefs to external prefixed with `KEGG` (standardized to Bioregistry
+entry [`kegg`]((https://bioregistry.io/kegg)) that
+did not match the standard pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`.
 
 | external_xref   |   usages_count | usages                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------|
@@ -78,10 +75,9 @@ external resource can be found on the
 ## `NCI`: NCI Thesaurus
 
 Overall, there were 1 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `NCI` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -90,10 +86,9 @@ external resource can be found on the
 ## `OMIM`: Online Mendelian Inheritance in Man
 
 Overall, there were 231 invalid
-xrefs to external terms in `omim` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/omim).
+xrefs to external prefixed with `OMIM` (standardized to Bioregistry
+entry [`omim`]((https://bioregistry.io/omim)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -332,15 +327,14 @@ external resource can be found on the
 ## `ORDO`: Orphanet Rare Disease Ontology
 
 Overall, there were 2,026 invalid
-xrefs to external terms in `orphanet.ordo` that did not match the standard
-pattern `^Orphanet(_|:)C?\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/orphanet.ordo).
+xrefs to external prefixed with `ORDO` (standardized to Bioregistry
+entry [`orphanet.ordo`]((https://bioregistry.io/orphanet.ordo)) that
+did not match the standard pattern `^Orphanet(_|:)C?\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ORDO:2542`     |              7 | [DOID:0060836](https://bioregistry.io/DOID:0060836), [DOID:0060836](https://bioregistry.io/DOID:0060836), [DOID:0060836](https://bioregistry.io/DOID:0060836), [DOID:0060838](https://bioregistry.io/DOID:0060838), [DOID:0060839](https://bioregistry.io/DOID:0060839), ... |
-| `ORDO:2440`     |              7 | [DOID:0090020](https://bioregistry.io/DOID:0090020), [DOID:0090022](https://bioregistry.io/DOID:0090022), [DOID:0090022](https://bioregistry.io/DOID:0090022), [DOID:0090026](https://bioregistry.io/DOID:0090026), [DOID:0090027](https://bioregistry.io/DOID:0090027), ... |
+| `ORDO:2542`     |              7 | [DOID:0060835](https://bioregistry.io/DOID:0060835), [DOID:0060839](https://bioregistry.io/DOID:0060839), [DOID:0060841](https://bioregistry.io/DOID:0060841), [DOID:0060841](https://bioregistry.io/DOID:0060841), [DOID:0060842](https://bioregistry.io/DOID:0060842), ... |
+| `ORDO:2440`     |              7 | [DOID:0090021](https://bioregistry.io/DOID:0090021), [DOID:0090021](https://bioregistry.io/DOID:0090021), [DOID:0090025](https://bioregistry.io/DOID:0090025), [DOID:0090026](https://bioregistry.io/DOID:0090026), [DOID:0090027](https://bioregistry.io/DOID:0090027), ... |
 | `ORDO:2524`     |              5 | [DOID:0060267](https://bioregistry.io/DOID:0060267), [DOID:0060268](https://bioregistry.io/DOID:0060268), [DOID:0060269](https://bioregistry.io/DOID:0060269), [DOID:0060270](https://bioregistry.io/DOID:0060270), [DOID:0112328](https://bioregistry.io/DOID:0112328)      |
 | `ORDO:169150`   |              5 | [DOID:0060299](https://bioregistry.io/DOID:0060299), [DOID:0060301](https://bioregistry.io/DOID:0060301), [DOID:0060302](https://bioregistry.io/DOID:0060302), [DOID:0060303](https://bioregistry.io/DOID:0060303), [DOID:8158](https://bioregistry.io/DOID:8158)            |
 | `ORDO:3152`     |              4 | [DOID:0060251](https://bioregistry.io/DOID:0060251), [DOID:0060756](https://bioregistry.io/DOID:0060756), [DOID:0060757](https://bioregistry.io/DOID:0060757), [DOID:0080036](https://bioregistry.io/DOID:0080036)                                                           |

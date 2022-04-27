@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `lpt`.
 ## `MGI`: Mouse Genome Informatics
 
 Overall, there were 6 invalid
-xrefs to external terms in `mgi` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mgi).
+xrefs to external prefixed with `MGI` (standardized to Bioregistry
+entry [`mgi`]((https://bioregistry.io/mgi)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                     |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -20,10 +19,9 @@ external resource can be found on the
 ## `VT`: Vertebrate trait ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `vt` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/vt).
+xrefs to external prefixed with `VT` (standardized to Bioregistry
+entry [`vt`]((https://bioregistry.io/vt)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -32,13 +30,12 @@ external resource can be found on the
 ## `VTO`: Vertebrate Taxonomy Ontology
 
 Overall, there were 540 invalid
-xrefs to external terms in `vto` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/vto).
+xrefs to external prefixed with `VTO` (standardized to Bioregistry
+entry [`vto`]((https://bioregistry.io/vto)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `VTO:CP`        |            357 | [LPT:0000087](https://bioregistry.io/LPT:0000087), [LPT:0000173](https://bioregistry.io/LPT:0000173), [LPT:0010343](https://bioregistry.io/LPT:0010343), [LPT:0010374](https://bioregistry.io/LPT:0010374), [LPT:1000225](https://bioregistry.io/LPT:1000225), ... |
-| `VTO:INRA`      |            183 | [LPT:0010289](https://bioregistry.io/LPT:0010289), [LPT:0010314](https://bioregistry.io/LPT:0010314), [LPT:0010352](https://bioregistry.io/LPT:0010352), [LPT:0010389](https://bioregistry.io/LPT:0010389), [LPT:0010440](https://bioregistry.io/LPT:0010440), ... |
+| `VTO:CP`        |            357 | [LPT:0000145](https://bioregistry.io/LPT:0000145), [LPT:0010261](https://bioregistry.io/LPT:0010261), [LPT:0010373](https://bioregistry.io/LPT:0010373), [LPT:1000259](https://bioregistry.io/LPT:1000259), [LPT:1000260](https://bioregistry.io/LPT:1000260), ... |
+| `VTO:INRA`      |            183 | [LPT:0010261](https://bioregistry.io/LPT:0010261), [LPT:0010310](https://bioregistry.io/LPT:0010310), [LPT:0010312](https://bioregistry.io/LPT:0010312), [LPT:0010392](https://bioregistry.io/LPT:0010392), [LPT:0010437](https://bioregistry.io/LPT:0010437), ... |
 

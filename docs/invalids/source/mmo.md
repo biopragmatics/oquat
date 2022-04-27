@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `mmo`. See the [GitHub rep
 ## `ECO`: Evidence ontology
 
 Overall, there were 9 invalid
-xrefs to external terms in `eco` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/eco).
+xrefs to external prefixed with `ECO` (standardized to Bioregistry
+entry [`eco`]((https://bioregistry.io/eco)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref     |   usages_count | usages                                            |
 |-------------------|----------------|---------------------------------------------------|
@@ -27,10 +26,9 @@ external resource can be found on the
 ## `efo`: Experimental Factor Ontology
 
 Overall, there were 7 invalid
-xrefs to external terms in `efo` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/efo).
+xrefs to external prefixed with `efo` (standardized to Bioregistry
+entry [`efo`]((https://bioregistry.io/efo)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref     |   usages_count | usages                                            |
 |-------------------|----------------|---------------------------------------------------|
@@ -45,10 +43,9 @@ external resource can be found on the
 ## `MESH`: Medical Subject Headings
 
 Overall, there were 1 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MESH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref                                         |   usages_count | usages                                            |
 |-------------------------------------------------------|----------------|---------------------------------------------------|
@@ -57,10 +54,9 @@ external resource can be found on the
 ## `PMID`: PubMed
 
 Overall, there were 1 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref       |   usages_count | usages                                            |
 |---------------------|----------------|---------------------------------------------------|
@@ -69,14 +65,13 @@ external resource can be found on the
 ## `RGD`: Rat Genome Database
 
 Overall, there were 37 invalid
-xrefs to external terms in `rgd` that did not match the standard
-pattern `^\d{4,}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/rgd).
+xrefs to external prefixed with `RGD` (standardized to Bioregistry
+entry [`rgd`]((https://bioregistry.io/rgd)) that
+did not match the standard pattern `^\d{4,}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `RGD:JRS`       |             29 | [MMO:0000119](https://bioregistry.io/MMO:0000119), [MMO:0000218](https://bioregistry.io/MMO:0000218), [MMO:0000225](https://bioregistry.io/MMO:0000225), [MMO:0000276](https://bioregistry.io/MMO:0000276), [MMO:0000303](https://bioregistry.io/MMO:0000303), ... |
+| `RGD:JRS`       |             29 | [MMO:0000088](https://bioregistry.io/MMO:0000088), [MMO:0000225](https://bioregistry.io/MMO:0000225), [MMO:0000226](https://bioregistry.io/MMO:0000226), [MMO:0000242](https://bioregistry.io/MMO:0000242), [MMO:0000611](https://bioregistry.io/MMO:0000611), ... |
 | `RGD:MS`        |              5 | [MMO:0000081](https://bioregistry.io/MMO:0000081), [MMO:0000097](https://bioregistry.io/MMO:0000097), [MMO:0000104](https://bioregistry.io/MMO:0000104), [MMO:0000137](https://bioregistry.io/MMO:0000137), [MMO:0000160](https://bioregistry.io/MMO:0000160)      |
 | `RGD:SL`        |              1 | [MMO:0000132](https://bioregistry.io/MMO:0000132)                                                                                                                                                                                                                  |
 | `RGD:SJL`       |              1 | [MMO:0000448](https://bioregistry.io/MMO:0000448)                                                                                                                                                                                                                  |
@@ -85,18 +80,17 @@ external resource can be found on the
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 144 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                                                                                 |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein`                                          |             10 | [MMO:0000475](https://bioregistry.io/MMO:0000475), [MMO:0000482](https://bioregistry.io/MMO:0000482), [MMO:0000485](https://bioregistry.io/MMO:0000485), [MMO:0000485](https://bioregistry.io/MMO:0000485), [MMO:0000486](https://bioregistry.io/MMO:0000486), ... |
-| `Wikipedia:http://en.wikipedia.org/wiki/`                                                     |              9 | [MMO:0000077](https://bioregistry.io/MMO:0000077), [MMO:0000079](https://bioregistry.io/MMO:0000079), [MMO:0000113](https://bioregistry.io/MMO:0000113), [MMO:0000178](https://bioregistry.io/MMO:0000178), [MMO:0000204](https://bioregistry.io/MMO:0000204), ... |
-| `Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip`                                     |              9 | [MMO:0000154](https://bioregistry.io/MMO:0000154), [MMO:0000171](https://bioregistry.io/MMO:0000171), [MMO:0000186](https://bioregistry.io/MMO:0000186), [MMO:0000187](https://bioregistry.io/MMO:0000187), [MMO:0000187](https://bioregistry.io/MMO:0000187), ... |
-| `Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum`                                     |              7 | [MMO:0000419](https://bioregistry.io/MMO:0000419), [MMO:0000419](https://bioregistry.io/MMO:0000419), [MMO:0000420](https://bioregistry.io/MMO:0000420), [MMO:0000422](https://bioregistry.io/MMO:0000422), [MMO:0000422](https://bioregistry.io/MMO:0000422), ... |
-| `Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein`                     |              6 | [MMO:0000472](https://bioregistry.io/MMO:0000472), [MMO:0000472](https://bioregistry.io/MMO:0000472), [MMO:0000483](https://bioregistry.io/MMO:0000483), [MMO:0000484](https://bioregistry.io/MMO:0000484), [MMO:0000484](https://bioregistry.io/MMO:0000484), ... |
+| `Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein`                                          |             10 | [MMO:0000475](https://bioregistry.io/MMO:0000475), [MMO:0000475](https://bioregistry.io/MMO:0000475), [MMO:0000477](https://bioregistry.io/MMO:0000477), [MMO:0000482](https://bioregistry.io/MMO:0000482), [MMO:0000485](https://bioregistry.io/MMO:0000485), ... |
+| `Wikipedia:http://en.wikipedia.org/wiki/`                                                     |              9 | [MMO:0000077](https://bioregistry.io/MMO:0000077), [MMO:0000079](https://bioregistry.io/MMO:0000079), [MMO:0000094](https://bioregistry.io/MMO:0000094), [MMO:0000164](https://bioregistry.io/MMO:0000164), [MMO:0000178](https://bioregistry.io/MMO:0000178), ... |
+| `Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip`                                     |              9 | [MMO:0000153](https://bioregistry.io/MMO:0000153), [MMO:0000154](https://bioregistry.io/MMO:0000154), [MMO:0000180](https://bioregistry.io/MMO:0000180), [MMO:0000187](https://bioregistry.io/MMO:0000187), [MMO:0000464](https://bioregistry.io/MMO:0000464), ... |
+| `Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum`                                     |              7 | [MMO:0000415](https://bioregistry.io/MMO:0000415), [MMO:0000415](https://bioregistry.io/MMO:0000415), [MMO:0000419](https://bioregistry.io/MMO:0000419), [MMO:0000420](https://bioregistry.io/MMO:0000420), [MMO:0000421](https://bioregistry.io/MMO:0000421), ... |
+| `Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein`                     |              6 | [MMO:0000472](https://bioregistry.io/MMO:0000472), [MMO:0000473](https://bioregistry.io/MMO:0000473), [MMO:0000473](https://bioregistry.io/MMO:0000473), [MMO:0000483](https://bioregistry.io/MMO:0000483), [MMO:0000484](https://bioregistry.io/MMO:0000484), ... |
 | `Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction`                                       |              5 | [MMO:0000542](https://bioregistry.io/MMO:0000542), [MMO:0000543](https://bioregistry.io/MMO:0000543), [MMO:0000544](https://bioregistry.io/MMO:0000544), [MMO:0000545](https://bioregistry.io/MMO:0000545), [MMO:0000546](https://bioregistry.io/MMO:0000546)      |
 | `Wikipedia:http://en.wikipedia.org/wiki/Quantitative_computed_tomography`                     |              4 | [MMO:0000364](https://bioregistry.io/MMO:0000364), [MMO:0000365](https://bioregistry.io/MMO:0000365), [MMO:0000367](https://bioregistry.io/MMO:0000367), [MMO:0000508](https://bioregistry.io/MMO:0000508)                                                         |
 | `Wikipedia:http://en.wikipedia.org/wiki/Ion_selective_electrode`                              |              4 | [MMO:0000450](https://bioregistry.io/MMO:0000450), [MMO:0000451](https://bioregistry.io/MMO:0000451), [MMO:0000452](https://bioregistry.io/MMO:0000452), [MMO:0000453](https://bioregistry.io/MMO:0000453)                                                         |

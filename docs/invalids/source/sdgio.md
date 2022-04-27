@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `sdgio`.
 ## `MA`: Mouse adult gross anatomy
 
 Overall, there were 2 invalid
-xrefs to external terms in `ma` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ma).
+xrefs to external prefixed with `MA` (standardized to Bioregistry
+entry [`ma`]((https://bioregistry.io/ma)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                       |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `RO`: Relation Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `ro` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ro).
+xrefs to external prefixed with `RO` (standardized to Bioregistry
+entry [`ro`]((https://bioregistry.io/ro)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

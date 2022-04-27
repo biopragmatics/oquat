@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `rdo`.
 ## `ICD-O`: International Classification of Diseases for Oncology
 
 Overall, there were 48 invalid
-xrefs to external terms in `icdo` that did not match the standard
-pattern `^[8-9]\d{3}(/[0-3])?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/icdo).
+xrefs to external prefixed with `ICD-O` (standardized to Bioregistry
+entry [`icdo`]((https://bioregistry.io/icdo)) that
+did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -66,10 +65,9 @@ external resource can be found on the
 ## `NCI`: NCI Thesaurus
 
 Overall, there were 1 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `NCI` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -78,10 +76,9 @@ external resource can be found on the
 ## `OMIM`: Online Mendelian Inheritance in Man
 
 Overall, there were 507 invalid
-xrefs to external terms in `omim` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/omim).
+xrefs to external prefixed with `OMIM` (standardized to Bioregistry
+entry [`omim`]((https://bioregistry.io/omim)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                               |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -594,10 +591,9 @@ external resource can be found on the
 ## `ORDO`: Orphanet Rare Disease Ontology
 
 Overall, there were 2,081 invalid
-xrefs to external terms in `orphanet.ordo` that did not match the standard
-pattern `^Orphanet(_|:)C?\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/orphanet.ordo).
+xrefs to external prefixed with `ORDO` (standardized to Bioregistry
+entry [`orphanet.ordo`]((https://bioregistry.io/orphanet.ordo)) that
+did not match the standard pattern `^Orphanet(_|:)C?\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------|

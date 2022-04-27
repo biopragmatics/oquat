@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `cl`. See the [GitHub repo
 ## `BTO`: BRENDA tissue / enzyme source
 
 Overall, there were 1 invalid
-xrefs to external terms in `bto` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/bto).
+xrefs to external prefixed with `BTO` (standardized to Bioregistry
+entry [`bto`]((https://bioregistry.io/bto)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -19,14 +18,13 @@ external resource can be found on the
 ## `CL`: Cell Ontology
 
 Overall, there were 22 invalid
-xrefs to external terms in `cl` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/cl).
+xrefs to external prefixed with `CL` (standardized to Bioregistry
+entry [`cl`]((https://bioregistry.io/cl)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref                            |   usages_count | usages                                                                                                                                                                                                                                                   |
 |------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CL:CVS`                                 |             16 | [CL:0005011](https://bioregistry.io/CL:0005011), [CL:0005013](https://bioregistry.io/CL:0005013), [CL:0005013](https://bioregistry.io/CL:0005013), [CL:0005014](https://bioregistry.io/CL:0005014), [CL:0005020](https://bioregistry.io/CL:0005020), ... |
+| `CL:CVS`                                 |             16 | [CL:0005001](https://bioregistry.io/CL:0005001), [CL:0005009](https://bioregistry.io/CL:0005009), [CL:0005010](https://bioregistry.io/CL:0005010), [CL:0005011](https://bioregistry.io/CL:0005011), [CL:0005015](https://bioregistry.io/CL:0005015), ... |
 | `CL:MAH`                                 |              3 | [CL:0007007](https://bioregistry.io/CL:0007007), [CL:0007008](https://bioregistry.io/CL:0007008), [CL:0007011](https://bioregistry.io/CL:0007011)                                                                                                        |
 | `CL:curator`                             |              1 | [CL:0005018](https://bioregistry.io/CL:0005018)                                                                                                                                                                                                          |
 | `CL:patterns/cellPartOfAnatomicalEntity` |              1 | [CL:0011030](https://bioregistry.io/CL:0011030)                                                                                                                                                                                                          |
@@ -35,10 +33,9 @@ external resource can be found on the
 ## `DOI`: Digital Object Identifier
 
 Overall, there were 1 invalid
-xrefs to external terms in `doi` that did not match the standard
-pattern `^(doi\:)?\d{2}\.\d{4}.*$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/doi).
+xrefs to external prefixed with `DOI` (standardized to Bioregistry
+entry [`doi`]((https://bioregistry.io/doi)) that
+did not match the standard pattern `^(doi\:)?\d{2}\.\d{4}.*$`.
 
 | external_xref                               |   usages_count | usages                                          |
 |---------------------------------------------|----------------|-------------------------------------------------|
@@ -47,22 +44,20 @@ external resource can be found on the
 ## `FB`: FlyBase Gene
 
 Overall, there were 25 invalid
-xrefs to external terms in `flybase` that did not match the standard
-pattern `^FB\w{2}\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/flybase).
+xrefs to external prefixed with `FB` (standardized to Bioregistry
+entry [`flybase`]((https://bioregistry.io/flybase)) that
+did not match the standard pattern `^FB\w{2}\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `FB:ma`         |             25 | [CL:0000004](https://bioregistry.io/CL:0000004), [CL:0000066](https://bioregistry.io/CL:0000066), [CL:0000413](https://bioregistry.io/CL:0000413), [CL:0000578](https://bioregistry.io/CL:0000578), [CL:0000630](https://bioregistry.io/CL:0000630), ... |
+| `FB:ma`         |             25 | [CL:0000134](https://bioregistry.io/CL:0000134), [CL:0000393](https://bioregistry.io/CL:0000393), [CL:0000414](https://bioregistry.io/CL:0000414), [CL:0000415](https://bioregistry.io/CL:0000415), [CL:0000630](https://bioregistry.io/CL:0000630), ... |
 
 ## `Flybase`: FlyBase Gene
 
 Overall, there were 1 invalid
-xrefs to external terms in `flybase` that did not match the standard
-pattern `^FB\w{2}\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/flybase).
+xrefs to external prefixed with `Flybase` (standardized to Bioregistry
+entry [`flybase`]((https://bioregistry.io/flybase)) that
+did not match the standard pattern `^FB\w{2}\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -71,10 +66,9 @@ external resource can be found on the
 ## `FlyBase`: FlyBase Gene
 
 Overall, there were 1 invalid
-xrefs to external terms in `flybase` that did not match the standard
-pattern `^FB\w{2}\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/flybase).
+xrefs to external prefixed with `FlyBase` (standardized to Bioregistry
+entry [`flybase`]((https://bioregistry.io/flybase)) that
+did not match the standard pattern `^FB\w{2}\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -83,10 +77,9 @@ external resource can be found on the
 ## `GC`: Genetic Code
 
 Overall, there were 1 invalid
-xrefs to external terms in `gc` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/gc).
+xrefs to external prefixed with `GC` (standardized to Bioregistry
+entry [`gc`]((https://bioregistry.io/gc)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -95,36 +88,33 @@ external resource can be found on the
 ## `GO`: Gene Ontology
 
 Overall, there were 17 invalid
-xrefs to external terms in `go` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/go).
+xrefs to external prefixed with `GO` (standardized to Bioregistry
+entry [`go`]((https://bioregistry.io/go)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `GO:tfm`        |             16 | [CL:0000480](https://bioregistry.io/CL:0000480), [CL:0000481](https://bioregistry.io/CL:0000481), [CL:0000481](https://bioregistry.io/CL:0000481), [CL:0000482](https://bioregistry.io/CL:0000482), [CL:0000495](https://bioregistry.io/CL:0000495), ... |
+| `GO:tfm`        |             16 | [CL:0000479](https://bioregistry.io/CL:0000479), [CL:0000479](https://bioregistry.io/CL:0000479), [CL:0000495](https://bioregistry.io/CL:0000495), [CL:0000507](https://bioregistry.io/CL:0000507), [CL:0000511](https://bioregistry.io/CL:0000511), ... |
 | `GO:cvs`        |              1 | [CL:0005008](https://bioregistry.io/CL:0005008)                                                                                                                                                                                                          |
 
 ## `HPA`: Human Protein Atlas tissue profile information
 
 Overall, there were 7 invalid
-xrefs to external terms in `hpa` that did not match the standard
-pattern `^ENSG\d{11}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/hpa).
+xrefs to external prefixed with `HPA` (standardized to Bioregistry
+entry [`hpa`]((https://bioregistry.io/hpa)) that
+did not match the standard pattern `^ENSG\d{11}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `HPA:HPA`       |              6 | [CL:1001591](https://bioregistry.io/CL:1001591), [CL:1001593](https://bioregistry.io/CL:1001593), [CL:1001599](https://bioregistry.io/CL:1001599), [CL:1001603](https://bioregistry.io/CL:1001603), [CL:1001603](https://bioregistry.io/CL:1001603), ... |
+| `HPA:HPA`       |              6 | [CL:1001586](https://bioregistry.io/CL:1001586), [CL:1001593](https://bioregistry.io/CL:1001593), [CL:1001593](https://bioregistry.io/CL:1001593), [CL:1001599](https://bioregistry.io/CL:1001599), [CL:1001599](https://bioregistry.io/CL:1001599), ... |
 | `HPA:Breast`    |              1 | [CL:1001583](https://bioregistry.io/CL:1001583)                                                                                                                                                                                                          |
 
 ## `MA`: Mouse adult gross anatomy
 
 Overall, there were 4 invalid
-xrefs to external terms in `ma` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ma).
+xrefs to external prefixed with `MA` (standardized to Bioregistry
+entry [`ma`]((https://bioregistry.io/ma)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -133,10 +123,9 @@ external resource can be found on the
 ## `MESH`: Medical Subject Headings
 
 Overall, there were 101 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MESH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref                              |   usages_count | usages                                                                                                                                            |
 |--------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -240,10 +229,9 @@ external resource can be found on the
 ## `MP`: Mammalian Phenotype Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `mp` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mp).
+xrefs to external prefixed with `MP` (standardized to Bioregistry
+entry [`mp`]((https://bioregistry.io/mp)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -252,10 +240,9 @@ external resource can be found on the
 ## `NCI_Thesaurus`: NCI Thesaurus
 
 Overall, there were 1 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `NCI_Thesaurus` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref                                   |   usages_count | usages                                          |
 |-------------------------------------------------|----------------|-------------------------------------------------|
@@ -264,10 +251,9 @@ external resource can be found on the
 ## `ncithesaurus`: NCI Thesaurus
 
 Overall, there were 4 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `ncithesaurus` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref                     |   usages_count | usages                                          |
 |-----------------------------------|----------------|-------------------------------------------------|
@@ -279,10 +265,9 @@ external resource can be found on the
 ## `PMID`: PubMed
 
 Overall, there were 1 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref    |   usages_count | usages                                          |
 |------------------|----------------|-------------------------------------------------|
@@ -291,22 +276,20 @@ external resource can be found on the
 ## `SGD`: Saccharomyces Genome Database
 
 Overall, there were 19 invalid
-xrefs to external terms in `sgd` that did not match the standard
-pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/sgd).
+xrefs to external prefixed with `SGD` (standardized to Bioregistry
+entry [`sgd`]((https://bioregistry.io/sgd)) that
+did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `SGD:clt`       |             19 | [CL:0000596](https://bioregistry.io/CL:0000596), [CL:0000606](https://bioregistry.io/CL:0000606), [CL:0000606](https://bioregistry.io/CL:0000606), [CL:0000608](https://bioregistry.io/CL:0000608), [CL:0000608](https://bioregistry.io/CL:0000608), ... |
+| `SGD:clt`       |             19 | [CL:0000597](https://bioregistry.io/CL:0000597), [CL:0000606](https://bioregistry.io/CL:0000606), [CL:0002381](https://bioregistry.io/CL:0002381), [CL:0002384](https://bioregistry.io/CL:0002384), [CL:0002384](https://bioregistry.io/CL:0002384), ... |
 
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 6 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                                       |   usages_count | usages                                          |
 |-----------------------------------------------------|----------------|-------------------------------------------------|
@@ -320,10 +303,9 @@ external resource can be found on the
 ## `ZFIN`: Zebrafish Information Network Gene
 
 Overall, there were 6 invalid
-xrefs to external terms in `zfin` that did not match the standard
-pattern `^ZDB\-\w+\-\d+\-\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/zfin).
+xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
+entry [`zfin`]((https://bioregistry.io/zfin)) that
+did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

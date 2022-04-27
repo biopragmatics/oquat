@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `enm`.
 ## `AGR`: Agricultural Online Access
 
 Overall, there were 6 invalid
-xrefs to external terms in `agricola` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/agricola).
+xrefs to external prefixed with `AGR` (standardized to Bioregistry
+entry [`agricola`]((https://bioregistry.io/agricola)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref     |   usages_count | usages                                              |
 |-------------------|----------------|-----------------------------------------------------|
@@ -24,23 +23,21 @@ external resource can be found on the
 ## `BSPO`: Biological Spatial Ontology
 
 Overall, there were 17 invalid
-xrefs to external terms in `bspo` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/bspo).
+xrefs to external prefixed with `BSPO` (standardized to Bioregistry
+entry [`bspo`]((https://bioregistry.io/bspo)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `BSPO:cjm`           |             11 | [BSPO:0000099](https://bioregistry.io/BSPO:0000099), [BSPO:0000102](https://bioregistry.io/BSPO:0000102), [BSPO:0000102](https://bioregistry.io/BSPO:0000102), [BSPO:0001100](https://bioregistry.io/BSPO:0001100), [BSPO:0001107](https://bioregistry.io/BSPO:0001107), ... |
-| `BSPO:PATO_mtg_2009` |              6 | [BSPO:0000121](https://bioregistry.io/BSPO:0000121), [BSPO:0000123](https://bioregistry.io/BSPO:0000123), [BSPO:0000124](https://bioregistry.io/BSPO:0000124), [BSPO:0000124](https://bioregistry.io/BSPO:0000124), [BSPO:0000125](https://bioregistry.io/BSPO:0000125), ... |
+| `BSPO:cjm`           |             11 | [BSPO:0000096](https://bioregistry.io/BSPO:0000096), [BSPO:0000098](https://bioregistry.io/BSPO:0000098), [BSPO:0000100](https://bioregistry.io/BSPO:0000100), [BSPO:0000107](https://bioregistry.io/BSPO:0000107), [BSPO:0001100](https://bioregistry.io/BSPO:0001100), ... |
+| `BSPO:PATO_mtg_2009` |              6 | [BSPO:0000120](https://bioregistry.io/BSPO:0000120), [BSPO:0000122](https://bioregistry.io/BSPO:0000122), [BSPO:0000123](https://bioregistry.io/BSPO:0000123), [BSPO:0000123](https://bioregistry.io/BSPO:0000123), [BSPO:0000125](https://bioregistry.io/BSPO:0000125), ... |
 
 ## `ENVO`: Environment Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `envo` that did not match the standard
-pattern `^\d{7,8}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/envo).
+xrefs to external prefixed with `ENVO` (standardized to Bioregistry
+entry [`envo`]((https://bioregistry.io/envo)) that
+did not match the standard pattern `^\d{7,8}$`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|
@@ -49,22 +46,20 @@ external resource can be found on the
 ## `FAO`: Fungal gross anatomy
 
 Overall, there were 27 invalid
-xrefs to external terms in `fao` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/fao).
+xrefs to external prefixed with `FAO` (standardized to Bioregistry
+entry [`fao`]((https://bioregistry.io/fao)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref                                             |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-----------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf` |             27 | [ENVO:00002239](https://bioregistry.io/ENVO:00002239), [ENVO:00002239](https://bioregistry.io/ENVO:00002239), [ENVO:00002244](https://bioregistry.io/ENVO:00002244), [ENVO:00002252](https://bioregistry.io/ENVO:00002252), [ENVO:00002253](https://bioregistry.io/ENVO:00002253), ... |
+| `FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf` |             27 | [ENVO:00002233](https://bioregistry.io/ENVO:00002233), [ENVO:00002237](https://bioregistry.io/ENVO:00002237), [ENVO:00002246](https://bioregistry.io/ENVO:00002246), [ENVO:00002247](https://bioregistry.io/ENVO:00002247), [ENVO:00002252](https://bioregistry.io/ENVO:00002252), ... |
 
 ## `Gmelin`: Gmelins Handbuch der anorganischen Chemie
 
 Overall, there were 1 invalid
-xrefs to external terms in `gmelin` that did not match the standard
-pattern `^[1-9][0-9]{3,6}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/gmelin).
+xrefs to external prefixed with `Gmelin` (standardized to Bioregistry
+entry [`gmelin`]((https://bioregistry.io/gmelin)) that
+did not match the standard pattern `^[1-9][0-9]{3,6}$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -73,10 +68,9 @@ external resource can be found on the
 ## `HPA`: Human Protein Atlas tissue profile information
 
 Overall, there were 1 invalid
-xrefs to external terms in `hpa` that did not match the standard
-pattern `^ENSG\d{11}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/hpa).
+xrefs to external prefixed with `HPA` (standardized to Bioregistry
+entry [`hpa`]((https://bioregistry.io/hpa)) that
+did not match the standard pattern `^ENSG\d{11}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -85,10 +79,9 @@ external resource can be found on the
 ## `HPO`: Human Phenotype Ontology
 
 Overall, there were 5 invalid
-xrefs to external terms in `hp` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/hp).
+xrefs to external prefixed with `HPO` (standardized to Bioregistry
+entry [`hp`]((https://bioregistry.io/hp)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -97,23 +90,21 @@ external resource can be found on the
 ## `MA`: Mouse adult gross anatomy
 
 Overall, there were 13 invalid
-xrefs to external terms in `ma` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ma).
+xrefs to external prefixed with `MA` (standardized to Bioregistry
+entry [`ma`]((https://bioregistry.io/ma)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MA:ma`         |             11 | [ENVO:00000873](https://bioregistry.io/ENVO:00000873), [ENVO:00001995](https://bioregistry.io/ENVO:00001995), [ENVO:00002006](https://bioregistry.io/ENVO:00002006), [ENVO:00002054](https://bioregistry.io/ENVO:00002054), [ENVO:00002223](https://bioregistry.io/ENVO:00002223), ... |
+| `MA:ma`         |             11 | [ENVO:00000873](https://bioregistry.io/ENVO:00000873), [ENVO:00001995](https://bioregistry.io/ENVO:00001995), [ENVO:00002054](https://bioregistry.io/ENVO:00002054), [ENVO:00002224](https://bioregistry.io/ENVO:00002224), [ENVO:00010483](https://bioregistry.io/ENVO:00010483), ... |
 | `MA:th`         |              2 | [BSPO:0001114](https://bioregistry.io/BSPO:0001114), [BSPO:1000000](https://bioregistry.io/BSPO:1000000)                                                                                                                                                                               |
 
 ## `MGI`: Mouse Genome Informatics
 
 Overall, there were 1 invalid
-xrefs to external terms in `mgi` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mgi).
+xrefs to external prefixed with `MGI` (standardized to Bioregistry
+entry [`mgi`]((https://bioregistry.io/mgi)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -122,10 +113,9 @@ external resource can be found on the
 ## `MSH`: Medical Subject Headings
 
 Overall, there were 1 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MSH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -134,10 +124,9 @@ external resource can be found on the
 ## `obi`: Ontology for Biomedical Investigations
 
 Overall, there were 1 invalid
-xrefs to external terms in `obi` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/obi).
+xrefs to external prefixed with `obi` (standardized to Bioregistry
+entry [`obi`]((https://bioregistry.io/obi)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -146,10 +135,9 @@ external resource can be found on the
 ## `OBO_REL`: Relation Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `ro` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ro).
+xrefs to external prefixed with `OBO_REL` (standardized to Bioregistry
+entry [`ro`]((https://bioregistry.io/ro)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref      |   usages_count | usages                                              |
 |--------------------|----------------|-----------------------------------------------------|
@@ -158,10 +146,9 @@ external resource can be found on the
 ## `PATO`: Phenotype And Trait Ontology
 
 Overall, there were 7 invalid
-xrefs to external terms in `pato` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pato).
+xrefs to external prefixed with `PATO` (standardized to Bioregistry
+entry [`pato`]((https://bioregistry.io/pato)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                  |
 |-----------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -172,10 +159,9 @@ external resource can be found on the
 ## `PMID`: PubMed
 
 Overall, there were 3 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref    |   usages_count | usages                                                                                              |
 |------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -186,10 +172,9 @@ external resource can be found on the
 ## `SO`: Sequence types and features ontology
 
 Overall, there were 2 invalid
-xrefs to external terms in `so` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/so).
+xrefs to external prefixed with `SO` (standardized to Bioregistry
+entry [`so`]((https://bioregistry.io/so)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                           |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -198,10 +183,9 @@ external resource can be found on the
 ## `UBERON`: Uber Anatomy Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `uberon` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/uberon).
+xrefs to external prefixed with `UBERON` (standardized to Bioregistry
+entry [`uberon`]((https://bioregistry.io/uberon)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -210,10 +194,9 @@ external resource can be found on the
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 22 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                                                  |   usages_count | usages                                                                                              |
 |----------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -243,10 +226,9 @@ external resource can be found on the
 ## `WWF`: World Wildlife Fund Ecoregion
 
 Overall, there were 13 invalid
-xrefs to external terms in `wwf.ecoregion` that did not match the standard
-pattern `^AT\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wwf.ecoregion).
+xrefs to external prefixed with `WWF` (standardized to Bioregistry
+entry [`wwf.ecoregion`]((https://bioregistry.io/wwf.ecoregion)) that
+did not match the standard pattern `^AT\d+$`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|
@@ -267,10 +249,9 @@ external resource can be found on the
 ## `ZFS`: Zebrafish developmental stages ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `zfs` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/zfs).
+xrefs to external prefixed with `ZFS` (standardized to Bioregistry
+entry [`zfs`]((https://bioregistry.io/zfs)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

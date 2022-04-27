@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `vt`. See the [GitHub repo
 ## `MESH`: Medical Subject Headings
 
 Overall, there were 2 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MESH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref          |   usages_count | usages                                          |
 |------------------------|----------------|-------------------------------------------------|
@@ -20,10 +19,9 @@ external resource can be found on the
 ## `MeSH`: Medical Subject Headings
 
 Overall, there were 2 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MeSH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref                  |   usages_count | usages                                          |
 |--------------------------------|----------------|-------------------------------------------------|
@@ -33,18 +31,17 @@ external resource can be found on the
 ## `MGI`: Mouse Genome Informatics
 
 Overall, there were 142 invalid
-xrefs to external terms in `mgi` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mgi).
+xrefs to external prefixed with `MGI` (standardized to Bioregistry
+entry [`mgi`]((https://bioregistry.io/mgi)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MGI:smb`       |             73 | [VT:0000962](https://bioregistry.io/VT:0000962), [VT:0001449](https://bioregistry.io/VT:0001449), [VT:0001449](https://bioregistry.io/VT:0001449), [VT:0003449](https://bioregistry.io/VT:0003449), [VT:0015059](https://bioregistry.io/VT:0015059), ... |
-| `MGI:cwg`       |             22 | [VT:0010169](https://bioregistry.io/VT:0010169), [VT:0010173](https://bioregistry.io/VT:0010173), [VT:0010176](https://bioregistry.io/VT:0010176), [VT:0010176](https://bioregistry.io/VT:0010176), [VT:0010177](https://bioregistry.io/VT:0010177), ... |
-| `MGI:MP`        |             20 | [VT:0000896](https://bioregistry.io/VT:0000896), [VT:0000968](https://bioregistry.io/VT:0000968), [VT:0000979](https://bioregistry.io/VT:0000979), [VT:0001300](https://bioregistry.io/VT:0001300), [VT:0003713](https://bioregistry.io/VT:0003713), ... |
-| `MGI:csmith`    |             12 | [VT:0001332](https://bioregistry.io/VT:0001332), [VT:0001747](https://bioregistry.io/VT:0001747), [VT:0001884](https://bioregistry.io/VT:0001884), [VT:0003713](https://bioregistry.io/VT:0003713), [VT:0003795](https://bioregistry.io/VT:0003795), ... |
-| `MGI:mb`        |             10 | [VT:0010472](https://bioregistry.io/VT:0010472), [VT:0010512](https://bioregistry.io/VT:0010512), [VT:0010512](https://bioregistry.io/VT:0010512), [VT:0010691](https://bioregistry.io/VT:0010691), [VT:0010692](https://bioregistry.io/VT:0010692), ... |
+| `MGI:smb`       |             73 | [VT:0003449](https://bioregistry.io/VT:0003449), [VT:0004047](https://bioregistry.io/VT:0004047), [VT:0005372](https://bioregistry.io/VT:0005372), [VT:0007052](https://bioregistry.io/VT:0007052), [VT:0015073](https://bioregistry.io/VT:0015073), ... |
+| `MGI:cwg`       |             22 | [VT:0010149](https://bioregistry.io/VT:0010149), [VT:0010167](https://bioregistry.io/VT:0010167), [VT:0010168](https://bioregistry.io/VT:0010168), [VT:0010168](https://bioregistry.io/VT:0010168), [VT:0010176](https://bioregistry.io/VT:0010176), ... |
+| `MGI:MP`        |             20 | [VT:0000023](https://bioregistry.io/VT:0000023), [VT:0000979](https://bioregistry.io/VT:0000979), [VT:0001052](https://bioregistry.io/VT:0001052), [VT:0002483](https://bioregistry.io/VT:0002483), [VT:0015107](https://bioregistry.io/VT:0015107), ... |
+| `MGI:csmith`    |             12 | [VT:0001332](https://bioregistry.io/VT:0001332), [VT:0001747](https://bioregistry.io/VT:0001747), [VT:0001884](https://bioregistry.io/VT:0001884), [VT:0002181](https://bioregistry.io/VT:0002181), [VT:0003795](https://bioregistry.io/VT:0003795), ... |
+| `MGI:mb`        |             10 | [VT:0010471](https://bioregistry.io/VT:0010471), [VT:0010474](https://bioregistry.io/VT:0010474), [VT:0010691](https://bioregistry.io/VT:0010691), [VT:0010691](https://bioregistry.io/VT:0010691), [VT:0010708](https://bioregistry.io/VT:0010708), ... |
 | `MGI:anna`      |              2 | [VT:0004291](https://bioregistry.io/VT:0004291), [VT:0006028](https://bioregistry.io/VT:0006028)                                                                                                                                                         |
 | `MGI:brs`       |              1 | [VT:0003847](https://bioregistry.io/VT:0003847)                                                                                                                                                                                                          |
 | `MGI:hdene`     |              1 | [VT:0010158](https://bioregistry.io/VT:0010158)                                                                                                                                                                                                          |
@@ -53,10 +50,9 @@ external resource can be found on the
 ## `MP`: Mammalian Phenotype Ontology
 
 Overall, there were 4 invalid
-xrefs to external terms in `mp` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mp).
+xrefs to external prefixed with `MP` (standardized to Bioregistry
+entry [`mp`]((https://bioregistry.io/mp)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref           |   usages_count | usages                                          |
 |-------------------------|----------------|-------------------------------------------------|
@@ -68,10 +64,9 @@ external resource can be found on the
 ## `MS`: Mass spectrometry ontology
 
 Overall, there were 4 invalid
-xrefs to external terms in `ms` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ms).
+xrefs to external prefixed with `MS` (standardized to Bioregistry
+entry [`ms`]((https://bioregistry.io/ms)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -80,10 +75,9 @@ external resource can be found on the
 ## `PMID`: PubMed
 
 Overall, there were 1 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref        |   usages_count | usages                                          |
 |----------------------|----------------|-------------------------------------------------|
@@ -92,25 +86,23 @@ external resource can be found on the
 ## `RGD`: Rat Genome Database
 
 Overall, there were 333 invalid
-xrefs to external terms in `rgd` that did not match the standard
-pattern `^\d{4,}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/rgd).
+xrefs to external prefixed with `RGD` (standardized to Bioregistry
+entry [`rgd`]((https://bioregistry.io/rgd)) that
+did not match the standard pattern `^\d{4,}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `RGD:cur`       |            198 | [VT:0002928](https://bioregistry.io/VT:0002928), [VT:0010752](https://bioregistry.io/VT:0010752), [VT:0010785](https://bioregistry.io/VT:0010785), [VT:0010881](https://bioregistry.io/VT:0010881), [VT:0010901](https://bioregistry.io/VT:0010901), ... |
-| `RGD:MS`        |             62 | [VT:0000535](https://bioregistry.io/VT:0000535), [VT:0010130](https://bioregistry.io/VT:0010130), [VT:1000637](https://bioregistry.io/VT:1000637), [VT:1000637](https://bioregistry.io/VT:1000637), [VT:1000746](https://bioregistry.io/VT:1000746), ... |
-| `RGD:dhm`       |             55 | [VT:0000185](https://bioregistry.io/VT:0000185), [VT:0000194](https://bioregistry.io/VT:0000194), [VT:0000263](https://bioregistry.io/VT:0000263), [VT:0001756](https://bioregistry.io/VT:0001756), [VT:2000007](https://bioregistry.io/VT:2000007), ... |
-| `RGD:ms`        |             18 | [VT:0002504](https://bioregistry.io/VT:0002504), [VT:0002726](https://bioregistry.io/VT:0002726), [VT:0003180](https://bioregistry.io/VT:0003180), [VT:0004368](https://bioregistry.io/VT:0004368), [VT:0006237](https://bioregistry.io/VT:0006237), ... |
+| `RGD:cur`       |            198 | [VT:0003241](https://bioregistry.io/VT:0003241), [VT:0005581](https://bioregistry.io/VT:0005581), [VT:0010737](https://bioregistry.io/VT:0010737), [VT:0010902](https://bioregistry.io/VT:0010902), [VT:0010936](https://bioregistry.io/VT:0010936), ... |
+| `RGD:MS`        |             62 | [VT:0001010](https://bioregistry.io/VT:0001010), [VT:0007010](https://bioregistry.io/VT:0007010), [VT:0008739](https://bioregistry.io/VT:0008739), [VT:0010028](https://bioregistry.io/VT:0010028), [VT:1000197](https://bioregistry.io/VT:1000197), ... |
+| `RGD:dhm`       |             55 | [VT:0000185](https://bioregistry.io/VT:0000185), [VT:0000197](https://bioregistry.io/VT:0000197), [VT:2000003](https://bioregistry.io/VT:2000003), [VT:2000005](https://bioregistry.io/VT:2000005), [VT:3000000](https://bioregistry.io/VT:3000000), ... |
+| `RGD:ms`        |             18 | [VT:0002128](https://bioregistry.io/VT:0002128), [VT:0002504](https://bioregistry.io/VT:0002504), [VT:0003057](https://bioregistry.io/VT:0003057), [VT:0004124](https://bioregistry.io/VT:0004124), [VT:0004252](https://bioregistry.io/VT:0004252), ... |
 
 ## `RGD `: Rat Genome Database
 
 Overall, there were 1 invalid
-xrefs to external terms in `rgd` that did not match the standard
-pattern `^\d{4,}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/rgd).
+xrefs to external prefixed with `RGD ` (standardized to Bioregistry
+entry [`rgd`]((https://bioregistry.io/rgd)) that
+did not match the standard pattern `^\d{4,}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -119,13 +111,12 @@ external resource can be found on the
 ## `VTO`: Vertebrate Taxonomy Ontology
 
 Overall, there were 453 invalid
-xrefs to external terms in `vto` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/vto).
+xrefs to external prefixed with `VTO` (standardized to Bioregistry
+entry [`vto`]((https://bioregistry.io/vto)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `VTO:INRA`      |            229 | [VT:0010144](https://bioregistry.io/VT:0010144), [VT:0010237](https://bioregistry.io/VT:0010237), [VT:0010244](https://bioregistry.io/VT:0010244), [VT:0010387](https://bioregistry.io/VT:0010387), [VT:0010391](https://bioregistry.io/VT:0010391), ... |
-| `VTO:CP`        |            224 | [VT:0010353](https://bioregistry.io/VT:0010353), [VT:0010397](https://bioregistry.io/VT:0010397), [VT:0100016](https://bioregistry.io/VT:0100016), [VT:1000244](https://bioregistry.io/VT:1000244), [VT:1000385](https://bioregistry.io/VT:1000385), ... |
+| `VTO:INRA`      |            229 | [VT:0010320](https://bioregistry.io/VT:0010320), [VT:0010397](https://bioregistry.io/VT:0010397), [VT:0010977](https://bioregistry.io/VT:0010977), [VT:0010993](https://bioregistry.io/VT:0010993), [VT:0100033](https://bioregistry.io/VT:0100033), ... |
+| `VTO:CP`        |            224 | [VT:0000072](https://bioregistry.io/VT:0000072), [VT:0010311](https://bioregistry.io/VT:0010311), [VT:0010358](https://bioregistry.io/VT:0010358), [VT:1000060](https://bioregistry.io/VT:1000060), [VT:1000518](https://bioregistry.io/VT:1000518), ... |
 

@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `foodon`. See the [GitHub 
 ## `EC`: Enzyme Nomenclature
 
 Overall, there were 5 invalid
-xrefs to external terms in `eccode` that did not match the standard
-pattern `^\d{1,2}(\.\d{0,3}){0,3}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/eccode).
+xrefs to external prefixed with `EC` (standardized to Bioregistry
+entry [`eccode`]((https://bioregistry.io/eccode)) that
+did not match the standard pattern `^\d{1,2}(\.\d{0,3}){0,3}$`.
 
 | external_xref         |   usages_count | usages                                                    |
 |-----------------------|----------------|-----------------------------------------------------------|
@@ -23,10 +22,9 @@ external resource can be found on the
 ## `EOL`: Environment Ontology for Livestock
 
 Overall, there were 1 invalid
-xrefs to external terms in `eol` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/eol).
+xrefs to external prefixed with `EOL` (standardized to Bioregistry
+entry [`eol`]((https://bioregistry.io/eol)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref                               |   usages_count | usages                                                    |
 |---------------------------------------------|----------------|-----------------------------------------------------------|
@@ -35,10 +33,9 @@ external resource can be found on the
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 3 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                  |   usages_count | usages                                                    |
 |--------------------------------|----------------|-----------------------------------------------------------|

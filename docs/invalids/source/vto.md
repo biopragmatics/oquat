@@ -7,13 +7,12 @@ for node, synonym, and definition cross-references in `vto`. See the [GitHub rep
 ## `TTO`: Teleost taxonomy ontology
 
 Overall, there were 43 invalid
-xrefs to external terms in `tto` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/tto).
+xrefs to external prefixed with `TTO` (standardized to Bioregistry
+entry [`tto`]((https://bioregistry.io/tto)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `TTO:curator`   |             42 | [VTO:0035639](https://bioregistry.io/VTO:0035639), [VTO:0035834](https://bioregistry.io/VTO:0035834), [VTO:0036948](https://bioregistry.io/VTO:0036948), [VTO:0039395](https://bioregistry.io/VTO:0039395), [VTO:0059762](https://bioregistry.io/VTO:0059762), ... |
+| `TTO:curator`   |             42 | [VTO:0034982](https://bioregistry.io/VTO:0034982), [VTO:0037000](https://bioregistry.io/VTO:0037000), [VTO:0059975](https://bioregistry.io/VTO:0059975), [VTO:0060915](https://bioregistry.io/VTO:0060915), [VTO:0061426](https://bioregistry.io/VTO:0061426), ... |
 | `TTO:PEM`       |              1 | [VTO:0069215](https://bioregistry.io/VTO:0069215)                                                                                                                                                                                                                  |
 

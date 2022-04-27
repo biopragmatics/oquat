@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `xao`. See the [GitHub rep
 ## `NCIt`: NCI Thesaurus
 
 Overall, there were 15 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `NCIt` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref                  |   usages_count | usages                                            |
 |--------------------------------|----------------|---------------------------------------------------|
@@ -33,17 +32,16 @@ external resource can be found on the
 ## `XAO`: Xenopus Anatomy Ontology
 
 Overall, there were 659 invalid
-xrefs to external terms in `xao` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/xao).
+xrefs to external prefixed with `XAO` (standardized to Bioregistry
+entry [`xao`]((https://bioregistry.io/xao)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `XAO:EJS`       |            352 | [XAO:0000374](https://bioregistry.io/XAO:0000374), [XAO:0000461](https://bioregistry.io/XAO:0000461), [XAO:0003215](https://bioregistry.io/XAO:0003215), [XAO:0004076](https://bioregistry.io/XAO:0004076), [XAO:0004579](https://bioregistry.io/XAO:0004579), ... |
-| `XAO:curators`  |            211 | [XAO:0000465](https://bioregistry.io/XAO:0000465), [XAO:0003229](https://bioregistry.io/XAO:0003229), [XAO:0004143](https://bioregistry.io/XAO:0004143), [XAO:0004229](https://bioregistry.io/XAO:0004229), [XAO:0005165](https://bioregistry.io/XAO:0005165), ... |
-| `XAO:CJZ`       |             56 | [XAO:0000063](https://bioregistry.io/XAO:0000063), [XAO:0003036](https://bioregistry.io/XAO:0003036), [XAO:0004297](https://bioregistry.io/XAO:0004297), [XAO:0004397](https://bioregistry.io/XAO:0004397), [XAO:0004618](https://bioregistry.io/XAO:0004618), ... |
-| `XAO:KAB`       |             19 | [XAO:0004556](https://bioregistry.io/XAO:0004556), [XAO:0004564](https://bioregistry.io/XAO:0004564), [XAO:0004571](https://bioregistry.io/XAO:0004571), [XAO:0004588](https://bioregistry.io/XAO:0004588), [XAO:0004591](https://bioregistry.io/XAO:0004591), ... |
-| `XAO:MEF`       |             16 | [XAO:0005299](https://bioregistry.io/XAO:0005299), [XAO:0005299](https://bioregistry.io/XAO:0005299), [XAO:0005300](https://bioregistry.io/XAO:0005300), [XAO:0005301](https://bioregistry.io/XAO:0005301), [XAO:0005304](https://bioregistry.io/XAO:0005304), ... |
+| `XAO:EJS`       |            352 | [XAO:0004261](https://bioregistry.io/XAO:0004261), [XAO:0004342](https://bioregistry.io/XAO:0004342), [XAO:0004441](https://bioregistry.io/XAO:0004441), [XAO:0004443](https://bioregistry.io/XAO:0004443), [XAO:0005180](https://bioregistry.io/XAO:0005180), ... |
+| `XAO:curators`  |            211 | [XAO:0000205](https://bioregistry.io/XAO:0000205), [XAO:0003183](https://bioregistry.io/XAO:0003183), [XAO:0003267](https://bioregistry.io/XAO:0003267), [XAO:0004375](https://bioregistry.io/XAO:0004375), [XAO:0004516](https://bioregistry.io/XAO:0004516), ... |
+| `XAO:CJZ`       |             56 | [XAO:0004499](https://bioregistry.io/XAO:0004499), [XAO:0004513](https://bioregistry.io/XAO:0004513), [XAO:0004524](https://bioregistry.io/XAO:0004524), [XAO:0005242](https://bioregistry.io/XAO:0005242), [XAO:0005242](https://bioregistry.io/XAO:0005242), ... |
+| `XAO:KAB`       |             19 | [XAO:0004389](https://bioregistry.io/XAO:0004389), [XAO:0004539](https://bioregistry.io/XAO:0004539), [XAO:0004540](https://bioregistry.io/XAO:0004540), [XAO:0004546](https://bioregistry.io/XAO:0004546), [XAO:0005008](https://bioregistry.io/XAO:0005008), ... |
+| `XAO:MEF`       |             16 | [XAO:0005298](https://bioregistry.io/XAO:0005298), [XAO:0005302](https://bioregistry.io/XAO:0005302), [XAO:0005303](https://bioregistry.io/XAO:0005303), [XAO:0005303](https://bioregistry.io/XAO:0005303), [XAO:0005303](https://bioregistry.io/XAO:0005303), ... |
 | `XAO:curator`   |              5 | [XAO:0000202](https://bioregistry.io/XAO:0000202), [XAO:0000280](https://bioregistry.io/XAO:0000280), [XAO:0003228](https://bioregistry.io/XAO:0003228), [XAO:0004088](https://bioregistry.io/XAO:0004088), [XAO:0004113](https://bioregistry.io/XAO:0004113)      |
 

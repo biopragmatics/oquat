@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `hsapdv`. See the [GitHub 
 ## `EHDAA2`: Human developmental anatomy, abstract
 
 Overall, there were 46 invalid
-xrefs to external terms in `ehdaa2` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ehdaa2).
+xrefs to external prefixed with `EHDAA2` (standardized to Bioregistry
+entry [`ehdaa2`]((https://bioregistry.io/ehdaa2)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                           |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------|

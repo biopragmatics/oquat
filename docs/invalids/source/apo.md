@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `apo`. See the [GitHub rep
 ## `BioGRID`: BioGRID
 
 Overall, there were 3 invalid
-xrefs to external terms in `biogrid` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/biogrid).
+xrefs to external prefixed with `BioGRID` (standardized to Bioregistry
+entry [`biogrid`]((https://bioregistry.io/biogrid)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref      |   usages_count | usages                                                                                               |
 |--------------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -20,28 +19,26 @@ external resource can be found on the
 ## `CGD`: Candida Genome Database
 
 Overall, there were 6 invalid
-xrefs to external terms in `cgd` that did not match the standard
-pattern `^CAL\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/cgd).
+xrefs to external prefixed with `CGD` (standardized to Bioregistry
+entry [`cgd`]((https://bioregistry.io/cgd)) that
+did not match the standard pattern `^CAL\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CGD:mcc`       |              6 | [APO:0000319](https://bioregistry.io/APO:0000319), [APO:0000319](https://bioregistry.io/APO:0000319), [APO:0000320](https://bioregistry.io/APO:0000320), [APO:0000324](https://bioregistry.io/APO:0000324), [APO:0000328](https://bioregistry.io/APO:0000328), ... |
+| `CGD:mcc`       |              6 | [APO:0000319](https://bioregistry.io/APO:0000319), [APO:0000319](https://bioregistry.io/APO:0000319), [APO:0000320](https://bioregistry.io/APO:0000320), [APO:0000320](https://bioregistry.io/APO:0000320), [APO:0000320](https://bioregistry.io/APO:0000320), ... |
 
 ## `SGD`: Saccharomyces Genome Database
 
 Overall, there were 286 invalid
-xrefs to external terms in `sgd` that did not match the standard
-pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/sgd).
+xrefs to external prefixed with `SGD` (standardized to Bioregistry
+entry [`sgd`]((https://bioregistry.io/sgd)) that
+did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `SGD:mcc`       |            127 | [APO:0000052](https://bioregistry.io/APO:0000052), [APO:0000079](https://bioregistry.io/APO:0000079), [APO:0000208](https://bioregistry.io/APO:0000208), [APO:0000213](https://bioregistry.io/APO:0000213), [APO:0000214](https://bioregistry.io/APO:0000214), ... |
-| `SGD:RSN`       |            110 | [APO:0000067](https://bioregistry.io/APO:0000067), [APO:0000133](https://bioregistry.io/APO:0000133), [APO:0000142](https://bioregistry.io/APO:0000142), [APO:0000229](https://bioregistry.io/APO:0000229), [APO:0000230](https://bioregistry.io/APO:0000230), ... |
-| `SGD:curators`  |             47 | [APO:0000098](https://bioregistry.io/APO:0000098), [APO:0000106](https://bioregistry.io/APO:0000106), [APO:0000157](https://bioregistry.io/APO:0000157), [APO:0000157](https://bioregistry.io/APO:0000157), [APO:0000193](https://bioregistry.io/APO:0000193), ... |
+| `SGD:mcc`       |            127 | [APO:0000091](https://bioregistry.io/APO:0000091), [APO:0000093](https://bioregistry.io/APO:0000093), [APO:0000124](https://bioregistry.io/APO:0000124), [APO:0000197](https://bioregistry.io/APO:0000197), [APO:0000199](https://bioregistry.io/APO:0000199), ... |
+| `SGD:RSN`       |            110 | [APO:0000026](https://bioregistry.io/APO:0000026), [APO:0000136](https://bioregistry.io/APO:0000136), [APO:0000265](https://bioregistry.io/APO:0000265), [APO:0000268](https://bioregistry.io/APO:0000268), [APO:0000276](https://bioregistry.io/APO:0000276), ... |
+| `SGD:curators`  |             47 | [APO:0000004](https://bioregistry.io/APO:0000004), [APO:0000020](https://bioregistry.io/APO:0000020), [APO:0000098](https://bioregistry.io/APO:0000098), [APO:0000110](https://bioregistry.io/APO:0000110), [APO:0000211](https://bioregistry.io/APO:0000211), ... |
 | `SGD:rsn`       |              1 | [APO:0000028](https://bioregistry.io/APO:0000028)                                                                                                                                                                                                                  |
 | `SGD:krc`       |              1 | [APO:0000029](https://bioregistry.io/APO:0000029)                                                                                                                                                                                                                  |
 

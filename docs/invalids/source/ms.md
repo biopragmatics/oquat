@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `ms`. See the [GitHub repo
 ## `EDAM`: Bioinformatics operations, data types, formats, identifiers and topics
 
 Overall, there were 2 invalid
-xrefs to external terms in `edam` that did not match the standard
-pattern `^(data|topic|operation|format)\_\d{4}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/edam).
+xrefs to external prefixed with `EDAM` (standardized to Bioregistry
+entry [`edam`]((https://bioregistry.io/edam)) that
+did not match the standard pattern `^(data|topic|operation|format)\_\d{4}$`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -20,10 +19,9 @@ external resource can be found on the
 ## `SWO`: Software ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `swo` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/swo).
+xrefs to external prefixed with `SWO` (standardized to Bioregistry
+entry [`swo`]((https://bioregistry.io/swo)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref                             |   usages_count | usages                                          |
 |-------------------------------------------|----------------|-------------------------------------------------|

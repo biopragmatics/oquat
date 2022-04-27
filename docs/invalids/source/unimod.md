@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `unimod`.
 ## `PMID`: PubMed
 
 Overall, there were 20 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref                                                                    |   usages_count | usages                                                                                                                                                                                                     |
 |----------------------------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

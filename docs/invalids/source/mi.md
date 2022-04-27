@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `mi`. See the [GitHub repo
 ## `GO`: Gene Ontology
 
 Overall, there were 6 invalid
-xrefs to external terms in `go` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/go).
+xrefs to external prefixed with `GO` (standardized to Bioregistry
+entry [`go`]((https://bioregistry.io/go)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                               |
 |-----------------|----------------|--------------------------------------------------------------------------------------|
@@ -23,10 +22,9 @@ external resource can be found on the
 ## `PMID`: PubMed
 
 Overall, there were 3 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref      |   usages_count | usages                                    |
 |--------------------|----------------|-------------------------------------------|
@@ -37,10 +35,9 @@ external resource can be found on the
 ## `psi-mi`: Molecular Interactions Controlled Vocabulary
 
 Overall, there were 1 invalid
-xrefs to external terms in `mi` that did not match the standard
-pattern `^\d{4}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mi).
+xrefs to external prefixed with `psi-mi` (standardized to Bioregistry
+entry [`mi`]((https://bioregistry.io/mi)) that
+did not match the standard pattern `^\d{4}$`.
 
 | external_xref    |   usages_count | usages                                    |
 |------------------|----------------|-------------------------------------------|

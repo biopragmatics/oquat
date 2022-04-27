@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `geno`. See the [GitHub re
 ## `OBI`: Ontology for Biomedical Investigations
 
 Overall, there were 1 invalid
-xrefs to external terms in `obi` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/obi).
+xrefs to external prefixed with `OBI` (standardized to Bioregistry
+entry [`obi`]((https://bioregistry.io/obi)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref                                   |   usages_count | usages                                              |
 |-------------------------------------------------|----------------|-----------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `SO`: Sequence types and features ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `so` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/so).
+xrefs to external prefixed with `SO` (standardized to Bioregistry
+entry [`so`]((https://bioregistry.io/so)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref                     |   usages_count | usages                                              |
 |-----------------------------------|----------------|-----------------------------------------------------|

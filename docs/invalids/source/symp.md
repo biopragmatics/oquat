@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `symp`. See the [GitHub re
 ## `ICD9CM_2005`: International Classification of Diseases, 9th Revision, Clinical Modification
 
 Overall, there were 1 invalid
-xrefs to external terms in `icd9cm` that did not match the standard
-pattern `^([\dA-Z]\d{2}(\.\d{1,3}|))|(\d{2}(\.\d{1,2}|))$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/icd9cm).
+xrefs to external prefixed with `ICD9CM_2005` (standardized to Bioregistry
+entry [`icd9cm`]((https://bioregistry.io/icd9cm)) that
+did not match the standard pattern `^([\dA-Z]\d{2}(\.\d{1,3}|))|(\d{2}(\.\d{1,2}|))$`.
 
 | external_xref              |   usages_count | usages                                              |
 |----------------------------|----------------|-----------------------------------------------------|

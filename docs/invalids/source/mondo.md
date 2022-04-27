@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `mondo`. See the [GitHub r
 ## `DO`: Human Disease Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `doid` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/doid).
+xrefs to external prefixed with `DO` (standardized to Bioregistry
+entry [`doid`]((https://bioregistry.io/doid)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|
@@ -19,10 +18,9 @@ external resource can be found on the
 ## `DOID`: Human Disease Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `doid` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/doid).
+xrefs to external prefixed with `DOID` (standardized to Bioregistry
+entry [`doid`]((https://bioregistry.io/doid)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|
@@ -31,10 +29,9 @@ external resource can be found on the
 ## `HPO`: Human Phenotype Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `hp` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/hp).
+xrefs to external prefixed with `HPO` (standardized to Bioregistry
+entry [`hp`]((https://bioregistry.io/hp)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|
@@ -43,10 +40,9 @@ external resource can be found on the
 ## `ICDO`: International Classification of Diseases for Oncology
 
 Overall, there were 9 invalid
-xrefs to external terms in `icdo` that did not match the standard
-pattern `^[8-9]\d{3}(/[0-3])?$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/icdo).
+xrefs to external prefixed with `ICDO` (standardized to Bioregistry
+entry [`icdo`]((https://bioregistry.io/icdo)) that
+did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                              |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -61,10 +57,9 @@ external resource can be found on the
 ## `KEGG`: Kyoto Encyclopedia of Genes and Genomes
 
 Overall, there were 34 invalid
-xrefs to external terms in `kegg` that did not match the standard
-pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/kegg).
+xrefs to external prefixed with `KEGG` (standardized to Bioregistry
+entry [`kegg`]((https://bioregistry.io/kegg)) that
+did not match the standard pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|
@@ -106,10 +101,9 @@ external resource can be found on the
 ## `MedDRA`: Medical Dictionary for Regulatory Activities Terminology
 
 Overall, there were 2 invalid
-xrefs to external terms in `meddra` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/meddra).
+xrefs to external prefixed with `MedDRA` (standardized to Bioregistry
+entry [`meddra`]((https://bioregistry.io/meddra)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref     |   usages_count | usages                                                |
 |-------------------|----------------|-------------------------------------------------------|
@@ -119,10 +113,9 @@ external resource can be found on the
 ## `MESH`: Medical Subject Headings
 
 Overall, there were 4 invalid
-xrefs to external terms in `mesh` that did not match the standard
-pattern `^(C|D)\d{6,9}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mesh).
+xrefs to external prefixed with `MESH` (standardized to Bioregistry
+entry [`mesh`]((https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref           |   usages_count | usages                                                |
 |-------------------------|----------------|-------------------------------------------------------|
@@ -134,58 +127,57 @@ external resource can be found on the
 ## `MONDO`: Monarch Disease Ontology
 
 Overall, there were 18,161 invalid
-xrefs to external terms in `mondo` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/mondo).
+xrefs to external prefixed with `MONDO` (standardized to Bioregistry
+entry [`mondo`]((https://bioregistry.io/mondo)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref                                                  |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |----------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MONDO:Lexical`                                                |           4571 | [MONDO:0011818](https://bioregistry.io/MONDO:0011818), [MONDO:0013402](https://bioregistry.io/MONDO:0013402), [MONDO:0013505](https://bioregistry.io/MONDO:0013505), [MONDO:0014248](https://bioregistry.io/MONDO:0014248), [MONDO:0014406](https://bioregistry.io/MONDO:0014406), ... |
-| `MONDO:patterns/disease_series_by_gene`                        |           3940 | [MONDO:0012723](https://bioregistry.io/MONDO:0012723), [MONDO:0013484](https://bioregistry.io/MONDO:0013484), [MONDO:0014468](https://bioregistry.io/MONDO:0014468), [MONDO:0014477](https://bioregistry.io/MONDO:0014477), [MONDO:0015002](https://bioregistry.io/MONDO:0015002), ... |
-| `MONDO:design_pattern`                                         |           2885 | [MONDO:0003524](https://bioregistry.io/MONDO:0003524), [MONDO:0011003](https://bioregistry.io/MONDO:0011003), [MONDO:0012394](https://bioregistry.io/MONDO:0012394), [MONDO:0013555](https://bioregistry.io/MONDO:0013555), [MONDO:0014611](https://bioregistry.io/MONDO:0014611), ... |
-| `MONDO:patterns/location`                                      |           2839 | [MONDO:0002829](https://bioregistry.io/MONDO:0002829), [MONDO:0004107](https://bioregistry.io/MONDO:0004107), [MONDO:0004250](https://bioregistry.io/MONDO:0004250), [MONDO:0006054](https://bioregistry.io/MONDO:0006054), [MONDO:0007450](https://bioregistry.io/MONDO:0007450), ... |
-| `MONDO:ambiguous`                                              |            447 | [MONDO:0004773](https://bioregistry.io/MONDO:0004773), [MONDO:0005129](https://bioregistry.io/MONDO:0005129), [MONDO:0005412](https://bioregistry.io/MONDO:0005412), [MONDO:0010528](https://bioregistry.io/MONDO:0010528), [MONDO:0010837](https://bioregistry.io/MONDO:0010837), ... |
-| `MONDO:patterns/specific_infectious_disease_by_agent`          |            347 | [MONDO:0000307](https://bioregistry.io/MONDO:0000307), [MONDO:0000806](https://bioregistry.io/MONDO:0000806), [MONDO:0005526](https://bioregistry.io/MONDO:0005526), [MONDO:0005729](https://bioregistry.io/MONDO:0005729), [MONDO:0019498](https://bioregistry.io/MONDO:0019498), ... |
-| `MONDO:patterns/location_top`                                  |            243 | [MONDO:0001174](https://bioregistry.io/MONDO:0001174), [MONDO:0001433](https://bioregistry.io/MONDO:0001433), [MONDO:0002150](https://bioregistry.io/MONDO:0002150), [MONDO:0003939](https://bioregistry.io/MONDO:0003939), [MONDO:0005093](https://bioregistry.io/MONDO:0005093), ... |
-| `MONDO:patterns/cancer`                                        |            243 | [MONDO:0002786](https://bioregistry.io/MONDO:0002786), [MONDO:0003277](https://bioregistry.io/MONDO:0003277), [MONDO:0004197](https://bioregistry.io/MONDO:0004197), [MONDO:0008627](https://bioregistry.io/MONDO:0008627), [MONDO:0040676](https://bioregistry.io/MONDO:0040676), ... |
-| `MONDO:patterns/neoplasm`                                      |            234 | [MONDO:0006709](https://bioregistry.io/MONDO:0006709), [MONDO:0021222](https://bioregistry.io/MONDO:0021222), [MONDO:0021249](https://bioregistry.io/MONDO:0021249), [MONDO:0021258](https://bioregistry.io/MONDO:0021258), [MONDO:0021354](https://bioregistry.io/MONDO:0021354), ... |
-| `MONDO:cjm`                                                    |            222 | [MONDO:0000387](https://bioregistry.io/MONDO:0000387), [MONDO:0000387](https://bioregistry.io/MONDO:0000387), [MONDO:0001355](https://bioregistry.io/MONDO:0001355), [MONDO:0005459](https://bioregistry.io/MONDO:0005459), [MONDO:0020711](https://bioregistry.io/MONDO:0020711), ... |
-| `MONDO:patterns/hereditary`                                    |            220 | [MONDO:0017129](https://bioregistry.io/MONDO:0017129), [MONDO:0017893](https://bioregistry.io/MONDO:0017893), [MONDO:0018174](https://bioregistry.io/MONDO:0018174), [MONDO:0025511](https://bioregistry.io/MONDO:0025511), [MONDO:0100237](https://bioregistry.io/MONDO:0100237), ... |
-| `MONDO:patterns/rare`                                          |            154 | [MONDO:0016250](https://bioregistry.io/MONDO:0016250), [MONDO:0019996](https://bioregistry.io/MONDO:0019996), [MONDO:0020025](https://bioregistry.io/MONDO:0020025), [MONDO:0020037](https://bioregistry.io/MONDO:0020037), [MONDO:0020100](https://bioregistry.io/MONDO:0020100), ... |
-| `MONDO:patterns/inflammatory_disease_by_site`                  |            130 | [MONDO:0001873](https://bioregistry.io/MONDO:0001873), [MONDO:0002400](https://bioregistry.io/MONDO:0002400), [MONDO:0004551](https://bioregistry.io/MONDO:0004551), [MONDO:0021164](https://bioregistry.io/MONDO:0021164), [MONDO:0043576](https://bioregistry.io/MONDO:0043576), ... |
-| `MONDO:patterns/carcinoma`                                     |            114 | [MONDO:0001602](https://bioregistry.io/MONDO:0001602), [MONDO:0002113](https://bioregistry.io/MONDO:0002113), [MONDO:0002650](https://bioregistry.io/MONDO:0002650), [MONDO:0005628](https://bioregistry.io/MONDO:0005628), [MONDO:0018531](https://bioregistry.io/MONDO:0018531), ... |
-| `MONDO:patterns/chronic`                                       |             99 | [MONDO:0001052](https://bioregistry.io/MONDO:0001052), [MONDO:0001367](https://bioregistry.io/MONDO:0001367), [MONDO:0002133](https://bioregistry.io/MONDO:0002133), [MONDO:0016170](https://bioregistry.io/MONDO:0016170), [MONDO:0016170](https://bioregistry.io/MONDO:0016170), ... |
-| `MONDO:patterns/acquired`                                      |             91 | [MONDO:0001198](https://bioregistry.io/MONDO:0001198), [MONDO:0006522](https://bioregistry.io/MONDO:0006522), [MONDO:0015822](https://bioregistry.io/MONDO:0015822), [MONDO:0016330](https://bioregistry.io/MONDO:0016330), [MONDO:0024306](https://bioregistry.io/MONDO:0024306), ... |
-| `MONDO:patterns/autosomal_dominant`                            |             89 | [MONDO:0007447](https://bioregistry.io/MONDO:0007447), [MONDO:0007988](https://bioregistry.io/MONDO:0007988), [MONDO:0015088](https://bioregistry.io/MONDO:0015088), [MONDO:0015365](https://bioregistry.io/MONDO:0015365), [MONDO:0015365](https://bioregistry.io/MONDO:0015365), ... |
-| `MONDO:patterns/inborn_metabolic`                              |             88 | [MONDO:0000421](https://bioregistry.io/MONDO:0000421), [MONDO:0000424](https://bioregistry.io/MONDO:0000424), [MONDO:0019224](https://bioregistry.io/MONDO:0019224), [MONDO:0019243](https://bioregistry.io/MONDO:0019243), [MONDO:0019256](https://bioregistry.io/MONDO:0019256), ... |
-| `MONDO:LexicalVariant`                                         |             83 | [MONDO:0001422](https://bioregistry.io/MONDO:0001422), [MONDO:0007191](https://bioregistry.io/MONDO:0007191), [MONDO:0007603](https://bioregistry.io/MONDO:0007603), [MONDO:0018984](https://bioregistry.io/MONDO:0018984), [MONDO:0023188](https://bioregistry.io/MONDO:0023188), ... |
-| `MONDO:patterns/basis_in_disruption_of_process`                |             81 | [MONDO:0009862](https://bioregistry.io/MONDO:0009862), [MONDO:0022919](https://bioregistry.io/MONDO:0022919), [MONDO:0022953](https://bioregistry.io/MONDO:0022953), [MONDO:0024321](https://bioregistry.io/MONDO:0024321), [MONDO:0037937](https://bioregistry.io/MONDO:0037937), ... |
-| `MONDO:patterns/acute`                                         |             80 | [MONDO:0001610](https://bioregistry.io/MONDO:0001610), [MONDO:0001624](https://bioregistry.io/MONDO:0001624), [MONDO:0001895](https://bioregistry.io/MONDO:0001895), [MONDO:0004265](https://bioregistry.io/MONDO:0004265), [MONDO:0044213](https://bioregistry.io/MONDO:0044213), ... |
-| `MONDO:patterns/autosomal_recessive`                           |             80 | [MONDO:0009715](https://bioregistry.io/MONDO:0009715), [MONDO:0009926](https://bioregistry.io/MONDO:0009926), [MONDO:0015090](https://bioregistry.io/MONDO:0015090), [MONDO:0016828](https://bioregistry.io/MONDO:0016828), [MONDO:0017058](https://bioregistry.io/MONDO:0017058), ... |
-| `MONDO:patterns/childhood`                                     |             71 | [MONDO:0002730](https://bioregistry.io/MONDO:0002730), [MONDO:0003478](https://bioregistry.io/MONDO:0003478), [MONDO:0003953](https://bioregistry.io/MONDO:0003953), [MONDO:0004153](https://bioregistry.io/MONDO:0004153), [MONDO:0004355](https://bioregistry.io/MONDO:0004355), ... |
-| `MONDO:patterns/isolated`                                      |             69 | [MONDO:0015634](https://bioregistry.io/MONDO:0015634), [MONDO:0016043](https://bioregistry.io/MONDO:0016043), [MONDO:0017173](https://bioregistry.io/MONDO:0017173), [MONDO:0017667](https://bioregistry.io/MONDO:0017667), [MONDO:0017673](https://bioregistry.io/MONDO:0017673), ... |
-| `MONDO:patterns/infectious_disease_by_agent`                   |             64 | [MONDO:0001026](https://bioregistry.io/MONDO:0001026), [MONDO:0001532](https://bioregistry.io/MONDO:0001532), [MONDO:0002041](https://bioregistry.io/MONDO:0002041), [MONDO:0024410](https://bioregistry.io/MONDO:0024410), [MONDO:0100205](https://bioregistry.io/MONDO:0100205), ... |
-| `MONDO:patterns/syndromic`                                     |             64 | [MONDO:0000508](https://bioregistry.io/MONDO:0000508), [MONDO:0015905](https://bioregistry.io/MONDO:0015905), [MONDO:0017305](https://bioregistry.io/MONDO:0017305), [MONDO:0020208](https://bioregistry.io/MONDO:0020208), [MONDO:0020208](https://bioregistry.io/MONDO:0020208), ... |
-| `MONDO:patterns/allergy`                                       |             62 | [MONDO:0000773](https://bioregistry.io/MONDO:0000773), [MONDO:0000806](https://bioregistry.io/MONDO:0000806), [MONDO:0007021](https://bioregistry.io/MONDO:0007021), [MONDO:0007021](https://bioregistry.io/MONDO:0007021), [MONDO:0025517](https://bioregistry.io/MONDO:0025517), ... |
-| `MONDO:patterns/genetic`                                       |             62 | [MONDO:0009970](https://bioregistry.io/MONDO:0009970), [MONDO:0016229](https://bioregistry.io/MONDO:0016229), [MONDO:0016229](https://bioregistry.io/MONDO:0016229), [MONDO:0018405](https://bioregistry.io/MONDO:0018405), [MONDO:0024237](https://bioregistry.io/MONDO:0024237), ... |
-| `MONDO:patterns/adult`                                         |             57 | [MONDO:0000875](https://bioregistry.io/MONDO:0000875), [MONDO:0002795](https://bioregistry.io/MONDO:0002795), [MONDO:0004012](https://bioregistry.io/MONDO:0004012), [MONDO:0016091](https://bioregistry.io/MONDO:0016091), [MONDO:0024675](https://bioregistry.io/MONDO:0024675), ... |
-| `MONDO:patterns/malignant`                                     |             56 | [MONDO:0003403](https://bioregistry.io/MONDO:0003403), [MONDO:0004650](https://bioregistry.io/MONDO:0004650), [MONDO:0006517](https://bioregistry.io/MONDO:0006517), [MONDO:0037740](https://bioregistry.io/MONDO:0037740), [MONDO:0037743](https://bioregistry.io/MONDO:0037743), ... |
-| `MONDO:patterns/carcinoma_in_situ`                             |             53 | [MONDO:0004698](https://bioregistry.io/MONDO:0004698), [MONDO:0004716](https://bioregistry.io/MONDO:0004716), [MONDO:0004732](https://bioregistry.io/MONDO:0004732), [MONDO:0021291](https://bioregistry.io/MONDO:0021291), [MONDO:0042487](https://bioregistry.io/MONDO:0042487), ... |
-| `MONDO:patterns/x_linked`                                      |             52 | [MONDO:0000425](https://bioregistry.io/MONDO:0000425), [MONDO:0010420](https://bioregistry.io/MONDO:0010420), [MONDO:0010585](https://bioregistry.io/MONDO:0010585), [MONDO:0010587](https://bioregistry.io/MONDO:0010587), [MONDO:0020605](https://bioregistry.io/MONDO:0020605), ... |
-| `MONDO:patterns/sarcoma`                                       |             49 | [MONDO:0002225](https://bioregistry.io/MONDO:0002225), [MONDO:0002861](https://bioregistry.io/MONDO:0002861), [MONDO:0005060](https://bioregistry.io/MONDO:0005060), [MONDO:0005214](https://bioregistry.io/MONDO:0005214), [MONDO:0016982](https://bioregistry.io/MONDO:0016982), ... |
-| `MONDO:patterns/benign`                                        |             34 | [MONDO:0000638](https://bioregistry.io/MONDO:0000638), [MONDO:0003308](https://bioregistry.io/MONDO:0003308), [MONDO:0003342](https://bioregistry.io/MONDO:0003342), [MONDO:0006104](https://bioregistry.io/MONDO:0006104), [MONDO:0037002](https://bioregistry.io/MONDO:0037002), ... |
-| `MONDO:patterns/chromosome_type`                               |             24 | [MONDO:0700008](https://bioregistry.io/MONDO:0700008), [MONDO:0700013](https://bioregistry.io/MONDO:0700013), [MONDO:0700021](https://bioregistry.io/MONDO:0700021), [MONDO:0700022](https://bioregistry.io/MONDO:0700022), [MONDO:0700028](https://bioregistry.io/MONDO:0700028), ... |
-| `MONDO:patterns/neuroendocrine_neoplasm`                       |             20 | [MONDO:0002477](https://bioregistry.io/MONDO:0002477), [MONDO:0002485](https://bioregistry.io/MONDO:0002485), [MONDO:0019963](https://bioregistry.io/MONDO:0019963), [MONDO:0019963](https://bioregistry.io/MONDO:0019963), [MONDO:0024502](https://bioregistry.io/MONDO:0024502), ... |
-| `MONDO:patterns/allergic_form_of_disease`                      |             14 | [MONDO:0000771](https://bioregistry.io/MONDO:0000771), [MONDO:0004553](https://bioregistry.io/MONDO:0004553), [MONDO:0004784](https://bioregistry.io/MONDO:0004784), [MONDO:0004980](https://bioregistry.io/MONDO:0004980), [MONDO:0011786](https://bioregistry.io/MONDO:0011786), ... |
-| `MONDO:patterns/congenital`                                    |             14 | [MONDO:0001902](https://bioregistry.io/MONDO:0001902), [MONDO:0005714](https://bioregistry.io/MONDO:0005714), [MONDO:0005714](https://bioregistry.io/MONDO:0005714), [MONDO:0009332](https://bioregistry.io/MONDO:0009332), [MONDO:0009332](https://bioregistry.io/MONDO:0009332), ... |
-| `MONDO:patterns/specific_inflammatory_disease_by_site`         |             13 | [MONDO:0000271](https://bioregistry.io/MONDO:0000271), [MONDO:0000916](https://bioregistry.io/MONDO:0000916), [MONDO:0001537](https://bioregistry.io/MONDO:0001537), [MONDO:0017210](https://bioregistry.io/MONDO:0017210), [MONDO:0021207](https://bioregistry.io/MONDO:0021207), ... |
-| `MONDO:patterns/autoimmune`                                    |             13 | [MONDO:0000587](https://bioregistry.io/MONDO:0000587), [MONDO:0000587](https://bioregistry.io/MONDO:0000587), [MONDO:0015939](https://bioregistry.io/MONDO:0015939), [MONDO:0030701](https://bioregistry.io/MONDO:0030701), [MONDO:0031012](https://bioregistry.io/MONDO:0031012), ... |
-| `MONDO:patterns/inherited_susceptibility`                      |             13 | [MONDO:0011847](https://bioregistry.io/MONDO:0011847), [MONDO:0011847](https://bioregistry.io/MONDO:0011847), [MONDO:0013103](https://bioregistry.io/MONDO:0013103), [MONDO:0013103](https://bioregistry.io/MONDO:0013103), [MONDO:0100232](https://bioregistry.io/MONDO:0100232), ... |
-| `MONDO:patterns/neuroendocrine_neoplasm_grade1`                |             12 | [MONDO:0006091](https://bioregistry.io/MONDO:0006091), [MONDO:0006126](https://bioregistry.io/MONDO:0006126), [MONDO:0006155](https://bioregistry.io/MONDO:0006155), [MONDO:0006155](https://bioregistry.io/MONDO:0006155), [MONDO:0006227](https://bioregistry.io/MONDO:0006227), ... |
-| `MONDO:patterns/OMIM_disease_series_by_gene`                   |             11 | [MONDO:0032702](https://bioregistry.io/MONDO:0032702), [MONDO:0032770](https://bioregistry.io/MONDO:0032770), [MONDO:0033492](https://bioregistry.io/MONDO:0033492), [MONDO:0100050](https://bioregistry.io/MONDO:0100050), [MONDO:0700123](https://bioregistry.io/MONDO:0700123), ... |
-| `MONDO:patterns/environmental_stimulus`                        |              8 | [MONDO:0002497](https://bioregistry.io/MONDO:0002497), [MONDO:0007021](https://bioregistry.io/MONDO:0007021), [MONDO:0016466](https://bioregistry.io/MONDO:0016466), [MONDO:0016466](https://bioregistry.io/MONDO:0016466), [MONDO:0016466](https://bioregistry.io/MONDO:0016466), ... |
-| `MONDO:patterns/infantile`                                     |              7 | [MONDO:0015804](https://bioregistry.io/MONDO:0015804), [MONDO:0015804](https://bioregistry.io/MONDO:0015804), [MONDO:0015804](https://bioregistry.io/MONDO:0015804), [MONDO:0020071](https://bioregistry.io/MONDO:0020071), [MONDO:0043555](https://bioregistry.io/MONDO:0043555), ... |
+| `MONDO:Lexical`                                                |           4571 | [MONDO:0011304](https://bioregistry.io/MONDO:0011304), [MONDO:0011390](https://bioregistry.io/MONDO:0011390), [MONDO:0011765](https://bioregistry.io/MONDO:0011765), [MONDO:0013113](https://bioregistry.io/MONDO:0013113), [MONDO:0014539](https://bioregistry.io/MONDO:0014539), ... |
+| `MONDO:patterns/disease_series_by_gene`                        |           3940 | [MONDO:0009154](https://bioregistry.io/MONDO:0009154), [MONDO:0009482](https://bioregistry.io/MONDO:0009482), [MONDO:0012983](https://bioregistry.io/MONDO:0012983), [MONDO:0013777](https://bioregistry.io/MONDO:0013777), [MONDO:0014217](https://bioregistry.io/MONDO:0014217), ... |
+| `MONDO:design_pattern`                                         |           2885 | [MONDO:0005902](https://bioregistry.io/MONDO:0005902), [MONDO:0009165](https://bioregistry.io/MONDO:0009165), [MONDO:0010974](https://bioregistry.io/MONDO:0010974), [MONDO:0013779](https://bioregistry.io/MONDO:0013779), [MONDO:0700089](https://bioregistry.io/MONDO:0700089), ... |
+| `MONDO:patterns/location`                                      |           2839 | [MONDO:0000636](https://bioregistry.io/MONDO:0000636), [MONDO:0000933](https://bioregistry.io/MONDO:0000933), [MONDO:0003091](https://bioregistry.io/MONDO:0003091), [MONDO:0003850](https://bioregistry.io/MONDO:0003850), [MONDO:0005206](https://bioregistry.io/MONDO:0005206), ... |
+| `MONDO:ambiguous`                                              |            447 | [MONDO:0000744](https://bioregistry.io/MONDO:0000744), [MONDO:0001872](https://bioregistry.io/MONDO:0001872), [MONDO:0008848](https://bioregistry.io/MONDO:0008848), [MONDO:0009813](https://bioregistry.io/MONDO:0009813), [MONDO:0016039](https://bioregistry.io/MONDO:0016039), ... |
+| `MONDO:patterns/specific_infectious_disease_by_agent`          |            347 | [MONDO:0004616](https://bioregistry.io/MONDO:0004616), [MONDO:0005120](https://bioregistry.io/MONDO:0005120), [MONDO:0005774](https://bioregistry.io/MONDO:0005774), [MONDO:0006926](https://bioregistry.io/MONDO:0006926), [MONDO:0021641](https://bioregistry.io/MONDO:0021641), ... |
+| `MONDO:patterns/location_top`                                  |            243 | [MONDO:0000931](https://bioregistry.io/MONDO:0000931), [MONDO:0002887](https://bioregistry.io/MONDO:0002887), [MONDO:0004805](https://bioregistry.io/MONDO:0004805), [MONDO:0005240](https://bioregistry.io/MONDO:0005240), [MONDO:0045013](https://bioregistry.io/MONDO:0045013), ... |
+| `MONDO:patterns/cancer`                                        |            243 | [MONDO:0000380](https://bioregistry.io/MONDO:0000380), [MONDO:0002731](https://bioregistry.io/MONDO:0002731), [MONDO:0003606](https://bioregistry.io/MONDO:0003606), [MONDO:0004631](https://bioregistry.io/MONDO:0004631), [MONDO:0021112](https://bioregistry.io/MONDO:0021112), ... |
+| `MONDO:patterns/neoplasm`                                      |            234 | [MONDO:0002528](https://bioregistry.io/MONDO:0002528), [MONDO:0002640](https://bioregistry.io/MONDO:0002640), [MONDO:0005304](https://bioregistry.io/MONDO:0005304), [MONDO:0021386](https://bioregistry.io/MONDO:0021386), [MONDO:0024653](https://bioregistry.io/MONDO:0024653), ... |
+| `MONDO:cjm`                                                    |            222 | [MONDO:0000610](https://bioregistry.io/MONDO:0000610), [MONDO:0005229](https://bioregistry.io/MONDO:0005229), [MONDO:0018083](https://bioregistry.io/MONDO:0018083), [MONDO:0020275](https://bioregistry.io/MONDO:0020275), [MONDO:0041403](https://bioregistry.io/MONDO:0041403), ... |
+| `MONDO:patterns/hereditary`                                    |            220 | [MONDO:0016340](https://bioregistry.io/MONDO:0016340), [MONDO:0016473](https://bioregistry.io/MONDO:0016473), [MONDO:0019741](https://bioregistry.io/MONDO:0019741), [MONDO:0021181](https://bioregistry.io/MONDO:0021181), [MONDO:0024237](https://bioregistry.io/MONDO:0024237), ... |
+| `MONDO:patterns/rare`                                          |            154 | [MONDO:0015112](https://bioregistry.io/MONDO:0015112), [MONDO:0015162](https://bioregistry.io/MONDO:0015162), [MONDO:0020026](https://bioregistry.io/MONDO:0020026), [MONDO:0020037](https://bioregistry.io/MONDO:0020037), [MONDO:0020037](https://bioregistry.io/MONDO:0020037), ... |
+| `MONDO:patterns/inflammatory_disease_by_site`                  |            130 | [MONDO:0004496](https://bioregistry.io/MONDO:0004496), [MONDO:0004627](https://bioregistry.io/MONDO:0004627), [MONDO:0006877](https://bioregistry.io/MONDO:0006877), [MONDO:0011644](https://bioregistry.io/MONDO:0011644), [MONDO:0019838](https://bioregistry.io/MONDO:0019838), ... |
+| `MONDO:patterns/carcinoma`                                     |            114 | [MONDO:0002415](https://bioregistry.io/MONDO:0002415), [MONDO:0002424](https://bioregistry.io/MONDO:0002424), [MONDO:0004499](https://bioregistry.io/MONDO:0004499), [MONDO:0005159](https://bioregistry.io/MONDO:0005159), [MONDO:0006639](https://bioregistry.io/MONDO:0006639), ... |
+| `MONDO:patterns/chronic`                                       |             99 | [MONDO:0001025](https://bioregistry.io/MONDO:0001025), [MONDO:0001367](https://bioregistry.io/MONDO:0001367), [MONDO:0002029](https://bioregistry.io/MONDO:0002029), [MONDO:0005593](https://bioregistry.io/MONDO:0005593), [MONDO:0018301](https://bioregistry.io/MONDO:0018301), ... |
+| `MONDO:patterns/acquired`                                      |             91 | [MONDO:0012104](https://bioregistry.io/MONDO:0012104), [MONDO:0016593](https://bioregistry.io/MONDO:0016593), [MONDO:0019193](https://bioregistry.io/MONDO:0019193), [MONDO:0024301](https://bioregistry.io/MONDO:0024301), [MONDO:0044817](https://bioregistry.io/MONDO:0044817), ... |
+| `MONDO:patterns/autosomal_dominant`                            |             89 | [MONDO:0008474](https://bioregistry.io/MONDO:0008474), [MONDO:0015087](https://bioregistry.io/MONDO:0015087), [MONDO:0019587](https://bioregistry.io/MONDO:0019587), [MONDO:0019587](https://bioregistry.io/MONDO:0019587), [MONDO:0020645](https://bioregistry.io/MONDO:0020645), ... |
+| `MONDO:patterns/inborn_metabolic`                              |             88 | [MONDO:0009259](https://bioregistry.io/MONDO:0009259), [MONDO:0017355](https://bioregistry.io/MONDO:0017355), [MONDO:0017909](https://bioregistry.io/MONDO:0017909), [MONDO:0019236](https://bioregistry.io/MONDO:0019236), [MONDO:0021130](https://bioregistry.io/MONDO:0021130), ... |
+| `MONDO:LexicalVariant`                                         |             83 | [MONDO:0004337](https://bioregistry.io/MONDO:0004337), [MONDO:0016086](https://bioregistry.io/MONDO:0016086), [MONDO:0018094](https://bioregistry.io/MONDO:0018094), [MONDO:0020528](https://bioregistry.io/MONDO:0020528), [MONDO:0023188](https://bioregistry.io/MONDO:0023188), ... |
+| `MONDO:patterns/basis_in_disruption_of_process`                |             81 | [MONDO:0009862](https://bioregistry.io/MONDO:0009862), [MONDO:0017059](https://bioregistry.io/MONDO:0017059), [MONDO:0024322](https://bioregistry.io/MONDO:0024322), [MONDO:0024422](https://bioregistry.io/MONDO:0024422), [MONDO:0037792](https://bioregistry.io/MONDO:0037792), ... |
+| `MONDO:patterns/acute`                                         |             80 | [MONDO:0000257](https://bioregistry.io/MONDO:0000257), [MONDO:0001064](https://bioregistry.io/MONDO:0001064), [MONDO:0001080](https://bioregistry.io/MONDO:0001080), [MONDO:0001171](https://bioregistry.io/MONDO:0001171), [MONDO:0001777](https://bioregistry.io/MONDO:0001777), ... |
+| `MONDO:patterns/autosomal_recessive`                           |             80 | [MONDO:0009486](https://bioregistry.io/MONDO:0009486), [MONDO:0009486](https://bioregistry.io/MONDO:0009486), [MONDO:0009999](https://bioregistry.io/MONDO:0009999), [MONDO:0011679](https://bioregistry.io/MONDO:0011679), [MONDO:0015366](https://bioregistry.io/MONDO:0015366), ... |
+| `MONDO:patterns/childhood`                                     |             71 | [MONDO:0003932](https://bioregistry.io/MONDO:0003932), [MONDO:0004193](https://bioregistry.io/MONDO:0004193), [MONDO:0004441](https://bioregistry.io/MONDO:0004441), [MONDO:0009672](https://bioregistry.io/MONDO:0009672), [MONDO:0009672](https://bioregistry.io/MONDO:0009672), ... |
+| `MONDO:patterns/isolated`                                      |             69 | [MONDO:0000722](https://bioregistry.io/MONDO:0000722), [MONDO:0015634](https://bioregistry.io/MONDO:0015634), [MONDO:0015829](https://bioregistry.io/MONDO:0015829), [MONDO:0016553](https://bioregistry.io/MONDO:0016553), [MONDO:0017673](https://bioregistry.io/MONDO:0017673), ... |
+| `MONDO:patterns/infectious_disease_by_agent`                   |             64 | [MONDO:0000343](https://bioregistry.io/MONDO:0000343), [MONDO:0001103](https://bioregistry.io/MONDO:0001103), [MONDO:0001532](https://bioregistry.io/MONDO:0001532), [MONDO:0001794](https://bioregistry.io/MONDO:0001794), [MONDO:0003482](https://bioregistry.io/MONDO:0003482), ... |
+| `MONDO:patterns/syndromic`                                     |             64 | [MONDO:0015150](https://bioregistry.io/MONDO:0015150), [MONDO:0015216](https://bioregistry.io/MONDO:0015216), [MONDO:0015905](https://bioregistry.io/MONDO:0015905), [MONDO:0018609](https://bioregistry.io/MONDO:0018609), [MONDO:0020148](https://bioregistry.io/MONDO:0020148), ... |
+| `MONDO:patterns/allergy`                                       |             62 | [MONDO:0000790](https://bioregistry.io/MONDO:0000790), [MONDO:0000791](https://bioregistry.io/MONDO:0000791), [MONDO:0000800](https://bioregistry.io/MONDO:0000800), [MONDO:0000801](https://bioregistry.io/MONDO:0000801), [MONDO:0000804](https://bioregistry.io/MONDO:0000804), ... |
+| `MONDO:patterns/genetic`                                       |             62 | [MONDO:0013099](https://bioregistry.io/MONDO:0013099), [MONDO:0017129](https://bioregistry.io/MONDO:0017129), [MONDO:0018411](https://bioregistry.io/MONDO:0018411), [MONDO:0019117](https://bioregistry.io/MONDO:0019117), [MONDO:0021029](https://bioregistry.io/MONDO:0021029), ... |
+| `MONDO:patterns/adult`                                         |             57 | [MONDO:0003153](https://bioregistry.io/MONDO:0003153), [MONDO:0003153](https://bioregistry.io/MONDO:0003153), [MONDO:0003856](https://bioregistry.io/MONDO:0003856), [MONDO:0007798](https://bioregistry.io/MONDO:0007798), [MONDO:0017617](https://bioregistry.io/MONDO:0017617), ... |
+| `MONDO:patterns/malignant`                                     |             56 | [MONDO:0003252](https://bioregistry.io/MONDO:0003252), [MONDO:0003340](https://bioregistry.io/MONDO:0003340), [MONDO:0024282](https://bioregistry.io/MONDO:0024282), [MONDO:0024880](https://bioregistry.io/MONDO:0024880), [MONDO:0037003](https://bioregistry.io/MONDO:0037003), ... |
+| `MONDO:patterns/carcinoma_in_situ`                             |             53 | [MONDO:0000372](https://bioregistry.io/MONDO:0000372), [MONDO:0004636](https://bioregistry.io/MONDO:0004636), [MONDO:0004659](https://bioregistry.io/MONDO:0004659), [MONDO:0004696](https://bioregistry.io/MONDO:0004696), [MONDO:0005023](https://bioregistry.io/MONDO:0005023), ... |
+| `MONDO:patterns/x_linked`                                      |             52 | [MONDO:0010248](https://bioregistry.io/MONDO:0010248), [MONDO:0010585](https://bioregistry.io/MONDO:0010585), [MONDO:0010683](https://bioregistry.io/MONDO:0010683), [MONDO:0016612](https://bioregistry.io/MONDO:0016612), [MONDO:0021155](https://bioregistry.io/MONDO:0021155), ... |
+| `MONDO:patterns/sarcoma`                                       |             49 | [MONDO:0002854](https://bioregistry.io/MONDO:0002854), [MONDO:0002857](https://bioregistry.io/MONDO:0002857), [MONDO:0003352](https://bioregistry.io/MONDO:0003352), [MONDO:0003354](https://bioregistry.io/MONDO:0003354), [MONDO:0004380](https://bioregistry.io/MONDO:0004380), ... |
+| `MONDO:patterns/benign`                                        |             34 | [MONDO:0000638](https://bioregistry.io/MONDO:0000638), [MONDO:0000638](https://bioregistry.io/MONDO:0000638), [MONDO:0002373](https://bioregistry.io/MONDO:0002373), [MONDO:0003333](https://bioregistry.io/MONDO:0003333), [MONDO:0006104](https://bioregistry.io/MONDO:0006104), ... |
+| `MONDO:patterns/chromosome_type`                               |             24 | [MONDO:0700010](https://bioregistry.io/MONDO:0700010), [MONDO:0700018](https://bioregistry.io/MONDO:0700018), [MONDO:0700020](https://bioregistry.io/MONDO:0700020), [MONDO:0700022](https://bioregistry.io/MONDO:0700022), [MONDO:0700026](https://bioregistry.io/MONDO:0700026), ... |
+| `MONDO:patterns/neuroendocrine_neoplasm`                       |             20 | [MONDO:0002883](https://bioregistry.io/MONDO:0002883), [MONDO:0003111](https://bioregistry.io/MONDO:0003111), [MONDO:0005454](https://bioregistry.io/MONDO:0005454), [MONDO:0015070](https://bioregistry.io/MONDO:0015070), [MONDO:0021650](https://bioregistry.io/MONDO:0021650), ... |
+| `MONDO:patterns/allergic_form_of_disease`                      |             14 | [MONDO:0005271](https://bioregistry.io/MONDO:0005271), [MONDO:0005271](https://bioregistry.io/MONDO:0005271), [MONDO:0006525](https://bioregistry.io/MONDO:0006525), [MONDO:0006526](https://bioregistry.io/MONDO:0006526), [MONDO:0011786](https://bioregistry.io/MONDO:0011786), ... |
+| `MONDO:patterns/congenital`                                    |             14 | [MONDO:0005714](https://bioregistry.io/MONDO:0005714), [MONDO:0005715](https://bioregistry.io/MONDO:0005715), [MONDO:0017361](https://bioregistry.io/MONDO:0017361), [MONDO:0024287](https://bioregistry.io/MONDO:0024287), [MONDO:0024287](https://bioregistry.io/MONDO:0024287), ... |
+| `MONDO:patterns/specific_inflammatory_disease_by_site`         |             13 | [MONDO:0000916](https://bioregistry.io/MONDO:0000916), [MONDO:0005537](https://bioregistry.io/MONDO:0005537), [MONDO:0005537](https://bioregistry.io/MONDO:0005537), [MONDO:0005539](https://bioregistry.io/MONDO:0005539), [MONDO:0005539](https://bioregistry.io/MONDO:0005539), ... |
+| `MONDO:patterns/autoimmune`                                    |             13 | [MONDO:0018242](https://bioregistry.io/MONDO:0018242), [MONDO:0019098](https://bioregistry.io/MONDO:0019098), [MONDO:0030702](https://bioregistry.io/MONDO:0030702), [MONDO:0044338](https://bioregistry.io/MONDO:0044338), [MONDO:0044338](https://bioregistry.io/MONDO:0044338), ... |
+| `MONDO:patterns/inherited_susceptibility`                      |             13 | [MONDO:0011875](https://bioregistry.io/MONDO:0011875), [MONDO:0012627](https://bioregistry.io/MONDO:0012627), [MONDO:0013103](https://bioregistry.io/MONDO:0013103), [MONDO:0100476](https://bioregistry.io/MONDO:0100476), [MONDO:0100476](https://bioregistry.io/MONDO:0100476), ... |
+| `MONDO:patterns/neuroendocrine_neoplasm_grade1`                |             12 | [MONDO:0006155](https://bioregistry.io/MONDO:0006155), [MONDO:0006250](https://bioregistry.io/MONDO:0006250), [MONDO:0006257](https://bioregistry.io/MONDO:0006257), [MONDO:0006257](https://bioregistry.io/MONDO:0006257), [MONDO:0021533](https://bioregistry.io/MONDO:0021533), ... |
+| `MONDO:patterns/OMIM_disease_series_by_gene`                   |             11 | [MONDO:0032702](https://bioregistry.io/MONDO:0032702), [MONDO:0060763](https://bioregistry.io/MONDO:0060763), [MONDO:0060763](https://bioregistry.io/MONDO:0060763), [MONDO:0100050](https://bioregistry.io/MONDO:0100050), [MONDO:0700122](https://bioregistry.io/MONDO:0700122), ... |
+| `MONDO:patterns/environmental_stimulus`                        |              8 | [MONDO:0001000](https://bioregistry.io/MONDO:0001000), [MONDO:0002497](https://bioregistry.io/MONDO:0002497), [MONDO:0002497](https://bioregistry.io/MONDO:0002497), [MONDO:0006654](https://bioregistry.io/MONDO:0006654), [MONDO:0006688](https://bioregistry.io/MONDO:0006688), ... |
+| `MONDO:patterns/infantile`                                     |              7 | [MONDO:0000212](https://bioregistry.io/MONDO:0000212), [MONDO:0015804](https://bioregistry.io/MONDO:0015804), [MONDO:0015804](https://bioregistry.io/MONDO:0015804), [MONDO:0015804](https://bioregistry.io/MONDO:0015804), [MONDO:0043555](https://bioregistry.io/MONDO:0043555), ... |
 | `MONDO:patterns/disease_by_dysfunctional_structure`            |              6 | [MONDO:0001343](https://bioregistry.io/MONDO:0001343), [MONDO:0001343](https://bioregistry.io/MONDO:0001343), [MONDO:0004880](https://bioregistry.io/MONDO:0004880), [MONDO:0004880](https://bioregistry.io/MONDO:0004880), [MONDO:0100311](https://bioregistry.io/MONDO:0100311), ... |
 | `MONDO:patterns/rare_genetic`                                  |              5 | [MONDO:0015107](https://bioregistry.io/MONDO:0015107), [MONDO:0015513](https://bioregistry.io/MONDO:0015513), [MONDO:0015955](https://bioregistry.io/MONDO:0015955), [MONDO:0015972](https://bioregistry.io/MONDO:0015972), [MONDO:0015972](https://bioregistry.io/MONDO:0015972)      |
 | `MONDO:patterns/y_linked`                                      |              4 | [MONDO:0000428](https://bioregistry.io/MONDO:0000428), [MONDO:0000428](https://bioregistry.io/MONDO:0000428), [MONDO:0010761](https://bioregistry.io/MONDO:0010761), [MONDO:0010761](https://bioregistry.io/MONDO:0010761)                                                             |
@@ -210,14 +202,13 @@ external resource can be found on the
 ## `NCIT`: NCI Thesaurus
 
 Overall, there were 1,606 invalid
-xrefs to external terms in `ncit` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/ncit).
+xrefs to external prefixed with `NCIT` (standardized to Bioregistry
+entry [`ncit`]((https://bioregistry.io/ncit)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref           |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `NCIT:P378`             |           1601 | [MONDO:0001307](https://bioregistry.io/MONDO:0001307), [MONDO:0003294](https://bioregistry.io/MONDO:0003294), [MONDO:0003616](https://bioregistry.io/MONDO:0003616), [MONDO:0006797](https://bioregistry.io/MONDO:0006797), [MONDO:0018712](https://bioregistry.io/MONDO:0018712), ... |
+| `NCIT:P378`             |           1601 | [MONDO:0001224](https://bioregistry.io/MONDO:0001224), [MONDO:0001370](https://bioregistry.io/MONDO:0001370), [MONDO:0001569](https://bioregistry.io/MONDO:0001569), [MONDO:0004345](https://bioregistry.io/MONDO:0004345), [MONDO:0004926](https://bioregistry.io/MONDO:0004926), ... |
 | `NCIT:C128346-modified` |              1 | [MONDO:0005429](https://bioregistry.io/MONDO:0005429)                                                                                                                                                                                                                                  |
 | `NCIT:C3131-modified`   |              1 | [MONDO:0021094](https://bioregistry.io/MONDO:0021094)                                                                                                                                                                                                                                  |
 | `NCIT:C84543-modified`  |              1 | [MONDO:0043209](https://bioregistry.io/MONDO:0043209)                                                                                                                                                                                                                                  |
@@ -227,22 +218,20 @@ external resource can be found on the
 ## `OMIM`: Online Mendelian Inheritance in Man
 
 Overall, there were 2,077 invalid
-xrefs to external terms in `omim` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/omim).
+xrefs to external prefixed with `OMIM` (standardized to Bioregistry
+entry [`omim`]((https://bioregistry.io/omim)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `OMIM:genemap2` |           2077 | [MONDO:0011609](https://bioregistry.io/MONDO:0011609), [MONDO:0013378](https://bioregistry.io/MONDO:0013378), [MONDO:0014267](https://bioregistry.io/MONDO:0014267), [MONDO:0014543](https://bioregistry.io/MONDO:0014543), [MONDO:0030059](https://bioregistry.io/MONDO:0030059), ... |
+| `OMIM:genemap2` |           2077 | [MONDO:0012175](https://bioregistry.io/MONDO:0012175), [MONDO:0014199](https://bioregistry.io/MONDO:0014199), [MONDO:0030877](https://bioregistry.io/MONDO:0030877), [MONDO:0032740](https://bioregistry.io/MONDO:0032740), [MONDO:0100250](https://bioregistry.io/MONDO:0100250), ... |
 
 ## `OMIMPS`: OMIM Phenotypic Series
 
 Overall, there were 653 invalid
-xrefs to external terms in `omim.ps` that did not match the standard
-pattern `^PS\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/omim.ps).
+xrefs to external prefixed with `OMIMPS` (standardized to Bioregistry
+entry [`omim.ps`]((https://bioregistry.io/omim.ps)) that
+did not match the standard pattern `^PS\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                              |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -772,10 +761,9 @@ external resource can be found on the
 ## `Orphanet`: Orphanet
 
 Overall, there were 4 invalid
-xrefs to external terms in `orphanet` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/orphanet).
+xrefs to external prefixed with `Orphanet` (standardized to Bioregistry
+entry [`orphanet`]((https://bioregistry.io/orphanet)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref                |   usages_count | usages                                                                                                       |
 |------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -786,10 +774,9 @@ external resource can be found on the
 ## `PMID`: PubMed
 
 Overall, there were 1 invalid
-xrefs to external terms in `pubmed` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/pubmed).
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref           |   usages_count | usages                                                |
 |-------------------------|----------------|-------------------------------------------------------|
@@ -798,10 +785,9 @@ external resource can be found on the
 ## `UMLS`: Unified Medical Language System Concept Unique Identifier
 
 Overall, there were 2,670 invalid
-xrefs to external terms in `umls` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/umls).
+xrefs to external prefixed with `UMLS` (standardized to Bioregistry
+entry [`umls`]((https://bioregistry.io/umls)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|
@@ -3479,10 +3465,9 @@ external resource can be found on the
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 36 invalid
-xrefs to external terms in `wikipedia.en` that did not match the standard
-pattern `^[A-Za-z-0-9_]+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/wikipedia.en).
+xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
+entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                                                                           |   usages_count | usages                                                                                                       |
 |-----------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|

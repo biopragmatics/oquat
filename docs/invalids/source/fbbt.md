@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `fbbt`. See the [GitHub re
 ## `DoOR`: Database for Prokaryotic Operons
 
 Overall, there were 137 invalid
-xrefs to external terms in `door` that did not match the standard
-pattern `^\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/door).
+xrefs to external prefixed with `DoOR` (standardized to Bioregistry
+entry [`door`]((https://bioregistry.io/door)) that
+did not match the standard pattern `^\d+$`.
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                     |
 |--------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -86,10 +85,9 @@ external resource can be found on the
 ## `VFB`: Virtual Fly Brain
 
 Overall, there were 9,259 invalid
-xrefs to external terms in `vfb` that did not match the standard
-pattern `^[0-9a-zA-Z]{8}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/vfb).
+xrefs to external prefixed with `VFB` (standardized to Bioregistry
+entry [`vfb`]((https://bioregistry.io/vfb)) that
+did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
 
 | external_xref       |   usages_count | usages                                                                                                       |
 |---------------------|----------------|--------------------------------------------------------------------------------------------------------------|

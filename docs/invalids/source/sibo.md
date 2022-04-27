@@ -7,10 +7,9 @@ for node, synonym, and definition cross-references in `sibo`. See the [GitHub re
 ## `KEGG COMPOUND`: KEGG Compound
 
 Overall, there were 9 invalid
-xrefs to external terms in `kegg.compound` that did not match the standard
-pattern `^C\d+$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/kegg.compound).
+xrefs to external prefixed with `KEGG COMPOUND` (standardized to Bioregistry
+entry [`kegg.compound`]((https://bioregistry.io/kegg.compound)) that
+did not match the standard pattern `^C\d+$`.
 
 | external_xref          |   usages_count | usages                                              |
 |------------------------|----------------|-----------------------------------------------------|
@@ -27,10 +26,9 @@ external resource can be found on the
 ## `SIBO`: Social Insect Behavior Ontology
 
 Overall, there were 1 invalid
-xrefs to external terms in `sibo` that did not match the standard
-pattern `^\d{7}$`. More information on this
-external resource can be found on the
-[Bioregistry](https://bioregistry.io/sibo).
+xrefs to external prefixed with `SIBO` (standardized to Bioregistry
+entry [`sibo`]((https://bioregistry.io/sibo)) that
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
