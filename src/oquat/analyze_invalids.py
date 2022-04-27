@@ -72,7 +72,7 @@ def main():
                 sources,
                 total,
                 "`" + ":".join(example_curie) + "`",
-                example_node,
+                f"[{example_node}]({example_node})",
             )
         )
     rows = sorted(rows, key=itemgetter(2), reverse=True)
