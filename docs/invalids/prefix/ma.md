@@ -1,13 +1,13 @@
-# ma: Mouse adult gross anatomy
+# [`ma`](https://bioregistry.io/ma): Mouse adult gross anatomy
 
 This page summarize the different resources that reference `ma`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 7 resources,
+`^\d+$`. Of the 7 resources,
 1 variants on the standard prefix were found: ['MA'].
 
 ## `bcio`: The Behaviour Change Intervention Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `bcio`.
+Identifiers for this prefix are given incorrectly in `bcio`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                              |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `bcio`.
 
 ## `bspo`: Biological Spatial Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `bspo`.
+Identifiers for this prefix are given incorrectly in `bspo`. See the [GitHub repository](https://github.com/obophenotype/biological-spatial-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------|
@@ -23,7 +23,7 @@ Identifiers for this prefix are given incorrectly correctly in `bspo`.
 
 ## `cl`: Cell Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cl`.
+Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -31,7 +31,7 @@ Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 ## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `enm`.
+Identifiers for this prefix are given incorrectly in `enm`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -40,7 +40,7 @@ Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 ## `envo`: Environment Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `envo`.
+Identifiers for this prefix are given incorrectly in `envo`. See the [GitHub repository](https://github.com/EnvironmentOntology/envo).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -48,7 +48,7 @@ Identifiers for this prefix are given incorrectly correctly in `envo`.
 
 ## `sdgio`: Sustainable Development Goals Interface Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `sdgio`.
+Identifiers for this prefix are given incorrectly in `sdgio`.
 
 | external_xref   |   usages_count | usages                                                                                                       |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -56,7 +56,7 @@ Identifiers for this prefix are given incorrectly correctly in `sdgio`.
 
 ## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `uberon`.
+Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

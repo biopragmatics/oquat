@@ -1,13 +1,13 @@
-# to: Plant Trait Ontology
+# [`to`](https://bioregistry.io/to): Plant Trait Ontology
 
 This page summarize the different resources that reference `to`
 but use local unique identifiers that do not match the standard pattern of
-^\d{7}$. Of the 3 resources,
+`^\d{7}$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['TO'].
 
 ## `pato`: Phenotype And Trait Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `pato`.
+Identifiers for this prefix are given incorrectly in `pato`. See the [GitHub repository](https://github.com/pato-ontology/pato).
 
 | external_xref   |   usages_count | usages                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `pato`.
 
 ## `peco`: Plant Experimental Conditions Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `peco`.
+Identifiers for this prefix are given incorrectly in `peco`. See the [GitHub repository](https://github.com/Planteome/plant-experimental-conditions-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,7 +23,7 @@ Identifiers for this prefix are given incorrectly correctly in `peco`.
 
 ## `to`: Plant Trait Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `to`.
+Identifiers for this prefix are given incorrectly in `to`. See the [GitHub repository](https://github.com/Planteome/plant-trait-ontology).
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                                                   |
 |--------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,13 +1,13 @@
-# ncbitaxon: NCBI organismal classification
+# [`ncbitaxon`](https://bioregistry.io/ncbitaxon): NCBI organismal classification
 
 This page summarize the different resources that reference `ncbitaxon`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 2 resources,
+`^\d+$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['NCBITaxon'].
 
 ## `taxrank`: Taxonomic rank vocabulary
 
-Identifiers for this prefix are given incorrectly correctly in `taxrank`.
+Identifiers for this prefix are given incorrectly in `taxrank`. See the [GitHub repository](https://github.com/phenoscape/taxrank).
 
 | external_xref                |   usages_count | usages                                                    |
 |------------------------------|----------------|-----------------------------------------------------------|
@@ -42,7 +42,7 @@ Identifiers for this prefix are given incorrectly correctly in `taxrank`.
 
 ## `tto`: Teleost taxonomy ontology
 
-Identifiers for this prefix are given incorrectly correctly in `tto`.
+Identifiers for this prefix are given incorrectly in `tto`. See the [GitHub repository](https://github.com/phenoscape/teleost-taxonomy-ontology).
 
 | external_xref       |   usages_count | usages                                            |
 |---------------------|----------------|---------------------------------------------------|

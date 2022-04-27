@@ -1,13 +1,13 @@
-# xao: Xenopus Anatomy Ontology
+# [`xao`](https://bioregistry.io/xao): Xenopus Anatomy Ontology
 
 This page summarize the different resources that reference `xao`
 but use local unique identifiers that do not match the standard pattern of
-^\d{7}$. Of the 3 resources,
+`^\d{7}$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['XAO'].
 
 ## `go`: Gene Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `go`.
+Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -16,7 +16,7 @@ Identifiers for this prefix are given incorrectly correctly in `go`.
 
 ## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `uberon`.
+Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                             |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -26,7 +26,7 @@ Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 ## `xao`: Xenopus Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `xao`.
+Identifiers for this prefix are given incorrectly in `xao`. See the [GitHub repository](https://github.com/xenopus-anatomy/xao).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

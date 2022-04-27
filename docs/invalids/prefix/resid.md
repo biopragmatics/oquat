@@ -1,13 +1,13 @@
-# resid: Protein covalent bond
+# [`resid`](https://bioregistry.io/resid): Protein covalent bond
 
 This page summarize the different resources that reference `resid`
 but use local unique identifiers that do not match the standard pattern of
-^AA\d{4}$. Of the 2 resources,
+`^AA\d{4}$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['RESID'].
 
 ## `go`: Gene Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `go`.
+Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -17,7 +17,7 @@ Identifiers for this prefix are given incorrectly correctly in `go`.
 
 ## `mod`: Protein modification
 
-Identifiers for this prefix are given incorrectly correctly in `mod`.
+Identifiers for this prefix are given incorrectly in `mod`. See the [GitHub repository](https://github.com/HUPO-PSI/psi-mod-CV).
 
 | external_xref       |   usages_count | usages                                                                                                                                                                                                                                         |
 |---------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

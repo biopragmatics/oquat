@@ -1,13 +1,13 @@
-# umls: Unified Medical Language System Concept Unique Identifier
+# [`umls`](https://bioregistry.io/umls): Unified Medical Language System Concept Unique Identifier
 
 This page summarize the different resources that reference `umls`
 but use local unique identifiers that do not match the standard pattern of
-^C\d+$. Of the 2 resources,
+`^C\d+$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['UMLS'].
 
 ## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `efo`.
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -102,7 +102,7 @@ Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 ## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mondo`.
+Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub repository](https://github.com/monarch-initiative/mondo).
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|

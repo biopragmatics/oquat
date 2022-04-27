@@ -1,13 +1,13 @@
-# doid: Human Disease Ontology
+# [`doid`](https://bioregistry.io/doid): Human Disease Ontology
 
 This page summarize the different resources that reference `doid`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 2 resources,
+`^\d+$`. Of the 2 resources,
 2 variants on the standard prefix were found: ['DO', 'DOID'].
 
 ## `doid`: Human Disease Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `doid`.
+Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub repository](https://github.com/DiseaseOntology/HumanDiseaseOntology).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -16,7 +16,7 @@ Identifiers for this prefix are given incorrectly correctly in `doid`.
 
 ## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mondo`.
+Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub repository](https://github.com/monarch-initiative/mondo).
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|

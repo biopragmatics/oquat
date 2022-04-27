@@ -1,13 +1,13 @@
-# mpath: Mouse pathology ontology
+# [`mpath`](https://bioregistry.io/mpath): Mouse pathology ontology
 
 This page summarize the different resources that reference `mpath`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 1 resources,
+`^\d+$`. Of the 1 resources,
 2 variants on the standard prefix were found: ['MPATH', 'mpath'].
 
 ## `mpath`: Mouse pathology ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mpath`.
+Identifiers for this prefix are given incorrectly in `mpath`. See the [GitHub repository](https://github.com/PaulNSchofield/mpath).
 
 | external_xref               |   usages_count | usages                                                                                                                                                                                                                                         |
 |-----------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -11,14 +11,14 @@ xrefs to external prefixed with `NCBITaxon` (standardized to Bioregistry
 prefix [`ncbitaxon`](https://bioregistry.io/ncbitaxon)) that
 did not match the standard pattern `^\d+$`.
 
-| external_xref       |   usages_count | usages                                            |
-|---------------------|----------------|---------------------------------------------------|
-| `NCBITaxon:class`   |              1 | [TTO:class](https://bioregistry.io/TTO:class)     |
-| `NCBITaxon:family`  |              1 | [TTO:family](https://bioregistry.io/TTO:family)   |
-| `NCBITaxon:genus`   |              1 | [TTO:genus](https://bioregistry.io/TTO:genus)     |
-| `NCBITaxon:order`   |              1 | [TTO:order](https://bioregistry.io/TTO:order)     |
-| `NCBITaxon:phylum`  |              1 | [TTO:phylum](https://bioregistry.io/TTO:phylum)   |
-| `NCBITaxon:species` |              1 | [TTO:species](https://bioregistry.io/TTO:species) |
+| external_xref                        |   usages_count | usages                                            |
+|--------------------------------------|----------------|---------------------------------------------------|
+| `NCBITaxon:('NCBITaxon', 'class')`   |              1 | [TTO:class](https://bioregistry.io/TTO:class)     |
+| `NCBITaxon:('NCBITaxon', 'family')`  |              1 | [TTO:family](https://bioregistry.io/TTO:family)   |
+| `NCBITaxon:('NCBITaxon', 'genus')`   |              1 | [TTO:genus](https://bioregistry.io/TTO:genus)     |
+| `NCBITaxon:('NCBITaxon', 'order')`   |              1 | [TTO:order](https://bioregistry.io/TTO:order)     |
+| `NCBITaxon:('NCBITaxon', 'phylum')`  |              1 | [TTO:phylum](https://bioregistry.io/TTO:phylum)   |
+| `NCBITaxon:('NCBITaxon', 'species')` |              1 | [TTO:species](https://bioregistry.io/TTO:species) |
 
 ## `TTO`: Teleost taxonomy ontology
 
@@ -27,8 +27,8 @@ xrefs to external prefixed with `TTO` (standardized to Bioregistry
 prefix [`tto`](https://bioregistry.io/tto)) that
 did not match the standard pattern `^\d+$`.
 
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                 |
-|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `TTO:curator`   |             42 | [TTO:10000676](https://bioregistry.io/TTO:10000676), [TTO:10000677](https://bioregistry.io/TTO:10000677), [TTO:1001317](https://bioregistry.io/TTO:1001317), [TTO:1002747](https://bioregistry.io/TTO:1002747), [TTO:1003391](https://bioregistry.io/TTO:1003391), ... |
-| `TTO:PEM`       |              1 | [TTO:1007547](https://bioregistry.io/TTO:1007547)                                                                                                                                                                                                                      |
+| external_xref            |   usages_count | usages                                                                                                                                                                                                                                                                 |
+|--------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `TTO:('TTO', 'curator')` |             42 | [TTO:10000676](https://bioregistry.io/TTO:10000676), [TTO:10000677](https://bioregistry.io/TTO:10000677), [TTO:1001317](https://bioregistry.io/TTO:1001317), [TTO:1002747](https://bioregistry.io/TTO:1002747), [TTO:1003391](https://bioregistry.io/TTO:1003391), ... |
+| `TTO:('TTO', 'PEM')`     |              1 | [TTO:1007547](https://bioregistry.io/TTO:1007547)                                                                                                                                                                                                                      |
 

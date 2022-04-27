@@ -1,13 +1,13 @@
-# po: Plant Ontology
+# [`po`](https://bioregistry.io/po): Plant Ontology
 
 This page summarize the different resources that reference `po`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 3 resources,
+`^\d+$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['PO'].
 
 ## `peco`: Plant Experimental Conditions Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `peco`.
+Identifiers for this prefix are given incorrectly in `peco`. See the [GitHub repository](https://github.com/Planteome/plant-experimental-conditions-ontology).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `peco`.
 
 ## `po`: Plant Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `po`.
+Identifiers for this prefix are given incorrectly in `po`. See the [GitHub repository](https://github.com/Planteome/plant-ontology).
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                                                   |
 |--------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,7 +28,7 @@ Identifiers for this prefix are given incorrectly correctly in `po`.
 
 ## `to`: Plant Trait Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `to`.
+Identifiers for this prefix are given incorrectly in `to`. See the [GitHub repository](https://github.com/Planteome/plant-trait-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|

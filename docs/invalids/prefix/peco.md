@@ -1,13 +1,13 @@
-# peco: Plant Experimental Conditions Ontology
+# [`peco`](https://bioregistry.io/peco): Plant Experimental Conditions Ontology
 
 This page summarize the different resources that reference `peco`
 but use local unique identifiers that do not match the standard pattern of
-^\d{7}$. Of the 1 resources,
+`^\d{7}$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['PECO'].
 
 ## `peco`: Plant Experimental Conditions Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `peco`.
+Identifiers for this prefix are given incorrectly in `peco`. See the [GitHub repository](https://github.com/Planteome/plant-experimental-conditions-ontology).
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

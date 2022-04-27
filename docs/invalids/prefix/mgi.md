@@ -1,13 +1,13 @@
-# mgi: Mouse Genome Informatics
+# [`mgi`](https://bioregistry.io/mgi): Mouse Genome Informatics
 
 This page summarize the different resources that reference `mgi`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 9 resources,
+`^\d+$`. Of the 9 resources,
 3 variants on the standard prefix were found: ['MGD', 'MGI', 'mgi'].
 
 ## `bto`: BRENDA tissue / enzyme source
 
-Identifiers for this prefix are given incorrectly correctly in `bto`.
+Identifiers for this prefix are given incorrectly in `bto`. See the [GitHub repository](https://github.com/BRENDA-Enzymes/BTO).
 
 | external_xref                                              |   usages_count | usages                                            |
 |------------------------------------------------------------|----------------|---------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `bto`.
 
 ## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cco`.
+Identifiers for this prefix are given incorrectly in `cco`.
 
 | external_xref     |   usages_count | usages                                                          |
 |-------------------|----------------|-----------------------------------------------------------------|
@@ -13402,7 +13402,7 @@ Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 ## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `enm`.
+Identifiers for this prefix are given incorrectly in `enm`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -13410,7 +13410,7 @@ Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 ## `go`: Gene Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `go`.
+Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -13418,7 +13418,7 @@ Identifiers for this prefix are given incorrectly correctly in `go`.
 
 ## `lpt`: Livestock Product Trait Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `lpt`.
+Identifiers for this prefix are given incorrectly in `lpt`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                     |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13427,7 +13427,7 @@ Identifiers for this prefix are given incorrectly correctly in `lpt`.
 
 ## `mp`: Mammalian Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mp`.
+Identifiers for this prefix are given incorrectly in `mp`. See the [GitHub repository](https://github.com/mgijax/mammalian-phenotype-ontology).
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13479,7 +13479,7 @@ Identifiers for this prefix are given incorrectly correctly in `mp`.
 
 ## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given incorrectly correctly in `so`.
+Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -13488,7 +13488,7 @@ Identifiers for this prefix are given incorrectly correctly in `so`.
 
 ## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `uberon`.
+Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13509,7 +13509,7 @@ Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 ## `vt`: Vertebrate trait ontology
 
-Identifiers for this prefix are given incorrectly correctly in `vt`.
+Identifiers for this prefix are given incorrectly in `vt`. See the [GitHub repository](https://github.com/AnimalGenome/vertebrate-trait-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

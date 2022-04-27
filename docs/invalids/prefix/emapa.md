@@ -1,13 +1,13 @@
-# emapa: Mouse Developmental Anatomy Ontology
+# [`emapa`](https://bioregistry.io/emapa): Mouse Developmental Anatomy Ontology
 
 This page summarize the different resources that reference `emapa`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 2 resources,
+`^\d+$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['EMAPA'].
 
 ## `mmusdv`: Mouse Developmental Stages
 
-Identifiers for this prefix are given incorrectly correctly in `mmusdv`.
+Identifiers for this prefix are given incorrectly in `mmusdv`. See the [GitHub repository](https://github.com/obophenotype/developmental-stage-ontologies).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                    |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ Identifiers for this prefix are given incorrectly correctly in `mmusdv`.
 
 ## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `uberon`.
+Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|

@@ -1,13 +1,13 @@
-# omim.ps: OMIM Phenotypic Series
+# [`omim.ps`](https://bioregistry.io/omim.ps): OMIM Phenotypic Series
 
 This page summarize the different resources that reference `omim.ps`
 but use local unique identifiers that do not match the standard pattern of
-^PS\d+$. Of the 3 resources,
+`^PS\d+$`. Of the 3 resources,
 2 variants on the standard prefix were found: ['OMIMPS', 'PS'].
 
 ## `diseaseclass`: Disease Class
 
-Identifiers for this prefix are given incorrectly correctly in `diseaseclass`.
+Identifiers for this prefix are given incorrectly in `diseaseclass`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -106,7 +106,7 @@ Identifiers for this prefix are given incorrectly correctly in `diseaseclass`.
 
 ## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `efo`.
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -154,7 +154,7 @@ Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 ## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mondo`.
+Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub repository](https://github.com/monarch-initiative/mondo).
 
 | external_xref   |   usages_count | usages                                                                                                                                                              |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|

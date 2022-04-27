@@ -1,13 +1,13 @@
-# umbbd.pathway: EAWAG Biocatalysis/Biodegradation Database
+# [`umbbd.pathway`](https://bioregistry.io/umbbd.pathway): EAWAG Biocatalysis/Biodegradation Database
 
 This page summarize the different resources that reference `umbbd.pathway`
 but use local unique identifiers that do not match the standard pattern of
-^\w+$. Of the 1 resources,
+`^\w+$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['UM-BBD_pathwayID'].
 
 ## `go`: Gene Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `go`.
+Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 | external_xref              |   usages_count | usages                                                                                           |
 |----------------------------|----------------|--------------------------------------------------------------------------------------------------|

@@ -1,13 +1,13 @@
-# vfb: Virtual Fly Brain
+# [`vfb`](https://bioregistry.io/vfb): Virtual Fly Brain
 
 This page summarize the different resources that reference `vfb`
 but use local unique identifiers that do not match the standard pattern of
-^[0-9a-zA-Z]{8}$. Of the 1 resources,
+`^[0-9a-zA-Z]{8}$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['VFB'].
 
 ## `fbbt`: Drosophila gross anatomy
 
-Identifiers for this prefix are given incorrectly correctly in `fbbt`.
+Identifiers for this prefix are given incorrectly in `fbbt`. See the [GitHub repository](https://github.com/FlyBase/drosophila-anatomy-developmental-ontology).
 
 | external_xref       |   usages_count | usages                                                                                                       |
 |---------------------|----------------|--------------------------------------------------------------------------------------------------------------|

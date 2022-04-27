@@ -1,13 +1,13 @@
-# go: Gene Ontology
+# [`go`](https://bioregistry.io/go): Gene Ontology
 
 This page summarize the different resources that reference `go`
 but use local unique identifiers that do not match the standard pattern of
-^\d{7}$. Of the 16 resources,
+`^\d{7}$`. Of the 16 resources,
 1 variants on the standard prefix were found: ['GO'].
 
 ## `aeo`: Anatomical Entity Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `aeo`.
+Identifiers for this prefix are given incorrectly in `aeo`. See the [GitHub repository](https://github.com/obophenotype/human-developmental-anatomy-ontology).
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `aeo`.
 
 ## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cco`.
+Identifiers for this prefix are given incorrectly in `cco`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -27,7 +27,7 @@ Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 ## `cl`: Cell Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cl`.
+Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -36,7 +36,7 @@ Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 ## `cmpo`: Cellular Microscopy Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cmpo`.
+Identifiers for this prefix are given incorrectly in `cmpo`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -44,7 +44,7 @@ Identifiers for this prefix are given incorrectly correctly in `cmpo`.
 
 ## `eco`: Evidence ontology
 
-Identifiers for this prefix are given incorrectly correctly in `eco`.
+Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                  |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -54,7 +54,7 @@ Identifiers for this prefix are given incorrectly correctly in `eco`.
 
 ## `fypo`: Fission Yeast Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `fypo`.
+Identifiers for this prefix are given incorrectly in `fypo`. See the [GitHub repository](https://github.com/pombase/fypo).
 
 | external_xref            |   usages_count | usages                                                                                                                                                        |
 |--------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -66,7 +66,7 @@ Identifiers for this prefix are given incorrectly correctly in `fypo`.
 
 ## `go`: Gene Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `go`.
+Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -86,7 +86,7 @@ Identifiers for this prefix are given incorrectly correctly in `go`.
 
 ## `mi`: Molecular Interactions Controlled Vocabulary
 
-Identifiers for this prefix are given incorrectly correctly in `mi`.
+Identifiers for this prefix are given incorrectly in `mi`. See the [GitHub repository](https://github.com/HUPO-PSI/psi-mi-CV).
 
 | external_xref   |   usages_count | usages                                                                               |
 |-----------------|----------------|--------------------------------------------------------------------------------------|
@@ -98,7 +98,7 @@ Identifiers for this prefix are given incorrectly correctly in `mi`.
 
 ## `mp`: Mammalian Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mp`.
+Identifiers for this prefix are given incorrectly in `mp`. See the [GitHub repository](https://github.com/mgijax/mammalian-phenotype-ontology).
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -106,7 +106,7 @@ Identifiers for this prefix are given incorrectly correctly in `mp`.
 
 ## `omp`: Ontology of Microbial Phenotypes
 
-Identifiers for this prefix are given incorrectly correctly in `omp`.
+Identifiers for this prefix are given incorrectly in `omp`. See the [GitHub repository](https://github.com/microbialphenotypes/OMP-ontology).
 
 | external_xref   |   usages_count | usages                                                                                               |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -120,7 +120,7 @@ Identifiers for this prefix are given incorrectly correctly in `omp`.
 
 ## `pato`: Phenotype And Trait Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `pato`.
+Identifiers for this prefix are given incorrectly in `pato`. See the [GitHub repository](https://github.com/pato-ontology/pato).
 
 | external_xref   |   usages_count | usages                                                                                                                                                        |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -128,7 +128,7 @@ Identifiers for this prefix are given incorrectly correctly in `pato`.
 
 ## `pw`: Pathway ontology
 
-Identifiers for this prefix are given incorrectly correctly in `pw`.
+Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
 
 | external_xref        |   usages_count | usages                                          |
 |----------------------|----------------|-------------------------------------------------|
@@ -139,7 +139,7 @@ Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 ## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given incorrectly correctly in `so`.
+Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -147,7 +147,7 @@ Identifiers for this prefix are given incorrectly correctly in `so`.
 
 ## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `uberon`.
+Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
 
 | external_xref   |   usages_count | usages                                                                                                           |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
@@ -156,7 +156,7 @@ Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 ## `vsao`: Vertebrate Skeletal Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `vsao`.
+Identifiers for this prefix are given incorrectly in `vsao`.
 
 | external_xref                         |   usages_count | usages                                              |
 |---------------------------------------|----------------|-----------------------------------------------------|
@@ -165,7 +165,7 @@ Identifiers for this prefix are given incorrectly correctly in `vsao`.
 
 ## `zfa`: Zebrafish anatomy and development ontology
 
-Identifiers for this prefix are given incorrectly correctly in `zfa`.
+Identifiers for this prefix are given incorrectly in `zfa`. See the [GitHub repository](https://github.com/cerivs/zebrafish-anatomical-ontology).
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|

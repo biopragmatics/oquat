@@ -1,13 +1,13 @@
-# neurolex: NeuroLex
+# [`neurolex`](https://bioregistry.io/neurolex): NeuroLex
 
 This page summarize the different resources that reference `neurolex`
 but use local unique identifiers that do not match the standard pattern of
-^([Bb]irnlex_|Sao|nlx_|GO_|CogPO|HDO|nifext_)\d+$. Of the 1 resources,
+`^([Bb]irnlex_|Sao|nlx_|GO_|CogPO|HDO|nifext_)\d+$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['neurolex'].
 
 ## `pato`: Phenotype And Trait Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `pato`.
+Identifiers for this prefix are given incorrectly in `pato`. See the [GitHub repository](https://github.com/pato-ontology/pato).
 
 | external_xref                                                           |   usages_count | usages                                              |
 |-------------------------------------------------------------------------|----------------|-----------------------------------------------------|

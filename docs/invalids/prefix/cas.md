@@ -1,13 +1,13 @@
-# cas: CAS Chemical Registry
+# [`cas`](https://bioregistry.io/cas): CAS Chemical Registry
 
 This page summarize the different resources that reference `cas`
 but use local unique identifiers that do not match the standard pattern of
-^\d{1,7}\-\d{2}\-\d$. Of the 4 resources,
+`^\d{1,7}\-\d{2}\-\d$`. Of the 4 resources,
 1 variants on the standard prefix were found: ['CAS'].
 
 ## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given incorrectly correctly in `chebi`.
+Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub repository](https://github.com/ebi-chebi/ChEBI).
 
 | external_xref    |   usages_count | usages                                              |
 |------------------|----------------|-----------------------------------------------------|
@@ -19,7 +19,7 @@ Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 ## `miro`: Mosquito insecticide resistance
 
-Identifiers for this prefix are given incorrectly correctly in `miro`.
+Identifiers for this prefix are given incorrectly in `miro`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/MIRO).
 
 | external_xref                                                                           |   usages_count | usages                                                |
 |-----------------------------------------------------------------------------------------|----------------|-------------------------------------------------------|
@@ -27,7 +27,7 @@ Identifiers for this prefix are given incorrectly correctly in `miro`.
 
 ## `peco`: Plant Experimental Conditions Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `peco`.
+Identifiers for this prefix are given incorrectly in `peco`. See the [GitHub repository](https://github.com/Planteome/plant-experimental-conditions-ontology).
 
 | external_xref      |   usages_count | usages                                                                                                   |
 |--------------------|----------------|----------------------------------------------------------------------------------------------------------|
@@ -98,7 +98,7 @@ Identifiers for this prefix are given incorrectly correctly in `peco`.
 
 ## `xlmod`: HUPO-PSI cross-linking and derivatization reagents controlled vocabulary
 
-Identifiers for this prefix are given incorrectly correctly in `xlmod`.
+Identifiers for this prefix are given incorrectly in `xlmod`. See the [GitHub repository](https://github.com/HUPO-PSI/xlmod-CV).
 
 | external_xref                               |   usages_count | usages                                            |
 |---------------------------------------------|----------------|---------------------------------------------------|

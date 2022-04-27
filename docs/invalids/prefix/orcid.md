@@ -1,13 +1,13 @@
-# orcid: Open Researcher and Contributor
+# [`orcid`](https://bioregistry.io/orcid): Open Researcher and Contributor
 
 This page summarize the different resources that reference `orcid`
 but use local unique identifiers that do not match the standard pattern of
-^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$. Of the 3 resources,
+`^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`. Of the 3 resources,
 2 variants on the standard prefix were found: ['ORCID', 'ORCiD'].
 
 ## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `hp`.
+Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repository](https://github.com/obophenotype/human-phenotype-ontology).
 
 | external_xref              |   usages_count | usages                                          |
 |----------------------------|----------------|-------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 ## `mp`: Mammalian Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mp`.
+Identifiers for this prefix are given incorrectly in `mp`. See the [GitHub repository](https://github.com/mgijax/mammalian-phenotype-ontology).
 
 | external_xref                         |   usages_count | usages                                                                                                                                                                                                                                                   |
 |---------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,7 +28,7 @@ Identifiers for this prefix are given incorrectly correctly in `mp`.
 
 ## `zfa`: Zebrafish anatomy and development ontology
 
-Identifiers for this prefix are given incorrectly correctly in `zfa`.
+Identifiers for this prefix are given incorrectly in `zfa`. See the [GitHub repository](https://github.com/cerivs/zebrafish-anatomical-ontology).
 
 | external_xref                |   usages_count | usages                                            |
 |------------------------------|----------------|---------------------------------------------------|

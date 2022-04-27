@@ -1,13 +1,13 @@
-# ncit: NCI Thesaurus
+# [`ncit`](https://bioregistry.io/ncit): NCI Thesaurus
 
 This page summarize the different resources that reference `ncit`
 but use local unique identifiers that do not match the standard pattern of
-^C\d+$. Of the 14 resources,
+`^C\d+$`. Of the 14 resources,
 6 variants on the standard prefix were found: ['NCI', 'NCI Thesaurus', 'NCIT', 'NCI_Thesaurus', 'NCIt', 'ncithesaurus'].
 
 ## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `bao`.
+Identifiers for this prefix are given incorrectly in `bao`.
 
 | external_xref                      |   usages_count | usages                                                  |
 |------------------------------------|----------------|---------------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `bao`.
 
 ## `cl`: Cell Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cl`.
+Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
 
 | external_xref                                   |   usages_count | usages                                          |
 |-------------------------------------------------|----------------|-------------------------------------------------|
@@ -27,7 +27,7 @@ Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 ## `doid`: Human Disease Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `doid`.
+Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub repository](https://github.com/DiseaseOntology/HumanDiseaseOntology).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -35,7 +35,7 @@ Identifiers for this prefix are given incorrectly correctly in `doid`.
 
 ## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `efo`.
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -45,7 +45,7 @@ Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 ## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `hp`.
+Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repository](https://github.com/obophenotype/human-phenotype-ontology).
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -53,7 +53,7 @@ Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 ## `idomal`: Malaria Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `idomal`.
+Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/IDOMAL).
 
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|
@@ -61,7 +61,7 @@ Identifiers for this prefix are given incorrectly correctly in `idomal`.
 
 ## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mondo`.
+Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub repository](https://github.com/monarch-initiative/mondo).
 
 | external_xref           |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -74,7 +74,7 @@ Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 ## `mp`: Mammalian Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mp`.
+Identifiers for this prefix are given incorrectly in `mp`. See the [GitHub repository](https://github.com/mgijax/mammalian-phenotype-ontology).
 
 | external_xref    |   usages_count | usages                                          |
 |------------------|----------------|-------------------------------------------------|
@@ -82,7 +82,7 @@ Identifiers for this prefix are given incorrectly correctly in `mp`.
 
 ## `plana`: Planarian Anatomy and Schmidtea mediterranean Developmental Stage Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `plana`.
+Identifiers for this prefix are given incorrectly in `plana`. See the [GitHub repository](https://github.com/obophenotype/planaria-ontology).
 
 | external_xref                 |   usages_count | usages                                                |
 |-------------------------------|----------------|-------------------------------------------------------|
@@ -90,7 +90,7 @@ Identifiers for this prefix are given incorrectly correctly in `plana`.
 
 ## `pw`: Pathway ontology
 
-Identifiers for this prefix are given incorrectly correctly in `pw`.
+Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
 
 | external_xref               |   usages_count | usages                                                                                           |
 |-----------------------------|----------------|--------------------------------------------------------------------------------------------------|
@@ -100,7 +100,7 @@ Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 ## `rdo`: RGD Disease_Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `rdo`.
+Identifiers for this prefix are given incorrectly in `rdo`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -108,7 +108,7 @@ Identifiers for this prefix are given incorrectly correctly in `rdo`.
 
 ## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `uberon`.
+Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
 
 | external_xref                                                 |   usages_count | usages                                                                                                           |
 |---------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------|
@@ -343,7 +343,7 @@ Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 ## `xao`: Xenopus Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `xao`.
+Identifiers for this prefix are given incorrectly in `xao`. See the [GitHub repository](https://github.com/xenopus-anatomy/xao).
 
 | external_xref                  |   usages_count | usages                                            |
 |--------------------------------|----------------|---------------------------------------------------|
@@ -365,7 +365,7 @@ Identifiers for this prefix are given incorrectly correctly in `xao`.
 
 ## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given incorrectly correctly in `xco`.
+Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
 
 | external_xref                                                                                                           |   usages_count | usages                                            |
 |-------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------|

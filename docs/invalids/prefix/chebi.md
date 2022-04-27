@@ -1,13 +1,13 @@
-# chebi: Chemical Entities of Biological Interest
+# [`chebi`](https://bioregistry.io/chebi): Chemical Entities of Biological Interest
 
 This page summarize the different resources that reference `chebi`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 4 resources,
+`^\d+$`. Of the 4 resources,
 1 variants on the standard prefix were found: ['CHEBI'].
 
 ## `chmo`: Chemical Methods Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `chmo`.
+Identifiers for this prefix are given incorrectly in `chmo`. See the [GitHub repository](https://github.com/rsc-ontologies/rsc-cmo).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `chmo`.
 
 ## `omp`: Ontology of Microbial Phenotypes
 
-Identifiers for this prefix are given incorrectly correctly in `omp`.
+Identifiers for this prefix are given incorrectly in `omp`. See the [GitHub repository](https://github.com/microbialphenotypes/OMP-ontology).
 
 | external_xref       |   usages_count | usages                                            |
 |---------------------|----------------|---------------------------------------------------|
@@ -24,7 +24,7 @@ Identifiers for this prefix are given incorrectly correctly in `omp`.
 
 ## `pride`: PRIDE Controlled Vocabulary
 
-Identifiers for this prefix are given incorrectly correctly in `pride`.
+Identifiers for this prefix are given incorrectly in `pride`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -32,7 +32,7 @@ Identifiers for this prefix are given incorrectly correctly in `pride`.
 
 ## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given incorrectly correctly in `xco`.
+Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
 
 | external_xref        |   usages_count | usages                                            |
 |----------------------|----------------|---------------------------------------------------|

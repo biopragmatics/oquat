@@ -11,7 +11,7 @@ xrefs to external prefixed with `FMA` (standardized to Bioregistry
 prefix [`fma`](https://bioregistry.io/fma)) that
 did not match the standard pattern `^\d+$`.
 
-| external_xref   |   usages_count | usages                                              |
-|-----------------|----------------|-----------------------------------------------------|
-| `FMA:C34070`    |              1 | [CLAO:0001186](https://bioregistry.io/CLAO:0001186) |
+| external_xref           |   usages_count | usages                                              |
+|-------------------------|----------------|-----------------------------------------------------|
+| `FMA:('FMA', 'C34070')` |              1 | [CLAO:0001186](https://bioregistry.io/CLAO:0001186) |
 

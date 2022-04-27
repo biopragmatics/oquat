@@ -1,13 +1,13 @@
-# issn: International Standard Serial Number
+# [`issn`](https://bioregistry.io/issn): International Standard Serial Number
 
 This page summarize the different resources that reference `issn`
 but use local unique identifiers that do not match the standard pattern of
-^\d{4}-\d{3}[\dX]$. Of the 5 resources,
+`^\d{4}-\d{3}[\dX]$`. Of the 5 resources,
 1 variants on the standard prefix were found: ['ISSN'].
 
 ## `bto`: BRENDA tissue / enzyme source
 
-Identifiers for this prefix are given incorrectly correctly in `bto`.
+Identifiers for this prefix are given incorrectly in `bto`. See the [GitHub repository](https://github.com/BRENDA-Enzymes/BTO).
 
 | external_xref                                                          |   usages_count | usages                                            |
 |------------------------------------------------------------------------|----------------|---------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `bto`.
 
 ## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cco`.
+Identifiers for this prefix are given incorrectly in `cco`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -25,7 +25,7 @@ Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 ## `go`: Gene Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `go`.
+Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -34,7 +34,7 @@ Identifiers for this prefix are given incorrectly correctly in `go`.
 
 ## `tads`: Tick Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `tads`.
+Identifiers for this prefix are given incorrectly in `tads`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/TADS).
 
 | external_xref                                   |   usages_count | usages                                              |
 |-------------------------------------------------|----------------|-----------------------------------------------------|
@@ -47,7 +47,7 @@ Identifiers for this prefix are given incorrectly correctly in `tads`.
 
 ## `tgma`: Mosquito gross anatomy ontology
 
-Identifiers for this prefix are given incorrectly correctly in `tgma`.
+Identifiers for this prefix are given incorrectly in `tgma`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/TGMA).
 
 | external_xref     |   usages_count | usages                                              |
 |-------------------|----------------|-----------------------------------------------------|

@@ -1,13 +1,13 @@
-# icdo: International Classification of Diseases for Oncology
+# [`icdo`](https://bioregistry.io/icdo): International Classification of Diseases for Oncology
 
 This page summarize the different resources that reference `icdo`
 but use local unique identifiers that do not match the standard pattern of
-^[8-9]\d{3}(/[0-3])?$. Of the 7 resources,
+`^[8-9]\d{3}(/[0-3])?$`. Of the 7 resources,
 2 variants on the standard prefix were found: ['ICD-O', 'ICDO'].
 
 ## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `bao`.
+Identifiers for this prefix are given incorrectly in `bao`.
 
 | external_xref   |   usages_count | usages                                        |
 |-----------------|----------------|-----------------------------------------------|
@@ -22,7 +22,7 @@ Identifiers for this prefix are given incorrectly correctly in `bao`.
 
 ## `doid`: Human Disease Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `doid`.
+Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub repository](https://github.com/DiseaseOntology/HumanDiseaseOntology).
 
 | external_xref   |   usages_count | usages                                        |
 |-----------------|----------------|-----------------------------------------------|
@@ -31,7 +31,7 @@ Identifiers for this prefix are given incorrectly correctly in `doid`.
 
 ## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `efo`.
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 ## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `hp`.
+Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repository](https://github.com/obophenotype/human-phenotype-ontology).
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -51,7 +51,7 @@ Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 ## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mondo`.
+Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub repository](https://github.com/monarch-initiative/mondo).
 
 | external_xref   |   usages_count | usages                                                                                                                                                              |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -65,7 +65,7 @@ Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 ## `mpath`: Mouse pathology ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mpath`.
+Identifiers for this prefix are given incorrectly in `mpath`. See the [GitHub repository](https://github.com/PaulNSchofield/mpath).
 
 | external_xref    |   usages_count | usages                                        |
 |------------------|----------------|-----------------------------------------------|
@@ -74,7 +74,7 @@ Identifiers for this prefix are given incorrectly correctly in `mpath`.
 
 ## `rdo`: RGD Disease_Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `rdo`.
+Identifiers for this prefix are given incorrectly in `rdo`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

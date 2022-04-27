@@ -1,13 +1,13 @@
-# gmelin: Gmelins Handbuch der anorganischen Chemie
+# [`gmelin`](https://bioregistry.io/gmelin): Gmelins Handbuch der anorganischen Chemie
 
 This page summarize the different resources that reference `gmelin`
 but use local unique identifiers that do not match the standard pattern of
-^[1-9][0-9]{3,6}$. Of the 3 resources,
+`^[1-9][0-9]{3,6}$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['Gmelin'].
 
 ## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given incorrectly correctly in `chebi`.
+Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub repository](https://github.com/ebi-chebi/ChEBI).
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -184,7 +184,7 @@ Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 ## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `enm`.
+Identifiers for this prefix are given incorrectly in `enm`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -192,7 +192,7 @@ Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 ## `msio`: Metabolomics Standards Initiative Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `msio`.
+Identifiers for this prefix are given incorrectly in `msio`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|

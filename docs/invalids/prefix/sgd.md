@@ -1,13 +1,13 @@
-# sgd: Saccharomyces Genome Database
+# [`sgd`](https://bioregistry.io/sgd): Saccharomyces Genome Database
 
 This page summarize the different resources that reference `sgd`
 but use local unique identifiers that do not match the standard pattern of
-^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$. Of the 6 resources,
+`^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`. Of the 6 resources,
 1 variants on the standard prefix were found: ['SGD'].
 
 ## `apo`: Ascomycete phenotype ontology
 
-Identifiers for this prefix are given incorrectly correctly in `apo`.
+Identifiers for this prefix are given incorrectly in `apo`. See the [GitHub repository](https://github.com/obophenotype/ascomycete-phenotype-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -19,7 +19,7 @@ Identifiers for this prefix are given incorrectly correctly in `apo`.
 
 ## `cl`: Cell Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cl`.
+Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -27,7 +27,7 @@ Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 ## `fao`: Fungal gross anatomy
 
-Identifiers for this prefix are given incorrectly correctly in `fao`.
+Identifiers for this prefix are given incorrectly in `fao`. See the [GitHub repository](https://github.com/obophenotype/fungal-anatomy-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -35,7 +35,7 @@ Identifiers for this prefix are given incorrectly correctly in `fao`.
 
 ## `fypo`: Fission Yeast Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `fypo`.
+Identifiers for this prefix are given incorrectly in `fypo`. See the [GitHub repository](https://github.com/pombase/fypo).
 
 | external_xref              |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |----------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -43,7 +43,7 @@ Identifiers for this prefix are given incorrectly correctly in `fypo`.
 
 ## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given incorrectly correctly in `so`.
+Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -53,7 +53,7 @@ Identifiers for this prefix are given incorrectly correctly in `so`.
 
 ## `vario`: Variation Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `vario`.
+Identifiers for this prefix are given incorrectly in `vario`.
 
 | external_xref   |   usages_count | usages                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------|

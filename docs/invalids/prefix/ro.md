@@ -1,13 +1,13 @@
-# ro: Relation Ontology
+# [`ro`](https://bioregistry.io/ro): Relation Ontology
 
 This page summarize the different resources that reference `ro`
 but use local unique identifiers that do not match the standard pattern of
-^\d{7}$. Of the 6 resources,
+`^\d{7}$`. Of the 6 resources,
 3 variants on the standard prefix were found: ['OBO_REL', 'RO', 'RO_proposed_relation'].
 
 ## `cmpo`: Cellular Microscopy Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cmpo`.
+Identifiers for this prefix are given incorrectly in `cmpo`.
 
 | external_xref        |   usages_count | usages                                              |
 |----------------------|----------------|-----------------------------------------------------|
@@ -17,7 +17,7 @@ Identifiers for this prefix are given incorrectly correctly in `cmpo`.
 
 ## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `enm`.
+Identifiers for this prefix are given incorrectly in `enm`.
 
 | external_xref      |   usages_count | usages                                              |
 |--------------------|----------------|-----------------------------------------------------|
@@ -25,7 +25,7 @@ Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 ## `hom`: Homology Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `hom`.
+Identifiers for this prefix are given incorrectly in `hom`. See the [GitHub repository](https://github.com/BgeeDB/homology-ontology).
 
 | external_xref                        |   usages_count | usages                                            |
 |--------------------------------------|----------------|---------------------------------------------------|
@@ -33,7 +33,7 @@ Identifiers for this prefix are given incorrectly correctly in `hom`.
 
 ## `pato`: Phenotype And Trait Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `pato`.
+Identifiers for this prefix are given incorrectly in `pato`. See the [GitHub repository](https://github.com/pato-ontology/pato).
 
 | external_xref        |   usages_count | usages                                              |
 |----------------------|----------------|-----------------------------------------------------|
@@ -42,7 +42,7 @@ Identifiers for this prefix are given incorrectly correctly in `pato`.
 
 ## `ro`: Relation Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `ro`.
+Identifiers for this prefix are given incorrectly in `ro`. See the [GitHub repository](https://github.com/oborel/obo-relations).
 
 | external_xref                        |   usages_count | usages                                                |
 |--------------------------------------|----------------|-------------------------------------------------------|
@@ -51,7 +51,7 @@ Identifiers for this prefix are given incorrectly correctly in `ro`.
 
 ## `sdgio`: Sustainable Development Goals Interface Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `sdgio`.
+Identifiers for this prefix are given incorrectly in `sdgio`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

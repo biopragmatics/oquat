@@ -1,13 +1,13 @@
-# kegg: Kyoto Encyclopedia of Genes and Genomes
+# [`kegg`](https://bioregistry.io/kegg): Kyoto Encyclopedia of Genes and Genomes
 
 This page summarize the different resources that reference `kegg`
 but use local unique identifiers that do not match the standard pattern of
-^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$. Of the 7 resources,
+`^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`. Of the 7 resources,
 1 variants on the standard prefix were found: ['KEGG'].
 
 ## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `bao`.
+Identifiers for this prefix are given incorrectly in `bao`.
 
 | external_xref   |   usages_count | usages                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------|
@@ -47,7 +47,7 @@ Identifiers for this prefix are given incorrectly correctly in `bao`.
 
 ## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cco`.
+Identifiers for this prefix are given incorrectly in `cco`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -56,7 +56,7 @@ Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 ## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given incorrectly correctly in `chebi`.
+Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub repository](https://github.com/ebi-chebi/ChEBI).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -93,7 +93,7 @@ Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 ## `doid`: Human Disease Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `doid`.
+Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub repository](https://github.com/DiseaseOntology/HumanDiseaseOntology).
 
 | external_xref   |   usages_count | usages                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------|
@@ -134,7 +134,7 @@ Identifiers for this prefix are given incorrectly correctly in `doid`.
 
 ## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `efo`.
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -159,7 +159,7 @@ Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 ## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mondo`.
+Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub repository](https://github.com/monarch-initiative/mondo).
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|
@@ -200,7 +200,7 @@ Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 ## `pw`: Pathway ontology
 
-Identifiers for this prefix are given incorrectly correctly in `pw`.
+Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

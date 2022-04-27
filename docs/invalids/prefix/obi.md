@@ -1,13 +1,13 @@
-# obi: Ontology for Biomedical Investigations
+# [`obi`](https://bioregistry.io/obi): Ontology for Biomedical Investigations
 
 This page summarize the different resources that reference `obi`
 but use local unique identifiers that do not match the standard pattern of
-^\d{7}$. Of the 6 resources,
+`^\d{7}$`. Of the 6 resources,
 2 variants on the standard prefix were found: ['OBI', 'obi'].
 
 ## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `efo`.
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
 | external_xref     |   usages_count | usages                                                                                              |
 |-------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 ## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `enm`.
+Identifiers for this prefix are given incorrectly in `enm`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -23,7 +23,7 @@ Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 ## `geno`: Genotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `geno`.
+Identifiers for this prefix are given incorrectly in `geno`. See the [GitHub repository](https://github.com/monarch-initiative/GENO-ontology).
 
 | external_xref                                   |   usages_count | usages                                              |
 |-------------------------------------------------|----------------|-----------------------------------------------------|
@@ -31,7 +31,7 @@ Identifiers for this prefix are given incorrectly correctly in `geno`.
 
 ## `pato`: Phenotype And Trait Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `pato`.
+Identifiers for this prefix are given incorrectly in `pato`. See the [GitHub repository](https://github.com/pato-ontology/pato).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -39,7 +39,7 @@ Identifiers for this prefix are given incorrectly correctly in `pato`.
 
 ## `pride`: PRIDE Controlled Vocabulary
 
-Identifiers for this prefix are given incorrectly correctly in `pride`.
+Identifiers for this prefix are given incorrectly in `pride`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -62,7 +62,7 @@ Identifiers for this prefix are given incorrectly correctly in `pride`.
 
 ## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `uberon`.
+Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|

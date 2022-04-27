@@ -1,13 +1,13 @@
-# snomedct: SNOMED CT (International Edition)
+# [`snomedct`](https://bioregistry.io/snomedct): SNOMED CT (International Edition)
 
 This page summarize the different resources that reference `snomedct`
 but use local unique identifiers that do not match the standard pattern of
-^(\w+)?\d+$. Of the 2 resources,
+`^(\w+)?\d+$`. Of the 2 resources,
 2 variants on the standard prefix were found: ['SNOMED', 'SNOMEDCT'].
 
 ## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `efo`.
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
 | external_xref         |   usages_count | usages                                                                                              |
 |-----------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -17,7 +17,7 @@ Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 ## `omp`: Ontology of Microbial Phenotypes
 
-Identifiers for this prefix are given incorrectly correctly in `omp`.
+Identifiers for this prefix are given incorrectly in `omp`. See the [GitHub repository](https://github.com/microbialphenotypes/OMP-ontology).
 
 | external_xref      |   usages_count | usages                                            |
 |--------------------|----------------|---------------------------------------------------|

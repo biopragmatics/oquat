@@ -1,13 +1,13 @@
-# zfin: Zebrafish Information Network Gene
+# [`zfin`](https://bioregistry.io/zfin): Zebrafish Information Network Gene
 
 This page summarize the different resources that reference `zfin`
 but use local unique identifiers that do not match the standard pattern of
-^ZDB\-\w+\-\d+\-\d+$. Of the 9 resources,
+`^ZDB\-\w+\-\d+\-\d+$`. Of the 9 resources,
 2 variants on the standard prefix were found: ['ZFIN', 'zfin'].
 
 ## `cl`: Cell Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cl`.
+Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -16,7 +16,7 @@ Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 ## `go`: Gene Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `go`.
+Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -24,7 +24,7 @@ Identifiers for this prefix are given incorrectly correctly in `go`.
 
 ## `hog`: Homologous Organ Groups
 
-Identifiers for this prefix are given incorrectly correctly in `hog`.
+Identifiers for this prefix are given incorrectly in `hog`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -32,7 +32,7 @@ Identifiers for this prefix are given incorrectly correctly in `hog`.
 
 ## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given incorrectly correctly in `so`.
+Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ Identifiers for this prefix are given incorrectly correctly in `so`.
 
 ## `tao`: Teleost Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `tao`.
+Identifiers for this prefix are given incorrectly in `tao`.
 
 | external_xref    |   usages_count | usages                                                                                                                                                                                                                                                             |
 |------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -53,7 +53,7 @@ Identifiers for this prefix are given incorrectly correctly in `tao`.
 
 ## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `uberon`.
+Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
 
 | external_xref    |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -66,7 +66,7 @@ Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 ## `vhog`: Vertebrate Homologous Organ Group Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `vhog`.
+Identifiers for this prefix are given incorrectly in `vhog`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -74,7 +74,7 @@ Identifiers for this prefix are given incorrectly correctly in `vhog`.
 
 ## `vsao`: Vertebrate Skeletal Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `vsao`.
+Identifiers for this prefix are given incorrectly in `vsao`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                        |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -82,7 +82,7 @@ Identifiers for this prefix are given incorrectly correctly in `vsao`.
 
 ## `zfa`: Zebrafish anatomy and development ontology
 
-Identifiers for this prefix are given incorrectly correctly in `zfa`.
+Identifiers for this prefix are given incorrectly in `zfa`. See the [GitHub repository](https://github.com/cerivs/zebrafish-anatomical-ontology).
 
 | external_xref              |   usages_count | usages                                                                                                                                                                                                                                                             |
 |----------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

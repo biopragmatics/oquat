@@ -1,13 +1,13 @@
-# envo: Environment Ontology
+# [`envo`](https://bioregistry.io/envo): Environment Ontology
 
 This page summarize the different resources that reference `envo`
 but use local unique identifiers that do not match the standard pattern of
-^\d{7,8}$. Of the 3 resources,
+`^\d{7,8}$`. Of the 3 resources,
 2 variants on the standard prefix were found: ['ENVO', 'EnvO'].
 
 ## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `enm`.
+Identifiers for this prefix are given incorrectly in `enm`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 ## `envo`: Environment Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `envo`.
+Identifiers for this prefix are given incorrectly in `envo`. See the [GitHub repository](https://github.com/EnvironmentOntology/envo).
 
 | external_xref   |   usages_count | usages                                                                                                       |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -24,7 +24,7 @@ Identifiers for this prefix are given incorrectly correctly in `envo`.
 
 ## `pato`: Phenotype And Trait Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `pato`.
+Identifiers for this prefix are given incorrectly in `pato`. See the [GitHub repository](https://github.com/pato-ontology/pato).
 
 | external_xref   |   usages_count | usages                                                                                                                                                        |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,13 +1,13 @@
-# drugbank: DrugBank
+# [`drugbank`](https://bioregistry.io/drugbank): DrugBank
 
 This page summarize the different resources that reference `drugbank`
 but use local unique identifiers that do not match the standard pattern of
-^DB\d{5}$. Of the 2 resources,
+`^DB\d{5}$`. Of the 2 resources,
 4 variants on the standard prefix were found: ['DRUGBANK', 'DrugBank', 'Drugbank', 'drugbank'].
 
 ## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given incorrectly correctly in `chebi`.
+Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub repository](https://github.com/ebi-chebi/ChEBI).
 
 | external_xref           |   usages_count | usages                                              |
 |-------------------------|----------------|-----------------------------------------------------|
@@ -69,7 +69,7 @@ Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 ## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given incorrectly correctly in `xco`.
+Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
 
 | external_xref                                             |   usages_count | usages                                            |
 |-----------------------------------------------------------|----------------|---------------------------------------------------|

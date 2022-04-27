@@ -1,13 +1,13 @@
-# uniprot: UniProt Protein
+# [`uniprot`](https://bioregistry.io/uniprot): UniProt Protein
 
 This page summarize the different resources that reference `uniprot`
 but use local unique identifiers that do not match the standard pattern of
-^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$. Of the 3 resources,
+`^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$`. Of the 3 resources,
 2 variants on the standard prefix were found: ['UniProt', 'uniprot'].
 
 ## `bs`: Biosapiens Protein Feature Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `bs`.
+Identifiers for this prefix are given incorrectly in `bs`.
 
 | external_xref             |   usages_count | usages                                                                                                                                                                                                                                                   |
 |---------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -20,7 +20,7 @@ Identifiers for this prefix are given incorrectly correctly in `bs`.
 
 ## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given incorrectly correctly in `so`.
+Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
 
 | external_xref             |   usages_count | usages                                                                                                                                                                                                                                                   |
 |---------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -33,7 +33,7 @@ Identifiers for this prefix are given incorrectly correctly in `so`.
 
 ## `vario`: Variation Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `vario`.
+Identifiers for this prefix are given incorrectly in `vario`.
 
 | external_xref             |   usages_count | usages                                          |
 |---------------------------|----------------|-------------------------------------------------|

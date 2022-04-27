@@ -1,13 +1,13 @@
-# fma: Foundational Model of Anatomy
+# [`fma`](https://bioregistry.io/fma): Foundational Model of Anatomy
 
 This page summarize the different resources that reference `fma`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 2 resources,
+`^\d+$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['FMA'].
 
 ## `clao`: Collembola Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `clao`.
+Identifiers for this prefix are given incorrectly in `clao`. See the [GitHub repository](https://github.com/luis-gonzalez-m/Collembola).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `clao`.
 
 ## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `uberon`.
+Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

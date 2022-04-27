@@ -1,13 +1,13 @@
-# flybase: FlyBase Gene
+# [`flybase`](https://bioregistry.io/flybase): FlyBase Gene
 
 This page summarize the different resources that reference `flybase`
 but use local unique identifiers that do not match the standard pattern of
-^FB\w{2}\d{7}$. Of the 5 resources,
+`^FB\w{2}\d{7}$`. Of the 5 resources,
 3 variants on the standard prefix were found: ['FB', 'FlyBase', 'Flybase'].
 
 ## `bto`: BRENDA tissue / enzyme source
 
-Identifiers for this prefix are given incorrectly correctly in `bto`.
+Identifiers for this prefix are given incorrectly in `bto`. See the [GitHub repository](https://github.com/BRENDA-Enzymes/BTO).
 
 | external_xref                                                                               |   usages_count | usages                                            |
 |---------------------------------------------------------------------------------------------|----------------|---------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `bto`.
 
 ## `cl`: Cell Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cl`.
+Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -25,7 +25,7 @@ Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 ## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given incorrectly correctly in `so`.
+Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,7 +39,7 @@ Identifiers for this prefix are given incorrectly correctly in `so`.
 
 ## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `uberon`.
+Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
 
 | external_xref              |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |----------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -49,7 +49,7 @@ Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 ## `zfa`: Zebrafish anatomy and development ontology
 
-Identifiers for this prefix are given incorrectly correctly in `zfa`.
+Identifiers for this prefix are given incorrectly in `zfa`. See the [GitHub repository](https://github.com/cerivs/zebrafish-anatomical-ontology).
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|

@@ -1,13 +1,13 @@
-# pride: PRIDE Controlled Vocabulary
+# [`pride`](https://bioregistry.io/pride): PRIDE Controlled Vocabulary
 
 This page summarize the different resources that reference `pride`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 1 resources,
+`^\d+$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['PRIDE'].
 
 ## `pride`: PRIDE Controlled Vocabulary
 
-Identifiers for this prefix are given incorrectly correctly in `pride`.
+Identifiers for this prefix are given incorrectly in `pride`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                              |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|

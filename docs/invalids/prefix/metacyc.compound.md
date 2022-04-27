@@ -1,13 +1,13 @@
-# metacyc.compound: Metabolic Encyclopedia of metabolic and other pathways
+# [`metacyc.compound`](https://bioregistry.io/metacyc.compound): Metabolic Encyclopedia of metabolic and other pathways
 
 This page summarize the different resources that reference `metacyc.compound`
 but use local unique identifiers that do not match the standard pattern of
-^[A-Za-z0-9+_.%-:]+$. Of the 4 resources,
+`^[A-Za-z0-9+_.%-:]+$`. Of the 4 resources,
 1 variants on the standard prefix were found: ['MetaCyc'].
 
 ## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cco`.
+Identifiers for this prefix are given incorrectly in `cco`.
 
 | external_xref                                 |   usages_count | usages                                          |
 |-----------------------------------------------|----------------|-------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 ## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given incorrectly correctly in `chebi`.
+Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub repository](https://github.com/ebi-chebi/ChEBI).
 
 | external_xref                                                                                 |   usages_count | usages                                              |
 |-----------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------|
@@ -23,7 +23,7 @@ Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 ## `go`: Gene Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `go`.
+Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 | external_xref                                 |   usages_count | usages                                          |
 |-----------------------------------------------|----------------|-------------------------------------------------|
@@ -31,7 +31,7 @@ Identifiers for this prefix are given incorrectly correctly in `go`.
 
 ## `pw`: Pathway ontology
 
-Identifiers for this prefix are given incorrectly correctly in `pw`.
+Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
 
 | external_xref                                                              |   usages_count | usages                                          |
 |----------------------------------------------------------------------------|----------------|-------------------------------------------------|

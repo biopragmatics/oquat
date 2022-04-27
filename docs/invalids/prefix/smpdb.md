@@ -1,13 +1,13 @@
-# smpdb: Small Molecule Pathway Database
+# [`smpdb`](https://bioregistry.io/smpdb): Small Molecule Pathway Database
 
 This page summarize the different resources that reference `smpdb`
 but use local unique identifiers that do not match the standard pattern of
-^SMP\d+$. Of the 1 resources,
+`^SMP\d+$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['SMPDB'].
 
 ## `pw`: Pathway ontology
 
-Identifiers for this prefix are given incorrectly correctly in `pw`.
+Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
 
 | external_xref                                             |   usages_count | usages                                                                                           |
 |-----------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------|

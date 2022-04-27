@@ -1,13 +1,13 @@
-# wwf.ecoregion: World Wildlife Fund Ecoregion
+# [`wwf.ecoregion`](https://bioregistry.io/wwf.ecoregion): World Wildlife Fund Ecoregion
 
 This page summarize the different resources that reference `wwf.ecoregion`
 but use local unique identifiers that do not match the standard pattern of
-^AT\d+$. Of the 2 resources,
+`^AT\d+$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['WWF'].
 
 ## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `enm`.
+Identifiers for this prefix are given incorrectly in `enm`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|
@@ -27,7 +27,7 @@ Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 ## `envo`: Environment Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `envo`.
+Identifiers for this prefix are given incorrectly in `envo`. See the [GitHub repository](https://github.com/EnvironmentOntology/envo).
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|

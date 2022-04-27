@@ -1,13 +1,13 @@
-# prosite: PROSITE
+# [`prosite`](https://bioregistry.io/prosite): PROSITE
 
 This page summarize the different resources that reference `prosite`
 but use local unique identifiers that do not match the standard pattern of
-^PS\d{5}$. Of the 2 resources,
+`^PS\d{5}$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['Prosite'].
 
 ## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cco`.
+Identifiers for this prefix are given incorrectly in `cco`.
 
 | external_xref       |   usages_count | usages                                          |
 |---------------------|----------------|-------------------------------------------------|
@@ -17,7 +17,7 @@ Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 ## `go`: Gene Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `go`.
+Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 | external_xref       |   usages_count | usages                                          |
 |---------------------|----------------|-------------------------------------------------|

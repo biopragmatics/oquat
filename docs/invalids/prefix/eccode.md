@@ -1,13 +1,13 @@
-# eccode: Enzyme Nomenclature
+# [`eccode`](https://bioregistry.io/eccode): Enzyme Nomenclature
 
 This page summarize the different resources that reference `eccode`
 but use local unique identifiers that do not match the standard pattern of
-^\d{1,2}(\.\d{0,3}){0,3}$. Of the 5 resources,
+`^\d{1,2}(\.\d{0,3}){0,3}$`. Of the 5 resources,
 1 variants on the standard prefix were found: ['EC'].
 
 ## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cco`.
+Identifiers for this prefix are given incorrectly in `cco`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -175,7 +175,7 @@ Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 ## `cmpo`: Cellular Microscopy Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cmpo`.
+Identifiers for this prefix are given incorrectly in `cmpo`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -184,7 +184,7 @@ Identifiers for this prefix are given incorrectly correctly in `cmpo`.
 
 ## `foodon`: The Food Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `foodon`.
+Identifiers for this prefix are given incorrectly in `foodon`. See the [GitHub repository](https://github.com/FoodOntology/foodon).
 
 | external_xref         |   usages_count | usages                                                    |
 |-----------------------|----------------|-----------------------------------------------------------|
@@ -196,7 +196,7 @@ Identifiers for this prefix are given incorrectly correctly in `foodon`.
 
 ## `go`: Gene Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `go`.
+Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -512,7 +512,7 @@ Identifiers for this prefix are given incorrectly correctly in `go`.
 
 ## `to`: Plant Trait Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `to`.
+Identifiers for this prefix are given incorrectly in `to`. See the [GitHub repository](https://github.com/Planteome/plant-trait-ontology).
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

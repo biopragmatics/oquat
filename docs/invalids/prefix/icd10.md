@@ -1,13 +1,13 @@
-# icd10: International Classification of Diseases, 10th Revision
+# [`icd10`](https://bioregistry.io/icd10): International Classification of Diseases, 10th Revision
 
 This page summarize the different resources that reference `icd10`
 but use local unique identifiers that do not match the standard pattern of
-^[A-Z]\d+(\.[-\d+])?$. Of the 3 resources,
+`^[A-Z]\d+(\.[-\d+])?$`. Of the 3 resources,
 2 variants on the standard prefix were found: ['ICD-10', 'ICD10'].
 
 ## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `efo`.
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -307,7 +307,7 @@ Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 ## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `hp`.
+Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repository](https://github.com/obophenotype/human-phenotype-ontology).
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -315,7 +315,7 @@ Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 ## `orphanet`: Orphanet
 
-Identifiers for this prefix are given incorrectly correctly in `orphanet`.
+Identifiers for this prefix are given incorrectly in `orphanet`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

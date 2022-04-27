@@ -1,13 +1,13 @@
-# orphanet.ordo: Orphanet Rare Disease Ontology
+# [`orphanet.ordo`](https://bioregistry.io/orphanet.ordo): Orphanet Rare Disease Ontology
 
 This page summarize the different resources that reference `orphanet.ordo`
 but use local unique identifiers that do not match the standard pattern of
-^Orphanet(_|:)C?\d+$. Of the 4 resources,
+`^Orphanet(_|:)C?\d+$`. Of the 4 resources,
 1 variants on the standard prefix were found: ['ORDO'].
 
 ## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `bao`.
+Identifiers for this prefix are given incorrectly in `bao`.
 
 | external_xref   |   usages_count | usages                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------|
@@ -393,7 +393,7 @@ Identifiers for this prefix are given incorrectly correctly in `bao`.
 
 ## `doid`: Human Disease Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `doid`.
+Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub repository](https://github.com/DiseaseOntology/HumanDiseaseOntology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2340,7 +2340,7 @@ Identifiers for this prefix are given incorrectly correctly in `doid`.
 
 ## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `efo`.
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -2360,7 +2360,7 @@ Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 ## `rdo`: RGD Disease_Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `rdo`.
+Identifiers for this prefix are given incorrectly in `rdo`.
 
 | external_xref   |   usages_count | usages                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------|

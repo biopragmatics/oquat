@@ -1,13 +1,13 @@
-# uberon: Uber Anatomy Ontology
+# [`uberon`](https://bioregistry.io/uberon): Uber Anatomy Ontology
 
 This page summarize the different resources that reference `uberon`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 7 resources,
+`^\d+$`. Of the 7 resources,
 1 variants on the standard prefix were found: ['UBERON'].
 
 ## `bspo`: Biological Spatial Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `bspo`.
+Identifiers for this prefix are given incorrectly in `bspo`. See the [GitHub repository](https://github.com/obophenotype/biological-spatial-ontology).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `bspo`.
 
 ## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `enm`.
+Identifiers for this prefix are given incorrectly in `enm`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -23,7 +23,7 @@ Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 ## `mmusdv`: Mouse Developmental Stages
 
-Identifiers for this prefix are given incorrectly correctly in `mmusdv`.
+Identifiers for this prefix are given incorrectly in `mmusdv`. See the [GitHub repository](https://github.com/obophenotype/developmental-stage-ontologies).
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -31,7 +31,7 @@ Identifiers for this prefix are given incorrectly correctly in `mmusdv`.
 
 ## `poro`: Porifera Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `poro`.
+Identifiers for this prefix are given incorrectly in `poro`. See the [GitHub repository](https://github.com/obophenotype/porifera-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------|
@@ -39,7 +39,7 @@ Identifiers for this prefix are given incorrectly correctly in `poro`.
 
 ## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `uberon`.
+Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |--------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -58,7 +58,7 @@ Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 ## `vsao`: Vertebrate Skeletal Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `vsao`.
+Identifiers for this prefix are given incorrectly in `vsao`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -66,7 +66,7 @@ Identifiers for this prefix are given incorrectly correctly in `vsao`.
 
 ## `zfa`: Zebrafish anatomy and development ontology
 
-Identifiers for this prefix are given incorrectly correctly in `zfa`.
+Identifiers for this prefix are given incorrectly in `zfa`. See the [GitHub repository](https://github.com/cerivs/zebrafish-anatomical-ontology).
 
 | external_xref    |   usages_count | usages                                                                                               |
 |------------------|----------------|------------------------------------------------------------------------------------------------------|

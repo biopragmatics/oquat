@@ -1,13 +1,13 @@
-# hpa: Human Protein Atlas tissue profile information
+# [`hpa`](https://bioregistry.io/hpa): Human Protein Atlas tissue profile information
 
 This page summarize the different resources that reference `hpa`
 but use local unique identifiers that do not match the standard pattern of
-^ENSG\d{11}$. Of the 2 resources,
+`^ENSG\d{11}$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['HPA'].
 
 ## `cl`: Cell Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cl`.
+Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -16,7 +16,7 @@ Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 ## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `enm`.
+Identifiers for this prefix are given incorrectly in `enm`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

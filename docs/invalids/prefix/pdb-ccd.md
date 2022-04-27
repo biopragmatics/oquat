@@ -1,13 +1,13 @@
-# pdb-ccd: Chemical Component Dictionary
+# [`pdb-ccd`](https://bioregistry.io/pdb-ccd): Chemical Component Dictionary
 
 This page summarize the different resources that reference `pdb-ccd`
 but use local unique identifiers that do not match the standard pattern of
-^\w{3}$. Of the 1 resources,
+`^\w{3}$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['PDBeChem'].
 
 ## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given incorrectly correctly in `chebi`.
+Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub repository](https://github.com/ebi-chebi/ChEBI).
 
 | external_xref                                                            |   usages_count | usages                                                                                               |
 |--------------------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------|

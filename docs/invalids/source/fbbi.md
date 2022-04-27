@@ -11,7 +11,7 @@ xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
 prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
 did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
-| external_xref                                        |   usages_count | usages                                                                                                       |
-|------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
-| `Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain` |              2 | [FBbi:00000037](https://bioregistry.io/FBbi:00000037), [FBbi:00000041](https://bioregistry.io/FBbi:00000041) |
+| external_xref                                                         |   usages_count | usages                                                                                                       |
+|-----------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
+| `Wikipedia:('Wikipedia', 'http://en.wikipedia.org/wiki/H%26E_stain')` |              2 | [FBbi:00000037](https://bioregistry.io/FBbi:00000037), [FBbi:00000041](https://bioregistry.io/FBbi:00000041) |
 

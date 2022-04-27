@@ -11,9 +11,9 @@ xrefs to external prefixed with `MA` (standardized to Bioregistry
 prefix [`ma`](https://bioregistry.io/ma)) that
 did not match the standard pattern `^\d+$`.
 
-| external_xref   |   usages_count | usages                                                                                                       |
-|-----------------|----------------|--------------------------------------------------------------------------------------------------------------|
-| `MA:ma`         |              2 | [ENVO:00000070](https://bioregistry.io/ENVO:00000070), [ENVO:00010483](https://bioregistry.io/ENVO:00010483) |
+| external_xref     |   usages_count | usages                                                                                                       |
+|-------------------|----------------|--------------------------------------------------------------------------------------------------------------|
+| `MA:('MA', 'ma')` |              2 | [ENVO:00000070](https://bioregistry.io/ENVO:00000070), [ENVO:00010483](https://bioregistry.io/ENVO:00010483) |
 
 ## `RO`: Relation Ontology
 
@@ -22,7 +22,7 @@ xrefs to external prefixed with `RO` (standardized to Bioregistry
 prefix [`ro`](https://bioregistry.io/ro)) that
 did not match the standard pattern `^\d{7}$`.
 
-| external_xref   |   usages_count | usages                                          |
-|-----------------|----------------|-------------------------------------------------|
-| `RO:cjm`        |              1 | [RO:0009501](https://bioregistry.io/RO:0009501) |
+| external_xref      |   usages_count | usages                                          |
+|--------------------|----------------|-------------------------------------------------|
+| `RO:('RO', 'cjm')` |              1 | [RO:0009501](https://bioregistry.io/RO:0009501) |
 

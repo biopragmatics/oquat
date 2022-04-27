@@ -1,13 +1,13 @@
-# kegg.compound: KEGG Compound
+# [`kegg.compound`](https://bioregistry.io/kegg.compound): KEGG Compound
 
 This page summarize the different resources that reference `kegg.compound`
 but use local unique identifiers that do not match the standard pattern of
-^C\d+$. Of the 1 resources,
+`^C\d+$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['KEGG COMPOUND'].
 
 ## `sibo`: Social Insect Behavior Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `sibo`.
+Identifiers for this prefix are given incorrectly in `sibo`. See the [GitHub repository](https://github.com/obophenotype/sibo).
 
 | external_xref          |   usages_count | usages                                              |
 |------------------------|----------------|-----------------------------------------------------|

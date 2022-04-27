@@ -1,13 +1,13 @@
-# wormbase: WormBase database of nematode biology
+# [`wormbase`](https://bioregistry.io/wormbase): WormBase database of nematode biology
 
 This page summarize the different resources that reference `wormbase`
 but use local unique identifiers that do not match the standard pattern of
-^WB[A-Z][a-z]+\d+$. Of the 9 resources,
+`^WB[A-Z][a-z]+\d+$`. Of the 9 resources,
 6 variants on the standard prefix were found: ['WB', 'WB_REF', 'Wb', 'WormBase', 'Wormbase', 'wB'].
 
 ## `bto`: BRENDA tissue / enzyme source
 
-Identifiers for this prefix are given incorrectly correctly in `bto`.
+Identifiers for this prefix are given incorrectly in `bto`. See the [GitHub repository](https://github.com/BRENDA-Enzymes/BTO).
 
 | external_xref                                              |   usages_count | usages                                            |
 |------------------------------------------------------------|----------------|---------------------------------------------------|
@@ -16,7 +16,7 @@ Identifiers for this prefix are given incorrectly correctly in `bto`.
 
 ## `dpo`: Drosophila Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `dpo`.
+Identifiers for this prefix are given incorrectly in `dpo`. See the [GitHub repository](https://github.com/FlyBase/drosophila-phenotype-ontology).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -24,7 +24,7 @@ Identifiers for this prefix are given incorrectly correctly in `dpo`.
 
 ## `fbcv`: FlyBase Controlled Vocabulary
 
-Identifiers for this prefix are given incorrectly correctly in `fbcv`.
+Identifiers for this prefix are given incorrectly in `fbcv`. See the [GitHub repository](https://github.com/FlyBase/flybase-controlled-vocabulary).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -32,7 +32,7 @@ Identifiers for this prefix are given incorrectly correctly in `fbcv`.
 
 ## `go`: Gene Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `go`.
+Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 | external_xref        |   usages_count | usages                                          |
 |----------------------|----------------|-------------------------------------------------|
@@ -41,7 +41,7 @@ Identifiers for this prefix are given incorrectly correctly in `go`.
 
 ## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given incorrectly correctly in `so`.
+Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -49,7 +49,7 @@ Identifiers for this prefix are given incorrectly correctly in `so`.
 
 ## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `uberon`.
+Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
 
 | external_xref      |   usages_count | usages                                                  |
 |--------------------|----------------|---------------------------------------------------------|
@@ -59,7 +59,7 @@ Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 ## `wbbt`: C. elegans Gross Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `wbbt`.
+Identifiers for this prefix are given incorrectly in `wbbt`. See the [GitHub repository](https://github.com/obophenotype/c-elegans-gross-anatomy-ontology).
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |--------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -92,7 +92,7 @@ Identifiers for this prefix are given incorrectly correctly in `wbbt`.
 
 ## `wbls`: C. elegans development ontology
 
-Identifiers for this prefix are given incorrectly correctly in `wbls`.
+Identifiers for this prefix are given incorrectly in `wbls`. See the [GitHub repository](https://github.com/obophenotype/c-elegans-development-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -104,7 +104,7 @@ Identifiers for this prefix are given incorrectly correctly in `wbls`.
 
 ## `wbphenotype`: C. elegans phenotype
 
-Identifiers for this prefix are given incorrectly correctly in `wbphenotype`.
+Identifiers for this prefix are given incorrectly in `wbphenotype`. See the [GitHub repository](https://github.com/obophenotype/c-elegans-phenotype-ontology).
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                                                                                                             |
 |-----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

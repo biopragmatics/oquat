@@ -1,13 +1,13 @@
-# unimod: Unimod protein modification database for mass spectrometry
+# [`unimod`](https://bioregistry.io/unimod): Unimod protein modification database for mass spectrometry
 
 This page summarize the different resources that reference `unimod`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 1 resources,
+`^\d+$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['Unimod'].
 
 ## `mod`: Protein modification
 
-Identifiers for this prefix are given incorrectly correctly in `mod`.
+Identifiers for this prefix are given incorrectly in `mod`. See the [GitHub repository](https://github.com/HUPO-PSI/psi-mod-CV).
 
 | external_xref       |   usages_count | usages                                                                                                                                                                                                                                         |
 |---------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

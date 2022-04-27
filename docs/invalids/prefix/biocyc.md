@@ -1,13 +1,13 @@
-# biocyc: BioCyc collection of metabolic pathway databases
+# [`biocyc`](https://bioregistry.io/biocyc): BioCyc collection of metabolic pathway databases
 
 This page summarize the different resources that reference `biocyc`
 but use local unique identifiers that do not match the standard pattern of
-^[A-Z-0-9]+(\:)?[A-Za-z0-9+_.%-:]+$. Of the 1 resources,
+`^[A-Z-0-9]+(\:)?[A-Za-z0-9+_.%-:]+$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['BioCyc'].
 
 ## `pw`: Pathway ontology
 
-Identifiers for this prefix are given incorrectly correctly in `pw`.
+Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
 
 | external_xref                                                                    |   usages_count | usages                                                                                                                                            |
 |----------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|

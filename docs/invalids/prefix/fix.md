@@ -1,13 +1,13 @@
-# fix: Physico-chemical methods and properties
+# [`fix`](https://bioregistry.io/fix): Physico-chemical methods and properties
 
 This page summarize the different resources that reference `fix`
 but use local unique identifiers that do not match the standard pattern of
-^\d{7}$. Of the 2 resources,
+`^\d{7}$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['FIX'].
 
 ## `chmo`: Chemical Methods Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `chmo`.
+Identifiers for this prefix are given incorrectly in `chmo`. See the [GitHub repository](https://github.com/rsc-ontologies/rsc-cmo).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -21,7 +21,7 @@ Identifiers for this prefix are given incorrectly correctly in `chmo`.
 
 ## `pride`: PRIDE Controlled Vocabulary
 
-Identifiers for this prefix are given incorrectly correctly in `pride`.
+Identifiers for this prefix are given incorrectly in `pride`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

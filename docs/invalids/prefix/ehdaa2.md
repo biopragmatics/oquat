@@ -1,13 +1,13 @@
-# ehdaa2: Human developmental anatomy, abstract
+# [`ehdaa2`](https://bioregistry.io/ehdaa2): Human developmental anatomy, abstract
 
 This page summarize the different resources that reference `ehdaa2`
 but use local unique identifiers that do not match the standard pattern of
-^\d{7}$. Of the 1 resources,
+`^\d{7}$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['EHDAA2'].
 
 ## `hsapdv`: Human Developmental Stages
 
-Identifiers for this prefix are given incorrectly correctly in `hsapdv`.
+Identifiers for this prefix are given incorrectly in `hsapdv`. See the [GitHub repository](https://github.com/obophenotype/developmental-stage-ontologies).
 
 | external_xref   |   usages_count | usages                                                                                                           |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------|

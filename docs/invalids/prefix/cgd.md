@@ -1,13 +1,13 @@
-# cgd: Candida Genome Database
+# [`cgd`](https://bioregistry.io/cgd): Candida Genome Database
 
 This page summarize the different resources that reference `cgd`
 but use local unique identifiers that do not match the standard pattern of
-^CAL\d{7}$. Of the 2 resources,
+`^CAL\d{7}$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['CGD'].
 
 ## `apo`: Ascomycete phenotype ontology
 
-Identifiers for this prefix are given incorrectly correctly in `apo`.
+Identifiers for this prefix are given incorrectly in `apo`. See the [GitHub repository](https://github.com/obophenotype/ascomycete-phenotype-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `apo`.
 
 ## `fao`: Fungal gross anatomy
 
-Identifiers for this prefix are given incorrectly correctly in `fao`.
+Identifiers for this prefix are given incorrectly in `fao`. See the [GitHub repository](https://github.com/obophenotype/fungal-anatomy-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

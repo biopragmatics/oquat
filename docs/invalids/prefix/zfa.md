@@ -1,13 +1,13 @@
-# zfa: Zebrafish anatomy and development ontology
+# [`zfa`](https://bioregistry.io/zfa): Zebrafish anatomy and development ontology
 
 This page summarize the different resources that reference `zfa`
 but use local unique identifiers that do not match the standard pattern of
-^\d{7}$. Of the 3 resources,
+`^\d{7}$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['ZFA'].
 
 ## `go`: Gene Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `go`.
+Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -16,7 +16,7 @@ Identifiers for this prefix are given incorrectly correctly in `go`.
 
 ## `tao`: Teleost Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `tao`.
+Identifiers for this prefix are given incorrectly in `tao`.
 
 | external_xref           |   usages_count | usages                                                                                                                                                  |
 |-------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -25,7 +25,7 @@ Identifiers for this prefix are given incorrectly correctly in `tao`.
 
 ## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `uberon`.
+Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
 
 | external_xref           |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

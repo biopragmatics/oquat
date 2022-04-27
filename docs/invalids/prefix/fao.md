@@ -1,13 +1,13 @@
-# fao: Fungal gross anatomy
+# [`fao`](https://bioregistry.io/fao): Fungal gross anatomy
 
 This page summarize the different resources that reference `fao`
 but use local unique identifiers that do not match the standard pattern of
-^\d{7}$. Of the 3 resources,
+`^\d{7}$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['FAO'].
 
 ## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `enm`.
+Identifiers for this prefix are given incorrectly in `enm`.
 
 | external_xref                                             |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-----------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 ## `envo`: Environment Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `envo`.
+Identifiers for this prefix are given incorrectly in `envo`. See the [GitHub repository](https://github.com/EnvironmentOntology/envo).
 
 | external_xref                                                          |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -24,7 +24,7 @@ Identifiers for this prefix are given incorrectly correctly in `envo`.
 
 ## `fao`: Fungal gross anatomy
 
-Identifiers for this prefix are given incorrectly correctly in `fao`.
+Identifiers for this prefix are given incorrectly in `fao`. See the [GitHub repository](https://github.com/obophenotype/fungal-anatomy-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

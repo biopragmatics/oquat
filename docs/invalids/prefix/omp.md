@@ -1,13 +1,13 @@
-# omp: Ontology of Microbial Phenotypes
+# [`omp`](https://bioregistry.io/omp): Ontology of Microbial Phenotypes
 
 This page summarize the different resources that reference `omp`
 but use local unique identifiers that do not match the standard pattern of
-^\d{7}$. Of the 1 resources,
+`^\d{7}$`. Of the 1 resources,
 2 variants on the standard prefix were found: ['OMP', 'OMp'].
 
 ## `omp`: Ontology of Microbial Phenotypes
 
-Identifiers for this prefix are given incorrectly correctly in `omp`.
+Identifiers for this prefix are given incorrectly in `omp`. See the [GitHub repository](https://github.com/microbialphenotypes/OMP-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

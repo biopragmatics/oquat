@@ -1,13 +1,13 @@
-# tcdb: Transporter Classification Database
+# [`tcdb`](https://bioregistry.io/tcdb): Transporter Classification Database
 
 This page summarize the different resources that reference `tcdb`
 but use local unique identifiers that do not match the standard pattern of
-^\d+(\.[A-Z])?(\.\d+)?(\.\d+)?(\.\d+)?$. Of the 2 resources,
+`^\d+(\.[A-Z])?(\.\d+)?(\.\d+)?(\.\d+)?$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['TC'].
 
 ## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cco`.
+Identifiers for this prefix are given incorrectly in `cco`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -57,7 +57,7 @@ Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 ## `go`: Gene Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `go`.
+Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|

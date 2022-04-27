@@ -1,13 +1,13 @@
-# agricola: Agricultural Online Access
+# [`agricola`](https://bioregistry.io/agricola): Agricultural Online Access
 
 This page summarize the different resources that reference `agricola`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 3 resources,
+`^\d+$`. Of the 3 resources,
 2 variants on the standard prefix were found: ['AGR', 'Agricola'].
 
 ## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given incorrectly correctly in `chebi`.
+Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub repository](https://github.com/ebi-chebi/ChEBI).
 
 | external_xref      |   usages_count | usages                                                                                                                                                    |
 |--------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1107,7 +1107,7 @@ Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 ## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `enm`.
+Identifiers for this prefix are given incorrectly in `enm`.
 
 | external_xref     |   usages_count | usages                                              |
 |-------------------|----------------|-----------------------------------------------------|
@@ -1120,7 +1120,7 @@ Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 ## `po`: Plant Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `po`.
+Identifiers for this prefix are given incorrectly in `po`. See the [GitHub repository](https://github.com/Planteome/plant-ontology).
 
 | external_xref          |   usages_count | usages                                          |
 |------------------------|----------------|-------------------------------------------------|

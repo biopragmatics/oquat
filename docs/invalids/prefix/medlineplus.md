@@ -1,13 +1,13 @@
-# medlineplus: MedlinePlus Health Topics
+# [`medlineplus`](https://bioregistry.io/medlineplus): MedlinePlus Health Topics
 
 This page summarize the different resources that reference `medlineplus`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 3 resources,
+`^\d+$`. Of the 3 resources,
 2 variants on the standard prefix were found: ['Medline Plus', 'MedlinePlus'].
 
 ## `bto`: BRENDA tissue / enzyme source
 
-Identifiers for this prefix are given incorrectly correctly in `bto`.
+Identifiers for this prefix are given incorrectly in `bto`. See the [GitHub repository](https://github.com/BRENDA-Enzymes/BTO).
 
 | external_xref                                                                                           |   usages_count | usages                                            |
 |---------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `bto`.
 
 ## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `efo`.
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
 | external_xref         |   usages_count | usages                                                                                              |
 |-----------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -23,7 +23,7 @@ Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 ## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given incorrectly correctly in `xco`.
+Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
 
 | external_xref                                       |   usages_count | usages                                            |
 |-----------------------------------------------------|----------------|---------------------------------------------------|

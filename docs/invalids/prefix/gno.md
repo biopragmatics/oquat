@@ -1,13 +1,13 @@
-# gno: Glycan Naming and Subsumption Ontology
+# [`gno`](https://bioregistry.io/gno): Glycan Naming and Subsumption Ontology
 
 This page summarize the different resources that reference `gno`
 but use local unique identifiers that do not match the standard pattern of
-^\d{8}$. Of the 1 resources,
+`^\d{8}$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['GNO'].
 
 ## `mod`: Protein modification
 
-Identifiers for this prefix are given incorrectly correctly in `mod`.
+Identifiers for this prefix are given incorrectly in `mod`. See the [GitHub repository](https://github.com/HUPO-PSI/psi-mod-CV).
 
 | external_xref   |   usages_count | usages                                        |
 |-----------------|----------------|-----------------------------------------------|

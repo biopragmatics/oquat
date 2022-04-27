@@ -1,13 +1,13 @@
-# pombase: PomBase
+# [`pombase`](https://bioregistry.io/pombase): PomBase
 
 This page summarize the different resources that reference `pombase`
 but use local unique identifiers that do not match the standard pattern of
-^S\w+(\.)?\w+(\.)?$. Of the 4 resources,
+`^S\w+(\.)?\w+(\.)?$`. Of the 4 resources,
 3 variants on the standard prefix were found: ['POMBASE', 'PomBase', 'Pombase'].
 
 ## `cmpo`: Cellular Microscopy Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cmpo`.
+Identifiers for this prefix are given incorrectly in `cmpo`.
 
 | external_xref   |   usages_count | usages                                                                                                  |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `cmpo`.
 
 ## `eco`: Evidence ontology
 
-Identifiers for this prefix are given incorrectly correctly in `eco`.
+Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology).
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -23,7 +23,7 @@ Identifiers for this prefix are given incorrectly correctly in `eco`.
 
 ## `fypo`: Fission Yeast Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `fypo`.
+Identifiers for this prefix are given incorrectly in `fypo`. See the [GitHub repository](https://github.com/pombase/fypo).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -45,7 +45,7 @@ Identifiers for this prefix are given incorrectly correctly in `fypo`.
 
 ## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given incorrectly correctly in `so`.
+Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

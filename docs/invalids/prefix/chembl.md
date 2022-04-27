@@ -1,13 +1,13 @@
-# chembl: ChEMBL
+# [`chembl`](https://bioregistry.io/chembl): ChEMBL
 
 This page summarize the different resources that reference `chembl`
 but use local unique identifiers that do not match the standard pattern of
-^CHEMBL\d+$. Of the 1 resources,
+`^CHEMBL\d+$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['CHEMBL'].
 
 ## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given incorrectly correctly in `xco`.
+Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                  |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|

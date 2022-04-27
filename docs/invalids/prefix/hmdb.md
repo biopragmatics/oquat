@@ -1,13 +1,13 @@
-# hmdb: Human Metabolome Database
+# [`hmdb`](https://bioregistry.io/hmdb): Human Metabolome Database
 
 This page summarize the different resources that reference `hmdb`
 but use local unique identifiers that do not match the standard pattern of
-^HMDB\d+$. Of the 1 resources,
+`^HMDB\d+$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['HMDB'].
 
 ## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given incorrectly correctly in `chebi`.
+Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub repository](https://github.com/ebi-chebi/ChEBI).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

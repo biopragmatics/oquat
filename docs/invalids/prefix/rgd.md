@@ -1,13 +1,13 @@
-# rgd: Rat Genome Database
+# [`rgd`](https://bioregistry.io/rgd): Rat Genome Database
 
 This page summarize the different resources that reference `rgd`
 but use local unique identifiers that do not match the standard pattern of
-^\d{4,}$. Of the 7 resources,
+`^\d{4,}$`. Of the 7 resources,
 2 variants on the standard prefix were found: ['RGD', 'RGD '].
 
 ## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `hp`.
+Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repository](https://github.com/obophenotype/human-phenotype-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -18,7 +18,7 @@ Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 ## `mmo`: Measurement method ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mmo`.
+Identifiers for this prefix are given incorrectly in `mmo`. See the [GitHub repository](https://github.com/rat-genome-database/MMO-Measurement-Method-Ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -30,7 +30,7 @@ Identifiers for this prefix are given incorrectly correctly in `mmo`.
 
 ## `mp`: Mammalian Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mp`.
+Identifiers for this prefix are given incorrectly in `mp`. See the [GitHub repository](https://github.com/mgijax/mammalian-phenotype-ontology).
 
 | external_xref       |   usages_count | usages                                                                                                                                                                                                                                                   |
 |---------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -41,7 +41,7 @@ Identifiers for this prefix are given incorrectly correctly in `mp`.
 
 ## `pw`: Pathway ontology
 
-Identifiers for this prefix are given incorrectly correctly in `pw`.
+Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
 
 | external_xref            |   usages_count | usages                                                                                                                                            |
 |--------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -50,7 +50,7 @@ Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 ## `rs`: Rat Strain Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `rs`.
+Identifiers for this prefix are given incorrectly in `rs`. See the [GitHub repository](https://github.com/rat-genome-database/RS-Rat-Strain-Ontology).
 
 | external_xref         |   usages_count | usages                                          |
 |-----------------------|----------------|-------------------------------------------------|
@@ -58,7 +58,7 @@ Identifiers for this prefix are given incorrectly correctly in `rs`.
 
 ## `vt`: Vertebrate trait ontology
 
-Identifiers for this prefix are given incorrectly correctly in `vt`.
+Identifiers for this prefix are given incorrectly in `vt`. See the [GitHub repository](https://github.com/AnimalGenome/vertebrate-trait-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -70,7 +70,7 @@ Identifiers for this prefix are given incorrectly correctly in `vt`.
 
 ## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given incorrectly correctly in `xco`.
+Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

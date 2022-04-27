@@ -1,13 +1,13 @@
-# pubchem.compound: PubChem CID
+# [`pubchem.compound`](https://bioregistry.io/pubchem.compound): PubChem CID
 
 This page summarize the different resources that reference `pubchem.compound`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 2 resources,
+`^\d+$`. Of the 2 resources,
 2 variants on the standard prefix were found: ['PubChem', 'PubChem_Compound'].
 
 ## `pw`: Pathway ontology
 
-Identifiers for this prefix are given incorrectly correctly in `pw`.
+Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
 
 | external_xref                                                          |   usages_count | usages                                                                                                                                            |
 |------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 ## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given incorrectly correctly in `xco`.
+Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
 
 | external_xref                |   usages_count | usages                                                                                                                                                  |
 |------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|

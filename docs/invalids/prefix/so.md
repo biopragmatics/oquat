@@ -1,13 +1,13 @@
-# so: Sequence types and features ontology
+# [`so`](https://bioregistry.io/so): Sequence types and features ontology
 
 This page summarize the different resources that reference `so`
 but use local unique identifiers that do not match the standard pattern of
-^\d{7}$. Of the 10 resources,
+`^\d{7}$`. Of the 10 resources,
 1 variants on the standard prefix were found: ['SO'].
 
 ## `bs`: Biosapiens Protein Feature Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `bs`.
+Identifiers for this prefix are given incorrectly in `bs`.
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                                                 |
 |----------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -18,7 +18,7 @@ Identifiers for this prefix are given incorrectly correctly in `bs`.
 
 ## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `enm`.
+Identifiers for this prefix are given incorrectly in `enm`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                           |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -26,7 +26,7 @@ Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 ## `ensemblglossary`: Ensembl Glossary
 
-Identifiers for this prefix are given incorrectly correctly in `ensemblglossary`.
+Identifiers for this prefix are given incorrectly in `ensemblglossary`.
 
 | external_xref                        |   usages_count | usages                                                                                                                    |
 |--------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -36,7 +36,7 @@ Identifiers for this prefix are given incorrectly correctly in `ensemblglossary`
 
 ## `fbcv`: FlyBase Controlled Vocabulary
 
-Identifiers for this prefix are given incorrectly correctly in `fbcv`.
+Identifiers for this prefix are given incorrectly in `fbcv`. See the [GitHub repository](https://github.com/FlyBase/flybase-controlled-vocabulary).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -44,7 +44,7 @@ Identifiers for this prefix are given incorrectly correctly in `fbcv`.
 
 ## `fypo`: Fission Yeast Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `fypo`.
+Identifiers for this prefix are given incorrectly in `fypo`. See the [GitHub repository](https://github.com/pombase/fypo).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -52,7 +52,7 @@ Identifiers for this prefix are given incorrectly correctly in `fypo`.
 
 ## `geno`: Genotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `geno`.
+Identifiers for this prefix are given incorrectly in `geno`. See the [GitHub repository](https://github.com/monarch-initiative/GENO-ontology).
 
 | external_xref                     |   usages_count | usages                                              |
 |-----------------------------------|----------------|-----------------------------------------------------|
@@ -60,7 +60,7 @@ Identifiers for this prefix are given incorrectly correctly in `geno`.
 
 ## `hom`: Homology Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `hom`.
+Identifiers for this prefix are given incorrectly in `hom`. See the [GitHub repository](https://github.com/BgeeDB/homology-ontology).
 
 | external_xref                  |   usages_count | usages                                                                                               |
 |--------------------------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -72,7 +72,7 @@ Identifiers for this prefix are given incorrectly correctly in `hom`.
 
 ## `ro`: Relation Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `ro`.
+Identifiers for this prefix are given incorrectly in `ro`. See the [GitHub repository](https://github.com/oborel/obo-relations).
 
 | external_xref                  |   usages_count | usages                                                                                                       |
 |--------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -84,7 +84,7 @@ Identifiers for this prefix are given incorrectly correctly in `ro`.
 
 ## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given incorrectly correctly in `so`.
+Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                   |
 |----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -123,7 +123,7 @@ Identifiers for this prefix are given incorrectly correctly in `so`.
 
 ## `vario`: Variation Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `vario`.
+Identifiers for this prefix are given incorrectly in `vario`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

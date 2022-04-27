@@ -1,13 +1,13 @@
-# door: Database for Prokaryotic Operons
+# [`door`](https://bioregistry.io/door): Database for Prokaryotic Operons
 
 This page summarize the different resources that reference `door`
 but use local unique identifiers that do not match the standard pattern of
-^\d+$. Of the 1 resources,
+`^\d+$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['DoOR'].
 
 ## `fbbt`: Drosophila gross anatomy
 
-Identifiers for this prefix are given incorrectly correctly in `fbbt`.
+Identifiers for this prefix are given incorrectly in `fbbt`. See the [GitHub repository](https://github.com/FlyBase/drosophila-anatomy-developmental-ontology).
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                     |
 |--------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

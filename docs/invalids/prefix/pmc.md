@@ -1,13 +1,13 @@
-# pmc: Pubmed Central
+# [`pmc`](https://bioregistry.io/pmc): Pubmed Central
 
 This page summarize the different resources that reference `pmc`
 but use local unique identifiers that do not match the standard pattern of
-^PMC\d+$. Of the 5 resources,
+`^PMC\d+$`. Of the 5 resources,
 2 variants on the standard prefix were found: ['PMC', 'PMCID'].
 
 ## `eco`: Evidence ontology
 
-Identifiers for this prefix are given incorrectly correctly in `eco`.
+Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology).
 
 | external_xref   |   usages_count | usages                                                                                               |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -36,7 +36,7 @@ Identifiers for this prefix are given incorrectly correctly in `eco`.
 
 ## `mp`: Mammalian Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mp`.
+Identifiers for this prefix are given incorrectly in `mp`. See the [GitHub repository](https://github.com/mgijax/mammalian-phenotype-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -44,7 +44,7 @@ Identifiers for this prefix are given incorrectly correctly in `mp`.
 
 ## `mpath`: Mouse pathology ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mpath`.
+Identifiers for this prefix are given incorrectly in `mpath`. See the [GitHub repository](https://github.com/PaulNSchofield/mpath).
 
 | external_xref    |   usages_count | usages                                        |
 |------------------|----------------|-----------------------------------------------|
@@ -52,7 +52,7 @@ Identifiers for this prefix are given incorrectly correctly in `mpath`.
 
 ## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given incorrectly correctly in `so`.
+Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -60,7 +60,7 @@ Identifiers for this prefix are given incorrectly correctly in `so`.
 
 ## `wbls`: C. elegans development ontology
 
-Identifiers for this prefix are given incorrectly correctly in `wbls`.
+Identifiers for this prefix are given incorrectly in `wbls`. See the [GitHub repository](https://github.com/obophenotype/c-elegans-development-ontology).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

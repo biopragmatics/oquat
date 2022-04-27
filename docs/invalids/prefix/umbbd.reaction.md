@@ -1,13 +1,13 @@
-# umbbd.reaction: EAWAG Biocatalysis/Biodegradation Database
+# [`umbbd.reaction`](https://bioregistry.io/umbbd.reaction): EAWAG Biocatalysis/Biodegradation Database
 
 This page summarize the different resources that reference `umbbd.reaction`
 but use local unique identifiers that do not match the standard pattern of
-^r\d+$. Of the 2 resources,
+`^r\d+$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['UM-BBD_reactionID'].
 
 ## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `cco`.
+Identifiers for this prefix are given incorrectly in `cco`.
 
 | external_xref            |   usages_count | usages                                          |
 |--------------------------|----------------|-------------------------------------------------|
@@ -16,7 +16,7 @@ Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 ## `go`: Gene Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `go`.
+Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 | external_xref            |   usages_count | usages                                          |
 |--------------------------|----------------|-------------------------------------------------|

@@ -1,13 +1,13 @@
-# fbdv: Drosophila development
+# [`fbdv`](https://bioregistry.io/fbdv): Drosophila development
 
 This page summarize the different resources that reference `fbdv`
 but use local unique identifiers that do not match the standard pattern of
-^\d{8}$. Of the 2 resources,
+`^\d{8}$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['FBdv'].
 
 ## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `bao`.
+Identifiers for this prefix are given incorrectly in `bao`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly correctly in `bao`.
 
 ## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `efo`.
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|

@@ -1,13 +1,13 @@
-# eco: Evidence ontology
+# [`eco`](https://bioregistry.io/eco): Evidence ontology
 
 This page summarize the different resources that reference `eco`
 but use local unique identifiers that do not match the standard pattern of
-^\d{7}$. Of the 4 resources,
+`^\d{7}$`. Of the 4 resources,
 1 variants on the standard prefix were found: ['ECO'].
 
 ## `eco`: Evidence ontology
 
-Identifiers for this prefix are given incorrectly correctly in `eco`.
+Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,7 +23,7 @@ Identifiers for this prefix are given incorrectly correctly in `eco`.
 
 ## `hom`: Homology Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `hom`.
+Identifiers for this prefix are given incorrectly in `hom`. See the [GitHub repository](https://github.com/BgeeDB/homology-ontology).
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -31,7 +31,7 @@ Identifiers for this prefix are given incorrectly correctly in `hom`.
 
 ## `mmo`: Measurement method ontology
 
-Identifiers for this prefix are given incorrectly correctly in `mmo`.
+Identifiers for this prefix are given incorrectly in `mmo`. See the [GitHub repository](https://github.com/rat-genome-database/MMO-Measurement-Method-Ontology).
 
 | external_xref     |   usages_count | usages                                            |
 |-------------------|----------------|---------------------------------------------------|
@@ -47,7 +47,7 @@ Identifiers for this prefix are given incorrectly correctly in `mmo`.
 
 ## `ro`: Relation Ontology
 
-Identifiers for this prefix are given incorrectly correctly in `ro`.
+Identifiers for this prefix are given incorrectly in `ro`. See the [GitHub repository](https://github.com/oborel/obo-relations).
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|

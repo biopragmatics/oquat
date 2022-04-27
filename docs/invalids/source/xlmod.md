@@ -11,7 +11,7 @@ xrefs to external prefixed with `CAS` (standardized to Bioregistry
 prefix [`cas`](https://bioregistry.io/cas)) that
 did not match the standard pattern `^\d{1,7}\-\d{2}\-\d$`.
 
-| external_xref                               |   usages_count | usages                                            |
-|---------------------------------------------|----------------|---------------------------------------------------|
-| `CAS:139609-20-4,PubChem_Compound:90469951` |              1 | [XLMOD:02152](https://bioregistry.io/XLMOD:02152) |
+| external_xref                                          |   usages_count | usages                                            |
+|--------------------------------------------------------|----------------|---------------------------------------------------|
+| `CAS:('CAS', '139609-20-4,PubChem_Compound:90469951')` |              1 | [XLMOD:02152](https://bioregistry.io/XLMOD:02152) |
 
