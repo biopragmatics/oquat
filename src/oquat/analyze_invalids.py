@@ -43,14 +43,13 @@ def main():
                     for xref in invalid_xrefs:
                         xref_prefix, xref_identifier = xref.split(":", 1)
                         xref_norm_prefix = bioregistry.normalize_prefix(xref_prefix)
-                        source_agg[source][xref_prefix][xref_prefix, xref_identifier].append(
-                            node
-                        )
+                        source_agg[source][xref_prefix][xref_prefix, xref_identifier].append(node)
                         xref_agg[xref_norm_prefix][source][xref_prefix, xref_identifier].append(
                             node
                         )
 
-    index_text = dedent(f"""\
+    index_text = dedent(
+        f"""\
     # Invalid Identifier Analysis
     
     This analysis has been conducted across all ontologies listed in the Bioregistry by loading
@@ -58,28 +57,25 @@ def main():
     xrefs, nodes’ synonyms’ xrefs, and nodes’ definitions’ xrefs to see which ones make references
     using identifiers that don't validate against patterns in the [Bioregistry](https://bioregistry.io).    
 
-    """)
+    """
+    )
     rows = []
     for xref_norm_prefix, inner in xref_agg.items():
-        sources = ",".join(
-            f"[`{source}`](/source/{source})"
-            for source in inner
-        )
-        total = sum(
-            len(d.values())
-            for d in inner.values()
-        )
+        sources = ", ".join(f"[`{source}`](/source/{source})" for source in inner)
+        total = sum(len(d.values()) for d in inner.values())
         example_source = random.choice(list(inner))
         example_curie = random.choice(list(inner[example_source]))
         example_node = random.choice(list(inner[example_source][example_curie]))
-        rows.append((
-            f"[`{xref_norm_prefix}`](/prefix/{xref_norm_prefix})",
-            sources,
-            total,
-            ":".join(example_curie),
-            example_node,
-        ))
-
+        rows.append(
+            (
+                f"[`{xref_norm_prefix}`](/prefix/{xref_norm_prefix})",
+                sources,
+                total,
+                "`" + ":".join(example_curie) + "`",
+                example_node,
+            )
+        )
+    rows = sorted(rows, key=itemgetter(2), reverse=True)
     index_text += tabulate(
         rows,
         headers=["xref_prefix", "sources", "count", "example_xref", "example_node"],
@@ -129,8 +125,7 @@ def main():
                     )
                 else:
                     examples = ", ".join(
-                        f"[{example_node}]({example_node})"
-                        for example_node in sorted(nodes)
+                        f"[{example_node}]({example_node})" for example_node in sorted(nodes)
                     )
 
                 rows.append(
@@ -191,8 +186,7 @@ def main():
                     )
                 else:
                     examples = ", ".join(
-                        f"[{example_node}]({example_node})"
-                        for example_node in sorted(nodes)
+                        f"[{example_node}]({example_node})" for example_node in sorted(nodes)
                     )
 
                 rows.append(
@@ -211,6 +205,7 @@ def main():
             source_text += "\n\n"
 
         source_path.write_text(source_text)
+
 
 if __name__ == "__main__":
     main()
