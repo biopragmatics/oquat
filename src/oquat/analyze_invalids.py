@@ -18,7 +18,7 @@ SOURCES = INVALIDS.joinpath("source")
 SOURCES.mkdir(exist_ok=True, parents=True)
 PREFIXES = INVALIDS.joinpath("prefix")
 PREFIXES.mkdir(exist_ok=True, parents=True)
-INDEX_PATH = INVALIDS.joinpath("index.md")
+INDEX_PATH = INVALIDS.joinpath("README.md")
 
 KEYS = [
     "prov_pack",
