@@ -1,7 +1,7 @@
 # foodon
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `foodon`. See the [GitHub repository](https://github.com/FoodOntology/foodon)
+for node, synonym, and definition cross-references in `foodon`. See the [GitHub repository](https://github.com/FoodOntology/foodon).
 
 
 ## `EC`: Enzyme Nomenclature

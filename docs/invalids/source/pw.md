@@ -1,7 +1,7 @@
 # pw
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology)
+for node, synonym, and definition cross-references in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
 
 
 ## `BioCyc`: BioCyc collection of metabolic pathway databases
@@ -313,7 +313,7 @@ did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                                                                                 |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------------------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `wikipedia:https://en.wikipedia.org/wiki/Indometacin`                                         |              6 | [PW:0002305](https://bioregistry.io/PW:0002305), [PW:0002305](https://bioregistry.io/PW:0002305), [PW:0002305](https://bioregistry.io/PW:0002305), [PW:0002305](https://bioregistry.io/PW:0002305), [PW:0002305](https://bioregistry.io/PW:0002305), ... |
+| `wikipedia:https://en.wikipedia.org/wiki/Indometacin`                                         |              6 | [PW:0002303](https://bioregistry.io/PW:0002303), [PW:0002304](https://bioregistry.io/PW:0002304), [PW:0002305](https://bioregistry.io/PW:0002305), [PW:0002313](https://bioregistry.io/PW:0002313), [PW:0002314](https://bioregistry.io/PW:0002314), ... |
 | `wikipedia:https://en.wikipedia.org/wiki/Autophagy`                                           |              4 | [PW:0000278](https://bioregistry.io/PW:0000278), [PW:0002402](https://bioregistry.io/PW:0002402), [PW:0002403](https://bioregistry.io/PW:0002403), [PW:0002405](https://bioregistry.io/PW:0002405)                                                       |
 | `wikipedia:https://en.wikipedia.org/wiki/Docetaxel`                                           |              4 | [PW:0001768](https://bioregistry.io/PW:0001768), [PW:0001769](https://bioregistry.io/PW:0001769), [PW:0001770](https://bioregistry.io/PW:0001770), [PW:0001774](https://bioregistry.io/PW:0001774)                                                       |
 | `wikipedia:https://en.wikipedia.org/wiki/Procainamide`                                        |              4 | [PW:0001858](https://bioregistry.io/PW:0001858), [PW:0001859](https://bioregistry.io/PW:0001859), [PW:0001860](https://bioregistry.io/PW:0001860), [PW:0001861](https://bioregistry.io/PW:0001861)                                                       |

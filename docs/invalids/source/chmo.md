@@ -1,7 +1,7 @@
 # chmo
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `chmo`. See the [GitHub repository](https://github.com/rsc-ontologies/rsc-cmo)
+for node, synonym, and definition cross-references in `chmo`. See the [GitHub repository](https://github.com/rsc-ontologies/rsc-cmo).
 
 
 ## `CHEBI`: Chemical Entities of Biological Interest

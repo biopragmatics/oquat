@@ -1,7 +1,7 @@
 # fypo
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `fypo`. See the [GitHub repository](https://github.com/pombase/fypo)
+for node, synonym, and definition cross-references in `fypo`. See the [GitHub repository](https://github.com/pombase/fypo).
 
 
 ## `GO`: Gene Ontology
@@ -41,11 +41,11 @@ did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PomBase:mah`   |          14849 | [FYPO:0004500](https://bioregistry.io/FYPO:0004500), [FYPO:0005938](https://bioregistry.io/FYPO:0005938), [FYPO:0006028](https://bioregistry.io/FYPO:0006028), [FYPO:0006076](https://bioregistry.io/FYPO:0006076), [FYPO:0007632](https://bioregistry.io/FYPO:0007632), ... |
-| `PomBase:vw`    |           1969 | [FYPO:0001795](https://bioregistry.io/FYPO:0001795), [FYPO:0004594](https://bioregistry.io/FYPO:0004594), [FYPO:0006195](https://bioregistry.io/FYPO:0006195), [FYPO:0006383](https://bioregistry.io/FYPO:0006383), [FYPO:0007586](https://bioregistry.io/FYPO:0007586), ... |
-| `PomBase:al`    |           1076 | [FYPO:0001655](https://bioregistry.io/FYPO:0001655), [FYPO:0002238](https://bioregistry.io/FYPO:0002238), [FYPO:0004078](https://bioregistry.io/FYPO:0004078), [FYPO:0004688](https://bioregistry.io/FYPO:0004688), [FYPO:0005023](https://bioregistry.io/FYPO:0005023), ... |
-| `PomBase:jh`    |             93 | [FYPO:0000320](https://bioregistry.io/FYPO:0000320), [FYPO:0001052](https://bioregistry.io/FYPO:0001052), [FYPO:0004495](https://bioregistry.io/FYPO:0004495), [FYPO:0005810](https://bioregistry.io/FYPO:0005810), [FYPO:0007787](https://bioregistry.io/FYPO:0007787), ... |
-| `PomBase:val`   |             16 | [FYPO:0007943](https://bioregistry.io/FYPO:0007943), [FYPO:0007946](https://bioregistry.io/FYPO:0007946), [FYPO:0007948](https://bioregistry.io/FYPO:0007948), [FYPO:0007951](https://bioregistry.io/FYPO:0007951), [FYPO:0007953](https://bioregistry.io/FYPO:0007953), ... |
+| `PomBase:mah`   |          14849 | [FYPO:0000001](https://bioregistry.io/FYPO:0000001), [FYPO:0000001](https://bioregistry.io/FYPO:0000001), [FYPO:0000002](https://bioregistry.io/FYPO:0000002), [FYPO:0000002](https://bioregistry.io/FYPO:0000002), [FYPO:0000003](https://bioregistry.io/FYPO:0000003), ... |
+| `PomBase:vw`    |           1969 | [FYPO:0000012](https://bioregistry.io/FYPO:0000012), [FYPO:0000013](https://bioregistry.io/FYPO:0000013), [FYPO:0000014](https://bioregistry.io/FYPO:0000014), [FYPO:0000016](https://bioregistry.io/FYPO:0000016), [FYPO:0000017](https://bioregistry.io/FYPO:0000017), ... |
+| `PomBase:al`    |           1076 | [FYPO:0000006](https://bioregistry.io/FYPO:0000006), [FYPO:0000061](https://bioregistry.io/FYPO:0000061), [FYPO:0000090](https://bioregistry.io/FYPO:0000090), [FYPO:0000102](https://bioregistry.io/FYPO:0000102), [FYPO:0000108](https://bioregistry.io/FYPO:0000108), ... |
+| `PomBase:jh`    |             93 | [FYPO:0000129](https://bioregistry.io/FYPO:0000129), [FYPO:0000229](https://bioregistry.io/FYPO:0000229), [FYPO:0000241](https://bioregistry.io/FYPO:0000241), [FYPO:0000284](https://bioregistry.io/FYPO:0000284), [FYPO:0000316](https://bioregistry.io/FYPO:0000316), ... |
+| `PomBase:val`   |             16 | [FYPO:0007902](https://bioregistry.io/FYPO:0007902), [FYPO:0007903](https://bioregistry.io/FYPO:0007903), [FYPO:0007906](https://bioregistry.io/FYPO:0007906), [FYPO:0007908](https://bioregistry.io/FYPO:0007908), [FYPO:0007909](https://bioregistry.io/FYPO:0007909), ... |
 | `PomBase:amc`   |              3 | [FYPO:0004251](https://bioregistry.io/FYPO:0004251), [FYPO:0006087](https://bioregistry.io/FYPO:0006087), [FYPO:0006318](https://bioregistry.io/FYPO:0006318)                                                                                                                |
 | `PomBase:mp`    |              2 | [FYPO:0001404](https://bioregistry.io/FYPO:0001404), [FYPO:0001405](https://bioregistry.io/FYPO:0001405)                                                                                                                                                                     |
 | `PomBase:gs`    |              2 | [FYPO:0002484](https://bioregistry.io/FYPO:0002484), [FYPO:0002485](https://bioregistry.io/FYPO:0002485)                                                                                                                                                                     |
@@ -63,8 +63,8 @@ did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `Pombase:vw`    |             29 | [FYPO:0003290](https://bioregistry.io/FYPO:0003290), [FYPO:0004613](https://bioregistry.io/FYPO:0004613), [FYPO:0004650](https://bioregistry.io/FYPO:0004650), [FYPO:0006273](https://bioregistry.io/FYPO:0006273), [FYPO:0006277](https://bioregistry.io/FYPO:0006277), ... |
-| `Pombase:al`    |              6 | [FYPO:0005527](https://bioregistry.io/FYPO:0005527), [FYPO:0005528](https://bioregistry.io/FYPO:0005528), [FYPO:0005528](https://bioregistry.io/FYPO:0005528), [FYPO:0006260](https://bioregistry.io/FYPO:0006260), [FYPO:0007144](https://bioregistry.io/FYPO:0007144), ... |
+| `Pombase:vw`    |             29 | [FYPO:0002440](https://bioregistry.io/FYPO:0002440), [FYPO:0003290](https://bioregistry.io/FYPO:0003290), [FYPO:0004022](https://bioregistry.io/FYPO:0004022), [FYPO:0004086](https://bioregistry.io/FYPO:0004086), [FYPO:0004159](https://bioregistry.io/FYPO:0004159), ... |
+| `Pombase:al`    |              6 | [FYPO:0004989](https://bioregistry.io/FYPO:0004989), [FYPO:0005527](https://bioregistry.io/FYPO:0005527), [FYPO:0005528](https://bioregistry.io/FYPO:0005528), [FYPO:0006260](https://bioregistry.io/FYPO:0006260), [FYPO:0007084](https://bioregistry.io/FYPO:0007084), ... |
 | `Pombase:mah`   |              4 | [FYPO:0005385](https://bioregistry.io/FYPO:0005385), [FYPO:0005396](https://bioregistry.io/FYPO:0005396), [FYPO:0006770](https://bioregistry.io/FYPO:0006770), [FYPO:0007288](https://bioregistry.io/FYPO:0007288)                                                           |
 
 ## `SGD`: Saccharomyces Genome Database
@@ -76,7 +76,7 @@ did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?)
 
 | external_xref              |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |----------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `SGD:phenotype_annotation` |            293 | [FYPO:0000412](https://bioregistry.io/FYPO:0000412), [FYPO:0000431](https://bioregistry.io/FYPO:0000431), [FYPO:0000461](https://bioregistry.io/FYPO:0000461), [FYPO:0000497](https://bioregistry.io/FYPO:0000497), [FYPO:0000521](https://bioregistry.io/FYPO:0000521), ... |
+| `SGD:phenotype_annotation` |            293 | [FYPO:0000005](https://bioregistry.io/FYPO:0000005), [FYPO:0000008](https://bioregistry.io/FYPO:0000008), [FYPO:0000011](https://bioregistry.io/FYPO:0000011), [FYPO:0000012](https://bioregistry.io/FYPO:0000012), [FYPO:0000023](https://bioregistry.io/FYPO:0000023), ... |
 
 ## `SO`: Sequence types and features ontology
 

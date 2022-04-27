@@ -1,7 +1,7 @@
 # aeo
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `aeo`. See the [GitHub repository](https://github.com/obophenotype/human-developmental-anatomy-ontology)
+for node, synonym, and definition cross-references in `aeo`. See the [GitHub repository](https://github.com/obophenotype/human-developmental-anatomy-ontology).
 
 
 ## `AEO`: Anatomical Entity Ontology
@@ -13,7 +13,7 @@ did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `AEO:JB`        |            111 | [AEO:0000080](https://bioregistry.io/AEO:0000080), [AEO:0000172](https://bioregistry.io/AEO:0000172), [AEO:0000173](https://bioregistry.io/AEO:0000173), [AEO:0001009](https://bioregistry.io/AEO:0001009), [AEO:0001014](https://bioregistry.io/AEO:0001014), ... |
+| `AEO:JB`        |            111 | [AEO:0000078](https://bioregistry.io/AEO:0000078), [AEO:0000079](https://bioregistry.io/AEO:0000079), [AEO:0000080](https://bioregistry.io/AEO:0000080), [AEO:0000081](https://bioregistry.io/AEO:0000081), [AEO:0000082](https://bioregistry.io/AEO:0000082), ... |
 
 ## `AEO.`: Anatomical Entity Ontology
 

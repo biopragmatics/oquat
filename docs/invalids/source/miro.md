@@ -1,7 +1,7 @@
 # miro
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `miro`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/MIRO)
+for node, synonym, and definition cross-references in `miro`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/MIRO).
 
 
 ## `CAS`: CAS Chemical Registry

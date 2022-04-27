@@ -1,7 +1,7 @@
 # peco
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `peco`. See the [GitHub repository](https://github.com/Planteome/plant-experimental-conditions-ontology)
+for node, synonym, and definition cross-references in `peco`. See the [GitHub repository](https://github.com/Planteome/plant-experimental-conditions-ontology).
 
 
 ## `CAS`: CAS Chemical Registry
@@ -87,7 +87,7 @@ did not match the standard pattern `^\d{7}$`.
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PECO:cooperl`       |            100 | [PECO:0001022](https://bioregistry.io/PECO:0001022), [PECO:0001050](https://bioregistry.io/PECO:0001050), [PECO:0001052](https://bioregistry.io/PECO:0001052), [PECO:0001062](https://bioregistry.io/PECO:0001062), [PECO:0007231](https://bioregistry.io/PECO:0007231), ... |
+| `PECO:cooperl`       |            100 | [PECO:0001001](https://bioregistry.io/PECO:0001001), [PECO:0001002](https://bioregistry.io/PECO:0001002), [PECO:0001003](https://bioregistry.io/PECO:0001003), [PECO:0001004](https://bioregistry.io/PECO:0001004), [PECO:0001005](https://bioregistry.io/PECO:0001005), ... |
 | `PECO:laura_moore`   |              2 | [PECO:0001058](https://bioregistry.io/PECO:0001058), [PECO:0001059](https://bioregistry.io/PECO:0001059)                                                                                                                                                                     |
 | `PECO:Laurel_Cooper` |              1 | [PECO:0001063](https://bioregistry.io/PECO:0001063)                                                                                                                                                                                                                          |
 
@@ -111,5 +111,5 @@ did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `TO:moorel`     |             11 | [PECO:0007063](https://bioregistry.io/PECO:0007063), [PECO:0007292](https://bioregistry.io/PECO:0007292), [PECO:0007402](https://bioregistry.io/PECO:0007402), [PECO:0007410](https://bioregistry.io/PECO:0007410), [PECO:0007521](https://bioregistry.io/PECO:0007521), ... |
+| `TO:moorel`     |             11 | [PECO:0007041](https://bioregistry.io/PECO:0007041), [PECO:0007063](https://bioregistry.io/PECO:0007063), [PECO:0007168](https://bioregistry.io/PECO:0007168), [PECO:0007287](https://bioregistry.io/PECO:0007287), [PECO:0007292](https://bioregistry.io/PECO:0007292), ... |
 

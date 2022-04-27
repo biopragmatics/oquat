@@ -1,7 +1,7 @@
 # fbbt
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `fbbt`. See the [GitHub repository](https://github.com/FlyBase/drosophila-anatomy-developmental-ontology)
+for node, synonym, and definition cross-references in `fbbt`. See the [GitHub repository](https://github.com/FlyBase/drosophila-anatomy-developmental-ontology).
 
 
 ## `DoOR`: Database for Prokaryotic Operons

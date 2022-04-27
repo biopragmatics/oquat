@@ -1,7 +1,7 @@
 # doid
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `doid`. See the [GitHub repository](https://github.com/DiseaseOntology/HumanDiseaseOntology)
+for node, synonym, and definition cross-references in `doid`. See the [GitHub repository](https://github.com/DiseaseOntology/HumanDiseaseOntology).
 
 
 ## `DO`: Human Disease Ontology
@@ -333,8 +333,8 @@ did not match the standard pattern `^Orphanet(_|:)C?\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ORDO:2542`     |              7 | [DOID:0060835](https://bioregistry.io/DOID:0060835), [DOID:0060839](https://bioregistry.io/DOID:0060839), [DOID:0060841](https://bioregistry.io/DOID:0060841), [DOID:0060841](https://bioregistry.io/DOID:0060841), [DOID:0060842](https://bioregistry.io/DOID:0060842), ... |
-| `ORDO:2440`     |              7 | [DOID:0090021](https://bioregistry.io/DOID:0090021), [DOID:0090021](https://bioregistry.io/DOID:0090021), [DOID:0090025](https://bioregistry.io/DOID:0090025), [DOID:0090026](https://bioregistry.io/DOID:0090026), [DOID:0090027](https://bioregistry.io/DOID:0090027), ... |
+| `ORDO:2542`     |              7 | [DOID:0060835](https://bioregistry.io/DOID:0060835), [DOID:0060836](https://bioregistry.io/DOID:0060836), [DOID:0060838](https://bioregistry.io/DOID:0060838), [DOID:0060839](https://bioregistry.io/DOID:0060839), [DOID:0060840](https://bioregistry.io/DOID:0060840), ... |
+| `ORDO:2440`     |              7 | [DOID:0090020](https://bioregistry.io/DOID:0090020), [DOID:0090021](https://bioregistry.io/DOID:0090021), [DOID:0090022](https://bioregistry.io/DOID:0090022), [DOID:0090023](https://bioregistry.io/DOID:0090023), [DOID:0090025](https://bioregistry.io/DOID:0090025), ... |
 | `ORDO:2524`     |              5 | [DOID:0060267](https://bioregistry.io/DOID:0060267), [DOID:0060268](https://bioregistry.io/DOID:0060268), [DOID:0060269](https://bioregistry.io/DOID:0060269), [DOID:0060270](https://bioregistry.io/DOID:0060270), [DOID:0112328](https://bioregistry.io/DOID:0112328)      |
 | `ORDO:169150`   |              5 | [DOID:0060299](https://bioregistry.io/DOID:0060299), [DOID:0060301](https://bioregistry.io/DOID:0060301), [DOID:0060302](https://bioregistry.io/DOID:0060302), [DOID:0060303](https://bioregistry.io/DOID:0060303), [DOID:8158](https://bioregistry.io/DOID:8158)            |
 | `ORDO:3152`     |              4 | [DOID:0060251](https://bioregistry.io/DOID:0060251), [DOID:0060756](https://bioregistry.io/DOID:0060756), [DOID:0060757](https://bioregistry.io/DOID:0060757), [DOID:0080036](https://bioregistry.io/DOID:0080036)                                                           |

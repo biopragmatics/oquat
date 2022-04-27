@@ -1,7 +1,7 @@
 # fbcv
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `fbcv`. See the [GitHub repository](https://github.com/FlyBase/flybase-controlled-vocabulary)
+for node, synonym, and definition cross-references in `fbcv`. See the [GitHub repository](https://github.com/FlyBase/flybase-controlled-vocabulary).
 
 
 ## `Reactome`: Reactome

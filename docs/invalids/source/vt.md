@@ -1,7 +1,7 @@
 # vt
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `vt`. See the [GitHub repository](https://github.com/AnimalGenome/vertebrate-trait-ontology)
+for node, synonym, and definition cross-references in `vt`. See the [GitHub repository](https://github.com/AnimalGenome/vertebrate-trait-ontology).
 
 
 ## `MESH`: Medical Subject Headings
@@ -37,11 +37,11 @@ did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MGI:smb`       |             73 | [VT:0003449](https://bioregistry.io/VT:0003449), [VT:0004047](https://bioregistry.io/VT:0004047), [VT:0005372](https://bioregistry.io/VT:0005372), [VT:0007052](https://bioregistry.io/VT:0007052), [VT:0015073](https://bioregistry.io/VT:0015073), ... |
-| `MGI:cwg`       |             22 | [VT:0010149](https://bioregistry.io/VT:0010149), [VT:0010167](https://bioregistry.io/VT:0010167), [VT:0010168](https://bioregistry.io/VT:0010168), [VT:0010168](https://bioregistry.io/VT:0010168), [VT:0010176](https://bioregistry.io/VT:0010176), ... |
-| `MGI:MP`        |             20 | [VT:0000023](https://bioregistry.io/VT:0000023), [VT:0000979](https://bioregistry.io/VT:0000979), [VT:0001052](https://bioregistry.io/VT:0001052), [VT:0002483](https://bioregistry.io/VT:0002483), [VT:0015107](https://bioregistry.io/VT:0015107), ... |
-| `MGI:csmith`    |             12 | [VT:0001332](https://bioregistry.io/VT:0001332), [VT:0001747](https://bioregistry.io/VT:0001747), [VT:0001884](https://bioregistry.io/VT:0001884), [VT:0002181](https://bioregistry.io/VT:0002181), [VT:0003795](https://bioregistry.io/VT:0003795), ... |
-| `MGI:mb`        |             10 | [VT:0010471](https://bioregistry.io/VT:0010471), [VT:0010474](https://bioregistry.io/VT:0010474), [VT:0010691](https://bioregistry.io/VT:0010691), [VT:0010691](https://bioregistry.io/VT:0010691), [VT:0010708](https://bioregistry.io/VT:0010708), ... |
+| `MGI:smb`       |             73 | [VT:0000013](https://bioregistry.io/VT:0000013), [VT:0000061](https://bioregistry.io/VT:0000061), [VT:0000135](https://bioregistry.io/VT:0000135), [VT:0000179](https://bioregistry.io/VT:0000179), [VT:0000269](https://bioregistry.io/VT:0000269), ... |
+| `MGI:cwg`       |             22 | [VT:0000023](https://bioregistry.io/VT:0000023), [VT:0000179](https://bioregistry.io/VT:0000179), [VT:0001777](https://bioregistry.io/VT:0001777), [VT:0002204](https://bioregistry.io/VT:0002204), [VT:0002278](https://bioregistry.io/VT:0002278), ... |
+| `MGI:MP`        |             20 | [VT:0000023](https://bioregistry.io/VT:0000023), [VT:0000895](https://bioregistry.io/VT:0000895), [VT:0000896](https://bioregistry.io/VT:0000896), [VT:0000968](https://bioregistry.io/VT:0000968), [VT:0000974](https://bioregistry.io/VT:0000974), ... |
+| `MGI:csmith`    |             12 | [VT:0000940](https://bioregistry.io/VT:0000940), [VT:0000977](https://bioregistry.io/VT:0000977), [VT:0001332](https://bioregistry.io/VT:0001332), [VT:0001747](https://bioregistry.io/VT:0001747), [VT:0001884](https://bioregistry.io/VT:0001884), ... |
+| `MGI:mb`        |             10 | [VT:0010471](https://bioregistry.io/VT:0010471), [VT:0010472](https://bioregistry.io/VT:0010472), [VT:0010474](https://bioregistry.io/VT:0010474), [VT:0010512](https://bioregistry.io/VT:0010512), [VT:0010689](https://bioregistry.io/VT:0010689), ... |
 | `MGI:anna`      |              2 | [VT:0004291](https://bioregistry.io/VT:0004291), [VT:0006028](https://bioregistry.io/VT:0006028)                                                                                                                                                         |
 | `MGI:brs`       |              1 | [VT:0003847](https://bioregistry.io/VT:0003847)                                                                                                                                                                                                          |
 | `MGI:hdene`     |              1 | [VT:0010158](https://bioregistry.io/VT:0010158)                                                                                                                                                                                                          |
@@ -92,10 +92,10 @@ did not match the standard pattern `^\d{4,}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `RGD:cur`       |            198 | [VT:0003241](https://bioregistry.io/VT:0003241), [VT:0005581](https://bioregistry.io/VT:0005581), [VT:0010737](https://bioregistry.io/VT:0010737), [VT:0010902](https://bioregistry.io/VT:0010902), [VT:0010936](https://bioregistry.io/VT:0010936), ... |
-| `RGD:MS`        |             62 | [VT:0001010](https://bioregistry.io/VT:0001010), [VT:0007010](https://bioregistry.io/VT:0007010), [VT:0008739](https://bioregistry.io/VT:0008739), [VT:0010028](https://bioregistry.io/VT:0010028), [VT:1000197](https://bioregistry.io/VT:1000197), ... |
-| `RGD:dhm`       |             55 | [VT:0000185](https://bioregistry.io/VT:0000185), [VT:0000197](https://bioregistry.io/VT:0000197), [VT:2000003](https://bioregistry.io/VT:2000003), [VT:2000005](https://bioregistry.io/VT:2000005), [VT:3000000](https://bioregistry.io/VT:3000000), ... |
-| `RGD:ms`        |             18 | [VT:0002128](https://bioregistry.io/VT:0002128), [VT:0002504](https://bioregistry.io/VT:0002504), [VT:0003057](https://bioregistry.io/VT:0003057), [VT:0004124](https://bioregistry.io/VT:0004124), [VT:0004252](https://bioregistry.io/VT:0004252), ... |
+| `RGD:cur`       |            198 | [VT:0002871](https://bioregistry.io/VT:0002871), [VT:0002928](https://bioregistry.io/VT:0002928), [VT:0002929](https://bioregistry.io/VT:0002929), [VT:0002932](https://bioregistry.io/VT:0002932), [VT:0003015](https://bioregistry.io/VT:0003015), ... |
+| `RGD:MS`        |             62 | [VT:0000073](https://bioregistry.io/VT:0000073), [VT:0000222](https://bioregistry.io/VT:0000222), [VT:0000524](https://bioregistry.io/VT:0000524), [VT:0000535](https://bioregistry.io/VT:0000535), [VT:0000544](https://bioregistry.io/VT:0000544), ... |
+| `RGD:dhm`       |             55 | [VT:0000050](https://bioregistry.io/VT:0000050), [VT:0000066](https://bioregistry.io/VT:0000066), [VT:0000153](https://bioregistry.io/VT:0000153), [VT:0000154](https://bioregistry.io/VT:0000154), [VT:0000170](https://bioregistry.io/VT:0000170), ... |
+| `RGD:ms`        |             18 | [VT:0002128](https://bioregistry.io/VT:0002128), [VT:0002295](https://bioregistry.io/VT:0002295), [VT:0002504](https://bioregistry.io/VT:0002504), [VT:0002726](https://bioregistry.io/VT:0002726), [VT:0002792](https://bioregistry.io/VT:0002792), ... |
 
 ## `RGD `: Rat Genome Database
 
@@ -117,6 +117,6 @@ did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `VTO:INRA`      |            229 | [VT:0010320](https://bioregistry.io/VT:0010320), [VT:0010397](https://bioregistry.io/VT:0010397), [VT:0010977](https://bioregistry.io/VT:0010977), [VT:0010993](https://bioregistry.io/VT:0010993), [VT:0100033](https://bioregistry.io/VT:0100033), ... |
-| `VTO:CP`        |            224 | [VT:0000072](https://bioregistry.io/VT:0000072), [VT:0010311](https://bioregistry.io/VT:0010311), [VT:0010358](https://bioregistry.io/VT:0010358), [VT:1000060](https://bioregistry.io/VT:1000060), [VT:1000518](https://bioregistry.io/VT:1000518), ... |
+| `VTO:INRA`      |            229 | [VT:0001131](https://bioregistry.io/VT:0001131), [VT:0010001](https://bioregistry.io/VT:0010001), [VT:0010004](https://bioregistry.io/VT:0010004), [VT:0010018](https://bioregistry.io/VT:0010018), [VT:0010029](https://bioregistry.io/VT:0010029), ... |
+| `VTO:CP`        |            224 | [VT:0000001](https://bioregistry.io/VT:0000001), [VT:0000009](https://bioregistry.io/VT:0000009), [VT:0000072](https://bioregistry.io/VT:0000072), [VT:0000116](https://bioregistry.io/VT:0000116), [VT:0000444](https://bioregistry.io/VT:0000444), ... |
 

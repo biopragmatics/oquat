@@ -1,7 +1,7 @@
 # tgma
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `tgma`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/TGMA)
+for node, synonym, and definition cross-references in `tgma`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/TGMA).
 
 
 ## `ISBN`: International Standard Book Number
@@ -38,5 +38,5 @@ did not match the standard pattern `^\d+$`.
 
 | external_xref          |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PubMed:PMID:15857775` |              9 | [TGMA:0000001](https://bioregistry.io/TGMA:0000001), [TGMA:0000710](https://bioregistry.io/TGMA:0000710), [TGMA:0000710](https://bioregistry.io/TGMA:0000710), [TGMA:0001818](https://bioregistry.io/TGMA:0001818), [TGMA:0001849](https://bioregistry.io/TGMA:0001849), ... |
+| `PubMed:PMID:15857775` |              9 | [TGMA:0000001](https://bioregistry.io/TGMA:0000001), [TGMA:0000710](https://bioregistry.io/TGMA:0000710), [TGMA:0000910](https://bioregistry.io/TGMA:0000910), [TGMA:0001818](https://bioregistry.io/TGMA:0001818), [TGMA:0001849](https://bioregistry.io/TGMA:0001849), ... |
 

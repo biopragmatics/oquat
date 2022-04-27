@@ -1,7 +1,7 @@
 # plana
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `plana`. See the [GitHub repository](https://github.com/obophenotype/planaria-ontology)
+for node, synonym, and definition cross-references in `plana`. See the [GitHub repository](https://github.com/obophenotype/planaria-ontology).
 
 
 ## `ASIN`: Amazon Standard Identification Number
@@ -13,7 +13,7 @@ did not match the standard pattern `^[0-9]{10}$`.
 
 | external_xref     |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ASIN:B000M4NK9M` |             18 | [PLANA:0000224](https://bioregistry.io/PLANA:0000224), [PLANA:0000473](https://bioregistry.io/PLANA:0000473), [PLANA:0000475](https://bioregistry.io/PLANA:0000475), [PLANA:0007535](https://bioregistry.io/PLANA:0007535), [PLANA:0007535](https://bioregistry.io/PLANA:0007535), ... |
+| `ASIN:B000M4NK9M` |             18 | [PLANA:0000224](https://bioregistry.io/PLANA:0000224), [PLANA:0000224](https://bioregistry.io/PLANA:0000224), [PLANA:0000241](https://bioregistry.io/PLANA:0000241), [PLANA:0000241](https://bioregistry.io/PLANA:0000241), [PLANA:0000472](https://bioregistry.io/PLANA:0000472), ... |
 
 ## `ncithesaurus`: NCI Thesaurus
 

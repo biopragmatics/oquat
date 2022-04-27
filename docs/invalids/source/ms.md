@@ -1,7 +1,7 @@
 # ms
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `ms`. See the [GitHub repository](https://github.com/HUPO-PSI/psi-ms-CV)
+for node, synonym, and definition cross-references in `ms`. See the [GitHub repository](https://github.com/HUPO-PSI/psi-ms-CV).
 
 
 ## `EDAM`: Bioinformatics operations, data types, formats, identifiers and topics

@@ -57,7 +57,7 @@ did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `VariO:mv`      |            410 | [VariO:0184](https://bioregistry.io/VariO:0184), [VariO:0230](https://bioregistry.io/VariO:0230), [VariO:0256](https://bioregistry.io/VariO:0256), [VariO:0289](https://bioregistry.io/VariO:0289), [VariO:0385](https://bioregistry.io/VariO:0385), ... |
+| `VariO:mv`      |            410 | [VariO:0001](https://bioregistry.io/VariO:0001), [VariO:0002](https://bioregistry.io/VariO:0002), [VariO:0003](https://bioregistry.io/VariO:0003), [VariO:0004](https://bioregistry.io/VariO:0004), [VariO:0005](https://bioregistry.io/VariO:0005), ... |
 
 ## `Vario`: Variation Ontology
 

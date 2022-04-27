@@ -1,7 +1,7 @@
 # rs
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `rs`. See the [GitHub repository](https://github.com/rat-genome-database/RS-Rat-Strain-Ontology)
+for node, synonym, and definition cross-references in `rs`. See the [GitHub repository](https://github.com/rat-genome-database/RS-Rat-Strain-Ontology).
 
 
 ## `RGD`: Rat Genome Database

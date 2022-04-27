@@ -1,7 +1,6 @@
 """Analyze invalid identifiers."""
 
 import json
-import random
 from collections import defaultdict
 from operator import itemgetter
 from textwrap import dedent
@@ -45,7 +44,7 @@ def main():
     for source, inner in tqdm(d.items(), unit="source"):
         source_path = SOURCES.joinpath(f"{source}.md")
         repository = bioregistry.get_repository(source)
-        repo_text = f" See the [GitHub repository]({repository})" if repository else ""
+        repo_text = f" See the [GitHub repository]({repository})." if repository else ""
         source_text = dedent(
             f"""\
         # {source}
@@ -77,7 +76,7 @@ def main():
                     examples = (
                         ", ".join(
                             f"[{example_curie}](https://bioregistry.io/{example_curie})"
-                            for example_curie in sorted(random.choices(list(nodes), k=5))
+                            for example_curie in sorted(nodes)[:5]
                         )
                         + ", ..."
                     )

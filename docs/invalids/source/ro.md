@@ -1,7 +1,7 @@
 # ro
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `ro`. See the [GitHub repository](https://github.com/oborel/obo-relations)
+for node, synonym, and definition cross-references in `ro`. See the [GitHub repository](https://github.com/oborel/obo-relations).
 
 
 ## `ECO`: Evidence ontology

@@ -1,7 +1,7 @@
 # symp
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `symp`. See the [GitHub repository](https://github.com/DiseaseOntology/SymptomOntology)
+for node, synonym, and definition cross-references in `symp`. See the [GitHub repository](https://github.com/DiseaseOntology/SymptomOntology).
 
 
 ## `ICD9CM_2005`: International Classification of Diseases, 9th Revision, Clinical Modification

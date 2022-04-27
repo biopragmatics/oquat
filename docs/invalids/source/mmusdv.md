@@ -1,7 +1,7 @@
 # mmusdv
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `mmusdv`. See the [GitHub repository](https://github.com/obophenotype/developmental-stage-ontologies)
+for node, synonym, and definition cross-references in `mmusdv`. See the [GitHub repository](https://github.com/obophenotype/developmental-stage-ontologies).
 
 
 ## `EMAPA`: Mouse Developmental Anatomy Ontology

@@ -1,7 +1,7 @@
 # eco
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology)
+for node, synonym, and definition cross-references in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology).
 
 
 ## `DisProt`: DisProt
@@ -13,7 +13,7 @@ did not match the standard pattern `^DP\d{5}$`.
 
 | external_xref            |   usages_count | usages                                                                                                                                                                                                                                                             |
 |--------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `DisProt:BalintMeszaros` |              7 | [ECO:0006185](https://bioregistry.io/ECO:0006185), [ECO:0006187](https://bioregistry.io/ECO:0006187), [ECO:0006188](https://bioregistry.io/ECO:0006188), [ECO:0006189](https://bioregistry.io/ECO:0006189), [ECO:0006189](https://bioregistry.io/ECO:0006189), ... |
+| `DisProt:BalintMeszaros` |              7 | [ECO:0006183](https://bioregistry.io/ECO:0006183), [ECO:0006185](https://bioregistry.io/ECO:0006185), [ECO:0006187](https://bioregistry.io/ECO:0006187), [ECO:0006188](https://bioregistry.io/ECO:0006188), [ECO:0006189](https://bioregistry.io/ECO:0006189), ... |
 
 ## `ECO`: Evidence ontology
 
@@ -24,10 +24,10 @@ did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ECO:RCT`       |            718 | [ECO:0007142](https://bioregistry.io/ECO:0007142), [ECO:0007234](https://bioregistry.io/ECO:0007234), [ECO:0007488](https://bioregistry.io/ECO:0007488), [ECO:0007594](https://bioregistry.io/ECO:0007594), [ECO:0007651](https://bioregistry.io/ECO:0007651), ... |
-| `ECO:SN`        |            328 | [ECO:0005574](https://bioregistry.io/ECO:0005574), [ECO:0005596](https://bioregistry.io/ECO:0005596), [ECO:0005629](https://bioregistry.io/ECO:0005629), [ECO:0006174](https://bioregistry.io/ECO:0006174), [ECO:0006219](https://bioregistry.io/ECO:0006219), ... |
-| `ECO:MCC`       |            297 | [ECO:0000273](https://bioregistry.io/ECO:0000273), [ECO:0000294](https://bioregistry.io/ECO:0000294), [ECO:0000337](https://bioregistry.io/ECO:0000337), [ECO:0000363](https://bioregistry.io/ECO:0000363), [ECO:0001245](https://bioregistry.io/ECO:0001245), ... |
-| `ECO:SW`        |             58 | [ECO:0001040](https://bioregistry.io/ECO:0001040), [ECO:0001040](https://bioregistry.io/ECO:0001040), [ECO:0001127](https://bioregistry.io/ECO:0001127), [ECO:0001826](https://bioregistry.io/ECO:0001826), [ECO:0005521](https://bioregistry.io/ECO:0005521), ... |
+| `ECO:RCT`       |            718 | [ECO:0000009](https://bioregistry.io/ECO:0000009), [ECO:0000011](https://bioregistry.io/ECO:0000011), [ECO:0000033](https://bioregistry.io/ECO:0000033), [ECO:0000053](https://bioregistry.io/ECO:0000053), [ECO:0000054](https://bioregistry.io/ECO:0000054), ... |
+| `ECO:SN`        |            328 | [ECO:0000001](https://bioregistry.io/ECO:0000001), [ECO:0000002](https://bioregistry.io/ECO:0000002), [ECO:0000018](https://bioregistry.io/ECO:0000018), [ECO:0000021](https://bioregistry.io/ECO:0000021), [ECO:0000028](https://bioregistry.io/ECO:0000028), ... |
+| `ECO:MCC`       |            297 | [ECO:0000000](https://bioregistry.io/ECO:0000000), [ECO:0000007](https://bioregistry.io/ECO:0000007), [ECO:0000008](https://bioregistry.io/ECO:0000008), [ECO:0000019](https://bioregistry.io/ECO:0000019), [ECO:0000020](https://bioregistry.io/ECO:0000020), ... |
+| `ECO:SW`        |             58 | [ECO:0000085](https://bioregistry.io/ECO:0000085), [ECO:0000095](https://bioregistry.io/ECO:0000095), [ECO:0000096](https://bioregistry.io/ECO:0000096), [ECO:0000106](https://bioregistry.io/ECO:0000106), [ECO:0000109](https://bioregistry.io/ECO:0000109), ... |
 | `ECO:KAV`       |              3 | [ECO:0000003](https://bioregistry.io/ECO:0000003), [ECO:0000154](https://bioregistry.io/ECO:0000154), [ECO:0000164](https://bioregistry.io/ECO:0000164)                                                                                                            |
 | `ECO:KIM`       |              2 | [ECO:0000004](https://bioregistry.io/ECO:0000004), [ECO:0000096](https://bioregistry.io/ECO:0000096)                                                                                                                                                               |
 | `ECO:RCJ`       |              2 | [ECO:0001828](https://bioregistry.io/ECO:0001828), [ECO:0007850](https://bioregistry.io/ECO:0007850)                                                                                                                                                               |

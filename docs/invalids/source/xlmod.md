@@ -1,7 +1,7 @@
 # xlmod
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `xlmod`. See the [GitHub repository](https://github.com/HUPO-PSI/xlmod-CV)
+for node, synonym, and definition cross-references in `xlmod`. See the [GitHub repository](https://github.com/HUPO-PSI/xlmod-CV).
 
 
 ## `CAS`: CAS Chemical Registry

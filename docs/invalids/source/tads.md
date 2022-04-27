@@ -1,7 +1,7 @@
 # tads
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `tads`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/TADS)
+for node, synonym, and definition cross-references in `tads`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/TADS).
 
 
 ## `ISBN`: International Standard Book Number

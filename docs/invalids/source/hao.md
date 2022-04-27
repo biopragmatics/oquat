@@ -1,7 +1,7 @@
 # hao
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `hao`. See the [GitHub repository](https://github.com/hymao/hao)
+for node, synonym, and definition cross-references in `hao`. See the [GitHub repository](https://github.com/hymao/hao).
 
 
 ## `DOI`: Digital Object Identifier

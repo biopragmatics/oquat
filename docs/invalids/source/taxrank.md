@@ -1,7 +1,7 @@
 # taxrank
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `taxrank`. See the [GitHub repository](https://github.com/phenoscape/taxrank)
+for node, synonym, and definition cross-references in `taxrank`. See the [GitHub repository](https://github.com/phenoscape/taxrank).
 
 
 ## `NCBITaxon`: NCBI organismal classification

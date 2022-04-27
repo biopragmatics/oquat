@@ -1,7 +1,7 @@
 # tto
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `tto`. See the [GitHub repository](https://github.com/phenoscape/teleost-taxonomy-ontology)
+for node, synonym, and definition cross-references in `tto`. See the [GitHub repository](https://github.com/phenoscape/teleost-taxonomy-ontology).
 
 
 ## `NCBITaxon`: NCBI organismal classification
@@ -27,8 +27,8 @@ xrefs to external prefixed with `TTO` (standardized to Bioregistry
 entry [`tto`]((https://bioregistry.io/tto)) that
 did not match the standard pattern `^\d+$`.
 
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
-|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `TTO:curator`   |             42 | [TTO:1005387](https://bioregistry.io/TTO:1005387), [TTO:1005871](https://bioregistry.io/TTO:1005871), [TTO:1048281](https://bioregistry.io/TTO:1048281), [TTO:1053567](https://bioregistry.io/TTO:1053567), [TTO:1054251](https://bioregistry.io/TTO:1054251), ... |
-| `TTO:PEM`       |              1 | [TTO:1007547](https://bioregistry.io/TTO:1007547)                                                                                                                                                                                                                  |
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                 |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `TTO:curator`   |             42 | [TTO:10000676](https://bioregistry.io/TTO:10000676), [TTO:10000677](https://bioregistry.io/TTO:10000677), [TTO:1001317](https://bioregistry.io/TTO:1001317), [TTO:1002747](https://bioregistry.io/TTO:1002747), [TTO:1003391](https://bioregistry.io/TTO:1003391), ... |
+| `TTO:PEM`       |              1 | [TTO:1007547](https://bioregistry.io/TTO:1007547)                                                                                                                                                                                                                      |
 

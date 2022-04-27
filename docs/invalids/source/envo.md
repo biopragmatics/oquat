@@ -1,7 +1,7 @@
 # envo
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `envo`. See the [GitHub repository](https://github.com/EnvironmentOntology/envo)
+for node, synonym, and definition cross-references in `envo`. See the [GitHub repository](https://github.com/EnvironmentOntology/envo).
 
 
 ## `BS`: Biosapiens Protein Feature Ontology
@@ -46,7 +46,7 @@ did not match the standard pattern `^\d{7}$`.
 
 | external_xref                                                          |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf`              |             27 | [ENVO:00002229](https://bioregistry.io/ENVO:00002229), [ENVO:00002229](https://bioregistry.io/ENVO:00002229), [ENVO:00002229](https://bioregistry.io/ENVO:00002229), [ENVO:00002247](https://bioregistry.io/ENVO:00002247), [ENVO:00002250](https://bioregistry.io/ENVO:00002250), ... |
+| `FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf`              |             27 | [ENVO:00002229](https://bioregistry.io/ENVO:00002229), [ENVO:00002231](https://bioregistry.io/ENVO:00002231), [ENVO:00002233](https://bioregistry.io/ENVO:00002233), [ENVO:00002234](https://bioregistry.io/ENVO:00002234), [ENVO:00002235](https://bioregistry.io/ENVO:00002235), ... |
 | `FAO:http://www.fao.org/soils-portal/soil-degradation-restoration/en/` |              1 | [ENVO:01000705](https://bioregistry.io/ENVO:01000705)                                                                                                                                                                                                                                  |
 
 ## `MA`: Mouse adult gross anatomy
@@ -58,7 +58,7 @@ did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MA:ma`         |            133 | [ENVO:00000036](https://bioregistry.io/ENVO:00000036), [ENVO:00000180](https://bioregistry.io/ENVO:00000180), [ENVO:00000374](https://bioregistry.io/ENVO:00000374), [ENVO:00001995](https://bioregistry.io/ENVO:00001995), [ENVO:00002062](https://bioregistry.io/ENVO:00002062), ... |
+| `MA:ma`         |            133 | [ENVO:00000010](https://bioregistry.io/ENVO:00000010), [ENVO:00000012](https://bioregistry.io/ENVO:00000012), [ENVO:00000014](https://bioregistry.io/ENVO:00000014), [ENVO:00000018](https://bioregistry.io/ENVO:00000018), [ENVO:00000019](https://bioregistry.io/ENVO:00000019), ... |
 
 ## `WWF`: World Wildlife Fund Ecoregion
 

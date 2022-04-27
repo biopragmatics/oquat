@@ -1,7 +1,7 @@
 # cl
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology)
+for node, synonym, and definition cross-references in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
 
 
 ## `BTO`: BRENDA tissue / enzyme source
@@ -24,7 +24,7 @@ did not match the standard pattern `^\d{7}$`.
 
 | external_xref                            |   usages_count | usages                                                                                                                                                                                                                                                   |
 |------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CL:CVS`                                 |             16 | [CL:0005001](https://bioregistry.io/CL:0005001), [CL:0005009](https://bioregistry.io/CL:0005009), [CL:0005010](https://bioregistry.io/CL:0005010), [CL:0005011](https://bioregistry.io/CL:0005011), [CL:0005015](https://bioregistry.io/CL:0005015), ... |
+| `CL:CVS`                                 |             16 | [CL:0000212](https://bioregistry.io/CL:0000212), [CL:0005000](https://bioregistry.io/CL:0005000), [CL:0005001](https://bioregistry.io/CL:0005001), [CL:0005002](https://bioregistry.io/CL:0005002), [CL:0005003](https://bioregistry.io/CL:0005003), ... |
 | `CL:MAH`                                 |              3 | [CL:0007007](https://bioregistry.io/CL:0007007), [CL:0007008](https://bioregistry.io/CL:0007008), [CL:0007011](https://bioregistry.io/CL:0007011)                                                                                                        |
 | `CL:curator`                             |              1 | [CL:0005018](https://bioregistry.io/CL:0005018)                                                                                                                                                                                                          |
 | `CL:patterns/cellPartOfAnatomicalEntity` |              1 | [CL:0011030](https://bioregistry.io/CL:0011030)                                                                                                                                                                                                          |
@@ -50,7 +50,7 @@ did not match the standard pattern `^FB\w{2}\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `FB:ma`         |             25 | [CL:0000134](https://bioregistry.io/CL:0000134), [CL:0000393](https://bioregistry.io/CL:0000393), [CL:0000414](https://bioregistry.io/CL:0000414), [CL:0000415](https://bioregistry.io/CL:0000415), [CL:0000630](https://bioregistry.io/CL:0000630), ... |
+| `FB:ma`         |             25 | [CL:0000004](https://bioregistry.io/CL:0000004), [CL:0000063](https://bioregistry.io/CL:0000063), [CL:0000066](https://bioregistry.io/CL:0000066), [CL:0000134](https://bioregistry.io/CL:0000134), [CL:0000144](https://bioregistry.io/CL:0000144), ... |
 
 ## `Flybase`: FlyBase Gene
 
@@ -94,7 +94,7 @@ did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `GO:tfm`        |             16 | [CL:0000479](https://bioregistry.io/CL:0000479), [CL:0000479](https://bioregistry.io/CL:0000479), [CL:0000495](https://bioregistry.io/CL:0000495), [CL:0000507](https://bioregistry.io/CL:0000507), [CL:0000511](https://bioregistry.io/CL:0000511), ... |
+| `GO:tfm`        |             16 | [CL:0000478](https://bioregistry.io/CL:0000478), [CL:0000479](https://bioregistry.io/CL:0000479), [CL:0000480](https://bioregistry.io/CL:0000480), [CL:0000481](https://bioregistry.io/CL:0000481), [CL:0000482](https://bioregistry.io/CL:0000482), ... |
 | `GO:cvs`        |              1 | [CL:0005008](https://bioregistry.io/CL:0005008)                                                                                                                                                                                                          |
 
 ## `HPA`: Human Protein Atlas tissue profile information
@@ -106,7 +106,7 @@ did not match the standard pattern `^ENSG\d{11}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `HPA:HPA`       |              6 | [CL:1001586](https://bioregistry.io/CL:1001586), [CL:1001593](https://bioregistry.io/CL:1001593), [CL:1001593](https://bioregistry.io/CL:1001593), [CL:1001599](https://bioregistry.io/CL:1001599), [CL:1001599](https://bioregistry.io/CL:1001599), ... |
+| `HPA:HPA`       |              6 | [CL:1001586](https://bioregistry.io/CL:1001586), [CL:1001591](https://bioregistry.io/CL:1001591), [CL:1001593](https://bioregistry.io/CL:1001593), [CL:1001596](https://bioregistry.io/CL:1001596), [CL:1001599](https://bioregistry.io/CL:1001599), ... |
 | `HPA:Breast`    |              1 | [CL:1001583](https://bioregistry.io/CL:1001583)                                                                                                                                                                                                          |
 
 ## `MA`: Mouse adult gross anatomy
@@ -282,7 +282,7 @@ did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?)
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `SGD:clt`       |             19 | [CL:0000597](https://bioregistry.io/CL:0000597), [CL:0000606](https://bioregistry.io/CL:0000606), [CL:0002381](https://bioregistry.io/CL:0002381), [CL:0002384](https://bioregistry.io/CL:0002384), [CL:0002384](https://bioregistry.io/CL:0002384), ... |
+| `SGD:clt`       |             19 | [CL:0000596](https://bioregistry.io/CL:0000596), [CL:0000597](https://bioregistry.io/CL:0000597), [CL:0000599](https://bioregistry.io/CL:0000599), [CL:0000605](https://bioregistry.io/CL:0000605), [CL:0000606](https://bioregistry.io/CL:0000606), ... |
 
 ## `Wikipedia`: Wikipedia
 

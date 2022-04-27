@@ -1,7 +1,7 @@
 # geno
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `geno`. See the [GitHub repository](https://github.com/monarch-initiative/GENO-ontology)
+for node, synonym, and definition cross-references in `geno`. See the [GitHub repository](https://github.com/monarch-initiative/GENO-ontology).
 
 
 ## `OBI`: Ontology for Biomedical Investigations

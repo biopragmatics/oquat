@@ -1,7 +1,7 @@
 # fbbi
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `fbbi`. See the [GitHub repository](https://github.com/CRBS/Biological_Imaging_Methods_Ontology)
+for node, synonym, and definition cross-references in `fbbi`. See the [GitHub repository](https://github.com/CRBS/Biological_Imaging_Methods_Ontology).
 
 
 ## `Wikipedia`: Wikipedia

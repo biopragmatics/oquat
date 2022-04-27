@@ -1,7 +1,7 @@
 # mod
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `mod`. See the [GitHub repository](https://github.com/HUPO-PSI/psi-mod-CV)
+for node, synonym, and definition cross-references in `mod`. See the [GitHub repository](https://github.com/HUPO-PSI/psi-mod-CV).
 
 
 ## `GNO`: Glycan Naming and Subsumption Ontology
@@ -75,7 +75,7 @@ did not match the standard pattern `^AA\d{4}$`.
 
 | external_xref       |   usages_count | usages                                                                                                                                                                                                                                         |
 |---------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `RESID:AA0151#var`  |             21 | [MOD:00515](https://bioregistry.io/MOD:00515), [MOD:00524](https://bioregistry.io/MOD:00524), [MOD:00529](https://bioregistry.io/MOD:00529), [MOD:00831](https://bioregistry.io/MOD:00831), [MOD:00831](https://bioregistry.io/MOD:00831), ... |
+| `RESID:AA0151#var`  |             21 | [MOD:00160](https://bioregistry.io/MOD:00160), [MOD:00506](https://bioregistry.io/MOD:00506), [MOD:00510](https://bioregistry.io/MOD:00510), [MOD:00511](https://bioregistry.io/MOD:00511), [MOD:00512](https://bioregistry.io/MOD:00512), ... |
 | `RESID:AA0202#var`  |              4 | [MOD:00872](https://bioregistry.io/MOD:00872), [MOD:00873](https://bioregistry.io/MOD:00873), [MOD:00874](https://bioregistry.io/MOD:00874), [MOD:00875](https://bioregistry.io/MOD:00875)                                                     |
 | `RESID:AA0107#var`  |              3 | [MOD:00898](https://bioregistry.io/MOD:00898), [MOD:00899](https://bioregistry.io/MOD:00899), [MOD:01144](https://bioregistry.io/MOD:01144)                                                                                                    |
 | `RESID:AA0105#var`  |              3 | [MOD:01116](https://bioregistry.io/MOD:01116), [MOD:01119](https://bioregistry.io/MOD:01119), [MOD:01133](https://bioregistry.io/MOD:01133)                                                                                                    |
@@ -166,9 +166,9 @@ did not match the standard pattern `^\d+$`.
 
 | external_xref       |   usages_count | usages                                                                                                                                                                                                                                         |
 |---------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `Unimod:737#N-term` |              6 | [MOD:01721](https://bioregistry.io/MOD:01721), [MOD:01737](https://bioregistry.io/MOD:01737), [MOD:01761](https://bioregistry.io/MOD:01761), [MOD:01761](https://bioregistry.io/MOD:01761), [MOD:01761](https://bioregistry.io/MOD:01761), ... |
-| `Unimod:737#K`      |              6 | [MOD:01722](https://bioregistry.io/MOD:01722), [MOD:01730](https://bioregistry.io/MOD:01730), [MOD:01738](https://bioregistry.io/MOD:01738), [MOD:01754](https://bioregistry.io/MOD:01754), [MOD:01762](https://bioregistry.io/MOD:01762), ... |
-| `Unimod:737#Y`      |              6 | [MOD:01723](https://bioregistry.io/MOD:01723), [MOD:01731](https://bioregistry.io/MOD:01731), [MOD:01747](https://bioregistry.io/MOD:01747), [MOD:01763](https://bioregistry.io/MOD:01763), [MOD:01763](https://bioregistry.io/MOD:01763), ... |
+| `Unimod:737#N-term` |              6 | [MOD:01721](https://bioregistry.io/MOD:01721), [MOD:01729](https://bioregistry.io/MOD:01729), [MOD:01737](https://bioregistry.io/MOD:01737), [MOD:01745](https://bioregistry.io/MOD:01745), [MOD:01753](https://bioregistry.io/MOD:01753), ... |
+| `Unimod:737#K`      |              6 | [MOD:01722](https://bioregistry.io/MOD:01722), [MOD:01730](https://bioregistry.io/MOD:01730), [MOD:01738](https://bioregistry.io/MOD:01738), [MOD:01746](https://bioregistry.io/MOD:01746), [MOD:01754](https://bioregistry.io/MOD:01754), ... |
+| `Unimod:737#Y`      |              6 | [MOD:01723](https://bioregistry.io/MOD:01723), [MOD:01731](https://bioregistry.io/MOD:01731), [MOD:01739](https://bioregistry.io/MOD:01739), [MOD:01747](https://bioregistry.io/MOD:01747), [MOD:01755](https://bioregistry.io/MOD:01755), ... |
 | `Unimod:214#N-term` |              5 | [MOD:01500](https://bioregistry.io/MOD:01500), [MOD:01507](https://bioregistry.io/MOD:01507), [MOD:01711](https://bioregistry.io/MOD:01711), [MOD:01712](https://bioregistry.io/MOD:01712), [MOD:01718](https://bioregistry.io/MOD:01718)      |
 | `Unimod:34#C-term`  |              4 | [MOD:00114](https://bioregistry.io/MOD:00114), [MOD:00304](https://bioregistry.io/MOD:00304), [MOD:00323](https://bioregistry.io/MOD:00323), [MOD:01689](https://bioregistry.io/MOD:01689)                                                     |
 | `Unimod:730#N-term` |              4 | [MOD:01529](https://bioregistry.io/MOD:01529), [MOD:01536](https://bioregistry.io/MOD:01536), [MOD:01550](https://bioregistry.io/MOD:01550), [MOD:01557](https://bioregistry.io/MOD:01557)                                                     |

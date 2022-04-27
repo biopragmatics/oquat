@@ -1,7 +1,7 @@
 # sibo
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `sibo`. See the [GitHub repository](https://github.com/obophenotype/sibo)
+for node, synonym, and definition cross-references in `sibo`. See the [GitHub repository](https://github.com/obophenotype/sibo).
 
 
 ## `KEGG COMPOUND`: KEGG Compound

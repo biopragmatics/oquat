@@ -1,7 +1,7 @@
 # mi
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `mi`. See the [GitHub repository](https://github.com/HUPO-PSI/psi-mi-CV)
+for node, synonym, and definition cross-references in `mi`. See the [GitHub repository](https://github.com/HUPO-PSI/psi-mi-CV).
 
 
 ## `GO`: Gene Ontology

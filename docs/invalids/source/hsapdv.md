@@ -1,7 +1,7 @@
 # hsapdv
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `hsapdv`. See the [GitHub repository](https://github.com/obophenotype/developmental-stage-ontologies)
+for node, synonym, and definition cross-references in `hsapdv`. See the [GitHub repository](https://github.com/obophenotype/developmental-stage-ontologies).
 
 
 ## `EHDAA2`: Human developmental anatomy, abstract

@@ -1,7 +1,7 @@
 # clao
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `clao`. See the [GitHub repository](https://github.com/luis-gonzalez-m/Collembola)
+for node, synonym, and definition cross-references in `clao`. See the [GitHub repository](https://github.com/luis-gonzalez-m/Collembola).
 
 
 ## `FMA`: Foundational Model of Anatomy

@@ -1,7 +1,7 @@
 # poro
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `poro`. See the [GitHub repository](https://github.com/obophenotype/porifera-ontology)
+for node, synonym, and definition cross-references in `poro`. See the [GitHub repository](https://github.com/obophenotype/porifera-ontology).
 
 
 ## `UBERON`: Uber Anatomy Ontology

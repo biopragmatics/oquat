@@ -1,7 +1,7 @@
 # apo
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `apo`. See the [GitHub repository](https://github.com/obophenotype/ascomycete-phenotype-ontology)
+for node, synonym, and definition cross-references in `apo`. See the [GitHub repository](https://github.com/obophenotype/ascomycete-phenotype-ontology).
 
 
 ## `BioGRID`: BioGRID
@@ -25,7 +25,7 @@ did not match the standard pattern `^CAL\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CGD:mcc`       |              6 | [APO:0000319](https://bioregistry.io/APO:0000319), [APO:0000319](https://bioregistry.io/APO:0000319), [APO:0000320](https://bioregistry.io/APO:0000320), [APO:0000320](https://bioregistry.io/APO:0000320), [APO:0000320](https://bioregistry.io/APO:0000320), ... |
+| `CGD:mcc`       |              6 | [APO:0000319](https://bioregistry.io/APO:0000319), [APO:0000320](https://bioregistry.io/APO:0000320), [APO:0000321](https://bioregistry.io/APO:0000321), [APO:0000324](https://bioregistry.io/APO:0000324), [APO:0000325](https://bioregistry.io/APO:0000325), ... |
 
 ## `SGD`: Saccharomyces Genome Database
 
@@ -36,9 +36,9 @@ did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?)
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `SGD:mcc`       |            127 | [APO:0000091](https://bioregistry.io/APO:0000091), [APO:0000093](https://bioregistry.io/APO:0000093), [APO:0000124](https://bioregistry.io/APO:0000124), [APO:0000197](https://bioregistry.io/APO:0000197), [APO:0000199](https://bioregistry.io/APO:0000199), ... |
-| `SGD:RSN`       |            110 | [APO:0000026](https://bioregistry.io/APO:0000026), [APO:0000136](https://bioregistry.io/APO:0000136), [APO:0000265](https://bioregistry.io/APO:0000265), [APO:0000268](https://bioregistry.io/APO:0000268), [APO:0000276](https://bioregistry.io/APO:0000276), ... |
-| `SGD:curators`  |             47 | [APO:0000004](https://bioregistry.io/APO:0000004), [APO:0000020](https://bioregistry.io/APO:0000020), [APO:0000098](https://bioregistry.io/APO:0000098), [APO:0000110](https://bioregistry.io/APO:0000110), [APO:0000211](https://bioregistry.io/APO:0000211), ... |
+| `SGD:mcc`       |            127 | [APO:0000023](https://bioregistry.io/APO:0000023), [APO:0000024](https://bioregistry.io/APO:0000024), [APO:0000027](https://bioregistry.io/APO:0000027), [APO:0000030](https://bioregistry.io/APO:0000030), [APO:0000031](https://bioregistry.io/APO:0000031), ... |
+| `SGD:RSN`       |            110 | [APO:0000011](https://bioregistry.io/APO:0000011), [APO:0000011](https://bioregistry.io/APO:0000011), [APO:0000012](https://bioregistry.io/APO:0000012), [APO:0000012](https://bioregistry.io/APO:0000012), [APO:0000016](https://bioregistry.io/APO:0000016), ... |
+| `SGD:curators`  |             47 | [APO:0000001](https://bioregistry.io/APO:0000001), [APO:0000002](https://bioregistry.io/APO:0000002), [APO:0000003](https://bioregistry.io/APO:0000003), [APO:0000004](https://bioregistry.io/APO:0000004), [APO:0000005](https://bioregistry.io/APO:0000005), ... |
 | `SGD:rsn`       |              1 | [APO:0000028](https://bioregistry.io/APO:0000028)                                                                                                                                                                                                                  |
 | `SGD:krc`       |              1 | [APO:0000029](https://bioregistry.io/APO:0000029)                                                                                                                                                                                                                  |
 

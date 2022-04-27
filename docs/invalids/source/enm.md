@@ -29,8 +29,8 @@ did not match the standard pattern `^\d{7}$`.
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `BSPO:cjm`           |             11 | [BSPO:0000096](https://bioregistry.io/BSPO:0000096), [BSPO:0000098](https://bioregistry.io/BSPO:0000098), [BSPO:0000100](https://bioregistry.io/BSPO:0000100), [BSPO:0000107](https://bioregistry.io/BSPO:0000107), [BSPO:0001100](https://bioregistry.io/BSPO:0001100), ... |
-| `BSPO:PATO_mtg_2009` |              6 | [BSPO:0000120](https://bioregistry.io/BSPO:0000120), [BSPO:0000122](https://bioregistry.io/BSPO:0000122), [BSPO:0000123](https://bioregistry.io/BSPO:0000123), [BSPO:0000123](https://bioregistry.io/BSPO:0000123), [BSPO:0000125](https://bioregistry.io/BSPO:0000125), ... |
+| `BSPO:cjm`           |             11 | [BSPO:0000096](https://bioregistry.io/BSPO:0000096), [BSPO:0000097](https://bioregistry.io/BSPO:0000097), [BSPO:0000098](https://bioregistry.io/BSPO:0000098), [BSPO:0000099](https://bioregistry.io/BSPO:0000099), [BSPO:0000100](https://bioregistry.io/BSPO:0000100), ... |
+| `BSPO:PATO_mtg_2009` |              6 | [BSPO:0000120](https://bioregistry.io/BSPO:0000120), [BSPO:0000121](https://bioregistry.io/BSPO:0000121), [BSPO:0000122](https://bioregistry.io/BSPO:0000122), [BSPO:0000123](https://bioregistry.io/BSPO:0000123), [BSPO:0000124](https://bioregistry.io/BSPO:0000124), ... |
 
 ## `ENVO`: Environment Ontology
 
@@ -52,7 +52,7 @@ did not match the standard pattern `^\d{7}$`.
 
 | external_xref                                             |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-----------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf` |             27 | [ENVO:00002233](https://bioregistry.io/ENVO:00002233), [ENVO:00002237](https://bioregistry.io/ENVO:00002237), [ENVO:00002246](https://bioregistry.io/ENVO:00002246), [ENVO:00002247](https://bioregistry.io/ENVO:00002247), [ENVO:00002252](https://bioregistry.io/ENVO:00002252), ... |
+| `FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf` |             27 | [ENVO:00002229](https://bioregistry.io/ENVO:00002229), [ENVO:00002231](https://bioregistry.io/ENVO:00002231), [ENVO:00002233](https://bioregistry.io/ENVO:00002233), [ENVO:00002234](https://bioregistry.io/ENVO:00002234), [ENVO:00002235](https://bioregistry.io/ENVO:00002235), ... |
 
 ## `Gmelin`: Gmelins Handbuch der anorganischen Chemie
 
@@ -96,7 +96,7 @@ did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MA:ma`         |             11 | [ENVO:00000873](https://bioregistry.io/ENVO:00000873), [ENVO:00001995](https://bioregistry.io/ENVO:00001995), [ENVO:00002054](https://bioregistry.io/ENVO:00002054), [ENVO:00002224](https://bioregistry.io/ENVO:00002224), [ENVO:00010483](https://bioregistry.io/ENVO:00010483), ... |
+| `MA:ma`         |             11 | [ENVO:00000447](https://bioregistry.io/ENVO:00000447), [ENVO:00000873](https://bioregistry.io/ENVO:00000873), [ENVO:00001995](https://bioregistry.io/ENVO:00001995), [ENVO:00002006](https://bioregistry.io/ENVO:00002006), [ENVO:00002047](https://bioregistry.io/ENVO:00002047), ... |
 | `MA:th`         |              2 | [BSPO:0001114](https://bioregistry.io/BSPO:0001114), [BSPO:1000000](https://bioregistry.io/BSPO:1000000)                                                                                                                                                                               |
 
 ## `MGI`: Mouse Genome Informatics

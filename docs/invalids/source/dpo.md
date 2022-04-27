@@ -1,7 +1,7 @@
 # dpo
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `dpo`. See the [GitHub repository](https://github.com/FlyBase/drosophila-phenotype-ontology)
+for node, synonym, and definition cross-references in `dpo`. See the [GitHub repository](https://github.com/FlyBase/drosophila-phenotype-ontology).
 
 
 ## `Reactome`: Reactome

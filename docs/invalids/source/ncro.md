@@ -1,7 +1,7 @@
 # ncro
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `ncro`. See the [GitHub repository](https://github.com/OmniSearch/ncro)
+for node, synonym, and definition cross-references in `ncro`. See the [GitHub repository](https://github.com/OmniSearch/ncro).
 
 
 ## `miRBase`: miRBase pre-miRNA

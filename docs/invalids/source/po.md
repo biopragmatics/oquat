@@ -1,7 +1,7 @@
 # po
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `po`. See the [GitHub repository](https://github.com/Planteome/plant-ontology)
+for node, synonym, and definition cross-references in `po`. See the [GitHub repository](https://github.com/Planteome/plant-ontology).
 
 
 ## `Agricola`: Agricultural Online Access
@@ -35,7 +35,7 @@ did not match the standard pattern `^\d+$`.
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                                                   |
 |--------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PO:cooperl`       |             31 | [PO:0006312](https://bioregistry.io/PO:0006312), [PO:0030120](https://bioregistry.io/PO:0030120), [PO:0030120](https://bioregistry.io/PO:0030120), [PO:0030120](https://bioregistry.io/PO:0030120), [PO:0030129](https://bioregistry.io/PO:0030129), ... |
+| `PO:cooperl`       |             31 | [PO:0003022](https://bioregistry.io/PO:0003022), [PO:0006311](https://bioregistry.io/PO:0006311), [PO:0006312](https://bioregistry.io/PO:0006312), [PO:0006348](https://bioregistry.io/PO:0006348), [PO:0006349](https://bioregistry.io/PO:0006349), ... |
 | `PO:Laurel_Cooper` |              3 | [PO:0025620](https://bioregistry.io/PO:0025620), [PO:0025621](https://bioregistry.io/PO:0025621), [PO:0025622](https://bioregistry.io/PO:0025622)                                                                                                        |
 | `PO:austin_meier`  |              2 | [PO:0000027](https://bioregistry.io/PO:0000027), [PO:0005030](https://bioregistry.io/PO:0005030)                                                                                                                                                         |
 | `PO:laurel_cooper` |              1 | [PO:0020104](https://bioregistry.io/PO:0020104)                                                                                                                                                                                                          |

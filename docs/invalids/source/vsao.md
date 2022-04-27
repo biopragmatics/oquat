@@ -25,7 +25,7 @@ did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `UBERON:cjm`    |              7 | [VSAO:0000076](https://bioregistry.io/VSAO:0000076), [VSAO:0000155](https://bioregistry.io/VSAO:0000155), [VSAO:0000156](https://bioregistry.io/VSAO:0000156), [VSAO:0000305](https://bioregistry.io/VSAO:0000305), [VSAO:0000305](https://bioregistry.io/VSAO:0000305), ... |
+| `UBERON:cjm`    |              7 | [VSAO:0000076](https://bioregistry.io/VSAO:0000076), [VSAO:0000155](https://bioregistry.io/VSAO:0000155), [VSAO:0000156](https://bioregistry.io/VSAO:0000156), [VSAO:0000303](https://bioregistry.io/VSAO:0000303), [VSAO:0000304](https://bioregistry.io/VSAO:0000304), ... |
 
 ## `ZFIN`: Zebrafish Information Network Gene
 

@@ -1,7 +1,7 @@
 # zfa
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `zfa`. See the [GitHub repository](https://github.com/cerivs/zebrafish-anatomical-ontology)
+for node, synonym, and definition cross-references in `zfa`. See the [GitHub repository](https://github.com/cerivs/zebrafish-anatomical-ontology).
 
 
 ## `CL`: Cell Ontology
@@ -13,7 +13,7 @@ did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CL:curator`    |            160 | [ZFA:0009051](https://bioregistry.io/ZFA:0009051), [ZFA:0009214](https://bioregistry.io/ZFA:0009214), [ZFA:0009236](https://bioregistry.io/ZFA:0009236), [ZFA:0009272](https://bioregistry.io/ZFA:0009272), [ZFA:0009312](https://bioregistry.io/ZFA:0009312), ... |
+| `CL:curator`    |            160 | [ZFA:0001691](https://bioregistry.io/ZFA:0001691), [ZFA:0001694](https://bioregistry.io/ZFA:0001694), [ZFA:0001725](https://bioregistry.io/ZFA:0001725), [ZFA:0005243](https://bioregistry.io/ZFA:0005243), [ZFA:0005244](https://bioregistry.io/ZFA:0005244), ... |
 | `CL:CVS`        |              4 | [ZFA:0009375](https://bioregistry.io/ZFA:0009375), [ZFA:0009376](https://bioregistry.io/ZFA:0009376), [ZFA:0009393](https://bioregistry.io/ZFA:0009393), [ZFA:0009395](https://bioregistry.io/ZFA:0009395)                                                         |
 | `CL:Curator`    |              2 | [ZFA:0005242](https://bioregistry.io/ZFA:0005242), [ZFA:0005873](https://bioregistry.io/ZFA:0005873)                                                                                                                                                               |
 | `CL:editor`     |              2 | [ZFA:0005769](https://bioregistry.io/ZFA:0005769), [ZFA:0009402](https://bioregistry.io/ZFA:0009402)                                                                                                                                                               |
@@ -99,7 +99,7 @@ did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 
 | external_xref              |   usages_count | usages                                                                                                                                                                                                                                                             |
 |----------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ZFIN:<new dbxref>`        |              6 | [ZFA:0000259](https://bioregistry.io/ZFA:0000259), [ZFA:0000259](https://bioregistry.io/ZFA:0000259), [ZFA:0000344](https://bioregistry.io/ZFA:0000344), [ZFA:0000400](https://bioregistry.io/ZFA:0000400), [ZFA:0000464](https://bioregistry.io/ZFA:0000464), ... |
+| `ZFIN:<new dbxref>`        |              6 | [ZFA:0000259](https://bioregistry.io/ZFA:0000259), [ZFA:0000344](https://bioregistry.io/ZFA:0000344), [ZFA:0000400](https://bioregistry.io/ZFA:0000400), [ZFA:0000424](https://bioregistry.io/ZFA:0000424), [ZFA:0000464](https://bioregistry.io/ZFA:0000464), ... |
 | `ZFIN:JCN 421-:189-198`    |              1 | [ZFA:0000443](https://bioregistry.io/ZFA:0000443)                                                                                                                                                                                                                  |
 | `ZFIN:ZDB-PUB-171118-8v`   |              1 | [ZFA:0000704](https://bioregistry.io/ZFA:0000704)                                                                                                                                                                                                                  |
 | `ZFIN:ZDB-PUB-120419-3.`   |              1 | [ZFA:0005877](https://bioregistry.io/ZFA:0005877)                                                                                                                                                                                                                  |

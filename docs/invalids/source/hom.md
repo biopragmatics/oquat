@@ -1,7 +1,7 @@
 # hom
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `hom`. See the [GitHub repository](https://github.com/BgeeDB/homology-ontology)
+for node, synonym, and definition cross-references in `hom`. See the [GitHub repository](https://github.com/BgeeDB/homology-ontology).
 
 
 ## `ECO`: Evidence ontology
