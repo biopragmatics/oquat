@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `mmo`. See the [GitHub rep
 
 Overall, there were 9 invalid
 xrefs to external prefixed with `ECO` (standardized to Bioregistry
-entry [`eco`](https://bioregistry.io/eco)) that
+prefix [`eco`](https://bioregistry.io/eco)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref     |   usages_count | usages                                            |
@@ -27,7 +27,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 7 invalid
 xrefs to external prefixed with `efo` (standardized to Bioregistry
-entry [`efo`](https://bioregistry.io/efo)) that
+prefix [`efo`](https://bioregistry.io/efo)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref     |   usages_count | usages                                            |
@@ -44,7 +44,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `MESH` (standardized to Bioregistry
-entry [`mesh`](https://bioregistry.io/mesh)) that
+prefix [`mesh`](https://bioregistry.io/mesh)) that
 did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref                                         |   usages_count | usages                                            |
@@ -55,7 +55,7 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
-entry [`pubmed`](https://bioregistry.io/pubmed)) that
+prefix [`pubmed`](https://bioregistry.io/pubmed)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref       |   usages_count | usages                                            |
@@ -66,7 +66,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 37 invalid
 xrefs to external prefixed with `RGD` (standardized to Bioregistry
-entry [`rgd`](https://bioregistry.io/rgd)) that
+prefix [`rgd`](https://bioregistry.io/rgd)) that
 did not match the standard pattern `^\d{4,}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
@@ -81,7 +81,7 @@ did not match the standard pattern `^\d{4,}$`.
 
 Overall, there were 144 invalid
 xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
-entry [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
+prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
 did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                                                                                 |   usages_count | usages                                                                                                                                                                                                                                                             |

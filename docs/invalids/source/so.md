@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `so`. See the [GitHub repo
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `BioRXiv` (standardized to Bioregistry
-entry [`biorxiv`](https://bioregistry.io/biorxiv)) that
+prefix [`biorxiv`](https://bioregistry.io/biorxiv)) that
 did not match the standard pattern `^(\d{4}\.\d{2}\.\d{2}\.)?\d{6,8}(v\d{1,3})?$`.
 
 | external_xref                            |   usages_count | usages                                          |
@@ -19,7 +19,7 @@ did not match the standard pattern `^(\d{4}\.\d{2}\.\d{2}\.)?\d{6,8}(v\d{1,3})?$
 
 Overall, there were 42 invalid
 xrefs to external prefixed with `FB` (standardized to Bioregistry
-entry [`flybase`](https://bioregistry.io/flybase)) that
+prefix [`flybase`](https://bioregistry.io/flybase)) that
 did not match the standard pattern `^FB\w{2}\d{7}$`.
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -36,7 +36,7 @@ did not match the standard pattern `^FB\w{2}\d{7}$`.
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `GO` (standardized to Bioregistry
-entry [`go`](https://bioregistry.io/go)) that
+prefix [`go`](https://bioregistry.io/go)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
@@ -47,7 +47,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `HGNC` (standardized to Bioregistry
-entry [`hgnc`](https://bioregistry.io/hgnc)) that
+prefix [`hgnc`](https://bioregistry.io/hgnc)) that
 did not match the standard pattern `^((HGNC|hgnc):)?\d{1,5}$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -58,7 +58,7 @@ did not match the standard pattern `^((HGNC|hgnc):)?\d{1,5}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `MGD` (standardized to Bioregistry
-entry [`mgi`](https://bioregistry.io/mgi)) that
+prefix [`mgi`](https://bioregistry.io/mgi)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -69,7 +69,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `MGI` (standardized to Bioregistry
-entry [`mgi`](https://bioregistry.io/mgi)) that
+prefix [`mgi`](https://bioregistry.io/mgi)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -80,7 +80,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PMC` (standardized to Bioregistry
-entry [`pmc`](https://bioregistry.io/pmc)) that
+prefix [`pmc`](https://bioregistry.io/pmc)) that
 did not match the standard pattern `^PMC\d+$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -91,7 +91,7 @@ did not match the standard pattern `^PMC\d+$`.
 
 Overall, there were 22 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
-entry [`pubmed`](https://bioregistry.io/pubmed)) that
+prefix [`pubmed`](https://bioregistry.io/pubmed)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref                 |   usages_count | usages                                                                                                                                                                                                                                              |
@@ -113,7 +113,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 12 invalid
 xrefs to external prefixed with `PomBase` (standardized to Bioregistry
-entry [`pombase`](https://bioregistry.io/pombase)) that
+prefix [`pombase`](https://bioregistry.io/pombase)) that
 did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -127,7 +127,7 @@ did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `POMBASE` (standardized to Bioregistry
-entry [`pombase`](https://bioregistry.io/pombase)) that
+prefix [`pombase`](https://bioregistry.io/pombase)) that
 did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 | external_xref   |   usages_count | usages                                                                                           |
@@ -139,7 +139,7 @@ did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `RFAM` (standardized to Bioregistry
-entry [`rfam`](https://bioregistry.io/rfam)) that
+prefix [`rfam`](https://bioregistry.io/rfam)) that
 did not match the standard pattern `^RF\d{5}$`.
 
 | external_xref   |   usages_count | usages                                                                                           |
@@ -150,7 +150,7 @@ did not match the standard pattern `^RF\d{5}$`.
 
 Overall, there were 12 invalid
 xrefs to external prefixed with `SGD` (standardized to Bioregistry
-entry [`sgd`](https://bioregistry.io/sgd)) that
+prefix [`sgd`](https://bioregistry.io/sgd)) that
 did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -163,7 +163,7 @@ did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?)
 
 Overall, there were 1,224 invalid
 xrefs to external prefixed with `SO` (standardized to Bioregistry
-entry [`so`](https://bioregistry.io/so)) that
+prefix [`so`](https://bioregistry.io/so)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -205,7 +205,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 21 invalid
 xrefs to external prefixed with `UniProt` (standardized to Bioregistry
-entry [`uniprot`](https://bioregistry.io/uniprot)) that
+prefix [`uniprot`](https://bioregistry.io/uniprot)) that
 did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$`.
 
 | external_xref             |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -218,7 +218,7 @@ did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0
 
 Overall, there were 31 invalid
 xrefs to external prefixed with `uniprot` (standardized to Bioregistry
-entry [`uniprot`](https://bioregistry.io/uniprot)) that
+prefix [`uniprot`](https://bioregistry.io/uniprot)) that
 did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$`.
 
 | external_xref          |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -231,7 +231,7 @@ did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `WB` (standardized to Bioregistry
-entry [`wormbase`](https://bioregistry.io/wormbase)) that
+prefix [`wormbase`](https://bioregistry.io/wormbase)) that
 did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -242,7 +242,7 @@ did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 Overall, there were 5 invalid
 xrefs to external prefixed with `xenbase` (standardized to Bioregistry
-entry [`xenbase`](https://bioregistry.io/xenbase)) that
+prefix [`xenbase`](https://bioregistry.io/xenbase)) that
 did not match the standard pattern `^XB\-\w+\-\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                              |
@@ -253,7 +253,7 @@ did not match the standard pattern `^XB\-\w+\-\d+$`.
 
 Overall, there were 6 invalid
 xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
-entry [`zfin`](https://bioregistry.io/zfin)) that
+prefix [`zfin`](https://bioregistry.io/zfin)) that
 did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |

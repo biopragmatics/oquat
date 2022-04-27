@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `vario`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `MI` (standardized to Bioregistry
-entry [`mi`](https://bioregistry.io/mi)) that
+prefix [`mi`](https://bioregistry.io/mi)) that
 did not match the standard pattern `^\d{4}$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -19,7 +19,7 @@ did not match the standard pattern `^\d{4}$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `SGD` (standardized to Bioregistry
-entry [`sgd`](https://bioregistry.io/sgd)) that
+prefix [`sgd`](https://bioregistry.io/sgd)) that
 did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`.
 
 | external_xref   |   usages_count | usages                                                                                           |
@@ -30,7 +30,7 @@ did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?)
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `SO` (standardized to Bioregistry
-entry [`so`](https://bioregistry.io/so)) that
+prefix [`so`](https://bioregistry.io/so)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -41,7 +41,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `UniProt` (standardized to Bioregistry
-entry [`uniprot`](https://bioregistry.io/uniprot)) that
+prefix [`uniprot`](https://bioregistry.io/uniprot)) that
 did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$`.
 
 | external_xref             |   usages_count | usages                                          |
@@ -52,7 +52,7 @@ did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0
 
 Overall, there were 410 invalid
 xrefs to external prefixed with `VariO` (standardized to Bioregistry
-entry [`vario`](https://bioregistry.io/vario)) that
+prefix [`vario`](https://bioregistry.io/vario)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -63,7 +63,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `Vario` (standardized to Bioregistry
-entry [`vario`](https://bioregistry.io/vario)) that
+prefix [`vario`](https://bioregistry.io/vario)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                          |

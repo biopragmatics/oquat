@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `ncro`. See the [GitHub re
 
 Overall, there were 592 invalid
 xrefs to external prefixed with `miRBase` (standardized to Bioregistry
-entry [`mirbase`](https://bioregistry.io/mirbase)) that
+prefix [`mirbase`](https://bioregistry.io/mirbase)) that
 did not match the standard pattern `^MI\d{7}$`.
 
 | external_xref          |   usages_count | usages                                              |

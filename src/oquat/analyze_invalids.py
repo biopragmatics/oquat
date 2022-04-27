@@ -64,7 +64,7 @@ def main():
 
             Overall, there were {sum(len(nodes) for nodes in inner2.values()):,} invalid
             xrefs to external prefixed with `{xref_prefix}` (standardized to Bioregistry
-            entry [`{norm_prefix}`](https://bioregistry.io/{norm_prefix})) that
+            prefix [`{norm_prefix}`](https://bioregistry.io/{norm_prefix})) that
             did not match the standard pattern `{bioregistry.get_pattern(xref_prefix)}`.
 
             """

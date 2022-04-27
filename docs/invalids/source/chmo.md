@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `chmo`. See the [GitHub re
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `CHEBI` (standardized to Bioregistry
-entry [`chebi`](https://bioregistry.io/chebi)) that
+prefix [`chebi`](https://bioregistry.io/chebi)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
@@ -19,7 +19,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 7 invalid
 xrefs to external prefixed with `FIX` (standardized to Bioregistry
-entry [`fix`](https://bioregistry.io/fix)) that
+prefix [`fix`](https://bioregistry.io/fix)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                              |

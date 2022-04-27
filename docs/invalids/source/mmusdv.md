@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `mmusdv`. See the [GitHub 
 
 Overall, there were 57 invalid
 xrefs to external prefixed with `EMAPA` (standardized to Bioregistry
-entry [`emapa`](https://bioregistry.io/emapa)) that
+prefix [`emapa`](https://bioregistry.io/emapa)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                    |
@@ -46,7 +46,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `UBERON` (standardized to Bioregistry
-entry [`uberon`](https://bioregistry.io/uberon)) that
+prefix [`uberon`](https://bioregistry.io/uberon)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                  |

@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `doid`. See the [GitHub re
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `DO` (standardized to Bioregistry
-entry [`doid`](https://bioregistry.io/doid)) that
+prefix [`doid`](https://bioregistry.io/doid)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
@@ -20,7 +20,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `ICDO` (standardized to Bioregistry
-entry [`icdo`](https://bioregistry.io/icdo)) that
+prefix [`icdo`](https://bioregistry.io/icdo)) that
 did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 | external_xref   |   usages_count | usages                                        |
@@ -32,7 +32,7 @@ did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 Overall, there were 36 invalid
 xrefs to external prefixed with `KEGG` (standardized to Bioregistry
-entry [`kegg`](https://bioregistry.io/kegg)) that
+prefix [`kegg`](https://bioregistry.io/kegg)) that
 did not match the standard pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`.
 
 | external_xref   |   usages_count | usages                                                                                             |
@@ -76,7 +76,7 @@ did not match the standard pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `NCI` (standardized to Bioregistry
-entry [`ncit`](https://bioregistry.io/ncit)) that
+prefix [`ncit`](https://bioregistry.io/ncit)) that
 did not match the standard pattern `^C\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
@@ -87,7 +87,7 @@ did not match the standard pattern `^C\d+$`.
 
 Overall, there were 231 invalid
 xrefs to external prefixed with `OMIM` (standardized to Bioregistry
-entry [`omim`](https://bioregistry.io/omim)) that
+prefix [`omim`](https://bioregistry.io/omim)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
@@ -328,7 +328,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 2,026 invalid
 xrefs to external prefixed with `ORDO` (standardized to Bioregistry
-entry [`orphanet.ordo`](https://bioregistry.io/orphanet.ordo)) that
+prefix [`orphanet.ordo`](https://bioregistry.io/orphanet.ordo)) that
 did not match the standard pattern `^Orphanet(_|:)C?\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |

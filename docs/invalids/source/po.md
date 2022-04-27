@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `po`. See the [GitHub repo
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `Agricola` (standardized to Bioregistry
-entry [`agricola`](https://bioregistry.io/agricola)) that
+prefix [`agricola`](https://bioregistry.io/agricola)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref          |   usages_count | usages                                          |
@@ -19,7 +19,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PATO` (standardized to Bioregistry
-entry [`pato`](https://bioregistry.io/pato)) that
+prefix [`pato`](https://bioregistry.io/pato)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -30,7 +30,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 39 invalid
 xrefs to external prefixed with `PO` (standardized to Bioregistry
-entry [`po`](https://bioregistry.io/po)) that
+prefix [`po`](https://bioregistry.io/po)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -46,7 +46,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `SGN` (standardized to Bioregistry
-entry [`sgn`](https://bioregistry.io/sgn)) that
+prefix [`sgn`](https://bioregistry.io/sgn)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref     |   usages_count | usages                                                                                           |

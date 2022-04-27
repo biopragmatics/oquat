@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `diseaseclass`.
 
 Overall, there were 92 invalid
 xrefs to external prefixed with `PS` (standardized to Bioregistry
-entry [`omim.ps`](https://bioregistry.io/omim.ps)) that
+prefix [`omim.ps`](https://bioregistry.io/omim.ps)) that
 did not match the standard pattern `^PS\d+$`.
 
 | external_xref   |   usages_count | usages                                          |

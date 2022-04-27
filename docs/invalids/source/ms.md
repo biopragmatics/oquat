@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `ms`. See the [GitHub repo
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `EDAM` (standardized to Bioregistry
-entry [`edam`](https://bioregistry.io/edam)) that
+prefix [`edam`](https://bioregistry.io/edam)) that
 did not match the standard pattern `^(data|topic|operation|format)\_\d{4}$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -20,7 +20,7 @@ did not match the standard pattern `^(data|topic|operation|format)\_\d{4}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `SWO` (standardized to Bioregistry
-entry [`swo`](https://bioregistry.io/swo)) that
+prefix [`swo`](https://bioregistry.io/swo)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref                             |   usages_count | usages                                          |

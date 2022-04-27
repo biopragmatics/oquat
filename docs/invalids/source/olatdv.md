@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `olatdv`. See the [GitHub 
 
 Overall, there were 46 invalid
 xrefs to external prefixed with `OlatDv` (standardized to Bioregistry
-entry [`olatdv`](https://bioregistry.io/olatdv)) that
+prefix [`olatdv`](https://bioregistry.io/olatdv)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref     |   usages_count | usages                                                                                                                                                                                                                                                                                           |

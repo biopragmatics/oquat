@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `sibo`. See the [GitHub re
 
 Overall, there were 9 invalid
 xrefs to external prefixed with `KEGG COMPOUND` (standardized to Bioregistry
-entry [`kegg.compound`](https://bioregistry.io/kegg.compound)) that
+prefix [`kegg.compound`](https://bioregistry.io/kegg.compound)) that
 did not match the standard pattern `^C\d+$`.
 
 | external_xref          |   usages_count | usages                                              |
@@ -27,7 +27,7 @@ did not match the standard pattern `^C\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `SIBO` (standardized to Bioregistry
-entry [`sibo`](https://bioregistry.io/sibo)) that
+prefix [`sibo`](https://bioregistry.io/sibo)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                              |

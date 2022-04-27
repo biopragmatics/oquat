@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `tto`. See the [GitHub rep
 
 Overall, there were 6 invalid
 xrefs to external prefixed with `NCBITaxon` (standardized to Bioregistry
-entry [`ncbitaxon`](https://bioregistry.io/ncbitaxon)) that
+prefix [`ncbitaxon`](https://bioregistry.io/ncbitaxon)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref       |   usages_count | usages                                            |
@@ -24,7 +24,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 43 invalid
 xrefs to external prefixed with `TTO` (standardized to Bioregistry
-entry [`tto`](https://bioregistry.io/tto)) that
+prefix [`tto`](https://bioregistry.io/tto)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                 |

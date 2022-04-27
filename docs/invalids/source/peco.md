@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `peco`. See the [GitHub re
 
 Overall, there were 66 invalid
 xrefs to external prefixed with `CAS` (standardized to Bioregistry
-entry [`cas`](https://bioregistry.io/cas)) that
+prefix [`cas`](https://bioregistry.io/cas)) that
 did not match the standard pattern `^\d{1,7}\-\d{2}\-\d$`.
 
 | external_xref      |   usages_count | usages                                                                                                   |
@@ -82,7 +82,7 @@ did not match the standard pattern `^\d{1,7}\-\d{2}\-\d$`.
 
 Overall, there were 103 invalid
 xrefs to external prefixed with `PECO` (standardized to Bioregistry
-entry [`peco`](https://bioregistry.io/peco)) that
+prefix [`peco`](https://bioregistry.io/peco)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                       |
@@ -95,7 +95,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PO` (standardized to Bioregistry
-entry [`po`](https://bioregistry.io/po)) that
+prefix [`po`](https://bioregistry.io/po)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
@@ -106,7 +106,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 11 invalid
 xrefs to external prefixed with `TO` (standardized to Bioregistry
-entry [`to`](https://bioregistry.io/to)) that
+prefix [`to`](https://bioregistry.io/to)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |

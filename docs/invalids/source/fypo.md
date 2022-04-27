@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `fypo`. See the [GitHub re
 
 Overall, there were 8 invalid
 xrefs to external prefixed with `GO` (standardized to Bioregistry
-entry [`go`](https://bioregistry.io/go)) that
+prefix [`go`](https://bioregistry.io/go)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref            |   usages_count | usages                                                                                                                                                        |
@@ -23,7 +23,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
-entry [`pubmed`](https://bioregistry.io/pubmed)) that
+prefix [`pubmed`](https://bioregistry.io/pubmed)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
@@ -36,7 +36,7 @@ PomBase:val`                 |              1 | [FYPO:0007907](https://bioregist
 
 Overall, there were 18,014 invalid
 xrefs to external prefixed with `PomBase` (standardized to Bioregistry
-entry [`pombase`](https://bioregistry.io/pombase)) that
+prefix [`pombase`](https://bioregistry.io/pombase)) that
 did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
@@ -58,7 +58,7 @@ did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 Overall, there were 39 invalid
 xrefs to external prefixed with `Pombase` (standardized to Bioregistry
-entry [`pombase`](https://bioregistry.io/pombase)) that
+prefix [`pombase`](https://bioregistry.io/pombase)) that
 did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
@@ -71,7 +71,7 @@ did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 Overall, there were 293 invalid
 xrefs to external prefixed with `SGD` (standardized to Bioregistry
-entry [`sgd`](https://bioregistry.io/sgd)) that
+prefix [`sgd`](https://bioregistry.io/sgd)) that
 did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`.
 
 | external_xref              |   usages_count | usages                                                                                                                                                                                                                                                                       |
@@ -82,7 +82,7 @@ did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?)
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `SO` (standardized to Bioregistry
-entry [`so`](https://bioregistry.io/so)) that
+prefix [`so`](https://bioregistry.io/so)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                              |

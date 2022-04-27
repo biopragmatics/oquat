@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `mod`. See the [GitHub rep
 
 Overall, there were 41 invalid
 xrefs to external prefixed with `GNO` (standardized to Bioregistry
-entry [`gno`](https://bioregistry.io/gno)) that
+prefix [`gno`](https://bioregistry.io/gno)) that
 did not match the standard pattern `^\d{8}$`.
 
 | external_xref   |   usages_count | usages                                        |
@@ -59,7 +59,7 @@ did not match the standard pattern `^\d{8}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PubMed` (standardized to Bioregistry
-entry [`pubmed`](https://bioregistry.io/pubmed)) that
+prefix [`pubmed`](https://bioregistry.io/pubmed)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                        |
@@ -70,7 +70,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 111 invalid
 xrefs to external prefixed with `RESID` (standardized to Bioregistry
-entry [`resid`](https://bioregistry.io/resid)) that
+prefix [`resid`](https://bioregistry.io/resid)) that
 did not match the standard pattern `^AA\d{4}$`.
 
 | external_xref       |   usages_count | usages                                                                                                                                                                                                                                         |
@@ -161,7 +161,7 @@ did not match the standard pattern `^AA\d{4}$`.
 
 Overall, there were 496 invalid
 xrefs to external prefixed with `Unimod` (standardized to Bioregistry
-entry [`unimod`](https://bioregistry.io/unimod)) that
+prefix [`unimod`](https://bioregistry.io/unimod)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref       |   usages_count | usages                                                                                                                                                                                                                                         |

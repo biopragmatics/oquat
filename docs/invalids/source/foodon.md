@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `foodon`. See the [GitHub 
 
 Overall, there were 5 invalid
 xrefs to external prefixed with `EC` (standardized to Bioregistry
-entry [`eccode`](https://bioregistry.io/eccode)) that
+prefix [`eccode`](https://bioregistry.io/eccode)) that
 did not match the standard pattern `^\d{1,2}(\.\d{0,3}){0,3}$`.
 
 | external_xref         |   usages_count | usages                                                    |
@@ -23,7 +23,7 @@ did not match the standard pattern `^\d{1,2}(\.\d{0,3}){0,3}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `EOL` (standardized to Bioregistry
-entry [`eol`](https://bioregistry.io/eol)) that
+prefix [`eol`](https://bioregistry.io/eol)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref                               |   usages_count | usages                                                    |
@@ -34,7 +34,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
-entry [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
+prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
 did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                  |   usages_count | usages                                                    |

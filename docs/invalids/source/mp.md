@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `mp`. See the [GitHub repo
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `GO` (standardized to Bioregistry
-entry [`go`](https://bioregistry.io/go)) that
+prefix [`go`](https://bioregistry.io/go)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -19,7 +19,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `HPO` (standardized to Bioregistry
-entry [`hp`](https://bioregistry.io/hp)) that
+prefix [`hp`](https://bioregistry.io/hp)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -31,7 +31,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 832 invalid
 xrefs to external prefixed with `MESH` (standardized to Bioregistry
-entry [`mesh`](https://bioregistry.io/mesh)) that
+prefix [`mesh`](https://bioregistry.io/mesh)) that
 did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref                              |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -460,7 +460,7 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 Overall, there were 9 invalid
 xrefs to external prefixed with `MeSH` (standardized to Bioregistry
-entry [`mesh`](https://bioregistry.io/mesh)) that
+prefix [`mesh`](https://bioregistry.io/mesh)) that
 did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref                  |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -472,7 +472,7 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 Overall, there were 8,616 invalid
 xrefs to external prefixed with `MGI` (standardized to Bioregistry
-entry [`mgi`](https://bioregistry.io/mgi)) that
+prefix [`mgi`](https://bioregistry.io/mgi)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -526,7 +526,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 6 invalid
 xrefs to external prefixed with `mgi` (standardized to Bioregistry
-entry [`mgi`](https://bioregistry.io/mgi)) that
+prefix [`mgi`](https://bioregistry.io/mgi)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -537,7 +537,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `NCI` (standardized to Bioregistry
-entry [`ncit`](https://bioregistry.io/ncit)) that
+prefix [`ncit`](https://bioregistry.io/ncit)) that
 did not match the standard pattern `^C\d+$`.
 
 | external_xref    |   usages_count | usages                                          |
@@ -548,7 +548,7 @@ did not match the standard pattern `^C\d+$`.
 
 Overall, there were 14 invalid
 xrefs to external prefixed with `ORCID` (standardized to Bioregistry
-entry [`orcid`](https://bioregistry.io/orcid)) that
+prefix [`orcid`](https://bioregistry.io/orcid)) that
 did not match the standard pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`.
 
 | external_xref                         |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -564,7 +564,7 @@ did not match the standard pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`.
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `PMC` (standardized to Bioregistry
-entry [`pmc`](https://bioregistry.io/pmc)) that
+prefix [`pmc`](https://bioregistry.io/pmc)) that
 did not match the standard pattern `^PMC\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
@@ -575,7 +575,7 @@ did not match the standard pattern `^PMC\d+$`.
 
 Overall, there were 273 invalid
 xrefs to external prefixed with `RGD` (standardized to Bioregistry
-entry [`rgd`](https://bioregistry.io/rgd)) that
+prefix [`rgd`](https://bioregistry.io/rgd)) that
 did not match the standard pattern `^\d{4,}$`.
 
 | external_xref       |   usages_count | usages                                                                                                                                                                                                                                                   |

@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `sdgio`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `MA` (standardized to Bioregistry
-entry [`ma`](https://bioregistry.io/ma)) that
+prefix [`ma`](https://bioregistry.io/ma)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                       |
@@ -19,7 +19,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `RO` (standardized to Bioregistry
-entry [`ro`](https://bioregistry.io/ro)) that
+prefix [`ro`](https://bioregistry.io/ro)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |

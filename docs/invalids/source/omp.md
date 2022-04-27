@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `omp`. See the [GitHub rep
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `APO` (standardized to Bioregistry
-entry [`apo`](https://bioregistry.io/apo)) that
+prefix [`apo`](https://bioregistry.io/apo)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |
@@ -19,7 +19,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `CHEBI` (standardized to Bioregistry
-entry [`chebi`](https://bioregistry.io/chebi)) that
+prefix [`chebi`](https://bioregistry.io/chebi)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref       |   usages_count | usages                                            |
@@ -31,7 +31,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `FYPO` (standardized to Bioregistry
-entry [`fypo`](https://bioregistry.io/fypo)) that
+prefix [`fypo`](https://bioregistry.io/fypo)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref       |   usages_count | usages                                            |
@@ -44,7 +44,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 8 invalid
 xrefs to external prefixed with `GO` (standardized to Bioregistry
-entry [`go`](https://bioregistry.io/go)) that
+prefix [`go`](https://bioregistry.io/go)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                               |
@@ -61,7 +61,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 1,807 invalid
 xrefs to external prefixed with `OMP` (standardized to Bioregistry
-entry [`omp`](https://bioregistry.io/omp)) that
+prefix [`omp`](https://bioregistry.io/omp)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
@@ -88,7 +88,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `OMp` (standardized to Bioregistry
-entry [`omp`](https://bioregistry.io/omp)) that
+prefix [`omp`](https://bioregistry.io/omp)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                               |
@@ -99,7 +99,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 6 invalid
 xrefs to external prefixed with `SNOMED` (standardized to Bioregistry
-entry [`snomedct`](https://bioregistry.io/snomedct)) that
+prefix [`snomedct`](https://bioregistry.io/snomedct)) that
 did not match the standard pattern `^(\w+)?\d+$`.
 
 | external_xref      |   usages_count | usages                                            |

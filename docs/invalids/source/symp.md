@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `symp`. See the [GitHub re
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `ICD9CM_2005` (standardized to Bioregistry
-entry [`icd9cm`](https://bioregistry.io/icd9cm)) that
+prefix [`icd9cm`](https://bioregistry.io/icd9cm)) that
 did not match the standard pattern `^([\dA-Z]\d{2}(\.\d{1,3}|))|(\d{2}(\.\d{1,2}|))$`.
 
 | external_xref              |   usages_count | usages                                              |

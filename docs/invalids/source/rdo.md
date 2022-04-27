@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `rdo`.
 
 Overall, there were 48 invalid
 xrefs to external prefixed with `ICD-O` (standardized to Bioregistry
-entry [`icdo`](https://bioregistry.io/icdo)) that
+prefix [`icdo`](https://bioregistry.io/icdo)) that
 did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 | external_xref   |   usages_count | usages                                              |
@@ -66,7 +66,7 @@ did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `NCI` (standardized to Bioregistry
-entry [`ncit`](https://bioregistry.io/ncit)) that
+prefix [`ncit`](https://bioregistry.io/ncit)) that
 did not match the standard pattern `^C\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
@@ -77,7 +77,7 @@ did not match the standard pattern `^C\d+$`.
 
 Overall, there were 507 invalid
 xrefs to external prefixed with `OMIM` (standardized to Bioregistry
-entry [`omim`](https://bioregistry.io/omim)) that
+prefix [`omim`](https://bioregistry.io/omim)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                               |
@@ -592,7 +592,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 2,081 invalid
 xrefs to external prefixed with `ORDO` (standardized to Bioregistry
-entry [`orphanet.ordo`](https://bioregistry.io/orphanet.ordo)) that
+prefix [`orphanet.ordo`](https://bioregistry.io/orphanet.ordo)) that
 did not match the standard pattern `^Orphanet(_|:)C?\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                   |

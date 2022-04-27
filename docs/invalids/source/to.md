@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `to`. See the [GitHub repo
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `EC` (standardized to Bioregistry
-entry [`eccode`](https://bioregistry.io/eccode)) that
+prefix [`eccode`](https://bioregistry.io/eccode)) that
 did not match the standard pattern `^\d{1,2}(\.\d{0,3}){0,3}$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -19,7 +19,7 @@ did not match the standard pattern `^\d{1,2}(\.\d{0,3}){0,3}$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `MaizeGDB` (standardized to Bioregistry
-entry [`maizegdb.locus`](https://bioregistry.io/maizegdb.locus)) that
+prefix [`maizegdb.locus`](https://bioregistry.io/maizegdb.locus)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref             |   usages_count | usages                                          |
@@ -31,7 +31,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PATO` (standardized to Bioregistry
-entry [`pato`](https://bioregistry.io/pato)) that
+prefix [`pato`](https://bioregistry.io/pato)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -42,7 +42,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `PO` (standardized to Bioregistry
-entry [`po`](https://bioregistry.io/po)) that
+prefix [`po`](https://bioregistry.io/po)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
@@ -53,7 +53,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `SGN` (standardized to Bioregistry
-entry [`sgn`](https://bioregistry.io/sgn)) that
+prefix [`sgn`](https://bioregistry.io/sgn)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -64,7 +64,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 938 invalid
 xrefs to external prefixed with `TO` (standardized to Bioregistry
-entry [`to`](https://bioregistry.io/to)) that
+prefix [`to`](https://bioregistry.io/to)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                                                   |

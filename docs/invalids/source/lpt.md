@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `lpt`.
 
 Overall, there were 6 invalid
 xrefs to external prefixed with `MGI` (standardized to Bioregistry
-entry [`mgi`](https://bioregistry.io/mgi)) that
+prefix [`mgi`](https://bioregistry.io/mgi)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                     |
@@ -20,7 +20,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `VT` (standardized to Bioregistry
-entry [`vt`](https://bioregistry.io/vt)) that
+prefix [`vt`](https://bioregistry.io/vt)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |
@@ -31,7 +31,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 540 invalid
 xrefs to external prefixed with `VTO` (standardized to Bioregistry
-entry [`vto`](https://bioregistry.io/vto)) that
+prefix [`vto`](https://bioregistry.io/vto)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |

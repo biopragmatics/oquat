@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `fbcv`. See the [GitHub re
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `Reactome` (standardized to Bioregistry
-entry [`reactome`](https://bioregistry.io/reactome)) that
+prefix [`reactome`](https://bioregistry.io/reactome)) that
 did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 
 | external_xref    |   usages_count | usages                                              |
@@ -19,7 +19,7 @@ did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `SO` (standardized to Bioregistry
-entry [`so`](https://bioregistry.io/so)) that
+prefix [`so`](https://bioregistry.io/so)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                              |
@@ -30,7 +30,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `WB_REF` (standardized to Bioregistry
-entry [`wormbase`](https://bioregistry.io/wormbase)) that
+prefix [`wormbase`](https://bioregistry.io/wormbase)) that
 did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 | external_xref   |   usages_count | usages                                              |

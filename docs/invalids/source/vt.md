@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `vt`. See the [GitHub repo
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `MESH` (standardized to Bioregistry
-entry [`mesh`](https://bioregistry.io/mesh)) that
+prefix [`mesh`](https://bioregistry.io/mesh)) that
 did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref          |   usages_count | usages                                          |
@@ -20,7 +20,7 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `MeSH` (standardized to Bioregistry
-entry [`mesh`](https://bioregistry.io/mesh)) that
+prefix [`mesh`](https://bioregistry.io/mesh)) that
 did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 | external_xref                  |   usages_count | usages                                          |
@@ -32,7 +32,7 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 Overall, there were 142 invalid
 xrefs to external prefixed with `MGI` (standardized to Bioregistry
-entry [`mgi`](https://bioregistry.io/mgi)) that
+prefix [`mgi`](https://bioregistry.io/mgi)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -51,7 +51,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 4 invalid
 xrefs to external prefixed with `MP` (standardized to Bioregistry
-entry [`mp`](https://bioregistry.io/mp)) that
+prefix [`mp`](https://bioregistry.io/mp)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref           |   usages_count | usages                                          |
@@ -65,7 +65,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 4 invalid
 xrefs to external prefixed with `MS` (standardized to Bioregistry
-entry [`ms`](https://bioregistry.io/ms)) that
+prefix [`ms`](https://bioregistry.io/ms)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                             |
@@ -76,7 +76,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
-entry [`pubmed`](https://bioregistry.io/pubmed)) that
+prefix [`pubmed`](https://bioregistry.io/pubmed)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref        |   usages_count | usages                                          |
@@ -87,7 +87,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 333 invalid
 xrefs to external prefixed with `RGD` (standardized to Bioregistry
-entry [`rgd`](https://bioregistry.io/rgd)) that
+prefix [`rgd`](https://bioregistry.io/rgd)) that
 did not match the standard pattern `^\d{4,}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -101,7 +101,7 @@ did not match the standard pattern `^\d{4,}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `RGD ` (standardized to Bioregistry
-entry [`rgd`](https://bioregistry.io/rgd)) that
+prefix [`rgd`](https://bioregistry.io/rgd)) that
 did not match the standard pattern `^\d{4,}$`.
 
 | external_xref   |   usages_count | usages                                          |
@@ -112,7 +112,7 @@ did not match the standard pattern `^\d{4,}$`.
 
 Overall, there were 453 invalid
 xrefs to external prefixed with `VTO` (standardized to Bioregistry
-entry [`vto`](https://bioregistry.io/vto)) that
+prefix [`vto`](https://bioregistry.io/vto)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |

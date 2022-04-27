@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `tao`.
 
 Overall, there were 154 invalid
 xrefs to external prefixed with `CL` (standardized to Bioregistry
-entry [`cl`](https://bioregistry.io/cl)) that
+prefix [`cl`](https://bioregistry.io/cl)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
@@ -20,7 +20,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 4 invalid
 xrefs to external prefixed with `ZFA` (standardized to Bioregistry
-entry [`zfa`](https://bioregistry.io/zfa)) that
+prefix [`zfa`](https://bioregistry.io/zfa)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref           |   usages_count | usages                                                                                                                                                  |
@@ -32,7 +32,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 811 invalid
 xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
-entry [`zfin`](https://bioregistry.io/zfin)) that
+prefix [`zfin`](https://bioregistry.io/zfin)) that
 did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 
 | external_xref    |   usages_count | usages                                                                                                                                                                                                                                                             |

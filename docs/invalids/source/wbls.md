@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `wbls`. See the [GitHub re
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `PMC` (standardized to Bioregistry
-entry [`pmc`](https://bioregistry.io/pmc)) that
+prefix [`pmc`](https://bioregistry.io/pmc)) that
 did not match the standard pattern `^PMC\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
@@ -20,7 +20,7 @@ did not match the standard pattern `^PMC\d+$`.
 
 Overall, there were 751 invalid
 xrefs to external prefixed with `WB` (standardized to Bioregistry
-entry [`wormbase`](https://bioregistry.io/wormbase)) that
+prefix [`wormbase`](https://bioregistry.io/wormbase)) that
 did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |

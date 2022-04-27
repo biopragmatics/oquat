@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `bs`.
 
 Overall, there were 33 invalid
 xrefs to external prefixed with `SO` (standardized to Bioregistry
-entry [`so`](https://bioregistry.io/so)) that
+prefix [`so`](https://bioregistry.io/so)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                                                 |
@@ -22,7 +22,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 21 invalid
 xrefs to external prefixed with `UniProt` (standardized to Bioregistry
-entry [`uniprot`](https://bioregistry.io/uniprot)) that
+prefix [`uniprot`](https://bioregistry.io/uniprot)) that
 did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$`.
 
 | external_xref             |   usages_count | usages                                                                                                                                                                                                                                                   |
@@ -35,7 +35,7 @@ did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0
 
 Overall, there were 30 invalid
 xrefs to external prefixed with `uniprot` (standardized to Bioregistry
-entry [`uniprot`](https://bioregistry.io/uniprot)) that
+prefix [`uniprot`](https://bioregistry.io/uniprot)) that
 did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$`.
 
 | external_xref          |   usages_count | usages                                                                                                                                                                                                                                                   |

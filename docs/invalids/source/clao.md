@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `clao`. See the [GitHub re
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `FMA` (standardized to Bioregistry
-entry [`fma`](https://bioregistry.io/fma)) that
+prefix [`fma`](https://bioregistry.io/fma)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |

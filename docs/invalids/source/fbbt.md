@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `fbbt`. See the [GitHub re
 
 Overall, there were 137 invalid
 xrefs to external prefixed with `DoOR` (standardized to Bioregistry
-entry [`door`](https://bioregistry.io/door)) that
+prefix [`door`](https://bioregistry.io/door)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                     |
@@ -86,7 +86,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 9,259 invalid
 xrefs to external prefixed with `VFB` (standardized to Bioregistry
-entry [`vfb`](https://bioregistry.io/vfb)) that
+prefix [`vfb`](https://bioregistry.io/vfb)) that
 did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
 
 | external_xref       |   usages_count | usages                                                                                                       |
