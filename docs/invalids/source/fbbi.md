@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `fbbi`. See the [GitHub re
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
-entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+entry [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
 did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                                        |   usages_count | usages                                                                                                       |

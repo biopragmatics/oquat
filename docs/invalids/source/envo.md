@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `envo`. See the [GitHub re
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `BS` (standardized to Bioregistry
-entry [`bs`]((https://bioregistry.io/bs)) that
+entry [`bs`](https://bioregistry.io/bs)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                |
@@ -19,7 +19,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `EnvO` (standardized to Bioregistry
-entry [`envo`]((https://bioregistry.io/envo)) that
+entry [`envo`](https://bioregistry.io/envo)) that
 did not match the standard pattern `^\d{7,8}$`.
 
 | external_xref   |   usages_count | usages                                                                                                       |
@@ -30,7 +30,7 @@ did not match the standard pattern `^\d{7,8}$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `ENVO` (standardized to Bioregistry
-entry [`envo`]((https://bioregistry.io/envo)) that
+entry [`envo`](https://bioregistry.io/envo)) that
 did not match the standard pattern `^\d{7,8}$`.
 
 | external_xref   |   usages_count | usages                                                                                                     |
@@ -41,7 +41,7 @@ did not match the standard pattern `^\d{7,8}$`.
 
 Overall, there were 28 invalid
 xrefs to external prefixed with `FAO` (standardized to Bioregistry
-entry [`fao`]((https://bioregistry.io/fao)) that
+entry [`fao`](https://bioregistry.io/fao)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref                                                          |   usages_count | usages                                                                                                                                                                                                                                                                                 |
@@ -53,7 +53,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 133 invalid
 xrefs to external prefixed with `MA` (standardized to Bioregistry
-entry [`ma`]((https://bioregistry.io/ma)) that
+entry [`ma`](https://bioregistry.io/ma)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                 |
@@ -64,7 +64,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 13 invalid
 xrefs to external prefixed with `WWF` (standardized to Bioregistry
-entry [`wwf.ecoregion`]((https://bioregistry.io/wwf.ecoregion)) that
+entry [`wwf.ecoregion`](https://bioregistry.io/wwf.ecoregion)) that
 did not match the standard pattern `^AT\d+$`.
 
 | external_xref   |   usages_count | usages                                                |

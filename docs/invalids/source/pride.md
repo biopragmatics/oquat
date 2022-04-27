@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `pride`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `CHEBI` (standardized to Bioregistry
-entry [`chebi`]((https://bioregistry.io/chebi)) that
+entry [`chebi`](https://bioregistry.io/chebi)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
@@ -19,7 +19,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 7 invalid
 xrefs to external prefixed with `FIX` (standardized to Bioregistry
-entry [`fix`]((https://bioregistry.io/fix)) that
+entry [`fix`](https://bioregistry.io/fix)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                              |
@@ -36,7 +36,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 32 invalid
 xrefs to external prefixed with `obi` (standardized to Bioregistry
-entry [`obi`]((https://bioregistry.io/obi)) that
+entry [`obi`](https://bioregistry.io/obi)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
@@ -62,7 +62,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `PRIDE` (standardized to Bioregistry
-entry [`pride`]((https://bioregistry.io/pride)) that
+entry [`pride`](https://bioregistry.io/pride)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                              |

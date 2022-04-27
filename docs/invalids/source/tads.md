@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `tads`. See the [GitHub re
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `ISBN` (standardized to Bioregistry
-entry [`isbn`]((https://bioregistry.io/isbn)) that
+entry [`isbn`](https://bioregistry.io/isbn)) that
 did not match the standard pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`.
 
 | external_xref         |   usages_count | usages                                                                                                   |
@@ -20,7 +20,7 @@ did not match the standard pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{
 
 Overall, there were 6 invalid
 xrefs to external prefixed with `ISSN` (standardized to Bioregistry
-entry [`issn`]((https://bioregistry.io/issn)) that
+entry [`issn`](https://bioregistry.io/issn)) that
 did not match the standard pattern `^\d{4}-\d{3}[\dX]$`.
 
 | external_xref                                   |   usages_count | usages                                              |
@@ -36,7 +36,7 @@ did not match the standard pattern `^\d{4}-\d{3}[\dX]$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
-entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+entry [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
 did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                 |   usages_count | usages                                              |

@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `geno`. See the [GitHub re
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `OBI` (standardized to Bioregistry
-entry [`obi`]((https://bioregistry.io/obi)) that
+entry [`obi`](https://bioregistry.io/obi)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref                                   |   usages_count | usages                                              |
@@ -19,7 +19,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `SO` (standardized to Bioregistry
-entry [`so`]((https://bioregistry.io/so)) that
+entry [`so`](https://bioregistry.io/so)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref                     |   usages_count | usages                                              |

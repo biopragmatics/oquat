@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `hsapdv`. See the [GitHub 
 
 Overall, there were 46 invalid
 xrefs to external prefixed with `EHDAA2` (standardized to Bioregistry
-entry [`ehdaa2`]((https://bioregistry.io/ehdaa2)) that
+entry [`ehdaa2`](https://bioregistry.io/ehdaa2)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                           |

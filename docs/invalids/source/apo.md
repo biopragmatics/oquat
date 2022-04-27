@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `apo`. See the [GitHub rep
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `BioGRID` (standardized to Bioregistry
-entry [`biogrid`]((https://bioregistry.io/biogrid)) that
+entry [`biogrid`](https://bioregistry.io/biogrid)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref      |   usages_count | usages                                                                                               |
@@ -20,7 +20,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 6 invalid
 xrefs to external prefixed with `CGD` (standardized to Bioregistry
-entry [`cgd`]((https://bioregistry.io/cgd)) that
+entry [`cgd`](https://bioregistry.io/cgd)) that
 did not match the standard pattern `^CAL\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
@@ -31,7 +31,7 @@ did not match the standard pattern `^CAL\d{7}$`.
 
 Overall, there were 286 invalid
 xrefs to external prefixed with `SGD` (standardized to Bioregistry
-entry [`sgd`]((https://bioregistry.io/sgd)) that
+entry [`sgd`](https://bioregistry.io/sgd)) that
 did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |

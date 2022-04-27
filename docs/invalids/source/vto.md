@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `vto`. See the [GitHub rep
 
 Overall, there were 43 invalid
 xrefs to external prefixed with `TTO` (standardized to Bioregistry
-entry [`tto`]((https://bioregistry.io/tto)) that
+entry [`tto`](https://bioregistry.io/tto)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |

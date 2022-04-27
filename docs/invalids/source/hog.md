@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `hog`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
-entry [`zfin`]((https://bioregistry.io/zfin)) that
+entry [`zfin`](https://bioregistry.io/zfin)) that
 did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 
 | external_xref   |   usages_count | usages                                            |

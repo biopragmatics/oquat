@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `mpath`. See the [GitHub r
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `ICD-O` (standardized to Bioregistry
-entry [`icdo`]((https://bioregistry.io/icdo)) that
+entry [`icdo`](https://bioregistry.io/icdo)) that
 did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 | external_xref    |   usages_count | usages                                        |
@@ -19,7 +19,7 @@ did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `ICDO` (standardized to Bioregistry
-entry [`icdo`]((https://bioregistry.io/icdo)) that
+entry [`icdo`](https://bioregistry.io/icdo)) that
 did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 | external_xref   |   usages_count | usages                                        |
@@ -30,7 +30,7 @@ did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `ISBN` (standardized to Bioregistry
-entry [`isbn`]((https://bioregistry.io/isbn)) that
+entry [`isbn`](https://bioregistry.io/isbn)) that
 did not match the standard pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`.
 
 | external_xref          |   usages_count | usages                                        |
@@ -41,7 +41,7 @@ did not match the standard pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{
 
 Overall, there were 143 invalid
 xrefs to external prefixed with `MPATH` (standardized to Bioregistry
-entry [`mpath`]((https://bioregistry.io/mpath)) that
+entry [`mpath`](https://bioregistry.io/mpath)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref               |   usages_count | usages                                                                                                                                                                                                                                         |
@@ -61,7 +61,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `mpath` (standardized to Bioregistry
-entry [`mpath`]((https://bioregistry.io/mpath)) that
+entry [`mpath`](https://bioregistry.io/mpath)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref        |   usages_count | usages                                        |
@@ -73,7 +73,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PMCID` (standardized to Bioregistry
-entry [`pmc`]((https://bioregistry.io/pmc)) that
+entry [`pmc`](https://bioregistry.io/pmc)) that
 did not match the standard pattern `^PMC\d+$`.
 
 | external_xref    |   usages_count | usages                                        |
@@ -84,7 +84,7 @@ did not match the standard pattern `^PMC\d+$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
-entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+entry [`pubmed`](https://bioregistry.io/pubmed)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref       |   usages_count | usages                                        |

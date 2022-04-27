@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `hao`. See the [GitHub rep
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `DOI` (standardized to Bioregistry
-entry [`doi`]((https://bioregistry.io/doi)) that
+entry [`doi`](https://bioregistry.io/doi)) that
 did not match the standard pattern `^(doi\:)?\d{2}\.\d{4}.*$`.
 
 | external_xref                  |   usages_count | usages                                            |

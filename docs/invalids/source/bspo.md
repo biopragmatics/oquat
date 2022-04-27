@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `bspo`. See the [GitHub re
 
 Overall, there were 151 invalid
 xrefs to external prefixed with `BSPO` (standardized to Bioregistry
-entry [`bspo`]((https://bioregistry.io/bspo)) that
+entry [`bspo`](https://bioregistry.io/bspo)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                       |
@@ -26,7 +26,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `MA` (standardized to Bioregistry
-entry [`ma`]((https://bioregistry.io/ma)) that
+entry [`ma`](https://bioregistry.io/ma)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                   |
@@ -37,7 +37,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `UBERON` (standardized to Bioregistry
-entry [`uberon`]((https://bioregistry.io/uberon)) that
+entry [`uberon`](https://bioregistry.io/uberon)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                              |

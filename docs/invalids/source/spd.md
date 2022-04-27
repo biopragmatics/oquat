@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `spd`. See the [GitHub rep
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `HAO` (standardized to Bioregistry
-entry [`hao`]((https://bioregistry.io/hao)) that
+entry [`hao`](https://bioregistry.io/hao)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref     |   usages_count | usages                                            |
@@ -19,7 +19,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 782 invalid
 xrefs to external prefixed with `SPD` (standardized to Bioregistry
-entry [`spd`]((https://bioregistry.io/spd)) that
+entry [`spd`](https://bioregistry.io/spd)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref                   |   usages_count | usages                                                                                                                                                                                                                                                             |

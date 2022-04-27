@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `ensemblglossary`.
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `SO` (standardized to Bioregistry
-entry [`so`]((https://bioregistry.io/so)) that
+entry [`so`](https://bioregistry.io/so)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref                        |   usages_count | usages                                                                                                                    |

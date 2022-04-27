@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `msio`.
 
 Overall, there were 4 invalid
 xrefs to external prefixed with `Gmelin` (standardized to Bioregistry
-entry [`gmelin`]((https://bioregistry.io/gmelin)) that
+entry [`gmelin`](https://bioregistry.io/gmelin)) that
 did not match the standard pattern `^[1-9][0-9]{3,6}$`.
 
 | external_xref   |   usages_count | usages                                            |
@@ -22,7 +22,7 @@ did not match the standard pattern `^[1-9][0-9]{3,6}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `LIPID_MAPS_class` (standardized to Bioregistry
-entry [`lipidmaps`]((https://bioregistry.io/lipidmaps)) that
+entry [`lipidmaps`](https://bioregistry.io/lipidmaps)) that
 did not match the standard pattern `^LM(FA|GL|GP|SP|ST|PR|SL|PK)[0-9]{4}([0-9a-zA-Z]{4,6})?$`.
 
 | external_xref             |   usages_count | usages                                            |
@@ -33,7 +33,7 @@ did not match the standard pattern `^LM(FA|GL|GP|SP|ST|PR|SL|PK)[0-9]{4}([0-9a-z
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
-entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+entry [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
 did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref           |   usages_count | usages                                            |

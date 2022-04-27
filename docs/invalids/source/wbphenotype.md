@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `wbphenotype`. See the [Gi
 
 Overall, there were 392 invalid
 xrefs to external prefixed with `WB` (standardized to Bioregistry
-entry [`wormbase`]((https://bioregistry.io/wormbase)) that
+entry [`wormbase`](https://bioregistry.io/wormbase)) that
 did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                                                                                                             |

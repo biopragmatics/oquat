@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `idomal`. See the [GitHub 
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `BFO` (standardized to Bioregistry
-entry [`bfo`]((https://bioregistry.io/bfo)) that
+entry [`bfo`](https://bioregistry.io/bfo)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                  |
@@ -19,7 +19,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `ISBN` (standardized to Bioregistry
-entry [`isbn`]((https://bioregistry.io/isbn)) that
+entry [`isbn`](https://bioregistry.io/isbn)) that
 did not match the standard pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`.
 
 | external_xref         |   usages_count | usages                                                  |
@@ -31,7 +31,7 @@ did not match the standard pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `NCI` (standardized to Bioregistry
-entry [`ncit`]((https://bioregistry.io/ncit)) that
+entry [`ncit`](https://bioregistry.io/ncit)) that
 did not match the standard pattern `^C\d+$`.
 
 | external_xref   |   usages_count | usages                                                    |
@@ -42,7 +42,7 @@ did not match the standard pattern `^C\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
-entry [`wikipedia.en`]((https://bioregistry.io/wikipedia.en)) that
+entry [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
 did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref            |   usages_count | usages                                                  |

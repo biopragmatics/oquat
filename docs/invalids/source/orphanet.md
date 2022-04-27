@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `orphanet`.
 
 Overall, there were 49 invalid
 xrefs to external prefixed with `Genatlas` (standardized to Bioregistry
-entry [`genatlas`]((https://bioregistry.io/genatlas)) that
+entry [`genatlas`](https://bioregistry.io/genatlas)) that
 did not match the standard pattern `^\w+$`.
 
 | external_xref        |   usages_count | usages                                                                                                        |
@@ -67,7 +67,7 @@ did not match the standard pattern `^\w+$`.
 
 Overall, there were 84 invalid
 xrefs to external prefixed with `ICD-10` (standardized to Bioregistry
-entry [`icd10`]((https://bioregistry.io/icd10)) that
+entry [`icd10`](https://bioregistry.io/icd10)) that
 did not match the standard pattern `^[A-Z]\d+(\.[-\d+])?$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -120,7 +120,7 @@ did not match the standard pattern `^[A-Z]\d+(\.[-\d+])?$`.
 
 Overall, there were 3,343 invalid
 xrefs to external prefixed with `Reactome` (standardized to Bioregistry
-entry [`reactome`]((https://bioregistry.io/reactome)) that
+entry [`reactome`](https://bioregistry.io/reactome)) that
 did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 
 | external_xref     |   usages_count | usages                                                                                                                                                                                                                       |

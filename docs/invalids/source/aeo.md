@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `aeo`. See the [GitHub rep
 
 Overall, there were 111 invalid
 xrefs to external prefixed with `AEO` (standardized to Bioregistry
-entry [`aeo`]((https://bioregistry.io/aeo)) that
+entry [`aeo`](https://bioregistry.io/aeo)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
@@ -19,7 +19,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `AEO.` (standardized to Bioregistry
-entry [`aeo`]((https://bioregistry.io/aeo)) that
+entry [`aeo`](https://bioregistry.io/aeo)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |
@@ -30,7 +30,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `GO` (standardized to Bioregistry
-entry [`go`]((https://bioregistry.io/go)) that
+entry [`go`](https://bioregistry.io/go)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |

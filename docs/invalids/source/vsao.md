@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `vsao`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `GO` (standardized to Bioregistry
-entry [`go`]((https://bioregistry.io/go)) that
+entry [`go`](https://bioregistry.io/go)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref                         |   usages_count | usages                                              |
@@ -20,7 +20,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 7 invalid
 xrefs to external prefixed with `UBERON` (standardized to Bioregistry
-entry [`uberon`]((https://bioregistry.io/uberon)) that
+entry [`uberon`](https://bioregistry.io/uberon)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
@@ -31,7 +31,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
-entry [`zfin`]((https://bioregistry.io/zfin)) that
+entry [`zfin`](https://bioregistry.io/zfin)) that
 did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                        |

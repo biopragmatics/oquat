@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `eco`. See the [GitHub rep
 
 Overall, there were 7 invalid
 xrefs to external prefixed with `DisProt` (standardized to Bioregistry
-entry [`disprot`]((https://bioregistry.io/disprot)) that
+entry [`disprot`](https://bioregistry.io/disprot)) that
 did not match the standard pattern `^DP\d{5}$`.
 
 | external_xref            |   usages_count | usages                                                                                                                                                                                                                                                             |
@@ -19,7 +19,7 @@ did not match the standard pattern `^DP\d{5}$`.
 
 Overall, there were 1,411 invalid
 xrefs to external prefixed with `ECO` (standardized to Bioregistry
-entry [`eco`]((https://bioregistry.io/eco)) that
+entry [`eco`](https://bioregistry.io/eco)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
@@ -38,7 +38,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `EDAM` (standardized to Bioregistry
-entry [`edam`]((https://bioregistry.io/edam)) that
+entry [`edam`](https://bioregistry.io/edam)) that
 did not match the standard pattern `^(data|topic|operation|format)\_\d{4}$`.
 
 | external_xref     |   usages_count | usages                                            |
@@ -49,7 +49,7 @@ did not match the standard pattern `^(data|topic|operation|format)\_\d{4}$`.
 
 Overall, there were 7 invalid
 xrefs to external prefixed with `GO` (standardized to Bioregistry
-entry [`go`]((https://bioregistry.io/go)) that
+entry [`go`](https://bioregistry.io/go)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                  |
@@ -62,7 +62,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `HPO` (standardized to Bioregistry
-entry [`hp`]((https://bioregistry.io/hp)) that
+entry [`hp`](https://bioregistry.io/hp)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                            |
@@ -74,7 +74,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 22 invalid
 xrefs to external prefixed with `PMC` (standardized to Bioregistry
-entry [`pmc`]((https://bioregistry.io/pmc)) that
+entry [`pmc`](https://bioregistry.io/pmc)) that
 did not match the standard pattern `^PMC\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                               |
@@ -105,7 +105,7 @@ did not match the standard pattern `^PMC\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PMCID` (standardized to Bioregistry
-entry [`pmc`]((https://bioregistry.io/pmc)) that
+entry [`pmc`](https://bioregistry.io/pmc)) that
 did not match the standard pattern `^PMC\d+$`.
 
 | external_xref   |   usages_count | usages                                            |
@@ -116,7 +116,7 @@ did not match the standard pattern `^PMC\d+$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
-entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+entry [`pubmed`](https://bioregistry.io/pubmed)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref    |   usages_count | usages                                            |
@@ -128,7 +128,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PomBase` (standardized to Bioregistry
-entry [`pombase`]((https://bioregistry.io/pombase)) that
+entry [`pombase`](https://bioregistry.io/pombase)) that
 did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 | external_xref   |   usages_count | usages                                            |
@@ -139,7 +139,7 @@ did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `PSI-MI` (standardized to Bioregistry
-entry [`mi`]((https://bioregistry.io/mi)) that
+entry [`mi`](https://bioregistry.io/mi)) that
 did not match the standard pattern `^\d{4}$`.
 
 | external_xref    |   usages_count | usages                                            |

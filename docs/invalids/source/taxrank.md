@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `taxrank`. See the [GitHub
 
 Overall, there were 28 invalid
 xrefs to external prefixed with `NCBITaxon` (standardized to Bioregistry
-entry [`ncbitaxon`]((https://bioregistry.io/ncbitaxon)) that
+entry [`ncbitaxon`](https://bioregistry.io/ncbitaxon)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref                |   usages_count | usages                                                    |
@@ -46,7 +46,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `TAXRANK` (standardized to Bioregistry
-entry [`taxrank`]((https://bioregistry.io/taxrank)) that
+entry [`taxrank`](https://bioregistry.io/taxrank)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref     |   usages_count | usages                                                                                                               |

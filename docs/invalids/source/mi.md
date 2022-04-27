@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `mi`. See the [GitHub repo
 
 Overall, there were 6 invalid
 xrefs to external prefixed with `GO` (standardized to Bioregistry
-entry [`go`]((https://bioregistry.io/go)) that
+entry [`go`](https://bioregistry.io/go)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                               |
@@ -23,7 +23,7 @@ did not match the standard pattern `^\d{7}$`.
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
-entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+entry [`pubmed`](https://bioregistry.io/pubmed)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref      |   usages_count | usages                                    |
@@ -36,7 +36,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `psi-mi` (standardized to Bioregistry
-entry [`mi`]((https://bioregistry.io/mi)) that
+entry [`mi`](https://bioregistry.io/mi)) that
 did not match the standard pattern `^\d{4}$`.
 
 | external_xref    |   usages_count | usages                                    |

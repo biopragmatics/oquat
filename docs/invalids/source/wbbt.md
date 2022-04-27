@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `wbbt`. See the [GitHub re
 
 Overall, there were 5,448 invalid
 xrefs to external prefixed with `WB` (standardized to Bioregistry
-entry [`wormbase`]((https://bioregistry.io/wormbase)) that
+entry [`wormbase`](https://bioregistry.io/wormbase)) that
 did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                                                                       |
@@ -41,7 +41,7 @@ did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `Wb` (standardized to Bioregistry
-entry [`wormbase`]((https://bioregistry.io/wormbase)) that
+entry [`wormbase`](https://bioregistry.io/wormbase)) that
 did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                   |
@@ -53,7 +53,7 @@ did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `wB` (standardized to Bioregistry
-entry [`wormbase`]((https://bioregistry.io/wormbase)) that
+entry [`wormbase`](https://bioregistry.io/wormbase)) that
 did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 | external_xref   |   usages_count | usages                                              |

@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `xao`. See the [GitHub rep
 
 Overall, there were 15 invalid
 xrefs to external prefixed with `NCIt` (standardized to Bioregistry
-entry [`ncit`]((https://bioregistry.io/ncit)) that
+entry [`ncit`](https://bioregistry.io/ncit)) that
 did not match the standard pattern `^C\d+$`.
 
 | external_xref                  |   usages_count | usages                                            |
@@ -33,7 +33,7 @@ did not match the standard pattern `^C\d+$`.
 
 Overall, there were 659 invalid
 xrefs to external prefixed with `XAO` (standardized to Bioregistry
-entry [`xao`]((https://bioregistry.io/xao)) that
+entry [`xao`](https://bioregistry.io/xao)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |

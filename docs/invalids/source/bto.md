@@ -8,7 +8,7 @@ for node, synonym, and definition cross-references in `bto`. See the [GitHub rep
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `Flybase` (standardized to Bioregistry
-entry [`flybase`]((https://bioregistry.io/flybase)) that
+entry [`flybase`](https://bioregistry.io/flybase)) that
 did not match the standard pattern `^FB\w{2}\d{7}$`.
 
 | external_xref                                                                               |   usages_count | usages                                            |
@@ -19,7 +19,7 @@ did not match the standard pattern `^FB\w{2}\d{7}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `ISSN` (standardized to Bioregistry
-entry [`issn`]((https://bioregistry.io/issn)) that
+entry [`issn`](https://bioregistry.io/issn)) that
 did not match the standard pattern `^\d{4}-\d{3}[\dX]$`.
 
 | external_xref                                                          |   usages_count | usages                                            |
@@ -30,7 +30,7 @@ did not match the standard pattern `^\d{4}-\d{3}[\dX]$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `MedlinePlus` (standardized to Bioregistry
-entry [`medlineplus`]((https://bioregistry.io/medlineplus)) that
+entry [`medlineplus`](https://bioregistry.io/medlineplus)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref                                                                                           |   usages_count | usages                                            |
@@ -41,7 +41,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `MGI` (standardized to Bioregistry
-entry [`mgi`]((https://bioregistry.io/mgi)) that
+entry [`mgi`](https://bioregistry.io/mgi)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref                                              |   usages_count | usages                                            |
@@ -52,7 +52,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `NASC` (standardized to Bioregistry
-entry [`nasc`]((https://bioregistry.io/nasc)) that
+entry [`nasc`](https://bioregistry.io/nasc)) that
 did not match the standard pattern `^(\w+)?\d+$`.
 
 | external_xref                                |   usages_count | usages                                            |
@@ -63,7 +63,7 @@ did not match the standard pattern `^(\w+)?\d+$`.
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `Patent` (standardized to Bioregistry
-entry [`google.patent`]((https://bioregistry.io/google.patent)) that
+entry [`google.patent`](https://bioregistry.io/google.patent)) that
 did not match the standard pattern `^[A-Z]{2}\d+([A-Z])?$`.
 
 | external_xref              |   usages_count | usages                                                                                               |
@@ -74,7 +74,7 @@ did not match the standard pattern `^[A-Z]{2}\d+([A-Z])?$`.
 
 Overall, there were 7 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
-entry [`pubmed`]((https://bioregistry.io/pubmed)) that
+entry [`pubmed`](https://bioregistry.io/pubmed)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref     |   usages_count | usages                                            |
@@ -91,7 +91,7 @@ did not match the standard pattern `^\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `WormBase` (standardized to Bioregistry
-entry [`wormbase`]((https://bioregistry.io/wormbase)) that
+entry [`wormbase`](https://bioregistry.io/wormbase)) that
 did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 | external_xref                       |   usages_count | usages                                            |
@@ -102,7 +102,7 @@ did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `Wormbase` (standardized to Bioregistry
-entry [`wormbase`]((https://bioregistry.io/wormbase)) that
+entry [`wormbase`](https://bioregistry.io/wormbase)) that
 did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 
 | external_xref                                              |   usages_count | usages                                            |
