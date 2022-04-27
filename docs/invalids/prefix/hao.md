@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `spd`. See the [GitHub repository](https://github.com/obophenotype/spider-ontology).
 
-| external_xref     |   usages_count | usages                                                                                   |
-|-------------------|----------------|------------------------------------------------------------------------------------------|
-| `HAO:HAO:0000353` |              1 | [http://purl.obolibrary.org/obo/SPD_0000820](http://purl.obolibrary.org/obo/SPD_0000820) |
+| external_xref     |   usages_count | usages                                                    |
+|-------------------|----------------|-----------------------------------------------------------|
+| `HAO:HAO:0000353` |              1 | [SPD:0000820](http://purl.obolibrary.org/obo/SPD_0000820) |
 

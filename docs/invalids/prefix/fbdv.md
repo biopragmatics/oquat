@@ -9,15 +9,15 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `bao`.
 
-| external_xref   |   usages_count | usages                                                                       |
-|-----------------|----------------|------------------------------------------------------------------------------|
-| `FBdv:0005333`  |              1 | [http://www.ebi.ac.uk/efo/EFO_0001323](http://www.ebi.ac.uk/efo/EFO_0001323) |
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `FBdv:0005333`  |              1 | [EFO:0001323](http://www.ebi.ac.uk/efo/EFO_0001323) |
 
 ## `efo`: Experimental Factor Ontology
 
 Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
-| external_xref   |   usages_count | usages                                                                       |
-|-----------------|----------------|------------------------------------------------------------------------------|
-| `FBdv:0005333`  |              1 | [http://www.ebi.ac.uk/efo/EFO_0001323](http://www.ebi.ac.uk/efo/EFO_0001323) |
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `FBdv:0005333`  |              1 | [EFO:0001323](http://www.ebi.ac.uk/efo/EFO_0001323) |
 

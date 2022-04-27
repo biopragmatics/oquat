@@ -11,9 +11,9 @@ xrefs to external prefixed with `OBI` (standardized to Bioregistry
 prefix [`obi`](https://bioregistry.io/obi)) that
 did not match the standard pattern `^\d{7}$`.
 
-| external_xref                                              |   usages_count | usages                                                                                     |
-|------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------|
-| `OBI:('OBI', 'genetic population background information')` |              1 | [http://purl.obolibrary.org/obo/GENO_0000010](http://purl.obolibrary.org/obo/GENO_0000010) |
+| external_xref                                              |   usages_count | usages                                                      |
+|------------------------------------------------------------|----------------|-------------------------------------------------------------|
+| `OBI:('OBI', 'genetic population background information')` |              1 | [GENO:0000010](http://purl.obolibrary.org/obo/GENO_0000010) |
 
 ## `SO`: Sequence types and features ontology
 
@@ -22,7 +22,7 @@ xrefs to external prefixed with `SO` (standardized to Bioregistry
 prefix [`so`](https://bioregistry.io/so)) that
 did not match the standard pattern `^\d{7}$`.
 
-| external_xref                               |   usages_count | usages                                                                                     |
-|---------------------------------------------|----------------|--------------------------------------------------------------------------------------------|
-| `SO:('SO', '0000831 (gene member region)')` |              1 | [http://purl.obolibrary.org/obo/GENO_0000666](http://purl.obolibrary.org/obo/GENO_0000666) |
+| external_xref                               |   usages_count | usages                                                      |
+|---------------------------------------------|----------------|-------------------------------------------------------------|
+| `SO:('SO', '0000831 (gene member region)')` |              1 | [GENO:0000666](http://purl.obolibrary.org/obo/GENO_0000666) |
 

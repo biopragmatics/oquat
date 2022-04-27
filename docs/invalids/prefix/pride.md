@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `pride`.
 
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                   |
-|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PRIDE:PRIDE`   |              3 | [http://purl.obolibrary.org/obo/PRIDE_0000099](http://purl.obolibrary.org/obo/PRIDE_0000099), [http://purl.obolibrary.org/obo/PRIDE_0000100](http://purl.obolibrary.org/obo/PRIDE_0000100), [http://purl.obolibrary.org/obo/PRIDE_0000104](http://purl.obolibrary.org/obo/PRIDE_0000104) |
+| external_xref   |   usages_count | usages                                                                                                                                                                                      |
+|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `PRIDE:PRIDE`   |              3 | [PRIDE:0000099](http://purl.obolibrary.org/obo/PRIDE_0000099), [PRIDE:0000100](http://purl.obolibrary.org/obo/PRIDE_0000100), [PRIDE:0000104](http://purl.obolibrary.org/obo/PRIDE_0000104) |
 

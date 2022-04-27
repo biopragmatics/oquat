@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `omp`. See the [GitHub repository](https://github.com/microbialphenotypes/OMP-ontology).
 
-| external_xref   |   usages_count | usages                                                                                   |
-|-----------------|----------------|------------------------------------------------------------------------------------------|
-| `APO::0000051`  |              1 | [http://purl.obolibrary.org/obo/OMP_0007101](http://purl.obolibrary.org/obo/OMP_0007101) |
+| external_xref   |   usages_count | usages                                                    |
+|-----------------|----------------|-----------------------------------------------------------|
+| `APO::0000051`  |              1 | [OMP:0007101](http://purl.obolibrary.org/obo/OMP_0007101) |
 

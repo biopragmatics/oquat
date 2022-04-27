@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `sibo`. See the [GitHub repository](https://github.com/obophenotype/sibo).
 
-| external_xref   |   usages_count | usages                                                                                     |
-|-----------------|----------------|--------------------------------------------------------------------------------------------|
-| `SIBO:csmith`   |              1 | [http://purl.obolibrary.org/obo/SIBO_0000079](http://purl.obolibrary.org/obo/SIBO_0000079) |
+| external_xref   |   usages_count | usages                                                      |
+|-----------------|----------------|-------------------------------------------------------------|
+| `SIBO:csmith`   |              1 | [SIBO:0000079](http://purl.obolibrary.org/obo/SIBO_0000079) |
 

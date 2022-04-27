@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `foodon`. See the [GitHub repository](https://github.com/FoodOntology/foodon).
 
-| external_xref                               |   usages_count | usages                                                                                           |
-|---------------------------------------------|----------------|--------------------------------------------------------------------------------------------------|
-| `EOL:http://eol.org/pages/4757174/overview` |              1 | [http://purl.obolibrary.org/obo/FOODON_03414802](http://purl.obolibrary.org/obo/FOODON_03414802) |
+| external_xref                               |   usages_count | usages                                                            |
+|---------------------------------------------|----------------|-------------------------------------------------------------------|
+| `EOL:http://eol.org/pages/4757174/overview` |              1 | [FOODON:03414802](http://purl.obolibrary.org/obo/FOODON_03414802) |
 

@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
-| external_xref    |   usages_count | usages                                                                                 |
-|------------------|----------------|----------------------------------------------------------------------------------------|
-| `MEROPS:c19p001` |              1 | [http://purl.obolibrary.org/obo/GO_0008581](http://purl.obolibrary.org/obo/GO_0008581) |
+| external_xref    |   usages_count | usages                                                  |
+|------------------|----------------|---------------------------------------------------------|
+| `MEROPS:c19p001` |              1 | [GO:0008581](http://purl.obolibrary.org/obo/GO_0008581) |
 

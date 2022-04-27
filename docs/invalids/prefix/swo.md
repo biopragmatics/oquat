@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `ms`. See the [GitHub repository](https://github.com/HUPO-PSI/psi-ms-CV).
 
-| external_xref                             |   usages_count | usages                                                                                 |
-|-------------------------------------------|----------------|----------------------------------------------------------------------------------------|
-| `SWO:http://edamontology.org/format_2187` |              1 | [http://purl.obolibrary.org/obo/MS_1002659](http://purl.obolibrary.org/obo/MS_1002659) |
+| external_xref                             |   usages_count | usages                                                  |
+|-------------------------------------------|----------------|---------------------------------------------------------|
+| `SWO:http://edamontology.org/format_2187` |              1 | [MS:1002659](http://purl.obolibrary.org/obo/MS_1002659) |
 

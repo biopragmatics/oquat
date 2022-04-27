@@ -11,9 +11,9 @@ xrefs to external prefixed with `ECO` (standardized to Bioregistry
 prefix [`eco`](https://bioregistry.io/eco)) that
 did not match the standard pattern `^\d{7}$`.
 
-| external_xref             |   usages_count | usages                                                                                       |
-|---------------------------|----------------|----------------------------------------------------------------------------------------------|
-| `ECO:('ECO', '00000060')` |              1 | [http://purl.obolibrary.org/obo/RO_HOM0000017](http://purl.obolibrary.org/obo/RO_HOM0000017) |
+| external_xref             |   usages_count | usages                                                        |
+|---------------------------|----------------|---------------------------------------------------------------|
+| `ECO:('ECO', '00000060')` |              1 | [RO:HOM0000017](http://purl.obolibrary.org/obo/RO_HOM0000017) |
 
 ## `MeSH`: Medical Subject Headings
 
@@ -22,11 +22,11 @@ xrefs to external prefixed with `MeSH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
 did not match the standard pattern `^(C|D)\d{6,9}$`.
 
-| external_xref                                   |   usages_count | usages                                                                                                                                                                                     |
-|-------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MeSH:('MeSH', 'Synteny')`                      |              2 | [http://purl.obolibrary.org/obo/RO_HOM0000010](http://purl.obolibrary.org/obo/RO_HOM0000010), [http://purl.obolibrary.org/obo/RO_HOM0000010](http://purl.obolibrary.org/obo/RO_HOM0000010) |
-| `MeSH:('MeSH', 'Structural_Homology,_Protein')` |              1 | [http://purl.obolibrary.org/obo/RO_HOM0000015](http://purl.obolibrary.org/obo/RO_HOM0000015)                                                                                               |
-| `MeSH:('MeSH', 'Chromosome_Pairing')`           |              1 | [http://purl.obolibrary.org/obo/RO_HOM0000047](http://purl.obolibrary.org/obo/RO_HOM0000047)                                                                                               |
+| external_xref                                   |   usages_count | usages                                                                                                                       |
+|-------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------|
+| `MeSH:('MeSH', 'Synteny')`                      |              2 | [RO:HOM0000010](http://purl.obolibrary.org/obo/RO_HOM0000010), [RO:HOM0000010](http://purl.obolibrary.org/obo/RO_HOM0000010) |
+| `MeSH:('MeSH', 'Structural_Homology,_Protein')` |              1 | [RO:HOM0000015](http://purl.obolibrary.org/obo/RO_HOM0000015)                                                                |
+| `MeSH:('MeSH', 'Chromosome_Pairing')`           |              1 | [RO:HOM0000047](http://purl.obolibrary.org/obo/RO_HOM0000047)                                                                |
 
 ## `RO`: Relation Ontology
 
@@ -35,9 +35,9 @@ xrefs to external prefixed with `RO` (standardized to Bioregistry
 prefix [`ro`](https://bioregistry.io/ro)) that
 did not match the standard pattern `^\d{7}$`.
 
-| external_xref      |   usages_count | usages                                                                                 |
-|--------------------|----------------|----------------------------------------------------------------------------------------|
-| `RO:('RO', 'cjm')` |              1 | [http://purl.obolibrary.org/obo/RO_0009501](http://purl.obolibrary.org/obo/RO_0009501) |
+| external_xref      |   usages_count | usages                                                  |
+|--------------------|----------------|---------------------------------------------------------|
+| `RO:('RO', 'cjm')` |              1 | [RO:0009501](http://purl.obolibrary.org/obo/RO_0009501) |
 
 ## `RO_proposed_relation`: Relation Ontology
 
@@ -46,9 +46,9 @@ xrefs to external prefixed with `RO_proposed_relation` (standardized to Bioregis
 prefix [`ro`](https://bioregistry.io/ro)) that
 did not match the standard pattern `^\d{7}$`.
 
-| external_xref                                                    |   usages_count | usages                                                                                       |
-|------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------|
-| `RO_proposed_relation:('RO_proposed_relation', 'homologous_to')` |              1 | [http://purl.obolibrary.org/obo/RO_HOM0000007](http://purl.obolibrary.org/obo/RO_HOM0000007) |
+| external_xref                                                    |   usages_count | usages                                                        |
+|------------------------------------------------------------------|----------------|---------------------------------------------------------------|
+| `RO_proposed_relation:('RO_proposed_relation', 'homologous_to')` |              1 | [RO:HOM0000007](http://purl.obolibrary.org/obo/RO_HOM0000007) |
 
 ## `SO`: Sequence types and features ontology
 
@@ -57,11 +57,11 @@ xrefs to external prefixed with `SO` (standardized to Bioregistry
 prefix [`so`](https://bioregistry.io/so)) that
 did not match the standard pattern `^\d{7}$`.
 
-| external_xref                            |   usages_count | usages                                                                                                                                                                                     |
-|------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `SO:('SO', 'non_functional_homolog_of')` |              2 | [http://purl.obolibrary.org/obo/RO_HOM0000016](http://purl.obolibrary.org/obo/RO_HOM0000016), [http://purl.obolibrary.org/obo/RO_HOM0000016](http://purl.obolibrary.org/obo/RO_HOM0000016) |
-| `SO:('SO', 'similar_to')`                |              1 | [http://purl.obolibrary.org/obo/RO_HOM0000000](http://purl.obolibrary.org/obo/RO_HOM0000000)                                                                                               |
-| `SO:('SO', 'homologous_to')`             |              1 | [http://purl.obolibrary.org/obo/RO_HOM0000007](http://purl.obolibrary.org/obo/RO_HOM0000007)                                                                                               |
-| `SO:('SO', 'paralogous_to')`             |              1 | [http://purl.obolibrary.org/obo/RO_HOM0000011](http://purl.obolibrary.org/obo/RO_HOM0000011)                                                                                               |
-| `SO:('SO', 'orthologous_to')`            |              1 | [http://purl.obolibrary.org/obo/RO_HOM0000017](http://purl.obolibrary.org/obo/RO_HOM0000017)                                                                                               |
+| external_xref                            |   usages_count | usages                                                                                                                       |
+|------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------|
+| `SO:('SO', 'non_functional_homolog_of')` |              2 | [RO:HOM0000016](http://purl.obolibrary.org/obo/RO_HOM0000016), [RO:HOM0000016](http://purl.obolibrary.org/obo/RO_HOM0000016) |
+| `SO:('SO', 'similar_to')`                |              1 | [RO:HOM0000000](http://purl.obolibrary.org/obo/RO_HOM0000000)                                                                |
+| `SO:('SO', 'homologous_to')`             |              1 | [RO:HOM0000007](http://purl.obolibrary.org/obo/RO_HOM0000007)                                                                |
+| `SO:('SO', 'paralogous_to')`             |              1 | [RO:HOM0000011](http://purl.obolibrary.org/obo/RO_HOM0000011)                                                                |
+| `SO:('SO', 'orthologous_to')`            |              1 | [RO:HOM0000017](http://purl.obolibrary.org/obo/RO_HOM0000017)                                                                |
 

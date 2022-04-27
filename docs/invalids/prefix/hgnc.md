@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
 
-| external_xref   |   usages_count | usages                                                                                 |
-|-----------------|----------------|----------------------------------------------------------------------------------------|
-| `HGNC:mw`       |              1 | [http://purl.obolibrary.org/obo/SO_0001877](http://purl.obolibrary.org/obo/SO_0001877) |
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `HGNC:mw`       |              1 | [SO:0001877](http://purl.obolibrary.org/obo/SO_0001877) |
 

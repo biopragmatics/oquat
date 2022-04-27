@@ -11,7 +11,7 @@ xrefs to external prefixed with `UBERON` (standardized to Bioregistry
 prefix [`uberon`](https://bioregistry.io/uberon)) that
 did not match the standard pattern `^\d+$`.
 
-| external_xref              |   usages_count | usages                                                                                                                                                                                 |
-|----------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `UBERON:('UBERON', 'cjm')` |              2 | [http://purl.obolibrary.org/obo/PORO_0000044](http://purl.obolibrary.org/obo/PORO_0000044), [http://purl.obolibrary.org/obo/PORO_0000101](http://purl.obolibrary.org/obo/PORO_0000101) |
+| external_xref              |   usages_count | usages                                                                                                                   |
+|----------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------|
+| `UBERON:('UBERON', 'cjm')` |              2 | [PORO:0000044](http://purl.obolibrary.org/obo/PORO_0000044), [PORO:0000101](http://purl.obolibrary.org/obo/PORO_0000101) |
 

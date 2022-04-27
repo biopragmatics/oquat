@@ -9,7 +9,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
-| external_xref   |   usages_count | usages                                                                       |
-|-----------------|----------------|------------------------------------------------------------------------------|
-| `NCIm:CL455363` |              1 | [http://www.ebi.ac.uk/efo/EFO_0003918](http://www.ebi.ac.uk/efo/EFO_0003918) |
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `NCIm:CL455363` |              1 | [EFO:0003918](http://www.ebi.ac.uk/efo/EFO_0003918) |
 

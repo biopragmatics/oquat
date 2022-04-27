@@ -11,7 +11,7 @@ xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
 prefix [`zfin`](https://bioregistry.io/zfin)) that
 did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 
-| external_xref              |   usages_count | usages                                                                                     |
-|----------------------------|----------------|--------------------------------------------------------------------------------------------|
-| `ZFIN:('ZFIN', 'Curator')` |              1 | [http://purl.obolibrary.org/obo/VHOG_0001750](http://purl.obolibrary.org/obo/VHOG_0001750) |
+| external_xref              |   usages_count | usages                                                      |
+|----------------------------|----------------|-------------------------------------------------------------|
+| `ZFIN:('ZFIN', 'Curator')` |              1 | [VHOG:0001750](http://purl.obolibrary.org/obo/VHOG_0001750) |
 

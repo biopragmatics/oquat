@@ -9,15 +9,15 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `po`. See the [GitHub repository](https://github.com/Planteome/plant-ontology).
 
-| external_xref     |   usages_count | usages                                                                                                                                                                         |
-|-------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `SGN:Naama_Menda` |              2 | [http://purl.obolibrary.org/obo/PO_0008001](http://purl.obolibrary.org/obo/PO_0008001), [http://purl.obolibrary.org/obo/PO_0008002](http://purl.obolibrary.org/obo/PO_0008002) |
+| external_xref     |   usages_count | usages                                                                                                           |
+|-------------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `SGN:Naama_Menda` |              2 | [PO:0008001](http://purl.obolibrary.org/obo/PO_0008001), [PO:0008002](http://purl.obolibrary.org/obo/PO_0008002) |
 
 ## `to`: Plant Trait Ontology
 
 Identifiers for this prefix are given incorrectly in `to`. See the [GitHub repository](https://github.com/Planteome/plant-trait-ontology).
 
-| external_xref   |   usages_count | usages                                                                                 |
-|-----------------|----------------|----------------------------------------------------------------------------------------|
-| `SGN:nm`        |              1 | [http://purl.obolibrary.org/obo/TO_0002622](http://purl.obolibrary.org/obo/TO_0002622) |
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `SGN:nm`        |              1 | [TO:0002622](http://purl.obolibrary.org/obo/TO_0002622) |
 

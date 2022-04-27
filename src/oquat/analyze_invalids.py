@@ -30,6 +30,16 @@ INVALID_KEY = "invalid_luids"
 OBO_PREFIX = "http://purl.obolibrary.org/obo/"
 
 
+def _url_md(s: str) -> str:
+    if s.startswith(OBO_PREFIX):
+        short = s.removeprefix(OBO_PREFIX).replace("_", ":")
+        return f"[{short}]({s})"
+    if s.startswith("http://www.ebi.ac.uk/efo/EFO_"):
+        short = s.removeprefix("http://www.ebi.ac.uk/efo/").replace("_", ":")
+        return f"[{short}]({s})"
+    return f"[{s}]({s})"
+
+
 def main():
     """Analyze invalid identifiers."""
     source_agg = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
@@ -72,7 +82,7 @@ def main():
                 sources,
                 total,
                 "`" + ":".join(example_curie) + "`",
-                f"[{example_node}]({example_node})",
+                _url_md(example_node),
             )
         )
     rows = sorted(rows, key=itemgetter(2), reverse=True)
@@ -117,16 +127,11 @@ def main():
                 invalid_xref_curie = f"{xref_prefix}:{xref_identifier}"
                 if len(nodes) > 5:
                     examples = (
-                        ", ".join(
-                            f"[{example_node}]({example_node})"
-                            for example_node in sorted(nodes)[:5]
-                        )
+                        ", ".join(_url_md(example_node) for example_node in sorted(nodes)[:5])
                         + ", ..."
                     )
                 else:
-                    examples = ", ".join(
-                        f"[{example_node}]({example_node})" for example_node in sorted(nodes)
-                    )
+                    examples = ", ".join(_url_md(example_node) for example_node in sorted(nodes))
 
                 rows.append(
                     (
@@ -178,16 +183,11 @@ def main():
                 invalid_xref_curie = f"{xref_prefix}:{xref_identifier}"
                 if len(nodes) > 5:
                     examples = (
-                        ", ".join(
-                            f"[{example_node}]({example_node})"
-                            for example_node in sorted(nodes)[:5]
-                        )
+                        ", ".join(_url_md(example_node) for example_node in sorted(nodes)[:5])
                         + ", ..."
                     )
                 else:
-                    examples = ", ".join(
-                        f"[{example_node}]({example_node})" for example_node in sorted(nodes)
-                    )
+                    examples = ", ".join(_url_md(example_node) for example_node in sorted(nodes))
 
                 rows.append(
                     (

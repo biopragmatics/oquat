@@ -9,15 +9,15 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `cco`.
 
-| external_xref    |   usages_count | usages                                                                                 |
-|------------------|----------------|----------------------------------------------------------------------------------------|
-| `Pfam:PF02174.5` |              1 | [http://purl.obolibrary.org/obo/GO_0051425](http://purl.obolibrary.org/obo/GO_0051425) |
+| external_xref    |   usages_count | usages                                                  |
+|------------------|----------------|---------------------------------------------------------|
+| `Pfam:PF02174.5` |              1 | [GO:0051425](http://purl.obolibrary.org/obo/GO_0051425) |
 
 ## `go`: Gene Ontology
 
 Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
-| external_xref    |   usages_count | usages                                                                                 |
-|------------------|----------------|----------------------------------------------------------------------------------------|
-| `Pfam:PF02174.5` |              1 | [http://purl.obolibrary.org/obo/GO_0051425](http://purl.obolibrary.org/obo/GO_0051425) |
+| external_xref    |   usages_count | usages                                                  |
+|------------------|----------------|---------------------------------------------------------|
+| `Pfam:PF02174.5` |              1 | [GO:0051425](http://purl.obolibrary.org/obo/GO_0051425) |
 

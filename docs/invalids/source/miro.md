@@ -11,7 +11,7 @@ xrefs to external prefixed with `CAS` (standardized to Bioregistry
 prefix [`cas`](https://bioregistry.io/cas)) that
 did not match the standard pattern `^\d{1,7}\-\d{2}\-\d$`.
 
-| external_xref                                                                                      |   usages_count | usages                                                                                       |
-|----------------------------------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------|
-| `CAS:('CAS', '7-(2-chlorophenyl)-4-ethoxy-3,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile4-sulfide')` |              1 | [http://purl.obolibrary.org/obo/MIRO_10000108](http://purl.obolibrary.org/obo/MIRO_10000108) |
+| external_xref                                                                                      |   usages_count | usages                                                        |
+|----------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------|
+| `CAS:('CAS', '7-(2-chlorophenyl)-4-ethoxy-3,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile4-sulfide')` |              1 | [MIRO:10000108](http://purl.obolibrary.org/obo/MIRO_10000108) |
 

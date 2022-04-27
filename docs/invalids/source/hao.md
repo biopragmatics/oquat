@@ -11,7 +11,7 @@ xrefs to external prefixed with `DOI` (standardized to Bioregistry
 prefix [`doi`](https://bioregistry.io/doi)) that
 did not match the standard pattern `^(doi\:)?\d{2}\.\d{4}.*$`.
 
-| external_xref                             |   usages_count | usages                                                                                   |
-|-------------------------------------------|----------------|------------------------------------------------------------------------------------------|
-| `DOI:('DOI', '10.108/00222930701579732')` |              1 | [http://purl.obolibrary.org/obo/HAO_0000569](http://purl.obolibrary.org/obo/HAO_0000569) |
+| external_xref                             |   usages_count | usages                                                    |
+|-------------------------------------------|----------------|-----------------------------------------------------------|
+| `DOI:('DOI', '10.108/00222930701579732')` |              1 | [HAO:0000569](http://purl.obolibrary.org/obo/HAO_0000569) |
 

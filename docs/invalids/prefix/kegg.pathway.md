@@ -9,8 +9,8 @@ but use local unique identifiers that do not match the standard pattern of
 
 Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
-| external_xref         |   usages_count | usages                                                                                 |
-|-----------------------|----------------|----------------------------------------------------------------------------------------|
-| `KEGG_PATHWAY:00030`  |              1 | [http://purl.obolibrary.org/obo/GO_0006098](http://purl.obolibrary.org/obo/GO_0006098) |
-| `KEGG_PATHWAY:M00893` |              1 | [http://purl.obolibrary.org/obo/GO_0140735](http://purl.obolibrary.org/obo/GO_0140735) |
+| external_xref         |   usages_count | usages                                                  |
+|-----------------------|----------------|---------------------------------------------------------|
+| `KEGG_PATHWAY:00030`  |              1 | [GO:0006098](http://purl.obolibrary.org/obo/GO_0006098) |
+| `KEGG_PATHWAY:M00893` |              1 | [GO:0140735](http://purl.obolibrary.org/obo/GO_0140735) |
 
