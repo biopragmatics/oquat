@@ -36,38 +36,42 @@ def main():
         source = path.stem
         for results in json.loads(path.read_text()).values():
             for key in KEYS:
-                for node, xrefs in results[key][INVALID_KEY].items():
+                for node, invalid_xrefs in results[key][INVALID_KEY].items():
                     node_curie = node.removeprefix(OBO_PREFIX).replace("_", ":")
-                    for xref in xrefs:
+                    for xref in invalid_xrefs:
                         xref_prefix, xref_identifier = xref.split(":", 1)
                         d[source][xref_prefix][xref_identifier].append(node_curie)
 
     for source, inner in tqdm(d.items(), unit="source"):
         source_path = SOURCES.joinpath(f"{source}.md")
+        repository = bioregistry.get_repository(source)
+        repo_text = f" See the [GitHub repository]({repository})" if repository else ""
         source_text = dedent(
             f"""\
         # {source}
 
         This document details the invalid local unique identifiers used in CURIEs
-        for node, synonym, and definition cross-references in `{source}`.
+        for node, synonym, and definition cross-references in `{source}`.{repo_text}
 
 
         """
         )
 
-        for xref_prefix, inner2 in inner.items():
+        for xref_prefix, inner2 in sorted(inner.items(), key=lambda t: t[0].casefold()):
+            norm_prefix = bioregistry.normalize_prefix(xref_prefix)
             source_text += dedent(
                 f"""\
             ## `{xref_prefix}`: {bioregistry.get_name(xref_prefix)}
 
-            - Normalized prefix: `{bioregistry.normalize_prefix(xref_prefix)}`
+            - Normalized prefix: `{norm_prefix}`
+            - [https://bioregistry.io/{norm_prefix}](https://bioregistry.io/{norm_prefix})
             - Pattern:`{bioregistry.get_pattern(xref_prefix)}`
 
             """
             )
             rows = []
             for xref_identifier, nodes in inner2.items():
-                xref_curie = f"{xref_prefix}:{xref_identifier}"
+                invalid_xref_curie = f"{xref_prefix}:{xref_identifier}"
                 if len(nodes) > 5:
                     examples = (
                         ", ".join(
@@ -84,7 +88,7 @@ def main():
 
                 rows.append(
                     (
-                        f"[{xref_curie}](https://bioregistry.io/{xref_curie})",
+                        f"`{invalid_xref_curie}`",
                         len(nodes),
                         examples,
                     )

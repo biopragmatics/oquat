@@ -1,31 +1,31 @@
 # wbls
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `wbls`.
+for node, synonym, and definition cross-references in `wbls`. See the [GitHub repository](https://github.com/obophenotype/c-elegans-development-ontology)
 
-
-## `WB`: WormBase database of nematode biology
-
-- Normalized prefix: `wormbase`
-- Pattern:`^WB[A-Z][a-z]+\d+$`
-
-
-| identifier                              |   appearances | examples                                                                                                                                                                                                                                                                     |
-|-----------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [WB:dr](https://bioregistry.io/WB:dr)   |           612 | [WBls:0000276](https://bioregistry.io/WBls:0000276), [WBls:0000354](https://bioregistry.io/WBls:0000354), [WBls:0000400](https://bioregistry.io/WBls:0000400), [WBls:0000518](https://bioregistry.io/WBls:0000518), [WBls:0000543](https://bioregistry.io/WBls:0000543), ... |
-| [WB:wjc](https://bioregistry.io/WB:wjc) |            69 | [WBls:0000028](https://bioregistry.io/WBls:0000028), [WBls:0000034](https://bioregistry.io/WBls:0000034), [WBls:0000056](https://bioregistry.io/WBls:0000056), [WBls:0000058](https://bioregistry.io/WBls:0000058), [WBls:0000062](https://bioregistry.io/WBls:0000062), ... |
-| [WB:jl](https://bioregistry.io/WB:jl)   |            37 | [WBls:0000076](https://bioregistry.io/WBls:0000076), [WBls:0000712](https://bioregistry.io/WBls:0000712), [WBls:0000722](https://bioregistry.io/WBls:0000722), [WBls:0000793](https://bioregistry.io/WBls:0000793), [WBls:0000796](https://bioregistry.io/WBls:0000796), ... |
-| [WB:fr](https://bioregistry.io/WB:fr)   |            18 | [WBls:0000732](https://bioregistry.io/WBls:0000732), [WBls:0000733](https://bioregistry.io/WBls:0000733), [WBls:0000735](https://bioregistry.io/WBls:0000735), [WBls:0000737](https://bioregistry.io/WBls:0000737), [WBls:0000741](https://bioregistry.io/WBls:0000741), ... |
-| [WB:mb](https://bioregistry.io/WB:mb)   |            15 | [WBls:0000077](https://bioregistry.io/WBls:0000077), [WBls:0000096](https://bioregistry.io/WBls:0000096), [WBls:0000096](https://bioregistry.io/WBls:0000096), [WBls:0000663](https://bioregistry.io/WBls:0000663), [WBls:0000665](https://bioregistry.io/WBls:0000665), ... |
 
 ## `PMC`: Pubmed Central
 
 - Normalized prefix: `pmc`
+- [https://bioregistry.io/pmc](https://bioregistry.io/pmc)
 - Pattern:`^PMC\d+$`
 
+| identifier    |   appearances | examples                                            |
+|---------------|---------------|-----------------------------------------------------|
+| `PMC:4492366` |             1 | [WBls:0000801](https://bioregistry.io/WBls:0000801) |
+| `PMC:3697962` |             1 | [WBls:0000802](https://bioregistry.io/WBls:0000802) |
 
-| identifier                                        |   appearances | examples                                            |
-|---------------------------------------------------|---------------|-----------------------------------------------------|
-| [PMC:4492366](https://bioregistry.io/PMC:4492366) |             1 | [WBls:0000801](https://bioregistry.io/WBls:0000801) |
-| [PMC:3697962](https://bioregistry.io/PMC:3697962) |             1 | [WBls:0000802](https://bioregistry.io/WBls:0000802) |
+## `WB`: WormBase database of nematode biology
+
+- Normalized prefix: `wormbase`
+- [https://bioregistry.io/wormbase](https://bioregistry.io/wormbase)
+- Pattern:`^WB[A-Z][a-z]+\d+$`
+
+| identifier   |   appearances | examples                                                                                                                                                                                                                                                                     |
+|--------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `WB:dr`      |           612 | [WBls:0000125](https://bioregistry.io/WBls:0000125), [WBls:0000162](https://bioregistry.io/WBls:0000162), [WBls:0000203](https://bioregistry.io/WBls:0000203), [WBls:0000606](https://bioregistry.io/WBls:0000606), [WBls:0000644](https://bioregistry.io/WBls:0000644), ... |
+| `WB:wjc`     |            69 | [WBls:0000012](https://bioregistry.io/WBls:0000012), [WBls:0000013](https://bioregistry.io/WBls:0000013), [WBls:0000045](https://bioregistry.io/WBls:0000045), [WBls:0000058](https://bioregistry.io/WBls:0000058), [WBls:0000067](https://bioregistry.io/WBls:0000067), ... |
+| `WB:jl`      |            37 | [WBls:0000679](https://bioregistry.io/WBls:0000679), [WBls:0000717](https://bioregistry.io/WBls:0000717), [WBls:0000721](https://bioregistry.io/WBls:0000721), [WBls:0000796](https://bioregistry.io/WBls:0000796), [WBls:0000796](https://bioregistry.io/WBls:0000796), ... |
+| `WB:fr`      |            18 | [WBls:0000730](https://bioregistry.io/WBls:0000730), [WBls:0000730](https://bioregistry.io/WBls:0000730), [WBls:0000733](https://bioregistry.io/WBls:0000733), [WBls:0000735](https://bioregistry.io/WBls:0000735), [WBls:0000736](https://bioregistry.io/WBls:0000736), ... |
+| `WB:mb`      |            15 | [WBls:0000082](https://bioregistry.io/WBls:0000082), [WBls:0000096](https://bioregistry.io/WBls:0000096), [WBls:0000096](https://bioregistry.io/WBls:0000096), [WBls:0000099](https://bioregistry.io/WBls:0000099), [WBls:0000663](https://bioregistry.io/WBls:0000663), ... |
 
