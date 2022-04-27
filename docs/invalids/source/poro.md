@@ -6,11 +6,13 @@ for node, synonym, and definition cross-references in `poro`. See the [GitHub re
 
 ## `UBERON`: Uber Anatomy Ontology
 
-- Normalized prefix: `uberon`
-- [https://bioregistry.io/uberon](https://bioregistry.io/uberon)
-- Pattern:`^\d+$`
+Overall, there were 2 invalid
+xrefs to external terms in `uberon` that did not match the standard
+pattern `^\d+$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/uberon).
 
-| identifier   |   appearances | examples                                                                                                 |
-|--------------|---------------|----------------------------------------------------------------------------------------------------------|
-| `UBERON:cjm` |             2 | [PORO:0000044](https://bioregistry.io/PORO:0000044), [PORO:0000101](https://bioregistry.io/PORO:0000101) |
+| external_xref   |   usages_count | usages                                                                                                   |
+|-----------------|----------------|----------------------------------------------------------------------------------------------------------|
+| `UBERON:cjm`    |              2 | [PORO:0000044](https://bioregistry.io/PORO:0000044), [PORO:0000101](https://bioregistry.io/PORO:0000101) |
 

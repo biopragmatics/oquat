@@ -6,57 +6,67 @@ for node, synonym, and definition cross-references in `ro`. See the [GitHub repo
 
 ## `ECO`: Evidence ontology
 
-- Normalized prefix: `eco`
-- [https://bioregistry.io/eco](https://bioregistry.io/eco)
-- Pattern:`^\d{7}$`
+Overall, there were 1 invalid
+xrefs to external terms in `eco` that did not match the standard
+pattern `^\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/eco).
 
-| identifier     |   appearances | examples                                              |
-|----------------|---------------|-------------------------------------------------------|
-| `ECO:00000060` |             1 | [RO:HOM0000017](https://bioregistry.io/RO:HOM0000017) |
+| external_xref   |   usages_count | usages                                                |
+|-----------------|----------------|-------------------------------------------------------|
+| `ECO:00000060`  |              1 | [RO:HOM0000017](https://bioregistry.io/RO:HOM0000017) |
 
 ## `MeSH`: Medical Subject Headings
 
-- Normalized prefix: `mesh`
-- [https://bioregistry.io/mesh](https://bioregistry.io/mesh)
-- Pattern:`^(C|D)\d{6,9}$`
+Overall, there were 4 invalid
+xrefs to external terms in `mesh` that did not match the standard
+pattern `^(C|D)\d{6,9}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/mesh).
 
-| identifier                          |   appearances | examples                                                                                                     |
-|-------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------|
-| `MeSH:Synteny`                      |             2 | [RO:HOM0000010](https://bioregistry.io/RO:HOM0000010), [RO:HOM0000010](https://bioregistry.io/RO:HOM0000010) |
-| `MeSH:Structural_Homology,_Protein` |             1 | [RO:HOM0000015](https://bioregistry.io/RO:HOM0000015)                                                        |
-| `MeSH:Chromosome_Pairing`           |             1 | [RO:HOM0000047](https://bioregistry.io/RO:HOM0000047)                                                        |
+| external_xref                       |   usages_count | usages                                                                                                       |
+|-------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
+| `MeSH:Synteny`                      |              2 | [RO:HOM0000010](https://bioregistry.io/RO:HOM0000010), [RO:HOM0000010](https://bioregistry.io/RO:HOM0000010) |
+| `MeSH:Structural_Homology,_Protein` |              1 | [RO:HOM0000015](https://bioregistry.io/RO:HOM0000015)                                                        |
+| `MeSH:Chromosome_Pairing`           |              1 | [RO:HOM0000047](https://bioregistry.io/RO:HOM0000047)                                                        |
 
 ## `RO`: Relation Ontology
 
-- Normalized prefix: `ro`
-- [https://bioregistry.io/ro](https://bioregistry.io/ro)
-- Pattern:`^\d{7}$`
+Overall, there were 1 invalid
+xrefs to external terms in `ro` that did not match the standard
+pattern `^\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/ro).
 
-| identifier   |   appearances | examples                                        |
-|--------------|---------------|-------------------------------------------------|
-| `RO:cjm`     |             1 | [RO:0009501](https://bioregistry.io/RO:0009501) |
+| external_xref   |   usages_count | usages                                          |
+|-----------------|----------------|-------------------------------------------------|
+| `RO:cjm`        |              1 | [RO:0009501](https://bioregistry.io/RO:0009501) |
 
 ## `RO_proposed_relation`: Relation Ontology
 
-- Normalized prefix: `ro`
-- [https://bioregistry.io/ro](https://bioregistry.io/ro)
-- Pattern:`^\d{7}$`
+Overall, there were 1 invalid
+xrefs to external terms in `ro` that did not match the standard
+pattern `^\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/ro).
 
-| identifier                           |   appearances | examples                                              |
-|--------------------------------------|---------------|-------------------------------------------------------|
-| `RO_proposed_relation:homologous_to` |             1 | [RO:HOM0000007](https://bioregistry.io/RO:HOM0000007) |
+| external_xref                        |   usages_count | usages                                                |
+|--------------------------------------|----------------|-------------------------------------------------------|
+| `RO_proposed_relation:homologous_to` |              1 | [RO:HOM0000007](https://bioregistry.io/RO:HOM0000007) |
 
 ## `SO`: Sequence types and features ontology
 
-- Normalized prefix: `so`
-- [https://bioregistry.io/so](https://bioregistry.io/so)
-- Pattern:`^\d{7}$`
+Overall, there were 6 invalid
+xrefs to external terms in `so` that did not match the standard
+pattern `^\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/so).
 
-| identifier                     |   appearances | examples                                                                                                     |
-|--------------------------------|---------------|--------------------------------------------------------------------------------------------------------------|
-| `SO:non_functional_homolog_of` |             2 | [RO:HOM0000016](https://bioregistry.io/RO:HOM0000016), [RO:HOM0000016](https://bioregistry.io/RO:HOM0000016) |
-| `SO:similar_to`                |             1 | [RO:HOM0000000](https://bioregistry.io/RO:HOM0000000)                                                        |
-| `SO:homologous_to`             |             1 | [RO:HOM0000007](https://bioregistry.io/RO:HOM0000007)                                                        |
-| `SO:paralogous_to`             |             1 | [RO:HOM0000011](https://bioregistry.io/RO:HOM0000011)                                                        |
-| `SO:orthologous_to`            |             1 | [RO:HOM0000017](https://bioregistry.io/RO:HOM0000017)                                                        |
+| external_xref                  |   usages_count | usages                                                                                                       |
+|--------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
+| `SO:non_functional_homolog_of` |              2 | [RO:HOM0000016](https://bioregistry.io/RO:HOM0000016), [RO:HOM0000016](https://bioregistry.io/RO:HOM0000016) |
+| `SO:similar_to`                |              1 | [RO:HOM0000000](https://bioregistry.io/RO:HOM0000000)                                                        |
+| `SO:homologous_to`             |              1 | [RO:HOM0000007](https://bioregistry.io/RO:HOM0000007)                                                        |
+| `SO:paralogous_to`             |              1 | [RO:HOM0000011](https://bioregistry.io/RO:HOM0000011)                                                        |
+| `SO:orthologous_to`            |              1 | [RO:HOM0000017](https://bioregistry.io/RO:HOM0000017)                                                        |
 

@@ -6,31 +6,37 @@ for node, synonym, and definition cross-references in `aeo`. See the [GitHub rep
 
 ## `AEO`: Anatomical Entity Ontology
 
-- Normalized prefix: `aeo`
-- [https://bioregistry.io/aeo](https://bioregistry.io/aeo)
-- Pattern:`^\d{7}$`
+Overall, there were 111 invalid
+xrefs to external terms in `aeo` that did not match the standard
+pattern `^\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/aeo).
 
-| identifier   |   appearances | examples                                                                                                                                                                                                                                                           |
-|--------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `AEO:JB`     |           111 | [AEO:0000129](https://bioregistry.io/AEO:0000129), [AEO:0000138](https://bioregistry.io/AEO:0000138), [AEO:0000171](https://bioregistry.io/AEO:0000171), [AEO:0000196](https://bioregistry.io/AEO:0000196), [AEO:0001018](https://bioregistry.io/AEO:0001018), ... |
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `AEO:JB`        |            111 | [AEO:0000135](https://bioregistry.io/AEO:0000135), [AEO:0000142](https://bioregistry.io/AEO:0000142), [AEO:0000146](https://bioregistry.io/AEO:0000146), [AEO:0000180](https://bioregistry.io/AEO:0000180), [AEO:0001017](https://bioregistry.io/AEO:0001017), ... |
 
 ## `AEO.`: Anatomical Entity Ontology
 
-- Normalized prefix: `aeo`
-- [https://bioregistry.io/aeo](https://bioregistry.io/aeo)
-- Pattern:`^\d{7}$`
+Overall, there were 1 invalid
+xrefs to external terms in `aeo` that did not match the standard
+pattern `^\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/aeo).
 
-| identifier   |   appearances | examples                                          |
-|--------------|---------------|---------------------------------------------------|
-| `AEO.:JB`    |             1 | [AEO:0000203](https://bioregistry.io/AEO:0000203) |
+| external_xref   |   usages_count | usages                                            |
+|-----------------|----------------|---------------------------------------------------|
+| `AEO.:JB`       |              1 | [AEO:0000203](https://bioregistry.io/AEO:0000203) |
 
 ## `GO`: Gene Ontology
 
-- Normalized prefix: `go`
-- [https://bioregistry.io/go](https://bioregistry.io/go)
-- Pattern:`^\d{7}$`
+Overall, there were 1 invalid
+xrefs to external terms in `go` that did not match the standard
+pattern `^\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/go).
 
-| identifier   |   appearances | examples                                          |
-|--------------|---------------|---------------------------------------------------|
-| `GO:curator` |             1 | [AEO:0000147](https://bioregistry.io/AEO:0000147) |
+| external_xref   |   usages_count | usages                                            |
+|-----------------|----------------|---------------------------------------------------|
+| `GO:curator`    |              1 | [AEO:0000147](https://bioregistry.io/AEO:0000147) |
 

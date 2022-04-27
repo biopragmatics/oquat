@@ -6,22 +6,26 @@ for node, synonym, and definition cross-references in `ms`. See the [GitHub repo
 
 ## `EDAM`: Bioinformatics operations, data types, formats, identifiers and topics
 
-- Normalized prefix: `edam`
-- [https://bioregistry.io/edam](https://bioregistry.io/edam)
-- Pattern:`^(data|topic|operation|format)\_\d{4}$`
+Overall, there were 2 invalid
+xrefs to external terms in `edam` that did not match the standard
+pattern `^(data|topic|operation|format)\_\d{4}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/edam).
 
-| identifier   |   appearances | examples                                        |
-|--------------|---------------|-------------------------------------------------|
-| `EDAM:0846`  |             1 | [MS:1000864](https://bioregistry.io/MS:1000864) |
-| `EDAM:2301`  |             1 | [MS:1000868](https://bioregistry.io/MS:1000868) |
+| external_xref   |   usages_count | usages                                          |
+|-----------------|----------------|-------------------------------------------------|
+| `EDAM:0846`     |              1 | [MS:1000864](https://bioregistry.io/MS:1000864) |
+| `EDAM:2301`     |              1 | [MS:1000868](https://bioregistry.io/MS:1000868) |
 
 ## `SWO`: Software ontology
 
-- Normalized prefix: `swo`
-- [https://bioregistry.io/swo](https://bioregistry.io/swo)
-- Pattern:`^\d{7}$`
+Overall, there were 1 invalid
+xrefs to external terms in `swo` that did not match the standard
+pattern `^\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/swo).
 
-| identifier                                |   appearances | examples                                        |
-|-------------------------------------------|---------------|-------------------------------------------------|
-| `SWO:http://edamontology.org/format_2187` |             1 | [MS:1002659](https://bioregistry.io/MS:1002659) |
+| external_xref                             |   usages_count | usages                                          |
+|-------------------------------------------|----------------|-------------------------------------------------|
+| `SWO:http://edamontology.org/format_2187` |              1 | [MS:1002659](https://bioregistry.io/MS:1002659) |
 

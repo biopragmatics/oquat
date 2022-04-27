@@ -6,11 +6,13 @@ for node, synonym, and definition cross-references in `lbo`. See the [GitHub rep
 
 ## `VTO`: Vertebrate Taxonomy Ontology
 
-- Normalized prefix: `vto`
-- [https://bioregistry.io/vto](https://bioregistry.io/vto)
-- Pattern:`^\d{7}$`
+Overall, there were 1 invalid
+xrefs to external terms in `vto` that did not match the standard
+pattern `^\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/vto).
 
-| identifier   |   appearances | examples                                          |
-|--------------|---------------|---------------------------------------------------|
-| `VTO:CP`     |             1 | [LBO:0001090](https://bioregistry.io/LBO:0001090) |
+| external_xref   |   usages_count | usages                                            |
+|-----------------|----------------|---------------------------------------------------|
+| `VTO:CP`        |              1 | [LBO:0001090](https://bioregistry.io/LBO:0001090) |
 

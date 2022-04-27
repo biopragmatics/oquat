@@ -6,11 +6,13 @@ for node, synonym, and definition cross-references in `olatdv`. See the [GitHub 
 
 ## `OlatDv`: Medaka Developmental Stages
 
-- Normalized prefix: `olatdv`
-- [https://bioregistry.io/olatdv](https://bioregistry.io/olatdv)
-- Pattern:`^\d{7}$`
+Overall, there were 46 invalid
+xrefs to external terms in `olatdv` that did not match the standard
+pattern `^\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/olatdv).
 
-| identifier        |   appearances | examples                                                                                                                                                                                                                                                                                         |
-|-------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `OlatDv:curators` |            46 | [OlatDv:0000210](https://bioregistry.io/OlatDv:0000210), [OlatDv:0000300](https://bioregistry.io/OlatDv:0000300), [OlatDv:0000340](https://bioregistry.io/OlatDv:0000340), [OlatDv:0000390](https://bioregistry.io/OlatDv:0000390), [OlatDv:0000460](https://bioregistry.io/OlatDv:0000460), ... |
+| external_xref     |   usages_count | usages                                                                                                                                                                                                                                                                                           |
+|-------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `OlatDv:curators` |             46 | [OlatDv:0000020](https://bioregistry.io/OlatDv:0000020), [OlatDv:0000100](https://bioregistry.io/OlatDv:0000100), [OlatDv:0000220](https://bioregistry.io/OlatDv:0000220), [OlatDv:0000440](https://bioregistry.io/OlatDv:0000440), [OlatDv:0000470](https://bioregistry.io/OlatDv:0000470), ... |
 

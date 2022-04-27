@@ -6,13 +6,15 @@ for node, synonym, and definition cross-references in `ensemblglossary`.
 
 ## `SO`: Sequence types and features ontology
 
-- Normalized prefix: `so`
-- [https://bioregistry.io/so](https://bioregistry.io/so)
-- Pattern:`^\d{7}$`
+Overall, there were 3 invalid
+xrefs to external terms in `so` that did not match the standard
+pattern `^\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/so).
 
-| identifier                           |   appearances | examples                                                                                                                  |
-|--------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------|
-| `SO:0002109, SO:0002107, SO:0002108` |             1 | [http://ensembl.org/glossary/ENSGLOSSARY:0000050](https://bioregistry.io/http://ensembl.org/glossary/ENSGLOSSARY:0000050) |
-| `SO:0002105, SO:0002106`             |             1 | [http://ensembl.org/glossary/ENSGLOSSARY:0000051](https://bioregistry.io/http://ensembl.org/glossary/ENSGLOSSARY:0000051) |
-| `SO:0000853, FHOM_0000007`           |             1 | [http://ensembl.org/glossary/ENSGLOSSARY:0000080](https://bioregistry.io/http://ensembl.org/glossary/ENSGLOSSARY:0000080) |
+| external_xref                        |   usages_count | usages                                                                                                                    |
+|--------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| `SO:0002109, SO:0002107, SO:0002108` |              1 | [http://ensembl.org/glossary/ENSGLOSSARY:0000050](https://bioregistry.io/http://ensembl.org/glossary/ENSGLOSSARY:0000050) |
+| `SO:0002105, SO:0002106`             |              1 | [http://ensembl.org/glossary/ENSGLOSSARY:0000051](https://bioregistry.io/http://ensembl.org/glossary/ENSGLOSSARY:0000051) |
+| `SO:0000853, FHOM_0000007`           |              1 | [http://ensembl.org/glossary/ENSGLOSSARY:0000080](https://bioregistry.io/http://ensembl.org/glossary/ENSGLOSSARY:0000080) |
 

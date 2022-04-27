@@ -6,11 +6,13 @@ for node, synonym, and definition cross-references in `rs`. See the [GitHub repo
 
 ## `RGD`: Rat Genome Database
 
-- Normalized prefix: `rgd`
-- [https://bioregistry.io/rgd](https://bioregistry.io/rgd)
-- Pattern:`^\d{4,}$`
+Overall, there were 1 invalid
+xrefs to external terms in `rgd` that did not match the standard
+pattern `^\d{4,}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/rgd).
 
-| identifier            |   appearances | examples                                        |
-|-----------------------|---------------|-------------------------------------------------|
-| `RGD:www.rgd.mcw.edu` |             1 | [RS:0001091](https://bioregistry.io/RS:0001091) |
+| external_xref         |   usages_count | usages                                          |
+|-----------------------|----------------|-------------------------------------------------|
+| `RGD:www.rgd.mcw.edu` |              1 | [RS:0001091](https://bioregistry.io/RS:0001091) |
 

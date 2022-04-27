@@ -6,97 +6,115 @@ for node, synonym, and definition cross-references in `bto`. See the [GitHub rep
 
 ## `Flybase`: FlyBase Gene
 
-- Normalized prefix: `flybase`
-- [https://bioregistry.io/flybase](https://bioregistry.io/flybase)
-- Pattern:`^FB\w{2}\d{7}$`
+Overall, there were 1 invalid
+xrefs to external terms in `flybase` that did not match the standard
+pattern `^FB\w{2}\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/flybase).
 
-| identifier                                                                                  |   appearances | examples                                          |
-|---------------------------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| `Flybase:http://flybase.bio.indiana.edu/allied-data/lk/interactive-fly/lewheld/preface.htm` |             1 | [BTO:0001464](https://bioregistry.io/BTO:0001464) |
+| external_xref                                                                               |   usages_count | usages                                            |
+|---------------------------------------------------------------------------------------------|----------------|---------------------------------------------------|
+| `Flybase:http://flybase.bio.indiana.edu/allied-data/lk/interactive-fly/lewheld/preface.htm` |              1 | [BTO:0001464](https://bioregistry.io/BTO:0001464) |
 
 ## `ISSN`: International Standard Serial Number
 
-- Normalized prefix: `issn`
-- [https://bioregistry.io/issn](https://bioregistry.io/issn)
-- Pattern:`^\d{4}-\d{3}[\dX]$`
+Overall, there were 1 invalid
+xrefs to external terms in `issn` that did not match the standard
+pattern `^\d{4}-\d{3}[\dX]$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/issn).
 
-| identifier                                                             |   appearances | examples                                          |
-|------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| `ISSN:0302-766X_(printed_version)_ISSN_1432-0878_(electronic_version)` |             1 | [BTO:0001198](https://bioregistry.io/BTO:0001198) |
+| external_xref                                                          |   usages_count | usages                                            |
+|------------------------------------------------------------------------|----------------|---------------------------------------------------|
+| `ISSN:0302-766X_(printed_version)_ISSN_1432-0878_(electronic_version)` |              1 | [BTO:0001198](https://bioregistry.io/BTO:0001198) |
 
 ## `MedlinePlus`: MedlinePlus Health Topics
 
-- Normalized prefix: `medlineplus`
-- [https://bioregistry.io/medlineplus](https://bioregistry.io/medlineplus)
-- Pattern:`^\d+$`
+Overall, there were 1 invalid
+xrefs to external terms in `medlineplus` that did not match the standard
+pattern `^\d+$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/medlineplus).
 
-| identifier                                                                                              |   appearances | examples                                          |
-|---------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| `MedlinePlus:A_service_of_the_U.S._National_Library_of_Medicine_From_the_National_Institutes_of_Health` |             1 | [BTO:0005035](https://bioregistry.io/BTO:0005035) |
+| external_xref                                                                                           |   usages_count | usages                                            |
+|---------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------|
+| `MedlinePlus:A_service_of_the_U.S._National_Library_of_Medicine_From_the_National_Institutes_of_Health` |              1 | [BTO:0005035](https://bioregistry.io/BTO:0005035) |
 
 ## `MGI`: Mouse Genome Informatics
 
-- Normalized prefix: `mgi`
-- [https://bioregistry.io/mgi](https://bioregistry.io/mgi)
-- Pattern:`^\d+$`
+Overall, there were 1 invalid
+xrefs to external terms in `mgi` that did not match the standard
+pattern `^\d+$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/mgi).
 
-| identifier                                                 |   appearances | examples                                          |
-|------------------------------------------------------------|---------------|---------------------------------------------------|
-| `MGI:http://www.mousedb.net/searches/GO.cgi?id=GO:0060935` |             1 | [BTO:0003093](https://bioregistry.io/BTO:0003093) |
+| external_xref                                              |   usages_count | usages                                            |
+|------------------------------------------------------------|----------------|---------------------------------------------------|
+| `MGI:http://www.mousedb.net/searches/GO.cgi?id=GO:0060935` |              1 | [BTO:0003093](https://bioregistry.io/BTO:0003093) |
 
 ## `NASC`: NASC code
 
-- Normalized prefix: `nasc`
-- [https://bioregistry.io/nasc](https://bioregistry.io/nasc)
-- Pattern:`^(\w+)?\d+$`
+Overall, there were 1 invalid
+xrefs to external terms in `nasc` that did not match the standard
+pattern `^(\w+)?\d+$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/nasc).
 
-| identifier                                   |   appearances | examples                                          |
-|----------------------------------------------|---------------|---------------------------------------------------|
-| `NASC:The_European_Arabidopsis_Stock_Centre` |             1 | [BTO:0003086](https://bioregistry.io/BTO:0003086) |
+| external_xref                                |   usages_count | usages                                            |
+|----------------------------------------------|----------------|---------------------------------------------------|
+| `NASC:The_European_Arabidopsis_Stock_Centre` |              1 | [BTO:0003086](https://bioregistry.io/BTO:0003086) |
 
 ## `Patent`: Google Patents
 
-- Normalized prefix: `google.patent`
-- [https://bioregistry.io/google.patent](https://bioregistry.io/google.patent)
-- Pattern:`^[A-Z]{2}\d+([A-Z])?$`
+Overall, there were 2 invalid
+xrefs to external terms in `google.patent` that did not match the standard
+pattern `^[A-Z]{2}\d+([A-Z])?$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/google.patent).
 
-| identifier                 |   appearances | examples                                                                                             |
-|----------------------------|---------------|------------------------------------------------------------------------------------------------------|
-| `Patent:CA_Patent_2469027` |             2 | [BTO:0004841](https://bioregistry.io/BTO:0004841), [BTO:0004952](https://bioregistry.io/BTO:0004952) |
+| external_xref              |   usages_count | usages                                                                                               |
+|----------------------------|----------------|------------------------------------------------------------------------------------------------------|
+| `Patent:CA_Patent_2469027` |              2 | [BTO:0004841](https://bioregistry.io/BTO:0004841), [BTO:0004952](https://bioregistry.io/BTO:0004952) |
 
 ## `PMID`: PubMed
 
-- Normalized prefix: `pubmed`
-- [https://bioregistry.io/pubmed](https://bioregistry.io/pubmed)
-- Pattern:`^\d+$`
+Overall, there were 7 invalid
+xrefs to external terms in `pubmed` that did not match the standard
+pattern `^\d+$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/pubmed).
 
-| identifier        |   appearances | examples                                          |
-|-------------------|---------------|---------------------------------------------------|
-| `PMID:_17179233`  |             1 | [BTO:0004783](https://bioregistry.io/BTO:0004783) |
-| `PMID:_8635507`   |             1 | [BTO:0005332](https://bioregistry.io/BTO:0005332) |
-| `PMID:_21552385`  |             1 | [BTO:0005353](https://bioregistry.io/BTO:0005353) |
-| `PMID:_6178358`   |             1 | [BTO:0005386](https://bioregistry.io/BTO:0005386) |
-| `PMID::8305734`   |             1 | [BTO:0005634](https://bioregistry.io/BTO:0005634) |
-| `PMID:  29991048` |             1 | [BTO:0006394](https://bioregistry.io/BTO:0006394) |
-| `PMID: 9522462`   |             1 | [BTO:0006473](https://bioregistry.io/BTO:0006473) |
+| external_xref     |   usages_count | usages                                            |
+|-------------------|----------------|---------------------------------------------------|
+| `PMID:_17179233`  |              1 | [BTO:0004783](https://bioregistry.io/BTO:0004783) |
+| `PMID:_8635507`   |              1 | [BTO:0005332](https://bioregistry.io/BTO:0005332) |
+| `PMID:_21552385`  |              1 | [BTO:0005353](https://bioregistry.io/BTO:0005353) |
+| `PMID:_6178358`   |              1 | [BTO:0005386](https://bioregistry.io/BTO:0005386) |
+| `PMID::8305734`   |              1 | [BTO:0005634](https://bioregistry.io/BTO:0005634) |
+| `PMID:  29991048` |              1 | [BTO:0006394](https://bioregistry.io/BTO:0006394) |
+| `PMID: 9522462`   |              1 | [BTO:0006473](https://bioregistry.io/BTO:0006473) |
 
 ## `WormBase`: WormBase database of nematode biology
 
-- Normalized prefix: `wormbase`
-- [https://bioregistry.io/wormbase](https://bioregistry.io/wormbase)
-- Pattern:`^WB[A-Z][a-z]+\d+$`
+Overall, there were 1 invalid
+xrefs to external terms in `wormbase` that did not match the standard
+pattern `^WB[A-Z][a-z]+\d+$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/wormbase).
 
-| identifier                          |   appearances | examples                                          |
-|-------------------------------------|---------------|---------------------------------------------------|
-| `WormBase:http://www.wormbase.org/` |             1 | [BTO:0003039](https://bioregistry.io/BTO:0003039) |
+| external_xref                       |   usages_count | usages                                            |
+|-------------------------------------|----------------|---------------------------------------------------|
+| `WormBase:http://www.wormbase.org/` |              1 | [BTO:0003039](https://bioregistry.io/BTO:0003039) |
 
 ## `Wormbase`: WormBase database of nematode biology
 
-- Normalized prefix: `wormbase`
-- [https://bioregistry.io/wormbase](https://bioregistry.io/wormbase)
-- Pattern:`^WB[A-Z][a-z]+\d+$`
+Overall, there were 1 invalid
+xrefs to external terms in `wormbase` that did not match the standard
+pattern `^WB[A-Z][a-z]+\d+$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/wormbase).
 
-| identifier                                                 |   appearances | examples                                          |
-|------------------------------------------------------------|---------------|---------------------------------------------------|
-| `Wormbase:https://wormbase.org//species/all/anatomy_term/` |             1 | [BTO:0006342](https://bioregistry.io/BTO:0006342) |
+| external_xref                                              |   usages_count | usages                                            |
+|------------------------------------------------------------|----------------|---------------------------------------------------|
+| `Wormbase:https://wormbase.org//species/all/anatomy_term/` |              1 | [BTO:0006342](https://bioregistry.io/BTO:0006342) |
 

@@ -6,36 +6,42 @@ for node, synonym, and definition cross-references in `apo`. See the [GitHub rep
 
 ## `BioGRID`: BioGRID
 
-- Normalized prefix: `biogrid`
-- [https://bioregistry.io/biogrid](https://bioregistry.io/biogrid)
-- Pattern:`^\d+$`
+Overall, there were 3 invalid
+xrefs to external terms in `biogrid` that did not match the standard
+pattern `^\d+$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/biogrid).
 
-| identifier         |   appearances | examples                                                                                             |
-|--------------------|---------------|------------------------------------------------------------------------------------------------------|
-| `BioGRID:curators` |             2 | [APO:0000244](https://bioregistry.io/APO:0000244), [APO:0000272](https://bioregistry.io/APO:0000272) |
-| `BioGRID:mcc`      |             1 | [APO:0000318](https://bioregistry.io/APO:0000318)                                                    |
+| external_xref      |   usages_count | usages                                                                                               |
+|--------------------|----------------|------------------------------------------------------------------------------------------------------|
+| `BioGRID:curators` |              2 | [APO:0000244](https://bioregistry.io/APO:0000244), [APO:0000272](https://bioregistry.io/APO:0000272) |
+| `BioGRID:mcc`      |              1 | [APO:0000318](https://bioregistry.io/APO:0000318)                                                    |
 
 ## `CGD`: Candida Genome Database
 
-- Normalized prefix: `cgd`
-- [https://bioregistry.io/cgd](https://bioregistry.io/cgd)
-- Pattern:`^CAL\d{7}$`
+Overall, there were 6 invalid
+xrefs to external terms in `cgd` that did not match the standard
+pattern `^CAL\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/cgd).
 
-| identifier   |   appearances | examples                                                                                                                                                                                                                                                           |
-|--------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CGD:mcc`    |             6 | [APO:0000320](https://bioregistry.io/APO:0000320), [APO:0000321](https://bioregistry.io/APO:0000321), [APO:0000325](https://bioregistry.io/APO:0000325), [APO:0000325](https://bioregistry.io/APO:0000325), [APO:0000328](https://bioregistry.io/APO:0000328), ... |
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `CGD:mcc`       |              6 | [APO:0000319](https://bioregistry.io/APO:0000319), [APO:0000319](https://bioregistry.io/APO:0000319), [APO:0000320](https://bioregistry.io/APO:0000320), [APO:0000324](https://bioregistry.io/APO:0000324), [APO:0000328](https://bioregistry.io/APO:0000328), ... |
 
 ## `SGD`: Saccharomyces Genome Database
 
-- Normalized prefix: `sgd`
-- [https://bioregistry.io/sgd](https://bioregistry.io/sgd)
-- Pattern:`^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`
+Overall, there were 286 invalid
+xrefs to external terms in `sgd` that did not match the standard
+pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/sgd).
 
-| identifier     |   appearances | examples                                                                                                                                                                                                                                                           |
-|----------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `SGD:mcc`      |           127 | [APO:0000031](https://bioregistry.io/APO:0000031), [APO:0000035](https://bioregistry.io/APO:0000035), [APO:0000062](https://bioregistry.io/APO:0000062), [APO:0000065](https://bioregistry.io/APO:0000065), [APO:0000087](https://bioregistry.io/APO:0000087), ... |
-| `SGD:RSN`      |           110 | [APO:0000129](https://bioregistry.io/APO:0000129), [APO:0000238](https://bioregistry.io/APO:0000238), [APO:0000262](https://bioregistry.io/APO:0000262), [APO:0000275](https://bioregistry.io/APO:0000275), [APO:0000340](https://bioregistry.io/APO:0000340), ... |
-| `SGD:curators` |            47 | [APO:0000008](https://bioregistry.io/APO:0000008), [APO:0000014](https://bioregistry.io/APO:0000014), [APO:0000017](https://bioregistry.io/APO:0000017), [APO:0000018](https://bioregistry.io/APO:0000018), [APO:0000113](https://bioregistry.io/APO:0000113), ... |
-| `SGD:rsn`      |             1 | [APO:0000028](https://bioregistry.io/APO:0000028)                                                                                                                                                                                                                  |
-| `SGD:krc`      |             1 | [APO:0000029](https://bioregistry.io/APO:0000029)                                                                                                                                                                                                                  |
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `SGD:mcc`       |            127 | [APO:0000052](https://bioregistry.io/APO:0000052), [APO:0000079](https://bioregistry.io/APO:0000079), [APO:0000208](https://bioregistry.io/APO:0000208), [APO:0000213](https://bioregistry.io/APO:0000213), [APO:0000214](https://bioregistry.io/APO:0000214), ... |
+| `SGD:RSN`       |            110 | [APO:0000067](https://bioregistry.io/APO:0000067), [APO:0000133](https://bioregistry.io/APO:0000133), [APO:0000142](https://bioregistry.io/APO:0000142), [APO:0000229](https://bioregistry.io/APO:0000229), [APO:0000230](https://bioregistry.io/APO:0000230), ... |
+| `SGD:curators`  |             47 | [APO:0000098](https://bioregistry.io/APO:0000098), [APO:0000106](https://bioregistry.io/APO:0000106), [APO:0000157](https://bioregistry.io/APO:0000157), [APO:0000157](https://bioregistry.io/APO:0000157), [APO:0000193](https://bioregistry.io/APO:0000193), ... |
+| `SGD:rsn`       |              1 | [APO:0000028](https://bioregistry.io/APO:0000028)                                                                                                                                                                                                                  |
+| `SGD:krc`       |              1 | [APO:0000029](https://bioregistry.io/APO:0000029)                                                                                                                                                                                                                  |
 

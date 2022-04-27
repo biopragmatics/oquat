@@ -6,11 +6,13 @@ for node, synonym, and definition cross-references in `vhog`.
 
 ## `ZFIN`: Zebrafish Information Network Gene
 
-- Normalized prefix: `zfin`
-- [https://bioregistry.io/zfin](https://bioregistry.io/zfin)
-- Pattern:`^ZDB\-\w+\-\d+\-\d+$`
+Overall, there were 1 invalid
+xrefs to external terms in `zfin` that did not match the standard
+pattern `^ZDB\-\w+\-\d+\-\d+$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/zfin).
 
-| identifier     |   appearances | examples                                            |
-|----------------|---------------|-----------------------------------------------------|
-| `ZFIN:Curator` |             1 | [VHOG:0001750](https://bioregistry.io/VHOG:0001750) |
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `ZFIN:Curator`  |              1 | [VHOG:0001750](https://bioregistry.io/VHOG:0001750) |
 

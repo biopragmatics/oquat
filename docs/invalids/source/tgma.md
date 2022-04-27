@@ -6,34 +6,40 @@ for node, synonym, and definition cross-references in `tgma`. See the [GitHub re
 
 ## `ISBN`: International Standard Book Number
 
-- Normalized prefix: `isbn`
-- [https://bioregistry.io/isbn](https://bioregistry.io/isbn)
-- Pattern:`^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`
+Overall, there were 6 invalid
+xrefs to external terms in `isbn` that did not match the standard
+pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/isbn).
 
-| identifier                        |   appearances | examples                                                                                                 |
-|-----------------------------------|---------------|----------------------------------------------------------------------------------------------------------|
-| `ISBN:0-937548-00-60-937548-00-6` |             2 | [TGMA:0000316](https://bioregistry.io/TGMA:0000316), [TGMA:0000457](https://bioregistry.io/TGMA:0000457) |
-| `ISBN:0-937548-00-6.`             |             2 | [TGMA:0001282](https://bioregistry.io/TGMA:0001282), [TGMA:0001282](https://bioregistry.io/TGMA:0001282) |
-| `ISBN:0--937548-00-6`             |             1 | [TGMA:0001491](https://bioregistry.io/TGMA:0001491)                                                      |
-| `ISBN:0-412-40-1800`              |             1 | [TGMA:0001814](https://bioregistry.io/TGMA:0001814)                                                      |
+| external_xref                     |   usages_count | usages                                                                                                   |
+|-----------------------------------|----------------|----------------------------------------------------------------------------------------------------------|
+| `ISBN:0-937548-00-60-937548-00-6` |              2 | [TGMA:0000316](https://bioregistry.io/TGMA:0000316), [TGMA:0000457](https://bioregistry.io/TGMA:0000457) |
+| `ISBN:0-937548-00-6.`             |              2 | [TGMA:0001282](https://bioregistry.io/TGMA:0001282), [TGMA:0001282](https://bioregistry.io/TGMA:0001282) |
+| `ISBN:0--937548-00-6`             |              1 | [TGMA:0001491](https://bioregistry.io/TGMA:0001491)                                                      |
+| `ISBN:0-412-40-1800`              |              1 | [TGMA:0001814](https://bioregistry.io/TGMA:0001814)                                                      |
 
 ## `ISSN`: International Standard Serial Number
 
-- Normalized prefix: `issn`
-- [https://bioregistry.io/issn](https://bioregistry.io/issn)
-- Pattern:`^\d{4}-\d{3}[\dX]$`
+Overall, there were 1 invalid
+xrefs to external terms in `issn` that did not match the standard
+pattern `^\d{4}-\d{3}[\dX]$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/issn).
 
-| identifier        |   appearances | examples                                            |
-|-------------------|---------------|-----------------------------------------------------|
-| `ISSN:00931-3669` |             1 | [TGMA:0001124](https://bioregistry.io/TGMA:0001124) |
+| external_xref     |   usages_count | usages                                              |
+|-------------------|----------------|-----------------------------------------------------|
+| `ISSN:00931-3669` |              1 | [TGMA:0001124](https://bioregistry.io/TGMA:0001124) |
 
 ## `PubMed`: PubMed
 
-- Normalized prefix: `pubmed`
-- [https://bioregistry.io/pubmed](https://bioregistry.io/pubmed)
-- Pattern:`^\d+$`
+Overall, there were 9 invalid
+xrefs to external terms in `pubmed` that did not match the standard
+pattern `^\d+$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/pubmed).
 
-| identifier             |   appearances | examples                                                                                                                                                                                                                                                                     |
-|------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PubMed:PMID:15857775` |             9 | [TGMA:0000001](https://bioregistry.io/TGMA:0000001), [TGMA:0001818](https://bioregistry.io/TGMA:0001818), [TGMA:0001849](https://bioregistry.io/TGMA:0001849), [TGMA:0001851](https://bioregistry.io/TGMA:0001851), [TGMA:0001851](https://bioregistry.io/TGMA:0001851), ... |
+| external_xref          |   usages_count | usages                                                                                                                                                                                                                                                                       |
+|------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `PubMed:PMID:15857775` |              9 | [TGMA:0000001](https://bioregistry.io/TGMA:0000001), [TGMA:0000001](https://bioregistry.io/TGMA:0000001), [TGMA:0001849](https://bioregistry.io/TGMA:0001849), [TGMA:0001851](https://bioregistry.io/TGMA:0001851), [TGMA:0001852](https://bioregistry.io/TGMA:0001852), ... |
 

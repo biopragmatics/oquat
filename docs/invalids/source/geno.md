@@ -6,21 +6,25 @@ for node, synonym, and definition cross-references in `geno`. See the [GitHub re
 
 ## `OBI`: Ontology for Biomedical Investigations
 
-- Normalized prefix: `obi`
-- [https://bioregistry.io/obi](https://bioregistry.io/obi)
-- Pattern:`^\d{7}$`
+Overall, there were 1 invalid
+xrefs to external terms in `obi` that did not match the standard
+pattern `^\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/obi).
 
-| identifier                                      |   appearances | examples                                            |
-|-------------------------------------------------|---------------|-----------------------------------------------------|
-| `OBI:genetic population background information` |             1 | [GENO:0000010](https://bioregistry.io/GENO:0000010) |
+| external_xref                                   |   usages_count | usages                                              |
+|-------------------------------------------------|----------------|-----------------------------------------------------|
+| `OBI:genetic population background information` |              1 | [GENO:0000010](https://bioregistry.io/GENO:0000010) |
 
 ## `SO`: Sequence types and features ontology
 
-- Normalized prefix: `so`
-- [https://bioregistry.io/so](https://bioregistry.io/so)
-- Pattern:`^\d{7}$`
+Overall, there were 1 invalid
+xrefs to external terms in `so` that did not match the standard
+pattern `^\d{7}$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/so).
 
-| identifier                        |   appearances | examples                                            |
-|-----------------------------------|---------------|-----------------------------------------------------|
-| `SO:0000831 (gene member region)` |             1 | [GENO:0000666](https://bioregistry.io/GENO:0000666) |
+| external_xref                     |   usages_count | usages                                              |
+|-----------------------------------|----------------|-----------------------------------------------------|
+| `SO:0000831 (gene member region)` |              1 | [GENO:0000666](https://bioregistry.io/GENO:0000666) |
 

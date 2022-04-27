@@ -6,11 +6,13 @@ for node, synonym, and definition cross-references in `fbbi`. See the [GitHub re
 
 ## `Wikipedia`: Wikipedia
 
-- Normalized prefix: `wikipedia.en`
-- [https://bioregistry.io/wikipedia.en](https://bioregistry.io/wikipedia.en)
-- Pattern:`^[A-Za-z-0-9_]+$`
+Overall, there were 2 invalid
+xrefs to external terms in `wikipedia.en` that did not match the standard
+pattern `^[A-Za-z-0-9_]+$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/wikipedia.en).
 
-| identifier                                           |   appearances | examples                                                                                                     |
-|------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------|
-| `Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain` |             2 | [FBbi:00000037](https://bioregistry.io/FBbi:00000037), [FBbi:00000041](https://bioregistry.io/FBbi:00000041) |
+| external_xref                                        |   usages_count | usages                                                                                                       |
+|------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
+| `Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain` |              2 | [FBbi:00000037](https://bioregistry.io/FBbi:00000037), [FBbi:00000041](https://bioregistry.io/FBbi:00000041) |
 

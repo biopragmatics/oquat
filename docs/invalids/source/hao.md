@@ -6,11 +6,13 @@ for node, synonym, and definition cross-references in `hao`. See the [GitHub rep
 
 ## `DOI`: Digital Object Identifier
 
-- Normalized prefix: `doi`
-- [https://bioregistry.io/doi](https://bioregistry.io/doi)
-- Pattern:`^(doi\:)?\d{2}\.\d{4}.*$`
+Overall, there were 1 invalid
+xrefs to external terms in `doi` that did not match the standard
+pattern `^(doi\:)?\d{2}\.\d{4}.*$`. More information on this
+external resource can be found on the
+[Bioregistry](https://bioregistry.io/doi).
 
-| identifier                     |   appearances | examples                                          |
-|--------------------------------|---------------|---------------------------------------------------|
-| `DOI:10.108/00222930701579732` |             1 | [HAO:0000569](https://bioregistry.io/HAO:0000569) |
+| external_xref                  |   usages_count | usages                                            |
+|--------------------------------|----------------|---------------------------------------------------|
+| `DOI:10.108/00222930701579732` |              1 | [HAO:0000569](https://bioregistry.io/HAO:0000569) |
 
