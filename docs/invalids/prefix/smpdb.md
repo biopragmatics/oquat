@@ -1,10 +1,13 @@
-# SGN
+# smpdb: Small Molecule Pathway Database
 
-The following 1 variants were found: ['SMPDB']
+This page summarize the different resources that reference `smpdb`
+but use local unique identifiers that do not match the standard pattern of
+^SMP\d+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['SMPDB'].
 
-## `pw`
+## `pw`: Pathway ontology
 
-Identifiers for this prefix are given correctly in Pathway ontology.
+Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 | external_xref                                             |   usages_count | usages                                                                                           |
 |-----------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------|

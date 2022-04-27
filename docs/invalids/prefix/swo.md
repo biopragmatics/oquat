@@ -1,10 +1,13 @@
-# EDAM
+# swo: Software ontology
 
-The following 1 variants were found: ['SWO']
+This page summarize the different resources that reference `swo`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['SWO'].
 
-## `ms`
+## `ms`: Mass spectrometry ontology
 
-Identifiers for this prefix are given correctly in Mass spectrometry ontology.
+Identifiers for this prefix are given incorrectly correctly in `ms`.
 
 | external_xref                             |   usages_count | usages                                          |
 |-------------------------------------------|----------------|-------------------------------------------------|

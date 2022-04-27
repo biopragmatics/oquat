@@ -1,10 +1,13 @@
-# SWO
+# fix: Physico-chemical methods and properties
 
-The following 1 variants were found: ['FIX']
+This page summarize the different resources that reference `fix`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 2 resources,
+1 variants on the standard prefix were found: ['FIX'].
 
-## `chmo`
+## `chmo`: Chemical Methods Ontology
 
-Identifiers for this prefix are given correctly in Chemical Methods Ontology.
+Identifiers for this prefix are given incorrectly correctly in `chmo`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -16,9 +19,9 @@ Identifiers for this prefix are given correctly in Chemical Methods Ontology.
 | `FIX:00001157`  |              1 | [CHMO:0002709](https://bioregistry.io/CHMO:0002709) |
 | `FIX:000125`    |              1 | [CHMO:0002713](https://bioregistry.io/CHMO:0002713) |
 
-## `pride`
+## `pride`: PRIDE Controlled Vocabulary
 
-Identifiers for this prefix are given correctly in PRIDE Controlled Vocabulary.
+Identifiers for this prefix are given incorrectly correctly in `pride`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

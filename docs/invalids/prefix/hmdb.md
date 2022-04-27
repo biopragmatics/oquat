@@ -1,10 +1,13 @@
-# PDBeChem
+# hmdb: Human Metabolome Database
 
-The following 1 variants were found: ['HMDB']
+This page summarize the different resources that reference `hmdb`
+but use local unique identifiers that do not match the standard pattern of
+^HMDB\d+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['HMDB'].
 
-## `chebi`
+## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given correctly in Chemical Entities of Biological Interest.
+Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

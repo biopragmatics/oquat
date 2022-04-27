@@ -1,10 +1,13 @@
-# Gmelin
+# pdb-ccd: Chemical Component Dictionary
 
-The following 1 variants were found: ['PDBeChem']
+This page summarize the different resources that reference `pdb-ccd`
+but use local unique identifiers that do not match the standard pattern of
+^\w{3}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['PDBeChem'].
 
-## `chebi`
+## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given correctly in Chemical Entities of Biological Interest.
+Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 | external_xref                                                            |   usages_count | usages                                                                                               |
 |--------------------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------|

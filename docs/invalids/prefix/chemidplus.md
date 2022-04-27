@@ -1,10 +1,13 @@
-# Agricola
+# chemidplus: ChemIDplus
 
-The following 1 variants were found: ['ChemIDplus']
+This page summarize the different resources that reference `chemidplus`
+but use local unique identifiers that do not match the standard pattern of
+^\d+\-\d+\-\d+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['ChemIDplus'].
 
-## `chebi`
+## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given correctly in Chemical Entities of Biological Interest.
+Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 | external_xref           |   usages_count | usages                                              |
 |-------------------------|----------------|-----------------------------------------------------|

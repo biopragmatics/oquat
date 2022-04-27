@@ -1,10 +1,13 @@
-# HPA
+# bto: BRENDA tissue / enzyme source
 
-The following 1 variants were found: ['BTO']
+This page summarize the different resources that reference `bto`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['BTO'].
 
-## `cl`
+## `cl`: Cell Ontology
 
-Identifiers for this prefix are given correctly in Cell Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

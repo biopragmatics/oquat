@@ -1,18 +1,21 @@
-# MP
+# fma: Foundational Model of Anatomy
 
-The following 1 variants were found: ['FMA']
+This page summarize the different resources that reference `fma`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 2 resources,
+1 variants on the standard prefix were found: ['FMA'].
 
-## `clao`
+## `clao`: Collembola Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Collembola Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `clao`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
 | `FMA:C34070`    |              1 | [CLAO:0001186](https://bioregistry.io/CLAO:0001186) |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

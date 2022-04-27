@@ -1,18 +1,21 @@
-# OMIMPS
+# orcid: Open Researcher and Contributor
 
-The following 2 variants were found: ['ORCID', 'ORCiD']
+This page summarize the different resources that reference `orcid`
+but use local unique identifiers that do not match the standard pattern of
+^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$. Of the 3 resources,
+2 variants on the standard prefix were found: ['ORCID', 'ORCiD'].
 
-## `hp`
+## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Human Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 | external_xref              |   usages_count | usages                                          |
 |----------------------------|----------------|-------------------------------------------------|
 | `ORCID:000-0002-6670-9157` |              1 | [HP:0002673](https://bioregistry.io/HP:0002673) |
 
-## `mp`
+## `mp`: Mammalian Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Mammalian Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mp`.
 
 | external_xref                         |   usages_count | usages                                                                                                                                                                                                                                                   |
 |---------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,9 +26,9 @@ Identifiers for this prefix are given correctly in Mammalian Phenotype Ontology.
 | `ORCID:orcid.org/0000-0003-1726-4769` |              1 | [MP:0031185](https://bioregistry.io/MP:0031185)                                                                                                                                                                                                          |
 | `ORCID:orcid.org/0000-0001-5356-4174` |              1 | [MP:0031193](https://bioregistry.io/MP:0031193)                                                                                                                                                                                                          |
 
-## `zfa`
+## `zfa`: Zebrafish anatomy and development ontology
 
-Identifiers for this prefix are given correctly in Zebrafish anatomy and development ontology.
+Identifiers for this prefix are given incorrectly correctly in `zfa`.
 
 | external_xref                |   usages_count | usages                                            |
 |------------------------------|----------------|---------------------------------------------------|

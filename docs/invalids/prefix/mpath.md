@@ -1,10 +1,13 @@
-# PECO
+# mpath: Mouse pathology ontology
 
-The following 2 variants were found: ['MPATH', 'mpath']
+This page summarize the different resources that reference `mpath`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 1 resources,
+2 variants on the standard prefix were found: ['MPATH', 'mpath'].
 
-## `mpath`
+## `mpath`: Mouse pathology ontology
 
-Identifiers for this prefix are given correctly in Mouse pathology ontology.
+Identifiers for this prefix are given incorrectly correctly in `mpath`.
 
 | external_xref               |   usages_count | usages                                                                                                                                                                                                                                         |
 |-----------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

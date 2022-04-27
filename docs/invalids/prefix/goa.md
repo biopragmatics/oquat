@@ -1,10 +1,13 @@
-# Pfam
+# goa: Gene Ontology Annotation Database
 
-The following 1 variants were found: ['GOA']
+This page summarize the different resources that reference `goa`
+but use local unique identifiers that do not match the standard pattern of
+^(([A-N,R-Z][0-9][A-Z][A-Z, 0-9][A-Z, 0-9][0-9])|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9]))|(URS[0-9A-F]{10}(_[0-9]+){0,1})|(EBI-[0-9]+)$. Of the 1 resources,
+1 variants on the standard prefix were found: ['GOA'].
 
-## `go`
+## `go`: Gene Ontology
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

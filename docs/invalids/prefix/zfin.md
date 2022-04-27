@@ -1,35 +1,38 @@
-# RGD
+# zfin: Zebrafish Information Network Gene
 
-The following 2 variants were found: ['ZFIN', 'zfin']
+This page summarize the different resources that reference `zfin`
+but use local unique identifiers that do not match the standard pattern of
+^ZDB\-\w+\-\d+\-\d+$. Of the 9 resources,
+2 variants on the standard prefix were found: ['ZFIN', 'zfin'].
 
-## `cl`
+## `cl`: Cell Ontology
 
-Identifiers for this prefix are given correctly in Cell Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `ZFIN:CVS`      |              5 | [CL:0005023](https://bioregistry.io/CL:0005023), [CL:0005024](https://bioregistry.io/CL:0005024), [CL:0005025](https://bioregistry.io/CL:0005025), [CL:0011100](https://bioregistry.io/CL:0011100), [CL:0015000](https://bioregistry.io/CL:0015000) |
 | `ZFIN:YB`       |              1 | [CL:0011100](https://bioregistry.io/CL:0011100)                                                                                                                                                                                                     |
 
-## `go`
+## `go`: Gene Ontology
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `ZFIN:dsf`      |              1 | [GO:0044458](https://bioregistry.io/GO:0044458) |
 
-## `hog`
+## `hog`: Homologous Organ Groups
 
-Identifiers for this prefix are given correctly in Homologous Organ Groups.
+Identifiers for this prefix are given incorrectly correctly in `hog`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
 | `ZFIN:Curator`  |              1 | [HOG:0001750](https://bioregistry.io/HOG:0001750) |
 
-## `so`
+## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given correctly in Sequence types and features ontology.
+Identifiers for this prefix are given incorrectly correctly in `so`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -37,9 +40,9 @@ Identifiers for this prefix are given correctly in Sequence types and features o
 | `ZFIN:mh`       |              2 | [SO:0001480](https://bioregistry.io/SO:0001480), [SO:0001481](https://bioregistry.io/SO:0001481)                                                  |
 | `ZFIN:st`       |              1 | [SO:0002217](https://bioregistry.io/SO:0002217)                                                                                                   |
 
-## `tao`
+## `tao`: Teleost Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Teleost Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `tao`.
 
 | external_xref    |   usages_count | usages                                                                                                                                                                                                                                                             |
 |------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -48,9 +51,9 @@ Identifiers for this prefix are given correctly in Teleost Anatomy Ontology.
 | `ZFIN:090511-18` |              1 | [TAO:0002145](https://bioregistry.io/TAO:0002145)                                                                                                                                                                                                                  |
 | `ZFIN:CVS`       |              1 | [TAO:0005265](https://bioregistry.io/TAO:0005265)                                                                                                                                                                                                                  |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref    |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -61,25 +64,25 @@ Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
 | `ZFIN:090511-18` |              1 | [UBERON:2002145](https://bioregistry.io/UBERON:2002145)                                                                                                                                                                                                                                          |
 | `ZFIN:CVS`       |              1 | [UBERON:2005265](https://bioregistry.io/UBERON:2005265)                                                                                                                                                                                                                                          |
 
-## `vhog`
+## `vhog`: Vertebrate Homologous Organ Group Ontology
 
-Identifiers for this prefix are given correctly in Vertebrate Homologous Organ Group Ontology.
+Identifiers for this prefix are given incorrectly correctly in `vhog`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
 | `ZFIN:Curator`  |              1 | [VHOG:0001750](https://bioregistry.io/VHOG:0001750) |
 
-## `vsao`
+## `vsao`: Vertebrate Skeletal Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Vertebrate Skeletal Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `vsao`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                        |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `ZFIN:curator`  |              3 | [VSAO:0000001](https://bioregistry.io/VSAO:0000001), [VSAO:0000164](https://bioregistry.io/VSAO:0000164), [VSAO:0000178](https://bioregistry.io/VSAO:0000178) |
 
-## `zfa`
+## `zfa`: Zebrafish anatomy and development ontology
 
-Identifiers for this prefix are given correctly in Zebrafish anatomy and development ontology.
+Identifiers for this prefix are given incorrectly correctly in `zfa`.
 
 | external_xref              |   usages_count | usages                                                                                                                                                                                                                                                             |
 |----------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

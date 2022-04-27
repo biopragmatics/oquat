@@ -1,10 +1,13 @@
-# xenbase
+# rfam: Rfam database of RNA families
 
-The following 1 variants were found: ['RFAM']
+This page summarize the different resources that reference `rfam`
+but use local unique identifiers that do not match the standard pattern of
+^RF\d{5}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['RFAM'].
 
-## `so`
+## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given correctly in Sequence types and features ontology.
+Identifiers for this prefix are given incorrectly correctly in `so`.
 
 | external_xref   |   usages_count | usages                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------|

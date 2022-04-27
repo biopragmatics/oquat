@@ -1,10 +1,13 @@
-# PMID
+# cas: CAS Chemical Registry
 
-The following 1 variants were found: ['CAS']
+This page summarize the different resources that reference `cas`
+but use local unique identifiers that do not match the standard pattern of
+^\d{1,7}\-\d{2}\-\d$. Of the 4 resources,
+1 variants on the standard prefix were found: ['CAS'].
 
-## `chebi`
+## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given correctly in Chemical Entities of Biological Interest.
+Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 | external_xref    |   usages_count | usages                                              |
 |------------------|----------------|-----------------------------------------------------|
@@ -14,17 +17,17 @@ Identifiers for this prefix are given correctly in Chemical Entities of Biologic
 | `CAS:5/9/2016`   |              1 | [CHEBI:189236](https://bioregistry.io/CHEBI:189236) |
 | `CAS:5/2/5297`   |              1 | [CHEBI:189931](https://bioregistry.io/CHEBI:189931) |
 
-## `miro`
+## `miro`: Mosquito insecticide resistance
 
-Identifiers for this prefix are given correctly in Mosquito insecticide resistance.
+Identifiers for this prefix are given incorrectly correctly in `miro`.
 
 | external_xref                                                                           |   usages_count | usages                                                |
 |-----------------------------------------------------------------------------------------|----------------|-------------------------------------------------------|
 | `CAS:7-(2-chlorophenyl)-4-ethoxy-3,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile4-sulfide` |              1 | [MIRO:10000108](https://bioregistry.io/MIRO:10000108) |
 
-## `peco`
+## `peco`: Plant Experimental Conditions Ontology
 
-Identifiers for this prefix are given correctly in Plant Experimental Conditions Ontology.
+Identifiers for this prefix are given incorrectly correctly in `peco`.
 
 | external_xref      |   usages_count | usages                                                                                                   |
 |--------------------|----------------|----------------------------------------------------------------------------------------------------------|
@@ -93,9 +96,9 @@ Identifiers for this prefix are given correctly in Plant Experimental Conditions
 | `CAS:[51-79-6]`    |              1 | [PECO:0007573](https://bioregistry.io/PECO:0007573)                                                      |
 | `CAS:[15805-73-9]` |              1 | [PECO:0007574](https://bioregistry.io/PECO:0007574)                                                      |
 
-## `xlmod`
+## `xlmod`: HUPO-PSI cross-linking and derivatization reagents controlled vocabulary
 
-Identifiers for this prefix are given correctly in HUPO-PSI cross-linking and derivatization reagents controlled vocabulary.
+Identifiers for this prefix are given incorrectly correctly in `xlmod`.
 
 | external_xref                               |   usages_count | usages                                            |
 |---------------------------------------------|----------------|---------------------------------------------------|

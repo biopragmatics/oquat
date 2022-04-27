@@ -1,27 +1,30 @@
-# XAO
+# hp: Human Phenotype Ontology
 
-The following 2 variants were found: ['HP', 'HPO']
+This page summarize the different resources that reference `hp`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 6 resources,
+2 variants on the standard prefix were found: ['HP', 'HPO'].
 
-## `eco`
+## `eco`: Evidence ontology
 
-Identifiers for this prefix are given correctly in Evidence ontology.
+Identifiers for this prefix are given incorrectly correctly in `eco`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
 | `HPO:PCS`       |              1 | [ECO:0006017](https://bioregistry.io/ECO:0006017) |
 | `HPO:ICE`       |              1 | [ECO:0006019](https://bioregistry.io/ECO:0006019) |
 
-## `enm`
+## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given correctly in eNanoMapper Ontology.
+Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `HPO:probinson` |              5 | [HP:0001522](https://bioregistry.io/HP:0001522), [HP:0003674](https://bioregistry.io/HP:0003674), [HP:0003811](https://bioregistry.io/HP:0003811), [HP:0003826](https://bioregistry.io/HP:0003826), [HP:0100613](https://bioregistry.io/HP:0100613) |
 
-## `hp`
+## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Human Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 | external_xref            |   usages_count | usages                                                                                                                                                                                                                                                   |
 |--------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -68,26 +71,26 @@ Identifiers for this prefix are given correctly in Human Phenotype Ontology.
 | `HPO:gblack`             |              1 | [HP:0100689](https://bioregistry.io/HP:0100689)                                                                                                                                                                                                          |
 | `HPO:ucbasharo`          |              1 | [HP:0550004](https://bioregistry.io/HP:0550004)                                                                                                                                                                                                          |
 
-## `mondo`
+## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given correctly in Monarch Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|
 | `HPO:probinson` |              1 | [MONDO:0008331](https://bioregistry.io/MONDO:0008331) |
 
-## `mp`
+## `mp`: Mammalian Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Mammalian Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mp`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `HPO:probinson` |              1 | [MP:0013806](https://bioregistry.io/MP:0013806) |
 | `HPO:curators`  |              1 | [MP:0013807](https://bioregistry.io/MP:0013807) |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref   |   usages_count | usages                                                                                                           |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------|

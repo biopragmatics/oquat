@@ -1,10 +1,13 @@
-# TC
+# merops: MEROPS peptidase database
 
-The following 1 variants were found: ['MEROPS']
+This page summarize the different resources that reference `merops`
+but use local unique identifiers that do not match the standard pattern of
+^[SCTAGMNU]\d{2}\.([AB]\d{2}|\d{3})$. Of the 1 resources,
+1 variants on the standard prefix were found: ['MEROPS'].
 
-## `go`
+## `go`: Gene Ontology
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref    |   usages_count | usages                                          |
 |------------------|----------------|-------------------------------------------------|

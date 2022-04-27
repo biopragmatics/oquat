@@ -1,10 +1,13 @@
-# DisProt
+# bs: Biosapiens Protein Feature Ontology
 
-The following 1 variants were found: ['BS']
+This page summarize the different resources that reference `bs`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['BS'].
 
-## `envo`
+## `envo`: Environment Ontology
 
-Identifiers for this prefix are given correctly in Environment Ontology.
+Identifiers for this prefix are given incorrectly correctly in `envo`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|

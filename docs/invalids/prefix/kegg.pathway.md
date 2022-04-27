@@ -1,10 +1,13 @@
-# GOA
+# kegg.pathway: KEGG Pathways Database
 
-The following 1 variants were found: ['KEGG_PATHWAY']
+This page summarize the different resources that reference `kegg.pathway`
+but use local unique identifiers that do not match the standard pattern of
+^\w{2,4}\d{5}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['KEGG_PATHWAY'].
 
-## `go`
+## `go`: Gene Ontology
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref         |   usages_count | usages                                          |
 |-----------------------|----------------|-------------------------------------------------|

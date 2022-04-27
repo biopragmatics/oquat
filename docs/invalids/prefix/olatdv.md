@@ -1,10 +1,13 @@
-# BioGRID
+# olatdv: Medaka Developmental Stages
 
-The following 1 variants were found: ['OlatDv']
+This page summarize the different resources that reference `olatdv`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['OlatDv'].
 
-## `olatdv`
+## `olatdv`: Medaka Developmental Stages
 
-Identifiers for this prefix are given correctly in Medaka Developmental Stages.
+Identifiers for this prefix are given incorrectly correctly in `olatdv`.
 
 | external_xref     |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

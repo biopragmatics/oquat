@@ -1,18 +1,21 @@
-# ICD-O
+# ncit: NCI Thesaurus
 
-The following 6 variants were found: ['NCI', 'NCI Thesaurus', 'NCIT', 'NCI_Thesaurus', 'NCIt', 'ncithesaurus']
+This page summarize the different resources that reference `ncit`
+but use local unique identifiers that do not match the standard pattern of
+^C\d+$. Of the 14 resources,
+6 variants on the standard prefix were found: ['NCI', 'NCI Thesaurus', 'NCIT', 'NCI_Thesaurus', 'NCIt', 'ncithesaurus'].
 
-## `bao`
+## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given correctly in BioAssay Ontology.
+Identifiers for this prefix are given incorrectly correctly in `bao`.
 
 | external_xref                      |   usages_count | usages                                                  |
 |------------------------------------|----------------|---------------------------------------------------------|
 | `ncithesaurus:Developmental_Stage` |              1 | [UBERON:0000105](https://bioregistry.io/UBERON:0000105) |
 
-## `cl`
+## `cl`: Cell Ontology
 
-Identifiers for this prefix are given correctly in Cell Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 | external_xref                                   |   usages_count | usages                                          |
 |-------------------------------------------------|----------------|-------------------------------------------------|
@@ -22,17 +25,17 @@ Identifiers for this prefix are given correctly in Cell Ontology.
 | `ncithesaurus:Beta_Cell`                        |              1 | [CL:0000169](https://bioregistry.io/CL:0000169) |
 | `ncithesaurus:Blastemal_Cell`                   |              1 | [CL:0000354](https://bioregistry.io/CL:0000354) |
 
-## `doid`
+## `doid`: Human Disease Ontology
 
-Identifiers for this prefix are given correctly in Human Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `doid`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
 | `NCI:131302`    |              1 | [DOID:0080925](https://bioregistry.io/DOID:0080925) |
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -40,25 +43,25 @@ Identifiers for this prefix are given correctly in Experimental Factor Ontology.
 | `NCIT:C92189-variant` |              1 | [http://www.ebi.ac.uk/efo/EFO:1001417](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001417)                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | `NCIt: C12511`        |              1 | [http://www.ebi.ac.uk/efo/EFO:0001394](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001394)                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
-## `hp`
+## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Human Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `NCIT:CL017969` |              1 | [HP:0031018](https://bioregistry.io/HP:0031018) |
 
-## `idomal`
+## `idomal`: Malaria Ontology
 
-Identifiers for this prefix are given correctly in Malaria Ontology.
+Identifiers for this prefix are given incorrectly correctly in `idomal`.
 
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|
 | `NCI:Thesaurus` |              1 | [IDOMAL:50000048](https://bioregistry.io/IDOMAL:50000048) |
 
-## `mondo`
+## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given correctly in Monarch Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 | external_xref           |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -69,25 +72,25 @@ Identifiers for this prefix are given correctly in Monarch Disease Ontology.
 | `NCIT:C9438-modified`   |              1 | [MONDO:0024327](https://bioregistry.io/MONDO:0024327)                                                                                                                                                                                                                                  |
 | `NCIT:C92189-variant`   |              1 | [MONDO:0024332](https://bioregistry.io/MONDO:0024332)                                                                                                                                                                                                                                  |
 
-## `mp`
+## `mp`: Mammalian Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Mammalian Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mp`.
 
 | external_xref    |   usages_count | usages                                          |
 |------------------|----------------|-------------------------------------------------|
 | `NCI:CDRID45698` |              1 | [MP:0010727](https://bioregistry.io/MP:0010727) |
 
-## `plana`
+## `plana`: Planarian Anatomy and Schmidtea mediterranean Developmental Stage Ontology
 
-Identifiers for this prefix are given correctly in Planarian Anatomy and Schmidtea mediterranean Developmental Stage Ontology.
+Identifiers for this prefix are given incorrectly correctly in `plana`.
 
 | external_xref                 |   usages_count | usages                                                |
 |-------------------------------|----------------|-------------------------------------------------------|
 | `ncithesaurus:Blastemal_Cell` |              1 | [PLANA:0000495](https://bioregistry.io/PLANA:0000495) |
 
-## `pw`
+## `pw`: Pathway ontology
 
-Identifiers for this prefix are given correctly in Pathway ontology.
+Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 | external_xref               |   usages_count | usages                                                                                           |
 |-----------------------------|----------------|--------------------------------------------------------------------------------------------------|
@@ -95,17 +98,17 @@ Identifiers for this prefix are given correctly in Pathway ontology.
 | `NCI:http://www.cancer.gov` |              1 | [PW:0001210](https://bioregistry.io/PW:0001210)                                                  |
 | `NCI:www.cancer.gov`        |              1 | [PW:0001217](https://bioregistry.io/PW:0001217)                                                  |
 
-## `rdo`
+## `rdo`: RGD Disease_Ontology
 
-Identifiers for this prefix are given correctly in RGD Disease_Ontology.
+Identifiers for this prefix are given incorrectly correctly in `rdo`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
 | `NCI:131302`    |              1 | [DOID:0080925](https://bioregistry.io/DOID:0080925) |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref                                                 |   usages_count | usages                                                                                                           |
 |---------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------|
@@ -338,9 +341,9 @@ Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
 | `ncithesaurus:Nucleus_of_the_Solitary_Tract`                  |              1 | [UBERON:0009050](https://bioregistry.io/UBERON:0009050)                                                          |
 | `ncithesaurus:Gravid_Uterus`                                  |              1 | [UBERON:0009098](https://bioregistry.io/UBERON:0009098)                                                          |
 
-## `xao`
+## `xao`: Xenopus Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Xenopus Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `xao`.
 
 | external_xref                  |   usages_count | usages                                            |
 |--------------------------------|----------------|---------------------------------------------------|
@@ -360,9 +363,9 @@ Identifiers for this prefix are given correctly in Xenopus Anatomy Ontology.
 | `NCIt:Left`                    |              1 | [XAO:0005005](https://bioregistry.io/XAO:0005005) |
 | `NCIt:Right`                   |              1 | [XAO:0005006](https://bioregistry.io/XAO:0005006) |
 
-## `xco`
+## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given correctly in Experimental condition ontology.
+Identifiers for this prefix are given incorrectly correctly in `xco`.
 
 | external_xref                                                                                                           |   usages_count | usages                                            |
 |-------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------|

@@ -1,10 +1,13 @@
-# UBERON
+# pubmed: PubMed
 
-The following 4 variants were found: ['Medline', 'PMID', 'PubMed', 'Pubmed']
+This page summarize the different resources that reference `pubmed`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 22 resources,
+4 variants on the standard prefix were found: ['Medline', 'PMID', 'PubMed', 'Pubmed'].
 
-## `bto`
+## `bto`: BRENDA tissue / enzyme source
 
-Identifiers for this prefix are given correctly in BRENDA tissue / enzyme source.
+Identifiers for this prefix are given incorrectly correctly in `bto`.
 
 | external_xref     |   usages_count | usages                                            |
 |-------------------|----------------|---------------------------------------------------|
@@ -16,9 +19,9 @@ Identifiers for this prefix are given correctly in BRENDA tissue / enzyme source
 | `PMID:  29991048` |              1 | [BTO:0006394](https://bioregistry.io/BTO:0006394) |
 | `PMID: 9522462`   |              1 | [BTO:0006473](https://bioregistry.io/BTO:0006473) |
 
-## `cco`
+## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given correctly in Cell Cycle Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 | external_xref           |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
 |-------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -31,26 +34,26 @@ Identifiers for this prefix are given correctly in Cell Cycle Ontology.
 | `PMID:pm`               |              1 | [GO:1990459](https://bioregistry.io/GO:1990459)                                                                                                                                                                                                                                                                                          |
 | `PMID:`                 |              1 | [MI:1127](https://bioregistry.io/MI:1127)                                                                                                                                                                                                                                                                                                |
 
-## `cl`
+## `cl`: Cell Ontology
 
-Identifiers for this prefix are given correctly in Cell Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 | external_xref    |   usages_count | usages                                          |
 |------------------|----------------|-------------------------------------------------|
 | `PMID:10102814j` |              1 | [CL:0000134](https://bioregistry.io/CL:0000134) |
 
-## `eco`
+## `eco`: Evidence ontology
 
-Identifiers for this prefix are given correctly in Evidence ontology.
+Identifiers for this prefix are given incorrectly correctly in `eco`.
 
 | external_xref    |   usages_count | usages                                            |
 |------------------|----------------|---------------------------------------------------|
 | `PMID: 16428685` |              1 | [ECO:0006163](https://bioregistry.io/ECO:0006163) |
 | `PMID: 23036848` |              1 | [ECO:0006163](https://bioregistry.io/ECO:0006163) |
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref     |   usages_count | usages                                                                                              |
 |-------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -63,9 +66,9 @@ Identifiers for this prefix are given correctly in Experimental Factor Ontology.
 | `PMID:25167691 `  |              1 | [http://www.ebi.ac.uk/efo/EFO:0010695](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0010695) |
 | `PMID: 32355309`  |              1 | [http://www.ebi.ac.uk/efo/EFO:0010749](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0010749) |
 
-## `enm`
+## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given correctly in eNanoMapper Ontology.
+Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 | external_xref    |   usages_count | usages                                                                                              |
 |------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -73,9 +76,9 @@ Identifiers for this prefix are given correctly in eNanoMapper Ontology.
 | `PMID: 31636452` |              1 | [http://www.ebi.ac.uk/efo/EFO:0010605](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0010605) |
 | `PMID: 32355309` |              1 | [http://www.ebi.ac.uk/efo/EFO:0010749](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0010749) |
 
-## `fypo`
+## `fypo`: Fission Yeast Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Fission Yeast Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `fypo`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -83,27 +86,27 @@ Identifiers for this prefix are given correctly in Fission Yeast Phenotype Ontol
 PomBase:val`                 |              1 | [FYPO:0007907](https://bioregistry.io/FYPO:0007907) |
 | `PMID::8247131` |              1 | [FYPO:0001686](https://bioregistry.io/FYPO:0001686) |
 
-## `go`
+## `go`: Gene Ontology
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref    |   usages_count | usages                                          |
 |------------------|----------------|-------------------------------------------------|
 | `PMID:11585923.` |              1 | [GO:0106028](https://bioregistry.io/GO:0106028) |
 | `PMID:19014349.` |              1 | [GO:0106258](https://bioregistry.io/GO:0106258) |
 
-## `hp`
+## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Human Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 | external_xref               |   usages_count | usages                                                                                           |
 |-----------------------------|----------------|--------------------------------------------------------------------------------------------------|
 | `PMID:probinson`            |              2 | [HP:0009659](https://bioregistry.io/HP:0009659), [HP:0030789](https://bioregistry.io/HP:0030789) |
 | `PMID:30085516rdfs:comment` |              1 | [HP:0033585](https://bioregistry.io/HP:0033585)                                                  |
 
-## `mi`
+## `mi`: Molecular Interactions Controlled Vocabulary
 
-Identifiers for this prefix are given correctly in Molecular Interactions Controlled Vocabulary.
+Identifiers for this prefix are given incorrectly correctly in `mi`.
 
 | external_xref      |   usages_count | usages                                    |
 |--------------------|----------------|-------------------------------------------|
@@ -111,50 +114,50 @@ Identifiers for this prefix are given correctly in Molecular Interactions Contro
 | `PMID:ID:11604014` |              1 | [MI:1075](https://bioregistry.io/MI:1075) |
 | `PMID:13846364.`   |              1 | [MI:1197](https://bioregistry.io/MI:1197) |
 
-## `mmo`
+## `mmo`: Measurement method ontology
 
-Identifiers for this prefix are given correctly in Measurement method ontology.
+Identifiers for this prefix are given incorrectly correctly in `mmo`.
 
 | external_xref       |   usages_count | usages                                            |
 |---------------------|----------------|---------------------------------------------------|
 | `PMID:PMID:3411196` |              1 | [MMO:0000695](https://bioregistry.io/MMO:0000695) |
 
-## `mod`
+## `mod`: Protein modification
 
-Identifiers for this prefix are given correctly in Protein modification.
+Identifiers for this prefix are given incorrectly correctly in `mod`.
 
 | external_xref   |   usages_count | usages                                        |
 |-----------------|----------------|-----------------------------------------------|
 | `PubMed:`       |              1 | [MOD:01182](https://bioregistry.io/MOD:01182) |
 
-## `mondo`
+## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given correctly in Monarch Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 | external_xref           |   usages_count | usages                                                |
 |-------------------------|----------------|-------------------------------------------------------|
 | `PMID:PMID%3A+19243607` |              1 | [MONDO:0008644](https://bioregistry.io/MONDO:0008644) |
 
-## `mpath`
+## `mpath`: Mouse pathology ontology
 
-Identifiers for this prefix are given correctly in Mouse pathology ontology.
+Identifiers for this prefix are given incorrectly correctly in `mpath`.
 
 | external_xref       |   usages_count | usages                                        |
 |---------------------|----------------|-----------------------------------------------|
 | `PMID: 11794381`    |              1 | [MPATH:40](https://bioregistry.io/MPATH:40)   |
 | `PMID:    21191096` |              1 | [MPATH:815](https://bioregistry.io/MPATH:815) |
 
-## `pato`
+## `pato`: Phenotype And Trait Ontology
 
-Identifiers for this prefix are given correctly in Phenotype And Trait Ontology.
+Identifiers for this prefix are given incorrectly correctly in `pato`.
 
 | external_xref                                |   usages_count | usages                                              |
 |----------------------------------------------|----------------|-----------------------------------------------------|
 | `Medline:http://www.nlm.nih.gov/medlineplus` |              1 | [PATO:0002048](https://bioregistry.io/PATO:0002048) |
 
-## `plana`
+## `plana`: Planarian Anatomy and Schmidtea mediterranean Developmental Stage Ontology
 
-Identifiers for this prefix are given correctly in Planarian Anatomy and Schmidtea mediterranean Developmental Stage Ontology.
+Identifiers for this prefix are given incorrectly correctly in `plana`.
 
 | external_xref    |   usages_count | usages                                                                                                       |
 |------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -165,9 +168,9 @@ Identifiers for this prefix are given correctly in Planarian Anatomy and Schmidt
 | `PMID: 29674433` |              1 | [PLANA:0003804](https://bioregistry.io/PLANA:0003804)                                                        |
 | `PMID: 22074376` |              1 | [PLANA:0002042](https://bioregistry.io/PLANA:0002042)                                                        |
 
-## `pw`
+## `pw`: Pathway ontology
 
-Identifiers for this prefix are given correctly in Pathway ontology.
+Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 | external_xref                                                                 |   usages_count | usages                                                                                           |
 |-------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------|
@@ -190,9 +193,9 @@ Identifiers for this prefix are given correctly in Pathway ontology.
 | `PMID:1 7976918`                                                              |              1 | [PW:0001062](https://bioregistry.io/PW:0001062)                                                  |
 | `PMID:22594892:`                                                              |              1 | [PW:0001121](https://bioregistry.io/PW:0001121)                                                  |
 
-## `so`
+## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given correctly in Sequence types and features ontology.
+Identifiers for this prefix are given incorrectly correctly in `so`.
 
 | external_xref                 |   usages_count | usages                                                                                                                                                                                                                                              |
 |-------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -209,17 +212,17 @@ Identifiers for this prefix are given correctly in Sequence types and features o
 | `PMID: 16236432`              |              1 | [SO:0002350](https://bioregistry.io/SO:0002350)                                                                                                                                                                                                     |
 | `PMID: 17608616`              |              1 | [SO:0002350](https://bioregistry.io/SO:0002350)                                                                                                                                                                                                     |
 
-## `tgma`
+## `tgma`: Mosquito gross anatomy ontology
 
-Identifiers for this prefix are given correctly in Mosquito gross anatomy ontology.
+Identifiers for this prefix are given incorrectly correctly in `tgma`.
 
 | external_xref          |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `PubMed:PMID:15857775` |              9 | [TGMA:0000001](https://bioregistry.io/TGMA:0000001), [TGMA:0000710](https://bioregistry.io/TGMA:0000710), [TGMA:0000910](https://bioregistry.io/TGMA:0000910), [TGMA:0001818](https://bioregistry.io/TGMA:0001818), [TGMA:0001849](https://bioregistry.io/TGMA:0001849), ... |
 
-## `unimod`
+## `unimod`: Unimod protein modification database for mass spectrometry
 
-Identifiers for this prefix are given correctly in Unimod protein modification database for mass spectrometry.
+Identifiers for this prefix are given incorrectly correctly in `unimod`.
 
 | external_xref                                                                    |   usages_count | usages                                                                                                                                                                                                     |
 |----------------------------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -241,17 +244,17 @@ Identifiers for this prefix are given correctly in Unimod protein modification d
 | `PMID:https://pubmed.ncbi.nlm.nih.gov/8829804/`                                  |              1 | [UNIMOD:2040](https://bioregistry.io/UNIMOD:2040)                                                                                                                                                          |
 | `PMID:http://www.ncbi.nlm.nih.gov/pubmed/14670044?dopt=AbstractPlus`             |              1 | [UNIMOD:986](https://bioregistry.io/UNIMOD:986)                                                                                                                                                            |
 
-## `vt`
+## `vt`: Vertebrate trait ontology
 
-Identifiers for this prefix are given correctly in Vertebrate trait ontology.
+Identifiers for this prefix are given incorrectly correctly in `vt`.
 
 | external_xref        |   usages_count | usages                                          |
 |----------------------|----------------|-------------------------------------------------|
 | `PMID:0-87893-258-5` |              1 | [VT:0003359](https://bioregistry.io/VT:0003359) |
 
-## `xco`
+## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given correctly in Experimental condition ontology.
+Identifiers for this prefix are given incorrectly correctly in `xco`.
 
 | external_xref        |   usages_count | usages                                            |
 |----------------------|----------------|---------------------------------------------------|

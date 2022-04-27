@@ -1,44 +1,47 @@
-# GNO
+# isbn: International Standard Book Number
 
-The following 1 variants were found: ['ISBN']
+This page summarize the different resources that reference `isbn`
+but use local unique identifiers that do not match the standard pattern of
+^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$. Of the 5 resources,
+1 variants on the standard prefix were found: ['ISBN'].
 
-## `hp`
+## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Human Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 | external_xref      |   usages_count | usages                                          |
 |--------------------|----------------|-------------------------------------------------|
 | `ISBN:0412792702.` |              1 | [HP:0032984](https://bioregistry.io/HP:0032984) |
 
-## `idomal`
+## `idomal`: Malaria Ontology
 
-Identifiers for this prefix are given correctly in Malaria Ontology.
+Identifiers for this prefix are given incorrectly correctly in `idomal`.
 
 | external_xref         |   usages_count | usages                                                  |
 |-----------------------|----------------|---------------------------------------------------------|
 | `ISBN:0-8493-15-67-0` |              1 | [IDOMAL:0000783](https://bioregistry.io/IDOMAL:0000783) |
 | `ISBN:0-412-40180-0:` |              1 | [IDOMAL:0002188](https://bioregistry.io/IDOMAL:0002188) |
 
-## `mpath`
+## `mpath`: Mouse pathology ontology
 
-Identifiers for this prefix are given correctly in Mouse pathology ontology.
+Identifiers for this prefix are given incorrectly correctly in `mpath`.
 
 | external_xref          |   usages_count | usages                                        |
 |------------------------|----------------|-----------------------------------------------|
 | `ISBN: 0-7216-2921-0.` |              1 | [MPATH:859](https://bioregistry.io/MPATH:859) |
 
-## `tads`
+## `tads`: Tick Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Tick Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `tads`.
 
 | external_xref         |   usages_count | usages                                                                                                   |
 |-----------------------|----------------|----------------------------------------------------------------------------------------------------------|
 | `ISBN:0-19-5505910-7` |              2 | [TADS:0000285](https://bioregistry.io/TADS:0000285), [TADS:0000286](https://bioregistry.io/TADS:0000286) |
 | `ISBN:0-19-505910-7.` |              1 | [TADS:0000026](https://bioregistry.io/TADS:0000026)                                                      |
 
-## `tgma`
+## `tgma`: Mosquito gross anatomy ontology
 
-Identifiers for this prefix are given correctly in Mosquito gross anatomy ontology.
+Identifiers for this prefix are given incorrectly correctly in `tgma`.
 
 | external_xref                     |   usages_count | usages                                                                                                   |
 |-----------------------------------|----------------|----------------------------------------------------------------------------------------------------------|

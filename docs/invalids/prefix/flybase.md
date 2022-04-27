@@ -1,18 +1,21 @@
-# ZFIN
+# flybase: FlyBase Gene
 
-The following 3 variants were found: ['FB', 'FlyBase', 'Flybase']
+This page summarize the different resources that reference `flybase`
+but use local unique identifiers that do not match the standard pattern of
+^FB\w{2}\d{7}$. Of the 5 resources,
+3 variants on the standard prefix were found: ['FB', 'FlyBase', 'Flybase'].
 
-## `bto`
+## `bto`: BRENDA tissue / enzyme source
 
-Identifiers for this prefix are given correctly in BRENDA tissue / enzyme source.
+Identifiers for this prefix are given incorrectly correctly in `bto`.
 
 | external_xref                                                                               |   usages_count | usages                                            |
 |---------------------------------------------------------------------------------------------|----------------|---------------------------------------------------|
 | `Flybase:http://flybase.bio.indiana.edu/allied-data/lk/interactive-fly/lewheld/preface.htm` |              1 | [BTO:0001464](https://bioregistry.io/BTO:0001464) |
 
-## `cl`
+## `cl`: Cell Ontology
 
-Identifiers for this prefix are given correctly in Cell Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -20,9 +23,9 @@ Identifiers for this prefix are given correctly in Cell Ontology.
 | `Flybase:dsj`   |              1 | [CL:0000362](https://bioregistry.io/CL:0000362)                                                                                                                                                                                                          |
 | `FlyBase:ds`    |              1 | [CL:0000463](https://bioregistry.io/CL:0000463)                                                                                                                                                                                                          |
 
-## `so`
+## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given correctly in Sequence types and features ontology.
+Identifiers for this prefix are given incorrectly correctly in `so`.
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -34,9 +37,9 @@ Identifiers for this prefix are given correctly in Sequence types and features o
 | `FB:WG`               |              1 | [SO:0000719](https://bioregistry.io/SO:0000719)                                                                                                                                                                                                          |
 | `FB:cds`              |              1 | [SO:0000934](https://bioregistry.io/SO:0000934)                                                                                                                                                                                                          |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref              |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |----------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -44,9 +47,9 @@ Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
 | `FB:DJS`                   |              1 | [UBERON:0001048](https://bioregistry.io/UBERON:0001048)                                                                                                                                                                                                                                          |
 | `FlyBase:FBim0000836.html` |              1 | [UBERON:6004646](https://bioregistry.io/UBERON:6004646)                                                                                                                                                                                                                                          |
 
-## `zfa`
+## `zfa`: Zebrafish anatomy and development ontology
 
-Identifiers for this prefix are given correctly in Zebrafish anatomy and development ontology.
+Identifiers for this prefix are given incorrectly correctly in `zfa`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|

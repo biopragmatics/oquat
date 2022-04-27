@@ -1,10 +1,13 @@
-# ISSN
+# eccode: Enzyme Nomenclature
 
-The following 1 variants were found: ['EC']
+This page summarize the different resources that reference `eccode`
+but use local unique identifiers that do not match the standard pattern of
+^\d{1,2}(\.\d{0,3}){0,3}$. Of the 5 resources,
+1 variants on the standard prefix were found: ['EC'].
 
-## `cco`
+## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given correctly in Cell Cycle Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -170,18 +173,18 @@ Identifiers for this prefix are given correctly in Cell Cycle Ontology.
 | `EC:1.8.2.-`    |              1 | [GO:0070225](https://bioregistry.io/GO:0070225)                                                                                                                                                                                                          |
 | `EC:1.14.21.-`  |              1 | [GO:0080004](https://bioregistry.io/GO:0080004)                                                                                                                                                                                                          |
 
-## `cmpo`
+## `cmpo`: Cellular Microscopy Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Cellular Microscopy Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cmpo`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `EC:2.7.7.-`    |              1 | [GO:0003720](https://bioregistry.io/GO:0003720) |
 | `EC:3.1.-.-`    |              1 | [GO:0004518](https://bioregistry.io/GO:0004518) |
 
-## `foodon`
+## `foodon`: The Food Ontology
 
-Identifiers for this prefix are given correctly in The Food Ontology.
+Identifiers for this prefix are given incorrectly correctly in `foodon`.
 
 | external_xref         |   usages_count | usages                                                    |
 |-----------------------|----------------|-----------------------------------------------------------|
@@ -191,9 +194,9 @@ Identifiers for this prefix are given correctly in The Food Ontology.
 | `EC:No 216/2009 SAS`  |              1 | [FOODON:03413856](https://bioregistry.io/FOODON:03413856) |
 | `EC:No 216/2009 RAX`  |              1 | [FOODON:03413974](https://bioregistry.io/FOODON:03413974) |
 
-## `go`
+## `go`: Gene Ontology
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -507,9 +510,9 @@ Identifiers for this prefix are given correctly in Gene Ontology.
 | `EC:1.1.1.n12`  |              1 | [GO:0106386](https://bioregistry.io/GO:0106386)                                                                                                                                                                                                          |
 | `EC:4.3.99.-`   |              1 | [GO:0140740](https://bioregistry.io/GO:0140740)                                                                                                                                                                                                          |
 
-## `to`
+## `to`: Plant Trait Ontology
 
-Identifiers for this prefix are given correctly in Plant Trait Ontology.
+Identifiers for this prefix are given incorrectly correctly in `to`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

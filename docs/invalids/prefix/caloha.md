@@ -1,10 +1,13 @@
-# MA
+# caloha: CALIPHO Group Ontology of Human Anatomy
 
-The following 1 variants were found: ['CALOHA']
+This page summarize the different resources that reference `caloha`
+but use local unique identifiers that do not match the standard pattern of
+^TS-\d+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['CALOHA'].
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                    |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

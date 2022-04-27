@@ -1,10 +1,13 @@
-# DOID
+# resid: Protein covalent bond
 
-The following 1 variants were found: ['RESID']
+This page summarize the different resources that reference `resid`
+but use local unique identifiers that do not match the standard pattern of
+^AA\d{4}$. Of the 2 resources,
+1 variants on the standard prefix were found: ['RESID'].
 
-## `go`
+## `go`: Gene Ontology
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -12,9 +15,9 @@ Identifiers for this prefix are given correctly in Gene Ontology.
 | `RESID:AA0`     |              1 | [GO:0018418](https://bioregistry.io/GO:0018418) |
 | `RESID:AA02376` |              1 | [GO:0051218](https://bioregistry.io/GO:0051218) |
 
-## `mod`
+## `mod`: Protein modification
 
-Identifiers for this prefix are given correctly in Protein modification.
+Identifiers for this prefix are given incorrectly correctly in `mod`.
 
 | external_xref       |   usages_count | usages                                                                                                                                                                                                                                         |
 |---------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

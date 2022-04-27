@@ -1,10 +1,13 @@
-# TTO
+# disprot: DisProt
 
-The following 1 variants were found: ['DisProt']
+This page summarize the different resources that reference `disprot`
+but use local unique identifiers that do not match the standard pattern of
+^DP\d{5}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['DisProt'].
 
-## `eco`
+## `eco`: Evidence ontology
 
-Identifiers for this prefix are given correctly in Evidence ontology.
+Identifiers for this prefix are given incorrectly correctly in `eco`.
 
 | external_xref            |   usages_count | usages                                                                                                                                                                                                                                                             |
 |--------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

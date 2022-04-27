@@ -1,18 +1,21 @@
-# OlatDv
+# gc: Genetic Code
 
-The following 2 variants were found: ['GC', 'gc']
+This page summarize the different resources that reference `gc`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 2 resources,
+2 variants on the standard prefix were found: ['GC', 'gc'].
 
-## `cl`
+## `cl`: Cell Ontology
 
-Identifiers for this prefix are given correctly in Cell Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `GC:tfm`        |              1 | [CL:0002597](https://bioregistry.io/CL:0002597) |
 
-## `hp`
+## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Human Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|

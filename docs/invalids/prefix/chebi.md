@@ -1,35 +1,38 @@
-# OMP
+# chebi: Chemical Entities of Biological Interest
 
-The following 1 variants were found: ['CHEBI']
+This page summarize the different resources that reference `chebi`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 4 resources,
+1 variants on the standard prefix were found: ['CHEBI'].
 
-## `chmo`
+## `chmo`: Chemical Methods Ontology
 
-Identifiers for this prefix are given correctly in Chemical Methods Ontology.
+Identifiers for this prefix are given incorrectly correctly in `chmo`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
 | `CHEBI:`        |              1 | [CHMO:0002374](https://bioregistry.io/CHMO:0002374) |
 
-## `omp`
+## `omp`: Ontology of Microbial Phenotypes
 
-Identifiers for this prefix are given correctly in Ontology of Microbial Phenotypes.
+Identifiers for this prefix are given incorrectly correctly in `omp`.
 
 | external_xref       |   usages_count | usages                                            |
 |---------------------|----------------|---------------------------------------------------|
 | `CHEBI:CHEBI:87649` |              1 | [OMP:0007481](https://bioregistry.io/OMP:0007481) |
 | `CHEBI::4806`       |              1 | [OMP:0007848](https://bioregistry.io/OMP:0007848) |
 
-## `pride`
+## `pride`: PRIDE Controlled Vocabulary
 
-Identifiers for this prefix are given correctly in PRIDE Controlled Vocabulary.
+Identifiers for this prefix are given incorrectly correctly in `pride`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
 | `CHEBI:`        |              1 | [CHMO:0002374](https://bioregistry.io/CHMO:0002374) |
 
-## `xco`
+## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given correctly in Experimental condition ontology.
+Identifiers for this prefix are given incorrectly correctly in `xco`.
 
 | external_xref        |   usages_count | usages                                            |
 |----------------------|----------------|---------------------------------------------------|

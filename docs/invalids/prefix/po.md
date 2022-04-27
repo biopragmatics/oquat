@@ -1,18 +1,21 @@
-# ASIN
+# po: Plant Ontology
 
-The following 1 variants were found: ['PO']
+This page summarize the different resources that reference `po`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 3 resources,
+1 variants on the standard prefix were found: ['PO'].
 
-## `peco`
+## `peco`: Plant Experimental Conditions Ontology
 
-Identifiers for this prefix are given correctly in Plant Experimental Conditions Ontology.
+Identifiers for this prefix are given incorrectly correctly in `peco`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
 | `PO:Cooperl`    |              1 | [PECO:0007407](https://bioregistry.io/PECO:0007407) |
 
-## `po`
+## `po`: Plant Ontology
 
-Identifiers for this prefix are given correctly in Plant Ontology.
+Identifiers for this prefix are given incorrectly correctly in `po`.
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                                                   |
 |--------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,9 +26,9 @@ Identifiers for this prefix are given correctly in Plant Ontology.
 | `PO:curators`      |              1 | [PO:0025546](https://bioregistry.io/PO:0025546)                                                                                                                                                                                                          |
 | `PO:annikalsmith`  |              1 | [PO:0028005](https://bioregistry.io/PO:0028005)                                                                                                                                                                                                          |
 
-## `to`
+## `to`: Plant Trait Ontology
 
-Identifiers for this prefix are given correctly in Plant Trait Ontology.
+Identifiers for this prefix are given incorrectly correctly in `to`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|

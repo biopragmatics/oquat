@@ -1,10 +1,13 @@
-# ORDO
+# omim: Online Mendelian Inheritance in Man
 
-The following 1 variants were found: ['OMIM']
+This page summarize the different resources that reference `omim`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 6 resources,
+1 variants on the standard prefix were found: ['OMIM'].
 
-## `bao`
+## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given correctly in BioAssay Ontology.
+Identifiers for this prefix are given incorrectly correctly in `bao`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -129,9 +132,9 @@ Identifiers for this prefix are given correctly in BioAssay Ontology.
 | `OMIM:PS310700` |              1 | [DOID:9649](https://bioregistry.io/DOID:9649)       |
 | `OMIM:PS203655` |              1 | [DOID:987](https://bioregistry.io/DOID:987)         |
 
-## `doid`
+## `doid`: Human Disease Ontology
 
-Identifiers for this prefix are given correctly in Human Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `doid`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -367,34 +370,34 @@ Identifiers for this prefix are given correctly in Human Disease Ontology.
 | `OMIM:PS310700` |              1 | [DOID:9649](https://bioregistry.io/DOID:9649)       |
 | `OMIM:PS203655` |              1 | [DOID:987](https://bioregistry.io/DOID:987)         |
 
-## `hp`
+## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Human Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `OMIM:ahamosh`  |              1 | [HP:0033628](https://bioregistry.io/HP:0033628) |
 
-## `mondo`
+## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given correctly in Monarch Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `OMIM:genemap2` |           2077 | [MONDO:0000912](https://bioregistry.io/MONDO:0000912), [MONDO:0000914](https://bioregistry.io/MONDO:0000914), [MONDO:0001056](https://bioregistry.io/MONDO:0001056), [MONDO:0001187](https://bioregistry.io/MONDO:0001187), [MONDO:0002009](https://bioregistry.io/MONDO:0002009), ... |
 
-## `pw`
+## `pw`: Pathway ontology
 
-Identifiers for this prefix are given correctly in Pathway ontology.
+Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 | external_xref                            |   usages_count | usages                                                                                                                                            |
 |------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | `OMIM:OMIM`                              |              3 | [PW:0000625](https://bioregistry.io/PW:0000625), [PW:0000627](https://bioregistry.io/PW:0000627), [PW:0000631](https://bioregistry.io/PW:0000631) |
 | `OMIM:https://www.omim.org/entry/201710` |              1 | [PW:0001479](https://bioregistry.io/PW:0001479)                                                                                                   |
 
-## `rdo`
+## `rdo`: RGD Disease_Ontology
 
-Identifiers for this prefix are given correctly in RGD Disease_Ontology.
+Identifiers for this prefix are given incorrectly correctly in `rdo`.
 
 | external_xref   |   usages_count | usages                                                                                               |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------|

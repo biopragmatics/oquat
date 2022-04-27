@@ -1,18 +1,21 @@
-# ICD9CM_2005
+# pato: Phenotype And Trait Ontology
 
-The following 1 variants were found: ['PATO']
+This page summarize the different resources that reference `pato`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 5 resources,
+1 variants on the standard prefix were found: ['PATO'].
 
-## `cmpo`
+## `cmpo`: Cellular Microscopy Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Cellular Microscopy Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cmpo`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `PATO:GVG`      |              4 | [PATO:0000911](https://bioregistry.io/PATO:0000911), [PATO:0000912](https://bioregistry.io/PATO:0000912), [PATO:0001562](https://bioregistry.io/PATO:0001562), [PATO:0001563](https://bioregistry.io/PATO:0001563) |
 
-## `enm`
+## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given correctly in eNanoMapper Ontology.
+Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                  |
 |-----------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -20,9 +23,9 @@ Identifiers for this prefix are given correctly in eNanoMapper Ontology.
 | `PATO:DS`       |              1 | [PATO:0002390](https://bioregistry.io/PATO:0002390)                                                                                                                                                                                                                     |
 | `PATO:MAH`      |              1 | [PATO:0002632](https://bioregistry.io/PATO:0002632)                                                                                                                                                                                                                     |
 
-## `pato`
+## `pato`: Phenotype And Trait Ontology
 
-Identifiers for this prefix are given correctly in Phenotype And Trait Ontology.
+Identifiers for this prefix are given incorrectly correctly in `pato`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -35,17 +38,17 @@ Identifiers for this prefix are given correctly in Phenotype And Trait Ontology.
 | `PATO:DS`       |              1 | [PATO:0002390](https://bioregistry.io/PATO:0002390)                                                                                                                                                                                                                          |
 | `PATO:JL`       |              1 | [PATO:0002454](https://bioregistry.io/PATO:0002454)                                                                                                                                                                                                                          |
 
-## `po`
+## `po`: Plant Ontology
 
-Identifiers for this prefix are given correctly in Plant Ontology.
+Identifiers for this prefix are given incorrectly correctly in `po`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `PATO:01503`    |              1 | [PO:0009008](https://bioregistry.io/PO:0009008) |
 
-## `to`
+## `to`: Plant Trait Ontology
 
-Identifiers for this prefix are given correctly in Plant Trait Ontology.
+Identifiers for this prefix are given incorrectly correctly in `to`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

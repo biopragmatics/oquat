@@ -1,10 +1,13 @@
-# MPATH
+# xenbase: Xenbase
 
-The following 1 variants were found: ['xenbase']
+This page summarize the different resources that reference `xenbase`
+but use local unique identifiers that do not match the standard pattern of
+^XB\-\w+\-\d+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['xenbase'].
 
-## `so`
+## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given correctly in Sequence types and features ontology.
+Identifiers for this prefix are given incorrectly correctly in `so`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,10 +1,13 @@
-# SIBO
+# kegg.compound: KEGG Compound
 
-The following 1 variants were found: ['KEGG COMPOUND']
+This page summarize the different resources that reference `kegg.compound`
+but use local unique identifiers that do not match the standard pattern of
+^C\d+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['KEGG COMPOUND'].
 
-## `sibo`
+## `sibo`: Social Insect Behavior Ontology
 
-Identifiers for this prefix are given correctly in Social Insect Behavior Ontology.
+Identifiers for this prefix are given incorrectly correctly in `sibo`.
 
 | external_xref          |   usages_count | usages                                              |
 |------------------------|----------------|-----------------------------------------------------|

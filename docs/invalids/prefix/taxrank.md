@@ -1,10 +1,13 @@
-# MS
+# taxrank: Taxonomic rank vocabulary
 
-The following 1 variants were found: ['TAXRANK']
+This page summarize the different resources that reference `taxrank`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['TAXRANK'].
 
-## `taxrank`
+## `taxrank`: Taxonomic rank vocabulary
 
-Identifiers for this prefix are given correctly in Taxonomic rank vocabulary.
+Identifiers for this prefix are given incorrectly correctly in `taxrank`.
 
 | external_xref     |   usages_count | usages                                                                                                               |
 |-------------------|----------------|----------------------------------------------------------------------------------------------------------------------|

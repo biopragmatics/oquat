@@ -1,10 +1,13 @@
-# MetaCyc
+# drugbank: DrugBank
 
-The following 4 variants were found: ['DRUGBANK', 'DrugBank', 'Drugbank', 'drugbank']
+This page summarize the different resources that reference `drugbank`
+but use local unique identifiers that do not match the standard pattern of
+^DB\d{5}$. Of the 2 resources,
+4 variants on the standard prefix were found: ['DRUGBANK', 'DrugBank', 'Drugbank', 'drugbank'].
 
-## `chebi`
+## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given correctly in Chemical Entities of Biological Interest.
+Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 | external_xref           |   usages_count | usages                                              |
 |-------------------------|----------------|-----------------------------------------------------|
@@ -64,9 +67,9 @@ Identifiers for this prefix are given correctly in Chemical Entities of Biologic
 | `DrugBank:DBSALT001254` |              1 | [CHEBI:9492](https://bioregistry.io/CHEBI:9492)     |
 | `DrugBank:DBSALT001257` |              1 | [CHEBI:9925](https://bioregistry.io/CHEBI:9925)     |
 
-## `xco`
+## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given correctly in Experimental condition ontology.
+Identifiers for this prefix are given incorrectly correctly in `xco`.
 
 | external_xref                                             |   usages_count | usages                                            |
 |-----------------------------------------------------------|----------------|---------------------------------------------------|

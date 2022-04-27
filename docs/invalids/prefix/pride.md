@@ -1,10 +1,13 @@
-# BS
+# pride: PRIDE Controlled Vocabulary
 
-The following 1 variants were found: ['PRIDE']
+This page summarize the different resources that reference `pride`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['PRIDE'].
 
-## `pride`
+## `pride`: PRIDE Controlled Vocabulary
 
-Identifiers for this prefix are given correctly in PRIDE Controlled Vocabulary.
+Identifiers for this prefix are given incorrectly correctly in `pride`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                              |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|

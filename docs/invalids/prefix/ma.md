@@ -1,59 +1,62 @@
-# ZFA
+# ma: Mouse adult gross anatomy
 
-The following 1 variants were found: ['MA']
+This page summarize the different resources that reference `ma`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 7 resources,
+1 variants on the standard prefix were found: ['MA'].
 
-## `bcio`
+## `bcio`: The Behaviour Change Intervention Ontology
 
-Identifiers for this prefix are given correctly in The Behaviour Change Intervention Ontology.
+Identifiers for this prefix are given incorrectly correctly in `bcio`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                              |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `MA:ma`         |              3 | [ENVO:00000010](https://bioregistry.io/ENVO:00000010), [ENVO:00000070](https://bioregistry.io/ENVO:00000070), [ENVO:00000469](https://bioregistry.io/ENVO:00000469) |
 
-## `bspo`
+## `bspo`: Biological Spatial Ontology
 
-Identifiers for this prefix are given correctly in Biological Spatial Ontology.
+Identifiers for this prefix are given incorrectly correctly in `bspo`.
 
 | external_xref   |   usages_count | usages                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------|
 | `MA:th`         |              2 | [BSPO:0001114](https://bioregistry.io/BSPO:0001114), [BSPO:1000000](https://bioregistry.io/BSPO:1000000) |
 
-## `cl`
+## `cl`: Cell Ontology
 
-Identifiers for this prefix are given correctly in Cell Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `MA:ma`         |              4 | [CL:0000362](https://bioregistry.io/CL:0000362), [CL:0000724](https://bioregistry.io/CL:0000724), [CL:0000730](https://bioregistry.io/CL:0000730), [CL:0000731](https://bioregistry.io/CL:0000731) |
 
-## `enm`
+## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given correctly in eNanoMapper Ontology.
+Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `MA:ma`         |             11 | [ENVO:00000447](https://bioregistry.io/ENVO:00000447), [ENVO:00000873](https://bioregistry.io/ENVO:00000873), [ENVO:00001995](https://bioregistry.io/ENVO:00001995), [ENVO:00002006](https://bioregistry.io/ENVO:00002006), [ENVO:00002047](https://bioregistry.io/ENVO:00002047), ... |
 | `MA:th`         |              2 | [BSPO:0001114](https://bioregistry.io/BSPO:0001114), [BSPO:1000000](https://bioregistry.io/BSPO:1000000)                                                                                                                                                                               |
 
-## `envo`
+## `envo`: Environment Ontology
 
-Identifiers for this prefix are given correctly in Environment Ontology.
+Identifiers for this prefix are given incorrectly correctly in `envo`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `MA:ma`         |            133 | [ENVO:00000010](https://bioregistry.io/ENVO:00000010), [ENVO:00000012](https://bioregistry.io/ENVO:00000012), [ENVO:00000014](https://bioregistry.io/ENVO:00000014), [ENVO:00000018](https://bioregistry.io/ENVO:00000018), [ENVO:00000019](https://bioregistry.io/ENVO:00000019), ... |
 
-## `sdgio`
+## `sdgio`: Sustainable Development Goals Interface Ontology
 
-Identifiers for this prefix are given correctly in Sustainable Development Goals Interface Ontology.
+Identifiers for this prefix are given incorrectly correctly in `sdgio`.
 
 | external_xref   |   usages_count | usages                                                                                                       |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------|
 | `MA:ma`         |              2 | [ENVO:00000070](https://bioregistry.io/ENVO:00000070), [ENVO:00010483](https://bioregistry.io/ENVO:00010483) |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,10 +1,13 @@
-# HMDB
+# lipidmaps: LIPID MAPS
 
-The following 1 variants were found: ['LIPID_MAPS_class']
+This page summarize the different resources that reference `lipidmaps`
+but use local unique identifiers that do not match the standard pattern of
+^LM(FA|GL|GP|SP|ST|PR|SL|PK)[0-9]{4}([0-9a-zA-Z]{4,6})?$. Of the 2 resources,
+1 variants on the standard prefix were found: ['LIPID_MAPS_class'].
 
-## `chebi`
+## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given correctly in Chemical Entities of Biological Interest.
+Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 | external_xref             |   usages_count | usages                                              |
 |---------------------------|----------------|-----------------------------------------------------|
@@ -19,9 +22,9 @@ Identifiers for this prefix are given correctly in Chemical Entities of Biologic
 | `LIPID_MAPS_class:LMST04` |              1 | [CHEBI:36078](https://bioregistry.io/CHEBI:36078)   |
 | `LIPID_MAPS_class:LMGP12` |              1 | [CHEBI:76529](https://bioregistry.io/CHEBI:76529)   |
 
-## `msio`
+## `msio`: Metabolomics Standards Initiative Ontology
 
-Identifiers for this prefix are given correctly in Metabolomics Standards Initiative Ontology.
+Identifiers for this prefix are given incorrectly correctly in `msio`.
 
 | external_xref             |   usages_count | usages                                            |
 |---------------------------|----------------|---------------------------------------------------|

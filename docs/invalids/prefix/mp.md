@@ -1,18 +1,21 @@
-# MGI
+# mp: Mammalian Phenotype Ontology
 
-The following 1 variants were found: ['MP']
+This page summarize the different resources that reference `mp`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 3 resources,
+1 variants on the standard prefix were found: ['MP'].
 
-## `cl`
+## `cl`: Cell Ontology
 
-Identifiers for this prefix are given correctly in Cell Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `MP:19876834`   |              1 | [CL:0002488](https://bioregistry.io/CL:0002488) |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -20,9 +23,9 @@ Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
 | `MP:MP`         |             17 | [UBERON:0000173](https://bioregistry.io/UBERON:0000173), [UBERON:0001259](https://bioregistry.io/UBERON:0001259), [UBERON:0001947](https://bioregistry.io/UBERON:0001947), [UBERON:0005452](https://bioregistry.io/UBERON:0005452), [UBERON:0008835](https://bioregistry.io/UBERON:0008835), ... |
 | `MP:000999`     |              1 | [UBERON:0035922](https://bioregistry.io/UBERON:0035922)                                                                                                                                                                                                                                          |
 
-## `vt`
+## `vt`: Vertebrate trait ontology
 
-Identifiers for this prefix are given correctly in Vertebrate trait ontology.
+Identifiers for this prefix are given incorrectly correctly in `vt`.
 
 | external_xref           |   usages_count | usages                                          |
 |-------------------------|----------------|-------------------------------------------------|

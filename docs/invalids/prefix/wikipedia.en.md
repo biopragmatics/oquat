@@ -1,10 +1,13 @@
-# FBdv
+# wikipedia.en: Wikipedia
 
-The following 2 variants were found: ['Wikipedia', 'wikipedia']
+This page summarize the different resources that reference `wikipedia.en`
+but use local unique identifiers that do not match the standard pattern of
+^[A-Za-z-0-9_]+$. Of the 19 resources,
+2 variants on the standard prefix were found: ['Wikipedia', 'wikipedia'].
 
-## `bao`
+## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given correctly in BioAssay Ontology.
+Identifiers for this prefix are given incorrectly correctly in `bao`.
 
 | external_xref                        |   usages_count | usages                                          |
 |--------------------------------------|----------------|-------------------------------------------------|
@@ -16,9 +19,9 @@ Identifiers for this prefix are given correctly in BioAssay Ontology.
 | `Wikipedia:Regeneration_(biology)`   |              1 | [GO:0031099](https://bioregistry.io/GO:0031099) |
 | `Wikipedia:Bleb_(cell_biology)`      |              1 | [GO:0032059](https://bioregistry.io/GO:0032059) |
 
-## `cco`
+## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given correctly in Cell Cycle Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 | external_xref                                                                                               |   usages_count | usages                                                                                                                                                                                             |
 |-------------------------------------------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -61,9 +64,9 @@ Identifiers for this prefix are given correctly in Cell Cycle Ontology.
 | `Wikipedia:Asparaginyl-tRNA_synthase_(glutamine-hydrolysing)`                                               |              1 | [GO:0050566](https://bioregistry.io/GO:0050566)                                                                                                                                                    |
 | `Wikipedia:Glutaminyl-tRNA_synthase_(glutamine-hydrolysing)`                                                |              1 | [GO:0050567](https://bioregistry.io/GO:0050567)                                                                                                                                                    |
 
-## `chebi`
+## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given correctly in Chemical Entities of Biological Interest.
+Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 | external_xref                                                                               |   usages_count | usages                                                                                                                                                                                                                                                                 |
 |---------------------------------------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -392,9 +395,9 @@ Identifiers for this prefix are given correctly in Chemical Entities of Biologic
 | `Wikipedia:2,4-Dinitrotoluene`                                                              |              1 | [CHEBI:920](https://bioregistry.io/CHEBI:920)                                                                                                                                                                                                                          |
 | `Wikipedia:2,6-Dichlorobenzonitrile`                                                        |              1 | [CHEBI:943](https://bioregistry.io/CHEBI:943)                                                                                                                                                                                                                          |
 
-## `cl`
+## `cl`: Cell Ontology
 
-Identifiers for this prefix are given correctly in Cell Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 | external_xref                                       |   usages_count | usages                                          |
 |-----------------------------------------------------|----------------|-------------------------------------------------|
@@ -405,9 +408,9 @@ Identifiers for this prefix are given correctly in Cell Ontology.
 | `Wikipedia:Upper_motor_neuron&oldid=943248837`      |              1 | [CL:0008048](https://bioregistry.io/CL:0008048) |
 | `Wikipedia:Betz_cell&oldid=977472330`               |              1 | [CL:0008049](https://bioregistry.io/CL:0008049) |
 
-## `cmpo`
+## `cmpo`: Cellular Microscopy Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Cellular Microscopy Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cmpo`.
 
 | external_xref                                                      |   usages_count | usages                                                                                                                                                                         |
 |--------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -426,9 +429,9 @@ Identifiers for this prefix are given correctly in Cellular Microscopy Phenotype
 | `Wikipedia:Transcription_(genetics)`                               |              1 | [GO:0006351](https://bioregistry.io/GO:0006351)                                                                                                                                |
 | `Wikipedia:Vesicle_(biology)`                                      |              1 | [GO:0031982](https://bioregistry.io/GO:0031982)                                                                                                                                |
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref                                                         |   usages_count | usages                                                                                                                                                                                                   |
 |-----------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -449,9 +452,9 @@ Identifiers for this prefix are given correctly in Experimental Factor Ontology.
 | `Wikipedia:Susac's_syndrome`                                          |              1 | [http://www.ebi.ac.uk/efo/EFO:1001856](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001856)                                                                                                      |
 | `Wikipedia:Morvan%27s_syndrome`                                       |              1 | [http://www.ebi.ac.uk/efo/EFO:1001897](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001897)                                                                                                      |
 
-## `enm`
+## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given correctly in eNanoMapper Ontology.
+Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 | external_xref                                                  |   usages_count | usages                                                                                              |
 |----------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -478,17 +481,17 @@ Identifiers for this prefix are given correctly in eNanoMapper Ontology.
 | `Wikipedia:http://en.wikipedia.org/wiki/Molar_volume`          |              1 | [PATO:0001680](https://bioregistry.io/PATO:0001680)                                                 |
 | `Wikipedia:http://en.wikipedia.org/wiki/Perimeter`             |              1 | [PATO:0001711](https://bioregistry.io/PATO:0001711)                                                 |
 
-## `fbbi`
+## `fbbi`: Biological Imaging Methods Ontology
 
-Identifiers for this prefix are given correctly in Biological Imaging Methods Ontology.
+Identifiers for this prefix are given incorrectly correctly in `fbbi`.
 
 | external_xref                                        |   usages_count | usages                                                                                                       |
 |------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
 | `Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain` |              2 | [FBbi:00000037](https://bioregistry.io/FBbi:00000037), [FBbi:00000041](https://bioregistry.io/FBbi:00000041) |
 
-## `foodon`
+## `foodon`: The Food Ontology
 
-Identifiers for this prefix are given correctly in The Food Ontology.
+Identifiers for this prefix are given incorrectly correctly in `foodon`.
 
 | external_xref                  |   usages_count | usages                                                    |
 |--------------------------------|----------------|-----------------------------------------------------------|
@@ -496,9 +499,9 @@ Identifiers for this prefix are given correctly in The Food Ontology.
 | `Wikipedia:Malt_vinegar#Malt`  |              1 | [FOODON:00001074](https://bioregistry.io/FOODON:00001074) |
 | `Wikipedia:Egg_%28food%29`     |              1 | [FOODON:00001274](https://bioregistry.io/FOODON:00001274) |
 
-## `go`
+## `go`: Gene Ontology
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref                                                                                               |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-------------------------------------------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -605,17 +608,17 @@ Identifiers for this prefix are given correctly in Gene Ontology.
 | `Wikipedia:Transduction_(physiology)`                                                                       |              1 | [GO:0050906](https://bioregistry.io/GO:0050906)                                                                                                                                                                                                          |
 | `Wikipedia:Observational_learning#Observational_learning_compared_to_imitation`                             |              1 | [GO:0098596](https://bioregistry.io/GO:0098596)                                                                                                                                                                                                          |
 
-## `idomal`
+## `idomal`: Malaria Ontology
 
-Identifiers for this prefix are given correctly in Malaria Ontology.
+Identifiers for this prefix are given incorrectly correctly in `idomal`.
 
 | external_xref            |   usages_count | usages                                                  |
 |--------------------------|----------------|---------------------------------------------------------|
 | `Wikipedia:Field'sstain` |              1 | [IDOMAL:0000553](https://bioregistry.io/IDOMAL:0000553) |
 
-## `mmo`
+## `mmo`: Measurement method ontology
 
-Identifiers for this prefix are given correctly in Measurement method ontology.
+Identifiers for this prefix are given incorrectly correctly in `mmo`.
 
 | external_xref                                                                                 |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -698,9 +701,9 @@ Identifiers for this prefix are given correctly in Measurement method ontology.
 | `Wikipedia:https://en.wikipedia.org/wiki/Optical_coherence_tomography`                        |              1 | [MMO:0000696](https://bioregistry.io/MMO:0000696)                                                                                                                                                                                                                  |
 | `Wikipedia:https://en.wikipedia.org/wiki/Comprehensive_metabolic_panel`                       |              1 | [MMO:0000698](https://bioregistry.io/MMO:0000698)                                                                                                                                                                                                                  |
 
-## `mondo`
+## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given correctly in Monarch Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 | external_xref                                                                           |   usages_count | usages                                                                                                       |
 |-----------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -737,17 +740,17 @@ Identifiers for this prefix are given correctly in Monarch Disease Ontology.
 | `Wikipedia:Hashimoto's_thyroiditis`                                                     |              1 | [MONDO:0007699](https://bioregistry.io/MONDO:0007699)                                                        |
 | `Wikipedia:Kimura's_disease`                                                            |              1 | [MONDO:0018830](https://bioregistry.io/MONDO:0018830)                                                        |
 
-## `msio`
+## `msio`: Metabolomics Standards Initiative Ontology
 
-Identifiers for this prefix are given correctly in Metabolomics Standards Initiative Ontology.
+Identifiers for this prefix are given incorrectly correctly in `msio`.
 
 | external_xref           |   usages_count | usages                                            |
 |-------------------------|----------------|---------------------------------------------------|
 | `Wikipedia:1,4-Dioxane` |              1 | [CHEBI:47032](https://bioregistry.io/CHEBI:47032) |
 
-## `pato`
+## `pato`: Phenotype And Trait Ontology
 
-Identifiers for this prefix are given correctly in Phenotype And Trait Ontology.
+Identifiers for this prefix are given incorrectly correctly in `pato`.
 
 | external_xref                                                      |   usages_count | usages                                                                                                                                                        |
 |--------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -849,17 +852,17 @@ Identifiers for this prefix are given correctly in Phenotype And Trait Ontology.
 | `Wikipedia:http://en.wikipedia.org/wiki/South`                     |              1 | [PATO:0045093](https://bioregistry.io/PATO:0045093)                                                                                                           |
 | `Wikipedia:http://en.wikipedia.org/wiki/West`                      |              1 | [PATO:0045094](https://bioregistry.io/PATO:0045094)                                                                                                           |
 
-## `plana`
+## `plana`: Planarian Anatomy and Schmidtea mediterranean Developmental Stage Ontology
 
-Identifiers for this prefix are given correctly in Planarian Anatomy and Schmidtea mediterranean Developmental Stage Ontology.
+Identifiers for this prefix are given incorrectly correctly in `plana`.
 
 | external_xref                      |   usages_count | usages                                                |
 |------------------------------------|----------------|-------------------------------------------------------|
 | `Wikipedia:Regeneration:(biology)` |              1 | [PLANA:0000137](https://bioregistry.io/PLANA:0000137) |
 
-## `pw`
+## `pw`: Pathway ontology
 
-Identifiers for this prefix are given correctly in Pathway ontology.
+Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 | external_xref                                                                                 |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------------------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1197,17 +1200,17 @@ Identifiers for this prefix are given correctly in Pathway ontology.
 | `wikipedia:https://en.wikipedia.org/wiki/Phytanic_acid`                                       |              1 | [PW:0002564](https://bioregistry.io/PW:0002564)                                                                                                                                                                                                          |
 | `wikipedia:https://en.wikipedia.org/wiki/Direct_Xa_inhibitor`                                 |              1 | [PW:0002596](https://bioregistry.io/PW:0002596)                                                                                                                                                                                                          |
 
-## `tads`
+## `tads`: Tick Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Tick Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `tads`.
 
 | external_xref                 |   usages_count | usages                                              |
 |-------------------------------|----------------|-----------------------------------------------------|
 | `Wikipedia:www.wikipedia.org` |              1 | [TADS:0000224](https://bioregistry.io/TADS:0000224) |
 
-## `xco`
+## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given correctly in Experimental condition ontology.
+Identifiers for this prefix are given incorrectly correctly in `xco`.
 
 | external_xref                                                                                      |   usages_count | usages                                                                                                                                                                                                                                                             |
 |----------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

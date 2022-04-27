@@ -1,18 +1,21 @@
-# KEGG
+# fbdv: Drosophila development
 
-The following 1 variants were found: ['FBdv']
+This page summarize the different resources that reference `fbdv`
+but use local unique identifiers that do not match the standard pattern of
+^\d{8}$. Of the 2 resources,
+1 variants on the standard prefix were found: ['FBdv'].
 
-## `bao`
+## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given correctly in BioAssay Ontology.
+Identifiers for this prefix are given incorrectly correctly in `bao`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
 | `FBdv:0005333`  |              1 | [http://www.ebi.ac.uk/efo/EFO:0001323](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0001323) |
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|

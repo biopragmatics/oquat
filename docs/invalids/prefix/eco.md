@@ -1,10 +1,13 @@
-# HAO
+# eco: Evidence ontology
 
-The following 1 variants were found: ['ECO']
+This page summarize the different resources that reference `eco`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 4 resources,
+1 variants on the standard prefix were found: ['ECO'].
 
-## `eco`
+## `eco`: Evidence ontology
 
-Identifiers for this prefix are given correctly in Evidence ontology.
+Identifiers for this prefix are given incorrectly correctly in `eco`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -18,17 +21,17 @@ Identifiers for this prefix are given correctly in Evidence ontology.
 | `ECO:MG`        |              2 | [ECO:0006186](https://bioregistry.io/ECO:0006186), [ECO:0006252](https://bioregistry.io/ECO:0006252)                                                                                                                                                               |
 | `ECO:cjm`       |              1 | [ECO:0000501](https://bioregistry.io/ECO:0000501)                                                                                                                                                                                                                  |
 
-## `hom`
+## `hom`: Homology Ontology
 
-Identifiers for this prefix are given correctly in Homology Ontology.
+Identifiers for this prefix are given incorrectly correctly in `hom`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
 | `ECO:00000060`  |              1 | [HOM:0000017](https://bioregistry.io/HOM:0000017) |
 
-## `mmo`
+## `mmo`: Measurement method ontology
 
-Identifiers for this prefix are given correctly in Measurement method ontology.
+Identifiers for this prefix are given incorrectly correctly in `mmo`.
 
 | external_xref     |   usages_count | usages                                            |
 |-------------------|----------------|---------------------------------------------------|
@@ -42,9 +45,9 @@ Identifiers for this prefix are given correctly in Measurement method ontology.
 | `ECO:ECO:0005587` |              1 | [MMO:0000685](https://bioregistry.io/MMO:0000685) |
 | `ECO:ECO:0005600` |              1 | [MMO:0000686](https://bioregistry.io/MMO:0000686) |
 
-## `ro`
+## `ro`: Relation Ontology
 
-Identifiers for this prefix are given correctly in Relation Ontology.
+Identifiers for this prefix are given incorrectly correctly in `ro`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|

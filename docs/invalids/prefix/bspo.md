@@ -1,10 +1,13 @@
-# BioCyc
+# bspo: Biological Spatial Ontology
 
-The following 1 variants were found: ['BSPO']
+This page summarize the different resources that reference `bspo`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 2 resources,
+1 variants on the standard prefix were found: ['BSPO'].
 
-## `bspo`
+## `bspo`: Biological Spatial Ontology
 
-Identifiers for this prefix are given correctly in Biological Spatial Ontology.
+Identifiers for this prefix are given incorrectly correctly in `bspo`.
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -17,9 +20,9 @@ Identifiers for this prefix are given correctly in Biological Spatial Ontology.
 | `BSPO:PM`            |              3 | [BSPO:0000012](https://bioregistry.io/BSPO:0000012), [BSPO:0000198](https://bioregistry.io/BSPO:0000198), [BSPO:0000199](https://bioregistry.io/BSPO:0000199)                                                                                                                |
 | `BSPO:DOS`           |              1 | [BSPO:0000417](https://bioregistry.io/BSPO:0000417)                                                                                                                                                                                                                          |
 
-## `enm`
+## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given correctly in eNanoMapper Ontology.
+Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

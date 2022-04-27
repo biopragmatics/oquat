@@ -1,10 +1,13 @@
-# EC
+# eol: Environment Ontology for Livestock
 
-The following 1 variants were found: ['EOL']
+This page summarize the different resources that reference `eol`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['EOL'].
 
-## `foodon`
+## `foodon`: The Food Ontology
 
-Identifiers for this prefix are given correctly in The Food Ontology.
+Identifiers for this prefix are given incorrectly correctly in `foodon`.
 
 | external_xref                               |   usages_count | usages                                                    |
 |---------------------------------------------|----------------|-----------------------------------------------------------|

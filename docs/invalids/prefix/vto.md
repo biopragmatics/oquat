@@ -1,27 +1,30 @@
-# FIX
+# vto: Vertebrate Taxonomy Ontology
 
-The following 1 variants were found: ['VTO']
+This page summarize the different resources that reference `vto`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 3 resources,
+1 variants on the standard prefix were found: ['VTO'].
 
-## `lbo`
+## `lbo`: Livestock Breed Ontology
 
-Identifiers for this prefix are given correctly in Livestock Breed Ontology.
+Identifiers for this prefix are given incorrectly correctly in `lbo`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
 | `VTO:CP`        |              1 | [LBO:0001090](https://bioregistry.io/LBO:0001090) |
 
-## `lpt`
+## `lpt`: Livestock Product Trait Ontology
 
-Identifiers for this prefix are given correctly in Livestock Product Trait Ontology.
+Identifiers for this prefix are given incorrectly correctly in `lpt`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `VTO:CP`        |            357 | [LPT:0000001](https://bioregistry.io/LPT:0000001), [LPT:0000002](https://bioregistry.io/LPT:0000002), [LPT:0000003](https://bioregistry.io/LPT:0000003), [LPT:0000004](https://bioregistry.io/LPT:0000004), [LPT:0000005](https://bioregistry.io/LPT:0000005), ... |
 | `VTO:INRA`      |            183 | [LPT:0000038](https://bioregistry.io/LPT:0000038), [LPT:0010003](https://bioregistry.io/LPT:0010003), [LPT:0010007](https://bioregistry.io/LPT:0010007), [LPT:0010008](https://bioregistry.io/LPT:0010008), [LPT:0010009](https://bioregistry.io/LPT:0010009), ... |
 
-## `vt`
+## `vt`: Vertebrate trait ontology
 
-Identifiers for this prefix are given correctly in Vertebrate trait ontology.
+Identifiers for this prefix are given incorrectly correctly in `vt`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

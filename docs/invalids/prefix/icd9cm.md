@@ -1,10 +1,13 @@
-# CGD
+# icd9cm: International Classification of Diseases, 9th Revision, Clinical Modification
 
-The following 1 variants were found: ['ICD9CM_2005']
+This page summarize the different resources that reference `icd9cm`
+but use local unique identifiers that do not match the standard pattern of
+^([\dA-Z]\d{2}(\.\d{1,3}|))|(\d{2}(\.\d{1,2}|))$. Of the 1 resources,
+1 variants on the standard prefix were found: ['ICD9CM_2005'].
 
-## `symp`
+## `symp`: Symptom Ontology
 
-Identifiers for this prefix are given correctly in Symptom Ontology.
+Identifiers for this prefix are given incorrectly correctly in `symp`.
 
 | external_xref              |   usages_count | usages                                              |
 |----------------------------|----------------|-----------------------------------------------------|

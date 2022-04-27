@@ -1,10 +1,13 @@
-# WB
+# cl: Cell Ontology
 
-The following 1 variants were found: ['CL']
+This page summarize the different resources that reference `cl`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 4 resources,
+1 variants on the standard prefix were found: ['CL'].
 
-## `cl`
+## `cl`: Cell Ontology
 
-Identifiers for this prefix are given correctly in Cell Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 | external_xref                            |   usages_count | usages                                                                                                                                                                                                                                                   |
 |------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -14,26 +17,26 @@ Identifiers for this prefix are given correctly in Cell Ontology.
 | `CL:patterns/cellPartOfAnatomicalEntity` |              1 | [CL:0011030](https://bioregistry.io/CL:0011030)                                                                                                                                                                                                          |
 | `CL:cjm`                                 |              1 | [CL:1000742](https://bioregistry.io/CL:1000742)                                                                                                                                                                                                          |
 
-## `tao`
+## `tao`: Teleost Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Teleost Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `tao`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `CL:curator`    |            153 | [TAO:0002148](https://bioregistry.io/TAO:0002148), [TAO:0002182](https://bioregistry.io/TAO:0002182), [TAO:0002211](https://bioregistry.io/TAO:0002211), [TAO:0005243](https://bioregistry.io/TAO:0005243), [TAO:0005322](https://bioregistry.io/TAO:0005322), ... |
 | `CL:Curator`    |              1 | [TAO:0005242](https://bioregistry.io/TAO:0005242)                                                                                                                                                                                                                  |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `CL:tm`         |             19 | [UBERON:0001249](https://bioregistry.io/UBERON:0001249), [UBERON:0001249](https://bioregistry.io/UBERON:0001249), [UBERON:0001745](https://bioregistry.io/UBERON:0001745), [UBERON:0004041](https://bioregistry.io/UBERON:0004041), [UBERON:0004042](https://bioregistry.io/UBERON:0004042), ... |
 
-## `zfa`
+## `zfa`: Zebrafish anatomy and development ontology
 
-Identifiers for this prefix are given correctly in Zebrafish anatomy and development ontology.
+Identifiers for this prefix are given incorrectly correctly in `zfa`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

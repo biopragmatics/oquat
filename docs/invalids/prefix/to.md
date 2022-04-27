@@ -1,26 +1,29 @@
-# PATO
+# to: Plant Trait Ontology
 
-The following 1 variants were found: ['TO']
+This page summarize the different resources that reference `to`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 3 resources,
+1 variants on the standard prefix were found: ['TO'].
 
-## `pato`
+## `pato`: Phenotype And Trait Ontology
 
-Identifiers for this prefix are given correctly in Phenotype And Trait Ontology.
+Identifiers for this prefix are given incorrectly correctly in `pato`.
 
 | external_xref   |   usages_count | usages                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------|
 | `TO:TO`         |              2 | [PATO:0001540](https://bioregistry.io/PATO:0001540), [PATO:0001541](https://bioregistry.io/PATO:0001541) |
 
-## `peco`
+## `peco`: Plant Experimental Conditions Ontology
 
-Identifiers for this prefix are given correctly in Plant Experimental Conditions Ontology.
+Identifiers for this prefix are given incorrectly correctly in `peco`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `TO:moorel`     |             11 | [PECO:0007041](https://bioregistry.io/PECO:0007041), [PECO:0007063](https://bioregistry.io/PECO:0007063), [PECO:0007168](https://bioregistry.io/PECO:0007168), [PECO:0007287](https://bioregistry.io/PECO:0007287), [PECO:0007292](https://bioregistry.io/PECO:0007292), ... |
 
-## `to`
+## `to`: Plant Trait Ontology
 
-Identifiers for this prefix are given correctly in Plant Trait Ontology.
+Identifiers for this prefix are given incorrectly correctly in `to`.
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                                                   |
 |--------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

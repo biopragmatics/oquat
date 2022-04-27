@@ -1,10 +1,13 @@
-# SO
+# mirbase: miRBase pre-miRNA
 
-The following 1 variants were found: ['miRBase']
+This page summarize the different resources that reference `mirbase`
+but use local unique identifiers that do not match the standard pattern of
+^MI\d{7}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['miRBase'].
 
-## `ncro`
+## `ncro`: Non-Coding RNA Ontology
 
-Identifiers for this prefix are given correctly in Non-Coding RNA Ontology.
+Identifiers for this prefix are given incorrectly correctly in `ncro`.
 
 | external_xref          |   usages_count | usages                                              |
 |------------------------|----------------|-----------------------------------------------------|

@@ -1,34 +1,37 @@
-# ChemIDplus
+# metacyc.compound: Metabolic Encyclopedia of metabolic and other pathways
 
-The following 1 variants were found: ['MetaCyc']
+This page summarize the different resources that reference `metacyc.compound`
+but use local unique identifiers that do not match the standard pattern of
+^[A-Za-z0-9+_.%-:]+$. Of the 4 resources,
+1 variants on the standard prefix were found: ['MetaCyc'].
 
-## `cco`
+## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given correctly in Cell Cycle Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 | external_xref                                 |   usages_count | usages                                          |
 |-----------------------------------------------|----------------|-------------------------------------------------|
 | `MetaCyc:[ACETYL-COA-CARBOXYLASE]-KINASE-RXN` |              1 | [GO:0050405](https://bioregistry.io/GO:0050405) |
 
-## `chebi`
+## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given correctly in Chemical Entities of Biological Interest.
+Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 | external_xref                                                                                 |   usages_count | usages                                              |
 |-----------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------|
 | `MetaCyc:(1<arrow>right</arrow>4)-6-phospho-<stereo>alpha</stereo>-<stereo>D</stereo>-glucan` |              1 | [CHEBI:134068](https://bioregistry.io/CHEBI:134068) |
 
-## `go`
+## `go`: Gene Ontology
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref                                 |   usages_count | usages                                          |
 |-----------------------------------------------|----------------|-------------------------------------------------|
 | `MetaCyc:[ACETYL-COA-CARBOXYLASE]-KINASE-RXN` |              1 | [GO:0050405](https://bioregistry.io/GO:0050405) |
 
-## `pw`
+## `pw`: Pathway ontology
 
-Identifiers for this prefix are given correctly in Pathway ontology.
+Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 | external_xref                                                              |   usages_count | usages                                          |
 |----------------------------------------------------------------------------|----------------|-------------------------------------------------|

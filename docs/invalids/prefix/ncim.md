@@ -1,10 +1,13 @@
-# MedDRA
+# ncim: NCI Metathesaurus
 
-The following 1 variants were found: ['NCIm']
+This page summarize the different resources that reference `ncim`
+but use local unique identifiers that do not match the standard pattern of
+^C\d+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['NCIm'].
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|

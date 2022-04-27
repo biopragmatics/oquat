@@ -1,10 +1,13 @@
-# SPD
+# hao: Hymenoptera Anatomy Ontology
 
-The following 1 variants were found: ['HAO']
+This page summarize the different resources that reference `hao`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['HAO'].
 
-## `spd`
+## `spd`: Spider Ontology
 
-Identifiers for this prefix are given correctly in Spider Ontology.
+Identifiers for this prefix are given incorrectly correctly in `spd`.
 
 | external_xref     |   usages_count | usages                                            |
 |-------------------|----------------|---------------------------------------------------|

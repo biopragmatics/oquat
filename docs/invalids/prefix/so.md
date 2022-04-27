@@ -1,10 +1,13 @@
-# SGD
+# so: Sequence types and features ontology
 
-The following 1 variants were found: ['SO']
+This page summarize the different resources that reference `so`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 10 resources,
+1 variants on the standard prefix were found: ['SO'].
 
-## `bs`
+## `bs`: Biosapiens Protein Feature Ontology
 
-Identifiers for this prefix are given correctly in Biosapiens Protein Feature Ontology.
+Identifiers for this prefix are given incorrectly correctly in `bs`.
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                                                 |
 |----------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13,17 +16,17 @@ Identifiers for this prefix are given correctly in Biosapiens Protein Feature On
 | `SO:GAR`             |              1 | [SO:0000839](https://bioregistry.io/SO:0000839)                                                                                                                                                                                                                                                        |
 | `SO:immuno_workshop` |              1 | [so/subsets/biosapiens#variant:of](https://bioregistry.io/so/subsets/biosapiens#variant:of)                                                                                                                                                                                                            |
 
-## `enm`
+## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given correctly in eNanoMapper Ontology.
+Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                           |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `SO:cjm`        |              2 | [envo#disconnected:from](https://bioregistry.io/envo#disconnected:from), [uberon#spatially:disjoint:from](https://bioregistry.io/uberon#spatially:disjoint:from) |
 
-## `ensemblglossary`
+## `ensemblglossary`: Ensembl Glossary
 
-Identifiers for this prefix are given correctly in Ensembl Glossary.
+Identifiers for this prefix are given incorrectly correctly in `ensemblglossary`.
 
 | external_xref                        |   usages_count | usages                                                                                                                    |
 |--------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -31,33 +34,33 @@ Identifiers for this prefix are given correctly in Ensembl Glossary.
 | `SO:0002105, SO:0002106`             |              1 | [http://ensembl.org/glossary/ENSGLOSSARY:0000051](https://bioregistry.io/http://ensembl.org/glossary/ENSGLOSSARY:0000051) |
 | `SO:0000853, FHOM_0000007`           |              1 | [http://ensembl.org/glossary/ENSGLOSSARY:0000080](https://bioregistry.io/http://ensembl.org/glossary/ENSGLOSSARY:0000080) |
 
-## `fbcv`
+## `fbcv`: FlyBase Controlled Vocabulary
 
-Identifiers for this prefix are given correctly in FlyBase Controlled Vocabulary.
+Identifiers for this prefix are given incorrectly correctly in `fbcv`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
 | `SO:ma`         |              1 | [FBcv:0003013](https://bioregistry.io/FBcv:0003013) |
 
-## `fypo`
+## `fypo`: Fission Yeast Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Fission Yeast Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `fypo`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
 | `SO:1861`       |              1 | [FYPO:0003251](https://bioregistry.io/FYPO:0003251) |
 
-## `geno`
+## `geno`: Genotype Ontology
 
-Identifiers for this prefix are given correctly in Genotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `geno`.
 
 | external_xref                     |   usages_count | usages                                              |
 |-----------------------------------|----------------|-----------------------------------------------------|
 | `SO:0000831 (gene member region)` |              1 | [GENO:0000666](https://bioregistry.io/GENO:0000666) |
 
-## `hom`
+## `hom`: Homology Ontology
 
-Identifiers for this prefix are given correctly in Homology Ontology.
+Identifiers for this prefix are given incorrectly correctly in `hom`.
 
 | external_xref                  |   usages_count | usages                                                                                               |
 |--------------------------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -67,9 +70,9 @@ Identifiers for this prefix are given correctly in Homology Ontology.
 | `SO:paralogous_to`             |              1 | [HOM:0000011](https://bioregistry.io/HOM:0000011)                                                    |
 | `SO:orthologous_to`            |              1 | [HOM:0000017](https://bioregistry.io/HOM:0000017)                                                    |
 
-## `ro`
+## `ro`: Relation Ontology
 
-Identifiers for this prefix are given correctly in Relation Ontology.
+Identifiers for this prefix are given incorrectly correctly in `ro`.
 
 | external_xref                  |   usages_count | usages                                                                                                       |
 |--------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -79,9 +82,9 @@ Identifiers for this prefix are given correctly in Relation Ontology.
 | `SO:paralogous_to`             |              1 | [RO:HOM0000011](https://bioregistry.io/RO:HOM0000011)                                                        |
 | `SO:orthologous_to`            |              1 | [RO:HOM0000017](https://bioregistry.io/RO:HOM0000017)                                                        |
 
-## `so`
+## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given correctly in Sequence types and features ontology.
+Identifiers for this prefix are given incorrectly correctly in `so`.
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                   |
 |----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -118,9 +121,9 @@ Identifiers for this prefix are given correctly in Sequence types and features o
 | `SO:rs`              |              1 | [SO:0002049](https://bioregistry.io/SO:0002049)                                                                                                                                                                                                          |
 | `SO:nrs`             |              1 | [SO:0002095](https://bioregistry.io/SO:0002095)                                                                                                                                                                                                          |
 
-## `vario`
+## `vario`: Variation Ontology
 
-Identifiers for this prefix are given correctly in Variation Ontology.
+Identifiers for this prefix are given incorrectly correctly in `vario`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

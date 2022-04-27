@@ -1,10 +1,13 @@
-# drugbank
+# gmelin: Gmelins Handbuch der anorganischen Chemie
 
-The following 1 variants were found: ['Gmelin']
+This page summarize the different resources that reference `gmelin`
+but use local unique identifiers that do not match the standard pattern of
+^[1-9][0-9]{3,6}$. Of the 3 resources,
+1 variants on the standard prefix were found: ['Gmelin'].
 
-## `chebi`
+## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given correctly in Chemical Entities of Biological Interest.
+Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
@@ -179,17 +182,17 @@ Identifiers for this prefix are given correctly in Chemical Entities of Biologic
 | `Gmelin:276`    |              1 | [CHEBI:51707](https://bioregistry.io/CHEBI:51707) |
 | `Gmelin:917`    |              1 | [CHEBI:7438](https://bioregistry.io/CHEBI:7438)   |
 
-## `enm`
+## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given correctly in eNanoMapper Ontology.
+Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
 | `Gmelin:485`    |              1 | [CHEBI:15379](https://bioregistry.io/CHEBI:15379) |
 
-## `msio`
+## `msio`: Metabolomics Standards Initiative Ontology
 
-Identifiers for this prefix are given correctly in Metabolomics Standards Initiative Ontology.
+Identifiers for this prefix are given incorrectly correctly in `msio`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|

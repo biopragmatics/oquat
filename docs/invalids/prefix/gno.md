@@ -1,10 +1,13 @@
-# Unimod
+# gno: Glycan Naming and Subsumption Ontology
 
-The following 1 variants were found: ['GNO']
+This page summarize the different resources that reference `gno`
+but use local unique identifiers that do not match the standard pattern of
+^\d{8}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['GNO'].
 
-## `mod`
+## `mod`: Protein modification
 
-Identifiers for this prefix are given correctly in Protein modification.
+Identifiers for this prefix are given incorrectly correctly in `mod`.
 
 | external_xref   |   usages_count | usages                                        |
 |-----------------|----------------|-----------------------------------------------|

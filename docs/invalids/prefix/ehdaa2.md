@@ -1,10 +1,13 @@
-# NCBITaxon
+# ehdaa2: Human developmental anatomy, abstract
 
-The following 1 variants were found: ['EHDAA2']
+This page summarize the different resources that reference `ehdaa2`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['EHDAA2'].
 
-## `hsapdv`
+## `hsapdv`: Human Developmental Stages
 
-Identifiers for this prefix are given correctly in Human Developmental Stages.
+Identifiers for this prefix are given incorrectly correctly in `hsapdv`.
 
 | external_xref   |   usages_count | usages                                                                                                           |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------|

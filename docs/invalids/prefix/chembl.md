@@ -1,10 +1,13 @@
-# Medline Plus
+# chembl: ChEMBL
 
-The following 1 variants were found: ['CHEMBL']
+This page summarize the different resources that reference `chembl`
+but use local unique identifiers that do not match the standard pattern of
+^CHEMBL\d+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['CHEMBL'].
 
-## `xco`
+## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given correctly in Experimental condition ontology.
+Identifiers for this prefix are given incorrectly correctly in `xco`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                  |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|

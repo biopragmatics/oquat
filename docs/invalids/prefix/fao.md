@@ -1,27 +1,30 @@
-# UniProt
+# fao: Fungal gross anatomy
 
-The following 1 variants were found: ['FAO']
+This page summarize the different resources that reference `fao`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 3 resources,
+1 variants on the standard prefix were found: ['FAO'].
 
-## `enm`
+## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given correctly in eNanoMapper Ontology.
+Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 | external_xref                                             |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |-----------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf` |             27 | [ENVO:00002229](https://bioregistry.io/ENVO:00002229), [ENVO:00002231](https://bioregistry.io/ENVO:00002231), [ENVO:00002233](https://bioregistry.io/ENVO:00002233), [ENVO:00002234](https://bioregistry.io/ENVO:00002234), [ENVO:00002235](https://bioregistry.io/ENVO:00002235), ... |
 
-## `envo`
+## `envo`: Environment Ontology
 
-Identifiers for this prefix are given correctly in Environment Ontology.
+Identifiers for this prefix are given incorrectly correctly in `envo`.
 
 | external_xref                                                          |   usages_count | usages                                                                                                                                                                                                                                                                                 |
 |------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf`              |             27 | [ENVO:00002229](https://bioregistry.io/ENVO:00002229), [ENVO:00002231](https://bioregistry.io/ENVO:00002231), [ENVO:00002233](https://bioregistry.io/ENVO:00002233), [ENVO:00002234](https://bioregistry.io/ENVO:00002234), [ENVO:00002235](https://bioregistry.io/ENVO:00002235), ... |
 | `FAO:http://www.fao.org/soils-portal/soil-degradation-restoration/en/` |              1 | [ENVO:01000705](https://bioregistry.io/ENVO:01000705)                                                                                                                                                                                                                                  |
 
-## `fao`
+## `fao`: Fungal gross anatomy
 
-Identifiers for this prefix are given correctly in Fungal gross anatomy.
+Identifiers for this prefix are given incorrectly correctly in `fao`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

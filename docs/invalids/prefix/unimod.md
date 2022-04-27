@@ -1,10 +1,13 @@
-# RESID
+# unimod: Unimod protein modification database for mass spectrometry
 
-The following 1 variants were found: ['Unimod']
+This page summarize the different resources that reference `unimod`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['Unimod'].
 
-## `mod`
+## `mod`: Protein modification
 
-Identifiers for this prefix are given correctly in Protein modification.
+Identifiers for this prefix are given incorrectly correctly in `mod`.
 
 | external_xref       |   usages_count | usages                                                                                                                                                                                                                                         |
 |---------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,18 +1,21 @@
-# PomBase
+# go: Gene Ontology
 
-The following 1 variants were found: ['GO']
+This page summarize the different resources that reference `go`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 16 resources,
+1 variants on the standard prefix were found: ['GO'].
 
-## `aeo`
+## `aeo`: Anatomical Entity Ontology
 
-Identifiers for this prefix are given correctly in Anatomical Entity Ontology.
+Identifiers for this prefix are given incorrectly correctly in `aeo`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
 | `GO:curator`    |              1 | [AEO:0000147](https://bioregistry.io/AEO:0000147) |
 
-## `cco`
+## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given correctly in Cell Cycle Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -22,26 +25,26 @@ Identifiers for this prefix are given correctly in Cell Cycle Ontology.
 | `GO:GO:0016783` |              1 | [MI:1327](https://bioregistry.io/MI:1327)       |
 | `GO:curators`   |              1 | [GO:0004479](https://bioregistry.io/GO:0004479) |
 
-## `cl`
+## `cl`: Cell Ontology
 
-Identifiers for this prefix are given correctly in Cell Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `GO:tfm`        |             16 | [CL:0000478](https://bioregistry.io/CL:0000478), [CL:0000479](https://bioregistry.io/CL:0000479), [CL:0000480](https://bioregistry.io/CL:0000480), [CL:0000481](https://bioregistry.io/CL:0000481), [CL:0000482](https://bioregistry.io/CL:0000482), ... |
 | `GO:cvs`        |              1 | [CL:0005008](https://bioregistry.io/CL:0005008)                                                                                                                                                                                                          |
 
-## `cmpo`
+## `cmpo`: Cellular Microscopy Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Cellular Microscopy Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cmpo`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `GO:jl`         |              4 | [GO:0044092](https://bioregistry.io/GO:0044092), [GO:0044093](https://bioregistry.io/GO:0044093), [GO:1902679](https://bioregistry.io/GO:1902679), [GO:1902680](https://bioregistry.io/GO:1902680) |
 
-## `eco`
+## `eco`: Evidence ontology
 
-Identifiers for this prefix are given correctly in Evidence ontology.
+Identifiers for this prefix are given incorrectly correctly in `eco`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                  |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -49,9 +52,9 @@ Identifiers for this prefix are given correctly in Evidence ontology.
 | `GO:IMP`        |              3 | [ECO:0000015](https://bioregistry.io/ECO:0000015), [ECO:0007000](https://bioregistry.io/ECO:0007000), [ECO:0007001](https://bioregistry.io/ECO:0007001) |
 | `GO:TAS`        |              1 | [ECO:0000033](https://bioregistry.io/ECO:0000033)                                                                                                       |
 
-## `fypo`
+## `fypo`: Fission Yeast Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Fission Yeast Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `fypo`.
 
 | external_xref            |   usages_count | usages                                                                                                                                                        |
 |--------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -61,9 +64,9 @@ Identifiers for this prefix are given correctly in Fission Yeast Phenotype Ontol
 | `GO:030995`              |              1 | [FYPO:0004270](https://bioregistry.io/FYPO:0004270)                                                                                                           |
 | `GO:003118`              |              1 | [FYPO:0007501](https://bioregistry.io/FYPO:0007501)                                                                                                           |
 
-## `go`
+## `go`: Gene Ontology
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -81,9 +84,9 @@ Identifiers for this prefix are given correctly in Gene Ontology.
 | `GO:krc`        |              1 | [GO:0120132](https://bioregistry.io/GO:0120132)                                                                                                                                                                                                          |
 | `GO:ach`        |              1 | [GO:0120312](https://bioregistry.io/GO:0120312)                                                                                                                                                                                                          |
 
-## `mi`
+## `mi`: Molecular Interactions Controlled Vocabulary
 
-Identifiers for this prefix are given correctly in Molecular Interactions Controlled Vocabulary.
+Identifiers for this prefix are given incorrectly correctly in `mi`.
 
 | external_xref   |   usages_count | usages                                                                               |
 |-----------------|----------------|--------------------------------------------------------------------------------------|
@@ -93,17 +96,17 @@ Identifiers for this prefix are given correctly in Molecular Interactions Contro
 | `GO:GO:0018322` |              1 | [MI:2272](https://bioregistry.io/MI:2272)                                            |
 | `GO:GO:0018166` |              1 | [MI:2273](https://bioregistry.io/MI:2273)                                            |
 
-## `mp`
+## `mp`: Mammalian Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Mammalian Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mp`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `GO:00006302`   |              1 | [MP:0010948](https://bioregistry.io/MP:0010948) |
 
-## `omp`
+## `omp`: Ontology of Microbial Phenotypes
 
-Identifiers for this prefix are given correctly in Ontology of Microbial Phenotypes.
+Identifiers for this prefix are given incorrectly correctly in `omp`.
 
 | external_xref   |   usages_count | usages                                                                                               |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -115,17 +118,17 @@ Identifiers for this prefix are given correctly in Ontology of Microbial Phenoty
 | `GO::0007059`   |              1 | [OMP:0005047](https://bioregistry.io/OMP:0005047)                                                    |
 | `GO:00015629`   |              1 | [OMP:0005182](https://bioregistry.io/OMP:0005182)                                                    |
 
-## `pato`
+## `pato`: Phenotype And Trait Ontology
 
-Identifiers for this prefix are given correctly in Phenotype And Trait Ontology.
+Identifiers for this prefix are given incorrectly correctly in `pato`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                        |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `GO:GO`         |              3 | [PATO:0001440](https://bioregistry.io/PATO:0001440), [PATO:0001441](https://bioregistry.io/PATO:0001441), [PATO:0001720](https://bioregistry.io/PATO:0001720) |
 
-## `pw`
+## `pw`: Pathway ontology
 
-Identifiers for this prefix are given correctly in Pathway ontology.
+Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 | external_xref        |   usages_count | usages                                          |
 |----------------------|----------------|-------------------------------------------------|
@@ -134,35 +137,35 @@ Identifiers for this prefix are given correctly in Pathway ontology.
 | `GO:00005978`        |              1 | [PW:0000532](https://bioregistry.io/PW:0000532) |
 | `GO:0016132, KEGG`   |              1 | [PW:0000552](https://bioregistry.io/PW:0000552) |
 
-## `so`
+## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given correctly in Sequence types and features ontology.
+Identifiers for this prefix are given incorrectly correctly in `so`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | `GO:mah`        |              3 | [SO:0001861](https://bioregistry.io/SO:0001861), [SO:0001861](https://bioregistry.io/SO:0001861), [SO:0001871](https://bioregistry.io/SO:0001871) |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref   |   usages_count | usages                                                                                                           |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
 | `GO:GO`         |              2 | [UBERON:0000016](https://bioregistry.io/UBERON:0000016), [UBERON:0006003](https://bioregistry.io/UBERON:0006003) |
 | `GO:curator`    |              1 | [UBERON:0005863](https://bioregistry.io/UBERON:0005863)                                                          |
 
-## `vsao`
+## `vsao`: Vertebrate Skeletal Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Vertebrate Skeletal Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `vsao`.
 
 | external_xref                         |   usages_count | usages                                              |
 |---------------------------------------|----------------|-----------------------------------------------------|
 | `GO:[GOC:mtg_sensu, ISBN:0198547684]` |              1 | [VSAO:0000021](https://bioregistry.io/VSAO:0000021) |
 | `GO:curator`                          |              1 | [VSAO:0000092](https://bioregistry.io/VSAO:0000092) |
 
-## `zfa`
+## `zfa`: Zebrafish anatomy and development ontology
 
-Identifiers for this prefix are given correctly in Zebrafish anatomy and development ontology.
+Identifiers for this prefix are given incorrectly correctly in `zfa`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|

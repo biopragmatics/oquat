@@ -1,10 +1,13 @@
-# UniProtKB-KW
+# tcdb: Transporter Classification Database
 
-The following 1 variants were found: ['TC']
+This page summarize the different resources that reference `tcdb`
+but use local unique identifiers that do not match the standard pattern of
+^\d+(\.[A-Z])?(\.\d+)?(\.\d+)?(\.\d+)?$. Of the 2 resources,
+1 variants on the standard prefix were found: ['TC'].
 
-## `cco`
+## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given correctly in Cell Cycle Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -52,9 +55,9 @@ Identifiers for this prefix are given correctly in Cell Cycle Ontology.
 | `TC:3.A.1.1.-`  |              1 | [GO:0015608](https://bioregistry.io/GO:0015608)                                                                                                                                                                                                          |
 | `TC:3.A.1.2.-`  |              1 | [GO:0015608](https://bioregistry.io/GO:0015608)                                                                                                                                                                                                          |
 
-## `go`
+## `go`: Gene Ontology
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|

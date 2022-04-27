@@ -44,27 +44,29 @@ def main():
                         source_agg[source][xref_prefix][xref_prefix, xref_identifier].append(node_curie)
                         xref_agg[xref_norm_prefix][source][xref_prefix, xref_identifier].append(node_curie)
 
-    for xref_norm_prefix, inner in tqdm(xref_agg.items(), unit="prefix"):
+    for xref_norm_prefix, xref_inner in tqdm(xref_agg.items(), unit="prefix"):
         xref_name = bioregistry.get_name(xref_norm_prefix)
-        xref_pattern = bioregistry.get_pattern(xref_prefix)
         xref_path = PREFIXES.joinpath(f"{xref_norm_prefix}.md")
         variants = {
             xref_prefix
-            for inner2 in inner.values()
-            for xref_prefix, _ in inner2
+            for xref_inner_2 in xref_inner.values()
+            for xref_prefix, _ in xref_inner_2
         }
         source_text = dedent(f"""\
-        # {xref_prefix}
+        # {xref_norm_prefix}: {xref_name}
 
-        The following {len(variants)} variants were found: {sorted(variants)}
+        This page summarize the different resources that reference `{xref_norm_prefix}`
+        but use local unique identifiers that do not match the standard pattern of
+        {bioregistry.get_pattern(xref_norm_prefix)}. Of the {len(xref_inner):,} resources,
+        {len(variants)} variants on the standard prefix were found: {sorted(variants)}.
 
         """)
 
-        for source, inner2 in sorted(inner.items(), key=lambda t: t[0].casefold()):
+        for source, inner2 in sorted(xref_inner.items(), key=lambda t: t[0].casefold()):
             source_text += dedent(f"""\
-            ## `{source}`
+            ## `{source}`: {bioregistry.get_name(source)}
 
-            Identifiers for this prefix are given incorrectly correctly in {bioregistry.get_name(source)}.
+            Identifiers for this prefix are given incorrectly correctly in `{source}`.
 
             """)
             rows = []

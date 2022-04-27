@@ -1,10 +1,13 @@
-# SNOMED
+# apo: Ascomycete phenotype ontology
 
-The following 1 variants were found: ['APO']
+This page summarize the different resources that reference `apo`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['APO'].
 
-## `omp`
+## `omp`: Ontology of Microbial Phenotypes
 
-Identifiers for this prefix are given correctly in Ontology of Microbial Phenotypes.
+Identifiers for this prefix are given incorrectly correctly in `omp`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|

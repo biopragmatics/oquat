@@ -1,10 +1,13 @@
-# MI
+# uniprot: UniProt Protein
 
-The following 2 variants were found: ['UniProt', 'uniprot']
+This page summarize the different resources that reference `uniprot`
+but use local unique identifiers that do not match the standard pattern of
+^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$. Of the 3 resources,
+2 variants on the standard prefix were found: ['UniProt', 'uniprot'].
 
-## `bs`
+## `bs`: Biosapiens Protein Feature Ontology
 
-Identifiers for this prefix are given correctly in Biosapiens Protein Feature Ontology.
+Identifiers for this prefix are given incorrectly correctly in `bs`.
 
 | external_xref             |   usages_count | usages                                                                                                                                                                                                                                                   |
 |---------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,9 +18,9 @@ Identifiers for this prefix are given correctly in Biosapiens Protein Feature On
 | `uniprot:curation`        |              1 | [SO:0001091](https://bioregistry.io/SO:0001091)                                                                                                                                                                                                          |
 | `uniprot:feature`         |              1 | [SO:0100020](https://bioregistry.io/SO:0100020)                                                                                                                                                                                                          |
 
-## `so`
+## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given correctly in Sequence types and features ontology.
+Identifiers for this prefix are given incorrectly correctly in `so`.
 
 | external_xref             |   usages_count | usages                                                                                                                                                                                                                                                   |
 |---------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,9 +31,9 @@ Identifiers for this prefix are given correctly in Sequence types and features o
 | `UniProt:Curation_manual` |              1 | [SO:0001093](https://bioregistry.io/SO:0001093)                                                                                                                                                                                                          |
 | `uniprot:curation`        |              1 | [SO:0001091](https://bioregistry.io/SO:0001091)                                                                                                                                                                                                          |
 
-## `vario`
+## `vario`: Variation Ontology
 
-Identifiers for this prefix are given correctly in Variation Ontology.
+Identifiers for this prefix are given incorrectly correctly in `vario`.
 
 | external_xref             |   usages_count | usages                                          |
 |---------------------------|----------------|-------------------------------------------------|

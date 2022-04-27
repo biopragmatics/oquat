@@ -1,10 +1,13 @@
-# DMBA
+# hba: Human Brain Atlas
 
-The following 1 variants were found: ['HBA']
+This page summarize the different resources that reference `hba`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['HBA'].
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|

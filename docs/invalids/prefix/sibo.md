@@ -1,10 +1,13 @@
-# BioRXiv
+# sibo: Social Insect Behavior Ontology
 
-The following 1 variants were found: ['SIBO']
+This page summarize the different resources that reference `sibo`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['SIBO'].
 
-## `sibo`
+## `sibo`: Social Insect Behavior Ontology
 
-Identifiers for this prefix are given correctly in Social Insect Behavior Ontology.
+Identifiers for this prefix are given incorrectly correctly in `sibo`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

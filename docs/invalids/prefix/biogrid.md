@@ -1,10 +1,13 @@
-# BFO
+# biogrid: BioGRID
 
-The following 1 variants were found: ['BioGRID']
+This page summarize the different resources that reference `biogrid`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['BioGRID'].
 
-## `apo`
+## `apo`: Ascomycete phenotype ontology
 
-Identifiers for this prefix are given correctly in Ascomycete phenotype ontology.
+Identifiers for this prefix are given incorrectly correctly in `apo`.
 
 | external_xref      |   usages_count | usages                                                                                               |
 |--------------------|----------------|------------------------------------------------------------------------------------------------------|

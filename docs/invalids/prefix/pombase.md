@@ -1,26 +1,29 @@
-# MESH
+# pombase: PomBase
 
-The following 3 variants were found: ['POMBASE', 'PomBase', 'Pombase']
+This page summarize the different resources that reference `pombase`
+but use local unique identifiers that do not match the standard pattern of
+^S\w+(\.)?\w+(\.)?$. Of the 4 resources,
+3 variants on the standard prefix were found: ['POMBASE', 'PomBase', 'Pombase'].
 
-## `cmpo`
+## `cmpo`: Cellular Microscopy Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Cellular Microscopy Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cmpo`.
 
 | external_xref   |   usages_count | usages                                                                                                  |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------|
 | `PomBase:mah`   |              1 | [http://www.ebi.ac.uk/cmpo/CMPO:0000430](https://bioregistry.io/http://www.ebi.ac.uk/cmpo/CMPO:0000430) |
 
-## `eco`
+## `eco`: Evidence ontology
 
-Identifiers for this prefix are given correctly in Evidence ontology.
+Identifiers for this prefix are given incorrectly correctly in `eco`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|
 | `PomBase:MAH`   |              1 | [ECO:0000095](https://bioregistry.io/ECO:0000095) |
 
-## `fypo`
+## `fypo`: Fission Yeast Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Fission Yeast Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `fypo`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -40,9 +43,9 @@ Identifiers for this prefix are given correctly in Fission Yeast Phenotype Ontol
 | `PomBase:mahle` |              1 | [FYPO:0007633](https://bioregistry.io/FYPO:0007633)                                                                                                                                                                                                                          |
 | `PomBase:sm`    |              1 | [FYPO:0007683](https://bioregistry.io/FYPO:0007683)                                                                                                                                                                                                                          |
 
-## `so`
+## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given correctly in Sequence types and features ontology.
+Identifiers for this prefix are given incorrectly correctly in `so`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

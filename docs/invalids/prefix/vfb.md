@@ -1,10 +1,13 @@
-# DoOR
+# vfb: Virtual Fly Brain
 
-The following 1 variants were found: ['VFB']
+This page summarize the different resources that reference `vfb`
+but use local unique identifiers that do not match the standard pattern of
+^[0-9a-zA-Z]{8}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['VFB'].
 
-## `fbbt`
+## `fbbt`: Drosophila gross anatomy
 
-Identifiers for this prefix are given correctly in Drosophila gross anatomy.
+Identifiers for this prefix are given incorrectly correctly in `fbbt`.
 
 | external_xref       |   usages_count | usages                                                                                                       |
 |---------------------|----------------|--------------------------------------------------------------------------------------------------------------|

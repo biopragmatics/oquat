@@ -1,10 +1,13 @@
-# ORCID
+# pmc: Pubmed Central
 
-The following 2 variants were found: ['PMC', 'PMCID']
+This page summarize the different resources that reference `pmc`
+but use local unique identifiers that do not match the standard pattern of
+^PMC\d+$. Of the 5 resources,
+2 variants on the standard prefix were found: ['PMC', 'PMCID'].
 
-## `eco`
+## `eco`: Evidence ontology
 
-Identifiers for this prefix are given correctly in Evidence ontology.
+Identifiers for this prefix are given incorrectly correctly in `eco`.
 
 | external_xref   |   usages_count | usages                                                                                               |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -31,33 +34,33 @@ Identifiers for this prefix are given correctly in Evidence ontology.
 | `PMC:3667641`   |              1 | [ECO:0005021](https://bioregistry.io/ECO:0005021)                                                    |
 | `PMCID:3277431` |              1 | [ECO:0001811](https://bioregistry.io/ECO:0001811)                                                    |
 
-## `mp`
+## `mp`: Mammalian Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Mammalian Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mp`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | `PMC:26978024`  |              3 | [MP:0020441](https://bioregistry.io/MP:0020441), [MP:0020442](https://bioregistry.io/MP:0020442), [MP:0020443](https://bioregistry.io/MP:0020443) |
 
-## `mpath`
+## `mpath`: Mouse pathology ontology
 
-Identifiers for this prefix are given correctly in Mouse pathology ontology.
+Identifiers for this prefix are given incorrectly correctly in `mpath`.
 
 | external_xref    |   usages_count | usages                                        |
 |------------------|----------------|-----------------------------------------------|
 | `PMCID: 1964945` |              1 | [MPATH:499](https://bioregistry.io/MPATH:499) |
 
-## `so`
+## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given correctly in Sequence types and features ontology.
+Identifiers for this prefix are given incorrectly correctly in `so`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `PMC:126017`    |              1 | [SO:0002095](https://bioregistry.io/SO:0002095) |
 
-## `wbls`
+## `wbls`: C. elegans development ontology
 
-Identifiers for this prefix are given correctly in C. elegans development ontology.
+Identifiers for this prefix are given incorrectly correctly in `wbls`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

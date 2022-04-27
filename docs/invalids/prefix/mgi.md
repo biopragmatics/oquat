@@ -1,18 +1,21 @@
-# FB
+# mgi: Mouse Genome Informatics
 
-The following 3 variants were found: ['MGD', 'MGI', 'mgi']
+This page summarize the different resources that reference `mgi`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 9 resources,
+3 variants on the standard prefix were found: ['MGD', 'MGI', 'mgi'].
 
-## `bto`
+## `bto`: BRENDA tissue / enzyme source
 
-Identifiers for this prefix are given correctly in BRENDA tissue / enzyme source.
+Identifiers for this prefix are given incorrectly correctly in `bto`.
 
 | external_xref                                              |   usages_count | usages                                            |
 |------------------------------------------------------------|----------------|---------------------------------------------------|
 | `MGI:http://www.mousedb.net/searches/GO.cgi?id=GO:0060935` |              1 | [BTO:0003093](https://bioregistry.io/BTO:0003093) |
 
-## `cco`
+## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given correctly in Cell Cycle Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 | external_xref     |   usages_count | usages                                                          |
 |-------------------|----------------|-----------------------------------------------------------------|
@@ -13397,34 +13400,34 @@ Identifiers for this prefix are given correctly in Cell Cycle Ontology.
 | `MGI:MGI:2443016` |              1 | [NCBIGene:99899](https://bioregistry.io/NCBIGene:99899)         |
 | `MGI:MGI:1196256` |              1 | [NCBIGene:99982](https://bioregistry.io/NCBIGene:99982)         |
 
-## `enm`
+## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given correctly in eNanoMapper Ontology.
+Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
 | `MGI:csmith`    |              1 | [UBERON:0002530](https://bioregistry.io/UBERON:0002530) |
 
-## `go`
+## `go`: Gene Ontology
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `MGI:csmith`    |              1 | [GO:1903702](https://bioregistry.io/GO:1903702) |
 
-## `lpt`
+## `lpt`: Livestock Product Trait Ontology
 
-Identifiers for this prefix are given correctly in Livestock Product Trait Ontology.
+Identifiers for this prefix are given incorrectly correctly in `lpt`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                     |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `MGI:MP`        |              4 | [LPT:0010269](https://bioregistry.io/LPT:0010269), [LPT:0010271](https://bioregistry.io/LPT:0010271), [LPT:0010275](https://bioregistry.io/LPT:0010275), [LPT:0010277](https://bioregistry.io/LPT:0010277) |
 | `MGI:smb`       |              2 | [LPT:0004047](https://bioregistry.io/LPT:0004047), [LPT:0010451](https://bioregistry.io/LPT:0010451)                                                                                                       |
 
-## `mp`
+## `mp`: Mammalian Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Mammalian Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mp`.
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13474,18 +13477,18 @@ Identifiers for this prefix are given correctly in Mammalian Phenotype Ontology.
 | `MGI:adiehl`          |              1 | [MP:0008051](https://bioregistry.io/MP:0008051)                                                                                                                                                                                                          |
 | `MGI:Bogue`           |              1 | [MP:0013800](https://bioregistry.io/MP:0013800)                                                                                                                                                                                                          |
 
-## `so`
+## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given correctly in Sequence types and features ontology.
+Identifiers for this prefix are given incorrectly correctly in `so`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `MGI:hdeen`     |              1 | [SO:0001503](https://bioregistry.io/SO:0001503) |
 | `MGD:tm`        |              1 | [SO:0001644](https://bioregistry.io/SO:0001644) |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13504,9 +13507,9 @@ Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
 | `MGI:smith`     |              1 | [UBERON:0035941](https://bioregistry.io/UBERON:0035941)                                                                                                                                                                                                                                          |
 | `MGI:sbello`    |              1 | [UBERON:0036145](https://bioregistry.io/UBERON:0036145)                                                                                                                                                                                                                                          |
 
-## `vt`
+## `vt`: Vertebrate trait ontology
 
-Identifiers for this prefix are given correctly in Vertebrate trait ontology.
+Identifiers for this prefix are given incorrectly correctly in `vt`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

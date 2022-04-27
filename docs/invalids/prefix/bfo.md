@@ -1,10 +1,13 @@
-# RO
+# bfo: Basic Formal Ontology
 
-The following 1 variants were found: ['BFO']
+This page summarize the different resources that reference `bfo`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 1 resources,
+1 variants on the standard prefix were found: ['BFO'].
 
-## `idomal`
+## `idomal`: Malaria Ontology
 
-Identifiers for this prefix are given correctly in Malaria Ontology.
+Identifiers for this prefix are given incorrectly correctly in `idomal`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|

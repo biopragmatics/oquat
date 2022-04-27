@@ -1,10 +1,13 @@
-# ZFS
+# wwf.ecoregion: World Wildlife Fund Ecoregion
 
-The following 1 variants were found: ['WWF']
+This page summarize the different resources that reference `wwf.ecoregion`
+but use local unique identifiers that do not match the standard pattern of
+^AT\d+$. Of the 2 resources,
+1 variants on the standard prefix were found: ['WWF'].
 
-## `enm`
+## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given correctly in eNanoMapper Ontology.
+Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|
@@ -22,9 +25,9 @@ Identifiers for this prefix are given correctly in eNanoMapper Ontology.
 | `WWF:IM1304`    |              1 | [ENVO:01001627](https://bioregistry.io/ENVO:01001627) |
 | `WWF:IM1303`    |              1 | [ENVO:01001628](https://bioregistry.io/ENVO:01001628) |
 
-## `envo`
+## `envo`: Environment Ontology
 
-Identifiers for this prefix are given correctly in Environment Ontology.
+Identifiers for this prefix are given incorrectly correctly in `envo`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|

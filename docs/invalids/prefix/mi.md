@@ -1,10 +1,13 @@
-# Vario
+# mi: Molecular Interactions Controlled Vocabulary
 
-The following 3 variants were found: ['MI', 'PSI-MI', 'psi-mi']
+This page summarize the different resources that reference `mi`
+but use local unique identifiers that do not match the standard pattern of
+^\d{4}$. Of the 3 resources,
+3 variants on the standard prefix were found: ['MI', 'PSI-MI', 'psi-mi'].
 
-## `eco`
+## `eco`: Evidence ontology
 
-Identifiers for this prefix are given correctly in Evidence ontology.
+Identifiers for this prefix are given incorrectly correctly in `eco`.
 
 | external_xref    |   usages_count | usages                                            |
 |------------------|----------------|---------------------------------------------------|
@@ -12,17 +15,17 @@ Identifiers for this prefix are given correctly in Evidence ontology.
 | `PSI-MI:MI:0090` |              1 | [ECO:0000025](https://bioregistry.io/ECO:0000025) |
 | `PSI-MI:MI:0432` |              1 | [ECO:0000066](https://bioregistry.io/ECO:0000066) |
 
-## `mi`
+## `mi`: Molecular Interactions Controlled Vocabulary
 
-Identifiers for this prefix are given correctly in Molecular Interactions Controlled Vocabulary.
+Identifiers for this prefix are given incorrectly correctly in `mi`.
 
 | external_xref    |   usages_count | usages                                    |
 |------------------|----------------|-------------------------------------------|
 | `psi-mi:MI:1285` |              1 | [MI:1276](https://bioregistry.io/MI:1276) |
 
-## `vario`
+## `vario`: Variation Ontology
 
-Identifiers for this prefix are given correctly in Variation Ontology.
+Identifiers for this prefix are given incorrectly correctly in `vario`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

@@ -1,18 +1,21 @@
-# APO
+# pubchem.compound: PubChem CID
 
-The following 2 variants were found: ['PubChem', 'PubChem_Compound']
+This page summarize the different resources that reference `pubchem.compound`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 2 resources,
+2 variants on the standard prefix were found: ['PubChem', 'PubChem_Compound'].
 
-## `pw`
+## `pw`: Pathway ontology
 
-Identifiers for this prefix are given correctly in Pathway ontology.
+Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 | external_xref                                                          |   usages_count | usages                                                                                                                                            |
 |------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | `PubChem:https://pubchem.ncbi.nlm.nih.gov/compound/hydroflumethiazide` |              3 | [PW:0002377](https://bioregistry.io/PW:0002377), [PW:0002378](https://bioregistry.io/PW:0002378), [PW:0002379](https://bioregistry.io/PW:0002379) |
 
-## `xco`
+## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given correctly in Experimental condition ontology.
+Identifiers for this prefix are given incorrectly correctly in `xco`.
 
 | external_xref                |   usages_count | usages                                                                                                                                                  |
 |------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|

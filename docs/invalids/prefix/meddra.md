@@ -1,10 +1,13 @@
-# ATCC number
+# meddra: Medical Dictionary for Regulatory Activities Terminology
 
-The following 1 variants were found: ['MedDRA']
+This page summarize the different resources that reference `meddra`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 2 resources,
+1 variants on the standard prefix were found: ['MedDRA'].
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref            |   usages_count | usages                                                                                              |
 |--------------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -18,9 +21,9 @@ Identifiers for this prefix are given correctly in Experimental Factor Ontology.
 | `MedDRA:1001MedDRA:1009` |              1 | [http://www.ebi.ac.uk/efo/EFO:1000879](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000879) |
 | `MedDRA:10049MedDRA:100` |              1 | [http://www.ebi.ac.uk/efo/EFO:1001835](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001835) |
 
-## `mondo`
+## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given correctly in Monarch Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 | external_xref     |   usages_count | usages                                                |
 |-------------------|----------------|-------------------------------------------------------|

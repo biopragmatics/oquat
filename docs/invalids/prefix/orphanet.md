@@ -1,10 +1,13 @@
-# VFB
+# orphanet: Orphanet
 
-The following 1 variants were found: ['Orphanet']
+This page summarize the different resources that reference `orphanet`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['Orphanet'].
 
-## `mondo`
+## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given correctly in Monarch Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 | external_xref                |   usages_count | usages                                                                                                       |
 |------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|

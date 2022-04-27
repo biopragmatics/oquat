@@ -1,19 +1,22 @@
-# VT
+# doid: Human Disease Ontology
 
-The following 2 variants were found: ['DO', 'DOID']
+This page summarize the different resources that reference `doid`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 2 resources,
+2 variants on the standard prefix were found: ['DO', 'DOID'].
 
-## `doid`
+## `doid`: Human Disease Ontology
 
-Identifiers for this prefix are given correctly in Human Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `doid`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
 | `DO:wk`         |              1 | [DOID:0050178](https://bioregistry.io/DOID:0050178) |
 | `DO:lh`         |              1 | [DOID:462](https://bioregistry.io/DOID:462)         |
 
-## `mondo`
+## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given correctly in Monarch Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|

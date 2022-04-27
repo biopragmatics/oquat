@@ -1,10 +1,13 @@
-# miRBase
+# rgd: Rat Genome Database
 
-The following 2 variants were found: ['RGD', 'RGD ']
+This page summarize the different resources that reference `rgd`
+but use local unique identifiers that do not match the standard pattern of
+^\d{4,}$. Of the 7 resources,
+2 variants on the standard prefix were found: ['RGD', 'RGD '].
 
-## `hp`
+## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Human Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13,9 +16,9 @@ Identifiers for this prefix are given correctly in Human Phenotype Ontology.
 | `RGD:SJWang`    |              3 | [HP:0020182](https://bioregistry.io/HP:0020182), [HP:0020183](https://bioregistry.io/HP:0020183), [HP:0020184](https://bioregistry.io/HP:0020184)                                                                                                        |
 | `RGD:gth`       |              2 | [HP:0031421](https://bioregistry.io/HP:0031421), [HP:0031423](https://bioregistry.io/HP:0031423)                                                                                                                                                         |
 
-## `mmo`
+## `mmo`: Measurement method ontology
 
-Identifiers for this prefix are given correctly in Measurement method ontology.
+Identifiers for this prefix are given incorrectly correctly in `mmo`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -25,9 +28,9 @@ Identifiers for this prefix are given correctly in Measurement method ontology.
 | `RGD:SJL`       |              1 | [MMO:0000448](https://bioregistry.io/MMO:0000448)                                                                                                                                                                                                                  |
 | `RGD:GTH`       |              1 | [MMO:0000497](https://bioregistry.io/MMO:0000497)                                                                                                                                                                                                                  |
 
-## `mp`
+## `mp`: Mammalian Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Mammalian Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mp`.
 
 | external_xref       |   usages_count | usages                                                                                                                                                                                                                                                   |
 |---------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -36,26 +39,26 @@ Identifiers for this prefix are given correctly in Mammalian Phenotype Ontology.
 | `RGD:gthayman`      |              6 | [MP:0020437](https://bioregistry.io/MP:0020437), [MP:0031056](https://bioregistry.io/MP:0031056), [MP:0031057](https://bioregistry.io/MP:0031057), [MP:0031194](https://bioregistry.io/MP:0031194), [MP:0031195](https://bioregistry.io/MP:0031195), ... |
 | `RGD:slaulederkind` |              4 | [MP:0020382](https://bioregistry.io/MP:0020382), [MP:0031182](https://bioregistry.io/MP:0031182), [MP:0031183](https://bioregistry.io/MP:0031183), [MP:0031184](https://bioregistry.io/MP:0031184)                                                       |
 
-## `pw`
+## `pw`: Pathway ontology
 
-Identifiers for this prefix are given correctly in Pathway ontology.
+Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 | external_xref            |   usages_count | usages                                                                                                                                            |
 |--------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | `RGD:InHouse dictionary` |              3 | [PW:0000332](https://bioregistry.io/PW:0000332), [PW:0000646](https://bioregistry.io/PW:0000646), [PW:0000683](https://bioregistry.io/PW:0000683) |
 | `RGD:InHouse`            |              1 | [PW:0000684](https://bioregistry.io/PW:0000684)                                                                                                   |
 
-## `rs`
+## `rs`: Rat Strain Ontology
 
-Identifiers for this prefix are given correctly in Rat Strain Ontology.
+Identifiers for this prefix are given incorrectly correctly in `rs`.
 
 | external_xref         |   usages_count | usages                                          |
 |-----------------------|----------------|-------------------------------------------------|
 | `RGD:www.rgd.mcw.edu` |              1 | [RS:0001091](https://bioregistry.io/RS:0001091) |
 
-## `vt`
+## `vt`: Vertebrate trait ontology
 
-Identifiers for this prefix are given correctly in Vertebrate trait ontology.
+Identifiers for this prefix are given incorrectly correctly in `vt`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -65,9 +68,9 @@ Identifiers for this prefix are given correctly in Vertebrate trait ontology.
 | `RGD:ms`        |             18 | [VT:0002128](https://bioregistry.io/VT:0002128), [VT:0002295](https://bioregistry.io/VT:0002295), [VT:0002504](https://bioregistry.io/VT:0002504), [VT:0002726](https://bioregistry.io/VT:0002726), [VT:0002792](https://bioregistry.io/VT:0002792), ... |
 | `RGD :MS`       |              1 | [VT:0010265](https://bioregistry.io/VT:0010265)                                                                                                                                                                                                          |
 
-## `xco`
+## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given correctly in Experimental condition ontology.
+Identifiers for this prefix are given incorrectly correctly in `xco`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

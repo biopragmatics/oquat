@@ -1,10 +1,13 @@
-# OBI
+# agricola: Agricultural Online Access
 
-The following 2 variants were found: ['AGR', 'Agricola']
+This page summarize the different resources that reference `agricola`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 3 resources,
+2 variants on the standard prefix were found: ['AGR', 'Agricola'].
 
-## `chebi`
+## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given correctly in Chemical Entities of Biological Interest.
+Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 | external_xref      |   usages_count | usages                                                                                                                                                    |
 |--------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1102,9 +1105,9 @@ Identifiers for this prefix are given correctly in Chemical Entities of Biologic
 | `AGR:IND93043841`  |              1 | [CHEBI:9700](https://bioregistry.io/CHEBI:9700)                                                                                                           |
 | `AGR:IND92029567`  |              1 | [CHEBI:9947](https://bioregistry.io/CHEBI:9947)                                                                                                           |
 
-## `enm`
+## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given correctly in eNanoMapper Ontology.
+Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 | external_xref     |   usages_count | usages                                              |
 |-------------------|----------------|-----------------------------------------------------|
@@ -1115,9 +1118,9 @@ Identifiers for this prefix are given correctly in eNanoMapper Ontology.
 | `AGR:IND92003154` |              1 | [CHEBI:136644](https://bioregistry.io/CHEBI:136644) |
 | `AGR:IND43789627` |              1 | [CHEBI:136646](https://bioregistry.io/CHEBI:136646) |
 
-## `po`
+## `po`: Plant Ontology
 
-Identifiers for this prefix are given correctly in Plant Ontology.
+Identifiers for this prefix are given incorrectly correctly in `po`.
 
 | external_xref          |   usages_count | usages                                          |
 |------------------------|----------------|-------------------------------------------------|

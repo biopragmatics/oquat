@@ -1,10 +1,13 @@
-# LIPID_MAPS_class
+# omp: Ontology of Microbial Phenotypes
 
-The following 2 variants were found: ['OMP', 'OMp']
+This page summarize the different resources that reference `omp`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 1 resources,
+2 variants on the standard prefix were found: ['OMP', 'OMp'].
 
-## `omp`
+## `omp`: Ontology of Microbial Phenotypes
 
-Identifiers for this prefix are given correctly in Ontology of Microbial Phenotypes.
+Identifiers for this prefix are given incorrectly correctly in `omp`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

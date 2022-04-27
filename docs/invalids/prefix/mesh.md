@@ -1,10 +1,13 @@
-# wikipedia
+# mesh: Medical Subject Headings
 
-The following 3 variants were found: ['MESH', 'MSH', 'MeSH']
+This page summarize the different resources that reference `mesh`
+but use local unique identifiers that do not match the standard pattern of
+^(C|D)\d{6,9}$. Of the 15 resources,
+3 variants on the standard prefix were found: ['MESH', 'MSH', 'MeSH'].
 
-## `bao`
+## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given correctly in BioAssay Ontology.
+Identifiers for this prefix are given incorrectly correctly in `bao`.
 
 | external_xref              |   usages_count | usages                                                  |
 |----------------------------|----------------|---------------------------------------------------------|
@@ -15,9 +18,9 @@ Identifiers for this prefix are given correctly in BioAssay Ontology.
 | `MESH:A03.492.411.620.270` |              1 | [UBERON:0002114](https://bioregistry.io/UBERON:0002114) |
 | `MESH:A12.207.630`         |              1 | [UBERON:0002391](https://bioregistry.io/UBERON:0002391) |
 
-## `cl`
+## `cl`: Cell Ontology
 
-Identifiers for this prefix are given correctly in Cell Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cl`.
 
 | external_xref                              |   usages_count | usages                                                                                                                                            |
 |--------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -118,9 +121,9 @@ Identifiers for this prefix are given correctly in Cell Ontology.
 | `MESH:D06.472.317.525`                     |              1 | [CL:0002272](https://bioregistry.io/CL:0002272)                                                                                                   |
 | `MESH:A10.615.550.599`                     |              1 | [CL:0002336](https://bioregistry.io/CL:0002336)                                                                                                   |
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                        |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -131,25 +134,25 @@ Identifiers for this prefix are given correctly in Experimental Factor Ontology.
 | `MeSH:Q000633`  |              1 | [http://www.ebi.ac.uk/efo/EFO:0011061](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0011061)                                                                                                                                                                                                           |
 | `MeSH:DO14076`  |              1 | [http://www.ebi.ac.uk/efo/EFO:1001216](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001216)                                                                                                                                                                                                           |
 
-## `enm`
+## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given correctly in eNanoMapper Ontology.
+Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
 | `MSH:Q000401`   |              1 | [http://www.ebi.ac.uk/efo/EFO:0004352](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004352) |
 
-## `go`
+## `go`: Gene Ontology
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `MeSH:A.08.663` |              1 | [GO:0051402](https://bioregistry.io/GO:0051402) |
 
-## `hom`
+## `hom`: Homology Ontology
 
-Identifiers for this prefix are given correctly in Homology Ontology.
+Identifiers for this prefix are given incorrectly correctly in `hom`.
 
 | external_xref                       |   usages_count | usages                                                                                               |
 |-------------------------------------|----------------|------------------------------------------------------------------------------------------------------|
@@ -157,17 +160,17 @@ Identifiers for this prefix are given correctly in Homology Ontology.
 | `MeSH:Structural Homology, Protein` |              1 | [HOM:0000015](https://bioregistry.io/HOM:0000015)                                                    |
 | `MeSH:Chromosome Pairing`           |              1 | [HOM:0000047](https://bioregistry.io/HOM:0000047)                                                    |
 
-## `mmo`
+## `mmo`: Measurement method ontology
 
-Identifiers for this prefix are given correctly in Measurement method ontology.
+Identifiers for this prefix are given incorrectly correctly in `mmo`.
 
 | external_xref                                         |   usages_count | usages                                            |
 |-------------------------------------------------------|----------------|---------------------------------------------------|
 | `MESH:https://meshb.nlm.nih.gov/record/ui?ui=D009543` |              1 | [MMO:0000697](https://bioregistry.io/MMO:0000697) |
 
-## `mondo`
+## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given correctly in Monarch Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 | external_xref           |   usages_count | usages                                                |
 |-------------------------|----------------|-------------------------------------------------------|
@@ -176,9 +179,9 @@ Identifiers for this prefix are given correctly in Monarch Disease Ontology.
 | `MESH:D014253-modified` |              1 | [MONDO:0005995](https://bioregistry.io/MONDO:0005995) |
 | `MESH:D014323-modified` |              1 | [MONDO:0005998](https://bioregistry.io/MONDO:0005998) |
 
-## `mp`
+## `mp`: Mammalian Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Mammalian Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mp`.
 
 | external_xref                              |   usages_count | usages                                                                                                                                                                                                                                                   |
 |--------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -604,9 +607,9 @@ Identifiers for this prefix are given correctly in Mammalian Phenotype Ontology.
 | `MESH:D06.472.699.322.576.288`             |              1 | [MP:0003967](https://bioregistry.io/MP:0003967)                                                                                                                                                                                                          |
 | `MESH:D06.472.699.631.525.425`             |              1 | [MP:0003968](https://bioregistry.io/MP:0003968)                                                                                                                                                                                                          |
 
-## `pw`
+## `pw`: Pathway ontology
 
-Identifiers for this prefix are given correctly in Pathway ontology.
+Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 | external_xref                                                                                                     |   usages_count | usages                                                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -616,9 +619,9 @@ Identifiers for this prefix are given correctly in Pathway ontology.
 | `MeSH:MeSH descriptor`                                                                                            |              1 | [PW:0001414](https://bioregistry.io/PW:0001414)                                                                                                   |
 | `MeSH:http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?mode=&term=Neoplasms,+Nerve+Tissue&field=entry#TreeC04.557.580` |              1 | [PW:0001550](https://bioregistry.io/PW:0001550)                                                                                                   |
 
-## `ro`
+## `ro`: Relation Ontology
 
-Identifiers for this prefix are given correctly in Relation Ontology.
+Identifiers for this prefix are given incorrectly correctly in `ro`.
 
 | external_xref                       |   usages_count | usages                                                                                                       |
 |-------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -626,9 +629,9 @@ Identifiers for this prefix are given correctly in Relation Ontology.
 | `MeSH:Structural_Homology,_Protein` |              1 | [RO:HOM0000015](https://bioregistry.io/RO:HOM0000015)                                                        |
 | `MeSH:Chromosome_Pairing`           |              1 | [RO:HOM0000047](https://bioregistry.io/RO:HOM0000047)                                                        |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref                              |   usages_count | usages                                                                                                                                                                    |
 |--------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1019,9 +1022,9 @@ Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
 | `MESH:A08.186.854.253`                     |              1 | [UBERON:0035803](https://bioregistry.io/UBERON:0035803)                                                                                                                   |
 | `MESH:G06.535.166.330.100`                 |              1 | [UBERON:0036185](https://bioregistry.io/UBERON:0036185)                                                                                                                   |
 
-## `vt`
+## `vt`: Vertebrate trait ontology
 
-Identifiers for this prefix are given correctly in Vertebrate trait ontology.
+Identifiers for this prefix are given incorrectly correctly in `vt`.
 
 | external_xref                  |   usages_count | usages                                          |
 |--------------------------------|----------------|-------------------------------------------------|
@@ -1030,9 +1033,9 @@ Identifiers for this prefix are given correctly in Vertebrate trait ontology.
 | `MeSH:D12.776.049.790`         |              1 | [VT:0010037](https://bioregistry.io/VT:0010037) |
 | `MeSH:D12.644.276.374.500.800` |              1 | [VT:0010160](https://bioregistry.io/VT:0010160) |
 
-## `xco`
+## `xco`: Experimental condition ontology
 
-Identifiers for this prefix are given correctly in Experimental condition ontology.
+Identifiers for this prefix are given incorrectly correctly in `xco`.
 
 | external_xref                                                                                           |   usages_count | usages                                            |
 |---------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------|
@@ -1043,9 +1046,9 @@ Identifiers for this prefix are given correctly in Experimental condition ontolo
 | `MESH:https://www.ncbi.nlm.nih.gov/mesh/68011802`                                                       |              1 | [XCO:0000617](https://bioregistry.io/XCO:0000617) |
 | `MESH:https://www.ncbi.nlm.nih.gov/mesh/68016686`                                                       |              1 | [XCO:0000642](https://bioregistry.io/XCO:0000642) |
 
-## `zfa`
+## `zfa`: Zebrafish anatomy and development ontology
 
-Identifiers for this prefix are given correctly in Zebrafish anatomy and development ontology.
+Identifiers for this prefix are given incorrectly correctly in `zfa`.
 
 | external_xref   |   usages_count | usages                                            |
 |-----------------|----------------|---------------------------------------------------|

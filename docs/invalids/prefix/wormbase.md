@@ -1,52 +1,55 @@
-# FMA
+# wormbase: WormBase database of nematode biology
 
-The following 6 variants were found: ['WB', 'WB_REF', 'Wb', 'WormBase', 'Wormbase', 'wB']
+This page summarize the different resources that reference `wormbase`
+but use local unique identifiers that do not match the standard pattern of
+^WB[A-Z][a-z]+\d+$. Of the 9 resources,
+6 variants on the standard prefix were found: ['WB', 'WB_REF', 'Wb', 'WormBase', 'Wormbase', 'wB'].
 
-## `bto`
+## `bto`: BRENDA tissue / enzyme source
 
-Identifiers for this prefix are given correctly in BRENDA tissue / enzyme source.
+Identifiers for this prefix are given incorrectly correctly in `bto`.
 
 | external_xref                                              |   usages_count | usages                                            |
 |------------------------------------------------------------|----------------|---------------------------------------------------|
 | `WormBase:http://www.wormbase.org/`                        |              1 | [BTO:0003039](https://bioregistry.io/BTO:0003039) |
 | `Wormbase:https://wormbase.org//species/all/anatomy_term/` |              1 | [BTO:0006342](https://bioregistry.io/BTO:0006342) |
 
-## `dpo`
+## `dpo`: Drosophila Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Drosophila Phenotype Ontology.
-
-| external_xref   |   usages_count | usages                                              |
-|-----------------|----------------|-----------------------------------------------------|
-| `WB_REF:cgc467` |              1 | [FBcv:0000002](https://bioregistry.io/FBcv:0000002) |
-
-## `fbcv`
-
-Identifiers for this prefix are given correctly in FlyBase Controlled Vocabulary.
+Identifiers for this prefix are given incorrectly correctly in `dpo`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
 | `WB_REF:cgc467` |              1 | [FBcv:0000002](https://bioregistry.io/FBcv:0000002) |
 
-## `go`
+## `fbcv`: FlyBase Controlled Vocabulary
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `fbcv`.
+
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `WB_REF:cgc467` |              1 | [FBcv:0000002](https://bioregistry.io/FBcv:0000002) |
+
+## `go`: Gene Ontology
+
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref        |   usages_count | usages                                          |
 |----------------------|----------------|-------------------------------------------------|
 | `WB_REF:cgc467`      |              1 | [GO:0043052](https://bioregistry.io/GO:0043052) |
 | `WB_REF:wm2003ab740` |              1 | [GO:0043055](https://bioregistry.io/GO:0043055) |
 
-## `so`
+## `so`: Sequence types and features ontology
 
-Identifiers for this prefix are given correctly in Sequence types and features ontology.
+Identifiers for this prefix are given incorrectly correctly in `so`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `WB:ems`        |              1 | [SO:0000274](https://bioregistry.io/SO:0000274) |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref      |   usages_count | usages                                                  |
 |--------------------|----------------|---------------------------------------------------------|
@@ -54,9 +57,9 @@ Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
 | `WB:Paper00000653` |              1 | [UBERON:0000954](https://bioregistry.io/UBERON:0000954) |
 | `WB:rynl`          |              1 | [UBERON:0001016](https://bioregistry.io/UBERON:0001016) |
 
-## `wbbt`
+## `wbbt`: C. elegans Gross Anatomy Ontology
 
-Identifiers for this prefix are given correctly in C. elegans Gross Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `wbbt`.
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |--------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -87,9 +90,9 @@ Identifiers for this prefix are given correctly in C. elegans Gross Anatomy Onto
 | `WB:Paper00006002` |              1 | [WBbt:0007854](https://bioregistry.io/WBbt:0007854)                                                                                                                                                                                                                          |
 | `wB:rynl`          |              1 | [WBbt:0008445](https://bioregistry.io/WBbt:0008445)                                                                                                                                                                                                                          |
 
-## `wbls`
+## `wbls`: C. elegans development ontology
 
-Identifiers for this prefix are given correctly in C. elegans development ontology.
+Identifiers for this prefix are given incorrectly correctly in `wbls`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -99,9 +102,9 @@ Identifiers for this prefix are given correctly in C. elegans development ontolo
 | `WB:fr`         |             18 | [WBls:0000723](https://bioregistry.io/WBls:0000723), [WBls:0000726](https://bioregistry.io/WBls:0000726), [WBls:0000727](https://bioregistry.io/WBls:0000727), [WBls:0000728](https://bioregistry.io/WBls:0000728), [WBls:0000729](https://bioregistry.io/WBls:0000729), ... |
 | `WB:mb`         |             15 | [WBls:0000077](https://bioregistry.io/WBls:0000077), [WBls:0000079](https://bioregistry.io/WBls:0000079), [WBls:0000080](https://bioregistry.io/WBls:0000080), [WBls:0000081](https://bioregistry.io/WBls:0000081), [WBls:0000082](https://bioregistry.io/WBls:0000082), ... |
 
-## `wbphenotype`
+## `wbphenotype`: C. elegans phenotype
 
-Identifiers for this prefix are given correctly in C. elegans phenotype.
+Identifiers for this prefix are given incorrectly correctly in `wbphenotype`.
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                                                                                                             |
 |-----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

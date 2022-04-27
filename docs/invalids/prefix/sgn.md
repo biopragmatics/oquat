@@ -1,18 +1,21 @@
-# MaizeGDB
+# sgn: Sol Genomics Network
 
-The following 1 variants were found: ['SGN']
+This page summarize the different resources that reference `sgn`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 2 resources,
+1 variants on the standard prefix were found: ['SGN'].
 
-## `po`
+## `po`: Plant Ontology
 
-Identifiers for this prefix are given correctly in Plant Ontology.
+Identifiers for this prefix are given incorrectly correctly in `po`.
 
 | external_xref     |   usages_count | usages                                                                                           |
 |-------------------|----------------|--------------------------------------------------------------------------------------------------|
 | `SGN:Naama_Menda` |              2 | [PO:0008001](https://bioregistry.io/PO:0008001), [PO:0008002](https://bioregistry.io/PO:0008002) |
 
-## `to`
+## `to`: Plant Trait Ontology
 
-Identifiers for this prefix are given correctly in Plant Trait Ontology.
+Identifiers for this prefix are given incorrectly correctly in `to`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

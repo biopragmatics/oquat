@@ -1,10 +1,13 @@
-# FYPO
+# snomedct: SNOMED CT (International Edition)
 
-The following 2 variants were found: ['SNOMED', 'SNOMEDCT']
+This page summarize the different resources that reference `snomedct`
+but use local unique identifiers that do not match the standard pattern of
+^(\w+)?\d+$. Of the 2 resources,
+2 variants on the standard prefix were found: ['SNOMED', 'SNOMEDCT'].
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref         |   usages_count | usages                                                                                              |
 |-----------------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -12,9 +15,9 @@ Identifiers for this prefix are given correctly in Experimental Factor Ontology.
 | `SNOMEDCT:88039007 `  |              1 | [http://www.ebi.ac.uk/efo/EFO:0010721](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0010721) |
 | `SNOMEDCT: 274897005` |              1 | [http://www.ebi.ac.uk/efo/EFO:1001841](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001841) |
 
-## `omp`
+## `omp`: Ontology of Microbial Phenotypes
 
-Identifiers for this prefix are given correctly in Ontology of Microbial Phenotypes.
+Identifiers for this prefix are given incorrectly correctly in `omp`.
 
 | external_xref      |   usages_count | usages                                            |
 |--------------------|----------------|---------------------------------------------------|

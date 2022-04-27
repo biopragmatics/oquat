@@ -1,42 +1,45 @@
-# EMAPA
+# uberon: Uber Anatomy Ontology
 
-The following 1 variants were found: ['UBERON']
+This page summarize the different resources that reference `uberon`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 7 resources,
+1 variants on the standard prefix were found: ['UBERON'].
 
-## `bspo`
+## `bspo`: Biological Spatial Ontology
 
-Identifiers for this prefix are given correctly in Biological Spatial Ontology.
+Identifiers for this prefix are given incorrectly correctly in `bspo`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
 | `UBERON:cjm`    |              1 | [BSPO:0000126](https://bioregistry.io/BSPO:0000126) |
 
-## `enm`
+## `enm`: eNanoMapper Ontology
 
-Identifiers for this prefix are given correctly in eNanoMapper Ontology.
+Identifiers for this prefix are given incorrectly correctly in `enm`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
 | `UBERON:cjm`    |              1 | [UBERON:0006925](https://bioregistry.io/UBERON:0006925) |
 
-## `mmusdv`
+## `mmusdv`: Mouse Developmental Stages
 
-Identifiers for this prefix are given correctly in Mouse Developmental Stages.
+Identifiers for this prefix are given incorrectly correctly in `mmusdv`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
 | `UBERON:cjm`    |              1 | [MmusDv:0000036](https://bioregistry.io/MmusDv:0000036) |
 
-## `poro`
+## `poro`: Porifera Ontology
 
-Identifiers for this prefix are given correctly in Porifera Ontology.
+Identifiers for this prefix are given incorrectly correctly in `poro`.
 
 | external_xref   |   usages_count | usages                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------|
 | `UBERON:cjm`    |              2 | [PORO:0000044](https://bioregistry.io/PORO:0000044), [PORO:0000101](https://bioregistry.io/PORO:0000101) |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref      |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |--------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -53,17 +56,17 @@ Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
 | `UBERON:drseb`     |              1 | [UBERON:0019207](https://bioregistry.io/UBERON:0019207)                                                                                                                                                                                                                                          |
 | `UBERON:rc`        |              1 | [UBERON:0036015](https://bioregistry.io/UBERON:0036015)                                                                                                                                                                                                                                          |
 
-## `vsao`
+## `vsao`: Vertebrate Skeletal Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Vertebrate Skeletal Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `vsao`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `UBERON:cjm`    |              7 | [VSAO:0000076](https://bioregistry.io/VSAO:0000076), [VSAO:0000155](https://bioregistry.io/VSAO:0000155), [VSAO:0000156](https://bioregistry.io/VSAO:0000156), [VSAO:0000303](https://bioregistry.io/VSAO:0000303), [VSAO:0000304](https://bioregistry.io/VSAO:0000304), ... |
 
-## `zfa`
+## `zfa`: Zebrafish anatomy and development ontology
 
-Identifiers for this prefix are given correctly in Zebrafish anatomy and development ontology.
+Identifiers for this prefix are given incorrectly correctly in `zfa`.
 
 | external_xref    |   usages_count | usages                                                                                               |
 |------------------|----------------|------------------------------------------------------------------------------------------------------|

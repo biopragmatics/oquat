@@ -1,10 +1,13 @@
-# NCIm
+# ido: Infectious Disease Ontology
 
-The following 1 variants were found: ['IDO']
+This page summarize the different resources that reference `ido`
+but use local unique identifiers that do not match the standard pattern of
+^[0-9]+$. Of the 1 resources,
+1 variants on the standard prefix were found: ['IDO'].
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref     |   usages_count | usages                                                                                              |
 |-------------------|----------------|-----------------------------------------------------------------------------------------------------|

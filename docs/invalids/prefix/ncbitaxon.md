@@ -1,10 +1,13 @@
-# TAXRANK
+# ncbitaxon: NCBI organismal classification
 
-The following 1 variants were found: ['NCBITaxon']
+This page summarize the different resources that reference `ncbitaxon`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 2 resources,
+1 variants on the standard prefix were found: ['NCBITaxon'].
 
-## `taxrank`
+## `taxrank`: Taxonomic rank vocabulary
 
-Identifiers for this prefix are given correctly in Taxonomic rank vocabulary.
+Identifiers for this prefix are given incorrectly correctly in `taxrank`.
 
 | external_xref                |   usages_count | usages                                                    |
 |------------------------------|----------------|-----------------------------------------------------------|
@@ -37,9 +40,9 @@ Identifiers for this prefix are given correctly in Taxonomic rank vocabulary.
 | `NCBITaxon:subtribe`         |              1 | [TAXRANK:0000028](https://bioregistry.io/TAXRANK:0000028) |
 | `NCBITaxon:subkingdom`       |              1 | [TAXRANK:0000029](https://bioregistry.io/TAXRANK:0000029) |
 
-## `tto`
+## `tto`: Teleost taxonomy ontology
 
-Identifiers for this prefix are given correctly in Teleost taxonomy ontology.
+Identifiers for this prefix are given incorrectly correctly in `tto`.
 
 | external_xref       |   usages_count | usages                                            |
 |---------------------|----------------|---------------------------------------------------|

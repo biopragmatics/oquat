@@ -1,10 +1,13 @@
-# NCI Thesaurus
+# kegg: Kyoto Encyclopedia of Genes and Genomes
 
-The following 1 variants were found: ['KEGG']
+This page summarize the different resources that reference `kegg`
+but use local unique identifiers that do not match the standard pattern of
+^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$. Of the 7 resources,
+1 variants on the standard prefix were found: ['KEGG'].
 
-## `bao`
+## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given correctly in BioAssay Ontology.
+Identifiers for this prefix are given incorrectly correctly in `bao`.
 
 | external_xref   |   usages_count | usages                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------|
@@ -42,18 +45,18 @@ Identifiers for this prefix are given correctly in BioAssay Ontology.
 | `KEGG:05210`    |              1 | [DOID:9256](https://bioregistry.io/DOID:9256)                                                      |
 | `KEGG:04930`    |              1 | [DOID:9352](https://bioregistry.io/DOID:9352)                                                      |
 
-## `cco`
+## `cco`: Cell Cycle Ontology
 
-Identifiers for this prefix are given correctly in Cell Cycle Ontology.
+Identifiers for this prefix are given incorrectly correctly in `cco`.
 
 | external_xref   |   usages_count | usages                                                                                                                                            |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | `KEGG:00540`    |              3 | [GO:0008917](https://bioregistry.io/GO:0008917), [GO:0008918](https://bioregistry.io/GO:0008918), [GO:0008919](https://bioregistry.io/GO:0008919) |
 | `KEGG:2.1.1.4`  |              1 | [GO:0017096](https://bioregistry.io/GO:0017096)                                                                                                   |
 
-## `chebi`
+## `chebi`: Chemical Entities of Biological Interest
 
-Identifiers for this prefix are given correctly in Chemical Entities of Biological Interest.
+Identifiers for this prefix are given incorrectly correctly in `chebi`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -88,9 +91,9 @@ Identifiers for this prefix are given correctly in Chemical Entities of Biologic
 | `KEGG:C-5733`   |              1 | [CHEBI:183289](https://bioregistry.io/CHEBI:183289) |
 | `KEGG:C-8660`   |              1 | [CHEBI:189210](https://bioregistry.io/CHEBI:189210) |
 
-## `doid`
+## `doid`: Human Disease Ontology
 
-Identifiers for this prefix are given correctly in Human Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `doid`.
 
 | external_xref   |   usages_count | usages                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------|
@@ -129,9 +132,9 @@ Identifiers for this prefix are given correctly in Human Disease Ontology.
 | `KEGG:04930`    |              1 | [DOID:9352](https://bioregistry.io/DOID:9352)                                                      |
 | `KEGG:04940`    |              1 | [DOID:9744](https://bioregistry.io/DOID:9744)                                                      |
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -154,9 +157,9 @@ Identifiers for this prefix are given correctly in Experimental Factor Ontology.
 | `KEGG:05416`    |              1 | [http://www.ebi.ac.uk/efo/EFO:0009609](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009609) |
 | `KEGG:05212`    |              1 | [http://www.ebi.ac.uk/efo/EFO:1000359](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000359) |
 
-## `mondo`
+## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given correctly in Monarch Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|
@@ -195,9 +198,9 @@ Identifiers for this prefix are given correctly in Monarch Disease Ontology.
 | `KEGG:05131`    |              1 | [MONDO:0019345](https://bioregistry.io/MONDO:0019345) |
 | `KEGG:05214`    |              1 | [MONDO:0100342](https://bioregistry.io/MONDO:0100342) |
 
-## `pw`
+## `pw`: Pathway ontology
 
-Identifiers for this prefix are given correctly in Pathway ontology.
+Identifiers for this prefix are given incorrectly correctly in `pw`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|

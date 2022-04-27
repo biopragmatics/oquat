@@ -1,10 +1,13 @@
-# KEGG COMPOUND
+# emapa: Mouse Developmental Anatomy Ontology
 
-The following 1 variants were found: ['EMAPA']
+This page summarize the different resources that reference `emapa`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 2 resources,
+1 variants on the standard prefix were found: ['EMAPA'].
 
-## `mmusdv`
+## `mmusdv`: Mouse Developmental Stages
 
-Identifiers for this prefix are given correctly in Mouse Developmental Stages.
+Identifiers for this prefix are given incorrectly correctly in `mmusdv`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                    |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -37,9 +40,9 @@ Identifiers for this prefix are given correctly in Mouse Developmental Stages.
 | `EMAPA:TS26`    |              2 | [MmusDv:0000035](https://bioregistry.io/MmusDv:0000035), [MmusDv:0000035](https://bioregistry.io/MmusDv:0000035)                                                          |
 | `EMAPA:TS27`    |              2 | [MmusDv:0000036](https://bioregistry.io/MmusDv:0000036), [MmusDv:0000036](https://bioregistry.io/MmusDv:0000036)                                                          |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|

@@ -1,10 +1,13 @@
-# MONDO
+# umls: Unified Medical Language System Concept Unique Identifier
 
-The following 1 variants were found: ['UMLS']
+This page summarize the different resources that reference `umls`
+but use local unique identifiers that do not match the standard pattern of
+^C\d+$. Of the 2 resources,
+1 variants on the standard prefix were found: ['UMLS'].
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -97,9 +100,9 @@ Identifiers for this prefix are given correctly in Experimental Factor Ontology.
 | `UMLS:CN207484` |              1 | [http://www.ebi.ac.uk/efo/EFO:1002008](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1002008) |
 | `UMLS:CN580795` |              1 | [http://www.ebi.ac.uk/efo/EFO:1002049](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1002049) |
 
-## `mondo`
+## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given correctly in Monarch Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 | external_xref   |   usages_count | usages                                                |
 |-----------------|----------------|-------------------------------------------------------|

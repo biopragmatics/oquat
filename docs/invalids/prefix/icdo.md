@@ -1,10 +1,13 @@
-# OMIM
+# icdo: International Classification of Diseases for Oncology
 
-The following 2 variants were found: ['ICD-O', 'ICDO']
+This page summarize the different resources that reference `icdo`
+but use local unique identifiers that do not match the standard pattern of
+^[8-9]\d{3}(/[0-3])?$. Of the 7 resources,
+2 variants on the standard prefix were found: ['ICD-O', 'ICDO'].
 
-## `bao`
+## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given correctly in BioAssay Ontology.
+Identifiers for this prefix are given incorrectly correctly in `bao`.
 
 | external_xref   |   usages_count | usages                                        |
 |-----------------|----------------|-----------------------------------------------|
@@ -17,18 +20,18 @@ Identifiers for this prefix are given correctly in BioAssay Ontology.
 | `ICDO:M8970/3`  |              1 | [DOID:687](https://bioregistry.io/DOID:687)   |
 | `ICDO:M9500/3`  |              1 | [DOID:769](https://bioregistry.io/DOID:769)   |
 
-## `doid`
+## `doid`: Human Disease Ontology
 
-Identifiers for this prefix are given correctly in Human Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `doid`.
 
 | external_xref   |   usages_count | usages                                        |
 |-----------------|----------------|-----------------------------------------------|
 | `ICDO:8480/6`   |              1 | [DOID:3559](https://bioregistry.io/DOID:3559) |
 | `ICDO:8800/9`   |              1 | [DOID:7615](https://bioregistry.io/DOID:7615) |
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -37,18 +40,18 @@ Identifiers for this prefix are given correctly in Experimental Factor Ontology.
 | `ICDO:981-983`  |              1 | [http://www.ebi.ac.uk/efo/EFO:0004289](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0004289)                                                                                                      |
 | `ICDO:8000/6`   |              1 | [http://www.ebi.ac.uk/efo/EFO:0009709](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:0009709)                                                                                                      |
 
-## `hp`
+## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Human Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `ICD-O:M8272/0` |              1 | [HP:0002893](https://bioregistry.io/HP:0002893) |
 | `ICD-O:M9982/3` |              1 | [HP:0004828](https://bioregistry.io/HP:0004828) |
 
-## `mondo`
+## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given correctly in Monarch Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                              |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -60,18 +63,18 @@ Identifiers for this prefix are given correctly in Monarch Disease Ontology.
 | `ICDO:8010/6`   |              1 | [MONDO:0024879](https://bioregistry.io/MONDO:0024879)                                                                                                               |
 | `ICDO:8000/6`   |              1 | [MONDO:0024883](https://bioregistry.io/MONDO:0024883)                                                                                                               |
 
-## `mpath`
+## `mpath`: Mouse pathology ontology
 
-Identifiers for this prefix are given correctly in Mouse pathology ontology.
+Identifiers for this prefix are given incorrectly correctly in `mpath`.
 
 | external_xref    |   usages_count | usages                                        |
 |------------------|----------------|-----------------------------------------------|
 | `ICD-O:M-8900/0` |              1 | [MPATH:722](https://bioregistry.io/MPATH:722) |
 | `ICDO:M-8822/1`  |              1 | [MPATH:723](https://bioregistry.io/MPATH:723) |
 
-## `rdo`
+## `rdo`: RGD Disease_Ontology
 
-Identifiers for this prefix are given correctly in RGD Disease_Ontology.
+Identifiers for this prefix are given incorrectly correctly in `rdo`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

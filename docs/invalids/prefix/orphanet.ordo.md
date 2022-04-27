@@ -1,10 +1,13 @@
-# CAS
+# orphanet.ordo: Orphanet Rare Disease Ontology
 
-The following 1 variants were found: ['ORDO']
+This page summarize the different resources that reference `orphanet.ordo`
+but use local unique identifiers that do not match the standard pattern of
+^Orphanet(_|:)C?\d+$. Of the 4 resources,
+1 variants on the standard prefix were found: ['ORDO'].
 
-## `bao`
+## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given correctly in BioAssay Ontology.
+Identifiers for this prefix are given incorrectly correctly in `bao`.
 
 | external_xref   |   usages_count | usages                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------|
@@ -388,9 +391,9 @@ Identifiers for this prefix are given correctly in BioAssay Ontology.
 | `ORDO:2248`     |              1 | [DOID:9955](https://bioregistry.io/DOID:9955)                                                      |
 | `ORDO:168956`   |              1 | [DOID:999](https://bioregistry.io/DOID:999)                                                        |
 
-## `doid`
+## `doid`: Human Disease Ontology
 
-Identifiers for this prefix are given correctly in Human Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `doid`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2335,9 +2338,9 @@ Identifiers for this prefix are given correctly in Human Disease Ontology.
 | `ORDO:2248`     |              1 | [DOID:9955](https://bioregistry.io/DOID:9955)                                                                                                                                                                                                                                |
 | `ORDO:168956`   |              1 | [DOID:999](https://bioregistry.io/DOID:999)                                                                                                                                                                                                                                  |
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref   |   usages_count | usages                                                                                              |
 |-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -2355,9 +2358,9 @@ Identifiers for this prefix are given correctly in Experimental Factor Ontology.
 | `ORDO:431255`   |              1 | [http://www.ebi.ac.uk/efo/EFO:1001992](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001992) |
 | `ORDO:869`      |              1 | [http://www.ebi.ac.uk/efo/EFO:1001997](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001997) |
 
-## `rdo`
+## `rdo`: RGD Disease_Ontology
 
-Identifiers for this prefix are given correctly in RGD Disease_Ontology.
+Identifiers for this prefix are given incorrectly correctly in `rdo`.
 
 | external_xref   |   usages_count | usages                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------|

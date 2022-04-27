@@ -1,19 +1,22 @@
-# CALOHA
+# xao: Xenopus Anatomy Ontology
 
-The following 1 variants were found: ['XAO']
+This page summarize the different resources that reference `xao`
+but use local unique identifiers that do not match the standard pattern of
+^\d{7}$. Of the 3 resources,
+1 variants on the standard prefix were found: ['XAO'].
 
-## `go`
+## `go`: Gene Ontology
 
-Identifiers for this prefix are given correctly in Gene Ontology.
+Identifiers for this prefix are given incorrectly correctly in `go`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `XAO:00002785`  |              1 | [GO:0039019](https://bioregistry.io/GO:0039019) |
 | `XAO:00002000`  |              1 | [GO:0048793](https://bioregistry.io/GO:0048793) |
 
-## `uberon`
+## `uberon`: Uber Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `uberon`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                             |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -21,9 +24,9 @@ Identifiers for this prefix are given correctly in Uber Anatomy Ontology.
 | `XAO:curator`   |              2 | [UBERON:3010326](https://bioregistry.io/UBERON:3010326), [UBERON:3010404](https://bioregistry.io/UBERON:3010404)                                                                                                                   |
 | `XAO:curators`  |              1 | [UBERON:0009500](https://bioregistry.io/UBERON:0009500)                                                                                                                                                                            |
 
-## `xao`
+## `xao`: Xenopus Anatomy Ontology
 
-Identifiers for this prefix are given correctly in Xenopus Anatomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `xao`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

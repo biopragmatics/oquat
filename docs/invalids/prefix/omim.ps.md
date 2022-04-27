@@ -1,10 +1,13 @@
-# BSPO
+# omim.ps: OMIM Phenotypic Series
 
-The following 2 variants were found: ['OMIMPS', 'PS']
+This page summarize the different resources that reference `omim.ps`
+but use local unique identifiers that do not match the standard pattern of
+^PS\d+$. Of the 3 resources,
+2 variants on the standard prefix were found: ['OMIMPS', 'PS'].
 
-## `diseaseclass`
+## `diseaseclass`: Disease Class
 
-Identifiers for this prefix are given correctly in Disease Class.
+Identifiers for this prefix are given incorrectly correctly in `diseaseclass`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
@@ -101,9 +104,9 @@ Identifiers for this prefix are given correctly in Disease Class.
 | `PS:614328`     |              1 | [DC:0000674](https://bioregistry.io/DC:0000674) |
 | `PS:251279`     |              1 | [DC:0000676](https://bioregistry.io/DC:0000676) |
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -149,9 +152,9 @@ Identifiers for this prefix are given correctly in Experimental Factor Ontology.
 | `OMIMPS:108800` |              1 | [http://www.ebi.ac.uk/efo/EFO:1000825](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1000825)                                                                                                      |
 | `OMIMPS:606711` |              1 | [http://www.ebi.ac.uk/efo/EFO:1001510](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001510)                                                                                                      |
 
-## `mondo`
+## `mondo`: Monarch Disease Ontology
 
-Identifiers for this prefix are given correctly in Monarch Disease Ontology.
+Identifiers for this prefix are given incorrectly correctly in `mondo`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                              |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|

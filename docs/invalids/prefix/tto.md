@@ -1,19 +1,22 @@
-# PR
+# tto: Teleost taxonomy ontology
 
-The following 1 variants were found: ['TTO']
+This page summarize the different resources that reference `tto`
+but use local unique identifiers that do not match the standard pattern of
+^\d+$. Of the 2 resources,
+1 variants on the standard prefix were found: ['TTO'].
 
-## `tto`
+## `tto`: Teleost taxonomy ontology
 
-Identifiers for this prefix are given correctly in Teleost taxonomy ontology.
+Identifiers for this prefix are given incorrectly correctly in `tto`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                 |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `TTO:curator`   |             42 | [TTO:10000676](https://bioregistry.io/TTO:10000676), [TTO:10000677](https://bioregistry.io/TTO:10000677), [TTO:1001317](https://bioregistry.io/TTO:1001317), [TTO:1002747](https://bioregistry.io/TTO:1002747), [TTO:1003391](https://bioregistry.io/TTO:1003391), ... |
 | `TTO:PEM`       |              1 | [TTO:1007547](https://bioregistry.io/TTO:1007547)                                                                                                                                                                                                                      |
 
-## `vto`
+## `vto`: Vertebrate Taxonomy Ontology
 
-Identifiers for this prefix are given correctly in Vertebrate Taxonomy Ontology.
+Identifiers for this prefix are given incorrectly correctly in `vto`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

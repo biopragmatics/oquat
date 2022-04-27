@@ -1,10 +1,13 @@
-# PMC
+# icd10: International Classification of Diseases, 10th Revision
 
-The following 2 variants were found: ['ICD-10', 'ICD10']
+This page summarize the different resources that reference `icd10`
+but use local unique identifiers that do not match the standard pattern of
+^[A-Z]\d+(\.[-\d+])?$. Of the 3 resources,
+2 variants on the standard prefix were found: ['ICD-10', 'ICD10'].
 
-## `efo`
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given correctly in Experimental Factor Ontology.
+Identifiers for this prefix are given incorrectly correctly in `efo`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                   |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -302,17 +305,17 @@ Identifiers for this prefix are given correctly in Experimental Factor Ontology.
 | `ICD10:F40.10`  |              1 | [http://www.ebi.ac.uk/efo/EFO:1001917](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1001917)                                                                                                      |
 | `ICD10:N00.N08` |              1 | [http://www.ebi.ac.uk/efo/EFO:1002049](https://bioregistry.io/http://www.ebi.ac.uk/efo/EFO:1002049)                                                                                                      |
 
-## `hp`
+## `hp`: Human Phenotype Ontology
 
-Identifiers for this prefix are given correctly in Human Phenotype Ontology.
+Identifiers for this prefix are given incorrectly correctly in `hp`.
 
 | external_xref   |   usages_count | usages                                          |
 |-----------------|----------------|-------------------------------------------------|
 | `ICD-10:26.8`   |              1 | [HP:0011671](https://bioregistry.io/HP:0011671) |
 
-## `orphanet`
+## `orphanet`: Orphanet
 
-Identifiers for this prefix are given correctly in Orphanet.
+Identifiers for this prefix are given incorrectly correctly in `orphanet`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
