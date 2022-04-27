@@ -172,7 +172,7 @@ any prefix over 25 characters long.
         headers=["prefix", "sources", "count", "example_key", "example_curie"],
         tablefmt="github",
     )
-    UNKNOWNS.joinpath("index.md").write_text(text)
+    UNKNOWNS.joinpath("README.md").write_text(text)
 
 
 if __name__ == "__main__":

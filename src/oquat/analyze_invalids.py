@@ -61,14 +61,14 @@ def main():
     )
     rows = []
     for xref_norm_prefix, inner in xref_agg.items():
-        sources = ", ".join(f"[`{source}`](/source/{source})" for source in inner)
+        sources = ", ".join(f"[`{source}`](source/{source})" for source in inner)
         total = sum(len(d.values()) for d in inner.values())
         example_source = random.choice(list(inner))
         example_curie = random.choice(list(inner[example_source]))
         example_node = random.choice(list(inner[example_source][example_curie]))
         rows.append(
             (
-                f"[`{xref_norm_prefix}`](/prefix/{xref_norm_prefix})",
+                f"[`{xref_norm_prefix}`](prefix/{xref_norm_prefix})",
                 sources,
                 total,
                 "`" + ":".join(example_curie) + "`",
