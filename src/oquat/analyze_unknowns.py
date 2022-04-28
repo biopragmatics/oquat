@@ -96,7 +96,9 @@ def main():
         )
         unique_usages = sum(len(v) for v in source_to_curie_to_nodes.values())
         total_usages = sum(
-            len(curie_to_nodes.values()) for curie_to_nodes in source_to_curie_to_nodes.values()
+            len(nodes)
+            for curie_to_nodes in source_to_curie_to_nodes.values()
+            for nodes in curie_to_nodes.values()
         )
         example_source = random.choice(list(source_to_curie_to_nodes))
         example_curie = random.choice(list(source_to_curie_to_nodes[example_source]))
@@ -169,8 +171,8 @@ any prefix over 25 characters long.
             "sources",
             "unique_usages",
             "total_usages",
-            "example_key",
-            "example_curie",
+            "example_node",
+            "example_xref_curie",
         ],
         tablefmt="github",
     )
