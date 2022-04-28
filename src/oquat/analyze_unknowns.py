@@ -134,7 +134,7 @@ def main():
 
         summary_rows.append(
             (
-                f"[`{unknown_prefix}`](prefix/{unknown_prefix_norm})",
+                f"[`{unknown_prefix}`](prefix/{unknown_prefix})",
                 prefix_agg,
                 unique_usages,
                 total_usages,
