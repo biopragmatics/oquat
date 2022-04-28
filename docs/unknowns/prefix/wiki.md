@@ -1,0 +1,64 @@
+# `wiki`
+
+## go
+
+| curie             |   usages | nodes                                                   |
+|-------------------|----------|---------------------------------------------------------|
+| Wiki:Neuromelanin |        1 | [GO:0036489](http://purl.obolibrary.org/obo/GO_0036489) |
+
+## symp
+
+| curie                                                                        |   usages | nodes                                                                                                                                                                                                                                                                                                                |
+|------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| wiki:http://en.wikipedia.org/wiki/Hyperemia                                  |        6 | [SYMP:0000841](http://purl.obolibrary.org/obo/SYMP_0000841), [SYMP:0000842](http://purl.obolibrary.org/obo/SYMP_0000842), [SYMP:0000843](http://purl.obolibrary.org/obo/SYMP_0000843), [SYMP:0000844](http://purl.obolibrary.org/obo/SYMP_0000844), [SYMP:0000845](http://purl.obolibrary.org/obo/SYMP_0000845), ... |
+| wiki:http://en.wikipedia.org/wiki/Hypokinesia                                |        4 | [SYMP:0000858](http://purl.obolibrary.org/obo/SYMP_0000858), [SYMP:0000859](http://purl.obolibrary.org/obo/SYMP_0000859), [SYMP:0000860](http://purl.obolibrary.org/obo/SYMP_0000860), [SYMP:0000861](http://purl.obolibrary.org/obo/SYMP_0000861)                                                                   |
+| wiki:http://en.wikipedia.org/wiki/Jaundice                                   |        3 | [SYMP:0000870](http://purl.obolibrary.org/obo/SYMP_0000870), [SYMP:0000871](http://purl.obolibrary.org/obo/SYMP_0000871), [SYMP:0000872](http://purl.obolibrary.org/obo/SYMP_0000872)                                                                                                                                |
+| wiki:http://en.wikipedia.org/wiki/Rales                                      |        1 | [SYMP:0000118](http://purl.obolibrary.org/obo/SYMP_0000118)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Anomia                                     |        1 | [SYMP:0000214](http://purl.obolibrary.org/obo/SYMP_0000214)                                                                                                                                                                                                                                                          |
+| wiki:http://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=phlegm |        1 | [SYMP:0000353](http://purl.obolibrary.org/obo/SYMP_0000353)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Pneumonitis                                |        1 | [SYMP:0000354](http://purl.obolibrary.org/obo/SYMP_0000354)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Flushing_%28physiology%29                  |        1 | [SYMP:0000511](http://purl.obolibrary.org/obo/SYMP_0000511)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Exanthema                                  |        1 | [SYMP:0000629](http://purl.obolibrary.org/obo/SYMP_0000629)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Bradykinesia                               |        1 | [SYMP:0000673](http://purl.obolibrary.org/obo/SYMP_0000673)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Acute_%28medicine%29                       |        1 | [SYMP:0000675](http://purl.obolibrary.org/obo/SYMP_0000675)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Enteritis                                  |        1 | [SYMP:0000676](http://purl.obolibrary.org/obo/SYMP_0000676)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Expressive_aphasia                         |        1 | [SYMP:0000705](http://purl.obolibrary.org/obo/SYMP_0000705)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Infertility                                |        1 | [SYMP:0000712](http://purl.obolibrary.org/obo/SYMP_0000712)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Still_birth                                |        1 | [SYMP:0000849](http://purl.obolibrary.org/obo/SYMP_0000849)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Sclera                                     |        1 | [SYMP:0000850](http://purl.obolibrary.org/obo/SYMP_0000850)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Nasal_congestion                           |        1 | [SYMP:0000869](http://purl.obolibrary.org/obo/SYMP_0000869)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Otitis                                     |        1 | [SYMP:0000873](http://purl.obolibrary.org/obo/SYMP_0000873)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Hematoma                                   |        1 | [SYMP:0000874](http://purl.obolibrary.org/obo/SYMP_0000874)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Hematemesis                                |        1 | [SYMP:0019147](http://purl.obolibrary.org/obo/SYMP_0019147)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Diaphoresis                                |        1 | [SYMP:0019152](http://purl.obolibrary.org/obo/SYMP_0019152)                                                                                                                                                                                                                                                          |
+| wiki:http://en.wikipedia.org/wiki/Pneumonia                                  |        1 | [SYMP:0019168](http://purl.obolibrary.org/obo/SYMP_0019168)                                                                                                                                                                                                                                                          |
+
+## pato
+
+| curie                                              |   usages | nodes                                                                                                                                                                                                                                              |
+|----------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| wiki:http://en.wikipedia.org/wiki/Parity_(biology) |        4 | [PATO:0002369](http://purl.obolibrary.org/obo/PATO_0002369), [PATO:0002370](http://purl.obolibrary.org/obo/PATO_0002370), [PATO:0002371](http://purl.obolibrary.org/obo/PATO_0002371), [PATO:0002372](http://purl.obolibrary.org/obo/PATO_0002372) |
+
+## cl
+
+| curie                                                                 |   usages | nodes                                                   |
+|-----------------------------------------------------------------------|----------|---------------------------------------------------------|
+| Wiki:Decidualization&oldid=908981933#Endometrial_stromal_cells_(ESCs) |        1 | [CL:0002255](http://purl.obolibrary.org/obo/CL_0002255) |
+| Wiki:Mural_cell&oldid=930603194                                       |        1 | [CL:0008034](http://purl.obolibrary.org/obo/CL_0008034) |
+| Wiki:Decidualization&oldid=908981933                                  |        1 | [CL:2000002](http://purl.obolibrary.org/obo/CL_2000002) |
+
+## envo
+
+| curie                                                     |   usages | nodes                                                         |
+|-----------------------------------------------------------|----------|---------------------------------------------------------------|
+| wiki:http://wasg.iinet.net.au/terminol.html               |        1 | [ENVO:00000321](http://purl.obolibrary.org/obo/ENVO_00000321) |
+| wiki:http\://en.wikipedia.org/wiki/Somma                  |        1 | [ENVO:00000350](http://purl.obolibrary.org/obo/ENVO_00000350) |
+| wiki:http\://en.wikipedia.org/wiki/Volcanic_arc           |        1 | [ENVO:00000352](http://purl.obolibrary.org/obo/ENVO_00000352) |
+| wiki:http://www.webref.org/geology/g/geothermal_field.htm |        1 | [ENVO:00000373](http://purl.obolibrary.org/obo/ENVO_00000373) |
+
+## so
+
+| curie                                               |   usages | nodes                                                   |
+|-----------------------------------------------------|----------|---------------------------------------------------------|
+| WIKI:https://en.wikipedia.org/wiki/Allele_frequency |        1 | [SO:0002119](http://purl.obolibrary.org/obo/SO_0002119) |
+

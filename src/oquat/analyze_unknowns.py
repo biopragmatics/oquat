@@ -5,10 +5,11 @@ import random
 from collections import defaultdict
 from operator import itemgetter
 
+from bioregistry.utils import norm
 from tabulate import tabulate
 from tqdm import tqdm
 
-from oquat.large_scale_analysis import DOCS, RESULTS
+from oquat.large_scale_analysis import DOCS, RESULTS, url_md
 
 UNKNOWNS = DOCS.joinpath("unknowns")
 UNKNOWNS.mkdir(exist_ok=True, parents=True)
@@ -26,40 +27,46 @@ KEYS = [
 
 def main():
     """Analyze unknown prefixes."""
-    prefix_agg = defaultdict(dict)
+    prefix_agg = defaultdict(lambda: defaultdict(lambda: defaultdict(set)))
     source_agg = defaultdict(dict)
     for path in RESULTS.glob("*.json"):
         source = path.stem
         for results in json.loads(path.read_text()).values():
             for key in KEYS:
-                for unknown_prefix, usages in results[key]["unknown_prefixes"].items():
+                for unknown_prefix, node_to_curie in results[key]["unknown_prefixes"].items():
                     if (
                         " " in unknown_prefix
                         or "www." in unknown_prefix
                         or len(unknown_prefix) > 20
                     ):
                         continue  # lots of garbage
-                    prefix_agg[unknown_prefix][source] = usages
-                    source_agg[source][unknown_prefix] = usages
+                    source_agg[source][unknown_prefix] = node_to_curie
+
+                    unknown_prefix_norm = norm(unknown_prefix)
+                    unknown_prefix_norm = (
+                        unknown_prefix_norm.replace("/", "_")
+                        .replace(".", "_")
+                        .replace("[", "")
+                        .replace("(", "")
+                        .replace(")", "")
+                    )
+                    for node, curie in node_to_curie.items():
+                        prefix_agg[unknown_prefix_norm][source][curie].add(node)
 
     source_it = tqdm(source_agg.items(), desc="Generating source pages", unit="source")
     for source, counts in source_it:
         source_path = SOURCES.joinpath(f"{source}.md")
         source_text = f"# {source}\n\n"
-        for unknown_prefix, usages in counts.items():
+        for unknown_prefix, node_to_curie in counts.items():
             dd = defaultdict(set)
-            for node, curie in usages.items():
-                dd[curie].add(
-                    node.removeprefix("http://purl.obolibrary.org/obo/").replace("_", ":")
-                )
+            for node, curie in node_to_curie.items():
+                dd[curie].add(node)
             rows = [
                 (
                     curie,
                     len(nodes),
-                    ", ".join(
-                        f"[{node}](https://bioregistry.io/{node})" for node in sorted(nodes)[:15]
-                    )
-                    + ("" if len(nodes) < 15 else ", ..."),
+                    ", ".join(url_md(node) for node in sorted(nodes)[:5])
+                    + ("" if len(nodes) < 5 else ", ..."),
                 )
                 for curie, nodes in dd.items()
             ]
@@ -80,44 +87,31 @@ def main():
 
     summary_rows = []
     prefix_it = tqdm(prefix_agg.items(), desc="Generating unknown prefix pages", unit="prefix")
-    for unknown_prefix, counts in prefix_it:
-        unknown_prefix_norm = (
-            unknown_prefix.replace("/", "_")
-            .replace(".", "_")
-            .replace("[", "")
-            .replace("(", "")
-            .replace(")", "")
-        )
-        if not unknown_prefix_norm:
+    for unknown_prefix, source_to_curie_to_nodes in prefix_it:
+        if not unknown_prefix:
             continue
-
         prefix_it.set_postfix(prefix=unknown_prefix)
-        prefix_agg = ", ".join(f"[`{source}`](source/{source})" for source in sorted(counts))
-        total_count = sum(len(v) for v in counts.values())
-        example_source = random.choice(list(counts))
-        example_key = random.choice(list(counts[example_source]))
-        example_curie = counts[example_source][example_key]
+        prefix_agg = ", ".join(
+            f"[`{source}`](source/{source})" for source in sorted(source_to_curie_to_nodes)
+        )
+        unique_usages = sum(len(v) for v in source_to_curie_to_nodes.values())
+        total_usages = sum(
+            len(curie_to_nodes.values()) for curie_to_nodes in source_to_curie_to_nodes.values()
+        )
+        example_source = random.choice(list(source_to_curie_to_nodes))
+        example_curie = random.choice(list(source_to_curie_to_nodes[example_source]))
+        example_node = random.choice(list(source_to_curie_to_nodes[example_source][example_curie]))
 
         prefix_text = f"# `{unknown_prefix}`\n\n"
-        for source, usages in counts.items():
-            # from rich import print
-            # print(usages)
-            # raise
-            dd = defaultdict(set)
-            for node, curie in usages.items():
-                dd[curie].add(
-                    node.removeprefix("http://purl.obolibrary.org/obo/").replace("_", ":")
-                )
+        for source, curie_to_nodes in source_to_curie_to_nodes.items():
             rows = [
                 (
                     curie,
                     len(nodes),
-                    ", ".join(
-                        f"[{node}](https://bioregistry.io/{node})" for node in sorted(nodes)[:15]
-                    )
-                    + ("" if len(nodes) < 15 else ", ..."),
+                    ", ".join(url_md(node) for node in sorted(nodes)[:5])
+                    + ("" if len(nodes) < 5 else ", ..."),
                 )
-                for curie, nodes in dd.items()
+                for curie, nodes in curie_to_nodes.items()
             ]
             rows = sorted(
                 rows,
@@ -133,15 +127,16 @@ def main():
             )
             prefix_text += "\n\n"
 
-        prefix_path = PREFIXES.joinpath(f"{unknown_prefix_norm}.md")
+        prefix_path = PREFIXES.joinpath(f"{unknown_prefix}.md")
         prefix_path.write_text(prefix_text)
 
         summary_rows.append(
             (
                 f"[`{unknown_prefix}`](prefix/{unknown_prefix_norm})",
                 prefix_agg,
-                total_count,
-                f"[{example_key}]({example_key})",
+                unique_usages,
+                total_usages,
+                f"[{example_node}]({example_node})",
                 f"`{example_curie}`",
             )
         )
@@ -169,7 +164,14 @@ any prefix over 25 characters long.
 
     text += tabulate(
         summary_rows,
-        headers=["prefix", "sources", "count", "example_key", "example_curie"],
+        headers=[
+            "prefix",
+            "sources",
+            "unique_usages",
+            "total_usages",
+            "example_key",
+            "example_curie",
+        ],
         tablefmt="github",
     )
     UNKNOWNS.joinpath("README.md").write_text(text)

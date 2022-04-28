@@ -2,7 +2,7 @@
 
 ## pato
 
-| curie                         |   usages | nodes                                               |
-|-------------------------------|----------|-----------------------------------------------------|
-| freedictionary:freedictionary |        1 | [PATO:0002445](https://bioregistry.io/PATO:0002445) |
+| curie                         |   usages | nodes                                                       |
+|-------------------------------|----------|-------------------------------------------------------------|
+| freedictionary:freedictionary |        1 | [PATO:0002445](http://purl.obolibrary.org/obo/PATO_0002445) |
 

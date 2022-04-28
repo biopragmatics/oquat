@@ -2,7 +2,7 @@
 
 ## `SUBSET_SIREN`
 
-| curie              |   usages | nodes                                                   |
-|--------------------|----------|---------------------------------------------------------|
-| SUBSET_SIREN:F1702 |        1 | [FIDEO:00000028](https://bioregistry.io/FIDEO:00000028) |
+| curie              |   usages | nodes                                                           |
+|--------------------|----------|-----------------------------------------------------------------|
+| SUBSET_SIREN:F1702 |        1 | [FIDEO:00000028](http://purl.obolibrary.org/obo/FIDEO_00000028) |
 

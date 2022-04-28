@@ -1,9 +1,0 @@
-# `Encyclopedia.com`
-
-## bto
-
-| curie                                         |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|-----------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Encyclopedia.com:http://www.encyclopedia.com/ |        8 | [BTO:0004597](https://bioregistry.io/BTO:0004597), [BTO:0004650](https://bioregistry.io/BTO:0004650), [BTO:0004651](https://bioregistry.io/BTO:0004651), [BTO:0004652](https://bioregistry.io/BTO:0004652), [BTO:0004653](https://bioregistry.io/BTO:0004653), [BTO:0004658](https://bioregistry.io/BTO:0004658), [BTO:0004673](https://bioregistry.io/BTO:0004673), [BTO:0004674](https://bioregistry.io/BTO:0004674) |
-| Encyclopedia.com:http://www.encyclopedia.com  |        2 | [BTO:0005739](https://bioregistry.io/BTO:0005739), [BTO:0006100](https://bioregistry.io/BTO:0006100)                                                                                                                                                                                                                                                                                                                   |
-

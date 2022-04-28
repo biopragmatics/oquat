@@ -2,8 +2,8 @@
 
 ## `GOC`
 
-| curie     |   usages | nodes                                               |
-|-----------|----------|-----------------------------------------------------|
-| GOC:cilia |        1 | [CLAO:0001189](https://bioregistry.io/CLAO:0001189) |
-| GOC:kmv   |        1 | [CLAO:0001212](https://bioregistry.io/CLAO:0001212) |
+| curie     |   usages | nodes                                                       |
+|-----------|----------|-------------------------------------------------------------|
+| GOC:cilia |        1 | [CLAO:0001189](http://purl.obolibrary.org/obo/CLAO_0001189) |
+| GOC:kmv   |        1 | [CLAO:0001212](http://purl.obolibrary.org/obo/CLAO_0001212) |
 

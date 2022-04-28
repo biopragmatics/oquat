@@ -1,0 +1,12 @@
+# `wbpaper`
+
+## wbbt
+
+| curie            |   usages | nodes                                                                                                                                                                                                                                                                                                                |
+|------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| WBPaper:00038216 |      171 | [WBbt:0003670](http://purl.obolibrary.org/obo/WBbt_0003670), [WBbt:0003672](http://purl.obolibrary.org/obo/WBbt_0003672), [WBbt:0003681](http://purl.obolibrary.org/obo/WBbt_0003681), [WBbt:0004062](http://purl.obolibrary.org/obo/WBbt_0004062), [WBbt:0004292](http://purl.obolibrary.org/obo/WBbt_0004292), ... |
+| WBPaper:00000653 |       12 | [WBbt:0003628](http://purl.obolibrary.org/obo/WBbt_0003628), [WBbt:0003629](http://purl.obolibrary.org/obo/WBbt_0003629), [WBbt:0003630](http://purl.obolibrary.org/obo/WBbt_0003630), [WBbt:0003631](http://purl.obolibrary.org/obo/WBbt_0003631), [WBbt:0003633](http://purl.obolibrary.org/obo/WBbt_0003633), ... |
+| WBPaper:00000938 |        6 | [WBbt:0005371](http://purl.obolibrary.org/obo/WBbt_0005371), [WBbt:0005372](http://purl.obolibrary.org/obo/WBbt_0005372), [WBbt:0005447](http://purl.obolibrary.org/obo/WBbt_0005447), [WBbt:0005463](http://purl.obolibrary.org/obo/WBbt_0005463), [WBbt:0005464](http://purl.obolibrary.org/obo/WBbt_0005464), ... |
+| WBpaper:00038216 |        6 | [WBbt:0004583](http://purl.obolibrary.org/obo/WBbt_0004583), [WBbt:0008115](http://purl.obolibrary.org/obo/WBbt_0008115), [WBbt:0008596](http://purl.obolibrary.org/obo/WBbt_0008596), [WBbt:0008597](http://purl.obolibrary.org/obo/WBbt_0008597), [WBbt:0008598](http://purl.obolibrary.org/obo/WBbt_0008598), ... |
+| WBPaper:00044848 |        1 | [WBbt:0008609](http://purl.obolibrary.org/obo/WBbt_0008609)                                                                                                                                                                                                                                                          |
+
