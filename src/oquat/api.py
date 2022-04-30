@@ -11,7 +11,7 @@ from collections import defaultdict
 from dataclasses import dataclass
 from operator import itemgetter
 from pathlib import Path
-from typing import Any, DefaultDict, Optional, Union
+from typing import Any, DefaultDict, Dict, List, Optional, Set, Union
 
 import bioregistry
 import click
@@ -56,10 +56,10 @@ class ResultPack(pydantic.BaseModel):
     """A set of results for CURIE analysis."""
 
     label: str
-    unknown_prefixes: dict[str, dict[str, str]]
-    noncanonical_prefixes: dict[str, dict[str, str]]
-    malformed_curies: dict[str, list[str]]
-    invalid_luids: dict[str, list[str]]
+    unknown_prefixes: Dict[str, Dict[str, str]]
+    noncanonical_prefixes: Dict[str, Dict[str, str]]
+    malformed_curies: Dict[str, List[str]]
+    invalid_luids: Dict[str, List[str]]
 
     def _malformed_curies_table(self):
         bvi = [
@@ -169,8 +169,8 @@ class NoParsableURIs(ValueError):
 class AnalysisResults:
     """Results from analysis and messages from the journey."""
 
-    results: dict[str, Results]
-    messages: list[str]
+    results: Dict[str, Results]
+    messages: List[str]
 
 
 def analyze_by_prefix(
@@ -215,7 +215,7 @@ class MissingGraphIRI(KeyError):
 
 def analyze_graphs(
     graph_document: GraphDocument, *, iri_filter: Optional[str] = None
-) -> dict[str, Results]:
+) -> Dict[str, Results]:
     """Analyze an ontology that's pre-parsed into an OBO graph."""
     it = (analyze_graph(graph, iri_filter=iri_filter) for graph in graph_document.graphs)
     return {results.graph_id: results for results in it}
@@ -223,20 +223,20 @@ def analyze_graphs(
 
 def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
     """Analyze a single graph."""
-    node_xref_unknown_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
-    node_xref_noncanonical_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
-    node_xref_malformed_curies: DefaultDict[str, set[str]] = defaultdict(set)
-    node_xref_invalid_luids: DefaultDict[str, set[str]] = defaultdict(set)
+    node_xref_unknown_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
+    node_xref_noncanonical_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
+    node_xref_malformed_curies: DefaultDict[str, Set[str]] = defaultdict(set)
+    node_xref_invalid_luids: DefaultDict[str, Set[str]] = defaultdict(set)
 
-    prov_xref_unknown_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
-    prov_xref_noncanonical_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
-    prov_xref_malformed_curies: DefaultDict[str, set[str]] = defaultdict(set)
-    prov_xref_invalid_luids: DefaultDict[str, set[str]] = defaultdict(set)
+    prov_xref_unknown_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
+    prov_xref_noncanonical_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
+    prov_xref_malformed_curies: DefaultDict[str, Set[str]] = defaultdict(set)
+    prov_xref_invalid_luids: DefaultDict[str, Set[str]] = defaultdict(set)
 
-    syn_xref_unknown_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
-    syn_xref_noncanonical_prefixes: DefaultDict[str, dict[str, str]] = defaultdict(dict)
-    syn_xref_malformed_curies: DefaultDict[str, set[str]] = defaultdict(set)
-    syn_xref_invalid_luids: DefaultDict[str, set[str]] = defaultdict(set)
+    syn_xref_unknown_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
+    syn_xref_noncanonical_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
+    syn_xref_malformed_curies: DefaultDict[str, Set[str]] = defaultdict(set)
+    syn_xref_invalid_luids: DefaultDict[str, Set[str]] = defaultdict(set)
 
     # this is the URI for the ontology, e.g. "http://purl.obolibrary.org/obo/go.owl"
     graph_id = graph.id
@@ -244,7 +244,6 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
         raise MissingGraphIRI
 
     # This contains metadata for the graph
-    graph_meta = graph.meta
     version = graph.version_iri
 
     for node in graph.nodes:
@@ -266,7 +265,6 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
                 node_xref_invalid_luids,
             )
 
-        definition = node_meta.definition
         definition_xrefs = node_meta.definition and node_meta.definition.xrefs
         for prov_xref_curie in definition_xrefs or []:
             _aggregate_curie_issues(
@@ -324,7 +322,7 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
     )
 
 
-def _canonicalize_dict(dd: DefaultDict[str, set[str]]) -> dict[str, list[str]]:
+def _canonicalize_dict(dd: DefaultDict[str, Set[str]]) -> Dict[str, List[str]]:
     return {k: sorted(v) for k, v in dd.items()}
 
 

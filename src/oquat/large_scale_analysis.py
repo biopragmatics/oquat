@@ -157,10 +157,10 @@ OBO_PREFIX = "http://purl.obolibrary.org/obo/"
 def url_md(s: str) -> str:
     """Convert a URL to markdown link."""
     if s.startswith(OBO_PREFIX):
-        short = s.removeprefix(OBO_PREFIX).replace("_", ":")
+        short = s[len(OBO_PREFIX) :].replace("_", ":")
         return f"[{short}]({s})"
     if s.startswith("http://www.ebi.ac.uk/efo/EFO_"):
-        short = s.removeprefix("http://www.ebi.ac.uk/efo/").replace("_", ":")
+        short = s[len("http://www.ebi.ac.uk/efo/") :].replace("_", ":")
         return f"[{short}]({s})"
     return f"[{s}]({s})"
 
