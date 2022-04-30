@@ -17,11 +17,11 @@ jobs:
         run: robot --version
       - name: Install dependencies
         run: |
-          pip install .
+          python -m pip install .
       - name: Create local changes
         id: update
         run: |
-          oquat lfa -f
+          python -m oquat.large_scale_analysis -f
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
