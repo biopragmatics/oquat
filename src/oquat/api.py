@@ -11,7 +11,7 @@ from collections import defaultdict
 from dataclasses import dataclass
 from operator import itemgetter
 from pathlib import Path
-from typing import Any, DefaultDict, Optional, Union, Dict, List
+from typing import Any, DefaultDict, Dict, List, Optional, Union
 
 import bioregistry
 import click
@@ -244,7 +244,6 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
         raise MissingGraphIRI
 
     # This contains metadata for the graph
-    graph_meta = graph.meta
     version = graph.version_iri
 
     for node in graph.nodes:
@@ -266,7 +265,6 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
                 node_xref_invalid_luids,
             )
 
-        definition = node_meta.definition
         definition_xrefs = node_meta.definition and node_meta.definition.xrefs
         for prov_xref_curie in definition_xrefs or []:
             _aggregate_curie_issues(
