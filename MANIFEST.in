@@ -1,11 +1,13 @@
 graft src
 graft tests
 prune scripts
+prune tests/.pytest_cache
 prune notebooks
 prune results
 prune docs/unknowns
 prune docs/invalids
 
+recursive-include docs *.md
 recursive-include docs/source *.py
 recursive-include docs/source *.rst
 recursive-include docs/source *.png
