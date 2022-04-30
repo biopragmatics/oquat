@@ -110,18 +110,14 @@ def lsa(force: bool, minimum: Optional[str]):
             except subprocess.CalledProcessError:
                 failure_text = f"{prefix} could not be parsed by ROBOT"
                 _failure(failure_text)
-            except TypeError as e:
-                failure_text = f"{prefix} unknown error during parsing: {e}"
-                _failure(failure_text)
-                raise
             except MissingGraphIRI:
                 failure_text = f"{prefix} missing graph ID"
                 _failure(failure_text)
             except NoParsableURIs:
                 failure_text = f"{prefix} None of the URIs could be parsed"
                 _failure(failure_text)
-            except ValueError as e:
-                failure_text = f"{prefix} got a value error: {e}"
+            except (ValueError, TypeError, RuntimeError) as e:
+                failure_text = f"{prefix} got an error: {e}"
                 _failure(failure_text)
             else:
                 result = analysis_results.results
