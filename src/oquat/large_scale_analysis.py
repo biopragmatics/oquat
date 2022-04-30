@@ -120,6 +120,9 @@ def lsa(force: bool, minimum: Optional[str]):
             except NoParsableURIs:
                 failure_text = f"{prefix} None of the URIs could be parsed"
                 _failure(failure_text)
+            except ValueError as e:
+                failure_text = f"{prefix} got a value error: {e}"
+                _failure(failure_text)
             else:
                 result = analysis_results.results
 
@@ -145,6 +148,11 @@ def lsa(force: bool, minimum: Optional[str]):
     FAILURES_PATH.write_text("\n".join(failures))
     # template = environment.get_template("invalid_xrefs.md")
     # OUTPUT.write_text(template.render(results=results, bioregistry=bioregistry))
+
+    from . import analyze_invalids, analyze_unknowns
+
+    analyze_invalids.main()
+    analyze_unknowns.main()
 
 
 OBO_PREFIX = "http://purl.obolibrary.org/obo/"

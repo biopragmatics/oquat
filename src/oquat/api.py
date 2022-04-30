@@ -3,11 +3,9 @@
 """Ontology analysis."""
 
 import dataclasses
-import json.decoder
 import logging
 import random
 import re
-import subprocess
 import sys
 from collections import defaultdict
 from dataclasses import dataclass
@@ -19,15 +17,14 @@ import bioregistry
 import click
 import pydantic
 import pystow
-import requests
+from bioontologies import get_obograph_by_prefix
+from bioontologies.obograph import Graph, GraphDocument
+from bioontologies.robot import convert_to_obograph_local, convert_to_obograph_remote
 from more_click import verbose_option
 from pydantic import BaseModel
 from pydantic.json import ENCODERS_BY_TYPE
 from tabulate import tabulate
 from tqdm import tqdm
-
-from .robot import robot_parse_json_local, robot_parse_json_remote
-from .struct.obograph import Graph, Graphs
 
 logger = logging.getLogger(__name__)
 
@@ -180,68 +177,17 @@ def analyze_by_prefix(
     prefix: str, *, cache: bool = False, iri_filter: Optional[str] = None
 ) -> AnalysisResults:
     """Analyze an ontology based on a given Bioregistry prefix."""
-    if prefix != bioregistry.normalize_prefix(prefix):
-        raise ValueError("this function requires bioregistry canonical prefixes")
-
-    messages = []
-
-    def _error(text: str) -> None:
-        messages.append(text)
-        secho(text, fg="red")
-
-    json_iri = bioregistry.get_json_download(prefix)
-    if json_iri is not None:
-        if cache:
-            graphs = pystow.ensure_json("bio", "obofoundry", url=json_iri)
-            return AnalysisResults(
-                results=analyze_graphs(graphs, iri_filter=iri_filter),
-                messages=messages,
-            )
-        try:
-            graphs = requests.get(json_iri).json()
-        except json.decoder.JSONDecodeError:
-            _error(f"{prefix} json could not be parsed at {json_iri}. Falling back to OWL")
-        else:
-            return AnalysisResults(
-                results=analyze_graphs(graphs, iri_filter=iri_filter),
-                messages=messages,
-            )
-
-    _owl_iri = bioregistry.get_owl_download(prefix)
-    _obo_iri = bioregistry.get_obo_download(prefix)
-    for iri in [_owl_iri, _obo_iri]:
-        if iri is None:
-            continue
-        if cache:
-            module = pystow.module("bio", "obofoundry", prefix)
-            download_path: Path = module.ensure(url=iri)
-            json_path: Path = module.join(name=download_path.name).with_suffix(".json")
-            parse_results = robot_parse_json_local(download_path, json_path=json_path)
-            return AnalysisResults(
-                results=analyze_graphs(parse_results.graphs, iri_filter=iri_filter),
-                messages=messages,
-            )
-        try:
-            parse_results = robot_parse_json_remote(iri)
-        except subprocess.CalledProcessError:
-            _error(f"{prefix} remote data at {iri} could not be parsed")
-            continue
-        else:
-            if parse_results.messages:
-                secho(f"Output from parsing {prefix}", fg="blue")
-                secho("\n".join(parse_results.messages), fg="blue")
-            return AnalysisResults(
-                results=analyze_graphs(parse_results.graphs, iri_filter=iri_filter),
-                messages=messages,
-            )
-
-    raise NoParsableURIs(f"no IRI available for Bioregistry prefix {prefix}")
+    parse_results = get_obograph_by_prefix(prefix)
+    return AnalysisResults(
+        results=analyze_graphs(parse_results.graph_document, iri_filter=iri_filter),
+        messages=[],
+    )
 
 
 def analyze_by_path(path: Union[str, Path], *, iri_filter: Optional[str] = None) -> AnalysisResults:
     """Analyze an ontology at a given IRI."""
     path = Path(path).resolve()
-    parse_results = robot_parse_json_local(path)
+    parse_results = convert_to_obograph_local(path)
     if parse_results.messages:
         secho(f"Output from parsing {path}", fg="blue")
         secho("\n".join(parse_results.messages), fg="blue")
@@ -253,7 +199,7 @@ def analyze_by_path(path: Union[str, Path], *, iri_filter: Optional[str] = None)
 
 def analyze_by_iri(iri: str, *, iri_filter: Optional[str] = None) -> AnalysisResults:
     """Analyze an ontology at a given IRI."""
-    parse_results = robot_parse_json_remote(iri)
+    parse_results = convert_to_obograph_remote(iri)
     if parse_results.messages:
         secho(f"Output from parsing {iri}", fg="blue")
         secho("\n".join(parse_results.messages), fg="blue")
@@ -267,9 +213,11 @@ class MissingGraphIRI(KeyError):
     """Raised for graphs with no IRI."""
 
 
-def analyze_graphs(graphs: Graphs, *, iri_filter: Optional[str] = None) -> dict[str, Results]:
+def analyze_graphs(
+    graph_document: GraphDocument, *, iri_filter: Optional[str] = None
+) -> dict[str, Results]:
     """Analyze an ontology that's pre-parsed into an OBO graph."""
-    it = (analyze_graph(graph, iri_filter=iri_filter) for graph in graphs["graphs"])
+    it = (analyze_graph(graph, iri_filter=iri_filter) for graph in graph_document.graphs)
     return {results.graph_id: results for results in it}
 
 
@@ -291,35 +239,36 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
     syn_xref_invalid_luids: DefaultDict[str, set[str]] = defaultdict(set)
 
     # this is the URI for the ontology, e.g. "http://purl.obolibrary.org/obo/go.owl"
-    graph_id = graph.get("id")
+    graph_id = graph.id
     if graph_id is None:
         raise MissingGraphIRI
 
     # This contains metadata for the graph
-    graph_meta = graph.get("meta", {})
-    version = graph_meta.get("version")
+    graph_meta = graph.meta
+    version = graph.version_iri
 
-    for node in graph["nodes"]:
-        node_id = node["id"]
+    for node in graph.nodes:
+        node_id = node.id
         if iri_filter and not node_id.startswith(iri_filter):
             continue
-        node_meta = node.get("meta")
+        node_meta = node.meta
         if node_meta is None:
             continue
 
-        node_xrefs = node_meta.get("xrefs", [])
-        for node_xref_dict in node_xrefs:
+        node_xrefs = node_meta.xrefs
+        for node_xref_dict in node_xrefs or []:
             _aggregate_curie_issues(
                 node_id,
-                node_xref_dict["val"],
+                node_xref_dict.val,
                 node_xref_malformed_curies,
                 node_xref_unknown_prefixes,
                 node_xref_noncanonical_prefixes,
                 node_xref_invalid_luids,
             )
 
-        definition_xrefs = node_meta.get("definition", {}).get("xrefs", [])
-        for prov_xref_curie in definition_xrefs:
+        definition = node_meta.definition
+        definition_xrefs = node_meta.definition and node_meta.definition.xrefs
+        for prov_xref_curie in definition_xrefs or []:
             _aggregate_curie_issues(
                 node_id,
                 prov_xref_curie,
@@ -329,9 +278,8 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
                 prov_xref_invalid_luids,
             )
 
-        synonyms = node_meta.get("synonyms", [])
-        for synonym in synonyms:
-            for synoynm_xref_curie in synonym.get("xrefs", []):
+        for synonym in node_meta.synonyms or []:
+            for synoynm_xref_curie in synonym.xrefs or []:
                 _aggregate_curie_issues(
                     node_id,
                     synoynm_xref_curie,
