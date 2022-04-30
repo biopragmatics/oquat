@@ -11,7 +11,7 @@ from collections import defaultdict
 from dataclasses import dataclass
 from operator import itemgetter
 from pathlib import Path
-from typing import Any, DefaultDict, Dict, List, Optional, Union
+from typing import Any, DefaultDict, Dict, List, Optional, Set, Union
 
 import bioregistry
 import click
@@ -225,18 +225,18 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
     """Analyze a single graph."""
     node_xref_unknown_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
     node_xref_noncanonical_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
-    node_xref_malformed_curies: DefaultDict[str, set[str]] = defaultdict(set)
-    node_xref_invalid_luids: DefaultDict[str, set[str]] = defaultdict(set)
+    node_xref_malformed_curies: DefaultDict[str, Set[str]] = defaultdict(set)
+    node_xref_invalid_luids: DefaultDict[str, Set[str]] = defaultdict(set)
 
     prov_xref_unknown_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
     prov_xref_noncanonical_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
-    prov_xref_malformed_curies: DefaultDict[str, set[str]] = defaultdict(set)
-    prov_xref_invalid_luids: DefaultDict[str, set[str]] = defaultdict(set)
+    prov_xref_malformed_curies: DefaultDict[str, Set[str]] = defaultdict(set)
+    prov_xref_invalid_luids: DefaultDict[str, Set[str]] = defaultdict(set)
 
     syn_xref_unknown_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
     syn_xref_noncanonical_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
-    syn_xref_malformed_curies: DefaultDict[str, set[str]] = defaultdict(set)
-    syn_xref_invalid_luids: DefaultDict[str, set[str]] = defaultdict(set)
+    syn_xref_malformed_curies: DefaultDict[str, Set[str]] = defaultdict(set)
+    syn_xref_invalid_luids: DefaultDict[str, Set[str]] = defaultdict(set)
 
     # this is the URI for the ontology, e.g. "http://purl.obolibrary.org/obo/go.owl"
     graph_id = graph.id
@@ -322,7 +322,7 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
     )
 
 
-def _canonicalize_dict(dd: DefaultDict[str, set[str]]) -> Dict[str, List[str]]:
+def _canonicalize_dict(dd: DefaultDict[str, Set[str]]) -> Dict[str, List[str]]:
     return {k: sorted(v) for k, v in dd.items()}
 
 
