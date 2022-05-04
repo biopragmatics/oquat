@@ -48,7 +48,7 @@ Identifiers for this prefix are given incorrectly in `envo`. See the [GitHub rep
 
 ## `sdgio`: Sustainable Development Goals Interface Ontology
 
-Identifiers for this prefix are given incorrectly in `sdgio`.
+Identifiers for this prefix are given incorrectly in `sdgio`. See the [GitHub repository](https://github.com/SDG-InterfaceOntology/sdgio).
 
 | external_xref   |   usages_count | usages                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------|

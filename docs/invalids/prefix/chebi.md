@@ -24,7 +24,7 @@ Identifiers for this prefix are given incorrectly in `omp`. See the [GitHub repo
 
 ## `pride`: PRIDE Controlled Vocabulary
 
-Identifiers for this prefix are given incorrectly in `pride`.
+Identifiers for this prefix are given incorrectly in `pride`. See the [GitHub repository](https://github.com/PRIDE-Utilities/pride-ontology).
 
 | external_xref   |   usages_count | usages                                                      |
 |-----------------|----------------|-------------------------------------------------------------|

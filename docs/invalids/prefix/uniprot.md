@@ -7,7 +7,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 ## `bs`: Biosapiens Protein Feature Ontology
 
-Identifiers for this prefix are given incorrectly in `bs`.
+Identifiers for this prefix are given incorrectly in `bs`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
 
 | external_xref             |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |---------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -11,9 +11,9 @@ xrefs to external prefixed with `AEO` (standardized to Bioregistry
 prefix [`aeo`](https://bioregistry.io/aeo)) that
 did not match the standard pattern `^\d{7}$`.
 
-| external_xref       |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
-|---------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `AEO:('AEO', 'JB')` |            111 | [AEO:0000078](http://purl.obolibrary.org/obo/AEO_0000078), [AEO:0000079](http://purl.obolibrary.org/obo/AEO_0000079), [AEO:0000080](http://purl.obolibrary.org/obo/AEO_0000080), [AEO:0000081](http://purl.obolibrary.org/obo/AEO_0000081), [AEO:0000082](http://purl.obolibrary.org/obo/AEO_0000082), ... |
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `AEO:JB`        |            111 | [AEO:0000078](http://purl.obolibrary.org/obo/AEO_0000078), [AEO:0000079](http://purl.obolibrary.org/obo/AEO_0000079), [AEO:0000080](http://purl.obolibrary.org/obo/AEO_0000080), [AEO:0000081](http://purl.obolibrary.org/obo/AEO_0000081), [AEO:0000082](http://purl.obolibrary.org/obo/AEO_0000082), ... |
 
 ## `AEO.`: Anatomical Entity Ontology
 
@@ -22,9 +22,9 @@ xrefs to external prefixed with `AEO.` (standardized to Bioregistry
 prefix [`aeo`](https://bioregistry.io/aeo)) that
 did not match the standard pattern `^\d{7}$`.
 
-| external_xref         |   usages_count | usages                                                    |
-|-----------------------|----------------|-----------------------------------------------------------|
-| `AEO.:('AEO.', 'JB')` |              1 | [AEO:0000203](http://purl.obolibrary.org/obo/AEO_0000203) |
+| external_xref   |   usages_count | usages                                                    |
+|-----------------|----------------|-----------------------------------------------------------|
+| `AEO.:JB`       |              1 | [AEO:0000203](http://purl.obolibrary.org/obo/AEO_0000203) |
 
 ## `GO`: Gene Ontology
 
@@ -33,7 +33,7 @@ xrefs to external prefixed with `GO` (standardized to Bioregistry
 prefix [`go`](https://bioregistry.io/go)) that
 did not match the standard pattern `^\d{7}$`.
 
-| external_xref          |   usages_count | usages                                                    |
-|------------------------|----------------|-----------------------------------------------------------|
-| `GO:('GO', 'curator')` |              1 | [AEO:0000147](http://purl.obolibrary.org/obo/AEO_0000147) |
+| external_xref   |   usages_count | usages                                                    |
+|-----------------|----------------|-----------------------------------------------------------|
+| `GO:curator`    |              1 | [AEO:0000147](http://purl.obolibrary.org/obo/AEO_0000147) |
 

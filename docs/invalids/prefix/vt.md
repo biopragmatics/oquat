@@ -7,7 +7,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 ## `lpt`: Livestock Product Trait Ontology
 
-Identifiers for this prefix are given incorrectly in `lpt`.
+Identifiers for this prefix are given incorrectly in `lpt`. See the [GitHub repository](https://github.com/AnimalGenome/livestock-product-trait-ontology).
 
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|

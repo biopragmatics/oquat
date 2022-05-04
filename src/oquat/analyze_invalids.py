@@ -40,10 +40,10 @@ def main():
                 for node, invalid_xrefs in results[key][INVALID_KEY].items():
                     # node_curie = node.removeprefix(OBO_PREFIX).replace("_", ":")
                     for xref in invalid_xrefs:
-                        xref_prefix, xref_identifier = xref.split(":", 1)
+                        xref_prefix, xref_curie = xref.split(":", 1)
                         xref_norm_prefix = bioregistry.normalize_prefix(xref_prefix)
-                        source_agg[source][xref_prefix][xref_prefix, xref_identifier].append(node)
-                        xref_agg[xref_norm_prefix][source][xref_prefix, xref_identifier].append(
+                        source_agg[source][xref_prefix][xref_prefix, xref_curie].append(node)
+                        xref_agg[xref_norm_prefix][source][xref_prefix, xref_curie].append(
                             node
                         )
 
@@ -112,8 +112,8 @@ def main():
             """
             )
             rows = []
-            for (xref_prefix, xref_identifier), nodes in inner2.items():
-                invalid_xref_curie = f"{xref_prefix}:{xref_identifier}"
+            for (xref_prefix, xref_curie), nodes in inner2.items():
+                invalid_xref_curie = f"{xref_prefix}:{xref_curie}"
                 if len(nodes) > 5:
                     examples = (
                         ", ".join(url_md(example_node) for example_node in sorted(nodes)[:5])
@@ -168,8 +168,8 @@ def main():
             """
             )
             rows = []
-            for xref_identifier, nodes in inner2.items():
-                invalid_xref_curie = f"{xref_prefix}:{xref_identifier}"
+            for xref_curie, nodes in inner2.items():
+                invalid_xref_curie = f"{xref_curie[0]}:{xref_curie[1]}"
                 if len(nodes) > 5:
                     examples = (
                         ", ".join(url_md(example_node) for example_node in sorted(nodes)[:5])

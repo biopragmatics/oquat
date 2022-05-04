@@ -192,7 +192,7 @@ Identifiers for this prefix are given incorrectly in `enm`.
 
 ## `msio`: Metabolomics Standards Initiative Ontology
 
-Identifiers for this prefix are given incorrectly in `msio`.
+Identifiers for this prefix are given incorrectly in `msio`. See the [GitHub repository](https://github.com/MSI-Metabolomics-Standards-Initiative/MSIO).
 
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|

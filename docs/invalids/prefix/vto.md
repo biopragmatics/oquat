@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly in `lbo`. See the [GitHub repo
 
 ## `lpt`: Livestock Product Trait Ontology
 
-Identifiers for this prefix are given incorrectly in `lpt`.
+Identifiers for this prefix are given incorrectly in `lpt`. See the [GitHub repository](https://github.com/AnimalGenome/livestock-product-trait-ontology).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
