@@ -2587,7 +2587,7 @@
           "PomBase:mah"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0000901": [
-          "PomBase:mah"
+          "PomBase:val"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0000902": [
           "PomBase:mah"
@@ -23691,6 +23691,9 @@
         "http://purl.obolibrary.org/obo/FYPO_0007936": [
           "PomBase:vw"
         ],
+        "http://purl.obolibrary.org/obo/FYPO_0007939": [
+          "PomBase:val"
+        ],
         "http://purl.obolibrary.org/obo/FYPO_0007940": [
           "PomBase:val"
         ],
@@ -23722,6 +23725,28 @@
           "PomBase:val"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0007953": [
+          "PomBase:val"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007955": [
+          "PomBase:mlr",
+          "PomBase:val"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007957": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007959": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007960": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007961": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007962": [
+          "PomBase:val"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007963": [
           "PomBase:val"
         ]
       },
@@ -26558,7 +26583,7 @@
           "PomBase:mah"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0000901": [
-          "PomBase:mah",
+          "PomBase:val",
           "PomBase:vw"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0000902": [
@@ -48427,11 +48452,14 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/fypo/releases/2022-04-22/fypo.owl",
+    "version": "http://purl.obolibrary.org/obo/fypo/releases/2022-04-28/fypo.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/FYPO_0007909": [
           "PomBase:val"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007957": [
+          "PomBase:mlr"
         ]
       },
       "label": "Node Xrefs",

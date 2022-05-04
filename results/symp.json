@@ -281,11 +281,7 @@
     },
     "version": "http://purl.obolibrary.org/obo/symp/releases/2022-04-05/symp.owl",
     "xref_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/SYMP_0000821": [
-          "ICD9CM_2005:<new dbxref>"
-        ]
-      },
+      "invalid_luids": {},
       "label": "Node Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {
@@ -470,7 +466,6 @@
           "http://purl.obolibrary.org/obo/SYMP_0000818": "ICD9CM_2005:782.2",
           "http://purl.obolibrary.org/obo/SYMP_0000819": "ICD9CM_2005:782.2",
           "http://purl.obolibrary.org/obo/SYMP_0000820": "ICD9CM_2005:786.6",
-          "http://purl.obolibrary.org/obo/SYMP_0000821": "ICD9CM_2005:<new dbxref>",
           "http://purl.obolibrary.org/obo/SYMP_0000852": "ICD9CM_2005:788.5"
         },
         "ICDCM_2005": {

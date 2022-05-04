@@ -27,6 +27,17 @@ did not match the standard pattern `^\d{7}$`.
 | `HPO:probinson` |              1 | [MP:0013806](http://purl.obolibrary.org/obo/MP_0013806) |
 | `HPO:curators`  |              1 | [MP:0013807](http://purl.obolibrary.org/obo/MP_0013807) |
 
+## `JAX`: Jackson Laboratories Strain
+
+Overall, there were 7 invalid
+xrefs to external prefixed with `JAX` (standardized to Bioregistry
+prefix [`jax`](https://bioregistry.io/jax)) that
+did not match the standard pattern `^\d{6}$`.
+
+| external_xref    |   usages_count | usages                                                                                                                                                                                                                                                                                           |
+|------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `JAX:CheslerLab` |              7 | [MP:0020905](http://purl.obolibrary.org/obo/MP_0020905), [MP:0020906](http://purl.obolibrary.org/obo/MP_0020906), [MP:0020907](http://purl.obolibrary.org/obo/MP_0020907), [MP:0020908](http://purl.obolibrary.org/obo/MP_0020908), [MP:0020909](http://purl.obolibrary.org/obo/MP_0020909), ... |
+
 ## `MESH`: Medical Subject Headings
 
 Overall, there were 832 invalid

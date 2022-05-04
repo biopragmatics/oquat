@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `hp`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 6 resources,
+`^\d{7}$`. Of the 5 resources,
 2 variants on the standard prefix were found: ['HP', 'HPO'].
 
 ## `eco`: Evidence ontology
@@ -70,14 +70,6 @@ Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repos
 | `HPO:sdoelkens`          |              1 | [HP:0100570](http://purl.obolibrary.org/obo/HP_0100570)                                                                                                                                                                                                                                          |
 | `HPO:gblack`             |              1 | [HP:0100689](http://purl.obolibrary.org/obo/HP_0100689)                                                                                                                                                                                                                                          |
 | `HPO:ucbasharo`          |              1 | [HP:0550004](http://purl.obolibrary.org/obo/HP_0550004)                                                                                                                                                                                                                                          |
-
-## `mondo`: Monarch Disease Ontology
-
-Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub repository](https://github.com/monarch-initiative/mondo).
-
-| external_xref   |   usages_count | usages                                                        |
-|-----------------|----------------|---------------------------------------------------------------|
-| `HPO:probinson` |              1 | [MONDO:0008331](http://purl.obolibrary.org/obo/MONDO_0008331) |
 
 ## `mp`: Mammalian Phenotype Ontology
 

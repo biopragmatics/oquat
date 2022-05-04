@@ -816,3 +816,9 @@
 | GAID:832 |        1 | [PLANA:0000459](http://purl.obolibrary.org/obo/PLANA_0000459) |
 | GAID:740 |        1 | [PLANA:0000470](http://purl.obolibrary.org/obo/PLANA_0000470) |
 
+## bcio
+
+| curie    |   usages | nodes                                                           |
+|----------|----------|-----------------------------------------------------------------|
+| GAID:781 |        1 | [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) |
+

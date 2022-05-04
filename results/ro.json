@@ -41,7 +41,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ro/releases/2022-02-07/ro.owl",
+    "version": "http://purl.obolibrary.org/obo/ro/releases/2022-04-25/ro.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/RO_HOM0000000": [
@@ -49,7 +49,8 @@
         ],
         "http://purl.obolibrary.org/obo/RO_HOM0000007": [
           "RO_proposed_relation:homologous_to",
-          "SO:homologous_to"
+          "SO:homologous_to",
+          "TAO:homologous_to"
         ],
         "http://purl.obolibrary.org/obo/RO_HOM0000010": [
           "MeSH:Synteny"

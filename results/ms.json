@@ -2963,6 +2963,23 @@
           "http://purl.obolibrary.org/obo/MS_1003250": "PSI:PI",
           "http://purl.obolibrary.org/obo/MS_1003251": "PSI:PI",
           "http://purl.obolibrary.org/obo/MS_1003252": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003254": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003255": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003256": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003257": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003258": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003259": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003260": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003261": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003262": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003263": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003264": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003265": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003266": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003267": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003268": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003269": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003270": "PSI:PI",
           "http://purl.obolibrary.org/obo/MS_4000000": "PSI:MS",
           "http://purl.obolibrary.org/obo/MS_4000001": "PSI:MS",
           "http://purl.obolibrary.org/obo/MS_4000002": "PSI:MS",
@@ -3036,7 +3053,7 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/ms/4.1.84/ms.owl",
+    "version": "http://purl.obolibrary.org/obo/ms/4.1.86/ms.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/MS_1002659": [

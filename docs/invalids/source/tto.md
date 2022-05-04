@@ -20,6 +20,17 @@ did not match the standard pattern `^\d+$`.
 | `NCBITaxon:phylum`  |              1 | [TTO:phylum](http://purl.obolibrary.org/obo/TTO_phylum)   |
 | `NCBITaxon:species` |              1 | [TTO:species](http://purl.obolibrary.org/obo/TTO_species) |
 
+## `TAO`: Teleost Anatomy Ontology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `TAO` (standardized to Bioregistry
+prefix [`tao`](https://bioregistry.io/tao)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                    |
+|-----------------|----------------|-----------------------------------------------------------|
+| `TAO:curator`   |              1 | [TTO:1050505](http://purl.obolibrary.org/obo/TTO_1050505) |
+
 ## `TTO`: Teleost taxonomy ontology
 
 Overall, there were 43 invalid

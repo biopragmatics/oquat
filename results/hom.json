@@ -36,7 +36,8 @@
         ],
         "http://purl.obolibrary.org/obo/HOM_0000007": [
           "RO_proposed_relation:homologous_to",
-          "SO:homologous_to"
+          "SO:homologous_to",
+          "TAO:homologous_to"
         ],
         "http://purl.obolibrary.org/obo/HOM_0000010": [
           "MeSH:Synteny"

@@ -15,6 +15,17 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------|----------------|-----------------------------------------------------------------|
 | `BFO:SNAP`      |              1 | [IDOMAL:0000002](http://purl.obolibrary.org/obo/IDOMAL_0000002) |
 
+## `CARO`: Common Anatomy Reference Ontology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `CARO` (standardized to Bioregistry
+prefix [`caro`](https://bioregistry.io/caro)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                          |
+|-----------------|----------------|-----------------------------------------------------------------|
+| `CARO:00000041` |              1 | [IDOMAL:0002461](http://purl.obolibrary.org/obo/IDOMAL_0002461) |
+
 ## `ISBN`: International Standard Book Number
 
 Overall, there were 2 invalid

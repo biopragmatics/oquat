@@ -2,7 +2,23 @@
   "http://purl.obolibrary.org/obo/ddanat.owl": {
     "graph_id": "http://purl.obolibrary.org/obo/ddanat.owl",
     "prov_pack": {
-      "invalid_luids": {},
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/DDANAT_0000083": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/DDANAT_0000401": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/DDANAT_0010001": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/DDANAT_0010081": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/DDANAT_0010082": [
+          "CARO:MAH"
+        ]
+      },
       "label": "Provenance Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},

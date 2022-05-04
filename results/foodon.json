@@ -52,6 +52,9 @@
         "http://purl.obolibrary.org/obo/FOODON_03412115": [
           "EC:No 1637/2001 ECH"
         ],
+        "http://purl.obolibrary.org/obo/FOODON_03412403": [
+          "FISHBASE:"
+        ],
         "http://purl.obolibrary.org/obo/FOODON_03413856": [
           "EC:No 216/2009 SAS"
         ],

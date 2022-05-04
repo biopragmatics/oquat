@@ -6,14 +6,47 @@
         "http://purl.obolibrary.org/obo/VSAO_0000001": [
           "ZFIN:curator"
         ],
+        "http://purl.obolibrary.org/obo/VSAO_0000004": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000007": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000014": [
+          "TAO:curator"
+        ],
         "http://purl.obolibrary.org/obo/VSAO_0000021": [
           "GO:[GOC:mtg_sensu, ISBN:0198547684]"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000024": [
+          "TAO:curator"
         ],
         "http://purl.obolibrary.org/obo/VSAO_0000076": [
           "UBERON:cjm"
         ],
+        "http://purl.obolibrary.org/obo/VSAO_0000078": [
+          "TAO:curator"
+        ],
         "http://purl.obolibrary.org/obo/VSAO_0000092": [
           "GO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000099": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000111": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000129": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000147": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000153": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000154": [
+          "TAO:GA_TG"
         ],
         "http://purl.obolibrary.org/obo/VSAO_0000155": [
           "UBERON:cjm"
@@ -21,11 +54,59 @@
         "http://purl.obolibrary.org/obo/VSAO_0000156": [
           "UBERON:cjm"
         ],
+        "http://purl.obolibrary.org/obo/VSAO_0000162": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000163": [
+          "TAO:curator"
+        ],
         "http://purl.obolibrary.org/obo/VSAO_0000164": [
           "ZFIN:curator"
         ],
+        "http://purl.obolibrary.org/obo/VSAO_0000165": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000166": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000167": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000168": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000169": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000170": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000172": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000173": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000174": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000175": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000176": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000177": [
+          "TAO:curator"
+        ],
         "http://purl.obolibrary.org/obo/VSAO_0000178": [
           "ZFIN:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000180": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/VSAO_0000184": [
+          "TAO:curator"
         ],
         "http://purl.obolibrary.org/obo/VSAO_0000303": [
           "UBERON:cjm"

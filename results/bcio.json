@@ -23,6 +23,10 @@
         "USGS": {
           "http://purl.obolibrary.org/obo/ENVO_00000062": "USGS:http://mapping.usgs.gov/www/ti/GNIS/gnis_users_guide_appendixc.html",
           "http://purl.obolibrary.org/obo/ENVO_00000109": "USGS:SDTS"
+        },
+        "url": {
+          "http://www.geneontology.org/formats/oboInOwl#id": "url:http://purl.obolibrary.org/obo/IAO_0020000",
+          "http://www.w3.org/2000/01/rdf-schema#label": "url:http://www.w3.org/2000/01/rdf-schema#label"
         }
       }
     },
@@ -58,13 +62,17 @@
         }
       }
     },
-    "version": "http://humanbehaviourchange.org/ontology/bcio.owl/2021-01-28",
+    "version": "http://humanbehaviourchange.org/ontology/bcio.owl/2022-04-30",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+      "unknown_prefixes": {
+        "GAID": {
+          "http://purl.obolibrary.org/obo/UBERON_0000061": "GAID:781"
+        }
+      }
     }
   }
 }

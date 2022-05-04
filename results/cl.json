@@ -3,8 +3,23 @@
     "graph_id": "http://purl.obolibrary.org/obo/cl.owl",
     "prov_pack": {
       "invalid_luids": {
+        "http://purl.obolibrary.org/obo/CL_0000000": [
+          "CARO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000001": [
+          "ReO:mhb"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000002": [
+          "ReO:mhb"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000003": [
+          "CARO:mah"
+        ],
         "http://purl.obolibrary.org/obo/CL_0000004": [
           "FB:ma"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000010": [
+          "ReO:mhb"
         ],
         "http://purl.obolibrary.org/obo/CL_0000017": [
           "MESH:A05.360.490.890.880"
@@ -367,7 +382,8 @@
           "MESH:A03.492.766.440.250"
         ],
         "http://purl.obolibrary.org/obo/CL_0000578": [
-          "FB:ma"
+          "FB:ma",
+          "ReO:mhb"
         ],
         "http://purl.obolibrary.org/obo/CL_0000581": [
           "MESH:A11.329.372.630"
@@ -447,6 +463,9 @@
         "http://purl.obolibrary.org/obo/CL_0000731": [
           "MA:ma"
         ],
+        "http://purl.obolibrary.org/obo/CL_0001034": [
+          "ReO:mhb"
+        ],
         "http://purl.obolibrary.org/obo/CL_0002135": [
           "GO:tfm"
         ],
@@ -497,6 +516,9 @@
         ],
         "http://purl.obolibrary.org/obo/CL_0002488": [
           "MP:19876834"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0002518": [
+          "KUPO:SJ"
         ],
         "http://purl.obolibrary.org/obo/CL_0002576": [
           "GO:tfm"
@@ -572,6 +594,12 @@
         ],
         "http://purl.obolibrary.org/obo/CL_0007011": [
           "CL:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0007014": [
+          "ReO:mhb"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0007015": [
+          "ReO:mhb"
         ],
         "http://purl.obolibrary.org/obo/CL_0008038": [
           "Wikipedia:Alpha_motor_neuron&oldid=957148643"

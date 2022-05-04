@@ -1,6 +1,6 @@
 {
-  "http://purl.obolibrary.org/obo/vo.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/vo.owl",
+  "http://purl.obolibrary.org/obo/v.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/v.owl",
     "prov_pack": {
       "invalid_luids": {},
       "label": "Provenance Xrefs",

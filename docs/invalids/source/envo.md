@@ -49,6 +49,25 @@ did not match the standard pattern `^\d{7}$`.
 | `FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf`              |             27 | [ENVO:00002229](http://purl.obolibrary.org/obo/ENVO_00002229), [ENVO:00002231](http://purl.obolibrary.org/obo/ENVO_00002231), [ENVO:00002233](http://purl.obolibrary.org/obo/ENVO_00002233), [ENVO:00002234](http://purl.obolibrary.org/obo/ENVO_00002234), [ENVO:00002235](http://purl.obolibrary.org/obo/ENVO_00002235), ... |
 | `FAO:http://www.fao.org/soils-portal/soil-degradation-restoration/en/` |              1 | [ENVO:01000705](http://purl.obolibrary.org/obo/ENVO_01000705)                                                                                                                                                                                                                                                                  |
 
+## `GEMET`: General Multilingual Environmental Thesaurus
+
+Overall, there were 9 invalid
+xrefs to external prefixed with `GEMET` (standardized to Bioregistry
+prefix [`gemet`](https://bioregistry.io/gemet)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref                                           |   usages_count | usages                                                        |
+|---------------------------------------------------------|----------------|---------------------------------------------------------------|
+| `GEMET:http://www.eionet.europa.eu/gemet/concept/8128`  |              1 | [ENVO:01000538](http://purl.obolibrary.org/obo/ENVO_01000538) |
+| `GEMET:http://www.eionet.europa.eu/gemet/concept/8695`  |              1 | [ENVO:01000540](http://purl.obolibrary.org/obo/ENVO_01000540) |
+| `GEMET:http://www.eionet.europa.eu/gemet/concept/1471`  |              1 | [ENVO:01000629](http://purl.obolibrary.org/obo/ENVO_01000629) |
+| `GEMET:http://www.eionet.europa.eu/gemet/concept/3298`  |              1 | [ENVO:01000710](http://purl.obolibrary.org/obo/ENVO_01000710) |
+| `GEMET: http://www.eionet.europa.eu/gemet/concept/3301` |              1 | [ENVO:02500002](http://purl.obolibrary.org/obo/ENVO_02500002) |
+| `GEMET:http://www.eionet.europa.eu/gemet/concept/167`   |              1 | [ENVO:02500011](http://purl.obolibrary.org/obo/ENVO_02500011) |
+| `GEMET:http://www.eionet.europa.eu/gemet/concept/627`   |              1 | [ENVO:01000543](http://purl.obolibrary.org/obo/ENVO_01000543) |
+| `GEMET:http://www.eionet.europa.eu/gemet/concept/4492`  |              1 | [ENVO:01000545](http://purl.obolibrary.org/obo/ENVO_01000545) |
+| `GEMET:http://www.eionet.europa.eu/gemet/concept/4668`  |              1 | [ENVO:01000692](http://purl.obolibrary.org/obo/ENVO_01000692) |
+
 ## `MA`: Mouse adult gross anatomy
 
 Overall, there were 133 invalid

@@ -86,6 +86,12 @@
         "http://purl.obolibrary.org/obo/CHMO_0002713": [
           "FIX:000125"
         ],
+        "http://purl.obolibrary.org/obo/OBCS_0000058": [
+          "OBCS:YQH"
+        ],
+        "http://purl.obolibrary.org/obo/OBCS_0000059": [
+          "OBCS:YQH"
+        ],
         "http://purl.obolibrary.org/obo/OBI_0000070": [
           "obi:pppb"
         ],
@@ -630,7 +636,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/chmo/releases/2022-02-17/chmo.owl",
+    "version": "http://purl.obolibrary.org/obo/chmo/releases/2022-04-19/chmo.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

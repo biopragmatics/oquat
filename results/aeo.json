@@ -3,6 +3,9 @@
     "graph_id": "http://purl.obolibrary.org/obo/aeo.owl",
     "prov_pack": {
       "invalid_luids": {
+        "http://purl.obolibrary.org/obo/AEO_0000013": [
+          "CARO:MAH"
+        ],
         "http://purl.obolibrary.org/obo/AEO_0000078": [
           "AEO:JB"
         ],
@@ -241,6 +244,12 @@
         "http://purl.obolibrary.org/obo/AEO_0000189": [
           "AEO:JB"
         ],
+        "http://purl.obolibrary.org/obo/AEO_0000192": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000193": [
+          "CARO:MAH"
+        ],
         "http://purl.obolibrary.org/obo/AEO_0000194": [
           "AEO:JB"
         ],
@@ -249,6 +258,9 @@
         ],
         "http://purl.obolibrary.org/obo/AEO_0000196": [
           "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000198": [
+          "CARO:MAH"
         ],
         "http://purl.obolibrary.org/obo/AEO_0000199": [
           "AEO:JB"
@@ -282,6 +294,9 @@
         ],
         "http://purl.obolibrary.org/obo/AEO_0000209": [
           "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000211": [
+          "FBbt:DOS"
         ],
         "http://purl.obolibrary.org/obo/AEO_0000212": [
           "AEO:JB"

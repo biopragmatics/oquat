@@ -25684,6 +25684,27 @@
         "http://purl.obolibrary.org/obo/MP_0020904": [
           "MGI:smb"
         ],
+        "http://purl.obolibrary.org/obo/MP_0020905": [
+          "JAX:CheslerLab"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0020906": [
+          "JAX:CheslerLab"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0020907": [
+          "JAX:CheslerLab"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0020908": [
+          "JAX:CheslerLab"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0020909": [
+          "JAX:CheslerLab"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0020910": [
+          "JAX:CheslerLab"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0020911": [
+          "JAX:CheslerLab"
+        ],
         "http://purl.obolibrary.org/obo/MP_0020954": [
           "MGI:smb"
         ],

@@ -94,7 +94,7 @@ def lsa(force: bool, minimum: Optional[str]):
             secho(failure_text, fg="red")
             failures.append(failure_text)
             continue
-        tqdm.write(prefix)
+        tqdm.write(f"analyzing {prefix}")
         analysis_path = RESULTS.joinpath(prefix).with_suffix(".json")
         if analysis_path.is_file() and not force:
             result = {k: Results(**v) for k, v in json.loads(analysis_path.read_text()).items()}

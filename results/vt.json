@@ -2611,7 +2611,13 @@
           "http://purl.obolibrary.org/obo/VT_0002607": "MPD:Mouse_Phenome_Database",
           "http://purl.obolibrary.org/obo/VT_0010751": "MPD:cur",
           "http://purl.obolibrary.org/obo/VT_0010808": "MPD:cur",
-          "http://purl.obolibrary.org/obo/VT_0010997": "MPD:cur"
+          "http://purl.obolibrary.org/obo/VT_0010997": "MPD:cur",
+          "http://purl.obolibrary.org/obo/VT_0010999": "MPD:cur",
+          "http://purl.obolibrary.org/obo/VT_0011000": "MPD:cur",
+          "http://purl.obolibrary.org/obo/VT_0011001": "MPD:cur",
+          "http://purl.obolibrary.org/obo/VT_0011002": "MPD:cur",
+          "http://purl.obolibrary.org/obo/VT_0011003": "MPD:cur",
+          "http://purl.obolibrary.org/obo/VT_0011004": "MPD:cur"
         },
         "Mosby": {
           "http://purl.obolibrary.org/obo/VT_0002796": "Mosby:Mosbys Medical Dictionary 8th Ed"

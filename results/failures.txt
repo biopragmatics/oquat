@@ -1,8 +1,8 @@
-atol None of the URIs could be parsed
-bcgo None of the URIs could be parsed
-caloha None of the URIs could be parsed
-cellosaurus None of the URIs could be parsed
-cido None of the URIs could be parsed
+atol got an error: no IRI available for Bioregistry prefix atol
+bcgo got an error: no IRI available for Bioregistry prefix bcgo
+caloha got an error: no IRI available for Bioregistry prefix caloha
+cellosaurus got an error: no IRI available for Bioregistry prefix cellosaurus
+cido got an error: no IRI available for Bioregistry prefix cido
 co_327 has an unhanded suffix in its OWL URL: http://www.cropontology.org/ontology/CO_327/Pearl%20millet/owl
 co_331 has an unhanded suffix in its OWL URL: http://www.cropontology.org/ontology/CO_331/Sweet%20Potato/owl
 co_333 has an unhanded suffix in its OWL URL: http://www.cropontology.org/ontology/CO_333/Beet%20Ontology/owl
@@ -11,36 +11,39 @@ co_347 has an unhanded suffix in its OWL URL: http://www.cropontology.org/ontolo
 co_357 has an unhanded suffix in its OWL URL: http://www.cropontology.org/ontology/CO_357/Woody%20Plant%20Ontology/owl
 co_360 has an unhanded suffix in its OWL URL: http://www.cropontology.org/ontology/CO_360/Sugar%20Kelp%20trait/owl
 co_366 has an unhanded suffix in its OWL URL: http://www.cropontology.org/ontology/CO_366/Bambara%20groundnut/owl
-cob None of the URIs could be parsed
-covoc missing graph ID
-dinto missing graph ID
-edam None of the URIs could be parsed
-eo None of the URIs could be parsed
-eol missing graph ID
-ero missing graph ID
-flu None of the URIs could be parsed
-fovt None of the URIs could be parsed
-genepio None of the URIs could be parsed
-gorel None of the URIs could be parsed
-icepo None of the URIs could be parsed
-ico None of the URIs could be parsed
-idocovid19 missing graph ID
-mfo missing graph ID
-mirnao None of the URIs could be parsed
-mo missing graph ID
-obcs None of the URIs could be parsed
-ogi None of the URIs could be parsed
-omiabis None of the URIs could be parsed
-orth missing graph ID
-peff None of the URIs could be parsed
-rbo None of the URIs could be parsed
-reo None of the URIs could be parsed
-rnao None of the URIs could be parsed
-scdo None of the URIs could be parsed
-sep None of the URIs could be parsed
+cob got an error: no IRI available for Bioregistry prefix cob
+covoc got an error: http://purl.obolibrary.org/obo/covoc/releases/2020-08-28/covoc.owl graph [0] missing id
+dinto got an error: http://purl.obolibrary.org/obo/dinto.owl graph [0] missing id
+edam got an error: no IRI available for Bioregistry prefix edam
+eo got an error: no IRI available for Bioregistry prefix eo
+eol got an error: https://sicpa-web.cati.inrae.fr/ontologies/visualisation/ontologie/atol/creation_fichier_owl.php?filename=eol.owl graph [0] missing id
+ero got an error: http://purl.obolibrary.org/obo/ero.owl graph [0] missing id
+flu got an error: no IRI available for Bioregistry prefix flu
+fovt got an error: no IRI available for Bioregistry prefix fovt
+genepio got an error: no IRI available for Bioregistry prefix genepio
+gorel got an error: no IRI available for Bioregistry prefix gorel
+icepo got an error: no IRI available for Bioregistry prefix icepo
+ico got an error: no IRI available for Bioregistry prefix ico
+idocovid19 got an error: http://purl.obolibrary.org/obo/2020-21-07/ido-covid-19.owl graph [0] missing id
+mf got an error: no IRI available for Bioregistry prefix mf
+mfo got an error: http://purl.obolibrary.org/obo/mfo.owl graph [0] missing id
+mfoem got an error: no IRI available for Bioregistry prefix mfoem
+mfomd got an error: no IRI available for Bioregistry prefix mfomd
+mirnao got an error: no IRI available for Bioregistry prefix mirnao
+mo got an error: http://purl.obolibrary.org/obo/mo.owl graph [0] missing id
+obcs got an error: no IRI available for Bioregistry prefix obcs
+ogi got an error: no IRI available for Bioregistry prefix ogi
+omiabis got an error: no IRI available for Bioregistry prefix omiabis
+orth got an error: https://github.com/qfo/OrthologyOntology/raw/master/orthOntology_RC_v2_A.owl graph [0] missing id
+pcl got an error: [Errno Extra data] 404: Not Found: 3
+peff got an error: no IRI available for Bioregistry prefix peff
+rbo got an error: Expecting value: line 1 column 1 (char 0)
+reo got an error: no IRI available for Bioregistry prefix reo
+rnao got an error: no IRI available for Bioregistry prefix rnao
+scdo got an error: no IRI available for Bioregistry prefix scdo
+sep got an error: no IRI available for Bioregistry prefix sep
 snomedct has an unhanded suffix in its OWL URL: http://snomed.info/sct/900000000000207008/version/20200131
-sweetrealm None of the URIs could be parsed
-swo None of the URIs could be parsed
-symp None of the URIs could be parsed
-vido missing graph ID
-xl missing graph ID
+sweetrealm got an error: no IRI available for Bioregistry prefix sweetrealm
+swo got an error: no IRI available for Bioregistry prefix swo
+vido got an error: http://purl.obolibrary.org/obo/2020-25-08/vido.owl graph [0] missing id
+xl got an error: http://purl.obolibrary.org/obo/xl.owl graph [0] missing id

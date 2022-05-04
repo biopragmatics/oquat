@@ -2526,6 +2526,9 @@
         "http://purl.obolibrary.org/obo/ECO_0007042": [
           "ECO:RCT"
         ],
+        "http://purl.obolibrary.org/obo/ECO_0007043": [
+          "ERO:0000329|URL:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3907272/"
+        ],
         "http://purl.obolibrary.org/obo/ECO_0007044": [
           "ECO:RCT"
         ],

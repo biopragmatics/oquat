@@ -156,6 +156,7 @@ Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub rep
 | `OMIM:PS220290` |              1 | [DOID:0050565](http://purl.obolibrary.org/obo/DOID_0050565) |
 | `OMIM:PS304500` |              1 | [DOID:0050566](http://purl.obolibrary.org/obo/DOID_0050566) |
 | `OMIM:PS119530` |              1 | [DOID:0050567](http://purl.obolibrary.org/obo/DOID_0050567) |
+| `OMIM:PS277300` |              1 | [DOID:0050568](http://purl.obolibrary.org/obo/DOID_0050568) |
 | `OMIM:PS210600` |              1 | [DOID:0050569](http://purl.obolibrary.org/obo/DOID_0050569) |
 | `OMIM:PS212065` |              1 | [DOID:0050570](http://purl.obolibrary.org/obo/DOID_0050570) |
 | `OMIM:PS212066` |              1 | [DOID:0050571](http://purl.obolibrary.org/obo/DOID_0050571) |
@@ -384,7 +385,7 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `OMIM:genemap2` |           2077 | [MONDO:0000912](http://purl.obolibrary.org/obo/MONDO_0000912), [MONDO:0000914](http://purl.obolibrary.org/obo/MONDO_0000914), [MONDO:0001056](http://purl.obolibrary.org/obo/MONDO_0001056), [MONDO:0001187](http://purl.obolibrary.org/obo/MONDO_0001187), [MONDO:0002009](http://purl.obolibrary.org/obo/MONDO_0002009), ... |
+| `OMIM:genemap2` |           2072 | [MONDO:0000912](http://purl.obolibrary.org/obo/MONDO_0000912), [MONDO:0000914](http://purl.obolibrary.org/obo/MONDO_0000914), [MONDO:0001056](http://purl.obolibrary.org/obo/MONDO_0001056), [MONDO:0001187](http://purl.obolibrary.org/obo/MONDO_0001187), [MONDO:0002009](http://purl.obolibrary.org/obo/MONDO_0002009), ... |
 
 ## `pw`: Pathway ontology
 
@@ -402,7 +403,6 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | external_xref   |   usages_count | usages                                                                                                               |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------|
 | `OMIM:PS300291` |              2 | [DOID:14793](http://purl.obolibrary.org/obo/DOID_14793), [DOID:9003414](http://purl.obolibrary.org/obo/DOID_9003414) |
-| `OMIM:PS614388` |              2 | [DOID:9009111](http://purl.obolibrary.org/obo/DOID_9009111), [DOID:936](http://purl.obolibrary.org/obo/DOID_936)     |
 | `OMIM:PS267700` |              1 | [DOID:0050120](http://purl.obolibrary.org/obo/DOID_0050120)                                                          |
 | `OMIM:PS275200` |              1 | [DOID:0050328](http://purl.obolibrary.org/obo/DOID_0050328)                                                          |
 | `OMIM:PS175100` |              1 | [DOID:0050424](http://purl.obolibrary.org/obo/DOID_0050424)                                                          |
@@ -553,6 +553,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS145980` |              1 | [DOID:0060699](http://purl.obolibrary.org/obo/DOID_0060699)                                                          |
 | `OMIM:PS308240` |              1 | [DOID:0060704](http://purl.obolibrary.org/obo/DOID_0060704)                                                          |
 | `OMIM:PS209880` |              1 | [DOID:0060731](http://purl.obolibrary.org/obo/DOID_0060731)                                                          |
+| `OMIM:PS275210` |              1 | [DOID:0060762](http://purl.obolibrary.org/obo/DOID_0060762)                                                          |
 | `OMIM:PS214700` |              1 | [DOID:0060774](http://purl.obolibrary.org/obo/DOID_0060774)                                                          |
 | `OMIM:PS312080` |              1 | [DOID:0060786](http://purl.obolibrary.org/obo/DOID_0060786)                                                          |
 | `OMIM:PS214450` |              1 | [DOID:0060831](http://purl.obolibrary.org/obo/DOID_0060831)                                                          |
@@ -724,6 +725,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS601764` |              1 | [DOID:14777](http://purl.obolibrary.org/obo/DOID_14777)                                                              |
 | `OMIM:PS204000` |              1 | [DOID:14791](http://purl.obolibrary.org/obo/DOID_14791)                                                              |
 | `OMIM:PS313900` |              1 | [DOID:1588](http://purl.obolibrary.org/obo/DOID_1588)                                                                |
+| `OMIM:PS613112` |              1 | [DOID:1588](http://purl.obolibrary.org/obo/DOID_1588)                                                                |
 | `OMIM:PS614429` |              1 | [DOID:1657](http://purl.obolibrary.org/obo/DOID_1657)                                                                |
 | `OMIM:PS600131` |              1 | [DOID:1825](http://purl.obolibrary.org/obo/DOID_1825)                                                                |
 | `OMIM:PS613339` |              1 | [DOID:1826](http://purl.obolibrary.org/obo/DOID_1826)                                                                |
@@ -737,6 +739,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS194070` |              1 | [DOID:2154](http://purl.obolibrary.org/obo/DOID_2154)                                                                |
 | `OMIM:PS104500` |              1 | [DOID:2187](http://purl.obolibrary.org/obo/DOID_2187)                                                                |
 | `OMIM:PS231200` |              1 | [DOID:2218](http://purl.obolibrary.org/obo/DOID_2218)                                                                |
+| `OMIM:PS273800` |              1 | [DOID:2219](http://purl.obolibrary.org/obo/DOID_2219)                                                                |
 | `OMIM:PS187950` |              1 | [DOID:2228](http://purl.obolibrary.org/obo/DOID_2228)                                                                |
 | `OMIM:PS604364` |              1 | [DOID:2234](http://purl.obolibrary.org/obo/DOID_2234)                                                                |
 | `OMIM:PS176400` |              1 | [DOID:2277](http://purl.obolibrary.org/obo/DOID_2277)                                                                |
@@ -798,6 +801,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS277180` |              1 | [DOID:48](http://purl.obolibrary.org/obo/DOID_48)                                                                    |
 | `OMIM:PS254770` |              1 | [DOID:4890](http://purl.obolibrary.org/obo/DOID_4890)                                                                |
 | `OMIM:PS190300` |              1 | [DOID:4990](http://purl.obolibrary.org/obo/DOID_4990)                                                                |
+| `OMIM:PS609698` |              1 | [DOID:50](http://purl.obolibrary.org/obo/DOID_50)                                                                    |
 | `OMIM:PS616814` |              1 | [DOID:5223](http://purl.obolibrary.org/obo/DOID_5223)                                                                |
 | `OMIM:PS167250` |              1 | [DOID:5408](http://purl.obolibrary.org/obo/DOID_5408)                                                                |
 | `OMIM:PS311360` |              1 | [DOID:5426](http://purl.obolibrary.org/obo/DOID_5426)                                                                |
@@ -895,6 +899,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS248600` |              1 | [DOID:9269](http://purl.obolibrary.org/obo/DOID_9269)                                                                |
 | `OMIM:PS276700` |              1 | [DOID:9275](http://purl.obolibrary.org/obo/DOID_9275)                                                                |
 | `OMIM:PS610551` |              1 | [DOID:936](http://purl.obolibrary.org/obo/DOID_936)                                                                  |
+| `OMIM:PS614388` |              1 | [DOID:936](http://purl.obolibrary.org/obo/DOID_936)                                                                  |
 | `OMIM:PS613038` |              1 | [DOID:9410](http://purl.obolibrary.org/obo/DOID_9410)                                                                |
 | `OMIM:PS244400` |              1 | [DOID:9562](http://purl.obolibrary.org/obo/DOID_9562)                                                                |
 | `OMIM:PS211400` |              1 | [DOID:9563](http://purl.obolibrary.org/obo/DOID_9563)                                                                |

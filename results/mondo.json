@@ -4397,9 +4397,6 @@
         "http://purl.obolibrary.org/obo/MONDO_0004981": [
           "NCIT:P378"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0004983": [
-          "NCIT:P378"
-        ],
         "http://purl.obolibrary.org/obo/MONDO_0004991": [
           "NCIT:P378"
         ],
@@ -5097,9 +5094,6 @@
           "NCIT:P378"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005989": [
-          "NCIT:P378"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0005992": [
           "NCIT:P378"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005995": [
@@ -6278,9 +6272,6 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0008302": [
           "MONDO:patterns/disease_series_by_gene"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0008331": [
-          "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0008334": [
           "MONDO:patterns/disease_series_by_gene"
@@ -12827,9 +12818,6 @@
         "http://purl.obolibrary.org/obo/MONDO_0021190": [
           "MONDO:patterns/basis_in_disruption_of_process"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0021191": [
-          "MONDO:patterns/malignant"
-        ],
         "http://purl.obolibrary.org/obo/MONDO_0021194": [
           "MONDO:cjm"
         ],
@@ -14381,13 +14369,6 @@
         "http://purl.obolibrary.org/obo/MONDO_0100242": [
           "OMIMPS:137800"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0100243": [
-          "MONDO:patterns/hereditary"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0100244": [
-          "MONDO:patterns/acquired",
-          "MONDO:patterns/hereditary"
-        ],
         "http://purl.obolibrary.org/obo/MONDO_0100246": [
           "MONDO:patterns/inherited_susceptibility"
         ],
@@ -14619,6 +14600,9 @@
         "http://purl.obolibrary.org/obo/MONDO_0700035": [
           "MONDO:patterns/monosomy"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0700051": [
+          "MONDO:patterns/location"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_0700060": [
           "MONDO:patterns/x_linked"
         ],
@@ -14673,6 +14657,36 @@
         "http://purl.obolibrary.org/obo/MONDO_0800001": [
           "MONDO:patterns/inherited_susceptibility"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0800032": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800033": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800034": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800035": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800036": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800037": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800038": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800039": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800040": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800041": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_8000014": [
           "MONDO:patterns/autosomal_dominant"
         ],
@@ -14687,23 +14701,18 @@
       "malformed_curies": {
         "http://purl.obolibrary.org/obo/MONDO_0100053": [
           "NCIT_C107101"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0100474": [
-          "mondo/patterns/mild"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0100475": [
-          "mondo/patterns/severe"
         ]
       },
       "noncanonical_prefixes": {
         "DO": {
           "http://purl.obolibrary.org/obo/MONDO_0000275": "DO:wk,ls"
         },
-        "HPO": {
-          "http://purl.obolibrary.org/obo/MONDO_0008331": "HPO:probinson"
-        },
         "ISBN-13": {
-          "http://purl.obolibrary.org/obo/MONDO_0100308": "ISBN-13:978-1259644030"
+          "http://purl.obolibrary.org/obo/MONDO_0000605": "ISBN-13:978-0-7817-3514-8",
+          "http://purl.obolibrary.org/obo/MONDO_0002523": "ISBN-13:978-0-7020-3485-5",
+          "http://purl.obolibrary.org/obo/MONDO_0021752": "ISBN-13:978-0-7817-3063-1",
+          "http://purl.obolibrary.org/obo/MONDO_0042451": "ISBN-13:978-0-7817-5532-0",
+          "http://purl.obolibrary.org/obo/MONDO_0100308": "ISBN-13:978-1-259-64403-0"
         },
         "OMIMPS": {
           "http://purl.obolibrary.org/obo/MONDO_0100242": "OMIMPS:137800"
@@ -21062,9 +21071,6 @@
         "http://purl.obolibrary.org/obo/MONDO_0004551": [
           "MONDO:patterns/inflammatory_disease_by_site"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0004553": [
-          "MONDO:patterns/allergic_form_of_disease"
-        ],
         "http://purl.obolibrary.org/obo/MONDO_0004554": [
           "MONDO:design_pattern",
           "MONDO:patterns/childhood"
@@ -22913,9 +22919,6 @@
         "http://purl.obolibrary.org/obo/MONDO_0005991": [
           "MONDO:patterns/specific_infectious_disease_by_agent"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0005992": [
-          "MONDO:patterns/specific_infectious_disease_by_agent"
-        ],
         "http://purl.obolibrary.org/obo/MONDO_0005993": [
           "MONDO:patterns/specific_infectious_disease_by_agent"
         ],
@@ -24668,9 +24671,6 @@
         "http://purl.obolibrary.org/obo/MONDO_0007352": [
           "MONDO:Lexical"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0007354": [
-          "MONDO:ambiguous"
-        ],
         "http://purl.obolibrary.org/obo/MONDO_0007355": [
           "MONDO:Lexical"
         ],
@@ -25387,9 +25387,6 @@
         "http://purl.obolibrary.org/obo/MONDO_0007779": [
           "MONDO:Lexical",
           "MONDO:patterns/autosomal_dominant"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0007780": [
-          "OMIM:genemap2"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0007781": [
           "MONDO:patterns/genetic",
@@ -26338,10 +26335,6 @@
           "MONDO:ambiguous",
           "OMIM:genemap2"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0008345": [
-          "MONDO:Lexical",
-          "OMIM:genemap2"
-        ],
         "http://purl.obolibrary.org/obo/MONDO_0008347": [
           "MONDO:Lexical",
           "MONDO:cjm"
@@ -27145,10 +27138,6 @@
         "http://purl.obolibrary.org/obo/MONDO_0008849": [
           "MONDO:Lexical"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0008852": [
-          "MONDO:Lexical",
-          "OMIM:genemap2"
-        ],
         "http://purl.obolibrary.org/obo/MONDO_0008853": [
           "MONDO:Lexical"
         ],
@@ -27269,9 +27258,6 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0008939": [
           "OMIM:genemap2"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0008942": [
-          "MONDO:Lexical"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0008943": [
           "MONDO:Lexical",
@@ -27502,10 +27488,6 @@
         "http://purl.obolibrary.org/obo/MONDO_0009092": [
           "MONDO:Lexical",
           "OMIMPS:221770"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0009096": [
-          "MONDO:Lexical",
-          "OMIM:genemap2"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0009097": [
           "MONDO:Lexical",
@@ -33391,10 +33373,6 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0011706": [
           "MONDO:Lexical"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0011707": [
-          "MONDO:Lexical",
-          "OMIM:genemap2"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0011708": [
           "MONDO:Lexical",
@@ -45810,6 +45788,9 @@
         "http://purl.obolibrary.org/obo/MONDO_0016698": [
           "MONDO:patterns/benign"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0016700": [
+          "MONDO:patterns/malignant"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_0016706": [
           "MONDO:patterns/location"
         ],
@@ -46176,6 +46157,9 @@
         "http://purl.obolibrary.org/obo/MONDO_0017851": [
           "MONDO:Lexical"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0017853": [
+          "MONDO:patterns/allergic_form_of_disease"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_0017881": [
           "MONDO:patterns/specific_infectious_disease_by_agent"
         ],
@@ -46407,6 +46391,9 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0018440": [
           "MONDO:patterns/autosomal_recessive"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0018445": [
+          "OMIM:genemap2"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0018451": [
           "MONDO:patterns/x_linked"
@@ -46988,6 +46975,9 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0019443": [
           "MONDO:Lexical"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0019444": [
+          "MONDO:patterns/specific_infectious_disease_by_agent"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0019470": [
           "MONDO:patterns/location"
@@ -48150,9 +48140,6 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0021190": [
           "MONDO:patterns/basis_in_disruption_of_process"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0021191": [
-          "MONDO:patterns/malignant"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0021192": [
           "MONDO:patterns/location",
@@ -50056,9 +50043,6 @@
         "http://purl.obolibrary.org/obo/MONDO_0032644": [
           "OMIM:genemap2"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0032647": [
-          "OMIM:genemap2"
-        ],
         "http://purl.obolibrary.org/obo/MONDO_0032651": [
           "OMIM:genemap2"
         ],
@@ -50854,6 +50838,7 @@
           "MONDO:patterns/specific_infectious_disease_by_agent"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0044749": [
+          "GARD:0003995-def",
           "MONDO:patterns/x_linked"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0044751": [
@@ -51340,7 +51325,7 @@
         "http://purl.obolibrary.org/obo/MONDO_0100242": [
           "OMIMPS:137800"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0100243": [
+        "http://purl.obolibrary.org/obo/MONDO_0100244": [
           "MONDO:patterns/hereditary"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0100246": [
@@ -51568,6 +51553,12 @@
         "http://purl.obolibrary.org/obo/MONDO_0700035": [
           "MONDO:patterns/monosomy"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0700051": [
+          "MONDO:patterns/location"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0700055": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_0700066": [
           "MONDO:patterns/disease_series_by_gene"
         ],
@@ -51603,6 +51594,48 @@
         "http://purl.obolibrary.org/obo/MONDO_0800001": [
           "OMIM:genemap2"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0800026": [
+          "MONDO:Lexical"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800027": [
+          "MONDO:Lexical"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800028": [
+          "MONDO:Lexical"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800029": [
+          "MONDO:Lexical"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800032": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800033": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800034": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800035": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800036": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800037": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800038": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800039": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800040": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800041": [
+          "MONDO:patterns/disease_series_by_gene"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_8000006": [
           "MONDO:Lexical",
           "OMIM:genemap2"
@@ -51626,17 +51659,19 @@
       "malformed_curies": {},
       "noncanonical_prefixes": {
         "ISBN-13": {
-          "http://purl.obolibrary.org/obo/MONDO_0001292": "ISBN-13:978-1259644030",
-          "http://purl.obolibrary.org/obo/MONDO_0002545": "ISBN-13:978-1259644030",
-          "http://purl.obolibrary.org/obo/MONDO_0002602": "ISBN-13:978-1259644030",
-          "http://purl.obolibrary.org/obo/MONDO_0004975": "ISBN-13:978-1259644030",
-          "http://purl.obolibrary.org/obo/MONDO_0005071": "ISBN-13:978-1259644030",
-          "http://purl.obolibrary.org/obo/MONDO_0005180": "ISBN-13:978-1259644030",
-          "http://purl.obolibrary.org/obo/MONDO_0005451": "ISBN-13:978-1259644030",
-          "http://purl.obolibrary.org/obo/MONDO_0007488": "ISBN-13:978-1259644030",
-          "http://purl.obolibrary.org/obo/MONDO_0011057": "ISBN-13:978-1259644030",
-          "http://purl.obolibrary.org/obo/MONDO_0019056": "ISBN-13:978-1259644030",
-          "http://purl.obolibrary.org/obo/MONDO_0100308": "ISBN-13:978-1259644030"
+          "http://purl.obolibrary.org/obo/MONDO_0001292": "ISBN-13:978-1-259-64403-0",
+          "http://purl.obolibrary.org/obo/MONDO_0002545": "ISBN-13:978-1-259-64403-0",
+          "http://purl.obolibrary.org/obo/MONDO_0002602": "ISBN-13:978-1-259-64403-0",
+          "http://purl.obolibrary.org/obo/MONDO_0004975": "ISBN-13:978-1-259-64403-0",
+          "http://purl.obolibrary.org/obo/MONDO_0005071": "ISBN-13:978-1-259-64403-0",
+          "http://purl.obolibrary.org/obo/MONDO_0005180": "ISBN-13:978-1-259-64403-0",
+          "http://purl.obolibrary.org/obo/MONDO_0005451": "ISBN-13:978-1-259-64403-0",
+          "http://purl.obolibrary.org/obo/MONDO_0007095": "ISBN-13:978-88-470-0687-4",
+          "http://purl.obolibrary.org/obo/MONDO_0007488": "ISBN-13:978-1-259-64403-0",
+          "http://purl.obolibrary.org/obo/MONDO_0008384": "ISBN-13:978-1-4160-2999-1",
+          "http://purl.obolibrary.org/obo/MONDO_0011057": "ISBN-13:978-1-259-64403-0",
+          "http://purl.obolibrary.org/obo/MONDO_0019056": "ISBN-13:978-1-259-64403-0",
+          "http://purl.obolibrary.org/obo/MONDO_0100308": "ISBN-13:978-1-259-64403-0"
         },
         "OMIMPS": {
           "http://purl.obolibrary.org/obo/MONDO_0000009": "OMIMPS:231200",
@@ -51785,6 +51820,8 @@
           "http://purl.obolibrary.org/obo/MONDO_0009958": "SCTID:25362006",
           "http://purl.obolibrary.org/obo/MONDO_0018746": "SCTID:34250006",
           "http://purl.obolibrary.org/obo/MONDO_0020066": "SCTID:398114001",
+          "http://purl.obolibrary.org/obo/MONDO_0021171": "SCTID:699256006",
+          "http://purl.obolibrary.org/obo/MONDO_0021172": "SCTID:719907006",
           "http://purl.obolibrary.org/obo/MONDO_0021651": "SCTID:84598000",
           "http://purl.obolibrary.org/obo/MONDO_0021723": "SCTID:712752004",
           "http://purl.obolibrary.org/obo/MONDO_0042974": "SCTID:30270006",
@@ -54649,7 +54686,7 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/mondo/releases/2022-04-04/mondo.owl",
+    "version": "http://purl.obolibrary.org/obo/mondo/releases/2022-05-02/mondo.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/MONDO_0000005": [
@@ -55128,8 +55165,7 @@
           "KEGG:05414"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005045": [
-          "KEGG:05410",
-          "OMIMPS:192600"
+          "KEGG:05410"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005049": [
           "UMLS:CN236663"
@@ -55287,6 +55323,9 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005508": [
           "UMLS:CN204014"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0005514": [
+          "OMIMPS:600165"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005563": [
           "UMLS:CN237663"
@@ -55575,9 +55614,6 @@
         "http://purl.obolibrary.org/obo/MONDO_0007761": [
           "UMLS:CN074246"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0007780": [
-          "UMLS:CN199596"
-        ],
         "http://purl.obolibrary.org/obo/MONDO_0007783": [
           "UMLS:CN031421"
         ],
@@ -55659,6 +55695,7 @@
           "UMLS:CN187050"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0008073": [
+          "UMLS:CN206322",
           "UMLS:CN239214"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0008075": [
@@ -57619,6 +57656,9 @@
         "http://purl.obolibrary.org/obo/MONDO_0015963": [
           "UMLS:CN200562"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0015964": [
+          "UMLS:CN200563"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_0015965": [
           "UMLS:CN226813"
         ],
@@ -59524,6 +59564,9 @@
         "http://purl.obolibrary.org/obo/MONDO_0017610": [
           "OMIMPS:131760"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0017612": [
+          "OMIMPS:226650"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_0017615": [
           "OMIMPS:601764",
           "UMLS:CN203492"
@@ -59615,6 +59658,12 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0017674": [
           "UMLS:CN203558"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0017678": [
+          "UMLS:CN203565"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0017679": [
+          "UMLS:CN203566"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0017680": [
           "UMLS:CN203567"
@@ -59853,6 +59902,9 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0017819": [
           "UMLS:CN203789"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0017820": [
+          "UMLS:CN203791"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0017823": [
           "UMLS:CN203793"
@@ -61181,6 +61233,9 @@
         "http://purl.obolibrary.org/obo/MONDO_0018718": [
           "UMLS:CN242155"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0018719": [
+          "UMLS:CN242066"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_0018721": [
           "UMLS:CN242069"
         ],
@@ -61487,6 +61542,9 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0018947": [
           "OMIMPS:160150"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0018949": [
+          "OMIMPS:160500"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0018950": [
           "OMIMPS:210200",
@@ -62138,9 +62196,6 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0019507": [
           "OMIMPS:104500"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0019511": [
-          "UMLS:CN206322"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0019515": [
           "UMLS:CN227644"
@@ -62841,6 +62896,9 @@
         "http://purl.obolibrary.org/obo/MONDO_0020149": [
           "UMLS:CN207024"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0020150": [
+          "UMLS:CN207025"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_0020154": [
           "UMLS:CN237783"
         ],
@@ -63311,9 +63369,6 @@
         "http://purl.obolibrary.org/obo/MONDO_0021107": [
           "OMIMPS:161400"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0021129": [
-          "OMIMPS:600165"
-        ],
         "http://purl.obolibrary.org/obo/MONDO_0021154": [
           "UMLS:CN227618"
         ],
@@ -63471,11 +63526,23 @@
         "http://purl.obolibrary.org/obo/MONDO_0025511": [
           "UMLS:CN202530"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0025518": [
+          "IEDB:RV"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_0025986": [
           "OMIMPS:249210"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0027694": [
           "UMLS:CN778765"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0030639": [
+          "OMIMPS:145420"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0030796": [
+          "OMIMPS:221820"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0030831": [
+          "OMIMPS:243150"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0030909": [
           "UMLS:CN679647"
@@ -63519,11 +63586,17 @@
         "http://purl.obolibrary.org/obo/MONDO_0031037": [
           "OMIMPS:116860"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0031115": [
+          "OMIMPS:606703"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_0031169": [
           "OMIMPS:184260"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0031178": [
           "OMIMPS:252270"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0031199": [
+          "OMIMPS:619611"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0031200": [
           "OMIMPS:619720"
@@ -63536,6 +63609,9 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0031386": [
           "OMIMPS:619142"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0031400": [
+          "OMIMPS:619758"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0031421": [
           "OMIMPS:614594"
@@ -64002,7 +64078,7 @@
         "http://purl.obolibrary.org/obo/MONDO_0100242": [
           "OMIMPS:137800"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0100243": [
+        "http://purl.obolibrary.org/obo/MONDO_0100244": [
           "OMIMPS:300818"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0100246": [
@@ -64037,6 +64113,12 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0700092": [
           "MedDRA:C1535926"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800025": [
+          "UMLS:CN199596"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0800031": [
+          "OMIMPS:209880"
         ]
       },
       "label": "Node Xrefs",
@@ -64139,7 +64221,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0004933": "OMIMPS:241550",
           "http://purl.obolibrary.org/obo/MONDO_0004980": "OMIMPS:603165",
           "http://purl.obolibrary.org/obo/MONDO_0004983": "OMIMPS:258150",
-          "http://purl.obolibrary.org/obo/MONDO_0005045": "OMIMPS:192600",
           "http://purl.obolibrary.org/obo/MONDO_0005081": "OMIMPS:189800",
           "http://purl.obolibrary.org/obo/MONDO_0005083": "OMIMPS:177900",
           "http://purl.obolibrary.org/obo/MONDO_0005115": "OMIMPS:600512",
@@ -64164,6 +64245,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0005486": "OMIMPS:106600",
           "http://purl.obolibrary.org/obo/MONDO_0005500": "OMIMPS:212065",
           "http://purl.obolibrary.org/obo/MONDO_0005501": "OMIMPS:212066",
+          "http://purl.obolibrary.org/obo/MONDO_0005514": "OMIMPS:600165",
           "http://purl.obolibrary.org/obo/MONDO_0005579": "OMIMPS:600669",
           "http://purl.obolibrary.org/obo/MONDO_0005712": "OMIMPS:310700",
           "http://purl.obolibrary.org/obo/MONDO_0005803": "OMIMPS:256450",
@@ -64360,6 +64442,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0017436": "OMIMPS:253310",
           "http://purl.obolibrary.org/obo/MONDO_0017579": "OMIMPS:243310",
           "http://purl.obolibrary.org/obo/MONDO_0017610": "OMIMPS:131760",
+          "http://purl.obolibrary.org/obo/MONDO_0017612": "OMIMPS:226650",
           "http://purl.obolibrary.org/obo/MONDO_0017615": "OMIMPS:601764",
           "http://purl.obolibrary.org/obo/MONDO_0017813": "OMIMPS:601390",
           "http://purl.obolibrary.org/obo/MONDO_0017824": "OMIMPS:102200",
@@ -64415,6 +64498,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0018940": "OMIMPS:601462",
           "http://purl.obolibrary.org/obo/MONDO_0018943": "OMIMPS:601419",
           "http://purl.obolibrary.org/obo/MONDO_0018947": "OMIMPS:160150",
+          "http://purl.obolibrary.org/obo/MONDO_0018949": "OMIMPS:160500",
           "http://purl.obolibrary.org/obo/MONDO_0018950": "OMIMPS:210200",
           "http://purl.obolibrary.org/obo/MONDO_0018953": "OMIMPS:168500",
           "http://purl.obolibrary.org/obo/MONDO_0018954": "OMIMPS:609192",
@@ -64505,7 +64589,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0021055": "OMIMPS:175100",
           "http://purl.obolibrary.org/obo/MONDO_0021094": "OMIMPS:300755",
           "http://purl.obolibrary.org/obo/MONDO_0021107": "OMIMPS:161400",
-          "http://purl.obolibrary.org/obo/MONDO_0021129": "OMIMPS:600165",
           "http://purl.obolibrary.org/obo/MONDO_0021272": "OMIMPS:223360",
           "http://purl.obolibrary.org/obo/MONDO_0021944": "OMIMPS:609129",
           "http://purl.obolibrary.org/obo/MONDO_0023880": "OMIMPS:193670",
@@ -64520,14 +64603,20 @@
           "http://purl.obolibrary.org/obo/MONDO_0025193": "OMIMPS:164310",
           "http://purl.obolibrary.org/obo/MONDO_0025445": "OMIMPS:314580",
           "http://purl.obolibrary.org/obo/MONDO_0025986": "OMIMPS:249210",
+          "http://purl.obolibrary.org/obo/MONDO_0030639": "OMIMPS:145420",
+          "http://purl.obolibrary.org/obo/MONDO_0030796": "OMIMPS:221820",
+          "http://purl.obolibrary.org/obo/MONDO_0030831": "OMIMPS:243150",
           "http://purl.obolibrary.org/obo/MONDO_0030923": "OMIMPS:105500",
           "http://purl.obolibrary.org/obo/MONDO_0031037": "OMIMPS:116860",
+          "http://purl.obolibrary.org/obo/MONDO_0031115": "OMIMPS:606703",
           "http://purl.obolibrary.org/obo/MONDO_0031169": "OMIMPS:184260",
           "http://purl.obolibrary.org/obo/MONDO_0031178": "OMIMPS:252270",
+          "http://purl.obolibrary.org/obo/MONDO_0031199": "OMIMPS:619611",
           "http://purl.obolibrary.org/obo/MONDO_0031200": "OMIMPS:619720",
           "http://purl.obolibrary.org/obo/MONDO_0031219": "OMIMPS:276300",
           "http://purl.obolibrary.org/obo/MONDO_0031230": "OMIMPS:252011",
           "http://purl.obolibrary.org/obo/MONDO_0031386": "OMIMPS:619142",
+          "http://purl.obolibrary.org/obo/MONDO_0031400": "OMIMPS:619758",
           "http://purl.obolibrary.org/obo/MONDO_0031421": "OMIMPS:614594",
           "http://purl.obolibrary.org/obo/MONDO_0031439": "OMIMPS:617877",
           "http://purl.obolibrary.org/obo/MONDO_0033196": "OMIMPS:227220",
@@ -64556,18 +64645,18 @@
           "http://purl.obolibrary.org/obo/MONDO_0100240": "OMIMPS:188050",
           "http://purl.obolibrary.org/obo/MONDO_0100241": "OMIMPS:313900",
           "http://purl.obolibrary.org/obo/MONDO_0100242": "OMIMPS:137800",
-          "http://purl.obolibrary.org/obo/MONDO_0100243": "OMIMPS:300818",
+          "http://purl.obolibrary.org/obo/MONDO_0100244": "OMIMPS:300818",
           "http://purl.obolibrary.org/obo/MONDO_0100246": "OMIMPS:157300",
           "http://purl.obolibrary.org/obo/MONDO_0100247": "OMIMPS:614080",
           "http://purl.obolibrary.org/obo/MONDO_0100280": "OMIMPS:153600",
           "http://purl.obolibrary.org/obo/MONDO_0100326": "OMIMPS:273800",
           "http://purl.obolibrary.org/obo/MONDO_0100327": "OMIMPS:607748",
-          "http://purl.obolibrary.org/obo/MONDO_0100328": "OMIMPS:614231"
+          "http://purl.obolibrary.org/obo/MONDO_0100328": "OMIMPS:614231",
+          "http://purl.obolibrary.org/obo/MONDO_0800031": "OMIMPS:209880"
         },
         "SCTID": {
           "http://purl.obolibrary.org/obo/MONDO_0000001": "SCTID:64572001",
           "http://purl.obolibrary.org/obo/MONDO_0000004": "SCTID:386584007",
-          "http://purl.obolibrary.org/obo/MONDO_0000009": "SCTID:22716005",
           "http://purl.obolibrary.org/obo/MONDO_0000015": "SCTID:363009005",
           "http://purl.obolibrary.org/obo/MONDO_0000050": "SCTID:2109003",
           "http://purl.obolibrary.org/obo/MONDO_0000078": "SCTID:205260006",
@@ -64593,7 +64682,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0000200": "SCTID:699447001",
           "http://purl.obolibrary.org/obo/MONDO_0000212": "SCTID:34225008",
           "http://purl.obolibrary.org/obo/MONDO_0000214": "SCTID:768553002",
-          "http://purl.obolibrary.org/obo/MONDO_0000222": "SCTID:301990003",
+          "http://purl.obolibrary.org/obo/MONDO_0000222": "SCTID:65049003",
           "http://purl.obolibrary.org/obo/MONDO_0000225": "SCTID:359747000",
           "http://purl.obolibrary.org/obo/MONDO_0000226": "SCTID:45744005",
           "http://purl.obolibrary.org/obo/MONDO_0000227": "SCTID:415561000",
@@ -64763,7 +64852,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0000726": "SCTID:203639008",
           "http://purl.obolibrary.org/obo/MONDO_0000728": "SCTID:11934000",
           "http://purl.obolibrary.org/obo/MONDO_0000733": "SCTID:204145006",
-          "http://purl.obolibrary.org/obo/MONDO_0000734": "SCTID:412787009",
           "http://purl.obolibrary.org/obo/MONDO_0000736": "SCTID:239082002",
           "http://purl.obolibrary.org/obo/MONDO_0000739": "SCTID:300932000",
           "http://purl.obolibrary.org/obo/MONDO_0000740": "SCTID:111591002",
@@ -64907,7 +64995,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0001052": "SCTID:111898002",
           "http://purl.obolibrary.org/obo/MONDO_0001053": "SCTID:56663002",
           "http://purl.obolibrary.org/obo/MONDO_0001054": "SCTID:41564009",
-          "http://purl.obolibrary.org/obo/MONDO_0001056": "SCTID:126824007",
           "http://purl.obolibrary.org/obo/MONDO_0001059": "SCTID:276811008",
           "http://purl.obolibrary.org/obo/MONDO_0001060": "SCTID:276809004",
           "http://purl.obolibrary.org/obo/MONDO_0001061": "SCTID:187736009",
@@ -64951,7 +65038,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0001112": "SCTID:50797007",
           "http://purl.obolibrary.org/obo/MONDO_0001113": "SCTID:266238009",
           "http://purl.obolibrary.org/obo/MONDO_0001114": "SCTID:64043005",
-          "http://purl.obolibrary.org/obo/MONDO_0001115": "SCTID:17342003",
           "http://purl.obolibrary.org/obo/MONDO_0001116": "SCTID:44897000",
           "http://purl.obolibrary.org/obo/MONDO_0001117": "SCTID:38959009",
           "http://purl.obolibrary.org/obo/MONDO_0001118": "SCTID:68981009",
@@ -65016,7 +65102,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0001184": "SCTID:197614002",
           "http://purl.obolibrary.org/obo/MONDO_0001185": "SCTID:84209002",
           "http://purl.obolibrary.org/obo/MONDO_0001186": "SCTID:70764005",
-          "http://purl.obolibrary.org/obo/MONDO_0001187": "SCTID:126885006",
+          "http://purl.obolibrary.org/obo/MONDO_0001187": "SCTID:399326009",
           "http://purl.obolibrary.org/obo/MONDO_0001191": "SCTID:64351000",
           "http://purl.obolibrary.org/obo/MONDO_0001193": "SCTID:53854005",
           "http://purl.obolibrary.org/obo/MONDO_0001195": "SCTID:186771002",
@@ -65132,7 +65218,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0001319": "SCTID:188241004",
           "http://purl.obolibrary.org/obo/MONDO_0001320": "SCTID:5299007",
           "http://purl.obolibrary.org/obo/MONDO_0001321": "SCTID:111534007",
-          "http://purl.obolibrary.org/obo/MONDO_0001322": "SCTID:126734005",
           "http://purl.obolibrary.org/obo/MONDO_0001323": "SCTID:34831003",
           "http://purl.obolibrary.org/obo/MONDO_0001324": "SCTID:237793004",
           "http://purl.obolibrary.org/obo/MONDO_0001325": "SCTID:363516004",
@@ -65192,9 +65277,9 @@
           "http://purl.obolibrary.org/obo/MONDO_0001395": "SCTID:2853006",
           "http://purl.obolibrary.org/obo/MONDO_0001396": "SCTID:50455002",
           "http://purl.obolibrary.org/obo/MONDO_0001397": "SCTID:128189008",
-          "http://purl.obolibrary.org/obo/MONDO_0001398": "SCTID:126882009",
+          "http://purl.obolibrary.org/obo/MONDO_0001398": "SCTID:92464009",
           "http://purl.obolibrary.org/obo/MONDO_0001401": "SCTID:188147009",
-          "http://purl.obolibrary.org/obo/MONDO_0001402": "SCTID:126921000",
+          "http://purl.obolibrary.org/obo/MONDO_0001402": "SCTID:363445000",
           "http://purl.obolibrary.org/obo/MONDO_0001403": "SCTID:363446004",
           "http://purl.obolibrary.org/obo/MONDO_0001404": "SCTID:85791004",
           "http://purl.obolibrary.org/obo/MONDO_0001405": "SCTID:399029005",
@@ -65302,7 +65387,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0001525": "SCTID:190303007",
           "http://purl.obolibrary.org/obo/MONDO_0001526": "SCTID:363447008",
           "http://purl.obolibrary.org/obo/MONDO_0001527": "SCTID:1534008",
-          "http://purl.obolibrary.org/obo/MONDO_0001528": "SCTID:126922007",
+          "http://purl.obolibrary.org/obo/MONDO_0001528": "SCTID:363367000",
           "http://purl.obolibrary.org/obo/MONDO_0001529": "SCTID:127034005",
           "http://purl.obolibrary.org/obo/MONDO_0001530": "SCTID:19034001",
           "http://purl.obolibrary.org/obo/MONDO_0001531": "SCTID:64779008",
@@ -65469,7 +65554,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0001740": "SCTID:255008003",
           "http://purl.obolibrary.org/obo/MONDO_0001741": "SCTID:66999008",
           "http://purl.obolibrary.org/obo/MONDO_0001742": "SCTID:65460003",
-          "http://purl.obolibrary.org/obo/MONDO_0001744": "SCTID:33647009",
+          "http://purl.obolibrary.org/obo/MONDO_0001744": "SCTID:392291006",
           "http://purl.obolibrary.org/obo/MONDO_0001745": "SCTID:95280005",
           "http://purl.obolibrary.org/obo/MONDO_0001746": "SCTID:33629003",
           "http://purl.obolibrary.org/obo/MONDO_0001747": "SCTID:44245003",
@@ -65535,7 +65620,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0001822": "SCTID:363140000",
           "http://purl.obolibrary.org/obo/MONDO_0001823": "SCTID:36083008",
           "http://purl.obolibrary.org/obo/MONDO_0001824": "SCTID:42345000",
-          "http://purl.obolibrary.org/obo/MONDO_0001827": "SCTID:402135006",
+          "http://purl.obolibrary.org/obo/MONDO_0001827": "SCTID:35586003",
           "http://purl.obolibrary.org/obo/MONDO_0001828": "SCTID:71676008",
           "http://purl.obolibrary.org/obo/MONDO_0001829": "SCTID:4062006",
           "http://purl.obolibrary.org/obo/MONDO_0001830": "SCTID:397923000",
@@ -65640,7 +65725,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0001964": "SCTID:87665008",
           "http://purl.obolibrary.org/obo/MONDO_0001965": "SCTID:27886001",
           "http://purl.obolibrary.org/obo/MONDO_0001966": "SCTID:33647009",
-          "http://purl.obolibrary.org/obo/MONDO_0001967": "SCTID:38804009",
+          "http://purl.obolibrary.org/obo/MONDO_0001967": "SCTID:205681004",
           "http://purl.obolibrary.org/obo/MONDO_0001969": "SCTID:83579008",
           "http://purl.obolibrary.org/obo/MONDO_0001971": "SCTID:18690003",
           "http://purl.obolibrary.org/obo/MONDO_0001972": "SCTID:427999003",
@@ -65648,7 +65733,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0001974": "SCTID:121951000119101",
           "http://purl.obolibrary.org/obo/MONDO_0001975": "SCTID:254998002",
           "http://purl.obolibrary.org/obo/MONDO_0001976": "SCTID:25113000",
-          "http://purl.obolibrary.org/obo/MONDO_0001979": "SCTID:80193009",
           "http://purl.obolibrary.org/obo/MONDO_0001982": "SCTID:58459009",
           "http://purl.obolibrary.org/obo/MONDO_0001983": "SCTID:89182000",
           "http://purl.obolibrary.org/obo/MONDO_0001984": "SCTID:187014000",
@@ -65727,10 +65811,10 @@
           "http://purl.obolibrary.org/obo/MONDO_0002102": "SCTID:7847004",
           "http://purl.obolibrary.org/obo/MONDO_0002103": "SCTID:50705009",
           "http://purl.obolibrary.org/obo/MONDO_0002105": "SCTID:28536002",
-          "http://purl.obolibrary.org/obo/MONDO_0002108": "SCTID:127018007",
+          "http://purl.obolibrary.org/obo/MONDO_0002108": "SCTID:363478007",
           "http://purl.obolibrary.org/obo/MONDO_0002109": "SCTID:363482009",
           "http://purl.obolibrary.org/obo/MONDO_0002113": "SCTID:447781009",
-          "http://purl.obolibrary.org/obo/MONDO_0002116": "SCTID:254604005",
+          "http://purl.obolibrary.org/obo/MONDO_0002116": "SCTID:255088001",
           "http://purl.obolibrary.org/obo/MONDO_0002118": "SCTID:128606002",
           "http://purl.obolibrary.org/obo/MONDO_0002120": "SCTID:253000007",
           "http://purl.obolibrary.org/obo/MONDO_0002121": "SCTID:32595002",
@@ -65742,7 +65826,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0002128": "SCTID:30292005",
           "http://purl.obolibrary.org/obo/MONDO_0002129": "SCTID:428281000",
           "http://purl.obolibrary.org/obo/MONDO_0002133": "SCTID:78069008",
-          "http://purl.obolibrary.org/obo/MONDO_0002134": "SCTID:231532002",
           "http://purl.obolibrary.org/obo/MONDO_0002135": "SCTID:77157004",
           "http://purl.obolibrary.org/obo/MONDO_0002136": "SCTID:36259009",
           "http://purl.obolibrary.org/obo/MONDO_0002137": "SCTID:111524003",
@@ -65786,7 +65869,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0002196": "SCTID:65390006",
           "http://purl.obolibrary.org/obo/MONDO_0002200": "SCTID:254720009",
           "http://purl.obolibrary.org/obo/MONDO_0002203": "SCTID:14760008",
-          "http://purl.obolibrary.org/obo/MONDO_0002204": "SCTID:66191007",
+          "http://purl.obolibrary.org/obo/MONDO_0002204": "SCTID:6011000119108",
           "http://purl.obolibrary.org/obo/MONDO_0002205": "SCTID:254896002",
           "http://purl.obolibrary.org/obo/MONDO_0002207": "SCTID:254898001",
           "http://purl.obolibrary.org/obo/MONDO_0002209": "SCTID:55260003",
@@ -65816,7 +65899,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0002251": "SCTID:197268000",
           "http://purl.obolibrary.org/obo/MONDO_0002252": "SCTID:86514004",
           "http://purl.obolibrary.org/obo/MONDO_0002253": "SCTID:48210000",
-          "http://purl.obolibrary.org/obo/MONDO_0002254": "SCTID:64572001",
           "http://purl.obolibrary.org/obo/MONDO_0002255": "SCTID:198353000",
           "http://purl.obolibrary.org/obo/MONDO_0002256": "SCTID:63339007",
           "http://purl.obolibrary.org/obo/MONDO_0002257": "SCTID:111227009",
@@ -65874,7 +65956,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0002328": "SCTID:93468003",
           "http://purl.obolibrary.org/obo/MONDO_0002329": "SCTID:64910008",
           "http://purl.obolibrary.org/obo/MONDO_0002330": "SCTID:42344001",
-          "http://purl.obolibrary.org/obo/MONDO_0002331": "SCTID:90708001",
           "http://purl.obolibrary.org/obo/MONDO_0002332": "SCTID:51244008",
           "http://purl.obolibrary.org/obo/MONDO_0002333": "SCTID:82053000",
           "http://purl.obolibrary.org/obo/MONDO_0002334": "SCTID:129154003",
@@ -65927,7 +66008,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0002423": "SCTID:126848003",
           "http://purl.obolibrary.org/obo/MONDO_0002425": "SCTID:363414004",
           "http://purl.obolibrary.org/obo/MONDO_0002427": "SCTID:223176004",
-          "http://purl.obolibrary.org/obo/MONDO_0002429": "SCTID:236302005",
+          "http://purl.obolibrary.org/obo/MONDO_0002429": "SCTID:700249006",
           "http://purl.obolibrary.org/obo/MONDO_0002432": "SCTID:254980001",
           "http://purl.obolibrary.org/obo/MONDO_0002433": "SCTID:188307009",
           "http://purl.obolibrary.org/obo/MONDO_0002434": "SCTID:93929003",
@@ -65935,8 +66016,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0002436": "SCTID:89488007",
           "http://purl.obolibrary.org/obo/MONDO_0002440": "SCTID:367328005",
           "http://purl.obolibrary.org/obo/MONDO_0002441": "SCTID:373905003",
-          "http://purl.obolibrary.org/obo/MONDO_0002442": "SCTID:20852007",
-          "http://purl.obolibrary.org/obo/MONDO_0002444": "SCTID:35489007",
           "http://purl.obolibrary.org/obo/MONDO_0002447": "SCTID:254878006",
           "http://purl.obolibrary.org/obo/MONDO_0002449": "SCTID:72620002",
           "http://purl.obolibrary.org/obo/MONDO_0002450": "SCTID:21173002",
@@ -66030,7 +66109,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0002660": "SCTID:47704002",
           "http://purl.obolibrary.org/obo/MONDO_0002661": "SCTID:95678007",
           "http://purl.obolibrary.org/obo/MONDO_0002679": "SCTID:20059004",
-          "http://purl.obolibrary.org/obo/MONDO_0002681": "SCTID:254942002",
           "http://purl.obolibrary.org/obo/MONDO_0002682": "SCTID:126958000",
           "http://purl.obolibrary.org/obo/MONDO_0002687": "SCTID:197006009",
           "http://purl.obolibrary.org/obo/MONDO_0002688": "SCTID:95532008",
@@ -66045,13 +66123,12 @@
           "http://purl.obolibrary.org/obo/MONDO_0002707": "SCTID:444712000",
           "http://purl.obolibrary.org/obo/MONDO_0002708": "SCTID:399463004",
           "http://purl.obolibrary.org/obo/MONDO_0002714": "SCTID:126951006",
-          "http://purl.obolibrary.org/obo/MONDO_0002715": "SCTID:126908007",
+          "http://purl.obolibrary.org/obo/MONDO_0002715": "SCTID:371973000",
           "http://purl.obolibrary.org/obo/MONDO_0002721": "SCTID:59572000",
           "http://purl.obolibrary.org/obo/MONDO_0002722": "SCTID:126967000",
           "http://purl.obolibrary.org/obo/MONDO_0002724": "SCTID:414653009",
           "http://purl.obolibrary.org/obo/MONDO_0002727": "SCTID:68982002",
           "http://purl.obolibrary.org/obo/MONDO_0002731": "SCTID:429033009",
-          "http://purl.obolibrary.org/obo/MONDO_0002732": "SCTID:126713003",
           "http://purl.obolibrary.org/obo/MONDO_0002735": "SCTID:764845008",
           "http://purl.obolibrary.org/obo/MONDO_0002737": "SCTID:77478005",
           "http://purl.obolibrary.org/obo/MONDO_0002738": "SCTID:359609001",
@@ -66064,13 +66141,11 @@
           "http://purl.obolibrary.org/obo/MONDO_0002768": "SCTID:237821001",
           "http://purl.obolibrary.org/obo/MONDO_0002771": "SCTID:51615001",
           "http://purl.obolibrary.org/obo/MONDO_0002776": "SCTID:49130001",
-          "http://purl.obolibrary.org/obo/MONDO_0002782": "SCTID:73013002",
           "http://purl.obolibrary.org/obo/MONDO_0002790": "SCTID:236740006",
           "http://purl.obolibrary.org/obo/MONDO_0002800": "SCTID:40283005",
           "http://purl.obolibrary.org/obo/MONDO_0002801": "SCTID:35065006",
           "http://purl.obolibrary.org/obo/MONDO_0002803": "SCTID:235825006",
           "http://purl.obolibrary.org/obo/MONDO_0002804": "SCTID:307596009",
-          "http://purl.obolibrary.org/obo/MONDO_0002805": "SCTID:253020008",
           "http://purl.obolibrary.org/obo/MONDO_0002806": "SCTID:254622008",
           "http://purl.obolibrary.org/obo/MONDO_0002807": "SCTID:126705004",
           "http://purl.obolibrary.org/obo/MONDO_0002809": "SCTID:235967003",
@@ -66106,7 +66181,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0002909": "SCTID:80394007",
           "http://purl.obolibrary.org/obo/MONDO_0002911": "SCTID:444545003",
           "http://purl.obolibrary.org/obo/MONDO_0002912": "SCTID:363473003",
-          "http://purl.obolibrary.org/obo/MONDO_0002913": "SCTID:449420002",
+          "http://purl.obolibrary.org/obo/MONDO_0002913": "SCTID:126960003",
           "http://purl.obolibrary.org/obo/MONDO_0002917": "SCTID:201128002",
           "http://purl.obolibrary.org/obo/MONDO_0002922": "SCTID:70759006",
           "http://purl.obolibrary.org/obo/MONDO_0002926": "SCTID:402561003",
@@ -66117,7 +66192,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0002937": "SCTID:403910009",
           "http://purl.obolibrary.org/obo/MONDO_0002938": "SCTID:254702000",
           "http://purl.obolibrary.org/obo/MONDO_0002939": "SCTID:403909004",
-          "http://purl.obolibrary.org/obo/MONDO_0002941": "SCTID:255084004",
           "http://purl.obolibrary.org/obo/MONDO_0002945": "SCTID:402529002",
           "http://purl.obolibrary.org/obo/MONDO_0002947": "SCTID:402524007",
           "http://purl.obolibrary.org/obo/MONDO_0002948": "SCTID:254703005",
@@ -66139,7 +66213,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0002975": "SCTID:188050009",
           "http://purl.obolibrary.org/obo/MONDO_0002984": "SCTID:404162004",
           "http://purl.obolibrary.org/obo/MONDO_0002987": "SCTID:23615008",
-          "http://purl.obolibrary.org/obo/MONDO_0003001": "SCTID:255107005",
+          "http://purl.obolibrary.org/obo/MONDO_0003001": "SCTID:443675005",
           "http://purl.obolibrary.org/obo/MONDO_0003004": "SCTID:422338006",
           "http://purl.obolibrary.org/obo/MONDO_0003005": "SCTID:37231002",
           "http://purl.obolibrary.org/obo/MONDO_0003008": "SCTID:717736007",
@@ -66166,11 +66240,10 @@
           "http://purl.obolibrary.org/obo/MONDO_0003085": "SCTID:5888003",
           "http://purl.obolibrary.org/obo/MONDO_0003090": "SCTID:372101000",
           "http://purl.obolibrary.org/obo/MONDO_0003091": "SCTID:254713002",
-          "http://purl.obolibrary.org/obo/MONDO_0003104": "SCTID:126733004",
           "http://purl.obolibrary.org/obo/MONDO_0003105": "SCTID:30281009",
           "http://purl.obolibrary.org/obo/MONDO_0003110": "SCTID:93471006",
           "http://purl.obolibrary.org/obo/MONDO_0003111": "SCTID:721194008",
-          "http://purl.obolibrary.org/obo/MONDO_0003117": "SCTID:397923000",
+          "http://purl.obolibrary.org/obo/MONDO_0003117": "SCTID:31297008",
           "http://purl.obolibrary.org/obo/MONDO_0003122": "SCTID:29618004",
           "http://purl.obolibrary.org/obo/MONDO_0003124": "SCTID:67871000119105",
           "http://purl.obolibrary.org/obo/MONDO_0003125": "SCTID:702406000",
@@ -66216,8 +66289,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0003265": "SCTID:17226007",
           "http://purl.obolibrary.org/obo/MONDO_0003268": "SCTID:443937008",
           "http://purl.obolibrary.org/obo/MONDO_0003271": "SCTID:190279008",
-          "http://purl.obolibrary.org/obo/MONDO_0003273": "SCTID:126559003",
-          "http://purl.obolibrary.org/obo/MONDO_0003274": "SCTID:255058005",
+          "http://purl.obolibrary.org/obo/MONDO_0003274": "SCTID:188361007",
           "http://purl.obolibrary.org/obo/MONDO_0003275": "SCTID:363359008",
           "http://purl.obolibrary.org/obo/MONDO_0003276": "SCTID:68996008",
           "http://purl.obolibrary.org/obo/MONDO_0003277": "SCTID:443648003",
@@ -66250,7 +66322,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0003393": "SCTID:20673009",
           "http://purl.obolibrary.org/obo/MONDO_0003394": "SCTID:57203004",
           "http://purl.obolibrary.org/obo/MONDO_0003396": "SCTID:45676007",
-          "http://purl.obolibrary.org/obo/MONDO_0003397": "SCTID:54711002",
           "http://purl.obolibrary.org/obo/MONDO_0003406": "SCTID:39898005",
           "http://purl.obolibrary.org/obo/MONDO_0003409": "SCTID:128524007",
           "http://purl.obolibrary.org/obo/MONDO_0003414": "SCTID:307610008",
@@ -66327,7 +66398,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0003669": "SCTID:255107005",
           "http://purl.obolibrary.org/obo/MONDO_0003672": "SCTID:194802003",
           "http://purl.obolibrary.org/obo/MONDO_0003678": "SCTID:233843008",
-          "http://purl.obolibrary.org/obo/MONDO_0003687": "SCTID:126731002",
+          "http://purl.obolibrary.org/obo/MONDO_0003687": "SCTID:363436001",
           "http://purl.obolibrary.org/obo/MONDO_0003689": "SCTID:42601008",
           "http://purl.obolibrary.org/obo/MONDO_0003699": "SCTID:386810004",
           "http://purl.obolibrary.org/obo/MONDO_0003709": "SCTID:70691001",
@@ -66385,7 +66456,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0003969": "SCTID:84758004",
           "http://purl.obolibrary.org/obo/MONDO_0003970": "SCTID:254555008",
           "http://purl.obolibrary.org/obo/MONDO_0003972": "SCTID:254557000",
-          "http://purl.obolibrary.org/obo/MONDO_0003985": "SCTID:712750007",
           "http://purl.obolibrary.org/obo/MONDO_0003996": "SCTID:70835005",
           "http://purl.obolibrary.org/obo/MONDO_0004001": "SCTID:111245009",
           "http://purl.obolibrary.org/obo/MONDO_0004026": "SCTID:201091002",
@@ -66414,7 +66484,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0004167": "SCTID:254630009",
           "http://purl.obolibrary.org/obo/MONDO_0004170": "SCTID:70558001",
           "http://purl.obolibrary.org/obo/MONDO_0004177": "SCTID:92466006",
-          "http://purl.obolibrary.org/obo/MONDO_0004180": "SCTID:126879004",
+          "http://purl.obolibrary.org/obo/MONDO_0004180": "SCTID:92468007",
           "http://purl.obolibrary.org/obo/MONDO_0004183": "SCTID:60703000",
           "http://purl.obolibrary.org/obo/MONDO_0004184": "SCTID:4985009",
           "http://purl.obolibrary.org/obo/MONDO_0004187": "SCTID:400138001",
@@ -66498,7 +66568,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0004566": "SCTID:80193009",
           "http://purl.obolibrary.org/obo/MONDO_0004567": "SCTID:710572000",
           "http://purl.obolibrary.org/obo/MONDO_0004568": "SCTID:55525008",
-          "http://purl.obolibrary.org/obo/MONDO_0004569": "SCTID:3548001",
           "http://purl.obolibrary.org/obo/MONDO_0004570": "SCTID:9707006",
           "http://purl.obolibrary.org/obo/MONDO_0004571": "SCTID:62851005",
           "http://purl.obolibrary.org/obo/MONDO_0004572": "SCTID:76105009",
@@ -66567,7 +66636,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0004648": "SCTID:429998004",
           "http://purl.obolibrary.org/obo/MONDO_0004649": "SCTID:409664000",
           "http://purl.obolibrary.org/obo/MONDO_0004650": "SCTID:447883002",
-          "http://purl.obolibrary.org/obo/MONDO_0004651": "SCTID:47452006",
+          "http://purl.obolibrary.org/obo/MONDO_0004651": "SCTID:67924001",
           "http://purl.obolibrary.org/obo/MONDO_0004652": "SCTID:53084003",
           "http://purl.obolibrary.org/obo/MONDO_0004653": "SCTID:277589003",
           "http://purl.obolibrary.org/obo/MONDO_0004656": "SCTID:36653000",
@@ -66647,7 +66716,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0004746": "SCTID:57130002",
           "http://purl.obolibrary.org/obo/MONDO_0004747": "SCTID:80281008",
           "http://purl.obolibrary.org/obo/MONDO_0004748": "SCTID:90678009",
-          "http://purl.obolibrary.org/obo/MONDO_0004749": "SCTID:126732009",
           "http://purl.obolibrary.org/obo/MONDO_0004753": "SCTID:5371001",
           "http://purl.obolibrary.org/obo/MONDO_0004756": "SCTID:126670003",
           "http://purl.obolibrary.org/obo/MONDO_0004757": "SCTID:73237007",
@@ -66662,7 +66730,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0004768": "SCTID:88151007",
           "http://purl.obolibrary.org/obo/MONDO_0004769": "SCTID:72789009",
           "http://purl.obolibrary.org/obo/MONDO_0004770": "SCTID:18265008",
-          "http://purl.obolibrary.org/obo/MONDO_0004771": "SCTID:11226001",
           "http://purl.obolibrary.org/obo/MONDO_0004772": "SCTID:29538005",
           "http://purl.obolibrary.org/obo/MONDO_0004773": "SCTID:77971008",
           "http://purl.obolibrary.org/obo/MONDO_0004774": "SCTID:9091006",
@@ -66712,7 +66779,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0004841": "SCTID:88531004",
           "http://purl.obolibrary.org/obo/MONDO_0004842": "SCTID:61170000",
           "http://purl.obolibrary.org/obo/MONDO_0004844": "SCTID:414603003",
-          "http://purl.obolibrary.org/obo/MONDO_0004845": "SCTID:427617000",
           "http://purl.obolibrary.org/obo/MONDO_0004846": "SCTID:415105001",
           "http://purl.obolibrary.org/obo/MONDO_0004847": "SCTID:39450006",
           "http://purl.obolibrary.org/obo/MONDO_0004848": "SCTID:450005",
@@ -66802,13 +66868,11 @@
           "http://purl.obolibrary.org/obo/MONDO_0004947": "SCTID:277571004",
           "http://purl.obolibrary.org/obo/MONDO_0004949": "SCTID:269476000",
           "http://purl.obolibrary.org/obo/MONDO_0004950": "SCTID:187741001",
-          "http://purl.obolibrary.org/obo/MONDO_0004952": "SCTID:118602004",
           "http://purl.obolibrary.org/obo/MONDO_0004953": "SCTID:408643008",
-          "http://purl.obolibrary.org/obo/MONDO_0004955": "SCTID:237602007",
           "http://purl.obolibrary.org/obo/MONDO_0004956": "SCTID:314994000",
           "http://purl.obolibrary.org/obo/MONDO_0004958": "SCTID:307502000",
           "http://purl.obolibrary.org/obo/MONDO_0004959": "SCTID:415111003",
-          "http://purl.obolibrary.org/obo/MONDO_0004960": "SCTID:58648008",
+          "http://purl.obolibrary.org/obo/MONDO_0004960": "SCTID:109983007",
           "http://purl.obolibrary.org/obo/MONDO_0004966": "SCTID:4556007",
           "http://purl.obolibrary.org/obo/MONDO_0004967": "SCTID:91857003",
           "http://purl.obolibrary.org/obo/MONDO_0004970": "SCTID:443961001",
@@ -66820,8 +66884,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0004979": "SCTID:31387002",
           "http://purl.obolibrary.org/obo/MONDO_0004981": "SCTID:49436004",
           "http://purl.obolibrary.org/obo/MONDO_0004982": "SCTID:75694006",
-          "http://purl.obolibrary.org/obo/MONDO_0004983": "SCTID:425558002",
-          "http://purl.obolibrary.org/obo/MONDO_0004985": "SCTID:191627008",
+          "http://purl.obolibrary.org/obo/MONDO_0004985": "SCTID:13746004",
           "http://purl.obolibrary.org/obo/MONDO_0004986": "SCTID:255108000",
           "http://purl.obolibrary.org/obo/MONDO_0004987": "SCTID:126885006",
           "http://purl.obolibrary.org/obo/MONDO_0004989": "SCTID:254838004",
@@ -66843,7 +66906,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0005016": "SCTID:127013003",
           "http://purl.obolibrary.org/obo/MONDO_0005020": "SCTID:85919009",
           "http://purl.obolibrary.org/obo/MONDO_0005021": "SCTID:195021004",
-          "http://purl.obolibrary.org/obo/MONDO_0005023": "SCTID:189336000",
           "http://purl.obolibrary.org/obo/MONDO_0005025": "SCTID:56819008",
           "http://purl.obolibrary.org/obo/MONDO_0005027": "SCTID:84757009",
           "http://purl.obolibrary.org/obo/MONDO_0005028": "SCTID:276803003",
@@ -66856,13 +66918,11 @@
           "http://purl.obolibrary.org/obo/MONDO_0005035": "SCTID:116381000119105",
           "http://purl.obolibrary.org/obo/MONDO_0005036": "SCTID:408647009",
           "http://purl.obolibrary.org/obo/MONDO_0005039": "SCTID:362968007",
-          "http://purl.obolibrary.org/obo/MONDO_0005040": "SCTID:402878003",
           "http://purl.obolibrary.org/obo/MONDO_0005041": "SCTID:23986001",
           "http://purl.obolibrary.org/obo/MONDO_0005042": "SCTID:118934005",
           "http://purl.obolibrary.org/obo/MONDO_0005044": "SCTID:38341003",
           "http://purl.obolibrary.org/obo/MONDO_0005045": "SCTID:233873004",
           "http://purl.obolibrary.org/obo/MONDO_0005046": "SCTID:414029004",
-          "http://purl.obolibrary.org/obo/MONDO_0005051": "SCTID:278054005",
           "http://purl.obolibrary.org/obo/MONDO_0005052": "SCTID:10743008",
           "http://purl.obolibrary.org/obo/MONDO_0005053": "SCTID:52674009",
           "http://purl.obolibrary.org/obo/MONDO_0005055": "SCTID:109385007",
@@ -66870,7 +66930,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0005059": "SCTID:93143009",
           "http://purl.obolibrary.org/obo/MONDO_0005060": "SCTID:254829001",
           "http://purl.obolibrary.org/obo/MONDO_0005061": "SCTID:254626006",
-          "http://purl.obolibrary.org/obo/MONDO_0005062": "SCTID:188498009",
+          "http://purl.obolibrary.org/obo/MONDO_0005062": "SCTID:118600007",
           "http://purl.obolibrary.org/obo/MONDO_0005066": "SCTID:75934005",
           "http://purl.obolibrary.org/obo/MONDO_0005068": "SCTID:22298006",
           "http://purl.obolibrary.org/obo/MONDO_0005070": "SCTID:55342001",
@@ -66887,7 +66947,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0005083": "SCTID:9014002",
           "http://purl.obolibrary.org/obo/MONDO_0005084": "SCTID:74732009",
           "http://purl.obolibrary.org/obo/MONDO_0005085": "SCTID:77489003",
-          "http://purl.obolibrary.org/obo/MONDO_0005086": "SCTID:254915003",
+          "http://purl.obolibrary.org/obo/MONDO_0005086": "SCTID:702391001",
           "http://purl.obolibrary.org/obo/MONDO_0005087": "SCTID:50043002",
           "http://purl.obolibrary.org/obo/MONDO_0005089": "SCTID:424413001",
           "http://purl.obolibrary.org/obo/MONDO_0005090": "SCTID:58214004",
@@ -66908,7 +66968,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0005112": "SCTID:254645002",
           "http://purl.obolibrary.org/obo/MONDO_0005113": "SCTID:87628006",
           "http://purl.obolibrary.org/obo/MONDO_0005114": "SCTID:16814004",
-          "http://purl.obolibrary.org/obo/MONDO_0005115": "SCTID:193000002",
+          "http://purl.obolibrary.org/obo/MONDO_0005115": "SCTID:783739005",
           "http://purl.obolibrary.org/obo/MONDO_0005116": "SCTID:41545003",
           "http://purl.obolibrary.org/obo/MONDO_0005118": "SCTID:85708001",
           "http://purl.obolibrary.org/obo/MONDO_0005119": "SCTID:409498004",
@@ -66921,7 +66981,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0005131": "SCTID:285432005",
           "http://purl.obolibrary.org/obo/MONDO_0005132": "SCTID:28944009",
           "http://purl.obolibrary.org/obo/MONDO_0005133": "SCTID:129103003",
-          "http://purl.obolibrary.org/obo/MONDO_0005135": "SCTID:57100005",
+          "http://purl.obolibrary.org/obo/MONDO_0005135": "SCTID:17322007",
           "http://purl.obolibrary.org/obo/MONDO_0005136": "SCTID:61462000",
           "http://purl.obolibrary.org/obo/MONDO_0005137": "SCTID:2492009",
           "http://purl.obolibrary.org/obo/MONDO_0005139": "SCTID:83911000119104",
@@ -66963,7 +67023,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0005201": "SCTID:415295002",
           "http://purl.obolibrary.org/obo/MONDO_0005202": "SCTID:115665000",
           "http://purl.obolibrary.org/obo/MONDO_0005204": "SCTID:239892009",
-          "http://purl.obolibrary.org/obo/MONDO_0005206": "SCTID:254915003",
           "http://purl.obolibrary.org/obo/MONDO_0005207": "SCTID:188188009",
           "http://purl.obolibrary.org/obo/MONDO_0005210": "SCTID:254877001",
           "http://purl.obolibrary.org/obo/MONDO_0005212": "SCTID:302847003",
@@ -67002,7 +67061,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0005272": "SCTID:109996008",
           "http://purl.obolibrary.org/obo/MONDO_0005275": "SCTID:19829001",
           "http://purl.obolibrary.org/obo/MONDO_0005276": "SCTID:80967001",
-          "http://purl.obolibrary.org/obo/MONDO_0005277": "SCTID:37796009",
           "http://purl.obolibrary.org/obo/MONDO_0005279": "SCTID:59282003",
           "http://purl.obolibrary.org/obo/MONDO_0005280": "SCTID:9713002",
           "http://purl.obolibrary.org/obo/MONDO_0005281": "SCTID:39621005",
@@ -67020,7 +67078,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0005297": "SCTID:84619001",
           "http://purl.obolibrary.org/obo/MONDO_0005298": "SCTID:64859006",
           "http://purl.obolibrary.org/obo/MONDO_0005299": "SCTID:389100007",
-          "http://purl.obolibrary.org/obo/MONDO_0005300": "SCTID:90688005",
+          "http://purl.obolibrary.org/obo/MONDO_0005300": "SCTID:709044004",
           "http://purl.obolibrary.org/obo/MONDO_0005301": "SCTID:24700007",
           "http://purl.obolibrary.org/obo/MONDO_0005302": "SCTID:406506008",
           "http://purl.obolibrary.org/obo/MONDO_0005303": "SCTID:191816009",
@@ -67059,7 +67117,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0005350": "SCTID:233985008",
           "http://purl.obolibrary.org/obo/MONDO_0005351": "SCTID:56882008",
           "http://purl.obolibrary.org/obo/MONDO_0005352": "SCTID:430909002",
-          "http://purl.obolibrary.org/obo/MONDO_0005354": "SCTID:128302006",
           "http://purl.obolibrary.org/obo/MONDO_0005356": "SCTID:23687008",
           "http://purl.obolibrary.org/obo/MONDO_0005357": "SCTID:792004",
           "http://purl.obolibrary.org/obo/MONDO_0005358": "SCTID:20927009",
@@ -67067,19 +67124,19 @@
           "http://purl.obolibrary.org/obo/MONDO_0005361": "SCTID:235599003",
           "http://purl.obolibrary.org/obo/MONDO_0005362": "SCTID:397803000",
           "http://purl.obolibrary.org/obo/MONDO_0005363": "SCTID:236403004",
-          "http://purl.obolibrary.org/obo/MONDO_0005364": "SCTID:267374005",
+          "http://purl.obolibrary.org/obo/MONDO_0005364": "SCTID:353295004",
           "http://purl.obolibrary.org/obo/MONDO_0005365": "SCTID:15188001",
           "http://purl.obolibrary.org/obo/MONDO_0005367": "SCTID:231477003",
           "http://purl.obolibrary.org/obo/MONDO_0005369": "SCTID:443492008",
           "http://purl.obolibrary.org/obo/MONDO_0005371": "SCTID:46206005",
           "http://purl.obolibrary.org/obo/MONDO_0005372": "SCTID:2904007",
           "http://purl.obolibrary.org/obo/MONDO_0005373": "SCTID:23511006",
-          "http://purl.obolibrary.org/obo/MONDO_0005374": "SCTID:425333006",
+          "http://purl.obolibrary.org/obo/MONDO_0005374": "SCTID:414824005",
           "http://purl.obolibrary.org/obo/MONDO_0005375": "SCTID:126680004",
           "http://purl.obolibrary.org/obo/MONDO_0005376": "SCTID:77182004",
           "http://purl.obolibrary.org/obo/MONDO_0005377": "SCTID:52254009",
           "http://purl.obolibrary.org/obo/MONDO_0005379": "SCTID:111475002",
-          "http://purl.obolibrary.org/obo/MONDO_0005380": "SCTID:397758007",
+          "http://purl.obolibrary.org/obo/MONDO_0005380": "SCTID:240196003",
           "http://purl.obolibrary.org/obo/MONDO_0005381": "SCTID:76069003",
           "http://purl.obolibrary.org/obo/MONDO_0005382": "SCTID:2089002",
           "http://purl.obolibrary.org/obo/MONDO_0005383": "SCTID:371631005",
@@ -67091,7 +67148,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0005391": "SCTID:32914008",
           "http://purl.obolibrary.org/obo/MONDO_0005392": "SCTID:298382003",
           "http://purl.obolibrary.org/obo/MONDO_0005393": "SCTID:190828008",
-          "http://purl.obolibrary.org/obo/MONDO_0005394": "SCTID:230693009",
           "http://purl.obolibrary.org/obo/MONDO_0005395": "SCTID:60342002",
           "http://purl.obolibrary.org/obo/MONDO_0005396": "SCTID:433068007",
           "http://purl.obolibrary.org/obo/MONDO_0005397": "SCTID:3716002",
@@ -67117,7 +67173,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0005452": "SCTID:78004001",
           "http://purl.obolibrary.org/obo/MONDO_0005453": "SCTID:13213009",
           "http://purl.obolibrary.org/obo/MONDO_0005454": "SCTID:707594002",
-          "http://purl.obolibrary.org/obo/MONDO_0005459": "SCTID:78940002",
+          "http://purl.obolibrary.org/obo/MONDO_0005459": "SCTID:27031003",
           "http://purl.obolibrary.org/obo/MONDO_0005460": "SCTID:442696006",
           "http://purl.obolibrary.org/obo/MONDO_0005463": "SCTID:250978003",
           "http://purl.obolibrary.org/obo/MONDO_0005464": "SCTID:19620000",
@@ -67137,7 +67193,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0005485": "SCTID:69322001",
           "http://purl.obolibrary.org/obo/MONDO_0005486": "SCTID:16958000",
           "http://purl.obolibrary.org/obo/MONDO_0005488": "SCTID:203646004",
-          "http://purl.obolibrary.org/obo/MONDO_0005489": "SCTID:52824009",
           "http://purl.obolibrary.org/obo/MONDO_0005491": "SCTID:998008",
           "http://purl.obolibrary.org/obo/MONDO_0005492": "SCTID:126485001",
           "http://purl.obolibrary.org/obo/MONDO_0005494": "SCTID:706970001",
@@ -67155,16 +67210,14 @@
           "http://purl.obolibrary.org/obo/MONDO_0005514": "SCTID:716775009",
           "http://purl.obolibrary.org/obo/MONDO_0005515": "SCTID:363505006",
           "http://purl.obolibrary.org/obo/MONDO_0005516": "SCTID:105985007",
-          "http://purl.obolibrary.org/obo/MONDO_0005518": "SCTID:268229003",
+          "http://purl.obolibrary.org/obo/MONDO_0005518": "SCTID:75164001",
           "http://purl.obolibrary.org/obo/MONDO_0005519": "SCTID:363457009",
           "http://purl.obolibrary.org/obo/MONDO_0005520": "SCTID:41345002",
           "http://purl.obolibrary.org/obo/MONDO_0005522": "SCTID:448664009",
-          "http://purl.obolibrary.org/obo/MONDO_0005524": "SCTID:254708001",
           "http://purl.obolibrary.org/obo/MONDO_0005526": "SCTID:76902006",
           "http://purl.obolibrary.org/obo/MONDO_0005527": "SCTID:28394000",
           "http://purl.obolibrary.org/obo/MONDO_0005530": "SCTID:75544000",
           "http://purl.obolibrary.org/obo/MONDO_0005531": "SCTID:231479000",
-          "http://purl.obolibrary.org/obo/MONDO_0005532": "SCTID:7620006",
           "http://purl.obolibrary.org/obo/MONDO_0005533": "SCTID:373639002",
           "http://purl.obolibrary.org/obo/MONDO_0005535": "SCTID:196578009",
           "http://purl.obolibrary.org/obo/MONDO_0005537": "SCTID:235796008",
@@ -67180,7 +67233,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0005556": "SCTID:68815009",
           "http://purl.obolibrary.org/obo/MONDO_0005557": "SCTID:71638002",
           "http://purl.obolibrary.org/obo/MONDO_0005558": "SCTID:5552004",
-          "http://purl.obolibrary.org/obo/MONDO_0005559": "SCTID:362975008",
+          "http://purl.obolibrary.org/obo/MONDO_0005559": "SCTID:80690008",
           "http://purl.obolibrary.org/obo/MONDO_0005560": "SCTID:81308009",
           "http://purl.obolibrary.org/obo/MONDO_0005561": "SCTID:47040006",
           "http://purl.obolibrary.org/obo/MONDO_0005566": "SCTID:414819007",
@@ -67188,11 +67241,11 @@
           "http://purl.obolibrary.org/obo/MONDO_0005568": "SCTID:307406004",
           "http://purl.obolibrary.org/obo/MONDO_0005569": "SCTID:50927007",
           "http://purl.obolibrary.org/obo/MONDO_0005570": "SCTID:414022008",
-          "http://purl.obolibrary.org/obo/MONDO_0005575": "SCTID:408645001",
+          "http://purl.obolibrary.org/obo/MONDO_0005575": "SCTID:363510005",
           "http://purl.obolibrary.org/obo/MONDO_0005576": "SCTID:30911005",
           "http://purl.obolibrary.org/obo/MONDO_0005578": "SCTID:3723001",
           "http://purl.obolibrary.org/obo/MONDO_0005579": "SCTID:19598007",
-          "http://purl.obolibrary.org/obo/MONDO_0005580": "SCTID:372138000",
+          "http://purl.obolibrary.org/obo/MONDO_0005580": "SCTID:276804009",
           "http://purl.obolibrary.org/obo/MONDO_0005582": "SCTID:439960005",
           "http://purl.obolibrary.org/obo/MONDO_0005586": "SCTID:255055008",
           "http://purl.obolibrary.org/obo/MONDO_0005593": "SCTID:5689008",
@@ -67211,7 +67264,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0005624": "SCTID:83664006",
           "http://purl.obolibrary.org/obo/MONDO_0005625": "SCTID:53622003",
           "http://purl.obolibrary.org/obo/MONDO_0005626": "SCTID:118285006",
-          "http://purl.obolibrary.org/obo/MONDO_0005627": "SCTID:255055008",
           "http://purl.obolibrary.org/obo/MONDO_0005628": "SCTID:372095001",
           "http://purl.obolibrary.org/obo/MONDO_0005629": "SCTID:231896005",
           "http://purl.obolibrary.org/obo/MONDO_0005630": "SCTID:16140007",
@@ -67239,7 +67291,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0005665": "SCTID:193093009",
           "http://purl.obolibrary.org/obo/MONDO_0005667": "SCTID:197432008",
           "http://purl.obolibrary.org/obo/MONDO_0005668": "SCTID:69339004",
-          "http://purl.obolibrary.org/obo/MONDO_0005669": "SCTID:402135006",
+          "http://purl.obolibrary.org/obo/MONDO_0005669": "SCTID:33666009",
           "http://purl.obolibrary.org/obo/MONDO_0005670": "SCTID:56625005",
           "http://purl.obolibrary.org/obo/MONDO_0005671": "SCTID:721809007",
           "http://purl.obolibrary.org/obo/MONDO_0005672": "SCTID:191950004",
@@ -67290,7 +67342,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0005747": "SCTID:53648006",
           "http://purl.obolibrary.org/obo/MONDO_0005751": "SCTID:83264000",
           "http://purl.obolibrary.org/obo/MONDO_0005752": "SCTID:61974008",
-          "http://purl.obolibrary.org/obo/MONDO_0005753": "SCTID:29608009",
+          "http://purl.obolibrary.org/obo/MONDO_0005753": "SCTID:80384002",
           "http://purl.obolibrary.org/obo/MONDO_0005754": "SCTID:352818000",
           "http://purl.obolibrary.org/obo/MONDO_0005756": "SCTID:18643000",
           "http://purl.obolibrary.org/obo/MONDO_0005757": "SCTID:410038006",
@@ -67320,7 +67372,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0005791": "SCTID:274102007",
           "http://purl.obolibrary.org/obo/MONDO_0005792": "SCTID:57920007",
           "http://purl.obolibrary.org/obo/MONDO_0005794": "SCTID:23513009",
-          "http://purl.obolibrary.org/obo/MONDO_0005800": "SCTID:1489008",
+          "http://purl.obolibrary.org/obo/MONDO_0005800": "SCTID:397513003",
           "http://purl.obolibrary.org/obo/MONDO_0005802": "SCTID:44917000",
           "http://purl.obolibrary.org/obo/MONDO_0005803": "SCTID:42681006",
           "http://purl.obolibrary.org/obo/MONDO_0005804": "SCTID:237662005",
@@ -67351,7 +67403,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0005838": "SCTID:240849009",
           "http://purl.obolibrary.org/obo/MONDO_0005841": "SCTID:126550004",
           "http://purl.obolibrary.org/obo/MONDO_0005842": "SCTID:88348008",
-          "http://purl.obolibrary.org/obo/MONDO_0005843": "SCTID:126725000",
+          "http://purl.obolibrary.org/obo/MONDO_0005843": "SCTID:363494000",
           "http://purl.obolibrary.org/obo/MONDO_0005844": "SCTID:1482004",
           "http://purl.obolibrary.org/obo/MONDO_0005845": "SCTID:7125002",
           "http://purl.obolibrary.org/obo/MONDO_0005846": "SCTID:699676006",
@@ -67379,7 +67431,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0005883": "SCTID:87513003",
           "http://purl.obolibrary.org/obo/MONDO_0005884": "SCTID:1059007",
           "http://purl.obolibrary.org/obo/MONDO_0005885": "SCTID:66760008",
-          "http://purl.obolibrary.org/obo/MONDO_0005886": "SCTID:78048006",
+          "http://purl.obolibrary.org/obo/MONDO_0005886": "SCTID:79740000",
           "http://purl.obolibrary.org/obo/MONDO_0005887": "SCTID:235067001",
           "http://purl.obolibrary.org/obo/MONDO_0005888": "SCTID:75116005",
           "http://purl.obolibrary.org/obo/MONDO_0005890": "SCTID:84727000",
@@ -67437,11 +67489,11 @@
           "http://purl.obolibrary.org/obo/MONDO_0005971": "SCTID:84622004",
           "http://purl.obolibrary.org/obo/MONDO_0005972": "SCTID:233607000",
           "http://purl.obolibrary.org/obo/MONDO_0005974": "SCTID:187176005",
-          "http://purl.obolibrary.org/obo/MONDO_0005975": "SCTID:38394007",
+          "http://purl.obolibrary.org/obo/MONDO_0005975": "SCTID:39288006",
           "http://purl.obolibrary.org/obo/MONDO_0005976": "SCTID:76272004",
           "http://purl.obolibrary.org/obo/MONDO_0005977": "SCTID:316841006",
           "http://purl.obolibrary.org/obo/MONDO_0005978": "SCTID:68771000",
-          "http://purl.obolibrary.org/obo/MONDO_0005979": "SCTID:2040007",
+          "http://purl.obolibrary.org/obo/MONDO_0005979": "SCTID:128210009",
           "http://purl.obolibrary.org/obo/MONDO_0005981": "SCTID:74225001",
           "http://purl.obolibrary.org/obo/MONDO_0005983": "SCTID:85375000",
           "http://purl.obolibrary.org/obo/MONDO_0005984": "SCTID:6020002",
@@ -67463,7 +67515,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0006006": "SCTID:403904009",
           "http://purl.obolibrary.org/obo/MONDO_0006007": "SCTID:197811007",
           "http://purl.obolibrary.org/obo/MONDO_0006008": "SCTID:186738001",
-          "http://purl.obolibrary.org/obo/MONDO_0006009": "SCTID:186499007",
+          "http://purl.obolibrary.org/obo/MONDO_0006009": "SCTID:34476008",
           "http://purl.obolibrary.org/obo/MONDO_0006011": "SCTID:3738000",
           "http://purl.obolibrary.org/obo/MONDO_0006012": "SCTID:75570004",
           "http://purl.obolibrary.org/obo/MONDO_0006014": "SCTID:72605008",
@@ -67483,6 +67535,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0006039": "SCTID:39341005",
           "http://purl.obolibrary.org/obo/MONDO_0006040": "SCTID:91273001",
           "http://purl.obolibrary.org/obo/MONDO_0006041": "SCTID:254627002",
+          "http://purl.obolibrary.org/obo/MONDO_0006042": "SCTID:58437007",
           "http://purl.obolibrary.org/obo/MONDO_0006043": "SCTID:763479005",
           "http://purl.obolibrary.org/obo/MONDO_0006044": "SCTID:32916005",
           "http://purl.obolibrary.org/obo/MONDO_0006045": "SCTID:763131005",
@@ -67493,7 +67546,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0006075": "SCTID:719049003",
           "http://purl.obolibrary.org/obo/MONDO_0006076": "SCTID:281562007",
           "http://purl.obolibrary.org/obo/MONDO_0006081": "SCTID:276821000",
-          "http://purl.obolibrary.org/obo/MONDO_0006082": "SCTID:255084004",
           "http://purl.obolibrary.org/obo/MONDO_0006085": "SCTID:404057003",
           "http://purl.obolibrary.org/obo/MONDO_0006086": "SCTID:404083008",
           "http://purl.obolibrary.org/obo/MONDO_0006087": "SCTID:413445002",
@@ -67539,7 +67591,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0006279": "SCTID:707460002",
           "http://purl.obolibrary.org/obo/MONDO_0006280": "SCTID:707365008",
           "http://purl.obolibrary.org/obo/MONDO_0006281": "SCTID:707407001",
-          "http://purl.obolibrary.org/obo/MONDO_0006282": "SCTID:62497000",
+          "http://purl.obolibrary.org/obo/MONDO_0006282": "SCTID:403986008",
           "http://purl.obolibrary.org/obo/MONDO_0006288": "SCTID:21851000119103",
           "http://purl.obolibrary.org/obo/MONDO_0006290": "SCTID:145831000119103",
           "http://purl.obolibrary.org/obo/MONDO_0006292": "SCTID:109378008",
@@ -67599,7 +67651,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0006506": "SCTID:301317008",
           "http://purl.obolibrary.org/obo/MONDO_0006507": "SCTID:35400008",
           "http://purl.obolibrary.org/obo/MONDO_0006515": "SCTID:7881005",
-          "http://purl.obolibrary.org/obo/MONDO_0006519": "SCTID:254582000",
+          "http://purl.obolibrary.org/obo/MONDO_0006519": "SCTID:363351006",
           "http://purl.obolibrary.org/obo/MONDO_0006520": "SCTID:238824006",
           "http://purl.obolibrary.org/obo/MONDO_0006522": "SCTID:400166009",
           "http://purl.obolibrary.org/obo/MONDO_0006523": "SCTID:8197001",
@@ -67682,7 +67734,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0006633": "SCTID:19968009",
           "http://purl.obolibrary.org/obo/MONDO_0006637": "SCTID:35455006",
           "http://purl.obolibrary.org/obo/MONDO_0006638": "SCTID:231986000",
-          "http://purl.obolibrary.org/obo/MONDO_0006639": "SCTID:371964008",
+          "http://purl.obolibrary.org/obo/MONDO_0006639": "SCTID:255035007",
           "http://purl.obolibrary.org/obo/MONDO_0006640": "SCTID:275437005",
           "http://purl.obolibrary.org/obo/MONDO_0006641": "SCTID:20813000",
           "http://purl.obolibrary.org/obo/MONDO_0006642": "SCTID:8635005",
@@ -67692,7 +67744,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0006648": "SCTID:12694001",
           "http://purl.obolibrary.org/obo/MONDO_0006649": "SCTID:404659001",
           "http://purl.obolibrary.org/obo/MONDO_0006650": "SCTID:2972007",
-          "http://purl.obolibrary.org/obo/MONDO_0006651": "SCTID:77971008",
+          "http://purl.obolibrary.org/obo/MONDO_0006651": "SCTID:410692006",
           "http://purl.obolibrary.org/obo/MONDO_0006653": "SCTID:33548005",
           "http://purl.obolibrary.org/obo/MONDO_0006654": "SCTID:29422001",
           "http://purl.obolibrary.org/obo/MONDO_0006656": "SCTID:70933002",
@@ -67700,7 +67752,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0006659": "SCTID:361133006",
           "http://purl.obolibrary.org/obo/MONDO_0006660": "SCTID:402413008",
           "http://purl.obolibrary.org/obo/MONDO_0006661": "SCTID:76169001",
-          "http://purl.obolibrary.org/obo/MONDO_0006662": "SCTID:58170007",
+          "http://purl.obolibrary.org/obo/MONDO_0006662": "SCTID:301770000",
           "http://purl.obolibrary.org/obo/MONDO_0006663": "SCTID:28314004",
           "http://purl.obolibrary.org/obo/MONDO_0006664": "SCTID:253366007",
           "http://purl.obolibrary.org/obo/MONDO_0006665": "SCTID:84568007",
@@ -67780,7 +67832,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0006784": "SCTID:12546009",
           "http://purl.obolibrary.org/obo/MONDO_0006786": "SCTID:38739001",
           "http://purl.obolibrary.org/obo/MONDO_0006787": "SCTID:254725004",
-          "http://purl.obolibrary.org/obo/MONDO_0006788": "SCTID:204113001",
           "http://purl.obolibrary.org/obo/MONDO_0006790": "SCTID:78537008",
           "http://purl.obolibrary.org/obo/MONDO_0006791": "SCTID:14094001",
           "http://purl.obolibrary.org/obo/MONDO_0006792": "SCTID:402852007",
@@ -67901,7 +67952,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0006957": "SCTID:30512007",
           "http://purl.obolibrary.org/obo/MONDO_0006960": "SCTID:52585001",
           "http://purl.obolibrary.org/obo/MONDO_0006962": "SCTID:307599002",
-          "http://purl.obolibrary.org/obo/MONDO_0006963": "SCTID:92337009",
+          "http://purl.obolibrary.org/obo/MONDO_0006963": "SCTID:126491004",
           "http://purl.obolibrary.org/obo/MONDO_0006964": "SCTID:91478007",
           "http://purl.obolibrary.org/obo/MONDO_0006965": "SCTID:203357004",
           "http://purl.obolibrary.org/obo/MONDO_0006966": "SCTID:265377002",
@@ -67966,7 +68017,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0007051": "SCTID:720456009",
           "http://purl.obolibrary.org/obo/MONDO_0007055": "SCTID:254090007",
           "http://purl.obolibrary.org/obo/MONDO_0007056": "SCTID:27201004",
-          "http://purl.obolibrary.org/obo/MONDO_0007057": "SCTID:27201004",
+          "http://purl.obolibrary.org/obo/MONDO_0007057": "SCTID:63122002",
           "http://purl.obolibrary.org/obo/MONDO_0007058": "SCTID:720457000",
           "http://purl.obolibrary.org/obo/MONDO_0007059": "SCTID:720458005",
           "http://purl.obolibrary.org/obo/MONDO_0007060": "SCTID:236818008",
@@ -68006,7 +68057,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0007137": "SCTID:230502003",
           "http://purl.obolibrary.org/obo/MONDO_0007142": "SCTID:24750000",
           "http://purl.obolibrary.org/obo/MONDO_0007145": "SCTID:35484002",
-          "http://purl.obolibrary.org/obo/MONDO_0007147": "SCTID:73430006",
+          "http://purl.obolibrary.org/obo/MONDO_0007147": "SCTID:78275009",
           "http://purl.obolibrary.org/obo/MONDO_0007150": "SCTID:231924000",
           "http://purl.obolibrary.org/obo/MONDO_0007154": "SCTID:234142008",
           "http://purl.obolibrary.org/obo/MONDO_0007157": "SCTID:715314008",
@@ -68145,7 +68196,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0007447": "SCTID:238694002",
           "http://purl.obolibrary.org/obo/MONDO_0007448": "SCTID:7632005",
           "http://purl.obolibrary.org/obo/MONDO_0007449": "SCTID:721091003",
-          "http://purl.obolibrary.org/obo/MONDO_0007450": "SCTID:15771004",
+          "http://purl.obolibrary.org/obo/MONDO_0007450": "SCTID:45369008",
           "http://purl.obolibrary.org/obo/MONDO_0007452": "SCTID:609562003",
           "http://purl.obolibrary.org/obo/MONDO_0007453": "SCTID:237604008",
           "http://purl.obolibrary.org/obo/MONDO_0007458": "SCTID:715314008",
@@ -68279,7 +68330,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0007769": "SCTID:41115008",
           "http://purl.obolibrary.org/obo/MONDO_0007772": "SCTID:703254001",
           "http://purl.obolibrary.org/obo/MONDO_0007778": "SCTID:22006008",
-          "http://purl.obolibrary.org/obo/MONDO_0007780": "SCTID:724284005",
           "http://purl.obolibrary.org/obo/MONDO_0007788": "SCTID:34528009",
           "http://purl.obolibrary.org/obo/MONDO_0007790": "SCTID:111499002",
           "http://purl.obolibrary.org/obo/MONDO_0007791": "SCTID:704166007",
@@ -68356,7 +68406,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0007946": "SCTID:5127009",
           "http://purl.obolibrary.org/obo/MONDO_0007947": "SCTID:19346006",
           "http://purl.obolibrary.org/obo/MONDO_0007949": "SCTID:33410002",
-          "http://purl.obolibrary.org/obo/MONDO_0007950": "SCTID:78745000",
           "http://purl.obolibrary.org/obo/MONDO_0007951": "SCTID:699649006",
           "http://purl.obolibrary.org/obo/MONDO_0007953": "SCTID:715985008",
           "http://purl.obolibrary.org/obo/MONDO_0007955": "SCTID:37373007",
@@ -68452,7 +68501,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0008161": "SCTID:707310009",
           "http://purl.obolibrary.org/obo/MONDO_0008165": "SCTID:191169008",
           "http://purl.obolibrary.org/obo/MONDO_0008168": "SCTID:254865006",
-          "http://purl.obolibrary.org/obo/MONDO_0008170": "SCTID:123843001",
+          "http://purl.obolibrary.org/obo/MONDO_0008170": "SCTID:363443007",
           "http://purl.obolibrary.org/obo/MONDO_0008171": "SCTID:266556005",
           "http://purl.obolibrary.org/obo/MONDO_0008173": "SCTID:39427000",
           "http://purl.obolibrary.org/obo/MONDO_0008175": "SCTID:722127006",
@@ -68482,7 +68531,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0008224": "SCTID:304737009",
           "http://purl.obolibrary.org/obo/MONDO_0008225": "SCTID:40381009",
           "http://purl.obolibrary.org/obo/MONDO_0008228": "SCTID:84027009",
-          "http://purl.obolibrary.org/obo/MONDO_0008234": "SCTID:61808009",
+          "http://purl.obolibrary.org/obo/MONDO_0008234": "SCTID:721188000",
           "http://purl.obolibrary.org/obo/MONDO_0008242": "SCTID:237612000",
           "http://purl.obolibrary.org/obo/MONDO_0008243": "SCTID:13092008",
           "http://purl.obolibrary.org/obo/MONDO_0008244": "SCTID:6479008",
@@ -68490,7 +68539,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0008248": "SCTID:20343006",
           "http://purl.obolibrary.org/obo/MONDO_0008249": "SCTID:47639008",
           "http://purl.obolibrary.org/obo/MONDO_0008250": "SCTID:237687003",
-          "http://purl.obolibrary.org/obo/MONDO_0008251": "SCTID:3755001",
           "http://purl.obolibrary.org/obo/MONDO_0008259": "SCTID:715219001",
           "http://purl.obolibrary.org/obo/MONDO_0008260": "SCTID:238836000",
           "http://purl.obolibrary.org/obo/MONDO_0008262": "SCTID:38371006",
@@ -68502,7 +68550,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0008269": "SCTID:445216006",
           "http://purl.obolibrary.org/obo/MONDO_0008270": "SCTID:715710001",
           "http://purl.obolibrary.org/obo/MONDO_0008271": "SCTID:723446006",
-          "http://purl.obolibrary.org/obo/MONDO_0008272": "SCTID:84598000",
           "http://purl.obolibrary.org/obo/MONDO_0008273": "SCTID:201015007",
           "http://purl.obolibrary.org/obo/MONDO_0008274": "SCTID:36517007",
           "http://purl.obolibrary.org/obo/MONDO_0008275": "SCTID:254153009",
@@ -68536,7 +68583,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0008340": "SCTID:268163008",
           "http://purl.obolibrary.org/obo/MONDO_0008343": "SCTID:253591008",
           "http://purl.obolibrary.org/obo/MONDO_0008344": "SCTID:233954004",
-          "http://purl.obolibrary.org/obo/MONDO_0008345": "SCTID:196125002",
           "http://purl.obolibrary.org/obo/MONDO_0008346": "SCTID:40527005",
           "http://purl.obolibrary.org/obo/MONDO_0008348": "SCTID:718097008",
           "http://purl.obolibrary.org/obo/MONDO_0008353": "SCTID:88697005",
@@ -68571,12 +68617,11 @@
           "http://purl.obolibrary.org/obo/MONDO_0008411": "SCTID:700211007",
           "http://purl.obolibrary.org/obo/MONDO_0008412": "SCTID:750009",
           "http://purl.obolibrary.org/obo/MONDO_0008416": "SCTID:239076000",
-          "http://purl.obolibrary.org/obo/MONDO_0008420": "SCTID:394727000",
           "http://purl.obolibrary.org/obo/MONDO_0008425": "SCTID:716230005",
           "http://purl.obolibrary.org/obo/MONDO_0008426": "SCTID:719069008",
           "http://purl.obolibrary.org/obo/MONDO_0008428": "SCTID:7611002",
           "http://purl.obolibrary.org/obo/MONDO_0008429": "SCTID:254114000",
-          "http://purl.obolibrary.org/obo/MONDO_0008433": "SCTID:254633006",
+          "http://purl.obolibrary.org/obo/MONDO_0008433": "SCTID:254632001",
           "http://purl.obolibrary.org/obo/MONDO_0008434": "SCTID:401315004",
           "http://purl.obolibrary.org/obo/MONDO_0008436": "SCTID:238776001",
           "http://purl.obolibrary.org/obo/MONDO_0008438": "SCTID:723820001",
@@ -68769,7 +68814,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0008848": "SCTID:50799005",
           "http://purl.obolibrary.org/obo/MONDO_0008849": "SCTID:2736005",
           "http://purl.obolibrary.org/obo/MONDO_0008850": "SCTID:720748007",
-          "http://purl.obolibrary.org/obo/MONDO_0008852": "SCTID:230499002",
           "http://purl.obolibrary.org/obo/MONDO_0008853": "SCTID:408537003",
           "http://purl.obolibrary.org/obo/MONDO_0008855": "SCTID:71904008",
           "http://purl.obolibrary.org/obo/MONDO_0008857": "SCTID:717859007",
@@ -68840,7 +68884,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0008988": "SCTID:398680004",
           "http://purl.obolibrary.org/obo/MONDO_0008991": "SCTID:764697003",
           "http://purl.obolibrary.org/obo/MONDO_0008992": "SCTID:721874001",
-          "http://purl.obolibrary.org/obo/MONDO_0008996": "SCTID:721847002",
           "http://purl.obolibrary.org/obo/MONDO_0008999": "SCTID:56604005",
           "http://purl.obolibrary.org/obo/MONDO_0009001": "SCTID:722463001",
           "http://purl.obolibrary.org/obo/MONDO_0009007": "SCTID:707608003",
@@ -68891,7 +68934,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0009093": "SCTID:733044009",
           "http://purl.obolibrary.org/obo/MONDO_0009094": "SCTID:254150007",
           "http://purl.obolibrary.org/obo/MONDO_0009095": "SCTID:721090002",
-          "http://purl.obolibrary.org/obo/MONDO_0009096": "SCTID:702427005",
           "http://purl.obolibrary.org/obo/MONDO_0009099": "SCTID:716200002",
           "http://purl.obolibrary.org/obo/MONDO_0009104": "SCTID:702418009",
           "http://purl.obolibrary.org/obo/MONDO_0009105": "SCTID:703406006",
@@ -68951,7 +68993,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0009205": "SCTID:723333000",
           "http://purl.obolibrary.org/obo/MONDO_0009206": "SCTID:84048006",
           "http://purl.obolibrary.org/obo/MONDO_0009210": "SCTID:88776002",
-          "http://purl.obolibrary.org/obo/MONDO_0009211": "SCTID:37193007",
           "http://purl.obolibrary.org/obo/MONDO_0009212": "SCTID:37350004",
           "http://purl.obolibrary.org/obo/MONDO_0009216": "SCTID:61598006",
           "http://purl.obolibrary.org/obo/MONDO_0009217": "SCTID:236469003",
@@ -69111,7 +69152,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0009512": "SCTID:719409004",
           "http://purl.obolibrary.org/obo/MONDO_0009513": "SCTID:722675000",
           "http://purl.obolibrary.org/obo/MONDO_0009514": "SCTID:5619004",
-          "http://purl.obolibrary.org/obo/MONDO_0009515": "SCTID:49227001",
+          "http://purl.obolibrary.org/obo/MONDO_0009515": "SCTID:238091006",
           "http://purl.obolibrary.org/obo/MONDO_0009517": "SCTID:111307005",
           "http://purl.obolibrary.org/obo/MONDO_0009520": "SCTID:410059004",
           "http://purl.obolibrary.org/obo/MONDO_0009522": "SCTID:239032007",
@@ -69186,7 +69227,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0009665": "SCTID:8808004",
           "http://purl.obolibrary.org/obo/MONDO_0009666": "SCTID:15307001",
           "http://purl.obolibrary.org/obo/MONDO_0009668": "SCTID:60192008",
-          "http://purl.obolibrary.org/obo/MONDO_0009669": "SCTID:54280009",
+          "http://purl.obolibrary.org/obo/MONDO_0009669": "SCTID:64383006",
           "http://purl.obolibrary.org/obo/MONDO_0009670": "SCTID:715418007",
           "http://purl.obolibrary.org/obo/MONDO_0009671": "SCTID:764959000",
           "http://purl.obolibrary.org/obo/MONDO_0009672": "SCTID:54280009",
@@ -69256,7 +69297,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0009797": "SCTID:47641009",
           "http://purl.obolibrary.org/obo/MONDO_0009798": "SCTID:726709001",
           "http://purl.obolibrary.org/obo/MONDO_0009804": "SCTID:385483009",
-          "http://purl.obolibrary.org/obo/MONDO_0009807": "SCTID:307576001",
           "http://purl.obolibrary.org/obo/MONDO_0009808": "SCTID:302859004",
           "http://purl.obolibrary.org/obo/MONDO_0009810": "SCTID:715487005",
           "http://purl.obolibrary.org/obo/MONDO_0009813": "SCTID:240151005",
@@ -69266,7 +69306,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0009823": "SCTID:65520001",
           "http://purl.obolibrary.org/obo/MONDO_0009824": "SCTID:40951006",
           "http://purl.obolibrary.org/obo/MONDO_0009825": "SCTID:26132002",
-          "http://purl.obolibrary.org/obo/MONDO_0009831": "SCTID:126859007",
           "http://purl.obolibrary.org/obo/MONDO_0009832": "SCTID:719044008",
           "http://purl.obolibrary.org/obo/MONDO_0009833": "SCTID:89454001",
           "http://purl.obolibrary.org/obo/MONDO_0009837": "SCTID:425868004",
@@ -69549,7 +69588,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0010476": "SCTID:732959007",
           "http://purl.obolibrary.org/obo/MONDO_0010477": "SCTID:699297004",
           "http://purl.obolibrary.org/obo/MONDO_0010479": "SCTID:763347000",
-          "http://purl.obolibrary.org/obo/MONDO_0010481": "SCTID:41291007",
+          "http://purl.obolibrary.org/obo/MONDO_0010481": "SCTID:400075008",
           "http://purl.obolibrary.org/obo/MONDO_0010483": "SCTID:719016007",
           "http://purl.obolibrary.org/obo/MONDO_0010490": "SCTID:733115009",
           "http://purl.obolibrary.org/obo/MONDO_0010491": "SCTID:768472004",
@@ -69644,7 +69683,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0010691": "SCTID:15228007",
           "http://purl.obolibrary.org/obo/MONDO_0010698": "SCTID:721200000",
           "http://purl.obolibrary.org/obo/MONDO_0010699": "SCTID:763460007",
-          "http://purl.obolibrary.org/obo/MONDO_0010702": "SCTID:52868006",
+          "http://purl.obolibrary.org/obo/MONDO_0010702": "SCTID:1779005",
           "http://purl.obolibrary.org/obo/MONDO_0010703": "SCTID:80908008",
           "http://purl.obolibrary.org/obo/MONDO_0010704": "SCTID:54036001",
           "http://purl.obolibrary.org/obo/MONDO_0010708": "SCTID:719020006",
@@ -69666,7 +69705,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0010731": "SCTID:439143004",
           "http://purl.obolibrary.org/obo/MONDO_0010732": "SCTID:715504003",
           "http://purl.obolibrary.org/obo/MONDO_0010733": "SCTID:723622007",
-          "http://purl.obolibrary.org/obo/MONDO_0010735": "SCTID:230253001",
           "http://purl.obolibrary.org/obo/MONDO_0010742": "SCTID:281587000",
           "http://purl.obolibrary.org/obo/MONDO_0010745": "SCTID:718196002",
           "http://purl.obolibrary.org/obo/MONDO_0010747": "SCTID:698279003",
@@ -69748,7 +69786,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0010958": "SCTID:764457005",
           "http://purl.obolibrary.org/obo/MONDO_0010959": "SCTID:719845008",
           "http://purl.obolibrary.org/obo/MONDO_0010961": "SCTID:722053001",
-          "http://purl.obolibrary.org/obo/MONDO_0010962": "SCTID:400123002",
+          "http://purl.obolibrary.org/obo/MONDO_0010962": "SCTID:716105001",
           "http://purl.obolibrary.org/obo/MONDO_0010971": "SCTID:725905005",
           "http://purl.obolibrary.org/obo/MONDO_0010972": "SCTID:721229003",
           "http://purl.obolibrary.org/obo/MONDO_0010977": "SCTID:703530005",
@@ -69976,7 +70014,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0011687": "SCTID:719510006",
           "http://purl.obolibrary.org/obo/MONDO_0011694": "SCTID:716724006",
           "http://purl.obolibrary.org/obo/MONDO_0011698": "SCTID:763720007",
-          "http://purl.obolibrary.org/obo/MONDO_0011707": "SCTID:763352005",
           "http://purl.obolibrary.org/obo/MONDO_0011716": "SCTID:72986009",
           "http://purl.obolibrary.org/obo/MONDO_0011719": "SCTID:420120006",
           "http://purl.obolibrary.org/obo/MONDO_0011723": "SCTID:699420006",
@@ -69993,7 +70030,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0011776": "SCTID:239826001",
           "http://purl.obolibrary.org/obo/MONDO_0011778": "SCTID:719688002",
           "http://purl.obolibrary.org/obo/MONDO_0011781": "SCTID:719249005",
-          "http://purl.obolibrary.org/obo/MONDO_0011782": "SCTID:86103006",
           "http://purl.obolibrary.org/obo/MONDO_0011783": "SCTID:711155008",
           "http://purl.obolibrary.org/obo/MONDO_0011785": "SCTID:763375003",
           "http://purl.obolibrary.org/obo/MONDO_0011786": "SCTID:61582004",
@@ -70053,7 +70089,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0011953": "SCTID:723359002",
           "http://purl.obolibrary.org/obo/MONDO_0011959": "SCTID:84625002",
           "http://purl.obolibrary.org/obo/MONDO_0011961": "SCTID:717825008",
-          "http://purl.obolibrary.org/obo/MONDO_0011962": "SCTID:123844007",
           "http://purl.obolibrary.org/obo/MONDO_0011964": "SCTID:725079003",
           "http://purl.obolibrary.org/obo/MONDO_0011968": "SCTID:715340002",
           "http://purl.obolibrary.org/obo/MONDO_0011969": "SCTID:720977000",
@@ -70067,7 +70102,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0011992": "SCTID:732933009",
           "http://purl.obolibrary.org/obo/MONDO_0011998": "SCTID:764854006",
           "http://purl.obolibrary.org/obo/MONDO_0012000": "SCTID:54587008",
-          "http://purl.obolibrary.org/obo/MONDO_0012004": "SCTID:127020005",
+          "http://purl.obolibrary.org/obo/MONDO_0012004": "SCTID:255037004",
           "http://purl.obolibrary.org/obo/MONDO_0012008": "SCTID:719429003",
           "http://purl.obolibrary.org/obo/MONDO_0012012": "SCTID:765746008",
           "http://purl.obolibrary.org/obo/MONDO_0012013": "SCTID:722450007",
@@ -70178,7 +70213,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0012479": "SCTID:722392003",
           "http://purl.obolibrary.org/obo/MONDO_0012480": "SCTID:609580007",
           "http://purl.obolibrary.org/obo/MONDO_0012481": "SCTID:718558008",
-          "http://purl.obolibrary.org/obo/MONDO_0012496": "SCTID:717338006",
           "http://purl.obolibrary.org/obo/MONDO_0012503": "SCTID:238012003",
           "http://purl.obolibrary.org/obo/MONDO_0012508": "SCTID:722281001",
           "http://purl.obolibrary.org/obo/MONDO_0012510": "SCTID:764943000",
@@ -70599,7 +70633,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0015261": "SCTID:238731001",
           "http://purl.obolibrary.org/obo/MONDO_0015262": "SCTID:254088006",
           "http://purl.obolibrary.org/obo/MONDO_0015263": "SCTID:418818005",
-          "http://purl.obolibrary.org/obo/MONDO_0015264": "SCTID:719218000",
+          "http://purl.obolibrary.org/obo/MONDO_0015264": "SCTID:68409003",
           "http://purl.obolibrary.org/obo/MONDO_0015265": "SCTID:40100001",
           "http://purl.obolibrary.org/obo/MONDO_0015268": "SCTID:236443009",
           "http://purl.obolibrary.org/obo/MONDO_0015269": "SCTID:719164000",
@@ -70712,7 +70746,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0015465": "SCTID:36601008",
           "http://purl.obolibrary.org/obo/MONDO_0015466": "SCTID:720753002",
           "http://purl.obolibrary.org/obo/MONDO_0015467": "SCTID:720818003",
-          "http://purl.obolibrary.org/obo/MONDO_0015469": "SCTID:57219006",
           "http://purl.obolibrary.org/obo/MONDO_0015471": "SCTID:715425000",
           "http://purl.obolibrary.org/obo/MONDO_0015474": "SCTID:66160001",
           "http://purl.obolibrary.org/obo/MONDO_0015480": "SCTID:763132003",
@@ -70924,7 +70957,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0016029": "SCTID:422886007",
           "http://purl.obolibrary.org/obo/MONDO_0016030": "SCTID:75331009",
           "http://purl.obolibrary.org/obo/MONDO_0016032": "SCTID:93255008",
-          "http://purl.obolibrary.org/obo/MONDO_0016033": "SCTID:40354009",
           "http://purl.obolibrary.org/obo/MONDO_0016035": "SCTID:43019009",
           "http://purl.obolibrary.org/obo/MONDO_0016037": "SCTID:238853007",
           "http://purl.obolibrary.org/obo/MONDO_0016038": "SCTID:703614006",
@@ -70971,7 +71003,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0016128": "SCTID:60970005",
           "http://purl.obolibrary.org/obo/MONDO_0016129": "SCTID:359804008",
           "http://purl.obolibrary.org/obo/MONDO_0016130": "SCTID:240111007",
-          "http://purl.obolibrary.org/obo/MONDO_0016158": "SCTID:60380001",
           "http://purl.obolibrary.org/obo/MONDO_0016161": "SCTID:725418006",
           "http://purl.obolibrary.org/obo/MONDO_0016168": "SCTID:430079001",
           "http://purl.obolibrary.org/obo/MONDO_0016175": "SCTID:58588007",
@@ -71069,7 +71100,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0016466": "SCTID:22607003",
           "http://purl.obolibrary.org/obo/MONDO_0016467": "SCTID:36871005",
           "http://purl.obolibrary.org/obo/MONDO_0016469": "SCTID:720862007",
-          "http://purl.obolibrary.org/obo/MONDO_0016471": "SCTID:39427000",
           "http://purl.obolibrary.org/obo/MONDO_0016472": "SCTID:396334002",
           "http://purl.obolibrary.org/obo/MONDO_0016474": "SCTID:80258006",
           "http://purl.obolibrary.org/obo/MONDO_0016483": "SCTID:703226008",
@@ -71185,13 +71215,11 @@
           "http://purl.obolibrary.org/obo/MONDO_0016807": "SCTID:732245008",
           "http://purl.obolibrary.org/obo/MONDO_0016812": "SCTID:230332007",
           "http://purl.obolibrary.org/obo/MONDO_0016814": "SCTID:717052002",
-          "http://purl.obolibrary.org/obo/MONDO_0016817": "SCTID:703508009",
           "http://purl.obolibrary.org/obo/MONDO_0016820": "SCTID:89142007",
           "http://purl.obolibrary.org/obo/MONDO_0016823": "SCTID:410039003",
-          "http://purl.obolibrary.org/obo/MONDO_0016824": "SCTID:254146000",
           "http://purl.obolibrary.org/obo/MONDO_0016828": "SCTID:717050005",
           "http://purl.obolibrary.org/obo/MONDO_0016829": "SCTID:63684002",
-          "http://purl.obolibrary.org/obo/MONDO_0016830": "SCTID:129620000",
+          "http://purl.obolibrary.org/obo/MONDO_0016830": "SCTID:111508004",
           "http://purl.obolibrary.org/obo/MONDO_0016833": "SCTID:719574007",
           "http://purl.obolibrary.org/obo/MONDO_0016834": "SCTID:733518000",
           "http://purl.obolibrary.org/obo/MONDO_0016836": "SCTID:719577000",
@@ -71228,6 +71256,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0016984": "SCTID:414929001",
           "http://purl.obolibrary.org/obo/MONDO_0016986": "SCTID:239144007",
           "http://purl.obolibrary.org/obo/MONDO_0016988": "SCTID:717048002",
+          "http://purl.obolibrary.org/obo/MONDO_0016989": "SCTID:11226001",
           "http://purl.obolibrary.org/obo/MONDO_0016990": "SCTID:4152002",
           "http://purl.obolibrary.org/obo/MONDO_0016991": "SCTID:763310000",
           "http://purl.obolibrary.org/obo/MONDO_0016994": "SCTID:725461009",
@@ -71236,7 +71265,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0017018": "SCTID:707436001",
           "http://purl.obolibrary.org/obo/MONDO_0017041": "SCTID:722108000",
           "http://purl.obolibrary.org/obo/MONDO_0017042": "SCTID:29352008",
-          "http://purl.obolibrary.org/obo/MONDO_0017043": "SCTID:307604008",
           "http://purl.obolibrary.org/obo/MONDO_0017045": "SCTID:724090001",
           "http://purl.obolibrary.org/obo/MONDO_0017048": "SCTID:307601000",
           "http://purl.obolibrary.org/obo/MONDO_0017052": "SCTID:405287008",
@@ -71288,7 +71316,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0017194": "SCTID:79353000",
           "http://purl.obolibrary.org/obo/MONDO_0017195": "SCTID:254113006",
           "http://purl.obolibrary.org/obo/MONDO_0017196": "SCTID:722110003",
-          "http://purl.obolibrary.org/obo/MONDO_0017198": "SCTID:367489004",
+          "http://purl.obolibrary.org/obo/MONDO_0017198": "SCTID:1926006",
           "http://purl.obolibrary.org/obo/MONDO_0017199": "SCTID:716189005",
           "http://purl.obolibrary.org/obo/MONDO_0017201": "SCTID:400948003",
           "http://purl.obolibrary.org/obo/MONDO_0017202": "SCTID:1493002",
@@ -71332,7 +71360,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0017316": "SCTID:716192009",
           "http://purl.obolibrary.org/obo/MONDO_0017317": "SCTID:723455009",
           "http://purl.obolibrary.org/obo/MONDO_0017318": "SCTID:403545005",
-          "http://purl.obolibrary.org/obo/MONDO_0017319": "SCTID:191169008",
+          "http://purl.obolibrary.org/obo/MONDO_0017319": "SCTID:178935009",
           "http://purl.obolibrary.org/obo/MONDO_0017320": "SCTID:5335002",
           "http://purl.obolibrary.org/obo/MONDO_0017323": "SCTID:722947004",
           "http://purl.obolibrary.org/obo/MONDO_0017324": "SCTID:90505000",
@@ -71420,7 +71448,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0017609": "SCTID:702397002",
           "http://purl.obolibrary.org/obo/MONDO_0017610": "SCTID:67144006",
           "http://purl.obolibrary.org/obo/MONDO_0017611": "SCTID:127024001",
-          "http://purl.obolibrary.org/obo/MONDO_0017612": "SCTID:33662006",
+          "http://purl.obolibrary.org/obo/MONDO_0017612": "SCTID:79855003",
           "http://purl.obolibrary.org/obo/MONDO_0017615": "SCTID:230410004",
           "http://purl.obolibrary.org/obo/MONDO_0017623": "SCTID:722859001",
           "http://purl.obolibrary.org/obo/MONDO_0017625": "SCTID:711151004",
@@ -71525,7 +71553,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0017951": "SCTID:18077009",
           "http://purl.obolibrary.org/obo/MONDO_0017967": "SCTID:371015003",
           "http://purl.obolibrary.org/obo/MONDO_0017968": "SCTID:763683004",
-          "http://purl.obolibrary.org/obo/MONDO_0017979": "SCTID:702444009",
           "http://purl.obolibrary.org/obo/MONDO_0017984": "SCTID:766884000",
           "http://purl.obolibrary.org/obo/MONDO_0017985": "SCTID:33313004",
           "http://purl.obolibrary.org/obo/MONDO_0017987": "SCTID:111496009",
@@ -71631,7 +71658,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0018225": "SCTID:715950008",
           "http://purl.obolibrary.org/obo/MONDO_0018227": "SCTID:239945009",
           "http://purl.obolibrary.org/obo/MONDO_0018228": "SCTID:763128009",
-          "http://purl.obolibrary.org/obo/MONDO_0018229": "SCTID:23067006",
+          "http://purl.obolibrary.org/obo/MONDO_0018229": "SCTID:73442001",
           "http://purl.obolibrary.org/obo/MONDO_0018234": "SCTID:109420003",
           "http://purl.obolibrary.org/obo/MONDO_0018242": "SCTID:75316000",
           "http://purl.obolibrary.org/obo/MONDO_0018251": "SCTID:40191005",
@@ -71840,7 +71867,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0018933": "SCTID:699251001",
           "http://purl.obolibrary.org/obo/MONDO_0018935": "SCTID:118613001",
           "http://purl.obolibrary.org/obo/MONDO_0018937": "SCTID:88393000",
-          "http://purl.obolibrary.org/obo/MONDO_0018938": "SCTID:7259005",
+          "http://purl.obolibrary.org/obo/MONDO_0018938": "SCTID:378007",
           "http://purl.obolibrary.org/obo/MONDO_0018939": "SCTID:277950001",
           "http://purl.obolibrary.org/obo/MONDO_0018940": "SCTID:230672006",
           "http://purl.obolibrary.org/obo/MONDO_0018942": "SCTID:718175009",
@@ -71892,7 +71919,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0019008": "SCTID:31155007",
           "http://purl.obolibrary.org/obo/MONDO_0019009": "SCTID:766710005",
           "http://purl.obolibrary.org/obo/MONDO_0019011": "SCTID:398040009",
-          "http://purl.obolibrary.org/obo/MONDO_0019012": "SCTID:205813009",
+          "http://purl.obolibrary.org/obo/MONDO_0019012": "SCTID:403767009",
           "http://purl.obolibrary.org/obo/MONDO_0019013": "SCTID:41291007",
           "http://purl.obolibrary.org/obo/MONDO_0019015": "SCTID:18735004",
           "http://purl.obolibrary.org/obo/MONDO_0019018": "SCTID:441541008",
@@ -71965,7 +71992,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0019149": "SCTID:57218003",
           "http://purl.obolibrary.org/obo/MONDO_0019151": "SCTID:722066001",
           "http://purl.obolibrary.org/obo/MONDO_0019153": "SCTID:717943008",
-          "http://purl.obolibrary.org/obo/MONDO_0019154": "SCTID:368851000119102",
+          "http://purl.obolibrary.org/obo/MONDO_0019154": "SCTID:12313004",
           "http://purl.obolibrary.org/obo/MONDO_0019156": "SCTID:765750001",
           "http://purl.obolibrary.org/obo/MONDO_0019157": "SCTID:109998009",
           "http://purl.obolibrary.org/obo/MONDO_0019158": "SCTID:715626008",
@@ -71977,7 +72004,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0019165": "SCTID:237816004",
           "http://purl.obolibrary.org/obo/MONDO_0019167": "SCTID:191306005",
           "http://purl.obolibrary.org/obo/MONDO_0019168": "SCTID:65110003",
-          "http://purl.obolibrary.org/obo/MONDO_0019169": "SCTID:124593001",
+          "http://purl.obolibrary.org/obo/MONDO_0019169": "SCTID:46683007",
           "http://purl.obolibrary.org/obo/MONDO_0019170": "SCTID:155441006",
           "http://purl.obolibrary.org/obo/MONDO_0019171": "SCTID:442917000",
           "http://purl.obolibrary.org/obo/MONDO_0019172": "SCTID:69278003",
@@ -72033,7 +72060,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0019309": "SCTID:719432000",
           "http://purl.obolibrary.org/obo/MONDO_0019311": "SCTID:239124001",
           "http://purl.obolibrary.org/obo/MONDO_0019312": "SCTID:9311003",
-          "http://purl.obolibrary.org/obo/MONDO_0019313": "SCTID:399889006",
+          "http://purl.obolibrary.org/obo/MONDO_0019313": "SCTID:254199006",
           "http://purl.obolibrary.org/obo/MONDO_0019316": "SCTID:78745000",
           "http://purl.obolibrary.org/obo/MONDO_0019318": "SCTID:399995006",
           "http://purl.obolibrary.org/obo/MONDO_0019319": "SCTID:398723007",
@@ -72050,14 +72077,12 @@
           "http://purl.obolibrary.org/obo/MONDO_0019337": "SCTID:7231009",
           "http://purl.obolibrary.org/obo/MONDO_0019338": "SCTID:31541009",
           "http://purl.obolibrary.org/obo/MONDO_0019339": "SCTID:50749006",
-          "http://purl.obolibrary.org/obo/MONDO_0019340": "SCTID:89155008",
           "http://purl.obolibrary.org/obo/MONDO_0019342": "SCTID:57917004",
           "http://purl.obolibrary.org/obo/MONDO_0019344": "SCTID:445187004",
           "http://purl.obolibrary.org/obo/MONDO_0019345": "SCTID:36188001",
           "http://purl.obolibrary.org/obo/MONDO_0019346": "SCTID:34960006",
           "http://purl.obolibrary.org/obo/MONDO_0019347": "SCTID:239065004",
           "http://purl.obolibrary.org/obo/MONDO_0019348": "SCTID:720857006",
-          "http://purl.obolibrary.org/obo/MONDO_0019349": "SCTID:75968004",
           "http://purl.obolibrary.org/obo/MONDO_0019350": "SCTID:55995005",
           "http://purl.obolibrary.org/obo/MONDO_0019353": "SCTID:47673003",
           "http://purl.obolibrary.org/obo/MONDO_0019354": "SCTID:78675000",
@@ -72130,7 +72155,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0019460": "SCTID:721308005",
           "http://purl.obolibrary.org/obo/MONDO_0019461": "SCTID:277619001",
           "http://purl.obolibrary.org/obo/MONDO_0019462": "SCTID:763666008",
-          "http://purl.obolibrary.org/obo/MONDO_0019464": "SCTID:109984001",
+          "http://purl.obolibrary.org/obo/MONDO_0019464": "SCTID:68979007",
           "http://purl.obolibrary.org/obo/MONDO_0019465": "SCTID:277623009",
           "http://purl.obolibrary.org/obo/MONDO_0019466": "SCTID:239940004",
           "http://purl.obolibrary.org/obo/MONDO_0019467": "SCTID:445105005",
@@ -72151,7 +72176,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0019498": "SCTID:64612002",
           "http://purl.obolibrary.org/obo/MONDO_0019499": "SCTID:38804009",
           "http://purl.obolibrary.org/obo/MONDO_0019500": "SCTID:768937006",
-          "http://purl.obolibrary.org/obo/MONDO_0019501": "SCTID:57838006",
           "http://purl.obolibrary.org/obo/MONDO_0019503": "SCTID:65075004",
           "http://purl.obolibrary.org/obo/MONDO_0019504": "SCTID:231903005",
           "http://purl.obolibrary.org/obo/MONDO_0019506": "SCTID:722051004",
@@ -72361,7 +72385,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0019975": "SCTID:418279001",
           "http://purl.obolibrary.org/obo/MONDO_0019976": "SCTID:230283005",
           "http://purl.obolibrary.org/obo/MONDO_0019977": "SCTID:715737004",
-          "http://purl.obolibrary.org/obo/MONDO_0019978": "SCTID:76520005",
           "http://purl.obolibrary.org/obo/MONDO_0019980": "SCTID:268232000",
           "http://purl.obolibrary.org/obo/MONDO_0019982": "SCTID:717749002",
           "http://purl.obolibrary.org/obo/MONDO_0019983": "SCTID:86463003",
@@ -72392,7 +72415,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0020110": "SCTID:66489009",
           "http://purl.obolibrary.org/obo/MONDO_0020120": "SCTID:75047002",
           "http://purl.obolibrary.org/obo/MONDO_0020121": "SCTID:73297009",
-          "http://purl.obolibrary.org/obo/MONDO_0020122": "SCTID:702380008",
           "http://purl.obolibrary.org/obo/MONDO_0020123": "SCTID:26111005",
           "http://purl.obolibrary.org/obo/MONDO_0020124": "SCTID:128213006",
           "http://purl.obolibrary.org/obo/MONDO_0020128": "SCTID:37340000",
@@ -72437,7 +72459,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0020334": "SCTID:110002002",
           "http://purl.obolibrary.org/obo/MONDO_0020337": "SCTID:59548005",
           "http://purl.obolibrary.org/obo/MONDO_0020338": "SCTID:765748009",
-          "http://purl.obolibrary.org/obo/MONDO_0020341": "SCTID:448227009",
           "http://purl.obolibrary.org/obo/MONDO_0020348": "SCTID:716722005",
           "http://purl.obolibrary.org/obo/MONDO_0020349": "SCTID:715770009",
           "http://purl.obolibrary.org/obo/MONDO_0020354": "SCTID:39302008",
@@ -72625,7 +72646,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0021041": "SCTID:254646001",
           "http://purl.obolibrary.org/obo/MONDO_0021042": "SCTID:393564001",
           "http://purl.obolibrary.org/obo/MONDO_0021047": "SCTID:712989008",
-          "http://purl.obolibrary.org/obo/MONDO_0021048": "SCTID:404171008",
           "http://purl.obolibrary.org/obo/MONDO_0021049": "SCTID:126922007",
           "http://purl.obolibrary.org/obo/MONDO_0021050": "SCTID:126921000",
           "http://purl.obolibrary.org/obo/MONDO_0021054": "SCTID:448710000",
@@ -72636,7 +72656,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0021065": "SCTID:126719004",
           "http://purl.obolibrary.org/obo/MONDO_0021066": "SCTID:126879004",
           "http://purl.obolibrary.org/obo/MONDO_0021068": "SCTID:123843001",
-          "http://purl.obolibrary.org/obo/MONDO_0021069": "SCTID:387922007",
           "http://purl.obolibrary.org/obo/MONDO_0021070": "SCTID:254466003",
           "http://purl.obolibrary.org/obo/MONDO_0021071": "SCTID:126692004",
           "http://purl.obolibrary.org/obo/MONDO_0021072": "SCTID:399343007",
@@ -72650,7 +72669,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0021089": "SCTID:254986007",
           "http://purl.obolibrary.org/obo/MONDO_0021092": "SCTID:126916003",
           "http://purl.obolibrary.org/obo/MONDO_0021094": "SCTID:234532001",
-          "http://purl.obolibrary.org/obo/MONDO_0021097": "SCTID:99571000119102",
+          "http://purl.obolibrary.org/obo/MONDO_0021097": "SCTID:254848002",
           "http://purl.obolibrary.org/obo/MONDO_0021100": "SCTID:126926005",
           "http://purl.obolibrary.org/obo/MONDO_0021103": "SCTID:81573002",
           "http://purl.obolibrary.org/obo/MONDO_0021104": "SCTID:50325005",
@@ -72917,7 +72936,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0021630": "SCTID:93159009",
           "http://purl.obolibrary.org/obo/MONDO_0021631": "SCTID:254938000",
           "http://purl.obolibrary.org/obo/MONDO_0021633": "SCTID:99131000119108",
-          "http://purl.obolibrary.org/obo/MONDO_0021636": "SCTID:99131000119108",
           "http://purl.obolibrary.org/obo/MONDO_0021641": "SCTID:105632002",
           "http://purl.obolibrary.org/obo/MONDO_0021642": "SCTID:48868008",
           "http://purl.obolibrary.org/obo/MONDO_0021643": "SCTID:22949006",
@@ -73476,7 +73494,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0044351": "SCTID:52179003",
           "http://purl.obolibrary.org/obo/MONDO_0044355": "SCTID:766711009",
           "http://purl.obolibrary.org/obo/MONDO_0044656": "SCTID:400142003",
-          "http://purl.obolibrary.org/obo/MONDO_0044684": "SCTID:58437007",
           "http://purl.obolibrary.org/obo/MONDO_0044690": "SCTID:713417000",
           "http://purl.obolibrary.org/obo/MONDO_0044743": "SCTID:363378008",
           "http://purl.obolibrary.org/obo/MONDO_0044744": "SCTID:48976006",
@@ -73569,7 +73586,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0056802": "SCTID:10597006",
           "http://purl.obolibrary.org/obo/MONDO_0056803": "SCTID:123809005",
           "http://purl.obolibrary.org/obo/MONDO_0056806": "SCTID:723301009",
-          "http://purl.obolibrary.org/obo/MONDO_0056821": "SCTID:68409003",
           "http://purl.obolibrary.org/obo/MONDO_0060766": "SCTID:88580009",
           "http://purl.obolibrary.org/obo/MONDO_0060768": "SCTID:235001002",
           "http://purl.obolibrary.org/obo/MONDO_0060779": "SCTID:236467001",
@@ -73578,6 +73594,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0100014": "SCTID:724809006",
           "http://purl.obolibrary.org/obo/MONDO_0100017": "SCTID:3755001",
           "http://purl.obolibrary.org/obo/MONDO_0100025": "SCTID:733195008",
+          "http://purl.obolibrary.org/obo/MONDO_0100053": "SCTID:39579001",
           "http://purl.obolibrary.org/obo/MONDO_0100054": "SCTID:241954008",
           "http://purl.obolibrary.org/obo/MONDO_0100062": "SCTID:230429005",
           "http://purl.obolibrary.org/obo/MONDO_0100096": "SCTID:840539006",
@@ -73589,14 +73606,12 @@
           "http://purl.obolibrary.org/obo/MONDO_0100215": "SCTID:720576001",
           "http://purl.obolibrary.org/obo/MONDO_0100229": "SCTID:721085000",
           "http://purl.obolibrary.org/obo/MONDO_0100244": "SCTID:1963002",
-          "http://purl.obolibrary.org/obo/MONDO_0100245": "SCTID:1963002",
           "http://purl.obolibrary.org/obo/MONDO_0100289": "SCTID:232065000",
           "http://purl.obolibrary.org/obo/MONDO_0100294": "SCTID:124165006",
           "http://purl.obolibrary.org/obo/MONDO_0100309": "SCTID:763597000",
           "http://purl.obolibrary.org/obo/MONDO_0100316": "SCTID:20852007",
           "http://purl.obolibrary.org/obo/MONDO_0100325": "SCTID:717823001",
           "http://purl.obolibrary.org/obo/MONDO_0100339": "SCTID:10394003",
-          "http://purl.obolibrary.org/obo/MONDO_0100342": "SCTID:393564001",
           "http://purl.obolibrary.org/obo/MONDO_0100344": "SCTID:700107006",
           "http://purl.obolibrary.org/obo/MONDO_0100345": "SCTID:267425008",
           "http://purl.obolibrary.org/obo/MONDO_0100347": "SCTID:35868009",
@@ -73605,6 +73620,7 @@
           "http://purl.obolibrary.org/obo/MONDO_0100354": "SCTID:253781004",
           "http://purl.obolibrary.org/obo/MONDO_0100428": "SCTID:230246005",
           "http://purl.obolibrary.org/obo/MONDO_0100431": "SCTID:56097005",
+          "http://purl.obolibrary.org/obo/MONDO_0100459": "SCTID:425558002",
           "http://purl.obolibrary.org/obo/MONDO_0100466": "SCTID:725590001",
           "http://purl.obolibrary.org/obo/MONDO_0100470": "SCTID:991000119106",
           "http://purl.obolibrary.org/obo/MONDO_0100471": "SCTID:34713006",
@@ -73614,7 +73630,14 @@
           "http://purl.obolibrary.org/obo/MONDO_0600030": "SCTID:450956008",
           "http://purl.obolibrary.org/obo/MONDO_0700015": "SCTID:48082007",
           "http://purl.obolibrary.org/obo/MONDO_0700040": "SCTID:16716281000119108",
+          "http://purl.obolibrary.org/obo/MONDO_0700051": "SCTID:27916005",
+          "http://purl.obolibrary.org/obo/MONDO_0700052": "SCTID:235795007",
           "http://purl.obolibrary.org/obo/MONDO_0700092": "SCTID:700364009",
+          "http://purl.obolibrary.org/obo/MONDO_0800025": "SCTID:724284005",
+          "http://purl.obolibrary.org/obo/MONDO_0800026": "SCTID:230499002",
+          "http://purl.obolibrary.org/obo/MONDO_0800027": "SCTID:702427005",
+          "http://purl.obolibrary.org/obo/MONDO_0800028": "SCTID:763352005",
+          "http://purl.obolibrary.org/obo/MONDO_0800029": "SCTID:196125002",
           "http://purl.obolibrary.org/obo/MONDO_8000006": "SCTID:234571003",
           "http://purl.obolibrary.org/obo/MONDO_8000008": "SCTID:722380003",
           "http://purl.obolibrary.org/obo/MONDO_8000010": "SCTID:26843008",
@@ -73667,6 +73690,26 @@
           "http://purl.obolibrary.org/obo/MONDO_0020548": "ICD10EXP:L12+",
           "http://purl.obolibrary.org/obo/MONDO_0020553": "ICD10EXP:J99.8*",
           "http://purl.obolibrary.org/obo/MONDO_0020554": "ICD10EXP:J99.8*"
+        },
+        "ICD10WHO": {
+          "http://purl.obolibrary.org/obo/MONDO_0000462": "ICD10WHO:H00-H06",
+          "http://purl.obolibrary.org/obo/MONDO_0001609": "ICD10WHO:D70",
+          "http://purl.obolibrary.org/obo/MONDO_0001946": "ICD10WHO:E28.0",
+          "http://purl.obolibrary.org/obo/MONDO_0002264": "ICD10WHO:N42.2",
+          "http://purl.obolibrary.org/obo/MONDO_0003150": "ICD10WHO:N40-N51",
+          "http://purl.obolibrary.org/obo/MONDO_0004359": "ICD10WHO:F22.0",
+          "http://purl.obolibrary.org/obo/MONDO_0004985": "ICD10WHO:F31",
+          "http://purl.obolibrary.org/obo/MONDO_0005027": "ICD10WHO:G40",
+          "http://purl.obolibrary.org/obo/MONDO_0005066": "ICD10WHO:E70-E90",
+          "http://purl.obolibrary.org/obo/MONDO_0005165": "ICD10WHO:D10-D36",
+          "http://purl.obolibrary.org/obo/MONDO_0006672": "ICD10WHO:N48.1",
+          "http://purl.obolibrary.org/obo/MONDO_0007028": "ICD10WHO:M75.1",
+          "http://purl.obolibrary.org/obo/MONDO_0007950": "ICD10WHO:Q82.2",
+          "http://purl.obolibrary.org/obo/MONDO_0010086": "ICD10WHO:R95",
+          "http://purl.obolibrary.org/obo/MONDO_0013600": "ICD10WHO:G47.0",
+          "http://purl.obolibrary.org/obo/MONDO_0015079": "ICD10WHO:D44.8",
+          "http://purl.obolibrary.org/obo/MONDO_0021645": "ICD10WHO:I85.0",
+          "http://purl.obolibrary.org/obo/MONDO_0024318": "ICD10WHO:A80-A89"
         },
         "MTH": {
           "http://purl.obolibrary.org/obo/MONDO_0011438": "MTH:217"

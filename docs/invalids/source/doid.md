@@ -85,7 +85,7 @@ did not match the standard pattern `^C\d+$`.
 
 ## `OMIM`: Online Mendelian Inheritance in Man
 
-Overall, there were 231 invalid
+Overall, there were 232 invalid
 xrefs to external prefixed with `OMIM` (standardized to Bioregistry
 prefix [`omim`](https://bioregistry.io/omim)) that
 did not match the standard pattern `^\d+$`.
@@ -110,6 +110,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS220290` |              1 | [DOID:0050565](http://purl.obolibrary.org/obo/DOID_0050565) |
 | `OMIM:PS304500` |              1 | [DOID:0050566](http://purl.obolibrary.org/obo/DOID_0050566) |
 | `OMIM:PS119530` |              1 | [DOID:0050567](http://purl.obolibrary.org/obo/DOID_0050567) |
+| `OMIM:PS277300` |              1 | [DOID:0050568](http://purl.obolibrary.org/obo/DOID_0050568) |
 | `OMIM:PS210600` |              1 | [DOID:0050569](http://purl.obolibrary.org/obo/DOID_0050569) |
 | `OMIM:PS212065` |              1 | [DOID:0050570](http://purl.obolibrary.org/obo/DOID_0050570) |
 | `OMIM:PS212066` |              1 | [DOID:0050571](http://purl.obolibrary.org/obo/DOID_0050571) |
@@ -326,7 +327,7 @@ did not match the standard pattern `^\d+$`.
 
 ## `ORDO`: Orphanet Rare Disease Ontology
 
-Overall, there were 2,026 invalid
+Overall, there were 2,028 invalid
 xrefs to external prefixed with `ORDO` (standardized to Bioregistry
 prefix [`orphanet.ordo`](https://bioregistry.io/orphanet.ordo)) that
 did not match the standard pattern `^Orphanet(_|:)C?\d+$`.
@@ -2067,6 +2068,7 @@ did not match the standard pattern `^Orphanet(_|:)C?\d+$`.
 | `ORDO:908`      |              1 | [DOID:14261](http://purl.obolibrary.org/obo/DOID_14261)                                                                                                                                                                                                                                                              |
 | `ORDO:500`      |              1 | [DOID:14291](http://purl.obolibrary.org/obo/DOID_14291)                                                                                                                                                                                                                                                              |
 | `ORDO:2828`     |              1 | [DOID:14330](http://purl.obolibrary.org/obo/DOID_14330)                                                                                                                                                                                                                                                              |
+| `ORDO:188`      |              1 | [DOID:14400](http://purl.obolibrary.org/obo/DOID_14400)                                                                                                                                                                                                                                                              |
 | `ORDO:94`       |              1 | [DOID:1441](http://purl.obolibrary.org/obo/DOID_1441)                                                                                                                                                                                                                                                                |
 | `ORDO:243`      |              1 | [DOID:14450](http://purl.obolibrary.org/obo/DOID_14450)                                                                                                                                                                                                                                                              |
 | `ORDO:682`      |              1 | [DOID:14451](http://purl.obolibrary.org/obo/DOID_14451)                                                                                                                                                                                                                                                              |
@@ -2169,6 +2171,7 @@ did not match the standard pattern `^Orphanet(_|:)C?\d+$`.
 | `ORDO:611`      |              1 | [DOID:3429](http://purl.obolibrary.org/obo/DOID_3429)                                                                                                                                                                                                                                                                |
 | `ORDO:648`      |              1 | [DOID:3490](http://purl.obolibrary.org/obo/DOID_3490)                                                                                                                                                                                                                                                                |
 | `ORDO:597`      |              1 | [DOID:3529](http://purl.obolibrary.org/obo/DOID_3529)                                                                                                                                                                                                                                                                |
+| `ORDO:622099`   |              1 | [DOID:3557](http://purl.obolibrary.org/obo/DOID_3557)                                                                                                                                                                                                                                                                |
 | `ORDO:590`      |              1 | [DOID:3635](http://purl.obolibrary.org/obo/DOID_3635)                                                                                                                                                                                                                                                                |
 | `ORDO:79243`    |              1 | [DOID:3649](http://purl.obolibrary.org/obo/DOID_3649)                                                                                                                                                                                                                                                                |
 | `ORDO:506`      |              1 | [DOID:3652](http://purl.obolibrary.org/obo/DOID_3652)                                                                                                                                                                                                                                                                |

@@ -30,6 +30,17 @@ did not match the standard pattern `^\d{7}$`.
 |---------------------------------------------|----------------|-------------------------------------------------------------------|
 | `EOL:http://eol.org/pages/4757174/overview` |              1 | [FOODON:03414802](http://purl.obolibrary.org/obo/FOODON_03414802) |
 
+## `FISHBASE`: FishBase
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `FISHBASE` (standardized to Bioregistry
+prefix [`fishbase.species`](https://bioregistry.io/fishbase.species)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref   |   usages_count | usages                                                            |
+|-----------------|----------------|-------------------------------------------------------------------|
+| `FISHBASE:`     |              1 | [FOODON:03412403](http://purl.obolibrary.org/obo/FOODON_03412403) |
+
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 3 invalid
