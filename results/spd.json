@@ -2510,7 +2510,7 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/spd/1.0/spd.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/spd/1.0/spd.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/SPD_0000820": [

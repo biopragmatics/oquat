@@ -45,17 +45,6 @@ did not match the standard pattern `^(data|topic|operation|format)\_\d{4}$`.
 |-------------------|----------------|-----------------------------------------------------------|
 | `EDAM:topic:3298` |              1 | [ECO:0007075](http://purl.obolibrary.org/obo/ECO_0007075) |
 
-## `ERO`: eagle-i resource ontology
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `ERO` (standardized to Bioregistry
-prefix [`ero`](https://bioregistry.io/ero)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref                                                           |   usages_count | usages                                                    |
-|-------------------------------------------------------------------------|----------------|-----------------------------------------------------------|
-| `ERO:0000329|URL:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3907272/` |              1 | [ECO:0007043](http://purl.obolibrary.org/obo/ECO_0007043) |
-
 ## `GO`: Gene Ontology
 
 Overall, there were 7 invalid

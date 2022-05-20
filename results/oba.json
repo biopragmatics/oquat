@@ -20,7 +20,7 @@
           "http://purl.obolibrary.org/obo/OBA_0000022": "AUTO:patterns/patterns/entity_attribute",
           "http://purl.obolibrary.org/obo/OBA_0000023": "AUTO:patterns/patterns/entity_attribute",
           "http://purl.obolibrary.org/obo/OBA_0000032": "AUTO:patterns/patterns/entity_attribute",
-          "http://purl.obolibrary.org/obo/OBA_0000036": "AUTO:patterns/patterns/attribute_location",
+          "http://purl.obolibrary.org/obo/OBA_0000036": "AUTO:patterns/patterns/entity_attribute",
           "http://purl.obolibrary.org/obo/OBA_0000040": "AUTO:patterns/patterns/entity_attribute",
           "http://purl.obolibrary.org/obo/OBA_0000046": "AUTO:patterns/patterns/entity_attribute",
           "http://purl.obolibrary.org/obo/OBA_0000048": "AUTO:patterns/patterns/entity_attribute",
@@ -7467,7 +7467,7 @@
           "http://purl.obolibrary.org/obo/OBA_0000022": "AUTO:patterns/patterns/entity_attribute",
           "http://purl.obolibrary.org/obo/OBA_0000023": "AUTO:patterns/patterns/entity_attribute",
           "http://purl.obolibrary.org/obo/OBA_0000032": "AUTO:patterns/patterns/entity_attribute",
-          "http://purl.obolibrary.org/obo/OBA_0000036": "AUTO:patterns/patterns/attribute_location",
+          "http://purl.obolibrary.org/obo/OBA_0000036": "AUTO:patterns/patterns/entity_attribute",
           "http://purl.obolibrary.org/obo/OBA_0000040": "AUTO:patterns/patterns/entity_attribute",
           "http://purl.obolibrary.org/obo/OBA_0000046": "AUTO:patterns/patterns/entity_attribute",
           "http://purl.obolibrary.org/obo/OBA_0000048": "AUTO:patterns/patterns/entity_attribute",
@@ -15039,7 +15039,8 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/oba/releases/2022-01-19/oba.owl",
+    "version": "2022-05-11",
+    "version_iri": "http://purl.obolibrary.org/obo/oba/releases/2022-05-11/oba.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

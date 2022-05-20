@@ -27,17 +27,6 @@ did not match the standard pattern `^\d{7}$`.
 | `HPO:probinson` |              1 | [MP:0013806](http://purl.obolibrary.org/obo/MP_0013806) |
 | `HPO:curators`  |              1 | [MP:0013807](http://purl.obolibrary.org/obo/MP_0013807) |
 
-## `JAX`: Jackson Laboratories Strain
-
-Overall, there were 7 invalid
-xrefs to external prefixed with `JAX` (standardized to Bioregistry
-prefix [`jax`](https://bioregistry.io/jax)) that
-did not match the standard pattern `^\d{6}$`.
-
-| external_xref    |   usages_count | usages                                                                                                                                                                                                                                                                                           |
-|------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `JAX:CheslerLab` |              7 | [MP:0020905](http://purl.obolibrary.org/obo/MP_0020905), [MP:0020906](http://purl.obolibrary.org/obo/MP_0020906), [MP:0020907](http://purl.obolibrary.org/obo/MP_0020907), [MP:0020908](http://purl.obolibrary.org/obo/MP_0020908), [MP:0020909](http://purl.obolibrary.org/obo/MP_0020909), ... |
-
 ## `MESH`: Medical Subject Headings
 
 Overall, there were 832 invalid
@@ -481,7 +470,7 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 ## `MGI`: Mouse Genome Informatics
 
-Overall, there were 8,616 invalid
+Overall, there were 8,615 invalid
 xrefs to external prefixed with `MGI` (standardized to Bioregistry
 prefix [`mgi`](https://bioregistry.io/mgi)) that
 did not match the standard pattern `^\d+$`.
@@ -489,7 +478,7 @@ did not match the standard pattern `^\d+$`.
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `MGI:csmith`          |           3025 | [MP:0000001](http://purl.obolibrary.org/obo/MP_0000001), [MP:0000002](http://purl.obolibrary.org/obo/MP_0000002), [MP:0000027](http://purl.obolibrary.org/obo/MP_0000027), [MP:0000047](http://purl.obolibrary.org/obo/MP_0000047), [MP:0000049](http://purl.obolibrary.org/obo/MP_0000049), ... |
-| `MGI:anna`            |           2765 | [MP:0000037](http://purl.obolibrary.org/obo/MP_0000037), [MP:0000048](http://purl.obolibrary.org/obo/MP_0000048), [MP:0000109](http://purl.obolibrary.org/obo/MP_0000109), [MP:0000117](http://purl.obolibrary.org/obo/MP_0000117), [MP:0000119](http://purl.obolibrary.org/obo/MP_0000119), ... |
+| `MGI:anna`            |           2764 | [MP:0000037](http://purl.obolibrary.org/obo/MP_0000037), [MP:0000048](http://purl.obolibrary.org/obo/MP_0000048), [MP:0000109](http://purl.obolibrary.org/obo/MP_0000109), [MP:0000117](http://purl.obolibrary.org/obo/MP_0000117), [MP:0000119](http://purl.obolibrary.org/obo/MP_0000119), ... |
 | `MGI:smb`             |            942 | [MP:0000037](http://purl.obolibrary.org/obo/MP_0000037), [MP:0000276](http://purl.obolibrary.org/obo/MP_0000276), [MP:0000364](http://purl.obolibrary.org/obo/MP_0000364), [MP:0000508](http://purl.obolibrary.org/obo/MP_0000508), [MP:0000542](http://purl.obolibrary.org/obo/MP_0000542), ... |
 | `MGI:cwg`             |            598 | [MP:0000003](http://purl.obolibrary.org/obo/MP_0000003), [MP:0000005](http://purl.obolibrary.org/obo/MP_0000005), [MP:0000008](http://purl.obolibrary.org/obo/MP_0000008), [MP:0000015](http://purl.obolibrary.org/obo/MP_0000015), [MP:0000017](http://purl.obolibrary.org/obo/MP_0000017), ... |
 | `MGI:llw2`            |            377 | [MP:0000015](http://purl.obolibrary.org/obo/MP_0000015), [MP:0000024](http://purl.obolibrary.org/obo/MP_0000024), [MP:0000125](http://purl.obolibrary.org/obo/MP_0000125), [MP:0000372](http://purl.obolibrary.org/obo/MP_0000372), [MP:0000392](http://purl.obolibrary.org/obo/MP_0000392), ... |

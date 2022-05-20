@@ -15,7 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/planp/releases/2020-03-28/planp.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/planp/releases/2020-03-28/planp.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

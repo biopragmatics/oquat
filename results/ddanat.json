@@ -2,23 +2,7 @@
   "http://purl.obolibrary.org/obo/ddanat.owl": {
     "graph_id": "http://purl.obolibrary.org/obo/ddanat.owl",
     "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/DDANAT_0000083": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/DDANAT_0000401": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/DDANAT_0010001": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/DDANAT_0010081": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/DDANAT_0010082": [
-          "CARO:MAH"
-        ]
-      },
+      "invalid_luids": {},
       "label": "Provenance Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},
@@ -160,7 +144,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ddanat/releases/2020-04-13/ddanat.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ddanat/releases/2020-04-13/ddanat.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

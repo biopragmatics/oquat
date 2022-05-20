@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://identifiers.org/combine.specifications/teddy.rel-2014-04-24",
+    "version": "rel-2014-04-24 (inferred)",
+    "version_iri": "http://identifiers.org/combine.specifications/teddy.rel-2014-04-24",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

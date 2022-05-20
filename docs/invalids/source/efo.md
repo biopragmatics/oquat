@@ -37,19 +37,6 @@ did not match the standard pattern `^\d{8}$`.
 |-----------------|----------------|-----------------------------------------------------|
 | `FBdv:0005333`  |              1 | [EFO:0001323](http://www.ebi.ac.uk/efo/EFO_0001323) |
 
-## `FBtc`: Flybase Cell Line
-
-Overall, there were 3 invalid
-xrefs to external prefixed with `FBtc` (standardized to Bioregistry
-prefix [`fbtc`](https://bioregistry.io/fbtc)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref      |   usages_count | usages                                              |
-|--------------------|----------------|-----------------------------------------------------|
-| `FBtc:FBtc0000151` |              1 | [EFO:0005743](http://www.ebi.ac.uk/efo/EFO_0005743) |
-| `FBtc:FBtc0000155` |              1 | [EFO:0005744](http://www.ebi.ac.uk/efo/EFO_0005744) |
-| `FBtc:FBtc0000191` |              1 | [EFO:0005745](http://www.ebi.ac.uk/efo/EFO_0005745) |
-
 ## `ICD10`: International Classification of Diseases, 10th Revision
 
 Overall, there were 297 invalid
@@ -378,17 +365,6 @@ did not match the standard pattern `^[0-9]+$`.
 |-------------------|----------------|-----------------------------------------------------|
 | `IDO:IDO_0000436` |              1 | [EFO:0005741](http://www.ebi.ac.uk/efo/EFO_0005741) |
 
-## `JAX`: Jackson Laboratories Strain
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `JAX` (standardized to Bioregistry
-prefix [`jax`](https://bioregistry.io/jax)) that
-did not match the standard pattern `^\d{6}$`.
-
-| external_xref   |   usages_count | usages                                              |
-|-----------------|----------------|-----------------------------------------------------|
-| `JAX:8075`      |              1 | [EFO:0001341](http://www.ebi.ac.uk/efo/EFO_0001341) |
-
 ## `KEGG`: Kyoto Encyclopedia of Genes and Genomes
 
 Overall, there were 18 invalid
@@ -611,7 +587,7 @@ did not match the standard pattern `^PS\d+$`.
 Overall, there were 13 invalid
 xrefs to external prefixed with `ORDO` (standardized to Bioregistry
 prefix [`orphanet.ordo`](https://bioregistry.io/orphanet.ordo)) that
-did not match the standard pattern `^Orphanet(_|:)C?\d+$`.
+did not match the standard pattern `^C?\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

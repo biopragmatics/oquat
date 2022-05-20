@@ -19,7 +19,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/hao/2021-03-05/hao.owl",
+    "version": "2021-03-05",
+    "version_iri": "http://purl.obolibrary.org/obo/hao/2021-03-05/hao.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

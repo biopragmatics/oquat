@@ -49,9 +49,6 @@
         "http://purl.obolibrary.org/obo/VTO_0036532": [
           "TTO:curator"
         ],
-        "http://purl.obolibrary.org/obo/VTO_0036591": [
-          "TAO:curator"
-        ],
         "http://purl.obolibrary.org/obo/VTO_0036594": [
           "TTO:curator"
         ],
@@ -17099,7 +17096,7 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/vto/2020-11-13/vto.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/vto/2020-11-13/vto.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

@@ -15,7 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://ensembl.org/glossary/ensembl-glossary/releases/2021-07-14/ensembl-glossary.owl",
+    "version_iri": "http://ensembl.org/glossary/ensembl-glossary/releases/2021-07-14/ensembl-glossary.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://ensembl.org/glossary/ENSGLOSSARY_0000050": [

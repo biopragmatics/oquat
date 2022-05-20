@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/iao/2020-12-09/iao.owl",
+    "version": "2020-12-09",
+    "version_iri": "http://purl.obolibrary.org/obo/iao/2020-12-09/iao.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -40,6 +41,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "alpha",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -64,6 +66,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "alpha",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -88,6 +91,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "1.9.2",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -136,6 +140,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2.0",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

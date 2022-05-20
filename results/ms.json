@@ -3033,7 +3033,22 @@
           "http://purl.obolibrary.org/obo/MS_4000076": "PSI:MS",
           "http://purl.obolibrary.org/obo/MS_4000077": "PSI:MS",
           "http://purl.obolibrary.org/obo/MS_4000078": "PSI:MS",
-          "http://purl.obolibrary.org/obo/MS_4000079": "PSI:MS"
+          "http://purl.obolibrary.org/obo/MS_4000079": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000080": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000081": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000082": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000083": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000084": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000085": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000086": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000087": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000088": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000089": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000090": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000091": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000092": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000093": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000094": "PSI:MS"
         },
         "source": {
           "http://purl.obolibrary.org/obo/MS_1000600": "source:http://www.proteios.org",
@@ -3053,7 +3068,7 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/ms/4.1.86/ms.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ms/4.1.88/ms.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/MS_1002659": [
@@ -4187,7 +4202,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/pato/releases/2022-02-20/pato.owl",
+    "version": "2022-02-20",
+    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-02-20/pato.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -4212,6 +4228,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "RC1.4",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

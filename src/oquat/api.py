@@ -118,9 +118,10 @@ class ResultPack(pydantic.BaseModel):
 
 
 class Results(pydantic.BaseModel):
-    """A package of assessment results."""
+    """A package of assessment on a single graph."""
 
     graph_id: str
+    version_iri: Optional[str]
     version: Optional[str]
     xref_pack: ResultPack
     prov_pack: ResultPack
@@ -133,7 +134,7 @@ class Results(pydantic.BaseModel):
 
 Graph Identifier: {self.graph_id}
 
-Graph Version: {self.version}
+Graph Version: {self.version}/{self.version_iri}
 
 {self.xref_pack.to_markdown()}
 
@@ -238,13 +239,9 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
     syn_xref_malformed_curies: DefaultDict[str, Set[str]] = defaultdict(set)
     syn_xref_invalid_luids: DefaultDict[str, Set[str]] = defaultdict(set)
 
-    # this is the URI for the ontology, e.g. "http://purl.obolibrary.org/obo/go.owl"
-    graph_id = graph.id
-    if graph_id is None:
+    if graph.id is None:
+        # this is the URI for the ontology, e.g. "http://purl.obolibrary.org/obo/go.owl"
         raise MissingGraphIRI
-
-    # This contains metadata for the graph
-    version = graph.version_iri
 
     for node in graph.nodes:
         node_id = node.id
@@ -296,8 +293,9 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
     #     pass
 
     return Results(
-        graph_id=graph_id,
-        version=version,
+        graph_id=graph.id,
+        version=graph.version,
+        version_iri=graph.version_iri,
         xref_pack=ResultPack(
             label="Node Xrefs",
             unknown_prefixes=node_xref_unknown_prefixes,

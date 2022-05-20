@@ -1011,7 +1011,8 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/fbcv/releases/2022-04-14/fbcv.json",
+    "version": "2022-04-14",
+    "version_iri": "http://purl.obolibrary.org/obo/fbcv/releases/2022-04-14/fbcv.json",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

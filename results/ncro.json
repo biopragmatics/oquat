@@ -15,7 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ncro/2015-12-10/ncro-combined.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ncro/2015-12-10/ncro-combined.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/NCRO_0002693": [

@@ -14330,9 +14330,6 @@
         "http://purl.obolibrary.org/obo/MP_0008939": [
           "MGI:anna"
         ],
-        "http://purl.obolibrary.org/obo/MP_0008940": [
-          "MGI:anna"
-        ],
         "http://purl.obolibrary.org/obo/MP_0008941": [
           "MGI:rbabiuk"
         ],
@@ -25684,27 +25681,6 @@
         "http://purl.obolibrary.org/obo/MP_0020904": [
           "MGI:smb"
         ],
-        "http://purl.obolibrary.org/obo/MP_0020905": [
-          "JAX:CheslerLab"
-        ],
-        "http://purl.obolibrary.org/obo/MP_0020906": [
-          "JAX:CheslerLab"
-        ],
-        "http://purl.obolibrary.org/obo/MP_0020907": [
-          "JAX:CheslerLab"
-        ],
-        "http://purl.obolibrary.org/obo/MP_0020908": [
-          "JAX:CheslerLab"
-        ],
-        "http://purl.obolibrary.org/obo/MP_0020909": [
-          "JAX:CheslerLab"
-        ],
-        "http://purl.obolibrary.org/obo/MP_0020910": [
-          "JAX:CheslerLab"
-        ],
-        "http://purl.obolibrary.org/obo/MP_0020911": [
-          "JAX:CheslerLab"
-        ],
         "http://purl.obolibrary.org/obo/MP_0020954": [
           "MGI:smb"
         ],
@@ -29489,7 +29465,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/mp/releases/2022-04-21/mp.json",
+    "version": "2022-05-19",
+    "version_iri": "http://purl.obolibrary.org/obo/mp/releases/2022-05-19/mp.json",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/MP_0009875": [

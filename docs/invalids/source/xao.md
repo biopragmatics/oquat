@@ -4,17 +4,6 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `xao`. See the [GitHub repository](https://github.com/xenopus-anatomy/xao).
 
 
-## `CARO`: Common Anatomy Reference Ontology
-
-Overall, there were 4 invalid
-xrefs to external prefixed with `CARO` (standardized to Bioregistry
-prefix [`caro`](https://bioregistry.io/caro)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                     |
-|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CARO:MAH`      |              4 | [XAO:0004007](http://purl.obolibrary.org/obo/XAO_0004007), [XAO:0004008](http://purl.obolibrary.org/obo/XAO_0004008), [XAO:0004009](http://purl.obolibrary.org/obo/XAO_0004009), [XAO:0004010](http://purl.obolibrary.org/obo/XAO_0004010) |
-
 ## `NCIt`: NCI Thesaurus
 
 Overall, there were 15 invalid

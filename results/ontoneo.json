@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/releases/2021-04-29/ontoneo.owl",
+    "version": "2021-04-29",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/releases/2021-04-29/ontoneo.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -40,7 +41,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/bcgo_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/bcgo_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -65,7 +66,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/cl_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/cl_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -90,7 +91,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/d-acts_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/d-acts_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -115,7 +116,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/doid_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/doid_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -140,7 +141,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/efo_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/efo_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -165,7 +166,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/ero_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/ero_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -190,7 +191,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/fma_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/fma_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -215,7 +216,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/hp_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/hp_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -240,7 +241,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/iao_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/iao_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -265,7 +266,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/mp_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/mp_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -290,7 +291,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/mpath_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/mpath_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -315,7 +316,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/oae_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/oae_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -340,7 +341,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/obi_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/obi_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -365,7 +366,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/ogms_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/ogms_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -390,7 +391,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/omiabis_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/omiabis_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -415,7 +416,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/omrse_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/omrse_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -440,7 +441,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/pato_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/pato_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -465,7 +466,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/ro_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/ro_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -490,7 +491,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/sio_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/sio_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -515,7 +516,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/symp_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/symp_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -540,7 +541,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/uberon_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/uberon_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -565,7 +566,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/vo_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/vo_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -590,7 +591,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoneo/import/go_import.owl",
+    "version": "2021-02-01",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoneo/import/go_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

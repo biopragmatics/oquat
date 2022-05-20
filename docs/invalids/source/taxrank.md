@@ -4,7 +4,7 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `taxrank`. See the [GitHub repository](https://github.com/phenoscape/taxrank).
 
 
-## `NCBITaxon`: NCBI organismal classification
+## `NCBITaxon`: NCBI Taxonomy
 
 Overall, there were 28 invalid
 xrefs to external prefixed with `NCBITaxon` (standardized to Bioregistry

@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `pdb-ccd`
 but use local unique identifiers that do not match the standard pattern of
-`^\w{3}$`. Of the 1 resources,
+`^\w{1,3}$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['PDBeChem'].
 
 ## `chebi`: Chemical Entities of Biological Interest

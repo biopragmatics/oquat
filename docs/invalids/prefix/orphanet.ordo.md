@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `orphanet.ordo`
 but use local unique identifiers that do not match the standard pattern of
-`^Orphanet(_|:)C?\d+$`. Of the 4 resources,
+`^C?\d+$`. Of the 4 resources,
 1 variants on the standard prefix were found: ['ORDO'].
 
 ## `bao`: BioAssay Ontology

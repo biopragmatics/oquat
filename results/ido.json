@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ido/2017-11-03/ido.owl",
+    "version": "2017-11-03",
+    "version_iri": "http://purl.obolibrary.org/obo/ido/2017-11-03/ido.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

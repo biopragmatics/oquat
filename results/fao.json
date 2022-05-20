@@ -356,7 +356,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/fao/releases/2020-05-07/fao.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/fao/releases/2020-05-07/fao.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/FAO_0001010": [

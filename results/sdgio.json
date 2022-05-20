@@ -64,7 +64,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.unep.org/sdg/releases/2018-08-10/sdgio.owl",
+    "version_iri": "http://purl.unep.org/sdg/releases/2018-08-10/sdgio.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

@@ -2286,7 +2286,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/mod/1.031.4/mod.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/mod/1.031.4/mod.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/MOD_00436": [

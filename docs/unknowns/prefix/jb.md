@@ -1,12 +1,5 @@
 # `jb`
 
-## uberon
-
-| curie   |   usages | nodes                                                                                                                                                                                             |
-|---------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| JB:DEF  |        3 | [UBERON:0007198](http://purl.obolibrary.org/obo/UBERON_0007198), [UBERON:0007497](http://purl.obolibrary.org/obo/UBERON_0007497), [UBERON:0007688](http://purl.obolibrary.org/obo/UBERON_0007688) |
-| JB:def  |        1 | [UBERON:0004706](http://purl.obolibrary.org/obo/UBERON_0004706)                                                                                                                                   |
-
 ## cl
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                            |

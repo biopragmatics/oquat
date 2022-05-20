@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.w3.org/ns/prov-o-20130430",
+    "version": "Recommendation version 2013-04-30",
+    "version_iri": "http://www.w3.org/ns/prov-o-20130430",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -40,6 +41,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "1.1",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

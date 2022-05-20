@@ -1455,9 +1455,6 @@
         "http://purl.obolibrary.org/obo/FYPO_0000511": [
           "PomBase:mah"
         ],
-        "http://purl.obolibrary.org/obo/FYPO_0000512": [
-          "PomBase:mah"
-        ],
         "http://purl.obolibrary.org/obo/FYPO_0000513": [
           "PomBase:mah"
         ],
@@ -23748,6 +23745,9 @@
         ],
         "http://purl.obolibrary.org/obo/FYPO_0007963": [
           "PomBase:val"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007966": [
+          "PomBase:mlr"
         ]
       },
       "label": "Provenance Xrefs",
@@ -25359,10 +25359,6 @@
           "SGD:phenotype_annotation"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0000511": [
-          "PomBase:mah",
-          "SGD:phenotype_annotation"
-        ],
-        "http://purl.obolibrary.org/obo/FYPO_0000512": [
           "PomBase:mah",
           "SGD:phenotype_annotation"
         ],
@@ -48452,13 +48448,20 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/fypo/releases/2022-04-28/fypo.owl",
+    "version": "2022-05-16",
+    "version_iri": "http://purl.obolibrary.org/obo/fypo/releases/2022-05-16/fypo.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/FYPO_0007909": [
           "PomBase:val"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0007957": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007965": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007969": [
           "PomBase:mlr"
         ]
       },

@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/hao/2019-04-18/hao.owl",
+    "version": "2019-04-18",
+    "version_iri": "http://purl.obolibrary.org/obo/hao/2019-04-18/hao.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

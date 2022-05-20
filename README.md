@@ -43,7 +43,7 @@ Assess the quality of biomedical ontologies.
 ## 💪 Getting Started
 
 Analyze an ontology with `python -m oquat.api <ontology prefix>` or run
-the large-scale analysis with `python -m oquat.large_scale_analysis`.
+the large-scale analysis with `tox -e update`.
 
 Results are run automatically on GitHub actions and posted to the
 [results](results/) folder.

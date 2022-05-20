@@ -1,4 +1,4 @@
-# [`ncbitaxon`](https://bioregistry.io/ncbitaxon): NCBI organismal classification
+# [`ncbitaxon`](https://bioregistry.io/ncbitaxon): NCBI Taxonomy
 
 This page summarize the different resources that reference `ncbitaxon`
 but use local unique identifiers that do not match the standard pattern of

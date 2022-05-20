@@ -6030,7 +6030,8 @@
         }
       }
     },
-    "version": "http://www.ebi.ac.uk/efo/releases/v3.40.0/efo.owl",
+    "version": "3.40.0",
+    "version_iri": "http://www.ebi.ac.uk/efo/releases/v3.40.0/efo.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://www.ebi.ac.uk/efo/EFO_0000095": [
@@ -6215,9 +6216,6 @@
         ],
         "http://www.ebi.ac.uk/efo/EFO_0001323": [
           "FBdv:0005333"
-        ],
-        "http://www.ebi.ac.uk/efo/EFO_0001341": [
-          "JAX:8075"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0001356": [
           "OMIMPS:105400"
@@ -6500,15 +6498,6 @@
         "http://www.ebi.ac.uk/efo/EFO_0005741": [
           "ICD10:A00.B99",
           "IDO:IDO_0000436"
-        ],
-        "http://www.ebi.ac.uk/efo/EFO_0005743": [
-          "FBtc:FBtc0000151"
-        ],
-        "http://www.ebi.ac.uk/efo/EFO_0005744": [
-          "FBtc:FBtc0000155"
-        ],
-        "http://www.ebi.ac.uk/efo/EFO_0005745": [
-          "FBtc:FBtc0000191"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0005758": [
           "ICD10:H52.52"

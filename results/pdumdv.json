@@ -62,7 +62,7 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/pdumdv/releases/2020-03-10/pdumdv.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/pdumdv/releases/2020-03-10/pdumdv.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

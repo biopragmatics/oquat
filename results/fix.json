@@ -15,7 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/fix/releases/2020-04-13/fix.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/fix/releases/2020-04-13/fix.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

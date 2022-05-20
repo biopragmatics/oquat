@@ -39,7 +39,7 @@ Identifiers for this prefix are given incorrectly in `fypo`. See the [GitHub rep
 
 | external_xref              |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
 |----------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `SGD:phenotype_annotation` |            293 | [FYPO:0000005](http://purl.obolibrary.org/obo/FYPO_0000005), [FYPO:0000008](http://purl.obolibrary.org/obo/FYPO_0000008), [FYPO:0000011](http://purl.obolibrary.org/obo/FYPO_0000011), [FYPO:0000012](http://purl.obolibrary.org/obo/FYPO_0000012), [FYPO:0000023](http://purl.obolibrary.org/obo/FYPO_0000023), ... |
+| `SGD:phenotype_annotation` |            292 | [FYPO:0000005](http://purl.obolibrary.org/obo/FYPO_0000005), [FYPO:0000008](http://purl.obolibrary.org/obo/FYPO_0000008), [FYPO:0000011](http://purl.obolibrary.org/obo/FYPO_0000011), [FYPO:0000012](http://purl.obolibrary.org/obo/FYPO_0000012), [FYPO:0000023](http://purl.obolibrary.org/obo/FYPO_0000023), ... |
 
 ## `so`: Sequence types and features ontology
 

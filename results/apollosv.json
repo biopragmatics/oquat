@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/apollo_sv/v4.1.1./apollo_sv.owl",
+    "version": "v4.1.1",
+    "version_iri": "http://purl.obolibrary.org/obo/apollo_sv/v4.1.1./apollo_sv.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -40,7 +41,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/bfo/classes-only.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/bfo/classes-only.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -65,6 +66,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "production version 2016-03-26",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -89,7 +91,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/iao/2020-12-09/iao.owl",
+    "version": "2020-12-09",
+    "version_iri": "http://purl.obolibrary.org/obo/iao/2020-12-09/iao.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -114,7 +117,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/iao/pno/dev/pno.owl",
+    "version": "development version 2021-06-11",
+    "version_iri": "http://purl.obolibrary.org/obo/iao/pno/dev/pno.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

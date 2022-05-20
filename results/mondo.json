@@ -50838,7 +50838,6 @@
           "MONDO:patterns/specific_infectious_disease_by_agent"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0044749": [
-          "GARD:0003995-def",
           "MONDO:patterns/x_linked"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0044751": [
@@ -54686,7 +54685,7 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/mondo/releases/2022-05-02/mondo.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/mondo/releases/2022-05-02/mondo.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/MONDO_0000005": [

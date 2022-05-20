@@ -43,9 +43,7 @@ def main():
                         xref_prefix, xref_curie = xref.split(":", 1)
                         xref_norm_prefix = bioregistry.normalize_prefix(xref_prefix)
                         source_agg[source][xref_prefix][xref_prefix, xref_curie].append(node)
-                        xref_agg[xref_norm_prefix][source][xref_prefix, xref_curie].append(
-                            node
-                        )
+                        xref_agg[xref_norm_prefix][source][xref_prefix, xref_curie].append(node)
 
     index_text = dedent(
         """\

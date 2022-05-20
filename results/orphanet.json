@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.orpha.net/version4.0",
+    "version": "4.0",
+    "version_iri": "http://www.orpha.net/version4.0",
     "xref_pack": {
       "invalid_luids": {
         "http://www.orpha.net/ORDO/Orphanet_100006": [

@@ -3685,7 +3685,8 @@
       },
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/wbphenotype/releases/2022-03-22/wbphenotype.owl",
+    "version": "2022-03-22",
+    "version_iri": "http://purl.obolibrary.org/obo/wbphenotype/releases/2022-03-22/wbphenotype.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/WBPhenotype_0010004": [

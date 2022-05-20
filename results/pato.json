@@ -2134,7 +2134,8 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/pato/releases/2022-02-20/pato.json",
+    "version": "2022-02-20",
+    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-02-20/pato.json",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/PATO_0001555": [

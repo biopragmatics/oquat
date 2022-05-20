@@ -163,7 +163,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/mmusdv/releases/2020-03-10/mmusdv.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/mmusdv/releases/2020-03-10/mmusdv.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/MmusDv_0000003": [

@@ -9067,7 +9067,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/doid/releases/2022-04-28/doid.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-04-28/doid.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/DOID_0040093": [
@@ -32996,7 +32996,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/doid/imports/chebi_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/chebi_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -33021,7 +33021,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/doid/imports/cl_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/cl_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -33094,7 +33094,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/doid/imports/foodon_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/foodon_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -33119,7 +33119,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/doid/imports/geno_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/geno_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -33144,7 +33144,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/doid/imports/hp_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/hp_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -33169,7 +33169,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/doid/imports/ncbitaxon_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/ncbitaxon_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -33218,7 +33218,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/doid/imports/ro_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/ro_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -33243,7 +33243,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/doid/imports/so_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/so_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -33268,7 +33268,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/doid/imports/trans_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/trans_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -33293,7 +33293,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/doid/imports/uberon_import.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/uberon_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -33342,7 +33342,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/symp/releases/2022-04-05/symp.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/symp/releases/2022-05-10/symp.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

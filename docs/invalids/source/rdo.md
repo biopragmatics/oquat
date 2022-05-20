@@ -597,7 +597,7 @@ did not match the standard pattern `^\d+$`.
 Overall, there were 2,083 invalid
 xrefs to external prefixed with `ORDO` (standardized to Bioregistry
 prefix [`orphanet.ordo`](https://bioregistry.io/orphanet.ordo)) that
-did not match the standard pattern `^Orphanet(_|:)C?\d+$`.
+did not match the standard pattern `^C?\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                   |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------|

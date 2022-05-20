@@ -1127,7 +1127,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/peco/releases/2020-08-21/peco.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/peco/releases/2020-08-21/peco.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

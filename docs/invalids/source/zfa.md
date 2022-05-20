@@ -4,17 +4,6 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `zfa`. See the [GitHub repository](https://github.com/cerivs/zebrafish-anatomical-ontology).
 
 
-## `CARO`: Common Anatomy Reference Ontology
-
-Overall, there were 3 invalid
-xrefs to external prefixed with `CARO` (standardized to Bioregistry
-prefix [`caro`](https://bioregistry.io/caro)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref   |   usages_count | usages                                                                                                                                                                          |
-|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CARO:MAH`      |              3 | [ZFA:0001689](http://purl.obolibrary.org/obo/ZFA_0001689), [ZFA:0005594](http://purl.obolibrary.org/obo/ZFA_0005594), [ZFA:0009000](http://purl.obolibrary.org/obo/ZFA_0009000) |
-
 ## `CL`: Cell Ontology
 
 Overall, there were 172 invalid
@@ -55,17 +44,6 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------|----------------|-----------------------------------------------------------|
 | `GO:CJM`        |              1 | [ZFA:0009307](http://purl.obolibrary.org/obo/ZFA_0009307) |
 
-## `KUPO`: Kidney and Urinary Pathway Ontology
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `KUPO` (standardized to Bioregistry
-prefix [`kupo`](https://bioregistry.io/kupo)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref   |   usages_count | usages                                                    |
-|-----------------|----------------|-----------------------------------------------------------|
-| `KUPO:SJ`       |              1 | [ZFA:0009374](http://purl.obolibrary.org/obo/ZFA_0009374) |
-
 ## `MESH`: Medical Subject Headings
 
 Overall, there were 1 invalid
@@ -101,20 +79,6 @@ did not match the standard pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`.
 |----------------------------|----------------|-----------------------------------------------------------|
 | `ORCID:000-0002-2244-7917` |              1 | [ZFA:0005927](http://purl.obolibrary.org/obo/ZFA_0005927) |
 
-## `TAO`: Teleost Anatomy Ontology
-
-Overall, there were 172 invalid
-xrefs to external prefixed with `TAO` (standardized to Bioregistry
-prefix [`tao`](https://bioregistry.io/tao)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
-|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `TAO:curator`   |            157 | [ZFA:0000167](http://purl.obolibrary.org/obo/ZFA_0000167), [ZFA:0000271](http://purl.obolibrary.org/obo/ZFA_0000271), [ZFA:0000508](http://purl.obolibrary.org/obo/ZFA_0000508), [ZFA:0000623](http://purl.obolibrary.org/obo/ZFA_0000623), [ZFA:0000660](http://purl.obolibrary.org/obo/ZFA_0000660), ... |
-| `TAO:WD`        |             11 | [ZFA:0000108](http://purl.obolibrary.org/obo/ZFA_0000108), [ZFA:0000239](http://purl.obolibrary.org/obo/ZFA_0000239), [ZFA:0000277](http://purl.obolibrary.org/obo/ZFA_0000277), [ZFA:0000407](http://purl.obolibrary.org/obo/ZFA_0000407), [ZFA:0000565](http://purl.obolibrary.org/obo/ZFA_0000565), ... |
-| `TAO:GA_TG`     |              3 | [ZFA:0000332](http://purl.obolibrary.org/obo/ZFA_0000332), [ZFA:0000583](http://purl.obolibrary.org/obo/ZFA_0000583), [ZFA:0000594](http://purl.obolibrary.org/obo/ZFA_0000594)                                                                                                                            |
-| `TAO:Curator`   |              1 | [ZFA:0001589](http://purl.obolibrary.org/obo/ZFA_0001589)                                                                                                                                                                                                                                                  |
-
 ## `UBERON`: Uber Anatomy Ontology
 
 Overall, there were 2 invalid
@@ -125,17 +89,6 @@ did not match the standard pattern `^\d+$`.
 | external_xref    |   usages_count | usages                                                                                                               |
 |------------------|----------------|----------------------------------------------------------------------------------------------------------------------|
 | `UBERON:curator` |              2 | [ZFA:0000632](http://purl.obolibrary.org/obo/ZFA_0000632), [ZFA:0005658](http://purl.obolibrary.org/obo/ZFA_0005658) |
-
-## `vHOG`: Vertebrate Homologous Organ Group Ontology
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `vHOG` (standardized to Bioregistry
-prefix [`vhog`](https://bioregistry.io/vhog)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref   |   usages_count | usages                                                    |
-|-----------------|----------------|-----------------------------------------------------------|
-| `vHOG:curator`  |              1 | [ZFA:0005314](http://purl.obolibrary.org/obo/ZFA_0005314) |
 
 ## `ZFIN`: Zebrafish Information Network Gene
 

@@ -16029,9 +16029,6 @@
         "http://purl.obolibrary.org/obo/WBbt_0008627": [
           "WB:rynl"
         ],
-        "http://purl.obolibrary.org/obo/WBbt_0008628": [
-          "CARO:MAH"
-        ],
         "http://purl.obolibrary.org/obo/WBbt_0008629": [
           "WB:rynl"
         ],
@@ -21663,7 +21660,7 @@
       },
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/wbbt/releases/2022-03-22/wbbt.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/wbbt/releases/2022-03-22/wbbt.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/WBbt_0000101": [

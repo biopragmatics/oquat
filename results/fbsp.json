@@ -15,7 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/fbsp/releases/2017-11-19/fbsp.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/fbsp/releases/2017-11-19/fbsp.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

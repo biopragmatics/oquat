@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/clao/releases/2021-09-27/clao.owl",
+    "version": "2020-16-05",
+    "version_iri": "http://purl.obolibrary.org/obo/clao/releases/2021-09-27/clao.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/CLAO_0001186": [

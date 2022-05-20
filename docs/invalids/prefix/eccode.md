@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `eccode`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{1,2}(\.\d{0,3}){0,3}$`. Of the 5 resources,
+`^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.n\d{1,3})?$`. Of the 5 resources,
 1 variants on the standard prefix were found: ['EC'].
 
 ## `cco`: Cell Cycle Ontology

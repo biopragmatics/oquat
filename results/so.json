@@ -2436,9 +2436,6 @@
         "http://purl.obolibrary.org/obo/SO_0001498": [
           "SO:ke"
         ],
-        "http://purl.obolibrary.org/obo/SO_0001500": [
-          "JAX:hdene"
-        ],
         "http://purl.obolibrary.org/obo/SO_0001502": [
           "SO:ke"
         ],
@@ -3132,9 +3129,6 @@
         ],
         "http://purl.obolibrary.org/obo/SO_0001836": [
           "SO:ke"
-        ],
-        "http://purl.obolibrary.org/obo/SO_0001841": [
-          "JAX:hd"
         ],
         "http://purl.obolibrary.org/obo/SO_0001861": [
           "GO:mah"
@@ -4675,7 +4669,7 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/so/2021-11-22/so.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/so/2021-11-22/so.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/SO_0002223": [

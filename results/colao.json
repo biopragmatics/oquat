@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/colao/releases/2021-12-14/colao.owl",
+    "version": "2021-12-14",
+    "version_iri": "http://purl.obolibrary.org/obo/colao/releases/2021-12-14/colao.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

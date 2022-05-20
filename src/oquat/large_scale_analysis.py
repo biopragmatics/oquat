@@ -12,7 +12,9 @@ import bioregistry
 import click
 import jinja2
 from more_click import force_option, verbose_option
+from tabulate import tabulate
 from tqdm import tqdm
+from tqdm.contrib.logging import logging_redirect_tqdm
 
 from .api import (
     SKIP_PREFIXES,
@@ -33,7 +35,7 @@ TEMPLATES = HERE.joinpath("templates")
 ROOT = HERE.parent.parent.resolve()
 DOCS = ROOT.joinpath("docs")
 RESULTS = ROOT.joinpath("results")
-FAILURES_PATH = RESULTS.joinpath("failures.txt")
+FAILURES_PATH = RESULTS.joinpath("failures.md")
 
 environment = jinja2.Environment(
     loader=jinja2.FileSystemLoader(TEMPLATES),
@@ -53,6 +55,11 @@ EXTENSION_EXCEPTIONS = {
 @verbose_option
 def lsa(force: bool, minimum: Optional[str]):
     """Run large-scale ontology analysis."""
+    with logging_redirect_tqdm():
+        _lsa(force=force, minimum=minimum)
+
+
+def _lsa(force: bool, minimum: Optional[str]):
     rows = sorted(
         (
             prefix,
@@ -69,9 +76,10 @@ def lsa(force: bool, minimum: Optional[str]):
     results = []
     failures = []
 
-    def _failure(text):
-        secho(text, fg="red")
-        failures.append(text)
+    def _failure(*, prefix: str, text: str, fg: str = "red") -> None:
+        _text = f"{prefix} - {text}"
+        secho(_text, fg=fg)
+        failures.append((prefix, text))
 
     tqdm.write(f"got info on {len(rows)} prefixes")
     it = tqdm(rows)
@@ -85,16 +93,16 @@ def lsa(force: bool, minimum: Optional[str]):
             and owl_url not in EXTENSION_EXCEPTIONS
             and not owl_url.startswith("https://cropontology.org/ontology/")
         ):
-            failure_text = f"{prefix} has an unhanded suffix in its OWL URL: {owl_url}"
-            secho(failure_text, fg="red")
-            failures.append(failure_text)
+            _failure(prefix=prefix, text=f"Unhanded suffix in its OWL URL: {owl_url}")
             continue
         if json_url is None and owl_url is None and not obo_url.endswith(".obo"):
-            failure_text = f"{prefix} does not have an OBO URL: {obo_url}"
-            secho(failure_text, fg="red")
-            failures.append(failure_text)
+            failure_text = f"Invalid OBO URL: {obo_url}"
+            _failure(prefix=prefix, text=failure_text)
             continue
-        tqdm.write(f"analyzing {prefix}")
+        text = f"analyzing {prefix}"
+        if bioregistry.is_deprecated(prefix):
+            text = f"{text} (⚠️  deprecated)"
+        tqdm.write(text)
         analysis_path = RESULTS.joinpath(prefix).with_suffix(".json")
         if analysis_path.is_file() and not force:
             result = {k: Results(**v) for k, v in json.loads(analysis_path.read_text()).items()}
@@ -105,20 +113,20 @@ def lsa(force: bool, minimum: Optional[str]):
                     prefix, iri_filter=iri_filter or CUSTOM_FILTERS.get(prefix)
                 )
             except urllib.error.URLError:
-                failure_text = f"{prefix} could not be downloaded"
-                _failure(failure_text)
+                failure_text = "Could not be downloaded"
+                _failure(prefix=prefix, text=failure_text)
             except subprocess.CalledProcessError:
-                failure_text = f"{prefix} could not be parsed by ROBOT"
-                _failure(failure_text)
+                failure_text = "ROBOT could not parse"
+                _failure(prefix=prefix, text=failure_text)
             except MissingGraphIRI:
-                failure_text = f"{prefix} missing graph ID"
-                _failure(failure_text)
+                failure_text = "Missing graph ID"
+                _failure(prefix=prefix, text=failure_text)
             except NoParsableURIs:
-                failure_text = f"{prefix} None of the URIs could be parsed"
-                _failure(failure_text)
+                failure_text = "None of the URIs could be parsed"
+                _failure(prefix=prefix, text=failure_text)
             except (ValueError, TypeError, RuntimeError) as e:
-                failure_text = f"{prefix} got an error: {e}"
-                _failure(failure_text)
+                failure_text = f"General error: {e}"
+                _failure(prefix=prefix, text=failure_text)
             else:
                 result = analysis_results.results
 
@@ -141,7 +149,11 @@ def lsa(force: bool, minimum: Optional[str]):
         #     secho(f"prefix: {prefix} has issues", fg="yellow")
         # it.write(result.as_str())
 
-    FAILURES_PATH.write_text("\n".join(failures))
+    FAILURES_PATH.write_text(
+        "# Failures\n\n"
+        + tabulate(failures, headers=["prefix", "message"], tablefmt="github")
+        + "\n"
+    )
     # template = environment.get_template("invalid_xrefs.md")
     # OUTPUT.write_text(template.render(results=results, bioregistry=bioregistry))
 

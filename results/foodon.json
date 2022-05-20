@@ -15,7 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -40,7 +40,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/foodon/releases/2022-02-01/foodon.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/foodon/releases/2022-02-01/foodon.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/FOODON_03411081": [
@@ -51,9 +51,6 @@
         ],
         "http://purl.obolibrary.org/obo/FOODON_03412115": [
           "EC:No 1637/2001 ECH"
-        ],
-        "http://purl.obolibrary.org/obo/FOODON_03412403": [
-          "FISHBASE:"
         ],
         "http://purl.obolibrary.org/obo/FOODON_03413856": [
           "EC:No 216/2009 SAS"

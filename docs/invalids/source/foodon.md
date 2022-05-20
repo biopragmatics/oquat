@@ -9,7 +9,7 @@ for node, synonym, and definition cross-references in `foodon`. See the [GitHub 
 Overall, there were 5 invalid
 xrefs to external prefixed with `EC` (standardized to Bioregistry
 prefix [`eccode`](https://bioregistry.io/eccode)) that
-did not match the standard pattern `^\d{1,2}(\.\d{0,3}){0,3}$`.
+did not match the standard pattern `^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.n\d{1,3})?$`.
 
 | external_xref         |   usages_count | usages                                                            |
 |-----------------------|----------------|-------------------------------------------------------------------|
@@ -29,17 +29,6 @@ did not match the standard pattern `^\d{7}$`.
 | external_xref                               |   usages_count | usages                                                            |
 |---------------------------------------------|----------------|-------------------------------------------------------------------|
 | `EOL:http://eol.org/pages/4757174/overview` |              1 | [FOODON:03414802](http://purl.obolibrary.org/obo/FOODON_03414802) |
-
-## `FISHBASE`: FishBase
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `FISHBASE` (standardized to Bioregistry
-prefix [`fishbase.species`](https://bioregistry.io/fishbase.species)) that
-did not match the standard pattern `^\d+$`.
-
-| external_xref   |   usages_count | usages                                                            |
-|-----------------|----------------|-------------------------------------------------------------------|
-| `FISHBASE:`     |              1 | [FOODON:03412403](http://purl.obolibrary.org/obo/FOODON_03412403) |
 
 ## `Wikipedia`: Wikipedia
 

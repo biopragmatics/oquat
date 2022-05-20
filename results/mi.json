@@ -36,7 +36,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/mi/releases/2020-04-13/mi.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/mi/releases/2020-04-13/mi.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/MI_1276": [

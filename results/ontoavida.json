@@ -15,7 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/ontoavida/releases/2022-03-15/ontoavida.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ontoavida/releases/2022-03-15/ontoavida.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

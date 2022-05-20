@@ -15,7 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/bfo/2014-05-03/bfo.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/bfo/2014-05-03/bfo.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -40,7 +40,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/2020-03-05/cvdo.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/2020-03-05/cvdo.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

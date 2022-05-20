@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/zeco/releases/2022-02-14/zeco.json",
+    "version": "2022-02-14",
+    "version_iri": "http://purl.obolibrary.org/obo/zeco/releases/2022-02-14/zeco.json",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

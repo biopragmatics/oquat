@@ -61,7 +61,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/plana/releases/2022-03-09",
+    "version": "2022-03-09",
+    "version_iri": "http://purl.obolibrary.org/obo/plana/releases/2022-03-09",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/PLANA_0000137": [

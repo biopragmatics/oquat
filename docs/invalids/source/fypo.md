@@ -34,19 +34,19 @@ PomBase:val`                 |              1 | [FYPO:0007907](http://purl.oboli
 
 ## `PomBase`: PomBase
 
-Overall, there were 18,024 invalid
+Overall, there were 18,025 invalid
 xrefs to external prefixed with `PomBase` (standardized to Bioregistry
 prefix [`pombase`](https://bioregistry.io/pombase)) that
 did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PomBase:mah`   |          14847 | [FYPO:0000001](http://purl.obolibrary.org/obo/FYPO_0000001), [FYPO:0000001](http://purl.obolibrary.org/obo/FYPO_0000001), [FYPO:0000002](http://purl.obolibrary.org/obo/FYPO_0000002), [FYPO:0000002](http://purl.obolibrary.org/obo/FYPO_0000002), [FYPO:0000003](http://purl.obolibrary.org/obo/FYPO_0000003), ... |
+| `PomBase:mah`   |          14845 | [FYPO:0000001](http://purl.obolibrary.org/obo/FYPO_0000001), [FYPO:0000001](http://purl.obolibrary.org/obo/FYPO_0000001), [FYPO:0000002](http://purl.obolibrary.org/obo/FYPO_0000002), [FYPO:0000002](http://purl.obolibrary.org/obo/FYPO_0000002), [FYPO:0000003](http://purl.obolibrary.org/obo/FYPO_0000003), ... |
 | `PomBase:vw`    |           1969 | [FYPO:0000012](http://purl.obolibrary.org/obo/FYPO_0000012), [FYPO:0000013](http://purl.obolibrary.org/obo/FYPO_0000013), [FYPO:0000014](http://purl.obolibrary.org/obo/FYPO_0000014), [FYPO:0000016](http://purl.obolibrary.org/obo/FYPO_0000016), [FYPO:0000017](http://purl.obolibrary.org/obo/FYPO_0000017), ... |
 | `PomBase:al`    |           1076 | [FYPO:0000006](http://purl.obolibrary.org/obo/FYPO_0000006), [FYPO:0000061](http://purl.obolibrary.org/obo/FYPO_0000061), [FYPO:0000090](http://purl.obolibrary.org/obo/FYPO_0000090), [FYPO:0000102](http://purl.obolibrary.org/obo/FYPO_0000102), [FYPO:0000108](http://purl.obolibrary.org/obo/FYPO_0000108), ... |
 | `PomBase:jh`    |             93 | [FYPO:0000129](http://purl.obolibrary.org/obo/FYPO_0000129), [FYPO:0000229](http://purl.obolibrary.org/obo/FYPO_0000229), [FYPO:0000241](http://purl.obolibrary.org/obo/FYPO_0000241), [FYPO:0000284](http://purl.obolibrary.org/obo/FYPO_0000284), [FYPO:0000316](http://purl.obolibrary.org/obo/FYPO_0000316), ... |
 | `PomBase:val`   |             22 | [FYPO:0000901](http://purl.obolibrary.org/obo/FYPO_0000901), [FYPO:0000901](http://purl.obolibrary.org/obo/FYPO_0000901), [FYPO:0007902](http://purl.obolibrary.org/obo/FYPO_0007902), [FYPO:0007903](http://purl.obolibrary.org/obo/FYPO_0007903), [FYPO:0007906](http://purl.obolibrary.org/obo/FYPO_0007906), ... |
-| `PomBase:mlr`   |              6 | [FYPO:0007955](http://purl.obolibrary.org/obo/FYPO_0007955), [FYPO:0007957](http://purl.obolibrary.org/obo/FYPO_0007957), [FYPO:0007957](http://purl.obolibrary.org/obo/FYPO_0007957), [FYPO:0007959](http://purl.obolibrary.org/obo/FYPO_0007959), [FYPO:0007960](http://purl.obolibrary.org/obo/FYPO_0007960), ... |
+| `PomBase:mlr`   |              9 | [FYPO:0007955](http://purl.obolibrary.org/obo/FYPO_0007955), [FYPO:0007957](http://purl.obolibrary.org/obo/FYPO_0007957), [FYPO:0007957](http://purl.obolibrary.org/obo/FYPO_0007957), [FYPO:0007959](http://purl.obolibrary.org/obo/FYPO_0007959), [FYPO:0007960](http://purl.obolibrary.org/obo/FYPO_0007960), ... |
 | `PomBase:amc`   |              3 | [FYPO:0004251](http://purl.obolibrary.org/obo/FYPO_0004251), [FYPO:0006087](http://purl.obolibrary.org/obo/FYPO_0006087), [FYPO:0006318](http://purl.obolibrary.org/obo/FYPO_0006318)                                                                                                                                |
 | `PomBase:mp`    |              2 | [FYPO:0001404](http://purl.obolibrary.org/obo/FYPO_0001404), [FYPO:0001405](http://purl.obolibrary.org/obo/FYPO_0001405)                                                                                                                                                                                             |
 | `PomBase:gs`    |              2 | [FYPO:0002484](http://purl.obolibrary.org/obo/FYPO_0002484), [FYPO:0002485](http://purl.obolibrary.org/obo/FYPO_0002485)                                                                                                                                                                                             |
@@ -70,14 +70,14 @@ did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 ## `SGD`: Saccharomyces Genome Database
 
-Overall, there were 293 invalid
+Overall, there were 292 invalid
 xrefs to external prefixed with `SGD` (standardized to Bioregistry
 prefix [`sgd`](https://bioregistry.io/sgd)) that
 did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`.
 
 | external_xref              |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
 |----------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `SGD:phenotype_annotation` |            293 | [FYPO:0000005](http://purl.obolibrary.org/obo/FYPO_0000005), [FYPO:0000008](http://purl.obolibrary.org/obo/FYPO_0000008), [FYPO:0000011](http://purl.obolibrary.org/obo/FYPO_0000011), [FYPO:0000012](http://purl.obolibrary.org/obo/FYPO_0000012), [FYPO:0000023](http://purl.obolibrary.org/obo/FYPO_0000023), ... |
+| `SGD:phenotype_annotation` |            292 | [FYPO:0000005](http://purl.obolibrary.org/obo/FYPO_0000005), [FYPO:0000008](http://purl.obolibrary.org/obo/FYPO_0000008), [FYPO:0000011](http://purl.obolibrary.org/obo/FYPO_0000011), [FYPO:0000012](http://purl.obolibrary.org/obo/FYPO_0000012), [FYPO:0000023](http://purl.obolibrary.org/obo/FYPO_0000023), ... |
 
 ## `SO`: Sequence types and features ontology
 

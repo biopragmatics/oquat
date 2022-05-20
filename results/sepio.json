@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/iao/2015-02-23/ontology-metadata.owl",
+    "version": "$Revision$",
+    "version_iri": "http://purl.obolibrary.org/obo/iao/2015-02-23/ontology-metadata.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -64,7 +65,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/sepio/bfo-mireot.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/sepio/bfo-mireot.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

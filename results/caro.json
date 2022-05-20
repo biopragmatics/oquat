@@ -2,14 +2,7 @@
   "http://purl.obolibrary.org/obo/caro.owl": {
     "graph_id": "http://purl.obolibrary.org/obo/caro.owl",
     "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/CARO_0000041": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/CARO_0000054": [
-          "CARO:MAH"
-        ]
-      },
+      "invalid_luids": {},
       "label": "Provenance Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},
@@ -33,7 +26,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/caro/releases/2022-02-18/caro.owl",
+    "version": "2022-02-18",
+    "version_iri": "http://purl.obolibrary.org/obo/caro/releases/2022-02-18/caro.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

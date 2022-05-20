@@ -1165,7 +1165,8 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/ddpheno/releases/2022-01-19/ddpheno.owl",
+    "version": "2022-01-19",
+    "version_iri": "http://purl.obolibrary.org/obo/ddpheno/releases/2022-01-19/ddpheno.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

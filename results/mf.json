@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/MF/2021-11-17/MF.owl",
+    "version": "2021-11-17",
+    "version_iri": "http://purl.obolibrary.org/obo/MF/2021-11-17/MF.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -136,7 +137,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -161,7 +162,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/iao/2019-08-26/ontology-metadata.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/iao/2019-08-26/ontology-metadata.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -186,7 +187,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/omo/2020-06-08/omo.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/omo/2020-06-08/omo.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

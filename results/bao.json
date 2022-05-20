@@ -39,7 +39,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_external.owl",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_external.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -64,7 +64,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_complete.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_complete.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -89,7 +90,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_core.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_core.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -162,7 +164,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_module_properties.owl",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_module_properties.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -187,7 +189,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_module_vocabularies.owl",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_module_vocabularies.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -212,7 +214,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_assay.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_assay.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -237,7 +240,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_assaykit.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_assaykit.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -262,7 +266,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_biology.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_biology.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -287,7 +292,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_computational.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_computational.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -312,7 +318,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_detection.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_detection.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -337,7 +344,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_format.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_format.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -362,7 +370,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_function.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_function.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -387,7 +396,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_instrument.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_instrument.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -412,7 +422,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_materialentity.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_materialentity.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -437,7 +448,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_method.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_method.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -462,7 +474,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_organization.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_organization.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -487,7 +500,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_people.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_people.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -512,7 +526,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_phenotype.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_phenotype.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -537,6 +552,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2.1",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -561,7 +577,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_quality.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_quality.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -586,7 +603,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_result.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_result.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -611,6 +629,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2.1",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -635,7 +654,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_role.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_role.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -660,7 +680,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_screenedentity.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_screenedentity.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -685,7 +706,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_software.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_software.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -710,7 +732,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://www.bioassayontology.org/bao/bao_vocabulary_unit.owl",
+    "version": "2.7.2",
+    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_unit.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

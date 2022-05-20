@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "https://bio.scai.fraunhofer.de/ontology/epilepsy/2021-05-28/EPIO.owl",
+    "version": "2021-05-28",
+    "version_iri": "https://bio.scai.fraunhofer.de/ontology/epilepsy/2021-05-28/EPIO.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

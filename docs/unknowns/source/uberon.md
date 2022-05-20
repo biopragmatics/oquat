@@ -836,12 +836,6 @@
 | GOC:dph              |        1 | [UBERON:0002450](http://purl.obolibrary.org/obo/UBERON_0002450)                                                                  |
 | GOC:mtg_heart        |        1 | [UBERON:0004490](http://purl.obolibrary.org/obo/UBERON_0004490)                                                                  |
 
-## `ID`
-
-| curie         |   usages | nodes                                                           |
-|---------------|----------|-----------------------------------------------------------------|
-| ID:KFC0000604 |        1 | [UBERON:0011605](http://purl.obolibrary.org/obo/UBERON_0011605) |
-
 ## `INCF`
 
 | curie                 |   usages | nodes                                                           |
@@ -867,12 +861,6 @@
 | J:77634  |        1 | [UBERON:0002233](http://purl.obolibrary.org/obo/UBERON_0002233) |
 | J:97123  |        1 | [UBERON:0003604](http://purl.obolibrary.org/obo/UBERON_0003604) |
 | J:117841 |        1 | [UBERON:0015171](http://purl.obolibrary.org/obo/UBERON_0015171) |
-
-## `JB`
-
-| curie   |   usages | nodes                                                           |
-|---------|----------|-----------------------------------------------------------------|
-| JB:def  |        1 | [UBERON:0004706](http://purl.obolibrary.org/obo/UBERON_0004706) |
 
 ## `LG`
 
@@ -1497,24 +1485,6 @@
 | curie        |   usages | nodes                                                                                                                            |
 |--------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
 | Swanson:2004 |        2 | [UBERON:0001893](http://purl.obolibrary.org/obo/UBERON_0001893), [UBERON:0001894](http://purl.obolibrary.org/obo/UBERON_0001894) |
-
-## `TEMP`
-
-| curie   |   usages | nodes                                                           |
-|---------|----------|-----------------------------------------------------------------|
-| TEMP:MP |        1 | [UBERON:0001263](http://purl.obolibrary.org/obo/UBERON_0001263) |
-
-## `TODO`
-
-| curie     |   usages | nodes                                                           |
-|-----------|----------|-----------------------------------------------------------------|
-| TODO:TODO |        1 | [UBERON:0001680](http://purl.obolibrary.org/obo/UBERON_0001680) |
-
-## `UBERO`
-
-| curie     |   usages | nodes                                                           |
-|-----------|----------|-----------------------------------------------------------------|
-| UBERO:cjm |        1 | [UBERON:0001230](http://purl.obolibrary.org/obo/UBERON_0001230) |
 
 ## `UBERONTEMP`
 
@@ -2324,12 +2294,6 @@
 | RadLex:RID6871 |        1 | [UBERON:0035926](http://purl.obolibrary.org/obo/UBERON_0035926) |
 | RadLex:RID6449 |        1 | [UBERON:0035933](http://purl.obolibrary.org/obo/UBERON_0035933) |
 | RadLex:RID6708 |        1 | [UBERON:0035939](http://purl.obolibrary.org/obo/UBERON_0035939) |
-
-## `STID`
-
-| curie         |   usages | nodes                                                           |
-|---------------|----------|-----------------------------------------------------------------|
-| STID:29823001 |        1 | [UBERON:0010938](http://purl.obolibrary.org/obo/UBERON_0010938) |
 
 ## `TA2`
 

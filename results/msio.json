@@ -122,6 +122,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "1.0.1",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/CHEBI_15377": [

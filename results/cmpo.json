@@ -940,7 +940,7 @@
         }
       }
     },
-    "version": "http://www.ebi.ac.uk/cmpo/releases/2017-12-19/cmpo.owl",
+    "version_iri": "http://www.ebi.ac.uk/cmpo/releases/2017-12-19/cmpo.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/BFO_0000050": [

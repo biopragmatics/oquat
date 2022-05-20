@@ -16,18 +16,6 @@ did not match the standard pattern `^\d{7}$`.
 | `GO:[GOC:mtg_sensu, ISBN:0198547684]` |              1 | [VSAO:0000021](http://purl.obolibrary.org/obo/VSAO_0000021) |
 | `GO:curator`                          |              1 | [VSAO:0000092](http://purl.obolibrary.org/obo/VSAO_0000092) |
 
-## `TAO`: Teleost Anatomy Ontology
-
-Overall, there were 27 invalid
-xrefs to external prefixed with `TAO` (standardized to Bioregistry
-prefix [`tao`](https://bioregistry.io/tao)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
-|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `TAO:curator`   |             26 | [VSAO:0000004](http://purl.obolibrary.org/obo/VSAO_0000004), [VSAO:0000007](http://purl.obolibrary.org/obo/VSAO_0000007), [VSAO:0000014](http://purl.obolibrary.org/obo/VSAO_0000014), [VSAO:0000024](http://purl.obolibrary.org/obo/VSAO_0000024), [VSAO:0000078](http://purl.obolibrary.org/obo/VSAO_0000078), ... |
-| `TAO:GA_TG`     |              1 | [VSAO:0000154](http://purl.obolibrary.org/obo/VSAO_0000154)                                                                                                                                                                                                                                                          |
-
 ## `UBERON`: Uber Anatomy Ontology
 
 Overall, there were 7 invalid

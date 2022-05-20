@@ -154,7 +154,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/olatdv/releases/2020-03-10/olatdv.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/olatdv/releases/2020-03-10/olatdv.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

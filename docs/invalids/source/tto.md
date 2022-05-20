@@ -4,7 +4,7 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `tto`. See the [GitHub repository](https://github.com/phenoscape/teleost-taxonomy-ontology).
 
 
-## `NCBITaxon`: NCBI organismal classification
+## `NCBITaxon`: NCBI Taxonomy
 
 Overall, there were 6 invalid
 xrefs to external prefixed with `NCBITaxon` (standardized to Bioregistry
@@ -19,17 +19,6 @@ did not match the standard pattern `^\d+$`.
 | `NCBITaxon:order`   |              1 | [TTO:order](http://purl.obolibrary.org/obo/TTO_order)     |
 | `NCBITaxon:phylum`  |              1 | [TTO:phylum](http://purl.obolibrary.org/obo/TTO_phylum)   |
 | `NCBITaxon:species` |              1 | [TTO:species](http://purl.obolibrary.org/obo/TTO_species) |
-
-## `TAO`: Teleost Anatomy Ontology
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `TAO` (standardized to Bioregistry
-prefix [`tao`](https://bioregistry.io/tao)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref   |   usages_count | usages                                                    |
-|-----------------|----------------|-----------------------------------------------------------|
-| `TAO:curator`   |              1 | [TTO:1050505](http://purl.obolibrary.org/obo/TTO_1050505) |
 
 ## `TTO`: Teleost taxonomy ontology
 

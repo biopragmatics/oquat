@@ -62,7 +62,7 @@
         }
       }
     },
-    "version": "http://humanbehaviourchange.org/ontology/bcio.owl/2022-04-30",
+    "version_iri": "http://humanbehaviourchange.org/ontology/bcio.owl/2022-04-30",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

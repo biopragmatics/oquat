@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/pdro/2021-06-08/pdro.owl",
+    "version": "2021-06-08",
+    "version_iri": "http://purl.obolibrary.org/obo/pdro/2021-06-08/pdro.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

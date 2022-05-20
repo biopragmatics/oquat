@@ -32,17 +32,6 @@ did not match the standard pattern `^\d{7}$`.
 | `FIX:00001157`  |              1 | [CHMO:0002709](http://purl.obolibrary.org/obo/CHMO_0002709) |
 | `FIX:000125`    |              1 | [CHMO:0002713](http://purl.obolibrary.org/obo/CHMO_0002713) |
 
-## `OBCS`: Ontology of Biological and Clinical Statistics
-
-Overall, there were 2 invalid
-xrefs to external prefixed with `OBCS` (standardized to Bioregistry
-prefix [`obcs`](https://bioregistry.io/obcs)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref   |   usages_count | usages                                                                                                                   |
-|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------|
-| `OBCS:YQH`      |              2 | [OBCS:0000058](http://purl.obolibrary.org/obo/OBCS_0000058), [OBCS:0000059](http://purl.obolibrary.org/obo/OBCS_0000059) |
-
 ## `obi`: Ontology for Biomedical Investigations
 
 Overall, there were 32 invalid

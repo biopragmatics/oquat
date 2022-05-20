@@ -9,9 +9,6 @@
         "http://purl.obolibrary.org/obo/BTO_0001464": [
           "Flybase:http://flybase.bio.indiana.edu/allied-data/lk/interactive-fly/lewheld/preface.htm"
         ],
-        "http://purl.obolibrary.org/obo/BTO_0002065": [
-          "Fishbase:http://www.fishbase.org/Glossary/Glossary.cfm?TermEnglish=venom+apparatus"
-        ],
         "http://purl.obolibrary.org/obo/BTO_0003039": [
           "WormBase:http://www.wormbase.org/"
         ],
@@ -45,17 +42,11 @@
         "http://purl.obolibrary.org/obo/BTO_0005634": [
           "PMID::8305734"
         ],
-        "http://purl.obolibrary.org/obo/BTO_0006077": [
-          "Lonza:www.lonza.com/"
-        ],
         "http://purl.obolibrary.org/obo/BTO_0006342": [
           "Wormbase:https://wormbase.org//species/all/anatomy_term/"
         ],
         "http://purl.obolibrary.org/obo/BTO_0006394": [
           "PMID:  29991048"
-        ],
-        "http://purl.obolibrary.org/obo/BTO_0006406": [
-          "ECACC:European_Collection_of_Cell_Cultures"
         ],
         "http://purl.obolibrary.org/obo/BTO_0006473": [
           "PMID: 9522462"
@@ -4320,7 +4311,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/bto/releases/2021-10-26",
+    "version_iri": "http://purl.obolibrary.org/obo/bto/releases/2021-10-26",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://scipion.i2pc.es/ontology/cryoem/releases/2021-03-09/cryoem.owl",
+    "version": "2021-03-09",
+    "version_iri": "http://scipion.i2pc.es/ontology/cryoem/releases/2021-03-09/cryoem.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

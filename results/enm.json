@@ -39,6 +39,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "7.3",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -303,6 +304,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "1.1",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -379,6 +381,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2.1",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -403,6 +406,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2.7",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -427,6 +431,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "This SLIM file was generated automatically by the eNanoMapper Slimmer software library. For more information see http://github.com/enanomapper/slimmer.",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -455,6 +460,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "This SLIM file was generated automatically by the eNanoMapper Slimmer software library. For more information see http://github.com/enanomapper/slimmer.",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -479,6 +485,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "1.1",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -503,6 +510,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "This SLIM file was generated automatically by the eNanoMapper Slimmer software library. For more information see http://github.com/enanomapper/slimmer.",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/CHEBI_136643": [
@@ -580,6 +588,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "1.9.2",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -621,6 +630,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "This SLIM file was generated automatically by the eNanoMapper Slimmer software library. For more information see http://github.com/enanomapper/slimmer.",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -633,9 +643,6 @@
     "graph_id": "http://purl.enanomapper.net/onto/external/clo-slim.owl",
     "prov_pack": {
       "invalid_luids": {
-        "http://purl.obolibrary.org/obo/CL_0000000": [
-          "CARO:mah"
-        ],
         "http://purl.obolibrary.org/obo/CL_1001603": [
           "HPA:HPA"
         ]
@@ -656,6 +663,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2021-02-01",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -801,6 +809,7 @@
         }
       }
     },
+    "version": "3.26.0",
     "xref_pack": {
       "invalid_luids": {
         "http://www.ebi.ac.uk/efo/EFO_0004352": [
@@ -1142,6 +1151,7 @@
         }
       }
     },
+    "version": "2020-06-10",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/ENVO_01001569": [
@@ -1262,6 +1272,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "1.0.1",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -1294,6 +1305,7 @@
         }
       }
     },
+    "version": "2021-01-01",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/GO_0009293": [
@@ -1322,6 +1334,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2020-12-09",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -1346,6 +1359,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "19.08d",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -1370,6 +1384,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2013-05-31 (yyyy-mm-dd)",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -1394,6 +1409,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "1.2.36",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -1418,6 +1434,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "101",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -1461,6 +1478,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2020-12-16",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -1635,6 +1653,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "This SLIM file was generated automatically by the eNanoMapper Slimmer software library. For more information see http://github.com/enanomapper/slimmer.",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/PATO_0001555": [
@@ -1667,6 +1686,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "1.48",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -1702,6 +1722,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "This SLIM file was generated automatically by the eNanoMapper Slimmer software library. For more information see http://github.com/enanomapper/slimmer.",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -1738,6 +1759,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "This SLIM file was generated automatically by the eNanoMapper Slimmer software library. For more information see http://github.com/enanomapper/slimmer.",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -1762,6 +1784,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "Generated 04-11-2012",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

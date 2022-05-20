@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/geno/releases/2022-03-05/geno.owl",
+    "version": "2022-03-05",
+    "version_iri": "http://purl.obolibrary.org/obo/geno/releases/2022-03-05/geno.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/GENO_0000010": [

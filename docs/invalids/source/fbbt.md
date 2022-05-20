@@ -4,17 +4,6 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `fbbt`. See the [GitHub repository](https://github.com/FlyBase/drosophila-anatomy-developmental-ontology).
 
 
-## `CARO`: Common Anatomy Reference Ontology
-
-Overall, there were 12 invalid
-xrefs to external prefixed with `CARO` (standardized to Bioregistry
-prefix [`caro`](https://bioregistry.io/caro)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
-|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CARO:MAH`      |             12 | [FBbt:00000124](http://purl.obolibrary.org/obo/FBbt_00000124), [FBbt:00007001](http://purl.obolibrary.org/obo/FBbt_00007001), [FBbt:00007002](http://purl.obolibrary.org/obo/FBbt_00007002), [FBbt:00007003](http://purl.obolibrary.org/obo/FBbt_00007003), [FBbt:00007004](http://purl.obolibrary.org/obo/FBbt_00007004), ... |
-
 ## `DoOR`: Database for Prokaryotic Operons
 
 Overall, there were 137 invalid

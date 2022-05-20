@@ -9,7 +9,7 @@ for node, synonym, and definition cross-references in `cmpo`.
 Overall, there were 2 invalid
 xrefs to external prefixed with `EC` (standardized to Bioregistry
 prefix [`eccode`](https://bioregistry.io/eccode)) that
-did not match the standard pattern `^\d{1,2}(\.\d{0,3}){0,3}$`.
+did not match the standard pattern `^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.n\d{1,3})?$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|

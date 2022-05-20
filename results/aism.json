@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/aism/releases/2022-03-17/aism.json",
+    "version": "2022-03-17",
+    "version_iri": "http://purl.obolibrary.org/obo/aism/releases/2022-03-17/aism.json",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

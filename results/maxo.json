@@ -167,14 +167,7 @@
           "http://purl.obolibrary.org/obo/MAXO_0000002": "ISBN-10:0124105165"
         }
       },
-      "unknown_prefixes": {
-        "GeneReviews": {
-          "http://purl.obolibrary.org/obo/MAXO_0009003": "GeneReviews:NBK5191"
-        },
-        "NCBI": {
-          "http://purl.obolibrary.org/obo/MAXO_0000773": "NCBI:NBK482514"
-        }
-      }
+      "unknown_prefixes": {}
     },
     "synonym_pack": {
       "invalid_luids": {},
@@ -183,7 +176,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/maxo/releases/2022-04-11/maxo.json",
+    "version": "2022-05-06",
+    "version_iri": "http://purl.obolibrary.org/obo/maxo/releases/2022-05-06/maxo.json",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -193,18 +187,7 @@
           "http://purl.obolibrary.org/obo/MAXO_0000474": "UMLS_CUI:C0162589"
         }
       },
-      "unknown_prefixes": {
-        "GeneReveiws": {
-          "http://purl.obolibrary.org/obo/MAXO_0000491": "GeneReveiws:NBK350"
-        },
-        "GeneReviews": {
-          "http://purl.obolibrary.org/obo/MAXO_0000488": "GeneReviews:NBK331"
-        },
-        "NCBI": {
-          "http://purl.obolibrary.org/obo/MAXO_0000766": "NCBI:NBK553097",
-          "http://purl.obolibrary.org/obo/MAXO_0000770": "NCBI:NBK537084"
-        }
-      }
+      "unknown_prefixes": {}
     }
   }
 }

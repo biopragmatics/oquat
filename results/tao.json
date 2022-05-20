@@ -33,9 +33,6 @@
         "http://purl.obolibrary.org/obo/TAO_0000014": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000015": [
-          "TAO:GA_TG"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000018": [
           "ZFIN:curator"
         ],
@@ -50,9 +47,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0000026": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000027": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000028": [
           "ZFIN:curator"
@@ -69,9 +63,6 @@
         "http://purl.obolibrary.org/obo/TAO_0000034": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000037": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000040": [
           "ZFIN:curator"
         ],
@@ -83,9 +74,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0000051": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000052": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000056": [
           "ZFIN:curator"
@@ -116,9 +104,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0000076": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000078": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000079": [
           "ZFIN:curator"
@@ -165,23 +150,11 @@
         "http://purl.obolibrary.org/obo/TAO_0000102": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000103": [
-          "TAO:ga_tg"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000104": [
-          "TAO:GA_TG"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000105": [
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000106": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000107": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000108": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000109": [
           "ZFIN:curator"
@@ -215,9 +188,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0000126": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000127": [
-          "TAO:GA_TG"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000128": [
           "ZFIN:curator"
@@ -280,7 +250,6 @@
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000158": [
-          "TAO:wd",
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000161": [
@@ -292,20 +261,11 @@
         "http://purl.obolibrary.org/obo/TAO_0000166": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000167": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000168": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000169": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000170": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000171": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000173": [
           "ZFIN:curator"
@@ -316,29 +276,17 @@
         "http://purl.obolibrary.org/obo/TAO_0000180": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000184": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000186": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000189": [
-          "TAO:MAH"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000190": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000191": [
-          "TAO:GA_TG"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000196": [
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000200": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000203": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000213": [
           "ZFIN:curator"
@@ -352,14 +300,8 @@
         "http://purl.obolibrary.org/obo/TAO_0000223": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000224": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000226": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000239": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000240": [
           "ZFIN:curator"
@@ -370,20 +312,11 @@
         "http://purl.obolibrary.org/obo/TAO_0000243": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000250": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000251": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000253": [
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000257": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000258": [
-          "TAO:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000259": [
           "ZFIN:curator"
@@ -394,35 +327,14 @@
         "http://purl.obolibrary.org/obo/TAO_0000263": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000264": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000268": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000270": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000271": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000277": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000279": [
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000281": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000284": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000289": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000290": [
-          "TAO:MAH"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000292": [
           "ZFIN:curator"
@@ -460,27 +372,11 @@
         "http://purl.obolibrary.org/obo/TAO_0000329": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000332": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000336": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000337": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000344": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000348": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000350": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000351": [
-          "TAO:MAH"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000356": [
           "ZFIN:curator"
@@ -489,23 +385,13 @@
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000364": [
-          "TAO:GA_TG",
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000365": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000367": [
-          "TAO:pem"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000368": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000373": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000375": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000376": [
           "ZFIN:curator"
@@ -528,13 +414,6 @@
         "http://purl.obolibrary.org/obo/TAO_0000403": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000407": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000410": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000413": [
           "ZFIN:curator"
         ],
@@ -556,17 +435,8 @@
         "http://purl.obolibrary.org/obo/TAO_0000431": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000434": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000435": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000437": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000438": [
-          "TAO:GA_TG"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000442": [
           "ZFIN:curator"
@@ -576,13 +446,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0000445": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000452": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000460": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000461": [
           "ZFIN:curator"
@@ -599,9 +462,6 @@
         "http://purl.obolibrary.org/obo/TAO_0000471": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000472": [
-          "TAO:GA_TG"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000474": [
           "ZFIN:curator"
         ],
@@ -610,9 +470,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0000477": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000486": [
-          "TAO:GA_TG"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000488": [
           "ZFIN:curator"
@@ -625,9 +482,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0000507": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000508": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000514": [
           "ZFIN:curator"
@@ -653,26 +507,11 @@
         "http://purl.obolibrary.org/obo/TAO_0000541": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000544": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000549": [
-          "TAO:GA_TG"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000554": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000557": [
-          "TAO:GA_TG"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000558": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000561": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000565": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000566": [
           "ZFIN:curator"
@@ -680,18 +519,11 @@
         "http://purl.obolibrary.org/obo/TAO_0000567": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000575": [
-          "TAO:GA_TG"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000576": [
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000578": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000583": [
-          "TAO:GA_TG",
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000585": [
           "ZFIN:curator"
@@ -705,22 +537,8 @@
         "http://purl.obolibrary.org/obo/TAO_0000588": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000594": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000595": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000596": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000598": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000602": [
-          "TAO:Arratia_Schultze_1992",
-          "TAO:Patterson_1968"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000604": [
           "ZFIN:curator"
@@ -728,23 +546,14 @@
         "http://purl.obolibrary.org/obo/TAO_0000610": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000612": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000619": [
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000620": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000621": [
-          "TAO:GA_TG"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000622": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000623": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000627": [
           "ZFIN:curator"
@@ -759,24 +568,10 @@
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000656": [
-          "TAO:ga_tg",
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000657": [
-          "TAO:GA_TG"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000658": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000660": [
-          "TAO:Arratia and Schultze_1992"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000661": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000663": [
-          "TAO:GA_TG",
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000667": [
           "ZFIN:curator"
@@ -793,17 +588,11 @@
         "http://purl.obolibrary.org/obo/TAO_0000673": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000674": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000678": [
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000681": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000691": [
-          "TAO:GA_TG"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000692": [
           "ZFIN:curator"
@@ -813,9 +602,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0000698": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000699": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000706": [
           "ZFIN:curator"
@@ -858,9 +644,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0000733": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000734": [
-          "TAO:GA_TG"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000735": [
           "ZFIN:curator"
@@ -1039,9 +822,6 @@
         "http://purl.obolibrary.org/obo/TAO_0000858": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000862": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000863": [
           "ZFIN:curator"
         ],
@@ -1108,9 +888,6 @@
         "http://purl.obolibrary.org/obo/TAO_0000901": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0000911": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0000924": [
           "ZFIN:curator"
         ],
@@ -1155,9 +932,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0000940": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000943": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0000944": [
           "ZFIN:curator"
@@ -1420,12 +1194,6 @@
         "http://purl.obolibrary.org/obo/TAO_0001119": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0001123": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001124": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0001125": [
           "ZFIN:curator"
         ],
@@ -1435,74 +1203,11 @@
         "http://purl.obolibrary.org/obo/TAO_0001136": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0001137": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001139": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001140": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001141": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001142": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001143": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001144": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001145": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001146": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001147": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001148": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001150": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001151": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001152": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0001153": [
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001157": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001160": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001161": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001162": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001167": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001168": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001169": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001170": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001171": [
           "ZFIN:curator"
@@ -1510,17 +1215,11 @@
         "http://purl.obolibrary.org/obo/TAO_0001172": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0001173": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0001174": [
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001182": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001184": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001185": [
           "ZFIN:curator"
@@ -1633,12 +1332,6 @@
         "http://purl.obolibrary.org/obo/TAO_0001251": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0001252": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001253": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0001257": [
           "ZFIN:curator"
         ],
@@ -1668,9 +1361,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0001274": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001275": [
-          "TAO:je"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001277": [
           "ZFIN:curator"
@@ -1732,9 +1422,6 @@
         "http://purl.obolibrary.org/obo/TAO_0001330": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0001333": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0001335": [
           "ZFIN:curator"
         ],
@@ -1792,9 +1479,6 @@
         "http://purl.obolibrary.org/obo/TAO_0001386": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0001387": [
-          "TAO:GA_TG"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0001391": [
           "ZFIN:curator"
         ],
@@ -1819,9 +1503,6 @@
         "http://purl.obolibrary.org/obo/TAO_0001400": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0001403": [
-          "TAO:GA_TG"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0001404": [
           "ZFIN:curator"
         ],
@@ -1829,7 +1510,6 @@
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001406": [
-          "TAO:GA_TG",
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001407": [
@@ -1841,17 +1521,11 @@
         "http://purl.obolibrary.org/obo/TAO_0001409": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0001410": [
-          "TAO:MAH"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0001411": [
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001412": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001414": [
-          "TAO:MAH"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001418": [
           "ZFIN:curator"
@@ -1876,12 +1550,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0001430": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001432": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001433": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001437": [
           "ZFIN:curator"
@@ -1917,7 +1585,6 @@
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001455": [
-          "TAO:GA_TG",
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001456": [
@@ -1952,15 +1619,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0001473": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001474": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001475": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001476": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001477": [
           "ZFIN:curator"
@@ -2112,9 +1770,6 @@
         "http://purl.obolibrary.org/obo/TAO_0001526": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0001527": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0001528": [
           "ZFIN:curator"
         ],
@@ -2127,9 +1782,6 @@
         "http://purl.obolibrary.org/obo/TAO_0001531": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0001532": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0001533": [
           "ZFIN:curator"
         ],
@@ -2140,7 +1792,6 @@
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001537": [
-          "TAO:GA_TG",
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001538": [
@@ -2161,23 +1812,10 @@
         "http://purl.obolibrary.org/obo/TAO_0001543": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0001544": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001545": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001546": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001547": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0001550": [
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001551": [
-          "TAO:GA_TG",
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0001552": [
@@ -2210,1444 +1848,8 @@
         "http://purl.obolibrary.org/obo/TAO_0001578": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0001579": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001580": [
-          "TAO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001581": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001583": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001584": [
-          "TAO:Arratia_2008",
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001585": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001586": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001587": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001588": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001589": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001590": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001591": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0001592": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001593": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001594": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001603": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001604": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001606": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001607": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001608": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001609": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001610": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001611": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001612": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001613": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001614": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001615": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001616": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001617": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001619": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001620": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001621": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001622": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001623": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001624": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001626": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001627": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001628": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001629": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001630": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001631": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001632": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001633": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001634": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001635": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001636": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001637": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001638": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001639": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001640": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001641": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001642": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001643": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001644": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001645": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001647": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001648": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001649": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001650": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001651": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001652": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001653": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001654": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001655": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001656": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001657": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001658": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001659": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001660": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001661": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001662": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001663": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001664": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001665": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001666": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001667": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001668": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001669": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001671": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001672": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001674": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001675": [
-          "TAO:pem"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001676": [
-          "TAO:pem"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001677": [
-          "TAO:pem"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001678": [
-          "TAO:pem"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001679": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001680": [
-          "TAO:pem"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001681": [
-          "TAO:pem"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001682": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001683": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001684": [
-          "TAO:pem"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001685": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001686": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001687": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001688": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001689": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001690": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001691": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001692": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001693": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001694": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001695": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001696": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001697": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001698": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001699": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001700": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001701": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001702": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001703": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001704": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001705": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001706": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001707": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001708": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001709": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001710": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001711": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001712": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001713": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001714": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001715": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001716": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001717": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001718": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001719": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001720": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001721": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001722": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001723": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001724": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001725": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001726": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001727": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001728": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001729": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001730": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001731": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001732": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001733": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001734": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001735": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001736": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001737": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001738": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001739": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001740": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001741": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001742": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001743": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001744": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001745": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001746": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001747": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001748": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001749": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001750": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001751": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001752": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001761": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001762": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001763": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001764": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001765": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001766": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001767": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001768": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001783": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001784": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001787": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001788": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001789": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001790": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001791": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001792": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001793": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001794": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001795": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001796": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001797": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001798": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001799": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001800": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001801": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001802": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001803": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001804": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001805": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001806": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001807": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001808": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001809": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001810": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001811": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001812": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001813": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001814": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001815": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001816": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001817": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001820": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001821": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001822": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001823": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001824": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001825": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001826": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001827": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001828": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001829": [
-          "TAO:Arratia_2008",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001830": [
-          "TAO:Arratia_2008",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001831": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001832": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001833": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001834": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001835": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001836": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001837": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001839": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001840": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001841": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001842": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001843": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001844": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001845": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001846": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001847": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001848": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001849": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001850": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001851": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001852": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001853": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001854": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001855": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001856": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001857": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001858": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001859": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001860": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001861": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001862": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001863": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001864": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001865": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001866": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001867": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001868": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001869": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001870": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001871": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001872": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001873": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001874": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001876": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001877": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001878": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001879": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001880": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001881": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001884": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001885": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001886": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001887": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001888": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001889": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001890": [
-          "TAO:VSAO_workshop"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001891": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001892": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001893": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001894": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001895": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001896": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001897": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001898": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001904": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001909": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001910": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001911": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001912": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001913": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001914": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001915": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001916": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001917": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001918": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001919": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001920": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001921": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001922": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001923": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001924": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001925": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001926": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001927": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001928": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001929": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001930": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001931": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001932": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001933": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001934": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001935": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001936": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001937": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001938": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001939": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001940": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001941": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001942": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001943": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001944": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001945": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001946": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001947": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001948": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001949": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001950": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001951": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001952": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001956": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001957": [
-          "TAO:w"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001958": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001959": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001960": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001961": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001962": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001963": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001964": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001965": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001967": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001968": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001969": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001970": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001971": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001972": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001973": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001976": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001977": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001978": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001979": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001980": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001981": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001982": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001983": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001984": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001985": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001986": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001987": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001988": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001989": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001990": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001991": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001992": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001993": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001994": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001995": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001997": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001998": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001999": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002000": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002001": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002002": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002003": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002004": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002005": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002006": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002007": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002008": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002009": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002010": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002011": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002012": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002013": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002014": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002015": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002016": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002017": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002018": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002019": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002020": [
-          "TAO:ga_tg"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002021": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002022": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002023": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002024": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002025": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002026": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002027": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002028": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002029": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002030": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002031": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002032": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002033": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002034": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002035": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002036": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002037": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002038": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002039": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002040": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002041": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002042": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002043": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002044": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002045": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002046": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002047": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002048": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002049": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002051": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002052": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002053": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002054": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002055": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002057": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002058": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002060": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002061": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002062": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002063": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002064": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002065": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002066": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002067": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002068": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002069": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002070": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002071": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002072": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002073": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002074": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002075": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002076": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002077": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002078": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002079": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002080": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002082": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002083": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002084": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002085": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002086": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002087": [
-          "TAO:GA_TG",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002088": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002089": [
-          "TAO:ga_tg",
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002091": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002092": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002093": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002094": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002096": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002097": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002099": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002100": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002101": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002102": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002103": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002104": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002105": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002106": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002107": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002108": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002113": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002114": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002117": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002122": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002124": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002125": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002126": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002127": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002129": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002130": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002131": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002133": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0002134": [
           "ZFIN:curator"
@@ -3676,57 +1878,11 @@
         "http://purl.obolibrary.org/obo/TAO_0002148": [
           "CL:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0002149": [
-          "TAO:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002150": [
-          "TAO:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002151": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002152": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0002153": [
           "ZFIN:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0002154": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002158": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002159": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002160": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002161": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002162": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002163": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002164": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002165": [
-          "TAO:Arratia_2008",
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002166": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002167": [
-          "TAO:GA_TG"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002168": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0002179": [
           "ZFIN:curator"
@@ -3785,9 +1941,6 @@
         "http://purl.obolibrary.org/obo/TAO_0002230": [
           "ZFIN:curator"
         ],
-        "http://purl.obolibrary.org/obo/TAO_0002231": [
-          "TAO:wd"
-        ],
         "http://purl.obolibrary.org/obo/TAO_0002233": [
           "ZFIN:curator"
         ],
@@ -3799,66 +1952,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0002247": [
           "ZFIN:curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002254": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002255": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002256": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002259": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002260": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002269": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002273": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002274": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002275": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002276": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002278": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002282": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002284": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002285": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002286": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002287": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002291": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002292": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002293": [
-          "TAO:wd"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0002294": [
-          "TAO:wd"
         ],
         "http://purl.obolibrary.org/obo/TAO_0005001": [
           "ZFIN:curator"
@@ -4198,9 +2291,6 @@
         ],
         "http://purl.obolibrary.org/obo/TAO_0005210": [
           "ZFIN:Curator"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0005225": [
-          "TAO:curator"
         ],
         "http://purl.obolibrary.org/obo/TAO_0005242": [
           "CL:Curator"
@@ -4831,32 +2921,7 @@
       }
     },
     "synonym_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/TAO_0000127": [
-          "TAO:Bridge_1877",
-          "TAO:Goodrich_1930",
-          "TAO:Jollie_1984",
-          "TAO:Regan_1923"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000452": [
-          "TAO:Arratia_Schultze_1990"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0000663": [
-          "TAO:Harrington_1955",
-          "TAO:Weitzman_1962"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001191": [
-          "TAO:doi:10.1046/j.1096-3642.2002.00014.x"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001192": [
-          "TAO:doi:10.1046/j.1096-3642.2002.00014.x"
-        ],
-        "http://purl.obolibrary.org/obo/TAO_0001553": [
-          "TAO:Bird 2003",
-          "TAO:Bird and Mabee 2003",
-          "TAO:Fink and Fink 1981"
-        ]
-      },
+      "invalid_luids": {},
       "label": "Synonym Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},
@@ -4866,7 +2931,7 @@
         }
       }
     },
-    "version": "http://purl.obolibrary.org/obo/tao/2012-08-10/tao.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/tao/2012-08-10/tao.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
