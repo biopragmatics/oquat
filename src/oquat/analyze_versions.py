@@ -104,7 +104,7 @@ table has the following columns:
 2. Has a version IRI ({n_has_iri}/{n_obo}, {n_has_iri/n_obo:.1%})
 3. Has a version IRI that contains either a semantic version string or `YYYY-MM-DD` date version string
    ({n_iri_has_version}/{n_obo}, {n_iri_has_version/n_obo:.1%})
-4. Has a version IRI that follows the standard pattern 
+4. Has a version IRI that follows the standard pattern
    `http://purl.obolibrary.org/obo/<prefix>/releases/<trailing stuff>`
    ({n_iri_is_standard}/{n_obo}, {n_iri_is_standard/n_obo:.1%})
 5. Has a version annotated with `http://www.w3.org/2002/07/owl#versionInfo`
