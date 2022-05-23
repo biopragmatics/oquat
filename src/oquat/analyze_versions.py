@@ -78,11 +78,11 @@ def main():
 
     obo_headers = [
         "source",
-        "version_iri",
-        "version_iri_has_version",
-        "version_iri_is_standard",
-        "graph_version",
-        "version_in_iri",
+        "version iri",
+        "version iri has version",
+        "version iri is standard",
+        "version",
+        "version in iri",
     ]
     full_headers = ["source", "graph_id", "graph_version", "graph_version_iri", "version_in_iri"]
     INDEX_PATH.write_text(
@@ -91,6 +91,13 @@ def main():
 
 This analysis shows which OBO Foundry ontologies are conforming to
 required and suggested practices in versioning of ontologies.
+
+1. The prefix of the ontology
+2. Has a version IRI
+3. Version IRI contains either a semantic version string or YYYY-MM-DD date version string
+4. Version IRI follows pattern `http://purl.obolibrary.org/obo/<prefix>/releases/<trailing stuff>`
+5. Has a version, annotated with `http://www.w3.org/2002/07/owl#versionInfo`
+6. The version appears in the version IRI
 
 {tabulate(sorted(obo_analysis_rows), tablefmt="github", headers=obo_headers)}
 
