@@ -50838,6 +50838,7 @@
           "MONDO:patterns/specific_infectious_disease_by_agent"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0044749": [
+          "GARD:0003995-def",
           "MONDO:patterns/x_linked"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0044751": [

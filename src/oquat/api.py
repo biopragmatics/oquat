@@ -181,7 +181,7 @@ def analyze_by_prefix(
     parse_results = get_obograph_by_prefix(prefix)
     return AnalysisResults(
         results=analyze_graphs(parse_results.graph_document, iri_filter=iri_filter),
-        messages=[],
+        messages=parse_results.messages,
     )
 
 
@@ -194,7 +194,7 @@ def analyze_by_path(path: Union[str, Path], *, iri_filter: Optional[str] = None)
         secho("\n".join(parse_results.messages), fg="blue")
     return AnalysisResults(
         results=analyze_graphs(parse_results.graphs, iri_filter=iri_filter),
-        messages=[],
+        messages=parse_results.messages,
     )
 
 
@@ -206,7 +206,7 @@ def analyze_by_iri(iri: str, *, iri_filter: Optional[str] = None) -> AnalysisRes
         secho("\n".join(parse_results.messages), fg="blue")
     return AnalysisResults(
         results=analyze_graphs(parse_results.graphs, iri_filter=iri_filter),
-        messages=[],
+        messages=parse_results.messages,
     )
 
 

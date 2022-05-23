@@ -2,7 +2,14 @@
   "http://purl.obolibrary.org/obo/caro.owl": {
     "graph_id": "http://purl.obolibrary.org/obo/caro.owl",
     "prov_pack": {
-      "invalid_luids": {},
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/CARO_0000041": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000054": [
+          "CARO:MAH"
+        ]
+      },
       "label": "Provenance Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},

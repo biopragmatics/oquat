@@ -118,6 +118,9 @@
         "http://purl.obolibrary.org/obo/TTO_1048281": [
           "TTO:curator"
         ],
+        "http://purl.obolibrary.org/obo/TTO_1050505": [
+          "TAO:curator"
+        ],
         "http://purl.obolibrary.org/obo/TTO_1053567": [
           "TTO:curator"
         ],

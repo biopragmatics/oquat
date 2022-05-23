@@ -1,5 +1,23 @@
 # `icd10exp`
 
+## efo
+
+| curie           |   usages | nodes                                               |
+|-----------------|----------|-----------------------------------------------------|
+| ICD10EXP:K90.8+ |        1 | [EFO:0000775](http://www.ebi.ac.uk/efo/EFO_0000775) |
+| ICD10EXP:E85.1+ |        1 | [EFO:0004129](http://www.ebi.ac.uk/efo/EFO_0004129) |
+| ICD10EXP:I68.0* |        1 | [EFO:0006790](http://www.ebi.ac.uk/efo/EFO_0006790) |
+| ICD10EXP:H19.2* |        1 | [EFO:0007126](http://www.ebi.ac.uk/efo/EFO_0007126) |
+| ICD10EXP:B44.1+ |        1 | [EFO:0007140](http://www.ebi.ac.uk/efo/EFO_0007140) |
+| ICD10EXP:N08.5* |        1 | [EFO:0007290](http://www.ebi.ac.uk/efo/EFO_0007290) |
+| ICD10EXP:B33.4+ |        1 | [EFO:0007296](http://www.ebi.ac.uk/efo/EFO_0007296) |
+| ICD10EXP:B00.5+ |        1 | [EFO:0007308](http://www.ebi.ac.uk/efo/EFO_0007308) |
+| ICD10EXP:J17.3* |        1 | [EFO:0007448](http://www.ebi.ac.uk/efo/EFO_0007448) |
+| ICD10EXP:E35.1* |        1 | [EFO:0007544](http://www.ebi.ac.uk/efo/EFO_0007544) |
+| ICD10EXP:L40.5+ |        1 | [EFO:0009733](http://www.ebi.ac.uk/efo/EFO_0009733) |
+| ICD10EXP:A39.0+ |        1 | [EFO:1001040](http://www.ebi.ac.uk/efo/EFO_1001040) |
+| ICD10EXP:L99.0* |        1 | [EFO:1001882](http://www.ebi.ac.uk/efo/EFO_1001882) |
+
 ## mondo
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                          |

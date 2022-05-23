@@ -1,5 +1,20 @@
 # `icd10who`
 
+## efo
+
+| curie            |   usages | nodes                                               |
+|------------------|----------|-----------------------------------------------------|
+| ICD10WHO:F31     |        1 | [EFO:0000289](http://www.ebi.ac.uk/efo/EFO_0000289) |
+| ICD10WHO:G40     |        1 | [EFO:0000474](http://www.ebi.ac.uk/efo/EFO_0000474) |
+| ICD10WHO:E70-E90 |        1 | [EFO:0000589](http://www.ebi.ac.uk/efo/EFO_0000589) |
+| ICD10WHO:D10-D36 |        1 | [EFO:0002422](http://www.ebi.ac.uk/efo/EFO_0002422) |
+| ICD10WHO:G47.0   |        1 | [EFO:0004698](http://www.ebi.ac.uk/efo/EFO_0004698) |
+| ICD10WHO:Q82.2   |        1 | [EFO:0009001](http://www.ebi.ac.uk/efo/EFO_0009001) |
+| ICD10WHO:H00-H06 |        1 | [EFO:0009546](http://www.ebi.ac.uk/efo/EFO_0009546) |
+| ICD10WHO:N40-N51 |        1 | [EFO:0009555](http://www.ebi.ac.uk/efo/EFO_0009555) |
+| ICD10WHO:N48.1   |        1 | [EFO:1000833](http://www.ebi.ac.uk/efo/EFO_1000833) |
+| ICD10WHO:M75.1   |        1 | [EFO:1001250](http://www.ebi.ac.uk/efo/EFO_1001250) |
+
 ## mondo
 
 | curie            |   usages | nodes                                                         |

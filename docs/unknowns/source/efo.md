@@ -6,13 +6,6 @@
 |------------------------------------------------------|----------|-----------------------------------------------------|
 | WikipediaVersioned:Exome_sequencing&oldid=1000635953 |        1 | [EFO:0005396](http://www.ebi.ac.uk/efo/EFO_0005396) |
 
-## `MONDOLEX`
-
-| curie            |   usages | nodes                                               |
-|------------------|----------|-----------------------------------------------------|
-| MONDOLEX:0015004 |        1 | [EFO:0009301](http://www.ebi.ac.uk/efo/EFO_0009301) |
-| MONDOLEX:0014857 |        1 | [EFO:0009645](http://www.ebi.ac.uk/efo/EFO_0009645) |
-
 ## `MONDORULE`
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                        |
@@ -32,12 +25,51 @@
 |-------------|----------|-----------------------------------------------------|
 | NSH:D014029 |        1 | [EFO:0003768](http://www.ebi.ac.uk/efo/EFO_0003768) |
 
+## `BilaDO`
+
+| curie          |   usages | nodes                                               |
+|----------------|----------|-----------------------------------------------------|
+| BilaDO:0000002 |        1 | [EFO:0007725](http://www.ebi.ac.uk/efo/EFO_0007725) |
+
 ## `Germplasm`
 
 | curie             |   usages | nodes                                               |
 |-------------------|----------|-----------------------------------------------------|
 | Germplasm:4652085 |        1 | [EFO:0001326](http://www.ebi.ac.uk/efo/EFO_0001326) |
 | Germplasm:4640315 |        1 | [EFO:0001354](http://www.ebi.ac.uk/efo/EFO_0001354) |
+
+## `ICD10EXP`
+
+| curie           |   usages | nodes                                               |
+|-----------------|----------|-----------------------------------------------------|
+| ICD10EXP:K90.8+ |        1 | [EFO:0000775](http://www.ebi.ac.uk/efo/EFO_0000775) |
+| ICD10EXP:E85.1+ |        1 | [EFO:0004129](http://www.ebi.ac.uk/efo/EFO_0004129) |
+| ICD10EXP:I68.0* |        1 | [EFO:0006790](http://www.ebi.ac.uk/efo/EFO_0006790) |
+| ICD10EXP:H19.2* |        1 | [EFO:0007126](http://www.ebi.ac.uk/efo/EFO_0007126) |
+| ICD10EXP:B44.1+ |        1 | [EFO:0007140](http://www.ebi.ac.uk/efo/EFO_0007140) |
+| ICD10EXP:N08.5* |        1 | [EFO:0007290](http://www.ebi.ac.uk/efo/EFO_0007290) |
+| ICD10EXP:B33.4+ |        1 | [EFO:0007296](http://www.ebi.ac.uk/efo/EFO_0007296) |
+| ICD10EXP:B00.5+ |        1 | [EFO:0007308](http://www.ebi.ac.uk/efo/EFO_0007308) |
+| ICD10EXP:J17.3* |        1 | [EFO:0007448](http://www.ebi.ac.uk/efo/EFO_0007448) |
+| ICD10EXP:E35.1* |        1 | [EFO:0007544](http://www.ebi.ac.uk/efo/EFO_0007544) |
+| ICD10EXP:L40.5+ |        1 | [EFO:0009733](http://www.ebi.ac.uk/efo/EFO_0009733) |
+| ICD10EXP:A39.0+ |        1 | [EFO:1001040](http://www.ebi.ac.uk/efo/EFO_1001040) |
+| ICD10EXP:L99.0* |        1 | [EFO:1001882](http://www.ebi.ac.uk/efo/EFO_1001882) |
+
+## `ICD10WHO`
+
+| curie            |   usages | nodes                                               |
+|------------------|----------|-----------------------------------------------------|
+| ICD10WHO:F31     |        1 | [EFO:0000289](http://www.ebi.ac.uk/efo/EFO_0000289) |
+| ICD10WHO:G40     |        1 | [EFO:0000474](http://www.ebi.ac.uk/efo/EFO_0000474) |
+| ICD10WHO:E70-E90 |        1 | [EFO:0000589](http://www.ebi.ac.uk/efo/EFO_0000589) |
+| ICD10WHO:D10-D36 |        1 | [EFO:0002422](http://www.ebi.ac.uk/efo/EFO_0002422) |
+| ICD10WHO:G47.0   |        1 | [EFO:0004698](http://www.ebi.ac.uk/efo/EFO_0004698) |
+| ICD10WHO:Q82.2   |        1 | [EFO:0009001](http://www.ebi.ac.uk/efo/EFO_0009001) |
+| ICD10WHO:H00-H06 |        1 | [EFO:0009546](http://www.ebi.ac.uk/efo/EFO_0009546) |
+| ICD10WHO:N40-N51 |        1 | [EFO:0009555](http://www.ebi.ac.uk/efo/EFO_0009555) |
+| ICD10WHO:N48.1   |        1 | [EFO:1000833](http://www.ebi.ac.uk/efo/EFO_1000833) |
+| ICD10WHO:M75.1   |        1 | [EFO:1001250](http://www.ebi.ac.uk/efo/EFO_1001250) |
 
 ## `MAP`
 
@@ -141,6 +173,12 @@
 | NIFSTD:birnlex_12697     |        1 | [EFO:0002512](http://www.ebi.ac.uk/efo/EFO_0002512)                                                      |
 | NIFSTD:birnlex_484       |        1 | [EFO:0002543](http://www.ebi.ac.uk/efo/EFO_0002543)                                                      |
 | NIFSTD:birnlex_12648     |        1 | [EFO:0002624](http://www.ebi.ac.uk/efo/EFO_0002624)                                                      |
+
+## `OGES`
+
+| curie       |   usages | nodes                                               |
+|-------------|----------|-----------------------------------------------------|
+| OGES:000022 |        1 | [EFO:0007725](http://www.ebi.ac.uk/efo/EFO_0007725) |
 
 ## `PERSON`
 

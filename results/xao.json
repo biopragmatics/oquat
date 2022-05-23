@@ -858,6 +858,18 @@
         "http://purl.obolibrary.org/obo/XAO_0004005": [
           "XAO:EJS"
         ],
+        "http://purl.obolibrary.org/obo/XAO_0004007": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/XAO_0004008": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/XAO_0004009": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/XAO_0004010": [
+          "CARO:MAH"
+        ],
         "http://purl.obolibrary.org/obo/XAO_0004024": [
           "XAO:EJS"
         ],

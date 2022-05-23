@@ -480,8 +480,20 @@
         "http://purl.obolibrary.org/obo/ENVO_01000311": [
           "MA:ma"
         ],
+        "http://purl.obolibrary.org/obo/ENVO_01000538": [
+          "GEMET:http://www.eionet.europa.eu/gemet/concept/8128"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01000540": [
+          "GEMET:http://www.eionet.europa.eu/gemet/concept/8695"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01000629": [
+          "GEMET:http://www.eionet.europa.eu/gemet/concept/1471"
+        ],
         "http://purl.obolibrary.org/obo/ENVO_01000705": [
           "FAO:http://www.fao.org/soils-portal/soil-degradation-restoration/en/"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01000710": [
+          "GEMET:http://www.eionet.europa.eu/gemet/concept/3298"
         ],
         "http://purl.obolibrary.org/obo/ENVO_01000739": [
           "EnvO:EnvO"
@@ -491,6 +503,12 @@
         ],
         "http://purl.obolibrary.org/obo/ENVO_01001071": [
           "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_02500002": [
+          "GEMET: http://www.eionet.europa.eu/gemet/concept/3301"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_02500011": [
+          "GEMET:http://www.eionet.europa.eu/gemet/concept/167"
         ],
         "http://purl.obolibrary.org/obo/ENVO_2000000": [
           "ENVO:cjm"
@@ -727,6 +745,12 @@
         ],
         "http://purl.obolibrary.org/obo/ENVO_00005774": [
           "ENVO:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01000543": [
+          "GEMET:http://www.eionet.europa.eu/gemet/concept/627"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01000545": [
+          "GEMET:http://www.eionet.europa.eu/gemet/concept/4492"
         ]
       },
       "label": "Synonym Xrefs",
@@ -1281,6 +1305,9 @@
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/ENVO_00002062": [
           "MA:ma"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_01000692": [
+          "GEMET:http://www.eionet.europa.eu/gemet/concept/4668"
         ],
         "http://purl.obolibrary.org/obo/ENVO_01001569": [
           "WWF:AA1310"

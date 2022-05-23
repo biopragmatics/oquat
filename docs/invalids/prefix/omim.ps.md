@@ -128,7 +128,6 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `OMIMPS:209850` |              1 | [EFO:0003758](http://www.ebi.ac.uk/efo/EFO_0003758)                                                      |
 | `OMIMPS:603165` |              1 | [EFO:0000274](http://www.ebi.ac.uk/efo/EFO_0000274)                                                      |
 | `OMIMPS:258150` |              1 | [EFO:0000279](http://www.ebi.ac.uk/efo/EFO_0000279)                                                      |
-| `OMIMPS:192600` |              1 | [EFO:0000538](http://www.ebi.ac.uk/efo/EFO_0000538)                                                      |
 | `OMIMPS:189800` |              1 | [EFO:0000668](http://www.ebi.ac.uk/efo/EFO_0000668)                                                      |
 | `OMIMPS:177900` |              1 | [EFO:0000676](http://www.ebi.ac.uk/efo/EFO_0000676)                                                      |
 | `OMIMPS:212750` |              1 | [EFO:0001060](http://www.ebi.ac.uk/efo/EFO_0001060)                                                      |
@@ -143,7 +142,6 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `OMIMPS:167250` |              1 | [EFO:0004261](http://www.ebi.ac.uk/efo/EFO_0004261)                                                      |
 | `OMIMPS:102300` |              1 | [EFO:0004270](http://www.ebi.ac.uk/efo/EFO_0004270)                                                      |
 | `OMIMPS:143890` |              1 | [EFO:0004911](http://www.ebi.ac.uk/efo/EFO_0004911)                                                      |
-| `OMIMPS:600165` |              1 | [EFO:0005569](http://www.ebi.ac.uk/efo/EFO_0005569)                                                      |
 | `OMIMPS:600669` |              1 | [EFO:0005917](http://www.ebi.ac.uk/efo/EFO_0005917)                                                      |
 | `OMIMPS:305400` |              1 | [EFO:0009297](http://www.ebi.ac.uk/efo/EFO_0009297)                                                      |
 | `OMIMPS:153600` |              1 | [EFO:0009441](http://www.ebi.ac.uk/efo/EFO_0009441)                                                      |

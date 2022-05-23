@@ -26,6 +26,17 @@ did not match the standard pattern `^\d+$`.
 |-----------------|----------------|---------------------------------------------------------------|
 | `DOID:RELATED`  |              1 | [MONDO:0010962](http://purl.obolibrary.org/obo/MONDO_0010962) |
 
+## `GARD`: Genetic and Rare Diseases Information Center
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `GARD` (standardized to Bioregistry
+prefix [`gard`](https://bioregistry.io/gard)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref      |   usages_count | usages                                                        |
+|--------------------|----------------|---------------------------------------------------------------|
+| `GARD:0003995-def` |              1 | [MONDO:0044749](http://purl.obolibrary.org/obo/MONDO_0044749) |
+
 ## `ICDO`: International Classification of Diseases for Oncology
 
 Overall, there were 9 invalid

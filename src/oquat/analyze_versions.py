@@ -93,7 +93,7 @@ def main():
     ]
     full_headers = ["source", "graph_id", "graph_version", "graph_version_iri", "version_in_iri"]
     INDEX_PATH.write_text(
-        f"""
+        f"""\
 # OBO Analysis
 
 This analysis shows which OBO Foundry ontologies are conforming to

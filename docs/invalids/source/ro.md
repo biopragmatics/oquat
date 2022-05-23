@@ -65,3 +65,14 @@ did not match the standard pattern `^\d{7}$`.
 | `SO:paralogous_to`             |              1 | [RO:HOM0000011](http://purl.obolibrary.org/obo/RO_HOM0000011)                                                                |
 | `SO:orthologous_to`            |              1 | [RO:HOM0000017](http://purl.obolibrary.org/obo/RO_HOM0000017)                                                                |
 
+## `TAO`: Teleost Anatomy Ontology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `TAO` (standardized to Bioregistry
+prefix [`tao`](https://bioregistry.io/tao)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref       |   usages_count | usages                                                        |
+|---------------------|----------------|---------------------------------------------------------------|
+| `TAO:homologous_to` |              1 | [RO:HOM0000007](http://purl.obolibrary.org/obo/RO_HOM0000007) |
+

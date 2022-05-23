@@ -4,6 +4,17 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `wbbt`. See the [GitHub repository](https://github.com/obophenotype/c-elegans-gross-anatomy-ontology).
 
 
+## `CARO`: Common Anatomy Reference Ontology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `CARO` (standardized to Bioregistry
+prefix [`caro`](https://bioregistry.io/caro)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                      |
+|-----------------|----------------|-------------------------------------------------------------|
+| `CARO:MAH`      |              1 | [WBbt:0008628](http://purl.obolibrary.org/obo/WBbt_0008628) |
+
 ## `WB`: WormBase database of nematode biology
 
 Overall, there were 5,448 invalid

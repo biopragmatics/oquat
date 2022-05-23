@@ -4,6 +4,28 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `bto`. See the [GitHub repository](https://github.com/BRENDA-Enzymes/BTO).
 
 
+## `ECACC`: European Collection of Authenticated Cell Culture
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `ECACC` (standardized to Bioregistry
+prefix [`ecacc`](https://bioregistry.io/ecacc)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref                                |   usages_count | usages                                                    |
+|----------------------------------------------|----------------|-----------------------------------------------------------|
+| `ECACC:European_Collection_of_Cell_Cultures` |              1 | [BTO:0006406](http://purl.obolibrary.org/obo/BTO_0006406) |
+
+## `Fishbase`: FishBase
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `Fishbase` (standardized to Bioregistry
+prefix [`fishbase.species`](https://bioregistry.io/fishbase.species)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref                                                                        |   usages_count | usages                                                    |
+|--------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------|
+| `Fishbase:http://www.fishbase.org/Glossary/Glossary.cfm?TermEnglish=venom+apparatus` |              1 | [BTO:0002065](http://purl.obolibrary.org/obo/BTO_0002065) |
+
 ## `Flybase`: FlyBase Gene
 
 Overall, there were 1 invalid
@@ -25,6 +47,17 @@ did not match the standard pattern `^\d{4}-\d{3}[\dX]$`.
 | external_xref                                                          |   usages_count | usages                                                    |
 |------------------------------------------------------------------------|----------------|-----------------------------------------------------------|
 | `ISSN:0302-766X_(printed_version)_ISSN_1432-0878_(electronic_version)` |              1 | [BTO:0001198](http://purl.obolibrary.org/obo/BTO_0001198) |
+
+## `Lonza`: Lonza
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `Lonza` (standardized to Bioregistry
+prefix [`lonza`](https://bioregistry.io/lonza)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref          |   usages_count | usages                                                    |
+|------------------------|----------------|-----------------------------------------------------------|
+| `Lonza:www.lonza.com/` |              1 | [BTO:0006077](http://purl.obolibrary.org/obo/BTO_0006077) |
 
 ## `MedlinePlus`: MedlinePlus Health Topics
 

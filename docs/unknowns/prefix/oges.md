@@ -26,3 +26,9 @@
 | OGES:000023 |        1 | [UBERON:0007220](http://purl.obolibrary.org/obo/UBERON_0007220) |
 | OGES:000025 |        1 | [UBERON:0007221](http://purl.obolibrary.org/obo/UBERON_0007221) |
 
+## efo
+
+| curie       |   usages | nodes                                               |
+|-------------|----------|-----------------------------------------------------|
+| OGES:000022 |        1 | [EFO:0007725](http://www.ebi.ac.uk/efo/EFO_0007725) |
+

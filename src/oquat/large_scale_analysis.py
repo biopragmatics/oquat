@@ -35,7 +35,7 @@ TEMPLATES = HERE.joinpath("templates")
 ROOT = HERE.parent.parent.resolve()
 DOCS = ROOT.joinpath("docs")
 RESULTS = ROOT.joinpath("results")
-FAILURES_PATH = RESULTS.joinpath("failures.md")
+FAILURES_PATH = DOCS.joinpath("failures.md")
 
 environment = jinja2.Environment(
     loader=jinja2.FileSystemLoader(TEMPLATES),
@@ -75,6 +75,7 @@ def _lsa(force: bool, minimum: Optional[str]):
     )
     results = []
     failures = []
+    messages = []
 
     def _failure(*, prefix: str, text: str, fg: str = "red") -> None:
         _text = f"{prefix} - {text}"
@@ -129,6 +130,8 @@ def _lsa(force: bool, minimum: Optional[str]):
                 _failure(prefix=prefix, text=failure_text)
             else:
                 result = analysis_results.results
+                for message in analysis_results.messages:
+                    secho(f"> {message}", fg="yellow")
 
             # secho(f"{prefix} writing results to {analysis_path}")
             if result is not None:
@@ -157,10 +160,11 @@ def _lsa(force: bool, minimum: Optional[str]):
     # template = environment.get_template("invalid_xrefs.md")
     # OUTPUT.write_text(template.render(results=results, bioregistry=bioregistry))
 
-    from . import analyze_invalids, analyze_unknowns
+    from . import analyze_invalids, analyze_unknowns, analyze_versions
 
     analyze_invalids.main()
     analyze_unknowns.main()
+    analyze_versions.main()
 
 
 OBO_PREFIX = "http://purl.obolibrary.org/obo/"

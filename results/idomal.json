@@ -959,7 +959,11 @@
     },
     "version_iri": "http://purl.obolibrary.org/obo/idomal/2015-03-16/idomal.owl",
     "xref_pack": {
-      "invalid_luids": {},
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/IDOMAL_0002461": [
+          "CARO:00000041"
+        ]
+      },
       "label": "Node Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},

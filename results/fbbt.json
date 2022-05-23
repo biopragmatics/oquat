@@ -3,6 +3,39 @@
     "graph_id": "http://purl.obolibrary.org/obo/fbbt.json",
     "prov_pack": {
       "invalid_luids": {
+        "http://purl.obolibrary.org/obo/FBbt_00000124": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/FBbt_00007001": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/FBbt_00007002": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/FBbt_00007003": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/FBbt_00007004": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/FBbt_00007005": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/FBbt_00007009": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/FBbt_00007010": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/FBbt_00007011": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/FBbt_00007012": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/FBbt_00007019": [
+          "CARO:MAH"
+        ],
         "http://purl.obolibrary.org/obo/FBbt_00007389": [
           "DoOR:ab3B"
         ],
@@ -217,6 +250,9 @@
         ],
         "http://purl.obolibrary.org/obo/FBbt_00111212": [
           "DoOR:Ir64a.DP1m"
+        ],
+        "http://purl.obolibrary.org/obo/FBbt_10000000": [
+          "CARO:MAH"
         ]
       },
       "label": "Provenance Xrefs",

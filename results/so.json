@@ -2436,6 +2436,9 @@
         "http://purl.obolibrary.org/obo/SO_0001498": [
           "SO:ke"
         ],
+        "http://purl.obolibrary.org/obo/SO_0001500": [
+          "JAX:hdene"
+        ],
         "http://purl.obolibrary.org/obo/SO_0001502": [
           "SO:ke"
         ],
@@ -3129,6 +3132,9 @@
         ],
         "http://purl.obolibrary.org/obo/SO_0001836": [
           "SO:ke"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001841": [
+          "JAX:hd"
         ],
         "http://purl.obolibrary.org/obo/SO_0001861": [
           "GO:mah"

@@ -63,11 +63,15 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `UMLS:CN239183` |              1 | [EFO:0009039](http://www.ebi.ac.uk/efo/EFO_0009039) |
 | `UMLS:CN202862` |              1 | [EFO:0009068](http://www.ebi.ac.uk/efo/EFO_0009068) |
 | `UMLS:CN240512` |              1 | [EFO:0009068](http://www.ebi.ac.uk/efo/EFO_0009068) |
+| `UMLS:CN671932` |              1 | [EFO:0009152](http://www.ebi.ac.uk/efo/EFO_0009152) |
 | `UMLS:CN237682` |              1 | [EFO:0009160](http://www.ebi.ac.uk/efo/EFO_0009160) |
 | `UMLS:CN237555` |              1 | [EFO:0009199](http://www.ebi.ac.uk/efo/EFO_0009199) |
 | `UMLS:CN226092` |              1 | [EFO:0009266](http://www.ebi.ac.uk/efo/EFO_0009266) |
 | `UMLS:CN737161` |              1 | [EFO:0009300](http://www.ebi.ac.uk/efo/EFO_0009300) |
 | `UMLS:CN237671` |              1 | [EFO:0009553](http://www.ebi.ac.uk/efo/EFO_0009553) |
+| `UMLS:CN226018` |              1 | [EFO:0009646](http://www.ebi.ac.uk/efo/EFO_0009646) |
+| `UMLS:CN226030` |              1 | [EFO:0009646](http://www.ebi.ac.uk/efo/EFO_0009646) |
+| `UMLS:CN226270` |              1 | [EFO:0009646](http://www.ebi.ac.uk/efo/EFO_0009646) |
 | `UMLS:CN072436` |              1 | [EFO:0009907](http://www.ebi.ac.uk/efo/EFO_0009907) |
 | `UMLS:CN206246` |              1 | [EFO:0010580](http://www.ebi.ac.uk/efo/EFO_0010580) |
 | `UMLS:CN226945` |              1 | [EFO:1000015](http://www.ebi.ac.uk/efo/EFO_1000015) |

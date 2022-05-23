@@ -643,6 +643,9 @@
     "graph_id": "http://purl.enanomapper.net/onto/external/clo-slim.owl",
     "prov_pack": {
       "invalid_luids": {
+        "http://purl.obolibrary.org/obo/CL_0000000": [
+          "CARO:mah"
+        ],
         "http://purl.obolibrary.org/obo/CL_1001603": [
           "HPA:HPA"
         ]

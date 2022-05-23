@@ -436,7 +436,10 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | external_xref                                                         |   usages_count | usages                                                                                                   |
 |-----------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------|
 | `Wikipedia:Single cell sequencing`                                    |              2 | [EFO:0008913](http://www.ebi.ac.uk/efo/EFO_0008913), [EFO:0008913](http://www.ebi.ac.uk/efo/EFO_0008913) |
+| `Wikipedia:Caplan%27s_syndrome`                                       |              1 | [EFO:0007192](http://www.ebi.ac.uk/efo/EFO_0007192)                                                      |
 | `Wikipedia:Multiple_displacement_amplification#Phi_29_DNA_polymerase` |              1 | [EFO:0008864](http://www.ebi.ac.uk/efo/EFO_0008864)                                                      |
+| `Wikipedia:Niemann%E2%80%93Pick_disease`                              |              1 | [EFO:1001380](http://www.ebi.ac.uk/efo/EFO_1001380)                                                      |
+| `Wikipedia:Chronic_fatigue_syndrome#Naming`                           |              1 | [EFO:0004540](http://www.ebi.ac.uk/efo/EFO_0004540)                                                      |
 | `Wikipedia:Hashimoto's_thyroiditis`                                   |              1 | [EFO:0003779](http://www.ebi.ac.uk/efo/EFO_0003779)                                                      |
 | `Wikipedia:Darier%27s_disease`                                        |              1 | [EFO:0004124](http://www.ebi.ac.uk/efo/EFO_0004124)                                                      |
 | `Wikipedia:Iodine-131#Treatment_of_thyroid_cancer`                    |              1 | [EFO:0009600](http://www.ebi.ac.uk/efo/EFO_0009600)                                                      |

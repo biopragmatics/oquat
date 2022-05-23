@@ -54,6 +54,18 @@ did not match the standard pattern `^((HGNC|hgnc):)?\d{1,5}$`.
 |-----------------|----------------|---------------------------------------------------------|
 | `HGNC:mw`       |              1 | [SO:0001877](http://purl.obolibrary.org/obo/SO_0001877) |
 
+## `JAX`: Jackson Laboratories Strain
+
+Overall, there were 2 invalid
+xrefs to external prefixed with `JAX` (standardized to Bioregistry
+prefix [`jax`](https://bioregistry.io/jax)) that
+did not match the standard pattern `^\d{6}$`.
+
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `JAX:hdene`     |              1 | [SO:0001500](http://purl.obolibrary.org/obo/SO_0001500) |
+| `JAX:hd`        |              1 | [SO:0001841](http://purl.obolibrary.org/obo/SO_0001841) |
+
 ## `MGD`: Mouse Genome Informatics
 
 Overall, there were 1 invalid

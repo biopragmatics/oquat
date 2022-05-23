@@ -6,3 +6,4 @@ OBO Foundry ontologies and others in the Bioregistry.
 - Analysis on [unknown prefixes](unknowns/)
 - Analysis on [invalid local unique identifiers](invalids/)
 - Analysis on [versions](versions/)
+- List of failures during parsing [here](failures.md)

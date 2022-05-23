@@ -26,6 +26,28 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------|----------------|-----------------------------------------------------------|
 | `AEO.:JB`       |              1 | [AEO:0000203](http://purl.obolibrary.org/obo/AEO_0000203) |
 
+## `CARO`: Common Anatomy Reference Ontology
+
+Overall, there were 4 invalid
+xrefs to external prefixed with `CARO` (standardized to Bioregistry
+prefix [`caro`](https://bioregistry.io/caro)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                     |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `CARO:MAH`      |              4 | [AEO:0000013](http://purl.obolibrary.org/obo/AEO_0000013), [AEO:0000192](http://purl.obolibrary.org/obo/AEO_0000192), [AEO:0000193](http://purl.obolibrary.org/obo/AEO_0000193), [AEO:0000198](http://purl.obolibrary.org/obo/AEO_0000198) |
+
+## `FBbt`: Drosophila gross anatomy
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `FBbt` (standardized to Bioregistry
+prefix [`fbbt`](https://bioregistry.io/fbbt)) that
+did not match the standard pattern `^\d{8}$`.
+
+| external_xref   |   usages_count | usages                                                    |
+|-----------------|----------------|-----------------------------------------------------------|
+| `FBbt:DOS`      |              1 | [AEO:0000211](http://purl.obolibrary.org/obo/AEO_0000211) |
+
 ## `GO`: Gene Ontology
 
 Overall, there were 1 invalid

@@ -4,17 +4,6 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
 
-## `ATCC number`: American Type Culture Collection
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `ATCC number` (standardized to Bioregistry
-prefix [`atcc`](https://bioregistry.io/atcc)) that
-did not match the standard pattern `^([A-Z]+-)?\d+$`.
-
-| external_xref           |   usages_count | usages                                              |
-|-------------------------|----------------|-----------------------------------------------------|
-| `ATCC number: CRL-2265` |              1 | [EFO:0001667](http://www.ebi.ac.uk/efo/EFO_0001667) |
-
 ## `doi`: Digital Object Identifier
 
 Overall, there were 1 invalid
@@ -37,308 +26,79 @@ did not match the standard pattern `^\d{8}$`.
 |-----------------|----------------|-----------------------------------------------------|
 | `FBdv:0005333`  |              1 | [EFO:0001323](http://www.ebi.ac.uk/efo/EFO_0001323) |
 
+## `FBtc`: Flybase Cell Line
+
+Overall, there were 3 invalid
+xrefs to external prefixed with `FBtc` (standardized to Bioregistry
+prefix [`fbtc`](https://bioregistry.io/fbtc)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref      |   usages_count | usages                                              |
+|--------------------|----------------|-----------------------------------------------------|
+| `FBtc:FBtc0000151` |              1 | [EFO:0005743](http://www.ebi.ac.uk/efo/EFO_0005743) |
+| `FBtc:FBtc0000155` |              1 | [EFO:0005744](http://www.ebi.ac.uk/efo/EFO_0005744) |
+| `FBtc:FBtc0000191` |              1 | [EFO:0005745](http://www.ebi.ac.uk/efo/EFO_0005745) |
+
 ## `ICD10`: International Classification of Diseases, 10th Revision
 
-Overall, there were 297 invalid
+Overall, there were 51 invalid
 xrefs to external prefixed with `ICD10` (standardized to Bioregistry
 prefix [`icd10`](https://bioregistry.io/icd10)) that
 did not match the standard pattern `^[A-Z]\d+(\.[-\d+])?$`.
 
-| external_xref   |   usages_count | usages                                                                                                   |
-|-----------------|----------------|----------------------------------------------------------------------------------------------------------|
-| `ICD10:M19.90`  |              2 | [EFO:0005856](http://www.ebi.ac.uk/efo/EFO_0005856), [EFO:1000999](http://www.ebi.ac.uk/efo/EFO_1000999) |
-| `ICD10:E85.4+`  |              2 | [EFO:0006790](http://www.ebi.ac.uk/efo/EFO_0006790), [EFO:1001882](http://www.ebi.ac.uk/efo/EFO_1001882) |
-| `ICD10:A69.22`  |              2 | [EFO:0007364](http://www.ebi.ac.uk/efo/EFO_0007364), [EFO:0009562](http://www.ebi.ac.uk/efo/EFO_0009562) |
-| `ICD10:K52.89`  |              2 | [EFO:1001293](http://www.ebi.ac.uk/efo/EFO_1001293), [EFO:1001294](http://www.ebi.ac.uk/efo/EFO_1001294) |
-| `ICD10:C91.10`  |              1 | [EFO:0000095](http://www.ebi.ac.uk/efo/EFO_0000095)                                                      |
-| `ICD10:E88.81`  |              1 | [EFO:0000195](http://www.ebi.ac.uk/efo/EFO_0000195)                                                      |
-| `ICD10:C91.00`  |              1 | [EFO:0000220](http://www.ebi.ac.uk/efo/EFO_0000220)                                                      |
-| `ICD10:C91.90`  |              1 | [EFO:0000220](http://www.ebi.ac.uk/efo/EFO_0000220)                                                      |
-| `ICD10:C92.00`  |              1 | [EFO:0000222](http://www.ebi.ac.uk/efo/EFO_0000222)                                                      |
-| `ICD10:C92.40`  |              1 | [EFO:0000224](http://www.ebi.ac.uk/efo/EFO_0000224)                                                      |
-| `ICD10:L20.81`  |              1 | [EFO:0000274](http://www.ebi.ac.uk/efo/EFO_0000274)                                                      |
-| `ICD10:N46.01`  |              1 | [EFO:0000279](http://www.ebi.ac.uk/efo/EFO_0000279)                                                      |
-| `ICD10:K22.70`  |              1 | [EFO:0000280](http://www.ebi.ac.uk/efo/EFO_0000280)                                                      |
-| `ICD10:C83.70`  |              1 | [EFO:0000309](http://www.ebi.ac.uk/efo/EFO_0000309)                                                      |
-| `ICD10:I00.I99` |              1 | [EFO:0000319](http://www.ebi.ac.uk/efo/EFO_0000319)                                                      |
-| `ICD10:M33.90`  |              1 | [EFO:0000398](http://www.ebi.ac.uk/efo/EFO_0000398)                                                      |
-| `ICD10:E08-E13` |              1 | [EFO:0000400](http://www.ebi.ac.uk/efo/EFO_0000400)                                                      |
-| `ICD10:E10.E14` |              1 | [EFO:0000400](http://www.ebi.ac.uk/efo/EFO_0000400)                                                      |
-| `ICD10:G40.909` |              1 | [EFO:0000474](http://www.ebi.ac.uk/efo/EFO_0000474)                                                      |
-| `ICD10:H40-H42` |              1 | [EFO:0000516](http://www.ebi.ac.uk/efo/EFO_0000516)                                                      |
-| `ICD10:H40.H42` |              1 | [EFO:0000516](http://www.ebi.ac.uk/efo/EFO_0000516)                                                      |
-| `ICD10:I10-I15` |              1 | [EFO:0000537](http://www.ebi.ac.uk/efo/EFO_0000537)                                                      |
-| `ICD10:S00.T98` |              1 | [EFO:0000546](http://www.ebi.ac.uk/efo/EFO_0000546)                                                      |
-| `ICD10:C95.90`  |              1 | [EFO:0000565](http://www.ebi.ac.uk/efo/EFO_0000565)                                                      |
-| `ICD10:E70.E90` |              1 | [EFO:0000589](http://www.ebi.ac.uk/efo/EFO_0000589)                                                      |
-| `ICD10:C00.D48` |              1 | [EFO:0000616](http://www.ebi.ac.uk/efo/EFO_0000616)                                                      |
-| `ICD10:G00-G99` |              1 | [EFO:0000618](http://www.ebi.ac.uk/efo/EFO_0000618)                                                      |
-| `ICD10:G00.G99` |              1 | [EFO:0000618](http://www.ebi.ac.uk/efo/EFO_0000618)                                                      |
-| `ICD10:O14.90`  |              1 | [EFO:0000668](http://www.ebi.ac.uk/efo/EFO_0000668)                                                      |
-| `ICD10:F00.F99` |              1 | [EFO:0000677](http://www.ebi.ac.uk/efo/EFO_0000677)                                                      |
-| `ICD10:H11.00`  |              1 | [EFO:0000678](http://www.ebi.ac.uk/efo/EFO_0000678)                                                      |
-| `ICD10:H11.009` |              1 | [EFO:0000678](http://www.ebi.ac.uk/efo/EFO_0000678)                                                      |
-| `ICD10:J96-J99` |              1 | [EFO:0000684](http://www.ebi.ac.uk/efo/EFO_0000684)                                                      |
-| `ICD10:J12.81`  |              1 | [EFO:0000694](http://www.ebi.ac.uk/efo/EFO_0000694)                                                      |
-| `ICD10:M35.00`  |              1 | [EFO:0000699](http://www.ebi.ac.uk/efo/EFO_0000699)                                                      |
-| `ICD10:B20-B20` |              1 | [EFO:0000764](http://www.ebi.ac.uk/efo/EFO_0000764)                                                      |
-| `ICD10:B20.B24` |              1 | [EFO:0000764](http://www.ebi.ac.uk/efo/EFO_0000764)                                                      |
-| `ICD10:J84.112` |              1 | [EFO:0000768](http://www.ebi.ac.uk/efo/EFO_0000768)                                                      |
-| `ICD10:K90.8+`  |              1 | [EFO:0000775](http://www.ebi.ac.uk/efo/EFO_0000775)                                                      |
-| `ICD10:K90.81`  |              1 | [EFO:0000775](http://www.ebi.ac.uk/efo/EFO_0000775)                                                      |
-| `ICD10:M14.8*`  |              1 | [EFO:0000775](http://www.ebi.ac.uk/efo/EFO_0000775)                                                      |
-| `ICD10:G72.49`  |              1 | [EFO:0000783](http://www.ebi.ac.uk/efo/EFO_0000783)                                                      |
-| `ICD10:H44.12`  |              1 | [EFO:0001067](http://www.ebi.ac.uk/efo/EFO_0001067)                                                      |
-| `ICD10:C34.90`  |              1 | [EFO:0001071](http://www.ebi.ac.uk/efo/EFO_0001071)                                                      |
-| `ICD10:F43.10`  |              1 | [EFO:0001358](http://www.ebi.ac.uk/efo/EFO_0001358)                                                      |
-| `ICD10:H35.30`  |              1 | [EFO:0001365](http://www.ebi.ac.uk/efo/EFO_0001365)                                                      |
-| `ICD10:C90.00`  |              1 | [EFO:0001378](http://www.ebi.ac.uk/efo/EFO_0001378)                                                      |
-| `ICD10:K70-K77` |              1 | [EFO:0001421](http://www.ebi.ac.uk/efo/EFO_0001421)                                                      |
-| `ICD10:K74.60`  |              1 | [EFO:0001422](http://www.ebi.ac.uk/efo/EFO_0001422)                                                      |
-| `ICD10:I20-I25` |              1 | [EFO:0001645](http://www.ebi.ac.uk/efo/EFO_0001645)                                                      |
-| `ICD10:I25.10`  |              1 | [EFO:0001645](http://www.ebi.ac.uk/efo/EFO_0001645)                                                      |
-| `ICD10:D10.D36` |              1 | [EFO:0002422](http://www.ebi.ac.uk/efo/EFO_0002422)                                                      |
-| `ICD10:D75.81`  |              1 | [EFO:0002430](http://www.ebi.ac.uk/efo/EFO_0002430)                                                      |
-| `ICD10:M08.40`  |              1 | [EFO:0002609](http://www.ebi.ac.uk/efo/EFO_0002609)                                                      |
-| `ICD10:C94.20`  |              1 | [EFO:0003025](http://www.ebi.ac.uk/efo/EFO_0003025)                                                      |
-| `ICD10:L03.90`  |              1 | [EFO:0003035](http://www.ebi.ac.uk/efo/EFO_0003035)                                                      |
-| `ICD10:B19.20`  |              1 | [EFO:0003047](http://www.ebi.ac.uk/efo/EFO_0003047)                                                      |
-| `ICD10:G31.01`  |              1 | [EFO:0003096](http://www.ebi.ac.uk/efo/EFO_0003096)                                                      |
-| `ICD10:I60-I69` |              1 | [EFO:0003763](http://www.ebi.ac.uk/efo/EFO_0003763)                                                      |
-| `ICD10:I60.I69` |              1 | [EFO:0003763](http://www.ebi.ac.uk/efo/EFO_0003763)                                                      |
-| `ICD10:F17.20`  |              1 | [EFO:0003768](http://www.ebi.ac.uk/efo/EFO_0003768)                                                      |
-| `ICD10:L40.50`  |              1 | [EFO:0003778](http://www.ebi.ac.uk/efo/EFO_0003778)                                                      |
-| `ICD10:G12.20`  |              1 | [EFO:0003782](http://www.ebi.ac.uk/efo/EFO_0003782)                                                      |
-| `ICD10:G12.22`  |              1 | [EFO:0003783](http://www.ebi.ac.uk/efo/EFO_0003783)                                                      |
-| `ICD10:I26.99`  |              1 | [EFO:0003827](http://www.ebi.ac.uk/efo/EFO_0003827)                                                      |
-| `ICD10:G47.30`  |              1 | [EFO:0003918](http://www.ebi.ac.uk/efo/EFO_0003918)                                                      |
-| `ICD10:G47.33`  |              1 | [EFO:0003918](http://www.ebi.ac.uk/efo/EFO_0003918)                                                      |
-| `ICD10:K91.850` |              1 | [EFO:0003921](http://www.ebi.ac.uk/efo/EFO_0003921)                                                      |
-| `ICD10:E85.1+`  |              1 | [EFO:0004129](http://www.ebi.ac.uk/efo/EFO_0004129)                                                      |
-| `ICD10:G63.3*`  |              1 | [EFO:0004129](http://www.ebi.ac.uk/efo/EFO_0004129)                                                      |
-| `ICD10:G56.00`  |              1 | [EFO:0004143](http://www.ebi.ac.uk/efo/EFO_0004143)                                                      |
-| `ICD10:M60-M63` |              1 | [EFO:0004145](http://www.ebi.ac.uk/efo/EFO_0004145)                                                      |
-| `ICD10:H40.10`  |              1 | [EFO:0004190](http://www.ebi.ac.uk/efo/EFO_0004190)                                                      |
-| `ICD10:H40.13`  |              1 | [EFO:0004190](http://www.ebi.ac.uk/efo/EFO_0004190)                                                      |
-| `ICD10:B15.B19` |              1 | [EFO:0004196](http://www.ebi.ac.uk/efo/EFO_0004196)                                                      |
-| `ICD10:H80.80`  |              1 | [EFO:0004213](http://www.ebi.ac.uk/efo/EFO_0004213)                                                      |
-| `ICD10:F50.00`  |              1 | [EFO:0004215](http://www.ebi.ac.uk/efo/EFO_0004215)                                                      |
-| `ICD10:A81.00`  |              1 | [EFO:0004226](http://www.ebi.ac.uk/efo/EFO_0004226)                                                      |
-| `ICD10:F30-F39` |              1 | [EFO:0004247](http://www.ebi.ac.uk/efo/EFO_0004247)                                                      |
-| `ICD10:F30.F39` |              1 | [EFO:0004247](http://www.ebi.ac.uk/efo/EFO_0004247)                                                      |
-| `ICD10:G25.81`  |              1 | [EFO:0004270](http://www.ebi.ac.uk/efo/EFO_0004270)                                                      |
-| `ICD10:R53.82`  |              1 | [EFO:0004540](http://www.ebi.ac.uk/efo/EFO_0004540)                                                      |
-| `ICD10:H35.32`  |              1 | [EFO:0004683](http://www.ebi.ac.uk/efo/EFO_0004683)                                                      |
-| `ICD10:G70.00`  |              1 | [EFO:0004991](http://www.ebi.ac.uk/efo/EFO_0004991)                                                      |
-| `ICD10:H66.90`  |              1 | [EFO:0004992](http://www.ebi.ac.uk/efo/EFO_0004992)                                                      |
-| `ICD10:C62.90`  |              1 | [EFO:0005088](http://www.ebi.ac.uk/efo/EFO_0005088)                                                      |
-| `ICD10:J09.X`   |              1 | [EFO:0005222](http://www.ebi.ac.uk/efo/EFO_0005222)                                                      |
-| `ICD10:M31.30`  |              1 | [EFO:0005297](http://www.ebi.ac.uk/efo/EFO_0005297)                                                      |
-| `ICD10:N13.30`  |              1 | [EFO:0005562](http://www.ebi.ac.uk/efo/EFO_0005562)                                                      |
-| `ICD10:H53.54`  |              1 | [EFO:0005580](http://www.ebi.ac.uk/efo/EFO_0005580)                                                      |
-| `ICD10:H53.53`  |              1 | [EFO:0005581](http://www.ebi.ac.uk/efo/EFO_0005581)                                                      |
-| `ICD10:K62.89`  |              1 | [EFO:0005628](http://www.ebi.ac.uk/efo/EFO_0005628)                                                      |
-| `ICD10:M43.00`  |              1 | [EFO:0005649](http://www.ebi.ac.uk/efo/EFO_0005649)                                                      |
-| `ICD10:A00.B99` |              1 | [EFO:0005741](http://www.ebi.ac.uk/efo/EFO_0005741)                                                      |
-| `ICD10:H52.52`  |              1 | [EFO:0005758](http://www.ebi.ac.uk/efo/EFO_0005758)                                                      |
-| `ICD10:E83.50`  |              1 | [EFO:0005769](http://www.ebi.ac.uk/efo/EFO_0005769)                                                      |
-| `ICD10:G93.40`  |              1 | [EFO:0005774](http://www.ebi.ac.uk/efo/EFO_0005774)                                                      |
-| `ICD10:G47.419` |              1 | [EFO:0005855](http://www.ebi.ac.uk/efo/EFO_0005855)                                                      |
-| `ICD10:C90.10`  |              1 | [EFO:0006475](http://www.ebi.ac.uk/efo/EFO_0006475)                                                      |
-| `ICD10:C90.30`  |              1 | [EFO:0006738](http://www.ebi.ac.uk/efo/EFO_0006738)                                                      |
-| `ICD10:A01.00`  |              1 | [EFO:0006789](http://www.ebi.ac.uk/efo/EFO_0006789)                                                      |
-| `ICD10:I68.0*`  |              1 | [EFO:0006790](http://www.ebi.ac.uk/efo/EFO_0006790)                                                      |
-| `ICD10:G31.83`  |              1 | [EFO:0006792](http://www.ebi.ac.uk/efo/EFO_0006792)                                                      |
-| `ICD10:H81.09`  |              1 | [EFO:0006862](http://www.ebi.ac.uk/efo/EFO_0006862)                                                      |
-| `ICD10:B60.1+`  |              1 | [EFO:0007126](http://www.ebi.ac.uk/efo/EFO_0007126)                                                      |
-| `ICD10:H19.2*`  |              1 | [EFO:0007126](http://www.ebi.ac.uk/efo/EFO_0007126)                                                      |
-| `ICD10:B44.1+`  |              1 | [EFO:0007140](http://www.ebi.ac.uk/efo/EFO_0007140)                                                      |
-| `ICD10:B44.81`  |              1 | [EFO:0007140](http://www.ebi.ac.uk/efo/EFO_0007140)                                                      |
-| `ICD10:J99.8*`  |              1 | [EFO:0007140](http://www.ebi.ac.uk/efo/EFO_0007140)                                                      |
-| `ICD10:H55.01`  |              1 | [EFO:0007217](http://www.ebi.ac.uk/efo/EFO_0007217)                                                      |
-| `ICD10:B08.02`  |              1 | [EFO:0007222](http://www.ebi.ac.uk/efo/EFO_0007222)                                                      |
-| `ICD10:B08.010` |              1 | [EFO:0007225](http://www.ebi.ac.uk/efo/EFO_0007225)                                                      |
-| `ICD10:B67.90`  |              1 | [EFO:0007245](http://www.ebi.ac.uk/efo/EFO_0007245)                                                      |
-| `ICD10:J05.10`  |              1 | [EFO:0007261](http://www.ebi.ac.uk/efo/EFO_0007261)                                                      |
-| `ICD10:M05.00`  |              1 | [EFO:0007269](http://www.ebi.ac.uk/efo/EFO_0007269)                                                      |
-| `ICD10:B02.21`  |              1 | [EFO:0007281](http://www.ebi.ac.uk/efo/EFO_0007281)                                                      |
-| `ICD10:M31.0+`  |              1 | [EFO:0007290](http://www.ebi.ac.uk/efo/EFO_0007290)                                                      |
-| `ICD10:N08.5*`  |              1 | [EFO:0007290](http://www.ebi.ac.uk/efo/EFO_0007290)                                                      |
-| `ICD10:B33.4+`  |              1 | [EFO:0007296](http://www.ebi.ac.uk/efo/EFO_0007296)                                                      |
-| `ICD10:J17.1*`  |              1 | [EFO:0007296](http://www.ebi.ac.uk/efo/EFO_0007296)                                                      |
-| `ICD10:B00.5+`  |              1 | [EFO:0007308](http://www.ebi.ac.uk/efo/EFO_0007308)                                                      |
-| `ICD10:H19.1*`  |              1 | [EFO:0007308](http://www.ebi.ac.uk/efo/EFO_0007308)                                                      |
-| `ICD10:H00.01`  |              1 | [EFO:0007315](http://www.ebi.ac.uk/efo/EFO_0007315)                                                      |
-| `ICD10:G72.41`  |              1 | [EFO:0007323](http://www.ebi.ac.uk/efo/EFO_0007323)                                                      |
-| `ICD10:A50.40`  |              1 | [EFO:0007339](http://www.ebi.ac.uk/efo/EFO_0007339)                                                      |
-| `ICD10:A50.59`  |              1 | [EFO:0007339](http://www.ebi.ac.uk/efo/EFO_0007339)                                                      |
-| `ICD10:C60-C63` |              1 | [EFO:0007355](http://www.ebi.ac.uk/efo/EFO_0007355)                                                      |
-| `ICD10:C94.30`  |              1 | [EFO:0007359](http://www.ebi.ac.uk/efo/EFO_0007359)                                                      |
-| `ICD10:B08.04`  |              1 | [EFO:0007370](http://www.ebi.ac.uk/efo/EFO_0007370)                                                      |
-| `ICD10:D61.82`  |              1 | [EFO:0007388](http://www.ebi.ac.uk/efo/EFO_0007388)                                                      |
-| `ICD10:O41.00`  |              1 | [EFO:0007401](http://www.ebi.ac.uk/efo/EFO_0007401)                                                      |
-| `ICD10:A18.84`  |              1 | [EFO:0007426](http://www.ebi.ac.uk/efo/EFO_0007426)                                                      |
-| `ICD10:G47.61`  |              1 | [EFO:0007428](http://www.ebi.ac.uk/efo/EFO_0007428)                                                      |
-| `ICD10:O43.21`  |              1 | [EFO:0007440](http://www.ebi.ac.uk/efo/EFO_0007440)                                                      |
-| `ICD10:O43.90`  |              1 | [EFO:0007441](http://www.ebi.ac.uk/efo/EFO_0007441)                                                      |
-| `ICD10:B59+`    |              1 | [EFO:0007448](http://www.ebi.ac.uk/efo/EFO_0007448)                                                      |
-| `ICD10:J17.3*`  |              1 | [EFO:0007448](http://www.ebi.ac.uk/efo/EFO_0007448)                                                      |
-| `ICD10:M02.10`  |              1 | [EFO:0007460](http://www.ebi.ac.uk/efo/EFO_0007460)                                                      |
-| `ICD10:M02.30`  |              1 | [EFO:0007460](http://www.ebi.ac.uk/efo/EFO_0007460)                                                      |
-| `ICD10:G47.52`  |              1 | [EFO:0007462](http://www.ebi.ac.uk/efo/EFO_0007462)                                                      |
-| `ICD10:J01.90`  |              1 | [EFO:0007486](http://www.ebi.ac.uk/efo/EFO_0007486)                                                      |
-| `ICD10:M48.00`  |              1 | [EFO:0007490](http://www.ebi.ac.uk/efo/EFO_0007490)                                                      |
-| `ICD10:M48.02`  |              1 | [EFO:0007490](http://www.ebi.ac.uk/efo/EFO_0007490)                                                      |
-| `ICD10:M48.06`  |              1 | [EFO:0007490](http://www.ebi.ac.uk/efo/EFO_0007490)                                                      |
-| `ICD10:A18.85`  |              1 | [EFO:0007492](http://www.ebi.ac.uk/efo/EFO_0007492)                                                      |
-| `ICD10:M43.10`  |              1 | [EFO:0007493](http://www.ebi.ac.uk/efo/EFO_0007493)                                                      |
-| `ICD10:G25.82`  |              1 | [EFO:0007498](http://www.ebi.ac.uk/efo/EFO_0007498)                                                      |
-| `ICD10:H66.40`  |              1 | [EFO:0007503](http://www.ebi.ac.uk/efo/EFO_0007503)                                                      |
-| `ICD10:A52.11`  |              1 | [EFO:0007505](http://www.ebi.ac.uk/efo/EFO_0007505)                                                      |
-| `ICD10:A59.00`  |              1 | [EFO:0007521](http://www.ebi.ac.uk/efo/EFO_0007521)                                                      |
-| `ICD10:A18.31`  |              1 | [EFO:0007529](http://www.ebi.ac.uk/efo/EFO_0007529)                                                      |
-| `ICD10:A18.10`  |              1 | [EFO:0007531](http://www.ebi.ac.uk/efo/EFO_0007531)                                                      |
-| `ICD10:N13.70`  |              1 | [EFO:0007536](http://www.ebi.ac.uk/efo/EFO_0007536)                                                      |
-| `ICD10:H81.20`  |              1 | [EFO:0007537](http://www.ebi.ac.uk/efo/EFO_0007537)                                                      |
-| `ICD10:A39.1+`  |              1 | [EFO:0007544](http://www.ebi.ac.uk/efo/EFO_0007544)                                                      |
-| `ICD10:E35.1*`  |              1 | [EFO:0007544](http://www.ebi.ac.uk/efo/EFO_0007544)                                                      |
-| `ICD10:A92.31`  |              1 | [EFO:0007545](http://www.ebi.ac.uk/efo/EFO_0007545)                                                      |
-| `ICD10:A69.20`  |              1 | [EFO:0008510](http://www.ebi.ac.uk/efo/EFO_0008510)                                                      |
-| `ICD10:Q85.00`  |              1 | [EFO:0008514](http://www.ebi.ac.uk/efo/EFO_0008514)                                                      |
-| `ICD10:Q85.01`  |              1 | [EFO:0008514](http://www.ebi.ac.uk/efo/EFO_0008514)                                                      |
-| `ICD10:Q85.02`  |              1 | [EFO:0008514](http://www.ebi.ac.uk/efo/EFO_0008514)                                                      |
-| `ICD10:R10.13`  |              1 | [EFO:0008533](http://www.ebi.ac.uk/efo/EFO_0008533)                                                      |
-| `ICD10:L10.81`  |              1 | [EFO:0008602](http://www.ebi.ac.uk/efo/EFO_0008602)                                                      |
-| `ICD10:E28.31`  |              1 | [EFO:0009005](http://www.ebi.ac.uk/efo/EFO_0009005)                                                      |
-| `ICD10:E28.319` |              1 | [EFO:0009005](http://www.ebi.ac.uk/efo/EFO_0009005)                                                      |
-| `ICD10:D68.59`  |              1 | [EFO:0009315](http://www.ebi.ac.uk/efo/EFO_0009315)                                                      |
-| `ICD10:351.8`   |              1 | [EFO:0009380](http://www.ebi.ac.uk/efo/EFO_0009380)                                                      |
-| `ICD10:N60-N65` |              1 | [EFO:0009483](http://www.ebi.ac.uk/efo/EFO_0009483)                                                      |
-| `ICD10:H53.30`  |              1 | [EFO:0009535](http://www.ebi.ac.uk/efo/EFO_0009535)                                                      |
-| `ICD10:H01.00`  |              1 | [EFO:0009536](http://www.ebi.ac.uk/efo/EFO_0009536)                                                      |
-| `ICD10:I85.01`  |              1 | [EFO:0009545](http://www.ebi.ac.uk/efo/EFO_0009545)                                                      |
-| `ICD10:H00.H06` |              1 | [EFO:0009546](http://www.ebi.ac.uk/efo/EFO_0009546)                                                      |
-| `ICD10:N40.N51` |              1 | [EFO:0009555](http://www.ebi.ac.uk/efo/EFO_0009555)                                                      |
-| `ICD10:H73.90`  |              1 | [EFO:0009570](http://www.ebi.ac.uk/efo/EFO_0009570)                                                      |
-| `ICD10:H83.09`  |              1 | [EFO:0009604](http://www.ebi.ac.uk/efo/EFO_0009604)                                                      |
-| `ICD10:N00.N99` |              1 | [EFO:0009663](http://www.ebi.ac.uk/efo/EFO_0009663)                                                      |
-| `ICD10:H00.H59` |              1 | [EFO:0009664](http://www.ebi.ac.uk/efo/EFO_0009664)                                                      |
-| `ICD10:H35.00`  |              1 | [EFO:0009664](http://www.ebi.ac.uk/efo/EFO_0009664)                                                      |
-| `ICD10:H60-H62` |              1 | [EFO:0009668](http://www.ebi.ac.uk/efo/EFO_0009668)                                                      |
-| `ICD10:H60.H62` |              1 | [EFO:0009668](http://www.ebi.ac.uk/efo/EFO_0009668)                                                      |
-| `ICD10:H80-H83` |              1 | [EFO:0009672](http://www.ebi.ac.uk/efo/EFO_0009672)                                                      |
-| `ICD10:H80.H83` |              1 | [EFO:0009672](http://www.ebi.ac.uk/efo/EFO_0009672)                                                      |
-| `ICD10:H83.90`  |              1 | [EFO:0009672](http://www.ebi.ac.uk/efo/EFO_0009672)                                                      |
-| `ICD10:H25-H28` |              1 | [EFO:0009674](http://www.ebi.ac.uk/efo/EFO_0009674)                                                      |
-| `ICD10:G82.20`  |              1 | [EFO:0009679](http://www.ebi.ac.uk/efo/EFO_0009679)                                                      |
-| `ICD10:G82.50`  |              1 | [EFO:0009684](http://www.ebi.ac.uk/efo/EFO_0009684)                                                      |
-| `ICD10:H81.90`  |              1 | [EFO:0009691](http://www.ebi.ac.uk/efo/EFO_0009691)                                                      |
-| `ICD10:L40.5+`  |              1 | [EFO:0009733](http://www.ebi.ac.uk/efo/EFO_0009733)                                                      |
-| `ICD10:M09.0*`  |              1 | [EFO:0009733](http://www.ebi.ac.uk/efo/EFO_0009733)                                                      |
-| `ICD10:C95.00`  |              1 | [EFO:1000068](http://www.ebi.ac.uk/efo/EFO_1000068)                                                      |
-| `ICD10:C93.30`  |              1 | [EFO:1000309](http://www.ebi.ac.uk/efo/EFO_1000309)                                                      |
-| `ICD10:C64.C68` |              1 | [EFO:1000363](http://www.ebi.ac.uk/efo/EFO_1000363)                                                      |
-| `ICD10:E00-E07` |              1 | [EFO:1000627](http://www.ebi.ac.uk/efo/EFO_1000627)                                                      |
-| `ICD10:E00.E07` |              1 | [EFO:1000627](http://www.ebi.ac.uk/efo/EFO_1000627)                                                      |
-| `ICD10:D18.00`  |              1 | [EFO:1000635](http://www.ebi.ac.uk/efo/EFO_1000635)                                                      |
-| `ICD10:M62.84`  |              1 | [EFO:1000653](http://www.ebi.ac.uk/efo/EFO_1000653)                                                      |
-| `ICD10:H71.90`  |              1 | [EFO:1000675](http://www.ebi.ac.uk/efo/EFO_1000675)                                                      |
-| `ICD10:H71.00`  |              1 | [EFO:1000676](http://www.ebi.ac.uk/efo/EFO_1000676)                                                      |
-| `ICD10:H60.40`  |              1 | [EFO:1000677](http://www.ebi.ac.uk/efo/EFO_1000677)                                                      |
-| `ICD10:H11.13`  |              1 | [EFO:1000682](http://www.ebi.ac.uk/efo/EFO_1000682)                                                      |
-| `ICD10:L12.30`  |              1 | [EFO:1000691](http://www.ebi.ac.uk/efo/EFO_1000691)                                                      |
-| `ICD10:O26.40`  |              1 | [EFO:1000709](http://www.ebi.ac.uk/efo/EFO_1000709)                                                      |
-| `ICD10:H02.71`  |              1 | [EFO:1000711](http://www.ebi.ac.uk/efo/EFO_1000711)                                                      |
-| `ICD10:H02.73`  |              1 | [EFO:1000713](http://www.ebi.ac.uk/efo/EFO_1000713)                                                      |
-| `ICD10:H18.06`  |              1 | [EFO:1000770](http://www.ebi.ac.uk/efo/EFO_1000770)                                                      |
-| `ICD10:C84.10`  |              1 | [EFO:1000785](http://www.ebi.ac.uk/efo/EFO_1000785)                                                      |
-| `ICD10:M76.81`  |              1 | [EFO:1000808](http://www.ebi.ac.uk/efo/EFO_1000808)                                                      |
-| `ICD10:H47.01`  |              1 | [EFO:1000809](http://www.ebi.ac.uk/efo/EFO_1000809)                                                      |
-| `ICD10:H18.41`  |              1 | [EFO:1000818](http://www.ebi.ac.uk/efo/EFO_1000818)                                                      |
-| `ICD10:T78.41`  |              1 | [EFO:1000821](http://www.ebi.ac.uk/efo/EFO_1000821)                                                      |
-| `ICD10:E51.11`  |              1 | [EFO:1000837](http://www.ebi.ac.uk/efo/EFO_1000837)                                                      |
-| `ICD10:G61.81`  |              1 | [EFO:1000868](http://www.ebi.ac.uk/efo/EFO_1000868)                                                      |
-| `ICD10:H18.20`  |              1 | [EFO:1000879](http://www.ebi.ac.uk/efo/EFO_1000879)                                                      |
-| `ICD10:H16.40`  |              1 | [EFO:1000880](http://www.ebi.ac.uk/efo/EFO_1000880)                                                      |
-| `ICD10:I25.41`  |              1 | [EFO:1000881](http://www.ebi.ac.uk/efo/EFO_1000881)                                                      |
-| `ICD10:C72.50`  |              1 | [EFO:1000884](http://www.ebi.ac.uk/efo/EFO_1000884)                                                      |
-| `ICD10:A50.06`  |              1 | [EFO:1000887](http://www.ebi.ac.uk/efo/EFO_1000887)                                                      |
-| `ICD10:I50.30`  |              1 | [EFO:1000899](http://www.ebi.ac.uk/efo/EFO_1000899)                                                      |
-| `ICD10:G25.71`  |              1 | [EFO:1000903](http://www.ebi.ac.uk/efo/EFO_1000903)                                                      |
-| `ICD10:H04.12`  |              1 | [EFO:1000906](http://www.ebi.ac.uk/efo/EFO_1000906)                                                      |
-| `ICD10:E07.81`  |              1 | [EFO:1000931](http://www.ebi.ac.uk/efo/EFO_1000931)                                                      |
-| `ICD10:G57.20`  |              1 | [EFO:1000936](http://www.ebi.ac.uk/efo/EFO_1000936)                                                      |
-| `ICD10:K31.84`  |              1 | [EFO:1000948](http://www.ebi.ac.uk/efo/EFO_1000948)                                                      |
-| `ICD10:C91.40`  |              1 | [EFO:1000956](http://www.ebi.ac.uk/efo/EFO_1000956)                                                      |
-| `ICD10:H35.03`  |              1 | [EFO:1000977](http://www.ebi.ac.uk/efo/EFO_1000977)                                                      |
-| `ICD10:M00-M02` |              1 | [EFO:1000999](http://www.ebi.ac.uk/efo/EFO_1000999)                                                      |
-| `ICD10:M15.M19` |              1 | [EFO:1000999](http://www.ebi.ac.uk/efo/EFO_1000999)                                                      |
-| `ICD10:A81.81`  |              1 | [EFO:1001008](http://www.ebi.ac.uk/efo/EFO_1001008)                                                      |
-| `ICD10:D72.823` |              1 | [EFO:1001014](http://www.ebi.ac.uk/efo/EFO_1001014)                                                      |
-| `ICD10:H40.12`  |              1 | [EFO:1001022](http://www.ebi.ac.uk/efo/EFO_1001022)                                                      |
-| `ICD10:P24.00`  |              1 | [EFO:1001037](http://www.ebi.ac.uk/efo/EFO_1001037)                                                      |
-| `ICD10:P24.01`  |              1 | [EFO:1001037](http://www.ebi.ac.uk/efo/EFO_1001037)                                                      |
-| `ICD10:A39.0+`  |              1 | [EFO:1001040](http://www.ebi.ac.uk/efo/EFO_1001040)                                                      |
-| `ICD10:G01*`    |              1 | [EFO:1001040](http://www.ebi.ac.uk/efo/EFO_1001040)                                                      |
-| `ICD10:C84.00`  |              1 | [EFO:1001051](http://www.ebi.ac.uk/efo/EFO_1001051)                                                      |
-| `ICD10:C92.30`  |              1 | [EFO:1001052](http://www.ebi.ac.uk/efo/EFO_1001052)                                                      |
-| `ICD10:E40.E46` |              1 | [EFO:1001067](http://www.ebi.ac.uk/efo/EFO_1001067)                                                      |
-| `ICD10:H40.05`  |              1 | [EFO:1001069](http://www.ebi.ac.uk/efo/EFO_1001069)                                                      |
-| `ICD10:N70.92`  |              1 | [EFO:1001071](http://www.ebi.ac.uk/efo/EFO_1001071)                                                      |
-| `ICD10:H35.81`  |              1 | [EFO:1001074](http://www.ebi.ac.uk/efo/EFO_1001074)                                                      |
-| `ICD10:H47.10`  |              1 | [EFO:1001074](http://www.ebi.ac.uk/efo/EFO_1001074)                                                      |
-| `ICD10:H47.11`  |              1 | [EFO:1001074](http://www.ebi.ac.uk/efo/EFO_1001074)                                                      |
-| `ICD10:H05.01`  |              1 | [EFO:1001076](http://www.ebi.ac.uk/efo/EFO_1001076)                                                      |
-| `ICD10:H44.11`  |              1 | [EFO:1001082](http://www.ebi.ac.uk/efo/EFO_1001082)                                                      |
-| `ICD10:M12.20`  |              1 | [EFO:1001106](http://www.ebi.ac.uk/efo/EFO_1001106)                                                      |
-| `ICD10:R73.09`  |              1 | [EFO:1001121](http://www.ebi.ac.uk/efo/EFO_1001121)                                                      |
-| `ICD10:N10-N16` |              1 | [EFO:1001141](http://www.ebi.ac.uk/efo/EFO_1001141)                                                      |
-| `ICD10:G56.30`  |              1 | [EFO:1001143](http://www.ebi.ac.uk/efo/EFO_1001143)                                                      |
-| `ICD10:H35.06`  |              1 | [EFO:1001156](http://www.ebi.ac.uk/efo/EFO_1001156)                                                      |
-| `ICD10:H35.10`  |              1 | [EFO:1001158](http://www.ebi.ac.uk/efo/EFO_1001158)                                                      |
-| `ICD10:H35.17`  |              1 | [EFO:1001158](http://www.ebi.ac.uk/efo/EFO_1001158)                                                      |
-| `ICD10:I00-I02` |              1 | [EFO:1001160](http://www.ebi.ac.uk/efo/EFO_1001160)                                                      |
-| `ICD10:I05.I09` |              1 | [EFO:1001161](http://www.ebi.ac.uk/efo/EFO_1001161)                                                      |
-| `ICD10:K11.20`  |              1 | [EFO:1001179](http://www.ebi.ac.uk/efo/EFO_1001179)                                                      |
-| `ICD10:N43.40`  |              1 | [EFO:1001189](http://www.ebi.ac.uk/efo/EFO_1001189)                                                      |
-| `ICD10:H44.13`  |              1 | [EFO:1001205](http://www.ebi.ac.uk/efo/EFO_1001205)                                                      |
-| `ICD10:A52.02`  |              1 | [EFO:1001206](http://www.ebi.ac.uk/efo/EFO_1001206)                                                      |
-| `ICD10:I50.20`  |              1 | [EFO:1001207](http://www.ebi.ac.uk/efo/EFO_1001207)                                                      |
-| `ICD10:G57.50`  |              1 | [EFO:1001208](http://www.ebi.ac.uk/efo/EFO_1001208)                                                      |
-| `ICD10:O43.02`  |              1 | [EFO:1001221](http://www.ebi.ac.uk/efo/EFO_1001221)                                                      |
-| `ICD10:O43.029` |              1 | [EFO:1001221](http://www.ebi.ac.uk/efo/EFO_1001221)                                                      |
-| `ICD10:D86.89`  |              1 | [EFO:1001232](http://www.ebi.ac.uk/efo/EFO_1001232)                                                      |
-| `ICD10:A81.01`  |              1 | [EFO:1001233](http://www.ebi.ac.uk/efo/EFO_1001233)                                                      |
-| `ICD10:H43.81`  |              1 | [EFO:1001238](http://www.ebi.ac.uk/efo/EFO_1001238)                                                      |
-| `ICD10:K75.81`  |              1 | [EFO:1001249](http://www.ebi.ac.uk/efo/EFO_1001249)                                                      |
-| `ICD10:H52.32`  |              1 | [EFO:1001266](http://www.ebi.ac.uk/efo/EFO_1001266)                                                      |
-| `ICD10:G83.81`  |              1 | [EFO:1001279](http://www.ebi.ac.uk/efo/EFO_1001279)                                                      |
-| `ICD10:K52.831` |              1 | [EFO:1001293](http://www.ebi.ac.uk/efo/EFO_1001293)                                                      |
-| `ICD10:K52.832` |              1 | [EFO:1001294](http://www.ebi.ac.uk/efo/EFO_1001294)                                                      |
-| `ICD10:J84.116` |              1 | [EFO:1001300](http://www.ebi.ac.uk/efo/EFO_1001300)                                                      |
-| `ICD10:B08.20`  |              1 | [EFO:1001320](http://www.ebi.ac.uk/efo/EFO_1001320)                                                      |
-| `ICD10:H47.14`  |              1 | [EFO:1001330](http://www.ebi.ac.uk/efo/EFO_1001330)                                                      |
-| `ICD10:C51.C58` |              1 | [EFO:1001331](http://www.ebi.ac.uk/efo/EFO_1001331)                                                      |
-| `ICD10:B65-B83` |              1 | [EFO:1001342](http://www.ebi.ac.uk/efo/EFO_1001342)                                                      |
-| `ICD10:B65.B83` |              1 | [EFO:1001342](http://www.ebi.ac.uk/efo/EFO_1001342)                                                      |
-| `ICD10:K76.81`  |              1 | [EFO:1001346](http://www.ebi.ac.uk/efo/EFO_1001346)                                                      |
-| `ICD10:I20.I25` |              1 | [EFO:1001375](http://www.ebi.ac.uk/efo/EFO_1001375)                                                      |
-| `ICD10:E75.24`  |              1 | [EFO:1001380](http://www.ebi.ac.uk/efo/EFO_1001380)                                                      |
-| `ICD10:E75.242` |              1 | [EFO:1001380](http://www.ebi.ac.uk/efo/EFO_1001380)                                                      |
-| `ICD10:E75.249` |              1 | [EFO:1001380](http://www.ebi.ac.uk/efo/EFO_1001380)                                                      |
-| `ICD10:N70-N77` |              1 | [EFO:1001388](http://www.ebi.ac.uk/efo/EFO_1001388)                                                      |
-| `ICD10:H93.90`  |              1 | [EFO:1001455](http://www.ebi.ac.uk/efo/EFO_1001455)                                                      |
-| `ICD10:H40.20`  |              1 | [EFO:1001506](http://www.ebi.ac.uk/efo/EFO_1001506)                                                      |
-| `ICD10:O43.01`  |              1 | [EFO:1001794](http://www.ebi.ac.uk/efo/EFO_1001794)                                                      |
-| `ICD10:S52.27`  |              1 | [EFO:1001811](http://www.ebi.ac.uk/efo/EFO_1001811)                                                      |
-| `ICD10:H05.12`  |              1 | [EFO:1001819](http://www.ebi.ac.uk/efo/EFO_1001819)                                                      |
-| `ICD10:H11.15`  |              1 | [EFO:1001824](http://www.ebi.ac.uk/efo/EFO_1001824)                                                      |
-| `ICD10:K68.12`  |              1 | [EFO:1001832](http://www.ebi.ac.uk/efo/EFO_1001832)                                                      |
-| `ICD10:F40.00`  |              1 | [EFO:1001872](http://www.ebi.ac.uk/efo/EFO_1001872)                                                      |
-| `ICD10:L99.0*`  |              1 | [EFO:1001882](http://www.ebi.ac.uk/efo/EFO_1001882)                                                      |
-| `ICD10:D3A.8`   |              1 | [EFO:1001901](http://www.ebi.ac.uk/efo/EFO_1001901)                                                      |
-| `ICD10:F40.10`  |              1 | [EFO:1001917](http://www.ebi.ac.uk/efo/EFO_1001917)                                                      |
-| `ICD10:N00.N08` |              1 | [EFO:1002049](http://www.ebi.ac.uk/efo/EFO_1002049)                                                      |
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `ICD10:C91.10`  |              1 | [EFO:0000095](http://www.ebi.ac.uk/efo/EFO_0000095) |
+| `ICD10:C91.00`  |              1 | [EFO:0000220](http://www.ebi.ac.uk/efo/EFO_0000220) |
+| `ICD10:C91.90`  |              1 | [EFO:0000220](http://www.ebi.ac.uk/efo/EFO_0000220) |
+| `ICD10:C92.00`  |              1 | [EFO:0000222](http://www.ebi.ac.uk/efo/EFO_0000222) |
+| `ICD10:C92.40`  |              1 | [EFO:0000224](http://www.ebi.ac.uk/efo/EFO_0000224) |
+| `ICD10:C83.70`  |              1 | [EFO:0000309](http://www.ebi.ac.uk/efo/EFO_0000309) |
+| `ICD10:C95.90`  |              1 | [EFO:0000565](http://www.ebi.ac.uk/efo/EFO_0000565) |
+| `ICD10:C00.D48` |              1 | [EFO:0000616](http://www.ebi.ac.uk/efo/EFO_0000616) |
+| `ICD10:H11.00`  |              1 | [EFO:0000678](http://www.ebi.ac.uk/efo/EFO_0000678) |
+| `ICD10:H11.009` |              1 | [EFO:0000678](http://www.ebi.ac.uk/efo/EFO_0000678) |
+| `ICD10:J84.112` |              1 | [EFO:0000768](http://www.ebi.ac.uk/efo/EFO_0000768) |
+| `ICD10:C34.90`  |              1 | [EFO:0001071](http://www.ebi.ac.uk/efo/EFO_0001071) |
+| `ICD10:C90.00`  |              1 | [EFO:0001378](http://www.ebi.ac.uk/efo/EFO_0001378) |
+| `ICD10:D10.D36` |              1 | [EFO:0002422](http://www.ebi.ac.uk/efo/EFO_0002422) |
+| `ICD10:D75.81`  |              1 | [EFO:0002430](http://www.ebi.ac.uk/efo/EFO_0002430) |
+| `ICD10:C94.20`  |              1 | [EFO:0003025](http://www.ebi.ac.uk/efo/EFO_0003025) |
+| `ICD10:C90.10`  |              1 | [EFO:0006475](http://www.ebi.ac.uk/efo/EFO_0006475) |
+| `ICD10:C90.30`  |              1 | [EFO:0006738](http://www.ebi.ac.uk/efo/EFO_0006738) |
+| `ICD10:C60-C63` |              1 | [EFO:0007355](http://www.ebi.ac.uk/efo/EFO_0007355) |
+| `ICD10:C94.30`  |              1 | [EFO:0007359](http://www.ebi.ac.uk/efo/EFO_0007359) |
+| `ICD10:Q85.00`  |              1 | [EFO:0008514](http://www.ebi.ac.uk/efo/EFO_0008514) |
+| `ICD10:R10.13`  |              1 | [EFO:0008533](http://www.ebi.ac.uk/efo/EFO_0008533) |
+| `ICD10:351.8`   |              1 | [EFO:0009380](http://www.ebi.ac.uk/efo/EFO_0009380) |
+| `ICD10:H53.30`  |              1 | [EFO:0009535](http://www.ebi.ac.uk/efo/EFO_0009535) |
+| `ICD10:I85.01`  |              1 | [EFO:0009545](http://www.ebi.ac.uk/efo/EFO_0009545) |
+| `ICD10:H00.H06` |              1 | [EFO:0009546](http://www.ebi.ac.uk/efo/EFO_0009546) |
+| `ICD10:N40.N51` |              1 | [EFO:0009555](http://www.ebi.ac.uk/efo/EFO_0009555) |
+| `ICD10:A69.22`  |              1 | [EFO:0009562](http://www.ebi.ac.uk/efo/EFO_0009562) |
+| `ICD10:C95.00`  |              1 | [EFO:1000068](http://www.ebi.ac.uk/efo/EFO_1000068) |
+| `ICD10:C93.30`  |              1 | [EFO:1000309](http://www.ebi.ac.uk/efo/EFO_1000309) |
+| `ICD10:C64.C68` |              1 | [EFO:1000363](http://www.ebi.ac.uk/efo/EFO_1000363) |
+| `ICD10:D18.00`  |              1 | [EFO:1000635](http://www.ebi.ac.uk/efo/EFO_1000635) |
+| `ICD10:C84.10`  |              1 | [EFO:1000785](http://www.ebi.ac.uk/efo/EFO_1000785) |
+| `ICD10:A50.06`  |              1 | [EFO:1000887](http://www.ebi.ac.uk/efo/EFO_1000887) |
+| `ICD10:C91.40`  |              1 | [EFO:1000956](http://www.ebi.ac.uk/efo/EFO_1000956) |
+| `ICD10:A81.81`  |              1 | [EFO:1001008](http://www.ebi.ac.uk/efo/EFO_1001008) |
+| `ICD10:D72.823` |              1 | [EFO:1001014](http://www.ebi.ac.uk/efo/EFO_1001014) |
+| `ICD10:C84.00`  |              1 | [EFO:1001051](http://www.ebi.ac.uk/efo/EFO_1001051) |
+| `ICD10:C92.30`  |              1 | [EFO:1001052](http://www.ebi.ac.uk/efo/EFO_1001052) |
+| `ICD10:A52.02`  |              1 | [EFO:1001206](http://www.ebi.ac.uk/efo/EFO_1001206) |
+| `ICD10:K75.81`  |              1 | [EFO:1001249](http://www.ebi.ac.uk/efo/EFO_1001249) |
+| `ICD10:J84.116` |              1 | [EFO:1001300](http://www.ebi.ac.uk/efo/EFO_1001300) |
+| `ICD10:H47.14`  |              1 | [EFO:1001330](http://www.ebi.ac.uk/efo/EFO_1001330) |
+| `ICD10:C51.C58` |              1 | [EFO:1001331](http://www.ebi.ac.uk/efo/EFO_1001331) |
+| `ICD10:K76.81`  |              1 | [EFO:1001346](http://www.ebi.ac.uk/efo/EFO_1001346) |
+| `ICD10:E75.24`  |              1 | [EFO:1001380](http://www.ebi.ac.uk/efo/EFO_1001380) |
+| `ICD10:O43.01`  |              1 | [EFO:1001794](http://www.ebi.ac.uk/efo/EFO_1001794) |
+| `ICD10:S52.27`  |              1 | [EFO:1001811](http://www.ebi.ac.uk/efo/EFO_1001811) |
+| `ICD10:H05.12`  |              1 | [EFO:1001819](http://www.ebi.ac.uk/efo/EFO_1001819) |
+| `ICD10:H11.15`  |              1 | [EFO:1001824](http://www.ebi.ac.uk/efo/EFO_1001824) |
+| `ICD10:K68.12`  |              1 | [EFO:1001832](http://www.ebi.ac.uk/efo/EFO_1001832) |
 
 ## `ICDO`: International Classification of Diseases for Oncology
 
@@ -364,6 +124,17 @@ did not match the standard pattern `^[0-9]+$`.
 | external_xref     |   usages_count | usages                                              |
 |-------------------|----------------|-----------------------------------------------------|
 | `IDO:IDO_0000436` |              1 | [EFO:0005741](http://www.ebi.ac.uk/efo/EFO_0005741) |
+
+## `JAX`: Jackson Laboratories Strain
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `JAX` (standardized to Bioregistry
+prefix [`jax`](https://bioregistry.io/jax)) that
+did not match the standard pattern `^\d{6}$`.
+
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `JAX:8075`      |              1 | [EFO:0001341](http://www.ebi.ac.uk/efo/EFO_0001341) |
 
 ## `KEGG`: Kyoto Encyclopedia of Genes and Genomes
 
@@ -441,24 +212,24 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 ## `MONDO`: Monarch Disease Ontology
 
-Overall, there were 1,758 invalid
+Overall, there were 1,754 invalid
 xrefs to external prefixed with `MONDO` (standardized to Bioregistry
 prefix [`mondo`](https://bioregistry.io/mondo)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref                                          |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |--------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MONDO:patterns/location`                              |            618 | [EFO:0000178](http://www.ebi.ac.uk/efo/EFO_0000178), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000199](http://www.ebi.ac.uk/efo/EFO_0000199), ... |
-| `MONDO:design_pattern`                                 |            208 | [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000319](http://www.ebi.ac.uk/efo/EFO_0000319), [EFO:0000330](http://www.ebi.ac.uk/efo/EFO_0000330), [EFO:0000405](http://www.ebi.ac.uk/efo/EFO_0000405), [EFO:0000405](http://www.ebi.ac.uk/efo/EFO_0000405), ... |
-| `MONDO:patterns/specific_infectious_disease_by_agent`  |            168 | [EFO:0000650](http://www.ebi.ac.uk/efo/EFO_0000650), [EFO:0000694](http://www.ebi.ac.uk/efo/EFO_0000694), [EFO:0000763](http://www.ebi.ac.uk/efo/EFO_0000763), [EFO:0000764](http://www.ebi.ac.uk/efo/EFO_0000764), [EFO:0000769](http://www.ebi.ac.uk/efo/EFO_0000769), ... |
+| `MONDO:patterns/location`                              |            617 | [EFO:0000178](http://www.ebi.ac.uk/efo/EFO_0000178), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000199](http://www.ebi.ac.uk/efo/EFO_0000199), ... |
+| `MONDO:design_pattern`                                 |            207 | [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000319](http://www.ebi.ac.uk/efo/EFO_0000319), [EFO:0000330](http://www.ebi.ac.uk/efo/EFO_0000330), [EFO:0000405](http://www.ebi.ac.uk/efo/EFO_0000405), [EFO:0000405](http://www.ebi.ac.uk/efo/EFO_0000405), ... |
+| `MONDO:patterns/specific_infectious_disease_by_agent`  |            167 | [EFO:0000650](http://www.ebi.ac.uk/efo/EFO_0000650), [EFO:0000694](http://www.ebi.ac.uk/efo/EFO_0000694), [EFO:0000763](http://www.ebi.ac.uk/efo/EFO_0000763), [EFO:0000764](http://www.ebi.ac.uk/efo/EFO_0000764), [EFO:0000769](http://www.ebi.ac.uk/efo/EFO_0000769), ... |
 | `MONDO:ambiguous`                                      |            160 | [EFO:0000217](http://www.ebi.ac.uk/efo/EFO_0000217), [EFO:0000220](http://www.ebi.ac.uk/efo/EFO_0000220), [EFO:0000248](http://www.ebi.ac.uk/efo/EFO_0000248), [EFO:0000275](http://www.ebi.ac.uk/efo/EFO_0000275), [EFO:0000284](http://www.ebi.ac.uk/efo/EFO_0000284), ... |
-| `MONDO:patterns/location_top`                          |            115 | [EFO:0000319](http://www.ebi.ac.uk/efo/EFO_0000319), [EFO:0000405](http://www.ebi.ac.uk/efo/EFO_0000405), [EFO:0000512](http://www.ebi.ac.uk/efo/EFO_0000512), [EFO:0000524](http://www.ebi.ac.uk/efo/EFO_0000524), [EFO:0000540](http://www.ebi.ac.uk/efo/EFO_0000540), ... |
-| `MONDO:Lexical`                                        |             76 | [EFO:0000095](http://www.ebi.ac.uk/efo/EFO_0000095), [EFO:0000174](http://www.ebi.ac.uk/efo/EFO_0000174), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000198](http://www.ebi.ac.uk/efo/EFO_0000198), [EFO:0000222](http://www.ebi.ac.uk/efo/EFO_0000222), ... |
+| `MONDO:patterns/location_top`                          |            114 | [EFO:0000319](http://www.ebi.ac.uk/efo/EFO_0000319), [EFO:0000405](http://www.ebi.ac.uk/efo/EFO_0000405), [EFO:0000512](http://www.ebi.ac.uk/efo/EFO_0000512), [EFO:0000540](http://www.ebi.ac.uk/efo/EFO_0000540), [EFO:0000618](http://www.ebi.ac.uk/efo/EFO_0000618), ... |
+| `MONDO:Lexical`                                        |             78 | [EFO:0000095](http://www.ebi.ac.uk/efo/EFO_0000095), [EFO:0000174](http://www.ebi.ac.uk/efo/EFO_0000174), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000198](http://www.ebi.ac.uk/efo/EFO_0000198), [EFO:0000222](http://www.ebi.ac.uk/efo/EFO_0000222), ... |
 | `MONDO:patterns/neoplasm`                              |             69 | [EFO:0000294](http://www.ebi.ac.uk/efo/EFO_0000294), [EFO:0002431](http://www.ebi.ac.uk/efo/EFO_0002431), [EFO:0002626](http://www.ebi.ac.uk/efo/EFO_0002626), [EFO:0003769](http://www.ebi.ac.uk/efo/EFO_0003769), [EFO:0003817](http://www.ebi.ac.uk/efo/EFO_0003817), ... |
 | `MONDO:patterns/inflammatory_disease_by_site`          |             62 | [EFO:0000217](http://www.ebi.ac.uk/efo/EFO_0000217), [EFO:0000278](http://www.ebi.ac.uk/efo/EFO_0000278), [EFO:0000465](http://www.ebi.ac.uk/efo/EFO_0000465), [EFO:0000557](http://www.ebi.ac.uk/efo/EFO_0000557), [EFO:0000649](http://www.ebi.ac.uk/efo/EFO_0000649), ... |
 | `MONDO:patterns/carcinoma`                             |             50 | [EFO:0000178](http://www.ebi.ac.uk/efo/EFO_0000178), [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000216](http://www.ebi.ac.uk/efo/EFO_0000216), [EFO:0000305](http://www.ebi.ac.uk/efo/EFO_0000305), [EFO:0000501](http://www.ebi.ac.uk/efo/EFO_0000501), ... |
 | `MONDO:patterns/cancer`                                |             41 | [EFO:0000178](http://www.ebi.ac.uk/efo/EFO_0000178), [EFO:0000326](http://www.ebi.ac.uk/efo/EFO_0000326), [EFO:0005088](http://www.ebi.ac.uk/efo/EFO_0005088), [EFO:0005553](http://www.ebi.ac.uk/efo/EFO_0005553), [EFO:0005557](http://www.ebi.ac.uk/efo/EFO_0005557), ... |
-| `MONDO:cjm`                                            |             28 | [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000319](http://www.ebi.ac.uk/efo/EFO_0000319), [EFO:0000405](http://www.ebi.ac.uk/efo/EFO_0000405), [EFO:0000508](http://www.ebi.ac.uk/efo/EFO_0000508), [EFO:0000574](http://www.ebi.ac.uk/efo/EFO_0000574), ... |
+| `MONDO:cjm`                                            |             27 | [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000319](http://www.ebi.ac.uk/efo/EFO_0000319), [EFO:0000405](http://www.ebi.ac.uk/efo/EFO_0000405), [EFO:0000508](http://www.ebi.ac.uk/efo/EFO_0000508), [EFO:0000574](http://www.ebi.ac.uk/efo/EFO_0000574), ... |
 | `MONDO:DesignPattern`                                  |             22 | [EFO:0000216](http://www.ebi.ac.uk/efo/EFO_0000216), [EFO:0000294](http://www.ebi.ac.uk/efo/EFO_0000294), [EFO:0000305](http://www.ebi.ac.uk/efo/EFO_0000305), [EFO:0000326](http://www.ebi.ac.uk/efo/EFO_0000326), [EFO:0000673](http://www.ebi.ac.uk/efo/EFO_0000673), ... |
 | `MONDO:patterns/chronic`                               |             16 | [EFO:0000337](http://www.ebi.ac.uk/efo/EFO_0000337), [EFO:0000339](http://www.ebi.ac.uk/efo/EFO_0000339), [EFO:0000341](http://www.ebi.ac.uk/efo/EFO_0000341), [EFO:0000342](http://www.ebi.ac.uk/efo/EFO_0000342), [EFO:0002428](http://www.ebi.ac.uk/efo/EFO_0002428), ... |
 | `MONDO:patterns/infectious_disease_by_agent`           |             12 | [EFO:0000763](http://www.ebi.ac.uk/efo/EFO_0000763), [EFO:0004249](http://www.ebi.ac.uk/efo/EFO_0004249), [EFO:0007128](http://www.ebi.ac.uk/efo/EFO_0007128), [EFO:0007146](http://www.ebi.ac.uk/efo/EFO_0007146), [EFO:0007173](http://www.ebi.ac.uk/efo/EFO_0007173), ... |
@@ -470,7 +241,7 @@ did not match the standard pattern `^\d{7}$`.
 | `MONDO:patterns/hereditary`                            |              8 | [EFO:0000508](http://www.ebi.ac.uk/efo/EFO_0000508), [EFO:0001356](http://www.ebi.ac.uk/efo/EFO_0001356), [EFO:0002945](http://www.ebi.ac.uk/efo/EFO_0002945), [EFO:0002945](http://www.ebi.ac.uk/efo/EFO_0002945), [EFO:0004128](http://www.ebi.ac.uk/efo/EFO_0004128), ... |
 | `MONDO:patterns/neuroendocrine_neoplasm_grade1`        |              8 | [EFO:1000092](http://www.ebi.ac.uk/efo/EFO_1000092), [EFO:1000094](http://www.ebi.ac.uk/efo/EFO_1000094), [EFO:1000154](http://www.ebi.ac.uk/efo/EFO_1000154), [EFO:1000188](http://www.ebi.ac.uk/efo/EFO_1000188), [EFO:1000195](http://www.ebi.ac.uk/efo/EFO_1000195), ... |
 | `MONDO:patterns/acute`                                 |              7 | [EFO:0000220](http://www.ebi.ac.uk/efo/EFO_0000220), [EFO:0000221](http://www.ebi.ac.uk/efo/EFO_0000221), [EFO:0000222](http://www.ebi.ac.uk/efo/EFO_0000222), [EFO:0002497](http://www.ebi.ac.uk/efo/EFO_0002497), [EFO:0008583](http://www.ebi.ac.uk/efo/EFO_0008583), ... |
-| `MONDO:patterns/allergic_form_of_disease`              |              6 | [EFO:0000274](http://www.ebi.ac.uk/efo/EFO_0000274), [EFO:0005854](http://www.ebi.ac.uk/efo/EFO_0005854), [EFO:0007141](http://www.ebi.ac.uk/efo/EFO_0007141), [EFO:1000668](http://www.ebi.ac.uk/efo/EFO_1000668), [EFO:1000669](http://www.ebi.ac.uk/efo/EFO_1000669), ... |
+| `MONDO:patterns/allergic_form_of_disease`              |              5 | [EFO:0000274](http://www.ebi.ac.uk/efo/EFO_0000274), [EFO:0005854](http://www.ebi.ac.uk/efo/EFO_0005854), [EFO:0007141](http://www.ebi.ac.uk/efo/EFO_0007141), [EFO:1000668](http://www.ebi.ac.uk/efo/EFO_1000668), [EFO:1000669](http://www.ebi.ac.uk/efo/EFO_1000669)      |
 | `MONDO:patterns/benign`                                |              5 | [EFO:0002422](http://www.ebi.ac.uk/efo/EFO_0002422), [EFO:1000028](http://www.ebi.ac.uk/efo/EFO_1000028), [EFO:1000106](http://www.ebi.ac.uk/efo/EFO_1000106), [EFO:1000108](http://www.ebi.ac.uk/efo/EFO_1000108), [EFO:1000485](http://www.ebi.ac.uk/efo/EFO_1000485)      |
 | `MONDO:patterns/environmental_stimulus`                |              4 | [EFO:0004712](http://www.ebi.ac.uk/efo/EFO_0004712), [EFO:0007153](http://www.ebi.ac.uk/efo/EFO_0007153), [EFO:1000814](http://www.ebi.ac.uk/efo/EFO_1000814), [EFO:1000851](http://www.ebi.ac.uk/efo/EFO_1000851)                                                           |
 | `MONDO:patterns/congenital`                            |              4 | [EFO:0007217](http://www.ebi.ac.uk/efo/EFO_0007217), [EFO:0007218](http://www.ebi.ac.uk/efo/EFO_0007218), [EFO:0007219](http://www.ebi.ac.uk/efo/EFO_0007219), [EFO:0007220](http://www.ebi.ac.uk/efo/EFO_0007220)                                                           |
@@ -499,14 +270,14 @@ did not match the standard pattern `^C\d+$`.
 
 ## `NCIT`: NCI Thesaurus
 
-Overall, there were 360 invalid
+Overall, there were 357 invalid
 xrefs to external prefixed with `NCIT` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
 did not match the standard pattern `^C\d+$`.
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `NCIT:P378`           |            359 | [EFO:0000096](http://www.ebi.ac.uk/efo/EFO_0000096), [EFO:0000186](http://www.ebi.ac.uk/efo/EFO_0000186), [EFO:0000248](http://www.ebi.ac.uk/efo/EFO_0000248), [EFO:0000266](http://www.ebi.ac.uk/efo/EFO_0000266), [EFO:0000275](http://www.ebi.ac.uk/efo/EFO_0000275), ... |
+| `NCIT:P378`           |            356 | [EFO:0000096](http://www.ebi.ac.uk/efo/EFO_0000096), [EFO:0000186](http://www.ebi.ac.uk/efo/EFO_0000186), [EFO:0000248](http://www.ebi.ac.uk/efo/EFO_0000248), [EFO:0000266](http://www.ebi.ac.uk/efo/EFO_0000266), [EFO:0000275](http://www.ebi.ac.uk/efo/EFO_0000275), ... |
 | `NCIT:C92189-variant` |              1 | [EFO:1001417](http://www.ebi.ac.uk/efo/EFO_1001417)                                                                                                                                                                                                                          |
 
 ## `NCIt`: NCI Thesaurus
@@ -531,9 +302,20 @@ did not match the standard pattern `^\d{7}$`.
 |-------------------|----------------|-----------------------------------------------------|
 | `OBI:OBI_1110054` |              1 | [EFO:0005140](http://www.ebi.ac.uk/efo/EFO_0005140) |
 
-## `OMIMPS`: OMIM Phenotypic Series
+## `OMIM`: Online Mendelian Inheritance in Man
 
 Overall, there were 56 invalid
+xrefs to external prefixed with `OMIM` (standardized to Bioregistry
+prefix [`omim`](https://bioregistry.io/omim)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `OMIM:genemap2` |             56 | [EFO:0000174](http://www.ebi.ac.uk/efo/EFO_0000174), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000198](http://www.ebi.ac.uk/efo/EFO_0000198), ... |
+
+## `OMIMPS`: OMIM Phenotypic Series
+
+Overall, there were 54 invalid
 xrefs to external prefixed with `OMIMPS` (standardized to Bioregistry
 prefix [`omim.ps`](https://bioregistry.io/omim.ps)) that
 did not match the standard pattern `^PS\d+$`.
@@ -558,7 +340,6 @@ did not match the standard pattern `^PS\d+$`.
 | `OMIMPS:209850` |              1 | [EFO:0003758](http://www.ebi.ac.uk/efo/EFO_0003758)                                                      |
 | `OMIMPS:603165` |              1 | [EFO:0000274](http://www.ebi.ac.uk/efo/EFO_0000274)                                                      |
 | `OMIMPS:258150` |              1 | [EFO:0000279](http://www.ebi.ac.uk/efo/EFO_0000279)                                                      |
-| `OMIMPS:192600` |              1 | [EFO:0000538](http://www.ebi.ac.uk/efo/EFO_0000538)                                                      |
 | `OMIMPS:189800` |              1 | [EFO:0000668](http://www.ebi.ac.uk/efo/EFO_0000668)                                                      |
 | `OMIMPS:177900` |              1 | [EFO:0000676](http://www.ebi.ac.uk/efo/EFO_0000676)                                                      |
 | `OMIMPS:212750` |              1 | [EFO:0001060](http://www.ebi.ac.uk/efo/EFO_0001060)                                                      |
@@ -573,7 +354,6 @@ did not match the standard pattern `^PS\d+$`.
 | `OMIMPS:167250` |              1 | [EFO:0004261](http://www.ebi.ac.uk/efo/EFO_0004261)                                                      |
 | `OMIMPS:102300` |              1 | [EFO:0004270](http://www.ebi.ac.uk/efo/EFO_0004270)                                                      |
 | `OMIMPS:143890` |              1 | [EFO:0004911](http://www.ebi.ac.uk/efo/EFO_0004911)                                                      |
-| `OMIMPS:600165` |              1 | [EFO:0005569](http://www.ebi.ac.uk/efo/EFO_0005569)                                                      |
 | `OMIMPS:600669` |              1 | [EFO:0005917](http://www.ebi.ac.uk/efo/EFO_0005917)                                                      |
 | `OMIMPS:305400` |              1 | [EFO:0009297](http://www.ebi.ac.uk/efo/EFO_0009297)                                                      |
 | `OMIMPS:153600` |              1 | [EFO:0009441](http://www.ebi.ac.uk/efo/EFO_0009441)                                                      |
@@ -584,26 +364,51 @@ did not match the standard pattern `^PS\d+$`.
 
 ## `ORDO`: Orphanet Rare Disease Ontology
 
-Overall, there were 13 invalid
+Overall, there were 39 invalid
 xrefs to external prefixed with `ORDO` (standardized to Bioregistry
 prefix [`orphanet.ordo`](https://bioregistry.io/orphanet.ordo)) that
 did not match the standard pattern `^C?\d+$`.
 
-| external_xref   |   usages_count | usages                                              |
-|-----------------|----------------|-----------------------------------------------------|
-| `ORDO:183`      |              1 | [EFO:0007208](http://www.ebi.ac.uk/efo/EFO_0007208) |
-| `ORDO:99879`    |              1 | [EFO:0008506](http://www.ebi.ac.uk/efo/EFO_0008506) |
-| `ORDO:99878`    |              1 | [EFO:0008519](http://www.ebi.ac.uk/efo/EFO_0008519) |
-| `ORDO:767`      |              1 | [EFO:0009012](http://www.ebi.ac.uk/efo/EFO_0009012) |
-| `ORDO:178493`   |              1 | [EFO:0009201](http://www.ebi.ac.uk/efo/EFO_0009201) |
-| `ORDO:137810`   |              1 | [EFO:1001882](http://www.ebi.ac.uk/efo/EFO_1001882) |
-| `ORDO:81`       |              1 | [EFO:1001982](http://www.ebi.ac.uk/efo/EFO_1001982) |
-| `ORDO:466775`   |              1 | [EFO:1001983](http://www.ebi.ac.uk/efo/EFO_1001983) |
-| `ORDO:45358`    |              1 | [EFO:1001985](http://www.ebi.ac.uk/efo/EFO_1001985) |
-| `ORDO:447881`   |              1 | [EFO:1001987](http://www.ebi.ac.uk/efo/EFO_1001987) |
-| `ORDO:65684`    |              1 | [EFO:1001989](http://www.ebi.ac.uk/efo/EFO_1001989) |
-| `ORDO:431255`   |              1 | [EFO:1001992](http://www.ebi.ac.uk/efo/EFO_1001992) |
-| `ORDO:869`      |              1 | [EFO:1001997](http://www.ebi.ac.uk/efo/EFO_1001997) |
+| external_xref          |   usages_count | usages                                                                                                   |
+|------------------------|----------------|----------------------------------------------------------------------------------------------------------|
+| `ORDO:Orphanet_71273`  |              2 | [EFO:1001838](http://www.ebi.ac.uk/efo/EFO_1001838), [EFO:1001915](http://www.ebi.ac.uk/efo/EFO_1001915) |
+| `ORDO:Orphanet_803`    |              1 | [EFO:0000253](http://www.ebi.ac.uk/efo/EFO_0000253)                                                      |
+| `ORDO:Orphanet_217569` |              1 | [EFO:0000538](http://www.ebi.ac.uk/efo/EFO_0000538)                                                      |
+| `ORDO:Orphanet_3386`   |              1 | [EFO:0008559](http://www.ebi.ac.uk/efo/EFO_0008559)                                                      |
+| `ORDO:Orphanet_454710` |              1 | [EFO:0008597](http://www.ebi.ac.uk/efo/EFO_0008597)                                                      |
+| `ORDO:Orphanet_79481`  |              1 | [EFO:0008601](http://www.ebi.ac.uk/efo/EFO_0008601)                                                      |
+| `ORDO:Orphanet_63455`  |              1 | [EFO:0008602](http://www.ebi.ac.uk/efo/EFO_0008602)                                                      |
+| `ORDO:Orphanet_79480`  |              1 | [EFO:0008603](http://www.ebi.ac.uk/efo/EFO_0008603)                                                      |
+| `ORDO:Orphanet_46486`  |              1 | [EFO:1000680](http://www.ebi.ac.uk/efo/EFO_1000680)                                                      |
+| `ORDO:Orphanet_107`    |              1 | [EFO:1001251](http://www.ebi.ac.uk/efo/EFO_1001251)                                                      |
+| `ORDO:Orphanet_1457`   |              1 | [EFO:1001267](http://www.ebi.ac.uk/efo/EFO_1001267)                                                      |
+| `ORDO:Orphanet_36205`  |              1 | [EFO:1001293](http://www.ebi.ac.uk/efo/EFO_1001293)                                                      |
+| `ORDO:Orphanet_65279`  |              1 | [EFO:1001294](http://www.ebi.ac.uk/efo/EFO_1001294)                                                      |
+| `ORDO:Orphanet_58220`  |              1 | [EFO:1001295](http://www.ebi.ac.uk/efo/EFO_1001295)                                                      |
+| `ORDO:Orphanet_86864`  |              1 | [EFO:1001341](http://www.ebi.ac.uk/efo/EFO_1001341)                                                      |
+| `ORDO:Orphanet_33543`  |              1 | [EFO:1001354](http://www.ebi.ac.uk/efo/EFO_1001354)                                                      |
+| `ORDO:Orphanet_158011` |              1 | [EFO:1001376](http://www.ebi.ac.uk/efo/EFO_1001376)                                                      |
+| `ORDO:Orphanet_1183`   |              1 | [EFO:1001383](http://www.ebi.ac.uk/efo/EFO_1001383)                                                      |
+| `ORDO:Orphanet_3392`   |              1 | [EFO:1001444](http://www.ebi.ac.uk/efo/EFO_1001444)                                                      |
+| `ORDO:Orphanet_879`    |              1 | [EFO:1001445](http://www.ebi.ac.uk/efo/EFO_1001445)                                                      |
+| `ORDO:Orphanet_662`    |              1 | [EFO:1001452](http://www.ebi.ac.uk/efo/EFO_1001452)                                                      |
+| `ORDO:Orphanet_168956` |              1 | [EFO:1001467](http://www.ebi.ac.uk/efo/EFO_1001467)                                                      |
+| `ORDO:Orphanet_217720` |              1 | [EFO:1001473](http://www.ebi.ac.uk/efo/EFO_1001473)                                                      |
+| `ORDO:Orphanet_188`    |              1 | [EFO:1001477](http://www.ebi.ac.uk/efo/EFO_1001477)                                                      |
+| `ORDO:Orphanet_963`    |              1 | [EFO:1001485](http://www.ebi.ac.uk/efo/EFO_1001485)                                                      |
+| `ORDO:Orphanet_228119` |              1 | [EFO:1001795](http://www.ebi.ac.uk/efo/EFO_1001795)                                                      |
+| `ORDO:Orphanet_158061` |              1 | [EFO:1001806](http://www.ebi.ac.uk/efo/EFO_1001806)                                                      |
+| `ORDO:Orphanet_306682` |              1 | [EFO:1001808](http://www.ebi.ac.uk/efo/EFO_1001808)                                                      |
+| `ORDO:Orphanet_221074` |              1 | [EFO:1001809](http://www.ebi.ac.uk/efo/EFO_1001809)                                                      |
+| `ORDO:Orphanet_137617` |              1 | [EFO:1001814](http://www.ebi.ac.uk/efo/EFO_1001814)                                                      |
+| `ORDO:Orphanet_157835` |              1 | [EFO:1001822](http://www.ebi.ac.uk/efo/EFO_1001822)                                                      |
+| `ORDO:Orphanet_43116`  |              1 | [EFO:1001842](http://www.ebi.ac.uk/efo/EFO_1001842)                                                      |
+| `ORDO:Orphanet_36236`  |              1 | [EFO:1001849](http://www.ebi.ac.uk/efo/EFO_1001849)                                                      |
+| `ORDO:Orphanet_838`    |              1 | [EFO:1001856](http://www.ebi.ac.uk/efo/EFO_1001856)                                                      |
+| `ORDO:Orphanet_3287`   |              1 | [EFO:1001857](http://www.ebi.ac.uk/efo/EFO_1001857)                                                      |
+| `ORDO:Orphanet_83467`  |              1 | [EFO:1001897](http://www.ebi.ac.uk/efo/EFO_1001897)                                                      |
+| `ORDO:Orphanet_85414`  |              1 | [EFO:1001999](http://www.ebi.ac.uk/efo/EFO_1001999)                                                      |
+| `ORDO:Orphanet_66529`  |              1 | [EFO:1002000](http://www.ebi.ac.uk/efo/EFO_1002000)                                                      |
 
 ## `PMID`: PubMed
 
@@ -684,7 +489,7 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `UMLS`: Unified Medical Language System Concept Unique Identifier
 
-Overall, there were 88 invalid
+Overall, there were 92 invalid
 xrefs to external prefixed with `UMLS` (standardized to Bioregistry
 prefix [`umls`](https://bioregistry.io/umls)) that
 did not match the standard pattern `^C\d+$`.
@@ -743,11 +548,15 @@ did not match the standard pattern `^C\d+$`.
 | `UMLS:CN239183` |              1 | [EFO:0009039](http://www.ebi.ac.uk/efo/EFO_0009039) |
 | `UMLS:CN202862` |              1 | [EFO:0009068](http://www.ebi.ac.uk/efo/EFO_0009068) |
 | `UMLS:CN240512` |              1 | [EFO:0009068](http://www.ebi.ac.uk/efo/EFO_0009068) |
+| `UMLS:CN671932` |              1 | [EFO:0009152](http://www.ebi.ac.uk/efo/EFO_0009152) |
 | `UMLS:CN237682` |              1 | [EFO:0009160](http://www.ebi.ac.uk/efo/EFO_0009160) |
 | `UMLS:CN237555` |              1 | [EFO:0009199](http://www.ebi.ac.uk/efo/EFO_0009199) |
 | `UMLS:CN226092` |              1 | [EFO:0009266](http://www.ebi.ac.uk/efo/EFO_0009266) |
 | `UMLS:CN737161` |              1 | [EFO:0009300](http://www.ebi.ac.uk/efo/EFO_0009300) |
 | `UMLS:CN237671` |              1 | [EFO:0009553](http://www.ebi.ac.uk/efo/EFO_0009553) |
+| `UMLS:CN226018` |              1 | [EFO:0009646](http://www.ebi.ac.uk/efo/EFO_0009646) |
+| `UMLS:CN226030` |              1 | [EFO:0009646](http://www.ebi.ac.uk/efo/EFO_0009646) |
+| `UMLS:CN226270` |              1 | [EFO:0009646](http://www.ebi.ac.uk/efo/EFO_0009646) |
 | `UMLS:CN072436` |              1 | [EFO:0009907](http://www.ebi.ac.uk/efo/EFO_0009907) |
 | `UMLS:CN206246` |              1 | [EFO:0010580](http://www.ebi.ac.uk/efo/EFO_0010580) |
 | `UMLS:CN226945` |              1 | [EFO:1000015](http://www.ebi.ac.uk/efo/EFO_1000015) |
@@ -782,7 +591,7 @@ did not match the standard pattern `^C\d+$`.
 
 ## `Wikipedia`: Wikipedia
 
-Overall, there were 17 invalid
+Overall, there were 20 invalid
 xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
 prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
 did not match the standard pattern `^[A-Za-z-0-9_]+$`.
@@ -790,7 +599,10 @@ did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 | external_xref                                                         |   usages_count | usages                                                                                                   |
 |-----------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------|
 | `Wikipedia:Single cell sequencing`                                    |              2 | [EFO:0008913](http://www.ebi.ac.uk/efo/EFO_0008913), [EFO:0008913](http://www.ebi.ac.uk/efo/EFO_0008913) |
+| `Wikipedia:Caplan%27s_syndrome`                                       |              1 | [EFO:0007192](http://www.ebi.ac.uk/efo/EFO_0007192)                                                      |
 | `Wikipedia:Multiple_displacement_amplification#Phi_29_DNA_polymerase` |              1 | [EFO:0008864](http://www.ebi.ac.uk/efo/EFO_0008864)                                                      |
+| `Wikipedia:Niemann%E2%80%93Pick_disease`                              |              1 | [EFO:1001380](http://www.ebi.ac.uk/efo/EFO_1001380)                                                      |
+| `Wikipedia:Chronic_fatigue_syndrome#Naming`                           |              1 | [EFO:0004540](http://www.ebi.ac.uk/efo/EFO_0004540)                                                      |
 | `Wikipedia:Hashimoto's_thyroiditis`                                   |              1 | [EFO:0003779](http://www.ebi.ac.uk/efo/EFO_0003779)                                                      |
 | `Wikipedia:Darier%27s_disease`                                        |              1 | [EFO:0004124](http://www.ebi.ac.uk/efo/EFO_0004124)                                                      |
 | `Wikipedia:Iodine-131#Treatment_of_thyroid_cancer`                    |              1 | [EFO:0009600](http://www.ebi.ac.uk/efo/EFO_0009600)                                                      |

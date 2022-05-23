@@ -15,6 +15,17 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------|----------------|---------------------------------------------------------|
 | `BTO:000125`    |              1 | [CL:1000398](http://purl.obolibrary.org/obo/CL_1000398) |
 
+## `CARO`: Common Anatomy Reference Ontology
+
+Overall, there were 2 invalid
+xrefs to external prefixed with `CARO` (standardized to Bioregistry
+prefix [`caro`](https://bioregistry.io/caro)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                                                                           |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `CARO:mah`      |              2 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000), [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) |
+
 ## `CL`: Cell Ontology
 
 Overall, there were 22 invalid
@@ -108,6 +119,17 @@ did not match the standard pattern `^ENSG\d{11}$`.
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `HPA:HPA`       |              6 | [CL:1001586](http://purl.obolibrary.org/obo/CL_1001586), [CL:1001591](http://purl.obolibrary.org/obo/CL_1001591), [CL:1001593](http://purl.obolibrary.org/obo/CL_1001593), [CL:1001596](http://purl.obolibrary.org/obo/CL_1001596), [CL:1001599](http://purl.obolibrary.org/obo/CL_1001599), ... |
 | `HPA:Breast`    |              1 | [CL:1001583](http://purl.obolibrary.org/obo/CL_1001583)                                                                                                                                                                                                                                          |
+
+## `KUPO`: Kidney and Urinary Pathway Ontology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `KUPO` (standardized to Bioregistry
+prefix [`kupo`](https://bioregistry.io/kupo)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `KUPO:SJ`       |              1 | [CL:0002518](http://purl.obolibrary.org/obo/CL_0002518) |
 
 ## `MA`: Mouse adult gross anatomy
 
@@ -272,6 +294,17 @@ did not match the standard pattern `^\d+$`.
 | external_xref    |   usages_count | usages                                                  |
 |------------------|----------------|---------------------------------------------------------|
 | `PMID:10102814j` |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
+
+## `ReO`: Reagent Ontology
+
+Overall, there were 7 invalid
+xrefs to external prefixed with `ReO` (standardized to Bioregistry
+prefix [`reo`](https://bioregistry.io/reo)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `ReO:mhb`       |              7 | [CL:0000001](http://purl.obolibrary.org/obo/CL_0000001), [CL:0000002](http://purl.obolibrary.org/obo/CL_0000002), [CL:0000010](http://purl.obolibrary.org/obo/CL_0000010), [CL:0000578](http://purl.obolibrary.org/obo/CL_0000578), [CL:0001034](http://purl.obolibrary.org/obo/CL_0001034), ... |
 
 ## `SGD`: Saccharomyces Genome Database
 

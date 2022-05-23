@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `omim`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 6 resources,
+`^\d+$`. Of the 7 resources,
 1 variants on the standard prefix were found: ['OMIM'].
 
 ## `bao`: BioAssay Ontology
@@ -370,6 +370,14 @@ Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub rep
 | `OMIM:PS211400` |              1 | [DOID:9563](http://purl.obolibrary.org/obo/DOID_9563)       |
 | `OMIM:PS310700` |              1 | [DOID:9649](http://purl.obolibrary.org/obo/DOID_9649)       |
 | `OMIM:PS203655` |              1 | [DOID:987](http://purl.obolibrary.org/obo/DOID_987)         |
+
+## `efo`: Experimental Factor Ontology
+
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `OMIM:genemap2` |             56 | [EFO:0000174](http://www.ebi.ac.uk/efo/EFO_0000174), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000198](http://www.ebi.ac.uk/efo/EFO_0000198), ... |
 
 ## `hp`: Human Phenotype Ontology
 

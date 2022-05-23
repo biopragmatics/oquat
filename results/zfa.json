@@ -3,14 +3,35 @@
     "graph_id": "http://purl.obolibrary.org/obo/zfa.owl",
     "prov_pack": {
       "invalid_luids": {
+        "http://purl.obolibrary.org/obo/ZFA_0000108": [
+          "TAO:WD"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0000167": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0000239": [
+          "TAO:WD"
+        ],
         "http://purl.obolibrary.org/obo/ZFA_0000259": [
           "ZFIN:<new dbxref>"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0000271": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0000277": [
+          "TAO:WD"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0000332": [
+          "TAO:GA_TG"
         ],
         "http://purl.obolibrary.org/obo/ZFA_0000344": [
           "ZFIN:<new dbxref>"
         ],
         "http://purl.obolibrary.org/obo/ZFA_0000400": [
           "ZFIN:<new dbxref>"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0000407": [
+          "TAO:WD"
         ],
         "http://purl.obolibrary.org/obo/ZFA_0000424": [
           "ZFIN:<new dbxref>"
@@ -21,11 +42,39 @@
         "http://purl.obolibrary.org/obo/ZFA_0000464": [
           "ZFIN:<new dbxref>"
         ],
+        "http://purl.obolibrary.org/obo/ZFA_0000508": [
+          "TAO:curator"
+        ],
         "http://purl.obolibrary.org/obo/ZFA_0000524": [
           "ZFIN:<new dbxref>"
         ],
+        "http://purl.obolibrary.org/obo/ZFA_0000565": [
+          "TAO:WD"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0000583": [
+          "TAO:GA_TG"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0000594": [
+          "TAO:GA_TG",
+          "TAO:WD"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0000602": [
+          "TAO:WD"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0000612": [
+          "TAO:WD"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0000623": [
+          "TAO:curator"
+        ],
         "http://purl.obolibrary.org/obo/ZFA_0000632": [
           "UBERON:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0000660": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0000663": [
+          "TAO:curator"
         ],
         "http://purl.obolibrary.org/obo/ZFA_0000678": [
           "MESH:68018069"
@@ -36,8 +85,74 @@
         "http://purl.obolibrary.org/obo/ZFA_0000833": [
           "ORCiD:000-0002-9900-7880"
         ],
+        "http://purl.obolibrary.org/obo/ZFA_0000862": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0000943": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001123": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001124": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001161": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001162": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001167": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001168": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001169": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001170": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001184": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001520": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001527": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001581": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001586": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001587": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001588": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001589": [
+          "TAO:Curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001645": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001646": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001647": [
+          "TAO:curator"
+        ],
         "http://purl.obolibrary.org/obo/ZFA_0001679": [
           "ORCiD:CVS"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0001689": [
+          "CARO:MAH"
         ],
         "http://purl.obolibrary.org/obo/ZFA_0001691": [
           "CL:curator"
@@ -60,6 +175,21 @@
         "http://purl.obolibrary.org/obo/ZFA_0005245": [
           "CL:curator"
         ],
+        "http://purl.obolibrary.org/obo/ZFA_0005262": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005263": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005264": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005265": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005314": [
+          "vHOG:curator"
+        ],
         "http://purl.obolibrary.org/obo/ZFA_0005328": [
           "CL:curator"
         ],
@@ -72,8 +202,401 @@
         "http://purl.obolibrary.org/obo/ZFA_0005332": [
           "CL:curator"
         ],
+        "http://purl.obolibrary.org/obo/ZFA_0005364": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005386": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005387": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005388": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005389": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005390": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005391": [
+          "TAO:WD"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005393": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005394": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005395": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005396": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005397": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005398": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005406": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005407": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005408": [
+          "TAO:WD"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005418": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005419": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005420": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005421": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005422": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005423": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005424": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005426": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005427": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005428": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005429": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005430": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005431": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005432": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005433": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005434": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005442": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005443": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005444": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005445": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005447": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005449": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005451": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005457": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005458": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005464": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005465": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005466": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005467": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005468": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005469": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005470": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005471": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005472": [
+          "TAO:WD"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005473": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005474": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005475": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005476": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005477": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005478": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005479": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005480": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005481": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005482": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005483": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005484": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005485": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005486": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005487": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005488": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005495": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005496": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005497": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005498": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005499": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005501": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005502": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005503": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005504": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005505": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005506": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005508": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005509": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005510": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005511": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005512": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005513": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005514": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005515": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005516": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005517": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005518": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005519": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005520": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005521": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005522": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005523": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005524": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005525": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005526": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005527": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005528": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005529": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005530": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005531": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005532": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005533": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005535": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005537": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005538": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005539": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005540": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005541": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005542": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005543": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005544": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005545": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005546": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005547": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005548": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005549": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005550": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005551": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005552": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005553": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005558": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005560": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005594": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005595": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005596": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005597": [
+          "TAO:curator"
+        ],
         "http://purl.obolibrary.org/obo/ZFA_0005599": [
           "CL:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005624": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005637": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005648": [
+          "TAO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0005649": [
+          "TAO:curator"
         ],
         "http://purl.obolibrary.org/obo/ZFA_0005658": [
           "UBERON:curator"
@@ -104,6 +627,9 @@
         ],
         "http://purl.obolibrary.org/obo/ZFA_0007089": [
           "CL:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0009000": [
+          "CARO:MAH"
         ],
         "http://purl.obolibrary.org/obo/ZFA_0009002": [
           "CL:curator"
@@ -551,6 +1077,9 @@
         ],
         "http://purl.obolibrary.org/obo/ZFA_0009369": [
           "CL:curator"
+        ],
+        "http://purl.obolibrary.org/obo/ZFA_0009374": [
+          "KUPO:SJ"
         ],
         "http://purl.obolibrary.org/obo/ZFA_0009375": [
           "CL:CVS"

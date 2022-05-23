@@ -49,6 +49,9 @@
         "http://purl.obolibrary.org/obo/VTO_0036532": [
           "TTO:curator"
         ],
+        "http://purl.obolibrary.org/obo/VTO_0036591": [
+          "TAO:curator"
+        ],
         "http://purl.obolibrary.org/obo/VTO_0036594": [
           "TTO:curator"
         ],
