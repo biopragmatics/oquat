@@ -2,14 +2,20 @@
 # OBO Analysis
 
 This analysis shows which OBO Foundry ontologies are conforming to
-required and suggested practices in versioning of ontologies.
+required and suggested practices in versioning of ontologies. This
+table has the following columns:
 
 1. The prefix of the ontology
-2. Has a version IRI
-3. Version IRI contains either a semantic version string or YYYY-MM-DD date version string
-4. Version IRI follows pattern `http://purl.obolibrary.org/obo/<prefix>/releases/<trailing stuff>`
-5. Has a version, annotated with `http://www.w3.org/2002/07/owl#versionInfo`
-6. The version appears in the version IRI
+2. Has a version IRI (129/149, 86.6%)
+3. Has a version IRI that contains either a semantic version string or `YYYY-MM-DD` date version string
+   (124/149, 83.2%)
+4. Has a version IRI that follows the standard pattern 
+   `http://purl.obolibrary.org/obo/<prefix>/releases/<trailing stuff>`
+   (82/149, 55.0%)
+5. Has a version annotated with `http://www.w3.org/2002/07/owl#versionInfo`
+   (59/149, 39.6%)
+6. Has a version that appears in the version IRI
+   (39/149, 26.2%)
 
 | source                                                    | version iri                                                                    | version iri has version   | version iri is standard   | version                                                            | version in iri   |
 |-----------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------|---------------------------|--------------------------------------------------------------------|------------------|
