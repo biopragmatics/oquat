@@ -45,6 +45,14 @@
 | GOC:mtg_lung         |        1 | [UBERON:0022361](http://purl.obolibrary.org/obo/UBERON_0022361)                                                                                                                                                                                                                                                                          |
 | GOC:mtg_sensu        |        1 | [UBERON:4000021](http://purl.obolibrary.org/obo/UBERON_4000021)                                                                                                                                                                                                                                                                          |
 
+## pr
+
+| curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                |
+|---------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| GOC:add |       64 | [PR:000001017](http://purl.obolibrary.org/obo/PR_000001017), [PR:000045687](http://purl.obolibrary.org/obo/PR_000045687), [PR:000045882](http://purl.obolibrary.org/obo/PR_000045882), [PR:000048075](http://purl.obolibrary.org/obo/PR_000048075), [PR:000050157](http://purl.obolibrary.org/obo/PR_000050157), ... |
+| GOC:krc |        4 | [PR:000050232](http://purl.obolibrary.org/obo/PR_000050232), [PR:000050233](http://purl.obolibrary.org/obo/PR_000050233), [PR:000050234](http://purl.obolibrary.org/obo/PR_000050234), [PR:Q3V365](http://purl.obolibrary.org/obo/PR_Q3V365)                                                                         |
+| GOC:jl  |        2 | [PR:000050196](http://purl.obolibrary.org/obo/PR_000050196), [PR:000050200](http://purl.obolibrary.org/obo/PR_000050200)                                                                                                                                                                                             |
+
 ## go
 
 | curie                              |   usages | nodes                                                                                                                                                                                                                                                                                            |

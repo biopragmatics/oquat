@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `wikipedia.en`
 but use local unique identifiers that do not match the standard pattern of
-`^[A-Za-z-0-9_]+$`. Of the 19 resources,
+`^[A-Za-z-0-9_]+$`. Of the 20 resources,
 2 variants on the standard prefix were found: ['Wikipedia', 'wikipedia'].
 
 ## `bao`: BioAssay Ontology
@@ -862,6 +862,14 @@ Identifiers for this prefix are given incorrectly in `plana`. See the [GitHub re
 | external_xref                      |   usages_count | usages                                                        |
 |------------------------------------|----------------|---------------------------------------------------------------|
 | `Wikipedia:Regeneration:(biology)` |              1 | [PLANA:0000137](http://purl.obolibrary.org/obo/PLANA_0000137) |
+
+## `pr`: Protein Ontology
+
+Identifiers for this prefix are given incorrectly in `pr`. See the [GitHub repository](https://github.com/PROconsortium/PRoteinOntology).
+
+| external_xref                         |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
+|---------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `Wikipedia:Hemagglutinin_(influenza)` |             18 | [PR:000036957](http://purl.obolibrary.org/obo/PR_000036957), [PR:000036958](http://purl.obolibrary.org/obo/PR_000036958), [PR:000036959](http://purl.obolibrary.org/obo/PR_000036959), [PR:000036960](http://purl.obolibrary.org/obo/PR_000036960), [PR:000036961](http://purl.obolibrary.org/obo/PR_000036961), ... |
 
 ## `pw`: Pathway ontology
 

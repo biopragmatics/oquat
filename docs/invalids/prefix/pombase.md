@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `pombase`
 but use local unique identifiers that do not match the standard pattern of
-`^S\w+(\.)?\w+(\.)?$`. Of the 4 resources,
+`^S\w+(\.)?\w+(\.)?$`. Of the 5 resources,
 3 variants on the standard prefix were found: ['POMBASE', 'PomBase', 'Pombase'].
 
 ## `cmpo`: Cellular Microscopy Phenotype Ontology
@@ -43,6 +43,16 @@ Identifiers for this prefix are given incorrectly in `fypo`. See the [GitHub rep
 | `PomBase:pr`    |              1 | [FYPO:0005334](http://purl.obolibrary.org/obo/FYPO_0005334)                                                                                                                                                                                                                                                          |
 | `PomBase:mahle` |              1 | [FYPO:0007633](http://purl.obolibrary.org/obo/FYPO_0007633)                                                                                                                                                                                                                                                          |
 | `PomBase:sm`    |              1 | [FYPO:0007683](http://purl.obolibrary.org/obo/FYPO_0007683)                                                                                                                                                                                                                                                          |
+
+## `pr`: Protein Ontology
+
+Identifiers for this prefix are given incorrectly in `pr`. See the [GitHub repository](https://github.com/PROconsortium/PRoteinOntology).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
+|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `PomBase:VW`    |            103 | [PR:000036912](http://purl.obolibrary.org/obo/PR_000036912), [PR:000037031](http://purl.obolibrary.org/obo/PR_000037031), [PR:000037033](http://purl.obolibrary.org/obo/PR_000037033), [PR:000044611](http://purl.obolibrary.org/obo/PR_000044611), [PR:000044612](http://purl.obolibrary.org/obo/PR_000044612), ... |
+| `PomBase:MAH`   |             91 | [PR:000027503](http://purl.obolibrary.org/obo/PR_000027503), [PR:000027509](http://purl.obolibrary.org/obo/PR_000027509), [PR:000027512](http://purl.obolibrary.org/obo/PR_000027512), [PR:000027516](http://purl.obolibrary.org/obo/PR_000027516), [PR:000027520](http://purl.obolibrary.org/obo/PR_000027520), ... |
+| `PomBase:AL`    |              8 | [PR:000028992](http://purl.obolibrary.org/obo/PR_000028992), [PR:000036915](http://purl.obolibrary.org/obo/PR_000036915), [PR:000037296](http://purl.obolibrary.org/obo/PR_000037296), [PR:000037297](http://purl.obolibrary.org/obo/PR_000037297), [PR:000037316](http://purl.obolibrary.org/obo/PR_000037316), ... |
 
 ## `so`: Sequence types and features ontology
 

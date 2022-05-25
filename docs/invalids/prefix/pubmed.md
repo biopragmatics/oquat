@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `pubmed`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 22 resources,
+`^\d+$`. Of the 23 resources,
 4 variants on the standard prefix were found: ['Medline', 'PMID', 'PubMed', 'Pubmed'].
 
 ## `bto`: BRENDA tissue / enzyme source
@@ -167,6 +167,15 @@ Identifiers for this prefix are given incorrectly in `plana`. See the [GitHub re
 | `PMID: 29674432` |              1 | [PLANA:0003803](http://purl.obolibrary.org/obo/PLANA_0003803)                                                                |
 | `PMID: 29674433` |              1 | [PLANA:0003804](http://purl.obolibrary.org/obo/PLANA_0003804)                                                                |
 | `PMID: 22074376` |              1 | [PLANA:0002042](http://purl.obolibrary.org/obo/PLANA_0002042)                                                                |
+
+## `pr`: Protein Ontology
+
+Identifiers for this prefix are given incorrectly in `pr`. See the [GitHub repository](https://github.com/PROconsortium/PRoteinOntology).
+
+| external_xref               |   usages_count | usages                                                      |
+|-----------------------------|----------------|-------------------------------------------------------------|
+| `PMID:23842676PMID:8910387` |              1 | [PR:000049964](http://purl.obolibrary.org/obo/PR_000049964) |
+| `PMID:29593216P`            |              1 | [PR:000050233](http://purl.obolibrary.org/obo/PR_000050233) |
 
 ## `pw`: Pathway ontology
 

@@ -150,7 +150,6 @@ SKIP_PREFIXES = {
     "gaz",
     # Too big during development
     "ncbitaxon",
-    "pr",
     # Problem parsing both OWL and JSON
     "gsso",
     # Overwhelming amount of trash
