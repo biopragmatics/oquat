@@ -179,6 +179,11 @@ def analyze_by_prefix(
 ) -> AnalysisResults:
     """Analyze an ontology based on a given Bioregistry prefix."""
     parse_results = get_obograph_by_prefix(prefix)
+    if parse_results.graph_document is None:
+        return AnalysisResults(
+            results={},
+            messages=parse_results.messages,
+        )
     return AnalysisResults(
         results=analyze_graphs(parse_results.graph_document, iri_filter=iri_filter),
         messages=parse_results.messages,
@@ -417,7 +422,7 @@ def analyze(
         analysis_results = analyze_by_iri(iri, iri_filter=iri_filter)
     elif prefix is not None:
         norm_prefix = bioregistry.normalize_prefix(prefix)
-        if norm_prefix is not None:
+        if norm_prefix is None:
             secho(f"An invalid Bioregistry prefix was given: {prefix}")
             return sys.exit(-1)
         iri_filter = coalesce_filters(norm_prefix, iri_filter, obo_filter)

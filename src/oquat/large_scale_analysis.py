@@ -28,6 +28,7 @@ from .api import (
 
 __all__ = [
     "lsa",
+    "lsa_artifacts",
 ]
 
 HERE = Path(__file__).parent.resolve()
@@ -59,6 +60,13 @@ def lsa(force: bool, minimum: Optional[str]):
         _lsa(force=force, minimum=minimum)
 
 
+@click.command()
+@verbose_option
+def lsa_artifacts():
+    """Generate large-scale ontology analyis artifacts."""
+    _generate_artifacts()
+
+
 def _lsa(force: bool, minimum: Optional[str]):
     rows = sorted(
         (
@@ -75,7 +83,6 @@ def _lsa(force: bool, minimum: Optional[str]):
     )
     results = []
     failures = []
-    messages = []
 
     def _failure(*, prefix: str, text: str, fg: str = "red") -> None:
         _text = f"{prefix} - {text}"
@@ -100,19 +107,20 @@ def _lsa(force: bool, minimum: Optional[str]):
             failure_text = f"Invalid OBO URL: {obo_url}"
             _failure(prefix=prefix, text=failure_text)
             continue
-        text = f"analyzing {prefix}"
-        if bioregistry.is_deprecated(prefix):
-            text = f"{text} (⚠️  deprecated)"
-        tqdm.write(text)
+
         analysis_path = RESULTS.joinpath(prefix).with_suffix(".json")
         if analysis_path.is_file() and not force:
+            tqdm.write(f"loading results from {analysis_path}")
             result = {k: Results(**v) for k, v in json.loads(analysis_path.read_text()).items()}
         else:
+            _iri_filter = iri_filter or CUSTOM_FILTERS.get(prefix)
+            text = f"analyzing {prefix} with IRI filter {_iri_filter}"
+            if bioregistry.is_deprecated(prefix):
+                text = f"{text} (⚠️  deprecated)"
+            tqdm.write(text)
             result = None
             try:
-                analysis_results = analyze_by_prefix(
-                    prefix, iri_filter=iri_filter or CUSTOM_FILTERS.get(prefix)
-                )
+                analysis_results = analyze_by_prefix(prefix, iri_filter=_iri_filter)
             except urllib.error.URLError:
                 failure_text = "Could not be downloaded"
                 _failure(prefix=prefix, text=failure_text)
@@ -134,7 +142,10 @@ def _lsa(force: bool, minimum: Optional[str]):
                     secho(f"> {message}", fg="yellow")
 
             # secho(f"{prefix} writing results to {analysis_path}")
-            if result is not None:
+            if not result:
+                _failure(prefix=prefix, text="No parsable graphs")
+            else:
+                tqdm.write(f"writing {prefix} to {analysis_path}")
                 analysis_path.write_text(
                     json.dumps(
                         result,
@@ -146,20 +157,16 @@ def _lsa(force: bool, minimum: Optional[str]):
                 )
 
         results.append((prefix, result))
-        if result is None:
-            pass
-        # elif result.unknown_prefixes or result.malformed_curies:
-        #     secho(f"prefix: {prefix} has issues", fg="yellow")
-        # it.write(result.as_str())
 
     FAILURES_PATH.write_text(
         "# Failures\n\n"
         + tabulate(failures, headers=["prefix", "message"], tablefmt="github")
         + "\n"
     )
-    # template = environment.get_template("invalid_xrefs.md")
-    # OUTPUT.write_text(template.render(results=results, bioregistry=bioregistry))
+    _generate_artifacts()
 
+
+def _generate_artifacts():
     from . import analyze_invalids, analyze_unknowns, analyze_versions
 
     analyze_invalids.main()

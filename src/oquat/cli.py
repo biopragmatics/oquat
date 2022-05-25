@@ -34,6 +34,7 @@ def main():
 
 main.add_command(api.analyze)
 main.add_command(large_scale_analysis.lsa)
+main.add_command(large_scale_analysis.lsa_artifacts)
 
 if __name__ == "__main__":
     main()
