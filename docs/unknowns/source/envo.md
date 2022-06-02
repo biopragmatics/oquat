@@ -1,92 +1,137 @@
 # envo
 
-## `ADL`
+## `ADL` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ADL)
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ADL:FTT |      200 | [ENVO:00000003](http://purl.obolibrary.org/obo/ENVO_00000003), [ENVO:00000004](http://purl.obolibrary.org/obo/ENVO_00000004), [ENVO:00000005](http://purl.obolibrary.org/obo/ENVO_00000005), [ENVO:00000006](http://purl.obolibrary.org/obo/ENVO_00000006), [ENVO:00000007](http://purl.obolibrary.org/obo/ENVO_00000007), ... |
 
-## `ENVOC`
+## `ENVOC` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ENVOC)
 
 | curie    |   usages | nodes                                                         |
 |----------|----------|---------------------------------------------------------------|
 | ENVOC:nm |        1 | [ENVO:00000338](http://purl.obolibrary.org/obo/ENVO_00000338) |
 
-## `GEMINA`
+## `GEMINA` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GEMINA)
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                      |
 |-----------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | GEMINA:ag |        4 | [ENVO:02000000](http://purl.obolibrary.org/obo/ENVO_02000000), [ENVO:02000001](http://purl.obolibrary.org/obo/ENVO_02000001), [ENVO:02000002](http://purl.obolibrary.org/obo/ENVO_02000002), [ENVO:02000003](http://purl.obolibrary.org/obo/ENVO_02000003) |
 | GEMINA:ls |        1 | [ENVO:00000338](http://purl.obolibrary.org/obo/ENVO_00000338)                                                                                                                                                                                              |
 
-## `GOC`
+## `GOC` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
 
 | curie         |   usages | nodes                                                                                                                        |
 |---------------|----------|------------------------------------------------------------------------------------------------------------------------------|
 | GOC:TermGenie |        2 | [ENVO:08000001](http://purl.obolibrary.org/obo/ENVO_08000001), [ENVO:08000002](http://purl.obolibrary.org/obo/ENVO_08000002) |
 
-## `Gemina`
+## `Gemina` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gemina)
 
 | curie     |   usages | nodes                                                         |
 |-----------|----------|---------------------------------------------------------------|
 | Gemina:ls |        1 | [ENVO:02000035](http://purl.obolibrary.org/obo/ENVO_02000035) |
 
-## `INTERNAS`
+## `INTERNAS` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20INTERNAS)
 
 | curie        |   usages | nodes                                                                                                                        |
 |--------------|----------|------------------------------------------------------------------------------------------------------------------------------|
 | INTERNAS:WS2 |        2 | [ENVO:01001499](http://purl.obolibrary.org/obo/ENVO_01001499), [ENVO:01001500](http://purl.obolibrary.org/obo/ENVO_01001500) |
 
-## `IPCC`
+## `IPCC` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IPCC)
 
 | curie                                         |   usages | nodes                                                         |
 |-----------------------------------------------|----------|---------------------------------------------------------------|
 | IPCC:http://www.ipcc.ie/infoblanketbogfs.html |        1 | [ENVO:00000511](http://purl.obolibrary.org/obo/ENVO_00000511) |
 
-## `NM`
+## `NM` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NM)
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | NM:nm   |       14 | [ENVO:00000144](http://purl.obolibrary.org/obo/ENVO_00000144), [ENVO:00000568](http://purl.obolibrary.org/obo/ENVO_00000568), [ENVO:00000569](http://purl.obolibrary.org/obo/ENVO_00000569), [ENVO:00000570](http://purl.obolibrary.org/obo/ENVO_00000570), [ENVO:00000571](http://purl.obolibrary.org/obo/ENVO_00000571), ... |
 
-## `PATOC`
+## `PATOC` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PATOC)
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | PATOC:cjm |        5 | [ENVO:00006776](http://purl.obolibrary.org/obo/ENVO_00006776), [ENVO:00009001](http://purl.obolibrary.org/obo/ENVO_00009001), [ENVO:00009002](http://purl.obolibrary.org/obo/ENVO_00009002), [ENVO:00009003](http://purl.obolibrary.org/obo/ENVO_00009003), [ENVO:00009004](http://purl.obolibrary.org/obo/ENVO_00009004), ... |
 
-## `URL`
+## `URL` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL)
 
 | curie                                      |   usages | nodes                                                         |
 |--------------------------------------------|----------|---------------------------------------------------------------|
 | URL:http://aims.fao.org/aos/agrovoc/c_5998 |        1 | [ENVO:01000404](http://purl.obolibrary.org/obo/ENVO_01000404) |
 
-## `USGS`
+## `USGS` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USGS)
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | USGS:SDTS |      182 | [ENVO:00000011](http://purl.obolibrary.org/obo/ENVO_00000011), [ENVO:00000016](http://purl.obolibrary.org/obo/ENVO_00000016), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), [ENVO:00000020](http://purl.obolibrary.org/obo/ENVO_00000020), [ENVO:00000022](http://purl.obolibrary.org/obo/ENVO_00000022), ... |
 
-## `WWW`
+## `WWW` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WWW)
 
 | curie                                                                  |   usages | nodes                                                                                                                        |
 |------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
 | WWW:http://www.earthonlinemedia.com/ebooks/tpe_3e/title_page.html      |        2 | [ENVO:01000183](http://purl.obolibrary.org/obo/ENVO_01000183), [ENVO:01000184](http://purl.obolibrary.org/obo/ENVO_01000184) |
 | WWW:http://www.fs.fed.us/land/ecosysmgmt/colorimagemap/images/340.html |        1 | [ENVO:01000182](http://purl.obolibrary.org/obo/ENVO_01000182)                                                                |
 
-## `Wiktionary`
+## `Wiktionary` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiktionary)
 
 | curie            |   usages | nodes                                                         |
 |------------------|----------|---------------------------------------------------------------|
 | Wiktionary:layer |        1 | [ENVO:01000281](http://purl.obolibrary.org/obo/ENVO_01000281) |
 
-## `webpage`
+## `webpage` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20webpage)
 
 | curie                                                         |   usages | nodes                                                         |
 |---------------------------------------------------------------|----------|---------------------------------------------------------------|
 | webpage:http://www.venturedeepocean.org/vents/stretching.html |        1 | [ENVO:00002277](http://purl.obolibrary.org/obo/ENVO_00002277) |
 
-## `wiki`
+## `wiki` (4)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wiki)
 
 | curie                                                     |   usages | nodes                                                         |
 |-----------------------------------------------------------|----------|---------------------------------------------------------------|
@@ -95,25 +140,37 @@
 | wiki:http\://en.wikipedia.org/wiki/Volcanic_arc           |        1 | [ENVO:00000352](http://purl.obolibrary.org/obo/ENVO_00000352) |
 | wiki:http://www.webref.org/geology/g/geothermal_field.htm |        1 | [ENVO:00000373](http://purl.obolibrary.org/obo/ENVO_00000373) |
 
-## `Genomes`
+## `Genomes` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Genomes)
 
 | curie           |   usages | nodes                                                         |
 |-----------------|----------|---------------------------------------------------------------|
 | Genomes:fissure |        1 | [ENVO:01000667](http://purl.obolibrary.org/obo/ENVO_01000667) |
 
-## `Getty`
+## `Getty` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Getty)
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Getty:TGN |       75 | [ENVO:00000004](http://purl.obolibrary.org/obo/ENVO_00000004), [ENVO:00000005](http://purl.obolibrary.org/obo/ENVO_00000005), [ENVO:00000006](http://purl.obolibrary.org/obo/ENVO_00000006), [ENVO:00000007](http://purl.obolibrary.org/obo/ENVO_00000007), [ENVO:00000008](http://purl.obolibrary.org/obo/ENVO_00000008), ... |
 
-## `NASA`
+## `NASA` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NASA)
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | NASA:earthrealm |       58 | [ENVO:00000015](http://purl.obolibrary.org/obo/ENVO_00000015), [ENVO:00000016](http://purl.obolibrary.org/obo/ENVO_00000016), [ENVO:00000021](http://purl.obolibrary.org/obo/ENVO_00000021), [ENVO:00000023](http://purl.obolibrary.org/obo/ENVO_00000023), [ENVO:00000027](http://purl.obolibrary.org/obo/ENVO_00000027), ... |
 
-## `SPIRE`
+## `SPIRE` (36)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPIRE)
 
 | curie                       |   usages | nodes                                                                                                                                                                                                                                                      |
 |-----------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

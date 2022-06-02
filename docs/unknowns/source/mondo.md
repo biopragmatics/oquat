@@ -1,16 +1,22 @@
 # mondo
 
-## `ClinGen`
+## `ClinGen` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ClinGen)
 
 | curie                                    |   usages | nodes                                                         |
 |------------------------------------------|----------|---------------------------------------------------------------|
 | ClinGen:AminoacidopathyGeneCurationPanel |        1 | [MONDO:0009607](http://purl.obolibrary.org/obo/MONDO_0009607) |
 
-## `MONDORULE`
+## `MONDORULE` (8)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MONDORULE)
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MONDORULE:1 |     1662 | [MONDO:0000200](http://purl.obolibrary.org/obo/MONDO_0000200), [MONDO:0000868](http://purl.obolibrary.org/obo/MONDO_0000868), [MONDO:0000910](http://purl.obolibrary.org/obo/MONDO_0000910), [MONDO:0000912](http://purl.obolibrary.org/obo/MONDO_0000912), [MONDO:0000914](http://purl.obolibrary.org/obo/MONDO_0000914), ... |
+| MONDORULE:1 |     1660 | [MONDO:0000200](http://purl.obolibrary.org/obo/MONDO_0000200), [MONDO:0000868](http://purl.obolibrary.org/obo/MONDO_0000868), [MONDO:0000910](http://purl.obolibrary.org/obo/MONDO_0000910), [MONDO:0000912](http://purl.obolibrary.org/obo/MONDO_0000912), [MONDO:0000914](http://purl.obolibrary.org/obo/MONDO_0000914), ... |
 | MONDORULE:2 |      841 | [MONDO:0000908](http://purl.obolibrary.org/obo/MONDO_0000908), [MONDO:0007282](http://purl.obolibrary.org/obo/MONDO_0007282), [MONDO:0007283](http://purl.obolibrary.org/obo/MONDO_0007283), [MONDO:0007286](http://purl.obolibrary.org/obo/MONDO_0007286), [MONDO:0007287](http://purl.obolibrary.org/obo/MONDO_0007287), ... |
 | MONDORULE:4 |      177 | [MONDO:0000911](http://purl.obolibrary.org/obo/MONDO_0000911), [MONDO:0007175](http://purl.obolibrary.org/obo/MONDO_0007175), [MONDO:0007198](http://purl.obolibrary.org/obo/MONDO_0007198), [MONDO:0007269](http://purl.obolibrary.org/obo/MONDO_0007269), [MONDO:0007404](http://purl.obolibrary.org/obo/MONDO_0007404), ... |
 | MONDORULE:3 |       18 | [MONDO:0009290](http://purl.obolibrary.org/obo/MONDO_0009290), [MONDO:0009292](http://purl.obolibrary.org/obo/MONDO_0009292), [MONDO:0009294](http://purl.obolibrary.org/obo/MONDO_0009294), [MONDO:0009661](http://purl.obolibrary.org/obo/MONDO_0009661), [MONDO:0009793](http://purl.obolibrary.org/obo/MONDO_0009793), ... |
@@ -19,19 +25,19 @@
 | MONDORULE:5 |        5 | [MONDO:0009287](http://purl.obolibrary.org/obo/MONDO_0009287), [MONDO:0009288](http://purl.obolibrary.org/obo/MONDO_0009288), [MONDO:0009868](http://purl.obolibrary.org/obo/MONDO_0009868), [MONDO:0010362](http://purl.obolibrary.org/obo/MONDO_0010362), [MONDO:0013091](http://purl.obolibrary.org/obo/MONDO_0013091), ... |
 | MONDORULE:6 |        1 | [MONDO:0014073](http://purl.obolibrary.org/obo/MONDO_0014073)                                                                                                                                                                                                                                                                  |
 
-## `MTH`
+## `MTH` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MTH)
 
 | curie   |   usages | nodes                                                         |
 |---------|----------|---------------------------------------------------------------|
 | MTH:217 |        1 | [MONDO:0011438](http://purl.obolibrary.org/obo/MONDO_0011438) |
 
-## `NSH`
+## `ICD10EXP` (27)
 
-| curie       |   usages | nodes                                                         |
-|-------------|----------|---------------------------------------------------------------|
-| NSH:D014029 |        1 | [MONDO:0008575](http://purl.obolibrary.org/obo/MONDO_0008575) |
-
-## `ICD10EXP`
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10EXP)
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -63,7 +69,10 @@
 | ICD10EXP:F02.3* |        1 | [MONDO:0019977](http://purl.obolibrary.org/obo/MONDO_0019977)                                                                                                                                                                                                                                                                  |
 | ICD10EXP:L12+   |        1 | [MONDO:0020548](http://purl.obolibrary.org/obo/MONDO_0020548)                                                                                                                                                                                                                                                                  |
 
-## `ICD10WHO`
+## `ICD10WHO` (18)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10WHO)
 
 | curie            |   usages | nodes                                                         |
 |------------------|----------|---------------------------------------------------------------|
@@ -86,7 +95,10 @@
 | ICD10WHO:I85.0   |        1 | [MONDO:0021645](http://purl.obolibrary.org/obo/MONDO_0021645) |
 | ICD10WHO:A80-A89 |        1 | [MONDO:0024318](http://purl.obolibrary.org/obo/MONDO_0024318) |
 
-## `NIFSTD`
+## `NIFSTD` (18)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIFSTD)
 
 | curie                   |   usages | nodes                                                         |
 |-------------------------|----------|---------------------------------------------------------------|

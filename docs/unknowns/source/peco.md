@@ -1,19 +1,28 @@
 # peco
 
-## `Gramene`
+## `Gramene` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gramene)
 
 | curie                  |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Gramene:pankaj_jaiswal |      379 | [PECO:0007001](http://purl.obolibrary.org/obo/PECO_0007001), [PECO:0007002](http://purl.obolibrary.org/obo/PECO_0007002), [PECO:0007003](http://purl.obolibrary.org/obo/PECO_0007003), [PECO:0007005](http://purl.obolibrary.org/obo/PECO_0007005), [PECO:0007006](http://purl.obolibrary.org/obo/PECO_0007006), ... |
 | Gramene:ivy            |       67 | [PECO:0007055](http://purl.obolibrary.org/obo/PECO_0007055), [PECO:0007060](http://purl.obolibrary.org/obo/PECO_0007060), [PECO:0007065](http://purl.obolibrary.org/obo/PECO_0007065), [PECO:0007072](http://purl.obolibrary.org/obo/PECO_0007072), [PECO:0007073](http://purl.obolibrary.org/obo/PECO_0007073), ... |
 
-## `IRIS`
+## `IRIS` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IRIS)
 
 | curie    |   usages | nodes                                                                                                                                                                                 |
 |----------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | IRIS:SES |        3 | [PECO:0007385](http://purl.obolibrary.org/obo/PECO_0007385), [PECO:0007391](http://purl.obolibrary.org/obo/PECO_0007391), [PECO:0007392](http://purl.obolibrary.org/obo/PECO_0007392) |
 
-## `OBO_SF2_PECO`
+## `OBO_SF2_PECO` (74)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBO_SF2_PECO)
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |-----------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -92,7 +101,10 @@
 | OBO_SF2_PECO:62 |        1 | [PECO:0007407](http://purl.obolibrary.org/obo/PECO_0007407)                                                                                                                                                                                                                                                          |
 | OBO_SF2_PECO:61 |        1 | [PECO:0007408](http://purl.obolibrary.org/obo/PECO_0007408)                                                                                                                                                                                                                                                          |
 
-## `PECO_GIT`
+## `PECO_GIT` (80)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PECO_GIT)
 
 | curie        |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |--------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

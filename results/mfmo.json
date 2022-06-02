@@ -131,8 +131,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2022-04-25",
-    "version_iri": "http://purl.obolibrary.org/obo/ro/releases/2022-04-25/ro.owl",
+    "version": "2022-05-23",
+    "version_iri": "http://purl.obolibrary.org/obo/ro/releases/2022-05-23/ro.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

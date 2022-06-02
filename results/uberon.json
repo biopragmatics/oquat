@@ -16172,8 +16172,8 @@
         }
       }
     },
-    "version": "2022-05-17",
-    "version_iri": "http://purl.obolibrary.org/obo/uberon/releases/2022-05-17/uberon.owl",
+    "version": "2022-05-27",
+    "version_iri": "http://purl.obolibrary.org/obo/uberon/releases/2022-05-27/uberon.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/UBERON_0000104": [
@@ -16181,9 +16181,6 @@
         ],
         "http://purl.obolibrary.org/obo/UBERON_0000105": [
           "ncithesaurus:Developmental_Stage"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0000107": [
-          "MESH:A16.254.270"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0000175": [
           "ncithesaurus:Pleural_Effusion"
@@ -16197,23 +16194,11 @@
         "http://purl.obolibrary.org/obo/UBERON_0000345": [
           "ncithesaurus:Myelin"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0000389": [
-          "MESH:A09.371.509.225"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0000390": [
-          "MESH:A09.371.509.670"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0000446": [
-          "MESH:A08.186.211.577.750"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0000468": [
           "ncithesaurus:Whole_Organism"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0000962": [
           "NLXANAT:20090207"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0000965": [
-          "MESH:A09.371.509"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001007": [
           "ncithesaurus:Digestive_System"
@@ -16224,68 +16209,14 @@
         "http://purl.obolibrary.org/obo/UBERON_0001020": [
           "NLXANAT:20090513"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0001042": [
-          "MESH:A03.867"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0001087": [
           "ncithesaurus:Pleural_Fluid"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001091": [
-          "MESH:A14.254.860"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001092": [
-          "MESH:A02.835.232.834.151.213"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001098": [
-          "MESH:A14.254.860.425"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001133": [
           "ncithesaurus:Heart_Muscle"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0001137": [
-          "MESH:A01.176"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001153": [
-          "MESH:A03.492.411.495.209"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001160": [
-          "MESH:A03.492.766.419"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001162": [
-          "MESH:A03.492.766.163"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001199": [
-          "MESH:A03.492.766.440"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001211": [
-          "MESH:A10.549.598"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001212": [
-          "MESH:A03.492.411.620.270.322"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001245": [
-          "MESH:A03.492.411.495.767.288"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0001268": [
           "ncithesaurus:Peritoneal_Fluid"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001269": [
-          "MESH:A02.835.232.611.108"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001272": [
-          "MESH:A02.835.232.611"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001384": [
-          "MESH:A08.186.211.730.885.213.270.548"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001423": [
-          "MESH:A02.835.232.087.702"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001427": [
-          "MESH:A02.835.232.087.144.650"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001428": [
-          "MESH:A02.835.232.087.144.663"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001449": [
           "ncithesaurus:Phalanx_of_the_Foot"
@@ -16299,9 +16230,6 @@
         "http://purl.obolibrary.org/obo/UBERON_0001710": [
           "ncithesaurus:Lower_Jaw"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0001763": [
-          "MESH:A14.254.900.720.250"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0001791": [
           "NLXANAT:1005031"
         ],
@@ -16311,41 +16239,17 @@
         "http://purl.obolibrary.org/obo/UBERON_0001795": [
           "NLXANAT:1005032"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0001867": [
-          "MESH:A02.165.207"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0001870": [
           "NLXANAT:20090601"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0001881": [
-          "MESH:A08.186.211.577.699.400"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0001883": [
           "NLXANAT:1005037"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001885": [
-          "MESH:A08.186.211.577.405.200"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001897": [
-          "MESH:A08.186.211.730.385.826"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001900": [
-          "MESH:A08.186.211.730.385.800"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001905": [
           "NLXANAT:1010009"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001906": [
           "NLXANAT:1010002"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001930": [
-          "MESH:A08.186.211.730.385.357.342.400"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001934": [
-          "MESH:A08.186.211.730.385.357.352.270"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001935": [
-          "MESH:A08.186.211.730.385.357.352.953"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002022": [
           "ncithesaurus:Insula"
@@ -16359,20 +16263,11 @@
         "http://purl.obolibrary.org/obo/UBERON_0002158": [
           "NLXANAT:20081248"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0002197": [
-          "MESH:A06.407.747.734.500"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0002227": [
           "ncithesaurus:Spiral_Organ_of_Corti"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0002233": [
-          "MESH:A09.246.631.246.292.906"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0002246": [
           "NLXANAT:20090102"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0002259": [
-          "MESH:A08.186.211.132.659.237"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002260": [
           "NLXANAT:20090209"
@@ -16381,11 +16276,7 @@
           "NLXANAT:20090208"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002289": [
-          "MESH:A08.186.211.132.659.822.187",
           "ncithesaurus:Cerebral_Aqueduct"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0002355": [
-          "MESH:A01.673"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002389": [
           "NLXANAT:20090602"
@@ -16394,20 +16285,7 @@
           "NLXANAT:20090603"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002435": [
-          "MESH:A08.186.211.730.885.105.487.550",
           "ncithesaurus:Striatum"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0002487": [
-          "MESH:A14.254.900.265"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0002539": [
-          "MESH:A16.254.160"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0002550": [
-          "MESH:A08.186.211.730.385.357.342"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0002634": [
-          "MESH:A08.186.211.730.385.357.342.063"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002695": [
           "ncithesaurus:Parieto-occipital_Sulcus"
@@ -16417,12 +16295,6 @@
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002716": [
           "ncithesaurus:Collateral_Sulcus"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0002736": [
-          "MESH:A08.186.211.730.385.826.701.485"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0002739": [
-          "MESH:A08.186.211.730.385.826.701.490"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002751": [
           "ncithesaurus:Inferior_Temporal_Gyrus"
@@ -16454,21 +16326,8 @@
         "http://purl.obolibrary.org/obo/UBERON_0002998": [
           "ncithesaurus:Inferior_Frontal_Gyrus"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0003062": [
-          "MESH:A16.254.650"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0003124": [
-          "MESH:A16.254.403.473"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0003655": [
-          "MESH:A14.254.860.525"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0003705": [
           "ncithesaurus:Meckel_Diverticulum"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0003719": [
-          "MESH:A08.800.550.700.500.300",
-          "MESH:A08.800.550.700.500.700"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0004001": [
           "NLXANAT:20090402"
@@ -16521,10 +16380,6 @@
         "http://purl.obolibrary.org/obo/UBERON_0004083": [
           "NLXANAT:20081235"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0004454": [
-          "MESH:A01.378.610.250.149",
-          "MESH:A13.473.821"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0004545": [
           "NLXANAT:1010013"
         ],
@@ -16533,12 +16388,6 @@
         ],
         "http://purl.obolibrary.org/obo/UBERON_0004703": [
           "ncithesaurus:Dorsal_Thalamus"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0004915": [
-          "MESH:A03.159.183.079.300.900.600"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0005176": [
-          "MESH:A14.254.900.720.265"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0005345": [
           "NLXANAT:20081231"
@@ -16570,9 +16419,6 @@
         "http://purl.obolibrary.org/obo/UBERON_0005408": [
           "NLXANAT:20090312"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0005409": [
-          "MESH:A03.492"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0005413": [
           "NLXANAT:1005036"
         ],
@@ -16584,12 +16430,6 @@
         ],
         "http://purl.obolibrary.org/obo/UBERON_0005624": [
           "ncithesaurus:Adrenal_Artery"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0005630": [
-          "MESH:A16.254.403"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0005899": [
-          "MESH:A02.835.232.300"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0005976": [
           "NLXANAT:20081208"
@@ -16621,32 +16461,17 @@
         "http://purl.obolibrary.org/obo/UBERON_0006125": [
           "NLXANAT:20090302"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0006134": [
-          "MESH:A08.663.542"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0006586": [
-          "MESH:A12.207.571"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0006612": [
           "ncithesaurus:Shell"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0006696": [
           "NLXANAT:1010016"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0006767": [
-          "MESH:A02.835.232.500.247.343"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0006783": [
           "NLXANAT:1005033"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0007109": [
           "ncithesaurus:Meconium"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0007119": [
-          "MESH:A02.835.232.500.247.510"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0007120": [
-          "MESH:A14.254.860.150"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0007194": [
           "ncithesaurus:Vesicular_Gland"
@@ -16662,15 +16487,6 @@
         ],
         "http://purl.obolibrary.org/obo/UBERON_0007780": [
           "ncithesaurus:Exudate"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0008274": [
-          "MESH:D24.185.926.580.590"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0008281": [
-          "MESH:A14.254.900.720"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0008337": [
-          "MESH:A01.047.365"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0008944": [
           "ncithesaurus:Egg_White"
@@ -16696,21 +16512,6 @@
         "http://purl.obolibrary.org/obo/UBERON_0010009": [
           "NLXANAT:20090509"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0010010": [
-          "MESH:A08.186.211.730.885.105.880.100"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0010011": [
-          "MESH:A08.186.211.730.885.105"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0010523": [
-          "MESH:A07.231.432"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0010544": [
-          "MESH:A02.835.232.087.535"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0010996": [
-          "MESH:A02.165.165"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0011172": [
           "NLXANAT:20090301"
         ],
@@ -16719,9 +16520,6 @@
         ],
         "http://purl.obolibrary.org/obo/UBERON_0012171": [
           "NLXANAT:20090307"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0013110": [
-          "MESH:D24.185.965.850.480"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0014370": [
           "NLXANAT:200905010"
@@ -16762,17 +16560,8 @@
         "http://purl.obolibrary.org/obo/UBERON_0014648": [
           "NLXANAT:20081261"
         ],
-        "http://purl.obolibrary.org/obo/UBERON_0014856": [
-          "MESH:B01.500.736.215.895.286"
-        ],
         "http://purl.obolibrary.org/obo/UBERON_0015432": [
           "NLXANAT:1005002"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0018377": [
-          "MESH:A14.254.860.525.500"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0018391": [
-          "MESH:A08.800.550.700.120"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0022323": [
           "NLXANAT:1005008"
@@ -16971,15 +16760,6 @@
         ],
         "http://purl.obolibrary.org/obo/UBERON_0030649": [
           "NLXANAT:20090703"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0034972": [
-          "MESH:A08.800.550.700.120.600.350"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0034979": [
-          "MESH:A08.800.550.700.120.600"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0036185": [
-          "MESH:G06.535.166.330.100"
         ]
       },
       "label": "Node Xrefs",

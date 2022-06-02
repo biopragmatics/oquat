@@ -1,6 +1,9 @@
 # fbcv
 
-## `FBC`
+## `FBC` (4)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FBC)
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                              |
 |---------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -9,7 +12,10 @@
 | FBC:SM  |        2 | [FBcv:0000402](http://purl.obolibrary.org/obo/FBcv_0000402), [FBcv:0000652](http://purl.obolibrary.org/obo/FBcv_0000652)                                                                                                                           |
 | FBC:TJ  |        2 | [FBcv:0005003](http://purl.obolibrary.org/obo/FBcv_0005003), [FBcv:0005004](http://purl.obolibrary.org/obo/FBcv_0005004)                                                                                                                           |
 
-## `GOC`
+## `GOC` (23)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
 
 | curie              |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |--------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -37,7 +43,10 @@
 | GOC:isa_complete   |        1 | [FBcv:0000686](http://purl.obolibrary.org/obo/FBcv_0000686)                                                                                                                                                                                                                                                          |
 | GOC:ems            |        1 | [FBcv:0006004](http://purl.obolibrary.org/obo/FBcv_0006004)                                                                                                                                                                                                                                                          |
 
-## `abbrev`
+## `abbrev` (7)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20abbrev)
 
 | curie    |   usages | nodes                                                       |
 |----------|----------|-------------------------------------------------------------|

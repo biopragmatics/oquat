@@ -1345,7 +1345,7 @@
         }
       }
     },
-    "version_iri": "http://purl.obolibrary.org/obo/rdo/1.181/rdo.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/rdo/1.182/rdo.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/DOID_0050120": [

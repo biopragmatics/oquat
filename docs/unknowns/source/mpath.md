@@ -1,6 +1,9 @@
 # mpath
 
-## ``
+## `` (6)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20)
 
 | curie                                                                                                                                                                            |   usages | nodes                                                                                                                                                               |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -11,7 +14,10 @@
 | :Ward; J.M.; Mann; P.C.; Mrishima; H.; and Frith; C.H. Thymus; Spleen and Lymph nodes. Ch 13.  p342. In Maronpot; R. Pathology of the Mouse. (1999) Cache River Press. Vienna IL |        1 | [MPATH:595](http://purl.obolibrary.org/obo/MPATH_595)                                                                                                               |
 | :NCI Thesaurus / A7567983                                                                                                                                                        |        1 | [MPATH:615](http://purl.obolibrary.org/obo/MPATH_615)                                                                                                               |
 
-## `Book`
+## `Book` (8)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Book)
 
 | curie                                                                                                                                                                                                                                                                      |   usages | nodes                                                 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------|
@@ -24,13 +30,19 @@
 | Book: Luz A; Goessner; W.;and Murray AB.(1991) Ossifying fibroma; mouse. In; Jones TC; Mohr U; Hunt RD (eds) Monographs on pathology of laboratory animals. Cardiovascular and musculoskeletal systems. Springer; Berlin Heidelberg New York Tokyo; pp 228-232             |        1 | [MPATH:572](http://purl.obolibrary.org/obo/MPATH_572) |
 | Book: Albassam MA; Courtney CL (1996) Nonneoplastic and neoplastic lesions of the bone. In; Mohr U; Dungworth DL; Capen CC; Carlton WW; Sundberg JP; Ward JM (eds) Pathobiology of the aging mouse. Vol 2. Musculoskeletal system. ILSI Press; Washington D.C.; pp 425-437 |        1 | [MPATH:590](http://purl.obolibrary.org/obo/MPATH_590) |
 
-## `CUI`
+## `CUI` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CUI)
 
 | curie        |   usages | nodes                                                 |
 |--------------|----------|-------------------------------------------------------|
 | CUI:C1266121 |        1 | [MPATH:824](http://purl.obolibrary.org/obo/MPATH_824) |
 
-## `Journal`
+## `Journal` (3)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Journal)
 
 | curie                                                                                                                                                                     |   usages | nodes                                                                                                                                                                                                                                                                                  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -38,43 +50,64 @@
 | Journal: La Perle KM; Blomme EA; Sagartz JE; Capen CC (2002) Epididymal cribriform hyperplasia with nuclear atypia in p53 homozygous knockout. Comp Med.  2002 52:568-71. |        1 | [MPATH:587](http://purl.obolibrary.org/obo/MPATH_587)                                                                                                                                                                                                                                  |
 | Journal: Ward; J.M.; Anver; M.R.; Haines; D.C. & Benveniste; R.E. (1994). Chronic active hepatitis in mice caused by Helicobacter hepaticus. Am J Pathol; 145; 959-68.    |        1 | [MPATH:632](http://purl.obolibrary.org/obo/MPATH_632)                                                                                                                                                                                                                                  |
 
-## `MAPTH`
+## `MAPTH` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MAPTH)
 
 | curie              |   usages | nodes                                                 |
 |--------------------|----------|-------------------------------------------------------|
 | MAPTH:<new dbxref> |        1 | [MPATH:880](http://purl.obolibrary.org/obo/MPATH_880) |
 
-## `MPAHTH`
+## `MPAHTH` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MPAHTH)
 
 | curie           |   usages | nodes                                                 |
 |-----------------|----------|-------------------------------------------------------|
 | MPAHTH:curation |        1 | [MPATH:852](http://purl.obolibrary.org/obo/MPATH_852) |
 
-## `PMH`
+## `PMH` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PMH)
 
 | curie       |   usages | nodes                                                 |
 |-------------|----------|-------------------------------------------------------|
 | PMH:0001281 |        1 | [MPATH:767](http://purl.obolibrary.org/obo/MPATH_767) |
 
-## `Pathbase`
+## `Pathbase` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Pathbase)
 
 | curie              |   usages | nodes                                                                                                                                                                                                                                                                                |
 |--------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Pathbase: Curation |      161 | [MPATH:10](http://purl.obolibrary.org/obo/MPATH_10), [MPATH:108](http://purl.obolibrary.org/obo/MPATH_108), [MPATH:121](http://purl.obolibrary.org/obo/MPATH_121), [MPATH:128](http://purl.obolibrary.org/obo/MPATH_128), [MPATH:130](http://purl.obolibrary.org/obo/MPATH_130), ... |
 
-## `See`
+## `See` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20See)
 
 | curie                                                                                                                                                                                      |   usages | nodes                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------|
 | See: Gat; U.; DasGupta; R.; Degenstein; L. and Fuchs; E. (1998) De Novo hair follicle morphogenesis and hair tumors in mice expressing a truncated beta-catenin in skin Cell; 95; 605-614. |        1 | [MPATH:571](http://purl.obolibrary.org/obo/MPATH_571) |
 
-## `UOB`
+## `UOB` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UOB)
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | UOB:LTS |        1 | [MPATH:1000](http://purl.obolibrary.org/obo/MPATH_1000) |
 
-## `URL`
+## `URL` (5)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL)
 
 | curie                                                                                                       |   usages | nodes                                                                                                                                                                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -84,7 +117,10 @@
 | URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models/malignant_melanoma#melanoma_table |        1 | [MPATH:359](http://purl.obolibrary.org/obo/MPATH_359)                                                                                                                                                                                                                                  |
 | URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/prostate_models/path_class_mouse              |        1 | [MPATH:488](http://purl.obolibrary.org/obo/MPATH_488)                                                                                                                                                                                                                                  |
 
-## `XX`
+## `XX` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX)
 
 | curie           |   usages | nodes                                                 |
 |-----------------|----------|-------------------------------------------------------|

@@ -39,8 +39,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2022-02-20",
-    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-02-20/pato.owl",
+    "version": "2022-05-20",
+    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-05-20/pato.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

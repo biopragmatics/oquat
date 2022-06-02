@@ -1,12 +1,18 @@
 # xlmod
 
-## `CS`
+## `CS` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CS)
 
 | curie          |   usages | nodes                                                     |
 |----------------|----------|-----------------------------------------------------------|
 | CS:102743-85-1 |        1 | [XLMOD:01821](http://purl.obolibrary.org/obo/XLMOD_01821) |
 
-## `ChemicalBookNo`
+## `ChemicalBookNo` (443)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ChemicalBookNo)
 
 | curie                       |   usages | nodes                                                                                                                                                                           |
 |-----------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -454,7 +460,10 @@
 | ChemicalBookNo:CB1337916    |        1 | [XLMOD:09315](http://purl.obolibrary.org/obo/XLMOD_09315)                                                                                                                       |
 | ChemicalBookNo:CB3737855    |        1 | [XLMOD:09316](http://purl.obolibrary.org/obo/XLMOD_09316)                                                                                                                       |
 
-## `MDL`
+## `MDL` (68)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MDL)
 
 | curie            |   usages | nodes                                                                                                                                                                           |
 |------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -527,13 +536,19 @@
 | MDL:MFCD00043085 |        1 | [XLMOD:09268](http://purl.obolibrary.org/obo/XLMOD_09268)                                                                                                                       |
 | MDL:MFCD00007444 |        1 | [XLMOD:09314](http://purl.obolibrary.org/obo/XLMOD_09314)                                                                                                                       |
 
-## `PSI`
+## `PSI` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PSI)
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | PSI:XL  |      272 | [XLMOD:00000](http://purl.obolibrary.org/obo/XLMOD_00000), [XLMOD:00001](http://purl.obolibrary.org/obo/XLMOD_00001), [XLMOD:00002](http://purl.obolibrary.org/obo/XLMOD_00002), [XLMOD:00003](http://purl.obolibrary.org/obo/XLMOD_00003), [XLMOD:00004](http://purl.obolibrary.org/obo/XLMOD_00004), ... |
 
-## `PXI`
+## `PXI` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PXI)
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

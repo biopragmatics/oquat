@@ -1123,6 +1123,9 @@
     },
     "synonym_pack": {
       "invalid_luids": {
+        "http://purl.obolibrary.org/obo/ENVO_00000194": [
+          "Geonames:feature"
+        ],
         "http://purl.obolibrary.org/obo/ENVO_00000428": [
           "WWF:Biome"
         ],
@@ -1157,6 +1160,13 @@
     "version": "2020-06-10",
     "xref_pack": {
       "invalid_luids": {
+        "http://purl.obolibrary.org/obo/ENVO_00000194": [
+          "Geonames:T.TAL"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00001995": [
+          "Geonames:T.RK",
+          "Geonames:T.RKS"
+        ],
         "http://purl.obolibrary.org/obo/ENVO_01001569": [
           "WWF:AA1310"
         ],

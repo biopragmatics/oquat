@@ -1,6 +1,9 @@
 # mod
 
-## `DeltaMass`
+## `DeltaMass` (112)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DeltaMass)
 
 | curie         |   usages | nodes                                                                                                                                                                                                                                                                                  |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -117,7 +120,10 @@
 | DeltaMass:314 |        1 | [MOD:01141](http://purl.obolibrary.org/obo/MOD_01141)                                                                                                                                                                                                                                  |
 | DeltaMass:181 |        1 | [MOD:01227](http://purl.obolibrary.org/obo/MOD_01227)                                                                                                                                                                                                                                  |
 
-## `OMSSA`
+## `OMSSA` (137)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OMSSA)
 
 | curie     |   usages | nodes                                                                                                        |
 |-----------|----------|--------------------------------------------------------------------------------------------------------------|
@@ -259,7 +265,10 @@
 | OMSSA:209 |        1 | [MOD:01866](http://purl.obolibrary.org/obo/MOD_01866)                                                        |
 | OMSSA:210 |        1 | [MOD:01867](http://purl.obolibrary.org/obo/MOD_01867)                                                        |
 
-## `URL`
+## `URL` (10)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL)
 
 | curie                                                                                                                                    |   usages | nodes                                                                                                                                                                                                                                                                                  |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -274,7 +283,10 @@
 | URL:http://www.sigmaaldrich.com/catalog/ProductDetail.do?N4=609021|ALDRICH&N5=SEARCH_CONCAT_PNO|BRAND_KEY&F=SPEC&lang=en_US0.000000E+000 |        1 | [MOD:01603](http://purl.obolibrary.org/obo/MOD_01603)                                                                                                                                                                                                                                  |
 | URL:http://www.sigmaaldrich.com/catalog/ProductDetail.do?N4=600113|ALDRICH&N5=SEARCH_CONCAT_PNO|BRAND_KEY&F=SPEC&lang=en_US0.000000E+000 |        1 | [MOD:01604](http://purl.obolibrary.org/obo/MOD_01604)                                                                                                                                                                                                                                  |
 
-## `url`
+## `url` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url)
 
 | curie   |   usages | nodes                                                 |
 |---------|----------|-------------------------------------------------------|

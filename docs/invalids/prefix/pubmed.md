@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `pubmed`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 23 resources,
+`^\d+$`. Of the 22 resources,
 4 variants on the standard prefix were found: ['Medline', 'PMID', 'PubMed', 'Pubmed'].
 
 ## `bto`: BRENDA tissue / enzyme source
@@ -41,15 +41,6 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | external_xref    |   usages_count | usages                                                  |
 |------------------|----------------|---------------------------------------------------------|
 | `PMID:10102814j` |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
-
-## `eco`: Evidence ontology
-
-Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology).
-
-| external_xref    |   usages_count | usages                                                    |
-|------------------|----------------|-----------------------------------------------------------|
-| `PMID: 16428685` |              1 | [ECO:0006163](http://purl.obolibrary.org/obo/ECO_0006163) |
-| `PMID: 23036848` |              1 | [ECO:0006163](http://purl.obolibrary.org/obo/ECO_0006163) |
 
 ## `efo`: Experimental Factor Ontology
 

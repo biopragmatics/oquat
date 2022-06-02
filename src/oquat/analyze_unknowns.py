@@ -76,19 +76,24 @@ def main():
                 reverse=True,
             )
             source_text += f"""\
-## `{unknown_prefix}`
+## `{unknown_prefix}` ({len(rows)})
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?\
 assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20{unknown_prefix})
 
 """
-            source_text += tabulate(
+            table_text = tabulate(
                 rows,
                 headers=["curie", "usages", "nodes"],
                 tablefmt="github",
-            )
-            source_text += "\n\n"
+            ) + "\n\n"
+
+            if len(rows) < 20:
+                source_text += table_text
+            else:
+                # TODO add summary/details box around table
+                source_text += table_text
 
         source_path.write_text(source_text)
 

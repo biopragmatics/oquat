@@ -2,16 +2,8 @@
 
 This page summarize the different resources that reference `edam`
 but use local unique identifiers that do not match the standard pattern of
-`^(data|topic|operation|format)\_\d{4}$`. Of the 2 resources,
+`^(data|topic|operation|format)\_\d{4}$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['EDAM'].
-
-## `eco`: Evidence ontology
-
-Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology).
-
-| external_xref     |   usages_count | usages                                                    |
-|-------------------|----------------|-----------------------------------------------------------|
-| `EDAM:topic:3298` |              1 | [ECO:0007075](http://purl.obolibrary.org/obo/ECO_0007075) |
 
 ## `ms`: Mass spectrometry ontology
 

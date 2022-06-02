@@ -1,24 +1,36 @@
 # cco
 
-## ``
+## `` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20)
 
 | curie   |   usages | nodes                                             |
 |---------|----------|---------------------------------------------------|
 | :       |        1 | [MI:1273](http://purl.obolibrary.org/obo/MI_1273) |
 
-## `EMBL`
+## `EMBL` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20EMBL)
 
 | curie         |   usages | nodes                                                   |
 |---------------|----------|---------------------------------------------------------|
 | EMBL:AF304352 |        1 | [GO:0004453](http://purl.obolibrary.org/obo/GO_0004453) |
 
-## `GOC`
+## `GOC` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
 
 | curie              |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |--------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | GOC:mengo_curators |       10 | [GO:1990296](http://purl.obolibrary.org/obo/GO_1990296), [GO:1990300](http://purl.obolibrary.org/obo/GO_1990300), [GO:1990301](http://purl.obolibrary.org/obo/GO_1990301), [GO:1990308](http://purl.obolibrary.org/obo/GO_1990308), [GO:1990309](http://purl.obolibrary.org/obo/GO_1990309), ... |
 
-## `IMG`
+## `IMG` (35)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMG)
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
@@ -58,20 +70,29 @@
 | IMG:03341 |        1 | [GO:0044105](http://purl.obolibrary.org/obo/GO_0044105) |
 | IMG:03312 |        1 | [GO:0070694](http://purl.obolibrary.org/obo/GO_0070694) |
 
-## `MEROPS_fam`
+## `MEROPS_fam` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MEROPS_fam)
 
 | curie          |   usages | nodes                                                   |
 |----------------|----------|---------------------------------------------------------|
 | MEROPS_fam:M12 |        1 | [GO:0017090](http://purl.obolibrary.org/obo/GO_0017090) |
 | MEROPS_fam:C26 |        1 | [GO:0034722](http://purl.obolibrary.org/obo/GO_0034722) |
 
-## `MITRE`
+## `MITRE` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MITRE)
 
 | curie    |   usages | nodes                                                                                                                                                                     |
 |----------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MITRE:tk |        3 | [GO:0044071](http://purl.obolibrary.org/obo/GO_0044071), [GO:0044072](http://purl.obolibrary.org/obo/GO_0044072), [GO:0044084](http://purl.obolibrary.org/obo/GO_0044084) |
 
-## `NIF_Subcellular`
+## `NIF_Subcellular` (230)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Subcellular)
 
 | curie                                |   usages | nodes                                                                                                            |
 |--------------------------------------|----------|------------------------------------------------------------------------------------------------------------------|
@@ -306,19 +327,28 @@
 | NIF_Subcellular:sao1634374950        |        1 | [GO:1990039](http://purl.obolibrary.org/obo/GO_1990039)                                                          |
 | NIF_Subcellular:sao128470897         |        1 | [GO:1990040](http://purl.obolibrary.org/obo/GO_1990040)                                                          |
 
-## `PHI`
+## `PHI` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PHI)
 
 | curie       |   usages | nodes                                                   |
 |-------------|----------|---------------------------------------------------------|
 | PHI:0000176 |        1 | [GO:0098022](http://purl.obolibrary.org/obo/GO_0098022) |
 
-## `POC`
+## `POC` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20POC)
 
 | curie        |   usages | nodes                                                                                                                                                                                                                              |
 |--------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | POC:curators |        4 | [GO:0097217](http://purl.obolibrary.org/obo/GO_0097217), [GO:0097218](http://purl.obolibrary.org/obo/GO_0097218), [GO:0097219](http://purl.obolibrary.org/obo/GO_0097219), [GO:0097220](http://purl.obolibrary.org/obo/GO_0097220) |
 
-## `SP`
+## `SP` (3)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SP)
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
@@ -326,43 +356,64 @@
 | SP:P09184 |        1 | [GO:0043765](http://purl.obolibrary.org/obo/GO_0043765) |
 | SP:Q8TUB8 |        1 | [GO:0043767](http://purl.obolibrary.org/obo/GO_0043767) |
 
-## `TIGR_TIGRFAMS`
+## `TIGR_TIGRFAMS` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TIGR_TIGRFAMS)
 
 | curie                   |   usages | nodes                                                   |
 |-------------------------|----------|---------------------------------------------------------|
 | TIGR_TIGRFAMS:TIGR01497 |        1 | [GO:0031004](http://purl.obolibrary.org/obo/GO_0031004) |
 
-## `XX`
+## `XX` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX)
 
 | curie   |   usages | nodes                                                                                                |
 |---------|----------|------------------------------------------------------------------------------------------------------|
 | XX:     |        2 | [MI:1279](http://purl.obolibrary.org/obo/MI_1279), [MI:1280](http://purl.obolibrary.org/obo/MI_1280) |
 
-## `Wikilpedia`
+## `Wikilpedia` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wikilpedia)
 
 | curie                                   |   usages | nodes                                                   |
 |-----------------------------------------|----------|---------------------------------------------------------|
 | Wikilpedia:Human_chorionic_gonadotropin |        1 | [GO:0038106](http://purl.obolibrary.org/obo/GO_0038106) |
 
-## `dph`
+## `dph` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20dph)
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | dph:GOC |        1 | [GO:0019787](http://purl.obolibrary.org/obo/GO_0019787) |
 
-## `gOC`
+## `gOC` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20gOC)
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | gOC:dph |        1 | [GO:0032130](http://purl.obolibrary.org/obo/GO_0032130) |
 
-## `goc`
+## `goc` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20goc)
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | goc:dph |        1 | [GO:0000914](http://purl.obolibrary.org/obo/GO_0000914) |
 
-## `TAIR`
+## `TAIR` (16374)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TAIR)
 
 | curie          |   usages | nodes                                                                 |
 |----------------|----------|-----------------------------------------------------------------------|

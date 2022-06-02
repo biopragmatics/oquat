@@ -1,6 +1,9 @@
 # unimod
 
-## `FindMod`
+## `FindMod` (59)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FindMod)
 
 | curie           |   usages | nodes                                                                                                                                                                   |
 |-----------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -64,7 +67,10 @@
 | FindMod:GLUT    |        1 | [UNIMOD:55](http://purl.obolibrary.org/obo/UNIMOD_55)                                                                                                                   |
 | FindMod:FLAC    |        1 | [UNIMOD:7](http://purl.obolibrary.org/obo/UNIMOD_7)                                                                                                                     |
 
-## `UNIMODURL`
+## `UNIMODURL` (1509)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UNIMODURL)
 
 | curie                                                               |   usages | nodes                                                     |
 |---------------------------------------------------------------------|----------|-----------------------------------------------------------|
@@ -1578,7 +1584,10 @@
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=996  |        1 | [UNIMOD:996](http://purl.obolibrary.org/obo/UNIMOD_996)   |
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=997  |        1 | [UNIMOD:997](http://purl.obolibrary.org/obo/UNIMOD_997)   |
 
-## `URL`
+## `URL` (533)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL)
 
 | curie                                                                                                                                                                     |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

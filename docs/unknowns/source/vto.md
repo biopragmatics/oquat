@@ -1,6 +1,9 @@
 # vto
 
-## `CASGEN`
+## `CASGEN` (2180)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CASGEN)
 
 | curie        |   usages | nodes                                                                                                                |
 |--------------|----------|----------------------------------------------------------------------------------------------------------------------|
@@ -2185,7 +2188,10 @@
 | CASGEN:7876  |        1 | [VTO:0080740](http://purl.obolibrary.org/obo/VTO_0080740)                                                            |
 | CASGEN:1311  |        1 | [VTO:0080746](http://purl.obolibrary.org/obo/VTO_0080746)                                                            |
 
-## `TTOCurator`
+## `TTOCurator` (3)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TTOCurator)
 
 | curie                            |   usages | nodes                                                                                                                |
 |----------------------------------|----------|----------------------------------------------------------------------------------------------------------------------|

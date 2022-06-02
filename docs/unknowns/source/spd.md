@@ -1,18 +1,27 @@
 # spd
 
-## `PSD`
+## `PSD` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PSD)
 
 | curie       |   usages | nodes                                                     |
 |-------------|----------|-----------------------------------------------------------|
 | PSD:Ramirez |        1 | [SPD:0000181](http://purl.obolibrary.org/obo/SPD_0000181) |
 
-## `SPDd`
+## `SPDd` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPDd)
 
 | curie        |   usages | nodes                                                     |
 |--------------|----------|-----------------------------------------------------------|
 | SPDd:Ramirez |        1 | [SPD:0000377](http://purl.obolibrary.org/obo/SPD_0000377) |
 
-## `SPDrf`
+## `SPDrf` (13)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPDrf)
 
 | curie                           |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |---------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -30,13 +39,19 @@
 | SPDrf:Sierwald_1990             |        1 | [SPD:0000523](http://purl.obolibrary.org/obo/SPD_0000523)                                                                                                                                                                                                                                                  |
 | SPDrf:Uhl_et_al_2014            |        1 | [SPD:0000680](http://purl.obolibrary.org/obo/SPD_0000680)                                                                                                                                                                                                                                                  |
 
-## `SPR`
+## `SPR` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPR)
 
 | curie       |   usages | nodes                                                     |
 |-------------|----------|-----------------------------------------------------------|
 | SPR:Ramirez |        1 | [SPD:0000818](http://purl.obolibrary.org/obo/SPD_0000818) |
 
-## `TrOn`
+## `TrOn` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TrOn)
 
 | curie        |   usages | nodes                                                     |
 |--------------|----------|-----------------------------------------------------------|

@@ -106,7 +106,12 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False):
         ):
             _failure(prefix=prefix, text=f"Unhanded suffix in its OWL URL: {owl_url}")
             continue
-        if json_url is None and owl_url is None and not obo_url.endswith(".obo"):
+        if (
+            json_url is None
+            and owl_url is None
+            and not obo_url.endswith(".obo")
+            and not "www.uniprot.org" in obo_url  # weird uniprot URLs are fine
+        ):
             failure_text = f"Invalid OBO URL: {obo_url}"
             _failure(prefix=prefix, text=failure_text)
             continue
@@ -163,9 +168,13 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False):
 
         results.append((prefix, result))
 
+    failures_table_rows = [
+        (f"[{prefix}](https://bioregistry.io/{prefix})", message)
+        for prefix, message in failures
+    ]
     FAILURES_PATH.write_text(
         "# Failures\n\n"
-        + tabulate(failures, headers=["prefix", "message"], tablefmt="github")
+        + tabulate(failures_table_rows, headers=["prefix", "message"], tablefmt="github")
         + "\n"
     )
     if not test:

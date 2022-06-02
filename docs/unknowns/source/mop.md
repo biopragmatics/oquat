@@ -1,6 +1,9 @@
 # mop
 
-## `RSC`
+## `RSC` (3)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RSC)
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8,7 +11,10 @@
 | RSC:crb |        1 | [MOP:0000616](http://purl.obolibrary.org/obo/MOP_0000616)                                                                                                                                                                                                                                                  |
 | RSC:db  |        1 | [MOP:0000792](http://purl.obolibrary.org/obo/MOP_0000792)                                                                                                                                                                                                                                                  |
 
-## `rsc`
+## `rsc` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20rsc)
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

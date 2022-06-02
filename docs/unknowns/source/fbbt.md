@@ -1,6 +1,9 @@
 # fbbt
 
-## `FBC`
+## `FBC` (6)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FBC)
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -11,7 +14,10 @@
 | FBC:DPG     |        1 | [FBbt:00005067](http://purl.obolibrary.org/obo/FBbt_00005067)                                                                                                                                                                                                                                                                  |
 | FBC:VH      |        1 | [FBbt:00005473](http://purl.obolibrary.org/obo/FBbt_00005473)                                                                                                                                                                                                                                                                  |
 
-## `FlyPNS`
+## `FlyPNS` (14)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FlyPNS)
 
 | curie                           |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |---------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -30,7 +36,10 @@
 | FlyPNS:PNSdescription.html#dp2  |        1 | [FBbt:00002807](http://purl.obolibrary.org/obo/FBbt_00002807)                                                                                                                                                                                                                                                                  |
 | FlyPNS:PNSdescription.html#vch2 |        1 | [FBbt:00007257](http://purl.obolibrary.org/obo/FBbt_00007257)                                                                                                                                                                                                                                                                  |
 
-## `VFB_vol`
+## `VFB_vol` (31)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20VFB_vol)
 
 | curie            |   usages | nodes                                                                                                                        |
 |------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
@@ -66,7 +75,10 @@
 | VFB_vol:00045050 |        1 | [FBbt:00045050](http://purl.obolibrary.org/obo/FBbt_00045050)                                                                |
 | VFB_vol:00045051 |        1 | [FBbt:00045051](http://purl.obolibrary.org/obo/FBbt_00045051)                                                                |
 
-## `larvalbrain_neuropil`
+## `larvalbrain_neuropil` (151)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20larvalbrain_neuropil)
 
 | curie                    |   usages | nodes                                                         |
 |--------------------------|----------|---------------------------------------------------------------|

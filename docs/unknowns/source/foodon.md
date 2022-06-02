@@ -1,6 +1,9 @@
 # foodon
 
-## `APNI`
+## `APNI` (17)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20APNI)
 
 | curie        |   usages | nodes                                                             |
 |--------------|----------|-------------------------------------------------------------------|
@@ -22,79 +25,115 @@
 | APNI:73475   |        1 | [FOODON:03414835](http://purl.obolibrary.org/obo/FOODON_03414835) |
 | APNI:73568   |        1 | [FOODON:03414837](http://purl.obolibrary.org/obo/FOODON_03414837) |
 
-## `CCPR`
+## `CCPR` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CCPR)
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                                              |
 |---------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | CCPR:   |       41 | [FOODON:03411385](http://purl.obolibrary.org/obo/FOODON_03411385), [FOODON:03413372](http://purl.obolibrary.org/obo/FOODON_03413372), [FOODON:03413374](http://purl.obolibrary.org/obo/FOODON_03413374), [FOODON:03413379](http://purl.obolibrary.org/obo/FOODON_03413379), [FOODON:03413380](http://purl.obolibrary.org/obo/FOODON_03413380), ... |
 
-## `CEC`
+## `CEC` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CEC)
 
 | curie    |   usages | nodes                                                             |
 |----------|----------|-------------------------------------------------------------------|
 | CEC:1295 |        1 | [FOODON:03413569](http://purl.obolibrary.org/obo/FOODON_03413569) |
 | CEC:1336 |        1 | [FOODON:03413675](http://purl.obolibrary.org/obo/FOODON_03413675) |
 
-## `Codex`
+## `Codex` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Codex)
 
 | curie      |   usages | nodes                                                             |
 |------------|----------|-------------------------------------------------------------------|
 | Codex::460 |        1 | [FOODON:03301343](http://purl.obolibrary.org/obo/FOODON_03301343) |
 | Codex::414 |        1 | [FOODON:03412975](http://purl.obolibrary.org/obo/FOODON_03412975) |
 
-## `DPNL`
+## `DPNL` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DPNL)
 
 | curie      |   usages | nodes                                                             |
 |------------|----------|-------------------------------------------------------------------|
 | DPNL:10479 |        1 | [FOODON:03414741](http://purl.obolibrary.org/obo/FOODON_03414741) |
 
-## `Europe`
+## `Europe` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Europe)
 
 | curie       |   usages | nodes                                                             |
 |-------------|----------|-------------------------------------------------------------------|
 | Europe::460 |        1 | [FOODON:03301343](http://purl.obolibrary.org/obo/FOODON_03301343) |
 | Europe::414 |        1 | [FOODON:03412975](http://purl.obolibrary.org/obo/FOODON_03412975) |
 
-## `GRIN`
+## `GRIN` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GRIN)
 
 | curie     |   usages | nodes                                                             |
 |-----------|----------|-------------------------------------------------------------------|
 | GRIN:2276 |        1 | [FOODON:00003172](http://purl.obolibrary.org/obo/FOODON_00003172) |
 | GRIN:7676 |        1 | [FOODON:03411369](http://purl.obolibrary.org/obo/FOODON_03411369) |
 
-## `INDEX`
+## `INDEX` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20INDEX)
 
 | curie          |   usages | nodes                                                             |
 |----------------|----------|-------------------------------------------------------------------|
 | INDEX:FUNGORUM |        1 | [FOODON:03414555](http://purl.obolibrary.org/obo/FOODON_03414555) |
 
-## `ISTA`
+## `ISTA` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ISTA)
 
 | curie   |   usages | nodes                                                             |
 |---------|----------|-------------------------------------------------------------------|
 | ISTA:   |        1 | [FOODON:03414315](http://purl.obolibrary.org/obo/FOODON_03414315) |
 
-## `KEW`
+## `KEW` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KEW)
 
 | curie      |   usages | nodes                                                             |
 |------------|----------|-------------------------------------------------------------------|
 | KEW:178075 |        1 | [FOODON:03414784](http://purl.obolibrary.org/obo/FOODON_03414784) |
 
-## `LANGUAL`
+## `LANGUAL` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20LANGUAL)
 
 | curie         |   usages | nodes                                                             |
 |---------------|----------|-------------------------------------------------------------------|
 | LANGUAL:C0195 |        1 | [FOODON:00001216](http://purl.obolibrary.org/obo/FOODON_00001216) |
 | LANGUAL:C0220 |        1 | [FOODON:03301343](http://purl.obolibrary.org/obo/FOODON_03301343) |
 
-## `MANSFELD`
+## `MANSFELD` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MANSFELD)
 
 | curie          |   usages | nodes                                                             |
 |----------------|----------|-------------------------------------------------------------------|
 | MANSFELD:126   |        1 | [FOODON:00003172](http://purl.obolibrary.org/obo/FOODON_00003172) |
 | MANSFELD:23859 |        1 | [FOODON:03411369](http://purl.obolibrary.org/obo/FOODON_03411369) |
 
-## `MSW3`
+## `MSW3` (12)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MSW3)
 
 | curie         |   usages | nodes                                                             |
 |---------------|----------|-------------------------------------------------------------------|
@@ -111,20 +150,29 @@
 | MSW3:13001727 |        1 | [FOODON:03414848](http://purl.obolibrary.org/obo/FOODON_03414848) |
 | MSW3:14100003 |        1 | [FOODON:03414849](http://purl.obolibrary.org/obo/FOODON_03414849) |
 
-## `PLANTS`
+## `PLANTS` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PLANTS)
 
 | curie         |   usages | nodes                                                             |
 |---------------|----------|-------------------------------------------------------------------|
 | PLANTS:ALFI4  |        1 | [FOODON:00003172](http://purl.obolibrary.org/obo/FOODON_00003172) |
 | PLANTS:BROLG2 |        1 | [FOODON:03411369](http://purl.obolibrary.org/obo/FOODON_03411369) |
 
-## `SPRAT`
+## `SPRAT` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPRAT)
 
 | curie       |   usages | nodes                                                             |
 |-------------|----------|-------------------------------------------------------------------|
 | SPRAT:21484 |        1 | [FOODON:03414654](http://purl.obolibrary.org/obo/FOODON_03414654) |
 
-## `SUBSET_SIREN`
+## `SUBSET_SIREN` (6)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SUBSET_SIREN)
 
 | curie               |   usages | nodes                                                             |
 |---------------------|----------|-------------------------------------------------------------------|

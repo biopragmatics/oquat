@@ -1,12 +1,18 @@
 # chmo
 
-## `10.1051/jphyscol`
+## `10.1051/jphyscol` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%2010.1051/jphyscol)
 
 | curie                     |   usages | nodes                                                       |
 |---------------------------|----------|-------------------------------------------------------------|
 | 10.1051/jphyscol:19879119 |        1 | [CHMO:0000317](http://purl.obolibrary.org/obo/CHMO_0000317) |
 
-## `Orange`
+## `Orange` (23)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Orange)
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |-----------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -34,7 +40,10 @@
 | Orange:9.2.1.5  |        1 | [CHMO:0001011](http://purl.obolibrary.org/obo/CHMO_0001011)                                                                                                                                                                                                                                                          |
 | Orange:3.4.12   |        1 | [CHMO:0002348](http://purl.obolibrary.org/obo/CHMO_0002348)                                                                                                                                                                                                                                                          |
 
-## `OrangeBook`
+## `OrangeBook` (27)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OrangeBook)
 
 | curie                 |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |-----------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -66,19 +75,28 @@
 | OrangeBook:10.3.4.9.3 |        1 | [CHMO:0001657](http://purl.obolibrary.org/obo/CHMO_0001657)                                                                                                                                                                                                                                                          |
 | OrangeBook:3.4.3      |        1 | [CHMO:0002354](http://purl.obolibrary.org/obo/CHMO_0002354)                                                                                                                                                                                                                                                          |
 
-## `SBN`
+## `SBN` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SBN)
 
 | curie          |   usages | nodes                                                       |
 |----------------|----------|-------------------------------------------------------------|
 | SBN:0849380804 |        1 | [CHMO:0001433](http://purl.obolibrary.org/obo/CHMO_0001433) |
 
-## `USPat`
+## `USPat` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USPat)
 
 | curie         |   usages | nodes                                                       |
 |---------------|----------|-------------------------------------------------------------|
 | USPat:5316955 |        1 | [CHMO:0000481](http://purl.obolibrary.org/obo/CHMO_0000481) |
 
-## `USPatent`
+## `USPatent` (5)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USPatent)
 
 | curie            |   usages | nodes                                                       |
 |------------------|----------|-------------------------------------------------------------|
@@ -88,7 +106,10 @@
 | USPatent:5780518 |        1 | [CHMO:0001517](http://purl.obolibrary.org/obo/CHMO_0001517) |
 | USPatent:7204970 |        1 | [CHMO:0002321](http://purl.obolibrary.org/obo/CHMO_0002321) |
 
-## `rsc`
+## `rsc` (5)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20rsc)
 
 | curie                |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |----------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

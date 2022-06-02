@@ -1,13 +1,19 @@
 # rxno
 
-## ``
+## `` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20)
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                              |
 |---------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | :cg     |        4 | [RXNO:0000298](http://purl.obolibrary.org/obo/RXNO_0000298), [RXNO:0000300](http://purl.obolibrary.org/obo/RXNO_0000300), [RXNO:0000302](http://purl.obolibrary.org/obo/RXNO_0000302), [RXNO:0000303](http://purl.obolibrary.org/obo/RXNO_0000303) |
 | :       |        1 | [RXNO:0000299](http://purl.obolibrary.org/obo/RXNO_0000299)                                                                                                                                                                                        |
 
-## `RSC`
+## `RSC` (3)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RSC)
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |---------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,7 +21,10 @@
 | RSC:xp  |       24 | [RXNO:0000448](http://purl.obolibrary.org/obo/RXNO_0000448), [RXNO:0000449](http://purl.obolibrary.org/obo/RXNO_0000449), [RXNO:0000450](http://purl.obolibrary.org/obo/RXNO_0000450), [RXNO:0000453](http://purl.obolibrary.org/obo/RXNO_0000453), [RXNO:0000454](http://purl.obolibrary.org/obo/RXNO_0000454), ... |
 | RSC:jrw |        1 | [RXNO:0000201](http://purl.obolibrary.org/obo/RXNO_0000201)                                                                                                                                                                                                                                                          |
 
-## `rsc`
+## `rsc` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20rsc)
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |---------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

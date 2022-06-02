@@ -1,18 +1,27 @@
 # mp
 
-## `Bertram_Weiss`
+## `Bertram_Weiss` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Bertram_Weiss)
 
 | curie                                  |   usages | nodes                                                                                                            |
 |----------------------------------------|----------|------------------------------------------------------------------------------------------------------------------|
 | Bertram_Weiss:Bayer_Schering_Pharma_AG |        2 | [MP:0004759](http://purl.obolibrary.org/obo/MP_0004759), [MP:0004760](http://purl.obolibrary.org/obo/MP_0004760) |
 
-## `CDR`
+## `CDR` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CDR)
 
 | curie      |   usages | nodes                                                   |
 |------------|----------|---------------------------------------------------------|
 | CDR:523438 |        1 | [MP:0010364](http://purl.obolibrary.org/obo/MP_0010364) |
 
-## `GOC`
+## `GOC` (4)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
 
 | curie         |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |---------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -21,13 +30,19 @@
 | GOC:TermGenie |        4 | [MP:3000002](http://purl.obolibrary.org/obo/MP_3000002), [MP:3000003](http://purl.obolibrary.org/obo/MP_3000003), [MP:3000004](http://purl.obolibrary.org/obo/MP_3000004), [MP:3000005](http://purl.obolibrary.org/obo/MP_3000005)                                                               |
 | GOC:add       |        1 | [MP:0010766](http://purl.obolibrary.org/obo/MP_0010766)                                                                                                                                                                                                                                          |
 
-## `IMPC`
+## `IMPC` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMPC)
 
 | curie      |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | IMPC:Saran |       28 | [MP:0013406](http://purl.obolibrary.org/obo/MP_0013406), [MP:0013407](http://purl.obolibrary.org/obo/MP_0013407), [MP:0013411](http://purl.obolibrary.org/obo/MP_0013411), [MP:0013412](http://purl.obolibrary.org/obo/MP_0013412), [MP:0013413](http://purl.obolibrary.org/obo/MP_0013413), ... |
 
-## `J`
+## `J` (132)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20J)
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -164,25 +179,37 @@
 | J:83217 |        1 | [MP:0005111](http://purl.obolibrary.org/obo/MP_0005111)                                                                                                                                                                                                                                          |
 | J:84533 |        1 | [MP:0005323](http://purl.obolibrary.org/obo/MP_0005323)                                                                                                                                                                                                                                          |
 
-## `KOMP`
+## `KOMP` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KOMP)
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |-----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | KOMP:abby-jones |        5 | [MP:0020958](http://purl.obolibrary.org/obo/MP_0020958), [MP:0020961](http://purl.obolibrary.org/obo/MP_0020961), [MP:0020974](http://purl.obolibrary.org/obo/MP_0020974), [MP:0020975](http://purl.obolibrary.org/obo/MP_0020975), [MP:0020978](http://purl.obolibrary.org/obo/MP_0020978), ... |
 
-## `KSU`
+## `KSU` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KSU)
 
 | curie         |   usages | nodes                                                   |
 |---------------|----------|---------------------------------------------------------|
 | KSU:jbengtson |        1 | [MP:0001186](http://purl.obolibrary.org/obo/MP_0001186) |
 
-## `MIG`
+## `MIG` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MIG)
 
 | curie    |   usages | nodes                                                   |
 |----------|----------|---------------------------------------------------------|
 | MIG:anna |        1 | [MP:0013261](http://purl.obolibrary.org/obo/MP_0013261) |
 
-## `MPD`
+## `MPD` (3)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MPD)
 
 | curie                      |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |----------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -190,20 +217,29 @@
 | MPD:Mouse_Phenome_Database |        2 | [MP:0002606](http://purl.obolibrary.org/obo/MP_0002606), [MP:0002607](http://purl.obolibrary.org/obo/MP_0002607)                                                                                                                                                                                 |
 | MPD:Bogue                  |        1 | [MP:0013801](http://purl.obolibrary.org/obo/MP_0013801)                                                                                                                                                                                                                                          |
 
-## `NCBI`
+## `NCBI` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NCBI)
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |-----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | NCBI:matt |      383 | [MP:0003250](http://purl.obolibrary.org/obo/MP_0003250), [MP:0003251](http://purl.obolibrary.org/obo/MP_0003251), [MP:0003252](http://purl.obolibrary.org/obo/MP_0003252), [MP:0003253](http://purl.obolibrary.org/obo/MP_0003253), [MP:0003254](http://purl.obolibrary.org/obo/MP_0003254), ... |
 
-## `NIFSTD`
+## `NIFSTD` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIFSTD)
 
 | curie               |   usages | nodes                                                                                                                                                                                                                              |
 |---------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | NIFSTD:birnlex_4113 |        4 | [MP:0011150](http://purl.obolibrary.org/obo/MP_0011150), [MP:0011153](http://purl.obolibrary.org/obo/MP_0011153), [MP:0011155](http://purl.obolibrary.org/obo/MP_0011155), [MP:0012446](http://purl.obolibrary.org/obo/MP_0012446) |
 | NIFSTD:birnlex_1298 |        3 | [MP:0011151](http://purl.obolibrary.org/obo/MP_0011151), [MP:0011154](http://purl.obolibrary.org/obo/MP_0011154), [MP:0012445](http://purl.obolibrary.org/obo/MP_0012445)                                                          |
 
-## `NLX`
+## `NLX` (4)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NLX)
 
 | curie               |   usages | nodes                                                   |
 |---------------------|----------|---------------------------------------------------------|
@@ -212,31 +248,46 @@
 | NLX:nlx_96          |        1 | [MP:0009947](http://purl.obolibrary.org/obo/MP_0009947) |
 | NLX:nifext_121      |        1 | [MP:0009955](http://purl.obolibrary.org/obo/MP_0009955) |
 
-## `PMMID`
+## `PMMID` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PMMID)
 
 | curie          |   usages | nodes                                                   |
 |----------------|----------|---------------------------------------------------------|
 | PMMID:22016183 |        1 | [MP:0013010](http://purl.obolibrary.org/obo/MP_0013010) |
 
-## `URL`
+## `URL` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL)
 
 | curie                                                                                                  |   usages | nodes                                                   |
 |--------------------------------------------------------------------------------------------------------|----------|---------------------------------------------------------|
 | URL:https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3262 |        1 | [MP:0002006](http://purl.obolibrary.org/obo/MP_0002006) |
 
-## `WTSI`
+## `WTSI` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WTSI)
 
 | curie          |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | WTSI:vancollie |      218 | [MP:0020586](http://purl.obolibrary.org/obo/MP_0020586), [MP:0020587](http://purl.obolibrary.org/obo/MP_0020587), [MP:0020592](http://purl.obolibrary.org/obo/MP_0020592), [MP:0020593](http://purl.obolibrary.org/obo/MP_0020593), [MP:0020594](http://purl.obolibrary.org/obo/MP_0020594), ... |
 
-## `eMedicine`
+## `eMedicine` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20eMedicine)
 
 | curie                                               |   usages | nodes                                                   |
 |-----------------------------------------------------|----------|---------------------------------------------------------|
 | eMedicine:http://www.emedicine.com/ent/topic372.htm |        1 | [MP:0004736](http://purl.obolibrary.org/obo/MP_0004736) |
 
-## `url`
+## `url` (20)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url)
 
 | curie                                                                                                                        |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |------------------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -261,7 +312,10 @@
 | url:http://braininfo.rprc.washington.edu/centraldirectory.aspx?ID=2331                                                       |        1 | [MP:0020568](http://purl.obolibrary.org/obo/MP_0020568)                                                                                                                                                                                                                                          |
 | url:https://medical-dictionary.thefreedictionary.com/acute+undifferentiated+leukemia                                         |        1 | [MP:0020839](http://purl.obolibrary.org/obo/MP_0020839)                                                                                                                                                                                                                                          |
 
-## `zillmusom`
+## `zillmusom` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20zillmusom)
 
 | curie                                                                |   usages | nodes                                                                                                            |
 |----------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------|

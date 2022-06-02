@@ -1,18 +1,27 @@
 # cmpo
 
-## `Biology-online`
+## `Biology-online` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Biology-online)
 
 | curie                         |   usages | nodes                                                                                                                    |
 |-------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
 | Biology-online:Biology-online |        2 | [PATO:0001406](http://purl.obolibrary.org/obo/PATO_0001406), [PATO:0001407](http://purl.obolibrary.org/obo/PATO_0001407) |
 
-## `Dictionary`
+## `Dictionary` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dictionary)
 
 | curie                                       |   usages | nodes                                                       |
 |---------------------------------------------|----------|-------------------------------------------------------------|
 | Dictionary:http://dictionary.reference.com/ |        1 | [PATO:0001303](http://purl.obolibrary.org/obo/PATO_0001303) |
 
-## `GOC`
+## `GOC` (16)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
 
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |---------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -33,7 +42,10 @@
 | GOC:dos             |        1 | [GO:0042221](http://purl.obolibrary.org/obo/GO_0042221)                                                                                                                                                                                                                                          |
 | GOC:dph             |        1 | [GO:0060560](http://purl.obolibrary.org/obo/GO_0060560)                                                                                                                                                                                                                                          |
 
-## `NIF_Subcellular`
+## `NIF_Subcellular` (32)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Subcellular)
 
 | curie                              |   usages | nodes                                                   |
 |------------------------------------|----------|---------------------------------------------------------|
@@ -70,7 +82,10 @@
 | NIF_Subcellular:sao628508602       |        1 | [GO:0044464](http://purl.obolibrary.org/obo/GO_0044464) |
 | NIF_Subcellular:sao1872343973      |        1 | [GO:0097427](http://purl.obolibrary.org/obo/GO_0097427) |
 
-## `PATOC`
+## `PATOC` (9)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PATOC)
 
 | curie            |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -84,38 +99,56 @@
 | PATOC:me         |        1 | [PATO:0002065](http://purl.obolibrary.org/obo/PATO_0002065)                                                                                                                                                                                                                                                          |
 | PATOC:OREGON     |        1 | [PATO:0002268](http://purl.obolibrary.org/obo/PATO_0002268)                                                                                                                                                                                                                                                          |
 
-## `RKC`
+## `RKC` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RKC)
 
 | curie   |   usages | nodes                                                       |
 |---------|----------|-------------------------------------------------------------|
 | RKC:RKC |        1 | [PATO:0001881](http://purl.obolibrary.org/obo/PATO_0001881) |
 
-## `WordNet`
+## `WordNet` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WordNet)
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |-----------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | WordNet:WordNet |        9 | [PATO:0000117](http://purl.obolibrary.org/obo/PATO_0000117), [PATO:0000396](http://purl.obolibrary.org/obo/PATO_0000396), [PATO:0000406](http://purl.obolibrary.org/obo/PATO_0000406), [PATO:0000915](http://purl.obolibrary.org/obo/PATO_0000915), [PATO:0001154](http://purl.obolibrary.org/obo/PATO_0001154), ... |
 
-## `medical-dictionary`
+## `medical-dictionary` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20medical-dictionary)
 
 | curie                                 |   usages | nodes                                                       |
 |---------------------------------------|----------|-------------------------------------------------------------|
 | medical-dictionary:medical-dictionary |        1 | [PATO:0001512](http://purl.obolibrary.org/obo/PATO_0001512) |
 
-## `thefreedictionary`
+## `thefreedictionary` (2)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20thefreedictionary)
 
 | curie                                                         |   usages | nodes                                                       |
 |---------------------------------------------------------------|----------|-------------------------------------------------------------|
 | thefreedictionary:http://www.thefreedictionary.com/bilobed    |        1 | [PATO:0002214](http://purl.obolibrary.org/obo/PATO_0002214) |
 | thefreedictionary:http://www.thefreedictionary.com/fan-shaped |        1 | [PATO:0002219](http://purl.obolibrary.org/obo/PATO_0002219) |
 
-## `wiktionary`
+## `wiktionary` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wiktionary)
 
 | curie                   |   usages | nodes                                                       |
 |-------------------------|----------|-------------------------------------------------------------|
 | wiktionary:superellipse |        1 | [PATO:0002318](http://purl.obolibrary.org/obo/PATO_0002318) |
 
-## `wordreference`
+## `wordreference` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wordreference)
 
 | curie                       |   usages | nodes                                                       |
 |-----------------------------|----------|-------------------------------------------------------------|

@@ -65,6 +65,20 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf` |             27 | [ENVO:00002229](http://purl.obolibrary.org/obo/ENVO_00002229), [ENVO:00002231](http://purl.obolibrary.org/obo/ENVO_00002231), [ENVO:00002233](http://purl.obolibrary.org/obo/ENVO_00002233), [ENVO:00002234](http://purl.obolibrary.org/obo/ENVO_00002234), [ENVO:00002235](http://purl.obolibrary.org/obo/ENVO_00002235), ... |
 
+## `Geonames`: GeoNames
+
+Overall, there were 4 invalid
+xrefs to external prefixed with `Geonames` (standardized to Bioregistry
+prefix [`geonames`](https://bioregistry.io/geonames)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref      |   usages_count | usages                                                        |
+|--------------------|----------------|---------------------------------------------------------------|
+| `Geonames:feature` |              1 | [ENVO:00000194](http://purl.obolibrary.org/obo/ENVO_00000194) |
+| `Geonames:T.TAL`   |              1 | [ENVO:00000194](http://purl.obolibrary.org/obo/ENVO_00000194) |
+| `Geonames:T.RK`    |              1 | [ENVO:00001995](http://purl.obolibrary.org/obo/ENVO_00001995) |
+| `Geonames:T.RKS`   |              1 | [ENVO:00001995](http://purl.obolibrary.org/obo/ENVO_00001995) |
+
 ## `Gmelin`: Gmelins Handbuch der anorganischen Chemie
 
 Overall, there were 1 invalid

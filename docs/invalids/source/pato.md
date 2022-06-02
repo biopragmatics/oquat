@@ -26,6 +26,17 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `GO:GO`         |              3 | [PATO:0001440](http://purl.obolibrary.org/obo/PATO_0001440), [PATO:0001441](http://purl.obolibrary.org/obo/PATO_0001441), [PATO:0001720](http://purl.obolibrary.org/obo/PATO_0001720) |
 
+## `ISSN`: International Standard Serial Number
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `ISSN` (standardized to Bioregistry
+prefix [`issn`](https://bioregistry.io/issn)) that
+did not match the standard pattern `^\d{4}-\d{3}[\dX]$`.
+
+| external_xref        |   usages_count | usages                                                      |
+|----------------------|----------------|-------------------------------------------------------------|
+| `ISSN:9781496335418` |              1 | [PATO:0001744](http://purl.obolibrary.org/obo/PATO_0001744) |
+
 ## `Medline`: PubMed
 
 Overall, there were 1 invalid

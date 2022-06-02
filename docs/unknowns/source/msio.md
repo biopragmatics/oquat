@@ -1,6 +1,9 @@
 # msio
 
-## `MSI`
+## `MSI` (3)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MSI)
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                 |
 |---------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8,7 +11,10 @@
 | MSI:MI  |        7 | [http://nmrML.org/nmrCV#NMR:1001040](http://nmrML.org/nmrCV#NMR:1001040), [http://nmrML.org/nmrCV#NMR:1001107](http://nmrML.org/nmrCV#NMR:1001107), [http://nmrML.org/nmrCV#NMR:1001922](http://nmrML.org/nmrCV#NMR:1001922), [http://nmrML.org/nmrCV#NMR:1001923](http://nmrML.org/nmrCV#NMR:1001923), [http://nmrML.org/nmrCV#NMR:1001924](http://nmrML.org/nmrCV#NMR:1001924), ... |
 | MSI:PI  |        1 | [http://nmrML.org/nmrCV#NMR:1002005](http://nmrML.org/nmrCV#NMR:1002005)                                                                                                                                                                                                                                                                                                              |
 
-## `value-type`
+## `value-type` (5)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20value-type)
 
 | curie                  |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                 |
 |------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

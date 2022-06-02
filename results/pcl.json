@@ -1,6 +1,6 @@
 {
-  "http://purl.obolibrary.org/obo/pcl.json": {
-    "graph_id": "http://purl.obolibrary.org/obo/pcl.json",
+  "http://purl.obolibrary.org/obo/pcl.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/pcl.owl",
     "prov_pack": {
       "invalid_luids": {},
       "label": "Provenance Xrefs",
@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "http://purl.obolibrary.org/obo/pcl/releases/2022-03-02/pcl.json",
+    "version": "2022-04-27",
+    "version_iri": "http://purl.obolibrary.org/obo/pcl/releases/2022-04-27/pcl.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

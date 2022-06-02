@@ -1,12 +1,18 @@
 # eco
 
-## `GOC`
+## `GOC` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
 
 | curie   |   usages | nodes                                                                                                                |
 |---------|----------|----------------------------------------------------------------------------------------------------------------------|
 | GOC:MAH |        2 | [ECO:0000336](http://purl.obolibrary.org/obo/ECO_0000336), [ECO:0001603](http://purl.obolibrary.org/obo/ECO_0001603) |
 
-## `NBK`
+## `NBK` (4)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NBK)
 
 | curie      |   usages | nodes                                                                                                                                                                           |
 |------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,31 +21,46 @@
 | NBK:22011  |        1 | [ECO:0000010](http://purl.obolibrary.org/obo/ECO_0000010)                                                                                                                       |
 | NBK:26936  |        1 | [ECO:0000100](http://purl.obolibrary.org/obo/ECO_0000100)                                                                                                                       |
 
-## `OED`
+## `OED` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OED)
 
 | curie          |   usages | nodes                                                     |
 |----------------|----------|-----------------------------------------------------------|
 | OED:experiment |        1 | [ECO:0000006](http://purl.obolibrary.org/obo/ECO_0000006) |
 
-## `PhenoScape`
+## `PhenoScape` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PhenoScape)
 
 | curie         |   usages | nodes                                                     |
 |---------------|----------|-----------------------------------------------------------|
 | PhenoScape:IP |        1 | [ECO:0000080](http://purl.obolibrary.org/obo/ECO_0000080) |
 
-## `SIB`
+## `SIB` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SIB)
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SIB:PG  |       46 | [ECO:0001057](http://purl.obolibrary.org/obo/ECO_0001057), [ECO:0001059](http://purl.obolibrary.org/obo/ECO_0001059), [ECO:0001060](http://purl.obolibrary.org/obo/ECO_0001060), [ECO:0001061](http://purl.obolibrary.org/obo/ECO_0001061), [ECO:0001062](http://purl.obolibrary.org/obo/ECO_0001062), ... |
 
-## `TAIR`
+## `TAIR` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TAIR)
 
 | curie    |   usages | nodes                                                                                                                                                                           |
 |----------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TAIR:TED |        3 | [ECO:0000011](http://purl.obolibrary.org/obo/ECO_0000011), [ECO:0000052](http://purl.obolibrary.org/obo/ECO_0000052), [ECO:0000053](http://purl.obolibrary.org/obo/ECO_0000053) |
 
-## `URL`
+## `URL` (16)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL)
 
 | curie                                                                                                                                     |   usages | nodes                                                                                                                                                                                                                                      |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -60,7 +81,10 @@
 | URL:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC153338/                                                                                  |        1 | [ECO:0007083](http://purl.obolibrary.org/obo/ECO_0007083)                                                                                                                                                                                  |
 | URL:http://www.joponline.org/doi/pdf/10.1902/jop.1992.63.7.576                                                                            |        1 | [ECO:0007085](http://purl.obolibrary.org/obo/ECO_0007085)                                                                                                                                                                                  |
 
-## `url`
+## `url` (106)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url)
 
 | curie                                                                                                                                                                                                     |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -171,7 +195,10 @@
 | url:https://en.wikipedia.org/wiki/Dictionary                                                                                                                                                              |        1 | [ECO:0007641](http://purl.obolibrary.org/obo/ECO_0007641)                                                                                                                                                                                                                                                  |
 | url:https://en.wikipedia.org/wiki/Scientific_journal                                                                                                                                                      |        1 | [ECO:0007645](http://purl.obolibrary.org/obo/ECO_0007645)                                                                                                                                                                                                                                                  |
 
-## `PMI`
+## `PMI` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PMI)
 
 | curie        |   usages | nodes                                                     |
 |--------------|----------|-----------------------------------------------------------|

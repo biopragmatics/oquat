@@ -2,18 +2,8 @@
 
 This page summarize the different resources that reference `mi`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{4}$`. Of the 3 resources,
-3 variants on the standard prefix were found: ['MI', 'PSI-MI', 'psi-mi'].
-
-## `eco`: Evidence ontology
-
-Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology).
-
-| external_xref    |   usages_count | usages                                                    |
-|------------------|----------------|-----------------------------------------------------------|
-| `PSI-MI:MI:0400` |              1 | [ECO:0000023](http://purl.obolibrary.org/obo/ECO_0000023) |
-| `PSI-MI:MI:0090` |              1 | [ECO:0000025](http://purl.obolibrary.org/obo/ECO_0000025) |
-| `PSI-MI:MI:0432` |              1 | [ECO:0000066](http://purl.obolibrary.org/obo/ECO_0000066) |
+`^\d{4}$`. Of the 2 resources,
+2 variants on the standard prefix were found: ['MI', 'psi-mi'].
 
 ## `mi`: Molecular Interactions Controlled Vocabulary
 

@@ -97,7 +97,7 @@ did not match the standard pattern `^(\w+)?\d+$`.
 Overall, there were 2 invalid
 xrefs to external prefixed with `Patent` (standardized to Bioregistry
 prefix [`google.patent`](https://bioregistry.io/google.patent)) that
-did not match the standard pattern `^[A-Z]{2}\d+([A-Z])?$`.
+did not match the standard pattern `^[A-Z]{2,4}\d+([A-Z])?([0-9])?$`.
 
 | external_xref              |   usages_count | usages                                                                                                               |
 |----------------------------|----------------|----------------------------------------------------------------------------------------------------------------------|

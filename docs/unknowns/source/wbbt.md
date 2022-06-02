@@ -1,12 +1,18 @@
 # wbbt
 
-## `WBPaper`
+## `WBPaper` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WBPaper)
 
 | curie            |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | WBPaper:00038216 |       11 | [WBbt:0003681](http://purl.obolibrary.org/obo/WBbt_0003681), [WBbt:0005337](http://purl.obolibrary.org/obo/WBbt_0005337), [WBbt:0005745](http://purl.obolibrary.org/obo/WBbt_0005745), [WBbt:0005755](http://purl.obolibrary.org/obo/WBbt_0005755), [WBbt:0005756](http://purl.obolibrary.org/obo/WBbt_0005756), ... |
 
-## `WBpaper`
+## `WBpaper` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WBpaper)
 
 | curie            |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

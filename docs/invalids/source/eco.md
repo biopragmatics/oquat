@@ -34,17 +34,6 @@ did not match the standard pattern `^\d{7}$`.
 | `ECO:MG`        |              2 | [ECO:0006186](http://purl.obolibrary.org/obo/ECO_0006186), [ECO:0006252](http://purl.obolibrary.org/obo/ECO_0006252)                                                                                                                                                                                       |
 | `ECO:cjm`       |              1 | [ECO:0000501](http://purl.obolibrary.org/obo/ECO_0000501)                                                                                                                                                                                                                                                  |
 
-## `EDAM`: Bioinformatics operations, data types, formats, identifiers and topics
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `EDAM` (standardized to Bioregistry
-prefix [`edam`](https://bioregistry.io/edam)) that
-did not match the standard pattern `^(data|topic|operation|format)\_\d{4}$`.
-
-| external_xref     |   usages_count | usages                                                    |
-|-------------------|----------------|-----------------------------------------------------------|
-| `EDAM:topic:3298` |              1 | [ECO:0007075](http://purl.obolibrary.org/obo/ECO_0007075) |
-
 ## `ERO`: eagle-i resource ontology
 
 Overall, there were 1 invalid
@@ -81,60 +70,6 @@ did not match the standard pattern `^\d{7}$`.
 | `HPO:PCS`       |              1 | [ECO:0006017](http://purl.obolibrary.org/obo/ECO_0006017) |
 | `HPO:ICE`       |              1 | [ECO:0006019](http://purl.obolibrary.org/obo/ECO_0006019) |
 
-## `PMC`: Pubmed Central
-
-Overall, there were 22 invalid
-xrefs to external prefixed with `PMC` (standardized to Bioregistry
-prefix [`pmc`](https://bioregistry.io/pmc)) that
-did not match the standard pattern `^PMC\d+$`.
-
-| external_xref   |   usages_count | usages                                                                                                               |
-|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------|
-| `PMC:102612`    |              2 | [ECO:0000138](http://purl.obolibrary.org/obo/ECO_0000138), [ECO:0006084](http://purl.obolibrary.org/obo/ECO_0006084) |
-| `PMC:4029002`   |              1 | [ECO:0000010](http://purl.obolibrary.org/obo/ECO_0000010)                                                            |
-| `PMC:2686546`   |              1 | [ECO:0000029](http://purl.obolibrary.org/obo/ECO_0000029)                                                            |
-| `PMC:38513`     |              1 | [ECO:0000077](http://purl.obolibrary.org/obo/ECO_0000077)                                                            |
-| `PMC:2881125`   |              1 | [ECO:0000359](http://purl.obolibrary.org/obo/ECO_0000359)                                                            |
-| `PMC:3929704`   |              1 | [ECO:0001004](http://purl.obolibrary.org/obo/ECO_0001004)                                                            |
-| `PMC:3478843`   |              1 | [ECO:0001008](http://purl.obolibrary.org/obo/ECO_0001008)                                                            |
-| `PMC:3169266`   |              1 | [ECO:0001011](http://purl.obolibrary.org/obo/ECO_0001011)                                                            |
-| `PMC:3185625`   |              1 | [ECO:0001022](http://purl.obolibrary.org/obo/ECO_0001022)                                                            |
-| `PMC:3074624`   |              1 | [ECO:0001026](http://purl.obolibrary.org/obo/ECO_0001026)                                                            |
-| `PMC:3572410`   |              1 | [ECO:0001030](http://purl.obolibrary.org/obo/ECO_0001030)                                                            |
-| `PMC:4401164`   |              1 | [ECO:0001039](http://purl.obolibrary.org/obo/ECO_0001039)                                                            |
-| `PMC:2217636`   |              1 | [ECO:0001042](http://purl.obolibrary.org/obo/ECO_0001042)                                                            |
-| `PMC:346675`    |              1 | [ECO:0001047](http://purl.obolibrary.org/obo/ECO_0001047)                                                            |
-| `PMC:2782548`   |              1 | [ECO:0001091](http://purl.obolibrary.org/obo/ECO_0001091)                                                            |
-| `PMC:1534009`   |              1 | [ECO:0001102](http://purl.obolibrary.org/obo/ECO_0001102)                                                            |
-| `PMC:3149870`   |              1 | [ECO:0001107](http://purl.obolibrary.org/obo/ECO_0001107)                                                            |
-| `PMC:1828913`   |              1 | [ECO:0001117](http://purl.obolibrary.org/obo/ECO_0001117)                                                            |
-| `PMC:1808921`   |              1 | [ECO:0001129](http://purl.obolibrary.org/obo/ECO_0001129)                                                            |
-| `PMC:3908118`   |              1 | [ECO:0005008](http://purl.obolibrary.org/obo/ECO_0005008)                                                            |
-| `PMC:3667641`   |              1 | [ECO:0005021](http://purl.obolibrary.org/obo/ECO_0005021)                                                            |
-
-## `PMCID`: Pubmed Central
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `PMCID` (standardized to Bioregistry
-prefix [`pmc`](https://bioregistry.io/pmc)) that
-did not match the standard pattern `^PMC\d+$`.
-
-| external_xref   |   usages_count | usages                                                    |
-|-----------------|----------------|-----------------------------------------------------------|
-| `PMCID:3277431` |              1 | [ECO:0001811](http://purl.obolibrary.org/obo/ECO_0001811) |
-
-## `PMID`: PubMed
-
-Overall, there were 2 invalid
-xrefs to external prefixed with `PMID` (standardized to Bioregistry
-prefix [`pubmed`](https://bioregistry.io/pubmed)) that
-did not match the standard pattern `^\d+$`.
-
-| external_xref    |   usages_count | usages                                                    |
-|------------------|----------------|-----------------------------------------------------------|
-| `PMID: 16428685` |              1 | [ECO:0006163](http://purl.obolibrary.org/obo/ECO_0006163) |
-| `PMID: 23036848` |              1 | [ECO:0006163](http://purl.obolibrary.org/obo/ECO_0006163) |
-
 ## `PomBase`: PomBase
 
 Overall, there were 1 invalid
@@ -145,17 +80,4 @@ did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|
 | `PomBase:MAH`   |              1 | [ECO:0000095](http://purl.obolibrary.org/obo/ECO_0000095) |
-
-## `PSI-MI`: Molecular Interactions Controlled Vocabulary
-
-Overall, there were 3 invalid
-xrefs to external prefixed with `PSI-MI` (standardized to Bioregistry
-prefix [`mi`](https://bioregistry.io/mi)) that
-did not match the standard pattern `^\d{4}$`.
-
-| external_xref    |   usages_count | usages                                                    |
-|------------------|----------------|-----------------------------------------------------------|
-| `PSI-MI:MI:0400` |              1 | [ECO:0000023](http://purl.obolibrary.org/obo/ECO_0000023) |
-| `PSI-MI:MI:0090` |              1 | [ECO:0000025](http://purl.obolibrary.org/obo/ECO_0000025) |
-| `PSI-MI:MI:0432` |              1 | [ECO:0000066](http://purl.obolibrary.org/obo/ECO_0000066) |
 

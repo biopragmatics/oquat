@@ -1,6 +1,9 @@
 # apo
 
-## `AspGD`
+## `AspGD` (3)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20AspGD)
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |-----------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8,13 +11,19 @@
 | AspGD:di  |        1 | [APO:0000314](http://purl.obolibrary.org/obo/APO_0000314)                                                                                                                                                                                                                                                  |
 | AspGD:doi |        1 | [APO:0000329](http://purl.obolibrary.org/obo/APO_0000329)                                                                                                                                                                                                                                                  |
 
-## `CryptoGD`
+## `CryptoGD` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CryptoGD)
 
 | curie        |   usages | nodes                                                                                                                |
 |--------------|----------|----------------------------------------------------------------------------------------------------------------------|
 | CryptoGD:doi |        2 | [APO:0000331](http://purl.obolibrary.org/obo/APO_0000331), [APO:0000332](http://purl.obolibrary.org/obo/APO_0000332) |
 
-## `GOC`
+## `GOC` (3)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
 
 | curie              |   usages | nodes                                                     |
 |--------------------|----------|-----------------------------------------------------------|
@@ -22,7 +31,10 @@
 | GOC:mah            |        1 | [APO:0000046](http://purl.obolibrary.org/obo/APO_0000046) |
 | GOC:mtg_cell_cycle |        1 | [APO:0000071](http://purl.obolibrary.org/obo/APO_0000071) |
 
-## `RSN`
+## `RSN` (1)
+
+If you are knowledgable about this prefix, consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RSN)
 
 | curie   |   usages | nodes                                                     |
 |---------|----------|-----------------------------------------------------------|

@@ -402,6 +402,9 @@
         "http://purl.obolibrary.org/obo/PATO_0001720": [
           "GO:GO"
         ],
+        "http://purl.obolibrary.org/obo/PATO_0001744": [
+          "ISSN:9781496335418"
+        ],
         "http://purl.obolibrary.org/obo/PATO_0001756": [
           "Wikipedia:http://en.wikipedia.org/wiki/Heat_conduction"
         ],
@@ -1160,7 +1163,6 @@
           "http://purl.obolibrary.org/obo/PATO_0001736": "PATOC:GVG",
           "http://purl.obolibrary.org/obo/PATO_0001737": "PATOC:GVG",
           "http://purl.obolibrary.org/obo/PATO_0001738": "PATOC:GVG",
-          "http://purl.obolibrary.org/obo/PATO_0001739": "PATOC:GVG",
           "http://purl.obolibrary.org/obo/PATO_0001740": "PATOC:GVG",
           "http://purl.obolibrary.org/obo/PATO_0001742": "PATOC:GVG",
           "http://purl.obolibrary.org/obo/PATO_0001743": "PATOC:GVG",
@@ -1916,9 +1918,6 @@
         "hefreedictionary.com": {
           "http://purl.obolibrary.org/obo/PATO_0001773": "hefreedictionary.com:hefreedictionary.com"
         },
-        "hps": {
-          "http://purl.obolibrary.org/obo/PATO_0001744": "hps:hps"
-        },
         "maths.org": {
           "http://purl.obolibrary.org/obo/PATO_0001053": "maths.org:maths.org"
         },
@@ -2134,8 +2133,8 @@
         }
       }
     },
-    "version": "2022-02-20",
-    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-02-20/pato.json",
+    "version": "2022-05-20",
+    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-05-20/pato.json",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/PATO_0001555": [

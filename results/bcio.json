@@ -31,7 +31,23 @@
       }
     },
     "synonym_pack": {
-      "invalid_luids": {},
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/ENVO_00000062": [
+          "Geonames:feature"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00000064": [
+          "Geonames:feature"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00000091": [
+          "Geonames:feature"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00000109": [
+          "Geonames:feature"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00000111": [
+          "Geonames:feature"
+        ]
+      },
       "label": "Synonym Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},
@@ -64,7 +80,27 @@
     },
     "version_iri": "http://humanbehaviourchange.org/ontology/bcio.owl/2022-04-30",
     "xref_pack": {
-      "invalid_luids": {},
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/ENVO_00000062": [
+          "Geonames:P.PPL",
+          "Geonames:P.PPLS"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00000064": [
+          "Geonames:R",
+          "Geonames:R.RD",
+          "Geonames:R.ST"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00000091": [
+          "Geonames:T.BCH",
+          "Geonames:T.BCHS"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00000109": [
+          "Geonames:V.GRVPN"
+        ],
+        "http://purl.obolibrary.org/obo/ENVO_00000111": [
+          "Geonames:V.FRST"
+        ]
+      },
       "label": "Node Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},
