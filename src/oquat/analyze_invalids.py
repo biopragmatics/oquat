@@ -80,7 +80,9 @@ def main():
     )
     INDEX_PATH.write_text(index_text)
 
-    for xref_norm_prefix, xref_inner in tqdm(xref_agg.items(), unit="prefix"):
+    for xref_norm_prefix, xref_inner in tqdm(
+        xref_agg.items(), unit="prefix", desc="Invalids analysis"
+    ):
         xref_name = bioregistry.get_name(xref_norm_prefix)
         xref_path = PREFIXES.joinpath(f"{xref_norm_prefix}.md")
         variants = {
@@ -137,7 +139,7 @@ def main():
 
         xref_path.write_text(source_text)
 
-    for source, inner in tqdm(source_agg.items(), unit="source"):
+    for source, inner in tqdm(source_agg.items(), unit="source", desc="Invalids analysis"):
         source_path = SOURCES.joinpath(f"{source}.md")
         repository = bioregistry.get_repository(source)
         repo_text = f" See the [GitHub repository]({repository})." if repository else ""

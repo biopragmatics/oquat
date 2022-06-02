@@ -53,11 +53,12 @@ EXTENSION_EXCEPTIONS = {
 @click.command()
 @force_option
 @click.option("--minimum")
+@click.option("--test", is_flag=True)
 @verbose_option
-def lsa(force: bool, minimum: Optional[str]):
+def lsa(force: bool, minimum: Optional[str], test: bool):
     """Run large-scale ontology analysis."""
     with logging_redirect_tqdm():
-        _lsa(force=force, minimum=minimum)
+        _lsa(force=force, minimum=minimum, test=test)
 
 
 @click.command()
@@ -67,7 +68,7 @@ def lsa_artifacts():
     _generate_artifacts()
 
 
-def _lsa(force: bool, minimum: Optional[str]):
+def _lsa(force: bool, minimum: Optional[str], test: bool = False):
     rows = sorted(
         (
             prefix,
@@ -81,6 +82,9 @@ def _lsa(force: bool, minimum: Optional[str]):
         and (not minimum or minimum <= prefix)
         and not resource.no_own_terms
     )
+    if test:
+        rows = [t for t in rows if t[0] in {"so"}]
+
     results = []
     failures = []
 
@@ -89,8 +93,7 @@ def _lsa(force: bool, minimum: Optional[str]):
         secho(_text, fg=fg)
         failures.append((prefix, text))
 
-    tqdm.write(f"got info on {len(rows)} prefixes")
-    it = tqdm(rows)
+    it = tqdm(rows, desc="Prefixes", unit="prefix")
     for prefix, iri_filter, owl_url, json_url, obo_url in it:
         if owl_url is None and json_url is None and obo_url is None:
             continue
@@ -114,9 +117,11 @@ def _lsa(force: bool, minimum: Optional[str]):
             result = {k: Results(**v) for k, v in json.loads(analysis_path.read_text()).items()}
         else:
             _iri_filter = iri_filter or CUSTOM_FILTERS.get(prefix)
-            text = f"analyzing {prefix} with IRI filter {_iri_filter}"
-            if bioregistry.is_deprecated(prefix):
-                text = f"{text} (⚠️  deprecated)"
+            _obo = " 🔨" if bioregistry.get_obofoundry_prefix(prefix) else ""
+            _deprecated = " ⚠️" if bioregistry.is_deprecated(prefix) else ""
+            text = f"[{prefix}{_obo}{_deprecated}] analyzing"
+            if _iri_filter:
+                text = f"{text} with IRI filter: {_iri_filter}"
             tqdm.write(text)
             result = None
             try:
@@ -145,7 +150,7 @@ def _lsa(force: bool, minimum: Optional[str]):
             if not result:
                 _failure(prefix=prefix, text="No parsable graphs")
             else:
-                tqdm.write(f"writing {prefix} to {analysis_path}")
+                # tqdm.write(f"writing {prefix} to {analysis_path}")
                 analysis_path.write_text(
                     json.dumps(
                         result,
@@ -163,7 +168,8 @@ def _lsa(force: bool, minimum: Optional[str]):
         + tabulate(failures, headers=["prefix", "message"], tablefmt="github")
         + "\n"
     )
-    _generate_artifacts()
+    if not test:
+        _generate_artifacts()
 
 
 def _generate_artifacts():

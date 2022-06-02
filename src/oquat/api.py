@@ -126,6 +126,7 @@ class Results(pydantic.BaseModel):
     xref_pack: ResultPack
     prov_pack: ResultPack
     synonym_pack: ResultPack
+    # edge_pack: ResultPack
 
     def to_markdown(self):
         """Build a markdown string."""
@@ -154,6 +155,7 @@ SKIP_PREFIXES = {
     "gsso",
     # Overwhelming amount of trash
     "txpo",
+    "epio",
 }
 NONCANONICAL_EXCEPTIONS = {
     "Wikipedia",
@@ -228,26 +230,16 @@ def analyze_graphs(
 
 def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
     """Analyze a single graph."""
-    node_xref_unknown_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
-    node_xref_noncanonical_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
-    node_xref_malformed_curies: DefaultDict[str, Set[str]] = defaultdict(set)
-    node_xref_invalid_luids: DefaultDict[str, Set[str]] = defaultdict(set)
-
-    prov_xref_unknown_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
-    prov_xref_noncanonical_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
-    prov_xref_malformed_curies: DefaultDict[str, Set[str]] = defaultdict(set)
-    prov_xref_invalid_luids: DefaultDict[str, Set[str]] = defaultdict(set)
-
-    syn_xref_unknown_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
-    syn_xref_noncanonical_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
-    syn_xref_malformed_curies: DefaultDict[str, Set[str]] = defaultdict(set)
-    syn_xref_invalid_luids: DefaultDict[str, Set[str]] = defaultdict(set)
+    node_xref_pack = PrePack("Node Xrefs")
+    prov_xref_pack = PrePack("Provenance Xrefs")
+    syn_xref_pack = PrePack("Synonym Xrefs")
+    # edge_pack = PrePack("Edges")
 
     if graph.id is None:
         # this is the URI for the ontology, e.g. "http://purl.obolibrary.org/obo/go.owl"
         raise MissingGraphIRI
 
-    for node in graph.nodes:
+    for node in tqdm(graph.nodes, unit_scale=True, unit="node", leave=False):
         node_id = node.id
         if iri_filter and not node_id.startswith(iri_filter):
             continue
@@ -257,35 +249,20 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
 
         node_xrefs = node_meta.xrefs
         for node_xref_dict in node_xrefs or []:
-            _aggregate_curie_issues(
-                node_id,
-                node_xref_dict.val,
-                node_xref_malformed_curies,
-                node_xref_unknown_prefixes,
-                node_xref_noncanonical_prefixes,
-                node_xref_invalid_luids,
-            )
+            node_xref_pack.aggregate_curie_issues(node_id, node_xref_dict.val)
 
         definition_xrefs = node_meta.definition and node_meta.definition.xrefs
         for prov_xref_curie in definition_xrefs or []:
-            _aggregate_curie_issues(
-                node_id,
-                prov_xref_curie,
-                prov_xref_malformed_curies,
-                prov_xref_unknown_prefixes,
-                prov_xref_noncanonical_prefixes,
-                prov_xref_invalid_luids,
+            prov_xref_pack.aggregate_curie_issues(
+                node_id=node_id,
+                curie=prov_xref_curie,
             )
 
         for synonym in node_meta.synonyms or []:
             for synoynm_xref_curie in synonym.xrefs or []:
-                _aggregate_curie_issues(
-                    node_id,
-                    synoynm_xref_curie,
-                    syn_xref_malformed_curies,
-                    syn_xref_unknown_prefixes,
-                    syn_xref_noncanonical_prefixes,
-                    syn_xref_invalid_luids,
+                syn_xref_pack.aggregate_curie_issues(
+                    node_id=node_id,
+                    curie=synoynm_xref_curie,
                     # A lot of times they stick random stuff
                     # in here that aren't CURIEs
                     track_non_curies=False,
@@ -293,39 +270,71 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
 
         # for prop in node_meta.get("basicPropertyValues", []):
         #     pass
-    # for edge in graph["edges"]:
-    #     pass
+
+    # for edge in tqdm(graph.edges, unit_scale=True, unit="edge", leave=False):
+    #     if iri_filter and not edge.sub.startswith(iri_filter):
+    #         continue
+    #     if edge.pred != "is_a":
+    #         secho(str(edge))
+    #     edge_pack.aggregate_curie_issues(edge.sub, edge.sub)
+    #     edge_pack.aggregate_curie_issues(edge.sub, edge.pred)
+    #     edge_pack.aggregate_curie_issues(edge.sub, edge.obj)
 
     return Results(
         graph_id=graph.id,
         version=graph.version,
         version_iri=graph.version_iri,
-        xref_pack=ResultPack(
-            label="Node Xrefs",
-            unknown_prefixes=node_xref_unknown_prefixes,
-            malformed_curies=_canonicalize_dict(node_xref_malformed_curies),
-            noncanonical_prefixes=node_xref_noncanonical_prefixes,
-            invalid_luids=_canonicalize_dict(node_xref_invalid_luids),
-        ),
-        prov_pack=ResultPack(
-            label="Provenance Xrefs",
-            unknown_prefixes=prov_xref_unknown_prefixes,
-            malformed_curies=_canonicalize_dict(prov_xref_malformed_curies),
-            noncanonical_prefixes=prov_xref_noncanonical_prefixes,
-            invalid_luids=_canonicalize_dict(prov_xref_invalid_luids),
-        ),
-        synonym_pack=ResultPack(
-            label="Synonym Xrefs",
-            unknown_prefixes=syn_xref_unknown_prefixes,
-            malformed_curies=_canonicalize_dict(syn_xref_malformed_curies),
-            noncanonical_prefixes=syn_xref_noncanonical_prefixes,
-            invalid_luids=_canonicalize_dict(syn_xref_invalid_luids),
-        ),
+        xref_pack=node_xref_pack.finalize(),
+        prov_pack=prov_xref_pack.finalize(),
+        synonym_pack=syn_xref_pack.finalize(),
+        # edge_pack=edge_pack.finalize(),
     )
+
+
+class PrePack:
+    """A pre-results pack for aggregating then finalizing."""
+
+    def __init__(self, label: str):
+        """Initialize the pre-results pack."""
+        self.label = label
+        self.unknown_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
+        self.noncanonical_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
+        self.malformed_curies: DefaultDict[str, Set[str]] = defaultdict(set)
+        self.invalid_luids: DefaultDict[str, Set[str]] = defaultdict(set)
+
+    def aggregate_curie_issues(
+        self,
+        node_id: str,
+        curie: str,
+        track_non_curies: bool = True,
+    ):
+        """Add an issue with a CURIE."""
+        _aggregate_curie_issues(
+            node_id,
+            curie,
+            self.malformed_curies,
+            self.unknown_prefixes,
+            self.noncanonical_prefixes,
+            self.invalid_luids,
+            track_non_curies=track_non_curies,
+        )
+
+    def finalize(self):
+        """Finalize the results pack."""
+        return ResultPack(
+            label=self.label,
+            unknown_prefixes=dict(self.unknown_prefixes),
+            malformed_curies=_canonicalize_dict(self.malformed_curies),
+            noncanonical_prefixes=dict(self.noncanonical_prefixes),
+            invalid_luids=_canonicalize_dict(self.invalid_luids),
+        )
 
 
 def _canonicalize_dict(dd: DefaultDict[str, Set[str]]) -> Dict[str, List[str]]:
     return {k: sorted(v) for k, v in dd.items()}
+
+
+SKIP_ISSUES = {"type", "is_a", "subPropertyOf"}
 
 
 def _aggregate_curie_issues(
@@ -338,6 +347,8 @@ def _aggregate_curie_issues(
     *,
     track_non_curies: bool = True,
 ) -> None:
+    if curie in SKIP_ISSUES:
+        return
     # Check that the CURIE syntax is used properly
     try:
         prefix, identifier = curie.split(":", 1)
