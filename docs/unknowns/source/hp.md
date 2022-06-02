@@ -50,6 +50,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DDD)
 
+<details>
+<summary>Click to expand the `DDD` table</summary>
+
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |---------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | DDD:dbrown          |      143 | [HP:0001631](http://purl.obolibrary.org/obo/HP_0001631), [HP:0001651](http://purl.obolibrary.org/obo/HP_0001651), [HP:0001655](http://purl.obolibrary.org/obo/HP_0001655), [HP:0001660](http://purl.obolibrary.org/obo/HP_0001660), [HP:0001674](http://purl.obolibrary.org/obo/HP_0001674), ... |
@@ -81,6 +84,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | DDD:ssissodiya      |        1 | [HP:0011445](http://purl.obolibrary.org/obo/HP_0011445)                                                                                                                                                                                                                                          |
 | DDD:ajackson        |        1 | [HP:0011446](http://purl.obolibrary.org/obo/HP_0011446)                                                                                                                                                                                                                                          |
 | DDD:jcampbell       |        1 | [HP:0011835](http://purl.obolibrary.org/obo/HP_0011835)                                                                                                                                                                                                                                          |
+
+</details>
 
 ## `DSM` (1)
 

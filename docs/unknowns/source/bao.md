@@ -87,6 +87,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GAID)
 
+<details>
+<summary>Click to expand the `GAID` table</summary>
+
 | curie        |   usages | nodes                                                           |
 |--------------|----------|-----------------------------------------------------------------|
 | GAID:376     |        1 | [UBERON:0000002](http://purl.obolibrary.org/obo/UBERON_0000002) |
@@ -115,6 +118,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | GAID:446     |        1 | [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) |
 | GAID:1186    |        1 | [UBERON:0002391](http://purl.obolibrary.org/obo/UBERON_0002391) |
 
+</details>
+
 ## `OGES` (3)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
@@ -130,6 +135,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OpenCyc)
+
+<details>
+<summary>Click to expand the `OpenCyc` table</summary>
 
 | curie                              |   usages | nodes                                                           |
 |------------------------------------|----------|-----------------------------------------------------------------|
@@ -159,6 +167,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | OpenCyc:Mx4rv6trqZwpEbGdrcN5Y29ycA |        1 | [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) |
 | OpenCyc:Mx4rvXYiz5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) |
 | OpenCyc:Mx4rvpDOU5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002391](http://purl.obolibrary.org/obo/UBERON_0002391) |
+
+</details>
 
 ## `WikipediaCategory` (1)
 

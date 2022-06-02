@@ -86,6 +86,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url)
 
+<details>
+<summary>Click to expand the `url` table</summary>
+
 | curie                                                                                                                                                                                                     |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | url:http://www.perkinelmer.com/resources/technicalresources/applicationsupportknowledgebase/radiometric/acetylation.xhtml                                                                                 |        6 | [ECO:0001057](http://purl.obolibrary.org/obo/ECO_0001057), [ECO:0001060](http://purl.obolibrary.org/obo/ECO_0001060), [ECO:0001074](http://purl.obolibrary.org/obo/ECO_0001074), [ECO:0001076](http://purl.obolibrary.org/obo/ECO_0001076), [ECO:0001546](http://purl.obolibrary.org/obo/ECO_0001546), ... |
@@ -194,6 +197,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | url:https://en.wikipedia.org/wiki/Encyclopedia                                                                                                                                                            |        1 | [ECO:0007637](http://purl.obolibrary.org/obo/ECO_0007637)                                                                                                                                                                                                                                                  |
 | url:https://en.wikipedia.org/wiki/Dictionary                                                                                                                                                              |        1 | [ECO:0007641](http://purl.obolibrary.org/obo/ECO_0007641)                                                                                                                                                                                                                                                  |
 | url:https://en.wikipedia.org/wiki/Scientific_journal                                                                                                                                                      |        1 | [ECO:0007645](http://purl.obolibrary.org/obo/ECO_0007645)                                                                                                                                                                                                                                                  |
+
+</details>
 
 ## `PMI` (1)
 

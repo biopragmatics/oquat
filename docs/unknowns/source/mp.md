@@ -44,6 +44,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20J)
 
+<details>
+<summary>Click to expand the `J` table</summary>
+
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | J:51296 |        5 | [MP:0000393](http://purl.obolibrary.org/obo/MP_0000393), [MP:0000573](http://purl.obolibrary.org/obo/MP_0000573), [MP:0001210](http://purl.obolibrary.org/obo/MP_0001210), [MP:0001882](http://purl.obolibrary.org/obo/MP_0001882), [MP:0002015](http://purl.obolibrary.org/obo/MP_0002015), ... |
@@ -179,6 +182,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | J:83217 |        1 | [MP:0005111](http://purl.obolibrary.org/obo/MP_0005111)                                                                                                                                                                                                                                          |
 | J:84533 |        1 | [MP:0005323](http://purl.obolibrary.org/obo/MP_0005323)                                                                                                                                                                                                                                          |
 
+</details>
+
 ## `KOMP` (1)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
@@ -289,6 +294,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url)
 
+<details>
+<summary>Click to expand the `url` table</summary>
+
 | curie                                                                                                                        |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |------------------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | url:https://www.sciencedirect.com/science/article/pii/B9780128096338212314                                                   |        5 | [MP:0020912](http://purl.obolibrary.org/obo/MP_0020912), [MP:0020913](http://purl.obolibrary.org/obo/MP_0020913), [MP:0020914](http://purl.obolibrary.org/obo/MP_0020914), [MP:0031023](http://purl.obolibrary.org/obo/MP_0031023), [MP:0031024](http://purl.obolibrary.org/obo/MP_0031024), ... |
@@ -311,6 +319,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | url:http://braininfo.rprc.washington.edu/centraldirectory.aspx?ID=1345                                                       |        1 | [MP:0020564](http://purl.obolibrary.org/obo/MP_0020564)                                                                                                                                                                                                                                          |
 | url:http://braininfo.rprc.washington.edu/centraldirectory.aspx?ID=2331                                                       |        1 | [MP:0020568](http://purl.obolibrary.org/obo/MP_0020568)                                                                                                                                                                                                                                          |
 | url:https://medical-dictionary.thefreedictionary.com/acute+undifferentiated+leukemia                                         |        1 | [MP:0020839](http://purl.obolibrary.org/obo/MP_0020839)                                                                                                                                                                                                                                          |
+
+</details>
 
 ## `zillmusom` (1)
 

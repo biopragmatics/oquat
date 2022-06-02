@@ -5,6 +5,9 @@
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FindMod)
 
+<details>
+<summary>Click to expand the `FindMod` table</summary>
+
 | curie           |   usages | nodes                                                                                                                                                                   |
 |-----------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | FindMod:DIMETH  |        3 | [UNIMOD:36](http://purl.obolibrary.org/obo/UNIMOD_36), [UNIMOD:986](http://purl.obolibrary.org/obo/UNIMOD_986), [UNIMOD:987](http://purl.obolibrary.org/obo/UNIMOD_987) |
@@ -67,10 +70,15 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | FindMod:GLUT    |        1 | [UNIMOD:55](http://purl.obolibrary.org/obo/UNIMOD_55)                                                                                                                   |
 | FindMod:FLAC    |        1 | [UNIMOD:7](http://purl.obolibrary.org/obo/UNIMOD_7)                                                                                                                     |
 
+</details>
+
 ## `UNIMODURL` (1509)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UNIMODURL)
+
+<details>
+<summary>Click to expand the `UNIMODURL` table</summary>
 
 | curie                                                               |   usages | nodes                                                     |
 |---------------------------------------------------------------------|----------|-----------------------------------------------------------|
@@ -1584,10 +1592,15 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=996  |        1 | [UNIMOD:996](http://purl.obolibrary.org/obo/UNIMOD_996)   |
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=997  |        1 | [UNIMOD:997](http://purl.obolibrary.org/obo/UNIMOD_997)   |
 
+</details>
+
 ## `URL` (533)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL)
+
+<details>
+<summary>Click to expand the `URL` table</summary>
 
 | curie                                                                                                                                                                     |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2124,4 +2137,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | URL:http://www.piercenet.com/files/1763dh4.pdf                                                                                                                            |        1 | [UNIMOD:942](http://purl.obolibrary.org/obo/UNIMOD_942)                                                                                                                                                                                                                                                    |
 | URL:http://tools.thermofisher.com/content/sfs/manuals/MAN0011551_GMBS_SulfoGMBS_UG.pdf                                                                                    |        1 | [UNIMOD:943](http://purl.obolibrary.org/obo/UNIMOD_943)                                                                                                                                                                                                                                                    |
 | URL:http://www.hmdb.ca/metabolites/HMDB0005079                                                                                                                            |        1 | [UNIMOD:947](http://purl.obolibrary.org/obo/UNIMOD_947)                                                                                                                                                                                                                                                    |
+
+</details>
 

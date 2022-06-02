@@ -39,6 +39,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10EXP)
 
+<details>
+<summary>Click to expand the `ICD10EXP` table</summary>
+
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ICD10EXP:E85.4+ |        7 | [MONDO:0007098](http://purl.obolibrary.org/obo/MONDO_0007098), [MONDO:0008306](http://purl.obolibrary.org/obo/MONDO_0008306), [MONDO:0017906](http://purl.obolibrary.org/obo/MONDO_0017906), [MONDO:0017945](http://purl.obolibrary.org/obo/MONDO_0017945), [MONDO:0017947](http://purl.obolibrary.org/obo/MONDO_0017947), ... |
@@ -68,6 +71,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ICD10EXP:I43.1* |        1 | [MONDO:0019441](http://purl.obolibrary.org/obo/MONDO_0019441)                                                                                                                                                                                                                                                                  |
 | ICD10EXP:F02.3* |        1 | [MONDO:0019977](http://purl.obolibrary.org/obo/MONDO_0019977)                                                                                                                                                                                                                                                                  |
 | ICD10EXP:L12+   |        1 | [MONDO:0020548](http://purl.obolibrary.org/obo/MONDO_0020548)                                                                                                                                                                                                                                                                  |
+
+</details>
 
 ## `ICD10WHO` (18)
 

@@ -5,6 +5,9 @@
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20INFOODs)
 
+<details>
+<summary>Click to expand the `INFOODs` table</summary>
+
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |---------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | INFOODs: GLUS       |        8 | [CDNO:0200013](http://purl.obolibrary.org/obo/CDNO_0200013), [CDNO:0200482](http://purl.obolibrary.org/obo/CDNO_0200482), [CDNO:0200483](http://purl.obolibrary.org/obo/CDNO_0200483), [CDNO:0200484](http://purl.obolibrary.org/obo/CDNO_0200484), [CDNO:0200486](http://purl.obolibrary.org/obo/CDNO_0200486), ... |
@@ -256,10 +259,15 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | INFOODs: VITB12     |        1 | [CDNO:0200534](http://purl.obolibrary.org/obo/CDNO_0200534)                                                                                                                                                                                                                                                          |
 | INFOODs: MK8        |        1 | [CDNO:0200542](http://purl.obolibrary.org/obo/CDNO_0200542)                                                                                                                                                                                                                                                          |
 
+</details>
+
 ## `USDA_NDB` (114)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USDA_NDB)
+
+<details>
+<summary>Click to expand the `USDA_NDB` table</summary>
 
 | curie          |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |----------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -377,4 +385,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | USDA_NDB: 1111 |        1 | [CDNO:0200539](http://purl.obolibrary.org/obo/CDNO_0200539)                                                                                                                                                                                                                                                          |
 | USDA_NDB: 1183 |        1 | [CDNO:0200542](http://purl.obolibrary.org/obo/CDNO_0200542)                                                                                                                                                                                                                                                          |
 | USDA_NDB: 1185 |        1 | [CDNO:0200543](http://purl.obolibrary.org/obo/CDNO_0200543)                                                                                                                                                                                                                                                          |
+
+</details>
 

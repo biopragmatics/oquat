@@ -23,6 +23,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FNA)
 
+<details>
+<summary>Click to expand the `FNA` table</summary>
+
 | curie                                    |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | FNA:978c1c40-4dee-4bb1-99f6-b2360d1b77b4 |        5 | [PO:0000030](http://purl.obolibrary.org/obo/PO_0000030), [PO:0005010](http://purl.obolibrary.org/obo/PO_0005010), [PO:0025267](http://purl.obolibrary.org/obo/PO_0025267), [PO:0025268](http://purl.obolibrary.org/obo/PO_0025268), [PO:0025272](http://purl.obolibrary.org/obo/PO_0025272), ... |
@@ -125,6 +128,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | FNA:1020bdb1-00b7-444e-b8d0-ee3bc404f817 |        1 | [PO:0030044](http://purl.obolibrary.org/obo/PO_0030044)                                                                                                                                                                                                                                          |
 | FNA:bd912db8-34fc-452c-b227-525571dec306 |        1 | [PO:0030052](http://purl.obolibrary.org/obo/PO_0030052)                                                                                                                                                                                                                                          |
 | FNA:d0ce6c67-625d-4187-bd50-3af01e6e68a6 |        1 | [PO:0030072](http://purl.obolibrary.org/obo/PO_0030072)                                                                                                                                                                                                                                          |
+
+</details>
 
 ## `GOC` (1)
 
@@ -274,6 +279,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PO_GIT)
+
+<details>
+<summary>Click to expand the `PO_GIT` table</summary>
 
 | curie      |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -700,10 +708,15 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | PO_GIT:672 |        1 | [PO:0030112](http://purl.obolibrary.org/obo/PO_0030112)                                                                                                                                                                                                                                          |
 | PO_GIT:673 |        1 | [PO:0030113](http://purl.obolibrary.org/obo/PO_0030113)                                                                                                                                                                                                                                          |
 
+</details>
+
 ## `SOY` (80)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SOY)
+
+<details>
+<summary>Click to expand the `SOY` table</summary>
 
 | curie       |   usages | nodes                                                   |
 |-------------|----------|---------------------------------------------------------|
@@ -788,10 +801,15 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | SOY:0000046 |        1 | [PO:0007122](http://purl.obolibrary.org/obo/PO_0007122) |
 | SOY:0000020 |        1 | [PO:0007123](http://purl.obolibrary.org/obo/PO_0007123) |
 
+</details>
+
 ## `TAIR` (33)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TAIR)
+
+<details>
+<summary>Click to expand the `TAIR` table</summary>
 
 | curie         |   usages | nodes                                                   |
 |---------------|----------|---------------------------------------------------------|
@@ -828,6 +846,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | TAIR:0000027  |        1 | [PO:0007131](http://purl.obolibrary.org/obo/PO_0007131) |
 | TAIR:0000305  |        1 | [PO:0007134](http://purl.obolibrary.org/obo/PO_0007134) |
 | TAIR:0000205  |        1 | [PO:0009012](http://purl.obolibrary.org/obo/PO_0009012) |
+
+</details>
 
 ## `GO_GIT` (1)
 

@@ -47,6 +47,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Subcellular)
 
+<details>
+<summary>Click to expand the `NIF_Subcellular` table</summary>
+
 | curie                              |   usages | nodes                                                   |
 |------------------------------------|----------|---------------------------------------------------------|
 | NIF_Subcellular:sao1337158144      |        1 | [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) |
@@ -81,6 +84,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | NIF_Subcellular:sao624292949       |        1 | [GO:0044431](http://purl.obolibrary.org/obo/GO_0044431) |
 | NIF_Subcellular:sao628508602       |        1 | [GO:0044464](http://purl.obolibrary.org/obo/GO_0044464) |
 | NIF_Subcellular:sao1872343973      |        1 | [GO:0097427](http://purl.obolibrary.org/obo/GO_0097427) |
+
+</details>
 
 ## `PATOC` (9)
 

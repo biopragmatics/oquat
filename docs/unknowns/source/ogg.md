@@ -5,6 +5,9 @@
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMGT/GENE-DB)
 
+<details>
+<summary>Click to expand the `IMGT/GENE-DB` table</summary>
+
 | curie                       |   usages | nodes                                                           |
 |-----------------------------|----------|-----------------------------------------------------------------|
 | IMGT/GENE-DB:IGHA1          |        1 | [OGG:3000003493](http://purl.obolibrary.org/obo/OGG_3000003493) |
@@ -591,4 +594,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IMGT/GENE-DB:IGHV1/OR15-5   |        1 | [OGG:3100384884](http://purl.obolibrary.org/obo/OGG_3100384884) |
 | IMGT/GENE-DB:IGHV3/OR16-14  |        1 | [OGG:3100568447](http://purl.obolibrary.org/obo/OGG_3100568447) |
 | IMGT/GENE-DB:IGKV2/OR2-8    |        1 | [OGG:3100996600](http://purl.obolibrary.org/obo/OGG_3100996600) |
+
+</details>
 

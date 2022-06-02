@@ -92,8 +92,13 @@ assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5
             if len(rows) < 20:
                 source_text += table_text
             else:
-                # TODO add summary/details box around table
-                source_text += table_text
+                source_text += f"""\
+<details>
+<summary>Click to expand the `{unknown_prefix}` table</summary>
+
+{table_text}</details>
+
+"""
 
         source_path.write_text(source_text)
 

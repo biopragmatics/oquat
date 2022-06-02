@@ -5,6 +5,9 @@
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url)
 
+<details>
+<summary>Click to expand the `url` table</summary>
+
 | curie                                                                                                                                |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |--------------------------------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | url:http://www.nationalpainfoundation.org/MyTreatment/articles/Cancer_PainDefinitions.asp                                            |       14 | [SYMP:0000099](http://purl.obolibrary.org/obo/SYMP_0000099), [SYMP:0000300](http://purl.obolibrary.org/obo/SYMP_0000300), [SYMP:0000829](http://purl.obolibrary.org/obo/SYMP_0000829), [SYMP:0000830](http://purl.obolibrary.org/obo/SYMP_0000830), [SYMP:0000831](http://purl.obolibrary.org/obo/SYMP_0000831), ... |
@@ -228,4 +231,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | url:http://www.autism.org.uk/about/behaviour/obsessions-repetitive-routines.aspx##repetitive                                         |        1 | [SYMP:0019187](http://purl.obolibrary.org/obo/SYMP_0019187)                                                                                                                                                                                                                                                          |
 | url:https://mayfieldclinic.com/pe-ich.htm                                                                                            |        1 | [SYMP:0019189](http://purl.obolibrary.org/obo/SYMP_0019189)                                                                                                                                                                                                                                                          |
 | url:https://my.clevelandclinic.org/health/diseases/21183-subdural-hematoma                                                           |        1 | [SYMP:0019190](http://purl.obolibrary.org/obo/SYMP_0019190)                                                                                                                                                                                                                                                          |
+
+</details>
 

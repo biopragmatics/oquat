@@ -5,6 +5,9 @@
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20colombos)
 
+<details>
+<summary>Click to expand the `colombos` table</summary>
+
 | curie                                   |   usages | nodes                                                     |
 |-----------------------------------------|----------|-----------------------------------------------------------|
 | colombos:MEDIUM.PENASSAY                |        1 | [MCO:0000033](http://purl.obolibrary.org/obo/MCO_0000033) |
@@ -440,4 +443,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | colombos:TETRACYCLINE:16µg/ml           |        1 | [MCO:0000782](http://purl.obolibrary.org/obo/MCO_0000782) |
 | colombos:TETRACYCLINE:0.25µg/ml         |        1 | [MCO:0000783](http://purl.obolibrary.org/obo/MCO_0000783) |
 | colombos:NANOPARTICLES.TiO2:100mg/l     |        1 | [MCO:0000785](http://purl.obolibrary.org/obo/MCO_0000785) |
+
+</details>
 

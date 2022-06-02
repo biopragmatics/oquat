@@ -32,6 +32,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Orange)
 
+<details>
+<summary>Click to expand the `Orange` table</summary>
+
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |-----------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Orange:5.2.2    |        8 | [CHMO:0000687](http://purl.obolibrary.org/obo/CHMO_0000687), [CHMO:0000688](http://purl.obolibrary.org/obo/CHMO_0000688), [CHMO:0000689](http://purl.obolibrary.org/obo/CHMO_0000689), [CHMO:0000692](http://purl.obolibrary.org/obo/CHMO_0000692), [CHMO:0000693](http://purl.obolibrary.org/obo/CHMO_0000693), ... |
@@ -58,10 +61,15 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | Orange:9.2.1.5  |        1 | [CHMO:0001011](http://purl.obolibrary.org/obo/CHMO_0001011)                                                                                                                                                                                                                                                          |
 | Orange:3.4.12   |        1 | [CHMO:0002348](http://purl.obolibrary.org/obo/CHMO_0002348)                                                                                                                                                                                                                                                          |
 
+</details>
+
 ## `OrangeBook` (27)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OrangeBook)
+
+<details>
+<summary>Click to expand the `OrangeBook` table</summary>
 
 | curie                 |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |-----------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -92,6 +100,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | OrangeBook:9.2.1.4    |        1 | [CHMO:0001009](http://purl.obolibrary.org/obo/CHMO_0001009)                                                                                                                                                                                                                                                          |
 | OrangeBook:10.3.4.9.3 |        1 | [CHMO:0001657](http://purl.obolibrary.org/obo/CHMO_0001657)                                                                                                                                                                                                                                                          |
 | OrangeBook:3.4.3      |        1 | [CHMO:0002354](http://purl.obolibrary.org/obo/CHMO_0002354)                                                                                                                                                                                                                                                          |
+
+</details>
 
 ## `PSI` (1)
 

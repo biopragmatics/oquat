@@ -5,6 +5,9 @@
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DeltaMass)
 
+<details>
+<summary>Click to expand the `DeltaMass` table</summary>
+
 | curie         |   usages | nodes                                                                                                                                                                                                                                                                                  |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | DeltaMass:0   |      205 | [MOD:00010](http://purl.obolibrary.org/obo/MOD_00010), [MOD:00011](http://purl.obolibrary.org/obo/MOD_00011), [MOD:00012](http://purl.obolibrary.org/obo/MOD_00012), [MOD:00013](http://purl.obolibrary.org/obo/MOD_00013), [MOD:00014](http://purl.obolibrary.org/obo/MOD_00014), ... |
@@ -120,10 +123,15 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | DeltaMass:314 |        1 | [MOD:01141](http://purl.obolibrary.org/obo/MOD_01141)                                                                                                                                                                                                                                  |
 | DeltaMass:181 |        1 | [MOD:01227](http://purl.obolibrary.org/obo/MOD_01227)                                                                                                                                                                                                                                  |
 
+</details>
+
 ## `OMSSA` (137)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OMSSA)
+
+<details>
+<summary>Click to expand the `OMSSA` table</summary>
 
 | curie     |   usages | nodes                                                                                                        |
 |-----------|----------|--------------------------------------------------------------------------------------------------------------|
@@ -264,6 +272,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | OMSSA:208 |        1 | [MOD:01865](http://purl.obolibrary.org/obo/MOD_01865)                                                        |
 | OMSSA:209 |        1 | [MOD:01866](http://purl.obolibrary.org/obo/MOD_01866)                                                        |
 | OMSSA:210 |        1 | [MOD:01867](http://purl.obolibrary.org/obo/MOD_01867)                                                        |
+
+</details>
 
 ## `URL` (10)
 

@@ -163,6 +163,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PharmGKB)
 
+<details>
+<summary>Click to expand the `PharmGKB` table</summary>
+
 | curie                                                                                         |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |-----------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | PharmGKB:http://www.pharmgkb.org/                                                             |       15 | [PW:0000723](http://purl.obolibrary.org/obo/PW_0000723), [PW:0000724](http://purl.obolibrary.org/obo/PW_0000724), [PW:0000725](http://purl.obolibrary.org/obo/PW_0000725), [PW:0000726](http://purl.obolibrary.org/obo/PW_0000726), [PW:0000727](http://purl.obolibrary.org/obo/PW_0000727), ... |
@@ -190,6 +193,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | PharmGKB:http://www.pharmgkb.org/pathway/PA2029                                               |        1 | [PW:0001226](http://purl.obolibrary.org/obo/PW_0001226)                                                                                                                                                                                                                                          |
 | PharmGKB:http://www.pharmgkb.org/search/pathwaysByCategory.action#pathwayCategories:981478748 |        1 | [PW:0001424](http://purl.obolibrary.org/obo/PW_0001424)                                                                                                                                                                                                                                          |
 | PharmGKB:http://www.pharmgkb.org/pathway/PA165950411                                          |        1 | [PW:0001425](http://purl.obolibrary.org/obo/PW_0001425)                                                                                                                                                                                                                                          |
+
+</details>
 
 ## `Reactomee` (1)
 

@@ -32,6 +32,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMG)
 
+<details>
+<summary>Click to expand the `IMG` table</summary>
+
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
 | IMG:02784 |        1 | [GO:0033785](http://purl.obolibrary.org/obo/GO_0033785) |
@@ -70,6 +73,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IMG:03341 |        1 | [GO:0044105](http://purl.obolibrary.org/obo/GO_0044105) |
 | IMG:03312 |        1 | [GO:0070694](http://purl.obolibrary.org/obo/GO_0070694) |
 
+</details>
+
 ## `MEROPS_fam` (2)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
@@ -93,6 +98,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Subcellular)
+
+<details>
+<summary>Click to expand the `NIF_Subcellular` table</summary>
 
 | curie                                |   usages | nodes                                                                                                            |
 |--------------------------------------|----------|------------------------------------------------------------------------------------------------------------------|
@@ -327,6 +335,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | NIF_Subcellular:sao1634374950        |        1 | [GO:1990039](http://purl.obolibrary.org/obo/GO_1990039)                                                          |
 | NIF_Subcellular:sao128470897         |        1 | [GO:1990040](http://purl.obolibrary.org/obo/GO_1990040)                                                          |
 
+</details>
+
 ## `PHI` (1)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
@@ -414,6 +424,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TAIR)
+
+<details>
+<summary>Click to expand the `TAIR` table</summary>
 
 | curie          |   usages | nodes                                                                 |
 |----------------|----------|-----------------------------------------------------------------------|
@@ -16791,4 +16804,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | TAIR:AT1G80990 |        1 | [NCBIGene:844439](http://purl.obolibrary.org/obo/NCBIGene_844439)     |
 | TAIR:AT1G77815 |        1 | [NCBIGene:844442](http://purl.obolibrary.org/obo/NCBIGene_844442)     |
 | TAIR:AT1G45243 |        1 | [NCBIGene:844573](http://purl.obolibrary.org/obo/NCBIGene_844573)     |
+
+</details>
 

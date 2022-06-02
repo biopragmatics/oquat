@@ -109,6 +109,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIFSTD)
 
+<details>
+<summary>Click to expand the `NIFSTD` table</summary>
+
 | curie                    |   usages | nodes                                                                                                    |
 |--------------------------|----------|----------------------------------------------------------------------------------------------------------|
 | NIFSTD:birnlex_2117      |        2 | [EFO:0002607](http://www.ebi.ac.uk/efo/EFO_0002607), [EFO:0002694](http://www.ebi.ac.uk/efo/EFO_0002694) |
@@ -203,6 +206,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | NIFSTD:birnlex_12697     |        1 | [EFO:0002512](http://www.ebi.ac.uk/efo/EFO_0002512)                                                      |
 | NIFSTD:birnlex_484       |        1 | [EFO:0002543](http://www.ebi.ac.uk/efo/EFO_0002543)                                                      |
 | NIFSTD:birnlex_12648     |        1 | [EFO:0002624](http://www.ebi.ac.uk/efo/EFO_0002624)                                                      |
+
+</details>
 
 ## `OGES` (1)
 

@@ -5,6 +5,9 @@
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20EMAPS)
 
+<details>
+<summary>Click to expand the `EMAPS` table</summary>
+
 | curie          |   usages | nodes                                                                                                            |
 |----------------|----------|------------------------------------------------------------------------------------------------------------------|
 | EMAPS:3268828  |        2 | [MA:0000164](http://purl.obolibrary.org/obo/MA_0000164), [MA:0002441](http://purl.obolibrary.org/obo/MA_0002441) |
@@ -1859,4 +1862,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | EMAPS:1929428  |        1 | [MA:0003255](http://purl.obolibrary.org/obo/MA_0003255)                                                          |
 | EMAPS:2691328  |        1 | [MA:0003256](http://purl.obolibrary.org/obo/MA_0003256)                                                          |
 | EMAPS:3625428  |        1 | [MA:0003257](http://purl.obolibrary.org/obo/MA_0003257)                                                          |
+
+</details>
 

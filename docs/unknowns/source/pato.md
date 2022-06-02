@@ -547,6 +547,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url)
 
+<details>
+<summary>Click to expand the `url` table</summary>
+
 | curie                                                                        |   usages | nodes                                                                                                                                                                                 |
 |------------------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | url:http://www.oed.com/                                                      |        3 | [PATO:0001988](http://purl.obolibrary.org/obo/PATO_0001988), [PATO:0002273](http://purl.obolibrary.org/obo/PATO_0002273), [PATO:0002274](http://purl.obolibrary.org/obo/PATO_0002274) |
@@ -579,6 +582,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | url:http://en.wikipedia.org/wiki/Phosphorylation                             |        1 | [PATO:0002262](http://purl.obolibrary.org/obo/PATO_0002262)                                                                                                                           |
 | url:http://en.wikipedia.org/wiki/Dephosphorylation                           |        1 | [PATO:0002263](http://purl.obolibrary.org/obo/PATO_0002263)                                                                                                                           |
 | url:http://en.wikipedia.org/wiki/Iridescence                                 |        1 | [PATO:0002277](http://purl.obolibrary.org/obo/PATO_0002277)                                                                                                                           |
+
+</details>
 
 ## `web` (3)
 

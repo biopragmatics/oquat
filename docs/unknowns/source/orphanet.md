@@ -5,6 +5,9 @@
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IUPHAR)
 
+<details>
+<summary>Click to expand the `IUPHAR` table</summary>
+
 | curie       |   usages | nodes                                                                                  |
 |-------------|----------|----------------------------------------------------------------------------------------|
 | IUPHAR:2464 |        1 | [http://www.orpha.net/ORDO/Orphanet_117617](http://www.orpha.net/ORDO/Orphanet_117617) |
@@ -1004,4 +1007,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:2016 |        1 | [http://www.orpha.net/ORDO/Orphanet_609793](http://www.orpha.net/ORDO/Orphanet_609793) |
 | IUPHAR:295  |        1 | [http://www.orpha.net/ORDO/Orphanet_609955](http://www.orpha.net/ORDO/Orphanet_609955) |
 | IUPHAR:705  |        1 | [http://www.orpha.net/ORDO/Orphanet_610576](http://www.orpha.net/ORDO/Orphanet_610576) |
+
+</details>
 

@@ -15,6 +15,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
 
+<details>
+<summary>Click to expand the `GOC` table</summary>
+
 | curie              |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |--------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | GOC:jl             |        8 | [FBcv:0000387](http://purl.obolibrary.org/obo/FBcv_0000387), [FBcv:0000400](http://purl.obolibrary.org/obo/FBcv_0000400), [FBcv:0000409](http://purl.obolibrary.org/obo/FBcv_0000409), [FBcv:0000413](http://purl.obolibrary.org/obo/FBcv_0000413), [FBcv:0000422](http://purl.obolibrary.org/obo/FBcv_0000422), ... |
@@ -40,4 +43,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | GOC:hb             |        1 | [FBcv:0000683](http://purl.obolibrary.org/obo/FBcv_0000683)                                                                                                                                                                                                                                                          |
 | GOC:isa_complete   |        1 | [FBcv:0000686](http://purl.obolibrary.org/obo/FBcv_0000686)                                                                                                                                                                                                                                                          |
 | GOC:ems            |        1 | [FBcv:0006004](http://purl.obolibrary.org/obo/FBcv_0006004)                                                                                                                                                                                                                                                          |
+
+</details>
 

@@ -41,6 +41,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20VFB_vol)
 
+<details>
+<summary>Click to expand the `VFB_vol` table</summary>
+
 | curie            |   usages | nodes                                                                                                                        |
 |------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
 | VFB_vol:00045010 |        2 | [FBbt:00045010](http://purl.obolibrary.org/obo/FBbt_00045010), [FBbt:00110640](http://purl.obolibrary.org/obo/FBbt_00110640) |
@@ -75,10 +78,15 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | VFB_vol:00045050 |        1 | [FBbt:00045050](http://purl.obolibrary.org/obo/FBbt_00045050)                                                                |
 | VFB_vol:00045051 |        1 | [FBbt:00045051](http://purl.obolibrary.org/obo/FBbt_00045051)                                                                |
 
+</details>
+
 ## `larvalbrain_neuropil` (151)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20larvalbrain_neuropil)
+
+<details>
+<summary>Click to expand the `larvalbrain_neuropil` table</summary>
 
 | curie                    |   usages | nodes                                                         |
 |--------------------------|----------|---------------------------------------------------------------|
@@ -233,4 +241,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | larvalbrain_neuropil:587 |        1 | [FBbt:00111203](http://purl.obolibrary.org/obo/FBbt_00111203) |
 | larvalbrain_neuropil:581 |        1 | [FBbt:00111206](http://purl.obolibrary.org/obo/FBbt_00111206) |
 | larvalbrain_neuropil:576 |        1 | [FBbt:00111207](http://purl.obolibrary.org/obo/FBbt_00111207) |
+
+</details>
 

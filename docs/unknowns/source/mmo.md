@@ -395,6 +395,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Website)
 
+<details>
+<summary>Click to expand the `Website` table</summary>
+
 | curie                                                                                                                                                                              |   usages | nodes                                                                                                                                                                                                                                      |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Website:http://www.answers.com/                                                                                                                                                    |        4 | [MMO:0000110](http://purl.obolibrary.org/obo/MMO_0000110), [MMO:0000111](http://purl.obolibrary.org/obo/MMO_0000111), [MMO:0000220](http://purl.obolibrary.org/obo/MMO_0000220), [MMO:0000221](http://purl.obolibrary.org/obo/MMO_0000221) |
@@ -447,6 +450,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | Website:https://www.nationaldiagnostics.com/electrophoresis/article/primer-extension                                                                                               |        1 | [MMO:0000654](http://purl.obolibrary.org/obo/MMO_0000654)                                                                                                                                                                                  |
 | Website:https://www.proteinatlas.org/learn/method/immunoelectron+microscopy                                                                                                        |        1 | [MMO:0000663](http://purl.obolibrary.org/obo/MMO_0000663)                                                                                                                                                                                  |
 | Website:https://medicine.yale.edu/pathology/ypts/tissuemicroarrayfacility/index.aspx                                                                                               |        1 | [MMO:0000667](http://purl.obolibrary.org/obo/MMO_0000667)                                                                                                                                                                                  |
+
+</details>
 
 ## `Webster` (1)
 

@@ -24,6 +24,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBO_SF2_PECO)
 
+<details>
+<summary>Click to expand the `OBO_SF2_PECO` table</summary>
+
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |-----------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | OBO_SF2_PECO:72 |       13 | [PECO:0007066](http://purl.obolibrary.org/obo/PECO_0007066), [PECO:0007068](http://purl.obolibrary.org/obo/PECO_0007068), [PECO:0007069](http://purl.obolibrary.org/obo/PECO_0007069), [PECO:0007070](http://purl.obolibrary.org/obo/PECO_0007070), [PECO:0007074](http://purl.obolibrary.org/obo/PECO_0007074), ... |
@@ -101,10 +104,15 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | OBO_SF2_PECO:62 |        1 | [PECO:0007407](http://purl.obolibrary.org/obo/PECO_0007407)                                                                                                                                                                                                                                                          |
 | OBO_SF2_PECO:61 |        1 | [PECO:0007408](http://purl.obolibrary.org/obo/PECO_0007408)                                                                                                                                                                                                                                                          |
 
+</details>
+
 ## `PECO_GIT` (80)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PECO_GIT)
+
+<details>
+<summary>Click to expand the `PECO_GIT` table</summary>
 
 | curie        |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |--------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -188,4 +196,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | PECO_GIT:82  |        1 | [PECO:0007403](http://purl.obolibrary.org/obo/PECO_0007403)                                                                                                                                                                                                                                                          |
 | PECO_GIT:62  |        1 | [PECO:0007407](http://purl.obolibrary.org/obo/PECO_0007407)                                                                                                                                                                                                                                                          |
 | PECO_GIT:61  |        1 | [PECO:0007408](http://purl.obolibrary.org/obo/PECO_0007408)                                                                                                                                                                                                                                                          |
+
+</details>
 

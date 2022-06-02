@@ -162,6 +162,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TO_GIT)
 
+<details>
+<summary>Click to expand the `TO_GIT` table</summary>
+
 | curie      |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TO_GIT:412 |       55 | [TO:0000995](http://purl.obolibrary.org/obo/TO_0000995), [TO:0001043](http://purl.obolibrary.org/obo/TO_0001043), [TO:0001044](http://purl.obolibrary.org/obo/TO_0001044), [TO:0001045](http://purl.obolibrary.org/obo/TO_0001045), [TO:0001046](http://purl.obolibrary.org/obo/TO_0001046), ... |
@@ -317,6 +320,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | TO_GIT:213 |        1 | [TO:0020016](http://purl.obolibrary.org/obo/TO_0020016)                                                                                                                                                                                                                                          |
 | TO_GIT:99  |        1 | [TO:0020085](http://purl.obolibrary.org/obo/TO_0020085)                                                                                                                                                                                                                                          |
 | TO_GIT:100 |        1 | [TO:0020088](http://purl.obolibrary.org/obo/TO_0020088)                                                                                                                                                                                                                                          |
+
+</details>
 
 ## `group` (1)
 

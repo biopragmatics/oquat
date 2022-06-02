@@ -172,6 +172,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPIRE)
 
+<details>
+<summary>Click to expand the `SPIRE` table</summary>
+
 | curie                       |   usages | nodes                                                                                                                                                                                                                                                      |
 |-----------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SPIRE:Tundra                |        4 | [ENVO:01000180](http://purl.obolibrary.org/obo/ENVO_01000180), [ENVO:01001370](http://purl.obolibrary.org/obo/ENVO_01001370), [ENVO:01001371](http://purl.obolibrary.org/obo/ENVO_01001371), [ENVO:01001505](http://purl.obolibrary.org/obo/ENVO_01001505) |
@@ -210,4 +213,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | SPIRE:Polar                 |        1 | [ENVO:01000238](http://purl.obolibrary.org/obo/ENVO_01000238)                                                                                                                                                                                              |
 | SPIRE:Urban                 |        1 | [ENVO:01000249](http://purl.obolibrary.org/obo/ENVO_01000249)                                                                                                                                                                                              |
 | SPIRE:Taiga                 |        1 | [ENVO:01000250](http://purl.obolibrary.org/obo/ENVO_01000250)                                                                                                                                                                                              |
+
+</details>
 

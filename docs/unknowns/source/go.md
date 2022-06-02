@@ -5,6 +5,9 @@
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
 
+<details>
+<summary>Click to expand the `GOC` table</summary>
+
 | curie                              |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | GOC:TermGenie                      |     4496 | [GO:0000917](http://purl.obolibrary.org/obo/GO_0000917), [GO:0002036](http://purl.obolibrary.org/obo/GO_0002036), [GO:0002037](http://purl.obolibrary.org/obo/GO_0002037), [GO:0002038](http://purl.obolibrary.org/obo/GO_0002038), [GO:0003352](http://purl.obolibrary.org/obo/GO_0003352), ... |
@@ -136,6 +139,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | GOC:tt                             |        1 | [GO:1902706](http://purl.obolibrary.org/obo/GO_1902706)                                                                                                                                                                                                                                          |
 | GOC:hal                            |        1 | [GO:1904447](http://purl.obolibrary.org/obo/GO_1904447)                                                                                                                                                                                                                                          |
 
+</details>
+
 ## `GOCL` (1)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
@@ -214,6 +219,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Subcellular)
+
+<details>
+<summary>Click to expand the `NIF_Subcellular` table</summary>
 
 | curie                                |   usages | nodes                                                                                                            |
 |--------------------------------------|----------|------------------------------------------------------------------------------------------------------------------|
@@ -442,6 +450,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | NIF_Subcellular:sao5764355747        |        1 | [GO:1990038](http://purl.obolibrary.org/obo/GO_1990038)                                                          |
 | NIF_Subcellular:sao1634374950        |        1 | [GO:1990039](http://purl.obolibrary.org/obo/GO_1990039)                                                          |
 | NIF_Subcellular:sao128470897         |        1 | [GO:1990040](http://purl.obolibrary.org/obo/GO_1990040)                                                          |
+
+</details>
 
 ## `PIMD` (1)
 

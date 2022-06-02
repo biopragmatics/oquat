@@ -14,6 +14,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ChemicalBookNo)
 
+<details>
+<summary>Click to expand the `ChemicalBookNo` table</summary>
+
 | curie                       |   usages | nodes                                                                                                                                                                           |
 |-----------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ChemicalBookNo:CB8307815    |        3 | [XLMOD:07003](http://purl.obolibrary.org/obo/XLMOD_07003), [XLMOD:07102](http://purl.obolibrary.org/obo/XLMOD_07102), [XLMOD:09178](http://purl.obolibrary.org/obo/XLMOD_09178) |
@@ -460,10 +463,15 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ChemicalBookNo:CB1337916    |        1 | [XLMOD:09315](http://purl.obolibrary.org/obo/XLMOD_09315)                                                                                                                       |
 | ChemicalBookNo:CB3737855    |        1 | [XLMOD:09316](http://purl.obolibrary.org/obo/XLMOD_09316)                                                                                                                       |
 
+</details>
+
 ## `MDL` (68)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MDL)
+
+<details>
+<summary>Click to expand the `MDL` table</summary>
 
 | curie            |   usages | nodes                                                                                                                                                                           |
 |------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -535,6 +543,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | MDL:MFCD00012951 |        1 | [XLMOD:07029](http://purl.obolibrary.org/obo/XLMOD_07029)                                                                                                                       |
 | MDL:MFCD00043085 |        1 | [XLMOD:09268](http://purl.obolibrary.org/obo/XLMOD_09268)                                                                                                                       |
 | MDL:MFCD00007444 |        1 | [XLMOD:09314](http://purl.obolibrary.org/obo/XLMOD_09314)                                                                                                                       |
+
+</details>
 
 ## `PSI` (1)
 

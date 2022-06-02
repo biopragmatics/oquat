@@ -5,6 +5,9 @@
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CASGEN)
 
+<details>
+<summary>Click to expand the `CASGEN` table</summary>
+
 | curie        |   usages | nodes                                                                                                            |
 |--------------|----------|------------------------------------------------------------------------------------------------------------------|
 | CASGEN:8015  |        2 | [TTO:100404](http://purl.obolibrary.org/obo/TTO_100404), [TTO:108015](http://purl.obolibrary.org/obo/TTO_108015) |
@@ -2198,6 +2201,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | CASGEN:8504  |        1 | [TTO:110934](http://purl.obolibrary.org/obo/TTO_110934)                                                          |
 | CASGEN:10942 |        1 | [TTO:110942](http://purl.obolibrary.org/obo/TTO_110942)                                                          |
 | CASGEN:10998 |        1 | [TTO:110998](http://purl.obolibrary.org/obo/TTO_110998)                                                          |
+
+</details>
 
 ## `TTOCurator` (3)
 

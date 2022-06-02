@@ -80,6 +80,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GAID)
 
+<details>
+<summary>Click to expand the `GAID` table</summary>
+
 | curie        |   usages | nodes                                                                                                                            |
 |--------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
 | GAID:423     |        2 | [UBERON:0000082](http://purl.obolibrary.org/obo/UBERON_0000082), [UBERON:0002113](http://purl.obolibrary.org/obo/UBERON_0002113) |
@@ -854,6 +857,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | GAID:929     |        1 | [UBERON:0011818](http://purl.obolibrary.org/obo/UBERON_0011818)                                                                  |
 | GAID:141     |        1 | [UBERON:0014892](http://purl.obolibrary.org/obo/UBERON_0014892)                                                                  |
 
+</details>
+
 ## `GOC` (4)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
@@ -990,6 +995,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NLX)
 
+<details>
+<summary>Click to expand the `NLX` table</summary>
+
 | curie      |   usages | nodes                                                           |
 |------------|----------|-----------------------------------------------------------------|
 | NLX:147821 |        1 | [UBERON:0000122](http://purl.obolibrary.org/obo/UBERON_0000122) |
@@ -1104,6 +1112,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | NLX:144071 |        1 | [UBERON:0036005](http://purl.obolibrary.org/obo/UBERON_0036005) |
 | NLX:91101  |        1 | [UBERON:0036007](http://purl.obolibrary.org/obo/UBERON_0036007) |
 | NLX:144476 |        1 | [UBERON:0036012](http://purl.obolibrary.org/obo/UBERON_0036012) |
+
+</details>
 
 ## `OBOL` (3)
 
@@ -1276,6 +1286,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BM)
+
+<details>
+<summary>Click to expand the `BM` table</summary>
 
 | curie             |   usages | nodes                                                                                                                            |
 |-------------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
@@ -1519,6 +1532,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | BM:Tel-Cx-Te      |        1 | [UBERON:0016538](http://purl.obolibrary.org/obo/UBERON_0016538)                                                                  |
 | BM:Tel-Cx-Ins     |        1 | [UBERON:0034891](http://purl.obolibrary.org/obo/UBERON_0034891)                                                                  |
 
+</details>
+
 ## `BioMart` (1)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
@@ -1644,6 +1659,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UBERONTEMP)
 
+<details>
+<summary>Click to expand the `UBERONTEMP` table</summary>
+
 | curie                                           |   usages | nodes                                                           |
 |-------------------------------------------------|----------|-----------------------------------------------------------------|
 | UBERONTEMP:0ea3066e-0c22-417b-8ac4-91c2aacba792 |        1 | [UBERON:0016929](http://purl.obolibrary.org/obo/UBERON_0016929) |
@@ -1746,6 +1764,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | UBERONTEMP:1ab99cc2-1435-4a9f-ade0-4e3b8efc8774 |        1 | [UBERON:0018373](http://purl.obolibrary.org/obo/UBERON_0018373) |
 | UBERONTEMP:caa10252-5f7e-4a55-a72c-cf7986a89363 |        1 | [UBERON:0018374](http://purl.obolibrary.org/obo/UBERON_0018374) |
 
+</details>
+
 ## `ANISEED` (13)
 
 If you are knowledgable about this prefix, consider submitting a new prefix
@@ -1789,6 +1809,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BSA)
 
+<details>
+<summary>Click to expand the `BSA` table</summary>
+
 | curie       |   usages | nodes                                                           |
 |-------------|----------|-----------------------------------------------------------------|
 | BSA:0000121 |        1 | [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020) |
@@ -1817,6 +1840,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | BSA:0000123 |        1 | [UBERON:0010039](http://purl.obolibrary.org/obo/UBERON_0010039) |
 | BSA:0000042 |        1 | [UBERON:0011302](http://purl.obolibrary.org/obo/UBERON_0011302) |
 | BSA:0000088 |        1 | [UBERON:0015227](http://purl.obolibrary.org/obo/UBERON_0015227) |
+
+</details>
 
 ## `BilaDO` (9)
 
@@ -1945,6 +1970,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 If you are knowledgable about this prefix, consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OpenCyc)
+
+<details>
+<summary>Click to expand the `OpenCyc` table</summary>
 
 | curie                                                                                                          |   usages | nodes                                                                                                                            |
 |----------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
@@ -2483,6 +2511,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | OpenCyc:Mx4rvVi9dZwpEbGdrcN5Y29ycA                                                                             |        1 | [UBERON:0011150](http://purl.obolibrary.org/obo/UBERON_0011150)                                                                  |
 | OpenCyc:Mx4rvViwtJwpEbGdrcN5Y29ycA                                                                             |        1 | [UBERON:0016490](http://purl.obolibrary.org/obo/UBERON_0016490)                                                                  |
 | OpenCyc:Mx4rv3OJ8JwpEbGdrcN5Y29ycA                                                                             |        1 | [UBERON:0016525](http://purl.obolibrary.org/obo/UBERON_0016525)                                                                  |
+
+</details>
 
 ## `RadLex` (4)
 
