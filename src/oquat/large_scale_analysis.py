@@ -48,12 +48,17 @@ CUSTOM_FILTERS = {"efo": "http://www.ebi.ac.uk/efo/EFO_"}
 EXTENSION_EXCEPTIONS = {
     "http://www.w3.org/ns/prov-o-20130430",  # this is pointing to a RDF file
 }
+TEST_ONTOLOGIES = {"mondo", "go", "so"}
 
 
 @click.command()
 @force_option
 @click.option("--minimum")
-@click.option("--test", is_flag=True)
+@click.option(
+    "--test",
+    is_flag=True,
+    help=f"Run on a small test set of ontologies ({', '.join(sorted(TEST_ONTOLOGIES))})",
+)
 @verbose_option
 def lsa(force: bool, minimum: Optional[str], test: bool):
     """Run large-scale ontology analysis."""
@@ -83,13 +88,13 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False):
         and not resource.no_own_terms
     )
     if test:
-        rows = [t for t in rows if t[0] in {"so"}]
+        rows = [row for row in rows if row[0] in TEST_ONTOLOGIES]
 
     results = []
     failures = []
 
     def _failure(*, prefix: str, text: str, fg: str = "red") -> None:
-        _text = f"{prefix} - {text}"
+        _text = f"[{prefix}] - {text}"
         secho(_text, fg=fg)
         failures.append((prefix, text))
 
@@ -169,8 +174,7 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False):
         results.append((prefix, result))
 
     failures_table_rows = [
-        (f"[{prefix}](https://bioregistry.io/{prefix})", message)
-        for prefix, message in failures
+        (f"[{prefix}](https://bioregistry.io/{prefix})", message) for prefix, message in failures
     ]
     FAILURES_PATH.write_text(
         "# Failures\n\n"
