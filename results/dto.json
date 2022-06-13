@@ -1,0 +1,1492 @@
+{
+  "http://bioassayontology.org/bao/external/BAO2.0_UBERON_import.owl": {
+    "graph_id": "http://bioassayontology.org/bao/external/BAO2.0_UBERON_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/UBERON_0000002": [
+          "MESH:A05.360.319.679.256",
+          "ncithesaurus:Cervix"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000056": [
+          "MESH:A05.810.776",
+          "ncithesaurus:Ureter"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000160": [
+          "MESH:A03.492.411",
+          "ncithesaurus:Intestine"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000310": [
+          "MESH:A01.236",
+          "ncithesaurus:Breast"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000473": [
+          "MESH:A05.360.444.849",
+          "ncithesaurus:Testis"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000945": [
+          "MESH:A03.492.766",
+          "ncithesaurus:Stomach"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000955": [
+          "MESH:A08.186.211",
+          "ncithesaurus:Brain"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000992": [
+          "MESH:A05.360.319.114.630",
+          "ncithesaurus:Ovary"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000995": [
+          "MESH:A05.360.319.679",
+          "ncithesaurus:Uterus"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000997": [
+          "MESH:A05.360.319.887",
+          "ncithesaurus:Vulva"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001016": [
+          "MESH:A08",
+          "ncithesaurus:Nervous_System"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001043": [
+          "MESH:A03.365",
+          "ncithesaurus:Esophagus"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001062": [
+          "ncithesaurus:Anatomic_Structure_System_or_Substance"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001255": [
+          "MESH:A05.810.161",
+          "ncithesaurus:Bladder"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001264": [
+          "MESH:A03.734",
+          "ncithesaurus:Pancreas"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001474": [
+          "ncithesaurus:Bone"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001969": [
+          "MESH:A12.207.152.693",
+          "ncithesaurus:Plasma"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002046": [
+          "MESH:A06.407.900",
+          "ncithesaurus:Thyroid_Gland"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002048": [
+          "MESH:A04.411",
+          "ncithesaurus:Lung"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002097": [
+          "MESH:A17.815",
+          "ncithesaurus:Skin"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002107": [
+          "MESH:A03.620",
+          "ncithesaurus:Liver"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002110": [
+          "MESH:A03.159.439",
+          "ncithesaurus:Gallbladder"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002113": [
+          "MESH:A05.810.453",
+          "ncithesaurus:Kidney"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002114": [
+          "MESH:A03.492.411.620.270",
+          "ncithesaurus:Duodenum"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002367": [
+          "MESH:A05.360.444.575",
+          "ncithesaurus:Prostate_Gland"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002369": [
+          "MESH:A06.407.071",
+          "ncithesaurus:Adrenal_Gland"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002385": [
+          "MESH:A02.633",
+          "ncithesaurus:Muscle_Tissue"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0007811": [
+          "ncithesaurus:Head_and_Neck"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "FBbt_root": {
+          "http://purl.obolibrary.org/obo/UBERON_0001062": "FBbt_root:00000000"
+        },
+        "ncithesaurus": {
+          "http://purl.obolibrary.org/obo/UBERON_0000002": "ncithesaurus:Cervix",
+          "http://purl.obolibrary.org/obo/UBERON_0000056": "ncithesaurus:Ureter",
+          "http://purl.obolibrary.org/obo/UBERON_0000160": "ncithesaurus:Intestine",
+          "http://purl.obolibrary.org/obo/UBERON_0000310": "ncithesaurus:Breast",
+          "http://purl.obolibrary.org/obo/UBERON_0000473": "ncithesaurus:Testis",
+          "http://purl.obolibrary.org/obo/UBERON_0000945": "ncithesaurus:Stomach",
+          "http://purl.obolibrary.org/obo/UBERON_0000955": "ncithesaurus:Brain",
+          "http://purl.obolibrary.org/obo/UBERON_0000992": "ncithesaurus:Ovary",
+          "http://purl.obolibrary.org/obo/UBERON_0000995": "ncithesaurus:Uterus",
+          "http://purl.obolibrary.org/obo/UBERON_0000997": "ncithesaurus:Vulva",
+          "http://purl.obolibrary.org/obo/UBERON_0001016": "ncithesaurus:Nervous_System",
+          "http://purl.obolibrary.org/obo/UBERON_0001043": "ncithesaurus:Esophagus",
+          "http://purl.obolibrary.org/obo/UBERON_0001062": "ncithesaurus:Anatomic_Structure_System_or_Substance",
+          "http://purl.obolibrary.org/obo/UBERON_0001255": "ncithesaurus:Bladder",
+          "http://purl.obolibrary.org/obo/UBERON_0001264": "ncithesaurus:Pancreas",
+          "http://purl.obolibrary.org/obo/UBERON_0001474": "ncithesaurus:Bone",
+          "http://purl.obolibrary.org/obo/UBERON_0001969": "ncithesaurus:Plasma",
+          "http://purl.obolibrary.org/obo/UBERON_0002046": "ncithesaurus:Thyroid_Gland",
+          "http://purl.obolibrary.org/obo/UBERON_0002048": "ncithesaurus:Lung",
+          "http://purl.obolibrary.org/obo/UBERON_0002097": "ncithesaurus:Skin",
+          "http://purl.obolibrary.org/obo/UBERON_0002107": "ncithesaurus:Liver",
+          "http://purl.obolibrary.org/obo/UBERON_0002110": "ncithesaurus:Gallbladder",
+          "http://purl.obolibrary.org/obo/UBERON_0002113": "ncithesaurus:Kidney",
+          "http://purl.obolibrary.org/obo/UBERON_0002114": "ncithesaurus:Duodenum",
+          "http://purl.obolibrary.org/obo/UBERON_0002367": "ncithesaurus:Prostate_Gland",
+          "http://purl.obolibrary.org/obo/UBERON_0002369": "ncithesaurus:Adrenal_Gland",
+          "http://purl.obolibrary.org/obo/UBERON_0002385": "ncithesaurus:Muscle_Tissue",
+          "http://purl.obolibrary.org/obo/UBERON_0007811": "ncithesaurus:Head_and_Neck"
+        }
+      },
+      "unknown_prefixes": {
+        "ABA": {
+          "http://purl.obolibrary.org/obo/UBERON_0000955": "ABA:Brain"
+        },
+        "ANISEED": {
+          "http://purl.obolibrary.org/obo/UBERON_0000160": "ANISEED:1235303",
+          "http://purl.obolibrary.org/obo/UBERON_0000945": "ANISEED:1235297",
+          "http://purl.obolibrary.org/obo/UBERON_0001043": "ANISEED:1235301"
+        },
+        "BSA": {
+          "http://purl.obolibrary.org/obo/UBERON_0000160": "BSA:0000093",
+          "http://purl.obolibrary.org/obo/UBERON_0000473": "BSA:0000085",
+          "http://purl.obolibrary.org/obo/UBERON_0000992": "BSA:0000080"
+        },
+        "GAID": {
+          "http://purl.obolibrary.org/obo/UBERON_0000002": "GAID:376",
+          "http://purl.obolibrary.org/obo/UBERON_0000056": "GAID:438",
+          "http://purl.obolibrary.org/obo/UBERON_0000160": "GAID:295",
+          "http://purl.obolibrary.org/obo/UBERON_0000310": "GAID:33",
+          "http://purl.obolibrary.org/obo/UBERON_0000473": "GAID:396",
+          "http://purl.obolibrary.org/obo/UBERON_0000945": "GAID:293",
+          "http://purl.obolibrary.org/obo/UBERON_0000955": "GAID:571",
+          "http://purl.obolibrary.org/obo/UBERON_0000992": "GAID:367",
+          "http://purl.obolibrary.org/obo/UBERON_0000995": "GAID:172",
+          "http://purl.obolibrary.org/obo/UBERON_0000997": "GAID:383",
+          "http://purl.obolibrary.org/obo/UBERON_0001016": "GAID:466",
+          "http://purl.obolibrary.org/obo/UBERON_0001043": "GAID:291",
+          "http://purl.obolibrary.org/obo/UBERON_0001255": "GAID:0000004",
+          "http://purl.obolibrary.org/obo/UBERON_0001264": "GAID:334",
+          "http://purl.obolibrary.org/obo/UBERON_0001474": "GAID:92",
+          "http://purl.obolibrary.org/obo/UBERON_0001969": "GAID:1178",
+          "http://purl.obolibrary.org/obo/UBERON_0002046": "GAID:465",
+          "http://purl.obolibrary.org/obo/UBERON_0002048": "GAID:345",
+          "http://purl.obolibrary.org/obo/UBERON_0002107": "GAID:288",
+          "http://purl.obolibrary.org/obo/UBERON_0002113": "GAID:423",
+          "http://purl.obolibrary.org/obo/UBERON_0002114": "GAID:284",
+          "http://purl.obolibrary.org/obo/UBERON_0002367": "GAID:392",
+          "http://purl.obolibrary.org/obo/UBERON_0002369": "GAID:446"
+        },
+        "OpenCyc": {
+          "http://purl.obolibrary.org/obo/UBERON_0000002": "OpenCyc:Mx4rvVipEJwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0000056": "OpenCyc:Mx4rvhmm6JwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0000310": "OpenCyc:Mx4rvVjV7ZwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0000473": "OpenCyc:Mx4rvVjM25wpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0000945": "OpenCyc:Mx4rvVjlqpwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0000955": "OpenCyc:Mx4rvVjT65wpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0000992": "OpenCyc:Mx4rvVi9QJwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0000995": "OpenCyc:Mx4rvViojJwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0000997": "OpenCyc:Mx4rvgAWeJwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0001016": "OpenCyc:Mx4rvViT_pwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0001043": "OpenCyc:Mx4rvVj9Q5wpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0001255": "OpenCyc:Mx4rvVjMmZwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0001264": "OpenCyc:Mx4rvVimZZwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0001474": "OpenCyc:Mx4rvViDlpwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0001969": "OpenCyc:Mx4rEg4ZYrIbEduAAAAOpmP6tw",
+          "http://purl.obolibrary.org/obo/UBERON_0002046": "OpenCyc:Mx4rvVjLT5wpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0002048": "OpenCyc:Mx4rvVjKy5wpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0002097": "OpenCyc:Mx4rvVjX3ZwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0002107": "OpenCyc:Mx4rvVimppwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0002110": "OpenCyc:Mx4rvVkGr5wpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0002113": "OpenCyc:Mx4rvVjlYpwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0002114": "OpenCyc:Mx4rv4LJDpwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0002367": "OpenCyc:Mx4rv6trqZwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0002369": "OpenCyc:Mx4rvXYiz5wpEbGdrcN5Y29ycA"
+        },
+        "WikipediaCategory": {
+          "http://purl.obolibrary.org/obo/UBERON_0007811": "WikipediaCategory:Head_and_neck"
+        }
+      }
+    }
+  },
+  "http://www.drugtargetontology.org/dto/BFO_import.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/BFO_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/BRENDA_import.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/BRENDA_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/CHEBI_import.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/CHEBI_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/CHEBI_15355": [
+          "ChemIDplus:1764436",
+          "KEGG COMPOUND:51-84-3"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_15422": [
+          "KEGG COMPOUND:56-65-5",
+          "Wikipedia:Adenosine triphosphate"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_15428": [
+          "KEGG COMPOUND:56-40-6"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_15555": [
+          "KEGG COMPOUND:41598-07-6",
+          "Wikipedia:Prostaglandin D2"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_15713": [
+          "KEGG COMPOUND:63-39-8",
+          "Wikipedia:Uridine triphosphate"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_15741": [
+          "KEGG COMPOUND:110-15-6",
+          "Wikipedia:Succinic acid"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_16015": [
+          "KEGG COMPOUND:56-86-0",
+          "PDBeChem:GLU_LFOH"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_16335": [
+          "KEGG COMPOUND:58-61-7"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_16755": [
+          "KEGG COMPOUND:474-25-9",
+          "Wikipedia:Chenodeoxycholic acid"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_16761": [
+          "KEGG COMPOUND:20398-34-9",
+          "KEGG COMPOUND:58-64-0"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_16796": [
+          "KEGG COMPOUND:73-31-4"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_16893": [
+          "KEGG COMPOUND:19794-97-9"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_16977": [
+          "PDBeChem:ALA_LFOH"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_16978": [
+          "KEGG COMPOUND:72025-60-6",
+          "Wikipedia:Leukotriene C4"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_17659": [
+          "KEGG COMPOUND:58-98-0"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_17996": [
+          "KEGG COMPOUND:16887-00-6"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_18243": [
+          "KEGG COMPOUND:62-31-7"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_18295": [
+          "KEGG COMPOUND:51-45-6"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_18397": [
+          "KEGG COMPOUND:64-04-0"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_20067": [
+          "Wikipedia:3-Hydroxybutyric acid"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_2700": [
+          "KEGG COMPOUND:94421-68-8"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_28790": [
+          "KEGG COMPOUND:50-67-9"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_28918": [
+          "KEGG COMPOUND:51-43-4"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_30623": [
+          "ChEBI:C00209"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_34144": [
+          "Reaxys:82337-46-0"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_34972": [
+          "KEGG COMPOUND:1393-25-5",
+          "KEGG COMPOUND:17034-35-4"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_37550": [
+          "KEGG COMPOUND:26993-30-6",
+          "Wikipedia:Sphingosine 1-phosphate"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_48432": [
+          "Wikipedia:Angiotensin II"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_49713": [
+          "KEGG COMPOUND:7439-93-2"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_52392": [
+          "KEGG COMPOUND:53847-30-6"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_5391": [
+          "KEGG COMPOUND:9007-92-5"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_63977": [
+          "KEGG COMPOUND:54397-84-1"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_6498": [
+          "KEGG COMPOUND:89663-86-5"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_67119": [
+          "KEGG COMPOUND:2956-16-3"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_7542": [
+          "KEGG COMPOUND:39379-15-2",
+          "KEGG COMPOUND:55508-42-4"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_75441": [
+          "KEGG COMPOUND:60748-06-3"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_80240": [
+          "KEGG COMPOUND:123626-67-5"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_80243": [
+          "KEGG COMPOUND:125692-40-2"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_80254": [
+          "KEGG COMPOUND:67382-96-1"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_80339": [
+          "KEGG COMPOUND:148498-78-6"
+        ],
+        "http://purl.obolibrary.org/obo/CHEBI_9574": [
+          "KEGG COMPOUND:9002-04-4"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {
+        "Beilstein": {
+          "http://purl.obolibrary.org/obo/CHEBI_15422": "Beilstein:73010",
+          "http://purl.obolibrary.org/obo/CHEBI_15428": "Beilstein:635782",
+          "http://purl.obolibrary.org/obo/CHEBI_15552": "Beilstein:1690090",
+          "http://purl.obolibrary.org/obo/CHEBI_15553": "Beilstein:2225571",
+          "http://purl.obolibrary.org/obo/CHEBI_15558": "Beilstein:2470466",
+          "http://purl.obolibrary.org/obo/CHEBI_15713": "Beilstein:71520",
+          "http://purl.obolibrary.org/obo/CHEBI_15729": "Beilstein:1722298",
+          "http://purl.obolibrary.org/obo/CHEBI_15741": "Beilstein:1754069",
+          "http://purl.obolibrary.org/obo/CHEBI_15746": "Beilstein:1750791",
+          "http://purl.obolibrary.org/obo/CHEBI_15760": "Beilstein:1099914",
+          "http://purl.obolibrary.org/obo/CHEBI_16015": "Beilstein:1723801",
+          "http://purl.obolibrary.org/obo/CHEBI_16189": "Beilstein:3648446",
+          "http://purl.obolibrary.org/obo/CHEBI_16325": "Beilstein:3217757",
+          "http://purl.obolibrary.org/obo/CHEBI_16335": "Beilstein:93029",
+          "http://purl.obolibrary.org/obo/CHEBI_16349": "Beilstein:6055157",
+          "http://purl.obolibrary.org/obo/CHEBI_16359": "Beilstein:2822009",
+          "http://purl.obolibrary.org/obo/CHEBI_16467": "Beilstein:1725413",
+          "http://purl.obolibrary.org/obo/CHEBI_16755": "Beilstein:3219887",
+          "http://purl.obolibrary.org/obo/CHEBI_16761": "Beilstein:67722",
+          "http://purl.obolibrary.org/obo/CHEBI_16765": "Beilstein:125513",
+          "http://purl.obolibrary.org/obo/CHEBI_16796": "Beilstein:205542",
+          "http://purl.obolibrary.org/obo/CHEBI_16828": "Beilstein:86197",
+          "http://purl.obolibrary.org/obo/CHEBI_16893": "Beilstein:6780476",
+          "http://purl.obolibrary.org/obo/CHEBI_16977": "Beilstein:1720248",
+          "http://purl.obolibrary.org/obo/CHEBI_17115": "Beilstein:1721404",
+          "http://purl.obolibrary.org/obo/CHEBI_17351": "Beilstein:1727101",
+          "http://purl.obolibrary.org/obo/CHEBI_17544": "Beilstein:3903504",
+          "http://purl.obolibrary.org/obo/CHEBI_17659": "Beilstein:64707",
+          "http://purl.obolibrary.org/obo/CHEBI_17996": "Beilstein:3587171",
+          "http://purl.obolibrary.org/obo/CHEBI_18019": "Beilstein:1722531",
+          "http://purl.obolibrary.org/obo/CHEBI_18050": "Beilstein:1723797",
+          "http://purl.obolibrary.org/obo/CHEBI_18295": "Beilstein:2012",
+          "http://purl.obolibrary.org/obo/CHEBI_18357": "Beilstein:2804840",
+          "http://purl.obolibrary.org/obo/CHEBI_18397": "Beilstein:507488",
+          "http://purl.obolibrary.org/obo/CHEBI_20067": "Beilstein:773861",
+          "http://purl.obolibrary.org/obo/CHEBI_2700": "Beilstein:7079463",
+          "http://purl.obolibrary.org/obo/CHEBI_27385": "Beilstein:1098295",
+          "http://purl.obolibrary.org/obo/CHEBI_27432": "Beilstein:1727693",
+          "http://purl.obolibrary.org/obo/CHEBI_28209": "Beilstein:4691533",
+          "http://purl.obolibrary.org/obo/CHEBI_28790": "Beilstein:143524",
+          "http://purl.obolibrary.org/obo/CHEBI_28834": "Beilstein:3219882",
+          "http://purl.obolibrary.org/obo/CHEBI_28918": "Beilstein:2368277",
+          "http://purl.obolibrary.org/obo/CHEBI_30623": "Beilstein:1905970",
+          "http://purl.obolibrary.org/obo/CHEBI_33569": "Beilstein:2210994",
+          "http://purl.obolibrary.org/obo/CHEBI_34146": "Beilstein:2656104",
+          "http://purl.obolibrary.org/obo/CHEBI_37098": "Beilstein:1760767",
+          "http://purl.obolibrary.org/obo/CHEBI_37550": "Beilstein:5877213",
+          "http://purl.obolibrary.org/obo/CHEBI_50277": "Beilstein:1892961",
+          "http://purl.obolibrary.org/obo/CHEBI_58961": "Beilstein:7652004",
+          "http://purl.obolibrary.org/obo/CHEBI_60427": "Beilstein:1917928",
+          "http://purl.obolibrary.org/obo/CHEBI_7872": "Beilstein:3586108"
+        },
+        "Drug_Central": {
+          "http://purl.obolibrary.org/obo/CHEBI_15552": "Drug_Central:1034",
+          "http://purl.obolibrary.org/obo/CHEBI_15553": "Drug_Central:912",
+          "http://purl.obolibrary.org/obo/CHEBI_15729": "Drug_Central:3401",
+          "http://purl.obolibrary.org/obo/CHEBI_15760": "Drug_Central:2784",
+          "http://purl.obolibrary.org/obo/CHEBI_16349": "Drug_Central:3103",
+          "http://purl.obolibrary.org/obo/CHEBI_16359": "Drug_Central:3096",
+          "http://purl.obolibrary.org/obo/CHEBI_16467": "Drug_Central:1549",
+          "http://purl.obolibrary.org/obo/CHEBI_16828": "Drug_Central:2780",
+          "http://purl.obolibrary.org/obo/CHEBI_16977": "Drug_Central:4255",
+          "http://purl.obolibrary.org/obo/CHEBI_17115": "Drug_Central:4127",
+          "http://purl.obolibrary.org/obo/CHEBI_17351": "Drug_Central:3323",
+          "http://purl.obolibrary.org/obo/CHEBI_18019": "Drug_Central:1622",
+          "http://purl.obolibrary.org/obo/CHEBI_18050": "Drug_Central:1311",
+          "http://purl.obolibrary.org/obo/CHEBI_18357": "Drug_Central:1960",
+          "http://purl.obolibrary.org/obo/CHEBI_27385": "Drug_Central:3067",
+          "http://purl.obolibrary.org/obo/CHEBI_27432": "Drug_Central:4618",
+          "http://purl.obolibrary.org/obo/CHEBI_28834": "Drug_Central:4988",
+          "http://purl.obolibrary.org/obo/CHEBI_3306": "Drug_Central:2989",
+          "http://purl.obolibrary.org/obo/CHEBI_7872": "Drug_Central:2042"
+        },
+        "KEGG COMPOUND": {
+          "http://purl.obolibrary.org/obo/CHEBI_10415": "KEGG COMPOUND:C02210",
+          "http://purl.obolibrary.org/obo/CHEBI_15355": "KEGG COMPOUND:51-84-3",
+          "http://purl.obolibrary.org/obo/CHEBI_15422": "KEGG COMPOUND:56-65-5",
+          "http://purl.obolibrary.org/obo/CHEBI_15428": "KEGG COMPOUND:C00037",
+          "http://purl.obolibrary.org/obo/CHEBI_15555": "KEGG COMPOUND:C00696",
+          "http://purl.obolibrary.org/obo/CHEBI_15713": "KEGG COMPOUND:C00075",
+          "http://purl.obolibrary.org/obo/CHEBI_15741": "KEGG COMPOUND:110-15-6",
+          "http://purl.obolibrary.org/obo/CHEBI_16015": "KEGG COMPOUND:C00025",
+          "http://purl.obolibrary.org/obo/CHEBI_16189": "KEGG COMPOUND:C00059",
+          "http://purl.obolibrary.org/obo/CHEBI_16335": "KEGG COMPOUND:C00212",
+          "http://purl.obolibrary.org/obo/CHEBI_16670": "KEGG COMPOUND:C00012",
+          "http://purl.obolibrary.org/obo/CHEBI_16755": "KEGG COMPOUND:C02528",
+          "http://purl.obolibrary.org/obo/CHEBI_16761": "KEGG COMPOUND:20398-34-9",
+          "http://purl.obolibrary.org/obo/CHEBI_16796": "KEGG COMPOUND:C01598",
+          "http://purl.obolibrary.org/obo/CHEBI_16893": "KEGG COMPOUND:19794-97-9",
+          "http://purl.obolibrary.org/obo/CHEBI_16978": "KEGG COMPOUND:72025-60-6",
+          "http://purl.obolibrary.org/obo/CHEBI_17544": "KEGG COMPOUND:C00288",
+          "http://purl.obolibrary.org/obo/CHEBI_17659": "KEGG COMPOUND:C00015",
+          "http://purl.obolibrary.org/obo/CHEBI_17996": "KEGG COMPOUND:C00115",
+          "http://purl.obolibrary.org/obo/CHEBI_18059": "KEGG COMPOUND:C01356",
+          "http://purl.obolibrary.org/obo/CHEBI_18243": "KEGG COMPOUND:C03758",
+          "http://purl.obolibrary.org/obo/CHEBI_18295": "KEGG COMPOUND:51-45-6",
+          "http://purl.obolibrary.org/obo/CHEBI_18303": "KEGG COMPOUND:C02737",
+          "http://purl.obolibrary.org/obo/CHEBI_18397": "KEGG COMPOUND:64-04-0",
+          "http://purl.obolibrary.org/obo/CHEBI_18420": "KEGG COMPOUND:C00305",
+          "http://purl.obolibrary.org/obo/CHEBI_2700": "KEGG COMPOUND:94421-68-8",
+          "http://purl.obolibrary.org/obo/CHEBI_28790": "KEGG COMPOUND:C00780",
+          "http://purl.obolibrary.org/obo/CHEBI_28918": "KEGG COMPOUND:C00788",
+          "http://purl.obolibrary.org/obo/CHEBI_29101": "KEGG COMPOUND:C01330",
+          "http://purl.obolibrary.org/obo/CHEBI_29103": "KEGG COMPOUND:C00238",
+          "http://purl.obolibrary.org/obo/CHEBI_29108": "KEGG COMPOUND:C00076",
+          "http://purl.obolibrary.org/obo/CHEBI_3165": "KEGG COMPOUND:C00306",
+          "http://purl.obolibrary.org/obo/CHEBI_32952": "KEGG COMPOUND:C00706",
+          "http://purl.obolibrary.org/obo/CHEBI_33838": "KEGG COMPOUND:C00801",
+          "http://purl.obolibrary.org/obo/CHEBI_34144": "KEGG COMPOUND:C14822",
+          "http://purl.obolibrary.org/obo/CHEBI_34972": "KEGG COMPOUND:C13523",
+          "http://purl.obolibrary.org/obo/CHEBI_36916": "KEGG COMPOUND:C01373",
+          "http://purl.obolibrary.org/obo/CHEBI_36976": "KEGG COMPOUND:C00215",
+          "http://purl.obolibrary.org/obo/CHEBI_37550": "KEGG COMPOUND:C06124",
+          "http://purl.obolibrary.org/obo/CHEBI_49713": "KEGG COMPOUND:7439-93-2",
+          "http://purl.obolibrary.org/obo/CHEBI_52392": "KEGG COMPOUND:53847-30-6",
+          "http://purl.obolibrary.org/obo/CHEBI_5391": "KEGG COMPOUND:C01501",
+          "http://purl.obolibrary.org/obo/CHEBI_63977": "KEGG COMPOUND:54397-84-1",
+          "http://purl.obolibrary.org/obo/CHEBI_6498": "KEGG COMPOUND:89663-86-5",
+          "http://purl.obolibrary.org/obo/CHEBI_67119": "KEGG COMPOUND:2956-16-3",
+          "http://purl.obolibrary.org/obo/CHEBI_7542": "KEGG COMPOUND:39379-15-2",
+          "http://purl.obolibrary.org/obo/CHEBI_75431": "KEGG COMPOUND:C16025",
+          "http://purl.obolibrary.org/obo/CHEBI_75441": "KEGG COMPOUND:C16113",
+          "http://purl.obolibrary.org/obo/CHEBI_80161": "KEGG COMPOUND:C15901",
+          "http://purl.obolibrary.org/obo/CHEBI_80201": "KEGG COMPOUND:C15949",
+          "http://purl.obolibrary.org/obo/CHEBI_80240": "KEGG COMPOUND:123626-67-5",
+          "http://purl.obolibrary.org/obo/CHEBI_80243": "KEGG COMPOUND:C16013",
+          "http://purl.obolibrary.org/obo/CHEBI_80254": "KEGG COMPOUND:67382-96-1",
+          "http://purl.obolibrary.org/obo/CHEBI_80259": "KEGG COMPOUND:C16035",
+          "http://purl.obolibrary.org/obo/CHEBI_80261": "KEGG COMPOUND:C16039",
+          "http://purl.obolibrary.org/obo/CHEBI_80269": "KEGG COMPOUND:C16047",
+          "http://purl.obolibrary.org/obo/CHEBI_80271": "KEGG COMPOUND:C16049",
+          "http://purl.obolibrary.org/obo/CHEBI_80307": "KEGG COMPOUND:C16093",
+          "http://purl.obolibrary.org/obo/CHEBI_80311": "KEGG COMPOUND:C16097",
+          "http://purl.obolibrary.org/obo/CHEBI_80326": "KEGG COMPOUND:C16112",
+          "http://purl.obolibrary.org/obo/CHEBI_80328": "KEGG COMPOUND:C16115",
+          "http://purl.obolibrary.org/obo/CHEBI_80339": "KEGG COMPOUND:C16127",
+          "http://purl.obolibrary.org/obo/CHEBI_9574": "KEGG COMPOUND:C00752"
+        },
+        "KEGG DRUG": {
+          "http://purl.obolibrary.org/obo/CHEBI_15422": "KEGG DRUG:D08646",
+          "http://purl.obolibrary.org/obo/CHEBI_15428": "KEGG DRUG:D00011",
+          "http://purl.obolibrary.org/obo/CHEBI_16015": "KEGG DRUG:D00007",
+          "http://purl.obolibrary.org/obo/CHEBI_16189": "KEGG DRUG:D05963",
+          "http://purl.obolibrary.org/obo/CHEBI_16335": "KEGG DRUG:D00045",
+          "http://purl.obolibrary.org/obo/CHEBI_16755": "KEGG DRUG:D00163",
+          "http://purl.obolibrary.org/obo/CHEBI_16796": "KEGG DRUG:D08170",
+          "http://purl.obolibrary.org/obo/CHEBI_18243": "KEGG DRUG:D07870",
+          "http://purl.obolibrary.org/obo/CHEBI_18295": "KEGG DRUG:D08040",
+          "http://purl.obolibrary.org/obo/CHEBI_28918": "KEGG DRUG:D00095",
+          "http://purl.obolibrary.org/obo/CHEBI_29103": "KEGG DRUG:D08403",
+          "http://purl.obolibrary.org/obo/CHEBI_34972": "KEGG DRUG:D02021",
+          "http://purl.obolibrary.org/obo/CHEBI_5391": "KEGG DRUG:D00116",
+          "http://purl.obolibrary.org/obo/CHEBI_9574": "KEGG DRUG:D00090"
+        },
+        "KEGG GLYCAN": {
+          "http://purl.obolibrary.org/obo/CHEBI_16761": "KEGG GLYCAN:G11113",
+          "http://purl.obolibrary.org/obo/CHEBI_17659": "KEGG GLYCAN:G10619",
+          "http://purl.obolibrary.org/obo/CHEBI_67119": "KEGG GLYCAN:G10609"
+        },
+        "LINCS": {
+          "http://purl.obolibrary.org/obo/CHEBI_15760": "LINCS:LSM-19016",
+          "http://purl.obolibrary.org/obo/CHEBI_16325": "LINCS:LSM-5371",
+          "http://purl.obolibrary.org/obo/CHEBI_16359": "LINCS:LSM-5541",
+          "http://purl.obolibrary.org/obo/CHEBI_18050": "LINCS:LSM-4741",
+          "http://purl.obolibrary.org/obo/CHEBI_27385": "LINCS:LSM-37019",
+          "http://purl.obolibrary.org/obo/CHEBI_28834": "LINCS:LSM-5529"
+        },
+        "LIPID MAPS": {
+          "http://purl.obolibrary.org/obo/CHEBI_15555": "LIPID MAPS:LMFA03010004",
+          "http://purl.obolibrary.org/obo/CHEBI_15741": "LIPID MAPS:LMFA01170043",
+          "http://purl.obolibrary.org/obo/CHEBI_16755": "LIPID MAPS:LMST04010032",
+          "http://purl.obolibrary.org/obo/CHEBI_16893": "LIPID MAPS:LMSP01050002",
+          "http://purl.obolibrary.org/obo/CHEBI_16978": "LIPID MAPS:LMFA03020003",
+          "http://purl.obolibrary.org/obo/CHEBI_20067": "LIPID MAPS:LMFA01050005",
+          "http://purl.obolibrary.org/obo/CHEBI_2700": "LIPID MAPS:LMFA08040001",
+          "http://purl.obolibrary.org/obo/CHEBI_34144": "LIPID MAPS:LMFA03060008",
+          "http://purl.obolibrary.org/obo/CHEBI_37098": "LIPID MAPS:LMFA01050021",
+          "http://purl.obolibrary.org/obo/CHEBI_37550": "LIPID MAPS:LMSP01050001",
+          "http://purl.obolibrary.org/obo/CHEBI_52392": "LIPID MAPS:LMGL01010023",
+          "http://purl.obolibrary.org/obo/CHEBI_63977": "LIPID MAPS:LMFA03050002",
+          "http://purl.obolibrary.org/obo/CHEBI_6498": "LIPID MAPS:LMFA03040001"
+        },
+        "LIPID_MAPS_instance": {
+          "http://purl.obolibrary.org/obo/CHEBI_15552": "LIPID_MAPS_instance:LMFA03010087",
+          "http://purl.obolibrary.org/obo/CHEBI_15553": "LIPID_MAPS_instance:LMFA03010002",
+          "http://purl.obolibrary.org/obo/CHEBI_15558": "LIPID_MAPS_instance:LMFA03060001",
+          "http://purl.obolibrary.org/obo/CHEBI_15632": "LIPID_MAPS_instance:LMFA03060012",
+          "http://purl.obolibrary.org/obo/CHEBI_15646": "LIPID_MAPS_instance:LMFA03020018",
+          "http://purl.obolibrary.org/obo/CHEBI_15647": "LIPID_MAPS_instance:LMFA03020001",
+          "http://purl.obolibrary.org/obo/CHEBI_15650": "LIPID_MAPS_instance:LMFA03020002",
+          "http://purl.obolibrary.org/obo/CHEBI_16325": "LIPID_MAPS_instance:LMST04010003",
+          "http://purl.obolibrary.org/obo/CHEBI_16359": "LIPID_MAPS_instance:LMST04010001",
+          "http://purl.obolibrary.org/obo/CHEBI_17351": "LIPID_MAPS_instance:LMFA01030120",
+          "http://purl.obolibrary.org/obo/CHEBI_27432": "LIPID_MAPS_instance:LMFA01030152",
+          "http://purl.obolibrary.org/obo/CHEBI_27485": "LIPID_MAPS_instance:LMFA03010019",
+          "http://purl.obolibrary.org/obo/CHEBI_28209": "LIPID_MAPS_instance:LMFA03060002",
+          "http://purl.obolibrary.org/obo/CHEBI_28666": "LIPID_MAPS_instance:LMFA03020006",
+          "http://purl.obolibrary.org/obo/CHEBI_28834": "LIPID_MAPS_instance:LMST04010040",
+          "http://purl.obolibrary.org/obo/CHEBI_34146": "LIPID_MAPS_instance:LMFA03060007",
+          "http://purl.obolibrary.org/obo/CHEBI_52449": "LIPID_MAPS_instance:LMFA03060011",
+          "http://purl.obolibrary.org/obo/CHEBI_60427": "LIPID_MAPS_instance:LMGP10010031",
+          "http://purl.obolibrary.org/obo/CHEBI_72795": "LIPID_MAPS_instance:LMFA03020015",
+          "http://purl.obolibrary.org/obo/CHEBI_81559": "LIPID_MAPS_instance:LMFA03070019",
+          "http://purl.obolibrary.org/obo/CHEBI_81564": "LIPID_MAPS_instance:LMFA04000006"
+        },
+        "MetaCyc": {
+          "http://purl.obolibrary.org/obo/CHEBI_15355": "MetaCyc:ACETYLCHOLINE",
+          "http://purl.obolibrary.org/obo/CHEBI_15422": "MetaCyc:ATP",
+          "http://purl.obolibrary.org/obo/CHEBI_15428": "MetaCyc:GLY",
+          "http://purl.obolibrary.org/obo/CHEBI_15553": "MetaCyc:5Z13E-15S-9-ALPHA11-ALPHA15-TRIHY",
+          "http://purl.obolibrary.org/obo/CHEBI_15555": "MetaCyc:5Z13E-15S-9-ALPHA15-DIHYDROXY-11-O",
+          "http://purl.obolibrary.org/obo/CHEBI_15713": "MetaCyc:UTP",
+          "http://purl.obolibrary.org/obo/CHEBI_15729": "MetaCyc:ORNITHINE",
+          "http://purl.obolibrary.org/obo/CHEBI_15741": "MetaCyc:SUC",
+          "http://purl.obolibrary.org/obo/CHEBI_15746": "MetaCyc:SPERMINE",
+          "http://purl.obolibrary.org/obo/CHEBI_15760": "MetaCyc:TYRAMINE",
+          "http://purl.obolibrary.org/obo/CHEBI_16015": "MetaCyc:GLT",
+          "http://purl.obolibrary.org/obo/CHEBI_16189": "MetaCyc:NH42SO4",
+          "http://purl.obolibrary.org/obo/CHEBI_16325": "MetaCyc:CPD-7235",
+          "http://purl.obolibrary.org/obo/CHEBI_16335": "MetaCyc:ADENOSINE",
+          "http://purl.obolibrary.org/obo/CHEBI_16349": "MetaCyc:L-CITRULLINE",
+          "http://purl.obolibrary.org/obo/CHEBI_16359": "MetaCyc:CHOLATE",
+          "http://purl.obolibrary.org/obo/CHEBI_16467": "MetaCyc:ARG",
+          "http://purl.obolibrary.org/obo/CHEBI_16761": "MetaCyc:ADP",
+          "http://purl.obolibrary.org/obo/CHEBI_16765": "MetaCyc:TRYPTAMINE",
+          "http://purl.obolibrary.org/obo/CHEBI_16796": "MetaCyc:N-ACETYL-5-METHOXY-TRYPTAMINE",
+          "http://purl.obolibrary.org/obo/CHEBI_16828": "MetaCyc:TRP",
+          "http://purl.obolibrary.org/obo/CHEBI_16893": "MetaCyc:CPD-649",
+          "http://purl.obolibrary.org/obo/CHEBI_16977": "MetaCyc:ALPHA-ALANINE",
+          "http://purl.obolibrary.org/obo/CHEBI_16978": "MetaCyc:LEUKOTRIENE-C4",
+          "http://purl.obolibrary.org/obo/CHEBI_17115": "MetaCyc:SER",
+          "http://purl.obolibrary.org/obo/CHEBI_17351": "MetaCyc:LINOLEIC_ACID",
+          "http://purl.obolibrary.org/obo/CHEBI_17544": "MetaCyc:HCO3",
+          "http://purl.obolibrary.org/obo/CHEBI_17659": "MetaCyc:UDP",
+          "http://purl.obolibrary.org/obo/CHEBI_17996": "MetaCyc:CPD-4521",
+          "http://purl.obolibrary.org/obo/CHEBI_18019": "MetaCyc:LYS",
+          "http://purl.obolibrary.org/obo/CHEBI_18050": "MetaCyc:GLN",
+          "http://purl.obolibrary.org/obo/CHEBI_18243": "MetaCyc:DOPAMINE",
+          "http://purl.obolibrary.org/obo/CHEBI_18295": "MetaCyc:HISTAMINE",
+          "http://purl.obolibrary.org/obo/CHEBI_18303": "MetaCyc:L-1-PHOSPHATIDYL-SERINE",
+          "http://purl.obolibrary.org/obo/CHEBI_18397": "MetaCyc:PHENYLETHYLAMINE",
+          "http://purl.obolibrary.org/obo/CHEBI_18420": "MetaCyc:13-HYDROXY-MAGNESIUM-PROTOPORP",
+          "http://purl.obolibrary.org/obo/CHEBI_20067": "MetaCyc:CPD-335",
+          "http://purl.obolibrary.org/obo/CHEBI_2700": "MetaCyc:CPD-7598",
+          "http://purl.obolibrary.org/obo/CHEBI_27432": "MetaCyc:LINOLENIC_ACID",
+          "http://purl.obolibrary.org/obo/CHEBI_28790": "MetaCyc:SEROTONIN",
+          "http://purl.obolibrary.org/obo/CHEBI_28918": "MetaCyc:L-EPINEPHRINE",
+          "http://purl.obolibrary.org/obo/CHEBI_29103": "MetaCyc:K%2b",
+          "http://purl.obolibrary.org/obo/CHEBI_29108": "MetaCyc:CA%2b2",
+          "http://purl.obolibrary.org/obo/CHEBI_49713": "MetaCyc:LI%2b",
+          "http://purl.obolibrary.org/obo/CHEBI_52392": "MetaCyc:CPD-12600",
+          "http://purl.obolibrary.org/obo/CHEBI_63977": "MetaCyc:1-KETO-2-METHYLVALERATE",
+          "http://purl.obolibrary.org/obo/CHEBI_81559": "MetaCyc:CPD66-57",
+          "http://purl.obolibrary.org/obo/CHEBI_81564": "MetaCyc:CPD66-64"
+        },
+        "NIST Chemistry WebBook": {
+          "http://purl.obolibrary.org/obo/CHEBI_15428": "NIST Chemistry WebBook:56-40-6",
+          "http://purl.obolibrary.org/obo/CHEBI_15741": "NIST Chemistry WebBook:110-15-6",
+          "http://purl.obolibrary.org/obo/CHEBI_16015": "NIST Chemistry WebBook:56-86-0",
+          "http://purl.obolibrary.org/obo/CHEBI_16189": "NIST Chemistry WebBook:14808-79-8",
+          "http://purl.obolibrary.org/obo/CHEBI_16335": "NIST Chemistry WebBook:58-61-7",
+          "http://purl.obolibrary.org/obo/CHEBI_16796": "NIST Chemistry WebBook:73-31-4",
+          "http://purl.obolibrary.org/obo/CHEBI_17996": "NIST Chemistry WebBook:16887-00-6",
+          "http://purl.obolibrary.org/obo/CHEBI_18295": "NIST Chemistry WebBook:51-45-6",
+          "http://purl.obolibrary.org/obo/CHEBI_18397": "NIST Chemistry WebBook:64-04-0",
+          "http://purl.obolibrary.org/obo/CHEBI_18420": "NIST Chemistry WebBook:22537-22-0",
+          "http://purl.obolibrary.org/obo/CHEBI_28918": "NIST Chemistry WebBook:51-43-4",
+          "http://purl.obolibrary.org/obo/CHEBI_29101": "NIST Chemistry WebBook:17341-25-2",
+          "http://purl.obolibrary.org/obo/CHEBI_29103": "NIST Chemistry WebBook:24203-36-9",
+          "http://purl.obolibrary.org/obo/CHEBI_29108": "NIST Chemistry WebBook:14127-61-8",
+          "http://purl.obolibrary.org/obo/CHEBI_33569": "NIST Chemistry WebBook:138-65-8",
+          "http://purl.obolibrary.org/obo/CHEBI_49713": "NIST Chemistry WebBook:17341-24-1",
+          "http://purl.obolibrary.org/obo/CHEBI_50277": "NIST Chemistry WebBook:13058-04-3"
+        },
+        "PDBeChem": {
+          "http://purl.obolibrary.org/obo/CHEBI_15355": "PDBeChem:ACH",
+          "http://purl.obolibrary.org/obo/CHEBI_15422": "PDBeChem:ATP",
+          "http://purl.obolibrary.org/obo/CHEBI_15428": "PDBeChem:GLY",
+          "http://purl.obolibrary.org/obo/CHEBI_15555": "PDBeChem:PG2",
+          "http://purl.obolibrary.org/obo/CHEBI_15713": "PDBeChem:UTP",
+          "http://purl.obolibrary.org/obo/CHEBI_15729": "PDBeChem:ORN",
+          "http://purl.obolibrary.org/obo/CHEBI_15741": "PDBeChem:SIN",
+          "http://purl.obolibrary.org/obo/CHEBI_15746": "PDBeChem:SPM",
+          "http://purl.obolibrary.org/obo/CHEBI_15760": "PDBeChem:AEF",
+          "http://purl.obolibrary.org/obo/CHEBI_16015": "PDBeChem:GLU_LFOH",
+          "http://purl.obolibrary.org/obo/CHEBI_16189": "PDBeChem:SO4",
+          "http://purl.obolibrary.org/obo/CHEBI_16325": "PDBeChem:4OA",
+          "http://purl.obolibrary.org/obo/CHEBI_16335": "PDBeChem:ADN",
+          "http://purl.obolibrary.org/obo/CHEBI_16349": "PDBeChem:CIR",
+          "http://purl.obolibrary.org/obo/CHEBI_16359": "PDBeChem:CHD",
+          "http://purl.obolibrary.org/obo/CHEBI_16467": "PDBeChem:ARG",
+          "http://purl.obolibrary.org/obo/CHEBI_16755": "PDBeChem:JN3",
+          "http://purl.obolibrary.org/obo/CHEBI_16761": "PDBeChem:ADP",
+          "http://purl.obolibrary.org/obo/CHEBI_16765": "PDBeChem:TSS",
+          "http://purl.obolibrary.org/obo/CHEBI_16796": "PDBeChem:ML1",
+          "http://purl.obolibrary.org/obo/CHEBI_16828": "PDBeChem:TRP",
+          "http://purl.obolibrary.org/obo/CHEBI_16977": "PDBeChem:ALA_LFOH",
+          "http://purl.obolibrary.org/obo/CHEBI_17115": "PDBeChem:SER",
+          "http://purl.obolibrary.org/obo/CHEBI_17351": "PDBeChem:EIC",
+          "http://purl.obolibrary.org/obo/CHEBI_17544": "PDBeChem:BCT",
+          "http://purl.obolibrary.org/obo/CHEBI_17659": "PDBeChem:UDP",
+          "http://purl.obolibrary.org/obo/CHEBI_17996": "PDBeChem:CL",
+          "http://purl.obolibrary.org/obo/CHEBI_18050": "PDBeChem:GLN",
+          "http://purl.obolibrary.org/obo/CHEBI_18243": "PDBeChem:LDP",
+          "http://purl.obolibrary.org/obo/CHEBI_18295": "PDBeChem:HSM",
+          "http://purl.obolibrary.org/obo/CHEBI_18357": "PDBeChem:LT4",
+          "http://purl.obolibrary.org/obo/CHEBI_18397": "PDBeChem:PEA",
+          "http://purl.obolibrary.org/obo/CHEBI_18420": "PDBeChem:MG",
+          "http://purl.obolibrary.org/obo/CHEBI_27432": "PDBeChem:LNL",
+          "http://purl.obolibrary.org/obo/CHEBI_28790": "PDBeChem:SRO",
+          "http://purl.obolibrary.org/obo/CHEBI_28834": "PDBeChem:DXC",
+          "http://purl.obolibrary.org/obo/CHEBI_29101": "PDBeChem:NA",
+          "http://purl.obolibrary.org/obo/CHEBI_29103": "PDBeChem:K",
+          "http://purl.obolibrary.org/obo/CHEBI_29105": "PDBeChem:ZN",
+          "http://purl.obolibrary.org/obo/CHEBI_29108": "PDBeChem:CA",
+          "http://purl.obolibrary.org/obo/CHEBI_30623": "PDBeChem:OXL",
+          "http://purl.obolibrary.org/obo/CHEBI_49713": "PDBeChem:LI",
+          "http://purl.obolibrary.org/obo/CHEBI_67119": "PDBeChem:GDU"
+        },
+        "Patent": {
+          "http://purl.obolibrary.org/obo/CHEBI_15422": "Patent:US3079379",
+          "http://purl.obolibrary.org/obo/CHEBI_18303": "Patent:US2011098249",
+          "http://purl.obolibrary.org/obo/CHEBI_75441": "Patent:WO2009039995",
+          "http://purl.obolibrary.org/obo/CHEBI_7872": "Patent:US2938891"
+        },
+        "UM-BBD_compID": {
+          "http://purl.obolibrary.org/obo/CHEBI_27385": "UM-BBD_compID:c0486"
+        }
+      },
+      "unknown_prefixes": {
+        "SUBMITTER": {
+          "http://purl.obolibrary.org/obo/CHEBI_58961": "SUBMITTER:LMFA08020003"
+        },
+        "UM-BBD": {
+          "http://purl.obolibrary.org/obo/CHEBI_17996": "UM-BBD:c0884",
+          "http://purl.obolibrary.org/obo/CHEBI_30623": "UM-BBD:c0017"
+        }
+      }
+    }
+  },
+  "http://www.drugtargetontology.org/dto/DOID_import.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/DOID_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/PRO_import.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/PRO_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/RO_import.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/RO_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_automated_axioms.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_automated_axioms.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_automated_axioms.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_chebi_axiom.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_chebi_axiom.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_chebi_axiom.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_complete.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_complete.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.1",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_core.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_core.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_external.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_external.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_external.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_module_chebi.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_module_chebi.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_module_chebi.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_module_gpcr.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_module_gpcr.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_module_gpcr.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_module_ic.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_module_ic.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_module_ic.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_module_kinase_domain.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_module_kinase_domain.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_module_nr.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_module_nr.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_module_nr.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_gpcr_gene.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_gpcr_gene.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_vocabulary_gpcr_gene.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_gpcr_protein.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_gpcr_protein.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_vocabulary_gpcr_protein.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_ic_gene.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_ic_gene.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_vocabulary_ic_gene.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_ic_protein.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_ic_protein.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_vocabulary_ic_protein.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_kinase_domain.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_kinase_domain.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_vocabulary_kinase_domain.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_kinase_gene.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_kinase_gene.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_vocabulary_kinase_gene.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_kinase_protein.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_kinase_protein.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_vocabulary_kinase_protein.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_nr_gene.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_nr_gene.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_vocabulary_nr_gene.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_nr_protein.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_nr_protein.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_vocabulary_nr_protein.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_pfam_domain.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_pfam_domain.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_vocabulary_pfam_domain.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_properties.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_properties.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_protein_expertcategories.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_protein_expertcategories.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_proteinogenic_residue.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_proteinogenic_residue.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_vocabulary_proteinogenic_residue.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_quality.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_quality.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_vocabulary_quality.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://www.drugtargetontology.org/dto/dto_vocabulary_role.owl": {
+    "graph_id": "http://www.drugtargetontology.org/dto/dto_vocabulary_role.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.0",
+    "version_iri": "http://www.drugtargetontology.org/dto/dto_vocabulary_role.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

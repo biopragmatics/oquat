@@ -1,18 +1,20 @@
 # fbbi
 
-## `` (1)
+## ``
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20)
+There are 1 usages of `` in `fbbi`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20).
 
 | curie   |   usages | nodes                                                         |
 |---------|----------|---------------------------------------------------------------|
 | :       |        1 | [FBbi:00000291](http://purl.obolibrary.org/obo/FBbi_00000291) |
 
-## `XX` (2)
+## `XX`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX)
+There are 2 usages of `XX` in `fbbi`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX).
 
 | curie                  |   usages | nodes                                                         |
 |------------------------|----------|---------------------------------------------------------------|

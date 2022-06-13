@@ -1,9 +1,10 @@
 # cdno
 
-## `INFOODs` (248)
+## `INFOODs`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20INFOODs)
+There are 248 usages of `INFOODs` in `cdno`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20INFOODs).
 
 <details>
 <summary>Click to expand the `INFOODs` table</summary>
@@ -261,10 +262,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `USDA_NDB` (114)
+## `USDA_NDB`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USDA_NDB)
+There are 114 usages of `USDA_NDB` in `cdno`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USDA_NDB).
 
 <details>
 <summary>Click to expand the `USDA_NDB` table</summary>

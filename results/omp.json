@@ -5483,7 +5483,7 @@
         }
       }
     },
-    "version_iri": "http://purl.obolibrary.org/obo/omp/releases/2022-05-06/omp.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/omp/releases/2022-06-03/omp.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/OMP_0000110": [

@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `kegg`
 but use local unique identifiers that do not match the standard pattern of
-`^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`. Of the 7 resources,
+`^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`. Of the 9 resources,
 1 variants on the standard prefix were found: ['KEGG'].
 
 ## `bao`: BioAssay Ontology
@@ -90,6 +90,16 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `KEGG:D 8008`   |              1 | [CHEBI:182994](http://purl.obolibrary.org/obo/CHEBI_182994) |
 | `KEGG:C-5733`   |              1 | [CHEBI:183289](http://purl.obolibrary.org/obo/CHEBI_183289) |
 | `KEGG:C-8660`   |              1 | [CHEBI:189210](http://purl.obolibrary.org/obo/CHEBI_189210) |
+| `KEGG:C-9227`   |              1 | [CHEBI:191088](http://purl.obolibrary.org/obo/CHEBI_191088) |
+
+## `covid19`: COVID-19 Ontology
+
+Identifiers for this prefix are given incorrectly in `covid19`.
+
+| external_xref   |   usages_count | usages                                                |
+|-----------------|----------------|-------------------------------------------------------|
+| `KEGG:05340`    |              1 | [DOID:612](http://purl.obolibrary.org/obo/DOID_612)   |
+| `KEGG:04930`    |              1 | [DOID:9352](http://purl.obolibrary.org/obo/DOID_9352) |
 
 ## `doid`: Human Disease Ontology
 
@@ -156,6 +166,22 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `KEGG:05210`    |              1 | [EFO:0005842](http://www.ebi.ac.uk/efo/EFO_0005842) |
 | `KEGG:05416`    |              1 | [EFO:0009609](http://www.ebi.ac.uk/efo/EFO_0009609) |
 | `KEGG:05212`    |              1 | [EFO:1000359](http://www.ebi.ac.uk/efo/EFO_1000359) |
+
+## `epso`: Epilepsy and Seizure Ontology
+
+Identifiers for this prefix are given incorrectly in `epso`.
+
+| external_xref   |   usages_count | usages                                                        |
+|-----------------|----------------|---------------------------------------------------------------|
+| `KEGG:05321`    |              1 | [DOID:0050589](http://purl.obolibrary.org/obo/DOID_0050589)   |
+| `KEGG:05034`    |              1 | [DOID:0050741](http://purl.obolibrary.org/obo/DOID_0050741)   |
+| `KEGG:05143`    |              1 | [DOID:10112](http://purl.obolibrary.org/obo/DOID_10112)       |
+| `KEGG:05010`    |              1 | [DOID:10652](http://purl.obolibrary.org/obo/DOID_10652)       |
+| `KEGG:05310`    |              1 | [DOID:2841](http://purl.obolibrary.org/obo/DOID_2841)         |
+| `KEGG:05323`    |              1 | [DOID:7148](http://purl.obolibrary.org/obo/DOID_7148)         |
+| `KEGG:05322`    |              1 | [DOID:9074](http://purl.obolibrary.org/obo/DOID_9074)         |
+| `KEGG:04940`    |              1 | [DOID:9744](http://purl.obolibrary.org/obo/DOID_9744)         |
+| `KEGG:05214`    |              1 | [MONDO:0015917](http://purl.obolibrary.org/obo/MONDO_0015917) |
 
 ## `mondo`: Monarch Disease Ontology
 

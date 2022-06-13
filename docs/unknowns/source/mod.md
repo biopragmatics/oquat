@@ -1,9 +1,10 @@
 # mod
 
-## `DeltaMass` (112)
+## `DeltaMass`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DeltaMass)
+There are 112 usages of `DeltaMass` in `mod`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DeltaMass).
 
 <details>
 <summary>Click to expand the `DeltaMass` table</summary>
@@ -125,10 +126,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `OMSSA` (137)
+## `OMSSA`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OMSSA)
+There are 137 usages of `OMSSA` in `mod`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OMSSA).
 
 <details>
 <summary>Click to expand the `OMSSA` table</summary>
@@ -275,10 +277,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `URL` (10)
+## `URL`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL)
+There are 10 usages of `URL` in `mod`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL).
 
 | curie                                                                                                                                    |   usages | nodes                                                                                                                                                                                                                                                                                  |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -293,10 +296,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | URL:http://www.sigmaaldrich.com/catalog/ProductDetail.do?N4=609021|ALDRICH&N5=SEARCH_CONCAT_PNO|BRAND_KEY&F=SPEC&lang=en_US0.000000E+000 |        1 | [MOD:01603](http://purl.obolibrary.org/obo/MOD_01603)                                                                                                                                                                                                                                  |
 | URL:http://www.sigmaaldrich.com/catalog/ProductDetail.do?N4=600113|ALDRICH&N5=SEARCH_CONCAT_PNO|BRAND_KEY&F=SPEC&lang=en_US0.000000E+000 |        1 | [MOD:01604](http://purl.obolibrary.org/obo/MOD_01604)                                                                                                                                                                                                                                  |
 
-## `url` (1)
+## `url`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url)
+There are 1 usages of `url` in `mod`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url).
 
 | curie   |   usages | nodes                                                 |
 |---------|----------|-------------------------------------------------------|

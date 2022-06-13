@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `pubmed`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 22 resources,
+`^\d+$`. Of the 23 resources,
 4 variants on the standard prefix were found: ['Medline', 'PMID', 'PubMed', 'Pubmed'].
 
 ## `bto`: BRENDA tissue / enzyme source
@@ -94,6 +94,14 @@ Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repos
 |-----------------------------|----------------|------------------------------------------------------------------------------------------------------------------|
 | `PMID:probinson`            |              2 | [HP:0009659](http://purl.obolibrary.org/obo/HP_0009659), [HP:0030789](http://purl.obolibrary.org/obo/HP_0030789) |
 | `PMID:30085516rdfs:comment` |              1 | [HP:0033585](http://purl.obolibrary.org/obo/HP_0033585)                                                          |
+
+## `idoden`: Dengue Fever Ontology
+
+Identifiers for this prefix are given incorrectly in `idoden`.
+
+| external_xref                                                |   usages_count | usages                                                        |
+|--------------------------------------------------------------|----------------|---------------------------------------------------------------|
+| `PMID:16925478 "Li et al. (2007), Ann Rev Entomol, 52: 231"` |              1 | [MIRO:00000015](http://purl.obolibrary.org/obo/MIRO_00000015) |
 
 ## `mi`: Molecular Interactions Controlled Vocabulary
 

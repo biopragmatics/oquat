@@ -2087,6 +2087,9 @@
         "http://purl.obolibrary.org/obo/VT_0010998": [
           "RGD:cur"
         ],
+        "http://purl.obolibrary.org/obo/VT_0011005": [
+          "RGD:cur"
+        ],
         "http://purl.obolibrary.org/obo/VT_0015027": [
           "MGI:smb",
           "VTO:CP"

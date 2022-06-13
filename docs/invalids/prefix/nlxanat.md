@@ -2,8 +2,16 @@
 
 This page summarize the different resources that reference `nlxanat`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{6}$`. Of the 1 resources,
+`^\d{6}$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['NLXANAT'].
+
+## `epso`: Epilepsy and Seizure Ontology
+
+Identifiers for this prefix are given incorrectly in `epso`.
+
+| external_xref      |   usages_count | usages                                                          |
+|--------------------|----------------|-----------------------------------------------------------------|
+| `NLXANAT:20090513` |              1 | [UBERON:0001020](http://purl.obolibrary.org/obo/UBERON_0001020) |
 
 ## `uberon`: Uber Anatomy Ontology
 

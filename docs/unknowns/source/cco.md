@@ -1,36 +1,40 @@
 # cco
 
-## `` (1)
+## ``
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20)
+There are 1 usages of `` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20).
 
 | curie   |   usages | nodes                                             |
 |---------|----------|---------------------------------------------------|
 | :       |        1 | [MI:1273](http://purl.obolibrary.org/obo/MI_1273) |
 
-## `EMBL` (1)
+## `EMBL`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20EMBL)
+There are 1 usages of `EMBL` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20EMBL).
 
 | curie         |   usages | nodes                                                   |
 |---------------|----------|---------------------------------------------------------|
 | EMBL:AF304352 |        1 | [GO:0004453](http://purl.obolibrary.org/obo/GO_0004453) |
 
-## `GOC` (1)
+## `GOC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
+There are 1 usages of `GOC` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie              |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |--------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | GOC:mengo_curators |       10 | [GO:1990296](http://purl.obolibrary.org/obo/GO_1990296), [GO:1990300](http://purl.obolibrary.org/obo/GO_1990300), [GO:1990301](http://purl.obolibrary.org/obo/GO_1990301), [GO:1990308](http://purl.obolibrary.org/obo/GO_1990308), [GO:1990309](http://purl.obolibrary.org/obo/GO_1990309), ... |
 
-## `IMG` (35)
+## `IMG`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMG)
+There are 35 usages of `IMG` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMG).
 
 <details>
 <summary>Click to expand the `IMG` table</summary>
@@ -75,29 +79,32 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `MEROPS_fam` (2)
+## `MEROPS_fam`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MEROPS_fam)
+There are 2 usages of `MEROPS_fam` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MEROPS_fam).
 
 | curie          |   usages | nodes                                                   |
 |----------------|----------|---------------------------------------------------------|
 | MEROPS_fam:M12 |        1 | [GO:0017090](http://purl.obolibrary.org/obo/GO_0017090) |
 | MEROPS_fam:C26 |        1 | [GO:0034722](http://purl.obolibrary.org/obo/GO_0034722) |
 
-## `MITRE` (1)
+## `MITRE`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MITRE)
+There are 1 usages of `MITRE` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MITRE).
 
 | curie    |   usages | nodes                                                                                                                                                                     |
 |----------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MITRE:tk |        3 | [GO:0044071](http://purl.obolibrary.org/obo/GO_0044071), [GO:0044072](http://purl.obolibrary.org/obo/GO_0044072), [GO:0044084](http://purl.obolibrary.org/obo/GO_0044084) |
 
-## `NIF_Subcellular` (230)
+## `NIF_Subcellular`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Subcellular)
+There are 230 usages of `NIF_Subcellular` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Subcellular).
 
 <details>
 <summary>Click to expand the `NIF_Subcellular` table</summary>
@@ -337,28 +344,31 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `PHI` (1)
+## `PHI`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PHI)
+There are 1 usages of `PHI` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PHI).
 
 | curie       |   usages | nodes                                                   |
 |-------------|----------|---------------------------------------------------------|
 | PHI:0000176 |        1 | [GO:0098022](http://purl.obolibrary.org/obo/GO_0098022) |
 
-## `POC` (1)
+## `POC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20POC)
+There are 1 usages of `POC` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20POC).
 
 | curie        |   usages | nodes                                                                                                                                                                                                                              |
 |--------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | POC:curators |        4 | [GO:0097217](http://purl.obolibrary.org/obo/GO_0097217), [GO:0097218](http://purl.obolibrary.org/obo/GO_0097218), [GO:0097219](http://purl.obolibrary.org/obo/GO_0097219), [GO:0097220](http://purl.obolibrary.org/obo/GO_0097220) |
 
-## `SP` (3)
+## `SP`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SP)
+There are 3 usages of `SP` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SP).
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
@@ -366,64 +376,71 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | SP:P09184 |        1 | [GO:0043765](http://purl.obolibrary.org/obo/GO_0043765) |
 | SP:Q8TUB8 |        1 | [GO:0043767](http://purl.obolibrary.org/obo/GO_0043767) |
 
-## `TIGR_TIGRFAMS` (1)
+## `TIGR_TIGRFAMS`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TIGR_TIGRFAMS)
+There are 1 usages of `TIGR_TIGRFAMS` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TIGR_TIGRFAMS).
 
 | curie                   |   usages | nodes                                                   |
 |-------------------------|----------|---------------------------------------------------------|
 | TIGR_TIGRFAMS:TIGR01497 |        1 | [GO:0031004](http://purl.obolibrary.org/obo/GO_0031004) |
 
-## `XX` (1)
+## `XX`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX)
+There are 1 usages of `XX` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX).
 
 | curie   |   usages | nodes                                                                                                |
 |---------|----------|------------------------------------------------------------------------------------------------------|
 | XX:     |        2 | [MI:1279](http://purl.obolibrary.org/obo/MI_1279), [MI:1280](http://purl.obolibrary.org/obo/MI_1280) |
 
-## `Wikilpedia` (1)
+## `Wikilpedia`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wikilpedia)
+There are 1 usages of `Wikilpedia` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wikilpedia).
 
 | curie                                   |   usages | nodes                                                   |
 |-----------------------------------------|----------|---------------------------------------------------------|
 | Wikilpedia:Human_chorionic_gonadotropin |        1 | [GO:0038106](http://purl.obolibrary.org/obo/GO_0038106) |
 
-## `dph` (1)
+## `dph`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20dph)
+There are 1 usages of `dph` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20dph).
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | dph:GOC |        1 | [GO:0019787](http://purl.obolibrary.org/obo/GO_0019787) |
 
-## `gOC` (1)
+## `gOC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20gOC)
+There are 1 usages of `gOC` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20gOC).
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | gOC:dph |        1 | [GO:0032130](http://purl.obolibrary.org/obo/GO_0032130) |
 
-## `goc` (1)
+## `goc`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20goc)
+There are 1 usages of `goc` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20goc).
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | goc:dph |        1 | [GO:0000914](http://purl.obolibrary.org/obo/GO_0000914) |
 
-## `TAIR` (16374)
+## `TAIR`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TAIR)
+There are 16374 usages of `TAIR` in `cco`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TAIR).
 
 <details>
 <summary>Click to expand the `TAIR` table</summary>

@@ -1,9 +1,10 @@
 # unimod
 
-## `FindMod` (59)
+## `FindMod`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FindMod)
+There are 59 usages of `FindMod` in `unimod`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FindMod).
 
 <details>
 <summary>Click to expand the `FindMod` table</summary>
@@ -72,10 +73,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `UNIMODURL` (1509)
+## `UNIMODURL`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UNIMODURL)
+There are 1509 usages of `UNIMODURL` in `unimod`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UNIMODURL).
 
 <details>
 <summary>Click to expand the `UNIMODURL` table</summary>
@@ -1594,10 +1596,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `URL` (533)
+## `URL`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL)
+There are 533 usages of `URL` in `unimod`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL).
 
 <details>
 <summary>Click to expand the `URL` table</summary>

@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `icdo`
 but use local unique identifiers that do not match the standard pattern of
-`^[8-9]\d{3}(/[0-3])?$`. Of the 7 resources,
+`^[8-9]\d{3}(/[0-3])?$`. Of the 9 resources,
 2 variants on the standard prefix were found: ['ICD-O', 'ICDO'].
 
 ## `bao`: BioAssay Ontology
@@ -19,6 +19,14 @@ Identifiers for this prefix are given incorrectly in `bao`.
 | `ICDO:M8170/3`  |              1 | [DOID:684](http://purl.obolibrary.org/obo/DOID_684)   |
 | `ICDO:M8970/3`  |              1 | [DOID:687](http://purl.obolibrary.org/obo/DOID_687)   |
 | `ICDO:M9500/3`  |              1 | [DOID:769](http://purl.obolibrary.org/obo/DOID_769)   |
+
+## `covid19`: COVID-19 Ontology
+
+Identifiers for this prefix are given incorrectly in `covid19`.
+
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `ICDO:M8000/3`  |              1 | [DOID:162](http://purl.obolibrary.org/obo/DOID_162) |
 
 ## `doid`: Human Disease Ontology
 
@@ -39,6 +47,16 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `ICDO:M9861/3`  |              1 | [EFO:0000330](http://www.ebi.ac.uk/efo/EFO_0000330)                                                      |
 | `ICDO:981-983`  |              1 | [EFO:0004289](http://www.ebi.ac.uk/efo/EFO_0004289)                                                      |
 | `ICDO:8000/6`   |              1 | [EFO:0009709](http://www.ebi.ac.uk/efo/EFO_0009709)                                                      |
+
+## `epso`: Epilepsy and Seizure Ontology
+
+Identifiers for this prefix are given incorrectly in `epso`.
+
+| external_xref   |   usages_count | usages                                                        |
+|-----------------|----------------|---------------------------------------------------------------|
+| `ICDO:M9400/3`  |              1 | [DOID:3069](http://purl.obolibrary.org/obo/DOID_3069)         |
+| `ICDO:M9530/3`  |              1 | [DOID:3565](http://purl.obolibrary.org/obo/DOID_3565)         |
+| `ICDO:8000/6`   |              1 | [MONDO:0024883](http://purl.obolibrary.org/obo/MONDO_0024883) |
 
 ## `hp`: Human Phenotype Ontology
 

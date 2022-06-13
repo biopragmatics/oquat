@@ -2,8 +2,17 @@
 
 This page summarize the different resources that reference `umls`
 but use local unique identifiers that do not match the standard pattern of
-`^C\d+$`. Of the 2 resources,
+`^C\d+$`. Of the 4 resources,
 1 variants on the standard prefix were found: ['UMLS'].
+
+## `covid19`: COVID-19 Ontology
+
+Identifiers for this prefix are given incorrectly in `covid19`.
+
+| external_xref   |   usages_count | usages                                                        |
+|-----------------|----------------|---------------------------------------------------------------|
+| `UMLS:CN882913` |              1 | [MONDO:0005570](http://purl.obolibrary.org/obo/MONDO_0005570) |
+| `UMLS:CN206369` |              1 | [MONDO:0019540](http://purl.obolibrary.org/obo/MONDO_0019540) |
 
 ## `efo`: Experimental Factor Ontology
 
@@ -103,6 +112,37 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `UMLS:CN205479` |              1 | [EFO:1002000](http://www.ebi.ac.uk/efo/EFO_1002000) |
 | `UMLS:CN207484` |              1 | [EFO:1002008](http://www.ebi.ac.uk/efo/EFO_1002008) |
 | `UMLS:CN580795` |              1 | [EFO:1002049](http://www.ebi.ac.uk/efo/EFO_1002049) |
+
+## `epso`: Epilepsy and Seizure Ontology
+
+Identifiers for this prefix are given incorrectly in `epso`.
+
+| external_xref   |   usages_count | usages                                                        |
+|-----------------|----------------|---------------------------------------------------------------|
+| `UMLS:CN227588` |              1 | [MONDO:0000456](http://purl.obolibrary.org/obo/MONDO_0000456) |
+| `UMLS:CN232116` |              1 | [MONDO:0000839](http://purl.obolibrary.org/obo/MONDO_0000839) |
+| `UMLS:CN236628` |              1 | [MONDO:0005070](http://purl.obolibrary.org/obo/MONDO_0005070) |
+| `UMLS:CN240636` |              1 | [MONDO:0005084](http://purl.obolibrary.org/obo/MONDO_0005084) |
+| `UMLS:CN200685` |              1 | [MONDO:0007295](http://purl.obolibrary.org/obo/MONDO_0007295) |
+| `UMLS:CN203406` |              1 | [MONDO:0009945](http://purl.obolibrary.org/obo/MONDO_0009945) |
+| `UMLS:CN233170` |              1 | [MONDO:0014708](http://purl.obolibrary.org/obo/MONDO_0014708) |
+| `UMLS:CN199399` |              1 | [MONDO:0015346](http://purl.obolibrary.org/obo/MONDO_0015346) |
+| `UMLS:CN199955` |              1 | [MONDO:0015584](http://purl.obolibrary.org/obo/MONDO_0015584) |
+| `UMLS:CN200058` |              1 | [MONDO:0015648](http://purl.obolibrary.org/obo/MONDO_0015648) |
+| `UMLS:CN200064` |              1 | [MONDO:0015654](http://purl.obolibrary.org/obo/MONDO_0015654) |
+| `UMLS:CN200066` |              1 | [MONDO:0015657](http://purl.obolibrary.org/obo/MONDO_0015657) |
+| `UMLS:CN200068` |              1 | [MONDO:0015659](http://purl.obolibrary.org/obo/MONDO_0015659) |
+| `UMLS:CN200514` |              1 | [MONDO:0015916](http://purl.obolibrary.org/obo/MONDO_0015916) |
+| `UMLS:CN201945` |              1 | [MONDO:0016701](http://purl.obolibrary.org/obo/MONDO_0016701) |
+| `UMLS:CN227171` |              1 | [MONDO:0017657](http://purl.obolibrary.org/obo/MONDO_0017657) |
+| `UMLS:CN205631` |              1 | [MONDO:0019113](http://purl.obolibrary.org/obo/MONDO_0019113) |
+| `UMLS:CN205780` |              1 | [MONDO:0019197](http://purl.obolibrary.org/obo/MONDO_0019197) |
+| `UMLS:CN206266` |              1 | [MONDO:0019486](http://purl.obolibrary.org/obo/MONDO_0019486) |
+| `UMLS:CN206974` |              1 | [MONDO:0020070](http://purl.obolibrary.org/obo/MONDO_0020070) |
+| `UMLS:CN206975` |              1 | [MONDO:0020071](http://purl.obolibrary.org/obo/MONDO_0020071) |
+| `UMLS:CN206976` |              1 | [MONDO:0020072](http://purl.obolibrary.org/obo/MONDO_0020072) |
+| `UMLS:CN207128` |              1 | [MONDO:0020308](http://purl.obolibrary.org/obo/MONDO_0020308) |
+| `UMLS:CN207131` |              1 | [MONDO:0020310](http://purl.obolibrary.org/obo/MONDO_0020310) |
 
 ## `mondo`: Monarch Disease Ontology
 

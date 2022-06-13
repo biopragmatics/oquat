@@ -114,8 +114,8 @@
         }
       }
     },
-    "version": "2022-04-12",
-    "version_iri": "http://purl.obolibrary.org/obo/fbdv/releases/2022-04-12/fbdv.json",
+    "version": "2022-06-08",
+    "version_iri": "http://purl.obolibrary.org/obo/fbdv/releases/2022-06-08/fbdv.json",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

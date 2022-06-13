@@ -141,6 +141,12 @@
 | NIFSTD:birnlex_4113 |        4 | [MP:0011150](http://purl.obolibrary.org/obo/MP_0011150), [MP:0011153](http://purl.obolibrary.org/obo/MP_0011153), [MP:0011155](http://purl.obolibrary.org/obo/MP_0011155), [MP:0012446](http://purl.obolibrary.org/obo/MP_0012446) |
 | NIFSTD:birnlex_1298 |        3 | [MP:0011151](http://purl.obolibrary.org/obo/MP_0011151), [MP:0011154](http://purl.obolibrary.org/obo/MP_0011154), [MP:0012445](http://purl.obolibrary.org/obo/MP_0012445)                                                          |
 
+## epso
+
+| curie                |   usages | nodes                                                         |
+|----------------------|----------|---------------------------------------------------------------|
+| NIFSTD:birnlex_12669 |        1 | [MONDO:0005084](http://purl.obolibrary.org/obo/MONDO_0005084) |
+
 ## mondo
 
 | curie                   |   usages | nodes                                                         |

@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `cas`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{1,7}\-\d{2}\-\d$`. Of the 4 resources,
+`^\d{1,7}\-\d{2}\-\d$`. Of the 5 resources,
 1 variants on the standard prefix were found: ['CAS'].
 
 ## `chebi`: Chemical Entities of Biological Interest
@@ -16,6 +16,18 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `CAS:9/7/2957`   |              1 | [CHEBI:189177](http://purl.obolibrary.org/obo/CHEBI_189177) |
 | `CAS:5/9/2016`   |              1 | [CHEBI:189236](http://purl.obolibrary.org/obo/CHEBI_189236) |
 | `CAS:5/2/5297`   |              1 | [CHEBI:189931](http://purl.obolibrary.org/obo/CHEBI_189931) |
+| `CAS:4/1/5623`   |              1 | [CHEBI:190963](http://purl.obolibrary.org/obo/CHEBI_190963) |
+| `CAS:4/8/2004`   |              1 | [CHEBI:191094](http://purl.obolibrary.org/obo/CHEBI_191094) |
+| `CAS:03/07/5452` |              1 | [CHEBI:191497](http://purl.obolibrary.org/obo/CHEBI_191497) |
+| `CAS:6/5/7780`   |              1 | [CHEBI:191626](http://purl.obolibrary.org/obo/CHEBI_191626) |
+
+## `idoden`: Dengue Fever Ontology
+
+Identifiers for this prefix are given incorrectly in `idoden`.
+
+| external_xref                                                                            |   usages_count | usages                                                        |
+|------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------|
+| `CAS:7-(2-chlorophenyl)-4-ethoxy-3\,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile4-sulfide` |              1 | [MIRO:10000108](http://purl.obolibrary.org/obo/MIRO_10000108) |
 
 ## `miro`: Mosquito insecticide resistance
 

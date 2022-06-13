@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `caro`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 11 resources,
+`^\d{7}$`. Of the 12 resources,
 1 variants on the standard prefix were found: ['CARO'].
 
 ## `aeo`: Anatomical Entity Ontology
@@ -52,6 +52,14 @@ Identifiers for this prefix are given incorrectly in `fbbt`. See the [GitHub rep
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `CARO:MAH`      |             12 | [FBbt:00000124](http://purl.obolibrary.org/obo/FBbt_00000124), [FBbt:00007001](http://purl.obolibrary.org/obo/FBbt_00007001), [FBbt:00007002](http://purl.obolibrary.org/obo/FBbt_00007002), [FBbt:00007003](http://purl.obolibrary.org/obo/FBbt_00007003), [FBbt:00007004](http://purl.obolibrary.org/obo/FBbt_00007004), ... |
+
+## `idoden`: Dengue Fever Ontology
+
+Identifiers for this prefix are given incorrectly in `idoden`.
+
+| external_xref   |   usages_count | usages                                                          |
+|-----------------|----------------|-----------------------------------------------------------------|
+| `CARO:00000041` |              1 | [IDOMAL:0002461](http://purl.obolibrary.org/obo/IDOMAL_0002461) |
 
 ## `idomal`: Malaria Ontology
 

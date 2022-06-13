@@ -1,9 +1,10 @@
 # oba
 
-## `AUTO` (6)
+## `AUTO`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20AUTO)
+There are 6 usages of `AUTO` in `oba`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20AUTO).
 
 | curie                                                   |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |---------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -14,10 +15,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | AUTO:patterns/patterns/chemical_role_attribute_location |        6 | [OBA:VT0003351](http://purl.obolibrary.org/obo/OBA_VT0003351), [OBA:VT0003369](http://purl.obolibrary.org/obo/OBA_VT0003369), [OBA:VT0005120](http://purl.obolibrary.org/obo/OBA_VT0005120), [OBA:VT0005418](http://purl.obolibrary.org/obo/OBA_VT0005418), [OBA:VT0010269](http://purl.obolibrary.org/obo/OBA_VT0010269), ... |
 | AUTO:patterns/patterns/process_attribute_location       |        1 | [OBA:VT0002455](http://purl.obolibrary.org/obo/OBA_VT0002455)                                                                                                                                                                                                                                                                  |
 
-## `GOC` (2)
+## `GOC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
+There are 2 usages of `GOC` in `oba`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie         |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |---------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

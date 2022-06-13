@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `isbn`
 but use local unique identifiers that do not match the standard pattern of
-`^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`. Of the 5 resources,
+`^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`. Of the 6 resources,
 1 variants on the standard prefix were found: ['ISBN'].
 
 ## `hp`: Human Phenotype Ontology
@@ -12,6 +12,14 @@ Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repos
 | external_xref      |   usages_count | usages                                                  |
 |--------------------|----------------|---------------------------------------------------------|
 | `ISBN:0412792702.` |              1 | [HP:0032984](http://purl.obolibrary.org/obo/HP_0032984) |
+
+## `idoden`: Dengue Fever Ontology
+
+Identifiers for this prefix are given incorrectly in `idoden`.
+
+| external_xref                             |   usages_count | usages                                                          |
+|-------------------------------------------|----------------|-----------------------------------------------------------------|
+| `ISBN:034057190X "Essential Malariology"` |              1 | [IDOMAL:0000030](http://purl.obolibrary.org/obo/IDOMAL_0000030) |
 
 ## `idomal`: Malaria Ontology
 

@@ -1,18 +1,20 @@
 # mondo
 
-## `ClinGen` (1)
+## `ClinGen`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ClinGen)
+There are 1 usages of `ClinGen` in `mondo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ClinGen).
 
 | curie                                    |   usages | nodes                                                         |
 |------------------------------------------|----------|---------------------------------------------------------------|
 | ClinGen:AminoacidopathyGeneCurationPanel |        1 | [MONDO:0009607](http://purl.obolibrary.org/obo/MONDO_0009607) |
 
-## `MONDORULE` (8)
+## `MONDORULE`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MONDORULE)
+There are 8 usages of `MONDORULE` in `mondo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MONDORULE).
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -25,19 +27,21 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | MONDORULE:5 |        5 | [MONDO:0009287](http://purl.obolibrary.org/obo/MONDO_0009287), [MONDO:0009288](http://purl.obolibrary.org/obo/MONDO_0009288), [MONDO:0009868](http://purl.obolibrary.org/obo/MONDO_0009868), [MONDO:0010362](http://purl.obolibrary.org/obo/MONDO_0010362), [MONDO:0013091](http://purl.obolibrary.org/obo/MONDO_0013091), ... |
 | MONDORULE:6 |        1 | [MONDO:0014073](http://purl.obolibrary.org/obo/MONDO_0014073)                                                                                                                                                                                                                                                                  |
 
-## `MTH` (1)
+## `MTH`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MTH)
+There are 1 usages of `MTH` in `mondo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MTH).
 
 | curie   |   usages | nodes                                                         |
 |---------|----------|---------------------------------------------------------------|
 | MTH:217 |        1 | [MONDO:0011438](http://purl.obolibrary.org/obo/MONDO_0011438) |
 
-## `ICD10EXP` (27)
+## `ICD10EXP`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10EXP)
+There are 27 usages of `ICD10EXP` in `mondo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10EXP).
 
 <details>
 <summary>Click to expand the `ICD10EXP` table</summary>
@@ -74,10 +78,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `ICD10WHO` (18)
+## `ICD10WHO`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10WHO)
+There are 18 usages of `ICD10WHO` in `mondo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10WHO).
 
 | curie            |   usages | nodes                                                         |
 |------------------|----------|---------------------------------------------------------------|
@@ -100,10 +105,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ICD10WHO:I85.0   |        1 | [MONDO:0021645](http://purl.obolibrary.org/obo/MONDO_0021645) |
 | ICD10WHO:A80-A89 |        1 | [MONDO:0024318](http://purl.obolibrary.org/obo/MONDO_0024318) |
 
-## `NIFSTD` (18)
+## `NIFSTD`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIFSTD)
+There are 18 usages of `NIFSTD` in `mondo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIFSTD).
 
 | curie                   |   usages | nodes                                                         |
 |-------------------------|----------|---------------------------------------------------------------|

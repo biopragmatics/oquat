@@ -5640,9 +5640,6 @@
         "http://purl.obolibrary.org/obo/MP_0003354": [
           "MESH:C23.550.369"
         ],
-        "http://purl.obolibrary.org/obo/MP_0003355": [
-          "MGI:anna"
-        ],
         "http://purl.obolibrary.org/obo/MP_0003356": [
           "MGI:anna"
         ],
@@ -15074,12 +15071,6 @@
         "http://purl.obolibrary.org/obo/MP_0009232": [
           "MGI:anna"
         ],
-        "http://purl.obolibrary.org/obo/MP_0009233": [
-          "MGI:anna"
-        ],
-        "http://purl.obolibrary.org/obo/MP_0009234": [
-          "MGI:anna"
-        ],
         "http://purl.obolibrary.org/obo/MP_0009235": [
           "MGI:anna"
         ],
@@ -16498,9 +16489,6 @@
         "http://purl.obolibrary.org/obo/MP_0009829": [
           "MESH:A09.371.060.067",
           "MGI:mberry"
-        ],
-        "http://purl.obolibrary.org/obo/MP_0009839": [
-          "MGI:anna"
         ],
         "http://purl.obolibrary.org/obo/MP_0009840": [
           "MGI:llw2"
@@ -20413,9 +20401,6 @@
           "MGI:anna"
         ],
         "http://purl.obolibrary.org/obo/MP_0011801": [
-          "MGI:anna"
-        ],
-        "http://purl.obolibrary.org/obo/MP_0011802": [
           "MGI:anna"
         ],
         "http://purl.obolibrary.org/obo/MP_0011803": [
@@ -29486,8 +29471,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2022-05-19",
-    "version_iri": "http://purl.obolibrary.org/obo/mp/releases/2022-05-19/mp.json",
+    "version": "2022-06-07",
+    "version_iri": "http://purl.obolibrary.org/obo/mp/releases/2022-06-07/mp.json",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/MP_0009875": [

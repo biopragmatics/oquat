@@ -85,7 +85,7 @@ did not match the standard pattern `^C\d+$`.
 
 ## `OMIM`: Online Mendelian Inheritance in Man
 
-Overall, there were 232 invalid
+Overall, there were 234 invalid
 xrefs to external prefixed with `OMIM` (standardized to Bioregistry
 prefix [`omim`](https://bioregistry.io/omim)) that
 did not match the standard pattern `^\d+$`.
@@ -118,7 +118,6 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS218330` |              1 | [DOID:0050577](http://purl.obolibrary.org/obo/DOID_0050577) |
 | `OMIM:PS153100` |              1 | [DOID:0050580](http://purl.obolibrary.org/obo/DOID_0050580) |
 | `OMIM:PS608594` |              1 | [DOID:0050585](http://purl.obolibrary.org/obo/DOID_0050585) |
-| `OMIM:PS613155` |              1 | [DOID:0050588](http://purl.obolibrary.org/obo/DOID_0050588) |
 | `OMIM:PS266600` |              1 | [DOID:0050589](http://purl.obolibrary.org/obo/DOID_0050589) |
 | `OMIM:PS202700` |              1 | [DOID:0050590](http://purl.obolibrary.org/obo/DOID_0050590) |
 | `OMIM:PS208500` |              1 | [DOID:0050592](http://purl.obolibrary.org/obo/DOID_0050592) |
@@ -136,7 +135,6 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS213300` |              1 | [DOID:0050777](http://purl.obolibrary.org/obo/DOID_0050777) |
 | `OMIM:PS249000` |              1 | [DOID:0050778](http://purl.obolibrary.org/obo/DOID_0050778) |
 | `OMIM:PS236680` |              1 | [DOID:0050779](http://purl.obolibrary.org/obo/DOID_0050779) |
-| `OMIM:PS300000` |              1 | [DOID:0050780](http://purl.obolibrary.org/obo/DOID_0050780) |
 | `OMIM:PS185800` |              1 | [DOID:0050788](http://purl.obolibrary.org/obo/DOID_0050788) |
 | `OMIM:PS236730` |              1 | [DOID:0050816](http://purl.obolibrary.org/obo/DOID_0050816) |
 | `OMIM:PS233400` |              1 | [DOID:0050857](http://purl.obolibrary.org/obo/DOID_0050857) |
@@ -157,6 +155,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS272430` |              1 | [DOID:0060294](http://purl.obolibrary.org/obo/DOID_0060294) |
 | `OMIM:PS224690` |              1 | [DOID:0060306](http://purl.obolibrary.org/obo/DOID_0060306) |
 | `OMIM:PS156200` |              1 | [DOID:0060307](http://purl.obolibrary.org/obo/DOID_0060307) |
+| `OMIM:PS249500` |              1 | [DOID:0060308](http://purl.obolibrary.org/obo/DOID_0060308) |
 | `OMIM:PS309510` |              1 | [DOID:0060309](http://purl.obolibrary.org/obo/DOID_0060309) |
 | `OMIM:PS250950` |              1 | [DOID:0060336](http://purl.obolibrary.org/obo/DOID_0060336) |
 | `OMIM:PS122100` |              1 | [DOID:0060451](http://purl.obolibrary.org/obo/DOID_0060451) |
@@ -216,6 +215,8 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS607095` |              1 | [DOID:0080942](http://purl.obolibrary.org/obo/DOID_0080942) |
 | `OMIM:PS617468` |              1 | [DOID:0080954](http://purl.obolibrary.org/obo/DOID_0080954) |
 | `OMIM:PS136760` |              1 | [DOID:0081044](http://purl.obolibrary.org/obo/DOID_0081044) |
+| `OMIM:PS145420` |              1 | [DOID:0081073](http://purl.obolibrary.org/obo/DOID_0081073) |
+| `OMIM:PS300291` |              1 | [DOID:0081077](http://purl.obolibrary.org/obo/DOID_0081077) |
 | `OMIM:PS219000` |              1 | [DOID:0090001](http://purl.obolibrary.org/obo/DOID_0090001) |
 | `OMIM:PS242860` |              1 | [DOID:0090007](http://purl.obolibrary.org/obo/DOID_0090007) |
 | `OMIM:PS183600` |              1 | [DOID:0090020](http://purl.obolibrary.org/obo/DOID_0090020) |
@@ -245,6 +246,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS271640` |              1 | [DOID:0112197](http://purl.obolibrary.org/obo/DOID_0112197) |
 | `OMIM:PS308350` |              1 | [DOID:0112202](http://purl.obolibrary.org/obo/DOID_0112202) |
 | `OMIM:PS175780` |              1 | [DOID:0112313](http://purl.obolibrary.org/obo/DOID_0112313) |
+| `OMIM:PS613155` |              1 | [DOID:0112375](http://purl.obolibrary.org/obo/DOID_0112375) |
 | `OMIM:PS118100` |              1 | [DOID:10426](http://purl.obolibrary.org/obo/DOID_10426)     |
 | `OMIM:PS268000` |              1 | [DOID:10584](http://purl.obolibrary.org/obo/DOID_10584)     |
 | `OMIM:PS118220` |              1 | [DOID:10595](http://purl.obolibrary.org/obo/DOID_10595)     |

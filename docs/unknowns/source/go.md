@@ -1,9 +1,10 @@
 # go
 
-## `GOC` (128)
+## `GOC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
+There are 128 usages of `GOC` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 <details>
 <summary>Click to expand the `GOC` table</summary>
@@ -141,84 +142,93 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `GOCL` (1)
+## `GOCL`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOCL)
+There are 1 usages of `GOCL` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOCL).
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
 | GOCL:PARL |        1 | [GO:0099068](http://purl.obolibrary.org/obo/GO_0099068) |
 
-## `GOV` (1)
+## `GOV`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOV)
+There are 1 usages of `GOV` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOV).
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | GOV:vw  |        1 | [GO:0072690](http://purl.obolibrary.org/obo/GO_0072690) |
 
-## `GPC` (1)
+## `GPC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GPC)
+There are 1 usages of `GPC` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GPC).
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | GPC:rl  |        1 | [GO:0038031](http://purl.obolibrary.org/obo/GO_0038031) |
 
-## `HEA` (1)
+## `HEA`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20HEA)
+There are 1 usages of `HEA` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20HEA).
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
 | HEA:47716 |        1 | [GO:0102635](http://purl.obolibrary.org/obo/GO_0102635) |
 
-## `IMG` (2)
+## `IMG`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMG)
+There are 2 usages of `IMG` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMG).
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
 | IMG:01449 |        1 | [GO:0043745](http://purl.obolibrary.org/obo/GO_0043745) |
 | IMG:01450 |        1 | [GO:0043746](http://purl.obolibrary.org/obo/GO_0043746) |
 
-## `LIGAND` (1)
+## `LIGAND`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20LIGAND)
+There are 1 usages of `LIGAND` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20LIGAND).
 
 | curie         |   usages | nodes                                                   |
 |---------------|----------|---------------------------------------------------------|
 | LIGAND:C03367 |        1 | [GO:0051679](http://purl.obolibrary.org/obo/GO_0051679) |
 
-## `MEROPS_fam` (2)
+## `MEROPS_fam`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MEROPS_fam)
+There are 2 usages of `MEROPS_fam` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MEROPS_fam).
 
 | curie          |   usages | nodes                                                   |
 |----------------|----------|---------------------------------------------------------|
 | MEROPS_fam:M12 |        1 | [GO:0017090](http://purl.obolibrary.org/obo/GO_0017090) |
 | MEROPS_fam:C26 |        1 | [GO:0034722](http://purl.obolibrary.org/obo/GO_0034722) |
 
-## `MITRE` (1)
+## `MITRE`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MITRE)
+There are 1 usages of `MITRE` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MITRE).
 
 | curie    |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MITRE:tk |       33 | [GO:0044044](http://purl.obolibrary.org/obo/GO_0044044), [GO:0044045](http://purl.obolibrary.org/obo/GO_0044045), [GO:0044046](http://purl.obolibrary.org/obo/GO_0044046), [GO:0044047](http://purl.obolibrary.org/obo/GO_0044047), [GO:0044048](http://purl.obolibrary.org/obo/GO_0044048), ... |
 
-## `NIF_Subcellular` (225)
+## `NIF_Subcellular`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Subcellular)
+There are 225 usages of `NIF_Subcellular` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Subcellular).
 
 <details>
 <summary>Click to expand the `NIF_Subcellular` table</summary>
@@ -453,55 +463,61 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `PIMD` (1)
+## `PIMD`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PIMD)
+There are 1 usages of `PIMD` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PIMD).
 
 | curie         |   usages | nodes                                                   |
 |---------------|----------|---------------------------------------------------------|
 | PIMD:23485686 |        1 | [GO:0120198](http://purl.obolibrary.org/obo/GO_0120198) |
 
-## `POC` (1)
+## `POC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20POC)
+There are 1 usages of `POC` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20POC).
 
 | curie        |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |--------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | POC:curators |        5 | [GO:0048756](http://purl.obolibrary.org/obo/GO_0048756), [GO:0097217](http://purl.obolibrary.org/obo/GO_0097217), [GO:0097218](http://purl.obolibrary.org/obo/GO_0097218), [GO:0097219](http://purl.obolibrary.org/obo/GO_0097219), [GO:0097220](http://purl.obolibrary.org/obo/GO_0097220), ... |
 
-## `PO_REF` (1)
+## `PO_REF`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PO_REF)
+There are 1 usages of `PO_REF` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PO_REF).
 
 | curie        |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |--------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | PO_REF:00009 |        6 | [GO:0010162](http://purl.obolibrary.org/obo/GO_0010162), [GO:0022611](http://purl.obolibrary.org/obo/GO_0022611), [GO:0097207](http://purl.obolibrary.org/obo/GO_0097207), [GO:0097436](http://purl.obolibrary.org/obo/GO_0097436), [GO:0097437](http://purl.obolibrary.org/obo/GO_0097437), ... |
 
-## `Wiki` (1)
+## `Wiki`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiki)
+There are 1 usages of `Wiki` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiki).
 
 | curie             |   usages | nodes                                                   |
 |-------------------|----------|---------------------------------------------------------|
 | Wiki:Neuromelanin |        1 | [GO:0036489](http://purl.obolibrary.org/obo/GO_0036489) |
 
-## `ABA` (1)
+## `ABA`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ABA)
+There are 1 usages of `ABA` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ABA).
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | ABA:HPF |        1 | [GO:0021766](http://purl.obolibrary.org/obo/GO_0021766) |
 
-## `GGOC` (1)
+## `GGOC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GGOC)
+There are 1 usages of `GGOC` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GGOC).
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|

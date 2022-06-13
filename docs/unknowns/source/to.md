@@ -1,55 +1,61 @@
 # to
 
-## `BR` (1)
+## `BR`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BR)
+There are 1 usages of `BR` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BR).
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | BR:pj   |        1 | [TO:0002634](http://purl.obolibrary.org/obo/TO_0002634) |
 
-## `CIRAD` (1)
+## `CIRAD`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CIRAD)
+There are 1 usages of `CIRAD` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CIRAD).
 
 | curie                   |   usages | nodes                                                   |
 |-------------------------|----------|---------------------------------------------------------|
 | CIRAD:Brigitte_Courtois |        1 | [TO:0001028](http://purl.obolibrary.org/obo/TO_0001028) |
 
-## `GCP` (1)
+## `GCP`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GCP)
+There are 1 usages of `GCP` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GCP).
 
 | curie              |   usages | nodes                                                                                                                                                                     |
 |--------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | GCP:GCP_324.000003 |        3 | [TO:0020080](http://purl.obolibrary.org/obo/TO_0020080), [TO:0020081](http://purl.obolibrary.org/obo/TO_0020081), [TO:0020082](http://purl.obolibrary.org/obo/TO_0020082) |
 
-## `GR` (1)
+## `GR`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GR)
+There are 1 usages of `GR` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GR).
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | GR:pj   |        1 | [TO:0000227](http://purl.obolibrary.org/obo/TO_0000227) |
 
-## `GR_REF` (2)
+## `GR_REF`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GR_REF)
+There are 2 usages of `GR_REF` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GR_REF).
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | GR_REF:8025 |        5 | [TO:0000606](http://purl.obolibrary.org/obo/TO_0000606), [TO:0000610](http://purl.obolibrary.org/obo/TO_0000610), [TO:0000611](http://purl.obolibrary.org/obo/TO_0000611), [TO:0000612](http://purl.obolibrary.org/obo/TO_0000612), [TO:0000613](http://purl.obolibrary.org/obo/TO_0000613), ... |
 | GR_REF:6917 |        1 | [TO:0000233](http://purl.obolibrary.org/obo/TO_0000233)                                                                                                                                                                                                                                          |
 
-## `GrainGenes_trait` (7)
+## `GrainGenes_trait`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GrainGenes_trait)
+There are 7 usages of `GrainGenes_trait` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GrainGenes_trait).
 
 | curie                                          |   usages | nodes                                                   |
 |------------------------------------------------|----------|---------------------------------------------------------|
@@ -61,10 +67,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | GrainGenes_trait:Starch_digestibility          |        1 | [TO:0002647](http://purl.obolibrary.org/obo/TO_0002647) |
 | GrainGenes_trait:Water_absorption              |        1 | [TO:0002648](http://purl.obolibrary.org/obo/TO_0002648) |
 
-## `Gramene` (8)
+## `Gramene`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gramene)
+There are 8 usages of `Gramene` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gramene).
 
 | curie                    |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |--------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -77,10 +84,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | Gramene:jcl              |        1 | [TO:0000227](http://purl.obolibrary.org/obo/TO_0000227)                                                                                                                                                                                                                                          |
 | Gramene:pankaj_jaiswal,  |        1 | [TO:0000386](http://purl.obolibrary.org/obo/TO_0000386)                                                                                                                                                                                                                                          |
 
-## `ICRIS` (5)
+## `ICRIS`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICRIS)
+There are 5 usages of `ICRIS` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICRIS).
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
@@ -90,46 +98,51 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ICRIS:049 |        1 | [TO:0020009](http://purl.obolibrary.org/obo/TO_0020009) |
 | ICRIS:047 |        1 | [TO:0020010](http://purl.obolibrary.org/obo/TO_0020010) |
 
-## `ICRISAT` (1)
+## `ICRISAT`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICRISAT)
+There are 1 usages of `ICRISAT` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICRISAT).
 
 | curie                 |   usages | nodes                                                                                                                                                                     |
 |-----------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ICRISAT:Vincent_Vadez |        3 | [TO:0020080](http://purl.obolibrary.org/obo/TO_0020080), [TO:0020081](http://purl.obolibrary.org/obo/TO_0020081), [TO:0020082](http://purl.obolibrary.org/obo/TO_0020082) |
 
-## `IIRRI` (1)
+## `IIRRI`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IIRRI)
+There are 1 usages of `IIRRI` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IIRRI).
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
 | IIRRI:SES |        1 | [TO:0000286](http://purl.obolibrary.org/obo/TO_0000286) |
 
-## `ILRI` (1)
+## `ILRI`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ILRI)
+There are 1 usages of `ILRI` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ILRI).
 
 | curie                |   usages | nodes                                                                                                                                                                     |
 |----------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ILRI:Michael_Blummel |        3 | [TO:0020080](http://purl.obolibrary.org/obo/TO_0020080), [TO:0020081](http://purl.obolibrary.org/obo/TO_0020081), [TO:0020082](http://purl.obolibrary.org/obo/TO_0020082) |
 
-## `IRRI` (1)
+## `IRRI`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IRRI)
+There are 1 usages of `IRRI` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IRRI).
 
 | curie    |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | IRRI:SES |      125 | [TO:0000003](http://purl.obolibrary.org/obo/TO_0000003), [TO:0000009](http://purl.obolibrary.org/obo/TO_0000009), [TO:0000013](http://purl.obolibrary.org/obo/TO_0000013), [TO:0000019](http://purl.obolibrary.org/obo/TO_0000019), [TO:0000023](http://purl.obolibrary.org/obo/TO_0000023), ... |
 
-## `IWIS` (5)
+## `IWIS`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IWIS)
+There are 5 usages of `IWIS` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IWIS).
 
 | curie     |   usages | nodes                                                   |
 |-----------|----------|---------------------------------------------------------|
@@ -139,28 +152,31 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IWIS:1423 |        1 | [TO:0020037](http://purl.obolibrary.org/obo/TO_0020037) |
 | IWIS:1412 |        1 | [TO:0020038](http://purl.obolibrary.org/obo/TO_0020038) |
 
-## `R` (1)
+## `R`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20R)
+There are 1 usages of `R` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20R).
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | R:pj    |        1 | [TO:0000728](http://purl.obolibrary.org/obo/TO_0000728) |
 
-## `T-CAP` (1)
+## `T-CAP`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20T-CAP)
+There are 1 usages of `T-CAP` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20T-CAP).
 
 | curie                |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |----------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | T-CAP:Victoria_Blake |       27 | [TO:0020051](http://purl.obolibrary.org/obo/TO_0020051), [TO:0020052](http://purl.obolibrary.org/obo/TO_0020052), [TO:0020053](http://purl.obolibrary.org/obo/TO_0020053), [TO:0020054](http://purl.obolibrary.org/obo/TO_0020054), [TO:0020055](http://purl.obolibrary.org/obo/TO_0020055), ... |
 
-## `TO_GIT` (153)
+## `TO_GIT`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TO_GIT)
+There are 153 usages of `TO_GIT` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TO_GIT).
 
 <details>
 <summary>Click to expand the `TO_GIT` table</summary>
@@ -323,19 +339,21 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `group` (1)
+## `group`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20group)
+There are 1 usages of `group` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20group).
 
 | curie                     |   usages | nodes                                                                                                                                                                     |
 |---------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | group:Crop_Ontology_Group |        3 | [TO:0012010](http://purl.obolibrary.org/obo/TO_0012010), [TO:0012011](http://purl.obolibrary.org/obo/TO_0012011), [TO:0012012](http://purl.obolibrary.org/obo/TO_0012012) |
 
-## `MaizeGDB_QTL` (13)
+## `MaizeGDB_QTL`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MaizeGDB_QTL)
+There are 13 usages of `MaizeGDB_QTL` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MaizeGDB_QTL).
 
 | curie               |   usages | nodes                                                                                                            |
 |---------------------|----------|------------------------------------------------------------------------------------------------------------------|
@@ -353,10 +371,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | MaizeGDB_QTL:78114  |        1 | [TO:0000938](http://purl.obolibrary.org/obo/TO_0000938)                                                          |
 | MaizeGDB_QTL:65770  |        1 | [TO:0000941](http://purl.obolibrary.org/obo/TO_0000941)                                                          |
 
-## `SOY` (2)
+## `SOY`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SOY)
+There are 2 usages of `SOY` in `to`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SOY).
 
 | curie       |   usages | nodes                                                   |
 |-------------|----------|---------------------------------------------------------|

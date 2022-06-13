@@ -1,9 +1,10 @@
 # fbcv
 
-## `FBC` (4)
+## `FBC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FBC)
+There are 4 usages of `FBC` in `fbcv`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FBC).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                              |
 |---------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -12,10 +13,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | FBC:SM  |        2 | [FBcv:0000402](http://purl.obolibrary.org/obo/FBcv_0000402), [FBcv:0000652](http://purl.obolibrary.org/obo/FBcv_0000652)                                                                                                                           |
 | FBC:TJ  |        2 | [FBcv:0005003](http://purl.obolibrary.org/obo/FBcv_0005003), [FBcv:0005004](http://purl.obolibrary.org/obo/FBcv_0005004)                                                                                                                           |
 
-## `GOC` (23)
+## `GOC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
+There are 23 usages of `GOC` in `fbcv`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 <details>
 <summary>Click to expand the `GOC` table</summary>
@@ -47,19 +49,4 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | GOC:ems            |        1 | [FBcv:0006004](http://purl.obolibrary.org/obo/FBcv_0006004)                                                                                                                                                                                                                                                          |
 
 </details>
-
-## `abbrev` (7)
-
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20abbrev)
-
-| curie    |   usages | nodes                                                       |
-|----------|----------|-------------------------------------------------------------|
-| abbrev:1 |        1 | [FBcv:0000003](http://purl.obolibrary.org/obo/FBcv_0000003) |
-| abbrev:2 |        1 | [FBcv:0000004](http://purl.obolibrary.org/obo/FBcv_0000004) |
-| abbrev:3 |        1 | [FBcv:0000609](http://purl.obolibrary.org/obo/FBcv_0000609) |
-| abbrev:5 |        1 | [FBcv:0000610](http://purl.obolibrary.org/obo/FBcv_0000610) |
-| abbrev:6 |        1 | [FBcv:0000611](http://purl.obolibrary.org/obo/FBcv_0000611) |
-| abbrev:7 |        1 | [FBcv:0000612](http://purl.obolibrary.org/obo/FBcv_0000612) |
-| abbrev:8 |        1 | [FBcv:0000613](http://purl.obolibrary.org/obo/FBcv_0000613) |
 

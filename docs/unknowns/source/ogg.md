@@ -1,9 +1,10 @@
 # ogg
 
-## `IMGT/GENE-DB` (584)
+## `IMGT/GENE-DB`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMGT/GENE-DB)
+There are 584 usages of `IMGT/GENE-DB` in `ogg`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMGT/GENE-DB).
 
 <details>
 <summary>Click to expand the `IMGT/GENE-DB` table</summary>

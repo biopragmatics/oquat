@@ -120,6 +120,13 @@
 | NLX:144071 |        1 | [UBERON:0036005](http://purl.obolibrary.org/obo/UBERON_0036005) |
 | NLX:144476 |        1 | [UBERON:0036012](http://purl.obolibrary.org/obo/UBERON_0036012) |
 
+## icdo
+
+| curie      |   usages | nodes                                                           |
+|------------|----------|-----------------------------------------------------------------|
+| NLX:147821 |        1 | [UBERON:0000122](http://purl.obolibrary.org/obo/UBERON_0000122) |
+| NLX:147822 |        1 | [UBERON:0001018](http://purl.obolibrary.org/obo/UBERON_0001018) |
+
 ## pato
 
 | curie   |   usages | nodes                                                       |
@@ -144,4 +151,21 @@
 | NLX:nlx_96          |        1 | [MP:0009947](http://purl.obolibrary.org/obo/MP_0009947) |
 | NLX:Maryann_Martone |        1 | [MP:0009953](http://purl.obolibrary.org/obo/MP_0009953) |
 | NLX:nifext_121      |        1 | [MP:0009955](http://purl.obolibrary.org/obo/MP_0009955) |
+
+## epso
+
+| curie      |   usages | nodes                                                           |
+|------------|----------|-----------------------------------------------------------------|
+| NLX:147821 |        1 | [UBERON:0000122](http://purl.obolibrary.org/obo/UBERON_0000122) |
+| NLX:28443  |        1 | [UBERON:0000125](http://purl.obolibrary.org/obo/UBERON_0000125) |
+| NLX:147822 |        1 | [UBERON:0001018](http://purl.obolibrary.org/obo/UBERON_0001018) |
+| NLX:110    |        1 | [UBERON:0001020](http://purl.obolibrary.org/obo/UBERON_0001020) |
+| NLX:143555 |        1 | [UBERON:0001384](http://purl.obolibrary.org/obo/UBERON_0001384) |
+| NLX:412    |        1 | [UBERON:0002316](http://purl.obolibrary.org/obo/UBERON_0002316) |
+| NLX:143552 |        1 | [UBERON:0002436](http://purl.obolibrary.org/obo/UBERON_0002436) |
+| NLX:147892 |        1 | [UBERON:0005340](http://purl.obolibrary.org/obo/UBERON_0005340) |
+| NLX:143551 |        1 | [UBERON:0008933](http://purl.obolibrary.org/obo/UBERON_0008933) |
+| NLX:79282  |        1 | [UBERON:0016530](http://purl.obolibrary.org/obo/UBERON_0016530) |
+| NLX:149357 |        1 | [UBERON:0022303](http://purl.obolibrary.org/obo/UBERON_0022303) |
+| NLX:155513 |        1 | [UBERON:0035014](http://purl.obolibrary.org/obo/UBERON_0035014) |
 

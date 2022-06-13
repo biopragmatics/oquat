@@ -1,65 +1,72 @@
 # efo
 
-## `WikipediaVersioned` (1)
+## `WikipediaVersioned`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaVersioned)
+There are 1 usages of `WikipediaVersioned` in `efo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaVersioned).
 
 | curie                                                |   usages | nodes                                               |
 |------------------------------------------------------|----------|-----------------------------------------------------|
 | WikipediaVersioned:Exome_sequencing&oldid=1000635953 |        1 | [EFO:0005396](http://www.ebi.ac.uk/efo/EFO_0005396) |
 
-## `MONDORULE` (2)
+## `MONDORULE`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MONDORULE)
+There are 2 usages of `MONDORULE` in `efo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MONDORULE).
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                        |
 |-------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MONDORULE:1 |       17 | [EFO:0000248](http://www.ebi.ac.uk/efo/EFO_0000248), [EFO:0000437](http://www.ebi.ac.uk/efo/EFO_0000437), [EFO:0000640](http://www.ebi.ac.uk/efo/EFO_0000640), [EFO:0003047](http://www.ebi.ac.uk/efo/EFO_0003047), [EFO:0004197](http://www.ebi.ac.uk/efo/EFO_0004197), ... |
 | MONDORULE:2 |        1 | [EFO:0009160](http://www.ebi.ac.uk/efo/EFO_0009160)                                                                                                                                                                                                                          |
 
-## `MTH` (1)
+## `MTH`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MTH)
+There are 1 usages of `MTH` in `efo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MTH).
 
 | curie   |   usages | nodes                                               |
 |---------|----------|-----------------------------------------------------|
 | MTH:217 |        1 | [EFO:0003894](http://www.ebi.ac.uk/efo/EFO_0003894) |
 
-## `NSH` (1)
+## `NSH`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NSH)
+There are 1 usages of `NSH` in `efo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NSH).
 
 | curie       |   usages | nodes                                               |
 |-------------|----------|-----------------------------------------------------|
 | NSH:D014029 |        1 | [EFO:0003768](http://www.ebi.ac.uk/efo/EFO_0003768) |
 
-## `BilaDO` (1)
+## `BilaDO`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BilaDO)
+There are 1 usages of `BilaDO` in `efo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BilaDO).
 
 | curie          |   usages | nodes                                               |
 |----------------|----------|-----------------------------------------------------|
 | BilaDO:0000002 |        1 | [EFO:0007725](http://www.ebi.ac.uk/efo/EFO_0007725) |
 
-## `Germplasm` (2)
+## `Germplasm`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Germplasm)
+There are 2 usages of `Germplasm` in `efo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Germplasm).
 
 | curie             |   usages | nodes                                               |
 |-------------------|----------|-----------------------------------------------------|
 | Germplasm:4652085 |        1 | [EFO:0001326](http://www.ebi.ac.uk/efo/EFO_0001326) |
 | Germplasm:4640315 |        1 | [EFO:0001354](http://www.ebi.ac.uk/efo/EFO_0001354) |
 
-## `ICD10EXP` (13)
+## `ICD10EXP`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10EXP)
+There are 13 usages of `ICD10EXP` in `efo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10EXP).
 
 | curie           |   usages | nodes                                               |
 |-----------------|----------|-----------------------------------------------------|
@@ -77,10 +84,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ICD10EXP:A39.0+ |        1 | [EFO:1001040](http://www.ebi.ac.uk/efo/EFO_1001040) |
 | ICD10EXP:L99.0* |        1 | [EFO:1001882](http://www.ebi.ac.uk/efo/EFO_1001882) |
 
-## `ICD10WHO` (10)
+## `ICD10WHO`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10WHO)
+There are 10 usages of `ICD10WHO` in `efo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10WHO).
 
 | curie            |   usages | nodes                                               |
 |------------------|----------|-----------------------------------------------------|
@@ -95,19 +103,21 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ICD10WHO:N48.1   |        1 | [EFO:1000833](http://www.ebi.ac.uk/efo/EFO_1000833) |
 | ICD10WHO:M75.1   |        1 | [EFO:1001250](http://www.ebi.ac.uk/efo/EFO_1001250) |
 
-## `MAP` (1)
+## `MAP`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MAP)
+There are 1 usages of `MAP` in `efo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MAP).
 
 | curie       |   usages | nodes                                               |
 |-------------|----------|-----------------------------------------------------|
 | MAP:0000001 |        1 | [EFO:0000361](http://www.ebi.ac.uk/efo/EFO_0000361) |
 
-## `NIFSTD` (92)
+## `NIFSTD`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIFSTD)
+There are 92 usages of `NIFSTD` in `efo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIFSTD).
 
 <details>
 <summary>Click to expand the `NIFSTD` table</summary>
@@ -209,39 +219,43 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `OGES` (1)
+## `OGES`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OGES)
+There are 1 usages of `OGES` in `efo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OGES).
 
 | curie       |   usages | nodes                                               |
 |-------------|----------|-----------------------------------------------------|
 | OGES:000022 |        1 | [EFO:0007725](http://www.ebi.ac.uk/efo/EFO_0007725) |
 
-## `PERSON` (2)
+## `PERSON`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PERSON)
+There are 2 usages of `PERSON` in `efo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PERSON).
 
 | curie                |   usages | nodes                                                                                                                                                                                                              |
 |----------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | PERSON: James Malone |        4 | [EFO:0000714](http://www.ebi.ac.uk/efo/EFO_0000714), [EFO:0001426](http://www.ebi.ac.uk/efo/EFO_0001426), [EFO:0001703](http://www.ebi.ac.uk/efo/EFO_0001703), [EFO:0001721](http://www.ebi.ac.uk/efo/EFO_0001721) |
 | PERSON: Dani Welter  |        1 | [EFO:0004358](http://www.ebi.ac.uk/efo/EFO_0004358)                                                                                                                                                                |
 
-## `STRUCTURE_Formula` (2)
+## `STRUCTURE_Formula`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20STRUCTURE_Formula)
+There are 2 usages of `STRUCTURE_Formula` in `efo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20STRUCTURE_Formula).
 
 | curie                          |   usages | nodes                                               |
 |--------------------------------|----------|-----------------------------------------------------|
 | STRUCTURE_Formula:C10H16       |        1 | [EFO:0003191](http://www.ebi.ac.uk/efo/EFO_0003191) |
 | STRUCTURE_Formula:C64H106N8O41 |        1 | [EFO:0003237](http://www.ebi.ac.uk/efo/EFO_0003237) |
 
-## `birn_anat` (5)
+## `birn_anat`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20birn_anat)
+There are 5 usages of `birn_anat` in `efo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20birn_anat).
 
 | curie                       |   usages | nodes                                               |
 |-----------------------------|----------|-----------------------------------------------------|

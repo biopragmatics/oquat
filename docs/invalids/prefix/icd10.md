@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `icd10`
 but use local unique identifiers that do not match the standard pattern of
-`^[A-Z]\d+(\.[-\d+])?$`. Of the 3 resources,
+`^[A-Z]\d+(\.[-\d+])?$`. Of the 4 resources,
 2 variants on the standard prefix were found: ['ICD-10', 'ICD10'].
 
 ## `efo`: Experimental Factor Ontology
@@ -62,6 +62,20 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `ICD10:H05.12`  |              1 | [EFO:1001819](http://www.ebi.ac.uk/efo/EFO_1001819) |
 | `ICD10:H11.15`  |              1 | [EFO:1001824](http://www.ebi.ac.uk/efo/EFO_1001824) |
 | `ICD10:K68.12`  |              1 | [EFO:1001832](http://www.ebi.ac.uk/efo/EFO_1001832) |
+
+## `epso`: Epilepsy and Seizure Ontology
+
+Identifiers for this prefix are given incorrectly in `epso`.
+
+| external_xref   |   usages_count | usages                                                        |
+|-----------------|----------------|---------------------------------------------------------------|
+| `ICD10:Q00.Q99` |              1 | [MONDO:0000839](http://purl.obolibrary.org/obo/MONDO_0000839) |
+| `ICD10:F99-F99` |              1 | [MONDO:0002025](http://purl.obolibrary.org/obo/MONDO_0002025) |
+| `ICD10:C00.D48` |              1 | [MONDO:0005070](http://purl.obolibrary.org/obo/MONDO_0005070) |
+| `ICD10:F00.F99` |              1 | [MONDO:0005084](http://purl.obolibrary.org/obo/MONDO_0005084) |
+| `ICD10:G47.41`  |              1 | [MONDO:0016158](http://purl.obolibrary.org/obo/MONDO_0016158) |
+| `ICD10:G47.419` |              1 | [MONDO:0016158](http://purl.obolibrary.org/obo/MONDO_0016158) |
+| `ICD10:G47.24`  |              1 | [MONDO:0019137](http://purl.obolibrary.org/obo/MONDO_0019137) |
 
 ## `hp`: Human Phenotype Ontology
 

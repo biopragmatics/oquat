@@ -1,27 +1,30 @@
 # aeo
 
-## `DBft` (1)
+## `DBft`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DBft)
+There are 1 usages of `DBft` in `aeo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DBft).
 
 | curie    |   usages | nodes                                                     |
 |----------|----------|-----------------------------------------------------------|
 | DBft:DOS |        1 | [AEO:0000210](http://purl.obolibrary.org/obo/AEO_0000210) |
 
-## `JB` (1)
+## `JB`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20JB)
+There are 1 usages of `JB` in `aeo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20JB).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | JB:AEO  |       16 | [AEO:0000215](http://purl.obolibrary.org/obo/AEO_0000215), [AEO:0000216](http://purl.obolibrary.org/obo/AEO_0000216), [AEO:0000217](http://purl.obolibrary.org/obo/AEO_0000217), [AEO:0000218](http://purl.obolibrary.org/obo/AEO_0000218), [AEO:0000219](http://purl.obolibrary.org/obo/AEO_0000219), ... |
 
-## `VAO` (7)
+## `VAO`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20VAO)
+There are 7 usages of `VAO` in `aeo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20VAO).
 
 | curie       |   usages | nodes                                                     |
 |-------------|----------|-----------------------------------------------------------|

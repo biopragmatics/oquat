@@ -7027,6 +7027,17 @@ Identifiers for this prefix are given incorrectly in `fbbt`. See the [GitHub rep
 | `VFB:FBbt_00052174` |              1 | [FBbt:00052174](http://purl.obolibrary.org/obo/FBbt_00052174)                                                                |
 | `VFB:FBbt_00052175` |              1 | [FBbt:00052175](http://purl.obolibrary.org/obo/FBbt_00052175)                                                                |
 | `VFB:FBbt_00052178` |              1 | [FBbt:00052178](http://purl.obolibrary.org/obo/FBbt_00052178)                                                                |
+| `VFB:FBbt_00052180` |              1 | [FBbt:00052180](http://purl.obolibrary.org/obo/FBbt_00052180)                                                                |
+| `VFB:FBbt_00052181` |              1 | [FBbt:00052181](http://purl.obolibrary.org/obo/FBbt_00052181)                                                                |
+| `VFB:FBbt_00052182` |              1 | [FBbt:00052182](http://purl.obolibrary.org/obo/FBbt_00052182)                                                                |
+| `VFB:FBbt_00052183` |              1 | [FBbt:00052183](http://purl.obolibrary.org/obo/FBbt_00052183)                                                                |
+| `VFB:FBbt_00052184` |              1 | [FBbt:00052184](http://purl.obolibrary.org/obo/FBbt_00052184)                                                                |
+| `VFB:FBbt_00052185` |              1 | [FBbt:00052185](http://purl.obolibrary.org/obo/FBbt_00052185)                                                                |
+| `VFB:FBbt_00052186` |              1 | [FBbt:00052186](http://purl.obolibrary.org/obo/FBbt_00052186)                                                                |
+| `VFB:FBbt_00052187` |              1 | [FBbt:00052187](http://purl.obolibrary.org/obo/FBbt_00052187)                                                                |
+| `VFB:FBbt_00052188` |              1 | [FBbt:00052188](http://purl.obolibrary.org/obo/FBbt_00052188)                                                                |
+| `VFB:FBbt_00052189` |              1 | [FBbt:00052189](http://purl.obolibrary.org/obo/FBbt_00052189)                                                                |
+| `VFB:FBbt_00052190` |              1 | [FBbt:00052190](http://purl.obolibrary.org/obo/FBbt_00052190)                                                                |
 | `VFB:FBbt_00058013` |              1 | [FBbt:00058013](http://purl.obolibrary.org/obo/FBbt_00058013)                                                                |
 | `VFB:FBbt_00058014` |              1 | [FBbt:00058014](http://purl.obolibrary.org/obo/FBbt_00058014)                                                                |
 | `VFB:FBbt_00058015` |              1 | [FBbt:00058015](http://purl.obolibrary.org/obo/FBbt_00058015)                                                                |
@@ -8602,7 +8613,6 @@ Identifiers for this prefix are given incorrectly in `fbbt`. See the [GitHub rep
 | `VFB:FBbt_00110981` |              1 | [FBbt:00110981](http://purl.obolibrary.org/obo/FBbt_00110981)                                                                |
 | `VFB:FBbt_00110982` |              1 | [FBbt:00110982](http://purl.obolibrary.org/obo/FBbt_00110982)                                                                |
 | `VFB:FBbt_00110983` |              1 | [FBbt:00110983](http://purl.obolibrary.org/obo/FBbt_00110983)                                                                |
-| `VFB:FBbt_00110984` |              1 | [FBbt:00110984](http://purl.obolibrary.org/obo/FBbt_00110984)                                                                |
 | `VFB:FBbt_00110985` |              1 | [FBbt:00110985](http://purl.obolibrary.org/obo/FBbt_00110985)                                                                |
 | `VFB:FBbt_00110986` |              1 | [FBbt:00110986](http://purl.obolibrary.org/obo/FBbt_00110986)                                                                |
 | `VFB:FBbt_00110987` |              1 | [FBbt:00110987](http://purl.obolibrary.org/obo/FBbt_00110987)                                                                |
@@ -9267,5 +9277,7 @@ Identifiers for this prefix are given incorrectly in `fbbt`. See the [GitHub rep
 | `VFB:FBbt_02000006` |              1 | [FBbt:02000006](http://purl.obolibrary.org/obo/FBbt_02000006)                                                                |
 | `VFB:FBbt_20000045` |              1 | [FBbt:20000045](http://purl.obolibrary.org/obo/FBbt_20000045)                                                                |
 | `VFB:FBbt_20001434` |              1 | [FBbt:20001434](http://purl.obolibrary.org/obo/FBbt_20001434)                                                                |
+| `VFB:FBbt_20002628` |              1 | [FBbt:20002628](http://purl.obolibrary.org/obo/FBbt_20002628)                                                                |
 | `VFB:FBbt_20002842` |              1 | [FBbt:20002842](http://purl.obolibrary.org/obo/FBbt_20002842)                                                                |
+| `VFB:FBbt_20003824` |              1 | [FBbt:20003824](http://purl.obolibrary.org/obo/FBbt_20003824)                                                                |
 

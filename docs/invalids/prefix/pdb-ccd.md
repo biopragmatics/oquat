@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `pdb-ccd`
 but use local unique identifiers that do not match the standard pattern of
-`^\w{1,3}$`. Of the 1 resources,
+`^\w{1,3}$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['PDBeChem'].
 
 ## `chebi`: Chemical Entities of Biological Interest
@@ -25,6 +25,9 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `PDBeChem:TdF10`                                                         |              1 | [CHEBI:17013](http://purl.obolibrary.org/obo/CHEBI_17013)   |
 | `PDBeChem:OCS_LFOH`                                                      |              1 | [CHEBI:17285](http://purl.obolibrary.org/obo/CHEBI_17285)   |
 | `PDBeChem:https://pubchem.ncbi.nlm.nih.gov/compound/Magnesium-phosphate` |              1 | [CHEBI:190298](http://purl.obolibrary.org/obo/CHEBI_190298) |
+| `PDBeChem:https://pubchem.ncbi.nlm.nih.gov/compound/Selenium_-ion_4`     |              1 | [CHEBI:190426](http://purl.obolibrary.org/obo/CHEBI_190426) |
+| `PDBeChem:138392202`                                                     |              1 | [CHEBI:190523](http://purl.obolibrary.org/obo/CHEBI_190523) |
+| `PDBeChem:102186966`                                                     |              1 | [CHEBI:190524](http://purl.obolibrary.org/obo/CHEBI_190524) |
 | `PDBeChem:GLY_LL`                                                        |              1 | [CHEBI:29947](http://purl.obolibrary.org/obo/CHEBI_29947)   |
 | `PDBeChem:ORN_LFOH`                                                      |              1 | [CHEBI:44667](http://purl.obolibrary.org/obo/CHEBI_44667)   |
 | `PDBeChem:ALA_LL`                                                        |              1 | [CHEBI:46217](http://purl.obolibrary.org/obo/CHEBI_46217)   |
@@ -41,4 +44,13 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `PDBeChem:ASN_LSN3`                                                      |              1 | [CHEBI:50348](http://purl.obolibrary.org/obo/CHEBI_50348)   |
 | `PDBeChem:303E`                                                          |              1 | [CHEBI:63871](http://purl.obolibrary.org/obo/CHEBI_63871)   |
 | `PDBeChem:triazoxide`                                                    |              1 | [CHEBI:83335](http://purl.obolibrary.org/obo/CHEBI_83335)   |
+
+## `dto`: Drug Target Ontology
+
+Identifiers for this prefix are given incorrectly in `dto`. See the [GitHub repository](https://github.com/DrugTargetOntology/DTO).
+
+| external_xref       |   usages_count | usages                                                    |
+|---------------------|----------------|-----------------------------------------------------------|
+| `PDBeChem:GLU_LFOH` |              1 | [CHEBI:16015](http://purl.obolibrary.org/obo/CHEBI_16015) |
+| `PDBeChem:ALA_LFOH` |              1 | [CHEBI:16977](http://purl.obolibrary.org/obo/CHEBI_16977) |
 

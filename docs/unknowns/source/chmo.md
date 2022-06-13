@@ -1,18 +1,20 @@
 # chmo
 
-## `10.1051/jphyscol` (1)
+## `10.1051/jphyscol`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%2010.1051/jphyscol)
+There are 1 usages of `10.1051/jphyscol` in `chmo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%2010.1051/jphyscol).
 
 | curie                     |   usages | nodes                                                       |
 |---------------------------|----------|-------------------------------------------------------------|
 | 10.1051/jphyscol:19879119 |        1 | [CHMO:0000317](http://purl.obolibrary.org/obo/CHMO_0000317) |
 
-## `Orange` (23)
+## `Orange`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Orange)
+There are 23 usages of `Orange` in `chmo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Orange).
 
 <details>
 <summary>Click to expand the `Orange` table</summary>
@@ -45,10 +47,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `OrangeBook` (27)
+## `OrangeBook`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OrangeBook)
+There are 27 usages of `OrangeBook` in `chmo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OrangeBook).
 
 <details>
 <summary>Click to expand the `OrangeBook` table</summary>
@@ -85,28 +88,31 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `SBN` (1)
+## `SBN`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SBN)
+There are 1 usages of `SBN` in `chmo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SBN).
 
 | curie          |   usages | nodes                                                       |
 |----------------|----------|-------------------------------------------------------------|
 | SBN:0849380804 |        1 | [CHMO:0001433](http://purl.obolibrary.org/obo/CHMO_0001433) |
 
-## `USPat` (1)
+## `USPat`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USPat)
+There are 1 usages of `USPat` in `chmo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USPat).
 
 | curie         |   usages | nodes                                                       |
 |---------------|----------|-------------------------------------------------------------|
 | USPat:5316955 |        1 | [CHMO:0000481](http://purl.obolibrary.org/obo/CHMO_0000481) |
 
-## `USPatent` (5)
+## `USPatent`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USPatent)
+There are 5 usages of `USPatent` in `chmo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USPatent).
 
 | curie            |   usages | nodes                                                       |
 |------------------|----------|-------------------------------------------------------------|
@@ -116,10 +122,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | USPatent:5780518 |        1 | [CHMO:0001517](http://purl.obolibrary.org/obo/CHMO_0001517) |
 | USPatent:7204970 |        1 | [CHMO:0002321](http://purl.obolibrary.org/obo/CHMO_0002321) |
 
-## `rsc` (5)
+## `rsc`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20rsc)
+There are 5 usages of `rsc` in `chmo`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20rsc).
 
 | curie                |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |----------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

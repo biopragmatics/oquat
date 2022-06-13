@@ -1,163 +1,181 @@
 # pato
 
-## `.answers.com` (1)
+## `.answers.com`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20.answers.com)
+There are 1 usages of `.answers.com` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20.answers.com).
 
 | curie                     |   usages | nodes                                                       |
 |---------------------------|----------|-------------------------------------------------------------|
 | .answers.com:.answers.com |        1 | [PATO:0001606](http://purl.obolibrary.org/obo/PATO_0001606) |
 
-## `Answers.com` (1)
+## `Answers.com`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Answers.com)
+There are 1 usages of `Answers.com` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Answers.com).
 
 | curie                   |   usages | nodes                                                                                                                    |
 |-------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
 | Answers.com:Answers.com |        2 | [PATO:0000969](http://purl.obolibrary.org/obo/PATO_0000969), [PATO:0001480](http://purl.obolibrary.org/obo/PATO_0001480) |
 
-## `Biology-online` (1)
+## `Biology-online`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Biology-online)
+There are 1 usages of `Biology-online` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Biology-online).
 
 | curie                         |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |-------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Biology-online:Biology-online |        8 | [PATO:0000970](http://purl.obolibrary.org/obo/PATO_0000970), [PATO:0000982](http://purl.obolibrary.org/obo/PATO_0000982), [PATO:0000983](http://purl.obolibrary.org/obo/PATO_0000983), [PATO:0001405](http://purl.obolibrary.org/obo/PATO_0001405), [PATO:0001406](http://purl.obolibrary.org/obo/PATO_0001406), ... |
 
-## `Book` (1)
+## `Book`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Book)
+There are 1 usages of `Book` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Book).
 
 | curie     |   usages | nodes                                                                                                                                                                                 |
 |-----------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Book:Book |        3 | [PATO:0002294](http://purl.obolibrary.org/obo/PATO_0002294), [PATO:0002295](http://purl.obolibrary.org/obo/PATO_0002295), [PATO:0002296](http://purl.obolibrary.org/obo/PATO_0002296) |
 
-## `Chemicool` (1)
+## `Chemicool`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Chemicool)
+There are 1 usages of `Chemicool` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Chemicool).
 
 | curie               |   usages | nodes                                                       |
 |---------------------|----------|-------------------------------------------------------------|
 | Chemicool:Chemicool |        1 | [PATO:0001888](http://purl.obolibrary.org/obo/PATO_0001888) |
 
-## `Chemistry` (2)
+## `Chemistry`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Chemistry)
+There are 2 usages of `Chemistry` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Chemistry).
 
 | curie                                                                           |   usages | nodes                                                       |
 |---------------------------------------------------------------------------------|----------|-------------------------------------------------------------|
 | Chemistry:http://chemistry.about.com/od/chemistryglossary/a/soliddefinition.htm |        1 | [PATO:0001546](http://purl.obolibrary.org/obo/PATO_0001546) |
 | Chemistry:http://chemistry.about.com/od/chemistryglossary/a/gasdefinition.htm   |        1 | [PATO:0001547](http://purl.obolibrary.org/obo/PATO_0001547) |
 
-## `Dictionary` (1)
+## `Dictionary`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dictionary)
+There are 1 usages of `Dictionary` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dictionary).
 
 | curie                                       |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |---------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Dictionary:http://dictionary.reference.com/ |        9 | [PATO:0000318](http://purl.obolibrary.org/obo/PATO_0000318), [PATO:0000320](http://purl.obolibrary.org/obo/PATO_0000320), [PATO:0000322](http://purl.obolibrary.org/obo/PATO_0000322), [PATO:0000323](http://purl.obolibrary.org/obo/PATO_0000323), [PATO:0000324](http://purl.obolibrary.org/obo/PATO_0000324), ... |
 
-## `Dictionary.com` (1)
+## `Dictionary.com`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dictionary.com)
+There are 1 usages of `Dictionary.com` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dictionary.com).
 
 | curie                         |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |-------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Dictionary.com:Dictionary.com |        7 | [PATO:0000329](http://purl.obolibrary.org/obo/PATO_0000329), [PATO:0000331](http://purl.obolibrary.org/obo/PATO_0000331), [PATO:0001473](http://purl.obolibrary.org/obo/PATO_0001473), [PATO:0001477](http://purl.obolibrary.org/obo/PATO_0001477), [PATO:0001478](http://purl.obolibrary.org/obo/PATO_0001478), ... |
 
-## `FNA` (1)
+## `FNA`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FNA)
+There are 1 usages of `FNA` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FNA).
 
 | curie   |   usages | nodes                                                       |
 |---------|----------|-------------------------------------------------------------|
 | FNA:FNA |        1 | [PATO:0002385](http://purl.obolibrary.org/obo/PATO_0002385) |
 
-## `GOC` (1)
+## `GOC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
+There are 1 usages of `GOC` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie   |   usages | nodes                                                                                                                    |
 |---------|----------|--------------------------------------------------------------------------------------------------------------------------|
 | GOC:CJM |        2 | [PATO:0000077](http://purl.obolibrary.org/obo/PATO_0000077), [PATO:0002324](http://purl.obolibrary.org/obo/PATO_0002324) |
 
-## `Hickey` (1)
+## `Hickey`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Hickey)
+There are 1 usages of `Hickey` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Hickey).
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |-------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hickey:1988 |        6 | [PATO:0001967](http://purl.obolibrary.org/obo/PATO_0001967), [PATO:0001968](http://purl.obolibrary.org/obo/PATO_0001968), [PATO:0001969](http://purl.obolibrary.org/obo/PATO_0001969), [PATO:0001970](http://purl.obolibrary.org/obo/PATO_0001970), [PATO:0001971](http://purl.obolibrary.org/obo/PATO_0001971), ... |
 
-## `IUPAC` (1)
+## `IUPAC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IUPAC)
+There are 1 usages of `IUPAC` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IUPAC).
 
 | curie       |   usages | nodes                                                       |
 |-------------|----------|-------------------------------------------------------------|
 | IUPAC:IUPAC |        1 | [PATO:0001674](http://purl.obolibrary.org/obo/PATO_0001674) |
 
-## `InfoVisual` (1)
+## `InfoVisual`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20InfoVisual)
+There are 1 usages of `InfoVisual` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20InfoVisual).
 
 | curie                 |   usages | nodes                                                       |
 |-----------------------|----------|-------------------------------------------------------------|
 | InfoVisual:InfoVisual |        1 | [PATO:0001890](http://purl.obolibrary.org/obo/PATO_0001890) |
 
-## `MAMMALOGY` (1)
+## `MAMMALOGY`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MAMMALOGY)
+There are 1 usages of `MAMMALOGY` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MAMMALOGY).
 
 | curie               |   usages | nodes                                                       |
 |---------------------|----------|-------------------------------------------------------------|
 | MAMMALOGY:MAMMALOGY |        1 | [PATO:0001448](http://purl.obolibrary.org/obo/PATO_0001448) |
 
-## `MGED` (1)
+## `MGED`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MGED)
+There are 1 usages of `MGED` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MGED).
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |-----------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MGED:MGED |       13 | [PATO:0000047](http://purl.obolibrary.org/obo/PATO_0000047), [PATO:0000383](http://purl.obolibrary.org/obo/PATO_0000383), [PATO:0000384](http://purl.obolibrary.org/obo/PATO_0000384), [PATO:0001335](http://purl.obolibrary.org/obo/PATO_0001335), [PATO:0001336](http://purl.obolibrary.org/obo/PATO_0001336), ... |
 
-## `MedTerms` (1)
+## `MedTerms`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MedTerms)
+There are 1 usages of `MedTerms` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MedTerms).
 
 | curie             |   usages | nodes                                                       |
 |-------------------|----------|-------------------------------------------------------------|
 | MedTerms:MedTerms |        1 | [PATO:0001438](http://purl.obolibrary.org/obo/PATO_0001438) |
 
-## `Medical-dictionary` (1)
+## `Medical-dictionary`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Medical-dictionary)
+There are 1 usages of `Medical-dictionary` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Medical-dictionary).
 
 | curie                                 |   usages | nodes                                                       |
 |---------------------------------------|----------|-------------------------------------------------------------|
 | Medical-dictionary:Medical-dictionary |        1 | [PATO:0001432](http://purl.obolibrary.org/obo/PATO_0001432) |
 
-## `Merriam-Webster` (3)
+## `Merriam-Webster`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Merriam-Webster)
+There are 3 usages of `Merriam-Webster` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Merriam-Webster).
 
 | curie                           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |---------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -165,101 +183,112 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | Merriam-Webster:hexagonal       |        1 | [PATO:0002509](http://purl.obolibrary.org/obo/PATO_0002509)                                                                                                                                                                                                                                                          |
 | Merriam-Webster:confluent       |        1 | [PATO:0002512](http://purl.obolibrary.org/obo/PATO_0002512)                                                                                                                                                                                                                                                          |
 
-## `NDI` (1)
+## `NDI`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NDI)
+There are 1 usages of `NDI` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NDI).
 
 | curie   |   usages | nodes                                                       |
 |---------|----------|-------------------------------------------------------------|
 | NDI:NDI |        1 | [PATO:0000629](http://purl.obolibrary.org/obo/PATO_0000629) |
 
-## `OED` (1)
+## `OED`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OED)
+There are 1 usages of `OED` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OED).
 
 | curie   |   usages | nodes                                                       |
 |---------|----------|-------------------------------------------------------------|
 | OED:    |        1 | [PATO:0002312](http://purl.obolibrary.org/obo/PATO_0002312) |
 
-## `Online_Dictionary` (1)
+## `Online_Dictionary`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Online_Dictionary)
+There are 1 usages of `Online_Dictionary` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Online_Dictionary).
 
 | curie                               |   usages | nodes                                                       |
 |-------------------------------------|----------|-------------------------------------------------------------|
 | Online_Dictionary:Online_Dictionary |        1 | [PATO:0001794](http://purl.obolibrary.org/obo/PATO_0001794) |
 
-## `Oxford` (1)
+## `Oxford`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Oxford)
+There are 1 usages of `Oxford` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Oxford).
 
 | curie                    |   usages | nodes                                                       |
 |--------------------------|----------|-------------------------------------------------------------|
 | Oxford:EnglishDictionary |        1 | [PATO:0001889](http://purl.obolibrary.org/obo/PATO_0001889) |
 
-## `PATC` (1)
+## `PATC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PATC)
+There are 1 usages of `PATC` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PATC).
 
 | curie    |   usages | nodes                                                       |
 |----------|----------|-------------------------------------------------------------|
 | PATC:MAH |        1 | [PATO:0001511](http://purl.obolibrary.org/obo/PATO_0001511) |
 
-## `PATOC` (1)
+## `PATOC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PATOC)
+There are 1 usages of `PATOC` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PATOC).
 
 | curie     |   usages | nodes                                                       |
 |-----------|----------|-------------------------------------------------------------|
 | PATOC:MAH |        1 | [PATO:0001769](http://purl.obolibrary.org/obo/PATO_0001769) |
 
-## `RKC` (1)
+## `RKC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RKC)
+There are 1 usages of `RKC` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RKC).
 
 | curie   |   usages | nodes                                                       |
 |---------|----------|-------------------------------------------------------------|
 | RKC:RKC |        1 | [PATO:0001881](http://purl.obolibrary.org/obo/PATO_0001881) |
 
-## `TheFreeDictionary` (1)
+## `TheFreeDictionary`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TheFreeDictionary)
+There are 1 usages of `TheFreeDictionary` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TheFreeDictionary).
 
 | curie                        |   usages | nodes                                                       |
 |------------------------------|----------|-------------------------------------------------------------|
 | TheFreeDictionary:cancellous |        1 | [PATO:0002519](http://purl.obolibrary.org/obo/PATO_0002519) |
 
-## `Trailillustrated` (1)
+## `Trailillustrated`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Trailillustrated)
+There are 1 usages of `Trailillustrated` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Trailillustrated).
 
 | curie                             |   usages | nodes                                                       |
 |-----------------------------------|----------|-------------------------------------------------------------|
 | Trailillustrated:Trailillustrated |        1 | [PATO:0001687](http://purl.obolibrary.org/obo/PATO_0001687) |
 
-## `Wiikipedia` (2)
+## `Wiikipedia`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiikipedia)
+There are 2 usages of `Wiikipedia` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiikipedia).
 
 | curie                 |   usages | nodes                                                       |
 |-----------------------|----------|-------------------------------------------------------------|
 | Wiikipedia:Wasting    |        1 | [PATO:0001623](http://purl.obolibrary.org/obo/PATO_0001623) |
 | Wiikipedia:Wiikipedia |        1 | [PATO:0001780](http://purl.obolibrary.org/obo/PATO_0001780) |
 
-## `WikipediaVersioned` (6)
+## `WikipediaVersioned`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaVersioned)
+There are 6 usages of `WikipediaVersioned` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaVersioned).
 
 | curie                                                   |   usages | nodes                                                       |
 |---------------------------------------------------------|----------|-------------------------------------------------------------|
@@ -270,148 +299,164 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | WikipediaVersioned:Rust&oldid=1072363937                |        1 | [PATO:0070059](http://purl.obolibrary.org/obo/PATO_0070059) |
 | WikipediaVersioned:Fluid&oldid=1049126570               |        1 | [PATO:0080001](http://purl.obolibrary.org/obo/PATO_0080001) |
 
-## `WordNet` (2)
+## `WordNet`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WordNet)
+There are 2 usages of `WordNet` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WordNet).
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |-----------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | WordNet:WordNet |       85 | [PATO:0000011](http://purl.obolibrary.org/obo/PATO_0000011), [PATO:0000059](http://purl.obolibrary.org/obo/PATO_0000059), [PATO:0000117](http://purl.obolibrary.org/obo/PATO_0000117), [PATO:0000396](http://purl.obolibrary.org/obo/PATO_0000396), [PATO:0000402](http://purl.obolibrary.org/obo/PATO_0000402), ... |
 | WordNet:Wordnet |        1 | [PATO:0001486](http://purl.obolibrary.org/obo/PATO_0001486)                                                                                                                                                                                                                                                          |
 
-## `WordReference` (1)
+## `WordReference`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WordReference)
+There are 1 usages of `WordReference` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WordReference).
 
 | curie               |   usages | nodes                                                       |
 |---------------------|----------|-------------------------------------------------------------|
 | WordReference:flush |        1 | [PATO:0002518](http://purl.obolibrary.org/obo/PATO_0002518) |
 
-## `answers.com` (2)
+## `answers.com`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20answers.com)
+There are 2 usages of `answers.com` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20answers.com).
 
 | curie                               |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |-------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | answers.com:answers.com             |       26 | [PATO:0000078](http://purl.obolibrary.org/obo/PATO_0000078), [PATO:0000167](http://purl.obolibrary.org/obo/PATO_0000167), [PATO:0000413](http://purl.obolibrary.org/obo/PATO_0000413), [PATO:0000608](http://purl.obolibrary.org/obo/PATO_0000608), [PATO:0000610](http://purl.obolibrary.org/obo/PATO_0000610), ... |
 | answers.com:http://www.answers.com/ |        1 | [PATO:0002013](http://purl.obolibrary.org/obo/PATO_0002013)                                                                                                                                                                                                                                                          |
 
-## `arpansa` (1)
+## `arpansa`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20arpansa)
+There are 1 usages of `arpansa` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20arpansa).
 
 | curie           |   usages | nodes                                                                                                                                                                                 |
 |-----------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | arpansa:arpansa |        3 | [PATO:0001745](http://purl.obolibrary.org/obo/PATO_0001745), [PATO:0001746](http://purl.obolibrary.org/obo/PATO_0001746), [PATO:0001747](http://purl.obolibrary.org/obo/PATO_0001747) |
 
-## `bdid` (1)
+## `bdid`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20bdid)
+There are 1 usages of `bdid` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20bdid).
 
 | curie     |   usages | nodes                                                       |
 |-----------|----------|-------------------------------------------------------------|
 | bdid:bdid |        1 | [PATO:0001474](http://purl.obolibrary.org/obo/PATO_0001474) |
 
-## `biology-online` (1)
+## `biology-online`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20biology-online)
+There are 1 usages of `biology-online` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20biology-online).
 
 | curie                         |   usages | nodes                                                                                                                    |
 |-------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
 | biology-online:biology-online |        2 | [PATO:0001423](http://purl.obolibrary.org/obo/PATO_0001423), [PATO:0001842](http://purl.obolibrary.org/obo/PATO_0001842) |
 
-## `biology.lsu` (1)
+## `biology.lsu`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20biology.lsu)
+There are 1 usages of `biology.lsu` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20biology.lsu).
 
 | curie                   |   usages | nodes                                                       |
 |-------------------------|----------|-------------------------------------------------------------|
 | biology.lsu:biology.lsu |        1 | [PATO:0001609](http://purl.obolibrary.org/obo/PATO_0001609) |
 
-## `chemicool` (1)
+## `chemicool`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20chemicool)
+There are 1 usages of `chemicool` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20chemicool).
 
 | curie               |   usages | nodes                                                                                                                                                                                                                                              |
 |---------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | chemicool:chemicool |        4 | [PATO:0001427](http://purl.obolibrary.org/obo/PATO_0001427), [PATO:0001428](http://purl.obolibrary.org/obo/PATO_0001428), [PATO:0001429](http://purl.obolibrary.org/obo/PATO_0001429), [PATO:0001430](http://purl.obolibrary.org/obo/PATO_0001430) |
 
-## `dictionary` (1)
+## `dictionary`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20dictionary)
+There are 1 usages of `dictionary` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20dictionary).
 
 | curie                |   usages | nodes                                                       |
 |----------------------|----------|-------------------------------------------------------------|
 | dictionary:reference |        1 | [PATO:0000389](http://purl.obolibrary.org/obo/PATO_0000389) |
 
-## `die.net` (1)
+## `die.net`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20die.net)
+There are 1 usages of `die.net` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20die.net).
 
 | curie           |   usages | nodes                                                                                                                    |
 |-----------------|----------|--------------------------------------------------------------------------------------------------------------------------|
 | die.net:die.net |        2 | [PATO:0001786](http://purl.obolibrary.org/obo/PATO_0001786), [PATO:0001856](http://purl.obolibrary.org/obo/PATO_0001856) |
 
-## `edp` (1)
+## `edp`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20edp)
+There are 1 usages of `edp` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20edp).
 
 | curie   |   usages | nodes                                                                                                                                                                                 |
 |---------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | edp:edp |        3 | [PATO:0001536](http://purl.obolibrary.org/obo/PATO_0001536), [PATO:0001537](http://purl.obolibrary.org/obo/PATO_0001537), [PATO:0001538](http://purl.obolibrary.org/obo/PATO_0001538) |
 
-## `freedictionary` (1)
+## `freedictionary`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20freedictionary)
+There are 1 usages of `freedictionary` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20freedictionary).
 
 | curie                         |   usages | nodes                                                       |
 |-------------------------------|----------|-------------------------------------------------------------|
 | freedictionary:freedictionary |        1 | [PATO:0002445](http://purl.obolibrary.org/obo/PATO_0002445) |
 
-## `hefreedictionary.com` (1)
+## `hefreedictionary.com`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20hefreedictionary.com)
+There are 1 usages of `hefreedictionary.com` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20hefreedictionary.com).
 
 | curie                                     |   usages | nodes                                                       |
 |-------------------------------------------|----------|-------------------------------------------------------------|
 | hefreedictionary.com:hefreedictionary.com |        1 | [PATO:0001773](http://purl.obolibrary.org/obo/PATO_0001773) |
 
-## `maths.org` (1)
+## `maths.org`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20maths.org)
+There are 1 usages of `maths.org` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20maths.org).
 
 | curie               |   usages | nodes                                                       |
 |---------------------|----------|-------------------------------------------------------------|
 | maths.org:maths.org |        1 | [PATO:0001053](http://purl.obolibrary.org/obo/PATO_0001053) |
 
-## `medical-dictionary` (2)
+## `medical-dictionary`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20medical-dictionary)
+There are 2 usages of `medical-dictionary` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20medical-dictionary).
 
 | curie                                                                      |   usages | nodes                                                       |
 |----------------------------------------------------------------------------|----------|-------------------------------------------------------------|
 | medical-dictionary:medical-dictionary                                      |        1 | [PATO:0001512](http://purl.obolibrary.org/obo/PATO_0001512) |
 | medical-dictionary:http://medical-dictionary.thefreedictionary.com/abaxial |        1 | [PATO:0002046](http://purl.obolibrary.org/obo/PATO_0002046) |
 
-## `merriam-webster` (9)
+## `merriam-webster`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20merriam-webster)
+There are 9 usages of `merriam-webster` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20merriam-webster).
 
 | curie                                                                    |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |--------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -425,83 +470,92 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | merriam-webster:http://www.merriam-webster.com/dictionary/subovoid       |        1 | [PATO:0002537](http://purl.obolibrary.org/obo/PATO_0002537)                                                                                                                                                                                                                                                          |
 | merriam-webster:http://www.merriam-webster.com/dictionary/concavo-convex |        1 | [PATO:0002538](http://purl.obolibrary.org/obo/PATO_0002538)                                                                                                                                                                                                                                                          |
 
-## `merriam-webster.` (1)
+## `merriam-webster.`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20merriam-webster.)
+There are 1 usages of `merriam-webster.` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20merriam-webster.).
 
 | curie                             |   usages | nodes                                                                                                                    |
 |-----------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
 | merriam-webster.:merriam-webster. |        2 | [PATO:0001534](http://purl.obolibrary.org/obo/PATO_0001534), [PATO:0001535](http://purl.obolibrary.org/obo/PATO_0001535) |
 
-## `merriam-wester` (1)
+## `merriam-wester`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20merriam-wester)
+There are 1 usages of `merriam-wester` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20merriam-wester).
 
 | curie                                                            |   usages | nodes                                                       |
 |------------------------------------------------------------------|----------|-------------------------------------------------------------|
 | merriam-wester:http://www.merriam-webster.com/dictionary/oblique |        1 | [PATO:0002481](http://purl.obolibrary.org/obo/PATO_0002481) |
 
-## `mondofacto` (1)
+## `mondofacto`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20mondofacto)
+There are 1 usages of `mondofacto` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20mondofacto).
 
 | curie                 |   usages | nodes                                                                                                                    |
 |-----------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
 | mondofacto:mondofacto |        2 | [PATO:0002088](http://purl.obolibrary.org/obo/PATO_0002088), [PATO:0002161](http://purl.obolibrary.org/obo/PATO_0002161) |
 
-## `mw` (2)
+## `mw`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20mw)
+There are 2 usages of `mw` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20mw).
 
 | curie                                                    |   usages | nodes                                                       |
 |----------------------------------------------------------|----------|-------------------------------------------------------------|
 | mw:http://www.merriam-webster.com/dictionary/indurated   |        1 | [PATO:0002407](http://purl.obolibrary.org/obo/PATO_0002407) |
 | mw:http://www.merriam-webster.com/dictionary/cicatricial |        1 | [PATO:0002421](http://purl.obolibrary.org/obo/PATO_0002421) |
 
-## `reference.com` (1)
+## `reference.com`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20reference.com)
+There are 1 usages of `reference.com` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20reference.com).
 
 | curie                       |   usages | nodes                                                       |
 |-----------------------------|----------|-------------------------------------------------------------|
 | reference.com:reference.com |        1 | [PATO:0000082](http://purl.obolibrary.org/obo/PATO_0000082) |
 
-## `sdvc` (1)
+## `sdvc`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20sdvc)
+There are 1 usages of `sdvc` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20sdvc).
 
 | curie     |   usages | nodes                                                       |
 |-----------|----------|-------------------------------------------------------------|
 | sdvc:sdvc |        1 | [PATO:0000623](http://purl.obolibrary.org/obo/PATO_0000623) |
 
-## `spinalstenosis` (1)
+## `spinalstenosis`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20spinalstenosis)
+There are 1 usages of `spinalstenosis` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20spinalstenosis).
 
 | curie                         |   usages | nodes                                                       |
 |-------------------------------|----------|-------------------------------------------------------------|
 | spinalstenosis:spinalstenosis |        1 | [PATO:0000643](http://purl.obolibrary.org/obo/PATO_0000643) |
 
-## `studyphysics` (1)
+## `studyphysics`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20studyphysics)
+There are 1 usages of `studyphysics` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20studyphysics).
 
 | curie                     |   usages | nodes                                                                                                                    |
 |---------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
 | studyphysics:studyphysics |        2 | [PATO:0001524](http://purl.obolibrary.org/obo/PATO_0001524), [PATO:0001526](http://purl.obolibrary.org/obo/PATO_0001526) |
 
-## `thefreedictionary` (9)
+## `thefreedictionary`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20thefreedictionary)
+There are 9 usages of `thefreedictionary` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20thefreedictionary).
 
 | curie                                                           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |-----------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -515,37 +569,41 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | thefreedictionary:http://www.thefreedictionary.com/demyelinated |        1 | [PATO:0002218](http://purl.obolibrary.org/obo/PATO_0002218)                                                                                                                                                                                                                                                          |
 | thefreedictionary:http://www.thefreedictionary.com/fan-shaped   |        1 | [PATO:0002219](http://purl.obolibrary.org/obo/PATO_0002219)                                                                                                                                                                                                                                                          |
 
-## `thefreedictionary.` (1)
+## `thefreedictionary.`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20thefreedictionary.)
+There are 1 usages of `thefreedictionary.` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20thefreedictionary.).
 
 | curie                                 |   usages | nodes                                                                                                                    |
 |---------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
 | thefreedictionary.:thefreedictionary. |        2 | [PATO:0000462](http://purl.obolibrary.org/obo/PATO_0000462), [PATO:0002165](http://purl.obolibrary.org/obo/PATO_0002165) |
 
-## `thesaurus.math` (1)
+## `thesaurus.math`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20thesaurus.math)
+There are 1 usages of `thesaurus.math` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20thesaurus.math).
 
 | curie                         |   usages | nodes                                                       |
 |-------------------------------|----------|-------------------------------------------------------------|
 | thesaurus.math:thesaurus.math |        1 | [PATO:0001321](http://purl.obolibrary.org/obo/PATO_0001321) |
 
-## `thesaurus.maths` (1)
+## `thesaurus.maths`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20thesaurus.maths)
+There are 1 usages of `thesaurus.maths` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20thesaurus.maths).
 
 | curie                           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
 |---------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | thesaurus.maths:thesaurus.maths |        7 | [PATO:0000039](http://purl.obolibrary.org/obo/PATO_0000039), [PATO:0000080](http://purl.obolibrary.org/obo/PATO_0000080), [PATO:0001035](http://purl.obolibrary.org/obo/PATO_0001035), [PATO:0001051](http://purl.obolibrary.org/obo/PATO_0001051), [PATO:0001052](http://purl.obolibrary.org/obo/PATO_0001052), ... |
 
-## `url` (30)
+## `url`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url)
+There are 30 usages of `url` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url).
 
 <details>
 <summary>Click to expand the `url` table</summary>
@@ -585,10 +643,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `web` (3)
+## `web`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20web)
+There are 3 usages of `web` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20web).
 
 | curie                               |   usages | nodes                                                       |
 |-------------------------------------|----------|-------------------------------------------------------------|
@@ -596,19 +655,21 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | web:www.thefreedictionary.com/      |        1 | [PATO:0001290](http://purl.obolibrary.org/obo/PATO_0001290) |
 | web:http://www.expertglossary.com/  |        1 | [PATO:0002059](http://purl.obolibrary.org/obo/PATO_0002059) |
 
-## `wiki` (1)
+## `wiki`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wiki)
+There are 1 usages of `wiki` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wiki).
 
 | curie                                              |   usages | nodes                                                                                                                                                                                                                                              |
 |----------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | wiki:http://en.wikipedia.org/wiki/Parity_(biology) |        4 | [PATO:0002369](http://purl.obolibrary.org/obo/PATO_0002369), [PATO:0002370](http://purl.obolibrary.org/obo/PATO_0002370), [PATO:0002371](http://purl.obolibrary.org/obo/PATO_0002371), [PATO:0002372](http://purl.obolibrary.org/obo/PATO_0002372) |
 
-## `wiktionary` (3)
+## `wiktionary`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wiktionary)
+There are 3 usages of `wiktionary` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wiktionary).
 
 | curie                                              |   usages | nodes                                                       |
 |----------------------------------------------------|----------|-------------------------------------------------------------|
@@ -616,37 +677,41 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | wiktionary:http://en.wiktionary.org/wiki/obconical |        1 | [PATO:0002347](http://purl.obolibrary.org/obo/PATO_0002347) |
 | wiktionary:http://en.wiktionary.org/wiki/fleshy    |        1 | [PATO:0002351](http://purl.obolibrary.org/obo/PATO_0002351) |
 
-## `wordnetweb` (1)
+## `wordnetweb`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wordnetweb)
+There are 1 usages of `wordnetweb` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wordnetweb).
 
 | curie                 |   usages | nodes                                                       |
 |-----------------------|----------|-------------------------------------------------------------|
 | wordnetweb:wordnetweb |        1 | [PATO:0002426](http://purl.obolibrary.org/obo/PATO_0002426) |
 
-## `wordreference` (1)
+## `wordreference`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wordreference)
+There are 1 usages of `wordreference` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wordreference).
 
 | curie                       |   usages | nodes                                                                                                                                                                                                                                              |
 |-----------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | wordreference:wordreference |        4 | [PATO:0001875](http://purl.obolibrary.org/obo/PATO_0001875), [PATO:0001936](http://purl.obolibrary.org/obo/PATO_0001936), [PATO:0001945](http://purl.obolibrary.org/obo/PATO_0001945), [PATO:0001955](http://purl.obolibrary.org/obo/PATO_0001955) |
 
-## `wordreference.com` (1)
+## `wordreference.com`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wordreference.com)
+There are 1 usages of `wordreference.com` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wordreference.com).
 
 | curie                               |   usages | nodes                                                       |
 |-------------------------------------|----------|-------------------------------------------------------------|
 | wordreference.com:wordreference.com |        1 | [PATO:0001822](http://purl.obolibrary.org/obo/PATO_0001822) |
 
-## `Image` (8)
+## `Image`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Image)
+There are 8 usages of `Image` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Image).
 
 | curie                                                                                                |   usages | nodes                                                       |
 |------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------|
@@ -659,19 +724,21 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | Image:http://www.thefreedictionary.com/_/viewer.aspx?path=hm&name=A4bicovx                           |        1 | [PATO:0002040](http://purl.obolibrary.org/obo/PATO_0002040) |
 | Image:http://2.bp.blogspot.com/_TbkIC-eqFNM/S66IJ3omNWI/AAAAAAAAFSk/pzThLJPvYZw/s1600/ard-detail.gif |        1 | [PATO:0002534](http://purl.obolibrary.org/obo/PATO_0002534) |
 
-## `NLX` (1)
+## `NLX`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NLX)
+There are 1 usages of `NLX` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NLX).
 
 | curie   |   usages | nodes                                                       |
 |---------|----------|-------------------------------------------------------------|
 | NLX:378 |        1 | [PATO:0070026](http://purl.obolibrary.org/obo/PATO_0070026) |
 
-## `ilxtr` (16)
+## `ilxtr`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ilxtr)
+There are 16 usages of `ilxtr` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ilxtr).
 
 | curie                              |   usages | nodes                                                       |
 |------------------------------------|----------|-------------------------------------------------------------|
@@ -692,10 +759,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ilxtr:StarPyramidalPhenotype       |        1 | [PATO:0070020](http://purl.obolibrary.org/obo/PATO_0070020) |
 | ilxtr:InvertedPyramidalPhenotype   |        1 | [PATO:0070021](http://purl.obolibrary.org/obo/PATO_0070021) |
 
-## `nifext` (3)
+## `nifext`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20nifext)
+There are 3 usages of `nifext` in `pato`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20nifext).
 
 | curie    |   usages | nodes                                                       |
 |----------|----------|-------------------------------------------------------------|

@@ -1,27 +1,30 @@
 # spd
 
-## `PSD` (1)
+## `PSD`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PSD)
+There are 1 usages of `PSD` in `spd`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PSD).
 
 | curie       |   usages | nodes                                                     |
 |-------------|----------|-----------------------------------------------------------|
 | PSD:Ramirez |        1 | [SPD:0000181](http://purl.obolibrary.org/obo/SPD_0000181) |
 
-## `SPDd` (1)
+## `SPDd`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPDd)
+There are 1 usages of `SPDd` in `spd`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPDd).
 
 | curie        |   usages | nodes                                                     |
 |--------------|----------|-----------------------------------------------------------|
 | SPDd:Ramirez |        1 | [SPD:0000377](http://purl.obolibrary.org/obo/SPD_0000377) |
 
-## `SPDrf` (13)
+## `SPDrf`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPDrf)
+There are 13 usages of `SPDrf` in `spd`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPDrf).
 
 | curie                           |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |---------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,19 +42,21 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | SPDrf:Sierwald_1990             |        1 | [SPD:0000523](http://purl.obolibrary.org/obo/SPD_0000523)                                                                                                                                                                                                                                                  |
 | SPDrf:Uhl_et_al_2014            |        1 | [SPD:0000680](http://purl.obolibrary.org/obo/SPD_0000680)                                                                                                                                                                                                                                                  |
 
-## `SPR` (1)
+## `SPR`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPR)
+There are 1 usages of `SPR` in `spd`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPR).
 
 | curie       |   usages | nodes                                                     |
 |-------------|----------|-----------------------------------------------------------|
 | SPR:Ramirez |        1 | [SPD:0000818](http://purl.obolibrary.org/obo/SPD_0000818) |
 
-## `TrOn` (1)
+## `TrOn`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TrOn)
+There are 1 usages of `TrOn` in `spd`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TrOn).
 
 | curie        |   usages | nodes                                                     |
 |--------------|----------|-----------------------------------------------------------|

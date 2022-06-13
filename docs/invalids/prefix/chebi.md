@@ -2,8 +2,8 @@
 
 This page summarize the different resources that reference `chebi`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 4 resources,
-1 variants on the standard prefix were found: ['CHEBI'].
+`^\d+$`. Of the 5 resources,
+2 variants on the standard prefix were found: ['CHEBI', 'ChEBI'].
 
 ## `chmo`: Chemical Methods Ontology
 
@@ -12,6 +12,14 @@ Identifiers for this prefix are given incorrectly in `chmo`. See the [GitHub rep
 | external_xref   |   usages_count | usages                                                      |
 |-----------------|----------------|-------------------------------------------------------------|
 | `CHEBI:`        |              1 | [CHMO:0002374](http://purl.obolibrary.org/obo/CHMO_0002374) |
+
+## `dto`: Drug Target Ontology
+
+Identifiers for this prefix are given incorrectly in `dto`. See the [GitHub repository](https://github.com/DrugTargetOntology/DTO).
+
+| external_xref   |   usages_count | usages                                                    |
+|-----------------|----------------|-----------------------------------------------------------|
+| `ChEBI:C00209`  |              1 | [CHEBI:30623](http://purl.obolibrary.org/obo/CHEBI_30623) |
 
 ## `omp`: Ontology of Microbial Phenotypes
 

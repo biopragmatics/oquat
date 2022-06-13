@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `ncit`
 but use local unique identifiers that do not match the standard pattern of
-`^C\d+$`. Of the 14 resources,
+`^C\d+$`. Of the 17 resources,
 6 variants on the standard prefix were found: ['NCI', 'NCI Thesaurus', 'NCIT', 'NCI_Thesaurus', 'NCIt', 'ncithesaurus'].
 
 ## `bao`: BioAssay Ontology
@@ -33,6 +33,41 @@ Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub rep
 |-----------------|----------------|-------------------------------------------------------------|
 | `NCI:131302`    |              1 | [DOID:0080925](http://purl.obolibrary.org/obo/DOID_0080925) |
 
+## `dto`: Drug Target Ontology
+
+Identifiers for this prefix are given incorrectly in `dto`. See the [GitHub repository](https://github.com/DrugTargetOntology/DTO).
+
+| external_xref                                         |   usages_count | usages                                                          |
+|-------------------------------------------------------|----------------|-----------------------------------------------------------------|
+| `ncithesaurus:Cervix`                                 |              1 | [UBERON:0000002](http://purl.obolibrary.org/obo/UBERON_0000002) |
+| `ncithesaurus:Ureter`                                 |              1 | [UBERON:0000056](http://purl.obolibrary.org/obo/UBERON_0000056) |
+| `ncithesaurus:Intestine`                              |              1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
+| `ncithesaurus:Breast`                                 |              1 | [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) |
+| `ncithesaurus:Testis`                                 |              1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
+| `ncithesaurus:Stomach`                                |              1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
+| `ncithesaurus:Brain`                                  |              1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
+| `ncithesaurus:Ovary`                                  |              1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
+| `ncithesaurus:Uterus`                                 |              1 | [UBERON:0000995](http://purl.obolibrary.org/obo/UBERON_0000995) |
+| `ncithesaurus:Vulva`                                  |              1 | [UBERON:0000997](http://purl.obolibrary.org/obo/UBERON_0000997) |
+| `ncithesaurus:Nervous_System`                         |              1 | [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) |
+| `ncithesaurus:Esophagus`                              |              1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
+| `ncithesaurus:Anatomic_Structure_System_or_Substance` |              1 | [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) |
+| `ncithesaurus:Bladder`                                |              1 | [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) |
+| `ncithesaurus:Pancreas`                               |              1 | [UBERON:0001264](http://purl.obolibrary.org/obo/UBERON_0001264) |
+| `ncithesaurus:Bone`                                   |              1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
+| `ncithesaurus:Plasma`                                 |              1 | [UBERON:0001969](http://purl.obolibrary.org/obo/UBERON_0001969) |
+| `ncithesaurus:Thyroid_Gland`                          |              1 | [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) |
+| `ncithesaurus:Lung`                                   |              1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
+| `ncithesaurus:Skin`                                   |              1 | [UBERON:0002097](http://purl.obolibrary.org/obo/UBERON_0002097) |
+| `ncithesaurus:Liver`                                  |              1 | [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) |
+| `ncithesaurus:Gallbladder`                            |              1 | [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) |
+| `ncithesaurus:Kidney`                                 |              1 | [UBERON:0002113](http://purl.obolibrary.org/obo/UBERON_0002113) |
+| `ncithesaurus:Duodenum`                               |              1 | [UBERON:0002114](http://purl.obolibrary.org/obo/UBERON_0002114) |
+| `ncithesaurus:Prostate_Gland`                         |              1 | [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) |
+| `ncithesaurus:Adrenal_Gland`                          |              1 | [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) |
+| `ncithesaurus:Muscle_Tissue`                          |              1 | [UBERON:0002385](http://purl.obolibrary.org/obo/UBERON_0002385) |
+| `ncithesaurus:Head_and_Neck`                          |              1 | [UBERON:0007811](http://purl.obolibrary.org/obo/UBERON_0007811) |
+
 ## `efo`: Experimental Factor Ontology
 
 Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
@@ -43,6 +78,18 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `NCIT:C92189-variant` |              1 | [EFO:1001417](http://www.ebi.ac.uk/efo/EFO_1001417)                                                                                                                                                                                                                          |
 | `NCIt: C12511`        |              1 | [EFO:0001394](http://www.ebi.ac.uk/efo/EFO_0001394)                                                                                                                                                                                                                          |
 
+## `epso`: Epilepsy and Seizure Ontology
+
+Identifiers for this prefix are given incorrectly in `epso`.
+
+| external_xref                           |   usages_count | usages                                                          |
+|-----------------------------------------|----------------|-----------------------------------------------------------------|
+| `ncithesaurus:Parieto-occipital_Sulcus` |              1 | [UBERON:0002695](http://purl.obolibrary.org/obo/UBERON_0002695) |
+| `ncithesaurus:Middle_Frontal_Gyrus`     |              1 | [UBERON:0002702](http://purl.obolibrary.org/obo/UBERON_0002702) |
+| `ncithesaurus:Inferior_Temporal_Gyrus`  |              1 | [UBERON:0002751](http://purl.obolibrary.org/obo/UBERON_0002751) |
+| `ncithesaurus:Superior_Temporal_Gyrus`  |              1 | [UBERON:0002769](http://purl.obolibrary.org/obo/UBERON_0002769) |
+| `ncithesaurus:Middle_Temporal_Gyrus`    |              1 | [UBERON:0002771](http://purl.obolibrary.org/obo/UBERON_0002771) |
+
 ## `hp`: Human Phenotype Ontology
 
 Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repository](https://github.com/obophenotype/human-phenotype-ontology).
@@ -50,6 +97,15 @@ Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repos
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
 | `NCIT:CL017969` |              1 | [HP:0031018](http://purl.obolibrary.org/obo/HP_0031018) |
+
+## `icdo`: International Classification of Diseases for Oncology
+
+Identifiers for this prefix are given incorrectly in `icdo`.
+
+| external_xref                   |   usages_count | usages                                                          |
+|---------------------------------|----------------|-----------------------------------------------------------------|
+| `ncithesaurus:Whole_Organism`   |              1 | [UBERON:0000468](http://purl.obolibrary.org/obo/UBERON_0000468) |
+| `ncithesaurus:Digestive_System` |              1 | [UBERON:0001007](http://purl.obolibrary.org/obo/UBERON_0001007) |
 
 ## `idomal`: Malaria Ontology
 

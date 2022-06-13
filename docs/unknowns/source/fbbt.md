@@ -1,9 +1,10 @@
 # fbbt
 
-## `FBC` (6)
+## `FBC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FBC)
+There are 6 usages of `FBC` in `fbbt`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FBC).
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -14,10 +15,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | FBC:DPG     |        1 | [FBbt:00005067](http://purl.obolibrary.org/obo/FBbt_00005067)                                                                                                                                                                                                                                                                  |
 | FBC:VH      |        1 | [FBbt:00005473](http://purl.obolibrary.org/obo/FBbt_00005473)                                                                                                                                                                                                                                                                  |
 
-## `FlyPNS` (14)
+## `FlyPNS`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FlyPNS)
+There are 14 usages of `FlyPNS` in `fbbt`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FlyPNS).
 
 | curie                           |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |---------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -36,10 +38,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | FlyPNS:PNSdescription.html#dp2  |        1 | [FBbt:00002807](http://purl.obolibrary.org/obo/FBbt_00002807)                                                                                                                                                                                                                                                                  |
 | FlyPNS:PNSdescription.html#vch2 |        1 | [FBbt:00007257](http://purl.obolibrary.org/obo/FBbt_00007257)                                                                                                                                                                                                                                                                  |
 
-## `VFB_vol` (31)
+## `VFB_vol`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20VFB_vol)
+There are 31 usages of `VFB_vol` in `fbbt`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20VFB_vol).
 
 <details>
 <summary>Click to expand the `VFB_vol` table</summary>
@@ -80,10 +83,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `larvalbrain_neuropil` (151)
+## `larvalbrain_neuropil`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20larvalbrain_neuropil)
+There are 151 usages of `larvalbrain_neuropil` in `fbbt`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20larvalbrain_neuropil).
 
 <details>
 <summary>Click to expand the `larvalbrain_neuropil` table</summary>

@@ -39,9 +39,35 @@
 | BSA:0000042 |        1 | [UBERON:0011302](http://purl.obolibrary.org/obo/UBERON_0011302) |
 | BSA:0000088 |        1 | [UBERON:0015227](http://purl.obolibrary.org/obo/UBERON_0015227) |
 
+## covid19
+
+| curie       |   usages | nodes                                                           |
+|-------------|----------|-----------------------------------------------------------------|
+| BSA:0000121 |        1 | [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020) |
+| BSA:0000093 |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
+| BSA:0000049 |        1 | [UBERON:0000467](http://purl.obolibrary.org/obo/UBERON_0000467) |
+
+## icdo
+
+| curie       |   usages | nodes                                                           |
+|-------------|----------|-----------------------------------------------------------------|
+| BSA:0000121 |        1 | [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020) |
+| BSA:0000093 |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
+| BSA:0000049 |        1 | [UBERON:0000467](http://purl.obolibrary.org/obo/UBERON_0000467) |
+| BSA:0000038 |        1 | [UBERON:0000468](http://purl.obolibrary.org/obo/UBERON_0000468) |
+| BSA:0000123 |        1 | [UBERON:0010039](http://purl.obolibrary.org/obo/UBERON_0010039) |
+
 ## plana
 
 | curie       |   usages | nodes                                                         |
 |-------------|----------|---------------------------------------------------------------|
 | BSA:0000058 |        1 | [PLANA:0000240](http://purl.obolibrary.org/obo/PLANA_0000240) |
+
+## dto
+
+| curie       |   usages | nodes                                                           |
+|-------------|----------|-----------------------------------------------------------------|
+| BSA:0000093 |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
+| BSA:0000085 |        1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
+| BSA:0000080 |        1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
 

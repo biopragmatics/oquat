@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `omim.ps`
 but use local unique identifiers that do not match the standard pattern of
-`^PS\d+$`. Of the 3 resources,
+`^PS\d+$`. Of the 4 resources,
 2 variants on the standard prefix were found: ['OMIMPS', 'PS'].
 
 ## `diseaseclass`: Disease Class
@@ -149,6 +149,18 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `OMIMPS:175800` |              1 | [EFO:1000757](http://www.ebi.ac.uk/efo/EFO_1000757)                                                      |
 | `OMIMPS:108800` |              1 | [EFO:1000825](http://www.ebi.ac.uk/efo/EFO_1000825)                                                      |
 | `OMIMPS:606711` |              1 | [EFO:1001510](http://www.ebi.ac.uk/efo/EFO_1001510)                                                      |
+
+## `epso`: Epilepsy and Seizure Ontology
+
+Identifiers for this prefix are given incorrectly in `epso`.
+
+| external_xref   |   usages_count | usages                                                        |
+|-----------------|----------------|---------------------------------------------------------------|
+| `OMIMPS:606777` |              1 | [MONDO:0000188](http://purl.obolibrary.org/obo/MONDO_0000188) |
+| `OMIMPS:300352` |              1 | [MONDO:0000456](http://purl.obolibrary.org/obo/MONDO_0000456) |
+| `OMIMPS:137800` |              1 | [MONDO:0015917](http://purl.obolibrary.org/obo/MONDO_0015917) |
+| `OMIMPS:121200` |              1 | [MONDO:0016027](http://purl.obolibrary.org/obo/MONDO_0016027) |
+| `OMIMPS:604233` |              1 | [MONDO:0018214](http://purl.obolibrary.org/obo/MONDO_0018214) |
 
 ## `mondo`: Monarch Disease Ontology
 

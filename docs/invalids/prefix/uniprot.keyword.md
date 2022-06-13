@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `uniprot.keyword`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{4}$`. Of the 2 resources,
+`^\d{4}$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['UniProtKB-KW'].
 
 ## `cco`: Cell Cycle Ontology
@@ -37,6 +37,14 @@ Identifiers for this prefix are given incorrectly in `cco`.
 | `UniProtKB-KW:KW-0842` |              1 | [GO:0039679](http://purl.obolibrary.org/obo/GO_0039679)                                                          |
 | `UniProtKB-KW:KW-0063` |              1 | [GO:0045330](http://purl.obolibrary.org/obo/GO_0045330)                                                          |
 | `UniProtKB-KW:KW-0468` |              1 | [GO:0039660](http://purl.obolibrary.org/obo/GO_0039660)                                                          |
+
+## `covid19`: COVID-19 Ontology
+
+Identifiers for this prefix are given incorrectly in `covid19`.
+
+| external_xref          |   usages_count | usages                                                  |
+|------------------------|----------------|---------------------------------------------------------|
+| `UniProtKB-KW:KW-0917` |              1 | [GO:0098677](http://purl.obolibrary.org/obo/GO_0098677) |
 
 ## `go`: Gene Ontology
 

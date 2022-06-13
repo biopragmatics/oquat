@@ -1,5 +1,14 @@
 # `imgt_genedb`
 
+## covid19
+
+| curie              |   usages | nodes                                                           |
+|--------------------|----------|-----------------------------------------------------------------|
+| IMGT/GENE-DB:IGHE  |        1 | [OGG:3000003497](http://purl.obolibrary.org/obo/OGG_3000003497) |
+| IMGT/GENE-DB:IGLC2 |        1 | [OGG:3000003538](http://purl.obolibrary.org/obo/OGG_3000003538) |
+| IMGT/GENE-DB:TRBC1 |        1 | [OGG:3000028639](http://purl.obolibrary.org/obo/OGG_3000028639) |
+| IMGT/GENE-DB:TRAC  |        1 | [OGG:3000028755](http://purl.obolibrary.org/obo/OGG_3000028755) |
+
 ## ogg
 
 | curie                       |   usages | nodes                                                           |

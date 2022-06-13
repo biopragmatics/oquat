@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `geonames`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 3 resources,
+`^\d+$`. Of the 4 resources,
 3 variants on the standard prefix were found: ['Geomames', 'Geonamaes', 'Geonames'].
 
 ## `bcio`: The Behaviour Change Intervention Ontology
@@ -379,4 +379,46 @@ Identifiers for this prefix are given incorrectly in `envo`. See the [GitHub rep
 | `Geonames:V.GRSLD`                                   |              1 | [ENVO:01001206](http://purl.obolibrary.org/obo/ENVO_01001206)                                                                                                                                                                                                                                                                  |
 | `Geonames:H.WTLD`                                    |              1 | [ENVO:01001209](http://purl.obolibrary.org/obo/ENVO_01001209)                                                                                                                                                                                                                                                                  |
 | `Geonames:T.SPUR`                                    |              1 | [ENVO:01001489](http://purl.obolibrary.org/obo/ENVO_01001489)                                                                                                                                                                                                                                                                  |
+
+## `idoden`: Dengue Fever Ontology
+
+Identifiers for this prefix are given incorrectly in `idoden`.
+
+| external_xref    |   usages_count | usages                                                        |
+|------------------|----------------|---------------------------------------------------------------|
+| `Geonames:CNL`   |              1 | [ENVO:00000014](http://purl.obolibrary.org/obo/ENVO_00000014) |
+| `Geonames:LKN`   |              1 | [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019) |
+| `Geonames:LKSN`  |              1 | [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019) |
+| `Geonames:LK`    |              1 | [ENVO:00000020](http://purl.obolibrary.org/obo/ENVO_00000020) |
+| `Geonames:LKS`   |              1 | [ENVO:00000020](http://purl.obolibrary.org/obo/ENVO_00000020) |
+| `Geonames:STM`   |              1 | [ENVO:00000023](http://purl.obolibrary.org/obo/ENVO_00000023) |
+| `Geonames:STMS`  |              1 | [ENVO:00000023](http://purl.obolibrary.org/obo/ENVO_00000023) |
+| `Geonames:WLL`   |              1 | [ENVO:00000026](http://purl.obolibrary.org/obo/ENVO_00000026) |
+| `Geonames:WLLS`  |              1 | [ENVO:00000026](http://purl.obolibrary.org/obo/ENVO_00000026) |
+| `Geonames:SPNG`  |              1 | [ENVO:00000027](http://purl.obolibrary.org/obo/ENVO_00000027) |
+| `Geonames:NRWS`  |              1 | [ENVO:00000029](http://purl.obolibrary.org/obo/ENVO_00000029) |
+| `Geonames:RCH`   |              1 | [ENVO:00000029](http://purl.obolibrary.org/obo/ENVO_00000029) |
+| `Geonames:SPLY`  |              1 | [ENVO:00000029](http://purl.obolibrary.org/obo/ENVO_00000029) |
+| `Geonames:WTRC`  |              1 | [ENVO:00000029](http://purl.obolibrary.org/obo/ENVO_00000029) |
+| `Geonames:PND`   |              1 | [ENVO:00000033](http://purl.obolibrary.org/obo/ENVO_00000033) |
+| `Geonames:PNDS`  |              1 | [ENVO:00000033](http://purl.obolibrary.org/obo/ENVO_00000033) |
+| `Geonames:POOL`  |              1 | [ENVO:00000033](http://purl.obolibrary.org/obo/ENVO_00000033) |
+| `Geomames:DTCH`  |              1 | [ENVO:00000037](http://purl.obolibrary.org/obo/ENVO_00000037) |
+| `Geonames:LGN`   |              1 | [ENVO:00000038](http://purl.obolibrary.org/obo/ENVO_00000038) |
+| `Geonames:LGNS`  |              1 | [ENVO:00000038](http://purl.obolibrary.org/obo/ENVO_00000038) |
+| `Geonames:CRKT`  |              1 | [ENVO:00000041](http://purl.obolibrary.org/obo/ENVO_00000041) |
+| `Geonames:WTLD`  |              1 | [ENVO:00000043](http://purl.obolibrary.org/obo/ENVO_00000043) |
+| `Geonames:ESTY`  |              1 | [ENVO:00000045](http://purl.obolibrary.org/obo/ENVO_00000045) |
+| `Geonames:MGV`   |              1 | [ENVO:00000057](http://purl.obolibrary.org/obo/ENVO_00000057) |
+| `Geonames:ISLM`  |              1 | [ENVO:00000103](http://purl.obolibrary.org/obo/ENVO_00000103) |
+| `Geonames:CULT`  |              1 | [ENVO:00000113](http://purl.obolibrary.org/obo/ENVO_00000113) |
+| `Geonames:DTCHI` |              1 | [ENVO:00000139](http://purl.obolibrary.org/obo/ENVO_00000139) |
+| `Geonames:DTCHD` |              1 | [ENVO:00000140](http://purl.obolibrary.org/obo/ENVO_00000140) |
+| `Geonames:MOOR`  |              1 | [ENVO:00000231](http://purl.obolibrary.org/obo/ENVO_00000231) |
+| `Geonames:SWMP`  |              1 | [ENVO:00000233](http://purl.obolibrary.org/obo/ENVO_00000233) |
+| `Geonames:FLTT`  |              1 | [ENVO:00000241](http://purl.obolibrary.org/obo/ENVO_00000241) |
+| `Geonames:CHN`   |              1 | [ENVO:00000395](http://purl.obolibrary.org/obo/ENVO_00000395) |
+| `Geonames:SCNU`  |              1 | [ENVO:00000395](http://purl.obolibrary.org/obo/ENVO_00000395) |
+| `Geonames:SCSU`  |              1 | [ENVO:00000395](http://purl.obolibrary.org/obo/ENVO_00000395) |
+| `Geonames:WTRH`  |              1 | [ENVO:00000547](http://purl.obolibrary.org/obo/ENVO_00000547) |
 

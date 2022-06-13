@@ -1,0 +1,357 @@
+{
+  "https://identifiers.org/ito:ontology": {
+    "graph_id": "https://identifiers.org/ito:ontology",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "1.01 (PWC export dated 2021-06-16)",
+    "xref_pack": {
+      "invalid_luids": {
+        "http://edamontology.org/topic_3315": [
+          "VT:1.1 Mathematics"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {
+        "http://edamontology.org/topic_0091": [
+          "VT 1.5.6 Bioinformatics"
+        ],
+        "http://edamontology.org/topic_0092": [
+          "VT 1.2.5 Computer graphics"
+        ],
+        "http://edamontology.org/topic_0202": [
+          "VT 3.1.7 Pharmacology and pharmacy"
+        ],
+        "http://edamontology.org/topic_0209": [
+          "VT 3.1.4 Medicinal chemistry"
+        ],
+        "http://edamontology.org/topic_0605": [
+          "VT 1.3 Information sciences",
+          "VT 1.3.3 Information retrieval",
+          "VT 1.3.4 Information management",
+          "VT 1.3.5 Knowledge management",
+          "VT 1.3.99 Other"
+        ],
+        "http://edamontology.org/topic_0610": [
+          "VT 1.5.15 Ecology"
+        ],
+        "http://edamontology.org/topic_0634": [
+          "VT 3.1.6 Pathology"
+        ],
+        "http://edamontology.org/topic_0637": [
+          "VT 1.5.25 Taxonomy"
+        ],
+        "http://edamontology.org/topic_0780": [
+          "VT 1.5.10 Botany",
+          "VT 1.5.22 Plant science"
+        ],
+        "http://edamontology.org/topic_0781": [
+          "VT 1.5.28"
+        ],
+        "http://edamontology.org/topic_0804": [
+          "VT 3.1.3 Immunology"
+        ],
+        "http://edamontology.org/topic_1317": [
+          "VT 1.5.24 Structural biology"
+        ],
+        "http://edamontology.org/topic_2229": [
+          "VT 1.5.11 Cell biology"
+        ],
+        "http://edamontology.org/topic_2640": [
+          "VT 3.2.16 Oncology"
+        ],
+        "http://edamontology.org/topic_2840": [
+          "VT 3.1.9 Toxicology"
+        ],
+        "http://edamontology.org/topic_3047": [
+          "VT 1.5.4 Biochemistry and molecular biology"
+        ],
+        "http://edamontology.org/topic_3050": [
+          "VT 1.5.5 Biodiversity conservation"
+        ],
+        "http://edamontology.org/topic_3064": [
+          "VT 1.5.14 Developmental biology"
+        ],
+        "http://edamontology.org/topic_3067": [
+          "VT 3.1.1 Anatomy and morphology"
+        ],
+        "http://edamontology.org/topic_3070": [
+          "VT 1.5 Biological sciences",
+          "VT 1.5.1 Aerobiology",
+          "VT 1.5.13 Cryobiology",
+          "VT 1.5.23 Reproductive biology",
+          "VT 1.5.3 Behavioural biology",
+          "VT 1.5.7 Biological rhythm",
+          "VT 1.5.8 Biology",
+          "VT 1.5.99 Other"
+        ],
+        "http://edamontology.org/topic_3071": [
+          "VT 1.3.1 Data management"
+        ],
+        "http://edamontology.org/topic_3292": [
+          "VT 1.5.4 Biochemistry and molecular biology"
+        ],
+        "http://edamontology.org/topic_3299": [
+          "VT 1.5.16 Evolutionary biology"
+        ],
+        "http://edamontology.org/topic_3300": [
+          "VT 3.1.8 Physiology"
+        ],
+        "http://edamontology.org/topic_3301": [
+          "VT 1.5.20 Microbiology"
+        ],
+        "http://edamontology.org/topic_3303": [
+          "VT 3.1 Basic medicine",
+          "VT 3.2 Clinical medicine",
+          "VT 3.2.9 General and internal medicine"
+        ],
+        "http://edamontology.org/topic_3304": [
+          "VT 3.1.5 Neuroscience"
+        ],
+        "http://edamontology.org/topic_3305": [
+          "VT 3.3.1 Epidemiology"
+        ],
+        "http://edamontology.org/topic_3306": [
+          "VT 1.5.9 Biophysics"
+        ],
+        "http://edamontology.org/topic_3307": [
+          "VT 1.5.12 Computational biology",
+          "VT 1.5.19 Mathematical biology",
+          "VT 1.5.26 Theoretical biology"
+        ],
+        "http://edamontology.org/topic_3314": [
+          "VT 1.7 Chemical sciences",
+          "VT 1.7.2 Chemistry",
+          "VT 1.7.3 Colloid chemistry",
+          "VT 1.7.5 Electrochemistry",
+          "VT 1.7.6 Inorganic and nuclear chemistry",
+          "VT 1.7.7 Mathematical chemistry",
+          "VT 1.7.8 Organic chemistry",
+          "VT 1.7.9 Physical chemistry"
+        ],
+        "http://edamontology.org/topic_3315": [
+          "VT 1.1.99 Other"
+        ],
+        "http://edamontology.org/topic_3316": [
+          "VT 1.2 Computer sciences",
+          "VT 1.2.99 Other"
+        ],
+        "http://edamontology.org/topic_3322": [
+          "VT 3.2.25 Respiratory systems"
+        ],
+        "http://edamontology.org/topic_3324": [
+          "VT 3.3.4 Infectious diseases"
+        ],
+        "http://edamontology.org/topic_3332": [
+          "VT 1.7.4 Computational chemistry"
+        ],
+        "http://edamontology.org/topic_3335": [
+          "VT 3.2.22 Peripheral vascular disease",
+          "VT 3.2.4 Cardiac and Cardiovascular systems"
+        ],
+        "http://edamontology.org/topic_3344": [
+          "VT 3.3 Health sciences"
+        ],
+        "http://edamontology.org/topic_3370": [
+          "VT 1.7.1 Analytical chemistry"
+        ],
+        "http://edamontology.org/topic_3372": [
+          "1.2.12 Programming languages",
+          "Software engineering",
+          "VT 1.2.1 Algorithms",
+          "VT 1.2.14 Software engineering",
+          "VT 1.2.7 Data structures"
+        ],
+        "http://edamontology.org/topic_3384": [
+          "VT 3.2.13 Medical imaging",
+          "VT 3.2.14 Nuclear medicine",
+          "VT 3.2.24 Radiology"
+        ],
+        "http://edamontology.org/topic_3387": [
+          "VT 1.5.18 Marine and Freshwater biology"
+        ],
+        "http://edamontology.org/topic_3390": [
+          "VT 3.3.7 Nutrition and Dietetics"
+        ],
+        "http://edamontology.org/topic_3399": [
+          "VT 3.2.10 Geriatrics and gerontology"
+        ],
+        "http://edamontology.org/topic_3400": [
+          "VT 3.2.1 Allergy"
+        ],
+        "http://edamontology.org/topic_3402": [
+          "VT 3.2.2 Anaesthesiology"
+        ],
+        "http://edamontology.org/topic_3403": [
+          "VT 3.2.5 Critical care/Emergency medicine"
+        ],
+        "http://edamontology.org/topic_3404": [
+          "VT 3.2.7 Dermatology and venereal diseases"
+        ],
+        "http://edamontology.org/topic_3406": [
+          "VT 3.2.20 Otorhinolaryngology"
+        ],
+        "http://edamontology.org/topic_3408": [
+          "VT 3.2.11 Hematology"
+        ],
+        "http://edamontology.org/topic_3409": [
+          "VT 3.2.8 Gastroenterology and hepatology"
+        ],
+        "http://edamontology.org/topic_3411": [
+          "VT 3.2.15 Obstetrics and gynaecology"
+        ],
+        "http://edamontology.org/topic_3416": [
+          "VT 3.2.19 Orthopaedics",
+          "VT 3.2.26 Rheumatology"
+        ],
+        "http://edamontology.org/topic_3417": [
+          "VT 3.2.17 Ophthalmology",
+          "VT 3.2.18 Optometry"
+        ],
+        "http://edamontology.org/topic_3418": [
+          "VT 3.2.21 Paediatrics"
+        ],
+        "http://edamontology.org/topic_3419": [
+          "VT 3.2.23 Psychiatry"
+        ],
+        "http://edamontology.org/topic_3420": [
+          "VT 3.2.3 Andrology"
+        ],
+        "http://edamontology.org/topic_3421": [
+          "VT 3.2.28 Transplantation"
+        ],
+        "http://edamontology.org/topic_3422": [
+          "VT 3.2.29 Urology and nephrology"
+        ],
+        "http://edamontology.org/topic_3423": [
+          "VT 3.2.12 Integrative and Complementary medicine"
+        ],
+        "http://edamontology.org/topic_3473": [
+          "VT 1.3.2 Data mining"
+        ],
+        "http://edamontology.org/topic_3474": [
+          "VT 1.2.2 Artificial Intelligence (expert systems, machine learning, robotics)"
+        ],
+        "http://edamontology.org/topic_3500": [
+          "VT 1.5.29 Zoology"
+        ],
+        "http://edamontology.org/topic_3569": [
+          "VT 1.1.1 Applied mathematics"
+        ],
+        "http://edamontology.org/topic_3570": [
+          "VT 1.1.1 Pure mathematics"
+        ],
+        "http://edamontology.org/topic_3573": [
+          "VT 1.5.18 Marine and Freshwater biology"
+        ],
+        "http://edamontology.org/topic_3574": [
+          "VT 3.1.2 Human genetics"
+        ],
+        "http://edamontology.org/topic_3575": [
+          "VT 3.3.14 Tropical medicine"
+        ],
+        "http://edamontology.org/topic_3576": [
+          "VT 3.3.14 Tropical medicine",
+          "VT 3.4 Medical biotechnology",
+          "VT 3.4.1 Biomedical devices",
+          "VT 3.4.2 Health-related biotechnology"
+        ],
+        "http://edamontology.org/topic_3577": [
+          "VT 3.4.5 Molecular diagnostics"
+        ]
+      },
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "Moby": {
+          "http://edamontology.org/data_0870": "Moby:phylogenetic_distance_matrix",
+          "http://edamontology.org/data_0872": "Moby:Tree",
+          "http://edamontology.org/data_0880": "Moby:RNAStructML",
+          "http://edamontology.org/data_0881": "Moby:RNAStructAlignmentML",
+          "http://edamontology.org/data_0916": "Moby:GeneInfo",
+          "http://edamontology.org/data_0968": "Moby:QueryString",
+          "http://edamontology.org/data_0970": "Moby:GCP_SimpleCitation",
+          "http://edamontology.org/data_1011": "Moby:EC_Number",
+          "http://edamontology.org/data_1025": "Moby:GeneAccessionList",
+          "http://edamontology.org/data_1052": "Moby:Link",
+          "http://edamontology.org/data_1278": "Moby:GeneticMap",
+          "http://edamontology.org/data_1691": "Moby:EmailAddress",
+          "http://edamontology.org/data_1863": "Moby:Haplotyping_Study_obj",
+          "http://edamontology.org/data_1868": "Moby:PotentialTaxon",
+          "http://edamontology.org/data_1872": "Moby:TaxonName",
+          "http://edamontology.org/data_1881": "Moby:Author",
+          "http://edamontology.org/data_1883": "Moby:DescribedLink",
+          "http://edamontology.org/data_1908": "Moby:Tropgene_locus",
+          "http://edamontology.org/data_2012": "Moby:GenePosition",
+          "http://edamontology.org/data_2727": "Moby:GeneAccessionList",
+          "http://edamontology.org/data_2909": "Moby:InfraspecificEpithet"
+        },
+        "Moby_namespace": {
+          "http://edamontology.org/data_0916": "Moby_namespace:Human_Readable_Description",
+          "http://edamontology.org/data_1026": "Moby_namespace:Global_GeneCommonName",
+          "http://edamontology.org/data_1035": "Moby_namespace:GeneDB",
+          "http://edamontology.org/data_1873": "Moby_namespace:iHOPorganism",
+          "http://edamontology.org/data_1885": "Moby_namespace:GENEFARM_GeneID",
+          "http://edamontology.org/data_1886": "Moby_namespace:Blattner_number",
+          "http://edamontology.org/data_1891": "Moby_namespace:iHOPsymbol",
+          "http://edamontology.org/data_1900": "Moby_namespace:LocusID",
+          "http://edamontology.org/data_1902": "Moby_namespace:MMP_Locus",
+          "http://edamontology.org/data_1903": "Moby_namespace:DDB_gene",
+          "http://edamontology.org/data_1904": "Moby_namespace:EntrezGene_ID",
+          "http://edamontology.org/data_1905": "Moby_namespace:MaizeGDB_Locus",
+          "http://edamontology.org/data_1907": "Moby_namespace:GeneId",
+          "http://edamontology.org/data_2007": "Moby_namespace:SP_KW"
+        },
+        "PDBML": {
+          "http://edamontology.org/data_0845": "PDBML:pdbx_formal_charge",
+          "http://edamontology.org/data_1008": "PDBML:pdbx_PDB_strand_id",
+          "http://edamontology.org/data_1016": "PDBML:_atom_site.id",
+          "http://edamontology.org/data_1742": "PDBML:PDB_residue_no",
+          "http://edamontology.org/data_1748": "PDBML:pdbx_PDB_atom_name",
+          "http://edamontology.org/data_1759": "PDBML:pdbx_PDB_model_num",
+          "http://edamontology.org/data_1856": "PDBML:pdbx_PDB_ins_code",
+          "http://edamontology.org/data_2012": "PDBML:_atom_site.id",
+          "http://edamontology.org/data_2626": "PDBML:pdbx_PDB_strand_id"
+        },
+        "WHATIF": {
+          "http://edamontology.org/data_1008": "WHATIF: chain",
+          "http://edamontology.org/data_1016": "WHATIF: number",
+          "http://edamontology.org/data_1742": "WHATIF: pdb_number",
+          "http://edamontology.org/data_1748": "WHATIF: alternate_atom",
+          "http://edamontology.org/data_1758": "WHATIF: type",
+          "http://edamontology.org/data_1759": "WHATIF: model_number",
+          "http://edamontology.org/data_1856": "WHATIF: insertion_code",
+          "http://edamontology.org/data_1857": "WHATIF: PDBx_occupancy",
+          "http://edamontology.org/data_1858": "WHATIF: PDBx_B_iso_or_equiv",
+          "http://edamontology.org/operation_0248": "WHATIF:ListSideChainContactsRelaxed",
+          "http://edamontology.org/operation_0249": "WHATIF:ResidueTorsionsBB",
+          "http://edamontology.org/operation_0321": "WHATIF: CorrectedPDBasXML",
+          "http://edamontology.org/operation_0322": "WHATIF: CorrectedPDBasXML",
+          "http://edamontology.org/operation_0384": "WHATIF:AtomAccessibilitySolventPlus",
+          "http://edamontology.org/operation_0387": "WHATIF:ResidueAccessibilityMolecular",
+          "http://edamontology.org/operation_0394": "WHATIF:ShowHydrogenBondsM",
+          "http://edamontology.org/operation_1812": "WHATIF:UploadPDB",
+          "http://edamontology.org/operation_1816": "WHATIF:GetSurfaceDots",
+          "http://edamontology.org/operation_1829": "WHATIF:ShowCysteineBridge",
+          "http://edamontology.org/operation_1830": "WHATIF:ShowCysteineFree",
+          "http://edamontology.org/operation_1831": "WHATIF:ShowCysteineMetal",
+          "http://edamontology.org/operation_1836": "WHATIF:ShowBumps",
+          "http://edamontology.org/operation_1839": "WHATIF:ShowSaltBridges",
+          "http://edamontology.org/operation_1843": "WHATIF: PackingQuality",
+          "http://edamontology.org/operation_1844": "WHATIF: ImproperQualityMax",
+          "http://edamontology.org/operation_2950": "WHATIF:HasNegativeIonContactsPlus"
+        }
+      }
+    }
+  }
+}

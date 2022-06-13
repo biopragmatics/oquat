@@ -35,6 +35,13 @@
 | MTH:587     |        1 | [EFO:1002023](http://www.ebi.ac.uk/efo/EFO_1002023)                                                                                                                                                                                                                          |
 | MTH:217     |        1 | [EFO:0003894](http://www.ebi.ac.uk/efo/EFO_0003894)                                                                                                                                                                                                                          |
 
+## epso
+
+| curie       |   usages | nodes                                                 |
+|-------------|----------|-------------------------------------------------------|
+| MTH:516     |        1 | [DOID:574](http://purl.obolibrary.org/obo/DOID_574)   |
+| MTH:U002054 |        1 | [DOID:9074](http://purl.obolibrary.org/obo/DOID_9074) |
+
 ## mondo
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                                                                          |

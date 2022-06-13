@@ -85,14 +85,14 @@ did not match the standard pattern `^\d+$`.
 
 ## `RGD`: Rat Genome Database
 
-Overall, there were 333 invalid
+Overall, there were 334 invalid
 xrefs to external prefixed with `RGD` (standardized to Bioregistry
 prefix [`rgd`](https://bioregistry.io/rgd)) that
 did not match the standard pattern `^\d{4,}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `RGD:cur`       |            198 | [VT:0002871](http://purl.obolibrary.org/obo/VT_0002871), [VT:0002928](http://purl.obolibrary.org/obo/VT_0002928), [VT:0002929](http://purl.obolibrary.org/obo/VT_0002929), [VT:0002932](http://purl.obolibrary.org/obo/VT_0002932), [VT:0003015](http://purl.obolibrary.org/obo/VT_0003015), ... |
+| `RGD:cur`       |            199 | [VT:0002871](http://purl.obolibrary.org/obo/VT_0002871), [VT:0002928](http://purl.obolibrary.org/obo/VT_0002928), [VT:0002929](http://purl.obolibrary.org/obo/VT_0002929), [VT:0002932](http://purl.obolibrary.org/obo/VT_0002932), [VT:0003015](http://purl.obolibrary.org/obo/VT_0003015), ... |
 | `RGD:MS`        |             62 | [VT:0000073](http://purl.obolibrary.org/obo/VT_0000073), [VT:0000222](http://purl.obolibrary.org/obo/VT_0000222), [VT:0000524](http://purl.obolibrary.org/obo/VT_0000524), [VT:0000535](http://purl.obolibrary.org/obo/VT_0000535), [VT:0000544](http://purl.obolibrary.org/obo/VT_0000544), ... |
 | `RGD:dhm`       |             55 | [VT:0000050](http://purl.obolibrary.org/obo/VT_0000050), [VT:0000066](http://purl.obolibrary.org/obo/VT_0000066), [VT:0000153](http://purl.obolibrary.org/obo/VT_0000153), [VT:0000154](http://purl.obolibrary.org/obo/VT_0000154), [VT:0000170](http://purl.obolibrary.org/obo/VT_0000170), ... |
 | `RGD:ms`        |             18 | [VT:0002128](http://purl.obolibrary.org/obo/VT_0002128), [VT:0002295](http://purl.obolibrary.org/obo/VT_0002295), [VT:0002504](http://purl.obolibrary.org/obo/VT_0002504), [VT:0002726](http://purl.obolibrary.org/obo/VT_0002726), [VT:0002792](http://purl.obolibrary.org/obo/VT_0002792), ... |

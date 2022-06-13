@@ -1,27 +1,30 @@
 # po
 
-## `APweb` (1)
+## `APweb`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20APweb)
+There are 1 usages of `APweb` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20APweb).
 
 | curie          |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | APweb:Glossary |       75 | [PO:0001081](http://purl.obolibrary.org/obo/PO_0001081), [PO:0001180](http://purl.obolibrary.org/obo/PO_0001180), [PO:0003024](http://purl.obolibrary.org/obo/PO_0003024), [PO:0004701](http://purl.obolibrary.org/obo/PO_0004701), [PO:0004702](http://purl.obolibrary.org/obo/PO_0004702), ... |
 
-## `CGP` (1)
+## `CGP`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CGP)
+There are 1 usages of `CGP` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CGP).
 
 | curie        |   usages | nodes                                                   |
 |--------------|----------|---------------------------------------------------------|
 | CGP:curators |        1 | [PO:0025600](http://purl.obolibrary.org/obo/PO_0025600) |
 
-## `FNA` (100)
+## `FNA`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FNA)
+There are 100 usages of `FNA` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FNA).
 
 <details>
 <summary>Click to expand the `FNA` table</summary>
@@ -131,19 +134,21 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `GOC` (1)
+## `GOC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC)
+There are 1 usages of `GOC` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie       |   usages | nodes                                                   |
 |-------------|----------|---------------------------------------------------------|
 | GOC:0097207 |        1 | [PO:0025529](http://purl.obolibrary.org/obo/PO_0025529) |
 
-## `Gramene` (3)
+## `Gramene`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gramene)
+There are 3 usages of `Gramene` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gramene).
 
 | curie                  |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -151,49 +156,54 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | Gramene:Anuradha_Pujar |      123 | [PO:0001000](http://purl.obolibrary.org/obo/PO_0001000), [PO:0001027](http://purl.obolibrary.org/obo/PO_0001027), [PO:0001028](http://purl.obolibrary.org/obo/PO_0001028), [PO:0001030](http://purl.obolibrary.org/obo/PO_0001030), [PO:0001047](http://purl.obolibrary.org/obo/PO_0001047), ... |
 | Gramene:Chih-Wei_Tung  |       33 | [PO:0002004](http://purl.obolibrary.org/obo/PO_0002004), [PO:0005008](http://purl.obolibrary.org/obo/PO_0005008), [PO:0007039](http://purl.obolibrary.org/obo/PO_0007039), [PO:0007056](http://purl.obolibrary.org/obo/PO_0007056), [PO:0007058](http://purl.obolibrary.org/obo/PO_0007058), ... |
 
-## `ISRR` (1)
+## `ISRR`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ISRR)
+There are 1 usages of `ISRR` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ISRR).
 
 | curie              |   usages | nodes                                                                                                            |
 |--------------------|----------|------------------------------------------------------------------------------------------------------------------|
 | ISRR:Richard_Zobel |        2 | [PO:0020121](http://purl.obolibrary.org/obo/PO_0020121), [PO:0025495](http://purl.obolibrary.org/obo/PO_0025495) |
 
-## `MaizeGDB_curator` (2)
+## `MaizeGDB_curator`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MaizeGDB_curator)
+There are 2 usages of `MaizeGDB_curator` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MaizeGDB_curator).
 
 | curie                           |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |---------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MaizeGDB_curator:Leszek_Vincent |       13 | [PO:0006339](http://purl.obolibrary.org/obo/PO_0006339), [PO:0006340](http://purl.obolibrary.org/obo/PO_0006340), [PO:0009067](http://purl.obolibrary.org/obo/PO_0009067), [PO:0009101](http://purl.obolibrary.org/obo/PO_0009101), [PO:0009102](http://purl.obolibrary.org/obo/PO_0009102), ... |
 | MaizeGDB_curator:Mary_Schaeffer |        3 | [PO:0007032](http://purl.obolibrary.org/obo/PO_0007032), [PO:0007041](http://purl.obolibrary.org/obo/PO_0007041), [PO:0007047](http://purl.obolibrary.org/obo/PO_0007047)                                                                                                                        |
 
-## `NYBG` (2)
+## `NYBG`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NYBG)
+There are 2 usages of `NYBG` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NYBG).
 
 | curie                |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |----------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | NYBG:Dario_Cavaliere |       22 | [PO:0009001](http://purl.obolibrary.org/obo/PO_0009001), [PO:0030091](http://purl.obolibrary.org/obo/PO_0030091), [PO:0030092](http://purl.obolibrary.org/obo/PO_0030092), [PO:0030093](http://purl.obolibrary.org/obo/PO_0030093), [PO:0030094](http://purl.obolibrary.org/obo/PO_0030094), ... |
 | NYBG:Brandon_Sinn    |        9 | [PO:0025112](http://purl.obolibrary.org/obo/PO_0025112), [PO:0025113](http://purl.obolibrary.org/obo/PO_0025113), [PO:0025114](http://purl.obolibrary.org/obo/PO_0025114), [PO:0025115](http://purl.obolibrary.org/obo/PO_0025115), [PO:0025116](http://purl.obolibrary.org/obo/PO_0025116), ... |
 
-## `POC` (2)
+## `POC`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20POC)
+There are 2 usages of `POC` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20POC).
 
 | curie                        |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | POC:Maria_Alejandra_Gandolfo |     1348 | [PO:0000001](http://purl.obolibrary.org/obo/PO_0000001), [PO:0000002](http://purl.obolibrary.org/obo/PO_0000002), [PO:0000003](http://purl.obolibrary.org/obo/PO_0000003), [PO:0000004](http://purl.obolibrary.org/obo/PO_0000004), [PO:0000005](http://purl.obolibrary.org/obo/PO_0000005), ... |
 | POC:curators                 |        9 | [PO:0000007](http://purl.obolibrary.org/obo/PO_0000007), [PO:0025253](http://purl.obolibrary.org/obo/PO_0025253), [PO:0025254](http://purl.obolibrary.org/obo/PO_0025254), [PO:0025255](http://purl.obolibrary.org/obo/PO_0025255), [PO:0025401](http://purl.obolibrary.org/obo/PO_0025401), ... |
 
-## `PO_REF` (3)
+## `PO_REF`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PO_REF)
+There are 3 usages of `PO_REF` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PO_REF).
 
 | curie        |   usages | nodes                                                                                                            |
 |--------------|----------|------------------------------------------------------------------------------------------------------------------|
@@ -201,28 +211,31 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | PO_REF:00013 |        2 | [PO:0007014](http://purl.obolibrary.org/obo/PO_0007014), [PO:0007057](http://purl.obolibrary.org/obo/PO_0007057) |
 | PO_REF:00004 |        2 | [PO:0025053](http://purl.obolibrary.org/obo/PO_0025053), [PO:0025057](http://purl.obolibrary.org/obo/PO_0025057) |
 
-## `PO_Ref` (1)
+## `PO_Ref`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PO_Ref)
+There are 1 usages of `PO_Ref` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PO_Ref).
 
 | curie        |   usages | nodes                                                   |
 |--------------|----------|---------------------------------------------------------|
 | PO_Ref:00010 |        1 | [PO:0025386](http://purl.obolibrary.org/obo/PO_0025386) |
 
-## `Poc` (1)
+## `Poc`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Poc)
+There are 1 usages of `Poc` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Poc).
 
 | curie        |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |--------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Poc:curators |       22 | [PO:0006319](http://purl.obolibrary.org/obo/PO_0006319), [PO:0006344](http://purl.obolibrary.org/obo/PO_0006344), [PO:0007010](http://purl.obolibrary.org/obo/PO_0007010), [PO:0007035](http://purl.obolibrary.org/obo/PO_0007035), [PO:0007042](http://purl.obolibrary.org/obo/PO_0007042), ... |
 
-## `TAIR_curator` (4)
+## `TAIR_curator`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TAIR_curator)
+There are 4 usages of `TAIR_curator` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TAIR_curator).
 
 | curie                        |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -231,20 +244,22 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | TAIR_curator:Tanya_Berardini |        3 | [PO:0001050](http://purl.obolibrary.org/obo/PO_0001050), [PO:0001054](http://purl.obolibrary.org/obo/PO_0001054), [PO:0025499](http://purl.obolibrary.org/obo/PO_0025499)                                                                                                                        |
 | TAIR_curator:Donghui_Li      |        3 | [PO:0005013](http://purl.obolibrary.org/obo/PO_0005013), [PO:0005014](http://purl.obolibrary.org/obo/PO_0005014), [PO:0005021](http://purl.obolibrary.org/obo/PO_0005021)                                                                                                                        |
 
-## `UMSL_curator` (2)
+## `UMSL_curator`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UMSL_curator)
+There are 2 usages of `UMSL_curator` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UMSL_curator).
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |-----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | UMSL_curator:fz |        5 | [PO:0006341](http://purl.obolibrary.org/obo/PO_0006341), [PO:0020059](http://purl.obolibrary.org/obo/PO_0020059), [PO:0020137](http://purl.obolibrary.org/obo/PO_0020137), [PO:0020147](http://purl.obolibrary.org/obo/PO_0020147), [PO:0020148](http://purl.obolibrary.org/obo/PO_0020148), ... |
 | UMSL_curator:tk |        3 | [PO:0009040](http://purl.obolibrary.org/obo/PO_0009040), [PO:0009041](http://purl.obolibrary.org/obo/PO_0009041), [PO:0020054](http://purl.obolibrary.org/obo/PO_0020054)                                                                                                                        |
 
-## `CO_125` (7)
+## `CO_125`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CO_125)
+There are 7 usages of `CO_125` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CO_125).
 
 | curie          |   usages | nodes                                                   |
 |----------------|----------|---------------------------------------------------------|
@@ -256,29 +271,32 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | CO_125:0000012 |        1 | [PO:0025239](http://purl.obolibrary.org/obo/PO_0025239) |
 | CO_125:0000046 |        1 | [PO:0025248](http://purl.obolibrary.org/obo/PO_0025248) |
 
-## `Maize` (2)
+## `Maize`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Maize)
+There are 2 usages of `Maize` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Maize).
 
 | curie       |   usages | nodes                                                   |
 |-------------|----------|---------------------------------------------------------|
 | Maize:67353 |        1 | [PO:0007094](http://purl.obolibrary.org/obo/PO_0007094) |
 | Maize:25331 |        1 | [PO:0007106](http://purl.obolibrary.org/obo/PO_0007106) |
 
-## `NIG` (1)
+## `NIG`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIG)
+There are 1 usages of `NIG` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIG).
 
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |---------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | NIG:Yukiko_Yamazaki |     1376 | [PO:0000001](http://purl.obolibrary.org/obo/PO_0000001), [PO:0000002](http://purl.obolibrary.org/obo/PO_0000002), [PO:0000003](http://purl.obolibrary.org/obo/PO_0000003), [PO:0000004](http://purl.obolibrary.org/obo/PO_0000004), [PO:0000005](http://purl.obolibrary.org/obo/PO_0000005), ... |
 
-## `PO_GIT` (422)
+## `PO_GIT`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PO_GIT)
+There are 422 usages of `PO_GIT` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PO_GIT).
 
 <details>
 <summary>Click to expand the `PO_GIT` table</summary>
@@ -710,10 +728,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `SOY` (80)
+## `SOY`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SOY)
+There are 80 usages of `SOY` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SOY).
 
 <details>
 <summary>Click to expand the `SOY` table</summary>
@@ -803,10 +822,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `TAIR` (33)
+## `TAIR`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TAIR)
+There are 33 usages of `TAIR` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TAIR).
 
 <details>
 <summary>Click to expand the `TAIR` table</summary>
@@ -849,19 +869,21 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `GO_GIT` (1)
+## `GO_GIT`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GO_GIT)
+There are 1 usages of `GO_GIT` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GO_GIT).
 
 | curie        |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |--------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | GO_GIT:10340 |        5 | [PO:0025535](http://purl.obolibrary.org/obo/PO_0025535), [PO:0025537](http://purl.obolibrary.org/obo/PO_0025537), [PO:0025549](http://purl.obolibrary.org/obo/PO_0025549), [PO:0025550](http://purl.obolibrary.org/obo/PO_0025550), [PO:0025551](http://purl.obolibrary.org/obo/PO_0025551), ... |
 
-## `OBO-SF2_PO` (9)
+## `OBO-SF2_PO`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBO-SF2_PO)
+There are 9 usages of `OBO-SF2_PO` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBO-SF2_PO).
 
 | curie          |   usages | nodes                                                                                                                                                                     |
 |----------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -875,56 +897,62 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | OBO-SF2_PO:545 |        1 | [PO:0025577](http://purl.obolibrary.org/obo/PO_0025577)                                                                                                                   |
 | OBO-SF2_PO:139 |        1 | [PO:0028003](http://purl.obolibrary.org/obo/PO_0028003)                                                                                                                   |
 
-## `OBO-SF_PO` (1)
+## `OBO-SF_PO`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBO-SF_PO)
+There are 1 usages of `OBO-SF_PO` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBO-SF_PO).
 
 | curie             |   usages | nodes                                                   |
 |-------------------|----------|---------------------------------------------------------|
 | OBO-SF_PO:3438986 |        1 | [PO:0025392](http://purl.obolibrary.org/obo/PO_0025392) |
 
-## `OBOS_SF_PO` (2)
+## `OBOS_SF_PO`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBOS_SF_PO)
+There are 2 usages of `OBOS_SF_PO` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBOS_SF_PO).
 
 | curie              |   usages | nodes                                                   |
 |--------------------|----------|---------------------------------------------------------|
 | OBOS_SF_PO:3481640 |        1 | [PO:0009110](http://purl.obolibrary.org/obo/PO_0009110) |
 | OBOS_SF_PO:3234956 |        1 | [PO:0030082](http://purl.obolibrary.org/obo/PO_0030082) |
 
-## `OBO_PO_SF` (1)
+## `OBO_PO_SF`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBO_PO_SF)
+There are 1 usages of `OBO_PO_SF` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBO_PO_SF).
 
 | curie             |   usages | nodes                                                   |
 |-------------------|----------|---------------------------------------------------------|
 | OBO_PO_SF:3293297 |        1 | [PO:0030077](http://purl.obolibrary.org/obo/PO_0030077) |
 
-## `OBO_SF3_PO` (1)
+## `OBO_SF3_PO`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBO_SF3_PO)
+There are 1 usages of `OBO_SF3_PO` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBO_SF3_PO).
 
 | curie          |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | OBO_SF3_PO:433 |        5 | [PO:0005043](http://purl.obolibrary.org/obo/PO_0005043), [PO:0005417](http://purl.obolibrary.org/obo/PO_0005417), [PO:0006075](http://purl.obolibrary.org/obo/PO_0006075), [PO:0006076](http://purl.obolibrary.org/obo/PO_0006076), [PO:0006077](http://purl.obolibrary.org/obo/PO_0006077), ... |
 
-## `OB_SF2_PO` (1)
+## `OB_SF2_PO`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OB_SF2_PO)
+There are 1 usages of `OB_SF2_PO` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OB_SF2_PO).
 
 | curie        |   usages | nodes                                                   |
 |--------------|----------|---------------------------------------------------------|
 | OB_SF2_PO:50 |        1 | [PO:0000036](http://purl.obolibrary.org/obo/PO_0000036) |
 
-## `OB_SF_PO` (3)
+## `OB_SF_PO`
 
-If you are knowledgable about this prefix, consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OB_SF_PO)
+There are 3 usages of `OB_SF_PO` in `po`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OB_SF_PO).
 
 | curie            |   usages | nodes                                                                                                                                                                     |
 |------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

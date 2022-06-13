@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `wikipedia.en`
 but use local unique identifiers that do not match the standard pattern of
-`^[A-Za-z-0-9_]+$`. Of the 20 resources,
+`^[A-Za-z-0-9_]+$`. Of the 23 resources,
 2 variants on the standard prefix were found: ['Wikipedia', 'wikipedia'].
 
 ## `bao`: BioAssay Ontology
@@ -92,6 +92,7 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `Wikipedia:Titanium(III)_oxide`                                                             |              1 | [CHEBI:134436](http://purl.obolibrary.org/obo/CHEBI_134436)                                                                                                                                                                                                                                                    |
 | `Wikipedia:Titanium(II)_oxide`                                                              |              1 | [CHEBI:134455](http://purl.obolibrary.org/obo/CHEBI_134455)                                                                                                                                                                                                                                                    |
 | `Wikipedia:Fluciclovine_(18F)`                                                              |              1 | [CHEBI:134703](http://purl.obolibrary.org/obo/CHEBI_134703)                                                                                                                                                                                                                                                    |
+| `Wikipedia:Tin(II)_fluoride`                                                                |              1 | [CHEBI:135933](http://purl.obolibrary.org/obo/CHEBI_135933)                                                                                                                                                                                                                                                    |
 | `Wikipedia:VX_(nerve_agent)`                                                                |              1 | [CHEBI:136185](http://purl.obolibrary.org/obo/CHEBI_136185)                                                                                                                                                                                                                                                    |
 | `Wikipedia:3,4-dimethoxyphenethylamine`                                                     |              1 | [CHEBI:136995](http://purl.obolibrary.org/obo/CHEBI_136995)                                                                                                                                                                                                                                                    |
 | `Wikipedia:Receptor_protein_serine/threonine_kinase`                                        |              1 | [CHEBI:137123](http://purl.obolibrary.org/obo/CHEBI_137123)                                                                                                                                                                                                                                                    |
@@ -172,8 +173,9 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `Wikipedia:https://en.wikipedia.org/wiki/Thiazoline`                                        |              1 | [CHEBI:188451](http://purl.obolibrary.org/obo/CHEBI_188451)                                                                                                                                                                                                                                                    |
 | `Wikipedia:https://www.sciencedirect.com/science/article/pii/S004040391830193X?via%3Dihub`  |              1 | [CHEBI:189070](http://purl.obolibrary.org/obo/CHEBI_189070)                                                                                                                                                                                                                                                    |
 | `Wikipedia:1,3-dichloropropene`                                                             |              1 | [CHEBI:18918](http://purl.obolibrary.org/obo/CHEBI_18918)                                                                                                                                                                                                                                                      |
-| `Wikipedia:https://en.wikipedia.org/wiki/Calcium_silicate`                                  |              1 | [CHEBI:190294](http://purl.obolibrary.org/obo/CHEBI_190294)                                                                                                                                                                                                                                                    |
-| `Wikipedia:https://en.wikipedia.org/wiki/Calcium_stearate`                                  |              1 | [CHEBI:190296](http://purl.obolibrary.org/obo/CHEBI_190296)                                                                                                                                                                                                                                                    |
+| `Wikipedia:2,3,5-Trimethylpyrazine`                                                         |              1 | [CHEBI:190131](http://purl.obolibrary.org/obo/CHEBI_190131)                                                                                                                                                                                                                                                    |
+| `Wikipedia:Estradiol_17%CE%B2-sulfate`                                                      |              1 | [CHEBI:191192](http://purl.obolibrary.org/obo/CHEBI_191192)                                                                                                                                                                                                                                                    |
+| `Wikipedia:Arachidonyl-2'-chloroethylamide`                                                 |              1 | [CHEBI:191854](http://purl.obolibrary.org/obo/CHEBI_191854)                                                                                                                                                                                                                                                    |
 | `Wikipedia:Cofactor_(biochemistry)`                                                         |              1 | [CHEBI:23357](http://purl.obolibrary.org/obo/CHEBI_23357)                                                                                                                                                                                                                                                      |
 | `Wikipedia:Cyclohexane-1,2-diol`                                                            |              1 | [CHEBI:24567](http://purl.obolibrary.org/obo/CHEBI_24567)                                                                                                                                                                                                                                                      |
 | `Wikipedia:3,4-Dihydroxymandelic_acid`                                                      |              1 | [CHEBI:27637](http://purl.obolibrary.org/obo/CHEBI_27637)                                                                                                                                                                                                                                                      |
@@ -429,6 +431,35 @@ Identifiers for this prefix are given incorrectly in `cmpo`.
 | `Wikipedia:Transcription_(genetics)`                               |              1 | [GO:0006351](http://purl.obolibrary.org/obo/GO_0006351)                                                                                                                                        |
 | `Wikipedia:Vesicle_(biology)`                                      |              1 | [GO:0031982](http://purl.obolibrary.org/obo/GO_0031982)                                                                                                                                        |
 
+## `covid19`: COVID-19 Ontology
+
+Identifiers for this prefix are given incorrectly in `covid19`.
+
+| external_xref                                 |   usages_count | usages                                                    |
+|-----------------------------------------------|----------------|-----------------------------------------------------------|
+| `Wikipedia:Protease_inhibitor_(pharmacology)` |              1 | [CHEBI:35660](http://purl.obolibrary.org/obo/CHEBI_35660) |
+| `Wikipedia:Ligand_(biochemistry)`             |              1 | [GO:0005102](http://purl.obolibrary.org/obo/GO_0005102)   |
+| `Wikipedia:Autophagy_(cellular)`              |              1 | [GO:0006914](http://purl.obolibrary.org/obo/GO_0006914)   |
+| `Wikipedia:Host_(biology)`                    |              1 | [GO:0018995](http://purl.obolibrary.org/obo/GO_0018995)   |
+| `Wikipedia:Midbody_(cell_biology)`            |              1 | [GO:0030496](http://purl.obolibrary.org/obo/GO_0030496)   |
+| `Wikipedia:Regeneration_(biology)`            |              1 | [GO:0031099](http://purl.obolibrary.org/obo/GO_0031099)   |
+
+## `dto`: Drug Target Ontology
+
+Identifiers for this prefix are given incorrectly in `dto`. See the [GitHub repository](https://github.com/DrugTargetOntology/DTO).
+
+| external_xref                       |   usages_count | usages                                                    |
+|-------------------------------------|----------------|-----------------------------------------------------------|
+| `Wikipedia:Adenosine triphosphate`  |              1 | [CHEBI:15422](http://purl.obolibrary.org/obo/CHEBI_15422) |
+| `Wikipedia:Prostaglandin D2`        |              1 | [CHEBI:15555](http://purl.obolibrary.org/obo/CHEBI_15555) |
+| `Wikipedia:Uridine triphosphate`    |              1 | [CHEBI:15713](http://purl.obolibrary.org/obo/CHEBI_15713) |
+| `Wikipedia:Succinic acid`           |              1 | [CHEBI:15741](http://purl.obolibrary.org/obo/CHEBI_15741) |
+| `Wikipedia:Chenodeoxycholic acid`   |              1 | [CHEBI:16755](http://purl.obolibrary.org/obo/CHEBI_16755) |
+| `Wikipedia:Leukotriene C4`          |              1 | [CHEBI:16978](http://purl.obolibrary.org/obo/CHEBI_16978) |
+| `Wikipedia:3-Hydroxybutyric acid`   |              1 | [CHEBI:20067](http://purl.obolibrary.org/obo/CHEBI_20067) |
+| `Wikipedia:Sphingosine 1-phosphate` |              1 | [CHEBI:37550](http://purl.obolibrary.org/obo/CHEBI_37550) |
+| `Wikipedia:Angiotensin II`          |              1 | [CHEBI:48432](http://purl.obolibrary.org/obo/CHEBI_48432) |
+
 ## `efo`: Experimental Factor Ontology
 
 Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
@@ -483,6 +514,14 @@ Identifiers for this prefix are given incorrectly in `enm`.
 | `Wikipedia:http://en.wikipedia.org/wiki/Specific_volume`       |              1 | [PATO:0001679](http://purl.obolibrary.org/obo/PATO_0001679)                                 |
 | `Wikipedia:http://en.wikipedia.org/wiki/Molar_volume`          |              1 | [PATO:0001680](http://purl.obolibrary.org/obo/PATO_0001680)                                 |
 | `Wikipedia:http://en.wikipedia.org/wiki/Perimeter`             |              1 | [PATO:0001711](http://purl.obolibrary.org/obo/PATO_0001711)                                 |
+
+## `epso`: Epilepsy and Seizure Ontology
+
+Identifiers for this prefix are given incorrectly in `epso`.
+
+| external_xref                        |   usages_count | usages                                                  |
+|--------------------------------------|----------------|---------------------------------------------------------|
+| `Wikipedia:Erection#Penile_erection` |              1 | [GO:0043084](http://purl.obolibrary.org/obo/GO_0043084) |
 
 ## `fbbi`: Biological Imaging Methods Ontology
 

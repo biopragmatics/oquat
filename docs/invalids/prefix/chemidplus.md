@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `chemidplus`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+\-\d+\-\d+$`. Of the 1 resources,
+`^\d+\-\d+\-\d+$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['ChemIDplus'].
 
 ## `chebi`: Chemical Entities of Biological Interest
@@ -46,4 +46,12 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `ChemIDplus:0050439684` |              1 | [CHEBI:70074](http://purl.obolibrary.org/obo/CHEBI_70074)   |
 | `ChemIDplus:0123871272` |              1 | [CHEBI:70426](http://purl.obolibrary.org/obo/CHEBI_70426)   |
 | `ChemIDplus:0006835990` |              1 | [CHEBI:70504](http://purl.obolibrary.org/obo/CHEBI_70504)   |
+
+## `dto`: Drug Target Ontology
+
+Identifiers for this prefix are given incorrectly in `dto`. See the [GitHub repository](https://github.com/DrugTargetOntology/DTO).
+
+| external_xref        |   usages_count | usages                                                    |
+|----------------------|----------------|-----------------------------------------------------------|
+| `ChemIDplus:1764436` |              1 | [CHEBI:15355](http://purl.obolibrary.org/obo/CHEBI_15355) |
 

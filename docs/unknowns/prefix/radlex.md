@@ -9,3 +9,9 @@
 | RadLex:RID6449 |        1 | [UBERON:0035933](http://purl.obolibrary.org/obo/UBERON_0035933) |
 | RadLex:RID6708 |        1 | [UBERON:0035939](http://purl.obolibrary.org/obo/UBERON_0035939) |
 
+## epso
+
+| curie          |   usages | nodes                                                           |
+|----------------|----------|-----------------------------------------------------------------|
+| RadLex:RID6449 |        1 | [UBERON:0035933](http://purl.obolibrary.org/obo/UBERON_0035933) |
+

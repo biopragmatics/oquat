@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `so`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 10 resources,
+`^\d{7}$`. Of the 11 resources,
 1 variants on the standard prefix were found: ['SO'].
 
 ## `bs`: Biosapiens Protein Feature Ontology
@@ -69,6 +69,14 @@ Identifiers for this prefix are given incorrectly in `hom`. See the [GitHub repo
 | `SO:homologous_to`             |              1 | [HOM:0000007](http://purl.obolibrary.org/obo/HOM_0000007)                                                            |
 | `SO:paralogous_to`             |              1 | [HOM:0000011](http://purl.obolibrary.org/obo/HOM_0000011)                                                            |
 | `SO:orthologous_to`            |              1 | [HOM:0000017](http://purl.obolibrary.org/obo/HOM_0000017)                                                            |
+
+## `icdo`: International Classification of Diseases for Oncology
+
+Identifiers for this prefix are given incorrectly in `icdo`.
+
+| external_xref   |   usages_count | usages                                                        |
+|-----------------|----------------|---------------------------------------------------------------|
+| `SO:similar_to` |              1 | [RO:HOM0000000](http://purl.obolibrary.org/obo/RO_HOM0000000) |
 
 ## `ro`: Relation Ontology
 

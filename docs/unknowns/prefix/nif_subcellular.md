@@ -35,6 +35,32 @@
 | NIF_Subcellular:FMA_83606            |        1 | [UBERON:0012456](http://purl.obolibrary.org/obo/UBERON_0012456) |
 | NIF_Subcellular:nlx_subcell_100209   |        1 | [UBERON:0018687](http://purl.obolibrary.org/obo/UBERON_0018687) |
 
+## covid19
+
+| curie                                |   usages | nodes                                                   |
+|--------------------------------------|----------|---------------------------------------------------------|
+| NIF_Subcellular:sao1337158144        |        1 | [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) |
+| NIF_Subcellular:sao1289741256        |        1 | [GO:0005741](http://purl.obolibrary.org/obo/GO_0005741) |
+| NIF_Subcellular:sao1371347282        |        1 | [GO:0005743](http://purl.obolibrary.org/obo/GO_0005743) |
+| NIF_Subcellular:sao1804523077        |        1 | [GO:0005759](http://purl.obolibrary.org/obo/GO_0005759) |
+| NIF_Subcellular:sao1140587416        |        1 | [GO:0005766](http://purl.obolibrary.org/obo/GO_0005766) |
+| NIF_Subcellular:nlx_subcell_20090701 |        1 | [GO:0005769](http://purl.obolibrary.org/obo/GO_0005769) |
+| NIF_Subcellular:nlx_subcell_20090702 |        1 | [GO:0005770](http://purl.obolibrary.org/obo/GO_0005770) |
+| NIF_Subcellular:sao1429207766        |        1 | [GO:0005840](http://purl.obolibrary.org/obo/GO_0005840) |
+| NIF_Subcellular:sao1038025871        |        1 | [GO:0005844](http://purl.obolibrary.org/obo/GO_0005844) |
+| NIF_Subcellular:sao1846835077        |        1 | [GO:0005874](http://purl.obolibrary.org/obo/GO_0005874) |
+| NIF_Subcellular:sao1969557946        |        1 | [GO:0005905](http://purl.obolibrary.org/obo/GO_0005905) |
+| NIF_Subcellular:sao1939999134        |        1 | [GO:0005923](http://purl.obolibrary.org/obo/GO_0005923) |
+| NIF_Subcellular:sao978443756         |        1 | [GO:0010008](http://purl.obolibrary.org/obo/GO_0010008) |
+| NIF_Subcellular:sao1196688972        |        1 | [GO:0014069](http://purl.obolibrary.org/obo/GO_0014069) |
+| NIF_Subcellular:sao1985096626        |        1 | [GO:0030135](http://purl.obolibrary.org/obo/GO_0030135) |
+| NIF_Subcellular:sao148845161         |        1 | [GO:0030136](http://purl.obolibrary.org/obo/GO_0030136) |
+| NIF_Subcellular:sao1362520468        |        1 | [GO:0030139](http://purl.obolibrary.org/obo/GO_0030139) |
+| NIF_Subcellular:sao1687101204        |        1 | [GO:0031965](http://purl.obolibrary.org/obo/GO_0031965) |
+| NIF_Subcellular:sao797538226         |        1 | [GO:0031983](http://purl.obolibrary.org/obo/GO_0031983) |
+| NIF_Subcellular:sao1243595998        |        1 | [GO:0045334](http://purl.obolibrary.org/obo/GO_0045334) |
+| NIF_Subcellular:sao273773228         |        1 | [GO:0097440](http://purl.obolibrary.org/obo/GO_0097440) |
+
 ## go
 
 | curie                                |   usages | nodes                                                                                                            |

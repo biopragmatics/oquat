@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `gmelin`
 but use local unique identifiers that do not match the standard pattern of
-`^[1-9][0-9]{3,6}$`. Of the 3 resources,
+`^[1-9][0-9]{3,6}$`. Of the 4 resources,
 1 variants on the standard prefix were found: ['Gmelin'].
 
 ## `chebi`: Chemical Entities of Biological Interest
@@ -181,6 +181,15 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `Gmelin:973`    |              1 | [CHEBI:51492](http://purl.obolibrary.org/obo/CHEBI_51492) |
 | `Gmelin:276`    |              1 | [CHEBI:51707](http://purl.obolibrary.org/obo/CHEBI_51707) |
 | `Gmelin:917`    |              1 | [CHEBI:7438](http://purl.obolibrary.org/obo/CHEBI_7438)   |
+
+## `covid19`: COVID-19 Ontology
+
+Identifiers for this prefix are given incorrectly in `covid19`.
+
+| external_xref   |   usages_count | usages                                                    |
+|-----------------|----------------|-----------------------------------------------------------|
+| `Gmelin:509`    |              1 | [CHEBI:16240](http://purl.obolibrary.org/obo/CHEBI_16240) |
+| `Gmelin:451`    |              1 | [CHEBI:16480](http://purl.obolibrary.org/obo/CHEBI_16480) |
 
 ## `enm`: eNanoMapper Ontology
 
