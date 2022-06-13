@@ -186,7 +186,9 @@ def analyze_by_prefix(
             messages=parse_results.messages,
         )
     return AnalysisResults(
-        results=analyze_graphs(parse_results.graph_document, iri_filter=iri_filter),
+        results=analyze_graphs(
+            parse_results.graph_document, iri_filter=iri_filter, iri=parse_results.iri
+        ),
         messages=parse_results.messages,
     )
 
@@ -211,7 +213,7 @@ def analyze_by_iri(iri: str, *, iri_filter: Optional[str] = None) -> AnalysisRes
         secho(f"Output from parsing {iri}", fg="blue")
         secho("\n".join(parse_results.messages), fg="blue")
     return AnalysisResults(
-        results=analyze_graphs(parse_results.graphs, iri_filter=iri_filter),
+        results=analyze_graphs(parse_results.graphs, iri_filter=iri_filter, iri=iri),
         messages=parse_results.messages,
     )
 
@@ -221,11 +223,23 @@ class MissingGraphIRI(KeyError):
 
 
 def analyze_graphs(
-    graph_document: GraphDocument, *, iri_filter: Optional[str] = None
+    graph_document: GraphDocument,
+    *,
+    iri_filter: Optional[str] = None,
+    iri: Optional[str] = None,
 ) -> Dict[str, Results]:
     """Analyze an ontology that's pre-parsed into an OBO graph."""
-    it = (analyze_graph(graph, iri_filter=iri_filter) for graph in graph_document.graphs)
-    return {results.graph_id: results for results in it}
+    results = [analyze_graph(graph, iri_filter=iri_filter) for graph in graph_document.graphs]
+    if len(results) == 1 and not results[0].graph_id:
+        if iri is None:
+            raise MissingGraphIRI
+        # if there's only one graph and it's missing an ID, then let it pass
+        logger.warning("missing graph IRI, using %s", iri)
+        return {iri: results[0]}
+    elif not all(r.graph_id for r in results):
+        raise MissingGraphIRI
+    else:
+        return {r.graph_id: r for r in results}
 
 
 def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
@@ -235,9 +249,9 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
     syn_xref_pack = PrePack("Synonym Xrefs")
     # edge_pack = PrePack("Edges")
 
-    if graph.id is None:
-        # this is the URI for the ontology, e.g. "http://purl.obolibrary.org/obo/go.owl"
-        raise MissingGraphIRI
+    # if graph.id is None:
+    #     # this is the URI for the ontology, e.g. "http://purl.obolibrary.org/obo/go.owl"
+    #     raise MissingGraphIRI
 
     for node in tqdm(graph.nodes, unit_scale=True, unit="node", leave=False):
         node_id = node.id
