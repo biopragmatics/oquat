@@ -207,16 +207,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |--------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Segen:Segens_Medical_Dictionary_2012 |        4 | [XCO:0000386](http://purl.obolibrary.org/obo/XCO_0000386), [XCO:0000387](http://purl.obolibrary.org/obo/XCO_0000387), [XCO:0000400](http://purl.obolibrary.org/obo/XCO_0000400), [XCO:0000529](http://purl.obolibrary.org/obo/XCO_0000529) |
 
-## `Sigma-Aldrich`
-
-There are 1 usages of `Sigma-Aldrich` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Sigma-Aldrich).
-
-| curie                                                                                                                                 |   usages | nodes                                                                                                                |
-|---------------------------------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------|
-| Sigma-Aldrich:http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Product_Information_Sheet/1/k3753pis.Par.0001.File.tmp/k3753pis.pdf |        2 | [XCO:0000116](http://purl.obolibrary.org/obo/XCO_0000116), [XCO:0000146](http://purl.obolibrary.org/obo/XCO_0000146) |
-
 ## `Stedman`
 
 There are 1 usages of `Stedman` in `xco`.

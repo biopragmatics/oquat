@@ -74,20 +74,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |-------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | UBERONREF:0000004 |        9 | [UBREL:0000001](http://purl.obolibrary.org/obo/UBREL_0000001), [uberon#anteriorly:connected:to](http://purl.obolibrary.org/obo/uberon#anteriorly_connected_to), [uberon#connects](http://purl.obolibrary.org/obo/uberon#connects), [uberon#distally:connected:to](http://purl.obolibrary.org/obo/uberon#distally_connected_to), [uberon#posteriorly:connected:to](http://purl.obolibrary.org/obo/uberon#posteriorly_connected_to), ... |
 
-## `NIFSTD`
-
-There are 5 usages of `NIFSTD` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIFSTD).
-
-| curie               |   usages | nodes                                               |
-|---------------------|----------|-----------------------------------------------------|
-| NIFSTD:birnlex_2052 |        1 | [EFO:0000433](http://www.ebi.ac.uk/efo/EFO_0000433) |
-| NIFSTD:birnlex_2023 |        1 | [EFO:0000513](http://www.ebi.ac.uk/efo/EFO_0000513) |
-| NIFSTD:birnlex_681  |        1 | [EFO:0001272](http://www.ebi.ac.uk/efo/EFO_0001272) |
-| NIFSTD:sao279801585 |        1 | [EFO:0001444](http://www.ebi.ac.uk/efo/EFO_0001444) |
-| NIFSTD:birnlex_2117 |        1 | [EFO:0002694](http://www.ebi.ac.uk/efo/EFO_0002694) |
-
 ## `PERSON`
 
 There are 2 usages of `PERSON` in `enm`.

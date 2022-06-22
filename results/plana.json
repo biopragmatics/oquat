@@ -126,6 +126,9 @@
       "noncanonical_prefixes": {
         "ncithesaurus": {
           "http://purl.obolibrary.org/obo/PLANA_0000495": "ncithesaurus:Blastemal_Cell"
+        },
+        "nlx": {
+          "http://purl.obolibrary.org/obo/PLANA_0000097": "nlx:146329"
         }
       },
       "unknown_prefixes": {
@@ -150,9 +153,6 @@
         },
         "Optic": {
           "http://purl.obolibrary.org/obo/PLANA_0000459": "Optic:chiasm"
-        },
-        "nlx": {
-          "http://purl.obolibrary.org/obo/PLANA_0000097": "nlx:146329"
         }
       }
     }

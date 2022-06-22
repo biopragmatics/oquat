@@ -369,7 +369,25 @@
           "http://purl.obolibrary.org/obo/ARO_3007045": "PubChem:71188",
           "http://purl.obolibrary.org/obo/ARO_3007046": "PubChem:60651",
           "http://purl.obolibrary.org/obo/ARO_3007048": "PubChem:140830474",
-          "http://purl.obolibrary.org/obo/ARO_3007063": "PubChem:6435415"
+          "http://purl.obolibrary.org/obo/ARO_3007063": "PubChem:6435415",
+          "http://purl.obolibrary.org/obo/ARO_3007072": "PubChem:77050660",
+          "http://purl.obolibrary.org/obo/ARO_3007076": "PubChem:146683214",
+          "http://purl.obolibrary.org/obo/ARO_3007078": "PubChem:5280445",
+          "http://purl.obolibrary.org/obo/ARO_3007079": "PubChem:5318516",
+          "http://purl.obolibrary.org/obo/ARO_3007080": "PubChem:5370536",
+          "http://purl.obolibrary.org/obo/ARO_3007081": "PubChem:581676",
+          "http://purl.obolibrary.org/obo/ARO_3007082": "PubChem:72307",
+          "http://purl.obolibrary.org/obo/ARO_3007083": "PubChem:71339",
+          "http://purl.obolibrary.org/obo/ARO_3007086": "PubChem:49769423",
+          "http://purl.obolibrary.org/obo/ARO_3007088": "PubChem:91824766",
+          "http://purl.obolibrary.org/obo/ARO_3007090": "PubChem:2082",
+          "http://purl.obolibrary.org/obo/ARO_3007091": "PubChem:3059",
+          "http://purl.obolibrary.org/obo/ARO_3007092": "PubChem:25101874",
+          "http://purl.obolibrary.org/obo/ARO_3007093": "PubChem:146684527",
+          "http://purl.obolibrary.org/obo/ARO_3007094": "PubChem:5281614",
+          "http://purl.obolibrary.org/obo/ARO_3007095": "PubChem:5245",
+          "http://purl.obolibrary.org/obo/ARO_3007096": "PubChem:126941",
+          "http://purl.obolibrary.org/obo/ARO_3007114": "PubChem:28061"
         }
       },
       "unknown_prefixes": {}

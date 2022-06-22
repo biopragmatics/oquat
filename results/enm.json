@@ -815,6 +815,22 @@
     "version": "3.26.0",
     "xref_pack": {
       "invalid_luids": {
+        "http://www.ebi.ac.uk/efo/EFO_0000433": [
+          "NIFSTD:birnlex_2052"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000513": [
+          "NIFSTD:birnlex_2023"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001272": [
+          "NIFSTD:birnlex_228",
+          "NIFSTD:birnlex_681"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001444": [
+          "NIFSTD:sao279801585"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0002694": [
+          "NIFSTD:birnlex_2117"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0004352": [
           "MSH:Q000401"
         ],
@@ -903,6 +919,13 @@
           "http://www.ebi.ac.uk/efo/EFO_0005208": "MSH:D005919",
           "http://www.ebi.ac.uk/efo/EFO_0005761": "MSH:D008181"
         },
+        "NIFSTD": {
+          "http://www.ebi.ac.uk/efo/EFO_0000433": "NIFSTD:birnlex_2052",
+          "http://www.ebi.ac.uk/efo/EFO_0000513": "NIFSTD:birnlex_2023",
+          "http://www.ebi.ac.uk/efo/EFO_0001272": "NIFSTD:birnlex_681",
+          "http://www.ebi.ac.uk/efo/EFO_0001444": "NIFSTD:sao279801585",
+          "http://www.ebi.ac.uk/efo/EFO_0002694": "NIFSTD:birnlex_2117"
+        },
         "SCTID": {
           "http://www.ebi.ac.uk/efo/EFO_0005761": "SCTID:68815009"
         },
@@ -947,13 +970,6 @@
         }
       },
       "unknown_prefixes": {
-        "NIFSTD": {
-          "http://www.ebi.ac.uk/efo/EFO_0000433": "NIFSTD:birnlex_2052",
-          "http://www.ebi.ac.uk/efo/EFO_0000513": "NIFSTD:birnlex_2023",
-          "http://www.ebi.ac.uk/efo/EFO_0001272": "NIFSTD:birnlex_681",
-          "http://www.ebi.ac.uk/efo/EFO_0001444": "NIFSTD:sao279801585",
-          "http://www.ebi.ac.uk/efo/EFO_0002694": "NIFSTD:birnlex_2117"
-        },
         "PERSON": {
           "http://www.ebi.ac.uk/efo/EFO_0000714": "PERSON: James Malone",
           "http://www.ebi.ac.uk/efo/EFO_0004358": "PERSON: Dani Welter"

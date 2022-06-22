@@ -123,17 +123,6 @@ did not match the standard pattern `^C\d+$`.
 | `UMLS:CN882913` |              1 | [MONDO:0005570](http://purl.obolibrary.org/obo/MONDO_0005570) |
 | `UMLS:CN206369` |              1 | [MONDO:0019540](http://purl.obolibrary.org/obo/MONDO_0019540) |
 
-## `UniProtKB-KW`: UniProt Keywords
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `UniProtKB-KW` (standardized to Bioregistry
-prefix [`uniprot.keyword`](https://bioregistry.io/uniprot.keyword)) that
-did not match the standard pattern `^\d{4}$`.
-
-| external_xref          |   usages_count | usages                                                  |
-|------------------------|----------------|---------------------------------------------------------|
-| `UniProtKB-KW:KW-0917` |              1 | [GO:0098677](http://purl.obolibrary.org/obo/GO_0098677) |
-
 ## `Wikipedia`: Wikipedia
 
 Overall, there were 6 invalid

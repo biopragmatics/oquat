@@ -105,30 +105,3 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ICD10WHO:I85.0   |        1 | [MONDO:0021645](http://purl.obolibrary.org/obo/MONDO_0021645) |
 | ICD10WHO:A80-A89 |        1 | [MONDO:0024318](http://purl.obolibrary.org/obo/MONDO_0024318) |
 
-## `NIFSTD`
-
-There are 18 usages of `NIFSTD` in `mondo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIFSTD).
-
-| curie                   |   usages | nodes                                                         |
-|-------------------------|----------|---------------------------------------------------------------|
-| NIFSTD:birnlex_2092     |        1 | [MONDO:0004975](http://purl.obolibrary.org/obo/MONDO_0004975) |
-| NIFSTD:birnlex_12566    |        1 | [MONDO:0004976](http://purl.obolibrary.org/obo/MONDO_0004976) |
-| NIFSTD:birnlex_12754    |        1 | [MONDO:0004985](http://purl.obolibrary.org/obo/MONDO_0004985) |
-| NIFSTD:birnlex_406      |        1 | [MONDO:0004992](http://purl.obolibrary.org/obo/MONDO_0004992) |
-| NIFSTD:birnlex_12718    |        1 | [MONDO:0005027](http://purl.obolibrary.org/obo/MONDO_0005027) |
-| NIFSTD:birnlex_12617    |        1 | [MONDO:0005033](http://purl.obolibrary.org/obo/MONDO_0005033) |
-| NIFSTD:birnlex_12633    |        1 | [MONDO:0005035](http://purl.obolibrary.org/obo/MONDO_0005035) |
-| NIFSTD:birnlex_12631    |        1 | [MONDO:0005072](http://purl.obolibrary.org/obo/MONDO_0005072) |
-| NIFSTD:birnlex_12669    |        1 | [MONDO:0005084](http://purl.obolibrary.org/obo/MONDO_0005084) |
-| NIFSTD:birnlex_2104     |        1 | [MONDO:0005090](http://purl.obolibrary.org/obo/MONDO_0005090) |
-| NIFSTD:birnlex_12783    |        1 | [MONDO:0005098](http://purl.obolibrary.org/obo/MONDO_0005098) |
-| NIFSTD:birnlex_12733    |        1 | [MONDO:0005115](http://purl.obolibrary.org/obo/MONDO_0005115) |
-| NIFSTD:nlx_dys_20090303 |        1 | [MONDO:0005139](http://purl.obolibrary.org/obo/MONDO_0005139) |
-| NIFSTD:birnlex_12679    |        1 | [MONDO:0005146](http://purl.obolibrary.org/obo/MONDO_0005146) |
-| NIFSTD:birnlex_12812    |        1 | [MONDO:0005150](http://purl.obolibrary.org/obo/MONDO_0005150) |
-| NIFSTD:birnlex_2098     |        1 | [MONDO:0005180](http://purl.obolibrary.org/obo/MONDO_0005180) |
-| NIFSTD:nlx_dys_20090502 |        1 | [MONDO:0008608](http://purl.obolibrary.org/obo/MONDO_0008608) |
-| NIFSTD:nlx_dys_20090302 |        1 | [MONDO:0011122](http://purl.obolibrary.org/obo/MONDO_0011122) |
-

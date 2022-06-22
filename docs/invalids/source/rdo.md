@@ -75,7 +75,7 @@ did not match the standard pattern `^C\d+$`.
 
 ## `OMIM`: Online Mendelian Inheritance in Man
 
-Overall, there were 509 invalid
+Overall, there were 510 invalid
 xrefs to external prefixed with `OMIM` (standardized to Bioregistry
 prefix [`omim`](https://bioregistry.io/omim)) that
 did not match the standard pattern `^\d+$`.
@@ -450,6 +450,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS123700` |              1 | [DOID:3144](http://purl.obolibrary.org/obo/DOID_3144)       |
 | `OMIM:PS161800` |              1 | [DOID:3191](http://purl.obolibrary.org/obo/DOID_3191)       |
 | `OMIM:PS162091` |              1 | [DOID:3204](http://purl.obolibrary.org/obo/DOID_3204)       |
+| `OMIM:PS226650` |              1 | [DOID:3209](http://purl.obolibrary.org/obo/DOID_3209)       |
 | `OMIM:PS306400` |              1 | [DOID:3265](http://purl.obolibrary.org/obo/DOID_3265)       |
 | `OMIM:PS603165` |              1 | [DOID:3310](http://purl.obolibrary.org/obo/DOID_3310)       |
 | `OMIM:PS105400` |              1 | [DOID:332](http://purl.obolibrary.org/obo/DOID_332)         |

@@ -71,13 +71,3 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |--------------|----------|---------------------------------------------------------------|
 | Optic:chiasm |        1 | [PLANA:0000459](http://purl.obolibrary.org/obo/PLANA_0000459) |
 
-## `nlx`
-
-There are 1 usages of `nlx` in `plana`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20nlx).
-
-| curie      |   usages | nodes                                                         |
-|------------|----------|---------------------------------------------------------------|
-| nlx:146329 |        1 | [PLANA:0000097](http://purl.obolibrary.org/obo/PLANA_0000097) |
-

@@ -7078,7 +7078,7 @@
         ],
         "http://purl.obolibrary.org/obo/FYPO_0002400": [
           "PomBase:al",
-          "PomBase:mah"
+          "PomBase:mlr"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0002401": [
           "PomBase:mah"
@@ -17308,9 +17308,6 @@
         "http://purl.obolibrary.org/obo/FYPO_0005794": [
           "PomBase:mah"
         ],
-        "http://purl.obolibrary.org/obo/FYPO_0005795": [
-          "PomBase:mah"
-        ],
         "http://purl.obolibrary.org/obo/FYPO_0005796": [
           "PomBase:mah"
         ],
@@ -23747,6 +23744,12 @@
           "PomBase:val"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0007966": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007979": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007980": [
           "PomBase:mlr"
         ]
       },
@@ -41806,10 +41809,6 @@
           "PomBase:mah",
           "PomBase:vw"
         ],
-        "http://purl.obolibrary.org/obo/FYPO_0005795": [
-          "PomBase:mah",
-          "PomBase:vw"
-        ],
         "http://purl.obolibrary.org/obo/FYPO_0005796": [
           "PomBase:mah",
           "PomBase:vw"
@@ -48448,8 +48447,8 @@
         }
       }
     },
-    "version": "2022-05-16",
-    "version_iri": "http://purl.obolibrary.org/obo/fypo/releases/2022-05-16/fypo.owl",
+    "version": "2022-06-20",
+    "version_iri": "http://purl.obolibrary.org/obo/fypo/releases/2022-06-20/fypo.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/FYPO_0007909": [

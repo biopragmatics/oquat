@@ -555,6 +555,36 @@ did not match the standard pattern `^C\d+$`.
 |------------------|----------------|---------------------------------------------------------|
 | `NCI:CDRID45698` |              1 | [MP:0010727](http://purl.obolibrary.org/obo/MP_0010727) |
 
+## `NIFSTD`: NIF Standard Ontology
+
+Overall, there were 7 invalid
+xrefs to external prefixed with `NIFSTD` (standardized to Bioregistry
+prefix [`nif.std`](https://bioregistry.io/nif.std)) that
+did not match the standard pattern `^BAMSC\d+$`.
+
+| external_xref         |   usages_count | usages                                                                                                                                                                                                                             |
+|-----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `NIFSTD:birnlex_4113` |              4 | [MP:0011150](http://purl.obolibrary.org/obo/MP_0011150), [MP:0011153](http://purl.obolibrary.org/obo/MP_0011153), [MP:0011155](http://purl.obolibrary.org/obo/MP_0011155), [MP:0012446](http://purl.obolibrary.org/obo/MP_0012446) |
+| `NIFSTD:birnlex_1298` |              3 | [MP:0011151](http://purl.obolibrary.org/obo/MP_0011151), [MP:0011154](http://purl.obolibrary.org/obo/MP_0011154), [MP:0012445](http://purl.obolibrary.org/obo/MP_0012445)                                                          |
+
+## `NLX`: NIF Standard Ontology: Neurolex
+
+Overall, there were 12 invalid
+xrefs to external prefixed with `NLX` (standardized to Bioregistry
+prefix [`neurolex`](https://bioregistry.io/neurolex)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref         |   usages_count | usages                                                                                                           |
+|-----------------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `NLX:nifext_123`      |              2 | [MP:0009942](http://purl.obolibrary.org/obo/MP_0009942), [MP:0009942](http://purl.obolibrary.org/obo/MP_0009942) |
+| `NLX:nlx_cell_091202` |              2 | [MP:0009943](http://purl.obolibrary.org/obo/MP_0009943), [MP:0009943](http://purl.obolibrary.org/obo/MP_0009943) |
+| `NLX:nlx_96`          |              2 | [MP:0009947](http://purl.obolibrary.org/obo/MP_0009947), [MP:0009947](http://purl.obolibrary.org/obo/MP_0009947) |
+| `NLX:nifext_121`      |              2 | [MP:0009955](http://purl.obolibrary.org/obo/MP_0009955), [MP:0009955](http://purl.obolibrary.org/obo/MP_0009955) |
+| `NLX:birnlex_1106`    |              1 | [MP:0000864](http://purl.obolibrary.org/obo/MP_0000864)                                                          |
+| `NLX:birnlex_1197`    |              1 | [MP:0008263](http://purl.obolibrary.org/obo/MP_0008263)                                                          |
+| `NLX:birnlex_1362`    |              1 | [MP:0008265](http://purl.obolibrary.org/obo/MP_0008265)                                                          |
+| `NLX:Maryann_Martone` |              1 | [MP:0009953](http://purl.obolibrary.org/obo/MP_0009953)                                                          |
+
 ## `ORCID`: Open Researcher and Contributor
 
 Overall, there were 14 invalid

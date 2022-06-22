@@ -103,6 +103,18 @@ did not match the standard pattern `^C\d+$`.
 |------------------------------------|----------------|-----------------------------------------------------------------|
 | `ncithesaurus:Developmental_Stage` |              1 | [UBERON:0000105](http://purl.obolibrary.org/obo/UBERON_0000105) |
 
+## `NIFSTD`: NIF Standard Ontology
+
+Overall, there were 2 invalid
+xrefs to external prefixed with `NIFSTD` (standardized to Bioregistry
+prefix [`nif.std`](https://bioregistry.io/nif.std)) that
+did not match the standard pattern `^BAMSC\d+$`.
+
+| external_xref        |   usages_count | usages                                              |
+|----------------------|----------------|-----------------------------------------------------|
+| `NIFSTD:birnlex_228` |              1 | [EFO:0001272](http://www.ebi.ac.uk/efo/EFO_0001272) |
+| `NIFSTD:birnlex_681` |              1 | [EFO:0001272](http://www.ebi.ac.uk/efo/EFO_0001272) |
+
 ## `OMIM`: Online Mendelian Inheritance in Man
 
 Overall, there were 120 invalid

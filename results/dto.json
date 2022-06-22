@@ -133,6 +133,11 @@
         "FBbt_root": {
           "http://purl.obolibrary.org/obo/UBERON_0001062": "FBbt_root:00000000"
         },
+        "NIF_GrossAnatomy": {
+          "http://purl.obolibrary.org/obo/UBERON_0000955": "NIF_GrossAnatomy:birnlex_796",
+          "http://purl.obolibrary.org/obo/UBERON_0001016": "NIF_GrossAnatomy:birnlex_844",
+          "http://purl.obolibrary.org/obo/UBERON_0001062": "NIF_GrossAnatomy:birnlex_6"
+        },
         "ncithesaurus": {
           "http://purl.obolibrary.org/obo/UBERON_0000002": "ncithesaurus:Cervix",
           "http://purl.obolibrary.org/obo/UBERON_0000056": "ncithesaurus:Ureter",

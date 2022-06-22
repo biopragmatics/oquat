@@ -1,15 +1,5 @@
 # bao
 
-## `NIFSTD`
-
-There are 1 usages of `NIFSTD` in `bao`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIFSTD).
-
-| curie              |   usages | nodes                                               |
-|--------------------|----------|-----------------------------------------------------|
-| NIFSTD:birnlex_681 |        1 | [EFO:0001272](http://www.ebi.ac.uk/efo/EFO_0001272) |
-
 ## `NIF_Subcellular`
 
 There are 13 usages of `NIF_Subcellular` in `bao`.

@@ -64,6 +64,13 @@
         "FBbt_root": {
           "http://purl.obolibrary.org/obo/UBERON_0001062": "FBbt_root:00000000"
         },
+        "NLX": {
+          "http://purl.obolibrary.org/obo/UBERON_0000122": "NLX:147821",
+          "http://purl.obolibrary.org/obo/UBERON_0001018": "NLX:147822"
+        },
+        "NLXANAT": {
+          "http://purl.obolibrary.org/obo/UBERON_0001981": "NLXANAT:090901"
+        },
         "RETIRED_EHDAA2": {
           "http://purl.obolibrary.org/obo/UBERON_0000982": "RETIRED_EHDAA2:0003182",
           "http://purl.obolibrary.org/obo/UBERON_0002075": "RETIRED_EHDAA2:0002201"
@@ -144,10 +151,6 @@
           "http://purl.obolibrary.org/obo/UBERON_0005409": "GAID:294",
           "http://purl.obolibrary.org/obo/UBERON_0006314": "GAID:266",
           "http://purl.obolibrary.org/obo/UBERON_0007119": "GAID:201"
-        },
-        "NLX": {
-          "http://purl.obolibrary.org/obo/UBERON_0000122": "NLX:147821",
-          "http://purl.obolibrary.org/obo/UBERON_0001018": "NLX:147822"
         },
         "OpenCyc": {
           "http://purl.obolibrary.org/obo/UBERON_0000004": "OpenCyc:Mx4rvViCbJwpEbGdrcN5Y29ycA",

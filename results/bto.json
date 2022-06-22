@@ -70,6 +70,22 @@
         "Patent": {
           "http://purl.obolibrary.org/obo/BTO_0004841": "Patent:CA_Patent_2469027",
           "http://purl.obolibrary.org/obo/BTO_0004952": "Patent:CA_Patent_2469027"
+        },
+        "Sigma-Aldrich": {
+          "http://purl.obolibrary.org/obo/BTO_0002399": "Sigma-Aldrich:http://www.sigmaaldrich.com/",
+          "http://purl.obolibrary.org/obo/BTO_0003553": "Sigma-Aldrich:http://www.sigmaaldrich.com/",
+          "http://purl.obolibrary.org/obo/BTO_0005416": "Sigma-Aldrich:http://www.sigmaaldrich.com/",
+          "http://purl.obolibrary.org/obo/BTO_0005860": "Sigma-Aldrich:http://www.sigmaaldrich.com/",
+          "http://purl.obolibrary.org/obo/BTO_0005915": "Sigma-Aldrich:http://www.sigmaaldrich.com/",
+          "http://purl.obolibrary.org/obo/BTO_0006210": "Sigma-Aldrich:http://www.sigmaaldrich.com/"
+        },
+        "Sigma_Aldrich": {
+          "http://purl.obolibrary.org/obo/BTO_0005821": "Sigma_Aldrich:http://www.sigmaaldrich.com/",
+          "http://purl.obolibrary.org/obo/BTO_0005903": "Sigma_Aldrich:http://www.sigmaaldrich.com/",
+          "http://purl.obolibrary.org/obo/BTO_0006457": "Sigma_Aldrich:http\\://www.sigmaaldrich.com/",
+          "http://purl.obolibrary.org/obo/BTO_0006466": "Sigma_Aldrich:http\\://www.sigmaaldrich.com/",
+          "http://purl.obolibrary.org/obo/BTO_0006508": "Sigma_Aldrich:http\\://www.sigmaaldrich.com/",
+          "http://purl.obolibrary.org/obo/BTO_0006540": "Sigma_Aldrich:http\\://www.sigmaaldrich.com/"
         }
       },
       "unknown_prefixes": {
@@ -3717,25 +3733,6 @@
         },
         "Seed_Structure_and_Anatomy": {
           "http://purl.obolibrary.org/obo/BTO_0000380": "Seed_Structure_and_Anatomy:http://www.seedbiology.de/structure.asp"
-        },
-        "Sigma-Aldrich": {
-          "http://purl.obolibrary.org/obo/BTO_0002399": "Sigma-Aldrich:http://www.sigmaaldrich.com/",
-          "http://purl.obolibrary.org/obo/BTO_0003553": "Sigma-Aldrich:http://www.sigmaaldrich.com/",
-          "http://purl.obolibrary.org/obo/BTO_0005416": "Sigma-Aldrich:http://www.sigmaaldrich.com/",
-          "http://purl.obolibrary.org/obo/BTO_0005860": "Sigma-Aldrich:http://www.sigmaaldrich.com/",
-          "http://purl.obolibrary.org/obo/BTO_0005915": "Sigma-Aldrich:http://www.sigmaaldrich.com/",
-          "http://purl.obolibrary.org/obo/BTO_0006210": "Sigma-Aldrich:http://www.sigmaaldrich.com/"
-        },
-        "SigmaAldrich": {
-          "http://purl.obolibrary.org/obo/BTO_0006405": "SigmaAldrich:https://www.sigmaaldrich.com/"
-        },
-        "Sigma_Aldrich": {
-          "http://purl.obolibrary.org/obo/BTO_0005821": "Sigma_Aldrich:http://www.sigmaaldrich.com/",
-          "http://purl.obolibrary.org/obo/BTO_0005903": "Sigma_Aldrich:http://www.sigmaaldrich.com/",
-          "http://purl.obolibrary.org/obo/BTO_0006457": "Sigma_Aldrich:http\\://www.sigmaaldrich.com/",
-          "http://purl.obolibrary.org/obo/BTO_0006466": "Sigma_Aldrich:http\\://www.sigmaaldrich.com/",
-          "http://purl.obolibrary.org/obo/BTO_0006508": "Sigma_Aldrich:http\\://www.sigmaaldrich.com/",
-          "http://purl.obolibrary.org/obo/BTO_0006540": "Sigma_Aldrich:http\\://www.sigmaaldrich.com/"
         },
         "Skin_Cancer_Foundation": {
           "http://purl.obolibrary.org/obo/BTO_0006360": "Skin_Cancer_Foundation:https://www.skincancer.org/skin-cancer-information/"

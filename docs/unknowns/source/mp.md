@@ -241,30 +241,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |-----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | NCBI:matt |      383 | [MP:0003250](http://purl.obolibrary.org/obo/MP_0003250), [MP:0003251](http://purl.obolibrary.org/obo/MP_0003251), [MP:0003252](http://purl.obolibrary.org/obo/MP_0003252), [MP:0003253](http://purl.obolibrary.org/obo/MP_0003253), [MP:0003254](http://purl.obolibrary.org/obo/MP_0003254), ... |
 
-## `NIFSTD`
-
-There are 2 usages of `NIFSTD` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIFSTD).
-
-| curie               |   usages | nodes                                                                                                                                                                                                                              |
-|---------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NIFSTD:birnlex_4113 |        4 | [MP:0011150](http://purl.obolibrary.org/obo/MP_0011150), [MP:0011153](http://purl.obolibrary.org/obo/MP_0011153), [MP:0011155](http://purl.obolibrary.org/obo/MP_0011155), [MP:0012446](http://purl.obolibrary.org/obo/MP_0012446) |
-| NIFSTD:birnlex_1298 |        3 | [MP:0011151](http://purl.obolibrary.org/obo/MP_0011151), [MP:0011154](http://purl.obolibrary.org/obo/MP_0011154), [MP:0012445](http://purl.obolibrary.org/obo/MP_0012445)                                                          |
-
-## `NLX`
-
-There are 4 usages of `NLX` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NLX).
-
-| curie               |   usages | nodes                                                   |
-|---------------------|----------|---------------------------------------------------------|
-| NLX:nifext_123      |        1 | [MP:0009942](http://purl.obolibrary.org/obo/MP_0009942) |
-| NLX:nlx_cell_091202 |        1 | [MP:0009943](http://purl.obolibrary.org/obo/MP_0009943) |
-| NLX:nlx_96          |        1 | [MP:0009947](http://purl.obolibrary.org/obo/MP_0009947) |
-| NLX:nifext_121      |        1 | [MP:0009955](http://purl.obolibrary.org/obo/MP_0009955) |
-
 ## `PMMID`
 
 There are 1 usages of `PMMID` in `mp`.

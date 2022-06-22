@@ -1085,6 +1085,9 @@
         "http://purl.obolibrary.org/obo/MP_0000859": [
           "MESH:A08.186.211.730.885.287.500.670.675"
         ],
+        "http://purl.obolibrary.org/obo/MP_0000864": [
+          "NLX:birnlex_1106"
+        ],
         "http://purl.obolibrary.org/obo/MP_0000872": [
           "MGI:tc"
         ],
@@ -12590,6 +12593,12 @@
         "http://purl.obolibrary.org/obo/MP_0008262": [
           "MGI:csmith"
         ],
+        "http://purl.obolibrary.org/obo/MP_0008263": [
+          "NLX:birnlex_1197"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0008265": [
+          "NLX:birnlex_1362"
+        ],
         "http://purl.obolibrary.org/obo/MP_0008269": [
           "MGI:csmith"
         ],
@@ -16661,17 +16670,30 @@
         "http://purl.obolibrary.org/obo/MP_0009940": [
           "MGI:csmith"
         ],
+        "http://purl.obolibrary.org/obo/MP_0009942": [
+          "NLX:nifext_123"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0009943": [
+          "NLX:nlx_cell_091202"
+        ],
         "http://purl.obolibrary.org/obo/MP_0009945": [
           "MGI:csmith"
         ],
         "http://purl.obolibrary.org/obo/MP_0009946": [
           "MGI:csmith"
         ],
+        "http://purl.obolibrary.org/obo/MP_0009947": [
+          "NLX:nlx_96"
+        ],
         "http://purl.obolibrary.org/obo/MP_0009952": [
           "MGI:csmith"
         ],
         "http://purl.obolibrary.org/obo/MP_0009953": [
-          "MGI:csmith"
+          "MGI:csmith",
+          "NLX:Maryann_Martone"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0009955": [
+          "NLX:nifext_121"
         ],
         "http://purl.obolibrary.org/obo/MP_0009956": [
           "MGI:csmith"
@@ -18999,6 +19021,21 @@
         ],
         "http://purl.obolibrary.org/obo/MP_0011148": [
           "MGI:anna"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0011150": [
+          "NIFSTD:birnlex_4113"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0011151": [
+          "NIFSTD:birnlex_1298"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0011153": [
+          "NIFSTD:birnlex_4113"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0011154": [
+          "NIFSTD:birnlex_1298"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0011155": [
+          "NIFSTD:birnlex_4113"
         ],
         "http://purl.obolibrary.org/obo/MP_0011160": [
           "MGI:csmith"
@@ -21801,6 +21838,12 @@
         ],
         "http://purl.obolibrary.org/obo/MP_0012443": [
           "MGI:csmith"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0012445": [
+          "NIFSTD:birnlex_1298"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0012446": [
+          "NIFSTD:birnlex_4113"
         ],
         "http://purl.obolibrary.org/obo/MP_0012447": [
           "MGI:csmith"
@@ -28233,6 +28276,25 @@
           "http://purl.obolibrary.org/obo/MP_0010068": "NCI:C64800",
           "http://purl.obolibrary.org/obo/MP_0010727": "NCI:CDRID45698"
         },
+        "NIFSTD": {
+          "http://purl.obolibrary.org/obo/MP_0011150": "NIFSTD:birnlex_4113",
+          "http://purl.obolibrary.org/obo/MP_0011151": "NIFSTD:birnlex_1298",
+          "http://purl.obolibrary.org/obo/MP_0011153": "NIFSTD:birnlex_4113",
+          "http://purl.obolibrary.org/obo/MP_0011154": "NIFSTD:birnlex_1298",
+          "http://purl.obolibrary.org/obo/MP_0011155": "NIFSTD:birnlex_4113",
+          "http://purl.obolibrary.org/obo/MP_0012445": "NIFSTD:birnlex_1298",
+          "http://purl.obolibrary.org/obo/MP_0012446": "NIFSTD:birnlex_4113"
+        },
+        "NLX": {
+          "http://purl.obolibrary.org/obo/MP_0000864": "NLX:birnlex_1106",
+          "http://purl.obolibrary.org/obo/MP_0008263": "NLX:birnlex_1197",
+          "http://purl.obolibrary.org/obo/MP_0008265": "NLX:birnlex_1362",
+          "http://purl.obolibrary.org/obo/MP_0009942": "NLX:nifext_123",
+          "http://purl.obolibrary.org/obo/MP_0009943": "NLX:nlx_cell_091202",
+          "http://purl.obolibrary.org/obo/MP_0009947": "NLX:nlx_96",
+          "http://purl.obolibrary.org/obo/MP_0009953": "NLX:Maryann_Martone",
+          "http://purl.obolibrary.org/obo/MP_0009955": "NLX:nifext_121"
+        },
         "PMCID": {
           "http://purl.obolibrary.org/obo/MP_0011855": "PMCID:PMC2895306",
           "http://purl.obolibrary.org/obo/MP_0011856": "PMCID:PMC2895306",
@@ -29016,25 +29078,6 @@
           "http://purl.obolibrary.org/obo/MP_0006252": "NCBI:matt",
           "http://purl.obolibrary.org/obo/MP_0008144": "NCBI:matt"
         },
-        "NIFSTD": {
-          "http://purl.obolibrary.org/obo/MP_0011150": "NIFSTD:birnlex_4113",
-          "http://purl.obolibrary.org/obo/MP_0011151": "NIFSTD:birnlex_1298",
-          "http://purl.obolibrary.org/obo/MP_0011153": "NIFSTD:birnlex_4113",
-          "http://purl.obolibrary.org/obo/MP_0011154": "NIFSTD:birnlex_1298",
-          "http://purl.obolibrary.org/obo/MP_0011155": "NIFSTD:birnlex_4113",
-          "http://purl.obolibrary.org/obo/MP_0012445": "NIFSTD:birnlex_1298",
-          "http://purl.obolibrary.org/obo/MP_0012446": "NIFSTD:birnlex_4113"
-        },
-        "NLX": {
-          "http://purl.obolibrary.org/obo/MP_0000864": "NLX:birnlex_1106",
-          "http://purl.obolibrary.org/obo/MP_0008263": "NLX:birnlex_1197",
-          "http://purl.obolibrary.org/obo/MP_0008265": "NLX:birnlex_1362",
-          "http://purl.obolibrary.org/obo/MP_0009942": "NLX:nifext_123",
-          "http://purl.obolibrary.org/obo/MP_0009943": "NLX:nlx_cell_091202",
-          "http://purl.obolibrary.org/obo/MP_0009947": "NLX:nlx_96",
-          "http://purl.obolibrary.org/obo/MP_0009953": "NLX:Maryann_Martone",
-          "http://purl.obolibrary.org/obo/MP_0009955": "NLX:nifext_121"
-        },
         "PMMID": {
           "http://purl.obolibrary.org/obo/MP_0013010": "PMMID:22016183"
         },
@@ -29471,12 +29514,24 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2022-06-07",
-    "version_iri": "http://purl.obolibrary.org/obo/mp/releases/2022-06-07/mp.json",
+    "version": "2022-06-13",
+    "version_iri": "http://purl.obolibrary.org/obo/mp/releases/2022-06-13/mp.json",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/MP_0009875": [
           "MGI:llw2"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0009942": [
+          "NLX:nifext_123"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0009943": [
+          "NLX:nlx_cell_091202"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0009947": [
+          "NLX:nlx_96"
+        ],
+        "http://purl.obolibrary.org/obo/MP_0009955": [
+          "NLX:nifext_121"
         ],
         "http://purl.obolibrary.org/obo/MP_0010948": [
           "GO:00006302"
@@ -29487,15 +29542,15 @@
       },
       "label": "Node Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
+      "noncanonical_prefixes": {
         "NLX": {
           "http://purl.obolibrary.org/obo/MP_0009942": "NLX:nifext_123",
           "http://purl.obolibrary.org/obo/MP_0009943": "NLX:nlx_cell_091202",
           "http://purl.obolibrary.org/obo/MP_0009947": "NLX:nlx_96",
           "http://purl.obolibrary.org/obo/MP_0009955": "NLX:nifext_121"
         }
-      }
+      },
+      "unknown_prefixes": {}
     }
   }
 }

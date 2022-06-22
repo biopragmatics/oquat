@@ -146,6 +146,22 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 |-----------------|----------------|-----------------------------------------------------|
 | `MSH:Q000401`   |              1 | [EFO:0004352](http://www.ebi.ac.uk/efo/EFO_0004352) |
 
+## `NIFSTD`: NIF Standard Ontology
+
+Overall, there were 6 invalid
+xrefs to external prefixed with `NIFSTD` (standardized to Bioregistry
+prefix [`nif.std`](https://bioregistry.io/nif.std)) that
+did not match the standard pattern `^BAMSC\d+$`.
+
+| external_xref         |   usages_count | usages                                              |
+|-----------------------|----------------|-----------------------------------------------------|
+| `NIFSTD:birnlex_2052` |              1 | [EFO:0000433](http://www.ebi.ac.uk/efo/EFO_0000433) |
+| `NIFSTD:birnlex_2023` |              1 | [EFO:0000513](http://www.ebi.ac.uk/efo/EFO_0000513) |
+| `NIFSTD:birnlex_228`  |              1 | [EFO:0001272](http://www.ebi.ac.uk/efo/EFO_0001272) |
+| `NIFSTD:birnlex_681`  |              1 | [EFO:0001272](http://www.ebi.ac.uk/efo/EFO_0001272) |
+| `NIFSTD:sao279801585` |              1 | [EFO:0001444](http://www.ebi.ac.uk/efo/EFO_0001444) |
+| `NIFSTD:birnlex_2117` |              1 | [EFO:0002694](http://www.ebi.ac.uk/efo/EFO_0002694) |
+
 ## `obi`: Ontology for Biomedical Investigations
 
 Overall, there were 1 invalid

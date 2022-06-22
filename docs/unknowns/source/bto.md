@@ -1110,37 +1110,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |---------------------------------------|----------|-----------------------------------------------------------|
 | Science_Dictionary:biology-forums.com |        1 | [BTO:0005319](http://purl.obolibrary.org/obo/BTO_0005319) |
 
-## `Sigma-Aldrich`
-
-There are 1 usages of `Sigma-Aldrich` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Sigma-Aldrich).
-
-| curie                                      |   usages | nodes                                                                                                                                                                                                                                                                                                      |
-|--------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sigma-Aldrich:http://www.sigmaaldrich.com/ |        6 | [BTO:0002399](http://purl.obolibrary.org/obo/BTO_0002399), [BTO:0003553](http://purl.obolibrary.org/obo/BTO_0003553), [BTO:0005416](http://purl.obolibrary.org/obo/BTO_0005416), [BTO:0005860](http://purl.obolibrary.org/obo/BTO_0005860), [BTO:0005915](http://purl.obolibrary.org/obo/BTO_0005915), ... |
-
-## `SigmaAldrich`
-
-There are 1 usages of `SigmaAldrich` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SigmaAldrich).
-
-| curie                                      |   usages | nodes                                                     |
-|--------------------------------------------|----------|-----------------------------------------------------------|
-| SigmaAldrich:https://www.sigmaaldrich.com/ |        1 | [BTO:0006405](http://purl.obolibrary.org/obo/BTO_0006405) |
-
-## `Sigma_Aldrich`
-
-There are 2 usages of `Sigma_Aldrich` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Sigma_Aldrich).
-
-| curie                                       |   usages | nodes                                                                                                                                                                                                                                      |
-|---------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sigma_Aldrich:http\://www.sigmaaldrich.com/ |        4 | [BTO:0006457](http://purl.obolibrary.org/obo/BTO_0006457), [BTO:0006466](http://purl.obolibrary.org/obo/BTO_0006466), [BTO:0006508](http://purl.obolibrary.org/obo/BTO_0006508), [BTO:0006540](http://purl.obolibrary.org/obo/BTO_0006540) |
-| Sigma_Aldrich:http://www.sigmaaldrich.com/  |        2 | [BTO:0005821](http://purl.obolibrary.org/obo/BTO_0005821), [BTO:0005903](http://purl.obolibrary.org/obo/BTO_0005903)                                                                                                                       |
-
 ## `Snake_Anatomy`
 
 There are 1 usages of `Snake_Anatomy` in `bto`.

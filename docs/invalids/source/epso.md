@@ -96,16 +96,16 @@ did not match the standard pattern `^C\d+$`.
 | `ncithesaurus:Superior_Temporal_Gyrus`  |              1 | [UBERON:0002769](http://purl.obolibrary.org/obo/UBERON_0002769) |
 | `ncithesaurus:Middle_Temporal_Gyrus`    |              1 | [UBERON:0002771](http://purl.obolibrary.org/obo/UBERON_0002771) |
 
-## `NLXANAT`: NeuroLex Anatomy
+## `NIFSTD`: NIF Standard Ontology
 
 Overall, there were 1 invalid
-xrefs to external prefixed with `NLXANAT` (standardized to Bioregistry
-prefix [`nlxanat`](https://bioregistry.io/nlxanat)) that
-did not match the standard pattern `^\d{6}$`.
+xrefs to external prefixed with `NIFSTD` (standardized to Bioregistry
+prefix [`nif.std`](https://bioregistry.io/nif.std)) that
+did not match the standard pattern `^BAMSC\d+$`.
 
-| external_xref      |   usages_count | usages                                                          |
-|--------------------|----------------|-----------------------------------------------------------------|
-| `NLXANAT:20090513` |              1 | [UBERON:0001020](http://purl.obolibrary.org/obo/UBERON_0001020) |
+| external_xref          |   usages_count | usages                                                        |
+|------------------------|----------------|---------------------------------------------------------------|
+| `NIFSTD:birnlex_12669` |              1 | [MONDO:0005084](http://purl.obolibrary.org/obo/MONDO_0005084) |
 
 ## `OMIM`: Online Mendelian Inheritance in Man
 

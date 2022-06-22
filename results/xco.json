@@ -759,6 +759,10 @@
           "http://purl.obolibrary.org/obo/XCO_0000436": "PubChem_Compound:CID_13157",
           "http://purl.obolibrary.org/obo/XCO_0000437": "PubChem_Compound:CID_13157"
         },
+        "Sigma-Aldrich": {
+          "http://purl.obolibrary.org/obo/XCO_0000116": "Sigma-Aldrich:http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Product_Information_Sheet/1/k3753pis.Par.0001.File.tmp/k3753pis.pdf",
+          "http://purl.obolibrary.org/obo/XCO_0000146": "Sigma-Aldrich:http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Product_Information_Sheet/1/k3753pis.Par.0001.File.tmp/k3753pis.pdf"
+        },
         "UniProtKB": {
           "http://purl.obolibrary.org/obo/XCO_0000290": "UniProtKB:P02689",
           "http://purl.obolibrary.org/obo/XCO_0000291": "UniProtKB:P02689"
@@ -1240,10 +1244,6 @@
           "http://purl.obolibrary.org/obo/XCO_0000387": "Segen:Segens_Medical_Dictionary_2012",
           "http://purl.obolibrary.org/obo/XCO_0000400": "Segen:Segens_Medical_Dictionary_2012",
           "http://purl.obolibrary.org/obo/XCO_0000529": "Segen:Segens_Medical_Dictionary_2012"
-        },
-        "Sigma-Aldrich": {
-          "http://purl.obolibrary.org/obo/XCO_0000116": "Sigma-Aldrich:http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Product_Information_Sheet/1/k3753pis.Par.0001.File.tmp/k3753pis.pdf",
-          "http://purl.obolibrary.org/obo/XCO_0000146": "Sigma-Aldrich:http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Product_Information_Sheet/1/k3753pis.Par.0001.File.tmp/k3753pis.pdf"
         },
         "Stedman": {
           "http://purl.obolibrary.org/obo/XCO_0000607": "Stedman:Stedmans_Medical_Dictionary 26th ed"

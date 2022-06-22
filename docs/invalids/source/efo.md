@@ -4,6 +4,17 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
 
+## `DI`: UniProt Diseases
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `DI` (standardized to Bioregistry
+prefix [`uniprot.disease`](https://bioregistry.io/uniprot.disease)) that
+did not match the standard pattern `^DI-\d{5}$`.
+
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `DI:00917`      |              1 | [EFO:0010956](http://www.ebi.ac.uk/efo/EFO_0010956) |
+
 ## `doi`: Digital Object Identifier
 
 Overall, there were 1 invalid
@@ -212,18 +223,18 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 ## `MONDO`: Monarch Disease Ontology
 
-Overall, there were 1,754 invalid
+Overall, there were 1,752 invalid
 xrefs to external prefixed with `MONDO` (standardized to Bioregistry
 prefix [`mondo`](https://bioregistry.io/mondo)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref                                          |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |--------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MONDO:patterns/location`                              |            617 | [EFO:0000178](http://www.ebi.ac.uk/efo/EFO_0000178), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000199](http://www.ebi.ac.uk/efo/EFO_0000199), ... |
+| `MONDO:patterns/location`                              |            616 | [EFO:0000178](http://www.ebi.ac.uk/efo/EFO_0000178), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000199](http://www.ebi.ac.uk/efo/EFO_0000199), ... |
 | `MONDO:design_pattern`                                 |            207 | [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000319](http://www.ebi.ac.uk/efo/EFO_0000319), [EFO:0000330](http://www.ebi.ac.uk/efo/EFO_0000330), [EFO:0000405](http://www.ebi.ac.uk/efo/EFO_0000405), [EFO:0000405](http://www.ebi.ac.uk/efo/EFO_0000405), ... |
 | `MONDO:patterns/specific_infectious_disease_by_agent`  |            167 | [EFO:0000650](http://www.ebi.ac.uk/efo/EFO_0000650), [EFO:0000694](http://www.ebi.ac.uk/efo/EFO_0000694), [EFO:0000763](http://www.ebi.ac.uk/efo/EFO_0000763), [EFO:0000764](http://www.ebi.ac.uk/efo/EFO_0000764), [EFO:0000769](http://www.ebi.ac.uk/efo/EFO_0000769), ... |
 | `MONDO:ambiguous`                                      |            160 | [EFO:0000217](http://www.ebi.ac.uk/efo/EFO_0000217), [EFO:0000220](http://www.ebi.ac.uk/efo/EFO_0000220), [EFO:0000248](http://www.ebi.ac.uk/efo/EFO_0000248), [EFO:0000275](http://www.ebi.ac.uk/efo/EFO_0000275), [EFO:0000284](http://www.ebi.ac.uk/efo/EFO_0000284), ... |
-| `MONDO:patterns/location_top`                          |            114 | [EFO:0000319](http://www.ebi.ac.uk/efo/EFO_0000319), [EFO:0000405](http://www.ebi.ac.uk/efo/EFO_0000405), [EFO:0000512](http://www.ebi.ac.uk/efo/EFO_0000512), [EFO:0000540](http://www.ebi.ac.uk/efo/EFO_0000540), [EFO:0000618](http://www.ebi.ac.uk/efo/EFO_0000618), ... |
+| `MONDO:patterns/location_top`                          |            113 | [EFO:0000319](http://www.ebi.ac.uk/efo/EFO_0000319), [EFO:0000405](http://www.ebi.ac.uk/efo/EFO_0000405), [EFO:0000512](http://www.ebi.ac.uk/efo/EFO_0000512), [EFO:0000540](http://www.ebi.ac.uk/efo/EFO_0000540), [EFO:0000618](http://www.ebi.ac.uk/efo/EFO_0000618), ... |
 | `MONDO:Lexical`                                        |             78 | [EFO:0000095](http://www.ebi.ac.uk/efo/EFO_0000095), [EFO:0000174](http://www.ebi.ac.uk/efo/EFO_0000174), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000198](http://www.ebi.ac.uk/efo/EFO_0000198), [EFO:0000222](http://www.ebi.ac.uk/efo/EFO_0000222), ... |
 | `MONDO:patterns/neoplasm`                              |             69 | [EFO:0000294](http://www.ebi.ac.uk/efo/EFO_0000294), [EFO:0002431](http://www.ebi.ac.uk/efo/EFO_0002431), [EFO:0002626](http://www.ebi.ac.uk/efo/EFO_0002626), [EFO:0003769](http://www.ebi.ac.uk/efo/EFO_0003769), [EFO:0003817](http://www.ebi.ac.uk/efo/EFO_0003817), ... |
 | `MONDO:patterns/inflammatory_disease_by_site`          |             62 | [EFO:0000217](http://www.ebi.ac.uk/efo/EFO_0000217), [EFO:0000278](http://www.ebi.ac.uk/efo/EFO_0000278), [EFO:0000465](http://www.ebi.ac.uk/efo/EFO_0000465), [EFO:0000557](http://www.ebi.ac.uk/efo/EFO_0000557), [EFO:0000649](http://www.ebi.ac.uk/efo/EFO_0000649), ... |
@@ -270,14 +281,14 @@ did not match the standard pattern `^C\d+$`.
 
 ## `NCIT`: NCI Thesaurus
 
-Overall, there were 357 invalid
+Overall, there were 356 invalid
 xrefs to external prefixed with `NCIT` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
 did not match the standard pattern `^C\d+$`.
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `NCIT:P378`           |            356 | [EFO:0000096](http://www.ebi.ac.uk/efo/EFO_0000096), [EFO:0000186](http://www.ebi.ac.uk/efo/EFO_0000186), [EFO:0000248](http://www.ebi.ac.uk/efo/EFO_0000248), [EFO:0000266](http://www.ebi.ac.uk/efo/EFO_0000266), [EFO:0000275](http://www.ebi.ac.uk/efo/EFO_0000275), ... |
+| `NCIT:P378`           |            355 | [EFO:0000096](http://www.ebi.ac.uk/efo/EFO_0000096), [EFO:0000186](http://www.ebi.ac.uk/efo/EFO_0000186), [EFO:0000248](http://www.ebi.ac.uk/efo/EFO_0000248), [EFO:0000266](http://www.ebi.ac.uk/efo/EFO_0000266), [EFO:0000275](http://www.ebi.ac.uk/efo/EFO_0000275), ... |
 | `NCIT:C92189-variant` |              1 | [EFO:1001417](http://www.ebi.ac.uk/efo/EFO_1001417)                                                                                                                                                                                                                          |
 
 ## `NCIt`: NCI Thesaurus
@@ -290,6 +301,115 @@ did not match the standard pattern `^C\d+$`.
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
 | `NCIt: C12511`  |              1 | [EFO:0001394](http://www.ebi.ac.uk/efo/EFO_0001394) |
+
+## `NIFSTD`: NIF Standard Ontology
+
+Overall, there were 100 invalid
+xrefs to external prefixed with `NIFSTD` (standardized to Bioregistry
+prefix [`nif.std`](https://bioregistry.io/nif.std)) that
+did not match the standard pattern `^BAMSC\d+$`.
+
+| external_xref              |   usages_count | usages                                                                                                   |
+|----------------------------|----------------|----------------------------------------------------------------------------------------------------------|
+| `NIFSTD:birnlex_2117`      |              2 | [EFO:0002607](http://www.ebi.ac.uk/efo/EFO_0002607), [EFO:0002694](http://www.ebi.ac.uk/efo/EFO_0002694) |
+| `NIFSTD:birnlex_734`       |              1 | [EFO:0000107](http://www.ebi.ac.uk/efo/EFO_0000107)                                                      |
+| `NIFSTD:birnlex_1581`      |              1 | [EFO:0000230](http://www.ebi.ac.uk/efo/EFO_0000230)                                                      |
+| `NIFSTD:birnlex_2092`      |              1 | [EFO:0000249](http://www.ebi.ac.uk/efo/EFO_0000249)                                                      |
+| `NIFSTD:birnlex_1241`      |              1 | [EFO:0000252](http://www.ebi.ac.uk/efo/EFO_0000252)                                                      |
+| `NIFSTD:birnlex_12566`     |              1 | [EFO:0000253](http://www.ebi.ac.uk/efo/EFO_0000253)                                                      |
+| `NIFSTD:birnlex_2110`      |              1 | [EFO:0000264](http://www.ebi.ac.uk/efo/EFO_0000264)                                                      |
+| `NIFSTD:birnlex_12754`     |              1 | [EFO:0000289](http://www.ebi.ac.uk/efo/EFO_0000289)                                                      |
+| `NIFSTD:birnlex_796`       |              1 | [EFO:0000302](http://www.ebi.ac.uk/efo/EFO_0000302)                                                      |
+| `NIFSTD:birnlex_406`       |              1 | [EFO:0000311](http://www.ebi.ac.uk/efo/EFO_0000311)                                                      |
+| `NIFSTD:birnlex_1489`      |              1 | [EFO:0000327](http://www.ebi.ac.uk/efo/EFO_0000327)                                                      |
+| `NIFSTD:birnlex_934`       |              1 | [EFO:0000343](http://www.ebi.ac.uk/efo/EFO_0000343)                                                      |
+| `NIFSTD:birnlex_1190`      |              1 | [EFO:0000357](http://www.ebi.ac.uk/efo/EFO_0000357)                                                      |
+| `NIFSTD:birnlex_1672`      |              1 | [EFO:0000381](http://www.ebi.ac.uk/efo/EFO_0000381)                                                      |
+| `NIFSTD:nlx_anat_20090201` |              1 | [EFO:0000381](http://www.ebi.ac.uk/efo/EFO_0000381)                                                      |
+| `NIFSTD:birnlex_1494`      |              1 | [EFO:0000383](http://www.ebi.ac.uk/efo/EFO_0000383)                                                      |
+| `NIFSTD:birnlex_2052`      |              1 | [EFO:0000433](http://www.ebi.ac.uk/efo/EFO_0000433)                                                      |
+| `NIFSTD:birnlex_12718`     |              1 | [EFO:0000474](http://www.ebi.ac.uk/efo/EFO_0000474)                                                      |
+| `NIFSTD:birnlex_12617`     |              1 | [EFO:0000500](http://www.ebi.ac.uk/efo/EFO_0000500)                                                      |
+| `NIFSTD:birnlex_12633`     |              1 | [EFO:0000502](http://www.ebi.ac.uk/efo/EFO_0000502)                                                      |
+| `NIFSTD:birnlex_2023`      |              1 | [EFO:0000513](http://www.ebi.ac.uk/efo/EFO_0000513)                                                      |
+| `NIFSTD:birnlex_12500`     |              1 | [EFO:0000533](http://www.ebi.ac.uk/efo/EFO_0000533)                                                      |
+| `NIFSTD:birnlex_174`       |              1 | [EFO:0000598](http://www.ebi.ac.uk/efo/EFO_0000598)                                                      |
+| `NIFSTD:birnlex_557`       |              1 | [EFO:0000600](http://www.ebi.ac.uk/efo/EFO_0000600)                                                      |
+| `NIFSTD:birnlex_206`       |              1 | [EFO:0000602](http://www.ebi.ac.uk/efo/EFO_0000602)                                                      |
+| `NIFSTD:birnlex_398`       |              1 | [EFO:0000605](http://www.ebi.ac.uk/efo/EFO_0000605)                                                      |
+| `NIFSTD:birnlex_393`       |              1 | [EFO:0000606](http://www.ebi.ac.uk/efo/EFO_0000606)                                                      |
+| `NIFSTD:birnlex_12631`     |              1 | [EFO:0000621](http://www.ebi.ac.uk/efo/EFO_0000621)                                                      |
+| `NIFSTD:birnlex_12604`     |              1 | [EFO:0000622](http://www.ebi.ac.uk/efo/EFO_0000622)                                                      |
+| `NIFSTD:birnlex_2087`      |              1 | [EFO:0000651](http://www.ebi.ac.uk/efo/EFO_0000651)                                                      |
+| `NIFSTD:birnlex_12606`     |              1 | [EFO:0000658](http://www.ebi.ac.uk/efo/EFO_0000658)                                                      |
+| `NIFSTD:birnlex_12669`     |              1 | [EFO:0000677](http://www.ebi.ac.uk/efo/EFO_0000677)                                                      |
+| `NIFSTD:birnlex_203`       |              1 | [EFO:0000679](http://www.ebi.ac.uk/efo/EFO_0000679)                                                      |
+| `NIFSTD:birnlex_2104`      |              1 | [EFO:0000692](http://www.ebi.ac.uk/efo/EFO_0000692)                                                      |
+| `NIFSTD:birnlex_12603`     |              1 | [EFO:0000693](http://www.ebi.ac.uk/efo/EFO_0000693)                                                      |
+| `NIFSTD:birnlex_12783`     |              1 | [EFO:0000712](http://www.ebi.ac.uk/efo/EFO_0000712)                                                      |
+| `NIFSTD:birnlex_12733`     |              1 | [EFO:0000773](http://www.ebi.ac.uk/efo/EFO_0000773)                                                      |
+| `NIFSTD:birnlex_844`       |              1 | [EFO:0000802](http://www.ebi.ac.uk/efo/EFO_0000802)                                                      |
+| `NIFSTD:birnlex_1062`      |              1 | [EFO:0000826](http://www.ebi.ac.uk/efo/EFO_0000826)                                                      |
+| `NIFSTD:birnlex_1169`      |              1 | [EFO:0000827](http://www.ebi.ac.uk/efo/EFO_0000827)                                                      |
+| `NIFSTD:birnlex_1153`      |              1 | [EFO:0000832](http://www.ebi.ac.uk/efo/EFO_0000832)                                                      |
+| `NIFSTD:birnlex_1166`      |              1 | [EFO:0000895](http://www.ebi.ac.uk/efo/EFO_0000895)                                                      |
+| `NIFSTD:birnlex_2596`      |              1 | [EFO:0000900](http://www.ebi.ac.uk/efo/EFO_0000900)                                                      |
+| `NIFSTD:birnlex_826`       |              1 | [EFO:0000904](http://www.ebi.ac.uk/efo/EFO_0000904)                                                      |
+| `NIFSTD:birnlex_1234`      |              1 | [EFO:0000905](http://www.ebi.ac.uk/efo/EFO_0000905)                                                      |
+| `NIFSTD:birnlex_1373`      |              1 | [EFO:0000907](http://www.ebi.ac.uk/efo/EFO_0000907)                                                      |
+| `NIFSTD:birnlex_1099`      |              1 | [EFO:0000908](http://www.ebi.ac.uk/efo/EFO_0000908)                                                      |
+| `NIFSTD:birnlex_1509`      |              1 | [EFO:0000909](http://www.ebi.ac.uk/efo/EFO_0000909)                                                      |
+| `NIFSTD:birnlex_954`       |              1 | [EFO:0000910](http://www.ebi.ac.uk/efo/EFO_0000910)                                                      |
+| `NIFSTD:birnlex_1503`      |              1 | [EFO:0000911](http://www.ebi.ac.uk/efo/EFO_0000911)                                                      |
+| `NIFSTD:birnlex_1115`      |              1 | [EFO:0000912](http://www.ebi.ac.uk/efo/EFO_0000912)                                                      |
+| `NIFSTD:birnlex_928`       |              1 | [EFO:0000913](http://www.ebi.ac.uk/efo/EFO_0000913)                                                      |
+| `NIFSTD:nlx_anat_20090601` |              1 | [EFO:0000913](http://www.ebi.ac.uk/efo/EFO_0000913)                                                      |
+| `NIFSTD:birnlex_1710`      |              1 | [EFO:0000918](http://www.ebi.ac.uk/efo/EFO_0000918)                                                      |
+| `NIFSTD:birnlex_1667`      |              1 | [EFO:0000919](http://www.ebi.ac.uk/efo/EFO_0000919)                                                      |
+| `NIFSTD:birnlex_942`       |              1 | [EFO:0000923](http://www.ebi.ac.uk/efo/EFO_0000923)                                                      |
+| `NIFSTD:birnlex_957`       |              1 | [EFO:0000924](http://www.ebi.ac.uk/efo/EFO_0000924)                                                      |
+| `NIFSTD:birnlex_1230`      |              1 | [EFO:0000964](http://www.ebi.ac.uk/efo/EFO_0000964)                                                      |
+| `NIFSTD:sao1078172392`     |              1 | [EFO:0000966](http://www.ebi.ac.uk/efo/EFO_0000966)                                                      |
+| `NIFSTD:sao1642908940`     |              1 | [EFO:0000967](http://www.ebi.ac.uk/efo/EFO_0000967)                                                      |
+| `NIFSTD:nlx_dys_20090502`  |              1 | [EFO:0001064](http://www.ebi.ac.uk/efo/EFO_0001064)                                                      |
+| `NIFSTD:nlx_dys_20090302`  |              1 | [EFO:0001073](http://www.ebi.ac.uk/efo/EFO_0001073)                                                      |
+| `NIFSTD:nlx_dys_20090303`  |              1 | [EFO:0001074](http://www.ebi.ac.uk/efo/EFO_0001074)                                                      |
+| `NIFSTD:birnlex_12770`     |              1 | [EFO:0001079](http://www.ebi.ac.uk/efo/EFO_0001079)                                                      |
+| `NIFSTD:birnlex_228`       |              1 | [EFO:0001272](http://www.ebi.ac.uk/efo/EFO_0001272)                                                      |
+| `NIFSTD:birnlex_681`       |              1 | [EFO:0001272](http://www.ebi.ac.uk/efo/EFO_0001272)                                                      |
+| `NIFSTD:birnlex_577`       |              1 | [EFO:0001327](http://www.ebi.ac.uk/efo/EFO_0001327)                                                      |
+| `NIFSTD:birnlex_152`       |              1 | [EFO:0001331](http://www.ebi.ac.uk/efo/EFO_0001331)                                                      |
+| `NIFSTD:birnlex_106`       |              1 | [EFO:0001332](http://www.ebi.ac.uk/efo/EFO_0001332)                                                      |
+| `NIFSTD:birnlex_320`       |              1 | [EFO:0001342](http://www.ebi.ac.uk/efo/EFO_0001342)                                                      |
+| `NIFSTD:birnlex_214`       |              1 | [EFO:0001352](http://www.ebi.ac.uk/efo/EFO_0001352)                                                      |
+| `NIFSTD:birnlex_266`       |              1 | [EFO:0001352](http://www.ebi.ac.uk/efo/EFO_0001352)                                                      |
+| `NIFSTD:birnlex_438`       |              1 | [EFO:0001355](http://www.ebi.ac.uk/efo/EFO_0001355)                                                      |
+| `NIFSTD:birnlex_695`       |              1 | [EFO:0001355](http://www.ebi.ac.uk/efo/EFO_0001355)                                                      |
+| `NIFSTD:birnlex_12679`     |              1 | [EFO:0001358](http://www.ebi.ac.uk/efo/EFO_0001358)                                                      |
+| `NIFSTD:birnlex_12812`     |              1 | [EFO:0001365](http://www.ebi.ac.uk/efo/EFO_0001365)                                                      |
+| `NIFSTD:birnlex_1178`      |              1 | [EFO:0001366](http://www.ebi.ac.uk/efo/EFO_0001366)                                                      |
+| `NIFSTD:sao1145756102`     |              1 | [EFO:0001369](http://www.ebi.ac.uk/efo/EFO_0001369)                                                      |
+| `NIFSTD:birnlex_429`       |              1 | [EFO:0001372](http://www.ebi.ac.uk/efo/EFO_0001372)                                                      |
+| `NIFSTD:birnlex_699`       |              1 | [EFO:0001372](http://www.ebi.ac.uk/efo/EFO_0001372)                                                      |
+| `NIFSTD:birnlex_733`       |              1 | [EFO:0001394](http://www.ebi.ac.uk/efo/EFO_0001394)                                                      |
+| `NIFSTD:sao279801585`      |              1 | [EFO:0001444](http://www.ebi.ac.uk/efo/EFO_0001444)                                                      |
+| `NIFSTD:birnlex_2525`      |              1 | [EFO:0001644](http://www.ebi.ac.uk/efo/EFO_0001644)                                                      |
+| `NIFSTD:sao2146594471`     |              1 | [EFO:0001651](http://www.ebi.ac.uk/efo/EFO_0001651)                                                      |
+| `NIFSTD:sao1703115805`     |              1 | [EFO:0001653](http://www.ebi.ac.uk/efo/EFO_0001653)                                                      |
+| `NIFSTD:sao-282380853`     |              1 | [EFO:0001654](http://www.ebi.ac.uk/efo/EFO_0001654)                                                      |
+| `NIFSTD:birnlex_2391`      |              1 | [EFO:0001715](http://www.ebi.ac.uk/efo/EFO_0001715)                                                      |
+| `NIFSTD:sao196989303`      |              1 | [EFO:0001715](http://www.ebi.ac.uk/efo/EFO_0001715)                                                      |
+| `NIFSTD:birnlex_2085`      |              1 | [EFO:0001738](http://www.ebi.ac.uk/efo/EFO_0001738)                                                      |
+| `NIFSTD:birnlex_3016`      |              1 | [EFO:0001799](http://www.ebi.ac.uk/efo/EFO_0001799)                                                      |
+| `NIFSTD:birnlex_982`       |              1 | [EFO:0001919](http://www.ebi.ac.uk/efo/EFO_0001919)                                                      |
+| `NIFSTD:birnlex_1263`      |              1 | [EFO:0001961](http://www.ebi.ac.uk/efo/EFO_0001961)                                                      |
+| `NIFSTD:birnlex_1565`      |              1 | [EFO:0001962](http://www.ebi.ac.uk/efo/EFO_0001962)                                                      |
+| `NIFSTD:birnlex_1202`      |              1 | [EFO:0001987](http://www.ebi.ac.uk/efo/EFO_0001987)                                                      |
+| `NIFSTD:birnlex_12573`     |              1 | [EFO:0002505](http://www.ebi.ac.uk/efo/EFO_0002505)                                                      |
+| `NIFSTD:birnlex_2098`      |              1 | [EFO:0002508](http://www.ebi.ac.uk/efo/EFO_0002508)                                                      |
+| `NIFSTD:birnlex_12697`     |              1 | [EFO:0002512](http://www.ebi.ac.uk/efo/EFO_0002512)                                                      |
+| `NIFSTD:birnlex_484`       |              1 | [EFO:0002543](http://www.ebi.ac.uk/efo/EFO_0002543)                                                      |
+| `NIFSTD:birnlex_12648`     |              1 | [EFO:0002624](http://www.ebi.ac.uk/efo/EFO_0002624)                                                      |
 
 ## `OBI`: Ontology for Biomedical Investigations
 
@@ -304,14 +424,14 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `OMIM`: Online Mendelian Inheritance in Man
 
-Overall, there were 56 invalid
+Overall, there were 55 invalid
 xrefs to external prefixed with `OMIM` (standardized to Bioregistry
 prefix [`omim`](https://bioregistry.io/omim)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `OMIM:genemap2` |             56 | [EFO:0000174](http://www.ebi.ac.uk/efo/EFO_0000174), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000198](http://www.ebi.ac.uk/efo/EFO_0000198), ... |
+| `OMIM:genemap2` |             55 | [EFO:0000174](http://www.ebi.ac.uk/efo/EFO_0000174), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000198](http://www.ebi.ac.uk/efo/EFO_0000198), ... |
 
 ## `OMIMPS`: OMIM Phenotypic Series
 

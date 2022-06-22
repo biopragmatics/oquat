@@ -156,9 +156,6 @@
         "http://www.ebi.ac.uk/efo/EFO_0003106": [
           "NCIT:P378"
         ],
-        "http://www.ebi.ac.uk/efo/EFO_0003768": [
-          "NCIT:P378"
-        ],
         "http://www.ebi.ac.uk/efo/EFO_0003770": [
           "NCIT:P378"
         ],
@@ -1980,9 +1977,6 @@
         "http://www.ebi.ac.uk/efo/EFO_0003764": [
           "MONDO:ambiguous"
         ],
-        "http://www.ebi.ac.uk/efo/EFO_0003768": [
-          "OMIM:genemap2"
-        ],
         "http://www.ebi.ac.uk/efo/EFO_0003769": [
           "MONDO:patterns/location",
           "MONDO:patterns/neoplasm"
@@ -3447,10 +3441,6 @@
         ],
         "http://www.ebi.ac.uk/efo/EFO_0009540": [
           "MONDO:design_pattern",
-          "MONDO:patterns/location",
-          "MONDO:patterns/location_top"
-        ],
-        "http://www.ebi.ac.uk/efo/EFO_0009541": [
           "MONDO:patterns/location",
           "MONDO:patterns/location_top"
         ],
@@ -5561,18 +5551,18 @@
           "http://www.ebi.ac.uk/efo/EFO_1001931": "MTH:NOCODE",
           "http://www.ebi.ac.uk/efo/EFO_1001950": "MTH:191",
           "http://www.ebi.ac.uk/efo/EFO_1002023": "MTH:587"
-        },
-        "NSH": {
-          "http://www.ebi.ac.uk/efo/EFO_0003768": "NSH:D014029"
         }
       }
     },
-    "version": "3.42.0",
-    "version_iri": "http://www.ebi.ac.uk/efo/releases/v3.42.0/efo.owl",
+    "version": "3.43.0",
+    "version_iri": "http://www.ebi.ac.uk/efo/releases/v3.43.0/efo.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://www.ebi.ac.uk/efo/EFO_0000095": [
           "ICD10:C91.10"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000107": [
+          "NIFSTD:birnlex_734"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000220": [
           "ICD10:C91.00",
@@ -5585,8 +5575,21 @@
         "http://www.ebi.ac.uk/efo/EFO_0000224": [
           "ICD10:C92.40"
         ],
+        "http://www.ebi.ac.uk/efo/EFO_0000230": [
+          "NIFSTD:birnlex_1581"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000249": [
+          "NIFSTD:birnlex_2092"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000252": [
+          "NIFSTD:birnlex_1241"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0000253": [
+          "NIFSTD:birnlex_12566",
           "ORDO:Orphanet_803"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000264": [
+          "NIFSTD:birnlex_2110"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000274": [
           "OMIMPS:603165"
@@ -5594,8 +5597,20 @@
         "http://www.ebi.ac.uk/efo/EFO_0000279": [
           "OMIMPS:258150"
         ],
+        "http://www.ebi.ac.uk/efo/EFO_0000289": [
+          "NIFSTD:birnlex_12754"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000302": [
+          "NIFSTD:birnlex_796"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0000309": [
           "ICD10:C83.70"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000311": [
+          "NIFSTD:birnlex_406"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000327": [
+          "NIFSTD:birnlex_1489"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000330": [
           "ICDO:M9861/3"
@@ -5603,8 +5618,21 @@
         "http://www.ebi.ac.uk/efo/EFO_0000339": [
           "KEGG:05220"
         ],
+        "http://www.ebi.ac.uk/efo/EFO_0000343": [
+          "NIFSTD:birnlex_934"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0000350": [
           "UMLS:CN242113"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000357": [
+          "NIFSTD:birnlex_1190"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000381": [
+          "NIFSTD:birnlex_1672",
+          "NIFSTD:nlx_anat_20090201"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000383": [
+          "NIFSTD:birnlex_1494"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000384": [
           "UMLS:CN043071"
@@ -5612,8 +5640,26 @@
         "http://www.ebi.ac.uk/efo/EFO_0000407": [
           "KEGG:05414"
         ],
+        "http://www.ebi.ac.uk/efo/EFO_0000433": [
+          "NIFSTD:birnlex_2052"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000474": [
+          "NIFSTD:birnlex_12718"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000500": [
+          "NIFSTD:birnlex_12617"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000502": [
+          "NIFSTD:birnlex_12633"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000513": [
+          "NIFSTD:birnlex_2023"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0000519": [
           "UMLS:CN227279"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000533": [
+          "NIFSTD:birnlex_12500"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000538": [
           "KEGG:05410",
@@ -5625,18 +5671,43 @@
         "http://www.ebi.ac.uk/efo/EFO_0000565": [
           "ICD10:C95.90"
         ],
+        "http://www.ebi.ac.uk/efo/EFO_0000598": [
+          "NIFSTD:birnlex_174"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000600": [
+          "NIFSTD:birnlex_557"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000602": [
+          "NIFSTD:birnlex_206"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000605": [
+          "NIFSTD:birnlex_398"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000606": [
+          "NIFSTD:birnlex_393"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0000616": [
           "ICD10:C00.D48",
           "UMLS:CN236628"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000621": [
+          "NIFSTD:birnlex_12631",
           "UMLS:CN205405"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000622": [
+          "NIFSTD:birnlex_12604"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000640": [
           "UMLS:CN205129"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000650": [
           "KEGG:05133"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000651": [
+          "NIFSTD:birnlex_2087"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000658": [
+          "NIFSTD:birnlex_12606"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000668": [
           "OMIMPS:189800"
@@ -5645,21 +5716,32 @@
           "OMIMPS:177900"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000677": [
+          "NIFSTD:birnlex_12669",
           "UMLS:CN240636"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000678": [
           "ICD10:H11.00",
           "ICD10:H11.009"
         ],
+        "http://www.ebi.ac.uk/efo/EFO_0000679": [
+          "NIFSTD:birnlex_203"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0000685": [
           "KEGG:05323"
         ],
+        "http://www.ebi.ac.uk/efo/EFO_0000692": [
+          "NIFSTD:birnlex_2104"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0000693": [
+          "NIFSTD:birnlex_12603",
           "UMLS:CN202001"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000702": [
           "KEGG:05222",
           "UMLS:CN244903"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000712": [
+          "NIFSTD:birnlex_12783"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000717": [
           "UMLS:CN206012"
@@ -5672,6 +5754,7 @@
           "ICD10:J84.112"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000773": [
+          "NIFSTD:birnlex_12733",
           "OMIMPS:600512"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000775": [
@@ -5680,41 +5763,196 @@
         "http://www.ebi.ac.uk/efo/EFO_0000777": [
           "MedlinePlus: 001381"
         ],
+        "http://www.ebi.ac.uk/efo/EFO_0000802": [
+          "NIFSTD:birnlex_844"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000826": [
+          "NIFSTD:birnlex_1062"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000827": [
+          "NIFSTD:birnlex_1169"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000832": [
+          "NIFSTD:birnlex_1153"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000895": [
+          "NIFSTD:birnlex_1166"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000900": [
+          "NIFSTD:birnlex_2596"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000904": [
+          "NIFSTD:birnlex_826"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000905": [
+          "NIFSTD:birnlex_1234"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000907": [
+          "NIFSTD:birnlex_1373"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000908": [
+          "NIFSTD:birnlex_1099"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000909": [
+          "NIFSTD:birnlex_1509"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000910": [
+          "NIFSTD:birnlex_954"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000911": [
+          "NIFSTD:birnlex_1503"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000912": [
+          "NIFSTD:birnlex_1115"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000913": [
+          "NIFSTD:birnlex_928",
+          "NIFSTD:nlx_anat_20090601"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000918": [
+          "NIFSTD:birnlex_1710"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000919": [
+          "NIFSTD:birnlex_1667"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000923": [
+          "NIFSTD:birnlex_942"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000924": [
+          "NIFSTD:birnlex_957"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0000935": [
           "TADS:000315"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000964": [
+          "NIFSTD:birnlex_1230"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0000965": [
           "TGMA:000136"
         ],
+        "http://www.ebi.ac.uk/efo/EFO_0000966": [
+          "NIFSTD:sao1078172392"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0000967": [
+          "NIFSTD:sao1642908940"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0001060": [
           "OMIMPS:212750"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001064": [
+          "NIFSTD:nlx_dys_20090502"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0001071": [
           "ICD10:C34.90"
         ],
+        "http://www.ebi.ac.uk/efo/EFO_0001073": [
+          "NIFSTD:nlx_dys_20090302"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001074": [
+          "NIFSTD:nlx_dys_20090303"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001079": [
+          "NIFSTD:birnlex_12770"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001272": [
+          "NIFSTD:birnlex_228",
+          "NIFSTD:birnlex_681"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0001323": [
           "FBdv:0005333"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001327": [
+          "NIFSTD:birnlex_577"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001331": [
+          "NIFSTD:birnlex_152"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001332": [
+          "NIFSTD:birnlex_106"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0001341": [
           "JAX:8075"
         ],
+        "http://www.ebi.ac.uk/efo/EFO_0001342": [
+          "NIFSTD:birnlex_320"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001352": [
+          "NIFSTD:birnlex_214",
+          "NIFSTD:birnlex_266"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001355": [
+          "NIFSTD:birnlex_438",
+          "NIFSTD:birnlex_695"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0001356": [
           "OMIMPS:105400"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001358": [
+          "NIFSTD:birnlex_12679"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0001361": [
           "UMLS:CN200519"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0001365": [
+          "NIFSTD:birnlex_12812",
           "OMIMPS:603075"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001366": [
+          "NIFSTD:birnlex_1178"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001369": [
+          "NIFSTD:sao1145756102"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001372": [
+          "NIFSTD:birnlex_429",
+          "NIFSTD:birnlex_699"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0001378": [
           "ICD10:C90.00"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0001394": [
-          "NCIt: C12511"
+          "NCIt: C12511",
+          "NIFSTD:birnlex_733"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001444": [
+          "NIFSTD:sao279801585"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001644": [
+          "NIFSTD:birnlex_2525"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001651": [
+          "NIFSTD:sao2146594471"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001653": [
+          "NIFSTD:sao1703115805"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001654": [
+          "NIFSTD:sao-282380853"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0001663": [
           "KEGG:05215"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001715": [
+          "NIFSTD:birnlex_2391",
+          "NIFSTD:sao196989303"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001738": [
+          "NIFSTD:birnlex_2085"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001799": [
+          "NIFSTD:birnlex_3016"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001919": [
+          "NIFSTD:birnlex_982"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001961": [
+          "NIFSTD:birnlex_1263"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001962": [
+          "NIFSTD:birnlex_1565"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001987": [
+          "NIFSTD:birnlex_1202"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0002422": [
           "ICD10:D10.D36"
@@ -5722,11 +5960,32 @@
         "http://www.ebi.ac.uk/efo/EFO_0002430": [
           "ICD10:D75.81"
         ],
+        "http://www.ebi.ac.uk/efo/EFO_0002505": [
+          "NIFSTD:birnlex_12573"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0002508": [
+          "NIFSTD:birnlex_2098"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0002512": [
+          "NIFSTD:birnlex_12697"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0002540": [
           "PMID: 11246871"
         ],
+        "http://www.ebi.ac.uk/efo/EFO_0002543": [
+          "NIFSTD:birnlex_484"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0002607": [
+          "NIFSTD:birnlex_2117"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0002624": [
+          "NIFSTD:birnlex_12648"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0002690": [
           "KEGG:05322"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0002694": [
+          "NIFSTD:birnlex_2117"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0003025": [
           "ICD10:C94.20",
@@ -6104,6 +6363,9 @@
         "http://www.ebi.ac.uk/efo/EFO_0010749": [
           "PMID: 32355309"
         ],
+        "http://www.ebi.ac.uk/efo/EFO_0010956": [
+          "DI:00917"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0011061": [
           "MeSH:Q000633"
         ],
@@ -6424,7 +6686,11 @@
         ]
       },
       "label": "Node Xrefs",
-      "malformed_curies": {},
+      "malformed_curies": {
+        "http://www.ebi.ac.uk/efo/EFO_0020991": [
+          "Quantification of ethanolamine in a sample."
+        ]
+      },
       "noncanonical_prefixes": {
         " MedDRA": {
           "http://www.ebi.ac.uk/efo/EFO_0011048": " MedDRA:10059516"
@@ -6502,6 +6768,101 @@
         },
         "ISBN-13": {
           "http://www.ebi.ac.uk/efo/EFO_0009432": "ISBN-13:978-0632067107"
+        },
+        "NIFSTD": {
+          "http://www.ebi.ac.uk/efo/EFO_0000107": "NIFSTD:birnlex_734",
+          "http://www.ebi.ac.uk/efo/EFO_0000230": "NIFSTD:birnlex_1581",
+          "http://www.ebi.ac.uk/efo/EFO_0000249": "NIFSTD:birnlex_2092",
+          "http://www.ebi.ac.uk/efo/EFO_0000252": "NIFSTD:birnlex_1241",
+          "http://www.ebi.ac.uk/efo/EFO_0000253": "NIFSTD:birnlex_12566",
+          "http://www.ebi.ac.uk/efo/EFO_0000264": "NIFSTD:birnlex_2110",
+          "http://www.ebi.ac.uk/efo/EFO_0000289": "NIFSTD:birnlex_12754",
+          "http://www.ebi.ac.uk/efo/EFO_0000302": "NIFSTD:birnlex_796",
+          "http://www.ebi.ac.uk/efo/EFO_0000311": "NIFSTD:birnlex_406",
+          "http://www.ebi.ac.uk/efo/EFO_0000327": "NIFSTD:birnlex_1489",
+          "http://www.ebi.ac.uk/efo/EFO_0000343": "NIFSTD:birnlex_934",
+          "http://www.ebi.ac.uk/efo/EFO_0000357": "NIFSTD:birnlex_1190",
+          "http://www.ebi.ac.uk/efo/EFO_0000381": "NIFSTD:nlx_anat_20090201",
+          "http://www.ebi.ac.uk/efo/EFO_0000383": "NIFSTD:birnlex_1494",
+          "http://www.ebi.ac.uk/efo/EFO_0000433": "NIFSTD:birnlex_2052",
+          "http://www.ebi.ac.uk/efo/EFO_0000474": "NIFSTD:birnlex_12718",
+          "http://www.ebi.ac.uk/efo/EFO_0000500": "NIFSTD:birnlex_12617",
+          "http://www.ebi.ac.uk/efo/EFO_0000502": "NIFSTD:birnlex_12633",
+          "http://www.ebi.ac.uk/efo/EFO_0000513": "NIFSTD:birnlex_2023",
+          "http://www.ebi.ac.uk/efo/EFO_0000533": "NIFSTD:birnlex_12500",
+          "http://www.ebi.ac.uk/efo/EFO_0000598": "NIFSTD:birnlex_174",
+          "http://www.ebi.ac.uk/efo/EFO_0000600": "NIFSTD:birnlex_557",
+          "http://www.ebi.ac.uk/efo/EFO_0000602": "NIFSTD:birnlex_206",
+          "http://www.ebi.ac.uk/efo/EFO_0000605": "NIFSTD:birnlex_398",
+          "http://www.ebi.ac.uk/efo/EFO_0000606": "NIFSTD:birnlex_393",
+          "http://www.ebi.ac.uk/efo/EFO_0000621": "NIFSTD:birnlex_12631",
+          "http://www.ebi.ac.uk/efo/EFO_0000622": "NIFSTD:birnlex_12604",
+          "http://www.ebi.ac.uk/efo/EFO_0000651": "NIFSTD:birnlex_2087",
+          "http://www.ebi.ac.uk/efo/EFO_0000658": "NIFSTD:birnlex_12606",
+          "http://www.ebi.ac.uk/efo/EFO_0000677": "NIFSTD:birnlex_12669",
+          "http://www.ebi.ac.uk/efo/EFO_0000679": "NIFSTD:birnlex_203",
+          "http://www.ebi.ac.uk/efo/EFO_0000692": "NIFSTD:birnlex_2104",
+          "http://www.ebi.ac.uk/efo/EFO_0000693": "NIFSTD:birnlex_12603",
+          "http://www.ebi.ac.uk/efo/EFO_0000712": "NIFSTD:birnlex_12783",
+          "http://www.ebi.ac.uk/efo/EFO_0000773": "NIFSTD:birnlex_12733",
+          "http://www.ebi.ac.uk/efo/EFO_0000802": "NIFSTD:birnlex_844",
+          "http://www.ebi.ac.uk/efo/EFO_0000826": "NIFSTD:birnlex_1062",
+          "http://www.ebi.ac.uk/efo/EFO_0000827": "NIFSTD:birnlex_1169",
+          "http://www.ebi.ac.uk/efo/EFO_0000832": "NIFSTD:birnlex_1153",
+          "http://www.ebi.ac.uk/efo/EFO_0000895": "NIFSTD:birnlex_1166",
+          "http://www.ebi.ac.uk/efo/EFO_0000900": "NIFSTD:birnlex_2596",
+          "http://www.ebi.ac.uk/efo/EFO_0000904": "NIFSTD:birnlex_826",
+          "http://www.ebi.ac.uk/efo/EFO_0000905": "NIFSTD:birnlex_1234",
+          "http://www.ebi.ac.uk/efo/EFO_0000907": "NIFSTD:birnlex_1373",
+          "http://www.ebi.ac.uk/efo/EFO_0000908": "NIFSTD:birnlex_1099",
+          "http://www.ebi.ac.uk/efo/EFO_0000909": "NIFSTD:birnlex_1509",
+          "http://www.ebi.ac.uk/efo/EFO_0000910": "NIFSTD:birnlex_954",
+          "http://www.ebi.ac.uk/efo/EFO_0000911": "NIFSTD:birnlex_1503",
+          "http://www.ebi.ac.uk/efo/EFO_0000912": "NIFSTD:birnlex_1115",
+          "http://www.ebi.ac.uk/efo/EFO_0000913": "NIFSTD:birnlex_928",
+          "http://www.ebi.ac.uk/efo/EFO_0000918": "NIFSTD:birnlex_1710",
+          "http://www.ebi.ac.uk/efo/EFO_0000919": "NIFSTD:birnlex_1667",
+          "http://www.ebi.ac.uk/efo/EFO_0000923": "NIFSTD:birnlex_942",
+          "http://www.ebi.ac.uk/efo/EFO_0000924": "NIFSTD:birnlex_957",
+          "http://www.ebi.ac.uk/efo/EFO_0000964": "NIFSTD:birnlex_1230",
+          "http://www.ebi.ac.uk/efo/EFO_0000966": "NIFSTD:sao1078172392",
+          "http://www.ebi.ac.uk/efo/EFO_0000967": "NIFSTD:sao1642908940",
+          "http://www.ebi.ac.uk/efo/EFO_0001064": "NIFSTD:nlx_dys_20090502",
+          "http://www.ebi.ac.uk/efo/EFO_0001073": "NIFSTD:nlx_dys_20090302",
+          "http://www.ebi.ac.uk/efo/EFO_0001074": "NIFSTD:nlx_dys_20090303",
+          "http://www.ebi.ac.uk/efo/EFO_0001079": "NIFSTD:birnlex_12770",
+          "http://www.ebi.ac.uk/efo/EFO_0001272": "NIFSTD:birnlex_228",
+          "http://www.ebi.ac.uk/efo/EFO_0001327": "NIFSTD:birnlex_577",
+          "http://www.ebi.ac.uk/efo/EFO_0001331": "NIFSTD:birnlex_152",
+          "http://www.ebi.ac.uk/efo/EFO_0001332": "NIFSTD:birnlex_106",
+          "http://www.ebi.ac.uk/efo/EFO_0001342": "NIFSTD:birnlex_320",
+          "http://www.ebi.ac.uk/efo/EFO_0001352": "NIFSTD:birnlex_266",
+          "http://www.ebi.ac.uk/efo/EFO_0001355": "NIFSTD:birnlex_695",
+          "http://www.ebi.ac.uk/efo/EFO_0001358": "NIFSTD:birnlex_12679",
+          "http://www.ebi.ac.uk/efo/EFO_0001365": "NIFSTD:birnlex_12812",
+          "http://www.ebi.ac.uk/efo/EFO_0001366": "NIFSTD:birnlex_1178",
+          "http://www.ebi.ac.uk/efo/EFO_0001369": "NIFSTD:sao1145756102",
+          "http://www.ebi.ac.uk/efo/EFO_0001372": "NIFSTD:birnlex_429",
+          "http://www.ebi.ac.uk/efo/EFO_0001394": "NIFSTD:birnlex_733",
+          "http://www.ebi.ac.uk/efo/EFO_0001444": "NIFSTD:sao279801585",
+          "http://www.ebi.ac.uk/efo/EFO_0001644": "NIFSTD:birnlex_2525",
+          "http://www.ebi.ac.uk/efo/EFO_0001651": "NIFSTD:sao2146594471",
+          "http://www.ebi.ac.uk/efo/EFO_0001653": "NIFSTD:sao1703115805",
+          "http://www.ebi.ac.uk/efo/EFO_0001654": "NIFSTD:sao-282380853",
+          "http://www.ebi.ac.uk/efo/EFO_0001715": "NIFSTD:sao196989303",
+          "http://www.ebi.ac.uk/efo/EFO_0001738": "NIFSTD:birnlex_2085",
+          "http://www.ebi.ac.uk/efo/EFO_0001799": "NIFSTD:birnlex_3016",
+          "http://www.ebi.ac.uk/efo/EFO_0001919": "NIFSTD:birnlex_982",
+          "http://www.ebi.ac.uk/efo/EFO_0001961": "NIFSTD:birnlex_1263",
+          "http://www.ebi.ac.uk/efo/EFO_0001962": "NIFSTD:birnlex_1565",
+          "http://www.ebi.ac.uk/efo/EFO_0001987": "NIFSTD:birnlex_1202",
+          "http://www.ebi.ac.uk/efo/EFO_0002505": "NIFSTD:birnlex_12573",
+          "http://www.ebi.ac.uk/efo/EFO_0002508": "NIFSTD:birnlex_2098",
+          "http://www.ebi.ac.uk/efo/EFO_0002512": "NIFSTD:birnlex_12697",
+          "http://www.ebi.ac.uk/efo/EFO_0002543": "NIFSTD:birnlex_484",
+          "http://www.ebi.ac.uk/efo/EFO_0002607": "NIFSTD:birnlex_2117",
+          "http://www.ebi.ac.uk/efo/EFO_0002624": "NIFSTD:birnlex_12648",
+          "http://www.ebi.ac.uk/efo/EFO_0002694": "NIFSTD:birnlex_2117"
         },
         "OMIMPS": {
           "http://www.ebi.ac.uk/efo/EFO_0000274": "OMIMPS:603165",
@@ -7528,7 +7889,6 @@
           "http://www.ebi.ac.uk/efo/EFO_0009537": "SCTID:69195002",
           "http://www.ebi.ac.uk/efo/EFO_0009538": "SCTID:716723000",
           "http://www.ebi.ac.uk/efo/EFO_0009540": "SCTID:57203004",
-          "http://www.ebi.ac.uk/efo/EFO_0009541": "SCTID:66579008",
           "http://www.ebi.ac.uk/efo/EFO_0009542": "SCTID:18526009",
           "http://www.ebi.ac.uk/efo/EFO_0009544": "SCTID:37657006",
           "http://www.ebi.ac.uk/efo/EFO_0009545": "SCTID:28670008",
@@ -8444,101 +8804,6 @@
         "NCI Metathesaurus": {
           "http://www.ebi.ac.uk/efo/EFO_0001391": "NCI Metathesaurus:  C0037658",
           "http://www.ebi.ac.uk/efo/EFO_0001644": "NCI Metathesaurus: C0038445"
-        },
-        "NIFSTD": {
-          "http://www.ebi.ac.uk/efo/EFO_0000107": "NIFSTD:birnlex_734",
-          "http://www.ebi.ac.uk/efo/EFO_0000230": "NIFSTD:birnlex_1581",
-          "http://www.ebi.ac.uk/efo/EFO_0000249": "NIFSTD:birnlex_2092",
-          "http://www.ebi.ac.uk/efo/EFO_0000252": "NIFSTD:birnlex_1241",
-          "http://www.ebi.ac.uk/efo/EFO_0000253": "NIFSTD:birnlex_12566",
-          "http://www.ebi.ac.uk/efo/EFO_0000264": "NIFSTD:birnlex_2110",
-          "http://www.ebi.ac.uk/efo/EFO_0000289": "NIFSTD:birnlex_12754",
-          "http://www.ebi.ac.uk/efo/EFO_0000302": "NIFSTD:birnlex_796",
-          "http://www.ebi.ac.uk/efo/EFO_0000311": "NIFSTD:birnlex_406",
-          "http://www.ebi.ac.uk/efo/EFO_0000327": "NIFSTD:birnlex_1489",
-          "http://www.ebi.ac.uk/efo/EFO_0000343": "NIFSTD:birnlex_934",
-          "http://www.ebi.ac.uk/efo/EFO_0000357": "NIFSTD:birnlex_1190",
-          "http://www.ebi.ac.uk/efo/EFO_0000381": "NIFSTD:nlx_anat_20090201",
-          "http://www.ebi.ac.uk/efo/EFO_0000383": "NIFSTD:birnlex_1494",
-          "http://www.ebi.ac.uk/efo/EFO_0000433": "NIFSTD:birnlex_2052",
-          "http://www.ebi.ac.uk/efo/EFO_0000474": "NIFSTD:birnlex_12718",
-          "http://www.ebi.ac.uk/efo/EFO_0000500": "NIFSTD:birnlex_12617",
-          "http://www.ebi.ac.uk/efo/EFO_0000502": "NIFSTD:birnlex_12633",
-          "http://www.ebi.ac.uk/efo/EFO_0000513": "NIFSTD:birnlex_2023",
-          "http://www.ebi.ac.uk/efo/EFO_0000533": "NIFSTD:birnlex_12500",
-          "http://www.ebi.ac.uk/efo/EFO_0000598": "NIFSTD:birnlex_174",
-          "http://www.ebi.ac.uk/efo/EFO_0000600": "NIFSTD:birnlex_557",
-          "http://www.ebi.ac.uk/efo/EFO_0000602": "NIFSTD:birnlex_206",
-          "http://www.ebi.ac.uk/efo/EFO_0000605": "NIFSTD:birnlex_398",
-          "http://www.ebi.ac.uk/efo/EFO_0000606": "NIFSTD:birnlex_393",
-          "http://www.ebi.ac.uk/efo/EFO_0000621": "NIFSTD:birnlex_12631",
-          "http://www.ebi.ac.uk/efo/EFO_0000622": "NIFSTD:birnlex_12604",
-          "http://www.ebi.ac.uk/efo/EFO_0000651": "NIFSTD:birnlex_2087",
-          "http://www.ebi.ac.uk/efo/EFO_0000658": "NIFSTD:birnlex_12606",
-          "http://www.ebi.ac.uk/efo/EFO_0000677": "NIFSTD:birnlex_12669",
-          "http://www.ebi.ac.uk/efo/EFO_0000679": "NIFSTD:birnlex_203",
-          "http://www.ebi.ac.uk/efo/EFO_0000692": "NIFSTD:birnlex_2104",
-          "http://www.ebi.ac.uk/efo/EFO_0000693": "NIFSTD:birnlex_12603",
-          "http://www.ebi.ac.uk/efo/EFO_0000712": "NIFSTD:birnlex_12783",
-          "http://www.ebi.ac.uk/efo/EFO_0000773": "NIFSTD:birnlex_12733",
-          "http://www.ebi.ac.uk/efo/EFO_0000802": "NIFSTD:birnlex_844",
-          "http://www.ebi.ac.uk/efo/EFO_0000826": "NIFSTD:birnlex_1062",
-          "http://www.ebi.ac.uk/efo/EFO_0000827": "NIFSTD:birnlex_1169",
-          "http://www.ebi.ac.uk/efo/EFO_0000832": "NIFSTD:birnlex_1153",
-          "http://www.ebi.ac.uk/efo/EFO_0000895": "NIFSTD:birnlex_1166",
-          "http://www.ebi.ac.uk/efo/EFO_0000900": "NIFSTD:birnlex_2596",
-          "http://www.ebi.ac.uk/efo/EFO_0000904": "NIFSTD:birnlex_826",
-          "http://www.ebi.ac.uk/efo/EFO_0000905": "NIFSTD:birnlex_1234",
-          "http://www.ebi.ac.uk/efo/EFO_0000907": "NIFSTD:birnlex_1373",
-          "http://www.ebi.ac.uk/efo/EFO_0000908": "NIFSTD:birnlex_1099",
-          "http://www.ebi.ac.uk/efo/EFO_0000909": "NIFSTD:birnlex_1509",
-          "http://www.ebi.ac.uk/efo/EFO_0000910": "NIFSTD:birnlex_954",
-          "http://www.ebi.ac.uk/efo/EFO_0000911": "NIFSTD:birnlex_1503",
-          "http://www.ebi.ac.uk/efo/EFO_0000912": "NIFSTD:birnlex_1115",
-          "http://www.ebi.ac.uk/efo/EFO_0000913": "NIFSTD:birnlex_928",
-          "http://www.ebi.ac.uk/efo/EFO_0000918": "NIFSTD:birnlex_1710",
-          "http://www.ebi.ac.uk/efo/EFO_0000919": "NIFSTD:birnlex_1667",
-          "http://www.ebi.ac.uk/efo/EFO_0000923": "NIFSTD:birnlex_942",
-          "http://www.ebi.ac.uk/efo/EFO_0000924": "NIFSTD:birnlex_957",
-          "http://www.ebi.ac.uk/efo/EFO_0000964": "NIFSTD:birnlex_1230",
-          "http://www.ebi.ac.uk/efo/EFO_0000966": "NIFSTD:sao1078172392",
-          "http://www.ebi.ac.uk/efo/EFO_0000967": "NIFSTD:sao1642908940",
-          "http://www.ebi.ac.uk/efo/EFO_0001064": "NIFSTD:nlx_dys_20090502",
-          "http://www.ebi.ac.uk/efo/EFO_0001073": "NIFSTD:nlx_dys_20090302",
-          "http://www.ebi.ac.uk/efo/EFO_0001074": "NIFSTD:nlx_dys_20090303",
-          "http://www.ebi.ac.uk/efo/EFO_0001079": "NIFSTD:birnlex_12770",
-          "http://www.ebi.ac.uk/efo/EFO_0001272": "NIFSTD:birnlex_228",
-          "http://www.ebi.ac.uk/efo/EFO_0001327": "NIFSTD:birnlex_577",
-          "http://www.ebi.ac.uk/efo/EFO_0001331": "NIFSTD:birnlex_152",
-          "http://www.ebi.ac.uk/efo/EFO_0001332": "NIFSTD:birnlex_106",
-          "http://www.ebi.ac.uk/efo/EFO_0001342": "NIFSTD:birnlex_320",
-          "http://www.ebi.ac.uk/efo/EFO_0001352": "NIFSTD:birnlex_266",
-          "http://www.ebi.ac.uk/efo/EFO_0001355": "NIFSTD:birnlex_695",
-          "http://www.ebi.ac.uk/efo/EFO_0001358": "NIFSTD:birnlex_12679",
-          "http://www.ebi.ac.uk/efo/EFO_0001365": "NIFSTD:birnlex_12812",
-          "http://www.ebi.ac.uk/efo/EFO_0001366": "NIFSTD:birnlex_1178",
-          "http://www.ebi.ac.uk/efo/EFO_0001369": "NIFSTD:sao1145756102",
-          "http://www.ebi.ac.uk/efo/EFO_0001372": "NIFSTD:birnlex_429",
-          "http://www.ebi.ac.uk/efo/EFO_0001394": "NIFSTD:birnlex_733",
-          "http://www.ebi.ac.uk/efo/EFO_0001444": "NIFSTD:sao279801585",
-          "http://www.ebi.ac.uk/efo/EFO_0001644": "NIFSTD:birnlex_2525",
-          "http://www.ebi.ac.uk/efo/EFO_0001651": "NIFSTD:sao2146594471",
-          "http://www.ebi.ac.uk/efo/EFO_0001653": "NIFSTD:sao1703115805",
-          "http://www.ebi.ac.uk/efo/EFO_0001654": "NIFSTD:sao-282380853",
-          "http://www.ebi.ac.uk/efo/EFO_0001715": "NIFSTD:sao196989303",
-          "http://www.ebi.ac.uk/efo/EFO_0001738": "NIFSTD:birnlex_2085",
-          "http://www.ebi.ac.uk/efo/EFO_0001799": "NIFSTD:birnlex_3016",
-          "http://www.ebi.ac.uk/efo/EFO_0001919": "NIFSTD:birnlex_982",
-          "http://www.ebi.ac.uk/efo/EFO_0001961": "NIFSTD:birnlex_1263",
-          "http://www.ebi.ac.uk/efo/EFO_0001962": "NIFSTD:birnlex_1565",
-          "http://www.ebi.ac.uk/efo/EFO_0001987": "NIFSTD:birnlex_1202",
-          "http://www.ebi.ac.uk/efo/EFO_0002505": "NIFSTD:birnlex_12573",
-          "http://www.ebi.ac.uk/efo/EFO_0002508": "NIFSTD:birnlex_2098",
-          "http://www.ebi.ac.uk/efo/EFO_0002512": "NIFSTD:birnlex_12697",
-          "http://www.ebi.ac.uk/efo/EFO_0002543": "NIFSTD:birnlex_484",
-          "http://www.ebi.ac.uk/efo/EFO_0002607": "NIFSTD:birnlex_2117",
-          "http://www.ebi.ac.uk/efo/EFO_0002624": "NIFSTD:birnlex_12648",
-          "http://www.ebi.ac.uk/efo/EFO_0002694": "NIFSTD:birnlex_2117"
         },
         "OGES": {
           "http://www.ebi.ac.uk/efo/EFO_0007725": "OGES:000022"

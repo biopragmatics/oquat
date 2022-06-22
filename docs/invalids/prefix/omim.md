@@ -387,7 +387,7 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `OMIM:genemap2` |             56 | [EFO:0000174](http://www.ebi.ac.uk/efo/EFO_0000174), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000198](http://www.ebi.ac.uk/efo/EFO_0000198), ... |
+| `OMIM:genemap2` |             55 | [EFO:0000174](http://www.ebi.ac.uk/efo/EFO_0000174), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000198](http://www.ebi.ac.uk/efo/EFO_0000198), ... |
 
 ## `epso`: Epilepsy and Seizure Ontology
 
@@ -806,6 +806,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS123700` |              1 | [DOID:3144](http://purl.obolibrary.org/obo/DOID_3144)       |
 | `OMIM:PS161800` |              1 | [DOID:3191](http://purl.obolibrary.org/obo/DOID_3191)       |
 | `OMIM:PS162091` |              1 | [DOID:3204](http://purl.obolibrary.org/obo/DOID_3204)       |
+| `OMIM:PS226650` |              1 | [DOID:3209](http://purl.obolibrary.org/obo/DOID_3209)       |
 | `OMIM:PS306400` |              1 | [DOID:3265](http://purl.obolibrary.org/obo/DOID_3265)       |
 | `OMIM:PS603165` |              1 | [DOID:3310](http://purl.obolibrary.org/obo/DOID_3310)       |
 | `OMIM:PS105400` |              1 | [DOID:332](http://purl.obolibrary.org/obo/DOID_332)         |

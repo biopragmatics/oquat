@@ -21,85 +21,20 @@
         "http://purl.obolibrary.org/obo/CL_0000010": [
           "ReO:mhb"
         ],
-        "http://purl.obolibrary.org/obo/CL_0000017": [
-          "MESH:A05.360.490.890.880"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000018": [
-          "MESH:A05.360.490.890.860"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000019": [
-          "MESH:A05.360.490.890"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000020": [
-          "MESH:A05.360.490.890.900"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000034": [
-          "MESH:A11.872"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000056": [
-          "MESH:A11.635"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000057": [
-          "MESH:A11.329.228"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000059": [
-          "MESH:A11.436.107"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000062": [
-          "MESH:A11.329.629"
-        ],
         "http://purl.obolibrary.org/obo/CL_0000063": [
           "FB:ma"
         ],
         "http://purl.obolibrary.org/obo/CL_0000066": [
-          "FB:ma",
-          "MESH:A11.436"
+          "FB:ma"
         ],
-        "http://purl.obolibrary.org/obo/CL_0000091": [
-          "MESH:A11.329.372.588"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000094": [
-          "MESH:A11.118.637.415"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000096": [
-          "MESH:A11.118.637.415.583"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000097": [
-          "MESH:A11.329.427"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000099": [
-          "MESH:A08.663.358"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000100": [
-          "MESH:A08.663.655.500"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000121": [
-          "MESH:A08.186.211.132.810.428.200.212.600"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000125": [
-          "MESH:A08.637"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000127": [
-          "MESH:A08.637.200"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000128": [
-          "MESH:A08.637.600"
+        "http://purl.obolibrary.org/obo/CL_0000119": [
+          "NIFSTD:sao1415726815"
         ],
         "http://purl.obolibrary.org/obo/CL_0000132": [
           "MESH:A09.371.060.067.31"
         ],
         "http://purl.obolibrary.org/obo/CL_0000134": [
-          "FB:ma",
-          "PMID:10102814j"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000136": [
-          "MESH:A11.329.114"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000137": [
-          "MESH:A11.329.629.500"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000138": [
-          "MESH:A11.329.171"
+          "FB:ma"
         ],
         "http://purl.obolibrary.org/obo/CL_0000144": [
           "FB:ma"
@@ -107,56 +42,11 @@
         "http://purl.obolibrary.org/obo/CL_0000158": [
           "DOI:https://doi.org/10.1378/chest.12-2762"
         ],
-        "http://purl.obolibrary.org/obo/CL_0000160": [
-          "MESH:A03.492.411.369.320"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000163": [
-          "MESH:A06.407"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000165": [
-          "MESH:A06.688"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000166": [
-          "MESH:A06.224.161"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000175": [
-          "MESH:A05.360.319.114.630.278.400"
-        ],
         "http://purl.obolibrary.org/obo/CL_0000181": [
           "FB:ma"
         ],
-        "http://purl.obolibrary.org/obo/CL_0000182": [
-          "MESH:A11.436.348"
-        ],
         "http://purl.obolibrary.org/obo/CL_0000183": [
           "FB:ma"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000187": [
-          "MESH:A11.620"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000192": [
-          "MESH:A11.620.520"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000193": [
-          "MESH:A11.620.500"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000198": [
-          "MESH:A08.800.550.700.650"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000199": [
-          "MESH:A08.800.550.700.500"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000202": [
-          "MESH:A08.663.650.250"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000205": [
-          "MESH:A08.800.550.700.840"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000206": [
-          "MESH:A08.800.550.700.120"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000210": [
-          "MESH:A08.663.650.650"
         ],
         "http://purl.obolibrary.org/obo/CL_0000211": [
           "FB:ma"
@@ -164,23 +54,8 @@
         "http://purl.obolibrary.org/obo/CL_0000212": [
           "CL:CVS"
         ],
-        "http://purl.obolibrary.org/obo/CL_0000216": [
-          "MESH:A05.360.444.849.789"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000218": [
-          "MESH:A08.637.800"
-        ],
         "http://purl.obolibrary.org/obo/CL_0000219": [
           "FB:ma"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000221": [
-          "MESH:A16.254.425.273"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000222": [
-          "MESH:A16.254.425.660"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000223": [
-          "MESH:A16.254.425.407"
         ],
         "http://purl.obolibrary.org/obo/CL_0000224": [
           "FB:ma"
@@ -194,47 +69,11 @@
         "http://purl.obolibrary.org/obo/CL_0000228": [
           "FB:ma"
         ],
-        "http://purl.obolibrary.org/obo/CL_0000232": [
-          "MESH:A11.118.290"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000233": [
-          "MESH:A11.118.188"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000242": [
-          "MESH:A08.800.550.700.500.425"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000243": [
-          "MESH:A08.637"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000312": [
-          "MESH:A11.436.397"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000315": [
-          "MESH:A12.200.882"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000317": [
-          "MESH:A12.200.702"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000318": [
-          "MESH:A12.200.849"
-        ],
         "http://purl.obolibrary.org/obo/CL_0000325": [
           "FB:ma"
         ],
         "http://purl.obolibrary.org/obo/CL_0000333": [
           "MESH:A16.254.600"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000351": [
-          "MESH:A11.936"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000353": [
-          "MESH:A11.104"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000360": [
-          "MESH:A16.254.270.550"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000361": [
-          "MESH:A16.254.412"
         ],
         "http://purl.obolibrary.org/obo/CL_0000362": [
           "Flybase:dsj",
@@ -261,12 +100,6 @@
         "http://purl.obolibrary.org/obo/CL_0000422": [
           "FB:ma"
         ],
-        "http://purl.obolibrary.org/obo/CL_0000448": [
-          "MESH:A11.329.114.500"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000449": [
-          "MESH:A10.165.114.322"
-        ],
         "http://purl.obolibrary.org/obo/CL_0000463": [
           "FlyBase:ds"
         ],
@@ -288,9 +121,6 @@
         "http://purl.obolibrary.org/obo/CL_0000483": [
           "GO:tfm"
         ],
-        "http://purl.obolibrary.org/obo/CL_0000492": [
-          "MESH:A11.118.637.555.567.569.200.400"
-        ],
         "http://purl.obolibrary.org/obo/CL_0000495": [
           "GO:tfm"
         ],
@@ -299,21 +129,6 @@
         ],
         "http://purl.obolibrary.org/obo/CL_0000497": [
           "GO:tfm"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000499": [
-          "MESH:A11.329.830"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000501": [
-          "MESH:A05.360.319.114.630.535.200"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000502": [
-          "MESH:A03.492.766.440.175"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000503": [
-          "MESH:A05.360.319.114.630.535.400"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000504": [
-          "MESH:A06.224.365"
         ],
         "http://purl.obolibrary.org/obo/CL_0000505": [
           "GO:tfm"
@@ -324,59 +139,20 @@
         "http://purl.obolibrary.org/obo/CL_0000507": [
           "GO:tfm"
         ],
-        "http://purl.obolibrary.org/obo/CL_0000508": [
-          "MESH:A03.492.766.440.300"
-        ],
         "http://purl.obolibrary.org/obo/CL_0000509": [
           "GO:tfm"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000510": [
-          "MESH:A03.492.411.369.700"
         ],
         "http://purl.obolibrary.org/obo/CL_0000511": [
           "GO:tfm"
         ],
-        "http://purl.obolibrary.org/obo/CL_0000513": [
-          "MESH:A11.635.470"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000514": [
-          "MESH:A11.635.510"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000516": [
-          "MESH:A08.340.685"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000524": [
-          "MESH:A11.868"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000526": [
-          "MESH:A08.663.650"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000527": [
-          "MESH:A08.663.655"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000528": [
-          "MESH:A08.663.748"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000540": [
-          "MESH:A08.663"
-        ],
         "http://purl.obolibrary.org/obo/CL_0000547": [
           "MESH:A11.118.290.350.200"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000561": [
-          "MESH:A08.663.358.050"
         ],
         "http://purl.obolibrary.org/obo/CL_0000565": [
           "FB:ma"
         ],
         "http://purl.obolibrary.org/obo/CL_0000568": [
           "MESH:A11.070"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000573": [
-          "MESH:A08.663.650.650.670.100"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000576": [
-          "MESH:A11.118.637.555.652"
         ],
         "http://purl.obolibrary.org/obo/CL_0000577": [
           "MESH:A03.492.766.440.250"
@@ -385,29 +161,8 @@
           "FB:ma",
           "ReO:mhb"
         ],
-        "http://purl.obolibrary.org/obo/CL_0000581": [
-          "MESH:A11.329.372.630"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000583": [
-          "MESH:A11.329.372.600"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000586": [
-          "MESH:A05.360.490"
-        ],
         "http://purl.obolibrary.org/obo/CL_0000588": [
           "MESH:A11.329.679"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000589": [
-          "MESH:A08.663.650.250.250"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000590": [
-          "MESH:A05.360.319.114.630.278.400"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000592": [
-          "MESH:A05.360.319.114.630.278.400"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000594": [
-          "MESH:A11.635.500.700"
         ],
         "http://purl.obolibrary.org/obo/CL_0000596": [
           "SGD:clt"
@@ -415,20 +170,8 @@
         "http://purl.obolibrary.org/obo/CL_0000597": [
           "SGD:clt"
         ],
-        "http://purl.obolibrary.org/obo/CL_0000598": [
-          "MESH:A08.186.211.577.405.700"
-        ],
         "http://purl.obolibrary.org/obo/CL_0000599": [
           "SGD:clt"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000601": [
-          "MESH:A08.663.650.250.315"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000602": [
-          "MESH:A08.800.050.800.900.700"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000604": [
-          "MESH:A08.663.650.650.670.650"
         ],
         "http://purl.obolibrary.org/obo/CL_0000605": [
           "SGD:clt"
@@ -442,17 +185,11 @@
         "http://purl.obolibrary.org/obo/CL_0000608": [
           "SGD:clt"
         ],
-        "http://purl.obolibrary.org/obo/CL_0000609": [
-          "MESH:A08.663.650.250.380"
-        ],
         "http://purl.obolibrary.org/obo/CL_0000629": [
           "FB:ma"
         ],
         "http://purl.obolibrary.org/obo/CL_0000630": [
           "FB:ma"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000631": [
-          "MESH:A09.246.631.246.577.543"
         ],
         "http://purl.obolibrary.org/obo/CL_0000724": [
           "MA:ma"
@@ -468,15 +205,6 @@
         ],
         "http://purl.obolibrary.org/obo/CL_0002135": [
           "GO:tfm"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0002150": [
-          "MESH:A11.329.372.300"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0002272": [
-          "MESH:D06.472.317.525"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0002336": [
-          "MESH:A10.615.550.599"
         ],
         "http://purl.obolibrary.org/obo/CL_0002380": [
           "SGD:clt"
@@ -906,6 +634,9 @@
         },
         "NCI_Thesaurus": {
           "http://purl.obolibrary.org/obo/CL_1001598": "NCI_Thesaurus:Small_Intestinal_Glandular_Cell"
+        },
+        "NIFSTD": {
+          "http://purl.obolibrary.org/obo/CL_0000119": "NIFSTD:sao1415726815"
         },
         "PMCID": {
           "http://purl.obolibrary.org/obo/CL_0000097": "PMCID:PMC2855166",
@@ -2510,9 +2241,6 @@
           "http://purl.obolibrary.org/obo/CL_0000706": "JB:jb",
           "http://purl.obolibrary.org/obo/CL_0000708": "JB:jb"
         },
-        "NIFSTD": {
-          "http://purl.obolibrary.org/obo/CL_0000119": "NIFSTD:sao1415726815"
-        },
         "NPX": {
           "http://purl.obolibrary.org/obo/CL_1001572": "NPX:PDR",
           "http://purl.obolibrary.org/obo/CL_1001573": "NPX:PDR",
@@ -2606,25 +2334,29 @@
           "http://purl.obolibrary.org/obo/CL_0000118": "WikipediaVersioned:Basket_cell&oldid=951703880",
           "http://purl.obolibrary.org/obo/CL_0000202": "WikipediaVersioned:Hair_cell&oldid=1045345915",
           "http://purl.obolibrary.org/obo/CL_0000561": "WikipediaVersioned:Amacrine_cell&oldid=1023572246",
+          "http://purl.obolibrary.org/obo/CL_0002619": "WikipediaVersioned:Endothelial_progenitor_cell&oldid=1069930016",
           "http://purl.obolibrary.org/obo/CL_0009060": "WikipediaVersioned:Marginal_zone_B-cell&oldid=1032071222",
+          "http://purl.obolibrary.org/obo/CL_0009085": "WikipediaVersioned:Endothelial_progenitor_cell&oldid=1069930016#Colony_forming_unit_–_Hill",
+          "http://purl.obolibrary.org/obo/CL_0009088": "WikipediaVersioned:Endothelial_progenitor_cell&oldid=1069930016#Circulating_angiogenic_cell",
+          "http://purl.obolibrary.org/obo/CL_0009090": "WikipediaVersioned:Endothelial_colony_forming_cell&oldid=1068242094",
           "http://purl.obolibrary.org/obo/CL_4023076": "WikipediaVersioned:Martinotti_cell&oldid=9947732",
           "http://purl.obolibrary.org/obo/CL_4023108": "WikipediaVersioned:Magnocellular_neurosecretory_cell&oldid=1021059931",
           "http://purl.obolibrary.org/obo/CL_4023109": "WikipediaVersioned:Magnocellular_neurosecretory_cell&oldid=1021059931",
           "http://purl.obolibrary.org/obo/CL_4023115": "WikipediaVersioned:Spiral_ganglion&oldid=994446209",
-          "http://purl.obolibrary.org/obo/CL_4023116": "WikipediaVersioned:Spiral_ganglion&oldid=994446209"
+          "http://purl.obolibrary.org/obo/CL_4023116": "WikipediaVersioned:Spiral_ganglion&oldid=994446209",
+          "http://purl.obolibrary.org/obo/CL_4023124": "WikipediaVersioned:Kisspeptin&oldid=1042853037",
+          "http://purl.obolibrary.org/obo/CL_4023125": "WikipediaVersioned:KNDy_neuron&oldid=964682278",
+          "http://purl.obolibrary.org/obo/CL_4023128": "WikipediaVersioned:KNDy_neuron&oldid=964682278"
         }
       }
     },
     "synonym_pack": {
       "invalid_luids": {
-        "http://purl.obolibrary.org/obo/CL_0002150": [
-          "MESH:A11.329.372.300"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0002211": [
-          "MESH:A02.633.565.700"
-        ],
         "http://purl.obolibrary.org/obo/CL_1000742": [
           "CL:cjm"
+        ],
+        "http://purl.obolibrary.org/obo/CL_1001571": [
+          "NIFSTD:sao131261273"
         ]
       },
       "label": "Synonym Xrefs",
@@ -2636,6 +2368,12 @@
         },
         "ISBN-10": {
           "http://purl.obolibrary.org/obo/CL_0007021": "ISBN-10:0412429403"
+        },
+        "NIFEXT": {
+          "http://purl.obolibrary.org/obo/CL_1001435": "NIFEXT:122"
+        },
+        "NIFSTD": {
+          "http://purl.obolibrary.org/obo/CL_1001571": "NIFSTD:sao131261273"
         },
         "PMCID": {
           "http://purl.obolibrary.org/obo/CL_0000553": "PMCID:PMC1794060",
@@ -2657,18 +2395,14 @@
           "http://purl.obolibrary.org/obo/CL_1000409": "GOC:pr",
           "http://purl.obolibrary.org/obo/CL_1000410": "GOC:pr"
         },
-        "NIFSTD": {
-          "http://purl.obolibrary.org/obo/CL_1001435": "NIFSTD:nifext_122",
-          "http://purl.obolibrary.org/obo/CL_1001571": "NIFSTD:sao131261273"
-        },
         "WikipediaVersioned": {
           "http://purl.obolibrary.org/obo/CL_0000695": "WikipediaVersioned:Cajal–Retzius_cell&oldid=1032081753",
           "http://purl.obolibrary.org/obo/CL_0008037": "WikipediaVersioned:Gamma_motor_neuron&oldid=1037462173"
         }
       }
     },
-    "version": "2022-02-16",
-    "version_iri": "http://purl.obolibrary.org/obo/cl/releases/2022-02-16/cl.owl",
+    "version": "2022-06-18",
+    "version_iri": "http://purl.obolibrary.org/obo/cl/releases/2022-06-18/cl.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/CL_0000015": [
@@ -2683,22 +2417,18 @@
         "http://purl.obolibrary.org/obo/CL_0000354": [
           "ncithesaurus:Blastemal_Cell"
         ],
-        "http://purl.obolibrary.org/obo/CL_0002211": [
-          "MESH:A02.633.565.700"
+        "http://purl.obolibrary.org/obo/CL_0000598": [
+          "NIFSTD:sao862606388"
         ],
         "http://purl.obolibrary.org/obo/CL_1000398": [
           "BTO:000125"
+        ],
+        "http://purl.obolibrary.org/obo/CL_1001571": [
+          "NIFSTD:sao131261273"
         ]
       },
       "label": "Node Xrefs",
-      "malformed_curies": {
-        "http://purl.obolibrary.org/obo/CL_0008047": [
-          "H3.03.00.0.00012"
-        ],
-        "http://purl.obolibrary.org/obo/CL_4023076": [
-          "nifext_55"
-        ]
-      },
+      "malformed_curies": {},
       "noncanonical_prefixes": {
         "ILX": {
           "http://purl.obolibrary.org/obo/CL_0011003": "ILX:0107463",
@@ -2727,6 +2457,14 @@
           "http://purl.obolibrary.org/obo/CL_4023104": "ILX:0770157",
           "http://purl.obolibrary.org/obo/CL_4023105": "ILX:0770158"
         },
+        "NIFEXT": {
+          "http://purl.obolibrary.org/obo/CL_1001435": "NIFEXT:122",
+          "http://purl.obolibrary.org/obo/CL_4023076": "NIFEXT:55"
+        },
+        "NIFSTD": {
+          "http://purl.obolibrary.org/obo/CL_0000598": "NIFSTD:sao862606388",
+          "http://purl.obolibrary.org/obo/CL_1001571": "NIFSTD:sao131261273"
+        },
         "SCTID": {
           "http://purl.obolibrary.org/obo/CL_0000570": "SCTID:176770005"
         },
@@ -2743,11 +2481,6 @@
           "http://purl.obolibrary.org/obo/CL_0009002": "GOC:pr",
           "http://purl.obolibrary.org/obo/CL_0009003": "GOC:pr",
           "http://purl.obolibrary.org/obo/CL_0009005": "GOC:pr"
-        },
-        "NIFSTD": {
-          "http://purl.obolibrary.org/obo/CL_0000598": "NIFSTD:sao862606388",
-          "http://purl.obolibrary.org/obo/CL_1001435": "NIFSTD:nifext_122",
-          "http://purl.obolibrary.org/obo/CL_1001571": "NIFSTD:sao131261273"
         }
       }
     }

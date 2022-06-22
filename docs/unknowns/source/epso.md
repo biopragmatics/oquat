@@ -116,37 +116,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | MTH:516     |        1 | [DOID:574](http://purl.obolibrary.org/obo/DOID_574)   |
 | MTH:U002054 |        1 | [DOID:9074](http://purl.obolibrary.org/obo/DOID_9074) |
 
-## `NIFSTD`
-
-There are 1 usages of `NIFSTD` in `epso`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIFSTD).
-
-| curie                |   usages | nodes                                                         |
-|----------------------|----------|---------------------------------------------------------------|
-| NIFSTD:birnlex_12669 |        1 | [MONDO:0005084](http://purl.obolibrary.org/obo/MONDO_0005084) |
-
-## `NLX`
-
-There are 12 usages of `NLX` in `epso`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NLX).
-
-| curie      |   usages | nodes                                                           |
-|------------|----------|-----------------------------------------------------------------|
-| NLX:147821 |        1 | [UBERON:0000122](http://purl.obolibrary.org/obo/UBERON_0000122) |
-| NLX:28443  |        1 | [UBERON:0000125](http://purl.obolibrary.org/obo/UBERON_0000125) |
-| NLX:147822 |        1 | [UBERON:0001018](http://purl.obolibrary.org/obo/UBERON_0001018) |
-| NLX:110    |        1 | [UBERON:0001020](http://purl.obolibrary.org/obo/UBERON_0001020) |
-| NLX:143555 |        1 | [UBERON:0001384](http://purl.obolibrary.org/obo/UBERON_0001384) |
-| NLX:412    |        1 | [UBERON:0002316](http://purl.obolibrary.org/obo/UBERON_0002316) |
-| NLX:143552 |        1 | [UBERON:0002436](http://purl.obolibrary.org/obo/UBERON_0002436) |
-| NLX:147892 |        1 | [UBERON:0005340](http://purl.obolibrary.org/obo/UBERON_0005340) |
-| NLX:143551 |        1 | [UBERON:0008933](http://purl.obolibrary.org/obo/UBERON_0008933) |
-| NLX:79282  |        1 | [UBERON:0016530](http://purl.obolibrary.org/obo/UBERON_0016530) |
-| NLX:149357 |        1 | [UBERON:0022303](http://purl.obolibrary.org/obo/UBERON_0022303) |
-| NLX:155513 |        1 | [UBERON:0035014](http://purl.obolibrary.org/obo/UBERON_0035014) |
-
 ## `OpenCyc`
 
 There are 22 usages of `OpenCyc` in `epso`.

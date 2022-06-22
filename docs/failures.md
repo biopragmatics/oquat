@@ -48,7 +48,8 @@
 | [mo](https://bioregistry.io/mo)                   | General error: http://purl.obolibrary.org/obo/mo.owl graph [0] missing id                                                                             |
 | [mo](https://bioregistry.io/mo)                   | No parsable graphs                                                                                                                                    |
 | [nemo](https://bioregistry.io/nemo)               | No parsable graphs                                                                                                                                    |
-| [nif_cell](https://bioregistry.io/nif_cell)       | No parsable graphs                                                                                                                                    |
+| [nif.cell](https://bioregistry.io/nif.cell)       | No parsable graphs                                                                                                                                    |
+| [nif.std](https://bioregistry.io/nif.std)         | No parsable graphs                                                                                                                                    |
 | [oa](https://bioregistry.io/oa)                   | No parsable graphs                                                                                                                                    |
 | [obcs](https://bioregistry.io/obcs)               | No parsable graphs                                                                                                                                    |
 | [ogi](https://bioregistry.io/ogi)                 | No parsable graphs                                                                                                                                    |

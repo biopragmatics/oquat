@@ -5,6 +5,7 @@
 | curie             |   usages | nodes                                                                                                                            |
 |-------------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
 | BM:Tel-Cx-OFS     |        2 | [UBERON:0002772](http://purl.obolibrary.org/obo/UBERON_0002772), [UBERON:0002799](http://purl.obolibrary.org/obo/UBERON_0002799) |
+| BM:Tel-Cx-V1      |        2 | [UBERON:0002436](http://purl.obolibrary.org/obo/UBERON_0002436), [UBERON:8440010](http://purl.obolibrary.org/obo/UBERON_8440010) |
 | BM:MB-BSC         |        2 | [UBERON:0002580](http://purl.obolibrary.org/obo/UBERON_0002580), [UBERON:0003025](http://purl.obolibrary.org/obo/UBERON_0003025) |
 | BM:Die-Th-VPI     |        2 | [UBERON:0002596](http://purl.obolibrary.org/obo/UBERON_0002596), [UBERON:0002939](http://purl.obolibrary.org/obo/UBERON_0002939) |
 | BM:V              |        2 | [UBERON:0002925](http://purl.obolibrary.org/obo/UBERON_0002925), [UBERON:0007641](http://purl.obolibrary.org/obo/UBERON_0007641) |
@@ -119,7 +120,6 @@
 | BM:Pons-4V        |        1 | [UBERON:0002422](http://purl.obolibrary.org/obo/UBERON_0002422)                                                                  |
 | BM:Die-Hy-HLA     |        1 | [UBERON:0002430](http://purl.obolibrary.org/obo/UBERON_0002430)                                                                  |
 | BM:N              |        1 | [UBERON:0002435](http://purl.obolibrary.org/obo/UBERON_0002435)                                                                  |
-| BM:Tel-Cx-V1      |        1 | [UBERON:0002436](http://purl.obolibrary.org/obo/UBERON_0002436)                                                                  |
 | BM:GLd            |        1 | [UBERON:0002479](http://purl.obolibrary.org/obo/UBERON_0002479)                                                                  |
 | BM:LGv            |        1 | [UBERON:0002480](http://purl.obolibrary.org/obo/UBERON_0002480)                                                                  |
 | BM:MB-ICA         |        1 | [UBERON:0002551](http://purl.obolibrary.org/obo/UBERON_0002551)                                                                  |

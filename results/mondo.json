@@ -55137,10 +55137,12 @@
           "UMLS:CN282826"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0004975": [
-          "KEGG:05010"
+          "KEGG:05010",
+          "NIFSTD:birnlex_2092"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0004976": [
-          "KEGG:05014"
+          "KEGG:05014",
+          "NIFSTD:birnlex_12566"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0004979": [
           "KEGG:05310"
@@ -55150,6 +55152,12 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0004983": [
           "OMIMPS:258150"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0004985": [
+          "NIFSTD:birnlex_12754"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0004992": [
+          "NIFSTD:birnlex_406"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0004996": [
           "ICDO:M9861/3"
@@ -55163,6 +55171,15 @@
         "http://purl.obolibrary.org/obo/MONDO_0005021": [
           "KEGG:05414"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0005027": [
+          "NIFSTD:birnlex_12718"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0005033": [
+          "NIFSTD:birnlex_12617"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0005035": [
+          "NIFSTD:birnlex_12633"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_0005045": [
           "KEGG:05410"
         ],
@@ -55173,6 +55190,7 @@
           "UMLS:CN236628"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005072": [
+          "NIFSTD:birnlex_12631",
           "UMLS:CN205405"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005077": [
@@ -55185,7 +55203,14 @@
           "OMIMPS:177900"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005084": [
+          "NIFSTD:birnlex_12669",
           "UMLS:CN240636"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0005090": [
+          "NIFSTD:birnlex_2104"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0005098": [
+          "NIFSTD:birnlex_12783"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005100": [
           "UMLS:CN206012"
@@ -55195,6 +55220,7 @@
           "UMLS:CN971653"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005115": [
+          "NIFSTD:birnlex_12733",
           "OMIMPS:600512"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005116": [
@@ -55206,8 +55232,14 @@
         "http://purl.obolibrary.org/obo/MONDO_0005130": [
           "OMIMPS:212750"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0005139": [
+          "NIFSTD:nlx_dys_20090303"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_0005144": [
           "OMIMPS:105400"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0005146": [
+          "NIFSTD:birnlex_12679"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005147": [
           "KEGG:04940"
@@ -55217,6 +55249,7 @@
           "UMLS:CN244395"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005150": [
+          "NIFSTD:birnlex_12812",
           "OMIMPS:603075"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005159": [
@@ -55224,6 +55257,7 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005180": [
           "KEGG:05012",
+          "NIFSTD:birnlex_2098",
           "OMIMPS:168600"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005233": [
@@ -55802,6 +55836,9 @@
         "http://purl.obolibrary.org/obo/MONDO_0008587": [
           "UMLS:CN204359"
         ],
+        "http://purl.obolibrary.org/obo/MONDO_0008608": [
+          "NIFSTD:nlx_dys_20090502"
+        ],
         "http://purl.obolibrary.org/obo/MONDO_0008642": [
           "UMLS:CN206312"
         ],
@@ -56264,6 +56301,9 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0011101": [
           "UMLS:CN168921"
+        ],
+        "http://purl.obolibrary.org/obo/MONDO_0011122": [
+          "NIFSTD:nlx_dys_20090302"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0011156": [
           "UMLS:CN205889"
@@ -64123,6 +64163,26 @@
       "label": "Node Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {
+        "NIFSTD": {
+          "http://purl.obolibrary.org/obo/MONDO_0004975": "NIFSTD:birnlex_2092",
+          "http://purl.obolibrary.org/obo/MONDO_0004976": "NIFSTD:birnlex_12566",
+          "http://purl.obolibrary.org/obo/MONDO_0004985": "NIFSTD:birnlex_12754",
+          "http://purl.obolibrary.org/obo/MONDO_0004992": "NIFSTD:birnlex_406",
+          "http://purl.obolibrary.org/obo/MONDO_0005027": "NIFSTD:birnlex_12718",
+          "http://purl.obolibrary.org/obo/MONDO_0005033": "NIFSTD:birnlex_12617",
+          "http://purl.obolibrary.org/obo/MONDO_0005035": "NIFSTD:birnlex_12633",
+          "http://purl.obolibrary.org/obo/MONDO_0005072": "NIFSTD:birnlex_12631",
+          "http://purl.obolibrary.org/obo/MONDO_0005084": "NIFSTD:birnlex_12669",
+          "http://purl.obolibrary.org/obo/MONDO_0005090": "NIFSTD:birnlex_2104",
+          "http://purl.obolibrary.org/obo/MONDO_0005098": "NIFSTD:birnlex_12783",
+          "http://purl.obolibrary.org/obo/MONDO_0005115": "NIFSTD:birnlex_12733",
+          "http://purl.obolibrary.org/obo/MONDO_0005139": "NIFSTD:nlx_dys_20090303",
+          "http://purl.obolibrary.org/obo/MONDO_0005146": "NIFSTD:birnlex_12679",
+          "http://purl.obolibrary.org/obo/MONDO_0005150": "NIFSTD:birnlex_12812",
+          "http://purl.obolibrary.org/obo/MONDO_0005180": "NIFSTD:birnlex_2098",
+          "http://purl.obolibrary.org/obo/MONDO_0008608": "NIFSTD:nlx_dys_20090502",
+          "http://purl.obolibrary.org/obo/MONDO_0011122": "NIFSTD:nlx_dys_20090302"
+        },
         "OMIMPS": {
           "http://purl.obolibrary.org/obo/MONDO_0000005": "OMIMPS:203655",
           "http://purl.obolibrary.org/obo/MONDO_0000009": "OMIMPS:231200",
@@ -73711,26 +73771,6 @@
         },
         "MTH": {
           "http://purl.obolibrary.org/obo/MONDO_0011438": "MTH:217"
-        },
-        "NIFSTD": {
-          "http://purl.obolibrary.org/obo/MONDO_0004975": "NIFSTD:birnlex_2092",
-          "http://purl.obolibrary.org/obo/MONDO_0004976": "NIFSTD:birnlex_12566",
-          "http://purl.obolibrary.org/obo/MONDO_0004985": "NIFSTD:birnlex_12754",
-          "http://purl.obolibrary.org/obo/MONDO_0004992": "NIFSTD:birnlex_406",
-          "http://purl.obolibrary.org/obo/MONDO_0005027": "NIFSTD:birnlex_12718",
-          "http://purl.obolibrary.org/obo/MONDO_0005033": "NIFSTD:birnlex_12617",
-          "http://purl.obolibrary.org/obo/MONDO_0005035": "NIFSTD:birnlex_12633",
-          "http://purl.obolibrary.org/obo/MONDO_0005072": "NIFSTD:birnlex_12631",
-          "http://purl.obolibrary.org/obo/MONDO_0005084": "NIFSTD:birnlex_12669",
-          "http://purl.obolibrary.org/obo/MONDO_0005090": "NIFSTD:birnlex_2104",
-          "http://purl.obolibrary.org/obo/MONDO_0005098": "NIFSTD:birnlex_12783",
-          "http://purl.obolibrary.org/obo/MONDO_0005115": "NIFSTD:birnlex_12733",
-          "http://purl.obolibrary.org/obo/MONDO_0005139": "NIFSTD:nlx_dys_20090303",
-          "http://purl.obolibrary.org/obo/MONDO_0005146": "NIFSTD:birnlex_12679",
-          "http://purl.obolibrary.org/obo/MONDO_0005150": "NIFSTD:birnlex_12812",
-          "http://purl.obolibrary.org/obo/MONDO_0005180": "NIFSTD:birnlex_2098",
-          "http://purl.obolibrary.org/obo/MONDO_0008608": "NIFSTD:nlx_dys_20090502",
-          "http://purl.obolibrary.org/obo/MONDO_0011122": "NIFSTD:nlx_dys_20090302"
         }
       }
     }

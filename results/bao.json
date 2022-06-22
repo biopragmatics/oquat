@@ -9105,6 +9105,10 @@
     },
     "xref_pack": {
       "invalid_luids": {
+        "http://www.ebi.ac.uk/efo/EFO_0001272": [
+          "NIFSTD:birnlex_228",
+          "NIFSTD:birnlex_681"
+        ],
         "http://www.ebi.ac.uk/efo/EFO_0001323": [
           "FBdv:0005333"
         ]
@@ -9114,13 +9118,12 @@
       "noncanonical_prefixes": {
         "MSH": {
           "http://www.ebi.ac.uk/efo/EFO_0001272": "MSH:D000328"
-        }
-      },
-      "unknown_prefixes": {
+        },
         "NIFSTD": {
           "http://www.ebi.ac.uk/efo/EFO_0001272": "NIFSTD:birnlex_681"
         }
-      }
+      },
+      "unknown_prefixes": {}
     }
   },
   "http://www.bioassayontology.org/bao/external/BAO_ERO_import.owl": {

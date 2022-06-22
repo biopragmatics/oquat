@@ -48,12 +48,12 @@ did not match the standard pattern `^\d+$`.
 |----------------------------------------------|----------------|-------------------------------------------------------------|
 | `Medline:http://www.nlm.nih.gov/medlineplus` |              1 | [PATO:0002048](http://purl.obolibrary.org/obo/PATO_0002048) |
 
-## `neurolex`: NeuroLex
+## `neurolex`: NIF Standard Ontology: Neurolex
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `neurolex` (standardized to Bioregistry
 prefix [`neurolex`](https://bioregistry.io/neurolex)) that
-did not match the standard pattern `^([Bb]irnlex_|Sao|nlx_|GO_|CogPO|HDO|nifext_)\d+$`.
+did not match the standard pattern `^\d+$`.
 
 | external_xref                                                           |   usages_count | usages                                                      |
 |-------------------------------------------------------------------------|----------------|-------------------------------------------------------------|

@@ -30,18 +30,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | JB:jb   |       17 | [CL:0000065](http://purl.obolibrary.org/obo/CL_0000065), [CL:0000213](http://purl.obolibrary.org/obo/CL_0000213), [CL:0000215](http://purl.obolibrary.org/obo/CL_0000215), [CL:0000425](http://purl.obolibrary.org/obo/CL_0000425), [CL:0000473](http://purl.obolibrary.org/obo/CL_0000473), ... |
 
-## `NIFSTD`
-
-There are 3 usages of `NIFSTD` in `cl`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIFSTD).
-
-| curie               |   usages | nodes                                                   |
-|---------------------|----------|---------------------------------------------------------|
-| NIFSTD:sao862606388 |        1 | [CL:0000598](http://purl.obolibrary.org/obo/CL_0000598) |
-| NIFSTD:nifext_122   |        1 | [CL:1001435](http://purl.obolibrary.org/obo/CL_1001435) |
-| NIFSTD:sao131261273 |        1 | [CL:1001571](http://purl.obolibrary.org/obo/CL_1001571) |
-
 ## `NPX`
 
 There are 1 usages of `NPX` in `cl`.

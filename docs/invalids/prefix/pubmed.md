@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `pubmed`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 23 resources,
+`^\d+$`. Of the 22 resources,
 4 variants on the standard prefix were found: ['Medline', 'PMID', 'PubMed', 'Pubmed'].
 
 ## `bto`: BRENDA tissue / enzyme source
@@ -33,14 +33,6 @@ Identifiers for this prefix are given incorrectly in `cco`.
 | `PubMed:unassigned1245` |              3 | [IntAct:EBI-9979453](http://purl.obolibrary.org/obo/IntAct_EBI-9979453), [IntAct:EBI-9979697](http://purl.obolibrary.org/obo/IntAct_EBI-9979697), [IntAct:EBI-9985143](http://purl.obolibrary.org/obo/IntAct_EBI-9985143)                                                                                                                                                        |
 | `PMID:pm`               |              1 | [GO:1990459](http://purl.obolibrary.org/obo/GO_1990459)                                                                                                                                                                                                                                                                                                                          |
 | `PMID:`                 |              1 | [MI:1127](http://purl.obolibrary.org/obo/MI_1127)                                                                                                                                                                                                                                                                                                                                |
-
-## `cl`: Cell Ontology
-
-Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
-
-| external_xref    |   usages_count | usages                                                  |
-|------------------|----------------|---------------------------------------------------------|
-| `PMID:10102814j` |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
 
 ## `efo`: Experimental Factor Ontology
 

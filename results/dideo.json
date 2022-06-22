@@ -24,8 +24,8 @@
       "unknown_prefixes": {}
     }
   },
-  "http://purl.obolibrary.org/obo/dideo.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/dideo.owl",
+  "http://purl.obolibrary.org/obo/dideo/release/2022-06-14/dideo.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/dideo/release/2022-06-14/dideo.owl",
     "prov_pack": {
       "invalid_luids": {},
       "label": "Provenance Xrefs",
@@ -40,8 +40,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "release version 2021-06-11",
-    "version_iri": "http://purl.obolibrary.org/obo/dideo/release/2021-06-11/dideo.owl",
+    "version": "release version 2022-06-14",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

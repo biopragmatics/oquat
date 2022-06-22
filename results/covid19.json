@@ -57,9 +57,6 @@
         "http://purl.obolibrary.org/obo/GO_0031099": [
           "Wikipedia:Regeneration_(biology)"
         ],
-        "http://purl.obolibrary.org/obo/GO_0098677": [
-          "UniProtKB-KW:KW-0917"
-        ],
         "http://purl.obolibrary.org/obo/MONDO_0005570": [
           "UMLS:CN882913"
         ],
@@ -1105,6 +1102,9 @@
         },
         "NIST Chemistry WebBook": {
           "http://purl.obolibrary.org/obo/CHEBI_49662": "NIST Chemistry WebBook:53-86-1"
+        },
+        "NLXANAT": {
+          "http://purl.obolibrary.org/obo/UBERON_0001981": "NLXANAT:090901"
         },
         "ORDO": {
           "http://purl.obolibrary.org/obo/DOID_12177": "ORDO:1572",

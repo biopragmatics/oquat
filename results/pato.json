@@ -2133,8 +2133,8 @@
         }
       }
     },
-    "version": "2022-05-20",
-    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-05-20/pato.json",
+    "version": "2022-06-17",
+    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-06-17/pato.json",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/PATO_0001555": [
@@ -2164,9 +2164,17 @@
           "http://purl.obolibrary.org/obo/PATO_0070040": "ILX:0100932",
           "http://purl.obolibrary.org/obo/PATO_0070041": "ILX:0112263"
         },
+        "NLX": {
+          "http://purl.obolibrary.org/obo/PATO_0070026": "NLX:378"
+        },
         "OBO_REL": {
           "http://purl.obolibrary.org/obo/PATO_0001555": "OBO_REL:has_part",
           "http://purl.obolibrary.org/obo/PATO_0002000": "OBO_REL:lacks_part"
+        },
+        "nifext": {
+          "http://purl.obolibrary.org/obo/PATO_0070002": "nifext:3",
+          "http://purl.obolibrary.org/obo/PATO_0070006": "nifext:2",
+          "http://purl.obolibrary.org/obo/PATO_0070011": "nifext:4"
         }
       },
       "unknown_prefixes": {
@@ -2179,9 +2187,6 @@
           "http://purl.obolibrary.org/obo/PATO_0002021": "Image:http://upload.wikimedia.org/wikipedia/commons/d/d2/Cone_3d.png",
           "http://purl.obolibrary.org/obo/PATO_0002040": "Image:http://www.thefreedictionary.com/_/viewer.aspx?path=hm&name=A4bicovx",
           "http://purl.obolibrary.org/obo/PATO_0002534": "Image:http://2.bp.blogspot.com/_TbkIC-eqFNM/S66IJ3omNWI/AAAAAAAAFSk/pzThLJPvYZw/s1600/ard-detail.gif"
-        },
-        "NLX": {
-          "http://purl.obolibrary.org/obo/PATO_0070026": "NLX:378"
         },
         "ilxtr": {
           "http://purl.obolibrary.org/obo/PATO_0070001": "ilxtr:NeurogliaformPhenotype",
@@ -2200,11 +2205,6 @@
           "http://purl.obolibrary.org/obo/PATO_0070019": "ilxtr:UntuftedPyramidalPhenotype",
           "http://purl.obolibrary.org/obo/PATO_0070020": "ilxtr:StarPyramidalPhenotype",
           "http://purl.obolibrary.org/obo/PATO_0070021": "ilxtr:InvertedPyramidalPhenotype"
-        },
-        "nifext": {
-          "http://purl.obolibrary.org/obo/PATO_0070002": "nifext:3",
-          "http://purl.obolibrary.org/obo/PATO_0070006": "nifext:2",
-          "http://purl.obolibrary.org/obo/PATO_0070011": "nifext:4"
         }
       }
     }

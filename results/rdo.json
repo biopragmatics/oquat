@@ -81,7 +81,6 @@
           "http://purl.obolibrary.org/obo/DOID_8527": "CSP2005:2004-2820",
           "http://purl.obolibrary.org/obo/DOID_8568": "CSP2005:0427-6541",
           "http://purl.obolibrary.org/obo/DOID_8622": "CSP2005:3100-0554",
-          "http://purl.obolibrary.org/obo/DOID_8725": "CSP2005:0485-6862",
           "http://purl.obolibrary.org/obo/DOID_896": "CSP2005:4000-0215",
           "http://purl.obolibrary.org/obo/DOID_9000457": "CSP2005:2016-0850",
           "http://purl.obolibrary.org/obo/DOID_9263": "CSP2005:1849-0835",
@@ -148,7 +147,6 @@
           "http://purl.obolibrary.org/obo/DOID_12809": "ICD9CM_2006:375.03",
           "http://purl.obolibrary.org/obo/DOID_12972": "ICD9CM_2006:202.46",
           "http://purl.obolibrary.org/obo/DOID_13074": "ICD9CM_2006:682.5",
-          "http://purl.obolibrary.org/obo/DOID_13268": "ICD9CM_2006:277.1",
           "http://purl.obolibrary.org/obo/DOID_13272": "ICD9CM_2006:482.0",
           "http://purl.obolibrary.org/obo/DOID_13368": "ICD9CM_2006:110.6",
           "http://purl.obolibrary.org/obo/DOID_13448": "ICD9CM_2006:371.13",
@@ -262,7 +260,6 @@
           "http://purl.obolibrary.org/obo/DOID_13026": "MTHICD9_2006:116.2",
           "http://purl.obolibrary.org/obo/DOID_13074": "MTHICD9_2006:110.1",
           "http://purl.obolibrary.org/obo/DOID_13087": "MTHICD9_2006:426.81",
-          "http://purl.obolibrary.org/obo/DOID_13268": "MTHICD9_2006:277.1",
           "http://purl.obolibrary.org/obo/DOID_13368": "MTHICD9_2006:110.6",
           "http://purl.obolibrary.org/obo/DOID_13371": "MTHICD9_2006:081.2",
           "http://purl.obolibrary.org/obo/DOID_1340": "MTHICD9_2006:284.0",
@@ -884,7 +881,6 @@
           "http://purl.obolibrary.org/obo/DOID_11843": "SNOMEDCT_2005_07_31:28574005",
           "http://purl.obolibrary.org/obo/DOID_11914": "SNOMEDCT_2005_07_31:77164002",
           "http://purl.obolibrary.org/obo/DOID_11917": "SNOMEDCT_2005_07_31:186989008",
-          "http://purl.obolibrary.org/obo/DOID_11949": "SNOMEDCT_2005_07_31:79358009",
           "http://purl.obolibrary.org/obo/DOID_12053": "SNOMEDCT_2005_07_31:20850004",
           "http://purl.obolibrary.org/obo/DOID_12144": "SNOMEDCT_2005_07_31:314717001",
           "http://purl.obolibrary.org/obo/DOID_12161": "SNOMEDCT_2005_07_31:405721006",
@@ -936,7 +932,6 @@
           "http://purl.obolibrary.org/obo/DOID_13195": "SNOMEDCT_2005_07_31:60968001",
           "http://purl.obolibrary.org/obo/DOID_13198": "SNOMEDCT_2005_07_31:190234009",
           "http://purl.obolibrary.org/obo/DOID_13200": "SNOMEDCT_2005_07_31:190234009",
-          "http://purl.obolibrary.org/obo/DOID_13268": "SNOMEDCT_2005_07_31:238052001",
           "http://purl.obolibrary.org/obo/DOID_13272": "SNOMEDCT_2005_07_31:64479007",
           "http://purl.obolibrary.org/obo/DOID_13276": "SNOMEDCT_2005_07_31:46970008",
           "http://purl.obolibrary.org/obo/DOID_13295": "SNOMEDCT_2005_07_31:194048008",
@@ -1073,7 +1068,6 @@
           "http://purl.obolibrary.org/obo/DOID_3179": "SNOMEDCT_2005_07_31:90121000",
           "http://purl.obolibrary.org/obo/DOID_3184": "SNOMEDCT_2005_07_31:254950006",
           "http://purl.obolibrary.org/obo/DOID_3205": "SNOMEDCT_2005_07_31:985004",
-          "http://purl.obolibrary.org/obo/DOID_3209": "SNOMEDCT_2005_07_31:79855003",
           "http://purl.obolibrary.org/obo/DOID_321": "SNOMEDCT_2005_07_31:45129002",
           "http://purl.obolibrary.org/obo/DOID_3218": "SNOMEDCT_2005_07_31:126834003",
           "http://purl.obolibrary.org/obo/DOID_3227": "SNOMEDCT_2005_07_31:11296007",
@@ -1315,7 +1309,7 @@
         }
       }
     },
-    "version_iri": "http://purl.obolibrary.org/obo/rdo/1.183/rdo.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/rdo/1.184/rdo.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/DOID_0050120": [
@@ -2447,6 +2441,9 @@
         ],
         "http://purl.obolibrary.org/obo/DOID_3204": [
           "OMIM:PS162091"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_3209": [
+          "OMIM:PS226650"
         ],
         "http://purl.obolibrary.org/obo/DOID_3265": [
           "OMIM:PS306400"

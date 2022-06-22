@@ -724,16 +724,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | Image:http://www.thefreedictionary.com/_/viewer.aspx?path=hm&name=A4bicovx                           |        1 | [PATO:0002040](http://purl.obolibrary.org/obo/PATO_0002040) |
 | Image:http://2.bp.blogspot.com/_TbkIC-eqFNM/S66IJ3omNWI/AAAAAAAAFSk/pzThLJPvYZw/s1600/ard-detail.gif |        1 | [PATO:0002534](http://purl.obolibrary.org/obo/PATO_0002534) |
 
-## `NLX`
-
-There are 1 usages of `NLX` in `pato`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NLX).
-
-| curie   |   usages | nodes                                                       |
-|---------|----------|-------------------------------------------------------------|
-| NLX:378 |        1 | [PATO:0070026](http://purl.obolibrary.org/obo/PATO_0070026) |
-
 ## `ilxtr`
 
 There are 16 usages of `ilxtr` in `pato`.
@@ -758,16 +748,4 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ilxtr:UntuftedPyramidalPhenotype   |        1 | [PATO:0070019](http://purl.obolibrary.org/obo/PATO_0070019) |
 | ilxtr:StarPyramidalPhenotype       |        1 | [PATO:0070020](http://purl.obolibrary.org/obo/PATO_0070020) |
 | ilxtr:InvertedPyramidalPhenotype   |        1 | [PATO:0070021](http://purl.obolibrary.org/obo/PATO_0070021) |
-
-## `nifext`
-
-There are 3 usages of `nifext` in `pato`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20nifext).
-
-| curie    |   usages | nodes                                                       |
-|----------|----------|-------------------------------------------------------------|
-| nifext:3 |        1 | [PATO:0070002](http://purl.obolibrary.org/obo/PATO_0070002) |
-| nifext:2 |        1 | [PATO:0070006](http://purl.obolibrary.org/obo/PATO_0070006) |
-| nifext:4 |        1 | [PATO:0070011](http://purl.obolibrary.org/obo/PATO_0070011) |
 
