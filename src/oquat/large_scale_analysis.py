@@ -204,6 +204,9 @@ def url_md(s: str) -> str:
     if s.startswith("http://www.ebi.ac.uk/efo/EFO_"):
         short = s[len("http://www.ebi.ac.uk/efo/") :].replace("_", ":")
         return f"[{short}]({s})"
+    if s.startswith("http://www.ebi.ac.uk/cmpo/CMPO_"):
+        short = s[len("http://www.ebi.ac.uk/cmpo/") :].replace("_", ":")
+        return f"[{short}]({s})"
     return f"[{s}]({s})"
 
 
