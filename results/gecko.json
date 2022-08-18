@@ -15,6 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2021-01-18",
     "version_iri": "http://purl.obolibrary.org/obo/gecko/releases/2021-01-18/gecko.owl",
     "xref_pack": {
       "invalid_luids": {},

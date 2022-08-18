@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `ma`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 7 resources,
+`^\d+$`. Of the 8 resources,
 1 variants on the standard prefix were found: ['MA'].
 
 ## `bcio`: The Behaviour Change Intervention Ontology
@@ -45,6 +45,14 @@ Identifiers for this prefix are given incorrectly in `envo`. See the [GitHub rep
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `MA:ma`         |            133 | [ENVO:00000010](http://purl.obolibrary.org/obo/ENVO_00000010), [ENVO:00000012](http://purl.obolibrary.org/obo/ENVO_00000012), [ENVO:00000014](http://purl.obolibrary.org/obo/ENVO_00000014), [ENVO:00000018](http://purl.obolibrary.org/obo/ENVO_00000018), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), ... |
+
+## `idomal`: Malaria Ontology
+
+Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/IDOMAL).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `MA:ma`         |             13 | [ENVO:00000014](http://purl.obolibrary.org/obo/ENVO_00000014), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), [ENVO:00000033](http://purl.obolibrary.org/obo/ENVO_00000033), [ENVO:00000053](http://purl.obolibrary.org/obo/ENVO_00000053), [ENVO:00000057](http://purl.obolibrary.org/obo/ENVO_00000057), ... |
 
 ## `sdgio`: Sustainable Development Goals Interface Ontology
 

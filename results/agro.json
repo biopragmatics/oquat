@@ -54,6 +54,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2021-11-05",
     "version_iri": "http://purl.obolibrary.org/obo/agro/releases/2021-11-05/agro.owl",
     "xref_pack": {
       "invalid_luids": {},

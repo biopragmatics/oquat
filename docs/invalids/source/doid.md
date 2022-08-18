@@ -85,7 +85,7 @@ did not match the standard pattern `^C\d+$`.
 
 ## `OMIM`: Online Mendelian Inheritance in Man
 
-Overall, there were 234 invalid
+Overall, there were 239 invalid
 xrefs to external prefixed with `OMIM` (standardized to Bioregistry
 prefix [`omim`](https://bioregistry.io/omim)) that
 did not match the standard pattern `^\d+$`.
@@ -140,9 +140,11 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS233400` |              1 | [DOID:0050857](http://purl.obolibrary.org/obo/DOID_0050857) |
 | `OMIM:PS167320` |              1 | [DOID:0050881](http://purl.obolibrary.org/obo/DOID_0050881) |
 | `OMIM:PS213200` |              1 | [DOID:0050950](http://purl.obolibrary.org/obo/DOID_0050950) |
+| `OMIM:PS601764` |              1 | [DOID:0060169](http://purl.obolibrary.org/obo/DOID_0060169) |
 | `OMIM:PS257920` |              1 | [DOID:0060225](http://purl.obolibrary.org/obo/DOID_0060225) |
 | `OMIM:PS100300` |              1 | [DOID:0060227](http://purl.obolibrary.org/obo/DOID_0060227) |
 | `OMIM:PS105800` |              1 | [DOID:0060228](http://purl.obolibrary.org/obo/DOID_0060228) |
+| `OMIM:PS243310` |              1 | [DOID:0060229](http://purl.obolibrary.org/obo/DOID_0060229) |
 | `OMIM:PS115150` |              1 | [DOID:0060233](http://purl.obolibrary.org/obo/DOID_0060233) |
 | `OMIM:PS600118` |              1 | [DOID:0060237](http://purl.obolibrary.org/obo/DOID_0060237) |
 | `OMIM:PS601390` |              1 | [DOID:0060238](http://purl.obolibrary.org/obo/DOID_0060238) |
@@ -215,8 +217,10 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS607095` |              1 | [DOID:0080942](http://purl.obolibrary.org/obo/DOID_0080942) |
 | `OMIM:PS617468` |              1 | [DOID:0080954](http://purl.obolibrary.org/obo/DOID_0080954) |
 | `OMIM:PS136760` |              1 | [DOID:0081044](http://purl.obolibrary.org/obo/DOID_0081044) |
+| `OMIM:PS213980` |              1 | [DOID:0081072](http://purl.obolibrary.org/obo/DOID_0081072) |
 | `OMIM:PS145420` |              1 | [DOID:0081073](http://purl.obolibrary.org/obo/DOID_0081073) |
 | `OMIM:PS300291` |              1 | [DOID:0081077](http://purl.obolibrary.org/obo/DOID_0081077) |
+| `OMIM:PS613339` |              1 | [DOID:0081104](http://purl.obolibrary.org/obo/DOID_0081104) |
 | `OMIM:PS219000` |              1 | [DOID:0090001](http://purl.obolibrary.org/obo/DOID_0090001) |
 | `OMIM:PS242860` |              1 | [DOID:0090007](http://purl.obolibrary.org/obo/DOID_0090007) |
 | `OMIM:PS183600` |              1 | [DOID:0090020](http://purl.obolibrary.org/obo/DOID_0090020) |
@@ -255,6 +259,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS603075` |              1 | [DOID:10871](http://purl.obolibrary.org/obo/DOID_10871)     |
 | `OMIM:PS122470` |              1 | [DOID:11725](http://purl.obolibrary.org/obo/DOID_11725)     |
 | `OMIM:PS310300` |              1 | [DOID:11726](http://purl.obolibrary.org/obo/DOID_11726)     |
+| `OMIM:PS109720` |              1 | [DOID:12236](http://purl.obolibrary.org/obo/DOID_12236)     |
 | `OMIM:PS166200` |              1 | [DOID:12347](http://purl.obolibrary.org/obo/DOID_12347)     |
 | `OMIM:PS157640` |              1 | [DOID:12558](http://purl.obolibrary.org/obo/DOID_12558)     |
 | `OMIM:PS256100` |              1 | [DOID:12712](http://purl.obolibrary.org/obo/DOID_12712)     |

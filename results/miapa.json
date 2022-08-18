@@ -15,6 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2019-06-26",
     "version_iri": "http://purl.obolibrary.org/obo/cdao/2019-06-26/cdao.owl",
     "xref_pack": {
       "invalid_luids": {},
@@ -40,6 +41,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2019-08-26",
     "version_iri": "http://purl.obolibrary.org/obo/iao/2019-08-26/ontology-metadata.owl",
     "xref_pack": {
       "invalid_luids": {},

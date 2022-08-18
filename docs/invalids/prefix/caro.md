@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `caro`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 12 resources,
+`^\d{7}$`. Of the 16 resources,
 1 variants on the standard prefix were found: ['CARO'].
 
 ## `aeo`: Anatomical Entity Ontology
@@ -12,6 +12,14 @@ Identifiers for this prefix are given incorrectly in `aeo`. See the [GitHub repo
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                     |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `CARO:MAH`      |              4 | [AEO:0000013](http://purl.obolibrary.org/obo/AEO_0000013), [AEO:0000192](http://purl.obolibrary.org/obo/AEO_0000192), [AEO:0000193](http://purl.obolibrary.org/obo/AEO_0000193), [AEO:0000198](http://purl.obolibrary.org/obo/AEO_0000198) |
+
+## `bila`: Bilateria anatomy
+
+Identifiers for this prefix are given incorrectly in `bila`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
+|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `CARO:MAH`      |             45 | [BILA:0000003](http://purl.obolibrary.org/obo/BILA_0000003), [BILA:0000004](http://purl.obolibrary.org/obo/BILA_0000004), [BILA:0000005](http://purl.obolibrary.org/obo/BILA_0000005), [BILA:0000006](http://purl.obolibrary.org/obo/BILA_0000006), [BILA:0000007](http://purl.obolibrary.org/obo/BILA_0000007), ... |
 
 ## `caro`: Common Anatomy Reference Ontology
 
@@ -37,13 +45,22 @@ Identifiers for this prefix are given incorrectly in `ddanat`. See the [GitHub r
 |-----------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `CARO:MAH`      |              5 | [DDANAT:0000083](http://purl.obolibrary.org/obo/DDANAT_0000083), [DDANAT:0000401](http://purl.obolibrary.org/obo/DDANAT_0000401), [DDANAT:0010001](http://purl.obolibrary.org/obo/DDANAT_0010001), [DDANAT:0010081](http://purl.obolibrary.org/obo/DDANAT_0010081), [DDANAT:0010082](http://purl.obolibrary.org/obo/DDANAT_0010082) |
 
+## `ehdaa2`: Human developmental anatomy, abstract
+
+Identifiers for this prefix are given incorrectly in `ehdaa2`. See the [GitHub repository](https://github.com/obophenotype/human-developmental-anatomy-ontology).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                       |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `CARO:MAH`      |             47 | [AEO:0000013](http://purl.obolibrary.org/obo/AEO_0000013), [AEO:0000192](http://purl.obolibrary.org/obo/AEO_0000192), [AEO:0000193](http://purl.obolibrary.org/obo/AEO_0000193), [AEO:0000198](http://purl.obolibrary.org/obo/AEO_0000198), [CARO:0000000](http://purl.obolibrary.org/obo/CARO_0000000), ... |
+| `CARO:mah`      |              2 | [CARO:0000062](http://purl.obolibrary.org/obo/CARO_0000062), [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000)                                                                                                                                                                                         |
+
 ## `enm`: eNanoMapper Ontology
 
 Identifiers for this prefix are given incorrectly in `enm`.
 
-| external_xref   |   usages_count | usages                                                  |
-|-----------------|----------------|---------------------------------------------------------|
-| `CARO:mah`      |              1 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) |
+| external_xref   |   usages_count | usages                                                                                                           |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `CARO:mah`      |              2 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000), [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) |
 
 ## `fbbt`: Drosophila gross anatomy
 
@@ -67,7 +84,17 @@ Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub r
 
 | external_xref   |   usages_count | usages                                                          |
 |-----------------|----------------|-----------------------------------------------------------------|
+| `CARO:mah`      |              1 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000)         |
 | `CARO:00000041` |              1 | [IDOMAL:0002461](http://purl.obolibrary.org/obo/IDOMAL_0002461) |
+
+## `tao`: Teleost Anatomy Ontology
+
+Identifiers for this prefix are given incorrectly in `tao`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
+|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `CARO:MAH`      |             44 | [CARO:0000000](http://purl.obolibrary.org/obo/CARO_0000000), [CARO:0000003](http://purl.obolibrary.org/obo/CARO_0000003), [CARO:0000004](http://purl.obolibrary.org/obo/CARO_0000004), [CARO:0000005](http://purl.obolibrary.org/obo/CARO_0000005), [CARO:0000006](http://purl.obolibrary.org/obo/CARO_0000006), ... |
+| `CARO:mah`      |              3 | [CARO:0000062](http://purl.obolibrary.org/obo/CARO_0000062), [CARO:0000063](http://purl.obolibrary.org/obo/CARO_0000063), [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003)                                                                                                                                    |
 
 ## `uberon`: Uber Anatomy Ontology
 
@@ -76,6 +103,15 @@ Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub r
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `CARO:DOS`      |              4 | [UBERON:0000026](http://purl.obolibrary.org/obo/UBERON_0000026), [UBERON:0000475](http://purl.obolibrary.org/obo/UBERON_0000475), [UBERON:0000478](http://purl.obolibrary.org/obo/UBERON_0000478), [UBERON:0022295](http://purl.obolibrary.org/obo/UBERON_0022295) |
+
+## `vsao`: Vertebrate Skeletal Anatomy Ontology
+
+Identifiers for this prefix are given incorrectly in `vsao`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
+|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `CARO:MAH`      |             44 | [CARO:0000000](http://purl.obolibrary.org/obo/CARO_0000000), [CARO:0000003](http://purl.obolibrary.org/obo/CARO_0000003), [CARO:0000004](http://purl.obolibrary.org/obo/CARO_0000004), [CARO:0000005](http://purl.obolibrary.org/obo/CARO_0000005), [CARO:0000006](http://purl.obolibrary.org/obo/CARO_0000006), ... |
+| `CARO:mah`      |              3 | [CARO:0000062](http://purl.obolibrary.org/obo/CARO_0000062), [CARO:0000063](http://purl.obolibrary.org/obo/CARO_0000063), [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003)                                                                                                                                    |
 
 ## `wbbt`: C. elegans Gross Anatomy Ontology
 

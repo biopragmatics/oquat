@@ -3022,8 +3022,8 @@
       },
       "unknown_prefixes": {}
     },
-    "version": "2022-06-21",
-    "version_iri": "http://purl.obolibrary.org/obo/wbls/releases/2022-06-21/wbls.owl",
+    "version": "2022-08-18",
+    "version_iri": "http://purl.obolibrary.org/obo/wbls/releases/2022-08-18/wbls.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

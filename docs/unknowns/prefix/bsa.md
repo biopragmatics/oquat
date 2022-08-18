@@ -39,14 +39,6 @@
 | BSA:0000042 |        1 | [UBERON:0011302](http://purl.obolibrary.org/obo/UBERON_0011302) |
 | BSA:0000088 |        1 | [UBERON:0015227](http://purl.obolibrary.org/obo/UBERON_0015227) |
 
-## covid19
-
-| curie       |   usages | nodes                                                           |
-|-------------|----------|-----------------------------------------------------------------|
-| BSA:0000121 |        1 | [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020) |
-| BSA:0000093 |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
-| BSA:0000049 |        1 | [UBERON:0000467](http://purl.obolibrary.org/obo/UBERON_0000467) |
-
 ## icdo
 
 | curie       |   usages | nodes                                                           |

@@ -15,8 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2021-10-13",
-    "version_iri": "http://purl.obolibrary.org/obo/bspo/releases/2021-10-13/bspo.owl",
+    "version": "2022-06-28",
+    "version_iri": "http://purl.obolibrary.org/obo/bspo/releases/2022-06-28/bspo.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -41,6 +41,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2016-10-19",
     "version_iri": "http://purl.obolibrary.org/obo/cteno/releases/2016-10-19/cteno.owl",
     "xref_pack": {
       "invalid_luids": {},

@@ -2,12 +2,12 @@
 
 This page summarize the different resources that reference `ro`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 6 resources,
-3 variants on the standard prefix were found: ['OBO_REL', 'RO', 'RO_proposed_relation'].
+`^\d{7}$`. Of the 7 resources,
+4 variants on the standard prefix were found: ['OBOREL', 'OBO_REL', 'RO', 'RO_proposed_relation'].
 
 ## `cmpo`: Cellular Microscopy Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly in `cmpo`.
+Identifiers for this prefix are given incorrectly in `cmpo`. See the [GitHub repository](https://github.com/EBISPOT/CMPO).
 
 | external_xref        |   usages_count | usages                                                      |
 |----------------------|----------------|-------------------------------------------------------------|
@@ -30,6 +30,16 @@ Identifiers for this prefix are given incorrectly in `hom`. See the [GitHub repo
 | external_xref                        |   usages_count | usages                                                    |
 |--------------------------------------|----------------|-----------------------------------------------------------|
 | `RO_proposed_relation:homologous_to` |              1 | [HOM:0000007](http://purl.obolibrary.org/obo/HOM_0000007) |
+
+## `idomal`: Malaria Ontology
+
+Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/IDOMAL).
+
+| external_xref            |   usages_count | usages                                                                      |
+|--------------------------|----------------|-----------------------------------------------------------------------------|
+| `OBOREL:happens_during`  |              1 | [TEMP#happens:during](http://purl.obolibrary.org/obo/TEMP#happens_during)   |
+| `OBOREL:participates_in` |              1 | [TEMP#participates:in](http://purl.obolibrary.org/obo/TEMP#participates_in) |
+| `OBOREL:preceded_by`     |              1 | [TEMP#preceded:by](http://purl.obolibrary.org/obo/TEMP#preceded_by)         |
 
 ## `pato`: Phenotype And Trait Ontology
 

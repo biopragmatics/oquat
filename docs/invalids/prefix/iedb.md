@@ -20,4 +20,5 @@ Identifiers for this prefix are given incorrectly in `pr`. See the [GitHub repos
 | external_xref   |   usages_count | usages                                                                                                                   |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------|
 | `IEDB:BP`       |              2 | [PR:000000001](http://purl.obolibrary.org/obo/PR_000000001), [PR:000050098](http://purl.obolibrary.org/obo/PR_000050098) |
+| `IEDB:RV`       |              1 | [PR:000050593](http://purl.obolibrary.org/obo/PR_000050593)                                                              |
 

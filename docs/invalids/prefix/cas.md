@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `cas`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{1,7}\-\d{2}\-\d$`. Of the 5 resources,
+`^\d{1,7}\-\d{2}\-\d$`. Of the 6 resources,
 1 variants on the standard prefix were found: ['CAS'].
 
 ## `chebi`: Chemical Entities of Biological Interest
@@ -28,6 +28,14 @@ Identifiers for this prefix are given incorrectly in `idoden`.
 | external_xref                                                                            |   usages_count | usages                                                        |
 |------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------|
 | `CAS:7-(2-chlorophenyl)-4-ethoxy-3\,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile4-sulfide` |              1 | [MIRO:10000108](http://purl.obolibrary.org/obo/MIRO_10000108) |
+
+## `idomal`: Malaria Ontology
+
+Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/IDOMAL).
+
+| external_xref                                                                           |   usages_count | usages                                                        |
+|-----------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------|
+| `CAS:7-(2-chlorophenyl)-4-ethoxy-3,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile4-sulfide` |              1 | [MIRO:10000108](http://purl.obolibrary.org/obo/MIRO_10000108) |
 
 ## `miro`: Mosquito insecticide resistance
 

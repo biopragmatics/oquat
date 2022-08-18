@@ -16,6 +16,18 @@ did not match the standard pattern `^\d{7}$`.
 | `AEO:JB`        |             30 | [UBERON:0001637](http://purl.obolibrary.org/obo/UBERON_0001637), [UBERON:0004016](http://purl.obolibrary.org/obo/UBERON_0004016), [UBERON:0005866](http://purl.obolibrary.org/obo/UBERON_0005866), [UBERON:0006846](http://purl.obolibrary.org/obo/UBERON_0006846), [UBERON:0007473](http://purl.obolibrary.org/obo/UBERON_0007473), ... |
 | `AEO:000020`    |              1 | [UBERON:0001013](http://purl.obolibrary.org/obo/UBERON_0001013)                                                                                                                                                                                                                                                                          |
 
+## `BIRNLEX`: Biomedical Informatics Research Network Lexicon
+
+Overall, there were 2 invalid
+xrefs to external prefixed with `BIRNLEX` (standardized to Bioregistry
+prefix [`birnlex`](https://bioregistry.io/birnlex)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref           |   usages_count | usages                                                          |
+|-------------------------|----------------|-----------------------------------------------------------------|
+| `BIRNLEX:Limbic_system` |              1 | [UBERON:0000349](http://purl.obolibrary.org/obo/UBERON_0000349) |
+| `BIRNLEX:4106_2`        |              1 | [UBERON:0000396](http://purl.obolibrary.org/obo/UBERON_0000396) |
+
 ## `CALOHA`: CALIPHO Group Ontology of Human Anatomy
 
 Overall, there were 3 invalid
@@ -665,6 +677,28 @@ did not match the standard pattern `^\d+$`.
 | `neuronames:1192&questID=2709` |              1 | [UBERON:8440024](http://purl.obolibrary.org/obo/UBERON_8440024) |
 | `neuronames:3451&questID=1771` |              1 | [UBERON:8440026](http://purl.obolibrary.org/obo/UBERON_8440026) |
 | `neuronames:3452&questID=1771` |              1 | [UBERON:8440027](http://purl.obolibrary.org/obo/UBERON_8440027) |
+
+## `NIF_Subcellular`: NIF Standard Ontology: Subcellular Entities
+
+Overall, there were 14 invalid
+xrefs to external prefixed with `NIF_Subcellular` (standardized to Bioregistry
+prefix [`nlx.sub`](https://bioregistry.io/nlx.sub)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref                          |   usages_count | usages                                                                                                                           |
+|----------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------|
+| `NIF_Subcellular:nlx_subcell_20090504` |              2 | [UBERON:0011917](http://purl.obolibrary.org/obo/UBERON_0011917), [UBERON:0011917](http://purl.obolibrary.org/obo/UBERON_0011917) |
+| `NIF_Subcellular:sao587858733`         |              2 | [UBERON:0001047](http://purl.obolibrary.org/obo/UBERON_0001047), [UBERON:0001047](http://purl.obolibrary.org/obo/UBERON_0001047) |
+| `NIF_Subcellular:nlx_subcell_100205`   |              1 | [UBERON:0000201](http://purl.obolibrary.org/obo/UBERON_0000201)                                                                  |
+| `NIF_Subcellular:sao1397492660`        |              1 | [UBERON:0000482](http://purl.obolibrary.org/obo/UBERON_0000482)                                                                  |
+| `NIF_Subcellular:sao1145756102`        |              1 | [UBERON:0001130](http://purl.obolibrary.org/obo/UBERON_0001130)                                                                  |
+| `NIF_Subcellular:sao205380252`         |              1 | [UBERON:0002606](http://purl.obolibrary.org/obo/UBERON_0002606)                                                                  |
+| `NIF_Subcellular:FMA_83604`            |              1 | [UBERON:0003719](http://purl.obolibrary.org/obo/UBERON_0003719)                                                                  |
+| `NIF_Subcellular:nlx_subcell_20090503` |              1 | [UBERON:0005387](http://purl.obolibrary.org/obo/UBERON_0005387)                                                                  |
+| `NIF_Subcellular:sao7547390221`        |              1 | [UBERON:0011860](http://purl.obolibrary.org/obo/UBERON_0011860)                                                                  |
+| `NIF_Subcellular:nlx_subcell_20090502` |              1 | [UBERON:0011915](http://purl.obolibrary.org/obo/UBERON_0011915)                                                                  |
+| `NIF_Subcellular:FMA_83606`            |              1 | [UBERON:0012456](http://purl.obolibrary.org/obo/UBERON_0012456)                                                                  |
+| `NIF_Subcellular:nlx_subcell_100209`   |              1 | [UBERON:0018687](http://purl.obolibrary.org/obo/UBERON_0018687)                                                                  |
 
 ## `NIFSTD`: NIF Standard Ontology
 

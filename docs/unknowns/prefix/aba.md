@@ -66,12 +66,6 @@
 | ABA:Brain   |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
 | ABA:CTX1-6b |        1 | [UBERON:0002301](http://purl.obolibrary.org/obo/UBERON_0002301) |
 
-## covid19
-
-| curie     |   usages | nodes                                                           |
-|-----------|----------|-----------------------------------------------------------------|
-| ABA:Brain |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
-
 ## icdo
 
 | curie     |   usages | nodes                                                           |

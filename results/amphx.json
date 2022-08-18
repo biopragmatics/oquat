@@ -15,6 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2020-12-18",
     "version_iri": "http://purl.obolibrary.org/obo/amphx/releases/2020-12-18/amphx.owl",
     "xref_pack": {
       "invalid_luids": {},

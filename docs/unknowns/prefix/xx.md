@@ -14,10 +14,12 @@
 
 ## idomal
 
-| curie       |   usages | nodes                                                           |
-|-------------|----------|-----------------------------------------------------------------|
-| XX:12034462 |        1 | [IDOMAL:0001122](http://purl.obolibrary.org/obo/IDOMAL_0001122) |
-| XX:         |        1 | [IDOMAL:0001133](http://purl.obolibrary.org/obo/IDOMAL_0001133) |
+| curie       |   usages | nodes                                                                                                                                                                                                                                                                                            |
+|-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| XX:PAM-ADD  |        7 | [CL:0000492](http://purl.obolibrary.org/obo/CL_0000492), [CL:0000545](http://purl.obolibrary.org/obo/CL_0000545), [CL:0000546](http://purl.obolibrary.org/obo/CL_0000546), [CL:0000794](http://purl.obolibrary.org/obo/CL_0000794), [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910), ... |
+| XX:RHS      |        1 | [CL:0000945](http://purl.obolibrary.org/obo/CL_0000945)                                                                                                                                                                                                                                          |
+| XX:12034462 |        1 | [IDOMAL:0001122](http://purl.obolibrary.org/obo/IDOMAL_0001122)                                                                                                                                                                                                                                  |
+| XX:         |        1 | [IDOMAL:0001133](http://purl.obolibrary.org/obo/IDOMAL_0001133)                                                                                                                                                                                                                                  |
 
 ## fbbi
 

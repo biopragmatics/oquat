@@ -16,10 +16,6 @@
         "DO": {
           "http://purl.obolibrary.org/obo/DOID_0050178": "DO:wk",
           "http://purl.obolibrary.org/obo/DOID_462": "DO:lh"
-        },
-        "ORDO": {
-          "http://purl.obolibrary.org/obo/DOID_0060538": "ORDO:49566",
-          "http://purl.obolibrary.org/obo/DOID_0111069": "ORDO:79303"
         }
       },
       "unknown_prefixes": {
@@ -1194,6 +1190,7 @@
           "http://purl.obolibrary.org/obo/DOID_0060293": "url:https://www.omim.org/entry/118650",
           "http://purl.obolibrary.org/obo/DOID_0060294": "url:http://ghr.nlm.nih.gov/condition/cold-induced-sweating-syndrome",
           "http://purl.obolibrary.org/obo/DOID_0060295": "url:https://rarediseases.info.nih.gov/diseases/1452/complement-component-2-deficiency",
+          "http://purl.obolibrary.org/obo/DOID_0060296": "url:https://omim.org/entry/214700",
           "http://purl.obolibrary.org/obo/DOID_0060297": "url:https://www.omim.org/entry/614380",
           "http://purl.obolibrary.org/obo/DOID_0060298": "url:https://www.omim.org/entry/614379",
           "http://purl.obolibrary.org/obo/DOID_0060299": "url:https://www.omim.org/entry/612446",
@@ -1429,7 +1426,7 @@
           "http://purl.obolibrary.org/obo/DOID_0060535": "url:https://www.ncbi.nlm.nih.gov/pubmed/31169992",
           "http://purl.obolibrary.org/obo/DOID_0060536": "url:http://www.omim.org/entry/252010",
           "http://purl.obolibrary.org/obo/DOID_0060537": "url:https://www.ncbi.nlm.nih.gov/pubmed/23322652",
-          "http://purl.obolibrary.org/obo/DOID_0060538": "url:https://www.ncbi.nlm.nih.gov/pubmed/26955583",
+          "http://purl.obolibrary.org/obo/DOID_0060538": "url:https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=49566",
           "http://purl.obolibrary.org/obo/DOID_0060539": "url:http://omim.org/entry/203300",
           "http://purl.obolibrary.org/obo/DOID_0060540": "url:http://omim.org/entry/608233",
           "http://purl.obolibrary.org/obo/DOID_0060541": "url:http://omim.org/entry/614072",
@@ -1450,6 +1447,7 @@
           "http://purl.obolibrary.org/obo/DOID_0060560": "url:https://www.ncbi.nlm.nih.gov/pubmed/17701904",
           "http://purl.obolibrary.org/obo/DOID_0060561": "url:https://ghr.nlm.nih.gov/condition/dmd-associated-dilated-cardiomyopathy",
           "http://purl.obolibrary.org/obo/DOID_0060562": "url:https://en.wikipedia.org/wiki/Anomalous_left_coronary_artery_from_the_pulmonary_artery",
+          "http://purl.obolibrary.org/obo/DOID_0060563": "url:https://omim.org/entry/169100",
           "http://purl.obolibrary.org/obo/DOID_0060564": "url:https://en.wikipedia.org/wiki/Spinal_disease",
           "http://purl.obolibrary.org/obo/DOID_0060565": "url:https://en.wikipedia.org/wiki/3C_syndrome",
           "http://purl.obolibrary.org/obo/DOID_0060566": "url:https://www.ncbi.nlm.nih.gov/pubmed/3232694",
@@ -2087,6 +2085,11 @@
           "http://purl.obolibrary.org/obo/DOID_0070354": "url:https://www.omim.org/entry/618415",
           "http://purl.obolibrary.org/obo/DOID_0070356": "url:https://www.uniprot.org/diseases/DI-05463",
           "http://purl.obolibrary.org/obo/DOID_0070357": "url:https://www.omim.org/entry/301028",
+          "http://purl.obolibrary.org/obo/DOID_0070358": "url:https://pubmed.ncbi.nlm.nih.gov/19458352/",
+          "http://purl.obolibrary.org/obo/DOID_0070359": "url:https://pubmed.ncbi.nlm.nih.gov/19458352/",
+          "http://purl.obolibrary.org/obo/DOID_0070360": "url:https://pubmed.ncbi.nlm.nih.gov/19458352/",
+          "http://purl.obolibrary.org/obo/DOID_0070361": "url:https://pubmed.ncbi.nlm.nih.gov/20639879/",
+          "http://purl.obolibrary.org/obo/DOID_0070362": "url:https://pubmed.ncbi.nlm.nih.gov/20639879/",
           "http://purl.obolibrary.org/obo/DOID_0080000": "url:http://www.nlm.nih.gov/medlineplus/muscledisorders.html",
           "http://purl.obolibrary.org/obo/DOID_0080001": "url:http://en.wikipedia.org/wiki/Bone_disease",
           "http://purl.obolibrary.org/obo/DOID_0080005": "url:http://en.wikipedia.org/wiki/Bone_remodeling",
@@ -3133,6 +3136,31 @@
           "http://purl.obolibrary.org/obo/DOID_0081097": "url:https://pubmed.ncbi.nlm.nih.gov/29908352/",
           "http://purl.obolibrary.org/obo/DOID_0081098": "url:https://pubmed.ncbi.nlm.nih.gov/22549410/",
           "http://purl.obolibrary.org/obo/DOID_0081099": "url:https://pubmed.ncbi.nlm.nih.gov/30296593/",
+          "http://purl.obolibrary.org/obo/DOID_0081100": "url:https://pubmed.ncbi.nlm.nih.gov/3741213/",
+          "http://purl.obolibrary.org/obo/DOID_0081101": "url:https://pubmed.ncbi.nlm.nih.gov/8964822/",
+          "http://purl.obolibrary.org/obo/DOID_0081102": "url:https://pubmed.ncbi.nlm.nih.gov/9267761/",
+          "http://purl.obolibrary.org/obo/DOID_0081104": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4692029/",
+          "http://purl.obolibrary.org/obo/DOID_0081105": "url:https://pubmed.ncbi.nlm.nih.gov/29934816/",
+          "http://purl.obolibrary.org/obo/DOID_0081106": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4692029/",
+          "http://purl.obolibrary.org/obo/DOID_0081107": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4692029/",
+          "http://purl.obolibrary.org/obo/DOID_0081108": "url:https://pubmed.ncbi.nlm.nih.gov/29934816/",
+          "http://purl.obolibrary.org/obo/DOID_0081109": "url:https://pubmed.ncbi.nlm.nih.gov/10594734/",
+          "http://purl.obolibrary.org/obo/DOID_0081110": "url:https://pubmed.ncbi.nlm.nih.gov/11982762/",
+          "http://purl.obolibrary.org/obo/DOID_0081111": "url:https://pubmed.ncbi.nlm.nih.gov/18811698/",
+          "http://purl.obolibrary.org/obo/DOID_0081112": "url:https://pubmed.ncbi.nlm.nih.gov/29220674/",
+          "http://purl.obolibrary.org/obo/DOID_0081113": "url:https://pubmed.ncbi.nlm.nih.gov/25052316/",
+          "http://purl.obolibrary.org/obo/DOID_0081114": "url:https://pubmed.ncbi.nlm.nih.gov/9339675/",
+          "http://purl.obolibrary.org/obo/DOID_0081115": "url:https://pubmed.ncbi.nlm.nih.gov/18479385/",
+          "http://purl.obolibrary.org/obo/DOID_0081116": "url:https://pubmed.ncbi.nlm.nih.gov/11094099/",
+          "http://purl.obolibrary.org/obo/DOID_0081117": "url:https://pubmed.ncbi.nlm.nih.gov/18811698/",
+          "http://purl.obolibrary.org/obo/DOID_0081118": "url:https://pubmed.ncbi.nlm.nih.gov/23086396/",
+          "http://purl.obolibrary.org/obo/DOID_0081119": "url:https://pubmed.ncbi.nlm.nih.gov/25847220/",
+          "http://purl.obolibrary.org/obo/DOID_0081120": "url:https://en.wikipedia.org/wiki/Graves%27_ophthalmopathy",
+          "http://purl.obolibrary.org/obo/DOID_0081121": "url:https://pubmed.ncbi.nlm.nih.gov/34048612/",
+          "http://purl.obolibrary.org/obo/DOID_0081122": "url:https://pubmed.ncbi.nlm.nih.gov/18501694/",
+          "http://purl.obolibrary.org/obo/DOID_0081123": "url:https://pubmed.ncbi.nlm.nih.gov/8503440/",
+          "http://purl.obolibrary.org/obo/DOID_0081124": "url:https://pubmed.ncbi.nlm.nih.gov/24194475/",
+          "http://purl.obolibrary.org/obo/DOID_0081125": "url:https://pubmed.ncbi.nlm.nih.gov/24194475/",
           "http://purl.obolibrary.org/obo/DOID_0090001": "url:https://www.ncbi.nlm.nih.gov/pubmed/22510445",
           "http://purl.obolibrary.org/obo/DOID_0090002": "url:https://www.ncbi.nlm.nih.gov/pubmed/8589691",
           "http://purl.obolibrary.org/obo/DOID_0090003": "url:https://www.ncbi.nlm.nih.gov/pubmed/12838516",
@@ -4313,7 +4341,7 @@
           "http://purl.obolibrary.org/obo/DOID_0111066": "url:https://www.ncbi.nlm.nih.gov/pubmed/25168382",
           "http://purl.obolibrary.org/obo/DOID_0111067": "url:https://www.ncbi.nlm.nih.gov/pubmed/27884763",
           "http://purl.obolibrary.org/obo/DOID_0111068": "url:https://www.ncbi.nlm.nih.gov/pubmed/5064535",
-          "http://purl.obolibrary.org/obo/DOID_0111069": "url:https://www.ncbi.nlm.nih.gov/pubmed/3198770",
+          "http://purl.obolibrary.org/obo/DOID_0111069": "url:https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=79303",
           "http://purl.obolibrary.org/obo/DOID_0111070": "url:https://www.ncbi.nlm.nih.gov/pubmed/9802883",
           "http://purl.obolibrary.org/obo/DOID_0111071": "url:https://www.ncbi.nlm.nih.gov/pubmed/3470305",
           "http://purl.obolibrary.org/obo/DOID_0111072": "url:https://www.ncbi.nlm.nih.gov/pubmed/15215484",
@@ -5746,8 +5774,15 @@
           "http://purl.obolibrary.org/obo/DOID_10320": "url:http://en.wikipedia.org/wiki/Asbestosis",
           "http://purl.obolibrary.org/obo/DOID_10321": "url:https://rarediseases.info.nih.gov/diseases/8371/baritosis",
           "http://purl.obolibrary.org/obo/DOID_10322": "url:http://en.wikipedia.org/wiki/Berylliosis",
+          "http://purl.obolibrary.org/obo/DOID_10323": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7767605/",
+          "http://purl.obolibrary.org/obo/DOID_10324": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765255/",
           "http://purl.obolibrary.org/obo/DOID_10325": "url:http://en.wikipedia.org/wiki/Silicosis",
           "http://purl.obolibrary.org/obo/DOID_10326": "url:http://www.nlm.nih.gov/medlineplus/ency/article/000137.htm",
+          "http://purl.obolibrary.org/obo/DOID_10327": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4386010/",
+          "http://purl.obolibrary.org/obo/DOID_10328": "url:https://en.wikipedia.org/wiki/Siderosis",
+          "http://purl.obolibrary.org/obo/DOID_10329": "url:https://radiopaedia.org/articles/talcosis-1",
+          "http://purl.obolibrary.org/obo/DOID_10330": "url:https://pubmed.ncbi.nlm.nih.gov/7426466/",
+          "http://purl.obolibrary.org/obo/DOID_10331": "url:https://www.amjmed.com/article/S0002-9343%2820%2930716-6/fulltext",
           "http://purl.obolibrary.org/obo/DOID_10337": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3083760/",
           "http://purl.obolibrary.org/obo/DOID_10348": "url:https://en.wikipedia.org/wiki/Blepharophimosis",
           "http://purl.obolibrary.org/obo/DOID_10349": "url:https://www.ncbi.nlm.nih.gov/pubmed/14223874",
@@ -5958,6 +5993,7 @@
           "http://purl.obolibrary.org/obo/DOID_11104": "url:http://www.cdc.gov/otherspottedfever/index.html",
           "http://purl.obolibrary.org/obo/DOID_11105": "url:http://www.omim.org/entry/136880",
           "http://purl.obolibrary.org/obo/DOID_11119": "url:http://en.wikipedia.org/wiki/Tourette%27s_disorder",
+          "http://purl.obolibrary.org/obo/DOID_11121": "url:https://www.merckmanuals.com/professional/dental-disorders/common-dental-disorders/pulpitis",
           "http://purl.obolibrary.org/obo/DOID_11123": "url:https://rarediseases.info.nih.gov/diseases/8204/henoch-schonlein-purpura",
           "http://purl.obolibrary.org/obo/DOID_1114": "url:https://www.ncbi.nlm.nih.gov/pubmed/1658495",
           "http://purl.obolibrary.org/obo/DOID_11148": "url:https://jamanetwork.com/journals/jamaophthalmology/article-abstract/624904",
@@ -6077,10 +6113,12 @@
           "http://purl.obolibrary.org/obo/DOID_11574": "url:https://medlineplus.gov/ency/article/000607.htm",
           "http://purl.obolibrary.org/obo/DOID_11577": "url:http://en.wikipedia.org/wiki/Cauda_equina_syndrome",
           "http://purl.obolibrary.org/obo/DOID_11589": "url:https://pubmed.ncbi.nlm.nih.gov/26769677/",
+          "http://purl.obolibrary.org/obo/DOID_11599": "url:https://pubmed.ncbi.nlm.nih.gov/12269550/",
           "http://purl.obolibrary.org/obo/DOID_11603": "url:https://www.ncbi.nlm.nih.gov/pubmed/28260521",
           "http://purl.obolibrary.org/obo/DOID_11607": "url:http://www.nature.com/jp/journal/v27/n2/pdf/7211628a.pdf",
           "http://purl.obolibrary.org/obo/DOID_11608": "url:https://en.wikipedia.org/wiki/Fungal_meningitis",
           "http://purl.obolibrary.org/obo/DOID_11612": "url:https://www.ncbi.nlm.nih.gov/pubmed/20591140",
+          "http://purl.obolibrary.org/obo/DOID_11623": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6481543/",
           "http://purl.obolibrary.org/obo/DOID_11629": "url:https://pubmed.ncbi.nlm.nih.gov/27219835/",
           "http://purl.obolibrary.org/obo/DOID_11656": "url:http://www.merckmanuals.com/professional/eye_disorders/conjunctival_and_scleral_disorders/cicatricial_pemphigoid.html",
           "http://purl.obolibrary.org/obo/DOID_1166": "url:https://www.mayoclinic.org/diseases-conditions/rheumatoid-arthritis/expert-answers/palindromic-rheumatism/faq-20058516",
@@ -6113,6 +6151,7 @@
           "http://purl.obolibrary.org/obo/DOID_11748": "url:https://www.icd10data.com/ICD10CM/Codes/C00-D49/C51-C58/C57-/C57.20",
           "http://purl.obolibrary.org/obo/DOID_11750": "url:http://en.wikipedia.org/wiki/Pertussis",
           "http://purl.obolibrary.org/obo/DOID_11754": "url:https://www.ncbi.nlm.nih.gov/pubmed/3390063",
+          "http://purl.obolibrary.org/obo/DOID_11755": "url:https://www.ncbi.nlm.nih.gov/books/NBK441961/",
           "http://purl.obolibrary.org/obo/DOID_11758": "url:https://www.merckmanuals.com/professional/hematology-and-oncology/anemias-caused-by-deficient-erythropoiesis/iron-deficiency-anemia",
           "http://purl.obolibrary.org/obo/DOID_1176": "url:https://www.ncbi.nlm.nih.gov/pubmed/11685087",
           "http://purl.obolibrary.org/obo/DOID_11760": "url:http://en.wikipedia.org/wiki/K%C3%B6hler_disease",
@@ -6204,6 +6243,7 @@
           "http://purl.obolibrary.org/obo/DOID_12217": "url:http://www.mayoclinic.org/diseases-conditions/lewy-body-dementia/basics/definition/CON-20025038",
           "http://purl.obolibrary.org/obo/DOID_1222": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6146013/",
           "http://purl.obolibrary.org/obo/DOID_12236": "url:https://www.mayoclinic.org/diseases-conditions/primary-biliary-cholangitis-pbc/symptoms-causes/syc-20376874",
+          "http://purl.obolibrary.org/obo/DOID_12237": "url:https://www.mayoclinic.org/diseases-conditions/bile-reflux/symptoms-causes/syc-20370115",
           "http://purl.obolibrary.org/obo/DOID_12241": "url:https://www.ncbi.nlm.nih.gov/pubmed/10395635",
           "http://purl.obolibrary.org/obo/DOID_12245": "url:http://emedicine.medscape.com/article/299054-overview",
           "http://purl.obolibrary.org/obo/DOID_12252": "url:http://www.britannica.com/EBchecked/topic/147320/Cushing-syndrome",
@@ -6340,6 +6380,7 @@
           "http://purl.obolibrary.org/obo/DOID_12930": "url:http://en.wikipedia.org/wiki/Dilated_cardiomyopathy",
           "http://purl.obolibrary.org/obo/DOID_1294": "url:http://www.cancer.gov/cancertopics/types/vulvar",
           "http://purl.obolibrary.org/obo/DOID_12960": "url:http://en.wikipedia.org/wiki/Acrocephalosyndactylia",
+          "http://purl.obolibrary.org/obo/DOID_12961": "url:https://pubmed.ncbi.nlm.nih.gov/25831684",
           "http://purl.obolibrary.org/obo/DOID_12965": "url:http://medical-dictionary.thefreedictionary.com/subleukemic+leukemia",
           "http://purl.obolibrary.org/obo/DOID_12969": "url:http://www.springerlink.com/content/gl61tx644217n938/",
           "http://purl.obolibrary.org/obo/DOID_12971": "url:http://en.wikipedia.org/wiki/Hereditary_spherocytosis",
@@ -6370,6 +6411,7 @@
           "http://purl.obolibrary.org/obo/DOID_1308": "url:http://www.medterms.com/script/main/art.asp?articlekey=10924",
           "http://purl.obolibrary.org/obo/DOID_13080": "url:https://radiopaedia.org/articles/jaccoud-arthropathy",
           "http://purl.obolibrary.org/obo/DOID_13087": "url:http://en.wikipedia.org/wiki/Lown-Ganong-Levine_syndrome",
+          "http://purl.obolibrary.org/obo/DOID_13096": "url:https://pubmed.ncbi.nlm.nih.gov/25075847/",
           "http://purl.obolibrary.org/obo/DOID_13098": "url:http://en.wikipedia.org/wiki/Central_retinal_artery_occlusion",
           "http://purl.obolibrary.org/obo/DOID_13099": "url:http://rarediseases.info.nih.gov/gard/7064/moyamoya-disease/resources/1",
           "http://purl.obolibrary.org/obo/DOID_13109": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5532898/",
@@ -6498,7 +6540,9 @@
           "http://purl.obolibrary.org/obo/DOID_13593": "url:https://www.ncbi.nlm.nih.gov/pubmed/24400024",
           "http://purl.obolibrary.org/obo/DOID_136": "url:https://www.ncbi.nlm.nih.gov/pubmed/12588439",
           "http://purl.obolibrary.org/obo/DOID_13601": "url:http://www.textbookofbacteriology.net/e.coli_4.html",
+          "http://purl.obolibrary.org/obo/DOID_13603": "url:https://en.wikipedia.org/wiki/Jaundice",
           "http://purl.obolibrary.org/obo/DOID_13608": "url:http://www.nlm.nih.gov/medlineplus/ency/article/000215.htm",
+          "http://purl.obolibrary.org/obo/DOID_13619": "url:https://medlineplus.gov/ency/article/000215.htm",
           "http://purl.obolibrary.org/obo/DOID_1362": "url:http://www.cancer.gov/cancertopics/pdq/treatment/paranasalsinus/Patient",
           "http://purl.obolibrary.org/obo/DOID_13622": "url:https://www.health.ny.gov/diseases/communicable/campylobacteriosis/fact_sheet.htm",
           "http://purl.obolibrary.org/obo/DOID_13623": "url:http://www.merck.com/mmpe/sec14/ch171/ch171c.html?qt=staphylococcus&alt=sh#S14_CH171_T001",
@@ -6510,6 +6554,7 @@
           "http://purl.obolibrary.org/obo/DOID_13691": "url:https://www.ncbi.nlm.nih.gov/pubmed/23488469",
           "http://purl.obolibrary.org/obo/DOID_137": "url:https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=14.10d&code=C6374",
           "http://purl.obolibrary.org/obo/DOID_1371": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3917104/",
+          "http://purl.obolibrary.org/obo/DOID_13711": "url:https://pubmed.ncbi.nlm.nih.gov/21701193/",
           "http://purl.obolibrary.org/obo/DOID_13714": "url:https://rarediseases.info.nih.gov/diseases/5818/index",
           "http://purl.obolibrary.org/obo/DOID_13717": "url:https://en.wikipedia.org/wiki/Cataract",
           "http://purl.obolibrary.org/obo/DOID_13720": "url:http://en.wikipedia.org/wiki/Schistosomiasis",
@@ -6707,6 +6752,7 @@
           "http://purl.obolibrary.org/obo/DOID_14681": "url:https://rarediseases.org/rare-diseases/russell-silver-syndrome/",
           "http://purl.obolibrary.org/obo/DOID_14686": "url:http://ghr.nlm.nih.gov/condition/axenfeld-rieger-syndrome",
           "http://purl.obolibrary.org/obo/DOID_14687": "url:http://www.ncbi.nlm.nih.gov/books/NBK22219/",
+          "http://purl.obolibrary.org/obo/DOID_14693": "url:https://pubmed.ncbi.nlm.nih.gov/8845850/",
           "http://purl.obolibrary.org/obo/DOID_14694": "url:http://en.wikipedia.org/wiki/Johanson-Blizzard_syndrome",
           "http://purl.obolibrary.org/obo/DOID_14695": "url:http://en.wikipedia.org/wiki/Galactokinase_deficiency",
           "http://purl.obolibrary.org/obo/DOID_14699": "url:https://www.ncbi.nlm.nih.gov/books/NBK23758/",
@@ -6890,6 +6936,7 @@
           "http://purl.obolibrary.org/obo/DOID_1909": "url:https://www.ncbi.nlm.nih.gov/pubmed/22123420",
           "http://purl.obolibrary.org/obo/DOID_1910": "url:https://www.ncbi.nlm.nih.gov/pubmed/30814243",
           "http://purl.obolibrary.org/obo/DOID_1911": "url:https://www.cincinnatichildrens.org/health/y/yolk-sac/",
+          "http://purl.obolibrary.org/obo/DOID_1919": "url:https://pubmed.ncbi.nlm.nih.gov/31182398/",
           "http://purl.obolibrary.org/obo/DOID_192": "url:http://en.wikipedia.org/wiki/Sex_cord-gonadal_stromal_tumour",
           "http://purl.obolibrary.org/obo/DOID_1920": "url:http://en.wikipedia.org/wiki/Hyperuricemia",
           "http://purl.obolibrary.org/obo/DOID_1921": "url:https://www.genome.gov/Genetic-Disorders/Klinefelter-Syndrome",
@@ -7147,6 +7194,7 @@
           "http://purl.obolibrary.org/obo/DOID_2729": "url:http://ghr.nlm.nih.gov/condition/dyskeratosis-congenita",
           "http://purl.obolibrary.org/obo/DOID_2730": "url:https://rarediseases.org/rare-diseases/epidermolysis-bullosa/",
           "http://purl.obolibrary.org/obo/DOID_2731": "url:https://www.aafp.org/afp/2017/0601/p717.html",
+          "http://purl.obolibrary.org/obo/DOID_2732": "url:https://pubmed.ncbi.nlm.nih.gov/20113479/",
           "http://purl.obolibrary.org/obo/DOID_2736": "url:https://www.ncbi.nlm.nih.gov/pubmed/9714016",
           "http://purl.obolibrary.org/obo/DOID_2738": "url:https://www.rarediseases.org/rare-disease-information/rare-diseases/byID/253/viewAbstract",
           "http://purl.obolibrary.org/obo/DOID_2739": "url:http://en.wikipedia.org/wiki/Gilbert%27s_syndrome",
@@ -7184,6 +7232,7 @@
           "http://purl.obolibrary.org/obo/DOID_2801": "url:http://www.merck.com/mmhe/sec04/ch050/ch050b.html?qt=idiopathic%20interstitial%20pneumonia&alt=sh",
           "http://purl.obolibrary.org/obo/DOID_2810": "url:http://www.thepcrj.org/journ/aop/pcrj-2008-09-0085.pdf",
           "http://purl.obolibrary.org/obo/DOID_2815": "url:https://link.springer.com/chapter/10.1007/978-3-642-02874-8_15",
+          "http://purl.obolibrary.org/obo/DOID_2828": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8362504/",
           "http://purl.obolibrary.org/obo/DOID_2832": "url:https://pubmed.ncbi.nlm.nih.gov/35018329/",
           "http://purl.obolibrary.org/obo/DOID_2841": "url:https://www.ncbi.nlm.nih.gov/books/NBK7223/",
           "http://purl.obolibrary.org/obo/DOID_2843": "url:http://en.wikipedia.org/wiki/Long_QT_syndrome",
@@ -7300,6 +7349,7 @@
           "http://purl.obolibrary.org/obo/DOID_3117": "url:http://en.wikipedia.org/wiki/Hepatobiliary_system",
           "http://purl.obolibrary.org/obo/DOID_3118": "url:http://en.wikipedia.org/wiki/Hepato-biliary_diseases",
           "http://purl.obolibrary.org/obo/DOID_3119": "url:http://en.wikipedia.org/wiki/Human_gastrointestinal_tract",
+          "http://purl.obolibrary.org/obo/DOID_3120": "url:https://pubmed.ncbi.nlm.nih.gov/25351203/",
           "http://purl.obolibrary.org/obo/DOID_3121": "url:http://en.wikipedia.org/wiki/Gallbladder",
           "http://purl.obolibrary.org/obo/DOID_3125": "url:https://ghr.nlm.nih.gov/condition/multiple-endocrine-neoplasia",
           "http://purl.obolibrary.org/obo/DOID_3127": "url:http://www.merck.com/mmpe/sec02/ch020/ch020i.html#sec02-ch020-ch020g-1361",
@@ -7317,6 +7367,7 @@
           "http://purl.obolibrary.org/obo/DOID_3163": "url:http://www.cancer.gov/dictionary/?CdrID=44506",
           "http://purl.obolibrary.org/obo/DOID_3168": "url:http://en.wikipedia.org/wiki/Squamous-cell_carcinoma",
           "http://purl.obolibrary.org/obo/DOID_3173": "url:https://www.cancer.gov/publications/dictionaries/cancer-terms/search?contains=true&q=serous",
+          "http://purl.obolibrary.org/obo/DOID_3178": "url:https://www.ncbi.nlm.nih.gov/books/NBK560737/",
           "http://purl.obolibrary.org/obo/DOID_3185": "url:http://www.cancer.gov/dictionary?CdrID=45700",
           "http://purl.obolibrary.org/obo/DOID_3187": "url:http://www.cancer.gov/dictionary?CdrID=46257",
           "http://purl.obolibrary.org/obo/DOID_3191": "url:https://www.rarediseases.org/rare-disease-information/rare-diseases/byID/151/viewAbstract",
@@ -7382,6 +7433,7 @@
           "http://purl.obolibrary.org/obo/DOID_3322": "url:https://ghr.nlm.nih.gov/condition/gm1-gangliosidosis",
           "http://purl.obolibrary.org/obo/DOID_3323": "url:https://ghr.nlm.nih.gov/condition/sandhoff-disease",
           "http://purl.obolibrary.org/obo/DOID_3324": "url:https://en.wikipedia.org/wiki/Mood_disorder",
+          "http://purl.obolibrary.org/obo/DOID_3329": "url:https://www.ncbi.nlm.nih.gov/books/NBK534845/",
           "http://purl.obolibrary.org/obo/DOID_3331": "url:https://www.hopkinsmedicine.org/health/conditions-and-diseases/epilepsy/focal-epilepsy",
           "http://purl.obolibrary.org/obo/DOID_3332": "url:http://en.wikipedia.org/wiki/Haemonchus_contortus",
           "http://purl.obolibrary.org/obo/DOID_334": "url:http://en.wikipedia.org/wiki/Histrionic_personality_disorder",
@@ -7557,6 +7609,7 @@
           "http://purl.obolibrary.org/obo/DOID_3819": "url:https://www.ncbi.nlm.nih.gov/pubmed/16805148",
           "http://purl.obolibrary.org/obo/DOID_3827": "url:http://ghr.nlm.nih.gov/condition/congenital-diaphragmatic-hernia",
           "http://purl.obolibrary.org/obo/DOID_3829": "url:https://www.ncbi.nlm.nih.gov/pubmed/24010395",
+          "http://purl.obolibrary.org/obo/DOID_3852": "url:https://pubmed.ncbi.nlm.nih.gov/10874301/",
           "http://purl.obolibrary.org/obo/DOID_3856": "url:http://www.wrongdiagnosis.com/g/genital_system_cancer/intro.htm",
           "http://purl.obolibrary.org/obo/DOID_3857": "url:http://en.wikipedia.org/wiki/Large_cell",
           "http://purl.obolibrary.org/obo/DOID_3875": "url:http://www.nlm.nih.gov/medlineplus/ency/article/001108.htm",
@@ -7656,12 +7709,14 @@
           "http://purl.obolibrary.org/obo/DOID_4123": "url:http://en.wikipedia.org/wiki/Nail_disease",
           "http://purl.obolibrary.org/obo/DOID_413": "url:http://www.oie.int/fr/normes/mmanual/2008/pdf/2.03.06_AVIAN_TB.pdf",
           "http://purl.obolibrary.org/obo/DOID_4131": "url:https://www.ncbi.nlm.nih.gov/pubmed/30020724",
+          "http://purl.obolibrary.org/obo/DOID_4138": "url:https://www.nyp.org/cadc/liver-diseases-and-transplantation/bile-duct-disorders",
           "http://purl.obolibrary.org/obo/DOID_4140": "url:http://en.wikipedia.org/wiki/Biliary_dyskinesia",
           "http://purl.obolibrary.org/obo/DOID_4141": "url:http://www.mayfieldclinic.com/pe-meni.htm",
           "http://purl.obolibrary.org/obo/DOID_4143": "url:https://www.ncbi.nlm.nih.gov/books/NBK13668/",
           "http://purl.obolibrary.org/obo/DOID_4151": "url:https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=134&ContentID=85",
           "http://purl.obolibrary.org/obo/DOID_4152": "url:http://www.ajnr.org/ajnr-case-collections-diagnosis/chondroid-chordoma",
           "http://purl.obolibrary.org/obo/DOID_4153": "url:http://www.hopkinsmedicine.org/neurology_neurosurgery/conditions_main/chordoma.html",
+          "http://purl.obolibrary.org/obo/DOID_4154": "url:https://pubmed.ncbi.nlm.nih.gov/19021896/",
           "http://purl.obolibrary.org/obo/DOID_4156": "url:http://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=primary+syphilis",
           "http://purl.obolibrary.org/obo/DOID_4157": "url:http://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=secondary+syphilis",
           "http://purl.obolibrary.org/obo/DOID_4159": "url:https://medlineplus.gov/skincancer.html",
@@ -7831,6 +7886,7 @@
           "http://purl.obolibrary.org/obo/DOID_4677": "url:http://www.mayoclinic.org/diseases-conditions/keratitis/basics/definition/con-20035288",
           "http://purl.obolibrary.org/obo/DOID_4679": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758243/",
           "http://purl.obolibrary.org/obo/DOID_4680": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3388429/",
+          "http://purl.obolibrary.org/obo/DOID_4681": "url:https://pubmed.ncbi.nlm.nih.gov/35697621/",
           "http://purl.obolibrary.org/obo/DOID_4682": "url:https://www.cancer.gov/publications/dictionaries/cancer-terms/def/extrahepatic-bile-duct-cancer",
           "http://purl.obolibrary.org/obo/DOID_4687": "url:https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C38762",
           "http://purl.obolibrary.org/obo/DOID_4691": "url:https://www.ncbi.nlm.nih.gov/pubmed/11154721",
@@ -8057,6 +8113,7 @@
           "http://purl.obolibrary.org/obo/DOID_5317": "url:http://www.childrenshospital.org/az/Site564/mainpageS564P0.html",
           "http://purl.obolibrary.org/obo/DOID_5324": "url:https://www.ncbi.nlm.nih.gov/pubmed/10202679",
           "http://purl.obolibrary.org/obo/DOID_5325": "url:https://www.ncbi.nlm.nih.gov/pubmed/20101700",
+          "http://purl.obolibrary.org/obo/DOID_5330": "url:https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C34530",
           "http://purl.obolibrary.org/obo/DOID_5340": "url:http://en.wikipedia.org/wiki/Amnesia",
           "http://purl.obolibrary.org/obo/DOID_5342": "url:http://en.wikipedia.org/wiki/Endodermal_sinus_tumor",
           "http://purl.obolibrary.org/obo/DOID_5348": "url:http://en.wikipedia.org/wiki/Endodermal_sinus_tumor",
@@ -8091,6 +8148,7 @@
           "http://purl.obolibrary.org/obo/DOID_5425": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3205536/",
           "http://purl.obolibrary.org/obo/DOID_5426": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7477642/",
           "http://purl.obolibrary.org/obo/DOID_543": "url:https://www.ninds.nih.gov/disorders/patient-caregiver-education/fact-sheets/dystonias-fact-sheet",
+          "http://purl.obolibrary.org/obo/DOID_5437": "url:https://pubmed.ncbi.nlm.nih.gov/31798791/",
           "http://purl.obolibrary.org/obo/DOID_5438": "url:http://www.joplink.net/prev/200803/08.html",
           "http://purl.obolibrary.org/obo/DOID_5446": "url:https://www.ncbi.nlm.nih.gov/pubmed/29582790",
           "http://purl.obolibrary.org/obo/DOID_5460": "url:http://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=pleuropneumonia",
@@ -8166,6 +8224,7 @@
           "http://purl.obolibrary.org/obo/DOID_5593": "url:https://www.ncbi.nlm.nih.gov/pubmed/11984707",
           "http://purl.obolibrary.org/obo/DOID_5597": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3425272/",
           "http://purl.obolibrary.org/obo/DOID_5598": "url:https://www.ncbi.nlm.nih.gov/pubmed/25163242",
+          "http://purl.obolibrary.org/obo/DOID_560": "url:https://pubmed.ncbi.nlm.nih.gov/16411218/",
           "http://purl.obolibrary.org/obo/DOID_5602": "url:https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9142",
           "http://purl.obolibrary.org/obo/DOID_5603": "url:https://www.cancer.gov/publications/dictionaries/cancer-terms/expand/T",
           "http://purl.obolibrary.org/obo/DOID_5604": "url:https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C4967",
@@ -8335,6 +8394,7 @@
           "http://purl.obolibrary.org/obo/DOID_6214": "url:https://acsjournals.onlinelibrary.wiley.com/doi/pdf/10.3322/canjclin.16.4.171",
           "http://purl.obolibrary.org/obo/DOID_6217": "url:https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9159",
           "http://purl.obolibrary.org/obo/DOID_622": "url:http://www.expasy.ch/viralzone/all_by_species/264.html",
+          "http://purl.obolibrary.org/obo/DOID_6225": "url:https://pubmed.ncbi.nlm.nih.gov/21881972/",
           "http://purl.obolibrary.org/obo/DOID_6229": "url:https://www.ncbi.nlm.nih.gov/pubmed/30165903",
           "http://purl.obolibrary.org/obo/DOID_6230": "url:https://www.ncbi.nlm.nih.gov/pubmed/682093",
           "http://purl.obolibrary.org/obo/DOID_6231": "url:https://www.ncbi.nlm.nih.gov/pubmed/20212374",
@@ -8437,6 +8497,7 @@
           "http://purl.obolibrary.org/obo/DOID_6721": "url:http://en.wikipedia.org/wiki/Urethral_gland",
           "http://purl.obolibrary.org/obo/DOID_6725": "url:http://www.nlm.nih.gov/medlineplus/ency/article/000441.htm",
           "http://purl.obolibrary.org/obo/DOID_6726": "url:http://www.cancer.gov/dictionary?CdrID=45602",
+          "http://purl.obolibrary.org/obo/DOID_6733": "url:https://pubmed.ncbi.nlm.nih.gov/19630118/",
           "http://purl.obolibrary.org/obo/DOID_674": "url:http://ghr.nlm.nih.gov/glossary=cleftpalate",
           "http://purl.obolibrary.org/obo/DOID_6741": "url:http://www.ehow.com/facts_5923640_treatments-bilateral-breast-cancer_.html",
           "http://purl.obolibrary.org/obo/DOID_6752": "url:https://www.ncbi.nlm.nih.gov/pubmed/19813171",
@@ -8626,6 +8687,7 @@
           "http://purl.obolibrary.org/obo/DOID_7739": "url:http://jco.ascopubs.org/content/25/29/4550.full.pdf+html",
           "http://purl.obolibrary.org/obo/DOID_7747": "url:http://www.cancer.gov/cancertopics/pdq/treatment/retinoblastoma/HealthProfessional/page7",
           "http://purl.obolibrary.org/obo/DOID_7750": "url:https://en.wikipedia.org/wiki/Ependymoma",
+          "http://purl.obolibrary.org/obo/DOID_7752": "url:https://pubmed.ncbi.nlm.nih.gov/21988050/",
           "http://purl.obolibrary.org/obo/DOID_7756": "url:https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3845",
           "http://purl.obolibrary.org/obo/DOID_7757": "url:http://www.nlm.nih.gov/medlineplus/leukemiachildhood.html",
           "http://purl.obolibrary.org/obo/DOID_7762": "url:http://radiographics.rsna.org/content/15/3/653.abstract",
@@ -8673,6 +8735,7 @@
           "http://purl.obolibrary.org/obo/DOID_8094": "url:https://www.ncbi.nlm.nih.gov/pubmed/12685182",
           "http://purl.obolibrary.org/obo/DOID_810": "url:http://en.wikipedia.org/wiki/Hiv-associated_lipodystrophy_syndrome",
           "http://purl.obolibrary.org/obo/DOID_8104": "url:https://www.ncbi.nlm.nih.gov/pubmed/23202776",
+          "http://purl.obolibrary.org/obo/DOID_8105": "url:https://pubmed.ncbi.nlm.nih.gov/25830005/",
           "http://purl.obolibrary.org/obo/DOID_811": "url:https://www.ncbi.nlm.nih.gov/pubmed/25833179",
           "http://purl.obolibrary.org/obo/DOID_8117": "url:https://en.wikipedia.org/wiki/Neuroinflammation",
           "http://purl.obolibrary.org/obo/DOID_8118": "url:https://www.ncbi.nlm.nih.gov/pubmed/22953284",
@@ -8695,6 +8758,7 @@
           "http://purl.obolibrary.org/obo/DOID_8211": "url:https://www.ncbi.nlm.nih.gov/pubmed/26549083",
           "http://purl.obolibrary.org/obo/DOID_8224": "url:https://www.ncbi.nlm.nih.gov/pubmed/21310798",
           "http://purl.obolibrary.org/obo/DOID_8227": "url:https://www.ncbi.nlm.nih.gov/pubmed/20407326",
+          "http://purl.obolibrary.org/obo/DOID_8230": "url:https://pubmed.ncbi.nlm.nih.gov/26885145/",
           "http://purl.obolibrary.org/obo/DOID_8252": "url:http://www.merck.com/mmhe/sec19/ch221/ch221g.html?qt=chronic%20rhinitis&alt=sh",
           "http://purl.obolibrary.org/obo/DOID_827": "url:https://www.ncbi.nlm.nih.gov/pubmed/28087922",
           "http://purl.obolibrary.org/obo/DOID_8272": "url:https://www.cancer.gov/publications/dictionaries/cancer-terms/def/anterior-urethral-cancer",
@@ -8765,7 +8829,7 @@
           "http://purl.obolibrary.org/obo/DOID_8567": "url:https://www.ncbi.nlm.nih.gov/pubmed/22835602",
           "http://purl.obolibrary.org/obo/DOID_8568": "url:http://www.cdc.gov/ncidod/diseases/ebv.htm",
           "http://purl.obolibrary.org/obo/DOID_857": "url:http://www.orpha.net/consor/cgi-bin/OC_Exp.php?Expert=148",
-          "http://purl.obolibrary.org/obo/DOID_8577": "url:http://en.wikipedia.org/wiki/Ulcerative_colitis",
+          "http://purl.obolibrary.org/obo/DOID_8577": "url:https://meshb.nlm.nih.gov/record/ui?ui=D003093",
           "http://purl.obolibrary.org/obo/DOID_8584": "url:http://www.cancer.gov/dictionary?CdrID=45203",
           "http://purl.obolibrary.org/obo/DOID_859": "url:http://en.wikipedia.org/wiki/Multiple_carboxylase_deficiency",
           "http://purl.obolibrary.org/obo/DOID_8596": "url:http://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=scarlet%20fever",
@@ -8855,6 +8919,7 @@
           "http://purl.obolibrary.org/obo/DOID_8970": "url:http://en.wikipedia.org/wiki/Subacute_sclerosing_panencephalitis",
           "http://purl.obolibrary.org/obo/DOID_898": "url:https://rarediseases.info.nih.gov/diseases/10413/autosomal-dominant-polycystic-kidney-disease",
           "http://purl.obolibrary.org/obo/DOID_8986": "url:http://en.wikipedia.org/wiki/Narcolepsy",
+          "http://purl.obolibrary.org/obo/DOID_899": "url:https://www.ncbi.nlm.nih.gov/books/NBK557762/",
           "http://purl.obolibrary.org/obo/DOID_8991": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1503328/",
           "http://purl.obolibrary.org/obo/DOID_8997": "url:https://www.mayoclinic.org/diseases-conditions/polycythemia-vera/symptoms-causes/syc-20355850",
           "http://purl.obolibrary.org/obo/DOID_90": "url:http://www.cedars-sinai.edu/Patients/Health-Conditions/Degenerative-Disc-Disease.aspx",
@@ -8948,6 +9013,7 @@
           "http://purl.obolibrary.org/obo/DOID_930": "url:http://www.hopkinsmedicine.org/wilmer/services/oculofacial_plastic_surgery/reconstructive/orbital_disease.html",
           "http://purl.obolibrary.org/obo/DOID_9305": "url:https://www.pneumonologia.gr/articlefiles/20070307_EXTRAPULMONARY_tbc.pdf",
           "http://purl.obolibrary.org/obo/DOID_931": "url:https://www.ncbi.nlm.nih.gov/pubmed/15287174",
+          "http://purl.obolibrary.org/obo/DOID_9310": "url:https://www.mayoclinic.org/diseases-conditions/nasal-paranasal-tumors/symptoms-causes/syc-20354136",
           "http://purl.obolibrary.org/obo/DOID_9312": "url:http://www.merck.com/mmhe/sec19/ch221/ch221i.html",
           "http://purl.obolibrary.org/obo/DOID_9317": "url:http://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=Lymphangitis",
           "http://purl.obolibrary.org/obo/DOID_933": "url:http://en.wikipedia.org/wiki/Cestodes",
@@ -9038,11 +9104,13 @@
           "http://purl.obolibrary.org/obo/DOID_9736": "url:http://books.google.com/books?id=zyvJKxRd-0EC&pg=PA127&lpg#v=onepage&q=&f=false",
           "http://purl.obolibrary.org/obo/DOID_9739": "url:http://books.google.com/books?id=UQ-rOpK6oScC&pg=PA3&lpg#v=onepage&q=&f=false",
           "http://purl.obolibrary.org/obo/DOID_974": "url:http://www.who.int/topics/respiratory_tract_diseases/en/",
+          "http://purl.obolibrary.org/obo/DOID_9740": "url:https://www.ncbi.nlm.nih.gov/books/NBK539902/",
           "http://purl.obolibrary.org/obo/DOID_9742": "url:https://en.wikipedia.org/wiki/Varicose_veins",
           "http://purl.obolibrary.org/obo/DOID_9744": "url:http://en.wikipedia.org/wiki/Diabetes_mellitus_type_1",
           "http://purl.obolibrary.org/obo/DOID_9746": "url:https://www.ncbi.nlm.nih.gov/pubmed/19725283",
           "http://purl.obolibrary.org/obo/DOID_9749": "url:https://www.mayoclinic.org/diseases-conditions/hemorrhoids/symptoms-causes/syc-20360268",
           "http://purl.obolibrary.org/obo/DOID_9765": "url:http://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=emphysematous",
+          "http://purl.obolibrary.org/obo/DOID_9766": "url:https://pubmed.ncbi.nlm.nih.gov/26981227/",
           "http://purl.obolibrary.org/obo/DOID_9773": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4531129/",
           "http://purl.obolibrary.org/obo/DOID_9778": "url:https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome",
           "http://purl.obolibrary.org/obo/DOID_9784": "url:http://www.dpd.cdc.gov/dpdx/HTML/Trichinellosis.htm",
@@ -9054,6 +9122,7 @@
           "http://purl.obolibrary.org/obo/DOID_9809": "url:https://rarediseases.info.nih.gov/diseases/7851/hypersensitivity-vasculitis",
           "http://purl.obolibrary.org/obo/DOID_9810": "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4029362/",
           "http://purl.obolibrary.org/obo/DOID_9828": "url:http://en.wikipedia.org/wiki/Neonatal_abstinence_syndrome",
+          "http://purl.obolibrary.org/obo/DOID_9834": "url:https://www.mayoclinic.org/diseases-conditions/farsightedness/symptoms-causes/syc-20372495",
           "http://purl.obolibrary.org/obo/DOID_9840": "url:http://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=cross-eye+",
           "http://purl.obolibrary.org/obo/DOID_9847": "url:https://medlineplus.gov/ency/article/001432.htm",
           "http://purl.obolibrary.org/obo/DOID_9849": "url:http://en.wikipedia.org/wiki/M%C3%A9ni%C3%A8re%27s_disease",
@@ -9061,6 +9130,7 @@
           "http://purl.obolibrary.org/obo/DOID_9857": "url:https://en.wikipedia.org/wiki/Interstitial_keratitis",
           "http://purl.obolibrary.org/obo/DOID_986": "url:http://en.wikipedia.org/wiki/Alopecia_areata",
           "http://purl.obolibrary.org/obo/DOID_9861": "url:http://en.wikipedia.org/wiki/Disseminated_tuberculosis",
+          "http://purl.obolibrary.org/obo/DOID_9869": "url:https://pubmed.ncbi.nlm.nih.gov/9610797/",
           "http://purl.obolibrary.org/obo/DOID_987": "url:http://www.omim.org/entry/109200?search=109200&highlight=109200",
           "http://purl.obolibrary.org/obo/DOID_9870": "url:http://en.wikipedia.org/wiki/Galactosemia",
           "http://purl.obolibrary.org/obo/DOID_988": "url:https://www.rarediseases.org/rare-disease-information/rare-diseases/byID/564/viewAbstract",
@@ -9111,7 +9181,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-06-07/doid.owl",
+    "version": "2022-07-27",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/doid.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/DOID_0050120": [
@@ -9265,6 +9336,9 @@
         "http://purl.obolibrary.org/obo/DOID_0050950": [
           "OMIM:PS213200"
         ],
+        "http://purl.obolibrary.org/obo/DOID_0060169": [
+          "OMIM:PS601764"
+        ],
         "http://purl.obolibrary.org/obo/DOID_0060225": [
           "OMIM:PS257920"
         ],
@@ -9273,6 +9347,9 @@
         ],
         "http://purl.obolibrary.org/obo/DOID_0060228": [
           "OMIM:PS105800"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_0060229": [
+          "OMIM:PS243310"
         ],
         "http://purl.obolibrary.org/obo/DOID_0060233": [
           "OMIM:PS115150"
@@ -9493,11 +9570,17 @@
         "http://purl.obolibrary.org/obo/DOID_0081044": [
           "OMIM:PS136760"
         ],
+        "http://purl.obolibrary.org/obo/DOID_0081072": [
+          "OMIM:PS213980"
+        ],
         "http://purl.obolibrary.org/obo/DOID_0081073": [
           "OMIM:PS145420"
         ],
         "http://purl.obolibrary.org/obo/DOID_0081077": [
           "OMIM:PS300291"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_0081104": [
+          "OMIM:PS613339"
         ],
         "http://purl.obolibrary.org/obo/DOID_0090001": [
           "OMIM:PS219000"
@@ -9636,6 +9719,9 @@
         ],
         "http://purl.obolibrary.org/obo/DOID_12140": [
           "KEGG:05142"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_12236": [
+          "OMIM:PS109720"
         ],
         "http://purl.obolibrary.org/obo/DOID_12347": [
           "OMIM:PS166200"
@@ -14289,7 +14375,7 @@
           "http://purl.obolibrary.org/obo/DOID_93": "NCI:C97155",
           "http://purl.obolibrary.org/obo/DOID_9300": "NCI:C5359",
           "http://purl.obolibrary.org/obo/DOID_9307": "NCI:C34973",
-          "http://purl.obolibrary.org/obo/DOID_9310": "NCI:C4413",
+          "http://purl.obolibrary.org/obo/DOID_9310": "NCI:C4603",
           "http://purl.obolibrary.org/obo/DOID_9312": "NCI:C34472",
           "http://purl.obolibrary.org/obo/DOID_9317": "NCI:C34790",
           "http://purl.obolibrary.org/obo/DOID_934": "NCI:C34396",
@@ -14567,6 +14653,7 @@
           "http://purl.obolibrary.org/obo/DOID_0060226": "ORDO:1784",
           "http://purl.obolibrary.org/obo/DOID_0060227": "ORDO:974",
           "http://purl.obolibrary.org/obo/DOID_0060228": "ORDO:231160",
+          "http://purl.obolibrary.org/obo/DOID_0060229": "ORDO:2995",
           "http://purl.obolibrary.org/obo/DOID_0060231": "ORDO:2771",
           "http://purl.obolibrary.org/obo/DOID_0060232": "ORDO:52429",
           "http://purl.obolibrary.org/obo/DOID_0060233": "ORDO:1340",
@@ -14754,6 +14841,7 @@
           "http://purl.obolibrary.org/obo/DOID_0060535": "ORDO:280558",
           "http://purl.obolibrary.org/obo/DOID_0060536": "ORDO:2609",
           "http://purl.obolibrary.org/obo/DOID_0060537": "ORDO:3208",
+          "http://purl.obolibrary.org/obo/DOID_0060538": "ORDO:49566",
           "http://purl.obolibrary.org/obo/DOID_0060549": "ORDO:1231",
           "http://purl.obolibrary.org/obo/DOID_0060550": "ORDO:920",
           "http://purl.obolibrary.org/obo/DOID_0060551": "ORDO:221046",
@@ -15231,6 +15319,15 @@
           "http://purl.obolibrary.org/obo/DOID_0081073": "ORDO:2745",
           "http://purl.obolibrary.org/obo/DOID_0081078": "ORDO:69088",
           "http://purl.obolibrary.org/obo/DOID_0081086": "ORDO:98833",
+          "http://purl.obolibrary.org/obo/DOID_0081100": "ORDO:2815",
+          "http://purl.obolibrary.org/obo/DOID_0081101": "ORDO:424",
+          "http://purl.obolibrary.org/obo/DOID_0081102": "ORDO:99819",
+          "http://purl.obolibrary.org/obo/DOID_0081104": "ORDO:166412",
+          "http://purl.obolibrary.org/obo/DOID_0081105": "ORDO:50942",
+          "http://purl.obolibrary.org/obo/DOID_0081108": "ORDO:369999",
+          "http://purl.obolibrary.org/obo/DOID_0081111": "ORDO:500548",
+          "http://purl.obolibrary.org/obo/DOID_0081122": "ORDO:1388",
+          "http://purl.obolibrary.org/obo/DOID_0081123": "ORDO:3078",
           "http://purl.obolibrary.org/obo/DOID_0090001": "ORDO:2052",
           "http://purl.obolibrary.org/obo/DOID_0090002": "ORDO:42665",
           "http://purl.obolibrary.org/obo/DOID_0090003": "ORDO:1496",
@@ -16294,6 +16391,7 @@
           "http://purl.obolibrary.org/obo/DOID_327": "ORDO:3280",
           "http://purl.obolibrary.org/obo/DOID_3319": "ORDO:538",
           "http://purl.obolibrary.org/obo/DOID_332": "ORDO:803",
+          "http://purl.obolibrary.org/obo/DOID_3329": "ORDO:1945",
           "http://purl.obolibrary.org/obo/DOID_3347": "ORDO:668",
           "http://purl.obolibrary.org/obo/DOID_3389": "ORDO:678",
           "http://purl.obolibrary.org/obo/DOID_3429": "ORDO:611",
@@ -16363,7 +16461,6 @@
           "http://purl.obolibrary.org/obo/DOID_7147": "ORDO:825",
           "http://purl.obolibrary.org/obo/DOID_7400": "ORDO:647",
           "http://purl.obolibrary.org/obo/DOID_769": "ORDO:635",
-          "http://purl.obolibrary.org/obo/DOID_7998": "ORDO:99819",
           "http://purl.obolibrary.org/obo/DOID_8158": "ORDO:169150",
           "http://purl.obolibrary.org/obo/DOID_8354": "ORDO:280133",
           "http://purl.obolibrary.org/obo/DOID_8461": "ORDO:50",
@@ -16374,6 +16471,7 @@
           "http://purl.obolibrary.org/obo/DOID_8712": "ORDO:93921",
           "http://purl.obolibrary.org/obo/DOID_898": "ORDO:730",
           "http://purl.obolibrary.org/obo/DOID_8986": "ORDO:2073",
+          "http://purl.obolibrary.org/obo/DOID_899": "ORDO:480501",
           "http://purl.obolibrary.org/obo/DOID_905": "ORDO:912",
           "http://purl.obolibrary.org/obo/DOID_9074": "ORDO:536",
           "http://purl.obolibrary.org/obo/DOID_9146": "ORDO:507",
@@ -20533,7 +20631,6 @@
           "http://purl.obolibrary.org/obo/DOID_7960": "SNOMEDCT_US_2021_09_01:403942003",
           "http://purl.obolibrary.org/obo/DOID_799": "SNOMEDCT_US_2021_09_01:276504003",
           "http://purl.obolibrary.org/obo/DOID_7997": "SNOMEDCT_US_2021_09_01:154655004",
-          "http://purl.obolibrary.org/obo/DOID_7998": "SNOMEDCT_US_2021_09_01:190239004",
           "http://purl.obolibrary.org/obo/DOID_8002": "SNOMEDCT_US_2021_09_01:126697005",
           "http://purl.obolibrary.org/obo/DOID_8003": "SNOMEDCT_US_2021_09_01:8097004",
           "http://purl.obolibrary.org/obo/DOID_8007": "SNOMEDCT_US_2021_09_01:269562004",
@@ -20878,7 +20975,6 @@
           "http://purl.obolibrary.org/obo/DOID_9305": "SNOMEDCT_US_2021_09_01:28399005",
           "http://purl.obolibrary.org/obo/DOID_9306": "SNOMEDCT_US_2021_09_01:5371001",
           "http://purl.obolibrary.org/obo/DOID_9307": "SNOMEDCT_US_2021_09_01:197214005",
-          "http://purl.obolibrary.org/obo/DOID_9310": "SNOMEDCT_US_2021_09_01:126670003",
           "http://purl.obolibrary.org/obo/DOID_9312": "SNOMEDCT_US_2021_09_01:155528009",
           "http://purl.obolibrary.org/obo/DOID_9317": "SNOMEDCT_US_2021_09_01:1415005",
           "http://purl.obolibrary.org/obo/DOID_9335": "SNOMEDCT_US_2021_09_01:33970004",
@@ -26693,7 +26789,7 @@
           "http://purl.obolibrary.org/obo/DOID_7994": "UMLS_CUI:C1335150",
           "http://purl.obolibrary.org/obo/DOID_7996": "UMLS_CUI:C1333987",
           "http://purl.obolibrary.org/obo/DOID_7997": "UMLS_CUI:C0040156",
-          "http://purl.obolibrary.org/obo/DOID_7998": "UMLS_CUI:C0020550",
+          "http://purl.obolibrary.org/obo/DOID_7998": "UMLS_CUI:C4231189",
           "http://purl.obolibrary.org/obo/DOID_8000": "UMLS_CUI:C1333643",
           "http://purl.obolibrary.org/obo/DOID_8002": "UMLS_CUI:C0345726",
           "http://purl.obolibrary.org/obo/DOID_8003": "UMLS_CUI:C0334303",
@@ -27153,7 +27249,7 @@
           "http://purl.obolibrary.org/obo/DOID_9306": "UMLS_CUI:C0152223",
           "http://purl.obolibrary.org/obo/DOID_9307": "UMLS_CUI:C0034888",
           "http://purl.obolibrary.org/obo/DOID_931": "UMLS_CUI:C0026414",
-          "http://purl.obolibrary.org/obo/DOID_9310": "UMLS_CUI:C0345630",
+          "http://purl.obolibrary.org/obo/DOID_9310": "UMLS_CUI:C0347215",
           "http://purl.obolibrary.org/obo/DOID_9312": "UMLS_CUI:C0008681",
           "http://purl.obolibrary.org/obo/DOID_9317": "UMLS_CUI:C0024225",
           "http://purl.obolibrary.org/obo/DOID_9335": "UMLS_CUI:C0152192",
@@ -27424,7 +27520,12 @@
           "http://purl.obolibrary.org/obo/DOID_9997": "UMLS_CUI:C0877208"
         }
       },
-      "unknown_prefixes": {}
+      "unknown_prefixes": {
+        "SNOMEDCT_US_2022_06_30": {
+          "http://purl.obolibrary.org/obo/DOID_7998": "SNOMEDCT_US_2022_06_30:34486009",
+          "http://purl.obolibrary.org/obo/DOID_9310": "SNOMEDCT_US_2022_06_30:92241005"
+        }
+      }
     }
   },
   "http://purl.obolibrary.org/obo/doid/imports/chebi_import.owl": {
@@ -27443,7 +27544,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/chebi_import.owl",
+    "version": "imports",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/imports/chebi_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -27468,7 +27570,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/cl_import.owl",
+    "version": "imports",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/imports/cl_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -27493,6 +27596,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "imports",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/imports/disdriv_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -27517,6 +27622,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "imports",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/imports/eco_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -27541,7 +27648,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/foodon_import.owl",
+    "version": "imports",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/imports/foodon_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -27566,7 +27674,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/geno_import.owl",
+    "version": "imports",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/imports/geno_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -27591,7 +27700,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/hp_import.owl",
+    "version": "imports",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/imports/hp_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -27616,7 +27726,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/ncbitaxon_import.owl",
+    "version": "imports",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/imports/ncbitaxon_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -27641,6 +27752,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "imports",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/imports/omim_susc_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -27665,7 +27778,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/ro_import.owl",
+    "version": "imports",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/imports/ro_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -27690,7 +27804,34 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/so_import.owl",
+    "version": "imports",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/imports/so_import.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.obolibrary.org/obo/doid/imports/symp_import.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/doid/imports/symp_import.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "imports",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/imports/symp_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -27715,7 +27856,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/trans_import.owl",
+    "version": "imports",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/imports/trans_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -27740,7 +27882,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version_iri": "http://purl.obolibrary.org/obo/doid/imports/uberon_import.owl",
+    "version": "imports",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/imports/uberon_import.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -27765,31 +27908,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/symp.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/symp.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version_iri": "http://purl.obolibrary.org/obo/symp/releases/2022-05-26/symp.owl",
+    "version": "2022-07-27",
+    "version_iri": "http://purl.obolibrary.org/obo/doid/releases/2022-07-27/ext.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

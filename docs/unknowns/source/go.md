@@ -12,7 +12,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | curie                              |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | GOC:TermGenie                      |     4496 | [GO:0000917](http://purl.obolibrary.org/obo/GO_0000917), [GO:0002036](http://purl.obolibrary.org/obo/GO_0002036), [GO:0002037](http://purl.obolibrary.org/obo/GO_0002037), [GO:0002038](http://purl.obolibrary.org/obo/GO_0002038), [GO:0003352](http://purl.obolibrary.org/obo/GO_0003352), ... |
-| GOC:mah                            |     2056 | [GO:0000014](http://purl.obolibrary.org/obo/GO_0000014), [GO:0000027](http://purl.obolibrary.org/obo/GO_0000027), [GO:0000028](http://purl.obolibrary.org/obo/GO_0000028), [GO:0000054](http://purl.obolibrary.org/obo/GO_0000054), [GO:0000055](http://purl.obolibrary.org/obo/GO_0000055), ... |
+| GOC:mah                            |     2055 | [GO:0000014](http://purl.obolibrary.org/obo/GO_0000014), [GO:0000027](http://purl.obolibrary.org/obo/GO_0000027), [GO:0000028](http://purl.obolibrary.org/obo/GO_0000028), [GO:0000054](http://purl.obolibrary.org/obo/GO_0000054), [GO:0000055](http://purl.obolibrary.org/obo/GO_0000055), ... |
 | GOC:tb                             |      867 | [GO:0000132](http://purl.obolibrary.org/obo/GO_0000132), [GO:0000148](http://purl.obolibrary.org/obo/GO_0000148), [GO:0000452](http://purl.obolibrary.org/obo/GO_0000452), [GO:0000459](http://purl.obolibrary.org/obo/GO_0000459), [GO:0000469](http://purl.obolibrary.org/obo/GO_0000469), ... |
 | GOC:obol                           |      791 | [GO:0010411](http://purl.obolibrary.org/obo/GO_0010411), [GO:0032655](http://purl.obolibrary.org/obo/GO_0032655), [GO:0032695](http://purl.obolibrary.org/obo/GO_0032695), [GO:0032735](http://purl.obolibrary.org/obo/GO_0032735), [GO:0035947](http://purl.obolibrary.org/obo/GO_0035947), ... |
 | GOC:bf                             |      758 | [GO:0000038](http://purl.obolibrary.org/obo/GO_0000038), [GO:0000165](http://purl.obolibrary.org/obo/GO_0000165), [GO:0000185](http://purl.obolibrary.org/obo/GO_0000185), [GO:0000186](http://purl.obolibrary.org/obo/GO_0000186), [GO:0000836](http://purl.obolibrary.org/obo/GO_0000836), ... |
@@ -203,6 +203,16 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |---------------|----------|---------------------------------------------------------|
 | LIGAND:C03367 |        1 | [GO:0051679](http://purl.obolibrary.org/obo/GO_0051679) |
 
+## `MEROPS`
+
+There are 1 usages of `MEROPS` in `go`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MEROPS).
+
+| curie          |   usages | nodes                                                   |
+|----------------|----------|---------------------------------------------------------|
+| MEROPS:c19p001 |        1 | [GO:0008581](http://purl.obolibrary.org/obo/GO_0008581) |
+
 ## `MEROPS_fam`
 
 There are 2 usages of `MEROPS_fam` in `go`.
@@ -223,245 +233,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | curie    |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MITRE:tk |       33 | [GO:0044044](http://purl.obolibrary.org/obo/GO_0044044), [GO:0044045](http://purl.obolibrary.org/obo/GO_0044045), [GO:0044046](http://purl.obolibrary.org/obo/GO_0044046), [GO:0044047](http://purl.obolibrary.org/obo/GO_0044047), [GO:0044048](http://purl.obolibrary.org/obo/GO_0044048), ... |
-
-## `NIF_Subcellular`
-
-There are 225 usages of `NIF_Subcellular` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Subcellular).
-
-<details>
-<summary>Click to expand the `NIF_Subcellular` table</summary>
-
-| curie                                |   usages | nodes                                                                                                            |
-|--------------------------------------|----------|------------------------------------------------------------------------------------------------------------------|
-| NIF_Subcellular:sao1186862860        |        2 | [GO:0044225](http://purl.obolibrary.org/obo/GO_0044225), [GO:0044226](http://purl.obolibrary.org/obo/GO_0044226) |
-| NIF_Subcellular:sao28175134          |        2 | [GO:0044292](http://purl.obolibrary.org/obo/GO_0044292), [GO:0044293](http://purl.obolibrary.org/obo/GO_0044293) |
-| NIF_Subcellular:sao1594955670        |        2 | [GO:0044294](http://purl.obolibrary.org/obo/GO_0044294), [GO:0044295](http://purl.obolibrary.org/obo/GO_0044295) |
-| NIF_Subcellular:sao1186327184        |        1 | [GO:0000262](http://purl.obolibrary.org/obo/GO_0000262)                                                          |
-| NIF_Subcellular:sao1615953555        |        1 | [GO:0000785](http://purl.obolibrary.org/obo/GO_0000785)                                                          |
-| NIF_Subcellular:sao445485807         |        1 | [GO:0000791](http://purl.obolibrary.org/obo/GO_0000791)                                                          |
-| NIF_Subcellular:sao581845896         |        1 | [GO:0000792](http://purl.obolibrary.org/obo/GO_0000792)                                                          |
-| NIF_Subcellular:sao785001660         |        1 | [GO:0001518](http://purl.obolibrary.org/obo/GO_0001518)                                                          |
-| NIF_Subcellular:sao1841764412        |        1 | [GO:0001651](http://purl.obolibrary.org/obo/GO_0001651)                                                          |
-| NIF_Subcellular:sao1217793903        |        1 | [GO:0001652](http://purl.obolibrary.org/obo/GO_0001652)                                                          |
-| NIF_Subcellular:sao1571698684        |        1 | [GO:0001740](http://purl.obolibrary.org/obo/GO_0001740)                                                          |
-| NIF_Subcellular:sao1337158144        |        1 | [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575)                                                          |
-| NIF_Subcellular:sao1425028079        |        1 | [GO:0005615](http://purl.obolibrary.org/obo/GO_0005615)                                                          |
-| NIF_Subcellular:sao1813327414        |        1 | [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623)                                                          |
-| NIF_Subcellular:sao1702920020        |        1 | [GO:0005634](http://purl.obolibrary.org/obo/GO_0005634)                                                          |
-| NIF_Subcellular:sao1612527463        |        1 | [GO:0005637](http://purl.obolibrary.org/obo/GO_0005637)                                                          |
-| NIF_Subcellular:sao1617136075        |        1 | [GO:0005640](http://purl.obolibrary.org/obo/GO_0005640)                                                          |
-| NIF_Subcellular:sao220861693         |        1 | [GO:0005643](http://purl.obolibrary.org/obo/GO_0005643)                                                          |
-| NIF_Subcellular:sao1455996588        |        1 | [GO:0005652](http://purl.obolibrary.org/obo/GO_0005652)                                                          |
-| NIF_Subcellular:sao661522542         |        1 | [GO:0005654](http://purl.obolibrary.org/obo/GO_0005654)                                                          |
-| NIF_Subcellular:sao1820400233        |        1 | [GO:0005730](http://purl.obolibrary.org/obo/GO_0005730)                                                          |
-| NIF_Subcellular:sao1860313010        |        1 | [GO:0005739](http://purl.obolibrary.org/obo/GO_0005739)                                                          |
-| NIF_Subcellular:sao1289741256        |        1 | [GO:0005741](http://purl.obolibrary.org/obo/GO_0005741)                                                          |
-| NIF_Subcellular:sao1371347282        |        1 | [GO:0005743](http://purl.obolibrary.org/obo/GO_0005743)                                                          |
-| NIF_Subcellular:sao118944228         |        1 | [GO:0005758](http://purl.obolibrary.org/obo/GO_0005758)                                                          |
-| NIF_Subcellular:sao1804523077        |        1 | [GO:0005759](http://purl.obolibrary.org/obo/GO_0005759)                                                          |
-| NIF_Subcellular:sao585356902         |        1 | [GO:0005764](http://purl.obolibrary.org/obo/GO_0005764)                                                          |
-| NIF_Subcellular:sao1140587416        |        1 | [GO:0005766](http://purl.obolibrary.org/obo/GO_0005766)                                                          |
-| NIF_Subcellular:sao1549842807        |        1 | [GO:0005767](http://purl.obolibrary.org/obo/GO_0005767)                                                          |
-| NIF_Subcellular:sao1720343330        |        1 | [GO:0005768](http://purl.obolibrary.org/obo/GO_0005768)                                                          |
-| NIF_Subcellular:nlx_subcell_20090701 |        1 | [GO:0005769](http://purl.obolibrary.org/obo/GO_0005769)                                                          |
-| NIF_Subcellular:nlx_subcell_20090702 |        1 | [GO:0005770](http://purl.obolibrary.org/obo/GO_0005770)                                                          |
-| NIF_Subcellular:sao2045955158        |        1 | [GO:0005771](http://purl.obolibrary.org/obo/GO_0005771)                                                          |
-| NIF_Subcellular:sao8663416959        |        1 | [GO:0005776](http://purl.obolibrary.org/obo/GO_0005776)                                                          |
-| NIF_Subcellular:sao499555322         |        1 | [GO:0005777](http://purl.obolibrary.org/obo/GO_0005777)                                                          |
-| NIF_Subcellular:sao1036339110        |        1 | [GO:0005783](http://purl.obolibrary.org/obo/GO_0005783)                                                          |
-| NIF_Subcellular:sao710427438         |        1 | [GO:0005790](http://purl.obolibrary.org/obo/GO_0005790)                                                          |
-| NIF_Subcellular:sao1881364067        |        1 | [GO:0005791](http://purl.obolibrary.org/obo/GO_0005791)                                                          |
-| NIF_Subcellular:sao451912436         |        1 | [GO:0005794](http://purl.obolibrary.org/obo/GO_0005794)                                                          |
-| NIF_Subcellular:sao819927218         |        1 | [GO:0005798](http://purl.obolibrary.org/obo/GO_0005798)                                                          |
-| NIF_Subcellular:sao632188024         |        1 | [GO:0005801](http://purl.obolibrary.org/obo/GO_0005801)                                                          |
-| NIF_Subcellular:sao9456487           |        1 | [GO:0005802](http://purl.obolibrary.org/obo/GO_0005802)                                                          |
-| NIF_Subcellular:sao95019936          |        1 | [GO:0005814](http://purl.obolibrary.org/obo/GO_0005814)                                                          |
-| NIF_Subcellular:sao101633890         |        1 | [GO:0005829](http://purl.obolibrary.org/obo/GO_0005829)                                                          |
-| NIF_Subcellular:sao1429207766        |        1 | [GO:0005840](http://purl.obolibrary.org/obo/GO_0005840)                                                          |
-| NIF_Subcellular:sao1038025871        |        1 | [GO:0005844](http://purl.obolibrary.org/obo/GO_0005844)                                                          |
-| NIF_Subcellular:sao1846835077        |        1 | [GO:0005874](http://purl.obolibrary.org/obo/GO_0005874)                                                          |
-| NIF_Subcellular:sao952483289         |        1 | [GO:0005882](http://purl.obolibrary.org/obo/GO_0005882)                                                          |
-| NIF_Subcellular:sao1316272517        |        1 | [GO:0005883](http://purl.obolibrary.org/obo/GO_0005883)                                                          |
-| NIF_Subcellular:sao1588493326        |        1 | [GO:0005884](http://purl.obolibrary.org/obo/GO_0005884)                                                          |
-| NIF_Subcellular:sao1663586795        |        1 | [GO:0005886](http://purl.obolibrary.org/obo/GO_0005886)                                                          |
-| NIF_Subcellular:sao671419673         |        1 | [GO:0005902](http://purl.obolibrary.org/obo/GO_0005902)                                                          |
-| NIF_Subcellular:sao1969557946        |        1 | [GO:0005905](http://purl.obolibrary.org/obo/GO_0005905)                                                          |
-| NIF_Subcellular:sao1922892319        |        1 | [GO:0005911](http://purl.obolibrary.org/obo/GO_0005911)                                                          |
-| NIF_Subcellular:sao1400623473        |        1 | [GO:0005915](http://purl.obolibrary.org/obo/GO_0005915)                                                          |
-| NIF_Subcellular:sao427941916         |        1 | [GO:0005918](http://purl.obolibrary.org/obo/GO_0005918)                                                          |
-| NIF_Subcellular:sao118541872         |        1 | [GO:0005921](http://purl.obolibrary.org/obo/GO_0005921)                                                          |
-| NIF_Subcellular:sao445019788         |        1 | [GO:0005922](http://purl.obolibrary.org/obo/GO_0005922)                                                          |
-| NIF_Subcellular:sao1939999134        |        1 | [GO:0005923](http://purl.obolibrary.org/obo/GO_0005923)                                                          |
-| NIF_Subcellular:sao787716553         |        1 | [GO:0005929](http://purl.obolibrary.org/obo/GO_0005929)                                                          |
-| NIF_Subcellular:sao1071221672        |        1 | [GO:0008021](http://purl.obolibrary.org/obo/GO_0008021)                                                          |
-| NIF_Subcellular:sao371494298         |        1 | [GO:0008076](http://purl.obolibrary.org/obo/GO_0008076)                                                          |
-| NIF_Subcellular:sao536287099         |        1 | [GO:0008091](http://purl.obolibrary.org/obo/GO_0008091)                                                          |
-| NIF_Subcellular:sao978443756         |        1 | [GO:0010008](http://purl.obolibrary.org/obo/GO_0010008)                                                          |
-| NIF_Subcellular:sao1153182838        |        1 | [GO:0012506](http://purl.obolibrary.org/obo/GO_0012506)                                                          |
-| NIF_Subcellular:sao1196688972        |        1 | [GO:0014069](http://purl.obolibrary.org/obo/GO_0014069)                                                          |
-| NIF_Subcellular:nlx_subcell_090901   |        1 | [GO:0015030](http://purl.obolibrary.org/obo/GO_0015030)                                                          |
-| NIF_Subcellular:sao120573470         |        1 | [GO:0016234](http://purl.obolibrary.org/obo/GO_0016234)                                                          |
-| NIF_Subcellular:sao505137457         |        1 | [GO:0016604](http://purl.obolibrary.org/obo/GO_0016604)                                                          |
-| NIF_Subcellular:sao333328131         |        1 | [GO:0030061](http://purl.obolibrary.org/obo/GO_0030061)                                                          |
-| NIF_Subcellular:sao879919129         |        1 | [GO:0030118](http://purl.obolibrary.org/obo/GO_0030118)                                                          |
-| NIF_Subcellular:sao1177708494        |        1 | [GO:0030120](http://purl.obolibrary.org/obo/GO_0030120)                                                          |
-| NIF_Subcellular:sao885490876         |        1 | [GO:0030133](http://purl.obolibrary.org/obo/GO_0030133)                                                          |
-| NIF_Subcellular:sao1985096626        |        1 | [GO:0030135](http://purl.obolibrary.org/obo/GO_0030135)                                                          |
-| NIF_Subcellular:sao148845161         |        1 | [GO:0030136](http://purl.obolibrary.org/obo/GO_0030136)                                                          |
-| NIF_Subcellular:sao1362520468        |        1 | [GO:0030139](http://purl.obolibrary.org/obo/GO_0030139)                                                          |
-| NIF_Subcellular:sao1382918459        |        1 | [GO:0030143](http://purl.obolibrary.org/obo/GO_0030143)                                                          |
-| NIF_Subcellular:sao1046371754        |        1 | [GO:0030175](http://purl.obolibrary.org/obo/GO_0030175)                                                          |
-| NIF_Subcellular:sao1770195789        |        1 | [GO:0030424](http://purl.obolibrary.org/obo/GO_0030424)                                                          |
-| NIF_Subcellular:sao1211023249        |        1 | [GO:0030425](http://purl.obolibrary.org/obo/GO_0030425)                                                          |
-| NIF_Subcellular:sao250772229         |        1 | [GO:0030673](http://purl.obolibrary.org/obo/GO_0030673)                                                          |
-| NIF_Subcellular:sao3089754107        |        1 | [GO:0030867](http://purl.obolibrary.org/obo/GO_0030867)                                                          |
-| NIF_Subcellular:sao1596955044        |        1 | [GO:0030868](http://purl.obolibrary.org/obo/GO_0030868)                                                          |
-| NIF_Subcellular:nlx_subcell_20090513 |        1 | [GO:0031012](http://purl.obolibrary.org/obo/GO_0031012)                                                          |
-| NIF_Subcellular:sao772007592         |        1 | [GO:0031045](http://purl.obolibrary.org/obo/GO_0031045)                                                          |
-| NIF_Subcellular:sao830981606         |        1 | [GO:0031090](http://purl.obolibrary.org/obo/GO_0031090)                                                          |
-| NIF_Subcellular:sao180601769         |        1 | [GO:0031410](http://purl.obolibrary.org/obo/GO_0031410)                                                          |
-| NIF_Subcellular:sao1124888485        |        1 | [GO:0031594](http://purl.obolibrary.org/obo/GO_0031594)                                                          |
-| NIF_Subcellular:sao1547508851        |        1 | [GO:0031904](http://purl.obolibrary.org/obo/GO_0031904)                                                          |
-| NIF_Subcellular:sao1687101204        |        1 | [GO:0031965](http://purl.obolibrary.org/obo/GO_0031965)                                                          |
-| NIF_Subcellular:sao1045389829        |        1 | [GO:0031966](http://purl.obolibrary.org/obo/GO_0031966)                                                          |
-| NIF_Subcellular:sao221389602         |        1 | [GO:0031982](http://purl.obolibrary.org/obo/GO_0031982)                                                          |
-| NIF_Subcellular:sao797538226         |        1 | [GO:0031983](http://purl.obolibrary.org/obo/GO_0031983)                                                          |
-| NIF_Subcellular:sao561419532         |        1 | [GO:0031985](http://purl.obolibrary.org/obo/GO_0031985)                                                          |
-| NIF_Subcellular:sao280355188         |        1 | [GO:0033267](http://purl.obolibrary.org/obo/GO_0033267)                                                          |
-| NIF_Subcellular:birnlex_1152_2       |        1 | [GO:0033268](http://purl.obolibrary.org/obo/GO_0033268)                                                          |
-| NIF_Subcellular:sao206157942         |        1 | [GO:0033269](http://purl.obolibrary.org/obo/GO_0033269)                                                          |
-| NIF_Subcellular:sao936144858         |        1 | [GO:0033270](http://purl.obolibrary.org/obo/GO_0033270)                                                          |
-| NIF_Subcellular:sao1049471211        |        1 | [GO:0035061](http://purl.obolibrary.org/obo/GO_0035061)                                                          |
-| NIF_Subcellular:sao11978067          |        1 | [GO:0036064](http://purl.obolibrary.org/obo/GO_0036064)                                                          |
-| NIF_Subcellular:sao1081228141        |        1 | [GO:0042587](http://purl.obolibrary.org/obo/GO_0042587)                                                          |
-| NIF_Subcellular:sao1379604862        |        1 | [GO:0042599](http://purl.obolibrary.org/obo/GO_0042599)                                                          |
-| NIF_Subcellular:sao867568886         |        1 | [GO:0043005](http://purl.obolibrary.org/obo/GO_0043005)                                                          |
-| NIF_Subcellular:sao1044911821        |        1 | [GO:0043025](http://purl.obolibrary.org/obo/GO_0043025)                                                          |
-| NIF_Subcellular:sao243541954         |        1 | [GO:0043083](http://purl.obolibrary.org/obo/GO_0043083)                                                          |
-| NIF_Subcellular:sao256000789         |        1 | [GO:0043194](http://purl.obolibrary.org/obo/GO_0043194)                                                          |
-| NIF_Subcellular:sao187426937         |        1 | [GO:0043195](http://purl.obolibrary.org/obo/GO_0043195)                                                          |
-| NIF_Subcellular:sao1799103720        |        1 | [GO:0043197](http://purl.obolibrary.org/obo/GO_0043197)                                                          |
-| NIF_Subcellular:sao2034472720        |        1 | [GO:0043198](http://purl.obolibrary.org/obo/GO_0043198)                                                          |
-| NIF_Subcellular:sao627227260         |        1 | [GO:0043203](http://purl.obolibrary.org/obo/GO_0043203)                                                          |
-| NIF_Subcellular:sao593830697         |        1 | [GO:0043209](http://purl.obolibrary.org/obo/GO_0043209)                                                          |
-| NIF_Subcellular:sao1123256993        |        1 | [GO:0043218](http://purl.obolibrary.org/obo/GO_0043218)                                                          |
-| NIF_Subcellular:sao1067215520        |        1 | [GO:0043219](http://purl.obolibrary.org/obo/GO_0043219)                                                          |
-| NIF_Subcellular:sao254777664         |        1 | [GO:0043220](http://purl.obolibrary.org/obo/GO_0043220)                                                          |
-| NIF_Subcellular:sao1539965131        |        1 | [GO:0043226](http://purl.obolibrary.org/obo/GO_0043226)                                                          |
-| NIF_Subcellular:sao414196390         |        1 | [GO:0043227](http://purl.obolibrary.org/obo/GO_0043227)                                                          |
-| NIF_Subcellular:sao1456184038        |        1 | [GO:0043228](http://purl.obolibrary.org/obo/GO_0043228)                                                          |
-| NIF_Subcellular:nlx_subcell_20090512 |        1 | [GO:0043679](http://purl.obolibrary.org/obo/GO_0043679)                                                          |
-| NIF_Subcellular:sao758620702         |        1 | [GO:0044224](http://purl.obolibrary.org/obo/GO_0044224)                                                          |
-| NIF_Subcellular:sao1938587839        |        1 | [GO:0044280](http://purl.obolibrary.org/obo/GO_0044280)                                                          |
-| NIF_Subcellular:sao1943947957        |        1 | [GO:0044286](http://purl.obolibrary.org/obo/GO_0044286)                                                          |
-| NIF_Subcellular:sao257629430         |        1 | [GO:0044288](http://purl.obolibrary.org/obo/GO_0044288)                                                          |
-| NIF_Subcellular:sao508958414         |        1 | [GO:0044290](http://purl.obolibrary.org/obo/GO_0044290)                                                          |
-| NIF_Subcellular:sao1299635018        |        1 | [GO:0044291](http://purl.obolibrary.org/obo/GO_0044291)                                                          |
-| NIF_Subcellular:sao1340260079        |        1 | [GO:0044296](http://purl.obolibrary.org/obo/GO_0044296)                                                          |
-| NIF_Subcellular:nlx_subcell_20090210 |        1 | [GO:0044299](http://purl.obolibrary.org/obo/GO_0044299)                                                          |
-| NIF_Subcellular:nlx_subcell_20090209 |        1 | [GO:0044300](http://purl.obolibrary.org/obo/GO_0044300)                                                          |
-| NIF_Subcellular:nlx_subcell_20090203 |        1 | [GO:0044301](http://purl.obolibrary.org/obo/GO_0044301)                                                          |
-| NIF_Subcellular:nlx_subcell_20090601 |        1 | [GO:0044302](http://purl.obolibrary.org/obo/GO_0044302)                                                          |
-| NIF_Subcellular:sao1470140754        |        1 | [GO:0044303](http://purl.obolibrary.org/obo/GO_0044303)                                                          |
-| NIF_Subcellular:sao1596975044        |        1 | [GO:0044304](http://purl.obolibrary.org/obo/GO_0044304)                                                          |
-| NIF_Subcellular:sao1684283879        |        1 | [GO:0044305](http://purl.obolibrary.org/obo/GO_0044305)                                                          |
-| NIF_Subcellular:sao884265541         |        1 | [GO:0044307](http://purl.obolibrary.org/obo/GO_0044307)                                                          |
-| NIF_Subcellular:sao18239917          |        1 | [GO:0044308](http://purl.obolibrary.org/obo/GO_0044308)                                                          |
-| NIF_Subcellular:sao1145756102        |        1 | [GO:0044309](http://purl.obolibrary.org/obo/GO_0044309)                                                          |
-| NIF_Subcellular:sao1642908940        |        1 | [GO:0044326](http://purl.obolibrary.org/obo/GO_0044326)                                                          |
-| NIF_Subcellular:sao952643730         |        1 | [GO:0044327](http://purl.obolibrary.org/obo/GO_0044327)                                                          |
-| NIF_Subcellular:sao1925368674        |        1 | [GO:0044352](http://purl.obolibrary.org/obo/GO_0044352)                                                          |
-| NIF_Subcellular:sao9117790637        |        1 | [GO:0044421](http://purl.obolibrary.org/obo/GO_0044421)                                                          |
-| NIF_Subcellular:sao1499850686        |        1 | [GO:0044428](http://purl.obolibrary.org/obo/GO_0044428)                                                          |
-| NIF_Subcellular:sao666410040         |        1 | [GO:0044429](http://purl.obolibrary.org/obo/GO_0044429)                                                          |
-| NIF_Subcellular:sao1635329413        |        1 | [GO:0044430](http://purl.obolibrary.org/obo/GO_0044430)                                                          |
-| NIF_Subcellular:sao624292949         |        1 | [GO:0044431](http://purl.obolibrary.org/obo/GO_0044431)                                                          |
-| NIF_Subcellular:sao1683772610        |        1 | [GO:0044440](http://purl.obolibrary.org/obo/GO_0044440)                                                          |
-| NIF_Subcellular:sao1784069613        |        1 | [GO:0044456](http://purl.obolibrary.org/obo/GO_0044456)                                                          |
-| NIF_Subcellular:sao628508602         |        1 | [GO:0044464](http://purl.obolibrary.org/obo/GO_0044464)                                                          |
-| NIF_Subcellular:sao8444068431        |        1 | [GO:0044754](http://purl.obolibrary.org/obo/GO_0044754)                                                          |
-| NIF_Subcellular:sao914572699         |        1 | [GO:0045202](http://purl.obolibrary.org/obo/GO_0045202)                                                          |
-| NIF_Subcellular:sao1243595998        |        1 | [GO:0045334](http://purl.obolibrary.org/obo/GO_0045334)                                                          |
-| NIF_Subcellular:sao1819509473        |        1 | [GO:0048237](http://purl.obolibrary.org/obo/GO_0048237)                                                          |
-| NIF_Subcellular:sao927884761         |        1 | [GO:0048238](http://purl.obolibrary.org/obo/GO_0048238)                                                          |
-| NIF_Subcellular:sao792027222         |        1 | [GO:0048786](http://purl.obolibrary.org/obo/GO_0048786)                                                          |
-| NIF_Subcellular:sao2038461087        |        1 | [GO:0048787](http://purl.obolibrary.org/obo/GO_0048787)                                                          |
-| NIF_Subcellular:sao1470121605        |        1 | [GO:0048788](http://purl.obolibrary.org/obo/GO_0048788)                                                          |
-| NIF_Subcellular:sao124393998         |        1 | [GO:0070971](http://purl.obolibrary.org/obo/GO_0070971)                                                          |
-| NIF_Subcellular:sao18461326          |        1 | [GO:0097002](http://purl.obolibrary.org/obo/GO_0097002)                                                          |
-| NIF_Subcellular:nlx_subcell_20090101 |        1 | [GO:0097407](http://purl.obolibrary.org/obo/GO_0097407)                                                          |
-| NIF_Subcellular:sao967812059         |        1 | [GO:0097408](http://purl.obolibrary.org/obo/GO_0097408)                                                          |
-| NIF_Subcellular:nlx_subcell_20090703 |        1 | [GO:0097409](http://purl.obolibrary.org/obo/GO_0097409)                                                          |
-| NIF_Subcellular:nlx_subcell_20090104 |        1 | [GO:0097412](http://purl.obolibrary.org/obo/GO_0097412)                                                          |
-| NIF_Subcellular:sao4933778419        |        1 | [GO:0097413](http://purl.obolibrary.org/obo/GO_0097413)                                                          |
-| NIF_Subcellular:sao4749542545        |        1 | [GO:0097414](http://purl.obolibrary.org/obo/GO_0097414)                                                          |
-| NIF_Subcellular:sao4040591221        |        1 | [GO:0097415](http://purl.obolibrary.org/obo/GO_0097415)                                                          |
-| NIF_Subcellular:nlx_subcell_20090105 |        1 | [GO:0097416](http://purl.obolibrary.org/obo/GO_0097416)                                                          |
-| NIF_Subcellular:sao138430598         |        1 | [GO:0097417](http://purl.obolibrary.org/obo/GO_0097417)                                                          |
-| NIF_Subcellular:nlx_subcell_20090202 |        1 | [GO:0097418](http://purl.obolibrary.org/obo/GO_0097418)                                                          |
-| NIF_Subcellular:nlx_subcell_20090102 |        1 | [GO:0097419](http://purl.obolibrary.org/obo/GO_0097419)                                                          |
-| NIF_Subcellular:nlx_subcell_20090103 |        1 | [GO:0097420](http://purl.obolibrary.org/obo/GO_0097420)                                                          |
-| NIF_Subcellular:sao694815499         |        1 | [GO:0097422](http://purl.obolibrary.org/obo/GO_0097422)                                                          |
-| NIF_Subcellular:sao1933817066        |        1 | [GO:0097423](http://purl.obolibrary.org/obo/GO_0097423)                                                          |
-| NIF_Subcellular:sao1210952635        |        1 | [GO:0097424](http://purl.obolibrary.org/obo/GO_0097424)                                                          |
-| NIF_Subcellular:sao184202831         |        1 | [GO:0097425](http://purl.obolibrary.org/obo/GO_0097425)                                                          |
-| NIF_Subcellular:sao1863852493        |        1 | [GO:0097426](http://purl.obolibrary.org/obo/GO_0097426)                                                          |
-| NIF_Subcellular:sao1872343973        |        1 | [GO:0097427](http://purl.obolibrary.org/obo/GO_0097427)                                                          |
-| NIF_Subcellular:sao730872736         |        1 | [GO:0097433](http://purl.obolibrary.org/obo/GO_0097433)                                                          |
-| NIF_Subcellular:sao273773228         |        1 | [GO:0097440](http://purl.obolibrary.org/obo/GO_0097440)                                                          |
-| NIF_Subcellular:sao1079900774        |        1 | [GO:0097441](http://purl.obolibrary.org/obo/GO_0097441)                                                          |
-| NIF_Subcellular:nlx_subcell_1005001  |        1 | [GO:0097442](http://purl.obolibrary.org/obo/GO_0097442)                                                          |
-| NIF_Subcellular:sao1028571114        |        1 | [GO:0097443](http://purl.obolibrary.org/obo/GO_0097443)                                                          |
-| NIF_Subcellular:sao725931194         |        1 | [GO:0097444](http://purl.obolibrary.org/obo/GO_0097444)                                                          |
-| NIF_Subcellular:sao494258938         |        1 | [GO:0097445](http://purl.obolibrary.org/obo/GO_0097445)                                                          |
-| NIF_Subcellular:sao172297168         |        1 | [GO:0097447](http://purl.obolibrary.org/obo/GO_0097447)                                                          |
-| NIF_Subcellular:sao2128156969        |        1 | [GO:0097448](http://purl.obolibrary.org/obo/GO_0097448)                                                          |
-| NIF_Subcellular:sao1630537580        |        1 | [GO:0097449](http://purl.obolibrary.org/obo/GO_0097449)                                                          |
-| NIF_Subcellular:sao388182739         |        1 | [GO:0097450](http://purl.obolibrary.org/obo/GO_0097450)                                                          |
-| NIF_Subcellular:sao181458425         |        1 | [GO:0097451](http://purl.obolibrary.org/obo/GO_0097451)                                                          |
-| NIF_Subcellular:sao2127666702        |        1 | [GO:0097453](http://purl.obolibrary.org/obo/GO_0097453)                                                          |
-| NIF_Subcellular:sao1890444066        |        1 | [GO:0097454](http://purl.obolibrary.org/obo/GO_0097454)                                                          |
-| NIF_Subcellular:sao937871668         |        1 | [GO:0097455](http://purl.obolibrary.org/obo/GO_0097455)                                                          |
-| NIF_Subcellular:sao924713546         |        1 | [GO:0097456](http://purl.obolibrary.org/obo/GO_0097456)                                                          |
-| NIF_Subcellular:nlx_subcell_100312   |        1 | [GO:0097457](http://purl.obolibrary.org/obo/GO_0097457)                                                          |
-| NIF_Subcellular:sao601362597         |        1 | [GO:0097462](http://purl.obolibrary.org/obo/GO_0097462)                                                          |
-| NIF_Subcellular:nlx_subcell_1005003  |        1 | [GO:0097463](http://purl.obolibrary.org/obo/GO_0097463)                                                          |
-| NIF_Subcellular:nlx_467              |        1 | [GO:0097464](http://purl.obolibrary.org/obo/GO_0097464)                                                          |
-| NIF_Subcellular:sao2048514053        |        1 | [GO:0097465](http://purl.obolibrary.org/obo/GO_0097465)                                                          |
-| NIF_Subcellular:sao1884931180        |        1 | [GO:0097470](http://purl.obolibrary.org/obo/GO_0097470)                                                          |
-| NIF_Subcellular:nlx_subcell_091021   |        1 | [GO:0097471](http://purl.obolibrary.org/obo/GO_0097471)                                                          |
-| NIF_Subcellular:sao110773650         |        1 | [GO:1901588](http://purl.obolibrary.org/obo/GO_1901588)                                                          |
-| NIF_Subcellular:sao707332678         |        1 | [GO:1901589](http://purl.obolibrary.org/obo/GO_1901589)                                                          |
-| NIF_Subcellular:sao478230652         |        1 | [GO:1990005](http://purl.obolibrary.org/obo/GO_1990005)                                                          |
-| NIF_Subcellular:sao1531915298        |        1 | [GO:1990006](http://purl.obolibrary.org/obo/GO_1990006)                                                          |
-| NIF_Subcellular:sao2114874506        |        1 | [GO:1990007](http://purl.obolibrary.org/obo/GO_1990007)                                                          |
-| NIF_Subcellular:sao2031592629        |        1 | [GO:1990008](http://purl.obolibrary.org/obo/GO_1990008)                                                          |
-| NIF_Subcellular:sao506721981         |        1 | [GO:1990011](http://purl.obolibrary.org/obo/GO_1990011)                                                          |
-| NIF_Subcellular:nlx_151681           |        1 | [GO:1990012](http://purl.obolibrary.org/obo/GO_1990012)                                                          |
-| NIF_Subcellular:sao1730664005        |        1 | [GO:1990013](http://purl.obolibrary.org/obo/GO_1990013)                                                          |
-| NIF_Subcellular:sao1747012216        |        1 | [GO:1990014](http://purl.obolibrary.org/obo/GO_1990014)                                                          |
-| NIF_Subcellular:sao1376748732        |        1 | [GO:1990015](http://purl.obolibrary.org/obo/GO_1990015)                                                          |
-| NIF_Subcellular:sao901230115         |        1 | [GO:1990016](http://purl.obolibrary.org/obo/GO_1990016)                                                          |
-| NIF_Subcellular:sao401910342         |        1 | [GO:1990017](http://purl.obolibrary.org/obo/GO_1990017)                                                          |
-| NIF_Subcellular:sao1749953771        |        1 | [GO:1990018](http://purl.obolibrary.org/obo/GO_1990018)                                                          |
-| NIF_Subcellular:sao1642494436        |        1 | [GO:1990020](http://purl.obolibrary.org/obo/GO_1990020)                                                          |
-| NIF_Subcellular:nlx_subcell_20090511 |        1 | [GO:1990021](http://purl.obolibrary.org/obo/GO_1990021)                                                          |
-| NIF_Subcellular:nlx_subcell_100208   |        1 | [GO:1990024](http://purl.obolibrary.org/obo/GO_1990024)                                                          |
-| NIF_Subcellular:nlx_subcell_100206   |        1 | [GO:1990025](http://purl.obolibrary.org/obo/GO_1990025)                                                          |
-| NIF_Subcellular:nlx_subcell_1005002  |        1 | [GO:1990026](http://purl.obolibrary.org/obo/GO_1990026)                                                          |
-| NIF_Subcellular:nlx_subcell_100207   |        1 | [GO:1990027](http://purl.obolibrary.org/obo/GO_1990027)                                                          |
-| NIF_Subcellular:sao413722576         |        1 | [GO:1990030](http://purl.obolibrary.org/obo/GO_1990030)                                                          |
-| NIF_Subcellular:sao109906988         |        1 | [GO:1990031](http://purl.obolibrary.org/obo/GO_1990031)                                                          |
-| NIF_Subcellular:nlx_330              |        1 | [GO:1990032](http://purl.obolibrary.org/obo/GO_1990032)                                                          |
-| NIF_Subcellular:sao1348591767        |        1 | [GO:1990033](http://purl.obolibrary.org/obo/GO_1990033)                                                          |
-| NIF_Subcellular:sao6587439252        |        1 | [GO:1990037](http://purl.obolibrary.org/obo/GO_1990037)                                                          |
-| NIF_Subcellular:sao5764355747        |        1 | [GO:1990038](http://purl.obolibrary.org/obo/GO_1990038)                                                          |
-| NIF_Subcellular:sao1634374950        |        1 | [GO:1990039](http://purl.obolibrary.org/obo/GO_1990039)                                                          |
-| NIF_Subcellular:sao128470897         |        1 | [GO:1990040](http://purl.obolibrary.org/obo/GO_1990040)                                                          |
-
-</details>
 
 ## `PIMD`
 

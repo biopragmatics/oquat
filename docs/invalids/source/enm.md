@@ -34,14 +34,25 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `CARO`: Common Anatomy Reference Ontology
 
-Overall, there were 1 invalid
+Overall, there were 2 invalid
 xrefs to external prefixed with `CARO` (standardized to Bioregistry
 prefix [`caro`](https://bioregistry.io/caro)) that
 did not match the standard pattern `^\d{7}$`.
 
-| external_xref   |   usages_count | usages                                                  |
-|-----------------|----------------|---------------------------------------------------------|
-| `CARO:mah`      |              1 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) |
+| external_xref   |   usages_count | usages                                                                                                           |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `CARO:mah`      |              2 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000), [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) |
+
+## `doi`: Digital Object Identifier
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `doi` (standardized to Bioregistry
+prefix [`doi`](https://bioregistry.io/doi)) that
+did not match the standard pattern `^(doi\:)?\d{2}\.\d{4}.*$`.
+
+| external_xref            |   usages_count | usages                                              |
+|--------------------------|----------------|-----------------------------------------------------|
+| `doi: 10.1111/nmo.12871` |              1 | [EFO:0011032](http://www.ebi.ac.uk/efo/EFO_0011032) |
 
 ## `ENVO`: Environment Ontology
 
@@ -64,6 +75,19 @@ did not match the standard pattern `^\d{7}$`.
 | external_xref                                             |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-----------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `FAO:http://fao.org/ag/agl/agll/wrb/doc/wrb2006final.pdf` |             27 | [ENVO:00002229](http://purl.obolibrary.org/obo/ENVO_00002229), [ENVO:00002231](http://purl.obolibrary.org/obo/ENVO_00002231), [ENVO:00002233](http://purl.obolibrary.org/obo/ENVO_00002233), [ENVO:00002234](http://purl.obolibrary.org/obo/ENVO_00002234), [ENVO:00002235](http://purl.obolibrary.org/obo/ENVO_00002235), ... |
+
+## `FBtc`: Flybase Cell Line
+
+Overall, there were 3 invalid
+xrefs to external prefixed with `FBtc` (standardized to Bioregistry
+prefix [`fbtc`](https://bioregistry.io/fbtc)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref      |   usages_count | usages                                              |
+|--------------------|----------------|-----------------------------------------------------|
+| `FBtc:FBtc0000151` |              1 | [EFO:0005743](http://www.ebi.ac.uk/efo/EFO_0005743) |
+| `FBtc:FBtc0000155` |              1 | [EFO:0005744](http://www.ebi.ac.uk/efo/EFO_0005744) |
+| `FBtc:FBtc0000191` |              1 | [EFO:0005745](http://www.ebi.ac.uk/efo/EFO_0005745) |
 
 ## `Geonames`: GeoNames
 
@@ -103,14 +127,14 @@ did not match the standard pattern `^ENSG\d{11}$`.
 
 ## `HPO`: Human Phenotype Ontology
 
-Overall, there were 5 invalid
+Overall, there were 6 invalid
 xrefs to external prefixed with `HPO` (standardized to Bioregistry
 prefix [`hp`](https://bioregistry.io/hp)) that
 did not match the standard pattern `^\d{7}$`.
 
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                      |
-|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `HPO:probinson` |              5 | [HP:0001522](http://purl.obolibrary.org/obo/HP_0001522), [HP:0003674](http://purl.obolibrary.org/obo/HP_0003674), [HP:0003811](http://purl.obolibrary.org/obo/HP_0003811), [HP:0003826](http://purl.obolibrary.org/obo/HP_0003826), [HP:0100613](http://purl.obolibrary.org/obo/HP_0100613) |
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `HPO:probinson` |              6 | [HP:0001522](http://purl.obolibrary.org/obo/HP_0001522), [HP:0003674](http://purl.obolibrary.org/obo/HP_0003674), [HP:0003811](http://purl.obolibrary.org/obo/HP_0003811), [HP:0003826](http://purl.obolibrary.org/obo/HP_0003826), [HP:0005268](http://purl.obolibrary.org/obo/HP_0005268), ... |
 
 ## `MA`: Mouse adult gross anatomy
 
@@ -124,6 +148,28 @@ did not match the standard pattern `^\d+$`.
 | `MA:ma`         |             11 | [ENVO:00000447](http://purl.obolibrary.org/obo/ENVO_00000447), [ENVO:00000873](http://purl.obolibrary.org/obo/ENVO_00000873), [ENVO:00001995](http://purl.obolibrary.org/obo/ENVO_00001995), [ENVO:00002006](http://purl.obolibrary.org/obo/ENVO_00002006), [ENVO:00002047](http://purl.obolibrary.org/obo/ENVO_00002047), ... |
 | `MA:th`         |              2 | [BSPO:0001114](http://purl.obolibrary.org/obo/BSPO_0001114), [BSPO:1000000](http://purl.obolibrary.org/obo/BSPO_1000000)                                                                                                                                                                                                       |
 
+## `MedDRA`: Medical Dictionary for Regulatory Activities Terminology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `MedDRA` (standardized to Bioregistry
+prefix [`meddra`](https://bioregistry.io/meddra)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref            |   usages_count | usages                                              |
+|--------------------------|----------------|-----------------------------------------------------|
+| `MedDRA:1005MedDRA:1006` |              1 | [EFO:0009248](http://www.ebi.ac.uk/efo/EFO_0009248) |
+
+## `MeSH`: Medical Subject Headings
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `MeSH` (standardized to Bioregistry
+prefix [`mesh`](https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
+
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `MeSH:Q000401`  |              1 | [EFO:0004352](http://www.ebi.ac.uk/efo/EFO_0004352) |
+
 ## `MGI`: Mouse Genome Informatics
 
 Overall, there were 1 invalid
@@ -134,17 +180,6 @@ did not match the standard pattern `^\d+$`.
 | external_xref   |   usages_count | usages                                                          |
 |-----------------|----------------|-----------------------------------------------------------------|
 | `MGI:csmith`    |              1 | [UBERON:0002530](http://purl.obolibrary.org/obo/UBERON_0002530) |
-
-## `MSH`: Medical Subject Headings
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `MSH` (standardized to Bioregistry
-prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
-
-| external_xref   |   usages_count | usages                                              |
-|-----------------|----------------|-----------------------------------------------------|
-| `MSH:Q000401`   |              1 | [EFO:0004352](http://www.ebi.ac.uk/efo/EFO_0004352) |
 
 ## `NIFSTD`: NIF Standard Ontology
 
@@ -199,16 +234,41 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `PMID`: PubMed
 
-Overall, there were 3 invalid
+Overall, there were 6 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
 prefix [`pubmed`](https://bioregistry.io/pubmed)) that
 did not match the standard pattern `^\d+$`.
 
-| external_xref    |   usages_count | usages                                              |
-|------------------|----------------|-----------------------------------------------------|
-| `PMID:27149984 ` |              1 | [EFO:0007836](http://www.ebi.ac.uk/efo/EFO_0007836) |
-| `PMID: 31636452` |              1 | [EFO:0010605](http://www.ebi.ac.uk/efo/EFO_0010605) |
-| `PMID: 32355309` |              1 | [EFO:0010749](http://www.ebi.ac.uk/efo/EFO_0010749) |
+| external_xref     |   usages_count | usages                                              |
+|-------------------|----------------|-----------------------------------------------------|
+| `PMID:PMC1531688` |              1 | [EFO:0005725](http://www.ebi.ac.uk/efo/EFO_0005725) |
+| `PMID: 3897439`   |              1 | [EFO:0005910](http://www.ebi.ac.uk/efo/EFO_0005910) |
+| `PMID: 8788275`   |              1 | [EFO:0005913](http://www.ebi.ac.uk/efo/EFO_0005913) |
+| `PMID:27149984 `  |              1 | [EFO:0007836](http://www.ebi.ac.uk/efo/EFO_0007836) |
+| `PMID: 31636452`  |              1 | [EFO:0010605](http://www.ebi.ac.uk/efo/EFO_0010605) |
+| `PMID: 32355309`  |              1 | [EFO:0010749](http://www.ebi.ac.uk/efo/EFO_0010749) |
+
+## `PR`: Protein Ontology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `PR` (standardized to Bioregistry
+prefix [`pr`](https://bioregistry.io/pr)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `PR:Q92496`     |              1 | [EFO:0600091](http://www.ebi.ac.uk/efo/EFO_0600091) |
+
+## `ReO`: Reagent Ontology
+
+Overall, there were 3 invalid
+xrefs to external prefixed with `ReO` (standardized to Bioregistry
+prefix [`reo`](https://bioregistry.io/reo)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                    |
+|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `ReO:mhb`       |              3 | [CL:0000010](http://purl.obolibrary.org/obo/CL_0000010), [CL:0000010](http://purl.obolibrary.org/obo/CL_0000010), [CL:0001034](http://purl.obolibrary.org/obo/CL_0001034) |
 
 ## `SO`: Sequence types and features ontology
 

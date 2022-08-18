@@ -76,6 +76,7 @@
         }
       }
     },
+    "version": "2013-06-03",
     "version_iri": "http://purl.obolibrary.org/obo/tgma/releases/2013-06-03/tgma.owl",
     "xref_pack": {
       "invalid_luids": {},

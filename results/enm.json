@@ -39,7 +39,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "7.3",
+    "version": "8.0",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -288,31 +288,6 @@
       "unknown_prefixes": {}
     }
   },
-  "http://livercancer.imbi.uni-heidelberg.de/ccont": {
-    "graph_id": "http://livercancer.imbi.uni-heidelberg.de/ccont",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "1.1",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
   "http://protege.stanford.edu/plugins/owl/dc/protege-dc.owl": {
     "graph_id": "http://protege.stanford.edu/plugins/owl/dc/protege-dc.owl",
     "prov_pack": {
@@ -368,11 +343,7 @@
       "label": "Provenance Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "PHENOSCPAE": {
-          "http://purl.obolibrary.org/obo/RO_0002173": "PHENOSCPAE:asilomar_mtg"
-        }
-      }
+      "unknown_prefixes": {}
     },
     "synonym_pack": {
       "invalid_luids": {},
@@ -406,7 +377,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2.7",
+    "version": "2.7.2",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -448,8 +419,22 @@
       "malformed_curies": {},
       "noncanonical_prefixes": {},
       "unknown_prefixes": {
+        "Cancer.gov_Dictionary": {
+          "http://purl.obolibrary.org/obo/BTO_0000341": "Cancer.gov_Dictionary:http://www.nci.nih.gov/dictionary"
+        },
+        "From_Merriam-Webster's_Online_Dictionary_at_www.Merriam-Webster.com": {
+          "http://purl.obolibrary.org/obo/BTO_0000269": "From_Merriam-Webster's_Online_Dictionary_at_www.Merriam-Webster.com:http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=colon",
+          "http://purl.obolibrary.org/obo/BTO_0000763": "From_Merriam-Webster's_Online_Dictionary_at_www.Merriam-Webster.com:http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=lung",
+          "http://purl.obolibrary.org/obo/BTO_0001279": "From_Merriam-Webster's_Online_Dictionary_at_www.Merriam-Webster.com:http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=spinal+cord"
+        },
+        "Invitrogen": {
+          "http://purl.obolibrary.org/obo/BTO_0004602": "Invitrogen:http://products.invitrogen.com/"
+        },
         "The_Dictionary_of_Cell_and_Molecular_Biology": {
           "http://purl.obolibrary.org/obo/BTO_0001025": "The_Dictionary_of_Cell_and_Molecular_Biology:Third_Edition"
+        },
+        "curators": {
+          "http://purl.obolibrary.org/obo/BTO_0002922": "curators:mg"
         }
       }
     },
@@ -563,6 +548,7 @@
           "http://purl.obolibrary.org/obo/CHEBI_15379": "PDBeChem:OXY"
         },
         "PMCID": {
+          "http://purl.obolibrary.org/obo/CHEBI_132889": "PMCID:PMC8582055",
           "http://purl.obolibrary.org/obo/CHEBI_133602": "PMCID:PMC3190904"
         },
         "Patent": {
@@ -646,6 +632,15 @@
         "http://purl.obolibrary.org/obo/CL_0000000": [
           "CARO:mah"
         ],
+        "http://purl.obolibrary.org/obo/CL_0000003": [
+          "CARO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000010": [
+          "ReO:mhb"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0001034": [
+          "ReO:mhb"
+        ],
         "http://purl.obolibrary.org/obo/CL_1001603": [
           "HPA:HPA"
         ]
@@ -666,7 +661,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2021-02-01",
+    "version": "2022-06-18",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -730,6 +725,9 @@
         "http://purl.obolibrary.org/obo/BSPO_0001107": [
           "BSPO:cjm"
         ],
+        "http://purl.obolibrary.org/obo/CL_0000010": [
+          "ReO:mhb"
+        ],
         "http://purl.obolibrary.org/obo/HP_0001522": [
           "HPO:probinson"
         ],
@@ -740,6 +738,9 @@
           "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0003826": [
+          "HPO:probinson"
+        ],
+        "http://purl.obolibrary.org/obo/HP_0005268": [
           "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0100613": [
@@ -759,6 +760,9 @@
         ],
         "http://purl.obolibrary.org/obo/uberon#spatially_disjoint_from": [
           "SO:cjm"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0011032": [
+          "doi: 10.1111/nmo.12871"
         ]
       },
       "label": "Provenance Xrefs",
@@ -769,6 +773,7 @@
           "http://purl.obolibrary.org/obo/HP_0003674": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0003811": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0003826": "HPO:probinson",
+          "http://purl.obolibrary.org/obo/HP_0005268": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0100613": "HPO:probinson"
         }
       },
@@ -812,7 +817,7 @@
         }
       }
     },
-    "version": "3.26.0",
+    "version": "3.44.0",
     "xref_pack": {
       "invalid_luids": {
         "http://www.ebi.ac.uk/efo/EFO_0000433": [
@@ -832,10 +837,31 @@
           "NIFSTD:birnlex_2117"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0004352": [
-          "MSH:Q000401"
+          "MeSH:Q000401"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0005725": [
+          "PMID:PMC1531688"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0005743": [
+          "FBtc:FBtc0000151"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0005744": [
+          "FBtc:FBtc0000155"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0005745": [
+          "FBtc:FBtc0000191"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0005910": [
+          "PMID: 3897439"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0005913": [
+          "PMID: 8788275"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0007836": [
           "PMID:27149984 "
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0009248": [
+          "MedDRA:1005MedDRA:1006"
         ],
         "http://www.ebi.ac.uk/efo/EFO_0009750": [
           "Wikipedia:Dissociation_(psychology)"
@@ -848,76 +874,26 @@
         ],
         "http://www.ebi.ac.uk/efo/EFO_0010749": [
           "PMID: 32355309"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0600091": [
+          "PR:Q92496"
         ]
       },
       "label": "Node Xrefs",
       "malformed_curies": {
+        "http://www.ebi.ac.uk/efo/EFO_0020991": [
+          "Quantification of ethanolamine in a sample."
+        ],
         "http://www.ebi.ac.uk/efoIri": [
           "suggestedNCIt"
         ]
       },
       "noncanonical_prefixes": {
-        "ATC_code": {
-          "http://www.ebi.ac.uk/efo/EFO_0005638": "ATC_code:G",
-          "http://www.ebi.ac.uk/efo/EFO_0005645": "ATC_code:R"
-        },
         "MSH": {
           "http://purl.obolibrary.org/obo/HP_0003674": "MSH:D017668",
           "http://purl.obolibrary.org/obo/HP_0003811": "MSH:D066087",
-          "http://purl.obolibrary.org/obo/HP_0003826": "MSH:D005313",
-          "http://www.ebi.ac.uk/efo/EFO_0000409": "MSH:D018572",
-          "http://www.ebi.ac.uk/efo/EFO_0000513": "MSH:D005838",
-          "http://www.ebi.ac.uk/efo/EFO_0000714": "MSH:D013534",
-          "http://www.ebi.ac.uk/efo/EFO_0000721": "MSH:D013995",
-          "http://www.ebi.ac.uk/efo/EFO_0001272": "MSH:D000328",
-          "http://www.ebi.ac.uk/efo/EFO_0003892": "MSH:D012129",
-          "http://www.ebi.ac.uk/efo/EFO_0003912": "MSH:D055109",
-          "http://www.ebi.ac.uk/efo/EFO_0003923": "MSH:D015519",
-          "http://www.ebi.ac.uk/efo/EFO_0003926": "MSH:D009483",
-          "http://www.ebi.ac.uk/efo/EFO_0003962": "MSH:D018619",
-          "http://www.ebi.ac.uk/efo/EFO_0003965": "MSH:D019102",
-          "http://www.ebi.ac.uk/efo/EFO_0004298": "MSH:D003935",
-          "http://www.ebi.ac.uk/efo/EFO_0004299": "MSH:D008017",
-          "http://www.ebi.ac.uk/efo/EFO_0004300": "MSH:D008136",
-          "http://www.ebi.ac.uk/efo/EFO_0004301": "MSH:D001809",
-          "http://www.ebi.ac.uk/efo/EFO_0004302": "MSH:D000886",
-          "http://www.ebi.ac.uk/efo/EFO_0004303": "MSH:D055986",
-          "http://www.ebi.ac.uk/efo/EFO_0004304": "MSH:D001799",
-          "http://www.ebi.ac.uk/efo/EFO_0004305": "MSH:D004906",
-          "http://www.ebi.ac.uk/efo/EFO_0004306": "MSH:D004909",
-          "http://www.ebi.ac.uk/efo/EFO_0004307": "MSH:D005951",
-          "http://www.ebi.ac.uk/efo/EFO_0004308": "MSH:D007958",
-          "http://www.ebi.ac.uk/efo/EFO_0004309": "MSH:D010976",
-          "http://www.ebi.ac.uk/efo/EFO_0004310": "MSH:D010314",
-          "http://www.ebi.ac.uk/efo/EFO_0004311": "MSH:D006334",
-          "http://www.ebi.ac.uk/efo/EFO_0004312": "MSH:D014797",
-          "http://www.ebi.ac.uk/efo/EFO_0004313": "MSH:D008450",
-          "http://www.ebi.ac.uk/efo/EFO_0004314": "MSH:D005541",
-          "http://www.ebi.ac.uk/efo/EFO_0004324": "MSH:D001837",
-          "http://www.ebi.ac.uk/efo/EFO_0004325": "MSH:D001794",
-          "http://www.ebi.ac.uk/efo/EFO_0004326": "MSH:D006339",
-          "http://www.ebi.ac.uk/efo/EFO_0004327": "MSH:D004562",
-          "http://www.ebi.ac.uk/efo/EFO_0004328": "MSH:D005080",
-          "http://www.ebi.ac.uk/efo/EFO_0004338": "MSH:D001835",
-          "http://www.ebi.ac.uk/efo/EFO_0004339": "MSH:D001827",
-          "http://www.ebi.ac.uk/efo/EFO_0004340": "MSH:D015992",
-          "http://www.ebi.ac.uk/efo/EFO_0004341": "MSH:D050218",
-          "http://www.ebi.ac.uk/efo/EFO_0004342": "MSH:D055105",
-          "http://www.ebi.ac.uk/efo/EFO_0004343": "MSH:D049629",
-          "http://www.ebi.ac.uk/efo/EFO_0004344": "MSH:D001724",
-          "http://www.ebi.ac.uk/efo/EFO_0004345": "MSH:D019781",
-          "http://www.ebi.ac.uk/efo/EFO_0004348": "MSH:D006400",
-          "http://www.ebi.ac.uk/efo/EFO_0004352": "MSH:D009026",
-          "http://www.ebi.ac.uk/efo/EFO_0004357": "MSH:D058256",
-          "http://www.ebi.ac.uk/efo/EFO_0004584": "MSH:D063847",
-          "http://www.ebi.ac.uk/efo/EFO_0004587": "MSH:D018655",
-          "http://www.ebi.ac.uk/efo/EFO_0004770": "MSH:D065851",
-          "http://www.ebi.ac.uk/efo/EFO_0004804": "MSH:D001723",
-          "http://www.ebi.ac.uk/efo/EFO_0004820": "MSH:D012744",
-          "http://www.ebi.ac.uk/efo/EFO_0004828": "MSH:D014644",
-          "http://www.ebi.ac.uk/efo/EFO_0005112": "MSH:D005865",
-          "http://www.ebi.ac.uk/efo/EFO_0005208": "MSH:D005919",
-          "http://www.ebi.ac.uk/efo/EFO_0005761": "MSH:D008181"
+          "http://purl.obolibrary.org/obo/HP_0003826": "MSH:D050497",
+          "http://purl.obolibrary.org/obo/HP_0005268": "MSH:D000022"
         },
         "NIFSTD": {
           "http://www.ebi.ac.uk/efo/EFO_0000433": "NIFSTD:birnlex_2052",
@@ -926,47 +902,10 @@
           "http://www.ebi.ac.uk/efo/EFO_0001444": "NIFSTD:sao279801585",
           "http://www.ebi.ac.uk/efo/EFO_0002694": "NIFSTD:birnlex_2117"
         },
-        "SCTID": {
-          "http://www.ebi.ac.uk/efo/EFO_0005761": "SCTID:68815009"
-        },
-        "SNOMED": {
-          "http://www.ebi.ac.uk/efo/EFO_0004995": "SNOMED:248362003"
-        },
         "SNOMEDCT_US": {
           "http://purl.obolibrary.org/obo/HP_0003811": "SNOMEDCT_US:276506001",
-          "http://purl.obolibrary.org/obo/HP_0003826": "SNOMEDCT_US:237364002"
-        },
-        "UMLS_CUI": {
-          "http://www.ebi.ac.uk/efo/EFO_0004576": "UMLS_CUI:C0200695",
-          "http://www.ebi.ac.uk/efo/EFO_0004586": "UMLS_CUI:C0005771",
-          "http://www.ebi.ac.uk/efo/EFO_0005845": "UMLS_CUI:C0474543",
-          "http://www.ebi.ac.uk/efo/EFO_0009202": "UMLS_CUI:C3897698",
-          "http://www.ebi.ac.uk/efo/EFO_0009208": "UMLS_CUI:C1281911",
-          "http://www.ebi.ac.uk/efo/EFO_0009209": "UMLS_CUI:C2825554",
-          "http://www.ebi.ac.uk/efo/EFO_0009212": "UMLS_CUI:C2825555",
-          "http://www.ebi.ac.uk/efo/EFO_0009213": "UMLS_CUI:C2984939",
-          "http://www.ebi.ac.uk/efo/EFO_0009215": "UMLS_CUI:C1275423",
-          "http://www.ebi.ac.uk/efo/EFO_0009216": "UMLS_CUI:C2825556",
-          "http://www.ebi.ac.uk/efo/EFO_0009224": "UMLS_CUI:C2825557",
-          "http://www.ebi.ac.uk/efo/EFO_0009229": "UMLS_CUI:C3890034",
-          "http://www.ebi.ac.uk/efo/EFO_0009232": "UMLS_CUI:C0523113",
-          "http://www.ebi.ac.uk/efo/EFO_0009233": "UMLS_CUI:C1879889",
-          "http://www.ebi.ac.uk/efo/EFO_0009234": "UMLS_CUI:C0545131",
-          "http://www.ebi.ac.uk/efo/EFO_0009235": "UMLS_CUI:C2827509",
-          "http://www.ebi.ac.uk/efo/EFO_0009236": "UMLS_CUI:C2827510",
-          "http://www.ebi.ac.uk/efo/EFO_0009237": "UMLS_CUI:C0200642",
-          "http://www.ebi.ac.uk/efo/EFO_0009238": "UMLS_CUI:C3272957",
-          "http://www.ebi.ac.uk/efo/EFO_0009239": "UMLS_CUI:C2698029",
-          "http://www.ebi.ac.uk/efo/EFO_0009240": "UMLS_CUI:C0029330",
-          "http://www.ebi.ac.uk/efo/EFO_0009241": "UMLS_CUI:C4054477",
-          "http://www.ebi.ac.uk/efo/EFO_0009243": "UMLS_CUI:C2984931",
-          "http://www.ebi.ac.uk/efo/EFO_0009244": "UMLS_CUI:C2827511",
-          "http://www.ebi.ac.uk/efo/EFO_0009245": "UMLS_CUI:C2827512",
-          "http://www.ebi.ac.uk/efo/EFO_0009246": "UMLS_CUI:C4054355",
-          "http://www.ebi.ac.uk/efo/EFO_0009248": "UMLS_CUI:C0581142",
-          "http://www.ebi.ac.uk/efo/EFO_0009249": "UMLS_CUI:C2698870",
-          "http://www.ebi.ac.uk/efo/EFO_0009252": "UMLS_CUI:C4054040",
-          "http://www.ebi.ac.uk/efo/EFO_0009253": "UMLS_CUI:C1446165"
+          "http://purl.obolibrary.org/obo/HP_0003826": "SNOMEDCT_US:237364002",
+          "http://purl.obolibrary.org/obo/HP_0005268": "SNOMEDCT_US:17369002"
         }
       },
       "unknown_prefixes": {
@@ -1173,7 +1112,7 @@
         }
       }
     },
-    "version": "2020-06-10",
+    "version": "2021-05-14",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/ENVO_00000194": [
@@ -1334,7 +1273,7 @@
         }
       }
     },
-    "version": "2021-01-01",
+    "version": "2022-07-01",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/GO_0009293": [
@@ -1388,7 +1327,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "19.08d",
+    "version": "22.03d",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -1438,7 +1377,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "1.2.36",
+    "version": "1.2.44",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -1507,7 +1446,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2020-12-16",
+    "version": "2022-07-11",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -1584,6 +1523,9 @@
       "unknown_prefixes": {
         "Answers.com": {
           "http://purl.obolibrary.org/obo/PATO_0000969": "Answers.com:Answers.com"
+        },
+        "Merriam-Webster": {
+          "http://purl.obolibrary.org/obo/PATO_0000261": "Merriam-Webster:Merriam-Webster"
         },
         "PATOC": {
           "http://purl.obolibrary.org/obo/PATO_0000049": "PATOC:GVG",
@@ -1668,6 +1610,7 @@
           "http://purl.obolibrary.org/obo/PATO_0001526": "studyphysics:studyphysics"
         },
         "thefreedictionary.com": {
+          "http://purl.obolibrary.org/obo/PATO_0001190": "thefreedictionary.com:thefreedictionary.com",
           "http://purl.obolibrary.org/obo/PATO_0001520": "thefreedictionary.com:thefreedictionary.com"
         },
         "url": {
@@ -1682,7 +1625,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "This SLIM file was generated automatically by the eNanoMapper Slimmer software library. For more information see http://github.com/enanomapper/slimmer.",
+    "version": "2022-08-10",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/PATO_0001555": [
@@ -1715,7 +1658,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "1.48",
+    "version": "1.54",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -1751,16 +1694,12 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "This SLIM file was generated automatically by the eNanoMapper Slimmer software library. For more information see http://github.com/enanomapper/slimmer.",
+    "version": "2022-06-30",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "FBbt_root": {
-          "http://purl.obolibrary.org/obo/UBERON_0001062": "FBbt_root:00000000"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "OpenCyc": {
           "http://purl.obolibrary.org/obo/UBERON_0000062": "OpenCyc:Mx4rwP3iWpwpEbGdrcN5Y29ycA",
@@ -1824,6 +1763,30 @@
   },
   "http://purl.obolibrary.org/obo/ro/core.owl": {
     "graph_id": "http://purl.obolibrary.org/obo/ro/core.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  },
+  "http://purl.org/spar/cito": {
+    "graph_id": "http://purl.org/spar/cito",
     "prov_pack": {
       "invalid_luids": {},
       "label": "Provenance Xrefs",

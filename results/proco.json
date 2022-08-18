@@ -1,0 +1,28 @@
+{
+  "http://purl.obolibrary.org/obo/proco.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/proco.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "PROCO release 20220414",
+    "version_iri": "http://purl.obolibrary.org/obo/proco/releases/2022-04-11/proco.owl",
+    "xref_pack": {
+      "invalid_luids": {},
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    }
+  }
+}

@@ -6,7 +6,13 @@
       "label": "Provenance Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+      "unknown_prefixes": {
+        "GOC": {
+          "http://purl.obolibrary.org/obo/GO_0008150": "GOC:isa_complete",
+          "http://purl.obolibrary.org/obo/GO_0040011": "GOC:dgh",
+          "http://purl.obolibrary.org/obo/GO_0060361": "GOC:dph"
+        }
+      }
     },
     "synonym_pack": {
       "invalid_luids": {},
@@ -15,6 +21,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2016-01-12",
     "version_iri": "http://purl.obolibrary.org/obo/ceph/releases/2016-01-12/ceph.owl",
     "xref_pack": {
       "invalid_luids": {},

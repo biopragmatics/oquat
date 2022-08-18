@@ -81,7 +81,6 @@ Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repos
 | `TC:2.A.1.9.-`  |              1 | [GO:0015317](http://purl.obolibrary.org/obo/GO_0015317)                                                                                                                   |
 | `TC:2.A.17.-.-` |              1 | [GO:0015333](http://purl.obolibrary.org/obo/GO_0015333)                                                                                                                   |
 | `TC:2.A.5.-.-`  |              1 | [GO:0015342](http://purl.obolibrary.org/obo/GO_0015342)                                                                                                                   |
-| `TC:2.A.1.16.-` |              1 | [GO:0015343](http://purl.obolibrary.org/obo/GO_0015343)                                                                                                                   |
 | `TC:2.A.19.-.-` |              1 | [GO:0015368](http://purl.obolibrary.org/obo/GO_0015368)                                                                                                                   |
 | `TC:2.A.19.2.-` |              1 | [GO:0015369](http://purl.obolibrary.org/obo/GO_0015369)                                                                                                                   |
 | `TC:2.A.21.5.-` |              1 | [GO:0015373](http://purl.obolibrary.org/obo/GO_0015373)                                                                                                                   |

@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `cl`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 4 resources,
+`^\d{7}$`. Of the 6 resources,
 1 variants on the standard prefix were found: ['CL'].
 
 ## `cl`: Cell Ontology
@@ -17,6 +17,14 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | `CL:patterns/cellPartOfAnatomicalEntity` |              1 | [CL:0011030](http://purl.obolibrary.org/obo/CL_0011030)                                                                                                                                                                                                                                          |
 | `CL:cjm`                                 |              1 | [CL:1000742](http://purl.obolibrary.org/obo/CL_1000742)                                                                                                                                                                                                                                          |
 
+## `idomal`: Malaria Ontology
+
+Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/IDOMAL).
+
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `CL:00000081`   |              1 | [CL:0000081](http://purl.obolibrary.org/obo/CL_0000081) |
+
 ## `tao`: Teleost Anatomy Ontology
 
 Identifiers for this prefix are given incorrectly in `tao`.
@@ -24,6 +32,7 @@ Identifiers for this prefix are given incorrectly in `tao`.
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `CL:curator`    |            153 | [TAO:0002148](http://purl.obolibrary.org/obo/TAO_0002148), [TAO:0002182](http://purl.obolibrary.org/obo/TAO_0002182), [TAO:0002211](http://purl.obolibrary.org/obo/TAO_0002211), [TAO:0005243](http://purl.obolibrary.org/obo/TAO_0005243), [TAO:0005322](http://purl.obolibrary.org/obo/TAO_0005322), ... |
+| `CL:MAH`        |              2 | [CL:0007007](http://purl.obolibrary.org/obo/CL_0007007), [CL:0007008](http://purl.obolibrary.org/obo/CL_0007008)                                                                                                                                                                                           |
 | `CL:Curator`    |              1 | [TAO:0005242](http://purl.obolibrary.org/obo/TAO_0005242)                                                                                                                                                                                                                                                  |
 
 ## `uberon`: Uber Anatomy Ontology
@@ -33,6 +42,14 @@ Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub r
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `CL:tm`         |             19 | [UBERON:0001249](http://purl.obolibrary.org/obo/UBERON_0001249), [UBERON:0001249](http://purl.obolibrary.org/obo/UBERON_0001249), [UBERON:0001745](http://purl.obolibrary.org/obo/UBERON_0001745), [UBERON:0004041](http://purl.obolibrary.org/obo/UBERON_0004041), [UBERON:0004042](http://purl.obolibrary.org/obo/UBERON_0004042), ... |
+
+## `vsao`: Vertebrate Skeletal Anatomy Ontology
+
+Identifiers for this prefix are given incorrectly in `vsao`.
+
+| external_xref   |   usages_count | usages                                                                                                           |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `CL:MAH`        |              2 | [CL:0007007](http://purl.obolibrary.org/obo/CL_0007007), [CL:0007008](http://purl.obolibrary.org/obo/CL_0007008) |
 
 ## `zfa`: Zebrafish anatomy and development ontology
 

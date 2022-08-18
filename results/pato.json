@@ -1,6 +1,6 @@
 {
-  "http://purl.obolibrary.org/obo/pato.json": {
-    "graph_id": "http://purl.obolibrary.org/obo/pato.json",
+  "http://purl.obolibrary.org/obo/pato.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/pato.owl",
     "prov_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/PATO_0000008": [
@@ -536,6 +536,12 @@
         ],
         "http://purl.obolibrary.org/obo/PATO_0040027": [
           "Wikipedia:https://en.wikipedia.org/wiki/Doubled_haploidy"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0040071": [
+          "Wikipedia:NC_ratio&oldid=931936284"
+        ],
+        "http://purl.obolibrary.org/obo/PATO_0040072": [
+          "Wikipedia:NC_ratio&oldid=931936284"
         ],
         "http://purl.obolibrary.org/obo/PATO_0045090": [
           "Wikipedia:http://en.wikipedia.org/wiki/Cardinal_direction"
@@ -1736,7 +1742,13 @@
           "http://purl.obolibrary.org/obo/PATO_0030004": "PATOC:EJS",
           "http://purl.obolibrary.org/obo/PATO_0030005": "PATOC:EJS",
           "http://purl.obolibrary.org/obo/PATO_0030006": "PATOC:EJS",
-          "http://purl.obolibrary.org/obo/PATO_0030007": "PATOC:EJS"
+          "http://purl.obolibrary.org/obo/PATO_0030007": "PATOC:EJS",
+          "http://purl.obolibrary.org/obo/PATO_0030008": "PATOC:EJS",
+          "http://purl.obolibrary.org/obo/PATO_0030009": "PATOC:EJS",
+          "http://purl.obolibrary.org/obo/PATO_0030010": "PATOC:EJS",
+          "http://purl.obolibrary.org/obo/PATO_0030011": "PATOC:EJS",
+          "http://purl.obolibrary.org/obo/PATO_0030012": "PATOC:EJS",
+          "http://purl.obolibrary.org/obo/PATO_0030013": "PATOC:EJS"
         },
         "RKC": {
           "http://purl.obolibrary.org/obo/PATO_0001881": "RKC:RKC"
@@ -1998,7 +2010,9 @@
         },
         "thefreedictionary.": {
           "http://purl.obolibrary.org/obo/PATO_0000462": "thefreedictionary.:thefreedictionary.",
-          "http://purl.obolibrary.org/obo/PATO_0002165": "thefreedictionary.:thefreedictionary."
+          "http://purl.obolibrary.org/obo/PATO_0002165": "thefreedictionary.:thefreedictionary.",
+          "http://purl.obolibrary.org/obo/PATO_0040058": "thefreedictionary.:thefreedictionary.",
+          "http://purl.obolibrary.org/obo/PATO_0040060": "thefreedictionary.:thefreedictionary."
         },
         "thefreedictionary.com": {
           "http://purl.obolibrary.org/obo/PATO_0000411": "thefreedictionary.com:thefreedictionary.com",
@@ -2133,8 +2147,8 @@
         }
       }
     },
-    "version": "2022-06-17",
-    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-06-17/pato.json",
+    "version": "2022-08-10",
+    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-08-10/pato.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/PATO_0001555": [
@@ -2205,6 +2219,9 @@
           "http://purl.obolibrary.org/obo/PATO_0070019": "ilxtr:UntuftedPyramidalPhenotype",
           "http://purl.obolibrary.org/obo/PATO_0070020": "ilxtr:StarPyramidalPhenotype",
           "http://purl.obolibrary.org/obo/PATO_0070021": "ilxtr:InvertedPyramidalPhenotype"
+        },
+        "thefreedictionary.": {
+          "http://purl.obolibrary.org/obo/PATO_0040059": "thefreedictionary.:thefreedictionary."
         }
       }
     }

@@ -1,5 +1,11 @@
 # `invitrogen`
 
+## enm
+
+| curie                                      |   usages | nodes                                                     |
+|--------------------------------------------|----------|-----------------------------------------------------------|
+| Invitrogen:http://products.invitrogen.com/ |        1 | [BTO:0004602](http://purl.obolibrary.org/obo/BTO_0004602) |
+
 ## bto
 
 | curie                                      |   usages | nodes                                                                                                                                                                                                                                      |

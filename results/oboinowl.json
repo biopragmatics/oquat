@@ -1,6 +1,6 @@
 {
-  "http://purl.obolibrary.org/obo/TEMP": {
-    "graph_id": "http://purl.obolibrary.org/obo/TEMP",
+  "http://www.geneontology.org/formats/oboInOwl": {
+    "graph_id": "http://www.geneontology.org/formats/oboInOwl",
     "prov_pack": {
       "invalid_luids": {},
       "label": "Provenance Xrefs",

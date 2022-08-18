@@ -78,7 +78,6 @@
 | IUPHAR:741  |        1 | [http://www.orpha.net/ORDO/Orphanet_118539](http://www.orpha.net/ORDO/Orphanet_118539) |
 | IUPHAR:2632 |        1 | [http://www.orpha.net/ORDO/Orphanet_118609](http://www.orpha.net/ORDO/Orphanet_118609) |
 | IUPHAR:967  |        1 | [http://www.orpha.net/ORDO/Orphanet_118732](http://www.orpha.net/ORDO/Orphanet_118732) |
-| IUPHAR:968  |        1 | [http://www.orpha.net/ORDO/Orphanet_118737](http://www.orpha.net/ORDO/Orphanet_118737) |
 | IUPHAR:970  |        1 | [http://www.orpha.net/ORDO/Orphanet_118740](http://www.orpha.net/ORDO/Orphanet_118740) |
 | IUPHAR:973  |        1 | [http://www.orpha.net/ORDO/Orphanet_118742](http://www.orpha.net/ORDO/Orphanet_118742) |
 | IUPHAR:992  |        1 | [http://www.orpha.net/ORDO/Orphanet_118746](http://www.orpha.net/ORDO/Orphanet_118746) |
@@ -419,6 +418,7 @@
 | IUPHAR:34   |        1 | [http://www.orpha.net/ORDO/Orphanet_138533](http://www.orpha.net/ORDO/Orphanet_138533) |
 | IUPHAR:1801 |        1 | [http://www.orpha.net/ORDO/Orphanet_138578](http://www.orpha.net/ORDO/Orphanet_138578) |
 | IUPHAR:2698 |        1 | [http://www.orpha.net/ORDO/Orphanet_138583](http://www.orpha.net/ORDO/Orphanet_138583) |
+| IUPHAR:3194 |        1 | [http://www.orpha.net/ORDO/Orphanet_138706](http://www.orpha.net/ORDO/Orphanet_138706) |
 | IUPHAR:2184 |        1 | [http://www.orpha.net/ORDO/Orphanet_138722](http://www.orpha.net/ORDO/Orphanet_138722) |
 | IUPHAR:2790 |        1 | [http://www.orpha.net/ORDO/Orphanet_138732](http://www.orpha.net/ORDO/Orphanet_138732) |
 | IUPHAR:1624 |        1 | [http://www.orpha.net/ORDO/Orphanet_138851](http://www.orpha.net/ORDO/Orphanet_138851) |
@@ -566,6 +566,7 @@
 | IUPHAR:1135 |        1 | [http://www.orpha.net/ORDO/Orphanet_227390](http://www.orpha.net/ORDO/Orphanet_227390) |
 | IUPHAR:1864 |        1 | [http://www.orpha.net/ORDO/Orphanet_227397](http://www.orpha.net/ORDO/Orphanet_227397) |
 | IUPHAR:3011 |        1 | [http://www.orpha.net/ORDO/Orphanet_227401](http://www.orpha.net/ORDO/Orphanet_227401) |
+| IUPHAR:1813 |        1 | [http://www.orpha.net/ORDO/Orphanet_229801](http://www.orpha.net/ORDO/Orphanet_229801) |
 | IUPHAR:1886 |        1 | [http://www.orpha.net/ORDO/Orphanet_231494](http://www.orpha.net/ORDO/Orphanet_231494) |
 | IUPHAR:437  |        1 | [http://www.orpha.net/ORDO/Orphanet_235181](http://www.orpha.net/ORDO/Orphanet_235181) |
 | IUPHAR:2628 |        1 | [http://www.orpha.net/ORDO/Orphanet_235193](http://www.orpha.net/ORDO/Orphanet_235193) |
@@ -898,6 +899,7 @@
 | IUPHAR:1083 |        1 | [http://www.orpha.net/ORDO/Orphanet_471076](http://www.orpha.net/ORDO/Orphanet_471076) |
 | IUPHAR:1112 |        1 | [http://www.orpha.net/ORDO/Orphanet_471078](http://www.orpha.net/ORDO/Orphanet_471078) |
 | IUPHAR:937  |        1 | [http://www.orpha.net/ORDO/Orphanet_471096](http://www.orpha.net/ORDO/Orphanet_471096) |
+| IUPHAR:3196 |        1 | [http://www.orpha.net/ORDO/Orphanet_471214](http://www.orpha.net/ORDO/Orphanet_471214) |
 | IUPHAR:2887 |        1 | [http://www.orpha.net/ORDO/Orphanet_471250](http://www.orpha.net/ORDO/Orphanet_471250) |
 | IUPHAR:2255 |        1 | [http://www.orpha.net/ORDO/Orphanet_471260](http://www.orpha.net/ORDO/Orphanet_471260) |
 | IUPHAR:3014 |        1 | [http://www.orpha.net/ORDO/Orphanet_471340](http://www.orpha.net/ORDO/Orphanet_471340) |
@@ -995,8 +997,10 @@
 | IUPHAR:2692 |        1 | [http://www.orpha.net/ORDO/Orphanet_568147](http://www.orpha.net/ORDO/Orphanet_568147) |
 | IUPHAR:2233 |        1 | [http://www.orpha.net/ORDO/Orphanet_568164](http://www.orpha.net/ORDO/Orphanet_568164) |
 | IUPHAR:495  |        1 | [http://www.orpha.net/ORDO/Orphanet_569267](http://www.orpha.net/ORDO/Orphanet_569267) |
+| IUPHAR:735  |        1 | [http://www.orpha.net/ORDO/Orphanet_569718](http://www.orpha.net/ORDO/Orphanet_569718) |
 | IUPHAR:447  |        1 | [http://www.orpha.net/ORDO/Orphanet_572412](http://www.orpha.net/ORDO/Orphanet_572412) |
 | IUPHAR:2115 |        1 | [http://www.orpha.net/ORDO/Orphanet_581332](http://www.orpha.net/ORDO/Orphanet_581332) |
+| IUPHAR:5316 |        1 | [http://www.orpha.net/ORDO/Orphanet_583333](http://www.orpha.net/ORDO/Orphanet_583333) |
 | IUPHAR:2712 |        1 | [http://www.orpha.net/ORDO/Orphanet_586292](http://www.orpha.net/ORDO/Orphanet_586292) |
 | IUPHAR:2701 |        1 | [http://www.orpha.net/ORDO/Orphanet_596992](http://www.orpha.net/ORDO/Orphanet_596992) |
 | IUPHAR:1103 |        1 | [http://www.orpha.net/ORDO/Orphanet_599916](http://www.orpha.net/ORDO/Orphanet_599916) |
@@ -1011,4 +1015,6 @@
 | IUPHAR:2016 |        1 | [http://www.orpha.net/ORDO/Orphanet_609793](http://www.orpha.net/ORDO/Orphanet_609793) |
 | IUPHAR:295  |        1 | [http://www.orpha.net/ORDO/Orphanet_609955](http://www.orpha.net/ORDO/Orphanet_609955) |
 | IUPHAR:705  |        1 | [http://www.orpha.net/ORDO/Orphanet_610576](http://www.orpha.net/ORDO/Orphanet_610576) |
+| IUPHAR:537  |        1 | [http://www.orpha.net/ORDO/Orphanet_613332](http://www.orpha.net/ORDO/Orphanet_613332) |
+| IUPHAR:702  |        1 | [http://www.orpha.net/ORDO/Orphanet_617906](http://www.orpha.net/ORDO/Orphanet_617906) |
 

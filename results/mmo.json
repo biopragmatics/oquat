@@ -1407,6 +1407,7 @@
         }
       }
     },
+    "version": "2.39",
     "version_iri": "http://purl.obolibrary.org/obo/mmo/2.39/mmo.owl",
     "xref_pack": {
       "invalid_luids": {

@@ -15,6 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "bfo",
     "version_iri": "http://purl.obolibrary.org/obo/bfo/classes-only.owl",
     "xref_pack": {
       "invalid_luids": {},
@@ -65,6 +66,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2017-03-24",
     "version_iri": "http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl",
     "xref_pack": {
       "invalid_luids": {},

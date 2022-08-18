@@ -2,8 +2,16 @@
 
 This page summarize the different resources that reference `ncbitaxon`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 2 resources,
-1 variants on the standard prefix were found: ['NCBITaxon'].
+`^\d+$`. Of the 3 resources,
+2 variants on the standard prefix were found: ['NCBITaxon', 'taxon'].
+
+## `fbsp`: Fly taxonomy
+
+Identifiers for this prefix are given incorrectly in `fbsp`.
+
+| external_xref   |   usages_count | usages                                                        |
+|-----------------|----------------|---------------------------------------------------------------|
+| `taxon: 10376`  |              1 | [FBsp:00001933](http://purl.obolibrary.org/obo/FBsp_00001933) |
 
 ## `taxrank`: Taxonomic rank vocabulary
 

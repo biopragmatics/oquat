@@ -1,6 +1,6 @@
 {
-  "http://purl.obolibrary.org/obo/ecto.json": {
-    "graph_id": "http://purl.obolibrary.org/obo/ecto.json",
+  "http://purl.obolibrary.org/obo/ecto.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/ecto.owl",
     "prov_pack": {
       "invalid_luids": {},
       "label": "Provenance Xrefs",
@@ -15,8 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2022-05-12",
-    "version_iri": "http://purl.obolibrary.org/obo/ecto/releases/2022-05-12/ecto.json",
+    "version": "2022-08-12",
+    "version_iri": "http://purl.obolibrary.org/obo/ecto/releases/2022-08-12/ecto.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

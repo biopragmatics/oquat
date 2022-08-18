@@ -21663,6 +21663,7 @@
       },
       "unknown_prefixes": {}
     },
+    "version": "2022-06-13",
     "version_iri": "http://purl.obolibrary.org/obo/wbbt/releases/2022-06-13/wbbt.owl",
     "xref_pack": {
       "invalid_luids": {

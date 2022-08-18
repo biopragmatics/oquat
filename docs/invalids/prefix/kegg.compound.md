@@ -2,16 +2,8 @@
 
 This page summarize the different resources that reference `kegg.compound`
 but use local unique identifiers that do not match the standard pattern of
-`^C\d+$`. Of the 3 resources,
+`^C\d+$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['KEGG COMPOUND'].
-
-## `covid19`: COVID-19 Ontology
-
-Identifiers for this prefix are given incorrectly in `covid19`.
-
-| external_xref           |   usages_count | usages                                                    |
-|-------------------------|----------------|-----------------------------------------------------------|
-| `KEGG COMPOUND:53-86-1` |              1 | [CHEBI:49662](http://purl.obolibrary.org/obo/CHEBI_49662) |
 
 ## `dto`: Drug Target Ontology
 

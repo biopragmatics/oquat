@@ -51,16 +51,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |------------------------------|----------|---------------------------------------------------------------|
 | NIF:Subcellular:sao205380252 |        1 | [PLANA:0000470](http://purl.obolibrary.org/obo/PLANA_0000470) |
 
-## `NIF_Subcellular`
-
-There are 1 usages of `NIF_Subcellular` in `plana`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Subcellular).
-
-| curie                         |   usages | nodes                                                         |
-|-------------------------------|----------|---------------------------------------------------------------|
-| NIF_Subcellular:sao1397492660 |        1 | [PLANA:0001005](http://purl.obolibrary.org/obo/PLANA_0001005) |
-
 ## `Optic`
 
 There are 1 usages of `Optic` in `plana`.

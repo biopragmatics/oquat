@@ -12838,9 +12838,6 @@
           "PomBase:mah",
           "PomBase:vw"
         ],
-        "http://purl.obolibrary.org/obo/FYPO_0004309": [
-          "PomBase:mah"
-        ],
         "http://purl.obolibrary.org/obo/FYPO_0004310": [
           "PomBase:mah"
         ],
@@ -13734,7 +13731,7 @@
           "PomBase:mah"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0004605": [
-          "PomBase:mah"
+          "PomBase:mlr"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0004606": [
           "PomBase:mah"
@@ -23751,6 +23748,72 @@
         ],
         "http://purl.obolibrary.org/obo/FYPO_0007980": [
           "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007981": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007982": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007983": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007984": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007985": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007986": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007987": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007988": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007989": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007990": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007991": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007992": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007993": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007994": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007995": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007996": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007997": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007998": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0007999": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0008002": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0008003": [
+          "PomBase:mlr"
+        ],
+        "http://purl.obolibrary.org/obo/FYPO_0008004": [
+          "PomBase:mlr"
         ]
       },
       "label": "Provenance Xrefs",
@@ -30345,7 +30408,8 @@
         ],
         "http://purl.obolibrary.org/obo/FYPO_0002061": [
           "PomBase:al",
-          "PomBase:mah"
+          "PomBase:mah",
+          "PomBase:mlr"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0002064": [
           "PomBase:mah"
@@ -35626,6 +35690,7 @@
         ],
         "http://purl.obolibrary.org/obo/FYPO_0003787": [
           "PomBase:mah",
+          "PomBase:mlr",
           "PomBase:vw"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0003788": [
@@ -37171,9 +37236,6 @@
         "http://purl.obolibrary.org/obo/FYPO_0004308": [
           "PomBase:mah",
           "PomBase:vw"
-        ],
-        "http://purl.obolibrary.org/obo/FYPO_0004309": [
-          "PomBase:mah"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0004310": [
           "PomBase:mah"
@@ -44404,7 +44466,8 @@
           "PomBase:mah"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0006606": [
-          "PomBase:mah"
+          "PomBase:mah",
+          "PomBase:mlr"
         ],
         "http://purl.obolibrary.org/obo/FYPO_0006607": [
           "PomBase:mah"
@@ -48447,8 +48510,8 @@
         }
       }
     },
-    "version": "2022-06-20",
-    "version_iri": "http://purl.obolibrary.org/obo/fypo/releases/2022-06-20/fypo.owl",
+    "version": "2022-07-14",
+    "version_iri": "http://purl.obolibrary.org/obo/fypo/releases/2022-07-14/fypo.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/FYPO_0007909": [

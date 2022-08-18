@@ -23,6 +23,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2016-10-06",
     "version_iri": "http://purl.obolibrary.org/obo/poro/releases/2016-10-06/poro.owl",
     "xref_pack": {
       "invalid_luids": {},

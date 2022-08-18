@@ -57,6 +57,9 @@
         "http://purl.obolibrary.org/obo/UBERON_0000325": [
           "MGI:anna"
         ],
+        "http://purl.obolibrary.org/obo/UBERON_0000349": [
+          "BIRNLEX:Limbic_system"
+        ],
         "http://purl.obolibrary.org/obo/UBERON_0000362": [
           "MGI:smb"
         ],
@@ -1826,6 +1829,9 @@
         ],
         "http://purl.obolibrary.org/obo/UBERON_0011893": [
           "MGI:llw2"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0011917": [
+          "NIF_Subcellular:nlx_subcell_20090504"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0011924": [
           "MESH:A08.663.542.100"
@@ -6795,6 +6801,9 @@
           "http://purl.obolibrary.org/obo/UBERON_0002104": "NIFSTD:FMAID_7191",
           "http://purl.obolibrary.org/obo/UBERON_0035015": "NIFSTD:oen_0001107"
         },
+        "NIF_Subcellular": {
+          "http://purl.obolibrary.org/obo/UBERON_0011917": "NIF_Subcellular:nlx_subcell_20090504"
+        },
         "NLX": {
           "http://purl.obolibrary.org/obo/UBERON_0000125": "NLX:28443",
           "http://purl.obolibrary.org/obo/UBERON_0000126": "NLX:28532",
@@ -7442,9 +7451,6 @@
         },
         "NCBI": {
           "http://purl.obolibrary.org/obo/UBERON_0001471": "NCBI:matt"
-        },
-        "NIF_Subcellular": {
-          "http://purl.obolibrary.org/obo/UBERON_0011917": "NIF_Subcellular:nlx_subcell_20090504"
         },
         "OBOL": {
           "http://purl.obolibrary.org/obo/UBERON_0000031": "OBOL:automatic",
@@ -10302,6 +10308,9 @@
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001035": [
           "FMA:TA"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001047": [
+          "NIF_Subcellular:sao587858733"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001054": [
           "UBERON:cjm"
@@ -15121,6 +15130,9 @@
           "http://purl.obolibrary.org/obo/UBERON_0035015": "NIFSTD:oen_0001107",
           "http://purl.obolibrary.org/obo/UBERON_8440010": "NIFSTD:SumsDB_abbrevSource"
         },
+        "NIF_Subcellular": {
+          "http://purl.obolibrary.org/obo/UBERON_0001047": "NIF_Subcellular:sao587858733"
+        },
         "NLX": {
           "http://purl.obolibrary.org/obo/UBERON_0000125": "NLX:28443",
           "http://purl.obolibrary.org/obo/UBERON_0000935": "NLX:144088",
@@ -15599,9 +15611,6 @@
           "http://purl.obolibrary.org/obo/UBERON_0009631": "NIF:NIF",
           "http://purl.obolibrary.org/obo/UBERON_0009632": "NIF:NIF",
           "http://purl.obolibrary.org/obo/UBERON_0009633": "NIF:NIF"
-        },
-        "NIF_Subcellular": {
-          "http://purl.obolibrary.org/obo/UBERON_0001047": "NIF_Subcellular:sao587858733"
         },
         "NominaAnatomica": {
           "http://purl.obolibrary.org/obo/UBERON_0010356": "NominaAnatomica:NA",
@@ -16739,8 +16748,8 @@
         }
       }
     },
-    "version": "2022-06-20",
-    "version_iri": "http://purl.obolibrary.org/obo/uberon/releases/2022-06-20/uberon.owl",
+    "version": "2022-06-30",
+    "version_iri": "http://purl.obolibrary.org/obo/uberon/releases/2022-06-30/uberon.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/UBERON_0000104": [
@@ -16755,14 +16764,23 @@
         "http://purl.obolibrary.org/obo/UBERON_0000177": [
           "ncithesaurus:Pus"
         ],
+        "http://purl.obolibrary.org/obo/UBERON_0000201": [
+          "NIF_Subcellular:nlx_subcell_100205"
+        ],
         "http://purl.obolibrary.org/obo/UBERON_0000220": [
           "ncithesaurus:Atlanto-occipital_Joint-Atlanto"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0000345": [
           "ncithesaurus:Myelin"
         ],
+        "http://purl.obolibrary.org/obo/UBERON_0000396": [
+          "BIRNLEX:4106_2"
+        ],
         "http://purl.obolibrary.org/obo/UBERON_0000468": [
           "ncithesaurus:Whole_Organism"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000482": [
+          "NIF_Subcellular:sao1397492660"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001007": [
           "ncithesaurus:Digestive_System"
@@ -16770,8 +16788,14 @@
         "http://purl.obolibrary.org/obo/UBERON_0001013": [
           "AEO:000020"
         ],
+        "http://purl.obolibrary.org/obo/UBERON_0001047": [
+          "NIF_Subcellular:sao587858733"
+        ],
         "http://purl.obolibrary.org/obo/UBERON_0001087": [
           "ncithesaurus:Pleural_Fluid"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001130": [
+          "NIF_Subcellular:sao1145756102"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001133": [
           "ncithesaurus:Heart_Muscle"
@@ -16803,6 +16827,9 @@
         "http://purl.obolibrary.org/obo/UBERON_0002435": [
           "ncithesaurus:Striatum"
         ],
+        "http://purl.obolibrary.org/obo/UBERON_0002606": [
+          "NIF_Subcellular:sao205380252"
+        ],
         "http://purl.obolibrary.org/obo/UBERON_0002695": [
           "ncithesaurus:Parieto-occipital_Sulcus"
         ],
@@ -16830,8 +16857,14 @@
         "http://purl.obolibrary.org/obo/UBERON_0003705": [
           "ncithesaurus:Meckel_Diverticulum"
         ],
+        "http://purl.obolibrary.org/obo/UBERON_0003719": [
+          "NIF_Subcellular:FMA_83604"
+        ],
         "http://purl.obolibrary.org/obo/UBERON_0004703": [
           "ncithesaurus:Dorsal_Thalamus"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0005387": [
+          "NIF_Subcellular:nlx_subcell_20090503"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0005475": [
           "ncithesaurus:Sigmoid_Sinus"
@@ -16868,6 +16901,21 @@
         ],
         "http://purl.obolibrary.org/obo/UBERON_0009098": [
           "ncithesaurus:Gravid_Uterus"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0011860": [
+          "NIF_Subcellular:sao7547390221"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0011915": [
+          "NIF_Subcellular:nlx_subcell_20090502"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0011917": [
+          "NIF_Subcellular:nlx_subcell_20090504"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0012456": [
+          "NIF_Subcellular:FMA_83606"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0018687": [
+          "NIF_Subcellular:nlx_subcell_100209"
         ]
       },
       "label": "Node Xrefs",
@@ -16914,6 +16962,20 @@
         },
         "FMA_RETIRED": {
           "http://purl.obolibrary.org/obo/UBERON_0002001": "FMA_RETIRED:64994"
+        },
+        "NIF_Subcellular": {
+          "http://purl.obolibrary.org/obo/UBERON_0000201": "NIF_Subcellular:nlx_subcell_100205",
+          "http://purl.obolibrary.org/obo/UBERON_0000482": "NIF_Subcellular:sao1397492660",
+          "http://purl.obolibrary.org/obo/UBERON_0001047": "NIF_Subcellular:sao587858733",
+          "http://purl.obolibrary.org/obo/UBERON_0001130": "NIF_Subcellular:sao1145756102",
+          "http://purl.obolibrary.org/obo/UBERON_0002606": "NIF_Subcellular:sao205380252",
+          "http://purl.obolibrary.org/obo/UBERON_0003719": "NIF_Subcellular:FMA_83604",
+          "http://purl.obolibrary.org/obo/UBERON_0005387": "NIF_Subcellular:nlx_subcell_20090503",
+          "http://purl.obolibrary.org/obo/UBERON_0011860": "NIF_Subcellular:sao7547390221",
+          "http://purl.obolibrary.org/obo/UBERON_0011915": "NIF_Subcellular:nlx_subcell_20090502",
+          "http://purl.obolibrary.org/obo/UBERON_0011917": "NIF_Subcellular:nlx_subcell_20090504",
+          "http://purl.obolibrary.org/obo/UBERON_0012456": "NIF_Subcellular:FMA_83606",
+          "http://purl.obolibrary.org/obo/UBERON_0018687": "NIF_Subcellular:nlx_subcell_100209"
         },
         "NLX": {
           "http://purl.obolibrary.org/obo/UBERON_0000122": "NLX:147821",
@@ -18555,20 +18617,6 @@
         "NIF_Organism": {
           "http://purl.obolibrary.org/obo/UBERON_0007221": "NIF_Organism:birnlex_695",
           "http://purl.obolibrary.org/obo/UBERON_0007222": "NIF_Organism:birnlex_691"
-        },
-        "NIF_Subcellular": {
-          "http://purl.obolibrary.org/obo/UBERON_0000201": "NIF_Subcellular:nlx_subcell_100205",
-          "http://purl.obolibrary.org/obo/UBERON_0000482": "NIF_Subcellular:sao1397492660",
-          "http://purl.obolibrary.org/obo/UBERON_0001047": "NIF_Subcellular:sao587858733",
-          "http://purl.obolibrary.org/obo/UBERON_0001130": "NIF_Subcellular:sao1145756102",
-          "http://purl.obolibrary.org/obo/UBERON_0002606": "NIF_Subcellular:sao205380252",
-          "http://purl.obolibrary.org/obo/UBERON_0003719": "NIF_Subcellular:FMA_83604",
-          "http://purl.obolibrary.org/obo/UBERON_0005387": "NIF_Subcellular:nlx_subcell_20090503",
-          "http://purl.obolibrary.org/obo/UBERON_0011860": "NIF_Subcellular:sao7547390221",
-          "http://purl.obolibrary.org/obo/UBERON_0011915": "NIF_Subcellular:nlx_subcell_20090502",
-          "http://purl.obolibrary.org/obo/UBERON_0011917": "NIF_Subcellular:nlx_subcell_20090504",
-          "http://purl.obolibrary.org/obo/UBERON_0012456": "NIF_Subcellular:FMA_83606",
-          "http://purl.obolibrary.org/obo/UBERON_0018687": "NIF_Subcellular:nlx_subcell_100209"
         },
         "NOID": {
           "http://purl.obolibrary.org/obo/UBERON_0018367": "NOID:1",

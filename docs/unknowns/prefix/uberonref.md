@@ -9,6 +9,18 @@
 | UBERONREF:0000007 |        5 | [UBERON:0003111](http://purl.obolibrary.org/obo/UBERON_0003111), [UBERON:0003113](http://purl.obolibrary.org/obo/UBERON_0003113), [UBERON:0005902](http://purl.obolibrary.org/obo/UBERON_0005902), [UBERON:0008895](http://purl.obolibrary.org/obo/UBERON_0008895), [UBERON:0011241](http://purl.obolibrary.org/obo/UBERON_0011241), ... |
 | UBERONREF:0000001 |        3 | [UBERON:0007499](http://purl.obolibrary.org/obo/UBERON_0007499), [UBERON:0007500](http://purl.obolibrary.org/obo/UBERON_0007500), [UBERON:0007501](http://purl.obolibrary.org/obo/UBERON_0007501)                                                                                                                                        |
 
+## tao
+
+| curie             |   usages | nodes                                                   |
+|-------------------|----------|---------------------------------------------------------|
+| UBERONREF:0000002 |        1 | [CL:0007004](http://purl.obolibrary.org/obo/CL_0007004) |
+
+## vsao
+
+| curie             |   usages | nodes                                                   |
+|-------------------|----------|---------------------------------------------------------|
+| UBERONREF:0000002 |        1 | [CL:0007004](http://purl.obolibrary.org/obo/CL_0007004) |
+
 ## cl
 
 | curie             |   usages | nodes                                                   |

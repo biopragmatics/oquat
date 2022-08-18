@@ -571,26 +571,6 @@
 | OpenCyc:Mx4rvViwtJwpEbGdrcN5Y29ycA                                                                             |        1 | [UBERON:0016490](http://purl.obolibrary.org/obo/UBERON_0016490)                                                                  |
 | OpenCyc:Mx4rv3OJ8JwpEbGdrcN5Y29ycA                                                                             |        1 | [UBERON:0016525](http://purl.obolibrary.org/obo/UBERON_0016525)                                                                  |
 
-## covid19
-
-| curie                              |   usages | nodes                                                           |
-|------------------------------------|----------|-----------------------------------------------------------------|
-| OpenCyc:Mx4rvViCbJwpEbGdrcN5Y29ycA |        1 | [UBERON:0000004](http://purl.obolibrary.org/obo/UBERON_0000004) |
-| OpenCyc:Mx4rv5XMb5wpEbGdrcN5Y29ycA |        1 | [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) |
-| OpenCyc:Mx4rCWM0QCtDEdyAAADggVbxzQ |        1 | [UBERON:0000467](http://purl.obolibrary.org/obo/UBERON_0000467) |
-| OpenCyc:Mx4rvViAHJwpEbGdrcN5Y29ycA |        1 | [UBERON:0000475](http://purl.obolibrary.org/obo/UBERON_0000475) |
-| OpenCyc:Mx4rvVjHq5wpEbGdrcN5Y29ycA |        1 | [UBERON:0000912](http://purl.obolibrary.org/obo/UBERON_0000912) |
-| OpenCyc:Mx4rvVjvDpwpEbGdrcN5Y29ycA |        1 | [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) |
-| OpenCyc:Mx4rvVjT65wpEbGdrcN5Y29ycA |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
-| OpenCyc:Mx4rvViTvpwpEbGdrcN5Y29ycA |        1 | [UBERON:0000970](http://purl.obolibrary.org/obo/UBERON_0000970) |
-| OpenCyc:Mx4rvVjzFJwpEbGdrcN5Y29ycA |        1 | [UBERON:0001004](http://purl.obolibrary.org/obo/UBERON_0001004) |
-| OpenCyc:Mx4rvVjxlpwpEbGdrcN5Y29ycA |        1 | [UBERON:0001981](http://purl.obolibrary.org/obo/UBERON_0001981) |
-| OpenCyc:Mx4rvVjKy5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
-| OpenCyc:Mx4rvVimppwpEbGdrcN5Y29ycA |        1 | [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) |
-| OpenCyc:Mx4rvVjlYpwpEbGdrcN5Y29ycA |        1 | [UBERON:0002113](http://purl.obolibrary.org/obo/UBERON_0002113) |
-| OpenCyc:Mx4rvbkiRZwpEbGdrcN5Y29ycA |        1 | [UBERON:0002368](http://purl.obolibrary.org/obo/UBERON_0002368) |
-| OpenCyc:Mx4rwP3vyJwpEbGdrcN5Y29ycA |        1 | [UBERON:0002530](http://purl.obolibrary.org/obo/UBERON_0002530) |
-
 ## icdo
 
 | curie                                                          |   usages | nodes                                                                                                                            |

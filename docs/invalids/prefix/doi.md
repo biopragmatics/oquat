@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `doi`
 but use local unique identifiers that do not match the standard pattern of
-`^(doi\:)?\d{2}\.\d{4}.*$`. Of the 3 resources,
+`^(doi\:)?\d{2}\.\d{4}.*$`. Of the 4 resources,
 2 variants on the standard prefix were found: ['DOI', 'doi'].
 
 ## `cl`: Cell Ontology
@@ -16,6 +16,14 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 ## `efo`: Experimental Factor Ontology
 
 Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
+
+| external_xref            |   usages_count | usages                                              |
+|--------------------------|----------------|-----------------------------------------------------|
+| `doi: 10.1111/nmo.12871` |              1 | [EFO:0011032](http://www.ebi.ac.uk/efo/EFO_0011032) |
+
+## `enm`: eNanoMapper Ontology
+
+Identifiers for this prefix are given incorrectly in `enm`.
 
 | external_xref            |   usages_count | usages                                              |
 |--------------------------|----------------|-----------------------------------------------------|

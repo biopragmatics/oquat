@@ -15,8 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2021-07-14",
-    "version_iri": "http://purl.obolibrary.org/obo/phipo/releases/2021-07-14/phipo.owl",
+    "version": "2022-07-29",
+    "version_iri": "http://purl.obolibrary.org/obo/phipo/releases/2022-07-29/phipo.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

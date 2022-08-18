@@ -15,12 +15,17 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2013-06-21",
     "version_iri": "http://purl.obolibrary.org/obo/epo/2013-06-21/epo.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {},
+      "noncanonical_prefixes": {
+        "UMLS_CUI": {
+          "http://purl.obolibrary.org/obo/TRANS_0000000": "UMLS_CUI:C0242781"
+        }
+      },
       "unknown_prefixes": {}
     }
   },

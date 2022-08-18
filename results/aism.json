@@ -1,6 +1,6 @@
 {
-  "http://purl.obolibrary.org/obo/aism.json": {
-    "graph_id": "http://purl.obolibrary.org/obo/aism.json",
+  "http://purl.obolibrary.org/obo/aism.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/aism.owl",
     "prov_pack": {
       "invalid_luids": {},
       "label": "Provenance Xrefs",
@@ -15,8 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2022-06-18",
-    "version_iri": "http://purl.obolibrary.org/obo/aism/releases/2022-06-18/aism.json",
+    "version": "2022-06-27",
+    "version_iri": "http://purl.obolibrary.org/obo/aism/releases/2022-06-27/aism.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `pubmed`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 22 resources,
+`^\d+$`. Of the 25 resources,
 4 variants on the standard prefix were found: ['Medline', 'PMID', 'PubMed', 'Pubmed'].
 
 ## `bto`: BRENDA tissue / enzyme source
@@ -49,15 +49,28 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `PMID:25167691 `  |              1 | [EFO:0010695](http://www.ebi.ac.uk/efo/EFO_0010695) |
 | `PMID: 32355309`  |              1 | [EFO:0010749](http://www.ebi.ac.uk/efo/EFO_0010749) |
 
+## `ehdaa2`: Human developmental anatomy, abstract
+
+Identifiers for this prefix are given incorrectly in `ehdaa2`. See the [GitHub repository](https://github.com/obophenotype/human-developmental-anatomy-ontology).
+
+| external_xref    |   usages_count | usages                                                  |
+|------------------|----------------|---------------------------------------------------------|
+| `PMID:10102814j` |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
+| `PMID:_17986482` |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
+| `PMID:_19960544` |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
+
 ## `enm`: eNanoMapper Ontology
 
 Identifiers for this prefix are given incorrectly in `enm`.
 
-| external_xref    |   usages_count | usages                                              |
-|------------------|----------------|-----------------------------------------------------|
-| `PMID:27149984 ` |              1 | [EFO:0007836](http://www.ebi.ac.uk/efo/EFO_0007836) |
-| `PMID: 31636452` |              1 | [EFO:0010605](http://www.ebi.ac.uk/efo/EFO_0010605) |
-| `PMID: 32355309` |              1 | [EFO:0010749](http://www.ebi.ac.uk/efo/EFO_0010749) |
+| external_xref     |   usages_count | usages                                              |
+|-------------------|----------------|-----------------------------------------------------|
+| `PMID:PMC1531688` |              1 | [EFO:0005725](http://www.ebi.ac.uk/efo/EFO_0005725) |
+| `PMID: 3897439`   |              1 | [EFO:0005910](http://www.ebi.ac.uk/efo/EFO_0005910) |
+| `PMID: 8788275`   |              1 | [EFO:0005913](http://www.ebi.ac.uk/efo/EFO_0005913) |
+| `PMID:27149984 `  |              1 | [EFO:0007836](http://www.ebi.ac.uk/efo/EFO_0007836) |
+| `PMID: 31636452`  |              1 | [EFO:0010605](http://www.ebi.ac.uk/efo/EFO_0010605) |
+| `PMID: 32355309`  |              1 | [EFO:0010749](http://www.ebi.ac.uk/efo/EFO_0010749) |
 
 ## `fypo`: Fission Yeast Phenotype Ontology
 
@@ -159,15 +172,6 @@ Identifiers for this prefix are given incorrectly in `plana`. See the [GitHub re
 | `PMID: 29674433` |              1 | [PLANA:0003804](http://purl.obolibrary.org/obo/PLANA_0003804)                                                                |
 | `PMID: 22074376` |              1 | [PLANA:0002042](http://purl.obolibrary.org/obo/PLANA_0002042)                                                                |
 
-## `pr`: Protein Ontology
-
-Identifiers for this prefix are given incorrectly in `pr`. See the [GitHub repository](https://github.com/PROconsortium/PRoteinOntology).
-
-| external_xref               |   usages_count | usages                                                      |
-|-----------------------------|----------------|-------------------------------------------------------------|
-| `PMID:23842676PMID:8910387` |              1 | [PR:000049964](http://purl.obolibrary.org/obo/PR_000049964) |
-| `PMID:29593216P`            |              1 | [PR:000050233](http://purl.obolibrary.org/obo/PR_000050233) |
-
 ## `pw`: Pathway ontology
 
 Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
@@ -212,6 +216,14 @@ Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repos
 | `PMID: 16236432`              |              1 | [SO:0002350](http://purl.obolibrary.org/obo/SO_0002350)                                                                                                                                                                                                                                     |
 | `PMID: 17608616`              |              1 | [SO:0002350](http://purl.obolibrary.org/obo/SO_0002350)                                                                                                                                                                                                                                     |
 
+## `tao`: Teleost Anatomy Ontology
+
+Identifiers for this prefix are given incorrectly in `tao`.
+
+| external_xref    |   usages_count | usages                                                  |
+|------------------|----------------|---------------------------------------------------------|
+| `PMID:10102814j` |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
+
 ## `tgma`: Mosquito gross anatomy ontology
 
 Identifiers for this prefix are given incorrectly in `tgma`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/TGMA).
@@ -243,6 +255,22 @@ Identifiers for this prefix are given incorrectly in `unimod`.
 | `PMID:https://pubmed.ncbi.nlm.nih.gov/32886756/`                                 |              1 | [UNIMOD:2022](http://purl.obolibrary.org/obo/UNIMOD_2022)                                                                                                                                                                                  |
 | `PMID:https://pubmed.ncbi.nlm.nih.gov/8829804/`                                  |              1 | [UNIMOD:2040](http://purl.obolibrary.org/obo/UNIMOD_2040)                                                                                                                                                                                  |
 | `PMID:http://www.ncbi.nlm.nih.gov/pubmed/14670044?dopt=AbstractPlus`             |              1 | [UNIMOD:986](http://purl.obolibrary.org/obo/UNIMOD_986)                                                                                                                                                                                    |
+
+## `upa`: Unipathway
+
+Identifiers for this prefix are given incorrectly in `upa`. See the [GitHub repository](https://github.com/geneontology/unipathway).
+
+| external_xref            |   usages_count | usages                                                      |
+|--------------------------|----------------|-------------------------------------------------------------|
+| `PMID:SBN:0-13-144329-1` |              1 | [UPa:UPA00219](http://purl.obolibrary.org/obo/UPa_UPA00219) |
+
+## `vsao`: Vertebrate Skeletal Anatomy Ontology
+
+Identifiers for this prefix are given incorrectly in `vsao`.
+
+| external_xref    |   usages_count | usages                                                  |
+|------------------|----------------|---------------------------------------------------------|
+| `PMID:10102814j` |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
 
 ## `vt`: Vertebrate trait ontology
 

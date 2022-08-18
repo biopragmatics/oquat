@@ -1,5 +1,15 @@
 # miro
 
+## `GOC`
+
+There are 1 usages of `GOC` in `miro`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
+
+| curie   |   usages | nodes                                                                                                                                      |
+|---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| GOC:cjm |        2 | [OBO:REL#:has:role](http://purl.obolibrary.org/obo/OBO_REL#_has_role), [OBO:REL:realizes](http://purl.obolibrary.org/obo/OBO_REL_realizes) |
+
 ## `IRAC`
 
 There are 2 usages of `IRAC` in `miro`.

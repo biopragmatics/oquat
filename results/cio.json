@@ -62,6 +62,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2015-03-10",
     "version_iri": "http://purl.obolibrary.org/obo/cio/releases/2015-03-10/cio.owl",
     "xref_pack": {
       "invalid_luids": {},

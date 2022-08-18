@@ -1,6 +1,6 @@
 {
-  "http://purl.obolibrary.org/obo/fbcv.json": {
-    "graph_id": "http://purl.obolibrary.org/obo/fbcv.json",
+  "http://purl.obolibrary.org/obo/fbcv.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/fbcv.owl",
     "prov_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/FBcv_0000002": [
@@ -1022,8 +1022,8 @@
         }
       }
     },
-    "version": "2022-06-09",
-    "version_iri": "http://purl.obolibrary.org/obo/fbcv/releases/2022-06-09/fbcv.json",
+    "version": "2022-08-11",
+    "version_iri": "http://purl.obolibrary.org/obo/fbcv/releases/2022-08-11/fbcv.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

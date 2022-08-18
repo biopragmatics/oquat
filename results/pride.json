@@ -62,30 +62,6 @@
     "graph_id": "http://purl.obolibrary.org/obo/chmo.owl",
     "prov_pack": {
       "invalid_luids": {
-        "http://purl.obolibrary.org/obo/CHMO_0002141": [
-          "FIX:000760"
-        ],
-        "http://purl.obolibrary.org/obo/CHMO_0002142": [
-          "FIX:000762"
-        ],
-        "http://purl.obolibrary.org/obo/CHMO_0002143": [
-          "FIX:000771"
-        ],
-        "http://purl.obolibrary.org/obo/CHMO_0002144": [
-          "FIX:000774"
-        ],
-        "http://purl.obolibrary.org/obo/CHMO_0002374": [
-          "CHEBI:"
-        ],
-        "http://purl.obolibrary.org/obo/CHMO_0002708": [
-          "FIX:00001158"
-        ],
-        "http://purl.obolibrary.org/obo/CHMO_0002709": [
-          "FIX:00001157"
-        ],
-        "http://purl.obolibrary.org/obo/CHMO_0002713": [
-          "FIX:000125"
-        ],
         "http://purl.obolibrary.org/obo/OBCS_0000058": [
           "OBCS:YQH"
         ],
@@ -636,6 +612,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2022-04-19",
     "version_iri": "http://purl.obolibrary.org/obo/chmo/releases/2022-04-19/chmo.owl",
     "xref_pack": {
       "invalid_luids": {},

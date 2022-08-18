@@ -45,52 +45,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | GOC:dos             |        1 | [GO:0042221](http://purl.obolibrary.org/obo/GO_0042221)                                                                                                                                                                                                                                          |
 | GOC:dph             |        1 | [GO:0060560](http://purl.obolibrary.org/obo/GO_0060560)                                                                                                                                                                                                                                          |
 
-## `NIF_Subcellular`
-
-There are 32 usages of `NIF_Subcellular` in `cmpo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Subcellular).
-
-<details>
-<summary>Click to expand the `NIF_Subcellular` table</summary>
-
-| curie                              |   usages | nodes                                                   |
-|------------------------------------|----------|---------------------------------------------------------|
-| NIF_Subcellular:sao1337158144      |        1 | [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) |
-| NIF_Subcellular:sao1813327414      |        1 | [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) |
-| NIF_Subcellular:sao1702920020      |        1 | [GO:0005634](http://purl.obolibrary.org/obo/GO_0005634) |
-| NIF_Subcellular:sao661522542       |        1 | [GO:0005654](http://purl.obolibrary.org/obo/GO_0005654) |
-| NIF_Subcellular:sao1820400233      |        1 | [GO:0005730](http://purl.obolibrary.org/obo/GO_0005730) |
-| NIF_Subcellular:sao1860313010      |        1 | [GO:0005739](http://purl.obolibrary.org/obo/GO_0005739) |
-| NIF_Subcellular:sao1036339110      |        1 | [GO:0005783](http://purl.obolibrary.org/obo/GO_0005783) |
-| NIF_Subcellular:sao451912436       |        1 | [GO:0005794](http://purl.obolibrary.org/obo/GO_0005794) |
-| NIF_Subcellular:sao101633890       |        1 | [GO:0005829](http://purl.obolibrary.org/obo/GO_0005829) |
-| NIF_Subcellular:sao1846835077      |        1 | [GO:0005874](http://purl.obolibrary.org/obo/GO_0005874) |
-| NIF_Subcellular:sao1588493326      |        1 | [GO:0005884](http://purl.obolibrary.org/obo/GO_0005884) |
-| NIF_Subcellular:sao1663586795      |        1 | [GO:0005886](http://purl.obolibrary.org/obo/GO_0005886) |
-| NIF_Subcellular:sao787716553       |        1 | [GO:0005929](http://purl.obolibrary.org/obo/GO_0005929) |
-| NIF_Subcellular:nlx_subcell_090901 |        1 | [GO:0015030](http://purl.obolibrary.org/obo/GO_0015030) |
-| NIF_Subcellular:sao505137457       |        1 | [GO:0016604](http://purl.obolibrary.org/obo/GO_0016604) |
-| NIF_Subcellular:sao1362520468      |        1 | [GO:0030139](http://purl.obolibrary.org/obo/GO_0030139) |
-| NIF_Subcellular:sao-1046371754     |        1 | [GO:0030175](http://purl.obolibrary.org/obo/GO_0030175) |
-| NIF_Subcellular:sao1770195789      |        1 | [GO:0030424](http://purl.obolibrary.org/obo/GO_0030424) |
-| NIF_Subcellular:sao1211023249      |        1 | [GO:0030425](http://purl.obolibrary.org/obo/GO_0030425) |
-| NIF_Subcellular:sao180601769       |        1 | [GO:0031410](http://purl.obolibrary.org/obo/GO_0031410) |
-| NIF_Subcellular:sao221389602       |        1 | [GO:0031982](http://purl.obolibrary.org/obo/GO_0031982) |
-| NIF_Subcellular:sao-867568886      |        1 | [GO:0043005](http://purl.obolibrary.org/obo/GO_0043005) |
-| NIF_Subcellular:sao1539965131      |        1 | [GO:0043226](http://purl.obolibrary.org/obo/GO_0043226) |
-| NIF_Subcellular:sao414196390       |        1 | [GO:0043227](http://purl.obolibrary.org/obo/GO_0043227) |
-| NIF_Subcellular:sao1456184038      |        1 | [GO:0043228](http://purl.obolibrary.org/obo/GO_0043228) |
-| NIF_Subcellular:sao884265541       |        1 | [GO:0044307](http://purl.obolibrary.org/obo/GO_0044307) |
-| NIF_Subcellular:sao1499850686      |        1 | [GO:0044428](http://purl.obolibrary.org/obo/GO_0044428) |
-| NIF_Subcellular:sao666410040       |        1 | [GO:0044429](http://purl.obolibrary.org/obo/GO_0044429) |
-| NIF_Subcellular:sao1635329413      |        1 | [GO:0044430](http://purl.obolibrary.org/obo/GO_0044430) |
-| NIF_Subcellular:sao624292949       |        1 | [GO:0044431](http://purl.obolibrary.org/obo/GO_0044431) |
-| NIF_Subcellular:sao628508602       |        1 | [GO:0044464](http://purl.obolibrary.org/obo/GO_0044464) |
-| NIF_Subcellular:sao1872343973      |        1 | [GO:0097427](http://purl.obolibrary.org/obo/GO_0097427) |
-
-</details>
-
 ## `PATOC`
 
 There are 9 usages of `PATOC` in `cmpo`.

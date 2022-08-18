@@ -15,6 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2021-05-03",
     "version_iri": "http://purl.obolibrary.org/obo/pco/releases/2021-05-03/pco.owl",
     "xref_pack": {
       "invalid_luids": {},

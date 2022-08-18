@@ -4317,6 +4317,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "releases",
     "version_iri": "http://purl.obolibrary.org/obo/bto/releases/2021-10-26",
     "xref_pack": {
       "invalid_luids": {},

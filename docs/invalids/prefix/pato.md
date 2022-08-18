@@ -7,7 +7,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 ## `cmpo`: Cellular Microscopy Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly in `cmpo`.
+Identifiers for this prefix are given incorrectly in `cmpo`. See the [GitHub repository](https://github.com/EBISPOT/CMPO).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                             |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

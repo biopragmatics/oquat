@@ -1837,6 +1837,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2019-10-28",
     "version_iri": "http://purl.obolibrary.org/obo/xlmod/release/2019-10-28/xlmod.owl",
     "xref_pack": {
       "invalid_luids": {},

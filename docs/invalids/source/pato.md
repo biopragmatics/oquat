@@ -114,7 +114,7 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `Wikipedia`: Wikipedia
 
-Overall, there were 96 invalid
+Overall, there were 98 invalid
 xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
 prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
 did not match the standard pattern `^[A-Za-z-0-9_]+$`.
@@ -123,6 +123,7 @@ did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 |--------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `Wikipedia:https://en.wikipedia.org/wiki/Drinking_water`           |              3 | [PATO:0025000](http://purl.obolibrary.org/obo/PATO_0025000), [PATO:0025001](http://purl.obolibrary.org/obo/PATO_0025001), [PATO:0025002](http://purl.obolibrary.org/obo/PATO_0025002) |
 | `Wikipedia:http://en.wikipedia.org/wiki/Osmolarity`                |              2 | [PATO:0001655](http://purl.obolibrary.org/obo/PATO_0001655), [PATO:0002027](http://purl.obolibrary.org/obo/PATO_0002027)                                                              |
+| `Wikipedia:NC_ratio&oldid=931936284`                               |              2 | [PATO:0040071](http://purl.obolibrary.org/obo/PATO_0040071), [PATO:0040072](http://purl.obolibrary.org/obo/PATO_0040072)                                                              |
 | `Wikipedia:http://en.wikipedia.org/wiki/Velocity`                  |              1 | [PATO:0000008](http://purl.obolibrary.org/obo/PATO_0000008)                                                                                                                           |
 | `Wikipedia:http://en.wikipedia.org/wiki/concentration`             |              1 | [PATO:0000033](http://purl.obolibrary.org/obo/PATO_0000033)                                                                                                                           |
 | `Wikipedia:http://en.wikipedia.org/wiki/frequency`                 |              1 | [PATO:0000044](http://purl.obolibrary.org/obo/PATO_0000044)                                                                                                                           |

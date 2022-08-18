@@ -2,8 +2,8 @@
 
 This page summarize the different resources that reference `mesh`
 but use local unique identifiers that do not match the standard pattern of
-`^(C|D)\d{6,9}$`. Of the 19 resources,
-3 variants on the standard prefix were found: ['MESH', 'MSH', 'MeSH'].
+`^(C|D)\d{6,9}$`. Of the 22 resources,
+2 variants on the standard prefix were found: ['MESH', 'MeSH'].
 
 ## `bao`: BioAssay Ontology
 
@@ -30,15 +30,6 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | `MESH:A11.070`             |              1 | [CL:0000568](http://purl.obolibrary.org/obo/CL_0000568) |
 | `MESH:A03.492.766.440.250` |              1 | [CL:0000577](http://purl.obolibrary.org/obo/CL_0000577) |
 | `MESH:A11.329.679`         |              1 | [CL:0000588](http://purl.obolibrary.org/obo/CL_0000588) |
-
-## `covid19`: COVID-19 Ontology
-
-Identifiers for this prefix are given incorrectly in `covid19`.
-
-| external_xref      |   usages_count | usages                                                          |
-|--------------------|----------------|-----------------------------------------------------------------|
-| `MESH:A03.492.411` |              1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
-| `MESH:G06.535.805` |              1 | [UBERON:0018229](http://purl.obolibrary.org/obo/UBERON_0018229) |
 
 ## `dto`: Drug Target Ontology
 
@@ -85,13 +76,38 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `MeSH:Q000633`  |              1 | [EFO:0011061](http://www.ebi.ac.uk/efo/EFO_0011061)                                                                                                           |
 | `MeSH:DO14076`  |              1 | [EFO:1001216](http://www.ebi.ac.uk/efo/EFO_1001216)                                                                                                           |
 
+## `ehdaa2`: Human developmental anatomy, abstract
+
+Identifiers for this prefix are given incorrectly in `ehdaa2`. See the [GitHub repository](https://github.com/obophenotype/human-developmental-anatomy-ontology).
+
+| external_xref       |   usages_count | usages                                                                                                           |
+|---------------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `MESH:A.08.637`     |              2 | [CL:0000125](http://purl.obolibrary.org/obo/CL_0000125), [CL:0000243](http://purl.obolibrary.org/obo/CL_0000243) |
+| `MESH:A.11.872`     |              1 | [CL:0000034](http://purl.obolibrary.org/obo/CL_0000034)                                                          |
+| `MESH:A.11.329.228` |              1 | [CL:0000057](http://purl.obolibrary.org/obo/CL_0000057)                                                          |
+| `MESH:A.11.329.629` |              1 | [CL:0000062](http://purl.obolibrary.org/obo/CL_0000062)                                                          |
+| `MESH:A.11.436`     |              1 | [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066)                                                          |
+| `MESH:A.08.663.358` |              1 | [CL:0000099](http://purl.obolibrary.org/obo/CL_0000099)                                                          |
+| `MESH:A.08.637.200` |              1 | [CL:0000127](http://purl.obolibrary.org/obo/CL_0000127)                                                          |
+| `MESH:A.08.637.600` |              1 | [CL:0000128](http://purl.obolibrary.org/obo/CL_0000128)                                                          |
+| `MESH:A.11.329.114` |              1 | [CL:0000136](http://purl.obolibrary.org/obo/CL_0000136)                                                          |
+| `MESH:A.11.329.171` |              1 | [CL:0000138](http://purl.obolibrary.org/obo/CL_0000138)                                                          |
+| `MESH:A.06.688`     |              1 | [CL:0000165](http://purl.obolibrary.org/obo/CL_0000165)                                                          |
+| `MESH:A.11.620`     |              1 | [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187)                                                          |
+| `MESH:A.11.620.520` |              1 | [CL:0000192](http://purl.obolibrary.org/obo/CL_0000192)                                                          |
+| `MESH:A.11.329.830` |              1 | [CL:0000499](http://purl.obolibrary.org/obo/CL_0000499)                                                          |
+| `MESH:A.08.663.650` |              1 | [CL:0000526](http://purl.obolibrary.org/obo/CL_0000526)                                                          |
+| `MESH:A.08.663.655` |              1 | [CL:0000527](http://purl.obolibrary.org/obo/CL_0000527)                                                          |
+| `MESH:A.08.663`     |              1 | [CL:0000540](http://purl.obolibrary.org/obo/CL_0000540)                                                          |
+| `MESH:A.05.360.490` |              1 | [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586)                                                          |
+
 ## `enm`: eNanoMapper Ontology
 
 Identifiers for this prefix are given incorrectly in `enm`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
-| `MSH:Q000401`   |              1 | [EFO:0004352](http://www.ebi.ac.uk/efo/EFO_0004352) |
+| `MeSH:Q000401`  |              1 | [EFO:0004352](http://www.ebi.ac.uk/efo/EFO_0004352) |
 
 ## `epso`: Epilepsy and Seizure Ontology
 
@@ -152,6 +168,15 @@ Identifiers for this prefix are given incorrectly in `icdo`.
 | `MESH:A03.492.411.620`         |              1 | [UBERON:0002108](http://purl.obolibrary.org/obo/UBERON_0002108) |
 | `MESH:A03.492`                 |              1 | [UBERON:0005409](http://purl.obolibrary.org/obo/UBERON_0005409) |
 | `MESH:A02.835.232.500.247.510` |              1 | [UBERON:0007119](http://purl.obolibrary.org/obo/UBERON_0007119) |
+
+## `idomal`: Malaria Ontology
+
+Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/IDOMAL).
+
+| external_xref                            |   usages_count | usages                                                  |
+|------------------------------------------|----------------|---------------------------------------------------------|
+| `MESH:A.11.118.290`                      |              1 | [CL:0000232](http://purl.obolibrary.org/obo/CL_0000232) |
+| `MESH:A.11.118.637.555.567.569.200.400.` |              1 | [CL:0000492](http://purl.obolibrary.org/obo/CL_0000492) |
 
 ## `mmo`: Measurement method ontology
 
@@ -622,6 +647,19 @@ Identifiers for this prefix are given incorrectly in `ro`. See the [GitHub repos
 | `MeSH:Structural_Homology,_Protein` |              1 | [RO:HOM0000015](http://purl.obolibrary.org/obo/RO_HOM0000015)                                                                |
 | `MeSH:Chromosome_Pairing`           |              1 | [RO:HOM0000047](http://purl.obolibrary.org/obo/RO_HOM0000047)                                                                |
 
+## `tao`: Teleost Anatomy Ontology
+
+Identifiers for this prefix are given incorrectly in `tao`.
+
+| external_xref           |   usages_count | usages                                                  |
+|-------------------------|----------------|---------------------------------------------------------|
+| `MESH:A.11.436.107`     |              1 | [CL:0000059](http://purl.obolibrary.org/obo/CL_0000059) |
+| `MESH:A.11.329.629`     |              1 | [CL:0000062](http://purl.obolibrary.org/obo/CL_0000062) |
+| `MESH:A.11.329.629.500` |              1 | [CL:0000137](http://purl.obolibrary.org/obo/CL_0000137) |
+| `MESH:A.11.329.171`     |              1 | [CL:0000138](http://purl.obolibrary.org/obo/CL_0000138) |
+| `MESH:A.16.254.425.660` |              1 | [CL:0000222](http://purl.obolibrary.org/obo/CL_0000222) |
+| `MESH:A.16.254.600`     |              1 | [CL:0000333](http://purl.obolibrary.org/obo/CL_0000333) |
+
 ## `uberon`: Uber Anatomy Ontology
 
 Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
@@ -774,6 +812,19 @@ Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub r
 | `MESH:A08.800.550.700`                 |              1 | [UBERON:0012451](http://purl.obolibrary.org/obo/UBERON_0012451)                                                                                                                                   |
 | `MESH:A13.970`                         |              1 | [UBERON:0013196](http://purl.obolibrary.org/obo/UBERON_0013196)                                                                                                                                   |
 | `MESH:E05.256`                         |              1 | [UBERON:0013487](http://purl.obolibrary.org/obo/UBERON_0013487)                                                                                                                                   |
+
+## `vsao`: Vertebrate Skeletal Anatomy Ontology
+
+Identifiers for this prefix are given incorrectly in `vsao`.
+
+| external_xref           |   usages_count | usages                                                  |
+|-------------------------|----------------|---------------------------------------------------------|
+| `MESH:A.11.436.107`     |              1 | [CL:0000059](http://purl.obolibrary.org/obo/CL_0000059) |
+| `MESH:A.11.329.629`     |              1 | [CL:0000062](http://purl.obolibrary.org/obo/CL_0000062) |
+| `MESH:A.11.329.629.500` |              1 | [CL:0000137](http://purl.obolibrary.org/obo/CL_0000137) |
+| `MESH:A.11.329.171`     |              1 | [CL:0000138](http://purl.obolibrary.org/obo/CL_0000138) |
+| `MESH:A.16.254.425.660` |              1 | [CL:0000222](http://purl.obolibrary.org/obo/CL_0000222) |
+| `MESH:A.16.254.600`     |              1 | [CL:0000333](http://purl.obolibrary.org/obo/CL_0000333) |
 
 ## `vt`: Vertebrate trait ontology
 

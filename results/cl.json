@@ -629,6 +629,9 @@
           "http://purl.obolibrary.org/obo/CL_0007012": "GO_REF:0000034",
           "http://purl.obolibrary.org/obo/CL_0007013": "GO_REF:0000034"
         },
+        "ILX": {
+          "http://purl.obolibrary.org/obo/CL_4023160": "ILX:0102311"
+        },
         "ISBN-10": {
           "http://purl.obolibrary.org/obo/CL_0007021": "ISBN-10:0412429403"
         },
@@ -705,7 +708,6 @@
           "http://purl.obolibrary.org/obo/CL_0000041": "GOC:tfm",
           "http://purl.obolibrary.org/obo/CL_0000042": "GOC:add",
           "http://purl.obolibrary.org/obo/CL_0000043": "GOC:tfm",
-          "http://purl.obolibrary.org/obo/CL_0000047": "GOC:tfm",
           "http://purl.obolibrary.org/obo/CL_0000048": "GOC:add",
           "http://purl.obolibrary.org/obo/CL_0000049": "GOC:add",
           "http://purl.obolibrary.org/obo/CL_0000050": "GOC:tfm",
@@ -2346,7 +2348,14 @@
           "http://purl.obolibrary.org/obo/CL_4023116": "WikipediaVersioned:Spiral_ganglion&oldid=994446209",
           "http://purl.obolibrary.org/obo/CL_4023124": "WikipediaVersioned:Kisspeptin&oldid=1042853037",
           "http://purl.obolibrary.org/obo/CL_4023125": "WikipediaVersioned:KNDy_neuron&oldid=964682278",
-          "http://purl.obolibrary.org/obo/CL_4023128": "WikipediaVersioned:KNDy_neuron&oldid=964682278"
+          "http://purl.obolibrary.org/obo/CL_4023128": "WikipediaVersioned:KNDy_neuron&oldid=964682278",
+          "http://purl.obolibrary.org/obo/CL_4023158": "WikipediaVersioned:title=Cochlear_nucleus&oldid=1090176664",
+          "http://purl.obolibrary.org/obo/CL_4023160": "WikipediaVersioned:Cartwheel_cell&oldid=1040398094",
+          "http://purl.obolibrary.org/obo/CL_4023161": "WikipediaVersioned:Unipolar_brush_cell&oldid=1045937026",
+          "http://purl.obolibrary.org/obo/CL_4023162": "WikipediaVersioned:Bushy_cell&oldid=879061753",
+          "http://purl.obolibrary.org/obo/CL_4023163": "WikipediaVersioned:Bushy_cell&oldid=879061753",
+          "http://purl.obolibrary.org/obo/CL_4023164": "WikipediaVersioned:Bushy_cell&oldid=879061753",
+          "http://purl.obolibrary.org/obo/CL_4023169": "WikipediaVersioned:Trigeminal_nerve&oldid=1099897926"
         }
       }
     },
@@ -2401,8 +2410,8 @@
         }
       }
     },
-    "version": "2022-06-18",
-    "version_iri": "http://purl.obolibrary.org/obo/cl/releases/2022-06-18/cl.owl",
+    "version": "2022-08-16",
+    "version_iri": "http://purl.obolibrary.org/obo/cl/releases/2022-08-16/cl.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/CL_0000015": [
@@ -2424,7 +2433,8 @@
           "BTO:000125"
         ],
         "http://purl.obolibrary.org/obo/CL_1001571": [
-          "NIFSTD:sao131261273"
+          "NIFSTD:sao131261273",
+          "SAO:sao131261273"
         ]
       },
       "label": "Node Xrefs",
@@ -2455,7 +2465,8 @@
           "http://purl.obolibrary.org/obo/CL_4023101": "ILX:0770161",
           "http://purl.obolibrary.org/obo/CL_4023102": "ILX:0770161",
           "http://purl.obolibrary.org/obo/CL_4023104": "ILX:0770157",
-          "http://purl.obolibrary.org/obo/CL_4023105": "ILX:0770158"
+          "http://purl.obolibrary.org/obo/CL_4023105": "ILX:0770158",
+          "http://purl.obolibrary.org/obo/CL_4023160": "ILX:0102311"
         },
         "NIFEXT": {
           "http://purl.obolibrary.org/obo/CL_1001435": "NIFEXT:122",

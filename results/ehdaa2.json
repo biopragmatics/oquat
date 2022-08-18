@@ -2,19 +2,687 @@
   "http://purl.obolibrary.org/obo/ehdaa2.owl": {
     "graph_id": "http://purl.obolibrary.org/obo/ehdaa2.owl",
     "prov_pack": {
-      "invalid_luids": {},
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/AEO_0000013": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000078": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000079": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000080": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000081": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000082": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000083": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000085": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000086": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000087": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000090": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000091": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000092": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000093": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000094": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000095": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000096": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000097": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000098": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000099": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000100": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000103": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000106": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000108": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000109": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000111": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000114": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000115": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000117": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000118": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000119f": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000122": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000123": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000125": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000126": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000127": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000129": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000131": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000132": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000135": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000136": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000137": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000138": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000140": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000141": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000142": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000143": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000144": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000145": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000146": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000147": [
+          "AEO:JB",
+          "GO:curator"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000148": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000149": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000150": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000151": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000152": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000153": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000154": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000161": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000162": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000168": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000169": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000170": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000171": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000172": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000173": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000174": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000175": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000176": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000177": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000178": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000179": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000180": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000181": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000183": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000185": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000186": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000187": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000188": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000189": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000192": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000193": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000194": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000195": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000196": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000198": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000199": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_000020": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000200": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000201": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000202": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000203": [
+          "AEO.:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000204": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000205": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000206": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000207": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000208": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000209": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000211": [
+          "FBbt:DOS"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000212": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000213": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0000214": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0001007": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0001008": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0001009": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0001010": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0001011": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0001012": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0001013": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0001014": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0001016": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0001017": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0001018": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0001019": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0001020": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/AEO_0001021": [
+          "AEO:JB"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000000": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000003": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000004": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000005": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000006": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000007": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000008": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000009": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000010": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000011": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000013": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000014": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000019": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000021": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000024": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000027": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000028": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000029": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000032": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000040": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000041": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000042": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000043": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000045": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000046": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000048": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000049": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000050": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000054": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000055": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000062": [
+          "CARO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000063": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000064": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000065": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000066": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000067": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000068": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000069": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000070": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000071": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000072": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000073": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000074": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CARO_0000077": [
+          "CARO:MAH"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000000": [
+          "CARO:mah"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000034": [
+          "MESH:A.11.872"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000057": [
+          "MESH:A.11.329.228"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000062": [
+          "MESH:A.11.329.629"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000063": [
+          "FB:ma"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000066": [
+          "FB:ma",
+          "MESH:A.11.436"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000099": [
+          "MESH:A.08.663.358"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000125": [
+          "MESH:A.08.637"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000127": [
+          "MESH:A.08.637.200"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000128": [
+          "MESH:A.08.637.600"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000134": [
+          "FB:ma",
+          "PMID:10102814j",
+          "PMID:_17986482",
+          "PMID:_19960544"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000136": [
+          "MESH:A.11.329.114"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000138": [
+          "MESH:A.11.329.171"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000144": [
+          "FB:ma"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000165": [
+          "MESH:A.06.688"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000187": [
+          "MESH:A.11.620"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000192": [
+          "MESH:A.11.620.520"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000211": [
+          "FB:ma"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000224": [
+          "FB:ma"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000228": [
+          "FB:ma"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000243": [
+          "MESH:A.08.637"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000393": [
+          "FB:ma"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000414": [
+          "FB:ma"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000499": [
+          "MESH:A.11.329.830"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000526": [
+          "MESH:A.08.663.650"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000527": [
+          "MESH:A.08.663.655"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000540": [
+          "MESH:A.08.663"
+        ],
+        "http://purl.obolibrary.org/obo/CL_0000586": [
+          "MESH:A.05.360.490"
+        ]
+      },
       "label": "Provenance Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+      "noncanonical_prefixes": {
+        "AEO.": {
+          "http://purl.obolibrary.org/obo/AEO_0000203": "AEO.:JB"
+        },
+        "FB": {
+          "http://purl.obolibrary.org/obo/CL_0000063": "FB:ma",
+          "http://purl.obolibrary.org/obo/CL_0000066": "FB:ma",
+          "http://purl.obolibrary.org/obo/CL_0000134": "FB:ma",
+          "http://purl.obolibrary.org/obo/CL_0000144": "FB:ma",
+          "http://purl.obolibrary.org/obo/CL_0000211": "FB:ma",
+          "http://purl.obolibrary.org/obo/CL_0000224": "FB:ma",
+          "http://purl.obolibrary.org/obo/CL_0000228": "FB:ma",
+          "http://purl.obolibrary.org/obo/CL_0000393": "FB:ma",
+          "http://purl.obolibrary.org/obo/CL_0000414": "FB:ma"
+        },
+        "GO_REF": {
+          "http://purl.obolibrary.org/obo/CL_0000988": "GO_REF:0000031"
+        },
+        "PMCID": {
+          "http://purl.obolibrary.org/obo/CL_0000134": "PMCID:PMC2613570"
+        }
+      },
+      "unknown_prefixes": {
+        "DBft": {
+          "http://purl.obolibrary.org/obo/AEO_0000210": "DBft:DOS"
+        },
+        "GOC": {
+          "http://purl.obolibrary.org/obo/CL_0000021": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000034": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000039": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000058": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000063": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000066": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000071": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000080": "GOC:add",
+          "http://purl.obolibrary.org/obo/CL_0000081": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000099": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000107": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000126": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000127": "GOC:dsd",
+          "http://purl.obolibrary.org/obo/CL_0000129": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000134": "GOC:dsd",
+          "http://purl.obolibrary.org/obo/CL_0000151": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000188": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000224": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000335": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000414": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000499": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000525": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000526": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000658": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000667": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000670": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000737": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000746": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0000988": "GOC:add",
+          "http://purl.obolibrary.org/obo/CL_0002242": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0002319": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0002320": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0002371": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0002372": "GOC:tfm",
+          "http://purl.obolibrary.org/obo/CL_0002573": "GOC:tfm"
+        },
+        "JB": {
+          "http://purl.obolibrary.org/obo/AEO_0000215": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0000216": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0000217": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0000218": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0000219": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0000220": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0000221": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0000222": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0001000": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0001001": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0001002": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0001003": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0001004": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0001005": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0001006": "JB:AEO",
+          "http://purl.obolibrary.org/obo/AEO_0001015": "JB:AEO",
+          "http://purl.obolibrary.org/obo/CARO_0000012": "JB:DEF"
+        },
+        "SANBI": {
+          "http://purl.obolibrary.org/obo/CL_0000055": "SANBI:mhl"
+        },
+        "VAO": {
+          "http://purl.obolibrary.org/obo/AEO_0000083": "VAO:0000145",
+          "http://purl.obolibrary.org/obo/AEO_0000085": "VAO:0000023",
+          "http://purl.obolibrary.org/obo/AEO_0000086": "VAO:0000137",
+          "http://purl.obolibrary.org/obo/AEO_0000087": "VAO:0000040",
+          "http://purl.obolibrary.org/obo/AEO_0000147": "VAO:0000092",
+          "http://purl.obolibrary.org/obo/AEO_0000168": "VAO:0000027",
+          "http://purl.obolibrary.org/obo/AEO_0001004": "VAO:0000099"
+        }
+      }
     },
     "synonym_pack": {
-      "invalid_luids": {},
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/AEO_0000098": [
+          "AEO:JB"
+        ]
+      },
       "label": "Synonym Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2013-07-04",
     "version_iri": "http://purl.obolibrary.org/obo/ehdaa2/releases/2013-07-04/ehdaa2.owl",
     "xref_pack": {
       "invalid_luids": {},

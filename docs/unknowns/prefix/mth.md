@@ -2,11 +2,9 @@
 
 ## rdo
 
-| curie      |   usages | nodes                                                                                                        |
-|------------|----------|--------------------------------------------------------------------------------------------------------------|
-| MTH:NOCODE |        2 | [DOID:9230](http://purl.obolibrary.org/obo/DOID_9230), [DOID:9250](http://purl.obolibrary.org/obo/DOID_9250) |
-| MTH:646    |        1 | [DOID:2975](http://purl.obolibrary.org/obo/DOID_2975)                                                        |
-| MTH:097    |        1 | [DOID:988](http://purl.obolibrary.org/obo/DOID_988)                                                          |
+| curie   |   usages | nodes                                                 |
+|---------|----------|-------------------------------------------------------|
+| MTH:646 |        1 | [DOID:2975](http://purl.obolibrary.org/obo/DOID_2975) |
 
 ## efo
 

@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `flybase`
 but use local unique identifiers that do not match the standard pattern of
-`^FB\w{2}\d{7}$`. Of the 5 resources,
+`^FB\w{2}\d{7}$`. Of the 8 resources,
 3 variants on the standard prefix were found: ['FB', 'FlyBase', 'Flybase'].
 
 ## `bto`: BRENDA tissue / enzyme source
@@ -23,6 +23,14 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | `Flybase:dsj`   |              1 | [CL:0000362](http://purl.obolibrary.org/obo/CL_0000362)                                                                                                                                                                                                                                          |
 | `FlyBase:ds`    |              1 | [CL:0000463](http://purl.obolibrary.org/obo/CL_0000463)                                                                                                                                                                                                                                          |
 
+## `ehdaa2`: Human developmental anatomy, abstract
+
+Identifiers for this prefix are given incorrectly in `ehdaa2`. See the [GitHub repository](https://github.com/obophenotype/human-developmental-anatomy-ontology).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `FB:ma`         |              9 | [CL:0000063](http://purl.obolibrary.org/obo/CL_0000063), [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066), [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134), [CL:0000144](http://purl.obolibrary.org/obo/CL_0000144), [CL:0000211](http://purl.obolibrary.org/obo/CL_0000211), ... |
+
 ## `so`: Sequence types and features ontology
 
 Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
@@ -37,6 +45,14 @@ Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repos
 | `FB:WG`               |              1 | [SO:0000719](http://purl.obolibrary.org/obo/SO_0000719)                                                                                                                                                                                                                                          |
 | `FB:cds`              |              1 | [SO:0000934](http://purl.obolibrary.org/obo/SO_0000934)                                                                                                                                                                                                                                          |
 
+## `tao`: Teleost Anatomy Ontology
+
+Identifiers for this prefix are given incorrectly in `tao`.
+
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `FB:ma`         |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
+
 ## `uberon`: Uber Anatomy Ontology
 
 Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
@@ -46,6 +62,14 @@ Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub r
 | `FB:gg`                    |              7 | [UBERON:0000018](http://purl.obolibrary.org/obo/UBERON_0000018), [UBERON:0000914](http://purl.obolibrary.org/obo/UBERON_0000914), [UBERON:0000918](http://purl.obolibrary.org/obo/UBERON_0000918), [UBERON:0000972](http://purl.obolibrary.org/obo/UBERON_0000972), [UBERON:0000984](http://purl.obolibrary.org/obo/UBERON_0000984), ... |
 | `FB:DJS`                   |              1 | [UBERON:0001048](http://purl.obolibrary.org/obo/UBERON_0001048)                                                                                                                                                                                                                                                                          |
 | `FlyBase:FBim0000836.html` |              1 | [UBERON:6004646](http://purl.obolibrary.org/obo/UBERON_6004646)                                                                                                                                                                                                                                                                          |
+
+## `vsao`: Vertebrate Skeletal Anatomy Ontology
+
+Identifiers for this prefix are given incorrectly in `vsao`.
+
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `FB:ma`         |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
 
 ## `zfa`: Zebrafish anatomy and development ontology
 

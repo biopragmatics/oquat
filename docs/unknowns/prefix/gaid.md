@@ -809,27 +809,6 @@
 | GAID:929     |        1 | [UBERON:0011818](http://purl.obolibrary.org/obo/UBERON_0011818)                                                                  |
 | GAID:141     |        1 | [UBERON:0014892](http://purl.obolibrary.org/obo/UBERON_0014892)                                                                  |
 
-## covid19
-
-| curie     |   usages | nodes                                                           |
-|-----------|----------|-----------------------------------------------------------------|
-| GAID:77   |        1 | [UBERON:0000004](http://purl.obolibrary.org/obo/UBERON_0000004) |
-| GAID:63   |        1 | [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020) |
-| GAID:781  |        1 | [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) |
-| GAID:295  |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
-| GAID:1164 |        1 | [UBERON:0000912](http://purl.obolibrary.org/obo/UBERON_0000912) |
-| GAID:174  |        1 | [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) |
-| GAID:571  |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
-| GAID:69   |        1 | [UBERON:0000970](http://purl.obolibrary.org/obo/UBERON_0000970) |
-| GAID:78   |        1 | [UBERON:0001004](http://purl.obolibrary.org/obo/UBERON_0001004) |
-| GAID:169  |        1 | [UBERON:0001981](http://purl.obolibrary.org/obo/UBERON_0001981) |
-| GAID:345  |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
-| GAID:288  |        1 | [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) |
-| GAID:423  |        1 | [UBERON:0002113](http://purl.obolibrary.org/obo/UBERON_0002113) |
-| GAID:34   |        1 | [UBERON:0002365](http://purl.obolibrary.org/obo/UBERON_0002365) |
-| GAID:335  |        1 | [UBERON:0002368](http://purl.obolibrary.org/obo/UBERON_0002368) |
-| GAID:266  |        1 | [UBERON:0006314](http://purl.obolibrary.org/obo/UBERON_0006314) |
-
 ## icdo
 
 | curie        |   usages | nodes                                                           |

@@ -10,6 +10,7 @@
 
 | curie         |   usages | nodes                                                           |
 |---------------|----------|-----------------------------------------------------------------|
+| PIMD:15771571 |        1 | [CL:0000623](http://purl.obolibrary.org/obo/CL_0000623)         |
 | PIMD:19091034 |        1 | [IDOMAL:0000139](http://purl.obolibrary.org/obo/IDOMAL_0000139) |
 
 ## hp

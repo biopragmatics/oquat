@@ -53,6 +53,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2015-08-20",
     "version_iri": "http://purl.obolibrary.org/obo/tads/2015-08-20/tads.owl",
     "xref_pack": {
       "invalid_luids": {},

@@ -2981,6 +2981,13 @@
           "http://purl.obolibrary.org/obo/MS_1003268": "PSI:PI",
           "http://purl.obolibrary.org/obo/MS_1003269": "PSI:PI",
           "http://purl.obolibrary.org/obo/MS_1003270": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003271": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003272": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003273": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003274": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003275": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_1003276": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_1003277": "PSI:PI",
           "http://purl.obolibrary.org/obo/MS_4000000": "PSI:MS",
           "http://purl.obolibrary.org/obo/MS_4000001": "PSI:MS",
           "http://purl.obolibrary.org/obo/MS_4000002": "PSI:MS",
@@ -3069,13 +3076,10 @@
         }
       }
     },
-    "version_iri": "http://purl.obolibrary.org/obo/ms/4.1.91/ms.owl",
+    "version": "4.1.97",
+    "version_iri": "http://purl.obolibrary.org/obo/ms/4.1.97/ms.owl",
     "xref_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/MS_1002659": [
-          "SWO:http://edamontology.org/format_2187"
-        ]
-      },
+      "invalid_luids": {},
       "label": "Node Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},
@@ -3119,8 +3123,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2022-06-17",
-    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-06-17/pato.owl",
+    "version": "2022-08-10",
+    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-08-10/pato.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -3146,30 +3150,6 @@
       "unknown_prefixes": {}
     },
     "version": "RC1.4",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/uo.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/uo.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

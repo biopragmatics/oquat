@@ -65,6 +65,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "sepio",
     "version_iri": "http://purl.obolibrary.org/obo/sepio/bfo-mireot.owl",
     "xref_pack": {
       "invalid_luids": {},

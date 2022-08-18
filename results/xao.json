@@ -2057,6 +2057,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2021-03-04",
     "version_iri": "http://purl.obolibrary.org/obo/xao/releases/2021-03-04/xao.owl",
     "xref_pack": {
       "invalid_luids": {},

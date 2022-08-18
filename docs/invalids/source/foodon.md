@@ -4,7 +4,7 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `foodon`. See the [GitHub repository](https://github.com/FoodOntology/foodon).
 
 
-## `EC`: Enzyme Nomenclature
+## `EC`: Enzyme Commission Code
 
 Overall, there were 5 invalid
 xrefs to external prefixed with `EC` (standardized to Bioregistry

@@ -6,6 +6,12 @@
 |-----------|----------|-----------------------------------------------------------------|
 | PATOC:MAH |        1 | [UBERON:0005160](http://purl.obolibrary.org/obo/UBERON_0005160) |
 
+## tao
+
+| curie     |   usages | nodes                                                                                                                    |
+|-----------|----------|--------------------------------------------------------------------------------------------------------------------------|
+| PATOC:GVG |        2 | [PATO:0000001](http://purl.obolibrary.org/obo/PATO_0000001), [PATO:0000014](http://purl.obolibrary.org/obo/PATO_0000014) |
+
 ## pato
 
 | curie                                                   |   usages | nodes                                                                                                                                                                                                                                                                                                                |
@@ -13,7 +19,7 @@
 | PATOC:GVG                                               |      654 | [PATO:0000001](http://purl.obolibrary.org/obo/PATO_0000001), [PATO:0000004](http://purl.obolibrary.org/obo/PATO_0000004), [PATO:0000014](http://purl.obolibrary.org/obo/PATO_0000014), [PATO:0000017](http://purl.obolibrary.org/obo/PATO_0000017), [PATO:0000018](http://purl.obolibrary.org/obo/PATO_0000018), ... |
 | PATOC:WD                                                |       72 | [PATO:0002256](http://purl.obolibrary.org/obo/PATO_0002256), [PATO:0002257](http://purl.obolibrary.org/obo/PATO_0002257), [PATO:0002261](http://purl.obolibrary.org/obo/PATO_0002261), [PATO:0002272](http://purl.obolibrary.org/obo/PATO_0002272), [PATO:0002275](http://purl.obolibrary.org/obo/PATO_0002275), ... |
 | PATOC:MAH                                               |       39 | [PATO:0000016](http://purl.obolibrary.org/obo/PATO_0000016), [PATO:0000327](http://purl.obolibrary.org/obo/PATO_0000327), [PATO:0000328](http://purl.obolibrary.org/obo/PATO_0000328), [PATO:0000584](http://purl.obolibrary.org/obo/PATO_0000584), [PATO:0000585](http://purl.obolibrary.org/obo/PATO_0000585), ... |
-| PATOC:EJS                                               |       25 | [PATO:0002507](http://purl.obolibrary.org/obo/PATO_0002507), [PATO:0002508](http://purl.obolibrary.org/obo/PATO_0002508), [PATO:0002510](http://purl.obolibrary.org/obo/PATO_0002510), [PATO:0002511](http://purl.obolibrary.org/obo/PATO_0002511), [PATO:0002513](http://purl.obolibrary.org/obo/PATO_0002513), ... |
+| PATOC:EJS                                               |       31 | [PATO:0002507](http://purl.obolibrary.org/obo/PATO_0002507), [PATO:0002508](http://purl.obolibrary.org/obo/PATO_0002508), [PATO:0002510](http://purl.obolibrary.org/obo/PATO_0002510), [PATO:0002511](http://purl.obolibrary.org/obo/PATO_0002511), [PATO:0002513](http://purl.obolibrary.org/obo/PATO_0002513), ... |
 | PATOC:CJM                                               |       17 | [PATO:0001555](http://purl.obolibrary.org/obo/PATO_0001555), [PATO:0001878](http://purl.obolibrary.org/obo/PATO_0001878), [PATO:0001882](http://purl.obolibrary.org/obo/PATO_0001882), [PATO:0001905](http://purl.obolibrary.org/obo/PATO_0001905), [PATO:0001925](http://purl.obolibrary.org/obo/PATO_0001925), ... |
 | PATOC:JH                                                |       17 | [PATO:0002183](http://purl.obolibrary.org/obo/PATO_0002183), [PATO:0002184](http://purl.obolibrary.org/obo/PATO_0002184), [PATO:0002185](http://purl.obolibrary.org/obo/PATO_0002185), [PATO:0002186](http://purl.obolibrary.org/obo/PATO_0002186), [PATO:0002187](http://purl.obolibrary.org/obo/PATO_0002187), ... |
 | PATOC:cjm                                               |       13 | [PATO:0000015](http://purl.obolibrary.org/obo/PATO_0000015), [PATO:0001295](http://purl.obolibrary.org/obo/PATO_0001295), [PATO:0001514](http://purl.obolibrary.org/obo/PATO_0001514), [PATO:0001531](http://purl.obolibrary.org/obo/PATO_0001531), [PATO:0001719](http://purl.obolibrary.org/obo/PATO_0001719), ... |
@@ -72,6 +78,12 @@
 | PATOC:NI                                                |        1 | [PATO:0002443](http://purl.obolibrary.org/obo/PATO_0002443)                                                                                                                                                                                                                                                          |
 | PATOC:CM                                                |        1 | [PATO:0002450](http://purl.obolibrary.org/obo/PATO_0002450)                                                                                                                                                                                                                                                          |
 | PATOC:DOS                                               |        1 | [PATO:0002506](http://purl.obolibrary.org/obo/PATO_0002506)                                                                                                                                                                                                                                                          |
+
+## vsao
+
+| curie     |   usages | nodes                                                       |
+|-----------|----------|-------------------------------------------------------------|
+| PATOC:GVG |        1 | [PATO:0000001](http://purl.obolibrary.org/obo/PATO_0000001) |
 
 ## enm
 

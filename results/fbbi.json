@@ -30,6 +30,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2020-11-06",
     "version_iri": "http://purl.obolibrary.org/obo/fbbi/releases/2020-11-06/fbbi.owl",
     "xref_pack": {
       "invalid_luids": {},

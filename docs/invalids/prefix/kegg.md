@@ -92,15 +92,6 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `KEGG:C-8660`   |              1 | [CHEBI:189210](http://purl.obolibrary.org/obo/CHEBI_189210) |
 | `KEGG:C-9227`   |              1 | [CHEBI:191088](http://purl.obolibrary.org/obo/CHEBI_191088) |
 
-## `covid19`: COVID-19 Ontology
-
-Identifiers for this prefix are given incorrectly in `covid19`.
-
-| external_xref   |   usages_count | usages                                                |
-|-----------------|----------------|-------------------------------------------------------|
-| `KEGG:05340`    |              1 | [DOID:612](http://purl.obolibrary.org/obo/DOID_612)   |
-| `KEGG:04930`    |              1 | [DOID:9352](http://purl.obolibrary.org/obo/DOID_9352) |
-
 ## `doid`: Human Disease Ontology
 
 Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub repository](https://github.com/DiseaseOntology/HumanDiseaseOntology).
@@ -233,4 +224,12 @@ Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repos
 | `KEGG:00620`    |              1 | [PW:0000043](http://purl.obolibrary.org/obo/PW_0000043) |
 | `KEGG:00232`    |              1 | [PW:0001153](http://purl.obolibrary.org/obo/PW_0001153) |
 | `KEGG:00531`    |              1 | [PW:0001154](http://purl.obolibrary.org/obo/PW_0001154) |
+
+## `upa`: Unipathway
+
+Identifiers for this prefix are given incorrectly in `upa`. See the [GitHub repository](https://github.com/geneontology/unipathway).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
+|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `KEGG:COMPOUND` |           1008 | [UPa:UPC00001](http://purl.obolibrary.org/obo/UPa_UPC00001), [UPa:UPC00002](http://purl.obolibrary.org/obo/UPa_UPC00002), [UPa:UPC00003](http://purl.obolibrary.org/obo/UPa_UPC00003), [UPa:UPC00004](http://purl.obolibrary.org/obo/UPa_UPC00004), [UPa:UPC00005](http://purl.obolibrary.org/obo/UPa_UPC00005), ... |
 

@@ -2,43 +2,8 @@
 
 This page summarize the different resources that reference `genpept`
 but use local unique identifiers that do not match the standard pattern of
-`^\w{3}\d{5}(\.\d+)?$`. Of the 2 resources,
+`^\w{3}\d{5}(\.\d+)?$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['GenPept'].
-
-## `covid19`: COVID-19 Ontology
-
-Identifiers for this prefix are given incorrectly in `covid19`.
-
-| external_xref          |   usages_count | usages                                                        |
-|------------------------|----------------|---------------------------------------------------------------|
-| `GenPept:YP_009725297` |              1 | [PR:000050270](http://purl.obolibrary.org/obo/PR_000050270)   |
-| `GenPept:YP_009725298` |              1 | [PR:000050271](http://purl.obolibrary.org/obo/PR_000050271)   |
-| `GenPept:YP_009725299` |              1 | [PR:000050272](http://purl.obolibrary.org/obo/PR_000050272)   |
-| `GenPept:YP_009725300` |              1 | [PR:000050273](http://purl.obolibrary.org/obo/PR_000050273)   |
-| `GenPept:YP_009725301` |              1 | [PR:000050274](http://purl.obolibrary.org/obo/PR_000050274)   |
-| `GenPept:YP_009725302` |              1 | [PR:000050275](http://purl.obolibrary.org/obo/PR_000050275)   |
-| `GenPept:YP_009725303` |              1 | [PR:000050276](http://purl.obolibrary.org/obo/PR_000050276)   |
-| `GenPept:YP_009725304` |              1 | [PR:000050277](http://purl.obolibrary.org/obo/PR_000050277)   |
-| `GenPept:YP_009725305` |              1 | [PR:000050278](http://purl.obolibrary.org/obo/PR_000050278)   |
-| `GenPept:YP_009725306` |              1 | [PR:000050279](http://purl.obolibrary.org/obo/PR_000050279)   |
-| `GenPept:YP_009725312` |              1 | [PR:000050280](http://purl.obolibrary.org/obo/PR_000050280)   |
-| `GenPept:YP_009725307` |              1 | [PR:000050284](http://purl.obolibrary.org/obo/PR_000050284)   |
-| `GenPept:YP_009725308` |              1 | [PR:000050285](http://purl.obolibrary.org/obo/PR_000050285)   |
-| `GenPept:YP_009725309` |              1 | [PR:000050286](http://purl.obolibrary.org/obo/PR_000050286)   |
-| `GenPept:YP_009725310` |              1 | [PR:000050287](http://purl.obolibrary.org/obo/PR_000050287)   |
-| `GenPept:YP_009725311` |              1 | [PR:000050288](http://purl.obolibrary.org/obo/PR_000050288)   |
-| `GenPept:YP_009725255` |              1 | [PR:A0A663DJA2](http://purl.obolibrary.org/obo/PR_A0A663DJA2) |
-| `GenPept:YP_009725295` |              1 | [PR:P0DTC1-1](http://purl.obolibrary.org/obo/PR_P0DTC1-1)     |
-| `GenPept:YP_009724390` |              1 | [PR:P0DTC2](http://purl.obolibrary.org/obo/PR_P0DTC2)         |
-| `GenPept:YP_009724391` |              1 | [PR:P0DTC3](http://purl.obolibrary.org/obo/PR_P0DTC3)         |
-| `GenPept:YP_009724392` |              1 | [PR:P0DTC4](http://purl.obolibrary.org/obo/PR_P0DTC4)         |
-| `GenPept:YP_009724393` |              1 | [PR:P0DTC5](http://purl.obolibrary.org/obo/PR_P0DTC5)         |
-| `GenPept:YP_009724394` |              1 | [PR:P0DTC6](http://purl.obolibrary.org/obo/PR_P0DTC6)         |
-| `GenPept:YP_009724395` |              1 | [PR:P0DTC7](http://purl.obolibrary.org/obo/PR_P0DTC7)         |
-| `GenPept:YP_009724396` |              1 | [PR:P0DTC8](http://purl.obolibrary.org/obo/PR_P0DTC8)         |
-| `GenPept:YP_009724397` |              1 | [PR:P0DTC9](http://purl.obolibrary.org/obo/PR_P0DTC9)         |
-| `GenPept:YP_009724389` |              1 | [PR:P0DTD1-1](http://purl.obolibrary.org/obo/PR_P0DTD1-1)     |
-| `GenPept:YP_009725318` |              1 | [PR:P0DTD8](http://purl.obolibrary.org/obo/PR_P0DTD8)         |
 
 ## `pr`: Protein Ontology
 
@@ -73,7 +38,7 @@ Identifiers for this prefix are given incorrectly in `pr`. See the [GitHub repos
 | `GenPept:YP_009725312` |              2 | [PR:000050280](http://purl.obolibrary.org/obo/PR_000050280), [PR:000050280](http://purl.obolibrary.org/obo/PR_000050280)                                                                    |
 | `GenPept:YP_009725307` |              2 | [PR:000050284](http://purl.obolibrary.org/obo/PR_000050284), [PR:000050284](http://purl.obolibrary.org/obo/PR_000050284)                                                                    |
 | `GenPept:YP_009725308` |              2 | [PR:000050285](http://purl.obolibrary.org/obo/PR_000050285), [PR:000050285](http://purl.obolibrary.org/obo/PR_000050285)                                                                    |
-| `GenPept:YP_009724397` |              2 | [PR:P0DTC9-1](http://purl.obolibrary.org/obo/PR_P0DTC9-1), [PR:P0DTC9-1](http://purl.obolibrary.org/obo/PR_P0DTC9-1)                                                                        |
+| `GenPept:YP_009724397` |              2 | [PR:P0DTC9](http://purl.obolibrary.org/obo/PR_P0DTC9), [PR:P0DTC9](http://purl.obolibrary.org/obo/PR_P0DTC9)                                                                                |
 | `GenPept:YP_009742608` |              1 | [PR:000050270](http://purl.obolibrary.org/obo/PR_000050270)                                                                                                                                 |
 | `GenPept:YP_009742609` |              1 | [PR:000050271](http://purl.obolibrary.org/obo/PR_000050271)                                                                                                                                 |
 | `GenPept:YP_009742610` |              1 | [PR:000050272](http://purl.obolibrary.org/obo/PR_000050272)                                                                                                                                 |

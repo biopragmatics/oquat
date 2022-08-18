@@ -1,27 +1,5 @@
 # bao
 
-## `NIF_Subcellular`
-
-There are 13 usages of `NIF_Subcellular` in `bao`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Subcellular).
-
-| curie                         |   usages | nodes                                                   |
-|-------------------------------|----------|---------------------------------------------------------|
-| NIF_Subcellular:sao1702920020 |        1 | [GO:0005634](http://purl.obolibrary.org/obo/GO_0005634) |
-| NIF_Subcellular:sao1860313010 |        1 | [GO:0005739](http://purl.obolibrary.org/obo/GO_0005739) |
-| NIF_Subcellular:sao585356902  |        1 | [GO:0005764](http://purl.obolibrary.org/obo/GO_0005764) |
-| NIF_Subcellular:sao8663416959 |        1 | [GO:0005776](http://purl.obolibrary.org/obo/GO_0005776) |
-| NIF_Subcellular:sao1036339110 |        1 | [GO:0005783](http://purl.obolibrary.org/obo/GO_0005783) |
-| NIF_Subcellular:sao451912436  |        1 | [GO:0005794](http://purl.obolibrary.org/obo/GO_0005794) |
-| NIF_Subcellular:sao101633890  |        1 | [GO:0005829](http://purl.obolibrary.org/obo/GO_0005829) |
-| NIF_Subcellular:sao1663586795 |        1 | [GO:0005886](http://purl.obolibrary.org/obo/GO_0005886) |
-| NIF_Subcellular:sao1770195789 |        1 | [GO:0030424](http://purl.obolibrary.org/obo/GO_0030424) |
-| NIF_Subcellular:sao867568886  |        1 | [GO:0043005](http://purl.obolibrary.org/obo/GO_0043005) |
-| NIF_Subcellular:sao1470140754 |        1 | [GO:0044303](http://purl.obolibrary.org/obo/GO_0044303) |
-| NIF_Subcellular:sao884265541  |        1 | [GO:0044307](http://purl.obolibrary.org/obo/GO_0044307) |
-| NIF_Subcellular:sao707332678  |        1 | [GO:1901589](http://purl.obolibrary.org/obo/GO_1901589) |
-
 ## `ABA`
 
 There are 1 usages of `ABA` in `bao`.

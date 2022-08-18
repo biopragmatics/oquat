@@ -30,7 +30,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version_iri": "http://purl.obolibrary.org/obo/rs/6.169/rs.owl",
+    "version": "6.173",
+    "version_iri": "http://purl.obolibrary.org/obo/rs/6.173/rs.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

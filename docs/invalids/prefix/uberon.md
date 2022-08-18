@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `uberon`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 7 resources,
+`^\d+$`. Of the 8 resources,
 1 variants on the standard prefix were found: ['UBERON'].
 
 ## `bspo`: Biological Spatial Ontology
@@ -36,6 +36,14 @@ Identifiers for this prefix are given incorrectly in `poro`. See the [GitHub rep
 | external_xref   |   usages_count | usages                                                                                                                   |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------|
 | `UBERON:cjm`    |              2 | [PORO:0000044](http://purl.obolibrary.org/obo/PORO_0000044), [PORO:0000101](http://purl.obolibrary.org/obo/PORO_0000101) |
+
+## `tao`: Teleost Anatomy Ontology
+
+Identifiers for this prefix are given incorrectly in `tao`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
+|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `UBERON:cjm`    |              7 | [VSAO:0000076](http://purl.obolibrary.org/obo/VSAO_0000076), [VSAO:0000155](http://purl.obolibrary.org/obo/VSAO_0000155), [VSAO:0000156](http://purl.obolibrary.org/obo/VSAO_0000156), [VSAO:0000303](http://purl.obolibrary.org/obo/VSAO_0000303), [VSAO:0000304](http://purl.obolibrary.org/obo/VSAO_0000304), ... |
 
 ## `uberon`: Uber Anatomy Ontology
 

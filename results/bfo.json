@@ -15,6 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2019-08-26",
     "version_iri": "http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl",
     "xref_pack": {
       "invalid_luids": {},

@@ -26,12 +26,6 @@
 | ANISEED:1225922 |        1 | [UBERON:0009896](http://purl.obolibrary.org/obo/UBERON_0009896) |
 | ANISEED:1235302 |        1 | [UBERON:0015227](http://purl.obolibrary.org/obo/UBERON_0015227) |
 
-## covid19
-
-| curie           |   usages | nodes                                                           |
-|-----------------|----------|-----------------------------------------------------------------|
-| ANISEED:1235303 |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
-
 ## icdo
 
 | curie           |   usages | nodes                                                           |

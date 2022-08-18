@@ -15,7 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version_iri": "http://purl.obolibrary.org/obo/emapa/releases/2021-09-01/emapa.owl",
+    "version": "2022-07-28",
+    "version_iri": "http://purl.obolibrary.org/obo/emapa/releases/2022-07-28/emapa.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

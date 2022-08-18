@@ -28,6 +28,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2015-01-07",
     "version_iri": "http://purl.obolibrary.org/obo/hom/releases/2015-01-07/hom.owl",
     "xref_pack": {
       "invalid_luids": {

@@ -4,7 +4,7 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `to`. See the [GitHub repository](https://github.com/Planteome/plant-trait-ontology).
 
 
-## `EC`: Enzyme Nomenclature
+## `EC`: Enzyme Commission Code
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `EC` (standardized to Bioregistry

@@ -31,3 +31,9 @@
 | merriam-webster:http://www.merriam-webster.com/dictionary/subovoid       |        1 | [PATO:0002537](http://purl.obolibrary.org/obo/PATO_0002537)                                                                                                                                                                                                                                                          |
 | merriam-webster:http://www.merriam-webster.com/dictionary/concavo-convex |        1 | [PATO:0002538](http://purl.obolibrary.org/obo/PATO_0002538)                                                                                                                                                                                                                                                          |
 
+## enm
+
+| curie                           |   usages | nodes                                                       |
+|---------------------------------|----------|-------------------------------------------------------------|
+| Merriam-Webster:Merriam-Webster |        1 | [PATO:0000261](http://purl.obolibrary.org/obo/PATO_0000261) |
+

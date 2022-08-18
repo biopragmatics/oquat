@@ -18,9 +18,9 @@ Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repo
 
 Identifiers for this prefix are given incorrectly in `enm`.
 
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                      |
-|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `HPO:probinson` |              5 | [HP:0001522](http://purl.obolibrary.org/obo/HP_0001522), [HP:0003674](http://purl.obolibrary.org/obo/HP_0003674), [HP:0003811](http://purl.obolibrary.org/obo/HP_0003811), [HP:0003826](http://purl.obolibrary.org/obo/HP_0003826), [HP:0100613](http://purl.obolibrary.org/obo/HP_0100613) |
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `HPO:probinson` |              6 | [HP:0001522](http://purl.obolibrary.org/obo/HP_0001522), [HP:0003674](http://purl.obolibrary.org/obo/HP_0003674), [HP:0003811](http://purl.obolibrary.org/obo/HP_0003811), [HP:0003826](http://purl.obolibrary.org/obo/HP_0003826), [HP:0005268](http://purl.obolibrary.org/obo/HP_0005268), ... |
 
 ## `hp`: Human Phenotype Ontology
 

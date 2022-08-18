@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `icdo`
 but use local unique identifiers that do not match the standard pattern of
-`^[8-9]\d{3}(/[0-3])?$`. Of the 9 resources,
+`^[8-9]\d{3}(/[0-3])?$`. Of the 8 resources,
 2 variants on the standard prefix were found: ['ICD-O', 'ICDO'].
 
 ## `bao`: BioAssay Ontology
@@ -19,14 +19,6 @@ Identifiers for this prefix are given incorrectly in `bao`.
 | `ICDO:M8170/3`  |              1 | [DOID:684](http://purl.obolibrary.org/obo/DOID_684)   |
 | `ICDO:M8970/3`  |              1 | [DOID:687](http://purl.obolibrary.org/obo/DOID_687)   |
 | `ICDO:M9500/3`  |              1 | [DOID:769](http://purl.obolibrary.org/obo/DOID_769)   |
-
-## `covid19`: COVID-19 Ontology
-
-Identifiers for this prefix are given incorrectly in `covid19`.
-
-| external_xref   |   usages_count | usages                                              |
-|-----------------|----------------|-----------------------------------------------------|
-| `ICDO:M8000/3`  |              1 | [DOID:162](http://purl.obolibrary.org/obo/DOID_162) |
 
 ## `doid`: Human Disease Ontology
 

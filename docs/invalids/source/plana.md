@@ -26,6 +26,17 @@ did not match the standard pattern `^C\d+$`.
 |-------------------------------|----------------|---------------------------------------------------------------|
 | `ncithesaurus:Blastemal_Cell` |              1 | [PLANA:0000495](http://purl.obolibrary.org/obo/PLANA_0000495) |
 
+## `NIF_Subcellular`: NIF Standard Ontology: Subcellular Entities
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `NIF_Subcellular` (standardized to Bioregistry
+prefix [`nlx.sub`](https://bioregistry.io/nlx.sub)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref                   |   usages_count | usages                                                        |
+|---------------------------------|----------------|---------------------------------------------------------------|
+| `NIF_Subcellular:sao1397492660` |              1 | [PLANA:0001005](http://purl.obolibrary.org/obo/PLANA_0001005) |
+
 ## `PMID`: PubMed
 
 Overall, there were 7 invalid

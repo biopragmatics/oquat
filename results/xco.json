@@ -1315,6 +1315,7 @@
       },
       "unknown_prefixes": {}
     },
+    "version": "4.46",
     "version_iri": "http://purl.obolibrary.org/obo/xco/4.46/xco.owl",
     "xref_pack": {
       "invalid_luids": {

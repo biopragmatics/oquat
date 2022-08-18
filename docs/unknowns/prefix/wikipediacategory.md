@@ -18,12 +18,6 @@
 | WikipediaCategory:Head_and_neck              |        1 | [UBERON:0007811](http://purl.obolibrary.org/obo/UBERON_0007811) |
 | WikipediaCategory:Brodmann_areas             |        1 | [UBERON:0013529](http://purl.obolibrary.org/obo/UBERON_0013529) |
 
-## covid19
-
-| curie                    |   usages | nodes                                                           |
-|--------------------------|----------|-----------------------------------------------------------------|
-| WikipediaCategory:Glands |        1 | [UBERON:0002530](http://purl.obolibrary.org/obo/UBERON_0002530) |
-
 ## icdo
 
 | curie                    |   usages | nodes                                                           |

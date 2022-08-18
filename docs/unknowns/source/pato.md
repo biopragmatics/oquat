@@ -575,9 +575,9 @@ There are 1 usages of `thefreedictionary.` in `pato`.
 If you are knowledgable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20thefreedictionary.).
 
-| curie                                 |   usages | nodes                                                                                                                    |
-|---------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
-| thefreedictionary.:thefreedictionary. |        2 | [PATO:0000462](http://purl.obolibrary.org/obo/PATO_0000462), [PATO:0002165](http://purl.obolibrary.org/obo/PATO_0002165) |
+| curie                                 |   usages | nodes                                                       |
+|---------------------------------------|----------|-------------------------------------------------------------|
+| thefreedictionary.:thefreedictionary. |        1 | [PATO:0040059](http://purl.obolibrary.org/obo/PATO_0040059) |
 
 ## `thesaurus.math`
 

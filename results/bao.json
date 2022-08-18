@@ -9174,6 +9174,30 @@
         "http://purl.obolibrary.org/obo/GO_0005488": [
           "Wikipedia:Binding_(molecular)"
         ],
+        "http://purl.obolibrary.org/obo/GO_0005634": [
+          "NIF_Subcellular:sao1702920020"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005739": [
+          "NIF_Subcellular:sao1860313010"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005764": [
+          "NIF_Subcellular:sao585356902"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005776": [
+          "NIF_Subcellular:sao8663416959"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005783": [
+          "NIF_Subcellular:sao1036339110"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005794": [
+          "NIF_Subcellular:sao451912436"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005829": [
+          "NIF_Subcellular:sao101633890"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005886": [
+          "NIF_Subcellular:sao1663586795"
+        ],
         "http://purl.obolibrary.org/obo/GO_0006351": [
           "Wikipedia:Transcription_(genetics)"
         ],
@@ -9183,17 +9207,31 @@
         "http://purl.obolibrary.org/obo/GO_0006914": [
           "Wikipedia:Autophagy_(cellular)"
         ],
+        "http://purl.obolibrary.org/obo/GO_0030424": [
+          "NIF_Subcellular:sao1770195789"
+        ],
         "http://purl.obolibrary.org/obo/GO_0031099": [
           "Wikipedia:Regeneration_(biology)"
         ],
         "http://purl.obolibrary.org/obo/GO_0032059": [
           "Wikipedia:Bleb_(cell_biology)"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0043005": [
+          "NIF_Subcellular:sao867568886"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0044303": [
+          "NIF_Subcellular:sao1470140754"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0044307": [
+          "NIF_Subcellular:sao884265541"
+        ],
+        "http://purl.obolibrary.org/obo/GO_1901589": [
+          "NIF_Subcellular:sao707332678"
         ]
       },
       "label": "Node Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
+      "noncanonical_prefixes": {
         "NIF_Subcellular": {
           "http://purl.obolibrary.org/obo/GO_0005634": "NIF_Subcellular:sao1702920020",
           "http://purl.obolibrary.org/obo/GO_0005739": "NIF_Subcellular:sao1860313010",
@@ -9209,7 +9247,8 @@
           "http://purl.obolibrary.org/obo/GO_0044307": "NIF_Subcellular:sao884265541",
           "http://purl.obolibrary.org/obo/GO_1901589": "NIF_Subcellular:sao707332678"
         }
-      }
+      },
+      "unknown_prefixes": {}
     }
   },
   "http://www.bioassayontology.org/bao/external/BAO_NCBITaxon_import.owl": {

@@ -1,14 +1,24 @@
 # enm
 
-## `PHENOSCPAE`
+## `Invitrogen`
 
-There are 1 usages of `PHENOSCPAE` in `enm`.
+There are 1 usages of `Invitrogen` in `enm`.
 If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PHENOSCPAE).
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Invitrogen).
 
-| curie                   |   usages | nodes                                                   |
-|-------------------------|----------|---------------------------------------------------------|
-| PHENOSCPAE:asilomar_mtg |        1 | [RO:0002173](http://purl.obolibrary.org/obo/RO_0002173) |
+| curie                                      |   usages | nodes                                                     |
+|--------------------------------------------|----------|-----------------------------------------------------------|
+| Invitrogen:http://products.invitrogen.com/ |        1 | [BTO:0004602](http://purl.obolibrary.org/obo/BTO_0004602) |
+
+## `curators`
+
+There are 1 usages of `curators` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20curators).
+
+| curie       |   usages | nodes                                                     |
+|-------------|----------|-----------------------------------------------------------|
+| curators:mg |        1 | [BTO:0002922](http://purl.obolibrary.org/obo/BTO_0002922) |
 
 ## `Orange`
 
@@ -206,6 +216,16 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |-------------------------|----------|-------------------------------------------------------------|
 | Answers.com:Answers.com |        1 | [PATO:0000969](http://purl.obolibrary.org/obo/PATO_0000969) |
 
+## `Merriam-Webster`
+
+There are 1 usages of `Merriam-Webster` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Merriam-Webster).
+
+| curie                           |   usages | nodes                                                       |
+|---------------------------------|----------|-------------------------------------------------------------|
+| Merriam-Webster:Merriam-Webster |        1 | [PATO:0000261](http://purl.obolibrary.org/obo/PATO_0000261) |
+
 ## `PATOC`
 
 There are 6 usages of `PATOC` in `enm`.
@@ -271,6 +291,16 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | curie                           |   usages | nodes                                                       |
 |---------------------------------|----------|-------------------------------------------------------------|
 | url:http://www.studyphysics.ca/ |        1 | [PATO:0001525](http://purl.obolibrary.org/obo/PATO_0001525) |
+
+## `PHENOSCPAE`
+
+There are 1 usages of `PHENOSCPAE` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PHENOSCPAE).
+
+| curie                   |   usages | nodes                                                   |
+|-------------------------|----------|---------------------------------------------------------|
+| PHENOSCPAE:asilomar_mtg |        1 | [RO:0002173](http://purl.obolibrary.org/obo/RO_0002173) |
 
 ## `OpenCyc`
 

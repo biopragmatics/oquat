@@ -15,6 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2021-08-13",
     "version_iri": "http://purl.obolibrary.org/obo/po/releases/2021-08-13/po.owl",
     "xref_pack": {
       "invalid_luids": {},
@@ -3921,6 +3922,7 @@
         }
       }
     },
+    "version": "2022-04-13",
     "version_iri": "http://purl.obolibrary.org/obo/to/releases/2022-04-13/to.owl",
     "xref_pack": {
       "invalid_luids": {

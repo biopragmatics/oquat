@@ -1,5 +1,11 @@
 # `curators`
 
+## enm
+
+| curie       |   usages | nodes                                                     |
+|-------------|----------|-----------------------------------------------------------|
+| curators:mg |        1 | [BTO:0002922](http://purl.obolibrary.org/obo/BTO_0002922) |
+
 ## bto
 
 | curie        |   usages | nodes                                                                                                                                                                                                                                                                                                      |

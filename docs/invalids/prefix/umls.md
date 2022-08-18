@@ -2,17 +2,8 @@
 
 This page summarize the different resources that reference `umls`
 but use local unique identifiers that do not match the standard pattern of
-`^C\d+$`. Of the 4 resources,
+`^C\d+$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['UMLS'].
-
-## `covid19`: COVID-19 Ontology
-
-Identifiers for this prefix are given incorrectly in `covid19`.
-
-| external_xref   |   usages_count | usages                                                        |
-|-----------------|----------------|---------------------------------------------------------------|
-| `UMLS:CN882913` |              1 | [MONDO:0005570](http://purl.obolibrary.org/obo/MONDO_0005570) |
-| `UMLS:CN206369` |              1 | [MONDO:0019540](http://purl.obolibrary.org/obo/MONDO_0019540) |
 
 ## `efo`: Experimental Factor Ontology
 
@@ -2354,9 +2345,6 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN227675` |              1 | [MONDO:0019689](http://purl.obolibrary.org/obo/MONDO_0019689) |
 | `UMLS:CN227676` |              1 | [MONDO:0019690](http://purl.obolibrary.org/obo/MONDO_0019690) |
 | `UMLS:CN229208` |              1 | [MONDO:0019697](http://purl.obolibrary.org/obo/MONDO_0019697) |
-| `UMLS:CN043667` |              1 | [MONDO:0019703](http://purl.obolibrary.org/obo/MONDO_0019703) |
-| `UMLS:CN206618` |              1 | [MONDO:0019706](http://purl.obolibrary.org/obo/MONDO_0019706) |
-| `UMLS:CN206620` |              1 | [MONDO:0019715](http://purl.obolibrary.org/obo/MONDO_0019715) |
 | `UMLS:CN206621` |              1 | [MONDO:0019716](http://purl.obolibrary.org/obo/MONDO_0019716) |
 | `UMLS:CN206622` |              1 | [MONDO:0019717](http://purl.obolibrary.org/obo/MONDO_0019717) |
 | `UMLS:CN227683` |              1 | [MONDO:0019721](http://purl.obolibrary.org/obo/MONDO_0019721) |
@@ -2826,4 +2814,7 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN807949` |              1 | [MONDO:0100297](http://purl.obolibrary.org/obo/MONDO_0100297) |
 | `UMLS:CN200045` |              1 | [MONDO:0100325](http://purl.obolibrary.org/obo/MONDO_0100325) |
 | `UMLS:CN199596` |              1 | [MONDO:0800025](http://purl.obolibrary.org/obo/MONDO_0800025) |
+| `UMLS:CN043667` |              1 | [MONDO:0800084](http://purl.obolibrary.org/obo/MONDO_0800084) |
+| `UMLS:CN206618` |              1 | [MONDO:0800088](http://purl.obolibrary.org/obo/MONDO_0800088) |
+| `UMLS:CN206620` |              1 | [MONDO:0800095](http://purl.obolibrary.org/obo/MONDO_0800095) |
 

@@ -218,6 +218,17 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `ReO:mhb`       |              7 | [CL:0000001](http://purl.obolibrary.org/obo/CL_0000001), [CL:0000002](http://purl.obolibrary.org/obo/CL_0000002), [CL:0000010](http://purl.obolibrary.org/obo/CL_0000010), [CL:0000578](http://purl.obolibrary.org/obo/CL_0000578), [CL:0001034](http://purl.obolibrary.org/obo/CL_0001034), ... |
 
+## `SAO`: Subcellular Anatomy Ontology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `SAO` (standardized to Bioregistry
+prefix [`sao`](https://bioregistry.io/sao)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref      |   usages_count | usages                                                  |
+|--------------------|----------------|---------------------------------------------------------|
+| `SAO:sao131261273` |              1 | [CL:1001571](http://purl.obolibrary.org/obo/CL_1001571) |
+
 ## `SGD`: Saccharomyces Genome Database
 
 Overall, there were 19 invalid

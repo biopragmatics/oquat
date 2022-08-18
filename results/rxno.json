@@ -319,6 +319,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2021-12-16",
     "version_iri": "http://purl.obolibrary.org/obo/rxno/releases/2021-12-16/rxno.owl",
     "xref_pack": {
       "invalid_luids": {},

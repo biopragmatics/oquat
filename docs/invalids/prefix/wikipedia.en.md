@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `wikipedia.en`
 but use local unique identifiers that do not match the standard pattern of
-`^[A-Za-z-0-9_]+$`. Of the 23 resources,
+`^[A-Za-z-0-9_]+$`. Of the 24 resources,
 2 variants on the standard prefix were found: ['Wikipedia', 'wikipedia'].
 
 ## `bao`: BioAssay Ontology
@@ -412,7 +412,7 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 
 ## `cmpo`: Cellular Microscopy Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly in `cmpo`.
+Identifiers for this prefix are given incorrectly in `cmpo`. See the [GitHub repository](https://github.com/EBISPOT/CMPO).
 
 | external_xref                                                      |   usages_count | usages                                                                                                                                                                                         |
 |--------------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -430,19 +430,6 @@ Identifiers for this prefix are given incorrectly in `cmpo`.
 | `Wikipedia:Cell_(biology)`                                         |              1 | [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623)                                                                                                                                        |
 | `Wikipedia:Transcription_(genetics)`                               |              1 | [GO:0006351](http://purl.obolibrary.org/obo/GO_0006351)                                                                                                                                        |
 | `Wikipedia:Vesicle_(biology)`                                      |              1 | [GO:0031982](http://purl.obolibrary.org/obo/GO_0031982)                                                                                                                                        |
-
-## `covid19`: COVID-19 Ontology
-
-Identifiers for this prefix are given incorrectly in `covid19`.
-
-| external_xref                                 |   usages_count | usages                                                    |
-|-----------------------------------------------|----------------|-----------------------------------------------------------|
-| `Wikipedia:Protease_inhibitor_(pharmacology)` |              1 | [CHEBI:35660](http://purl.obolibrary.org/obo/CHEBI_35660) |
-| `Wikipedia:Ligand_(biochemistry)`             |              1 | [GO:0005102](http://purl.obolibrary.org/obo/GO_0005102)   |
-| `Wikipedia:Autophagy_(cellular)`              |              1 | [GO:0006914](http://purl.obolibrary.org/obo/GO_0006914)   |
-| `Wikipedia:Host_(biology)`                    |              1 | [GO:0018995](http://purl.obolibrary.org/obo/GO_0018995)   |
-| `Wikipedia:Midbody_(cell_biology)`            |              1 | [GO:0030496](http://purl.obolibrary.org/obo/GO_0030496)   |
-| `Wikipedia:Regeneration_(biology)`            |              1 | [GO:0031099](http://purl.obolibrary.org/obo/GO_0031099)   |
 
 ## `dto`: Drug Target Ontology
 
@@ -654,9 +641,11 @@ Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repos
 
 Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/IDOMAL).
 
-| external_xref            |   usages_count | usages                                                          |
-|--------------------------|----------------|-----------------------------------------------------------------|
-| `Wikipedia:Field'sstain` |              1 | [IDOMAL:0000553](http://purl.obolibrary.org/obo/IDOMAL_0000553) |
+| external_xref                                       |   usages_count | usages                                                          |
+|-----------------------------------------------------|----------------|-----------------------------------------------------------------|
+| `Wikipedia:Spring_%28hydrosphere%29#Classification` |              1 | [ENVO:00000027](http://purl.obolibrary.org/obo/ENVO_00000027)   |
+| `Wikipedia:Channel_%28geography%29`                 |              1 | [ENVO:00000395](http://purl.obolibrary.org/obo/ENVO_00000395)   |
+| `Wikipedia:Field'sstain`                            |              1 | [IDOMAL:0000553](http://purl.obolibrary.org/obo/IDOMAL_0000553) |
 
 ## `mmo`: Measurement method ontology
 
@@ -799,6 +788,7 @@ Identifiers for this prefix are given incorrectly in `pato`. See the [GitHub rep
 | `Wikipedia:https://en.wikipedia.org/wiki/Drinking_water`           |              3 | [PATO:0025000](http://purl.obolibrary.org/obo/PATO_0025000), [PATO:0025001](http://purl.obolibrary.org/obo/PATO_0025001), [PATO:0025002](http://purl.obolibrary.org/obo/PATO_0025002) |
 | `Wikipedia:http://en.wikipedia.org/wiki/Osmolarity`                |              2 | [PATO:0001655](http://purl.obolibrary.org/obo/PATO_0001655), [PATO:0002027](http://purl.obolibrary.org/obo/PATO_0002027)                                                              |
 | `wikipedia:https://en.wikipedia.org/wiki/Acinus`                   |              2 | [PATO:0002378](http://purl.obolibrary.org/obo/PATO_0002378), [PATO:0002422](http://purl.obolibrary.org/obo/PATO_0002422)                                                              |
+| `Wikipedia:NC_ratio&oldid=931936284`                               |              2 | [PATO:0040071](http://purl.obolibrary.org/obo/PATO_0040071), [PATO:0040072](http://purl.obolibrary.org/obo/PATO_0040072)                                                              |
 | `Wikipedia:http://en.wikipedia.org/wiki/Velocity`                  |              1 | [PATO:0000008](http://purl.obolibrary.org/obo/PATO_0000008)                                                                                                                           |
 | `Wikipedia:http://en.wikipedia.org/wiki/concentration`             |              1 | [PATO:0000033](http://purl.obolibrary.org/obo/PATO_0000033)                                                                                                                           |
 | `Wikipedia:http://en.wikipedia.org/wiki/frequency`                 |              1 | [PATO:0000044](http://purl.obolibrary.org/obo/PATO_0000044)                                                                                                                           |
@@ -1257,6 +1247,22 @@ Identifiers for this prefix are given incorrectly in `tads`. See the [GitHub rep
 | external_xref                 |   usages_count | usages                                                      |
 |-------------------------------|----------------|-------------------------------------------------------------|
 | `Wikipedia:www.wikipedia.org` |              1 | [TADS:0000224](http://purl.obolibrary.org/obo/TADS_0000224) |
+
+## `tao`: Teleost Anatomy Ontology
+
+Identifiers for this prefix are given incorrectly in `tao`.
+
+| external_xref                                          |   usages_count | usages                                                      |
+|--------------------------------------------------------|----------------|-------------------------------------------------------------|
+| `Wikipedia:http://en.wikipedia.org/wiki/Cartilaginous` |              1 | [PATO:0001449](http://purl.obolibrary.org/obo/PATO_0001449) |
+
+## `vsao`: Vertebrate Skeletal Anatomy Ontology
+
+Identifiers for this prefix are given incorrectly in `vsao`.
+
+| external_xref                                          |   usages_count | usages                                                      |
+|--------------------------------------------------------|----------------|-------------------------------------------------------------|
+| `Wikipedia:http://en.wikipedia.org/wiki/Cartilaginous` |              1 | [PATO:0001449](http://purl.obolibrary.org/obo/PATO_0001449) |
 
 ## `xco`: Experimental condition ontology
 

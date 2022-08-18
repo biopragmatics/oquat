@@ -2620,7 +2620,8 @@
           "http://purl.obolibrary.org/obo/VT_0011001": "MPD:cur",
           "http://purl.obolibrary.org/obo/VT_0011002": "MPD:cur",
           "http://purl.obolibrary.org/obo/VT_0011003": "MPD:cur",
-          "http://purl.obolibrary.org/obo/VT_0011004": "MPD:cur"
+          "http://purl.obolibrary.org/obo/VT_0011004": "MPD:cur",
+          "http://purl.obolibrary.org/obo/VT_0011006": "MPD:cur"
         },
         "Mosby": {
           "http://purl.obolibrary.org/obo/VT_0002796": "Mosby:Mosbys Medical Dictionary 8th Ed"

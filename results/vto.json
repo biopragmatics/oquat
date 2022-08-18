@@ -17099,6 +17099,7 @@
         }
       }
     },
+    "version": "2020-11-13",
     "version_iri": "http://purl.obolibrary.org/obo/vto/2020-11-13/vto.owl",
     "xref_pack": {
       "invalid_luids": {},

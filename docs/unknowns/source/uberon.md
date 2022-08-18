@@ -943,27 +943,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |-----------|----------|-----------------------------------------------------------------|
 | NCBI:matt |        1 | [UBERON:0001471](http://purl.obolibrary.org/obo/UBERON_0001471) |
 
-## `NIF_Subcellular`
-
-There are 12 usages of `NIF_Subcellular` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Subcellular).
-
-| curie                                |   usages | nodes                                                           |
-|--------------------------------------|----------|-----------------------------------------------------------------|
-| NIF_Subcellular:nlx_subcell_100205   |        1 | [UBERON:0000201](http://purl.obolibrary.org/obo/UBERON_0000201) |
-| NIF_Subcellular:sao1397492660        |        1 | [UBERON:0000482](http://purl.obolibrary.org/obo/UBERON_0000482) |
-| NIF_Subcellular:sao587858733         |        1 | [UBERON:0001047](http://purl.obolibrary.org/obo/UBERON_0001047) |
-| NIF_Subcellular:sao1145756102        |        1 | [UBERON:0001130](http://purl.obolibrary.org/obo/UBERON_0001130) |
-| NIF_Subcellular:sao205380252         |        1 | [UBERON:0002606](http://purl.obolibrary.org/obo/UBERON_0002606) |
-| NIF_Subcellular:FMA_83604            |        1 | [UBERON:0003719](http://purl.obolibrary.org/obo/UBERON_0003719) |
-| NIF_Subcellular:nlx_subcell_20090503 |        1 | [UBERON:0005387](http://purl.obolibrary.org/obo/UBERON_0005387) |
-| NIF_Subcellular:sao7547390221        |        1 | [UBERON:0011860](http://purl.obolibrary.org/obo/UBERON_0011860) |
-| NIF_Subcellular:nlx_subcell_20090502 |        1 | [UBERON:0011915](http://purl.obolibrary.org/obo/UBERON_0011915) |
-| NIF_Subcellular:nlx_subcell_20090504 |        1 | [UBERON:0011917](http://purl.obolibrary.org/obo/UBERON_0011917) |
-| NIF_Subcellular:FMA_83606            |        1 | [UBERON:0012456](http://purl.obolibrary.org/obo/UBERON_0012456) |
-| NIF_Subcellular:nlx_subcell_100209   |        1 | [UBERON:0018687](http://purl.obolibrary.org/obo/UBERON_0018687) |
-
 ## `OBOL`
 
 There are 3 usages of `OBOL` in `uberon`.

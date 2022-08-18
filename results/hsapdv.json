@@ -297,6 +297,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2020-03-10",
     "version_iri": "http://purl.obolibrary.org/obo/hsapdv/releases/2020-03-10/hsapdv.owl",
     "xref_pack": {
       "invalid_luids": {

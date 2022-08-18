@@ -54,7 +54,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 ## `ICD10EXP`
 
-There are 13 usages of `ICD10EXP` in `efo`.
+There are 14 usages of `ICD10EXP` in `efo`.
 If you are knowledgable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10EXP).
 
@@ -65,6 +65,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ICD10EXP:I68.0* |        1 | [EFO:0006790](http://www.ebi.ac.uk/efo/EFO_0006790) |
 | ICD10EXP:H19.2* |        1 | [EFO:0007126](http://www.ebi.ac.uk/efo/EFO_0007126) |
 | ICD10EXP:B44.1+ |        1 | [EFO:0007140](http://www.ebi.ac.uk/efo/EFO_0007140) |
+| ICD10EXP:B02.2+ |        1 | [EFO:0007281](http://www.ebi.ac.uk/efo/EFO_0007281) |
 | ICD10EXP:N08.5* |        1 | [EFO:0007290](http://www.ebi.ac.uk/efo/EFO_0007290) |
 | ICD10EXP:B33.4+ |        1 | [EFO:0007296](http://www.ebi.ac.uk/efo/EFO_0007296) |
 | ICD10EXP:B00.5+ |        1 | [EFO:0007308](http://www.ebi.ac.uk/efo/EFO_0007308) |

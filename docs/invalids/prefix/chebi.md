@@ -2,16 +2,8 @@
 
 This page summarize the different resources that reference `chebi`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 5 resources,
+`^\d+$`. Of the 3 resources,
 2 variants on the standard prefix were found: ['CHEBI', 'ChEBI'].
-
-## `chmo`: Chemical Methods Ontology
-
-Identifiers for this prefix are given incorrectly in `chmo`. See the [GitHub repository](https://github.com/rsc-ontologies/rsc-cmo).
-
-| external_xref   |   usages_count | usages                                                      |
-|-----------------|----------------|-------------------------------------------------------------|
-| `CHEBI:`        |              1 | [CHMO:0002374](http://purl.obolibrary.org/obo/CHMO_0002374) |
 
 ## `dto`: Drug Target Ontology
 
@@ -29,14 +21,6 @@ Identifiers for this prefix are given incorrectly in `omp`. See the [GitHub repo
 |---------------------|----------------|-----------------------------------------------------------|
 | `CHEBI:CHEBI:87649` |              1 | [OMP:0007481](http://purl.obolibrary.org/obo/OMP_0007481) |
 | `CHEBI::4806`       |              1 | [OMP:0007848](http://purl.obolibrary.org/obo/OMP_0007848) |
-
-## `pride`: PRIDE Controlled Vocabulary
-
-Identifiers for this prefix are given incorrectly in `pride`. See the [GitHub repository](https://github.com/PRIDE-Utilities/pride-ontology).
-
-| external_xref   |   usages_count | usages                                                      |
-|-----------------|----------------|-------------------------------------------------------------|
-| `CHEBI:`        |              1 | [CHMO:0002374](http://purl.obolibrary.org/obo/CHMO_0002374) |
 
 ## `xco`: Experimental condition ontology
 

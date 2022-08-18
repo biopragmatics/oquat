@@ -103,6 +103,29 @@ did not match the standard pattern `^C\d+$`.
 |------------------------------------|----------------|-----------------------------------------------------------------|
 | `ncithesaurus:Developmental_Stage` |              1 | [UBERON:0000105](http://purl.obolibrary.org/obo/UBERON_0000105) |
 
+## `NIF_Subcellular`: NIF Standard Ontology: Subcellular Entities
+
+Overall, there were 13 invalid
+xrefs to external prefixed with `NIF_Subcellular` (standardized to Bioregistry
+prefix [`nlx.sub`](https://bioregistry.io/nlx.sub)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref                   |   usages_count | usages                                                  |
+|---------------------------------|----------------|---------------------------------------------------------|
+| `NIF_Subcellular:sao1702920020` |              1 | [GO:0005634](http://purl.obolibrary.org/obo/GO_0005634) |
+| `NIF_Subcellular:sao1860313010` |              1 | [GO:0005739](http://purl.obolibrary.org/obo/GO_0005739) |
+| `NIF_Subcellular:sao585356902`  |              1 | [GO:0005764](http://purl.obolibrary.org/obo/GO_0005764) |
+| `NIF_Subcellular:sao8663416959` |              1 | [GO:0005776](http://purl.obolibrary.org/obo/GO_0005776) |
+| `NIF_Subcellular:sao1036339110` |              1 | [GO:0005783](http://purl.obolibrary.org/obo/GO_0005783) |
+| `NIF_Subcellular:sao451912436`  |              1 | [GO:0005794](http://purl.obolibrary.org/obo/GO_0005794) |
+| `NIF_Subcellular:sao101633890`  |              1 | [GO:0005829](http://purl.obolibrary.org/obo/GO_0005829) |
+| `NIF_Subcellular:sao1663586795` |              1 | [GO:0005886](http://purl.obolibrary.org/obo/GO_0005886) |
+| `NIF_Subcellular:sao1770195789` |              1 | [GO:0030424](http://purl.obolibrary.org/obo/GO_0030424) |
+| `NIF_Subcellular:sao867568886`  |              1 | [GO:0043005](http://purl.obolibrary.org/obo/GO_0043005) |
+| `NIF_Subcellular:sao1470140754` |              1 | [GO:0044303](http://purl.obolibrary.org/obo/GO_0044303) |
+| `NIF_Subcellular:sao884265541`  |              1 | [GO:0044307](http://purl.obolibrary.org/obo/GO_0044307) |
+| `NIF_Subcellular:sao707332678`  |              1 | [GO:1901589](http://purl.obolibrary.org/obo/GO_1901589) |
+
 ## `NIFSTD`: NIF Standard Ontology
 
 Overall, there were 2 invalid

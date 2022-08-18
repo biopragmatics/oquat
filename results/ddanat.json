@@ -160,6 +160,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2020-04-13",
     "version_iri": "http://purl.obolibrary.org/obo/ddanat/releases/2020-04-13/ddanat.owl",
     "xref_pack": {
       "invalid_luids": {},

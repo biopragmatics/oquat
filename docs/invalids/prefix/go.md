@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `go`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 16 resources,
+`^\d{7}$`. Of the 19 resources,
 1 variants on the standard prefix were found: ['GO'].
 
 ## `aeo`: Anatomical Entity Ontology
@@ -36,7 +36,7 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 
 ## `cmpo`: Cellular Microscopy Phenotype Ontology
 
-Identifiers for this prefix are given incorrectly in `cmpo`.
+Identifiers for this prefix are given incorrectly in `cmpo`. See the [GitHub repository](https://github.com/EBISPOT/CMPO).
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                             |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -51,6 +51,14 @@ Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repo
 | `GO:IEP`        |              3 | [ECO:0000008](http://purl.obolibrary.org/obo/ECO_0000008), [ECO:0007006](http://purl.obolibrary.org/obo/ECO_0007006), [ECO:0007007](http://purl.obolibrary.org/obo/ECO_0007007) |
 | `GO:IMP`        |              3 | [ECO:0000015](http://purl.obolibrary.org/obo/ECO_0000015), [ECO:0007000](http://purl.obolibrary.org/obo/ECO_0007000), [ECO:0007001](http://purl.obolibrary.org/obo/ECO_0007001) |
 | `GO:TAS`        |              1 | [ECO:0000033](http://purl.obolibrary.org/obo/ECO_0000033)                                                                                                                       |
+
+## `ehdaa2`: Human developmental anatomy, abstract
+
+Identifiers for this prefix are given incorrectly in `ehdaa2`. See the [GitHub repository](https://github.com/obophenotype/human-developmental-anatomy-ontology).
+
+| external_xref   |   usages_count | usages                                                    |
+|-----------------|----------------|-----------------------------------------------------------|
+| `GO:curator`    |              1 | [AEO:0000147](http://purl.obolibrary.org/obo/AEO_0000147) |
 
 ## `fypo`: Fission Yeast Phenotype Ontology
 
@@ -83,6 +91,14 @@ Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repos
 | `GO:curators`   |              1 | [GO:0004479](http://purl.obolibrary.org/obo/GO_0004479)                                                                                                                                                                                                                                          |
 | `GO:krc`        |              1 | [GO:0120132](http://purl.obolibrary.org/obo/GO_0120132)                                                                                                                                                                                                                                          |
 | `GO:ach`        |              1 | [GO:0120312](http://purl.obolibrary.org/obo/GO_0120312)                                                                                                                                                                                                                                          |
+
+## `idomal`: Malaria Ontology
+
+Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/IDOMAL).
+
+| external_xref   |   usages_count | usages                                                    |
+|-----------------|----------------|-----------------------------------------------------------|
+| `GO:00304321`   |              1 | [GO:00304321](http://purl.obolibrary.org/obo/GO_00304321) |
 
 ## `mi`: Molecular Interactions Controlled Vocabulary
 
@@ -144,6 +160,15 @@ Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repos
 | external_xref   |   usages_count | usages                                                                                                                                                                    |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `GO:mah`        |              3 | [SO:0001861](http://purl.obolibrary.org/obo/SO_0001861), [SO:0001861](http://purl.obolibrary.org/obo/SO_0001861), [SO:0001871](http://purl.obolibrary.org/obo/SO_0001871) |
+
+## `tao`: Teleost Anatomy Ontology
+
+Identifiers for this prefix are given incorrectly in `tao`.
+
+| external_xref                         |   usages_count | usages                                                      |
+|---------------------------------------|----------------|-------------------------------------------------------------|
+| `GO:[GOC:mtg_sensu, ISBN:0198547684]` |              1 | [VSAO:0000021](http://purl.obolibrary.org/obo/VSAO_0000021) |
+| `GO:curator`                          |              1 | [VSAO:0000092](http://purl.obolibrary.org/obo/VSAO_0000092) |
 
 ## `uberon`: Uber Anatomy Ontology
 

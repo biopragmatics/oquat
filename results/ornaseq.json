@@ -15,6 +15,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2019-07-08",
     "version_iri": "http://purl.obolibrary.org/obo/ornaseq/2019-07-08/ornaseq.owl",
     "xref_pack": {
       "invalid_luids": {},

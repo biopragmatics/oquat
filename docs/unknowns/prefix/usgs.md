@@ -1,5 +1,12 @@
 # `usgs`
 
+## idomal
+
+| curie                                                                    |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
+|--------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| USGS:SDTS                                                                |       24 | [ENVO:00000014](http://purl.obolibrary.org/obo/ENVO_00000014), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), [ENVO:00000020](http://purl.obolibrary.org/obo/ENVO_00000020), [ENVO:00000023](http://purl.obolibrary.org/obo/ENVO_00000023), [ENVO:00000026](http://purl.obolibrary.org/obo/ENVO_00000026), ... |
+| USGS:http://mapping.usgs.gov/www/ti/GNIS/gnis_users_guide_appendixc.html |        1 | [ENVO:00000023](http://purl.obolibrary.org/obo/ENVO_00000023)                                                                                                                                                                                                                                                                  |
+
 ## enm
 
 | curie     |   usages | nodes                                                         |

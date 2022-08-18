@@ -1,11 +1,5 @@
 # `mips_funcat`
 
-## covid19
-
-| curie          |   usages | nodes                                                   |
-|----------------|----------|---------------------------------------------------------|
-| MIPS_funcat:30 |        1 | [GO:0007165](http://purl.obolibrary.org/obo/GO_0007165) |
-
 ## epso
 
 | curie                   |   usages | nodes                                                   |

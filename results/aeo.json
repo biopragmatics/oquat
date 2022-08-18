@@ -404,6 +404,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2014-12-05",
     "version_iri": "http://purl.obolibrary.org/obo/aeo/releases/2014-12-05/aeo.owl",
     "xref_pack": {
       "invalid_luids": {},

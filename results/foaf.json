@@ -1,6 +1,6 @@
 {
-  "http://xmlns.com/foaf/0.1/": {
-    "graph_id": "http://xmlns.com/foaf/0.1/",
+  "http://vivoweb.org/ontology/core/vivo-foaf-public-1.5.owl": {
+    "graph_id": "http://vivoweb.org/ontology/core/vivo-foaf-public-1.5.owl",
     "prov_pack": {
       "invalid_luids": {},
       "label": "Provenance Xrefs",

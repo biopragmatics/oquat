@@ -65,7 +65,7 @@ did not match the standard pattern `^\w+$`.
 
 ## `ICD-10`: International Classification of Diseases, 10th Revision
 
-Overall, there were 84 invalid
+Overall, there were 85 invalid
 xrefs to external prefixed with `ICD-10` (standardized to Bioregistry
 prefix [`icd10`](https://bioregistry.io/icd10)) that
 did not match the standard pattern `^[A-Z]\d+(\.[-\d+])?$`.
@@ -82,6 +82,7 @@ did not match the standard pattern `^[A-Z]\d+(\.[-\d+])?$`.
 | `ICD-10:N16.3*` |              2 | [http://www.orpha.net/ORDO/Orphanet_411629](http://www.orpha.net/ORDO/Orphanet_411629), [http://www.orpha.net/ORDO/Orphanet_411634](http://www.orpha.net/ORDO/Orphanet_411634)                                                                                                                                                                                                                                                                              |
 | `ICD-10:A39.1+` |              1 | [http://www.orpha.net/ORDO/Orphanet_100067](http://www.orpha.net/ORDO/Orphanet_100067)                                                                                                                                                                                                                                                                                                                                                                      |
 | `ICD-10:E35.1*` |              1 | [http://www.orpha.net/ORDO/Orphanet_100067](http://www.orpha.net/ORDO/Orphanet_100067)                                                                                                                                                                                                                                                                                                                                                                      |
+| `ICD-10:F.84.0` |              1 | [http://www.orpha.net/ORDO/Orphanet_106](http://www.orpha.net/ORDO/Orphanet_106)                                                                                                                                                                                                                                                                                                                                                                            |
 | `ICD-10:B44.1+` |              1 | [http://www.orpha.net/ORDO/Orphanet_1164](http://www.orpha.net/ORDO/Orphanet_1164)                                                                                                                                                                                                                                                                                                                                                                          |
 | `ICD-10:A54.3+` |              1 | [http://www.orpha.net/ORDO/Orphanet_1482](http://www.orpha.net/ORDO/Orphanet_1482)                                                                                                                                                                                                                                                                                                                                                                          |
 | `ICD-10:H13.1*` |              1 | [http://www.orpha.net/ORDO/Orphanet_1482](http://www.orpha.net/ORDO/Orphanet_1482)                                                                                                                                                                                                                                                                                                                                                                          |
@@ -116,9 +117,20 @@ did not match the standard pattern `^[A-Z]\d+(\.[-\d+])?$`.
 | `ICD-10:H13.3*` |              1 | [http://www.orpha.net/ORDO/Orphanet_99922](http://www.orpha.net/ORDO/Orphanet_99922)                                                                                                                                                                                                                                                                                                                                                                        |
 | `ICD-10:L12+`   |              1 | [http://www.orpha.net/ORDO/Orphanet_99922](http://www.orpha.net/ORDO/Orphanet_99922)                                                                                                                                                                                                                                                                                                                                                                        |
 
+## `MedDRA`: Medical Dictionary for Regulatory Activities Terminology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `MedDRA` (standardized to Bioregistry
+prefix [`meddra`](https://bioregistry.io/meddra)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref     |   usages_count | usages                                                                                 |
+|-------------------|----------------|----------------------------------------------------------------------------------------|
+| `MedDRA:C0239495` |              1 | [http://www.orpha.net/ORDO/Orphanet_615943](http://www.orpha.net/ORDO/Orphanet_615943) |
+
 ## `Reactome`: Reactome
 
-Overall, there were 3,343 invalid
+Overall, there were 3,349 invalid
 xrefs to external prefixed with `Reactome` (standardized to Bioregistry
 prefix [`reactome`](https://bioregistry.io/reactome)) that
 did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
@@ -326,7 +338,6 @@ did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 | `Reactome:Q15475` |              1 | [http://www.orpha.net/ORDO/Orphanet_118723](http://www.orpha.net/ORDO/Orphanet_118723)                                                                                         |
 | `Reactome:O95343` |              1 | [http://www.orpha.net/ORDO/Orphanet_118725](http://www.orpha.net/ORDO/Orphanet_118725)                                                                                         |
 | `Reactome:P49281` |              1 | [http://www.orpha.net/ORDO/Orphanet_118732](http://www.orpha.net/ORDO/Orphanet_118732)                                                                                         |
-| `Reactome:Q13621` |              1 | [http://www.orpha.net/ORDO/Orphanet_118737](http://www.orpha.net/ORDO/Orphanet_118737)                                                                                         |
 | `Reactome:P55017` |              1 | [http://www.orpha.net/ORDO/Orphanet_118740](http://www.orpha.net/ORDO/Orphanet_118740)                                                                                         |
 | `Reactome:Q9UHW9` |              1 | [http://www.orpha.net/ORDO/Orphanet_118742](http://www.orpha.net/ORDO/Orphanet_118742)                                                                                         |
 | `Reactome:P36021` |              1 | [http://www.orpha.net/ORDO/Orphanet_118746](http://www.orpha.net/ORDO/Orphanet_118746)                                                                                         |
@@ -1926,6 +1937,7 @@ did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 | `Reactome:O43502` |              1 | [http://www.orpha.net/ORDO/Orphanet_229784](http://www.orpha.net/ORDO/Orphanet_229784)                                                                                         |
 | `Reactome:Q96T60` |              1 | [http://www.orpha.net/ORDO/Orphanet_229787](http://www.orpha.net/ORDO/Orphanet_229787)                                                                                         |
 | `Reactome:Q7RTS7` |              1 | [http://www.orpha.net/ORDO/Orphanet_229791](http://www.orpha.net/ORDO/Orphanet_229791)                                                                                         |
+| `Reactome:P35968` |              1 | [http://www.orpha.net/ORDO/Orphanet_229801](http://www.orpha.net/ORDO/Orphanet_229801)                                                                                         |
 | `Reactome:P41221` |              1 | [http://www.orpha.net/ORDO/Orphanet_231387](http://www.orpha.net/ORDO/Orphanet_231387)                                                                                         |
 | `Reactome:Q96RJ3` |              1 | [http://www.orpha.net/ORDO/Orphanet_231494](http://www.orpha.net/ORDO/Orphanet_231494)                                                                                         |
 | `Reactome:P37287` |              1 | [http://www.orpha.net/ORDO/Orphanet_231527](http://www.orpha.net/ORDO/Orphanet_231527)                                                                                         |
@@ -3426,6 +3438,7 @@ did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 | `Reactome:P47869` |              1 | [http://www.orpha.net/ORDO/Orphanet_565955](http://www.orpha.net/ORDO/Orphanet_565955)                                                                                         |
 | `Reactome:P55011` |              1 | [http://www.orpha.net/ORDO/Orphanet_566049](http://www.orpha.net/ORDO/Orphanet_566049)                                                                                         |
 | `Reactome:Q01826` |              1 | [http://www.orpha.net/ORDO/Orphanet_566739](http://www.orpha.net/ORDO/Orphanet_566739)                                                                                         |
+| `Reactome:Q15811` |              1 | [http://www.orpha.net/ORDO/Orphanet_566974](http://www.orpha.net/ORDO/Orphanet_566974)                                                                                         |
 | `Reactome:Q02880` |              1 | [http://www.orpha.net/ORDO/Orphanet_567518](http://www.orpha.net/ORDO/Orphanet_567518)                                                                                         |
 | `Reactome:Q96CW1` |              1 | [http://www.orpha.net/ORDO/Orphanet_568134](http://www.orpha.net/ORDO/Orphanet_568134)                                                                                         |
 | `Reactome:Q8IZD2` |              1 | [http://www.orpha.net/ORDO/Orphanet_568147](http://www.orpha.net/ORDO/Orphanet_568147)                                                                                         |
@@ -3437,6 +3450,7 @@ did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 | `Reactome:Q9H1A4` |              1 | [http://www.orpha.net/ORDO/Orphanet_569254](http://www.orpha.net/ORDO/Orphanet_569254)                                                                                         |
 | `Reactome:Q9HCF6` |              1 | [http://www.orpha.net/ORDO/Orphanet_569267](http://www.orpha.net/ORDO/Orphanet_569267)                                                                                         |
 | `Reactome:Q9ULM3` |              1 | [http://www.orpha.net/ORDO/Orphanet_569380](http://www.orpha.net/ORDO/Orphanet_569380)                                                                                         |
+| `Reactome:Q96RD7` |              1 | [http://www.orpha.net/ORDO/Orphanet_569718](http://www.orpha.net/ORDO/Orphanet_569718)                                                                                         |
 | `Reactome:Q9NXH9` |              1 | [http://www.orpha.net/ORDO/Orphanet_569864](http://www.orpha.net/ORDO/Orphanet_569864)                                                                                         |
 | `Reactome:Q12767` |              1 | [http://www.orpha.net/ORDO/Orphanet_569870](http://www.orpha.net/ORDO/Orphanet_569870)                                                                                         |
 | `Reactome:Q13228` |              1 | [http://www.orpha.net/ORDO/Orphanet_569911](http://www.orpha.net/ORDO/Orphanet_569911)                                                                                         |
@@ -3450,6 +3464,8 @@ did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 | `Reactome:Q9UKB1` |              1 | [http://www.orpha.net/ORDO/Orphanet_580718](http://www.orpha.net/ORDO/Orphanet_580718)                                                                                         |
 | `Reactome:Q9UPN3` |              1 | [http://www.orpha.net/ORDO/Orphanet_580869](http://www.orpha.net/ORDO/Orphanet_580869)                                                                                         |
 | `Reactome:Q14651` |              1 | [http://www.orpha.net/ORDO/Orphanet_580928](http://www.orpha.net/ORDO/Orphanet_580928)                                                                                         |
+| `Reactome:O15123` |              1 | [http://www.orpha.net/ORDO/Orphanet_583333](http://www.orpha.net/ORDO/Orphanet_583333)                                                                                         |
+| `Reactome:Q9NTJ4` |              1 | [http://www.orpha.net/ORDO/Orphanet_585336](http://www.orpha.net/ORDO/Orphanet_585336)                                                                                         |
 | `Reactome:Q9H1B7` |              1 | [http://www.orpha.net/ORDO/Orphanet_585349](http://www.orpha.net/ORDO/Orphanet_585349)                                                                                         |
 | `Reactome:Q8NFP9` |              1 | [http://www.orpha.net/ORDO/Orphanet_585363](http://www.orpha.net/ORDO/Orphanet_585363)                                                                                         |
 | `Reactome:Q8N6T7` |              1 | [http://www.orpha.net/ORDO/Orphanet_586292](http://www.orpha.net/ORDO/Orphanet_586292)                                                                                         |
@@ -3462,6 +3478,8 @@ did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 | `Reactome:Q6IA69` |              1 | [http://www.orpha.net/ORDO/Orphanet_587118](http://www.orpha.net/ORDO/Orphanet_587118)                                                                                         |
 | `Reactome:Q5D0E6` |              1 | [http://www.orpha.net/ORDO/Orphanet_587127](http://www.orpha.net/ORDO/Orphanet_587127)                                                                                         |
 | `Reactome:Q9H3S7` |              1 | [http://www.orpha.net/ORDO/Orphanet_587177](http://www.orpha.net/ORDO/Orphanet_587177)                                                                                         |
+| `Reactome:P78352` |              1 | [http://www.orpha.net/ORDO/Orphanet_594386](http://www.orpha.net/ORDO/Orphanet_594386)                                                                                         |
+| `Reactome:O60784` |              1 | [http://www.orpha.net/ORDO/Orphanet_594816](http://www.orpha.net/ORDO/Orphanet_594816)                                                                                         |
 | `Reactome:Q9UPS6` |              1 | [http://www.orpha.net/ORDO/Orphanet_596992](http://www.orpha.net/ORDO/Orphanet_596992)                                                                                         |
 | `Reactome:Q13363` |              1 | [http://www.orpha.net/ORDO/Orphanet_596998](http://www.orpha.net/ORDO/Orphanet_596998)                                                                                         |
 | `Reactome:Q9H9Y6` |              1 | [http://www.orpha.net/ORDO/Orphanet_597004](http://www.orpha.net/ORDO/Orphanet_597004)                                                                                         |
