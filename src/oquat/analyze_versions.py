@@ -149,7 +149,7 @@ def _parse_version_iri(version_iri: str, obo_prefix: str):
         ("long", f"http://purl.obolibrary.org/obo/{obo_prefix}/releases/"),
         ("short", f"http://purl.obolibrary.org/obo/{obo_prefix}/"),
     ]
-    for version_type, version_iri_prefix in parts:
+    for version_length, version_iri_prefix in parts:
         if not version_iri.startswith(version_iri_prefix):
             continue
         try:
@@ -161,13 +161,14 @@ def _parse_version_iri(version_iri: str, obo_prefix: str):
             filename.startswith(f"{obo_prefix}.{ext}") for ext in ("json", "owl", "obo", "ofn")
         ):
             return None, None, None
+        version_type: str | None
         if SEMVER_PATTERN.fullmatch(version):
             version_type = "semver"
         elif DATE_PATTERN.fullmatch(version):
             version_type = "date"
         else:
             version_type = None
-        return version_type, version_type, version
+        return version_length, version_type, version
     return None, None, None
 
 
