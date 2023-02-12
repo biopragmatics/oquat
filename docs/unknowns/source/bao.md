@@ -104,8 +104,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie       |   usages | nodes                                                           |
 |-------------|----------|-----------------------------------------------------------------|
-| OGES:000022 |        1 | [UBERON:0000068](http://purl.obolibrary.org/obo/UBERON_0000068) |
-| OGES:000019 |        1 | [UBERON:0000109](http://purl.obolibrary.org/obo/UBERON_0000109) |
+| OGES:000000 |        1 | [UBERON:0000068](http://purl.obolibrary.org/obo/UBERON_0000068) |
+| OGES:000004 |        1 | [UBERON:0000109](http://purl.obolibrary.org/obo/UBERON_0000109) |
 | OGES:000026 |        1 | [UBERON:0000113](http://purl.obolibrary.org/obo/UBERON_0000113) |
 
 ## `OpenCyc`
@@ -133,7 +133,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | OpenCyc:Mx4rvVj9Q5wpEbGdrcN5Y29ycA |        1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
 | OpenCyc:Mx4rvVjMmZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) |
 | OpenCyc:Mx4rvVimZZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001264](http://purl.obolibrary.org/obo/UBERON_0001264) |
-| OpenCyc:Mx4rvViDlpwpEbGdrcN5Y29ycA |        1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
+| OpenCyc:Mx4rvVkCG5wpEbGdrcN5Y29ycA |        1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
 | OpenCyc:Mx4rEg4ZYrIbEduAAAAOpmP6tw |        1 | [UBERON:0001969](http://purl.obolibrary.org/obo/UBERON_0001969) |
 | OpenCyc:Mx4rvVjLT5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) |
 | OpenCyc:Mx4rvVjKy5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |

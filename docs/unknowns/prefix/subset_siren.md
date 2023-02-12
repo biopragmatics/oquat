@@ -9316,9 +9316,3 @@
 | SUBSET_SIREN:F10734 |        1 | [FOODON:03310734](http://purl.obolibrary.org/obo/FOODON_03310734)                                                                    |
 | SUBSET_SIREN:F17393 |        1 | [FOODON:03317393](http://purl.obolibrary.org/obo/FOODON_03317393)                                                                    |
 
-## fideo
-
-| curie              |   usages | nodes                                                           |
-|--------------------|----------|-----------------------------------------------------------------|
-| SUBSET_SIREN:F1702 |        1 | [FIDEO:00000028](http://purl.obolibrary.org/obo/FIDEO_00000028) |
-

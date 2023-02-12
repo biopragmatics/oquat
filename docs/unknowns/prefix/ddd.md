@@ -1,5 +1,11 @@
 # `ddd`
 
+## covoc
+
+| curie         |   usages | nodes                                                   |
+|---------------|----------|---------------------------------------------------------|
+| DDD:tkuijpers |        1 | [HP:0011950](http://purl.obolibrary.org/obo/HP_0011950) |
+
 ## hp
 
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -12,7 +18,7 @@
 | DDD:cmoss           |       24 | [HP:0000956](http://purl.obolibrary.org/obo/HP_0000956), [HP:0001034](http://purl.obolibrary.org/obo/HP_0001034), [HP:0002227](http://purl.obolibrary.org/obo/HP_0002227), [HP:0002286](http://purl.obolibrary.org/obo/HP_0002286), [HP:0002299](http://purl.obolibrary.org/obo/HP_0002299), ... |
 | DDD:wouwehand       |       24 | [HP:0001973](http://purl.obolibrary.org/obo/HP_0001973), [HP:0003540](http://purl.obolibrary.org/obo/HP_0003540), [HP:0005527](http://purl.obolibrary.org/obo/HP_0005527), [HP:0005528](http://purl.obolibrary.org/obo/HP_0005528), [HP:0005537](http://purl.obolibrary.org/obo/HP_0005537), ... |
 | DDD:akelly          |       24 | [HP:0002584](http://purl.obolibrary.org/obo/HP_0002584), [HP:0007420](http://purl.obolibrary.org/obo/HP_0007420), [HP:0007902](http://purl.obolibrary.org/obo/HP_0007902), [HP:0011884](http://purl.obolibrary.org/obo/HP_0011884), [HP:0011885](http://purl.obolibrary.org/obo/HP_0011885), ... |
-| DDD:awilkie         |       22 | [HP:0000293](http://purl.obolibrary.org/obo/HP_0000293), [HP:0002085](http://purl.obolibrary.org/obo/HP_0002085), [HP:0002648](http://purl.obolibrary.org/obo/HP_0002648), [HP:0005458](http://purl.obolibrary.org/obo/HP_0005458), [HP:0005474](http://purl.obolibrary.org/obo/HP_0005474), ... |
+| DDD:awilkie         |       21 | [HP:0000293](http://purl.obolibrary.org/obo/HP_0000293), [HP:0002085](http://purl.obolibrary.org/obo/HP_0002085), [HP:0005458](http://purl.obolibrary.org/obo/HP_0005458), [HP:0005474](http://purl.obolibrary.org/obo/HP_0005474), [HP:0011315](http://purl.obolibrary.org/obo/HP_0011315), ... |
 | DDD:dfitzpatrick    |       17 | [HP:0011372](http://purl.obolibrary.org/obo/HP_0011372), [HP:0011377](http://purl.obolibrary.org/obo/HP_0011377), [HP:0011380](http://purl.obolibrary.org/obo/HP_0011380), [HP:0011381](http://purl.obolibrary.org/obo/HP_0011381), [HP:0011382](http://purl.obolibrary.org/obo/HP_0011382), ... |
 | DDD:hvfirth         |       13 | [HP:0000717](http://purl.obolibrary.org/obo/HP_0000717), [HP:0001263](http://purl.obolibrary.org/obo/HP_0001263), [HP:0002376](http://purl.obolibrary.org/obo/HP_0002376), [HP:0006863](http://purl.obolibrary.org/obo/HP_0006863), [HP:0011342](http://purl.obolibrary.org/obo/HP_0011342), ... |
 | DDD:rscott          |       11 | [HP:0006732](http://purl.obolibrary.org/obo/HP_0006732), [HP:0006770](http://purl.obolibrary.org/obo/HP_0006770), [HP:0008696](http://purl.obolibrary.org/obo/HP_0008696), [HP:0011792](http://purl.obolibrary.org/obo/HP_0011792), [HP:0011793](http://purl.obolibrary.org/obo/HP_0011793), ... |

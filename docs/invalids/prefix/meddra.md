@@ -17,6 +17,7 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `MedDRA:10045MedDRA:100` |              1 | [EFO:0007529](http://www.ebi.ac.uk/efo/EFO_0007529) |
 | `MedDRA:1005MedDRA:1006` |              1 | [EFO:0009248](http://www.ebi.ac.uk/efo/EFO_0009248) |
 | `MedDRA:1000MedDRA:1002` |              1 | [EFO:0009657](http://www.ebi.ac.uk/efo/EFO_0009657) |
+| `MedDRA:C1535926`        |              1 | [EFO:0010642](http://www.ebi.ac.uk/efo/EFO_0010642) |
 | `MedDRA:1001MedDRA:1007` |              1 | [EFO:1000879](http://www.ebi.ac.uk/efo/EFO_1000879) |
 | `MedDRA:1001MedDRA:1009` |              1 | [EFO:1000879](http://www.ebi.ac.uk/efo/EFO_1000879) |
 | `MedDRA:10049MedDRA:100` |              1 | [EFO:1001835](http://www.ebi.ac.uk/efo/EFO_1001835) |

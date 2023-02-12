@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `neurolex`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 2 resources,
+`^\d+$`. Of the 3 resources,
 2 variants on the standard prefix were found: ['NLX', 'neurolex'].
 
 ## `mp`: Mammalian Phenotype Ontology
@@ -19,6 +19,15 @@ Identifiers for this prefix are given incorrectly in `mp`. See the [GitHub repos
 | `NLX:birnlex_1197`    |              1 | [MP:0008263](http://purl.obolibrary.org/obo/MP_0008263)                                                          |
 | `NLX:birnlex_1362`    |              1 | [MP:0008265](http://purl.obolibrary.org/obo/MP_0008265)                                                          |
 | `NLX:Maryann_Martone` |              1 | [MP:0009953](http://purl.obolibrary.org/obo/MP_0009953)                                                          |
+
+## `nif`: None
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref                                                           |   usages_count | usages                                                      |
+|-------------------------------------------------------------------------|----------------|-------------------------------------------------------------|
+| `neurolex:http://neurolex.org/`                                         |              1 | [PATO:0002216](http://purl.obolibrary.org/obo/PATO_0002216) |
+| `neurolex:http://neurolex.org/wiki/Category:Nitrated_Molecular_Quality` |              1 | [PATO:0002217](http://purl.obolibrary.org/obo/PATO_0002217) |
 
 ## `pato`: Phenotype And Trait Ontology
 

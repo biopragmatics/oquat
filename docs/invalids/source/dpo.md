@@ -15,7 +15,7 @@ did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 |------------------|----------------|-------------------------------------------------------------|
 | `Reactome:69278` |              1 | [FBcv:0000432](http://purl.obolibrary.org/obo/FBcv_0000432) |
 
-## `WB_REF`: WormBase database of nematode biology
+## `WB_REF`: Wormbase Gene ID
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `WB_REF` (standardized to Bioregistry

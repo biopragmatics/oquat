@@ -1,5 +1,11 @@
 # `person`
 
+## covoc
+
+| curie                |   usages | nodes                                                                                                    |
+|----------------------|----------|----------------------------------------------------------------------------------------------------------|
+| PERSON: James Malone |        2 | [EFO:0000714](http://www.ebi.ac.uk/efo/EFO_0000714), [EFO:0001426](http://www.ebi.ac.uk/efo/EFO_0001426) |
+
 ## enm
 
 | curie                |   usages | nodes                                               |

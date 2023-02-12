@@ -53,7 +53,7 @@ did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|
-| `GO:CJM`        |              1 | [ZFA:0009307](http://purl.obolibrary.org/obo/ZFA_0009307) |
+| `GO:cjm`        |              1 | [ZFA:0009307](http://purl.obolibrary.org/obo/ZFA_0009307) |
 
 ## `KUPO`: Kidney and Urinary Pathway Ontology
 
@@ -139,18 +139,16 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `ZFIN`: Zebrafish Information Network Gene
 
-Overall, there were 12 invalid
+Overall, there were 5 invalid
 xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
 prefix [`zfin`](https://bioregistry.io/zfin)) that
 did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 
-| external_xref              |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
-|----------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ZFIN:<new dbxref>`        |              6 | [ZFA:0000259](http://purl.obolibrary.org/obo/ZFA_0000259), [ZFA:0000344](http://purl.obolibrary.org/obo/ZFA_0000344), [ZFA:0000400](http://purl.obolibrary.org/obo/ZFA_0000400), [ZFA:0000424](http://purl.obolibrary.org/obo/ZFA_0000424), [ZFA:0000464](http://purl.obolibrary.org/obo/ZFA_0000464), ... |
-| `ZFIN:JCN 421-:189-198`    |              1 | [ZFA:0000443](http://purl.obolibrary.org/obo/ZFA_0000443)                                                                                                                                                                                                                                                  |
-| `ZFIN:ZDB-PUB-171118-8v`   |              1 | [ZFA:0000704](http://purl.obolibrary.org/obo/ZFA_0000704)                                                                                                                                                                                                                                                  |
-| `ZFIN:ZDB-PUB-120419-3.`   |              1 | [ZFA:0005877](http://purl.obolibrary.org/obo/ZFA_0005877)                                                                                                                                                                                                                                                  |
-| `ZFIN:ZDB-PUB-050623-3.`   |              1 | [ZFA:0001249](http://purl.obolibrary.org/obo/ZFA_0001249)                                                                                                                                                                                                                                                  |
-| `ZFIN:ZDB-PUB-961014-192.` |              1 | [ZFA:0001595](http://purl.obolibrary.org/obo/ZFA_0001595)                                                                                                                                                                                                                                                  |
-| `ZFIN:ZDB-PUB-050120-6.`   |              1 | [ZFA:0005737](http://purl.obolibrary.org/obo/ZFA_0005737)                                                                                                                                                                                                                                                  |
+| external_xref              |   usages_count | usages                                                    |
+|----------------------------|----------------|-----------------------------------------------------------|
+| `ZFIN:ZDB-PUB-171118-8v`   |              1 | [ZFA:0000704](http://purl.obolibrary.org/obo/ZFA_0000704) |
+| `ZFIN:ZDB-PUB-120419-3.`   |              1 | [ZFA:0005877](http://purl.obolibrary.org/obo/ZFA_0005877) |
+| `ZFIN:ZDB-PUB-050623-3.`   |              1 | [ZFA:0001249](http://purl.obolibrary.org/obo/ZFA_0001249) |
+| `ZFIN:ZDB-PUB-961014-192.` |              1 | [ZFA:0001595](http://purl.obolibrary.org/obo/ZFA_0001595) |
+| `ZFIN:ZDB-PUB-050120-6.`   |              1 | [ZFA:0005737](http://purl.obolibrary.org/obo/ZFA_0005737) |
 

@@ -9,6 +9,7 @@ import re
 import sys
 from collections import defaultdict
 from dataclasses import dataclass
+from functools import lru_cache
 from operator import itemgetter
 from pathlib import Path
 from typing import Any, DefaultDict, Dict, List, Optional, Set, Union
@@ -27,6 +28,8 @@ from tabulate import tabulate
 from tqdm import tqdm
 
 logger = logging.getLogger(__name__)
+
+DOWNLOAD_BEFORE_PARSING = {"caloha", "genepio"}
 
 
 def secho(s: str, fg=None) -> None:
@@ -179,7 +182,7 @@ def analyze_by_prefix(
     prefix: str, *, cache: bool = False, iri_filter: Optional[str] = None
 ) -> AnalysisResults:
     """Analyze an ontology based on a given Bioregistry prefix."""
-    parse_results = get_obograph_by_prefix(prefix)
+    parse_results = get_obograph_by_prefix(prefix, cache=prefix in DOWNLOAD_BEFORE_PARSING)
     if parse_results.graph_document is None:
         return AnalysisResults(
             results={},
@@ -351,6 +354,14 @@ def _canonicalize_dict(dd: DefaultDict[str, Set[str]]) -> Dict[str, List[str]]:
 SKIP_ISSUES = {"type", "is_a", "subPropertyOf"}
 
 
+@lru_cache(maxsize=None)
+def _get_pattern(prefix: str):
+    p = bioregistry.get_pattern(prefix)
+    if not p:
+        return None
+    return re.compile(p)
+
+
 def _aggregate_curie_issues(
     node_id,
     curie,
@@ -384,8 +395,8 @@ def _aggregate_curie_issues(
             noncanonical_prefixes[prefix][node_id] = curie
 
     # Check that the identifier validates against the prefix's regex
-    pattern = bioregistry.get_pattern(prefix)
-    if pattern and not re.match(pattern, identifier):
+    pattern = _get_pattern(prefix)
+    if pattern and pattern.fullmatch(identifier) is None:
         invalid_luids[node_id].add(curie)
 
 

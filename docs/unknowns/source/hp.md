@@ -69,7 +69,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | DDD:cmoss           |       24 | [HP:0000956](http://purl.obolibrary.org/obo/HP_0000956), [HP:0001034](http://purl.obolibrary.org/obo/HP_0001034), [HP:0002227](http://purl.obolibrary.org/obo/HP_0002227), [HP:0002286](http://purl.obolibrary.org/obo/HP_0002286), [HP:0002299](http://purl.obolibrary.org/obo/HP_0002299), ... |
 | DDD:wouwehand       |       24 | [HP:0001973](http://purl.obolibrary.org/obo/HP_0001973), [HP:0003540](http://purl.obolibrary.org/obo/HP_0003540), [HP:0005527](http://purl.obolibrary.org/obo/HP_0005527), [HP:0005528](http://purl.obolibrary.org/obo/HP_0005528), [HP:0005537](http://purl.obolibrary.org/obo/HP_0005537), ... |
 | DDD:akelly          |       24 | [HP:0002584](http://purl.obolibrary.org/obo/HP_0002584), [HP:0007420](http://purl.obolibrary.org/obo/HP_0007420), [HP:0007902](http://purl.obolibrary.org/obo/HP_0007902), [HP:0011884](http://purl.obolibrary.org/obo/HP_0011884), [HP:0011885](http://purl.obolibrary.org/obo/HP_0011885), ... |
-| DDD:awilkie         |       22 | [HP:0000293](http://purl.obolibrary.org/obo/HP_0000293), [HP:0002085](http://purl.obolibrary.org/obo/HP_0002085), [HP:0002648](http://purl.obolibrary.org/obo/HP_0002648), [HP:0005458](http://purl.obolibrary.org/obo/HP_0005458), [HP:0005474](http://purl.obolibrary.org/obo/HP_0005474), ... |
+| DDD:awilkie         |       21 | [HP:0000293](http://purl.obolibrary.org/obo/HP_0000293), [HP:0002085](http://purl.obolibrary.org/obo/HP_0002085), [HP:0005458](http://purl.obolibrary.org/obo/HP_0005458), [HP:0005474](http://purl.obolibrary.org/obo/HP_0005474), [HP:0011315](http://purl.obolibrary.org/obo/HP_0011315), ... |
 | DDD:dfitzpatrick    |       17 | [HP:0011372](http://purl.obolibrary.org/obo/HP_0011372), [HP:0011377](http://purl.obolibrary.org/obo/HP_0011377), [HP:0011380](http://purl.obolibrary.org/obo/HP_0011380), [HP:0011381](http://purl.obolibrary.org/obo/HP_0011381), [HP:0011382](http://purl.obolibrary.org/obo/HP_0011382), ... |
 | DDD:hvfirth         |       13 | [HP:0000717](http://purl.obolibrary.org/obo/HP_0000717), [HP:0001263](http://purl.obolibrary.org/obo/HP_0001263), [HP:0002376](http://purl.obolibrary.org/obo/HP_0002376), [HP:0006863](http://purl.obolibrary.org/obo/HP_0006863), [HP:0011342](http://purl.obolibrary.org/obo/HP_0011342), ... |
 | DDD:rscott          |       11 | [HP:0006732](http://purl.obolibrary.org/obo/HP_0006732), [HP:0006770](http://purl.obolibrary.org/obo/HP_0006770), [HP:0008696](http://purl.obolibrary.org/obo/HP_0008696), [HP:0011792](http://purl.obolibrary.org/obo/HP_0011792), [HP:0011793](http://purl.obolibrary.org/obo/HP_0011793), ... |
@@ -283,16 +283,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |-------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Neuromics:vstraub |       16 | [HP:0003560](http://purl.obolibrary.org/obo/HP_0003560), [HP:0003634](http://purl.obolibrary.org/obo/HP_0003634), [HP:0012548](http://purl.obolibrary.org/obo/HP_0012548), [HP:0030224](http://purl.obolibrary.org/obo/HP_0030224), [HP:0030225](http://purl.obolibrary.org/obo/HP_0030225), ... |
 
-## `OCRID`
-
-There are 1 usages of `OCRID` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OCRID).
-
-| curie                     |   usages | nodes                                                   |
-|---------------------------|----------|---------------------------------------------------------|
-| OCRID:0000-0002-0736-9199 |        1 | [HP:0004415](http://purl.obolibrary.org/obo/HP_0004415) |
-
 ## `OHSU`
 
 There are 1 usages of `OHSU` in `hp`.
@@ -302,36 +292,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |-----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | OHSU:jpgourdine |       10 | [HP:0025641](http://purl.obolibrary.org/obo/HP_0025641), [HP:0031810](http://purl.obolibrary.org/obo/HP_0031810), [HP:0031811](http://purl.obolibrary.org/obo/HP_0031811), [HP:0031812](http://purl.obolibrary.org/obo/HP_0031812), [HP:0032305](http://purl.obolibrary.org/obo/HP_0032305), ... |
-
-## `ORCIRD`
-
-There are 1 usages of `ORCIRD` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ORCIRD).
-
-| curie                      |   usages | nodes                                                   |
-|----------------------------|----------|---------------------------------------------------------|
-| ORCIRD:0000-0001-5208-3432 |        1 | [HP:0007011](http://purl.obolibrary.org/obo/HP_0007011) |
-
-## `ORDCID`
-
-There are 1 usages of `ORDCID` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ORDCID).
-
-| curie                      |   usages | nodes                                                   |
-|----------------------------|----------|---------------------------------------------------------|
-| ORDCID:0000-0001-5208-3432 |        1 | [HP:0012408](http://purl.obolibrary.org/obo/HP_0012408) |
-
-## `PIMD`
-
-There are 1 usages of `PIMD` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PIMD).
-
-| curie         |   usages | nodes                                                                                                                                                                     |
-|---------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PIMD:28276064 |        3 | [HP:0032814](http://purl.obolibrary.org/obo/HP_0032814), [HP:0032815](http://purl.obolibrary.org/obo/HP_0032815), [HP:0032816](http://purl.obolibrary.org/obo/HP_0032816) |
 
 ## `PhenoTips`
 

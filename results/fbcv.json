@@ -17,7 +17,9 @@
       "malformed_curies": {},
       "noncanonical_prefixes": {
         "FB": {
-          "http://purl.obolibrary.org/obo/FBcv_0000680": "FB:FBrf0044924"
+          "http://purl.obolibrary.org/obo/FBcv_0000680": "FB:FBrf0044924",
+          "http://purl.obolibrary.org/obo/FBcv_0007533": "FB:FBrf0044924",
+          "http://purl.obolibrary.org/obo/FBcv_0007545": "FB:FBrf0044924"
         },
         "GO_REF": {
           "http://purl.obolibrary.org/obo/FBcv_0000448": "GO_REF:0000022"
@@ -899,6 +901,8 @@
           "http://purl.obolibrary.org/obo/FBcv_0007060": "FBC:GM",
           "http://purl.obolibrary.org/obo/FBcv_0007061": "FBC:GM",
           "http://purl.obolibrary.org/obo/FBcv_0007062": "FBC:GM",
+          "http://purl.obolibrary.org/obo/FBcv_0007063": "FBC:GM",
+          "http://purl.obolibrary.org/obo/FBcv_0007064": "FBC:GM",
           "http://purl.obolibrary.org/obo/FBcv_0007504": "FBC:CP",
           "http://purl.obolibrary.org/obo/FBcv_0007505": "FBC:CP",
           "http://purl.obolibrary.org/obo/FBcv_0007506": "FBC:CP",
@@ -997,7 +1001,32 @@
           "http://purl.obolibrary.org/obo/FBcv_0007517": "GOC:curators",
           "http://purl.obolibrary.org/obo/FBcv_0007518": "GOC:curators",
           "http://purl.obolibrary.org/obo/FBcv_0007525": "GOC:sart",
-          "http://purl.obolibrary.org/obo/FBcv_0007526": "GOC:sart"
+          "http://purl.obolibrary.org/obo/FBcv_0007526": "GOC:sart",
+          "http://purl.obolibrary.org/obo/FBcv_0007527": "GOC:pr",
+          "http://purl.obolibrary.org/obo/FBcv_0007528": "GOC:ai",
+          "http://purl.obolibrary.org/obo/FBcv_0007529": "GOC:ai",
+          "http://purl.obolibrary.org/obo/FBcv_0007532": "GOC:go_curators",
+          "http://purl.obolibrary.org/obo/FBcv_0007533": "GOC:jid",
+          "http://purl.obolibrary.org/obo/FBcv_0007534": "GOC:pr",
+          "http://purl.obolibrary.org/obo/FBcv_0007535": "GOC:dph",
+          "http://purl.obolibrary.org/obo/FBcv_0007536": "GOC:pr",
+          "http://purl.obolibrary.org/obo/FBcv_0007537": "GOC:ai",
+          "http://purl.obolibrary.org/obo/FBcv_0007538": "GOC:ai",
+          "http://purl.obolibrary.org/obo/FBcv_0007539": "GOC:dph",
+          "http://purl.obolibrary.org/obo/FBcv_0007540": "GOC:dph",
+          "http://purl.obolibrary.org/obo/FBcv_0007541": "GOC:jid",
+          "http://purl.obolibrary.org/obo/FBcv_0007542": "GOC:jid",
+          "http://purl.obolibrary.org/obo/FBcv_0007544": "GOC:go_curators",
+          "http://purl.obolibrary.org/obo/FBcv_0007545": "GOC:jid",
+          "http://purl.obolibrary.org/obo/FBcv_0007546": "GOC:pr",
+          "http://purl.obolibrary.org/obo/FBcv_0007547": "GOC:dph",
+          "http://purl.obolibrary.org/obo/FBcv_0007548": "GOC:pr",
+          "http://purl.obolibrary.org/obo/FBcv_0007549": "GOC:ai",
+          "http://purl.obolibrary.org/obo/FBcv_0007550": "GOC:ai",
+          "http://purl.obolibrary.org/obo/FBcv_0007551": "GOC:dph",
+          "http://purl.obolibrary.org/obo/FBcv_0007552": "GOC:dph",
+          "http://purl.obolibrary.org/obo/FBcv_0007553": "GOC:jid",
+          "http://purl.obolibrary.org/obo/FBcv_0007554": "GOC:jid"
         }
       }
     },
@@ -1022,8 +1051,8 @@
         }
       }
     },
-    "version": "2022-08-11",
-    "version_iri": "http://purl.obolibrary.org/obo/fbcv/releases/2022-08-11/fbcv.owl",
+    "version": "2023-02-09",
+    "version_iri": "http://purl.obolibrary.org/obo/fbcv/releases/2023-02-09/fbcv.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

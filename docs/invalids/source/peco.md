@@ -4,7 +4,7 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `peco`. See the [GitHub repository](https://github.com/Planteome/plant-experimental-conditions-ontology).
 
 
-## `CAS`: CAS Chemical Registry
+## `CAS`: CAS Registry Number
 
 Overall, there were 66 invalid
 xrefs to external prefixed with `CAS` (standardized to Bioregistry

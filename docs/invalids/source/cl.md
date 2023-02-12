@@ -4,7 +4,7 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
 
 
-## `BTO`: BRENDA tissue / enzyme source
+## `BTO`: BRENDA Tissue Ontology
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `BTO` (standardized to Bioregistry
@@ -14,6 +14,158 @@ did not match the standard pattern `^\d{7}$`.
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
 | `BTO:000125`    |              1 | [CL:1000398](http://purl.obolibrary.org/obo/CL_1000398) |
+
+## `CALOHA`: CALIPHO Group Ontology of Human Anatomy
+
+Overall, there were 185 invalid
+xrefs to external prefixed with `CALOHA` (standardized to Bioregistry
+prefix [`caloha`](https://bioregistry.io/caloha)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref    |   usages_count | usages                                                                                                                                                                    |
+|------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `CALOHA:TS-0448` |              3 | [CL:0000037](http://purl.obolibrary.org/obo/CL_0000037), [CL:0000837](http://purl.obolibrary.org/obo/CL_0000837), [CL:0001024](http://purl.obolibrary.org/obo/CL_0001024) |
+| `CALOHA:TS-2397` |              2 | [CL:1001572](http://purl.obolibrary.org/obo/CL_1001572), [CL:1001572](http://purl.obolibrary.org/obo/CL_1001572)                                                          |
+| `CALOHA:TS-2398` |              2 | [CL:1001573](http://purl.obolibrary.org/obo/CL_1001573), [CL:1001573](http://purl.obolibrary.org/obo/CL_1001573)                                                          |
+| `CALOHA:TS-1251` |              2 | [CL:1001575](http://purl.obolibrary.org/obo/CL_1001575), [CL:1001575](http://purl.obolibrary.org/obo/CL_1001575)                                                          |
+| `CALOHA:TS-1252` |              2 | [CL:1001576](http://purl.obolibrary.org/obo/CL_1001576), [CL:1001576](http://purl.obolibrary.org/obo/CL_1001576)                                                          |
+| `CALOHA:TS-1253` |              2 | [CL:1001577](http://purl.obolibrary.org/obo/CL_1001577), [CL:1001577](http://purl.obolibrary.org/obo/CL_1001577)                                                          |
+| `CALOHA:TS-1254` |              2 | [CL:1001578](http://purl.obolibrary.org/obo/CL_1001578), [CL:1001578](http://purl.obolibrary.org/obo/CL_1001578)                                                          |
+| `CALOHA:TS-1256` |              2 | [CL:1001579](http://purl.obolibrary.org/obo/CL_1001579), [CL:1001579](http://purl.obolibrary.org/obo/CL_1001579)                                                          |
+| `CALOHA:TS-1257` |              2 | [CL:1001580](http://purl.obolibrary.org/obo/CL_1001580), [CL:1001580](http://purl.obolibrary.org/obo/CL_1001580)                                                          |
+| `CALOHA:TS-1258` |              2 | [CL:1001581](http://purl.obolibrary.org/obo/CL_1001581), [CL:1001581](http://purl.obolibrary.org/obo/CL_1001581)                                                          |
+| `CALOHA:TS-1261` |              2 | [CL:1001582](http://purl.obolibrary.org/obo/CL_1001582), [CL:1001582](http://purl.obolibrary.org/obo/CL_1001582)                                                          |
+| `CALOHA:TS-2377` |              2 | [CL:0002617](http://purl.obolibrary.org/obo/CL_0002617), [CL:1001583](http://purl.obolibrary.org/obo/CL_1001583)                                                          |
+| `CALOHA:TS-1271` |              2 | [CL:1001585](http://purl.obolibrary.org/obo/CL_1001585), [CL:1001585](http://purl.obolibrary.org/obo/CL_1001585)                                                          |
+| `CALOHA:TS-1272` |              2 | [CL:1001586](http://purl.obolibrary.org/obo/CL_1001586), [CL:1001586](http://purl.obolibrary.org/obo/CL_1001586)                                                          |
+| `CALOHA:TS-1273` |              2 | [CL:1001587](http://purl.obolibrary.org/obo/CL_1001587), [CL:1001587](http://purl.obolibrary.org/obo/CL_1001587)                                                          |
+| `CALOHA:TS-1274` |              2 | [CL:1001588](http://purl.obolibrary.org/obo/CL_1001588), [CL:1001588](http://purl.obolibrary.org/obo/CL_1001588)                                                          |
+| `CALOHA:TS-1275` |              2 | [CL:1001589](http://purl.obolibrary.org/obo/CL_1001589), [CL:1001589](http://purl.obolibrary.org/obo/CL_1001589)                                                          |
+| `CALOHA:TS-1276` |              2 | [CL:1001590](http://purl.obolibrary.org/obo/CL_1001590), [CL:1001590](http://purl.obolibrary.org/obo/CL_1001590)                                                          |
+| `CALOHA:TS-1277` |              2 | [CL:1001591](http://purl.obolibrary.org/obo/CL_1001591), [CL:1001591](http://purl.obolibrary.org/obo/CL_1001591)                                                          |
+| `CALOHA:TS-1278` |              2 | [CL:1001592](http://purl.obolibrary.org/obo/CL_1001592), [CL:1001592](http://purl.obolibrary.org/obo/CL_1001592)                                                          |
+| `CALOHA:TS-1279` |              2 | [CL:1001593](http://purl.obolibrary.org/obo/CL_1001593), [CL:1001593](http://purl.obolibrary.org/obo/CL_1001593)                                                          |
+| `CALOHA:TS-1281` |              2 | [CL:1001595](http://purl.obolibrary.org/obo/CL_1001595), [CL:1001595](http://purl.obolibrary.org/obo/CL_1001595)                                                          |
+| `CALOHA:TS-1282` |              2 | [CL:1001596](http://purl.obolibrary.org/obo/CL_1001596), [CL:1001596](http://purl.obolibrary.org/obo/CL_1001596)                                                          |
+| `CALOHA:TS-1283` |              2 | [CL:1001597](http://purl.obolibrary.org/obo/CL_1001597), [CL:1001597](http://purl.obolibrary.org/obo/CL_1001597)                                                          |
+| `CALOHA:TS-1286` |              2 | [CL:1001598](http://purl.obolibrary.org/obo/CL_1001598), [CL:1001598](http://purl.obolibrary.org/obo/CL_1001598)                                                          |
+| `CALOHA:TS-1242` |              2 | [CL:1001599](http://purl.obolibrary.org/obo/CL_1001599), [CL:1001599](http://purl.obolibrary.org/obo/CL_1001599)                                                          |
+| `CALOHA:TS-2177` |              2 | [CL:1001601](http://purl.obolibrary.org/obo/CL_1001601), [CL:1001601](http://purl.obolibrary.org/obo/CL_1001601)                                                          |
+| `CALOHA:TS-2372` |              2 | [CL:1001602](http://purl.obolibrary.org/obo/CL_1001602), [CL:1001602](http://purl.obolibrary.org/obo/CL_1001602)                                                          |
+| `CALOHA:TS-0576` |              2 | [CL:1001603](http://purl.obolibrary.org/obo/CL_1001603), [CL:1001603](http://purl.obolibrary.org/obo/CL_1001603)                                                          |
+| `CALOHA:TS-2109` |              2 | [CL:1001610](http://purl.obolibrary.org/obo/CL_1001610), [CL:1001610](http://purl.obolibrary.org/obo/CL_1001610)                                                          |
+| `CALOHA:TS-2359` |              2 | [CL:1001611](http://purl.obolibrary.org/obo/CL_1001611), [CL:1001611](http://purl.obolibrary.org/obo/CL_1001611)                                                          |
+| `CALOHA:TS-0949` |              2 | [CL:0000019](http://purl.obolibrary.org/obo/CL_0000019), [CL:0000408](http://purl.obolibrary.org/obo/CL_0000408)                                                          |
+| `CALOHA:TS-2086` |              2 | [CL:0000034](http://purl.obolibrary.org/obo/CL_0000034), [CL:0000723](http://purl.obolibrary.org/obo/CL_0000723)                                                          |
+| `CALOHA:TS-0688` |              2 | [CL:0000043](http://purl.obolibrary.org/obo/CL_0000043), [CL:0000775](http://purl.obolibrary.org/obo/CL_0000775)                                                          |
+| `CALOHA:TS-0898` |              2 | [CL:0000218](http://purl.obolibrary.org/obo/CL_0000218), [CL:0002573](http://purl.obolibrary.org/obo/CL_0002573)                                                          |
+| `CALOHA:TS-0290` |              2 | [CL:0000232](http://purl.obolibrary.org/obo/CL_0000232), [CL:0000764](http://purl.obolibrary.org/obo/CL_0000764)                                                          |
+| `CALOHA:TS-0864` |              2 | [CL:0000558](http://purl.obolibrary.org/obo/CL_0000558), [CL:0002422](http://purl.obolibrary.org/obo/CL_0002422)                                                          |
+| `CALOHA:TS-0115` |              2 | [CL:0000746](http://purl.obolibrary.org/obo/CL_0000746), [CL:0002494](http://purl.obolibrary.org/obo/CL_0002494)                                                          |
+| `CALOHA:TS-0190` |              2 | [CL:0000794](http://purl.obolibrary.org/obo/CL_0000794), [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910)                                                          |
+| `CALOHA:TS-0819` |              2 | [CL:0000817](http://purl.obolibrary.org/obo/CL_0000817), [CL:0000955](http://purl.obolibrary.org/obo/CL_0000955)                                                          |
+| `CALOHA:TS-1042` |              2 | [CL:0000893](http://purl.obolibrary.org/obo/CL_0000893), [CL:0002420](http://purl.obolibrary.org/obo/CL_0002420)                                                          |
+| `CALOHA:TS-0263` |              2 | [CL:0002321](http://purl.obolibrary.org/obo/CL_0002321), [CL:0002322](http://purl.obolibrary.org/obo/CL_0002322)                                                          |
+| `CALOHA:TS-2035` |              1 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000)                                                                                                                   |
+| `CALOHA:TS-0951` |              1 | [CL:0000017](http://purl.obolibrary.org/obo/CL_0000017)                                                                                                                   |
+| `CALOHA:TS-0950` |              1 | [CL:0000018](http://purl.obolibrary.org/obo/CL_0000018)                                                                                                                   |
+| `CALOHA:TS-2193` |              1 | [CL:0000020](http://purl.obolibrary.org/obo/CL_0000020)                                                                                                                   |
+| `CALOHA:TS-0711` |              1 | [CL:0000023](http://purl.obolibrary.org/obo/CL_0000023)                                                                                                                   |
+| `CALOHA:TS-2191` |              1 | [CL:0000025](http://purl.obolibrary.org/obo/CL_0000025)                                                                                                                   |
+| `CALOHA:TS-1195` |              1 | [CL:0000040](http://purl.obolibrary.org/obo/CL_0000040)                                                                                                                   |
+| `CALOHA:TS-2360` |              1 | [CL:0000047](http://purl.obolibrary.org/obo/CL_0000047)                                                                                                                   |
+| `CALOHA:TS-0650` |              1 | [CL:0000056](http://purl.obolibrary.org/obo/CL_0000056)                                                                                                                   |
+| `CALOHA:TS-0362` |              1 | [CL:0000057](http://purl.obolibrary.org/obo/CL_0000057)                                                                                                                   |
+| `CALOHA:TS-0696` |              1 | [CL:0000060](http://purl.obolibrary.org/obo/CL_0000060)                                                                                                                   |
+| `CALOHA:TS-1164` |              1 | [CL:0000061](http://purl.obolibrary.org/obo/CL_0000061)                                                                                                                   |
+| `CALOHA:TS-0720` |              1 | [CL:0000062](http://purl.obolibrary.org/obo/CL_0000062)                                                                                                                   |
+| `CALOHA:TS-2026` |              1 | [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066)                                                                                                                   |
+| `CALOHA:TS-1249` |              1 | [CL:0000076](http://purl.obolibrary.org/obo/CL_0000076)                                                                                                                   |
+| `CALOHA:TS-1001` |              1 | [CL:0000084](http://purl.obolibrary.org/obo/CL_0000084)                                                                                                                   |
+| `CALOHA:TS-0721` |              1 | [CL:0000092](http://purl.obolibrary.org/obo/CL_0000092)                                                                                                                   |
+| `CALOHA:TS-0422` |              1 | [CL:0000094](http://purl.obolibrary.org/obo/CL_0000094)                                                                                                                   |
+| `CALOHA:TS-0603` |              1 | [CL:0000097](http://purl.obolibrary.org/obo/CL_0000097)                                                                                                                   |
+| `CALOHA:TS-0278` |              1 | [CL:0000115](http://purl.obolibrary.org/obo/CL_0000115)                                                                                                                   |
+| `CALOHA:TS-0845` |              1 | [CL:0000121](http://purl.obolibrary.org/obo/CL_0000121)                                                                                                                   |
+| `CALOHA:TS-0415` |              1 | [CL:0000125](http://purl.obolibrary.org/obo/CL_0000125)                                                                                                                   |
+| `CALOHA:TS-2027` |              1 | [CL:0000126](http://purl.obolibrary.org/obo/CL_0000126)                                                                                                                   |
+| `CALOHA:TS-0060` |              1 | [CL:0000127](http://purl.obolibrary.org/obo/CL_0000127)                                                                                                                   |
+| `CALOHA:TS-0709` |              1 | [CL:0000128](http://purl.obolibrary.org/obo/CL_0000128)                                                                                                                   |
+| `CALOHA:TS-0172` |              1 | [CL:0000132](http://purl.obolibrary.org/obo/CL_0000132)                                                                                                                   |
+| `CALOHA:TS-0012` |              1 | [CL:0000136](http://purl.obolibrary.org/obo/CL_0000136)                                                                                                                   |
+| `CALOHA:TS-1167` |              1 | [CL:0000137](http://purl.obolibrary.org/obo/CL_0000137)                                                                                                                   |
+| `CALOHA:TS-0138` |              1 | [CL:0000138](http://purl.obolibrary.org/obo/CL_0000138)                                                                                                                   |
+| `CALOHA:TS-0613` |              1 | [CL:0000148](http://purl.obolibrary.org/obo/CL_0000148)                                                                                                                   |
+| `CALOHA:TS-2085` |              1 | [CL:0000150](http://purl.obolibrary.org/obo/CL_0000150)                                                                                                                   |
+| `CALOHA:TS-1150` |              1 | [CL:0000178](http://purl.obolibrary.org/obo/CL_0000178)                                                                                                                   |
+| `CALOHA:TS-0454` |              1 | [CL:0000182](http://purl.obolibrary.org/obo/CL_0000182)                                                                                                                   |
+| `CALOHA:TS-2379` |              1 | [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185)                                                                                                                   |
+| `CALOHA:TS-2032` |              1 | [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187)                                                                                                                   |
+| `CALOHA:TS-2158` |              1 | [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188)                                                                                                                   |
+| `CALOHA:TS-2159` |              1 | [CL:0000192](http://purl.obolibrary.org/obo/CL_0000192)                                                                                                                   |
+| `CALOHA:TS-0868` |              1 | [CL:0000210](http://purl.obolibrary.org/obo/CL_0000210)                                                                                                                   |
+| `CALOHA:TS-0995` |              1 | [CL:0000214](http://purl.obolibrary.org/obo/CL_0000214)                                                                                                                   |
+| `CALOHA:TS-0922` |              1 | [CL:0000216](http://purl.obolibrary.org/obo/CL_0000216)                                                                                                                   |
+| `CALOHA:TS-0803` |              1 | [CL:0000233](http://purl.obolibrary.org/obo/CL_0000233)                                                                                                                   |
+| `CALOHA:TS-0587` |              1 | [CL:0000235](http://purl.obolibrary.org/obo/CL_0000235)                                                                                                                   |
+| `CALOHA:TS-0068` |              1 | [CL:0000236](http://purl.obolibrary.org/obo/CL_0000236)                                                                                                                   |
+| `CALOHA:TS-0395` |              1 | [CL:0000300](http://purl.obolibrary.org/obo/CL_0000300)                                                                                                                   |
+| `CALOHA:TS-0500` |              1 | [CL:0000312](http://purl.obolibrary.org/obo/CL_0000312)                                                                                                                   |
+| `CALOHA:TS-2168` |              1 | [CL:0000322](http://purl.obolibrary.org/obo/CL_0000322)                                                                                                                   |
+| `CALOHA:TS-0283` |              1 | [CL:0000362](http://purl.obolibrary.org/obo/CL_0000362)                                                                                                                   |
+| `CALOHA:TS-2140` |              1 | [CL:0000446](http://purl.obolibrary.org/obo/CL_0000446)                                                                                                                   |
+| `CALOHA:TS-1119` |              1 | [CL:0000448](http://purl.obolibrary.org/obo/CL_0000448)                                                                                                                   |
+| `CALOHA:TS-0099` |              1 | [CL:0000449](http://purl.obolibrary.org/obo/CL_0000449)                                                                                                                   |
+| `CALOHA:TS-0194` |              1 | [CL:0000451](http://purl.obolibrary.org/obo/CL_0000451)                                                                                                                   |
+| `CALOHA:TS-2375` |              1 | [CL:0000453](http://purl.obolibrary.org/obo/CL_0000453)                                                                                                                   |
+| `CALOHA:TS-1146` |              1 | [CL:0000492](http://purl.obolibrary.org/obo/CL_0000492)                                                                                                                   |
+| `CALOHA:TS-0729` |              1 | [CL:0000501](http://purl.obolibrary.org/obo/CL_0000501)                                                                                                                   |
+| `CALOHA:TS-0683` |              1 | [CL:0000540](http://purl.obolibrary.org/obo/CL_0000540)                                                                                                                   |
+| `CALOHA:TS-0583` |              1 | [CL:0000542](http://purl.obolibrary.org/obo/CL_0000542)                                                                                                                   |
+| `CALOHA:TS-0610` |              1 | [CL:0000553](http://purl.obolibrary.org/obo/CL_0000553)                                                                                                                   |
+| `CALOHA:TS-0611` |              1 | [CL:0000556](http://purl.obolibrary.org/obo/CL_0000556)                                                                                                                   |
+| `CALOHA:TS-0866` |              1 | [CL:0000573](http://purl.obolibrary.org/obo/CL_0000573)                                                                                                                   |
+| `CALOHA:TS-0173` |              1 | [CL:0000575](http://purl.obolibrary.org/obo/CL_0000575)                                                                                                                   |
+| `CALOHA:TS-0638` |              1 | [CL:0000576](http://purl.obolibrary.org/obo/CL_0000576)                                                                                                                   |
+| `CALOHA:TS-0030` |              1 | [CL:0000583](http://purl.obolibrary.org/obo/CL_0000583)                                                                                                                   |
+| `CALOHA:TS-0870` |              1 | [CL:0000604](http://purl.obolibrary.org/obo/CL_0000604)                                                                                                                   |
+| `CALOHA:TS-0664` |              1 | [CL:0000623](http://purl.obolibrary.org/obo/CL_0000623)                                                                                                                   |
+| `CALOHA:TS-0452` |              1 | [CL:0000632](http://purl.obolibrary.org/obo/CL_0000632)                                                                                                                   |
+| `CALOHA:TS-0617` |              1 | [CL:0000650](http://purl.obolibrary.org/obo/CL_0000650)                                                                                                                   |
+| `CALOHA:TS-2194` |              1 | [CL:0000656](http://purl.obolibrary.org/obo/CL_0000656)                                                                                                                   |
+| `CALOHA:TS-2195` |              1 | [CL:0000657](http://purl.obolibrary.org/obo/CL_0000657)                                                                                                                   |
+| `CALOHA:TS-2157` |              1 | [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737)                                                                                                                   |
+| `CALOHA:TS-0549` |              1 | [CL:0000738](http://purl.obolibrary.org/obo/CL_0000738)                                                                                                                   |
+| `CALOHA:TS-0647` |              1 | [CL:0000763](http://purl.obolibrary.org/obo/CL_0000763)                                                                                                                   |
+| `CALOHA:TS-0289` |              1 | [CL:0000765](http://purl.obolibrary.org/obo/CL_0000765)                                                                                                                   |
+| `CALOHA:TS-0073` |              1 | [CL:0000767](http://purl.obolibrary.org/obo/CL_0000767)                                                                                                                   |
+| `CALOHA:TS-0279` |              1 | [CL:0000771](http://purl.obolibrary.org/obo/CL_0000771)                                                                                                                   |
+| `CALOHA:TS-0825` |              1 | [CL:0000836](http://purl.obolibrary.org/obo/CL_0000836)                                                                                                                   |
+| `CALOHA:TS-2025` |              1 | [CL:0000838](http://purl.obolibrary.org/obo/CL_0000838)                                                                                                                   |
+| `CALOHA:TS-2099` |              1 | [CL:0000839](http://purl.obolibrary.org/obo/CL_0000839)                                                                                                                   |
+| `CALOHA:TS-0768` |              1 | [CL:0000842](http://purl.obolibrary.org/obo/CL_0000842)                                                                                                                   |
+| `CALOHA:TS-2017` |              1 | [CL:0000988](http://purl.obolibrary.org/obo/CL_0000988)                                                                                                                   |
+| `CALOHA:TS-0737` |              1 | [CL:0002064](http://purl.obolibrary.org/obo/CL_0002064)                                                                                                                   |
+| `CALOHA:TS-1106` |              1 | [CL:0002139](http://purl.obolibrary.org/obo/CL_0002139)                                                                                                                   |
+| `CALOHA:TS-0112` |              1 | [CL:0002144](http://purl.obolibrary.org/obo/CL_0002144)                                                                                                                   |
+| `CALOHA:TS-0195` |              1 | [CL:0002148](http://purl.obolibrary.org/obo/CL_0002148)                                                                                                                   |
+| `CALOHA:TS-0940` |              1 | [CL:0002211](http://purl.obolibrary.org/obo/CL_0002211)                                                                                                                   |
+| `CALOHA:TS-1266` |              1 | [CL:0002255](http://purl.obolibrary.org/obo/CL_0002255)                                                                                                                   |
+| `CALOHA:TS-1285` |              1 | [CL:0002258](http://purl.obolibrary.org/obo/CL_0002258)                                                                                                                   |
+| `CALOHA:TS-1040` |              1 | [CL:0002293](http://purl.obolibrary.org/obo/CL_0002293)                                                                                                                   |
+| `CALOHA:TS-1280` |              1 | [CL:0002313](http://purl.obolibrary.org/obo/CL_0002313)                                                                                                                   |
+| `CALOHA:TS-2040` |              1 | [CL:0002319](http://purl.obolibrary.org/obo/CL_0002319)                                                                                                                   |
+| `CALOHA:TS-2096` |              1 | [CL:0002320](http://purl.obolibrary.org/obo/CL_0002320)                                                                                                                   |
+| `CALOHA:TS-2378` |              1 | [CL:0002324](http://purl.obolibrary.org/obo/CL_0002324)                                                                                                                   |
+| `CALOHA:TS-0047` |              1 | [CL:0002544](http://purl.obolibrary.org/obo/CL_0002544)                                                                                                                   |
+| `CALOHA:TS-0575` |              1 | [CL:0002553](http://purl.obolibrary.org/obo/CL_0002553)                                                                                                                   |
+| `CALOHA:TS-0935` |              1 | [CL:0002620](http://purl.obolibrary.org/obo/CL_0002620)                                                                                                                   |
+| `CALOHA:TS-1284` |              1 | [CL:0002659](http://purl.obolibrary.org/obo/CL_0002659)                                                                                                                   |
+| `CALOHA:TS-2374` |              1 | [CL:1000458](http://purl.obolibrary.org/obo/CL_1000458)                                                                                                                   |
+| `CALOHA:TS-0385` |              1 | [CL:1001606](http://purl.obolibrary.org/obo/CL_1001606)                                                                                                                   |
+| `CALOHA:TS-0056` |              1 | [CL:1001607](http://purl.obolibrary.org/obo/CL_1001607)                                                                                                                   |
+| `CALOHA:TS-0384` |              1 | [CL:1001608](http://purl.obolibrary.org/obo/CL_1001608)                                                                                                                   |
+| `CALOHA:TS-0643` |              1 | [CL:1001609](http://purl.obolibrary.org/obo/CL_1001609)                                                                                                                   |
 
 ## `CARO`: Common Anatomy Reference Ontology
 
@@ -46,7 +198,7 @@ did not match the standard pattern `^\d{7}$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `DOI` (standardized to Bioregistry
 prefix [`doi`](https://bioregistry.io/doi)) that
-did not match the standard pattern `^(doi\:)?\d{2}\.\d{4}.*$`.
+did not match the standard pattern `^10.\d{2,9}/.*$`.
 
 | external_xref                               |   usages_count | usages                                                  |
 |---------------------------------------------|----------------|---------------------------------------------------------|

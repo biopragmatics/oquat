@@ -11,6 +11,9 @@
           "http://purl.obolibrary.org/obo/ExO_0000014": "MSH:D057231",
           "http://purl.obolibrary.org/obo/ExO_0000015": "MSH:D011203"
         },
+        "MSH2010_2010_02_22": {
+          "http://purl.obolibrary.org/obo/ExO_0000079": "MSH2010_2010_02_22:D004194"
+        },
         "NCIThesaurus": {
           "http://purl.obolibrary.org/obo/ExO_0000085": "NCIThesaurus:C1514468"
         }
@@ -67,9 +70,6 @@
           "http://purl.obolibrary.org/obo/ExO_0000031": "GOC:hjd",
           "http://purl.obolibrary.org/obo/ExO_0000059": "GOC:hjd",
           "http://purl.obolibrary.org/obo/ExO_0000060": "GOC:hjd"
-        },
-        "MSH2010_2010_02_22": {
-          "http://purl.obolibrary.org/obo/ExO_0000079": "MSH2010_2010_02_22:D004194"
         },
         "SYOExO": {
           "http://purl.obolibrary.org/obo/ExO_0000080": "SYOExO:14974"

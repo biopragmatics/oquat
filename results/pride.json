@@ -3,65 +3,21 @@
     "graph_id": "http://purl.obolibrary.org/obo/TEMP",
     "prov_pack": {
       "invalid_luids": {
-        "http://purl.obolibrary.org/obo/PRIDE_0000099": [
+        "http://purl.obolibrary.org/obo/MS_1000044": [
           "PRIDE:PRIDE"
         ],
-        "http://purl.obolibrary.org/obo/PRIDE_0000100": [
+        "http://purl.obolibrary.org/obo/MS_1000045": [
           "PRIDE:PRIDE"
-        ]
-      },
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "Curator": {
-          "http://purl.obolibrary.org/obo/PRIDE_0000130": "Curator:Rc"
-        }
-      }
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/PRIDE_0000104": [
+        ],
+        "http://purl.obolibrary.org/obo/MS_1000451": [
           "PRIDE:PRIDE"
-        ]
-      },
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "value-type": {
-          "http://purl.obolibrary.org/obo/PRIDE_0000400": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000403": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000404": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000406": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000407": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000408": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000409": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000410": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000411": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000413": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000448": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000449": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000464": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000465": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000466": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000467": "value-type:xsd:string",
-          "http://purl.obolibrary.org/obo/PRIDE_0000468": "value-type:xsd:string"
-        }
-      }
-    }
-  },
-  "http://purl.obolibrary.org/obo/chmo.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/chmo.owl",
-    "prov_pack": {
-      "invalid_luids": {
+        ],
+        "http://purl.obolibrary.org/obo/MS_1002038": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/NCIT_C69199": [
+          "PRIDE:PRIDE"
+        ],
         "http://purl.obolibrary.org/obo/OBCS_0000058": [
           "OBCS:YQH"
         ],
@@ -141,6 +97,1068 @@
         ],
         "http://purl.obolibrary.org/obo/OBI_0600014": [
           "obi:bp"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000012": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000019": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000020": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000021": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000022": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000023": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000024": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000026": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000027": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000039": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000050": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000051": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000052": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000053": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000054": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000055": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000057": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000065": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000066": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000069": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000070": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000097": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000098": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000099": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000100": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000101": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000102": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000103": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000104": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000105": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000106": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000107": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000108": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000109": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000110": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000111": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000112": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000113": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000122": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000123": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000124": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000125": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000126": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000127": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000128": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000129": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000131": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000132": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000133": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000134": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000135": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000136": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000137": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000138": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000139": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000140": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000141": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000142": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000143": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000144": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000145": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000148": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000149": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000150": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000151": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000152": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000153": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000154": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000155": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000156": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000157": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000160": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000161": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000162": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000163": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000164": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000165": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000166": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000167": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000172": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000173": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000174": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000175": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000176": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000177": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000178": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000179": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000180": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000181": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000182": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000183": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000184": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000185": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000186": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000187": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000188": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000189": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000190": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000191": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000192": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000193": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000194": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000195": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000196": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000197": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000198": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000199": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000200": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000201": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000202": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000203": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000204": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000205": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000206": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000207": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000208": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000209": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000210": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000211": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000212": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000213": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000214": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000215": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000216": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000217": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000218": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000219": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000220": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000221": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000222": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000223": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000224": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000225": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000226": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000227": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000228": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000229": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000230": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000231": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000232": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000233": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000234": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000235": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000236": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000237": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000238": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000239": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000240": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000241": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000242": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000243": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000244": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000245": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000246": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000247": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000248": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000249": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000250": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000251": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000252": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000253": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000254": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000255": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000256": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000257": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000258": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000259": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000260": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000261": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000262": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000263": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000272": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000279": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000280": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000281": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000282": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000283": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000284": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000300": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000301": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000302": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000303": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000304": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000305": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000406": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000407": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000408": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000409": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000410": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000411": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000412": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000413": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000414": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000415": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000416": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000417": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000418": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000419": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000420": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000421": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000422": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000423": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000424": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000442": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000443": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000444": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000445": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000446": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000447": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000450": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000451": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000452": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000453": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000454": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000458": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000459": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000461": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000462": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000463": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000470": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000471": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000472": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000473": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000474": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000475": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000476": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000477": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000478": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000479": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000480": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000481": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000482": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000483": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000484": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000485": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000487": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000488": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000489": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000490": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000491": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000492": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000493": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000494": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000495": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000496": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000497": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000498": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000499": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000500": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000501": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000502": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000503": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000504": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000505": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000506": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000507": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000508": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000509": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000510": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000511": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000512": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000513": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000514": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000515": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000516": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000517": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000518": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000519": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000520": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000521": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000522": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000523": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000524": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000525": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000526": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000527": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000528": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000529": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000530": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000539": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000540": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000541": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000542": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000543": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000544": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000545": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000546": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000547": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000548": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000549": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000550": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000551": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000552": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000553": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000554": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000555": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000556": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000557": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000558": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000559": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000560": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000561": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000562": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000563": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000564": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000565": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000566": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000567": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000568": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000569": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000570": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000571": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000572": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000573": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000574": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000575": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000576": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000577": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000578": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000579": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000580": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000581": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000582": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000583": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000584": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000585": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000586": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000587": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000588": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000589": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000590": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000591": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000592": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000593": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000594": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000595": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000596": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000597": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000598": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000599": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000600": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000601": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000602": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000603": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000604": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000605": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000606": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000607": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000608": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000609": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000610": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000632": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000633": [
+          "PRIDE:PRIDE"
+        ],
+        "http://purl.obolibrary.org/obo/PRIDE_0000634": [
+          "PRIDE:PRIDE"
         ]
       },
       "label": "Provenance Xrefs",
@@ -149,6 +1167,9 @@
       "unknown_prefixes": {
         "10.1051/jphyscol": {
           "http://purl.obolibrary.org/obo/CHMO_0000317": "10.1051/jphyscol:19879119"
+        },
+        "Curator": {
+          "http://purl.obolibrary.org/obo/PRIDE_0000130": "Curator:Rc"
         },
         "Orange": {
           "http://purl.obolibrary.org/obo/CHMO_0000010": "Orange:8.5.4",
@@ -612,14 +1633,36 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2022-04-19",
-    "version_iri": "http://purl.obolibrary.org/obo/chmo/releases/2022-04-19/chmo.owl",
     "xref_pack": {
-      "invalid_luids": {},
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/PRIDE_0000104": [
+          "PRIDE:PRIDE"
+        ]
+      },
       "label": "Node Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+      "unknown_prefixes": {
+        "value-type": {
+          "http://purl.obolibrary.org/obo/PRIDE_0000400": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000403": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000404": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000406": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000407": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000408": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000409": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000410": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000411": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000413": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000448": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000449": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000464": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000465": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000466": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000467": "value-type:xsd:string",
+          "http://purl.obolibrary.org/obo/PRIDE_0000468": "value-type:xsd:string"
+        }
+      }
     }
   }
 }

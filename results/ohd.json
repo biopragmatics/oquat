@@ -15,8 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2016-06-27",
-    "version_iri": "http://purl.obolibrary.org/obo/2016-06-27/ohd-inferred.owl",
+    "version": "2022-10-10",
+    "version_iri": "http://purl.obolibrary.org/obo/ohd/releases/2022-10-10/ohd.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

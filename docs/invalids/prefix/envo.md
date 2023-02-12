@@ -22,13 +22,13 @@ Identifiers for this prefix are given incorrectly in `envo`. See the [GitHub rep
 | `EnvO:EnvO`     |              2 | [ENVO:00002036](http://purl.obolibrary.org/obo/ENVO_00002036), [ENVO:01000739](http://purl.obolibrary.org/obo/ENVO_01000739) |
 | `ENVO:cjm`      |              2 | [ENVO:00005774](http://purl.obolibrary.org/obo/ENVO_00005774), [ENVO:2000000](http://purl.obolibrary.org/obo/ENVO_2000000)   |
 
-## `idomal`: Malaria Ontology
+## `nif`: None
 
-Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/IDOMAL).
+Identifiers for this prefix are given incorrectly in `nif`.
 
-| external_xref   |   usages_count | usages                                                        |
-|-----------------|----------------|---------------------------------------------------------------|
-| `EnvO:EnvO`     |              1 | [ENVO:00002036](http://purl.obolibrary.org/obo/ENVO_00002036) |
+| external_xref   |   usages_count | usages                                                                                                                                                                                |
+|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `ENVO:pb`       |              3 | [PATO:0015017](http://purl.obolibrary.org/obo/PATO_0015017), [PATO:0015018](http://purl.obolibrary.org/obo/PATO_0015018), [PATO:0015029](http://purl.obolibrary.org/obo/PATO_0015029) |
 
 ## `pato`: Phenotype And Trait Ontology
 

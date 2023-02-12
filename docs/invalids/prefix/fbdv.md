@@ -7,7 +7,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 ## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given incorrectly in `bao`.
+Identifiers for this prefix are given incorrectly in `bao`. See the [GitHub repository](https://github.com/BioAssayOntology/BAO/wiki).
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

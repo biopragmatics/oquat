@@ -6,7 +6,7 @@ for node, synonym, and definition cross-references in `chebi`. See the [GitHub r
 
 ## `AGR`: Agricultural Online Access
 
-Overall, there were 1,137 invalid
+Overall, there were 1,169 invalid
 xrefs to external prefixed with `AGR` (standardized to Bioregistry
 prefix [`agricola`](https://bioregistry.io/agricola)) that
 did not match the standard pattern `^\d+$`.
@@ -36,6 +36,7 @@ did not match the standard pattern `^\d+$`.
 | `AGR:IND44433125`  |              2 | [CHEBI:172935](http://purl.obolibrary.org/obo/CHEBI_172935), [CHEBI:173119](http://purl.obolibrary.org/obo/CHEBI_173119)                                                          |
 | `AGR:IND605263906` |              2 | [CHEBI:172946](http://purl.obolibrary.org/obo/CHEBI_172946), [CHEBI:88912](http://purl.obolibrary.org/obo/CHEBI_88912)                                                            |
 | `AGR:IND21638737`  |              2 | [CHEBI:177907](http://purl.obolibrary.org/obo/CHEBI_177907), [CHEBI:180471](http://purl.obolibrary.org/obo/CHEBI_180471)                                                          |
+| `AGR:IND607232702` |              2 | [CHEBI:194138](http://purl.obolibrary.org/obo/CHEBI_194138), [CHEBI:194139](http://purl.obolibrary.org/obo/CHEBI_194139)                                                          |
 | `AGR:IND607266641` |              2 | [CHEBI:33275](http://purl.obolibrary.org/obo/CHEBI_33275), [CHEBI:47771](http://purl.obolibrary.org/obo/CHEBI_47771)                                                              |
 | `AGR:IND43826632`  |              2 | [CHEBI:53627](http://purl.obolibrary.org/obo/CHEBI_53627), [CHEBI:53644](http://purl.obolibrary.org/obo/CHEBI_53644)                                                              |
 | `AGR:IND44360965`  |              2 | [CHEBI:62952](http://purl.obolibrary.org/obo/CHEBI_62952), [CHEBI:63215](http://purl.obolibrary.org/obo/CHEBI_63215)                                                              |
@@ -425,6 +426,8 @@ did not match the standard pattern `^\d+$`.
 | `AGR:IND605414831` |              1 | [CHEBI:168822](http://purl.obolibrary.org/obo/CHEBI_168822)                                                                                                                       |
 | `AGR:IND605760412` |              1 | [CHEBI:168822](http://purl.obolibrary.org/obo/CHEBI_168822)                                                                                                                       |
 | `AGR:IND44338055`  |              1 | [CHEBI:171656](http://purl.obolibrary.org/obo/CHEBI_171656)                                                                                                                       |
+| `AGR:IND43763237`  |              1 | [CHEBI:172060](http://purl.obolibrary.org/obo/CHEBI_172060)                                                                                                                       |
+| `AGR:IND44563111`  |              1 | [CHEBI:172060](http://purl.obolibrary.org/obo/CHEBI_172060)                                                                                                                       |
 | `AGR:IND20399496`  |              1 | [CHEBI:172109](http://purl.obolibrary.org/obo/CHEBI_172109)                                                                                                                       |
 | `AGR:IND20605654`  |              1 | [CHEBI:172109](http://purl.obolibrary.org/obo/CHEBI_172109)                                                                                                                       |
 | `AGR:IND20605658`  |              1 | [CHEBI:172109](http://purl.obolibrary.org/obo/CHEBI_172109)                                                                                                                       |
@@ -479,6 +482,26 @@ did not match the standard pattern `^\d+$`.
 | `AGR:IND23330970`  |              1 | [CHEBI:190301](http://purl.obolibrary.org/obo/CHEBI_190301)                                                                                                                       |
 | `AGR:IND605569220` |              1 | [CHEBI:190475](http://purl.obolibrary.org/obo/CHEBI_190475)                                                                                                                       |
 | `AGR:IND607710400` |              1 | [CHEBI:190522](http://purl.obolibrary.org/obo/CHEBI_190522)                                                                                                                       |
+| `AGR:IND20623568`  |              1 | [CHEBI:192381](http://purl.obolibrary.org/obo/CHEBI_192381)                                                                                                                       |
+| `AGR:IND601124298` |              1 | [CHEBI:192702](http://purl.obolibrary.org/obo/CHEBI_192702)                                                                                                                       |
+| `AGR:IND44433140`  |              1 | [CHEBI:192759](http://purl.obolibrary.org/obo/CHEBI_192759)                                                                                                                       |
+| `AGR:IND43834209`  |              1 | [CHEBI:192781](http://purl.obolibrary.org/obo/CHEBI_192781)                                                                                                                       |
+| `AGR:IND20537719`  |              1 | [CHEBI:192967](http://purl.obolibrary.org/obo/CHEBI_192967)                                                                                                                       |
+| `AGR:IND22435184`  |              1 | [CHEBI:193161](http://purl.obolibrary.org/obo/CHEBI_193161)                                                                                                                       |
+| `AGR:IND607338776` |              1 | [CHEBI:193974](http://purl.obolibrary.org/obo/CHEBI_193974)                                                                                                                       |
+| `AGR:IND604401101` |              1 | [CHEBI:194117](http://purl.obolibrary.org/obo/CHEBI_194117)                                                                                                                       |
+| `AGR:IND605270019` |              1 | [CHEBI:194138](http://purl.obolibrary.org/obo/CHEBI_194138)                                                                                                                       |
+| `AGR:IND605817792` |              1 | [CHEBI:194138](http://purl.obolibrary.org/obo/CHEBI_194138)                                                                                                                       |
+| `AGR:IND607112713` |              1 | [CHEBI:194138](http://purl.obolibrary.org/obo/CHEBI_194138)                                                                                                                       |
+| `AGR:IND90033027`  |              1 | [CHEBI:194138](http://purl.obolibrary.org/obo/CHEBI_194138)                                                                                                                       |
+| `AGR:IND43646069`  |              1 | [CHEBI:194139](http://purl.obolibrary.org/obo/CHEBI_194139)                                                                                                                       |
+| `AGR:IND605428360` |              1 | [CHEBI:194139](http://purl.obolibrary.org/obo/CHEBI_194139)                                                                                                                       |
+| `AGR:IND607832702` |              1 | [CHEBI:194148](http://purl.obolibrary.org/obo/CHEBI_194148)                                                                                                                       |
+| `AGR:IND607890263` |              1 | [CHEBI:194148](http://purl.obolibrary.org/obo/CHEBI_194148)                                                                                                                       |
+| `AGR:IND605409240` |              1 | [CHEBI:194150](http://purl.obolibrary.org/obo/CHEBI_194150)                                                                                                                       |
+| `AGR:IND605409330` |              1 | [CHEBI:194150](http://purl.obolibrary.org/obo/CHEBI_194150)                                                                                                                       |
+| `AGR:IND606176797` |              1 | [CHEBI:194150](http://purl.obolibrary.org/obo/CHEBI_194150)                                                                                                                       |
+| `AGR:IND607227220` |              1 | [CHEBI:194237](http://purl.obolibrary.org/obo/CHEBI_194237)                                                                                                                       |
 | `AGR:IND43637997`  |              1 | [CHEBI:1945](http://purl.obolibrary.org/obo/CHEBI_1945)                                                                                                                           |
 | `AGR:IND43643995`  |              1 | [CHEBI:1945](http://purl.obolibrary.org/obo/CHEBI_1945)                                                                                                                           |
 | `AGR:IND43824488`  |              1 | [CHEBI:1945](http://purl.obolibrary.org/obo/CHEBI_1945)                                                                                                                           |
@@ -545,6 +568,7 @@ did not match the standard pattern `^\d+$`.
 | `AGR:IND20426744`  |              1 | [CHEBI:30473](http://purl.obolibrary.org/obo/CHEBI_30473)                                                                                                                         |
 | `AGR:IND79056532`  |              1 | [CHEBI:30473](http://purl.obolibrary.org/obo/CHEBI_30473)                                                                                                                         |
 | `AGR:IND500675659` |              1 | [CHEBI:30961](http://purl.obolibrary.org/obo/CHEBI_30961)                                                                                                                         |
+| `AGR:IND606495514` |              1 | [CHEBI:30997](http://purl.obolibrary.org/obo/CHEBI_30997)                                                                                                                         |
 | `AGR:IND44366642`  |              1 | [CHEBI:3136](http://purl.obolibrary.org/obo/CHEBI_3136)                                                                                                                           |
 | `AGR:IND605877940` |              1 | [CHEBI:3136](http://purl.obolibrary.org/obo/CHEBI_3136)                                                                                                                           |
 | `AGR:IND44696467`  |              1 | [CHEBI:31459](http://purl.obolibrary.org/obo/CHEBI_31459)                                                                                                                         |
@@ -628,6 +652,8 @@ did not match the standard pattern `^\d+$`.
 | `AGR:IND43635496`  |              1 | [CHEBI:420128](http://purl.obolibrary.org/obo/CHEBI_420128)                                                                                                                       |
 | `AGR:IND43939339`  |              1 | [CHEBI:42025](http://purl.obolibrary.org/obo/CHEBI_42025)                                                                                                                         |
 | `AGR:IND86056176`  |              1 | [CHEBI:42025](http://purl.obolibrary.org/obo/CHEBI_42025)                                                                                                                         |
+| `AGR:IND601129247` |              1 | [CHEBI:42191](http://purl.obolibrary.org/obo/CHEBI_42191)                                                                                                                         |
+| `AGR:IND605249959` |              1 | [CHEBI:42191](http://purl.obolibrary.org/obo/CHEBI_42191)                                                                                                                         |
 | `AGR:IND606966078` |              1 | [CHEBI:42530](http://purl.obolibrary.org/obo/CHEBI_42530)                                                                                                                         |
 | `AGR:IND607203798` |              1 | [CHEBI:42530](http://purl.obolibrary.org/obo/CHEBI_42530)                                                                                                                         |
 | `AGR:IND607335062` |              1 | [CHEBI:42530](http://purl.obolibrary.org/obo/CHEBI_42530)                                                                                                                         |
@@ -747,9 +773,13 @@ did not match the standard pattern `^\d+$`.
 | `AGR:IND44391750`  |              1 | [CHEBI:67206](http://purl.obolibrary.org/obo/CHEBI_67206)                                                                                                                         |
 | `AGR:IND607260148` |              1 | [CHEBI:67262](http://purl.obolibrary.org/obo/CHEBI_67262)                                                                                                                         |
 | `AGR:IND20531394`  |              1 | [CHEBI:67306](http://purl.obolibrary.org/obo/CHEBI_67306)                                                                                                                         |
+| `AGR:IND604085436` |              1 | [CHEBI:6731](http://purl.obolibrary.org/obo/CHEBI_6731)                                                                                                                           |
 | `AGR:IND20626918`  |              1 | [CHEBI:67493](http://purl.obolibrary.org/obo/CHEBI_67493)                                                                                                                         |
 | `AGR:IND21806547`  |              1 | [CHEBI:67939](http://purl.obolibrary.org/obo/CHEBI_67939)                                                                                                                         |
 | `AGR:IND43745334`  |              1 | [CHEBI:67939](http://purl.obolibrary.org/obo/CHEBI_67939)                                                                                                                         |
+| `AGR:IND20380578`  |              1 | [CHEBI:6857](http://purl.obolibrary.org/obo/CHEBI_6857)                                                                                                                           |
+| `AGR:IND605813183` |              1 | [CHEBI:6857](http://purl.obolibrary.org/obo/CHEBI_6857)                                                                                                                           |
+| `AGR:IND606825425` |              1 | [CHEBI:6857](http://purl.obolibrary.org/obo/CHEBI_6857)                                                                                                                           |
 | `AGR:IND20495864`  |              1 | [CHEBI:68624](http://purl.obolibrary.org/obo/CHEBI_68624)                                                                                                                         |
 | `AGR:IND83050722`  |              1 | [CHEBI:68624](http://purl.obolibrary.org/obo/CHEBI_68624)                                                                                                                         |
 | `AGR:IND91018865`  |              1 | [CHEBI:68624](http://purl.obolibrary.org/obo/CHEBI_68624)                                                                                                                         |
@@ -898,6 +928,7 @@ did not match the standard pattern `^\d+$`.
 | `AGR:IND44405977`  |              1 | [CHEBI:81828](http://purl.obolibrary.org/obo/CHEBI_81828)                                                                                                                         |
 | `AGR:IND89054700`  |              1 | [CHEBI:81844](http://purl.obolibrary.org/obo/CHEBI_81844)                                                                                                                         |
 | `AGR:IND500627165` |              1 | [CHEBI:81853](http://purl.obolibrary.org/obo/CHEBI_81853)                                                                                                                         |
+| `AGR:IND607347510` |              1 | [CHEBI:81856](http://purl.obolibrary.org/obo/CHEBI_81856)                                                                                                                         |
 | `AGR:IND606892712` |              1 | [CHEBI:81861](http://purl.obolibrary.org/obo/CHEBI_81861)                                                                                                                         |
 | `AGR:IND43838427`  |              1 | [CHEBI:81900](http://purl.obolibrary.org/obo/CHEBI_81900)                                                                                                                         |
 | `AGR:IND91056129`  |              1 | [CHEBI:81917](http://purl.obolibrary.org/obo/CHEBI_81917)                                                                                                                         |
@@ -1118,9 +1149,9 @@ did not match the standard pattern `^\d+$`.
 | `AGR:IND93043841`  |              1 | [CHEBI:9700](http://purl.obolibrary.org/obo/CHEBI_9700)                                                                                                                           |
 | `AGR:IND92029567`  |              1 | [CHEBI:9947](http://purl.obolibrary.org/obo/CHEBI_9947)                                                                                                                           |
 
-## `CAS`: CAS Chemical Registry
+## `CAS`: CAS Registry Number
 
-Overall, there were 9 invalid
+Overall, there were 10 invalid
 xrefs to external prefixed with `CAS` (standardized to Bioregistry
 prefix [`cas`](https://bioregistry.io/cas)) that
 did not match the standard pattern `^\d{1,7}\-\d{2}\-\d$`.
@@ -1136,6 +1167,7 @@ did not match the standard pattern `^\d{1,7}\-\d{2}\-\d$`.
 | `CAS:4/8/2004`   |              1 | [CHEBI:191094](http://purl.obolibrary.org/obo/CHEBI_191094) |
 | `CAS:03/07/5452` |              1 | [CHEBI:191497](http://purl.obolibrary.org/obo/CHEBI_191497) |
 | `CAS:6/5/7780`   |              1 | [CHEBI:191626](http://purl.obolibrary.org/obo/CHEBI_191626) |
+| `CAS:03/04/6099` |              1 | [CHEBI:192607](http://purl.obolibrary.org/obo/CHEBI_192607) |
 
 ## `ChemIDplus`: ChemIDplus
 
@@ -1447,22 +1479,15 @@ did not match the standard pattern `^HMDB\d+$`.
 
 ## `KEGG`: Kyoto Encyclopedia of Genes and Genomes
 
-Overall, there were 31 invalid
+Overall, there were 22 invalid
 xrefs to external prefixed with `KEGG` (standardized to Bioregistry
 prefix [`kegg`](https://bioregistry.io/kegg)) that
 did not match the standard pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`.
 
 | external_xref   |   usages_count | usages                                                      |
 |-----------------|----------------|-------------------------------------------------------------|
-| `KEGG:C-4542`   |              1 | [CHEBI:165218](http://purl.obolibrary.org/obo/CHEBI_165218) |
-| `KEGG:C-5313`   |              1 | [CHEBI:166495](http://purl.obolibrary.org/obo/CHEBI_166495) |
-| `KEGG:C-4623`   |              1 | [CHEBI:166505](http://purl.obolibrary.org/obo/CHEBI_166505) |
-| `KEGG:C-8113`   |              1 | [CHEBI:166530](http://purl.obolibrary.org/obo/CHEBI_166530) |
-| `KEGG:C-5504`   |              1 | [CHEBI:166656](http://purl.obolibrary.org/obo/CHEBI_166656) |
-| `KEGG:C-4785`   |              1 | [CHEBI:166657](http://purl.obolibrary.org/obo/CHEBI_166657) |
 | `KEGG:G-5400`   |              1 | [CHEBI:166731](http://purl.obolibrary.org/obo/CHEBI_166731) |
 | `KEGG:C-1079`   |              1 | [CHEBI:169879](http://purl.obolibrary.org/obo/CHEBI_169879) |
-| `KEGG:D 2959`   |              1 | [CHEBI:170047](http://purl.obolibrary.org/obo/CHEBI_170047) |
 | `KEGG:G-1029`   |              1 | [CHEBI:172478](http://purl.obolibrary.org/obo/CHEBI_172478) |
 | `KEGG:C-1041`   |              1 | [CHEBI:173370](http://purl.obolibrary.org/obo/CHEBI_173370) |
 | `KEGG:C-5141`   |              1 | [CHEBI:173371](http://purl.obolibrary.org/obo/CHEBI_173371) |
@@ -1476,17 +1501,15 @@ did not match the standard pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,
 | `KEGG:C-5011`   |              1 | [CHEBI:179249](http://purl.obolibrary.org/obo/CHEBI_179249) |
 | `KEGG:C-5116`   |              1 | [CHEBI:179946](http://purl.obolibrary.org/obo/CHEBI_179946) |
 | `KEGG:C-6045`   |              1 | [CHEBI:180552](http://purl.obolibrary.org/obo/CHEBI_180552) |
-| `KEGG:C 2339`   |              1 | [CHEBI:180605](http://purl.obolibrary.org/obo/CHEBI_180605) |
 | `KEGG:C-1031`   |              1 | [CHEBI:180996](http://purl.obolibrary.org/obo/CHEBI_180996) |
 | `KEGG:G-5300`   |              1 | [CHEBI:181014](http://purl.obolibrary.org/obo/CHEBI_181014) |
 | `KEGG:C-1160`   |              1 | [CHEBI:181462](http://purl.obolibrary.org/obo/CHEBI_181462) |
 | `KEGG:C-4179`   |              1 | [CHEBI:182011](http://purl.obolibrary.org/obo/CHEBI_182011) |
-| `KEGG:D 8008`   |              1 | [CHEBI:182994](http://purl.obolibrary.org/obo/CHEBI_182994) |
 | `KEGG:C-5733`   |              1 | [CHEBI:183289](http://purl.obolibrary.org/obo/CHEBI_183289) |
 | `KEGG:C-8660`   |              1 | [CHEBI:189210](http://purl.obolibrary.org/obo/CHEBI_189210) |
 | `KEGG:C-9227`   |              1 | [CHEBI:191088](http://purl.obolibrary.org/obo/CHEBI_191088) |
 
-## `LIPID_MAPS_class`: LIPID MAPS
+## `LIPID_MAPS_class`: LIPID MAPS ID
 
 Overall, there were 10 invalid
 xrefs to external prefixed with `LIPID_MAPS_class` (standardized to Bioregistry
@@ -1519,7 +1542,7 @@ did not match the standard pattern `^[A-Za-z0-9+_.%-:]+$`.
 
 ## `PDBeChem`: Chemical Component Dictionary
 
-Overall, there were 33 invalid
+Overall, there were 34 invalid
 xrefs to external prefixed with `PDBeChem` (standardized to Bioregistry
 prefix [`pdb-ccd`](https://bioregistry.io/pdb-ccd)) that
 did not match the standard pattern `^\w{1,3}$`.
@@ -1543,6 +1566,7 @@ did not match the standard pattern `^\w{1,3}$`.
 | `PDBeChem:https://pubchem.ncbi.nlm.nih.gov/compound/Selenium_-ion_4`     |              1 | [CHEBI:190426](http://purl.obolibrary.org/obo/CHEBI_190426) |
 | `PDBeChem:138392202`                                                     |              1 | [CHEBI:190523](http://purl.obolibrary.org/obo/CHEBI_190523) |
 | `PDBeChem:102186966`                                                     |              1 | [CHEBI:190524](http://purl.obolibrary.org/obo/CHEBI_190524) |
+| `PDBeChem:https://pubchem.ncbi.nlm.nih.gov/substance/163311886`          |              1 | [CHEBI:192503](http://purl.obolibrary.org/obo/CHEBI_192503) |
 | `PDBeChem:GLY_LL`                                                        |              1 | [CHEBI:29947](http://purl.obolibrary.org/obo/CHEBI_29947)   |
 | `PDBeChem:ORN_LFOH`                                                      |              1 | [CHEBI:44667](http://purl.obolibrary.org/obo/CHEBI_44667)   |
 | `PDBeChem:ALA_LL`                                                        |              1 | [CHEBI:46217](http://purl.obolibrary.org/obo/CHEBI_46217)   |
@@ -1722,7 +1746,7 @@ did not match the standard pattern `^\d+$`.
 
 ## `Wikipedia`: Wikipedia
 
-Overall, there were 342 invalid
+Overall, there were 356 invalid
 xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
 prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
 did not match the standard pattern `^[A-Za-z-0-9_]+$`.
@@ -1835,6 +1859,20 @@ did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 | `Wikipedia:2,3,5-Trimethylpyrazine`                                                         |              1 | [CHEBI:190131](http://purl.obolibrary.org/obo/CHEBI_190131)                                                                                                                                                                                                                                                    |
 | `Wikipedia:Estradiol_17%CE%B2-sulfate`                                                      |              1 | [CHEBI:191192](http://purl.obolibrary.org/obo/CHEBI_191192)                                                                                                                                                                                                                                                    |
 | `Wikipedia:Arachidonyl-2'-chloroethylamide`                                                 |              1 | [CHEBI:191854](http://purl.obolibrary.org/obo/CHEBI_191854)                                                                                                                                                                                                                                                    |
+| `Wikipedia:https://en.wikipedia.org/wiki/Anthoxanthin`                                      |              1 | [CHEBI:192499](http://purl.obolibrary.org/obo/CHEBI_192499)                                                                                                                                                                                                                                                    |
+| `Wikipedia:https://en.wikipedia.org/wiki/Flavanonol`                                        |              1 | [CHEBI:192500](http://purl.obolibrary.org/obo/CHEBI_192500)                                                                                                                                                                                                                                                    |
+| `Wikipedia:https://en.wikipedia.org/wiki/Sanguiin_H-6`                                      |              1 | [CHEBI:192501](http://purl.obolibrary.org/obo/CHEBI_192501)                                                                                                                                                                                                                                                    |
+| `Wikipedia:https://en.wikipedia.org/wiki/Lambertianin_C`                                    |              1 | [CHEBI:192502](http://purl.obolibrary.org/obo/CHEBI_192502)                                                                                                                                                                                                                                                    |
+| `Wikipedia:LY-379,268`                                                                      |              1 | [CHEBI:192545](http://purl.obolibrary.org/obo/CHEBI_192545)                                                                                                                                                                                                                                                    |
+| `Wikipedia:Nirmatrelvir/ritonavir`                                                          |              1 | [CHEBI:192712](http://purl.obolibrary.org/obo/CHEBI_192712)                                                                                                                                                                                                                                                    |
+| `Wikipedia:https://en.wikipedia.org/wiki/Deuterated_DMF`                                    |              1 | [CHEBI:193040](http://purl.obolibrary.org/obo/CHEBI_193040)                                                                                                                                                                                                                                                    |
+| `Wikipedia:https://en.wikipedia.org/wiki/Deuterated_DMSO`                                   |              1 | [CHEBI:193041](http://purl.obolibrary.org/obo/CHEBI_193041)                                                                                                                                                                                                                                                    |
+| `Wikipedia:https://en.wikipedia.org/wiki/Deuterated_dichloromethane`                        |              1 | [CHEBI:193042](http://purl.obolibrary.org/obo/CHEBI_193042)                                                                                                                                                                                                                                                    |
+| `Wikipedia:https://en.wikipedia.org/wiki/Deuterated_ethanol`                                |              1 | [CHEBI:193043](http://purl.obolibrary.org/obo/CHEBI_193043)                                                                                                                                                                                                                                                    |
+| `Wikipedia:https://en.wikipedia.org/wiki/Deuterated_THF`                                    |              1 | [CHEBI:193047](http://purl.obolibrary.org/obo/CHEBI_193047)                                                                                                                                                                                                                                                    |
+| `Wikipedia:https://en.wikipedia.org/wiki/1,1,2-Trichloro-1,2,2-trifluoroethane`             |              1 | [CHEBI:193131](http://purl.obolibrary.org/obo/CHEBI_193131)                                                                                                                                                                                                                                                    |
+| `Wikipedia:https://en.wikipedia.org/wiki/Fluorosulfuric_acid`                               |              1 | [CHEBI:193136](http://purl.obolibrary.org/obo/CHEBI_193136)                                                                                                                                                                                                                                                    |
+| `Wikipedia:https://en.wikipedia.org/wiki/Interhalogen`                                      |              1 | [CHEBI:193147](http://purl.obolibrary.org/obo/CHEBI_193147)                                                                                                                                                                                                                                                    |
 | `Wikipedia:Cofactor_(biochemistry)`                                                         |              1 | [CHEBI:23357](http://purl.obolibrary.org/obo/CHEBI_23357)                                                                                                                                                                                                                                                      |
 | `Wikipedia:Cyclohexane-1,2-diol`                                                            |              1 | [CHEBI:24567](http://purl.obolibrary.org/obo/CHEBI_24567)                                                                                                                                                                                                                                                      |
 | `Wikipedia:3,4-Dihydroxymandelic_acid`                                                      |              1 | [CHEBI:27637](http://purl.obolibrary.org/obo/CHEBI_27637)                                                                                                                                                                                                                                                      |

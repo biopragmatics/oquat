@@ -601,7 +601,7 @@ did not match the standard pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`.
 | `ORCID:orcid.org/0000-0003-1726-4769` |              1 | [MP:0031185](http://purl.obolibrary.org/obo/MP_0031185)                                                                                                                                                                                                                                          |
 | `ORCID:orcid.org/0000-0001-5356-4174` |              1 | [MP:0031193](http://purl.obolibrary.org/obo/MP_0031193)                                                                                                                                                                                                                                          |
 
-## `PMC`: Pubmed Central
+## `PMC`: PubMed Central
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `PMC` (standardized to Bioregistry

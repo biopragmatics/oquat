@@ -1245,9 +1245,6 @@
         "http://purl.obolibrary.org/obo/HP_0000718": [
           "HPO:curators"
         ],
-        "http://purl.obolibrary.org/obo/HP_0000720": [
-          "HPO:curators"
-        ],
         "http://purl.obolibrary.org/obo/HP_0000722": [
           "HPO:probinson"
         ],
@@ -2416,7 +2413,7 @@
           "HPO:curators"
         ],
         "http://purl.obolibrary.org/obo/HP_0001419": [
-          "HPO:curators"
+          "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0001423": [
           "HPO:curators"
@@ -2440,7 +2437,7 @@
           "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0001450": [
-          "HPO:curators"
+          "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0001459": [
           "HPO:sdoelken"
@@ -4300,9 +4297,6 @@
         "http://purl.obolibrary.org/obo/HP_0002647": [
           "HPO:probinson"
         ],
-        "http://purl.obolibrary.org/obo/HP_0002648": [
-          "HPO:probinson"
-        ],
         "http://purl.obolibrary.org/obo/HP_0002650": [
           "HPO:probinson"
         ],
@@ -4882,9 +4876,6 @@
         "http://purl.obolibrary.org/obo/HP_0002992": [
           "HPO:curators"
         ],
-        "http://purl.obolibrary.org/obo/HP_0002997": [
-          "HPO:probinson"
-        ],
         "http://purl.obolibrary.org/obo/HP_0002999": [
           "HPO:probinson"
         ],
@@ -5057,9 +5048,6 @@
           "HPO:curators"
         ],
         "http://purl.obolibrary.org/obo/HP_0003113": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0003116": [
           "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0003117": [
@@ -5915,7 +5903,7 @@
           "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0003712": [
-          "HPO:curators"
+          "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0003713": [
           "HPO:curators"
@@ -8043,9 +8031,6 @@
         ],
         "http://purl.obolibrary.org/obo/HP_0005897": [
           "HPO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0005899": [
-          "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0005900": [
           "HPO:probinson"
@@ -10780,9 +10765,6 @@
         "http://purl.obolibrary.org/obo/HP_0009031": [
           "HPO:probinson"
         ],
-        "http://purl.obolibrary.org/obo/HP_0009042": [
-          "HPO:curators"
-        ],
         "http://purl.obolibrary.org/obo/HP_0009045": [
           "HPO:probinson"
         ],
@@ -11149,9 +11131,6 @@
         "http://purl.obolibrary.org/obo/HP_0009232": [
           "HPO:curators"
         ],
-        "http://purl.obolibrary.org/obo/HP_0009233": [
-          "HPO:curators"
-        ],
         "http://purl.obolibrary.org/obo/HP_0009234": [
           "HPO:curators"
         ],
@@ -11503,9 +11482,6 @@
         "http://purl.obolibrary.org/obo/HP_0009382": [
           "HPO:curators"
         ],
-        "http://purl.obolibrary.org/obo/HP_0009383": [
-          "HPO:curators"
-        ],
         "http://purl.obolibrary.org/obo/HP_0009384": [
           "HPO:curators"
         ],
@@ -11534,9 +11510,6 @@
           "HPO:curators"
         ],
         "http://purl.obolibrary.org/obo/HP_0009393": [
-          "HPO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0009394": [
           "HPO:curators"
         ],
         "http://purl.obolibrary.org/obo/HP_0009395": [
@@ -11579,9 +11552,6 @@
           "HPO:curators"
         ],
         "http://purl.obolibrary.org/obo/HP_0009410": [
-          "HPO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0009411": [
           "HPO:curators"
         ],
         "http://purl.obolibrary.org/obo/HP_0009412": [
@@ -11771,9 +11741,6 @@
           "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0009488": [
-          "HPO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0009489": [
           "HPO:curators"
         ],
         "http://purl.obolibrary.org/obo/HP_0009490": [
@@ -12215,9 +12182,6 @@
           "HPO:curators"
         ],
         "http://purl.obolibrary.org/obo/HP_0009686": [
-          "HPO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0009687": [
           "HPO:curators"
         ],
         "http://purl.obolibrary.org/obo/HP_0009688": [
@@ -12725,7 +12689,7 @@
           "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0009929": [
-          "HPO:curators"
+          "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0009930": [
           "HPO:probinson"
@@ -13342,14 +13306,8 @@
         "http://purl.obolibrary.org/obo/HP_0010243": [
           "HPO:probinson"
         ],
-        "http://purl.obolibrary.org/obo/HP_0010247": [
-          "HPO:curators"
-        ],
         "http://purl.obolibrary.org/obo/HP_0010252": [
           "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0010258": [
-          "HPO:curators"
         ],
         "http://purl.obolibrary.org/obo/HP_0010261": [
           "HPO:curators"
@@ -13656,7 +13614,7 @@
           "HPO:curators"
         ],
         "http://purl.obolibrary.org/obo/HP_0010459": [
-          "HPO:curators"
+          "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0010460": [
           "HPO:probinson"
@@ -15000,9 +14958,6 @@
           "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0010984": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0010985": [
           "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0010987": [
@@ -17312,9 +17267,6 @@
         "http://purl.obolibrary.org/obo/HP_0012289": [
           "HPO:probinson"
         ],
-        "http://purl.obolibrary.org/obo/HP_0012290": [
-          "HPO:probinson"
-        ],
         "http://purl.obolibrary.org/obo/HP_0012292": [
           "HPO:probinson"
         ],
@@ -17532,9 +17484,6 @@
           "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0012367": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0012369": [
           "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0012371": [
@@ -18017,9 +17966,6 @@
         "http://purl.obolibrary.org/obo/HP_0012610": [
           "HPO:probinson"
         ],
-        "http://purl.obolibrary.org/obo/HP_0012611": [
-          "HPO:probinson"
-        ],
         "http://purl.obolibrary.org/obo/HP_0012612": [
           "HPO:probinson"
         ],
@@ -18159,9 +18105,6 @@
           "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0012676": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0012677": [
           "HPO:probinson"
         ],
         "http://purl.obolibrary.org/obo/HP_0012678": [
@@ -19722,6 +19665,9 @@
         "http://purl.obolibrary.org/obo/HP_0030914": [
           "HPO:probinson"
         ],
+        "http://purl.obolibrary.org/obo/HP_0030952": [
+          "HPO:mhaendel"
+        ],
         "http://purl.obolibrary.org/obo/HP_0031018": [
           "NCIT:CL017969"
         ],
@@ -20602,9 +20548,6 @@
           "HPO:sdoelken"
         ],
         "http://purl.obolibrary.org/obo/HP_0100490": [
-          "HPO:sdoelken"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0100492": [
           "HPO:sdoelken"
         ],
         "http://purl.obolibrary.org/obo/HP_0100493": [
@@ -22058,7 +22001,6 @@
           "http://purl.obolibrary.org/obo/HP_0000710": "HPO:sdoelken",
           "http://purl.obolibrary.org/obo/HP_0000716": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0000718": "HPO:curators",
-          "http://purl.obolibrary.org/obo/HP_0000720": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0000722": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0000723": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0000726": "HPO:probinson",
@@ -22448,7 +22390,7 @@
           "http://purl.obolibrary.org/obo/HP_0001413": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0001414": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0001417": "HPO:curators",
-          "http://purl.obolibrary.org/obo/HP_0001419": "HPO:curators",
+          "http://purl.obolibrary.org/obo/HP_0001419": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0001423": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0001426": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0001427": "HPO:probinson",
@@ -22456,7 +22398,7 @@
           "http://purl.obolibrary.org/obo/HP_0001436": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0001438": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0001442": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0001450": "HPO:curators",
+          "http://purl.obolibrary.org/obo/HP_0001450": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0001459": "HPO:sdoelken",
           "http://purl.obolibrary.org/obo/HP_0001460": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0001464": "HPO:curators",
@@ -23074,7 +23016,6 @@
           "http://purl.obolibrary.org/obo/HP_0002644": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0002645": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0002647": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0002648": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0002650": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0002652": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0002655": "HPO:probinson",
@@ -23267,7 +23208,6 @@
           "http://purl.obolibrary.org/obo/HP_0002990": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0002991": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0002992": "HPO:curators",
-          "http://purl.obolibrary.org/obo/HP_0002997": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0002999": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0003002": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0003005": "HPO:probinson",
@@ -23326,7 +23266,6 @@
           "http://purl.obolibrary.org/obo/HP_0003111": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0003112": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0003113": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0003116": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0003117": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0003119": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0003121": "HPO:probinson",
@@ -23611,7 +23550,7 @@
           "http://purl.obolibrary.org/obo/HP_0003701": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0003707": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0003710": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0003712": "HPO:curators",
+          "http://purl.obolibrary.org/obo/HP_0003712": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0003713": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0003715": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0003720": "HPO:curators",
@@ -24321,7 +24260,6 @@
           "http://purl.obolibrary.org/obo/HP_0005891": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0005894": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0005897": "HPO:curators",
-          "http://purl.obolibrary.org/obo/HP_0005899": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0005900": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0005905": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0005906": "HPO:probinson",
@@ -25231,7 +25169,6 @@
           "http://purl.obolibrary.org/obo/HP_0009027": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0009028": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009031": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0009042": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009045": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0009046": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0009049": "HPO:probinson",
@@ -25354,7 +25291,6 @@
           "http://purl.obolibrary.org/obo/HP_0009230": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009231": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009232": "HPO:curators",
-          "http://purl.obolibrary.org/obo/HP_0009233": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009234": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009236": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009237": "HPO:sdoelken",
@@ -25472,7 +25408,6 @@
           "http://purl.obolibrary.org/obo/HP_0009380": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009381": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0009382": "HPO:curators",
-          "http://purl.obolibrary.org/obo/HP_0009383": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009384": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009385": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009386": "HPO:curators",
@@ -25483,7 +25418,6 @@
           "http://purl.obolibrary.org/obo/HP_0009391": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009392": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009393": "HPO:curators",
-          "http://purl.obolibrary.org/obo/HP_0009394": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009395": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009396": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009397": "HPO:curators",
@@ -25498,7 +25432,6 @@
           "http://purl.obolibrary.org/obo/HP_0009406": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0009407": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009410": "HPO:curators",
-          "http://purl.obolibrary.org/obo/HP_0009411": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009412": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009413": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009414": "HPO:curators",
@@ -25562,7 +25495,6 @@
           "http://purl.obolibrary.org/obo/HP_0009486": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0009487": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0009488": "HPO:curators",
-          "http://purl.obolibrary.org/obo/HP_0009489": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009490": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009491": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009492": "HPO:curators",
@@ -25709,7 +25641,6 @@
           "http://purl.obolibrary.org/obo/HP_0009684": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0009685": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009686": "HPO:curators",
-          "http://purl.obolibrary.org/obo/HP_0009687": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009688": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0009689": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0009690": "HPO:probinson",
@@ -25878,7 +25809,7 @@
           "http://purl.obolibrary.org/obo/HP_0009924": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0009926": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0009927": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0009929": "HPO:curators",
+          "http://purl.obolibrary.org/obo/HP_0009929": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0009930": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0009933": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0009935": "HPO:curators",
@@ -26084,9 +26015,7 @@
           "http://purl.obolibrary.org/obo/HP_0010239": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0010241": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0010243": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0010247": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0010252": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0010258": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0010261": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0010263": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0010274": "HPO:probinson",
@@ -26188,7 +26117,7 @@
           "http://purl.obolibrary.org/obo/HP_0010455": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0010456": "HPO:curators",
           "http://purl.obolibrary.org/obo/HP_0010458": "HPO:curators",
-          "http://purl.obolibrary.org/obo/HP_0010459": "HPO:curators",
+          "http://purl.obolibrary.org/obo/HP_0010459": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0010460": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0010461": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0010462": "HPO:probinson",
@@ -26635,7 +26564,6 @@
           "http://purl.obolibrary.org/obo/HP_0010982": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0010983": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0010984": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0010985": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0010987": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0010988": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0010989": "HPO:probinson",
@@ -27402,7 +27330,6 @@
           "http://purl.obolibrary.org/obo/HP_0012287": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012288": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012289": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0012290": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012292": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012293": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012294": "HPO:probinson",
@@ -27476,7 +27403,6 @@
           "http://purl.obolibrary.org/obo/HP_0012365": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012366": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012367": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0012369": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012371": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012372": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012373": "HPO:probinson",
@@ -27637,7 +27563,6 @@
           "http://purl.obolibrary.org/obo/HP_0012587": "HPO:sdoelken",
           "http://purl.obolibrary.org/obo/HP_0012601": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012610": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0012611": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012612": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012613": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012620": "HPO:probinson",
@@ -27685,7 +27610,6 @@
           "http://purl.obolibrary.org/obo/HP_0012674": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012675": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012676": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0012677": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012678": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012680": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0012682": "HPO:probinson",
@@ -28201,6 +28125,7 @@
           "http://purl.obolibrary.org/obo/HP_0030903": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0030904": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0030914": "HPO:probinson",
+          "http://purl.obolibrary.org/obo/HP_0030952": "HPO:mhaendel",
           "http://purl.obolibrary.org/obo/HP_0031397": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0031690": "HPO:probinson",
           "http://purl.obolibrary.org/obo/HP_0031783": "HPO:nvasilevsky",
@@ -28467,7 +28392,6 @@
           "http://purl.obolibrary.org/obo/HP_0100482": "HPO:sdoelken",
           "http://purl.obolibrary.org/obo/HP_0100489": "HPO:sdoelken",
           "http://purl.obolibrary.org/obo/HP_0100490": "HPO:sdoelken",
-          "http://purl.obolibrary.org/obo/HP_0100492": "HPO:sdoelken",
           "http://purl.obolibrary.org/obo/HP_0100493": "HPO:gcarletti",
           "http://purl.obolibrary.org/obo/HP_0100494": "HPO:sdoelken",
           "http://purl.obolibrary.org/obo/HP_0100495": "HPO:sdoelken",
@@ -28947,7 +28871,6 @@
           "http://purl.obolibrary.org/obo/HP_0002573": "DDD:hfirth",
           "http://purl.obolibrary.org/obo/HP_0002584": "DDD:akelly",
           "http://purl.obolibrary.org/obo/HP_0002627": "DDD:dbrown",
-          "http://purl.obolibrary.org/obo/HP_0002648": "DDD:awilkie",
           "http://purl.obolibrary.org/obo/HP_0002893": "DDD:spark",
           "http://purl.obolibrary.org/obo/HP_0002925": "DDD:spark",
           "http://purl.obolibrary.org/obo/HP_0002930": "DDD:spark",
@@ -29828,7 +29751,6 @@
           "http://purl.obolibrary.org/obo/HP_0033006": "LMU:mgriese",
           "http://purl.obolibrary.org/obo/HP_0033007": "LMU:mgriese",
           "http://purl.obolibrary.org/obo/HP_0033028": "LMU:chrapp",
-          "http://purl.obolibrary.org/obo/HP_0033029": "LMU:kknoflach",
           "http://purl.obolibrary.org/obo/HP_0033030": "LMU:kknoflach",
           "http://purl.obolibrary.org/obo/HP_0033032": "LMU:chrapp",
           "http://purl.obolibrary.org/obo/HP_0033033": "LMU:kknoflach",
@@ -29866,7 +29788,8 @@
           "http://purl.obolibrary.org/obo/HP_0033583": "LMU:mgriese",
           "http://purl.obolibrary.org/obo/HP_0033584": "LMU:mgriese",
           "http://purl.obolibrary.org/obo/HP_0033585": "LMU:mgriese",
-          "http://purl.obolibrary.org/obo/HP_0033586": "LMU:mgriese"
+          "http://purl.obolibrary.org/obo/HP_0033586": "LMU:mgriese",
+          "http://purl.obolibrary.org/obo/HP_0034152": "LMU:kknoflach"
         },
         "MONARCH": {
           "http://purl.obolibrary.org/obo/HP_0012647": "MONARCH:mhaendel",
@@ -29910,9 +29833,6 @@
           "http://purl.obolibrary.org/obo/HP_0030236": "Neuromics:vstraub",
           "http://purl.obolibrary.org/obo/HP_0030241": "Neuromics:vstraub"
         },
-        "OCRID": {
-          "http://purl.obolibrary.org/obo/HP_0004415": "OCRID:0000-0002-0736-9199"
-        },
         "OHSU": {
           "http://purl.obolibrary.org/obo/HP_0025641": "OHSU:jpgourdine",
           "http://purl.obolibrary.org/obo/HP_0031810": "OHSU:jpgourdine",
@@ -29924,17 +29844,6 @@
           "http://purl.obolibrary.org/obo/HP_0032330": "OHSU:jpgourdine",
           "http://purl.obolibrary.org/obo/HP_0032331": "OHSU:jpgourdine",
           "http://purl.obolibrary.org/obo/HP_0032492": "OHSU:jpgourdine"
-        },
-        "ORCIRD": {
-          "http://purl.obolibrary.org/obo/HP_0007011": "ORCIRD:0000-0001-5208-3432"
-        },
-        "ORDCID": {
-          "http://purl.obolibrary.org/obo/HP_0012408": "ORDCID:0000-0001-5208-3432"
-        },
-        "PIMD": {
-          "http://purl.obolibrary.org/obo/HP_0032814": "PIMD:28276064",
-          "http://purl.obolibrary.org/obo/HP_0032815": "PIMD:28276064",
-          "http://purl.obolibrary.org/obo/HP_0032816": "PIMD:28276064"
         },
         "PhenoTips": {
           "http://purl.obolibrary.org/obo/HP_0040197": "PhenoTips:CHum",
@@ -30493,9 +30402,6 @@
           "HPO:skoehler"
         ],
         "http://purl.obolibrary.org/obo/HP_0001357": [
-          "HPO:skoehler"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0001371": [
           "HPO:skoehler"
         ],
         "http://purl.obolibrary.org/obo/HP_0001373": [
@@ -31512,7 +31418,6 @@
           "http://purl.obolibrary.org/obo/HP_0001297": "HPO:skoehler",
           "http://purl.obolibrary.org/obo/HP_0001338": "HPO:skoehler",
           "http://purl.obolibrary.org/obo/HP_0001357": "HPO:skoehler",
-          "http://purl.obolibrary.org/obo/HP_0001371": "HPO:skoehler",
           "http://purl.obolibrary.org/obo/HP_0001373": "HPO:skoehler",
           "http://purl.obolibrary.org/obo/HP_0001394": "HPO:skoehler",
           "http://purl.obolibrary.org/obo/HP_0001410": "HPO:skoehler",
@@ -31840,8 +31745,8 @@
         }
       }
     },
-    "version": "2022-06-11",
-    "version_iri": "http://purl.obolibrary.org/obo/hp/releases/2022-06-11/hp.owl",
+    "version": "2023-01-27",
+    "version_iri": "http://purl.obolibrary.org/obo/hp/releases/2023-01-27/hp.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/HP_0002893": [
@@ -31852,6 +31757,9 @@
         ],
         "http://purl.obolibrary.org/obo/HP_0011671": [
           "ICD-10:26.8"
+        ],
+        "http://purl.obolibrary.org/obo/HP_0034420": [
+          "UMLS:0189573"
         ]
       },
       "label": "Node Xrefs",
@@ -32309,7 +32217,6 @@
           "http://purl.obolibrary.org/obo/HP_0001409": "MSH:D006975",
           "http://purl.obolibrary.org/obo/HP_0001410": "MSH:D008107",
           "http://purl.obolibrary.org/obo/HP_0001417": "MSH:D050172",
-          "http://purl.obolibrary.org/obo/HP_0001425": "MSH:D018740",
           "http://purl.obolibrary.org/obo/HP_0001426": "MSH:D020412",
           "http://purl.obolibrary.org/obo/HP_0001427": "MSH:D050259",
           "http://purl.obolibrary.org/obo/HP_0001450": "MSH:D050173",
@@ -32602,7 +32509,6 @@
           "http://purl.obolibrary.org/obo/HP_0002354": "MSH:D008569",
           "http://purl.obolibrary.org/obo/HP_0002355": "MSH:D051346",
           "http://purl.obolibrary.org/obo/HP_0002356": "MSH:D020821",
-          "http://purl.obolibrary.org/obo/HP_0002357": "MSH:D001037",
           "http://purl.obolibrary.org/obo/HP_0002362": "MSH:D020233",
           "http://purl.obolibrary.org/obo/HP_0002367": "MSH:D006212",
           "http://purl.obolibrary.org/obo/HP_0002373": "MSH:D003294",
@@ -33548,7 +33454,6 @@
           "http://purl.obolibrary.org/obo/HP_0012281": "MSH:D002915",
           "http://purl.obolibrary.org/obo/HP_0012288": "MSH:D006258",
           "http://purl.obolibrary.org/obo/HP_0012289": "MSH:D005153",
-          "http://purl.obolibrary.org/obo/HP_0012290": "MSH:D009062",
           "http://purl.obolibrary.org/obo/HP_0012302": "MSH:D020803",
           "http://purl.obolibrary.org/obo/HP_0012309": "MSH:C562642",
           "http://purl.obolibrary.org/obo/HP_0012315": "MSH:D051642",
@@ -34307,7 +34212,6 @@
           "http://purl.obolibrary.org/obo/HP_0000717": "SNOMEDCT_US:43614003",
           "http://purl.obolibrary.org/obo/HP_0000718": "SNOMEDCT_US:61372001",
           "http://purl.obolibrary.org/obo/HP_0000719": "SNOMEDCT_US:112082005",
-          "http://purl.obolibrary.org/obo/HP_0000720": "SNOMEDCT_US:18963009",
           "http://purl.obolibrary.org/obo/HP_0000722": "SNOMEDCT_US:191736004",
           "http://purl.obolibrary.org/obo/HP_0000726": "SNOMEDCT_US:52448006",
           "http://purl.obolibrary.org/obo/HP_0000727": "SNOMEDCT_US:278857002",
@@ -35019,7 +34923,6 @@
           "http://purl.obolibrary.org/obo/HP_0002354": "SNOMEDCT_US:55533009",
           "http://purl.obolibrary.org/obo/HP_0002355": "SNOMEDCT_US:228158008",
           "http://purl.obolibrary.org/obo/HP_0002356": "SNOMEDCT_US:52008007",
-          "http://purl.obolibrary.org/obo/HP_0002357": "SNOMEDCT_US:20301004",
           "http://purl.obolibrary.org/obo/HP_0002360": "SNOMEDCT_US:53888004",
           "http://purl.obolibrary.org/obo/HP_0002362": "SNOMEDCT_US:43005009",
           "http://purl.obolibrary.org/obo/HP_0002367": "SNOMEDCT_US:64269007",
@@ -35265,7 +35168,6 @@
           "http://purl.obolibrary.org/obo/HP_0003111": "SNOMEDCT_US:237840007",
           "http://purl.obolibrary.org/obo/HP_0003113": "SNOMEDCT_US:10399008",
           "http://purl.obolibrary.org/obo/HP_0003115": "SNOMEDCT_US:102594003",
-          "http://purl.obolibrary.org/obo/HP_0003116": "SNOMEDCT_US:169241000",
           "http://purl.obolibrary.org/obo/HP_0003118": "SNOMEDCT_US:47270006",
           "http://purl.obolibrary.org/obo/HP_0003119": "SNOMEDCT_US:370992007",
           "http://purl.obolibrary.org/obo/HP_0003124": "SNOMEDCT_US:13644009",
@@ -35649,7 +35551,6 @@
           "http://purl.obolibrary.org/obo/HP_0005864": "SNOMEDCT_US:31511007",
           "http://purl.obolibrary.org/obo/HP_0005871": "SNOMEDCT_US:28681006",
           "http://purl.obolibrary.org/obo/HP_0005881": "SNOMEDCT_US:240220009",
-          "http://purl.obolibrary.org/obo/HP_0005899": "SNOMEDCT_US:28681006",
           "http://purl.obolibrary.org/obo/HP_0005912": "SNOMEDCT_US:77480004",
           "http://purl.obolibrary.org/obo/HP_0005917": "SNOMEDCT_US:91846008",
           "http://purl.obolibrary.org/obo/HP_0005942": "SNOMEDCT_US:8549006",
@@ -36662,7 +36563,6 @@
           "http://purl.obolibrary.org/obo/HP_0012282": "SNOMEDCT_US:50495000",
           "http://purl.obolibrary.org/obo/HP_0012288": "SNOMEDCT_US:255055008",
           "http://purl.obolibrary.org/obo/HP_0012289": "SNOMEDCT_US:126632002",
-          "http://purl.obolibrary.org/obo/HP_0012290": "SNOMEDCT_US:126797001",
           "http://purl.obolibrary.org/obo/HP_0012302": "SNOMEDCT_US:428638009",
           "http://purl.obolibrary.org/obo/HP_0012303": "SNOMEDCT_US:448742006",
           "http://purl.obolibrary.org/obo/HP_0012304": "SNOMEDCT_US:60787001",

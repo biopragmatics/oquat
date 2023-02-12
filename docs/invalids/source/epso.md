@@ -4,22 +4,89 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `epso`.
 
 
+## `CALOHA`: CALIPHO Group Ontology of Human Anatomy
+
+Overall, there were 26 invalid
+xrefs to external prefixed with `CALOHA` (standardized to Bioregistry
+prefix [`caloha`](https://bioregistry.io/caloha)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref    |   usages_count | usages                                                          |
+|------------------|----------------|-----------------------------------------------------------------|
+| `CALOHA:TS-2031` |              1 | [UBERON:0000344](http://purl.obolibrary.org/obo/UBERON_0000344) |
+| `CALOHA:TS-2090` |              1 | [UBERON:0000479](http://purl.obolibrary.org/obo/UBERON_0000479) |
+| `CALOHA:TS-0095` |              1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
+| `CALOHA:TS-0091` |              1 | [UBERON:0000956](http://purl.obolibrary.org/obo/UBERON_0000956) |
+| `CALOHA:TS-0813` |              1 | [UBERON:0000988](http://purl.obolibrary.org/obo/UBERON_0000988) |
+| `CALOHA:TS-1020` |              1 | [UBERON:0001871](http://purl.obolibrary.org/obo/UBERON_0001871) |
+| `CALOHA:TS-0747` |              1 | [UBERON:0001872](http://purl.obolibrary.org/obo/UBERON_0001872) |
+| `CALOHA:TS-0037` |              1 | [UBERON:0001876](http://purl.obolibrary.org/obo/UBERON_0001876) |
+| `CALOHA:TS-0380` |              1 | [UBERON:0001890](http://purl.obolibrary.org/obo/UBERON_0001890) |
+| `CALOHA:TS-0630` |              1 | [UBERON:0001891](http://purl.obolibrary.org/obo/UBERON_0001891) |
+| `CALOHA:TS-1018` |              1 | [UBERON:0001893](http://purl.obolibrary.org/obo/UBERON_0001893) |
+| `CALOHA:TS-0199` |              1 | [UBERON:0001894](http://purl.obolibrary.org/obo/UBERON_0001894) |
+| `CALOHA:TS-0607` |              1 | [UBERON:0001896](http://purl.obolibrary.org/obo/UBERON_0001896) |
+| `CALOHA:TS-1031` |              1 | [UBERON:0001897](http://purl.obolibrary.org/obo/UBERON_0001897) |
+| `CALOHA:TS-0469` |              1 | [UBERON:0001898](http://purl.obolibrary.org/obo/UBERON_0001898) |
+| `CALOHA:TS-0693` |              1 | [UBERON:0002021](http://purl.obolibrary.org/obo/UBERON_0002021) |
+| `CALOHA:TS-0457` |              1 | [UBERON:0002028](http://purl.obolibrary.org/obo/UBERON_0002028) |
+| `CALOHA:TS-0125` |              1 | [UBERON:0002037](http://purl.obolibrary.org/obo/UBERON_0002037) |
+| `CALOHA:TS-0702` |              1 | [UBERON:0002264](http://purl.obolibrary.org/obo/UBERON_0002264) |
+| `CALOHA:TS-2058` |              1 | [UBERON:0002286](http://purl.obolibrary.org/obo/UBERON_0002286) |
+| `CALOHA:TS-0093` |              1 | [UBERON:0002298](http://purl.obolibrary.org/obo/UBERON_0002298) |
+| `CALOHA:TS-0180` |              1 | [UBERON:0002336](http://purl.obolibrary.org/obo/UBERON_0002336) |
+| `CALOHA:TS-1149` |              1 | [UBERON:0002420](http://purl.obolibrary.org/obo/UBERON_0002420) |
+| `CALOHA:TS-2015` |              1 | [UBERON:0002422](http://purl.obolibrary.org/obo/UBERON_0002422) |
+| `CALOHA:TS-2361` |              1 | [UBERON:0005401](http://purl.obolibrary.org/obo/UBERON_0005401) |
+| `CALOHA:TS-0389` |              1 | [UBERON:0016525](http://purl.obolibrary.org/obo/UBERON_0016525) |
+
 ## `ICD10`: International Classification of Diseases, 10th Revision
 
-Overall, there were 7 invalid
+Overall, there were 6 invalid
 xrefs to external prefixed with `ICD10` (standardized to Bioregistry
 prefix [`icd10`](https://bioregistry.io/icd10)) that
-did not match the standard pattern `^[A-Z]\d+(\.[-\d+])?$`.
+did not match the standard pattern `^(([XVI]+)|([A-Z][0-9]+((-[A-Z][0-9]+)|(\.[0-9]))?))$`.
 
 | external_xref   |   usages_count | usages                                                        |
 |-----------------|----------------|---------------------------------------------------------------|
 | `ICD10:Q00.Q99` |              1 | [MONDO:0000839](http://purl.obolibrary.org/obo/MONDO_0000839) |
-| `ICD10:F99-F99` |              1 | [MONDO:0002025](http://purl.obolibrary.org/obo/MONDO_0002025) |
 | `ICD10:C00.D48` |              1 | [MONDO:0005070](http://purl.obolibrary.org/obo/MONDO_0005070) |
 | `ICD10:F00.F99` |              1 | [MONDO:0005084](http://purl.obolibrary.org/obo/MONDO_0005084) |
 | `ICD10:G47.41`  |              1 | [MONDO:0016158](http://purl.obolibrary.org/obo/MONDO_0016158) |
 | `ICD10:G47.419` |              1 | [MONDO:0016158](http://purl.obolibrary.org/obo/MONDO_0016158) |
 | `ICD10:G47.24`  |              1 | [MONDO:0019137](http://purl.obolibrary.org/obo/MONDO_0019137) |
+
+## `ICD9`: International Classification of Diseases, 9th Revision
+
+Overall, there were 2 invalid
+xrefs to external prefixed with `ICD9` (standardized to Bioregistry
+prefix [`icd9`](https://bioregistry.io/icd9)) that
+did not match the standard pattern `^(\d\d\d|V\d\d|E[8-9]\d\d)(\.\d{1,2})?$`.
+
+| external_xref     |   usages_count | usages                                                        |
+|-------------------|----------------|---------------------------------------------------------------|
+| `ICD9:140-239.99` |              1 | [MONDO:0005070](http://purl.obolibrary.org/obo/MONDO_0005070) |
+| `ICD9:290-299.99` |              1 | [MONDO:0005084](http://purl.obolibrary.org/obo/MONDO_0005084) |
+
+## `ICD9CM`: International Classification of Diseases, 9th Revision, Clinical Modification
+
+Overall, there were 10 invalid
+xrefs to external prefixed with `ICD9CM` (standardized to Bioregistry
+prefix [`icd9cm`](https://bioregistry.io/icd9cm)) that
+did not match the standard pattern `^([\dA-Z]\d{2}(\.\d{1,3}|))|(\d{2}(\.\d{1,2}|))$`.
+
+| external_xref       |   usages_count | usages                                                  |
+|---------------------|----------------|---------------------------------------------------------|
+| `ICD9CM:401-405.99` |              1 | [DOID:10763](http://purl.obolibrary.org/obo/DOID_10763) |
+| `ICD9CM:110-118.99` |              1 | [DOID:1564](http://purl.obolibrary.org/obo/DOID_1564)   |
+| `ICD9CM:510-519.99` |              1 | [DOID:1579](http://purl.obolibrary.org/obo/DOID_1579)   |
+| `ICD9CM:410-414.99` |              1 | [DOID:3393](http://purl.obolibrary.org/obo/DOID_3393)   |
+| `ICD9CM:240-246.99` |              1 | [DOID:50](http://purl.obolibrary.org/obo/DOID_50)       |
+| `ICD9CM:042-042.99` |              1 | [DOID:526](http://purl.obolibrary.org/obo/DOID_526)     |
+| `ICD9CM:350-359.99` |              1 | [DOID:574](http://purl.obolibrary.org/obo/DOID_574)     |
+| `ICD9CM:430-438.99` |              1 | [DOID:6713](http://purl.obolibrary.org/obo/DOID_6713)   |
+| `ICD9CM:520-579.99` |              1 | [DOID:77](http://purl.obolibrary.org/obo/DOID_77)       |
+| `ICD9CM:060-066.99` |              1 | [DOID:934](http://purl.obolibrary.org/obo/DOID_934)     |
 
 ## `ICDO`: International Classification of Diseases for Oncology
 
@@ -127,21 +194,6 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS192500` |              1 | [DOID:2843](http://purl.obolibrary.org/obo/DOID_2843)       |
 | `OMIM:PS177900` |              1 | [DOID:8893](http://purl.obolibrary.org/obo/DOID_8893)       |
 | `OMIM:PS254800` |              1 | [DOID:891](http://purl.obolibrary.org/obo/DOID_891)         |
-
-## `OMIMPS`: OMIM Phenotypic Series
-
-Overall, there were 5 invalid
-xrefs to external prefixed with `OMIMPS` (standardized to Bioregistry
-prefix [`omim.ps`](https://bioregistry.io/omim.ps)) that
-did not match the standard pattern `^PS\d+$`.
-
-| external_xref   |   usages_count | usages                                                        |
-|-----------------|----------------|---------------------------------------------------------------|
-| `OMIMPS:606777` |              1 | [MONDO:0000188](http://purl.obolibrary.org/obo/MONDO_0000188) |
-| `OMIMPS:300352` |              1 | [MONDO:0000456](http://purl.obolibrary.org/obo/MONDO_0000456) |
-| `OMIMPS:137800` |              1 | [MONDO:0015917](http://purl.obolibrary.org/obo/MONDO_0015917) |
-| `OMIMPS:121200` |              1 | [MONDO:0016027](http://purl.obolibrary.org/obo/MONDO_0016027) |
-| `OMIMPS:604233` |              1 | [MONDO:0018214](http://purl.obolibrary.org/obo/MONDO_0018214) |
 
 ## `UMLS`: Unified Medical Language System Concept Unique Identifier
 

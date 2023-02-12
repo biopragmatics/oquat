@@ -152,16 +152,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 </details>
 
-## `RadLex`
-
-There are 1 usages of `RadLex` in `epso`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RadLex).
-
-| curie          |   usages | nodes                                                           |
-|----------------|----------|-----------------------------------------------------------------|
-| RadLex:RID6449 |        1 | [UBERON:0035933](http://purl.obolibrary.org/obo/UBERON_0035933) |
-
 ## `Talairach`
 
 There are 1 usages of `Talairach` in `epso`.

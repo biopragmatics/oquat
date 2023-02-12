@@ -51,7 +51,7 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 |-------------------------------------------------------|----------------|-----------------------------------------------------------|
 | `MESH:https://meshb.nlm.nih.gov/record/ui?ui=D009543` |              1 | [MMO:0000697](http://purl.obolibrary.org/obo/MMO_0000697) |
 
-## `PMID`: PubMed
+## `PMID`: PubMed ID
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry

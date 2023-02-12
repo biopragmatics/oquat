@@ -4,7 +4,7 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `wbphenotype`. See the [GitHub repository](https://github.com/obophenotype/c-elegans-phenotype-ontology).
 
 
-## `WB`: WormBase database of nematode biology
+## `WB`: Wormbase Gene ID
 
 Overall, there were 392 invalid
 xrefs to external prefixed with `WB` (standardized to Bioregistry

@@ -16,6 +16,52 @@ did not match the standard pattern `^\d+$`.
 | `DO:wk`         |              1 | [DOID:0050178](http://purl.obolibrary.org/obo/DOID_0050178) |
 | `DO:lh`         |              1 | [DOID:462](http://purl.obolibrary.org/obo/DOID_462)         |
 
+## `ICD10CM`: International Classification of Diseases, 10th Revision, Clinical Modification
+
+Overall, there were 2 invalid
+xrefs to external prefixed with `ICD10CM` (standardized to Bioregistry
+prefix [`icd10cm`](https://bioregistry.io/icd10cm)) that
+did not match the standard pattern `^([A-Z][0-9][0-9AB]((-[A-Z][0-9][0-9AB])|(\.[0-9A-KXZ]([0-9A-EXYZ]([0-9A-HX][0-59A-HJKMNP-S]?)?)?)?))$`.
+
+| external_xref    |   usages_count | usages                                                      |
+|------------------|----------------|-------------------------------------------------------------|
+| `ICD10CM:E74.0+` |              1 | [DOID:0090101](http://purl.obolibrary.org/obo/DOID_0090101) |
+| `ICD10CM:G73.6*` |              1 | [DOID:0090101](http://purl.obolibrary.org/obo/DOID_0090101) |
+
+## `ICD11`: International Classification of Diseases, 11th Revision
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `ICD11` (standardized to Bioregistry
+prefix [`icd11`](https://bioregistry.io/icd11)) that
+did not match the standard pattern `^[1-9]\d*$`.
+
+| external_xref   |   usages_count | usages                                                      |
+|-----------------|----------------|-------------------------------------------------------------|
+| `ICD11:4B24`    |              1 | [DOID:0081267](http://purl.obolibrary.org/obo/DOID_0081267) |
+
+## `ICD9CM`: International Classification of Diseases, 9th Revision, Clinical Modification
+
+Overall, there were 13 invalid
+xrefs to external prefixed with `ICD9CM` (standardized to Bioregistry
+prefix [`icd9cm`](https://bioregistry.io/icd9cm)) that
+did not match the standard pattern `^([\dA-Z]\d{2}(\.\d{1,3}|))|(\d{2}(\.\d{1,2}|))$`.
+
+| external_xref       |   usages_count | usages                                                  |
+|---------------------|----------------|---------------------------------------------------------|
+| `ICD9CM:001-009.99` |              1 | [DOID:100](http://purl.obolibrary.org/obo/DOID_100)     |
+| `ICD9CM:401-405.99` |              1 | [DOID:10763](http://purl.obolibrary.org/obo/DOID_10763) |
+| `ICD9CM:110-118.99` |              1 | [DOID:1564](http://purl.obolibrary.org/obo/DOID_1564)   |
+| `ICD9CM:390-392.99` |              1 | [DOID:1586](http://purl.obolibrary.org/obo/DOID_1586)   |
+| `ICD9CM:209-209.99` |              1 | [DOID:169](http://purl.obolibrary.org/obo/DOID_169)     |
+| `ICD9CM:410-414.99` |              1 | [DOID:3393](http://purl.obolibrary.org/obo/DOID_3393)   |
+| `ICD9CM:610-612.99` |              1 | [DOID:3463](http://purl.obolibrary.org/obo/DOID_3463)   |
+| `ICD9CM:042-042.99` |              1 | [DOID:526](http://purl.obolibrary.org/obo/DOID_526)     |
+| `ICD9CM:520-579.99` |              1 | [DOID:77](http://purl.obolibrary.org/obo/DOID_77)       |
+| `ICD9CM:540-543.99` |              1 | [DOID:8337](http://purl.obolibrary.org/obo/DOID_8337)   |
+| `ICD9CM:230-234.99` |              1 | [DOID:8719](http://purl.obolibrary.org/obo/DOID_8719)   |
+| `ICD9CM:120-129.99` |              1 | [DOID:883](http://purl.obolibrary.org/obo/DOID_883)     |
+| `ICD9CM:060-066.99` |              1 | [DOID:934](http://purl.obolibrary.org/obo/DOID_934)     |
+
 ## `ICDO`: International Classification of Diseases for Oncology
 
 Overall, there were 2 invalid
@@ -85,7 +131,7 @@ did not match the standard pattern `^C\d+$`.
 
 ## `OMIM`: Online Mendelian Inheritance in Man
 
-Overall, there were 239 invalid
+Overall, there were 253 invalid
 xrefs to external prefixed with `OMIM` (standardized to Bioregistry
 prefix [`omim`](https://bioregistry.io/omim)) that
 did not match the standard pattern `^\d+$`.
@@ -97,14 +143,19 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS175100` |              1 | [DOID:0050424](http://purl.obolibrary.org/obo/DOID_0050424) |
 | `OMIM:PS102300` |              1 | [DOID:0050425](http://purl.obolibrary.org/obo/DOID_0050425) |
 | `OMIM:PS107970` |              1 | [DOID:0050431](http://purl.obolibrary.org/obo/DOID_0050431) |
+| `OMIM:PS608638` |              1 | [DOID:0050432](http://purl.obolibrary.org/obo/DOID_0050432) |
 | `OMIM:PS276900` |              1 | [DOID:0050439](http://purl.obolibrary.org/obo/DOID_0050439) |
 | `OMIM:PS151660` |              1 | [DOID:0050440](http://purl.obolibrary.org/obo/DOID_0050440) |
+| `OMIM:PS193900` |              1 | [DOID:0050448](http://purl.obolibrary.org/obo/DOID_0050448) |
 | `OMIM:PS167200` |              1 | [DOID:0050449](http://purl.obolibrary.org/obo/DOID_0050449) |
 | `OMIM:PS601144` |              1 | [DOID:0050451](http://purl.obolibrary.org/obo/DOID_0050451) |
 | `OMIM:PS607432` |              1 | [DOID:0050453](http://purl.obolibrary.org/obo/DOID_0050453) |
 | `OMIM:PS133200` |              1 | [DOID:0050467](http://purl.obolibrary.org/obo/DOID_0050467) |
+| `OMIM:PS277600` |              1 | [DOID:0050475](http://purl.obolibrary.org/obo/DOID_0050475) |
+| `OMIM:PS138800` |              1 | [DOID:0050489](http://purl.obolibrary.org/obo/DOID_0050489) |
 | `OMIM:PS310500` |              1 | [DOID:0050534](http://purl.obolibrary.org/obo/DOID_0050534) |
 | `OMIM:PS133780` |              1 | [DOID:0050535](http://purl.obolibrary.org/obo/DOID_0050535) |
+| `OMIM:PS306955` |              1 | [DOID:0050545](http://purl.obolibrary.org/obo/DOID_0050545) |
 | `OMIM:PS162400` |              1 | [DOID:0050548](http://purl.obolibrary.org/obo/DOID_0050548) |
 | `OMIM:PS124900` |              1 | [DOID:0050564](http://purl.obolibrary.org/obo/DOID_0050564) |
 | `OMIM:PS220290` |              1 | [DOID:0050565](http://purl.obolibrary.org/obo/DOID_0050565) |
@@ -115,14 +166,18 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS212065` |              1 | [DOID:0050570](http://purl.obolibrary.org/obo/DOID_0050570) |
 | `OMIM:PS212066` |              1 | [DOID:0050571](http://purl.obolibrary.org/obo/DOID_0050571) |
 | `OMIM:PS600721` |              1 | [DOID:0050575](http://purl.obolibrary.org/obo/DOID_0050575) |
+| `OMIM:PS266900` |              1 | [DOID:0050576](http://purl.obolibrary.org/obo/DOID_0050576) |
 | `OMIM:PS218330` |              1 | [DOID:0050577](http://purl.obolibrary.org/obo/DOID_0050577) |
 | `OMIM:PS153100` |              1 | [DOID:0050580](http://purl.obolibrary.org/obo/DOID_0050580) |
 | `OMIM:PS608594` |              1 | [DOID:0050585](http://purl.obolibrary.org/obo/DOID_0050585) |
 | `OMIM:PS266600` |              1 | [DOID:0050589](http://purl.obolibrary.org/obo/DOID_0050589) |
 | `OMIM:PS202700` |              1 | [DOID:0050590](http://purl.obolibrary.org/obo/DOID_0050590) |
+| `OMIM:PS106600` |              1 | [DOID:0050591](http://purl.obolibrary.org/obo/DOID_0050591) |
 | `OMIM:PS208500` |              1 | [DOID:0050592](http://purl.obolibrary.org/obo/DOID_0050592) |
 | `OMIM:PS604348` |              1 | [DOID:0050628](http://purl.obolibrary.org/obo/DOID_0050628) |
+| `OMIM:PS225750` |              1 | [DOID:0050629](http://purl.obolibrary.org/obo/DOID_0050629) |
 | `OMIM:PS203100` |              1 | [DOID:0050632](http://purl.obolibrary.org/obo/DOID_0050632) |
+| `OMIM:PS104290` |              1 | [DOID:0050635](http://purl.obolibrary.org/obo/DOID_0050635) |
 | `OMIM:PS105250` |              1 | [DOID:0050639](http://purl.obolibrary.org/obo/DOID_0050639) |
 | `OMIM:PS108120` |              1 | [DOID:0050646](http://purl.obolibrary.org/obo/DOID_0050646) |
 | `OMIM:PS608583` |              1 | [DOID:0050650](http://purl.obolibrary.org/obo/DOID_0050650) |
@@ -149,6 +204,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS600118` |              1 | [DOID:0060237](http://purl.obolibrary.org/obo/DOID_0060237) |
 | `OMIM:PS601390` |              1 | [DOID:0060238](http://purl.obolibrary.org/obo/DOID_0060238) |
 | `OMIM:PS600630` |              1 | [DOID:0060240](http://purl.obolibrary.org/obo/DOID_0060240) |
+| `OMIM:PS607326` |              1 | [DOID:0060247](http://purl.obolibrary.org/obo/DOID_0060247) |
 | `OMIM:PS269500` |              1 | [DOID:0060251](http://purl.obolibrary.org/obo/DOID_0060251) |
 | `OMIM:PS268310` |              1 | [DOID:0060254](http://purl.obolibrary.org/obo/DOID_0060254) |
 | `OMIM:PS607596` |              1 | [DOID:0060264](http://purl.obolibrary.org/obo/DOID_0060264) |
@@ -221,6 +277,8 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS145420` |              1 | [DOID:0081073](http://purl.obolibrary.org/obo/DOID_0081073) |
 | `OMIM:PS300291` |              1 | [DOID:0081077](http://purl.obolibrary.org/obo/DOID_0081077) |
 | `OMIM:PS613339` |              1 | [DOID:0081104](http://purl.obolibrary.org/obo/DOID_0081104) |
+| `OMIM:PS248370` |              1 | [DOID:0081127](http://purl.obolibrary.org/obo/DOID_0081127) |
+| `OMIM:PS164310` |              1 | [DOID:0081296](http://purl.obolibrary.org/obo/DOID_0081296) |
 | `OMIM:PS219000` |              1 | [DOID:0090001](http://purl.obolibrary.org/obo/DOID_0090001) |
 | `OMIM:PS242860` |              1 | [DOID:0090007](http://purl.obolibrary.org/obo/DOID_0090007) |
 | `OMIM:PS183600` |              1 | [DOID:0090020](http://purl.obolibrary.org/obo/DOID_0090020) |
@@ -259,6 +317,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS603075` |              1 | [DOID:10871](http://purl.obolibrary.org/obo/DOID_10871)     |
 | `OMIM:PS122470` |              1 | [DOID:11725](http://purl.obolibrary.org/obo/DOID_11725)     |
 | `OMIM:PS310300` |              1 | [DOID:11726](http://purl.obolibrary.org/obo/DOID_11726)     |
+| `OMIM:PS607594` |              1 | [DOID:12177](http://purl.obolibrary.org/obo/DOID_12177)     |
 | `OMIM:PS109720` |              1 | [DOID:12236](http://purl.obolibrary.org/obo/DOID_12236)     |
 | `OMIM:PS166200` |              1 | [DOID:12347](http://purl.obolibrary.org/obo/DOID_12347)     |
 | `OMIM:PS157640` |              1 | [DOID:12558](http://purl.obolibrary.org/obo/DOID_12558)     |
@@ -316,6 +375,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS190300` |              1 | [DOID:4990](http://purl.obolibrary.org/obo/DOID_4990)       |
 | `OMIM:PS311360` |              1 | [DOID:5426](http://purl.obolibrary.org/obo/DOID_5426)       |
 | `OMIM:PS128100` |              1 | [DOID:543](http://purl.obolibrary.org/obo/DOID_543)         |
+| `OMIM:PS265450` |              1 | [DOID:5453](http://purl.obolibrary.org/obo/DOID_5453)       |
 | `OMIM:PS165500` |              1 | [DOID:5723](http://purl.obolibrary.org/obo/DOID_5723)       |
 | `OMIM:PS300755` |              1 | [DOID:612](http://purl.obolibrary.org/obo/DOID_612)         |
 | `OMIM:PS158350` |              1 | [DOID:6457](http://purl.obolibrary.org/obo/DOID_6457)       |

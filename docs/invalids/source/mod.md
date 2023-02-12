@@ -4,7 +4,7 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `mod`. See the [GitHub repository](https://github.com/HUPO-PSI/psi-mod-CV).
 
 
-## `PubMed`: PubMed
+## `PubMed`: PubMed ID
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PubMed` (standardized to Bioregistry

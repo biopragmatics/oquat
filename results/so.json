@@ -776,9 +776,6 @@
         "http://purl.obolibrary.org/obo/SO_0000374": [
           "SO:ma"
         ],
-        "http://purl.obolibrary.org/obo/SO_0000394": [
-          "PMID:=12409455"
-        ],
         "http://purl.obolibrary.org/obo/SO_0000400": [
           "SO:ke"
         ],
@@ -2430,11 +2427,32 @@
         "http://purl.obolibrary.org/obo/SO_0001483": [
           "SO:bm"
         ],
+        "http://purl.obolibrary.org/obo/SO_0001486": [
+          "DOI:10.1126"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001487": [
+          "DOI:10.1126"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001488": [
+          "DOI:10.1126"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001489": [
+          "DOI:10.1126"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001490": [
+          "DOI:10.1126"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001491": [
+          "DOI:10.1126"
+        ],
         "http://purl.obolibrary.org/obo/SO_0001492": [
           "SO:ke"
         ],
         "http://purl.obolibrary.org/obo/SO_0001498": [
           "SO:ke"
+        ],
+        "http://purl.obolibrary.org/obo/SO_0001499": [
+          "DOI:10.1126"
         ],
         "http://purl.obolibrary.org/obo/SO_0001500": [
           "JAX:hdene"

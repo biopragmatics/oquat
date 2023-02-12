@@ -38,6 +38,7 @@ Identifiers for this prefix are given incorrectly in `orphanet`.
 | `Genatlas:NKX2-6`    |              1 | [http://www.orpha.net/ORDO/Orphanet_159562](http://www.orpha.net/ORDO/Orphanet_159562) |
 | `Genatlas:MT-ATP8`   |              1 | [http://www.orpha.net/ORDO/Orphanet_159773](http://www.orpha.net/ORDO/Orphanet_159773) |
 | `Genatlas:SNORD115@` |              1 | [http://www.orpha.net/ORDO/Orphanet_159915](http://www.orpha.net/ORDO/Orphanet_159915) |
+| `Genatlas:MT-TI`     |              1 | [http://www.orpha.net/ORDO/Orphanet_160303](http://www.orpha.net/ORDO/Orphanet_160303) |
 | `Genatlas:MT-TW`     |              1 | [http://www.orpha.net/ORDO/Orphanet_160307](http://www.orpha.net/ORDO/Orphanet_160307) |
 | `Genatlas:MT-TS1`    |              1 | [http://www.orpha.net/ORDO/Orphanet_167901](http://www.orpha.net/ORDO/Orphanet_167901) |
 | `Genatlas:MT-TS2`    |              1 | [http://www.orpha.net/ORDO/Orphanet_167905](http://www.orpha.net/ORDO/Orphanet_167905) |

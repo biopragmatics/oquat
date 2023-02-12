@@ -19,7 +19,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                        |
 |-------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MONDORULE:1 |       17 | [EFO:0000248](http://www.ebi.ac.uk/efo/EFO_0000248), [EFO:0000437](http://www.ebi.ac.uk/efo/EFO_0000437), [EFO:0000640](http://www.ebi.ac.uk/efo/EFO_0000640), [EFO:0003047](http://www.ebi.ac.uk/efo/EFO_0003047), [EFO:0004197](http://www.ebi.ac.uk/efo/EFO_0004197), ... |
-| MONDORULE:2 |        1 | [EFO:0009160](http://www.ebi.ac.uk/efo/EFO_0009160)                                                                                                                                                                                                                          |
+| MONDORULE:2 |        2 | [EFO:0009059](http://www.ebi.ac.uk/efo/EFO_0009059), [EFO:0009160](http://www.ebi.ac.uk/efo/EFO_0009160)                                                                                                                                                                     |
 
 ## `MTH`
 
@@ -74,25 +74,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ICD10EXP:L40.5+ |        1 | [EFO:0009733](http://www.ebi.ac.uk/efo/EFO_0009733) |
 | ICD10EXP:A39.0+ |        1 | [EFO:1001040](http://www.ebi.ac.uk/efo/EFO_1001040) |
 | ICD10EXP:L99.0* |        1 | [EFO:1001882](http://www.ebi.ac.uk/efo/EFO_1001882) |
-
-## `ICD10WHO`
-
-There are 10 usages of `ICD10WHO` in `efo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10WHO).
-
-| curie            |   usages | nodes                                               |
-|------------------|----------|-----------------------------------------------------|
-| ICD10WHO:F31     |        1 | [EFO:0000289](http://www.ebi.ac.uk/efo/EFO_0000289) |
-| ICD10WHO:G40     |        1 | [EFO:0000474](http://www.ebi.ac.uk/efo/EFO_0000474) |
-| ICD10WHO:E70-E90 |        1 | [EFO:0000589](http://www.ebi.ac.uk/efo/EFO_0000589) |
-| ICD10WHO:D10-D36 |        1 | [EFO:0002422](http://www.ebi.ac.uk/efo/EFO_0002422) |
-| ICD10WHO:G47.0   |        1 | [EFO:0004698](http://www.ebi.ac.uk/efo/EFO_0004698) |
-| ICD10WHO:Q82.2   |        1 | [EFO:0009001](http://www.ebi.ac.uk/efo/EFO_0009001) |
-| ICD10WHO:H00-H06 |        1 | [EFO:0009546](http://www.ebi.ac.uk/efo/EFO_0009546) |
-| ICD10WHO:N40-N51 |        1 | [EFO:0009555](http://www.ebi.ac.uk/efo/EFO_0009555) |
-| ICD10WHO:N48.1   |        1 | [EFO:1000833](http://www.ebi.ac.uk/efo/EFO_1000833) |
-| ICD10WHO:M75.1   |        1 | [EFO:1001250](http://www.ebi.ac.uk/efo/EFO_1001250) |
 
 ## `MAP`
 

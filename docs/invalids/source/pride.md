@@ -43,12 +43,12 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `PRIDE`: PRIDE Controlled Vocabulary
 
-Overall, there were 3 invalid
+Overall, there were 360 invalid
 xrefs to external prefixed with `PRIDE` (standardized to Bioregistry
 prefix [`pride`](https://bioregistry.io/pride)) that
-did not match the standard pattern `^\d+$`.
+did not match the standard pattern `^\d{7}$`.
 
-| external_xref   |   usages_count | usages                                                                                                                                                                                      |
-|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PRIDE:PRIDE`   |              3 | [PRIDE:0000099](http://purl.obolibrary.org/obo/PRIDE_0000099), [PRIDE:0000100](http://purl.obolibrary.org/obo/PRIDE_0000100), [PRIDE:0000104](http://purl.obolibrary.org/obo/PRIDE_0000104) |
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                             |
+|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `PRIDE:PRIDE`   |            360 | [MS:1000044](http://purl.obolibrary.org/obo/MS_1000044), [MS:1000045](http://purl.obolibrary.org/obo/MS_1000045), [MS:1000451](http://purl.obolibrary.org/obo/MS_1000451), [MS:1002038](http://purl.obolibrary.org/obo/MS_1002038), [NCIT:C69199](http://purl.obolibrary.org/obo/NCIT_C69199), ... |
 

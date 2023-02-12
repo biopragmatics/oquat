@@ -32,6 +32,19 @@ did not match the standard pattern `^\d{7}$`.
 | `BSPO:cjm`           |             11 | [BSPO:0000096](http://purl.obolibrary.org/obo/BSPO_0000096), [BSPO:0000097](http://purl.obolibrary.org/obo/BSPO_0000097), [BSPO:0000098](http://purl.obolibrary.org/obo/BSPO_0000098), [BSPO:0000099](http://purl.obolibrary.org/obo/BSPO_0000099), [BSPO:0000100](http://purl.obolibrary.org/obo/BSPO_0000100), ... |
 | `BSPO:PATO_mtg_2009` |              6 | [BSPO:0000120](http://purl.obolibrary.org/obo/BSPO_0000120), [BSPO:0000121](http://purl.obolibrary.org/obo/BSPO_0000121), [BSPO:0000122](http://purl.obolibrary.org/obo/BSPO_0000122), [BSPO:0000123](http://purl.obolibrary.org/obo/BSPO_0000123), [BSPO:0000124](http://purl.obolibrary.org/obo/BSPO_0000124), ... |
 
+## `CALOHA`: CALIPHO Group Ontology of Human Anatomy
+
+Overall, there were 4 invalid
+xrefs to external prefixed with `CALOHA` (standardized to Bioregistry
+prefix [`caloha`](https://bioregistry.io/caloha)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref    |   usages_count | usages                                                                                                           |
+|------------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `CALOHA:TS-0576` |              2 | [CL:1001603](http://purl.obolibrary.org/obo/CL_1001603), [CL:1001603](http://purl.obolibrary.org/obo/CL_1001603) |
+| `CALOHA:TS-2035` |              1 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000)                                                          |
+| `CALOHA:TS-2090` |              1 | [UBERON:0000479](http://purl.obolibrary.org/obo/UBERON_0000479)                                                  |
+
 ## `CARO`: Common Anatomy Reference Ontology
 
 Overall, there were 2 invalid
@@ -48,7 +61,7 @@ did not match the standard pattern `^\d{7}$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `doi` (standardized to Bioregistry
 prefix [`doi`](https://bioregistry.io/doi)) that
-did not match the standard pattern `^(doi\:)?\d{2}\.\d{4}.*$`.
+did not match the standard pattern `^10.\d{2,9}/.*$`.
 
 | external_xref            |   usages_count | usages                                              |
 |--------------------------|----------------|-----------------------------------------------------|
@@ -136,6 +149,19 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `HPO:probinson` |              6 | [HP:0001522](http://purl.obolibrary.org/obo/HP_0001522), [HP:0003674](http://purl.obolibrary.org/obo/HP_0003674), [HP:0003811](http://purl.obolibrary.org/obo/HP_0003811), [HP:0003826](http://purl.obolibrary.org/obo/HP_0003826), [HP:0005268](http://purl.obolibrary.org/obo/HP_0005268), ... |
 
+## `ICD9`: International Classification of Diseases, 9th Revision
+
+Overall, there were 3 invalid
+xrefs to external prefixed with `ICD9` (standardized to Bioregistry
+prefix [`icd9`](https://bioregistry.io/icd9)) that
+did not match the standard pattern `^(\d\d\d|V\d\d|E[8-9]\d\d)(\.\d{1,2})?$`.
+
+| external_xref     |   usages_count | usages                                              |
+|-------------------|----------------|-----------------------------------------------------|
+| `ICD9:89.52`      |              1 | [EFO:0004327](http://www.ebi.ac.uk/efo/EFO_0004327) |
+| `ICD9:V85-V85.99` |              1 | [EFO:0004340](http://www.ebi.ac.uk/efo/EFO_0004340) |
+| `ICD9:V86-V86.99` |              1 | [EFO:0005512](http://www.ebi.ac.uk/efo/EFO_0005512) |
+
 ## `MA`: Mouse adult gross anatomy
 
 Overall, there were 13 invalid
@@ -197,17 +223,6 @@ did not match the standard pattern `^BAMSC\d+$`.
 | `NIFSTD:sao279801585` |              1 | [EFO:0001444](http://www.ebi.ac.uk/efo/EFO_0001444) |
 | `NIFSTD:birnlex_2117` |              1 | [EFO:0002694](http://www.ebi.ac.uk/efo/EFO_0002694) |
 
-## `obi`: Ontology for Biomedical Investigations
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `obi` (standardized to Bioregistry
-prefix [`obi`](https://bioregistry.io/obi)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref   |   usages_count | usages                                                    |
-|-----------------|----------------|-----------------------------------------------------------|
-| `obi:pppb`      |              1 | [OBI:0000070](http://purl.obolibrary.org/obo/OBI_0000070) |
-
 ## `OBO_REL`: Relation Ontology
 
 Overall, there were 1 invalid
@@ -232,7 +247,7 @@ did not match the standard pattern `^\d{7}$`.
 | `PATO:DS`       |              1 | [PATO:0002390](http://purl.obolibrary.org/obo/PATO_0002390)                                                                                                                                                                                                                                                     |
 | `PATO:MAH`      |              1 | [PATO:0002632](http://purl.obolibrary.org/obo/PATO_0002632)                                                                                                                                                                                                                                                     |
 
-## `PMID`: PubMed
+## `PMID`: PubMed ID
 
 Overall, there were 6 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
@@ -261,14 +276,14 @@ did not match the standard pattern `^\d+$`.
 
 ## `ReO`: Reagent Ontology
 
-Overall, there were 3 invalid
+Overall, there were 2 invalid
 xrefs to external prefixed with `ReO` (standardized to Bioregistry
 prefix [`reo`](https://bioregistry.io/reo)) that
 did not match the standard pattern `^\d{7}$`.
 
-| external_xref   |   usages_count | usages                                                                                                                                                                    |
-|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ReO:mhb`       |              3 | [CL:0000010](http://purl.obolibrary.org/obo/CL_0000010), [CL:0000010](http://purl.obolibrary.org/obo/CL_0000010), [CL:0001034](http://purl.obolibrary.org/obo/CL_0001034) |
+| external_xref   |   usages_count | usages                                                                                                           |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `ReO:mhb`       |              2 | [CL:0000010](http://purl.obolibrary.org/obo/CL_0000010), [CL:0001034](http://purl.obolibrary.org/obo/CL_0001034) |
 
 ## `SO`: Sequence types and features ontology
 
@@ -294,26 +309,15 @@ did not match the standard pattern `^\d+$`.
 
 ## `Wikipedia`: Wikipedia
 
-Overall, there were 22 invalid
+Overall, there were 21 invalid
 xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
 prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
 did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 
 | external_xref                                                  |   usages_count | usages                                                                                      |
 |----------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------|
-| `Wikipedia:https://en.wikipedia.org/wiki/Gas`                  |              1 | [CHEBI:138675](http://purl.obolibrary.org/obo/CHEBI_138675)                                 |
-| `Wikipedia:Glycoprotein_IIb/IIIa_inhibitors`                   |              1 | [CHEBI:50433](http://purl.obolibrary.org/obo/CHEBI_50433)                                   |
-| `Wikipedia:Matrix-assisted_laser_desorption/ionization#Matrix` |              1 | [CHEBI:64345](http://purl.obolibrary.org/obo/CHEBI_64345)                                   |
-| `Wikipedia:Stabiliser_(food)`                                  |              1 | [CHEBI:77966](http://purl.obolibrary.org/obo/CHEBI_77966)                                   |
-| `Wikipedia:Insertion_(anatomy)#Muscles`                        |              1 | [RO:0002372](http://purl.obolibrary.org/obo/RO_0002372)                                     |
-| `Wikipedia:Insertion_(anatomy)`                                |              1 | [RO:0002373](http://purl.obolibrary.org/obo/RO_0002373)                                     |
-| `Wikipedia:Antagonist_(muscle)`                                |              1 | [uberon#has:muscle:antagonist](http://purl.obolibrary.org/obo/uberon#has_muscle_antagonist) |
-| `Wikipedia:Dissociation_(psychology)`                          |              1 | [EFO:0009750](http://www.ebi.ac.uk/efo/EFO_0009750)                                         |
-| `Wikipedia:17α-Hydroxyprogesterone`                            |              1 | [EFO:0010220](http://www.ebi.ac.uk/efo/EFO_0010220)                                         |
-| `Wikipedia:Transduction_(genetics)`                            |              1 | [GO:0009293](http://purl.obolibrary.org/obo/GO_0009293)                                     |
 | `Wikipedia:http://en.wikipedia.org/wiki/concentration`         |              1 | [PATO:0000033](http://purl.obolibrary.org/obo/PATO_0000033)                                 |
 | `Wikipedia:http://en.wikipedia.org/wiki/frequency`             |              1 | [PATO:0000044](http://purl.obolibrary.org/obo/PATO_0000044)                                 |
-| `Wikipedia:http://en.wikipedia.org/wiki/Hyperplastic`          |              1 | [PATO:0000644](http://purl.obolibrary.org/obo/PATO_0000644)                                 |
 | `Wikipedia:http://en.wikipedia.org/wiki/Area`                  |              1 | [PATO:0001323](http://purl.obolibrary.org/obo/PATO_0001323)                                 |
 | `Wikipedia:http://en.wikipedia.org/wiki/Diameter`              |              1 | [PATO:0001334](http://purl.obolibrary.org/obo/PATO_0001334)                                 |
 | `Wikipedia:http://en.wikipedia.org/wiki/Area_density`          |              1 | [PATO:0001351](http://purl.obolibrary.org/obo/PATO_0001351)                                 |
@@ -323,6 +327,16 @@ did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 | `Wikipedia:http://en.wikipedia.org/wiki/Specific_volume`       |              1 | [PATO:0001679](http://purl.obolibrary.org/obo/PATO_0001679)                                 |
 | `Wikipedia:http://en.wikipedia.org/wiki/Molar_volume`          |              1 | [PATO:0001680](http://purl.obolibrary.org/obo/PATO_0001680)                                 |
 | `Wikipedia:http://en.wikipedia.org/wiki/Perimeter`             |              1 | [PATO:0001711](http://purl.obolibrary.org/obo/PATO_0001711)                                 |
+| `Wikipedia:Insertion_(anatomy)#Muscles`                        |              1 | [RO:0002372](http://purl.obolibrary.org/obo/RO_0002372)                                     |
+| `Wikipedia:Insertion_(anatomy)`                                |              1 | [RO:0002373](http://purl.obolibrary.org/obo/RO_0002373)                                     |
+| `Wikipedia:Antagonist_(muscle)`                                |              1 | [uberon#has:muscle:antagonist](http://purl.obolibrary.org/obo/uberon#has_muscle_antagonist) |
+| `Wikipedia:https://en.wikipedia.org/wiki/Gas`                  |              1 | [CHEBI:138675](http://purl.obolibrary.org/obo/CHEBI_138675)                                 |
+| `Wikipedia:Glycoprotein_IIb/IIIa_inhibitors`                   |              1 | [CHEBI:50433](http://purl.obolibrary.org/obo/CHEBI_50433)                                   |
+| `Wikipedia:Matrix-assisted_laser_desorption/ionization#Matrix` |              1 | [CHEBI:64345](http://purl.obolibrary.org/obo/CHEBI_64345)                                   |
+| `Wikipedia:Stabiliser_(food)`                                  |              1 | [CHEBI:77966](http://purl.obolibrary.org/obo/CHEBI_77966)                                   |
+| `Wikipedia:Transduction_(genetics)`                            |              1 | [GO:0009293](http://purl.obolibrary.org/obo/GO_0009293)                                     |
+| `Wikipedia:Dissociation_(psychology)`                          |              1 | [EFO:0009750](http://www.ebi.ac.uk/efo/EFO_0009750)                                         |
+| `Wikipedia:17α-Hydroxyprogesterone`                            |              1 | [EFO:0010220](http://www.ebi.ac.uk/efo/EFO_0010220)                                         |
 
 ## `WWF`: World Wildlife Fund Ecoregion
 

@@ -2,8 +2,17 @@
 
 This page summarize the different resources that reference `umls`
 but use local unique identifiers that do not match the standard pattern of
-`^C\d+$`. Of the 3 resources,
+`^C\d+$`. Of the 5 resources,
 1 variants on the standard prefix were found: ['UMLS'].
+
+## `covoc`: CoVoc Coronavirus Vocabulary
+
+Identifiers for this prefix are given incorrectly in `covoc`. See the [GitHub repository](https://github.com/EBISPOT/covoc).
+
+| external_xref                   |   usages_count | usages                                                        |
+|---------------------------------|----------------|---------------------------------------------------------------|
+| `UMLS:CN236658`                 |              1 | [MONDO:0002050](http://purl.obolibrary.org/obo/MONDO_0002050) |
+| `UMLS:C0026565 | UMLS:C0026566` |              1 | [EFO:0004352](http://www.ebi.ac.uk/efo/EFO_0004352)           |
 
 ## `efo`: Experimental Factor Ontology
 
@@ -14,7 +23,6 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `UMLS:CN242113` |              1 | [EFO:0000350](http://www.ebi.ac.uk/efo/EFO_0000350) |
 | `UMLS:CN043071` |              1 | [EFO:0000384](http://www.ebi.ac.uk/efo/EFO_0000384) |
 | `UMLS:CN227279` |              1 | [EFO:0000519](http://www.ebi.ac.uk/efo/EFO_0000519) |
-| `UMLS:CN236663` |              1 | [EFO:0000551](http://www.ebi.ac.uk/efo/EFO_0000551) |
 | `UMLS:CN236628` |              1 | [EFO:0000616](http://www.ebi.ac.uk/efo/EFO_0000616) |
 | `UMLS:CN205405` |              1 | [EFO:0000621](http://www.ebi.ac.uk/efo/EFO_0000621) |
 | `UMLS:CN205129` |              1 | [EFO:0000640](http://www.ebi.ac.uk/efo/EFO_0000640) |
@@ -54,13 +62,13 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `UMLS:CN201384` |              1 | [EFO:0007211](http://www.ebi.ac.uk/efo/EFO_0007211) |
 | `UMLS:CN205282` |              1 | [EFO:0007342](http://www.ebi.ac.uk/efo/EFO_0007342) |
 | `UMLS:CN203069` |              1 | [EFO:0007460](http://www.ebi.ac.uk/efo/EFO_0007460) |
-| `UMLS:CN776941` |              1 | [EFO:0008493](http://www.ebi.ac.uk/efo/EFO_0008493) |
 | `UMLS:CN204884` |              1 | [EFO:0008507](http://www.ebi.ac.uk/efo/EFO_0008507) |
 | `UMLS:CN237754` |              1 | [EFO:0008597](http://www.ebi.ac.uk/efo/EFO_0008597) |
 | `UMLS:CN206006` |              1 | [EFO:0008598](http://www.ebi.ac.uk/efo/EFO_0008598) |
 | `UMLS:CN205981` |              1 | [EFO:0008613](http://www.ebi.ac.uk/efo/EFO_0008613) |
 | `UMLS:CL520437` |              1 | [EFO:0008614](http://www.ebi.ac.uk/efo/EFO_0008614) |
 | `UMLS:CN239183` |              1 | [EFO:0009039](http://www.ebi.ac.uk/efo/EFO_0009039) |
+| `UMLS:CN072455` |              1 | [EFO:0009052](http://www.ebi.ac.uk/efo/EFO_0009052) |
 | `UMLS:CN202862` |              1 | [EFO:0009068](http://www.ebi.ac.uk/efo/EFO_0009068) |
 | `UMLS:CN240512` |              1 | [EFO:0009068](http://www.ebi.ac.uk/efo/EFO_0009068) |
 | `UMLS:CN671932` |              1 | [EFO:0009152](http://www.ebi.ac.uk/efo/EFO_0009152) |
@@ -135,6 +143,14 @@ Identifiers for this prefix are given incorrectly in `epso`.
 | `UMLS:CN207128` |              1 | [MONDO:0020308](http://purl.obolibrary.org/obo/MONDO_0020308) |
 | `UMLS:CN207131` |              1 | [MONDO:0020310](http://purl.obolibrary.org/obo/MONDO_0020310) |
 
+## `hp`: Human Phenotype Ontology
+
+Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repository](https://github.com/obophenotype/human-phenotype-ontology).
+
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `UMLS:0189573`  |              1 | [HP:0034420](http://purl.obolibrary.org/obo/HP_0034420) |
+
 ## `mondo`: Monarch Disease Ontology
 
 Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub repository](https://github.com/monarch-initiative/mondo).
@@ -171,7 +187,6 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN227588` |              1 | [MONDO:0000456](http://purl.obolibrary.org/obo/MONDO_0000456) |
 | `UMLS:CN068444` |              1 | [MONDO:0000488](http://purl.obolibrary.org/obo/MONDO_0000488) |
 | `UMLS:CN225415` |              1 | [MONDO:0000508](http://purl.obolibrary.org/obo/MONDO_0000508) |
-| `UMLS:CN229296` |              1 | [MONDO:0000561](http://purl.obolibrary.org/obo/MONDO_0000561) |
 | `UMLS:CN239392` |              1 | [MONDO:0000608](http://purl.obolibrary.org/obo/MONDO_0000608) |
 | `UMLS:CN201960` |              1 | [MONDO:0000640](http://purl.obolibrary.org/obo/MONDO_0000640) |
 | `UMLS:CN241052` |              1 | [MONDO:0000726](http://purl.obolibrary.org/obo/MONDO_0000726) |
@@ -206,6 +221,7 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN203416` |              1 | [MONDO:0003266](http://purl.obolibrary.org/obo/MONDO_0003266) |
 | `UMLS:CN206461` |              1 | [MONDO:0003523](http://purl.obolibrary.org/obo/MONDO_0003523) |
 | `UMLS:CN204945` |              1 | [MONDO:0004064](http://purl.obolibrary.org/obo/MONDO_0004064) |
+| `UMLS:CN552492` |              1 | [MONDO:0004069](http://purl.obolibrary.org/obo/MONDO_0004069) |
 | `UMLS:CN202866` |              1 | [MONDO:0004114](http://purl.obolibrary.org/obo/MONDO_0004114) |
 | `UMLS:CN229495` |              1 | [MONDO:0004681](http://purl.obolibrary.org/obo/MONDO_0004681) |
 | `UMLS:CN119611` |              1 | [MONDO:0004691](http://purl.obolibrary.org/obo/MONDO_0004691) |
@@ -351,6 +367,7 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN034812` |              1 | [MONDO:0008535](http://purl.obolibrary.org/obo/MONDO_0008535) |
 | `UMLS:CN206542` |              1 | [MONDO:0008547](http://purl.obolibrary.org/obo/MONDO_0008547) |
 | `UMLS:CN734570` |              1 | [MONDO:0008564](http://purl.obolibrary.org/obo/MONDO_0008564) |
+| `UMLS:CN204341` |              1 | [MONDO:0008572](http://purl.obolibrary.org/obo/MONDO_0008572) |
 | `UMLS:CN204359` |              1 | [MONDO:0008587](http://purl.obolibrary.org/obo/MONDO_0008587) |
 | `UMLS:CN206312` |              1 | [MONDO:0008642](http://purl.obolibrary.org/obo/MONDO_0008642) |
 | `UMLS:CN205308` |              1 | [MONDO:0008644](http://purl.obolibrary.org/obo/MONDO_0008644) |
@@ -462,6 +479,8 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN201292` |              1 | [MONDO:0010618](http://purl.obolibrary.org/obo/MONDO_0010618) |
 | `UMLS:CN201604` |              1 | [MONDO:0010639](http://purl.obolibrary.org/obo/MONDO_0010639) |
 | `UMLS:CN205653` |              1 | [MONDO:0010663](http://purl.obolibrary.org/obo/MONDO_0010663) |
+| `UMLS:CN206716` |              1 | [MONDO:0010663](http://purl.obolibrary.org/obo/MONDO_0010663) |
+| `UMLS:CN206718` |              1 | [MONDO:0010663](http://purl.obolibrary.org/obo/MONDO_0010663) |
 | `UMLS:CN069573` |              1 | [MONDO:0010680](http://purl.obolibrary.org/obo/MONDO_0010680) |
 | `UMLS:CN035075` |              1 | [MONDO:0010720](http://purl.obolibrary.org/obo/MONDO_0010720) |
 | `UMLS:CN074234` |              1 | [MONDO:0010746](http://purl.obolibrary.org/obo/MONDO_0010746) |
@@ -488,6 +507,7 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN035113` |              1 | [MONDO:0011642](http://purl.obolibrary.org/obo/MONDO_0011642) |
 | `UMLS:CN226952` |              1 | [MONDO:0011669](http://purl.obolibrary.org/obo/MONDO_0011669) |
 | `UMLS:CN197338` |              1 | [MONDO:0011674](http://purl.obolibrary.org/obo/MONDO_0011674) |
+| `UMLS:CN229296` |              1 | [MONDO:0011694](http://purl.obolibrary.org/obo/MONDO_0011694) |
 | `UMLS:CN030711` |              1 | [MONDO:0011724](http://purl.obolibrary.org/obo/MONDO_0011724) |
 | `UMLS:CN244557` |              1 | [MONDO:0011727](http://purl.obolibrary.org/obo/MONDO_0011727) |
 | `UMLS:CN029084` |              1 | [MONDO:0011773](http://purl.obolibrary.org/obo/MONDO_0011773) |
@@ -496,8 +516,6 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN226157` |              1 | [MONDO:0011835](http://purl.obolibrary.org/obo/MONDO_0011835) |
 | `UMLS:CN244558` |              1 | [MONDO:0011846](http://purl.obolibrary.org/obo/MONDO_0011846) |
 | `UMLS:CN207466` |              1 | [MONDO:0011889](http://purl.obolibrary.org/obo/MONDO_0011889) |
-| `UMLS:CN074207` |              1 | [MONDO:0012017](http://purl.obolibrary.org/obo/MONDO_0012017) |
-| `UMLS:CN206396` |              1 | [MONDO:0012017](http://purl.obolibrary.org/obo/MONDO_0012017) |
 | `UMLS:CN206429` |              1 | [MONDO:0012049](http://purl.obolibrary.org/obo/MONDO_0012049) |
 | `UMLS:CN206226` |              1 | [MONDO:0012126](http://purl.obolibrary.org/obo/MONDO_0012126) |
 | `UMLS:CN074230` |              1 | [MONDO:0012173](http://purl.obolibrary.org/obo/MONDO_0012173) |
@@ -1426,6 +1444,7 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN203069` |              1 | [MONDO:0017376](http://purl.obolibrary.org/obo/MONDO_0017376) |
 | `UMLS:CN227120` |              1 | [MONDO:0017378](http://purl.obolibrary.org/obo/MONDO_0017378) |
 | `UMLS:CN203094` |              1 | [MONDO:0017379](http://purl.obolibrary.org/obo/MONDO_0017379) |
+| `UMLS:CN239474` |              1 | [MONDO:0017380](http://purl.obolibrary.org/obo/MONDO_0017380) |
 | `UMLS:CN203109` |              1 | [MONDO:0017382](http://purl.obolibrary.org/obo/MONDO_0017382) |
 | `UMLS:CN203110` |              1 | [MONDO:0017383](http://purl.obolibrary.org/obo/MONDO_0017383) |
 | `UMLS:CN203114` |              1 | [MONDO:0017385](http://purl.obolibrary.org/obo/MONDO_0017385) |
@@ -1701,7 +1720,6 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN204280` |              1 | [MONDO:0018037](http://purl.obolibrary.org/obo/MONDO_0018037) |
 | `UMLS:CN204282` |              1 | [MONDO:0018041](http://purl.obolibrary.org/obo/MONDO_0018041) |
 | `UMLS:CN204283` |              1 | [MONDO:0018042](http://purl.obolibrary.org/obo/MONDO_0018042) |
-| `UMLS:CN204341` |              1 | [MONDO:0018052](http://purl.obolibrary.org/obo/MONDO_0018052) |
 | `UMLS:CN204347` |              1 | [MONDO:0018054](http://purl.obolibrary.org/obo/MONDO_0018054) |
 | `UMLS:CN204349` |              1 | [MONDO:0018055](http://purl.obolibrary.org/obo/MONDO_0018055) |
 | `UMLS:CN236409` |              1 | [MONDO:0018065](http://purl.obolibrary.org/obo/MONDO_0018065) |
@@ -2380,8 +2398,6 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN206704` |              1 | [MONDO:0019769](http://purl.obolibrary.org/obo/MONDO_0019769) |
 | `UMLS:CN227687` |              1 | [MONDO:0019770](http://purl.obolibrary.org/obo/MONDO_0019770) |
 | `UMLS:CN206715` |              1 | [MONDO:0019774](http://purl.obolibrary.org/obo/MONDO_0019774) |
-| `UMLS:CN206716` |              1 | [MONDO:0019775](http://purl.obolibrary.org/obo/MONDO_0019775) |
-| `UMLS:CN206718` |              1 | [MONDO:0019777](http://purl.obolibrary.org/obo/MONDO_0019777) |
 | `UMLS:CN206720` |              1 | [MONDO:0019779](http://purl.obolibrary.org/obo/MONDO_0019779) |
 | `UMLS:CN206727` |              1 | [MONDO:0019784](http://purl.obolibrary.org/obo/MONDO_0019784) |
 | `UMLS:CN206743` |              1 | [MONDO:0019791](http://purl.obolibrary.org/obo/MONDO_0019791) |
@@ -2594,7 +2610,6 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN035918` |              1 | [MONDO:0020490](http://purl.obolibrary.org/obo/MONDO_0020490) |
 | `UMLS:CN207386` |              1 | [MONDO:0020497](http://purl.obolibrary.org/obo/MONDO_0020497) |
 | `UMLS:CN207389` |              1 | [MONDO:0020499](http://purl.obolibrary.org/obo/MONDO_0020499) |
-| `UMLS:CN207394` |              1 | [MONDO:0020503](http://purl.obolibrary.org/obo/MONDO_0020503) |
 | `UMLS:CN207401` |              1 | [MONDO:0020505](http://purl.obolibrary.org/obo/MONDO_0020505) |
 | `UMLS:CN207412` |              1 | [MONDO:0020516](http://purl.obolibrary.org/obo/MONDO_0020516) |
 | `UMLS:CN207416` |              1 | [MONDO:0020519](http://purl.obolibrary.org/obo/MONDO_0020519) |
@@ -2620,6 +2635,8 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN757794` |              1 | [MONDO:0020631](http://purl.obolibrary.org/obo/MONDO_0020631) |
 | `UMLS:CN248521` |              1 | [MONDO:0020632](http://purl.obolibrary.org/obo/MONDO_0020632) |
 | `UMLS:CN206321` |              1 | [MONDO:0020726](http://purl.obolibrary.org/obo/MONDO_0020726) |
+| `UMLS:CN074207` |              1 | [MONDO:0020783](http://purl.obolibrary.org/obo/MONDO_0020783) |
+| `UMLS:CN206396` |              1 | [MONDO:0020783](http://purl.obolibrary.org/obo/MONDO_0020783) |
 | `UMLS:CN248786` |              1 | [MONDO:0020840](http://purl.obolibrary.org/obo/MONDO_0020840) |
 | `UMLS:CN252657` |              1 | [MONDO:0020841](http://purl.obolibrary.org/obo/MONDO_0020841) |
 | `UMLS:CN242134` |              1 | [MONDO:0021001](http://purl.obolibrary.org/obo/MONDO_0021001) |
@@ -2681,6 +2698,7 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN671932` |              1 | [MONDO:0030918](http://purl.obolibrary.org/obo/MONDO_0030918) |
 | `UMLS:CN757796` |              1 | [MONDO:0030921](http://purl.obolibrary.org/obo/MONDO_0030921) |
 | `UMLS:CN787270` |              1 | [MONDO:0030922](http://purl.obolibrary.org/obo/MONDO_0030922) |
+| `UMLS:CN207394` |              1 | [MONDO:0032819](http://purl.obolibrary.org/obo/MONDO_0032819) |
 | `UMLS:CN031715` |              1 | [MONDO:0033005](http://purl.obolibrary.org/obo/MONDO_0033005) |
 | `UMLS:CN570502` |              1 | [MONDO:0033006](http://purl.obolibrary.org/obo/MONDO_0033006) |
 | `UMLS:CN570505` |              1 | [MONDO:0033007](http://purl.obolibrary.org/obo/MONDO_0033007) |
@@ -2817,4 +2835,6 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `UMLS:CN043667` |              1 | [MONDO:0800084](http://purl.obolibrary.org/obo/MONDO_0800084) |
 | `UMLS:CN206618` |              1 | [MONDO:0800088](http://purl.obolibrary.org/obo/MONDO_0800088) |
 | `UMLS:CN206620` |              1 | [MONDO:0800095](http://purl.obolibrary.org/obo/MONDO_0800095) |
+| `UMLS:756812`   |              1 | [MONDO:0800107](http://purl.obolibrary.org/obo/MONDO_0800107) |
+| `UMLS:576470`   |              1 | [MONDO:0800108](http://purl.obolibrary.org/obo/MONDO_0800108) |
 

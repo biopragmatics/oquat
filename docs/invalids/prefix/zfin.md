@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `zfin`
 but use local unique identifiers that do not match the standard pattern of
-`^ZDB\-\w+\-\d+\-\d+$`. Of the 9 resources,
+`^ZDB\-\w+\-\d+\-\d+$`. Of the 10 resources,
 2 variants on the standard prefix were found: ['ZFIN', 'zfin'].
 
 ## `cl`: Cell Ontology
@@ -30,6 +30,23 @@ Identifiers for this prefix are given incorrectly in `hog`.
 |-----------------|----------------|-----------------------------------------------------------|
 | `ZFIN:Curator`  |              1 | [HOG:0001750](http://purl.obolibrary.org/obo/HOG_0001750) |
 
+## `nif`: None
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref    |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `ZFIN:curator`   |            516 | [UBERON:0000007](http://purl.obolibrary.org/obo/UBERON_0000007), [UBERON:0000966](http://purl.obolibrary.org/obo/UBERON_0000966), [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991), [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016), [UBERON:0001081](http://purl.obolibrary.org/obo/UBERON_0001081), ... |
+| `ZFIN:dh`        |              3 | [SO:0001477](http://purl.obolibrary.org/obo/SO_0001477), [SO:0001478](http://purl.obolibrary.org/obo/SO_0001478), [SO:0001479](http://purl.obolibrary.org/obo/SO_0001479)                                                                                                                                                                |
+| `ZFIN:CVS`       |              2 | [CL:0005024](http://purl.obolibrary.org/obo/CL_0005024), [UBERON:2005265](http://purl.obolibrary.org/obo/UBERON_2005265)                                                                                                                                                                                                                 |
+| `ZFIN:mh`        |              2 | [SO:0001480](http://purl.obolibrary.org/obo/SO_0001480), [SO:0001481](http://purl.obolibrary.org/obo/SO_0001481)                                                                                                                                                                                                                         |
+| `ZFIN:Curator`   |              2 | [UBERON:0005817](http://purl.obolibrary.org/obo/UBERON_0005817), [UBERON:2005210](http://purl.obolibrary.org/obo/UBERON_2005210)                                                                                                                                                                                                         |
+| `ZFIN:dsf`       |              1 | [GO:0044458](http://purl.obolibrary.org/obo/GO_0044458)                                                                                                                                                                                                                                                                                  |
+| `ZFIN:st`        |              1 | [SO:0002217](http://purl.obolibrary.org/obo/SO_0002217)                                                                                                                                                                                                                                                                                  |
+| `ZFIN:yb`        |              1 | [UBERON:0003066](http://purl.obolibrary.org/obo/UBERON_0003066)                                                                                                                                                                                                                                                                          |
+| `zfin:curator`   |              1 | [UBERON:0008911](http://purl.obolibrary.org/obo/UBERON_0008911)                                                                                                                                                                                                                                                                          |
+| `ZFIN:090511-18` |              1 | [UBERON:2002145](http://purl.obolibrary.org/obo/UBERON_2002145)                                                                                                                                                                                                                                                                          |
+
 ## `so`: Sequence types and features ontology
 
 Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
@@ -46,7 +63,7 @@ Identifiers for this prefix are given incorrectly in `tao`.
 
 | external_xref    |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
 |------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ZFIN:curator`   |            808 | [TAO:0000000](http://purl.obolibrary.org/obo/TAO_0000000), [TAO:0000001](http://purl.obolibrary.org/obo/TAO_0000001), [TAO:0000006](http://purl.obolibrary.org/obo/TAO_0000006), [TAO:0000007](http://purl.obolibrary.org/obo/TAO_0000007), [TAO:0000008](http://purl.obolibrary.org/obo/TAO_0000008), ... |
+| `ZFIN:curator`   |            805 | [TAO:0000000](http://purl.obolibrary.org/obo/TAO_0000000), [TAO:0000001](http://purl.obolibrary.org/obo/TAO_0000001), [TAO:0000006](http://purl.obolibrary.org/obo/TAO_0000006), [TAO:0000007](http://purl.obolibrary.org/obo/TAO_0000007), [TAO:0000008](http://purl.obolibrary.org/obo/TAO_0000008), ... |
 | `ZFIN:Curator`   |              4 | [TAO:0005153](http://purl.obolibrary.org/obo/TAO_0005153), [TAO:0005165](http://purl.obolibrary.org/obo/TAO_0005165), [TAO:0005166](http://purl.obolibrary.org/obo/TAO_0005166), [TAO:0005210](http://purl.obolibrary.org/obo/TAO_0005210)                                                                 |
 | `ZFIN:090511-18` |              1 | [TAO:0002145](http://purl.obolibrary.org/obo/TAO_0002145)                                                                                                                                                                                                                                                  |
 | `ZFIN:CVS`       |              1 | [TAO:0005265](http://purl.obolibrary.org/obo/TAO_0005265)                                                                                                                                                                                                                                                  |
@@ -84,13 +101,11 @@ Identifiers for this prefix are given incorrectly in `vsao`.
 
 Identifiers for this prefix are given incorrectly in `zfa`. See the [GitHub repository](https://github.com/cerivs/zebrafish-anatomical-ontology).
 
-| external_xref              |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
-|----------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ZFIN:<new dbxref>`        |              6 | [ZFA:0000259](http://purl.obolibrary.org/obo/ZFA_0000259), [ZFA:0000344](http://purl.obolibrary.org/obo/ZFA_0000344), [ZFA:0000400](http://purl.obolibrary.org/obo/ZFA_0000400), [ZFA:0000424](http://purl.obolibrary.org/obo/ZFA_0000424), [ZFA:0000464](http://purl.obolibrary.org/obo/ZFA_0000464), ... |
-| `ZFIN:JCN 421-:189-198`    |              1 | [ZFA:0000443](http://purl.obolibrary.org/obo/ZFA_0000443)                                                                                                                                                                                                                                                  |
-| `ZFIN:ZDB-PUB-171118-8v`   |              1 | [ZFA:0000704](http://purl.obolibrary.org/obo/ZFA_0000704)                                                                                                                                                                                                                                                  |
-| `ZFIN:ZDB-PUB-120419-3.`   |              1 | [ZFA:0005877](http://purl.obolibrary.org/obo/ZFA_0005877)                                                                                                                                                                                                                                                  |
-| `ZFIN:ZDB-PUB-050623-3.`   |              1 | [ZFA:0001249](http://purl.obolibrary.org/obo/ZFA_0001249)                                                                                                                                                                                                                                                  |
-| `ZFIN:ZDB-PUB-961014-192.` |              1 | [ZFA:0001595](http://purl.obolibrary.org/obo/ZFA_0001595)                                                                                                                                                                                                                                                  |
-| `ZFIN:ZDB-PUB-050120-6.`   |              1 | [ZFA:0005737](http://purl.obolibrary.org/obo/ZFA_0005737)                                                                                                                                                                                                                                                  |
+| external_xref              |   usages_count | usages                                                    |
+|----------------------------|----------------|-----------------------------------------------------------|
+| `ZFIN:ZDB-PUB-171118-8v`   |              1 | [ZFA:0000704](http://purl.obolibrary.org/obo/ZFA_0000704) |
+| `ZFIN:ZDB-PUB-120419-3.`   |              1 | [ZFA:0005877](http://purl.obolibrary.org/obo/ZFA_0005877) |
+| `ZFIN:ZDB-PUB-050623-3.`   |              1 | [ZFA:0001249](http://purl.obolibrary.org/obo/ZFA_0001249) |
+| `ZFIN:ZDB-PUB-961014-192.` |              1 | [ZFA:0001595](http://purl.obolibrary.org/obo/ZFA_0001595) |
+| `ZFIN:ZDB-PUB-050120-6.`   |              1 | [ZFA:0005737](http://purl.obolibrary.org/obo/ZFA_0005737) |
 

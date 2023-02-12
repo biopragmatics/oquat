@@ -3,7 +3,7 @@
 This page summarize the different resources that reference `ro`
 but use local unique identifiers that do not match the standard pattern of
 `^\d{7}$`. Of the 7 resources,
-4 variants on the standard prefix were found: ['OBOREL', 'OBO_REL', 'RO', 'RO_proposed_relation'].
+3 variants on the standard prefix were found: ['OBO_REL', 'RO', 'RO_proposed_relation'].
 
 ## `cmpo`: Cellular Microscopy Phenotype Ontology
 
@@ -31,15 +31,16 @@ Identifiers for this prefix are given incorrectly in `hom`. See the [GitHub repo
 |--------------------------------------|----------------|-----------------------------------------------------------|
 | `RO_proposed_relation:homologous_to` |              1 | [HOM:0000007](http://purl.obolibrary.org/obo/HOM_0000007) |
 
-## `idomal`: Malaria Ontology
+## `nif`: None
 
-Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/IDOMAL).
+Identifiers for this prefix are given incorrectly in `nif`.
 
-| external_xref            |   usages_count | usages                                                                      |
-|--------------------------|----------------|-----------------------------------------------------------------------------|
-| `OBOREL:happens_during`  |              1 | [TEMP#happens:during](http://purl.obolibrary.org/obo/TEMP#happens_during)   |
-| `OBOREL:participates_in` |              1 | [TEMP#participates:in](http://purl.obolibrary.org/obo/TEMP#participates_in) |
-| `OBOREL:preceded_by`     |              1 | [TEMP#preceded:by](http://purl.obolibrary.org/obo/TEMP#preceded_by)         |
+| external_xref                        |   usages_count | usages                                                        |
+|--------------------------------------|----------------|---------------------------------------------------------------|
+| `RO:cjm`                             |              1 | [RO:0009501](http://purl.obolibrary.org/obo/RO_0009501)       |
+| `OBO_REL:has_part`                   |              1 | [PATO:0001555](http://purl.obolibrary.org/obo/PATO_0001555)   |
+| `OBO_REL:lacks_part`                 |              1 | [PATO:0002000](http://purl.obolibrary.org/obo/PATO_0002000)   |
+| `RO_proposed_relation:homologous_to` |              1 | [RO:HOM0000007](http://purl.obolibrary.org/obo/RO_HOM0000007) |
 
 ## `pato`: Phenotype And Trait Ontology
 

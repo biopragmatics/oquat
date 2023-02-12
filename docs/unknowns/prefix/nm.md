@@ -1,11 +1,5 @@
 # `nm`
 
-## idomal
-
-| curie   |   usages | nodes                                                         |
-|---------|----------|---------------------------------------------------------------|
-| NM:nm   |        1 | [ENVO:00002031](http://purl.obolibrary.org/obo/ENVO_00002031) |
-
 ## envo
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                          |

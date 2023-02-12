@@ -15,8 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2022-08-12",
-    "version_iri": "http://purl.obolibrary.org/obo/ecto/releases/2022-08-12/ecto.owl",
+    "version": "2022-12-12",
+    "version_iri": "http://purl.obolibrary.org/obo/ecto/releases/2022-12-12/ecto.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

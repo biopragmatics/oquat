@@ -1,4 +1,4 @@
-# [`cas`](https://bioregistry.io/cas): CAS Chemical Registry
+# [`cas`](https://bioregistry.io/cas): CAS Registry Number
 
 This page summarize the different resources that reference `cas`
 but use local unique identifiers that do not match the standard pattern of
@@ -20,6 +20,7 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `CAS:4/8/2004`   |              1 | [CHEBI:191094](http://purl.obolibrary.org/obo/CHEBI_191094) |
 | `CAS:03/07/5452` |              1 | [CHEBI:191497](http://purl.obolibrary.org/obo/CHEBI_191497) |
 | `CAS:6/5/7780`   |              1 | [CHEBI:191626](http://purl.obolibrary.org/obo/CHEBI_191626) |
+| `CAS:03/04/6099` |              1 | [CHEBI:192607](http://purl.obolibrary.org/obo/CHEBI_192607) |
 
 ## `idoden`: Dengue Fever Ontology
 
@@ -28,14 +29,6 @@ Identifiers for this prefix are given incorrectly in `idoden`.
 | external_xref                                                                            |   usages_count | usages                                                        |
 |------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------|
 | `CAS:7-(2-chlorophenyl)-4-ethoxy-3\,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile4-sulfide` |              1 | [MIRO:10000108](http://purl.obolibrary.org/obo/MIRO_10000108) |
-
-## `idomal`: Malaria Ontology
-
-Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/IDOMAL).
-
-| external_xref                                                                           |   usages_count | usages                                                        |
-|-----------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------|
-| `CAS:7-(2-chlorophenyl)-4-ethoxy-3,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile4-sulfide` |              1 | [MIRO:10000108](http://purl.obolibrary.org/obo/MIRO_10000108) |
 
 ## `miro`: Mosquito insecticide resistance
 
@@ -115,6 +108,14 @@ Identifiers for this prefix are given incorrectly in `peco`. See the [GitHub rep
 | `CAS:[51-18-3]`    |              1 | [PECO:0007572](http://purl.obolibrary.org/obo/PECO_0007572)                                                              |
 | `CAS:[51-79-6]`    |              1 | [PECO:0007573](http://purl.obolibrary.org/obo/PECO_0007573)                                                              |
 | `CAS:[15805-73-9]` |              1 | [PECO:0007574](http://purl.obolibrary.org/obo/PECO_0007574)                                                              |
+
+## `vsmo`: Ontology for vector surveillance and management
+
+Identifiers for this prefix are given incorrectly in `vsmo`.
+
+| external_xref                                                                           |   usages_count | usages                                                        |
+|-----------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------|
+| `CAS:7-(2-chlorophenyl)-4-ethoxy-3,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile4-sulfide` |              1 | [MIRO:10000108](http://purl.obolibrary.org/obo/MIRO_10000108) |
 
 ## `xlmod`: HUPO-PSI cross-linking and derivatization reagents controlled vocabulary
 

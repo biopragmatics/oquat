@@ -47,11 +47,20 @@
         "http://purl.obolibrary.org/obo/DOID_10652": [
           "KEGG:05010"
         ],
+        "http://purl.obolibrary.org/obo/DOID_10763": [
+          "ICD9CM:401-405.99"
+        ],
         "http://purl.obolibrary.org/obo/DOID_13515": [
           "OMIM:PS191100"
         ],
         "http://purl.obolibrary.org/obo/DOID_14503": [
           "OMIM:PS256730"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_1564": [
+          "ICD9CM:110-118.99"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_1579": [
+          "ICD9CM:510-519.99"
         ],
         "http://purl.obolibrary.org/obo/DOID_2841": [
           "KEGG:05310"
@@ -62,11 +71,29 @@
         "http://purl.obolibrary.org/obo/DOID_3069": [
           "ICDO:M9400/3"
         ],
+        "http://purl.obolibrary.org/obo/DOID_3393": [
+          "ICD9CM:410-414.99"
+        ],
         "http://purl.obolibrary.org/obo/DOID_3565": [
           "ICDO:M9530/3"
         ],
+        "http://purl.obolibrary.org/obo/DOID_50": [
+          "ICD9CM:240-246.99"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_526": [
+          "ICD9CM:042-042.99"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_574": [
+          "ICD9CM:350-359.99"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_6713": [
+          "ICD9CM:430-438.99"
+        ],
         "http://purl.obolibrary.org/obo/DOID_7148": [
           "KEGG:05323"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_77": [
+          "ICD9CM:520-579.99"
         ],
         "http://purl.obolibrary.org/obo/DOID_8893": [
           "OMIM:PS177900"
@@ -77,32 +104,30 @@
         "http://purl.obolibrary.org/obo/DOID_9074": [
           "KEGG:05322"
         ],
+        "http://purl.obolibrary.org/obo/DOID_934": [
+          "ICD9CM:060-066.99"
+        ],
         "http://purl.obolibrary.org/obo/DOID_9744": [
           "KEGG:04940"
         ],
         "http://purl.obolibrary.org/obo/GO_0043084": [
           "Wikipedia:Erection#Penile_erection"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0000188": [
-          "OMIMPS:606777"
-        ],
         "http://purl.obolibrary.org/obo/MONDO_0000456": [
-          "OMIMPS:300352",
           "UMLS:CN227588"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0000839": [
           "ICD10:Q00.Q99",
           "UMLS:CN232116"
         ],
-        "http://purl.obolibrary.org/obo/MONDO_0002025": [
-          "ICD10:F99-F99"
-        ],
         "http://purl.obolibrary.org/obo/MONDO_0005070": [
           "ICD10:C00.D48",
+          "ICD9:140-239.99",
           "UMLS:CN236628"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0005084": [
           "ICD10:F00.F99",
+          "ICD9:290-299.99",
           "NIFSTD:birnlex_12669",
           "UMLS:CN240636"
         ],
@@ -137,11 +162,7 @@
           "UMLS:CN200514"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0015917": [
-          "KEGG:05214",
-          "OMIMPS:137800"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0016027": [
-          "OMIMPS:121200"
+          "KEGG:05214"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0016158": [
           "ICD10:G47.41",
@@ -152,9 +173,6 @@
         ],
         "http://purl.obolibrary.org/obo/MONDO_0017657": [
           "UMLS:CN227171"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0018214": [
-          "OMIMPS:604233"
         ],
         "http://purl.obolibrary.org/obo/MONDO_0019113": [
           "UMLS:CN205631"
@@ -186,34 +204,65 @@
         "http://purl.obolibrary.org/obo/MONDO_0024883": [
           "ICDO:8000/6"
         ],
+        "http://purl.obolibrary.org/obo/UBERON_0000344": [
+          "CALOHA:TS-2031"
+        ],
         "http://purl.obolibrary.org/obo/UBERON_0000446": [
           "MESH:A08.186.211.577.750"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0000451": [
           "MESH:A08.186.211.730.885.213.270.700"
         ],
+        "http://purl.obolibrary.org/obo/UBERON_0000479": [
+          "CALOHA:TS-2090"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000955": [
+          "CALOHA:TS-0095"
+        ],
         "http://purl.obolibrary.org/obo/UBERON_0000956": [
+          "CALOHA:TS-0091",
           "MESH:A08.186.211.730.885.213"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000988": [
+          "CALOHA:TS-0813"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001384": [
           "MESH:A08.186.211.730.885.213.270.548"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001871": [
+          "CALOHA:TS-1020",
           "MESH:A08.186.211.730.885.213.863"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001872": [
+          "CALOHA:TS-0747",
           "MESH:A08.186.211.730.885.213.670"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001876": [
+          "CALOHA:TS-0037",
           "MESH:A08.186.211.577.090"
         ],
+        "http://purl.obolibrary.org/obo/UBERON_0001890": [
+          "CALOHA:TS-0380"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001891": [
+          "CALOHA:TS-0630"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001893": [
+          "CALOHA:TS-1018"
+        ],
         "http://purl.obolibrary.org/obo/UBERON_0001894": [
+          "CALOHA:TS-0199",
           "MESH:A08.186.211.730.385"
         ],
+        "http://purl.obolibrary.org/obo/UBERON_0001896": [
+          "CALOHA:TS-0607"
+        ],
         "http://purl.obolibrary.org/obo/UBERON_0001897": [
+          "CALOHA:TS-1031",
           "MESH:A08.186.211.730.385.826"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001898": [
+          "CALOHA:TS-0469",
           "MESH:A08.186.211.577.482"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0001945": [
@@ -223,13 +272,34 @@
           "MESH:A08.186.211.132.659.237.364"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002021": [
+          "CALOHA:TS-0693",
           "MESH:A08.186.211.730.885.213.571"
         ],
+        "http://purl.obolibrary.org/obo/UBERON_0002028": [
+          "CALOHA:TS-0457"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002037": [
+          "CALOHA:TS-0125"
+        ],
         "http://purl.obolibrary.org/obo/UBERON_0002264": [
+          "CALOHA:TS-0702",
           "MESH:A08.186.211.577.699.573"
         ],
+        "http://purl.obolibrary.org/obo/UBERON_0002286": [
+          "CALOHA:TS-2058"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002298": [
+          "CALOHA:TS-0093"
+        ],
         "http://purl.obolibrary.org/obo/UBERON_0002336": [
+          "CALOHA:TS-0180",
           "MESH:A08.186.211.730.885.362"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002420": [
+          "CALOHA:TS-1149"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002422": [
+          "CALOHA:TS-2015"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0002695": [
           "ncithesaurus:Parieto-occipital_Sulcus"
@@ -249,10 +319,14 @@
         "http://purl.obolibrary.org/obo/UBERON_0002771": [
           "ncithesaurus:Middle_Temporal_Gyrus"
         ],
+        "http://purl.obolibrary.org/obo/UBERON_0005401": [
+          "CALOHA:TS-2361"
+        ],
         "http://purl.obolibrary.org/obo/UBERON_0008930": [
           "MESH:A08.186.211.730.885.213.670.675"
         ],
         "http://purl.obolibrary.org/obo/UBERON_0016525": [
+          "CALOHA:TS-0389",
           "MESH:A08.186.211.730.885.213.270"
         ]
       },
@@ -1498,9 +1572,6 @@
           "http://purl.obolibrary.org/obo/UBERON_0002695": "OpenCyc:Mx4rv7l_DJwpEbGdrcN5Y29ycA",
           "http://purl.obolibrary.org/obo/UBERON_0004086": "OpenCyc:Mx4rvmTY65wpEbGdrcN5Y29ycA",
           "http://purl.obolibrary.org/obo/UBERON_0016525": "OpenCyc:Mx4rv3OJ8JwpEbGdrcN5Y29ycA"
-        },
-        "RadLex": {
-          "http://purl.obolibrary.org/obo/UBERON_0035933": "RadLex:RID6449"
         },
         "Talairach": {
           "http://purl.obolibrary.org/obo/UBERON_0035933": "Talairach:1047"

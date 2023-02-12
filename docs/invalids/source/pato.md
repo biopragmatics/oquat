@@ -37,7 +37,7 @@ did not match the standard pattern `^\d{4}-\d{3}[\dX]$`.
 |----------------------|----------------|-------------------------------------------------------------|
 | `ISSN:9781496335418` |              1 | [PATO:0001744](http://purl.obolibrary.org/obo/PATO_0001744) |
 
-## `Medline`: PubMed
+## `Medline`: PubMed ID
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `Medline` (standardized to Bioregistry
@@ -114,7 +114,7 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `Wikipedia`: Wikipedia
 
-Overall, there were 98 invalid
+Overall, there were 97 invalid
 xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
 prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
 did not match the standard pattern `^[A-Za-z-0-9_]+$`.
@@ -133,7 +133,6 @@ did not match the standard pattern `^[A-Za-z-0-9_]+$`.
 | `Wikipedia:http://en.wikipedia.org/wiki/Magenta`                   |              1 | [PATO:0000321](http://purl.obolibrary.org/obo/PATO_0000321)                                                                                                                           |
 | `Wikipedia:http://en.wikipedia.org/wiki/Auxotrophic`               |              1 | [PATO:0000422](http://purl.obolibrary.org/obo/PATO_0000422)                                                                                                                           |
 | `Wikipedia:http://en.wikipedia.org/wiki/Prototrophic`              |              1 | [PATO:0000423](http://purl.obolibrary.org/obo/PATO_0000423)                                                                                                                           |
-| `Wikipedia:http://en.wikipedia.org/wiki/Hyperplastic`              |              1 | [PATO:0000644](http://purl.obolibrary.org/obo/PATO_0000644)                                                                                                                           |
 | `Wikipedia:http://en.wikipedia.org/wiki/Necrotic`                  |              1 | [PATO:0000647](http://purl.obolibrary.org/obo/PATO_0000647)                                                                                                                           |
 | `Wikipedia:http://en.wikipedia.org/wiki/Brown`                     |              1 | [PATO:0000952](http://purl.obolibrary.org/obo/PATO_0000952)                                                                                                                           |
 | `Wikipedia:http://en.wikipedia.org/wiki/Orange`                    |              1 | [PATO:0000953](http://purl.obolibrary.org/obo/PATO_0000953)                                                                                                                           |

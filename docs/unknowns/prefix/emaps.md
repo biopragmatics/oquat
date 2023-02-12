@@ -1863,3 +1863,9 @@
 | EMAPS:2691328  |        1 | [MA:0003256](http://purl.obolibrary.org/obo/MA_0003256)                                                          |
 | EMAPS:3625428  |        1 | [MA:0003257](http://purl.obolibrary.org/obo/MA_0003257)                                                          |
 
+## nif
+
+| curie         |   usages | nodes                                                           |
+|---------------|----------|-----------------------------------------------------------------|
+| EMAPS:1818928 |        1 | [UBERON:0018240](http://purl.obolibrary.org/obo/UBERON_0018240) |
+

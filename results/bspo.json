@@ -398,6 +398,9 @@
         "http://purl.obolibrary.org/obo/BSPO_0001101": [
           "BSPO:cjm"
         ],
+        "http://purl.obolibrary.org/obo/BSPO_0001102": [
+          "BSPO:curators"
+        ],
         "http://purl.obolibrary.org/obo/BSPO_0001107": [
           "BSPO:curators"
         ],
@@ -475,8 +478,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2022-06-28",
-    "version_iri": "http://purl.obolibrary.org/obo/bspo/releases/2022-06-28/bspo.owl",
+    "version": "2022-11-16",
+    "version_iri": "http://purl.obolibrary.org/obo/bspo/releases/2022-11-16/bspo.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

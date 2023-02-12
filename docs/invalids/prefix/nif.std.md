@@ -2,12 +2,12 @@
 
 This page summarize the different resources that reference `nif.std`
 but use local unique identifiers that do not match the standard pattern of
-`^BAMSC\d+$`. Of the 8 resources,
+`^BAMSC\d+$`. Of the 10 resources,
 1 variants on the standard prefix were found: ['NIFSTD'].
 
 ## `bao`: BioAssay Ontology
 
-Identifiers for this prefix are given incorrectly in `bao`.
+Identifiers for this prefix are given incorrectly in `bao`. See the [GitHub repository](https://github.com/BioAssayOntology/BAO/wiki).
 
 | external_xref        |   usages_count | usages                                              |
 |----------------------|----------------|-----------------------------------------------------|
@@ -23,6 +23,15 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | `NIFSTD:sao131261273`  |              2 | [CL:1001571](http://purl.obolibrary.org/obo/CL_1001571), [CL:1001571](http://purl.obolibrary.org/obo/CL_1001571) |
 | `NIFSTD:sao1415726815` |              1 | [CL:0000119](http://purl.obolibrary.org/obo/CL_0000119)                                                          |
 | `NIFSTD:sao862606388`  |              1 | [CL:0000598](http://purl.obolibrary.org/obo/CL_0000598)                                                          |
+
+## `covoc`: CoVoc Coronavirus Vocabulary
+
+Identifiers for this prefix are given incorrectly in `covoc`. See the [GitHub repository](https://github.com/EBISPOT/covoc).
+
+| external_xref         |   usages_count | usages                                              |
+|-----------------------|----------------|-----------------------------------------------------|
+| `NIFSTD:birnlex_2110` |              1 | [EFO:0000264](http://www.ebi.ac.uk/efo/EFO_0000264) |
+| `NIFSTD:birnlex_2087` |              1 | [EFO:0000651](http://www.ebi.ac.uk/efo/EFO_0000651) |
 
 ## `efo`: Experimental Factor Ontology
 
@@ -184,6 +193,23 @@ Identifiers for this prefix are given incorrectly in `mp`. See the [GitHub repos
 |-----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `NIFSTD:birnlex_4113` |              4 | [MP:0011150](http://purl.obolibrary.org/obo/MP_0011150), [MP:0011153](http://purl.obolibrary.org/obo/MP_0011153), [MP:0011155](http://purl.obolibrary.org/obo/MP_0011155), [MP:0012446](http://purl.obolibrary.org/obo/MP_0012446) |
 | `NIFSTD:birnlex_1298` |              3 | [MP:0011151](http://purl.obolibrary.org/obo/MP_0011151), [MP:0011154](http://purl.obolibrary.org/obo/MP_0011154), [MP:0012445](http://purl.obolibrary.org/obo/MP_0012445)                                                          |
+
+## `nif`: None
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref                                     |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|---------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `NIFSTD:NeuroNames_abbrevSource`                  |            265 | [UBERON:0000007](http://purl.obolibrary.org/obo/UBERON_0000007), [UBERON:0000435](http://purl.obolibrary.org/obo/UBERON_0000435), [UBERON:0000941](http://purl.obolibrary.org/obo/UBERON_0000941), [UBERON:0001579](http://purl.obolibrary.org/obo/UBERON_0001579), [UBERON:0001643](http://purl.obolibrary.org/obo/UBERON_0001643), ... |
+| `NIFSTD:SumsDB_abbrevSource`                      |             52 | [UBERON:0004717](http://purl.obolibrary.org/obo/UBERON_0004717), [UBERON:0004718](http://purl.obolibrary.org/obo/UBERON_0004718), [UBERON:0006095](http://purl.obolibrary.org/obo/UBERON_0006095), [UBERON:0006096](http://purl.obolibrary.org/obo/UBERON_0006096), [UBERON:0006099](http://purl.obolibrary.org/obo/UBERON_0006099), ... |
+| `NIFSTD:Swanson-rat-1998_abbrevSource`            |             13 | [UBERON:0014589](http://purl.obolibrary.org/obo/UBERON_0014589), [UBERON:0014590](http://purl.obolibrary.org/obo/UBERON_0014590), [UBERON:0014591](http://purl.obolibrary.org/obo/UBERON_0014591), [UBERON:0014592](http://purl.obolibrary.org/obo/UBERON_0014592), [UBERON:0014593](http://purl.obolibrary.org/obo/UBERON_0014593), ... |
+| `NIFSTD:Swanson-rat-1992_abbrevSource`            |              3 | [UBERON:0014602](http://purl.obolibrary.org/obo/UBERON_0014602), [UBERON:0014603](http://purl.obolibrary.org/obo/UBERON_0014603), [UBERON:0014604](http://purl.obolibrary.org/obo/UBERON_0014604)                                                                                                                                        |
+| `NIFSTD:oen_0001107`                              |              2 | [UBERON:0035015](http://purl.obolibrary.org/obo/UBERON_0035015), [UBERON:0035015](http://purl.obolibrary.org/obo/UBERON_0035015)                                                                                                                                                                                                         |
+| `NIFSTD:sao131261273`                             |              2 | [CL:1001571](http://purl.obolibrary.org/obo/CL_1001571), [CL:1001571](http://purl.obolibrary.org/obo/CL_1001571)                                                                                                                                                                                                                         |
+| `NIFSTD:sao1415726815`                            |              1 | [CL:0000119](http://purl.obolibrary.org/obo/CL_0000119)                                                                                                                                                                                                                                                                                  |
+| `NIFSTD:FMAID_7191`                               |              1 | [UBERON:0002104](http://purl.obolibrary.org/obo/UBERON_0002104)                                                                                                                                                                                                                                                                          |
+| `NIFSTD:Paxinos-Franklin-mouse-2001_abbrevSource` |              1 | [UBERON:0002701](http://purl.obolibrary.org/obo/UBERON_0002701)                                                                                                                                                                                                                                                                          |
+| `NIFSTD:sao862606388`                             |              1 | [CL:0000598](http://purl.obolibrary.org/obo/CL_0000598)                                                                                                                                                                                                                                                                                  |
 
 ## `uberon`: Uber Anatomy Ontology
 

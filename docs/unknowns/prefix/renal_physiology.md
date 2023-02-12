@@ -6,6 +6,12 @@
 |----------------------------|----------|-----------------------------------------------------------------|
 | Renal_Physiology:Section_7 |        1 | [UBERON:0008404](http://purl.obolibrary.org/obo/UBERON_0008404) |
 
+## nif
+
+| curie                      |   usages | nodes                                                           |
+|----------------------------|----------|-----------------------------------------------------------------|
+| Renal_Physiology:Section_7 |        1 | [UBERON:0008404](http://purl.obolibrary.org/obo/UBERON_0008404) |
+
 ## bto
 
 | curie                                 |   usages | nodes                                                     |

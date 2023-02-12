@@ -1,30 +1,4 @@
 {
-  "http://purl.obolibrary.org/obo/bfo.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/bfo.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2019-08-26",
-    "version_iri": "http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
   "http://purl.obolibrary.org/obo/ogsf-merged.owl": {
     "graph_id": "http://purl.obolibrary.org/obo/ogsf-merged.owl",
     "prov_pack": {

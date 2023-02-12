@@ -15,8 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "1.54",
-    "version_iri": "http://semanticscience.org/ontology/sio/v1.54/sio-release.owl",
+    "version": "1.57",
+    "version_iri": "http://semanticscience.org/ontology/sio/v1.57/sio-release.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

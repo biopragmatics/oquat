@@ -1,6 +1,6 @@
 {
-  "http://purl.obolibrary.org/obo/zfa.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/zfa.owl",
+  "http://purl.obolibrary.org/obo/zfa.json": {
+    "graph_id": "http://purl.obolibrary.org/obo/zfa.json",
     "prov_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/ZFA_0000108": [
@@ -12,9 +12,6 @@
         "http://purl.obolibrary.org/obo/ZFA_0000239": [
           "TAO:WD"
         ],
-        "http://purl.obolibrary.org/obo/ZFA_0000259": [
-          "ZFIN:<new dbxref>"
-        ],
         "http://purl.obolibrary.org/obo/ZFA_0000271": [
           "TAO:curator"
         ],
@@ -24,29 +21,11 @@
         "http://purl.obolibrary.org/obo/ZFA_0000332": [
           "TAO:GA_TG"
         ],
-        "http://purl.obolibrary.org/obo/ZFA_0000344": [
-          "ZFIN:<new dbxref>"
-        ],
-        "http://purl.obolibrary.org/obo/ZFA_0000400": [
-          "ZFIN:<new dbxref>"
-        ],
         "http://purl.obolibrary.org/obo/ZFA_0000407": [
           "TAO:WD"
         ],
-        "http://purl.obolibrary.org/obo/ZFA_0000424": [
-          "ZFIN:<new dbxref>"
-        ],
-        "http://purl.obolibrary.org/obo/ZFA_0000443": [
-          "ZFIN:JCN 421-:189-198"
-        ],
-        "http://purl.obolibrary.org/obo/ZFA_0000464": [
-          "ZFIN:<new dbxref>"
-        ],
         "http://purl.obolibrary.org/obo/ZFA_0000508": [
           "TAO:curator"
-        ],
-        "http://purl.obolibrary.org/obo/ZFA_0000524": [
-          "ZFIN:<new dbxref>"
         ],
         "http://purl.obolibrary.org/obo/ZFA_0000565": [
           "TAO:WD"
@@ -977,7 +956,7 @@
           "CL:curator"
         ],
         "http://purl.obolibrary.org/obo/ZFA_0009307": [
-          "GO:CJM"
+          "GO:cjm"
         ],
         "http://purl.obolibrary.org/obo/ZFA_0009308": [
           "CL:curator"
@@ -2938,6 +2917,14 @@
           "http://purl.obolibrary.org/obo/ZFA_0005940": "GOC:cvs",
           "http://purl.obolibrary.org/obo/ZFA_0005941": "GOC:cvs",
           "http://purl.obolibrary.org/obo/ZFA_0005942": "GOC:cvs",
+          "http://purl.obolibrary.org/obo/ZFA_0005949": "GOC:cvs",
+          "http://purl.obolibrary.org/obo/ZFA_0005950": "GOC:cvs",
+          "http://purl.obolibrary.org/obo/ZFA_0005951": "GOC:cvs",
+          "http://purl.obolibrary.org/obo/ZFA_0005952": "GOC:CVS",
+          "http://purl.obolibrary.org/obo/ZFA_0005953": "GOC:cvs",
+          "http://purl.obolibrary.org/obo/ZFA_0005954": "GOC:cvs",
+          "http://purl.obolibrary.org/obo/ZFA_0005955": "GOC:cvs",
+          "http://purl.obolibrary.org/obo/ZFA_0005957": "GOC:tfm",
           "http://purl.obolibrary.org/obo/ZFA_0007000": "GOC:ymb",
           "http://purl.obolibrary.org/obo/ZFA_0007001": "GOC:ymb",
           "http://purl.obolibrary.org/obo/ZFA_0007002": "GOC:ymb",
@@ -3119,6 +3106,12 @@
         },
         "ZDB": {
           "http://purl.obolibrary.org/obo/ZFA_0001165": "ZDB:ZDB-PUB-031103-13"
+        },
+        "goc": {
+          "http://purl.obolibrary.org/obo/ZFA_0005945": "goc:cvs",
+          "http://purl.obolibrary.org/obo/ZFA_0005946": "goc:cvs",
+          "http://purl.obolibrary.org/obo/ZFA_0005947": "goc:cvs",
+          "http://purl.obolibrary.org/obo/ZFA_0005948": "goc:cvs"
         }
       }
     },
@@ -3143,8 +3136,8 @@
         }
       }
     },
-    "version": "2022-03-15",
-    "version_iri": "http://purl.obolibrary.org/obo/zfa/releases/2022-03-15/zfa.owl",
+    "version": "2022-12-09",
+    "version_iri": "http://purl.obolibrary.org/obo/zfa/releases/2022-12-09/zfa.json",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/ZFA_0005772": [

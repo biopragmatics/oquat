@@ -3572,6 +3572,9 @@
           "http://purl.obolibrary.org/obo/WBPhenotype_0002658": "WB:WBPerson2987",
           "http://purl.obolibrary.org/obo/WBPhenotype_0002659": "WB:WBPerson2987",
           "http://purl.obolibrary.org/obo/WBPhenotype_0002660": "WB:WBPerson5747",
+          "http://purl.obolibrary.org/obo/WBPhenotype_0002661": "WB:WBPerson38719",
+          "http://purl.obolibrary.org/obo/WBPhenotype_0002662": "WB:WBPerson38719",
+          "http://purl.obolibrary.org/obo/WBPhenotype_0002663": "WB:WBPerson58409",
           "http://purl.obolibrary.org/obo/WBPhenotype_0004001": "WB:WBPerson557",
           "http://purl.obolibrary.org/obo/WBPhenotype_0004002": "WB:WBPerson557",
           "http://purl.obolibrary.org/obo/WBPhenotype_0004003": "WB:WBPerson557",
@@ -3685,8 +3688,8 @@
       },
       "unknown_prefixes": {}
     },
-    "version": "2022-08-18",
-    "version_iri": "http://purl.obolibrary.org/obo/wbphenotype/releases/2022-08-18/wbphenotype.owl",
+    "version": "2023-02-05",
+    "version_iri": "http://purl.obolibrary.org/obo/wbphenotype/releases/2023-02-05/wbphenotype.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/WBPhenotype_0010004": [

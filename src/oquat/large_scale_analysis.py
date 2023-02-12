@@ -69,11 +69,11 @@ def lsa(force: bool, minimum: Optional[str], test: bool):
 @click.command()
 @verbose_option
 def lsa_artifacts():
-    """Generate large-scale ontology analyis artifacts."""
+    """Generate large-scale ontology analysis artifacts, run only after full `lsa` command."""
     _generate_artifacts()
 
 
-def _lsa(force: bool, minimum: Optional[str], test: bool = False):
+def _lsa(force: bool, minimum: Optional[str], test: bool = False, skip_messages: bool = True):
     rows = sorted(
         (
             prefix,
@@ -100,6 +100,7 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False):
 
     it = tqdm(rows, desc="Prefixes", unit="prefix")
     for prefix, iri_filter, owl_url, json_url, obo_url in it:
+        it.set_postfix(prefix=prefix)
         if owl_url is None and json_url is None and obo_url is None:
             continue
         if (
@@ -107,7 +108,7 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False):
             and owl_url
             and all(not owl_url.endswith(suffix) for suffix in [".owl", ".obo", ".rdf", ".xml"])
             and owl_url not in EXTENSION_EXCEPTIONS
-            and not owl_url.startswith("https://cropontology.org/ontology/")
+            and "cropontology.org" not in owl_url
         ):
             _failure(prefix=prefix, text=f"Unhanded suffix in its OWL URL: {owl_url}")
             continue
@@ -115,7 +116,7 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False):
             json_url is None
             and owl_url is None
             and not obo_url.endswith(".obo")
-            and not "www.uniprot.org" in obo_url  # weird uniprot URLs are fine
+            and "www.uniprot.org" not in obo_url  # weird uniprot URLs are fine
         ):
             failure_text = f"Invalid OBO URL: {obo_url}"
             _failure(prefix=prefix, text=failure_text)
@@ -153,8 +154,9 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False):
                 _failure(prefix=prefix, text=failure_text)
             else:
                 result = analysis_results.results
-                for message in analysis_results.messages:
-                    secho(f"> {message}", fg="yellow")
+                if not skip_messages:
+                    for message in analysis_results.messages:
+                        secho(f"> {message}", fg="yellow")
 
             # secho(f"{prefix} writing results to {analysis_path}")
             if not result:

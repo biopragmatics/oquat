@@ -69,7 +69,7 @@ did not match the standard pattern `^\d+$`.
 | `mpath:<new dbxref>` |              1 | [MPATH:775](http://purl.obolibrary.org/obo/MPATH_775) |
 | `mpath:curation`     |              1 | [MPATH:833](http://purl.obolibrary.org/obo/MPATH_833) |
 
-## `PMCID`: Pubmed Central
+## `PMCID`: PubMed Central
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PMCID` (standardized to Bioregistry
@@ -80,7 +80,7 @@ did not match the standard pattern `^PMC\d+$`.
 |------------------|----------------|-------------------------------------------------------|
 | `PMCID: 1964945` |              1 | [MPATH:499](http://purl.obolibrary.org/obo/MPATH_499) |
 
-## `PMID`: PubMed
+## `PMID`: PubMed ID
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry

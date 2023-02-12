@@ -11,7 +11,17 @@
         ]
       },
       "label": "Provenance Xrefs",
-      "malformed_curies": {},
+      "malformed_curies": {
+        "http://purl.obolibrary.org/obo/MS_1003288": [
+          "NIST"
+        ],
+        "http://purl.obolibrary.org/obo/MS_1003289": [
+          "NIST"
+        ],
+        "http://purl.obolibrary.org/obo/MS_1003290": [
+          "NIST"
+        ]
+      },
       "noncanonical_prefixes": {
         "PubChem_Compound": {
           "http://purl.obolibrary.org/obo/MS_1001308": "PubChem_Compound:284",
@@ -2988,6 +2998,37 @@
           "http://purl.obolibrary.org/obo/MS_1003275": "PSI:MS",
           "http://purl.obolibrary.org/obo/MS_1003276": "PSI:MS",
           "http://purl.obolibrary.org/obo/MS_1003277": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003278": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003279": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003280": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003282": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_1003283": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_1003284": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003285": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003286": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003287": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003291": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_1003292": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003293": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_1003294": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_1003295": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003296": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003297": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003298": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003299": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003300": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003301": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003302": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003303": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003304": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003305": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003306": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003308": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003320": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003321": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003322": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003323": "PSI:PI",
+          "http://purl.obolibrary.org/obo/MS_1003324": "PSI:PI",
           "http://purl.obolibrary.org/obo/MS_4000000": "PSI:MS",
           "http://purl.obolibrary.org/obo/MS_4000001": "PSI:MS",
           "http://purl.obolibrary.org/obo/MS_4000002": "PSI:MS",
@@ -3056,7 +3097,16 @@
           "http://purl.obolibrary.org/obo/MS_4000091": "PSI:MS",
           "http://purl.obolibrary.org/obo/MS_4000092": "PSI:MS",
           "http://purl.obolibrary.org/obo/MS_4000093": "PSI:MS",
-          "http://purl.obolibrary.org/obo/MS_4000094": "PSI:MS"
+          "http://purl.obolibrary.org/obo/MS_4000094": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000095": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000096": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000097": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000098": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000099": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000100": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000101": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000102": "PSI:MS",
+          "http://purl.obolibrary.org/obo/MS_4000103": "PSI:MS"
         },
         "source": {
           "http://purl.obolibrary.org/obo/MS_1000600": "source:http://www.proteios.org",
@@ -3076,8 +3126,8 @@
         }
       }
     },
-    "version": "4.1.97",
-    "version_iri": "http://purl.obolibrary.org/obo/ms/4.1.97/ms.owl",
+    "version": "4.1.110",
+    "version_iri": "http://purl.obolibrary.org/obo/ms/4.1.110/ms.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
@@ -3085,77 +3135,26 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "binary-data-type": {
-          "http://purl.obolibrary.org/obo/MS_1000514": "binary-data-type:MS:1000523",
+          "http://purl.obolibrary.org/obo/MS_1000514": "binary-data-type:MS:1000521",
           "http://purl.obolibrary.org/obo/MS_1000515": "binary-data-type:MS:1000523",
           "http://purl.obolibrary.org/obo/MS_1000516": "binary-data-type:MS:1000519",
-          "http://purl.obolibrary.org/obo/MS_1000517": "binary-data-type:MS:1000521",
+          "http://purl.obolibrary.org/obo/MS_1000517": "binary-data-type:MS:1000523",
           "http://purl.obolibrary.org/obo/MS_1000595": "binary-data-type:MS:1000523",
-          "http://purl.obolibrary.org/obo/MS_1000617": "binary-data-type:MS:1000521",
-          "http://purl.obolibrary.org/obo/MS_1000786": "binary-data-type:MS:1000519",
-          "http://purl.obolibrary.org/obo/MS_1000820": "binary-data-type:MS:1000521",
-          "http://purl.obolibrary.org/obo/MS_1000821": "binary-data-type:MS:1000521",
+          "http://purl.obolibrary.org/obo/MS_1000617": "binary-data-type:MS:1000523",
+          "http://purl.obolibrary.org/obo/MS_1000786": "binary-data-type:MS:1001479",
+          "http://purl.obolibrary.org/obo/MS_1000820": "binary-data-type:MS:1000523",
+          "http://purl.obolibrary.org/obo/MS_1000821": "binary-data-type:MS:1000523",
           "http://purl.obolibrary.org/obo/MS_1000822": "binary-data-type:MS:1000521",
           "http://purl.obolibrary.org/obo/MS_1002478": "binary-data-type:MS:1000521",
-          "http://purl.obolibrary.org/obo/MS_1002529": "binary-data-type:MS:1000521",
-          "http://purl.obolibrary.org/obo/MS_1002530": "binary-data-type:MS:1000521",
-          "http://purl.obolibrary.org/obo/MS_1002742": "binary-data-type:MS:1000523",
-          "http://purl.obolibrary.org/obo/MS_1002743": "binary-data-type:MS:1000523",
+          "http://purl.obolibrary.org/obo/MS_1002529": "binary-data-type:MS:1000523",
+          "http://purl.obolibrary.org/obo/MS_1002530": "binary-data-type:MS:1000523",
+          "http://purl.obolibrary.org/obo/MS_1002742": "binary-data-type:MS:1000521",
+          "http://purl.obolibrary.org/obo/MS_1002743": "binary-data-type:MS:1000521",
           "http://purl.obolibrary.org/obo/MS_1002744": "binary-data-type:MS:1000521",
-          "http://purl.obolibrary.org/obo/MS_1002745": "binary-data-type:MS:1000521",
+          "http://purl.obolibrary.org/obo/MS_1002745": "binary-data-type:MS:1000523",
           "http://purl.obolibrary.org/obo/MS_1003143": "binary-data-type:MS:1000523"
         }
       }
-    }
-  },
-  "http://purl.obolibrary.org/obo/pato.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/pato.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2022-08-10",
-    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-08-10/pato.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/stato.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/stato.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "RC1.4",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
     }
   }
 }

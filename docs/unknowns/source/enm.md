@@ -1,5 +1,65 @@
 # enm
 
+## `Allen`
+
+There are 1 usages of `Allen` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Allen).
+
+| curie          |   usages | nodes                                                     |
+|----------------|----------|-----------------------------------------------------------|
+| Allen:precedes |        1 | [BFO:0000062](http://purl.obolibrary.org/obo/BFO_0000062) |
+
+## `Answers.com`
+
+There are 1 usages of `Answers.com` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Answers.com).
+
+| curie                   |   usages | nodes                                                       |
+|-------------------------|----------|-------------------------------------------------------------|
+| Answers.com:Answers.com |        1 | [PATO:0000969](http://purl.obolibrary.org/obo/PATO_0000969) |
+
+## `ENVOC`
+
+There are 1 usages of `ENVOC` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ENVOC).
+
+| curie    |   usages | nodes                                                         |
+|----------|----------|---------------------------------------------------------------|
+| ENVOC:nm |        1 | [ENVO:00000338](http://purl.obolibrary.org/obo/ENVO_00000338) |
+
+## `GEMINA`
+
+There are 1 usages of `GEMINA` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GEMINA).
+
+| curie     |   usages | nodes                                                         |
+|-----------|----------|---------------------------------------------------------------|
+| GEMINA:ls |        1 | [ENVO:00000338](http://purl.obolibrary.org/obo/ENVO_00000338) |
+
+## `GOC`
+
+There are 1 usages of `GOC` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
+
+| curie   |   usages | nodes                                                   |
+|---------|----------|---------------------------------------------------------|
+| GOC:tb  |        1 | [GO:0003824](http://purl.obolibrary.org/obo/GO_0003824) |
+
+## `Gemina`
+
+There are 1 usages of `Gemina` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gemina).
+
+| curie     |   usages | nodes                                                         |
+|-----------|----------|---------------------------------------------------------------|
+| Gemina:ls |        1 | [ENVO:02000035](http://purl.obolibrary.org/obo/ENVO_02000035) |
+
 ## `Invitrogen`
 
 There are 1 usages of `Invitrogen` in `enm`.
@@ -10,15 +70,25 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |--------------------------------------------|----------|-----------------------------------------------------------|
 | Invitrogen:http://products.invitrogen.com/ |        1 | [BTO:0004602](http://purl.obolibrary.org/obo/BTO_0004602) |
 
-## `curators`
+## `Merriam-Webster`
 
-There are 1 usages of `curators` in `enm`.
+There are 1 usages of `Merriam-Webster` in `enm`.
 If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20curators).
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Merriam-Webster).
 
-| curie       |   usages | nodes                                                     |
-|-------------|----------|-----------------------------------------------------------|
-| curators:mg |        1 | [BTO:0002922](http://purl.obolibrary.org/obo/BTO_0002922) |
+| curie                           |   usages | nodes                                                       |
+|---------------------------------|----------|-------------------------------------------------------------|
+| Merriam-Webster:Merriam-Webster |        1 | [PATO:0000261](http://purl.obolibrary.org/obo/PATO_0000261) |
+
+## `NPX`
+
+There are 1 usages of `NPX` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NPX).
+
+| curie   |   usages | nodes                                                   |
+|---------|----------|---------------------------------------------------------|
+| NPX:PDR |        1 | [CL:1001603](http://purl.obolibrary.org/obo/CL_1001603) |
 
 ## `Orange`
 
@@ -44,35 +114,30 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | OrangeBook:17.2.4   |        1 | [CHMO:0000351](http://purl.obolibrary.org/obo/CHMO_0000351) |
 | OrangeBook:9.4.1    |        1 | [CHMO:0001577](http://purl.obolibrary.org/obo/CHMO_0001577) |
 
-## `NPX`
+## `PATOC`
 
-There are 1 usages of `NPX` in `enm`.
+There are 6 usages of `PATOC` in `enm`.
 If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NPX).
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PATOC).
 
-| curie   |   usages | nodes                                                   |
-|---------|----------|---------------------------------------------------------|
-| NPX:PDR |        1 | [CL:1001603](http://purl.obolibrary.org/obo/CL_1001603) |
+| curie         |   usages | nodes                                                                                                                                                                                                                                                                                                                |
+|---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PATOC:GVG     |       49 | [PATO:0000049](http://purl.obolibrary.org/obo/PATO_0000049), [PATO:0000119](http://purl.obolibrary.org/obo/PATO_0000119), [PATO:0000122](http://purl.obolibrary.org/obo/PATO_0000122), [PATO:0000125](http://purl.obolibrary.org/obo/PATO_0000125), [PATO:0000146](http://purl.obolibrary.org/obo/PATO_0000146), ... |
+| PATOC:MAH     |        2 | [PATO:0000584](http://purl.obolibrary.org/obo/PATO_0000584), [PATO:0000585](http://purl.obolibrary.org/obo/PATO_0000585)                                                                                                                                                                                             |
+| PATOC:WD      |        2 | [PATO:0005015](http://purl.obolibrary.org/obo/PATO_0005015), [PATO:0005022](http://purl.obolibrary.org/obo/PATO_0005022)                                                                                                                                                                                             |
+| PATOC:melissa |        1 | [PATO:0000161](http://purl.obolibrary.org/obo/PATO_0000161)                                                                                                                                                                                                                                                          |
+| PATOC:CJM     |        1 | [PATO:0001555](http://purl.obolibrary.org/obo/PATO_0001555)                                                                                                                                                                                                                                                          |
+| PATOC:UMH     |        1 | [PATO:0001940](http://purl.obolibrary.org/obo/PATO_0001940)                                                                                                                                                                                                                                                          |
 
-## `Allen`
+## `PHENOSCPAE`
 
-There are 1 usages of `Allen` in `enm`.
+There are 1 usages of `PHENOSCPAE` in `enm`.
 If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Allen).
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PHENOSCPAE).
 
-| curie          |   usages | nodes                                                     |
-|----------------|----------|-----------------------------------------------------------|
-| Allen:precedes |        1 | [BFO:0000062](http://purl.obolibrary.org/obo/BFO_0000062) |
-
-## `GOC`
-
-There are 1 usages of `GOC` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
-
-| curie   |   usages | nodes                                                   |
-|---------|----------|---------------------------------------------------------|
-| GOC:tb  |        1 | [GO:0003824](http://purl.obolibrary.org/obo/GO_0003824) |
+| curie                   |   usages | nodes                                                   |
+|-------------------------|----------|---------------------------------------------------------|
+| PHENOSCPAE:asilomar_mtg |        1 | [RO:0002173](http://purl.obolibrary.org/obo/RO_0002173) |
 
 ## `UBERONREF`
 
@@ -84,58 +149,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |-------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | UBERONREF:0000004 |        9 | [UBREL:0000001](http://purl.obolibrary.org/obo/UBREL_0000001), [uberon#anteriorly:connected:to](http://purl.obolibrary.org/obo/uberon#anteriorly_connected_to), [uberon#connects](http://purl.obolibrary.org/obo/uberon#connects), [uberon#distally:connected:to](http://purl.obolibrary.org/obo/uberon#distally_connected_to), [uberon#posteriorly:connected:to](http://purl.obolibrary.org/obo/uberon#posteriorly_connected_to), ... |
 
-## `PERSON`
-
-There are 2 usages of `PERSON` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PERSON).
-
-| curie                |   usages | nodes                                               |
-|----------------------|----------|-----------------------------------------------------|
-| PERSON: James Malone |        1 | [EFO:0000714](http://www.ebi.ac.uk/efo/EFO_0000714) |
-| PERSON: Dani Welter  |        1 | [EFO:0004358](http://www.ebi.ac.uk/efo/EFO_0004358) |
-
-## `UBREL`
-
-There are 2 usages of `UBREL` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UBREL).
-
-| curie         |   usages | nodes                                                         |
-|---------------|----------|---------------------------------------------------------------|
-| UBREL:0000001 |        1 | [UBREL:0000001](http://purl.obolibrary.org/obo/UBREL_0000001) |
-| UBREL:0000002 |        1 | [UBREL:0000002](http://purl.obolibrary.org/obo/UBREL_0000002) |
-
-## `ENVOC`
-
-There are 1 usages of `ENVOC` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ENVOC).
-
-| curie    |   usages | nodes                                                         |
-|----------|----------|---------------------------------------------------------------|
-| ENVOC:nm |        1 | [ENVO:00000338](http://purl.obolibrary.org/obo/ENVO_00000338) |
-
-## `GEMINA`
-
-There are 1 usages of `GEMINA` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GEMINA).
-
-| curie     |   usages | nodes                                                         |
-|-----------|----------|---------------------------------------------------------------|
-| GEMINA:ls |        1 | [ENVO:00000338](http://purl.obolibrary.org/obo/ENVO_00000338) |
-
-## `Gemina`
-
-There are 1 usages of `Gemina` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gemina).
-
-| curie     |   usages | nodes                                                         |
-|-----------|----------|---------------------------------------------------------------|
-| Gemina:ls |        1 | [ENVO:02000035](http://purl.obolibrary.org/obo/ENVO_02000035) |
-
 ## `URL`
 
 There are 1 usages of `URL` in `enm`.
@@ -145,6 +158,67 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | curie                                      |   usages | nodes                                                         |
 |--------------------------------------------|----------|---------------------------------------------------------------|
 | URL:http://aims.fao.org/aos/agrovoc/c_5998 |        1 | [ENVO:01000404](http://purl.obolibrary.org/obo/ENVO_01000404) |
+
+## `Wiikipedia`
+
+There are 2 usages of `Wiikipedia` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiikipedia).
+
+| curie                 |   usages | nodes                                                       |
+|-----------------------|----------|-------------------------------------------------------------|
+| Wiikipedia:Wasting    |        1 | [PATO:0001623](http://purl.obolibrary.org/obo/PATO_0001623) |
+| Wiikipedia:Wiikipedia |        1 | [PATO:0001780](http://purl.obolibrary.org/obo/PATO_0001780) |
+
+## `WordNet`
+
+There are 1 usages of `WordNet` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WordNet).
+
+| curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
+|-----------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| WordNet:WordNet |        8 | [PATO:0000011](http://purl.obolibrary.org/obo/PATO_0000011), [PATO:0000117](http://purl.obolibrary.org/obo/PATO_0000117), [PATO:0000915](http://purl.obolibrary.org/obo/PATO_0000915), [PATO:0001019](http://purl.obolibrary.org/obo/PATO_0001019), [PATO:0001571](http://purl.obolibrary.org/obo/PATO_0001571), ... |
+
+## `curators`
+
+There are 1 usages of `curators` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20curators).
+
+| curie       |   usages | nodes                                                     |
+|-------------|----------|-----------------------------------------------------------|
+| curators:mg |        1 | [BTO:0002922](http://purl.obolibrary.org/obo/BTO_0002922) |
+
+## `edp`
+
+There are 1 usages of `edp` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20edp).
+
+| curie   |   usages | nodes                                                                                                                                                                                 |
+|---------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| edp:edp |        3 | [PATO:0001536](http://purl.obolibrary.org/obo/PATO_0001536), [PATO:0001537](http://purl.obolibrary.org/obo/PATO_0001537), [PATO:0001538](http://purl.obolibrary.org/obo/PATO_0001538) |
+
+## `studyphysics`
+
+There are 1 usages of `studyphysics` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20studyphysics).
+
+| curie                     |   usages | nodes                                                                                                                    |
+|---------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
+| studyphysics:studyphysics |        2 | [PATO:0001524](http://purl.obolibrary.org/obo/PATO_0001524), [PATO:0001526](http://purl.obolibrary.org/obo/PATO_0001526) |
+
+## `url`
+
+There are 1 usages of `url` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url).
+
+| curie                           |   usages | nodes                                                       |
+|---------------------------------|----------|-------------------------------------------------------------|
+| url:http://www.studyphysics.ca/ |        1 | [PATO:0001525](http://purl.obolibrary.org/obo/PATO_0001525) |
 
 ## `ADL`
 
@@ -186,6 +260,17 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |-----------|----------|---------------------------------------------------------------|
 | USGS:SDTS |        1 | [ENVO:00000194](http://purl.obolibrary.org/obo/ENVO_00000194) |
 
+## `PERSON`
+
+There are 2 usages of `PERSON` in `enm`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PERSON).
+
+| curie                |   usages | nodes                                               |
+|----------------------|----------|-----------------------------------------------------|
+| PERSON: James Malone |        1 | [EFO:0000714](http://www.ebi.ac.uk/efo/EFO_0000714) |
+| PERSON: Dani Welter  |        1 | [EFO:0004358](http://www.ebi.ac.uk/efo/EFO_0004358) |
+
 ## `SPIRE`
 
 There are 11 usages of `SPIRE` in `enm`.
@@ -205,113 +290,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | SPIRE:Benthic               |        1 | [ENVO:01000024](http://purl.obolibrary.org/obo/ENVO_01000024)                                                                |
 | SPIRE:Savannah_or_grassland |        1 | [ENVO:01000178](http://purl.obolibrary.org/obo/ENVO_01000178)                                                                |
 | SPIRE:Urban                 |        1 | [ENVO:01000249](http://purl.obolibrary.org/obo/ENVO_01000249)                                                                |
-
-## `Answers.com`
-
-There are 1 usages of `Answers.com` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Answers.com).
-
-| curie                   |   usages | nodes                                                       |
-|-------------------------|----------|-------------------------------------------------------------|
-| Answers.com:Answers.com |        1 | [PATO:0000969](http://purl.obolibrary.org/obo/PATO_0000969) |
-
-## `Merriam-Webster`
-
-There are 1 usages of `Merriam-Webster` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Merriam-Webster).
-
-| curie                           |   usages | nodes                                                       |
-|---------------------------------|----------|-------------------------------------------------------------|
-| Merriam-Webster:Merriam-Webster |        1 | [PATO:0000261](http://purl.obolibrary.org/obo/PATO_0000261) |
-
-## `PATOC`
-
-There are 6 usages of `PATOC` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PATOC).
-
-| curie         |   usages | nodes                                                                                                                                                                                                                                                                                                                |
-|---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PATOC:GVG     |       50 | [PATO:0000049](http://purl.obolibrary.org/obo/PATO_0000049), [PATO:0000119](http://purl.obolibrary.org/obo/PATO_0000119), [PATO:0000122](http://purl.obolibrary.org/obo/PATO_0000122), [PATO:0000125](http://purl.obolibrary.org/obo/PATO_0000125), [PATO:0000146](http://purl.obolibrary.org/obo/PATO_0000146), ... |
-| PATOC:MAH     |        2 | [PATO:0000584](http://purl.obolibrary.org/obo/PATO_0000584), [PATO:0000585](http://purl.obolibrary.org/obo/PATO_0000585)                                                                                                                                                                                             |
-| PATOC:WD      |        2 | [PATO:0005015](http://purl.obolibrary.org/obo/PATO_0005015), [PATO:0005022](http://purl.obolibrary.org/obo/PATO_0005022)                                                                                                                                                                                             |
-| PATOC:melissa |        1 | [PATO:0000161](http://purl.obolibrary.org/obo/PATO_0000161)                                                                                                                                                                                                                                                          |
-| PATOC:CJM     |        1 | [PATO:0001555](http://purl.obolibrary.org/obo/PATO_0001555)                                                                                                                                                                                                                                                          |
-| PATOC:UMH     |        1 | [PATO:0001940](http://purl.obolibrary.org/obo/PATO_0001940)                                                                                                                                                                                                                                                          |
-
-## `Wiikipedia`
-
-There are 2 usages of `Wiikipedia` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiikipedia).
-
-| curie                 |   usages | nodes                                                       |
-|-----------------------|----------|-------------------------------------------------------------|
-| Wiikipedia:Wasting    |        1 | [PATO:0001623](http://purl.obolibrary.org/obo/PATO_0001623) |
-| Wiikipedia:Wiikipedia |        1 | [PATO:0001780](http://purl.obolibrary.org/obo/PATO_0001780) |
-
-## `WordNet`
-
-There are 1 usages of `WordNet` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WordNet).
-
-| curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
-|-----------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| WordNet:WordNet |        8 | [PATO:0000011](http://purl.obolibrary.org/obo/PATO_0000011), [PATO:0000117](http://purl.obolibrary.org/obo/PATO_0000117), [PATO:0000915](http://purl.obolibrary.org/obo/PATO_0000915), [PATO:0001019](http://purl.obolibrary.org/obo/PATO_0001019), [PATO:0001571](http://purl.obolibrary.org/obo/PATO_0001571), ... |
-
-## `edp`
-
-There are 1 usages of `edp` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20edp).
-
-| curie   |   usages | nodes                                                                                                                                                                                 |
-|---------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| edp:edp |        3 | [PATO:0001536](http://purl.obolibrary.org/obo/PATO_0001536), [PATO:0001537](http://purl.obolibrary.org/obo/PATO_0001537), [PATO:0001538](http://purl.obolibrary.org/obo/PATO_0001538) |
-
-## `studyphysics`
-
-There are 1 usages of `studyphysics` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20studyphysics).
-
-| curie                     |   usages | nodes                                                                                                                    |
-|---------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
-| studyphysics:studyphysics |        2 | [PATO:0001524](http://purl.obolibrary.org/obo/PATO_0001524), [PATO:0001526](http://purl.obolibrary.org/obo/PATO_0001526) |
-
-## `url`
-
-There are 1 usages of `url` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url).
-
-| curie                           |   usages | nodes                                                       |
-|---------------------------------|----------|-------------------------------------------------------------|
-| url:http://www.studyphysics.ca/ |        1 | [PATO:0001525](http://purl.obolibrary.org/obo/PATO_0001525) |
-
-## `PHENOSCPAE`
-
-There are 1 usages of `PHENOSCPAE` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PHENOSCPAE).
-
-| curie                   |   usages | nodes                                                   |
-|-------------------------|----------|---------------------------------------------------------|
-| PHENOSCPAE:asilomar_mtg |        1 | [RO:0002173](http://purl.obolibrary.org/obo/RO_0002173) |
-
-## `OpenCyc`
-
-There are 2 usages of `OpenCyc` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OpenCyc).
-
-| curie                              |   usages | nodes                                                           |
-|------------------------------------|----------|-----------------------------------------------------------------|
-| OpenCyc:Mx4rwP3iWpwpEbGdrcN5Y29ycA |        1 | [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) |
-| OpenCyc:Mx4rwP3vyJwpEbGdrcN5Y29ycA |        1 | [UBERON:0002530](http://purl.obolibrary.org/obo/UBERON_0002530) |
 
 ## `WikipediaCategory`
 

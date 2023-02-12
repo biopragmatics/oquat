@@ -74,6 +74,9 @@
         "http://purl.obolibrary.org/obo/PLANA_0000241": [
           "ASIN:B000M4NK9M"
         ],
+        "http://purl.obolibrary.org/obo/PLANA_0000470": [
+          "CALOHA:TS-2403"
+        ],
         "http://purl.obolibrary.org/obo/PLANA_0000472": [
           "ASIN:B000M4NK9M"
         ],
@@ -94,6 +97,9 @@
         ],
         "http://purl.obolibrary.org/obo/PLANA_0000495": [
           "ncithesaurus:Blastemal_Cell"
+        ],
+        "http://purl.obolibrary.org/obo/PLANA_0000499": [
+          "CALOHA:TS-2035"
         ],
         "http://purl.obolibrary.org/obo/PLANA_0001005": [
           "NIF_Subcellular:sao1397492660"

@@ -6,6 +6,12 @@
 |---------|----------|-------------------------------------------------------|
 | MTH:646 |        1 | [DOID:2975](http://purl.obolibrary.org/obo/DOID_2975) |
 
+## covoc
+
+| curie      |   usages | nodes                                                         |
+|------------|----------|---------------------------------------------------------------|
+| MTH:NOCODE |        1 | [MONDO:0007186](http://purl.obolibrary.org/obo/MONDO_0007186) |
+
 ## efo
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                        |
@@ -13,7 +19,6 @@
 | MTH:NOCODE  |       40 | [EFO:0000183](http://www.ebi.ac.uk/efo/EFO_0000183), [EFO:0000222](http://www.ebi.ac.uk/efo/EFO_0000222), [EFO:0000280](http://www.ebi.ac.uk/efo/EFO_0000280), [EFO:0000309](http://www.ebi.ac.uk/efo/EFO_0000309), [EFO:0000339](http://www.ebi.ac.uk/efo/EFO_0000339), ... |
 | MTH:769     |        1 | [EFO:0000731](http://www.ebi.ac.uk/efo/EFO_0000731)                                                                                                                                                                                                                          |
 | MTH:166     |        1 | [EFO:0001061](http://www.ebi.ac.uk/efo/EFO_0001061)                                                                                                                                                                                                                          |
-| MTH:U002054 |        1 | [EFO:0002690](http://www.ebi.ac.uk/efo/EFO_0002690)                                                                                                                                                                                                                          |
 | MTH:302     |        1 | [EFO:0003014](http://www.ebi.ac.uk/efo/EFO_0003014)                                                                                                                                                                                                                          |
 | MTH:547     |        1 | [EFO:0004261](http://www.ebi.ac.uk/efo/EFO_0004261)                                                                                                                                                                                                                          |
 | MTH:U001372 |        1 | [EFO:0005570](http://www.ebi.ac.uk/efo/EFO_0005570)                                                                                                                                                                                                                          |
@@ -44,7 +49,7 @@
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MTH:NOCODE  |       73 | [MONDO:0001240](http://purl.obolibrary.org/obo/MONDO_0001240), [MONDO:0001357](http://purl.obolibrary.org/obo/MONDO_0001357), [MONDO:0001407](http://purl.obolibrary.org/obo/MONDO_0001407), [MONDO:0001534](http://purl.obolibrary.org/obo/MONDO_0001534), [MONDO:0001703](http://purl.obolibrary.org/obo/MONDO_0001703), ... |
+| MTH:NOCODE  |       72 | [MONDO:0001240](http://purl.obolibrary.org/obo/MONDO_0001240), [MONDO:0001357](http://purl.obolibrary.org/obo/MONDO_0001357), [MONDO:0001407](http://purl.obolibrary.org/obo/MONDO_0001407), [MONDO:0001534](http://purl.obolibrary.org/obo/MONDO_0001534), [MONDO:0001703](http://purl.obolibrary.org/obo/MONDO_0001703), ... |
 | MTH:U001388 |        1 | [MONDO:0001526](http://purl.obolibrary.org/obo/MONDO_0001526)                                                                                                                                                                                                                                                                  |
 | MTH:U001261 |        1 | [MONDO:0001756](http://purl.obolibrary.org/obo/MONDO_0001756)                                                                                                                                                                                                                                                                  |
 | MTH:587     |        1 | [MONDO:0001795](http://purl.obolibrary.org/obo/MONDO_0001795)                                                                                                                                                                                                                                                                  |

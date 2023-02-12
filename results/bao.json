@@ -1,53 +1,4 @@
 {
-  "http://bioassayontology.org/bao/external/BAO_CHEBI_import.owl": {
-    "graph_id": "http://bioassayontology.org/bao/external/BAO_CHEBI_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao+external.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao+external.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version_iri": "http://www.bioassayontology.org/bao/bao_external.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
   "http://www.bioassayontology.org/bao/bao_complete.owl": {
     "graph_id": "http://www.bioassayontology.org/bao/bao_complete.owl",
     "prov_pack": {
@@ -64,724 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2.7.2",
+    "version": "2.7.4",
     "version_iri": "http://www.bioassayontology.org/bao/bao_complete.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_core.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_core.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_core.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_metadata.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_metadata.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_module_biology.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_module_biology.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_module_properties.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_module_properties.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version_iri": "http://www.bioassayontology.org/bao/bao_module_properties.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_module_vocabularies.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_module_vocabularies.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version_iri": "http://www.bioassayontology.org/bao/bao_module_vocabularies.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_assay.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_assay.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_assay.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_assaykit.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_assaykit.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_assaykit.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_biology.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_biology.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_biology.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_computational.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_computational.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_computational.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_detection.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_detection.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_detection.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_format.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_format.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_format.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_function.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_function.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_function.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_instrument.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_instrument.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_instrument.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_materialentity.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_materialentity.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_materialentity.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_method.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_method.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_method.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_organization.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_organization.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_organization.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_people.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_people.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_people.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_phenotype.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_phenotype.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_phenotype.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_properties.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_properties.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.1",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_quality.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_quality.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_quality.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_result.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_result.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_result.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_ro.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_ro.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.1",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_role.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_role.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_role.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_screenedentity.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_screenedentity.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_screenedentity.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_software.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_software.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_software.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/bao_vocabulary_unit.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/bao_vocabulary_unit.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2.7.2",
-    "version_iri": "http://www.bioassayontology.org/bao/bao_vocabulary_unit.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/external/BAO_CLO_import.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/external/BAO_CLO_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/external/BAO_DOID_import.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/external/BAO_DOID_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/DOID_0050120": [
@@ -929,6 +164,9 @@
         "http://purl.obolibrary.org/obo/DOID_0111229": [
           "OMIM:PS236670"
         ],
+        "http://purl.obolibrary.org/obo/DOID_100": [
+          "ICD9CM:001-009.99"
+        ],
         "http://purl.obolibrary.org/obo/DOID_10112": [
           "KEGG:05143"
         ],
@@ -949,6 +187,9 @@
         ],
         "http://purl.obolibrary.org/obo/DOID_10652": [
           "KEGG:05010"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_10763": [
+          "ICD9CM:401-405.99"
         ],
         "http://purl.obolibrary.org/obo/DOID_10871": [
           "OMIM:PS603075"
@@ -1043,8 +284,17 @@
         "http://purl.obolibrary.org/obo/DOID_14791": [
           "OMIM:PS204000"
         ],
+        "http://purl.obolibrary.org/obo/DOID_1564": [
+          "ICD9CM:110-118.99"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_1586": [
+          "ICD9CM:390-392.99"
+        ],
         "http://purl.obolibrary.org/obo/DOID_162": [
           "ICDO:M8000/3"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_169": [
+          "ICD9CM:209-209.99"
         ],
         "http://purl.obolibrary.org/obo/DOID_1781": [
           "KEGG:05216"
@@ -1130,6 +380,12 @@
           "KEGG:05014",
           "OMIM:PS105400"
         ],
+        "http://purl.obolibrary.org/obo/DOID_3393": [
+          "ICD9CM:410-414.99"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_3463": [
+          "ICD9CM:610-612.99"
+        ],
         "http://purl.obolibrary.org/obo/DOID_3490": [
           "OMIM:PS163950"
         ],
@@ -1169,6 +425,9 @@
         "http://purl.obolibrary.org/obo/DOID_5212": [
           "OMIM:PS212065"
         ],
+        "http://purl.obolibrary.org/obo/DOID_526": [
+          "ICD9CM:042-042.99"
+        ],
         "http://purl.obolibrary.org/obo/DOID_5409": [
           "KEGG:05222"
         ],
@@ -1203,17 +462,29 @@
         "http://purl.obolibrary.org/obo/DOID_769": [
           "ICDO:M9500/3"
         ],
+        "http://purl.obolibrary.org/obo/DOID_77": [
+          "ICD9CM:520-579.99"
+        ],
         "http://purl.obolibrary.org/obo/DOID_820": [
           "KEGG:05416"
         ],
         "http://purl.obolibrary.org/obo/DOID_83": [
           "OMIM:PS116200"
         ],
+        "http://purl.obolibrary.org/obo/DOID_8337": [
+          "ICD9CM:540-543.99"
+        ],
         "http://purl.obolibrary.org/obo/DOID_8545": [
           "OMIM:PS145600"
         ],
         "http://purl.obolibrary.org/obo/DOID_8552": [
           "KEGG:05220"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_8719": [
+          "ICD9CM:230-234.99"
+        ],
+        "http://purl.obolibrary.org/obo/DOID_883": [
+          "ICD9CM:120-129.99"
         ],
         "http://purl.obolibrary.org/obo/DOID_8893": [
           "OMIM:PS177900"
@@ -1236,6 +507,9 @@
         "http://purl.obolibrary.org/obo/DOID_9258": [
           "OMIM:PS193500"
         ],
+        "http://purl.obolibrary.org/obo/DOID_934": [
+          "ICD9CM:060-066.99"
+        ],
         "http://purl.obolibrary.org/obo/DOID_9352": [
           "KEGG:04930"
         ],
@@ -1253,11 +527,183 @@
         ],
         "http://purl.obolibrary.org/obo/DOID_987": [
           "OMIM:PS203655"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005102": [
+          "Wikipedia:Ligand_(biochemistry)"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005488": [
+          "Wikipedia:Binding_(molecular)"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005634": [
+          "NIF_Subcellular:sao1702920020"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005739": [
+          "NIF_Subcellular:sao1860313010"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005764": [
+          "NIF_Subcellular:sao585356902"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005776": [
+          "NIF_Subcellular:sao8663416959"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005783": [
+          "NIF_Subcellular:sao1036339110"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005794": [
+          "NIF_Subcellular:sao451912436"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005829": [
+          "NIF_Subcellular:sao101633890"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0005886": [
+          "NIF_Subcellular:sao1663586795"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0006351": [
+          "Wikipedia:Transcription_(genetics)"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0006412": [
+          "Wikipedia:Translation_(genetics)"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0006914": [
+          "Wikipedia:Autophagy_(cellular)"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0030424": [
+          "NIF_Subcellular:sao1770195789"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0031099": [
+          "Wikipedia:Regeneration_(biology)"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0032059": [
+          "Wikipedia:Bleb_(cell_biology)"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0043005": [
+          "NIF_Subcellular:sao867568886"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0044303": [
+          "NIF_Subcellular:sao1470140754"
+        ],
+        "http://purl.obolibrary.org/obo/GO_0044307": [
+          "NIF_Subcellular:sao884265541"
+        ],
+        "http://purl.obolibrary.org/obo/GO_1901589": [
+          "NIF_Subcellular:sao707332678"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000002": [
+          "CALOHA:TS-0134"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000056": [
+          "CALOHA:TS-1084"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000105": [
+          "ncithesaurus:Developmental_Stage"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000160": [
+          "CALOHA:TS-0490",
+          "MESH:A03.492.411"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000178": [
+          "CALOHA:TS-0079"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000310": [
+          "CALOHA:TS-2083"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000473": [
+          "CALOHA:TS-1030"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000945": [
+          "CALOHA:TS-0980",
+          "MESH:A03.492.766"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000955": [
+          "CALOHA:TS-0095"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000992": [
+          "CALOHA:TS-0730"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000995": [
+          "CALOHA:TS-1102"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0000997": [
+          "CALOHA:TS-1168"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001016": [
+          "CALOHA:TS-1313"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001043": [
+          "CALOHA:TS-0700",
+          "MESH:A03.365"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001255": [
+          "CALOHA:TS-1090",
+          "MESH:A05.810.161"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001264": [
+          "CALOHA:TS-0736"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001474": [
+          "CALOHA:TS-0088"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001969": [
+          "CALOHA:TS-0800"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0001977": [
+          "CALOHA:TS-0923"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002046": [
+          "CALOHA:TS-1047"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002048": [
+          "CALOHA:TS-0568"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002097": [
+          "CALOHA:TS-0934"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002107": [
+          "CALOHA:TS-0564"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002110": [
+          "CALOHA:TS-0394"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002113": [
+          "CALOHA:TS-0510"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002114": [
+          "CALOHA:TS-0214",
+          "MESH:A03.492.411.620.270"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002367": [
+          "CALOHA:TS-0828"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002369": [
+          "CALOHA:TS-0016"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002385": [
+          "CALOHA:TS-0642"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0002391": [
+          "CALOHA:TS-0580",
+          "MESH:A12.207.630"
+        ],
+        "http://purl.obolibrary.org/obo/UBERON_0007811": [
+          "CALOHA:TS-2356"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001272": [
+          "NIFSTD:birnlex_228",
+          "NIFSTD:birnlex_681"
+        ],
+        "http://www.ebi.ac.uk/efo/EFO_0001323": [
+          "FBdv:0005333"
         ]
       },
       "label": "Node Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {
+        "FBbt_root": {
+          "http://purl.obolibrary.org/obo/UBERON_0001062": "FBbt_root:00000000"
+        },
+        "MSH": {
+          "http://www.ebi.ac.uk/efo/EFO_0001272": "MSH:D000328"
+        },
         "NCI": {
           "http://purl.obolibrary.org/obo/DOID_0014667": "NCI:C3235",
           "http://purl.obolibrary.org/obo/DOID_0050120": "NCI:C34792",
@@ -3378,6 +2824,24 @@
           "http://purl.obolibrary.org/obo/DOID_9977": "NCI:C34657",
           "http://purl.obolibrary.org/obo/DOID_9988": "NCI:C84935",
           "http://purl.obolibrary.org/obo/DOID_9993": "NCI:C3126"
+        },
+        "NIFSTD": {
+          "http://www.ebi.ac.uk/efo/EFO_0001272": "NIFSTD:birnlex_681"
+        },
+        "NIF_Subcellular": {
+          "http://purl.obolibrary.org/obo/GO_0005634": "NIF_Subcellular:sao1702920020",
+          "http://purl.obolibrary.org/obo/GO_0005739": "NIF_Subcellular:sao1860313010",
+          "http://purl.obolibrary.org/obo/GO_0005764": "NIF_Subcellular:sao585356902",
+          "http://purl.obolibrary.org/obo/GO_0005776": "NIF_Subcellular:sao8663416959",
+          "http://purl.obolibrary.org/obo/GO_0005783": "NIF_Subcellular:sao1036339110",
+          "http://purl.obolibrary.org/obo/GO_0005794": "NIF_Subcellular:sao451912436",
+          "http://purl.obolibrary.org/obo/GO_0005829": "NIF_Subcellular:sao101633890",
+          "http://purl.obolibrary.org/obo/GO_0005886": "NIF_Subcellular:sao1663586795",
+          "http://purl.obolibrary.org/obo/GO_0030424": "NIF_Subcellular:sao1770195789",
+          "http://purl.obolibrary.org/obo/GO_0043005": "NIF_Subcellular:sao867568886",
+          "http://purl.obolibrary.org/obo/GO_0044303": "NIF_Subcellular:sao1470140754",
+          "http://purl.obolibrary.org/obo/GO_0044307": "NIF_Subcellular:sao884265541",
+          "http://purl.obolibrary.org/obo/GO_1901589": "NIF_Subcellular:sao707332678"
         },
         "ORDO": {
           "http://purl.obolibrary.org/obo/DOID_0050120": "ORDO:540",
@@ -9082,292 +8546,9 @@
           "http://purl.obolibrary.org/obo/DOID_9988": "UMLS_CUI:C0027927",
           "http://purl.obolibrary.org/obo/DOID_999": "UMLS_CUI:C0014457",
           "http://purl.obolibrary.org/obo/DOID_9993": "UMLS_CUI:C0020615"
-        }
-      },
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/external/BAO_EFO_import.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/external/BAO_EFO_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {
-        "http://www.ebi.ac.uk/efo/EFO_0001272": [
-          "NIFSTD:birnlex_228",
-          "NIFSTD:birnlex_681"
-        ],
-        "http://www.ebi.ac.uk/efo/EFO_0001323": [
-          "FBdv:0005333"
-        ]
-      },
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "MSH": {
-          "http://www.ebi.ac.uk/efo/EFO_0001272": "MSH:D000328"
         },
-        "NIFSTD": {
-          "http://www.ebi.ac.uk/efo/EFO_0001272": "NIFSTD:birnlex_681"
-        }
-      },
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/external/BAO_ERO_import.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/external/BAO_ERO_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/external/BAO_GO_import.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/external/BAO_GO_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/GO_0005102": [
-          "Wikipedia:Ligand_(biochemistry)"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0005488": [
-          "Wikipedia:Binding_(molecular)"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0005634": [
-          "NIF_Subcellular:sao1702920020"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0005739": [
-          "NIF_Subcellular:sao1860313010"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0005764": [
-          "NIF_Subcellular:sao585356902"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0005776": [
-          "NIF_Subcellular:sao8663416959"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0005783": [
-          "NIF_Subcellular:sao1036339110"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0005794": [
-          "NIF_Subcellular:sao451912436"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0005829": [
-          "NIF_Subcellular:sao101633890"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0005886": [
-          "NIF_Subcellular:sao1663586795"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0006351": [
-          "Wikipedia:Transcription_(genetics)"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0006412": [
-          "Wikipedia:Translation_(genetics)"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0006914": [
-          "Wikipedia:Autophagy_(cellular)"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0030424": [
-          "NIF_Subcellular:sao1770195789"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0031099": [
-          "Wikipedia:Regeneration_(biology)"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0032059": [
-          "Wikipedia:Bleb_(cell_biology)"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0043005": [
-          "NIF_Subcellular:sao867568886"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0044303": [
-          "NIF_Subcellular:sao1470140754"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0044307": [
-          "NIF_Subcellular:sao884265541"
-        ],
-        "http://purl.obolibrary.org/obo/GO_1901589": [
-          "NIF_Subcellular:sao707332678"
-        ]
-      },
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "NIF_Subcellular": {
-          "http://purl.obolibrary.org/obo/GO_0005634": "NIF_Subcellular:sao1702920020",
-          "http://purl.obolibrary.org/obo/GO_0005739": "NIF_Subcellular:sao1860313010",
-          "http://purl.obolibrary.org/obo/GO_0005764": "NIF_Subcellular:sao585356902",
-          "http://purl.obolibrary.org/obo/GO_0005776": "NIF_Subcellular:sao8663416959",
-          "http://purl.obolibrary.org/obo/GO_0005783": "NIF_Subcellular:sao1036339110",
-          "http://purl.obolibrary.org/obo/GO_0005794": "NIF_Subcellular:sao451912436",
-          "http://purl.obolibrary.org/obo/GO_0005829": "NIF_Subcellular:sao101633890",
-          "http://purl.obolibrary.org/obo/GO_0005886": "NIF_Subcellular:sao1663586795",
-          "http://purl.obolibrary.org/obo/GO_0030424": "NIF_Subcellular:sao1770195789",
-          "http://purl.obolibrary.org/obo/GO_0043005": "NIF_Subcellular:sao867568886",
-          "http://purl.obolibrary.org/obo/GO_0044303": "NIF_Subcellular:sao1470140754",
-          "http://purl.obolibrary.org/obo/GO_0044307": "NIF_Subcellular:sao884265541",
-          "http://purl.obolibrary.org/obo/GO_1901589": "NIF_Subcellular:sao707332678"
-        }
-      },
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/external/BAO_NCBITaxon_import.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/external/BAO_NCBITaxon_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/external/BAO_NCIT_import.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/external/BAO_NCIT_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/external/BAO_PATO_import.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/external/BAO_PATO_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://www.bioassayontology.org/bao/external/BAO_UBERON_import.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/external/BAO_UBERON_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/UBERON_0000105": [
-          "ncithesaurus:Developmental_Stage"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0000160": [
-          "MESH:A03.492.411"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0000945": [
-          "MESH:A03.492.766"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001043": [
-          "MESH:A03.365"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001255": [
-          "MESH:A05.810.161"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0002114": [
-          "MESH:A03.492.411.620.270"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0002391": [
-          "MESH:A12.207.630"
-        ]
-      },
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "FBbt_root": {
-          "http://purl.obolibrary.org/obo/UBERON_0001062": "FBbt_root:00000000"
+        "VZ": {
+          "http://purl.obolibrary.org/obo/GO_0046718": "VZ:936"
         },
         "ncithesaurus": {
           "http://purl.obolibrary.org/obo/UBERON_0000105": "ncithesaurus:Developmental_Stage"
@@ -9424,8 +8605,8 @@
           "http://purl.obolibrary.org/obo/UBERON_0002391": "GAID:1186"
         },
         "OGES": {
-          "http://purl.obolibrary.org/obo/UBERON_0000068": "OGES:000022",
-          "http://purl.obolibrary.org/obo/UBERON_0000109": "OGES:000019",
+          "http://purl.obolibrary.org/obo/UBERON_0000068": "OGES:000000",
+          "http://purl.obolibrary.org/obo/UBERON_0000109": "OGES:000004",
           "http://purl.obolibrary.org/obo/UBERON_0000113": "OGES:000026"
         },
         "OpenCyc": {
@@ -9443,7 +8624,7 @@
           "http://purl.obolibrary.org/obo/UBERON_0001043": "OpenCyc:Mx4rvVj9Q5wpEbGdrcN5Y29ycA",
           "http://purl.obolibrary.org/obo/UBERON_0001255": "OpenCyc:Mx4rvVjMmZwpEbGdrcN5Y29ycA",
           "http://purl.obolibrary.org/obo/UBERON_0001264": "OpenCyc:Mx4rvVimZZwpEbGdrcN5Y29ycA",
-          "http://purl.obolibrary.org/obo/UBERON_0001474": "OpenCyc:Mx4rvViDlpwpEbGdrcN5Y29ycA",
+          "http://purl.obolibrary.org/obo/UBERON_0001474": "OpenCyc:Mx4rvVkCG5wpEbGdrcN5Y29ycA",
           "http://purl.obolibrary.org/obo/UBERON_0001969": "OpenCyc:Mx4rEg4ZYrIbEduAAAAOpmP6tw",
           "http://purl.obolibrary.org/obo/UBERON_0002046": "OpenCyc:Mx4rvVjLT5wpEbGdrcN5Y29ycA",
           "http://purl.obolibrary.org/obo/UBERON_0002048": "OpenCyc:Mx4rvVjKy5wpEbGdrcN5Y29ycA",
@@ -9460,30 +8641,6 @@
           "http://purl.obolibrary.org/obo/UBERON_0007811": "WikipediaCategory:Head_and_neck"
         }
       }
-    }
-  },
-  "http://www.bioassayontology.org/bao/external/bao_UO_import.owl": {
-    "graph_id": "http://www.bioassayontology.org/bao/external/bao_UO_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
     }
   }
 }

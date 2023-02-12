@@ -1,6 +1,6 @@
 {
-  "http://purl.obolibrary.org/obo/geno.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/geno.owl",
+  "http://purl.obolibrary.org/obo/geno.json": {
+    "graph_id": "http://purl.obolibrary.org/obo/geno.json",
     "prov_pack": {
       "invalid_luids": {},
       "label": "Provenance Xrefs",
@@ -16,7 +16,7 @@
       "unknown_prefixes": {}
     },
     "version": "2022-08-10",
-    "version_iri": "http://purl.obolibrary.org/obo/geno/releases/2022-08-10/geno.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/geno/releases/2022-08-10/geno.json",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/GENO_0000010": [

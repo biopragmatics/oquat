@@ -29506,7 +29506,7 @@
       "unknown_prefixes": {}
     },
     "version": "releases",
-    "version_iri": "http://purl.obolibrary.org/obo/mp/releases/2022-08-04",
+    "version_iri": "http://purl.obolibrary.org/obo/mp/releases/2023-02-02",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/MP_0009875": [

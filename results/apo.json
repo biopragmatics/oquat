@@ -935,8 +935,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2022-07-06",
-    "version_iri": "http://purl.obolibrary.org/obo/apo/releases/2022-07-06/apo.owl",
+    "version": "2023-01-30",
+    "version_iri": "http://purl.obolibrary.org/obo/apo/releases/2023-01-30/apo.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/APO_0000244": [

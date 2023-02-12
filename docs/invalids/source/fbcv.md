@@ -26,7 +26,7 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------|----------------|-------------------------------------------------------------|
 | `SO:ma`         |              1 | [FBcv:0003013](http://purl.obolibrary.org/obo/FBcv_0003013) |
 
-## `WB_REF`: WormBase database of nematode biology
+## `WB_REF`: Wormbase Gene ID
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `WB_REF` (standardized to Bioregistry

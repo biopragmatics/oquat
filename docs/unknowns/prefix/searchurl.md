@@ -4,5 +4,5 @@
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                              |
 |-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| search-url: |       69 | [MI:0244](http://purl.obolibrary.org/obo/MI_0244), [MI:0245](http://purl.obolibrary.org/obo/MI_0245), [MI:0246](http://purl.obolibrary.org/obo/MI_0246), [MI:0247](http://purl.obolibrary.org/obo/MI_0247), [MI:0248](http://purl.obolibrary.org/obo/MI_0248), ... |
+| search-url: |       72 | [MI:0244](http://purl.obolibrary.org/obo/MI_0244), [MI:0245](http://purl.obolibrary.org/obo/MI_0245), [MI:0246](http://purl.obolibrary.org/obo/MI_0246), [MI:0247](http://purl.obolibrary.org/obo/MI_0247), [MI:0248](http://purl.obolibrary.org/obo/MI_0248), ... |
 

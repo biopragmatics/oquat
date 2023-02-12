@@ -39,16 +39,29 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `KEGG`: Kyoto Encyclopedia of Genes and Genomes
 
-Overall, there were 3 invalid
+Overall, there were 27 invalid
 xrefs to external prefixed with `KEGG` (standardized to Bioregistry
 prefix [`kegg`](https://bioregistry.io/kegg)) that
 did not match the standard pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`.
 
-| external_xref   |   usages_count | usages                                                  |
-|-----------------|----------------|---------------------------------------------------------|
-| `KEGG:00620`    |              1 | [PW:0000043](http://purl.obolibrary.org/obo/PW_0000043) |
-| `KEGG:00232`    |              1 | [PW:0001153](http://purl.obolibrary.org/obo/PW_0001153) |
-| `KEGG:00531`    |              1 | [PW:0001154](http://purl.obolibrary.org/obo/PW_0001154) |
+| external_xref                                                 |   usages_count | usages                                                                                                                                                                                                                                                                                           |
+|---------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `KEGG:http://www.genome.jp/kegg-bin/get_htext?br08303.keg`    |             10 | [PW:0000919](http://purl.obolibrary.org/obo/PW_0000919), [PW:0000920](http://purl.obolibrary.org/obo/PW_0000920), [PW:0000921](http://purl.obolibrary.org/obo/PW_0000921), [PW:0000922](http://purl.obolibrary.org/obo/PW_0000922), [PW:0000923](http://purl.obolibrary.org/obo/PW_0000923), ... |
+| `KEGG:http://www.genome.jp/kegg/`                             |              3 | [PW:0000011](http://purl.obolibrary.org/obo/PW_0000011), [PW:0000754](http://purl.obolibrary.org/obo/PW_0000754), [PW:0001077](http://purl.obolibrary.org/obo/PW_0001077)                                                                                                                        |
+| `KEGG:00620`                                                  |              1 | [PW:0000043](http://purl.obolibrary.org/obo/PW_0000043)                                                                                                                                                                                                                                          |
+| `KEGG:http://www.genome.jp/kegg/pathway.html#xenobiotics`     |              1 | [PW:0000107](http://purl.obolibrary.org/obo/PW_0000107)                                                                                                                                                                                                                                          |
+| `KEGG:map4910`                                                |              1 | [PW:0000143](http://purl.obolibrary.org/obo/PW_0000143)                                                                                                                                                                                                                                          |
+| `KEGG:http://www.genome.ad.jp/kegg/pathway/map/map00040.html` |              1 | [PW:0000188](http://purl.obolibrary.org/obo/PW_0000188)                                                                                                                                                                                                                                          |
+| `KEGG:http://umbbd.msi.umn.edu/ddt/ddt_map.html`              |              1 | [PW:0000519](http://purl.obolibrary.org/obo/PW_0000519)                                                                                                                                                                                                                                          |
+| `KEGG:http://umbbd.msi.umn.edu/dcb/dcb_map.html`              |              1 | [PW:0000520](http://purl.obolibrary.org/obo/PW_0000520)                                                                                                                                                                                                                                          |
+| `KEGG:http://umbbd.msi.umn.edu/dce/dce_map.html`              |              1 | [PW:0000521](http://purl.obolibrary.org/obo/PW_0000521)                                                                                                                                                                                                                                          |
+| `KEGG:map5140`                                                |              1 | [PW:0001047](http://purl.obolibrary.org/obo/PW_0001047)                                                                                                                                                                                                                                          |
+| `KEGG:map5142`                                                |              1 | [PW:0001048](http://purl.obolibrary.org/obo/PW_0001048)                                                                                                                                                                                                                                          |
+| `KEGG:map5143`                                                |              1 | [PW:0001049](http://purl.obolibrary.org/obo/PW_0001049)                                                                                                                                                                                                                                          |
+| `KEGG:map5146`                                                |              1 | [PW:0001053](http://purl.obolibrary.org/obo/PW_0001053)                                                                                                                                                                                                                                          |
+| `KEGG:00232`                                                  |              1 | [PW:0001153](http://purl.obolibrary.org/obo/PW_0001153)                                                                                                                                                                                                                                          |
+| `KEGG:00531`                                                  |              1 | [PW:0001154](http://purl.obolibrary.org/obo/PW_0001154)                                                                                                                                                                                                                                          |
+| `KEGG:http://www.genome.jp/dbget-bin/www_bget?cpd:C09747`     |              1 | [PW:0001322](http://purl.obolibrary.org/obo/PW_0001322)                                                                                                                                                                                                                                          |
 
 ## `MeSH`: Medical Subject Headings
 
@@ -103,7 +116,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:OMIM`                              |              3 | [PW:0000625](http://purl.obolibrary.org/obo/PW_0000625), [PW:0000627](http://purl.obolibrary.org/obo/PW_0000627), [PW:0000631](http://purl.obolibrary.org/obo/PW_0000631) |
 | `OMIM:https://www.omim.org/entry/201710` |              1 | [PW:0001479](http://purl.obolibrary.org/obo/PW_0001479)                                                                                                                   |
 
-## `PMID`: PubMed
+## `PMID`: PubMed ID
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
@@ -127,7 +140,7 @@ did not match the standard pattern `^\d+$`.
 |------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `PubChem:https://pubchem.ncbi.nlm.nih.gov/compound/hydroflumethiazide` |              3 | [PW:0002377](http://purl.obolibrary.org/obo/PW_0002377), [PW:0002378](http://purl.obolibrary.org/obo/PW_0002378), [PW:0002379](http://purl.obolibrary.org/obo/PW_0002379) |
 
-## `PubMed`: PubMed
+## `PubMed`: PubMed ID
 
 Overall, there were 16 invalid
 xrefs to external prefixed with `PubMed` (standardized to Bioregistry
@@ -151,7 +164,7 @@ did not match the standard pattern `^\d+$`.
 | `PubMed:Annu. Rev. Neursci. 2003, v26, 701-28.`                               |              1 | [PW:0000274](http://purl.obolibrary.org/obo/PW_0000274)                                                          |
 | `PubMed:Several articles`                                                     |              1 | [PW:0000668](http://purl.obolibrary.org/obo/PW_0000668)                                                          |
 
-## `Pubmed`: PubMed
+## `Pubmed`: PubMed ID
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `Pubmed` (standardized to Bioregistry

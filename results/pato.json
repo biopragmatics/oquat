@@ -33,9 +33,6 @@
         "http://purl.obolibrary.org/obo/PATO_0000428": [
           "PATO:MAH"
         ],
-        "http://purl.obolibrary.org/obo/PATO_0000644": [
-          "Wikipedia:http://en.wikipedia.org/wiki/Hyperplastic"
-        ],
         "http://purl.obolibrary.org/obo/PATO_0000647": [
           "Wikipedia:http://en.wikipedia.org/wiki/Necrotic"
         ],
@@ -2147,8 +2144,8 @@
         }
       }
     },
-    "version": "2022-08-10",
-    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-08-10/pato.owl",
+    "version": "2022-12-15",
+    "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-12-15/pato.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/PATO_0001555": [

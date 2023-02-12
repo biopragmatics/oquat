@@ -1,6 +1,6 @@
 {
-  "http://purl.obolibrary.org/obo/ddpheno.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/ddpheno.owl",
+  "http://purl.obolibrary.org/obo/ddpheno.json": {
+    "graph_id": "http://purl.obolibrary.org/obo/ddpheno.json",
     "prov_pack": {
       "invalid_luids": {},
       "label": "Provenance Xrefs",
@@ -1166,7 +1166,7 @@
       }
     },
     "version": "2022-01-19",
-    "version_iri": "http://purl.obolibrary.org/obo/ddpheno/releases/2022-01-19/ddpheno.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/ddpheno/releases/2022-01-19/ddpheno.json",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

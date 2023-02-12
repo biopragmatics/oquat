@@ -103,7 +103,7 @@ did not match the standard pattern `^[A-Z]{2,4}\d+([A-Z])?([0-9])?$`.
 |----------------------------|----------------|----------------------------------------------------------------------------------------------------------------------|
 | `Patent:CA_Patent_2469027` |              2 | [BTO:0004841](http://purl.obolibrary.org/obo/BTO_0004841), [BTO:0004952](http://purl.obolibrary.org/obo/BTO_0004952) |
 
-## `PMID`: PubMed
+## `PMID`: PubMed ID
 
 Overall, there were 7 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
@@ -120,7 +120,7 @@ did not match the standard pattern `^\d+$`.
 | `PMID:  29991048` |              1 | [BTO:0006394](http://purl.obolibrary.org/obo/BTO_0006394) |
 | `PMID: 9522462`   |              1 | [BTO:0006473](http://purl.obolibrary.org/obo/BTO_0006473) |
 
-## `WormBase`: WormBase database of nematode biology
+## `WormBase`: Wormbase Gene ID
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `WormBase` (standardized to Bioregistry
@@ -131,7 +131,7 @@ did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 |-------------------------------------|----------------|-----------------------------------------------------------|
 | `WormBase:http://www.wormbase.org/` |              1 | [BTO:0003039](http://purl.obolibrary.org/obo/BTO_0003039) |
 
-## `Wormbase`: WormBase database of nematode biology
+## `Wormbase`: Wormbase Gene ID
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `Wormbase` (standardized to Bioregistry

@@ -2,8 +2,16 @@
 
 This page summarize the different resources that reference `to`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 3 resources,
+`^\d{7}$`. Of the 4 resources,
 1 variants on the standard prefix were found: ['TO'].
+
+## `nif`: None
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref   |   usages_count | usages                                                                                                                   |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------|
+| `TO:TO`         |              2 | [PATO:0001540](http://purl.obolibrary.org/obo/PATO_0001540), [PATO:0001541](http://purl.obolibrary.org/obo/PATO_0001541) |
 
 ## `pato`: Phenotype And Trait Ontology
 

@@ -28,17 +28,17 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `HPO`: Human Phenotype Ontology
 
-Overall, there were 7,564 invalid
+Overall, there were 7,544 invalid
 xrefs to external prefixed with `HPO` (standardized to Bioregistry
 prefix [`hp`](https://bioregistry.io/hp)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref            |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |--------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `HPO:probinson`          |           5438 | [HP:0000002](http://purl.obolibrary.org/obo/HP_0000002), [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005), [HP:0000007](http://purl.obolibrary.org/obo/HP_0000007), [HP:0000008](http://purl.obolibrary.org/obo/HP_0000008), [HP:0000009](http://purl.obolibrary.org/obo/HP_0000009), ... |
-| `HPO:curators`           |            921 | [HP:0000003](http://purl.obolibrary.org/obo/HP_0000003), [HP:0000006](http://purl.obolibrary.org/obo/HP_0000006), [HP:0000037](http://purl.obolibrary.org/obo/HP_0000037), [HP:0000063](http://purl.obolibrary.org/obo/HP_0000063), [HP:0000073](http://purl.obolibrary.org/obo/HP_0000073), ... |
-| `HPO:sdoelken`           |            474 | [HP:0000017](http://purl.obolibrary.org/obo/HP_0000017), [HP:0000017](http://purl.obolibrary.org/obo/HP_0000017), [HP:0000020](http://purl.obolibrary.org/obo/HP_0000020), [HP:0000196](http://purl.obolibrary.org/obo/HP_0000196), [HP:0000206](http://purl.obolibrary.org/obo/HP_0000206), ... |
-| `HPO:skoehler`           |            385 | [HP:0000006](http://purl.obolibrary.org/obo/HP_0000006), [HP:0000007](http://purl.obolibrary.org/obo/HP_0000007), [HP:0000010](http://purl.obolibrary.org/obo/HP_0000010), [HP:0000015](http://purl.obolibrary.org/obo/HP_0000015), [HP:0000055](http://purl.obolibrary.org/obo/HP_0000055), ... |
+| `HPO:probinson`          |           5434 | [HP:0000002](http://purl.obolibrary.org/obo/HP_0000002), [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005), [HP:0000007](http://purl.obolibrary.org/obo/HP_0000007), [HP:0000008](http://purl.obolibrary.org/obo/HP_0000008), [HP:0000009](http://purl.obolibrary.org/obo/HP_0000009), ... |
+| `HPO:curators`           |            906 | [HP:0000003](http://purl.obolibrary.org/obo/HP_0000003), [HP:0000006](http://purl.obolibrary.org/obo/HP_0000006), [HP:0000037](http://purl.obolibrary.org/obo/HP_0000037), [HP:0000063](http://purl.obolibrary.org/obo/HP_0000063), [HP:0000073](http://purl.obolibrary.org/obo/HP_0000073), ... |
+| `HPO:sdoelken`           |            473 | [HP:0000017](http://purl.obolibrary.org/obo/HP_0000017), [HP:0000017](http://purl.obolibrary.org/obo/HP_0000017), [HP:0000020](http://purl.obolibrary.org/obo/HP_0000020), [HP:0000196](http://purl.obolibrary.org/obo/HP_0000196), [HP:0000206](http://purl.obolibrary.org/obo/HP_0000206), ... |
+| `HPO:skoehler`           |            384 | [HP:0000006](http://purl.obolibrary.org/obo/HP_0000006), [HP:0000007](http://purl.obolibrary.org/obo/HP_0000007), [HP:0000010](http://purl.obolibrary.org/obo/HP_0000010), [HP:0000015](http://purl.obolibrary.org/obo/HP_0000015), [HP:0000055](http://purl.obolibrary.org/obo/HP_0000055), ... |
 | `HPO:ibailleulforestier` |            107 | [HP:0000164](http://purl.obolibrary.org/obo/HP_0000164), [HP:0000222](http://purl.obolibrary.org/obo/HP_0000222), [HP:0000225](http://purl.obolibrary.org/obo/HP_0000225), [HP:0000668](http://purl.obolibrary.org/obo/HP_0000668), [HP:0000674](http://purl.obolibrary.org/obo/HP_0000674), ... |
 | `HPO:jalbers`            |             91 | [HP:0001326](http://purl.obolibrary.org/obo/HP_0001326), [HP:0002123](http://purl.obolibrary.org/obo/HP_0002123), [HP:0002133](http://purl.obolibrary.org/obo/HP_0002133), [HP:0002392](http://purl.obolibrary.org/obo/HP_0002392), [HP:0007332](http://purl.obolibrary.org/obo/HP_0007332), ... |
 | `HPO:gcarletti`          |             71 | [HP:0000573](http://purl.obolibrary.org/obo/HP_0000573), [HP:0001342](http://purl.obolibrary.org/obo/HP_0001342), [HP:0001987](http://purl.obolibrary.org/obo/HP_0001987), [HP:0001988](http://purl.obolibrary.org/obo/HP_0001988), [HP:0002148](http://purl.obolibrary.org/obo/HP_0002148), ... |
@@ -46,9 +46,9 @@ did not match the standard pattern `^\d{7}$`.
 | `HPO:pnrobinson`         |              7 | [HP:0000264](http://purl.obolibrary.org/obo/HP_0000264), [HP:0002033](http://purl.obolibrary.org/obo/HP_0002033), [HP:0002069](http://purl.obolibrary.org/obo/HP_0002069), [HP:0002384](http://purl.obolibrary.org/obo/HP_0002384), [HP:0002680](http://purl.obolibrary.org/obo/HP_0002680), ... |
 | `HPO:SKOEHLER`           |              7 | [HP:0001052](http://purl.obolibrary.org/obo/HP_0001052), [HP:0002745](http://purl.obolibrary.org/obo/HP_0002745), [HP:0003355](http://purl.obolibrary.org/obo/HP_0003355), [HP:0200032](http://purl.obolibrary.org/obo/HP_0200032), [HP:0200032](http://purl.obolibrary.org/obo/HP_0200032), ... |
 | `HPO:nvasilevsky`        |              5 | [HP:0031783](http://purl.obolibrary.org/obo/HP_0031783), [HP:0031885](http://purl.obolibrary.org/obo/HP_0031885), [HP:0033031](http://purl.obolibrary.org/obo/HP_0033031), [HP:0033055](http://purl.obolibrary.org/obo/HP_0033055), [HP:0033056](http://purl.obolibrary.org/obo/HP_0033056)      |
+| `HPO:mhaendel`           |              4 | [HP:0001694](http://purl.obolibrary.org/obo/HP_0001694), [HP:0012382](http://purl.obolibrary.org/obo/HP_0012382), [HP:0012383](http://purl.obolibrary.org/obo/HP_0012383), [HP:0030952](http://purl.obolibrary.org/obo/HP_0030952)                                                               |
 | `HPO:curator`            |              4 | [HP:0009153](http://purl.obolibrary.org/obo/HP_0009153), [HP:0009178](http://purl.obolibrary.org/obo/HP_0009178), [HP:0009186](http://purl.obolibrary.org/obo/HP_0009186), [HP:0010043](http://purl.obolibrary.org/obo/HP_0010043)                                                               |
 | `HPO:ihelbig`            |              4 | [HP:0011150](http://purl.obolibrary.org/obo/HP_0011150), [HP:0011152](http://purl.obolibrary.org/obo/HP_0011152), [HP:0011168](http://purl.obolibrary.org/obo/HP_0011168), [HP:0012469](http://purl.obolibrary.org/obo/HP_0012469)                                                               |
-| `HPO:mhaendel`           |              3 | [HP:0001694](http://purl.obolibrary.org/obo/HP_0001694), [HP:0012382](http://purl.obolibrary.org/obo/HP_0012382), [HP:0012383](http://purl.obolibrary.org/obo/HP_0012383)                                                                                                                        |
 | `HPO:jbaets`             |              3 | [HP:0003130](http://purl.obolibrary.org/obo/HP_0003130), [HP:0007233](http://purl.obolibrary.org/obo/HP_0007233), [HP:0030176](http://purl.obolibrary.org/obo/HP_0030176)                                                                                                                        |
 | `HPO:vkumar`             |              3 | [HP:0010693](http://purl.obolibrary.org/obo/HP_0010693), [HP:0010920](http://purl.obolibrary.org/obo/HP_0010920), [HP:0010921](http://purl.obolibrary.org/obo/HP_0010921)                                                                                                                        |
 | `HPO:mtaboada`           |              3 | [HP:0020035](http://purl.obolibrary.org/obo/HP_0020035), [HP:0020036](http://purl.obolibrary.org/obo/HP_0020036), [HP:0020037](http://purl.obolibrary.org/obo/HP_0020037)                                                                                                                        |
@@ -82,7 +82,7 @@ did not match the standard pattern `^\d{7}$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `ICD-10` (standardized to Bioregistry
 prefix [`icd10`](https://bioregistry.io/icd10)) that
-did not match the standard pattern `^[A-Z]\d+(\.[-\d+])?$`.
+did not match the standard pattern `^(([XVI]+)|([A-Z][0-9]+((-[A-Z][0-9]+)|(\.[0-9]))?))$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -144,7 +144,7 @@ did not match the standard pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`.
 |----------------------------|----------------|---------------------------------------------------------|
 | `ORCID:000-0002-6670-9157` |              1 | [HP:0002673](http://purl.obolibrary.org/obo/HP_0002673) |
 
-## `PMID`: PubMed
+## `PMID`: PubMed ID
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
@@ -169,4 +169,15 @@ did not match the standard pattern `^\d{4,}$`.
 | `RGD:gthayman`  |             11 | [HP:0031817](http://purl.obolibrary.org/obo/HP_0031817), [HP:0031820](http://purl.obolibrary.org/obo/HP_0031820), [HP:0031831](http://purl.obolibrary.org/obo/HP_0031831), [HP:0031835](http://purl.obolibrary.org/obo/HP_0031835), [HP:0031836](http://purl.obolibrary.org/obo/HP_0031836), ... |
 | `RGD:SJWang`    |              3 | [HP:0020182](http://purl.obolibrary.org/obo/HP_0020182), [HP:0020183](http://purl.obolibrary.org/obo/HP_0020183), [HP:0020184](http://purl.obolibrary.org/obo/HP_0020184)                                                                                                                        |
 | `RGD:gth`       |              2 | [HP:0031421](http://purl.obolibrary.org/obo/HP_0031421), [HP:0031423](http://purl.obolibrary.org/obo/HP_0031423)                                                                                                                                                                                 |
+
+## `UMLS`: Unified Medical Language System Concept Unique Identifier
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `UMLS` (standardized to Bioregistry
+prefix [`umls`](https://bioregistry.io/umls)) that
+did not match the standard pattern `^C\d+$`.
+
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `UMLS:0189573`  |              1 | [HP:0034420](http://purl.obolibrary.org/obo/HP_0034420) |
 

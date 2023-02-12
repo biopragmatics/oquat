@@ -15,6 +15,18 @@ did not match the standard pattern `^[0-9]{10}$`.
 |-------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `ASIN:B000M4NK9M` |             18 | [PLANA:0000224](http://purl.obolibrary.org/obo/PLANA_0000224), [PLANA:0000224](http://purl.obolibrary.org/obo/PLANA_0000224), [PLANA:0000241](http://purl.obolibrary.org/obo/PLANA_0000241), [PLANA:0000241](http://purl.obolibrary.org/obo/PLANA_0000241), [PLANA:0000472](http://purl.obolibrary.org/obo/PLANA_0000472), ... |
 
+## `CALOHA`: CALIPHO Group Ontology of Human Anatomy
+
+Overall, there were 2 invalid
+xrefs to external prefixed with `CALOHA` (standardized to Bioregistry
+prefix [`caloha`](https://bioregistry.io/caloha)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref    |   usages_count | usages                                                        |
+|------------------|----------------|---------------------------------------------------------------|
+| `CALOHA:TS-2403` |              1 | [PLANA:0000470](http://purl.obolibrary.org/obo/PLANA_0000470) |
+| `CALOHA:TS-2035` |              1 | [PLANA:0000499](http://purl.obolibrary.org/obo/PLANA_0000499) |
+
 ## `ncithesaurus`: NCI Thesaurus
 
 Overall, there were 1 invalid
@@ -37,7 +49,7 @@ did not match the standard pattern `^\d+$`.
 |---------------------------------|----------------|---------------------------------------------------------------|
 | `NIF_Subcellular:sao1397492660` |              1 | [PLANA:0001005](http://purl.obolibrary.org/obo/PLANA_0001005) |
 
-## `PMID`: PubMed
+## `PMID`: PubMed ID
 
 Overall, there were 7 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry

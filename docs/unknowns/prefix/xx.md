@@ -14,12 +14,10 @@
 
 ## idomal
 
-| curie       |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| XX:PAM-ADD  |        7 | [CL:0000492](http://purl.obolibrary.org/obo/CL_0000492), [CL:0000545](http://purl.obolibrary.org/obo/CL_0000545), [CL:0000546](http://purl.obolibrary.org/obo/CL_0000546), [CL:0000794](http://purl.obolibrary.org/obo/CL_0000794), [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910), ... |
-| XX:RHS      |        1 | [CL:0000945](http://purl.obolibrary.org/obo/CL_0000945)                                                                                                                                                                                                                                          |
-| XX:12034462 |        1 | [IDOMAL:0001122](http://purl.obolibrary.org/obo/IDOMAL_0001122)                                                                                                                                                                                                                                  |
-| XX:         |        1 | [IDOMAL:0001133](http://purl.obolibrary.org/obo/IDOMAL_0001133)                                                                                                                                                                                                                                  |
+| curie       |   usages | nodes                                                           |
+|-------------|----------|-----------------------------------------------------------------|
+| XX:12034462 |        1 | [IDOMAL:0001122](http://purl.obolibrary.org/obo/IDOMAL_0001122) |
+| XX:         |        1 | [IDOMAL:0001133](http://purl.obolibrary.org/obo/IDOMAL_0001133) |
 
 ## fbbi
 
@@ -28,11 +26,23 @@
 | XX:ISBN978-087969683-2 |        1 | [FBbi:00000025](http://purl.obolibrary.org/obo/FBbi_00000025) |
 | XX:-new-dbxref-        |        1 | [FBbi:00000366](http://purl.obolibrary.org/obo/FBbi_00000366) |
 
+## nif
+
+| curie                                                                     |   usages | nodes                                                   |
+|---------------------------------------------------------------------------|----------|---------------------------------------------------------|
+| XX:www.ensembl.org/info/genome/variation/predicted_data.html#consequences |        1 | [SO:0001620](http://purl.obolibrary.org/obo/SO_0001620) |
+
 ## cco
 
 | curie   |   usages | nodes                                                                                                |
 |---------|----------|------------------------------------------------------------------------------------------------------|
 | XX:     |        2 | [MI:1279](http://purl.obolibrary.org/obo/MI_1279), [MI:1280](http://purl.obolibrary.org/obo/MI_1280) |
+
+## vsmo
+
+| curie           |   usages | nodes                                                       |
+|-----------------|----------|-------------------------------------------------------------|
+| XX:<new dbxref> |        1 | [VSMO:0001216](http://purl.obolibrary.org/obo/VSMO_0001216) |
 
 ## dermo
 

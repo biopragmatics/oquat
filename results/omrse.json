@@ -15,8 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2020-10-27",
-    "version_iri": "http://purl.obolibrary.org/obo/omrse/releases/2022-04-06/omrse.owl",
+    "version": "2022-12-21",
+    "version_iri": "http://purl.obolibrary.org/obo/omrse/releases/2022-12-21/omrse.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

@@ -15,8 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2022-07-11",
-    "version_iri": "http://purl.obolibrary.org/obo/obi/2022-07-11/obi.owl",
+    "version": "2022-12-14",
+    "version_iri": "http://purl.obolibrary.org/obo/obi/2022-12-14/obi.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

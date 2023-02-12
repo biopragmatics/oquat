@@ -36,13 +36,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2020-04-13",
-    "version_iri": "http://purl.obolibrary.org/obo/mi/releases/2020-04-13/mi.owl",
     "xref_pack": {
       "invalid_luids": {
-        "http://purl.obolibrary.org/obo/MI_1276": [
-          "psi-mi:MI:1285"
-        ],
         "http://purl.obolibrary.org/obo/MI_2236": [
           "GO:GO:0044093"
         ],
@@ -58,11 +53,7 @@
       },
       "label": "Node Xrefs",
       "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "psi-mi": {
-          "http://purl.obolibrary.org/obo/MI_1276": "psi-mi:MI:1285"
-        }
-      },
+      "noncanonical_prefixes": {},
       "unknown_prefixes": {
         "id-validation-regex": {
           "http://purl.obolibrary.org/obo/MI_2350": "id-validation-regex:"
@@ -166,6 +157,7 @@
           "http://purl.obolibrary.org/obo/MI_0465": "search-url:",
           "http://purl.obolibrary.org/obo/MI_0467": "search-url:",
           "http://purl.obolibrary.org/obo/MI_0469": "search-url:",
+          "http://purl.obolibrary.org/obo/MI_0471": "search-url:",
           "http://purl.obolibrary.org/obo/MI_0472": "search-url:",
           "http://purl.obolibrary.org/obo/MI_0474": "search-url:",
           "http://purl.obolibrary.org/obo/MI_0475": "search-url:",
@@ -191,6 +183,7 @@
           "http://purl.obolibrary.org/obo/MI_0942": "search-url:",
           "http://purl.obolibrary.org/obo/MI_0967": "search-url:",
           "http://purl.obolibrary.org/obo/MI_1013": "search-url:",
+          "http://purl.obolibrary.org/obo/MI_1042": "search-url:",
           "http://purl.obolibrary.org/obo/MI_1098": "search-url:",
           "http://purl.obolibrary.org/obo/MI_1099": "search-url:",
           "http://purl.obolibrary.org/obo/MI_1317": "search-url:",
@@ -218,7 +211,8 @@
           "http://purl.obolibrary.org/obo/MI_2344": "search-url:",
           "http://purl.obolibrary.org/obo/MI_2347": "search-url:",
           "http://purl.obolibrary.org/obo/MI_2349": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2350": "search-url:"
+          "http://purl.obolibrary.org/obo/MI_2350": "search-url:",
+          "http://purl.obolibrary.org/obo/MI_2358": "search-url:"
         },
         "url": {
           "http://purl.obolibrary.org/obo/MI_1262": "url:http://iid.ophid.utoronto.ca/iid/",

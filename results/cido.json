@@ -2,7 +2,23 @@
   "http://purl.obolibrary.org/obo/cido.owl": {
     "graph_id": "http://purl.obolibrary.org/obo/cido.owl",
     "prov_pack": {
-      "invalid_luids": {},
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/CIDO_0001169": [
+          "VariO:mv"
+        ],
+        "http://purl.obolibrary.org/obo/CIDO_0001170": [
+          "VariO:mv"
+        ],
+        "http://purl.obolibrary.org/obo/CIDO_0001171": [
+          "VariO:mv"
+        ],
+        "http://purl.obolibrary.org/obo/CIDO_0001172": [
+          "VariO:mv"
+        ],
+        "http://purl.obolibrary.org/obo/CIDO_0001173": [
+          "VariO:mv"
+        ]
+      },
       "label": "Provenance Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},
@@ -15,7 +31,7 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "1.0.337",
+    "version": "1.0.367",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

@@ -6,13 +6,7 @@
       "label": "Provenance Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "GOC": {
-          "http://purl.obolibrary.org/obo/GO_0008150": "GOC:isa_complete",
-          "http://purl.obolibrary.org/obo/GO_0040011": "GOC:dgh",
-          "http://purl.obolibrary.org/obo/GO_0060361": "GOC:dph"
-        }
-      }
+      "unknown_prefixes": {}
     },
     "synonym_pack": {
       "invalid_luids": {},
@@ -23,126 +17,6 @@
     },
     "version": "2016-01-12",
     "version_iri": "http://purl.obolibrary.org/obo/ceph/releases/2016-01-12/ceph.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/ceph/imports/imports/cl_import.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/ceph/imports/imports/cl_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/ceph/imports/imports/go_import.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/ceph/imports/imports/go_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/ceph/imports/imports/uberon_import.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/ceph/imports/imports/uberon_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/ceph/imports/ro_import.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/ceph/imports/ro_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/ceph/taxonomy.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/ceph/taxonomy.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

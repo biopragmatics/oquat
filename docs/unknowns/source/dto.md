@@ -95,7 +95,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | OpenCyc:Mx4rvVj9Q5wpEbGdrcN5Y29ycA |        1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
 | OpenCyc:Mx4rvVjMmZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) |
 | OpenCyc:Mx4rvVimZZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001264](http://purl.obolibrary.org/obo/UBERON_0001264) |
-| OpenCyc:Mx4rvViDlpwpEbGdrcN5Y29ycA |        1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
+| OpenCyc:Mx4rvVkCG5wpEbGdrcN5Y29ycA |        1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
 | OpenCyc:Mx4rEg4ZYrIbEduAAAAOpmP6tw |        1 | [UBERON:0001969](http://purl.obolibrary.org/obo/UBERON_0001969) |
 | OpenCyc:Mx4rvVjLT5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) |
 | OpenCyc:Mx4rvVjKy5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
@@ -108,16 +108,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | OpenCyc:Mx4rvXYiz5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) |
 
 </details>
-
-## `WikipediaCategory`
-
-There are 1 usages of `WikipediaCategory` in `dto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaCategory).
-
-| curie                           |   usages | nodes                                                           |
-|---------------------------------|----------|-----------------------------------------------------------------|
-| WikipediaCategory:Head_and_neck |        1 | [UBERON:0007811](http://purl.obolibrary.org/obo/UBERON_0007811) |
 
 ## `SUBMITTER`
 
@@ -139,4 +129,14 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |--------------|----------|-----------------------------------------------------------|
 | UM-BBD:c0884 |        1 | [CHEBI:17996](http://purl.obolibrary.org/obo/CHEBI_17996) |
 | UM-BBD:c0017 |        1 | [CHEBI:30623](http://purl.obolibrary.org/obo/CHEBI_30623) |
+
+## `WikipediaCategory`
+
+There are 1 usages of `WikipediaCategory` in `dto`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaCategory).
+
+| curie                           |   usages | nodes                                                           |
+|---------------------------------|----------|-----------------------------------------------------------------|
+| WikipediaCategory:Head_and_neck |        1 | [UBERON:0007811](http://purl.obolibrary.org/obo/UBERON_0007811) |
 

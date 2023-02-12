@@ -29,7 +29,7 @@ did not match the standard pattern `^\d{4}-\d{3}[\dX]$`.
 |-------------------|----------------|-------------------------------------------------------------|
 | `ISSN:00931-3669` |              1 | [TGMA:0001124](http://purl.obolibrary.org/obo/TGMA_0001124) |
 
-## `PubMed`: PubMed
+## `PubMed`: PubMed ID
 
 Overall, there were 9 invalid
 xrefs to external prefixed with `PubMed` (standardized to Bioregistry

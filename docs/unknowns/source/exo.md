@@ -30,16 +30,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | GOC:hjd |        4 | [ExO:0000012](http://purl.obolibrary.org/obo/ExO_0000012), [ExO:0000031](http://purl.obolibrary.org/obo/ExO_0000031), [ExO:0000059](http://purl.obolibrary.org/obo/ExO_0000059), [ExO:0000060](http://purl.obolibrary.org/obo/ExO_0000060) |
 
-## `MSH2010_2010_02_22`
-
-There are 1 usages of `MSH2010_2010_02_22` in `exo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MSH2010_2010_02_22).
-
-| curie                      |   usages | nodes                                                     |
-|----------------------------|----------|-----------------------------------------------------------|
-| MSH2010_2010_02_22:D004194 |        1 | [ExO:0000079](http://purl.obolibrary.org/obo/ExO_0000079) |
-
 ## `SYOExO`
 
 There are 1 usages of `SYOExO` in `exo`.

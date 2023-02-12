@@ -751,6 +751,12 @@
         "NCBI_Gene": {
           "http://purl.obolibrary.org/obo/XCO_0000195": "NCBI_Gene:4340"
         },
+        "NCBI_GeneID": {
+          "http://purl.obolibrary.org/obo/XCO_0000286": "NCBI_GeneID:6295",
+          "http://purl.obolibrary.org/obo/XCO_0000287": "NCBI_GeneID:5949",
+          "http://purl.obolibrary.org/obo/XCO_0000288": "NCBI_GeneID:5949",
+          "http://purl.obolibrary.org/obo/XCO_0000289": "NCBI_GeneID:5949"
+        },
         "NCI Thesaurus": {
           "http://purl.obolibrary.org/obo/XCO_0000620": "NCI Thesaurus:https://ncit-stage.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C930&ns=ncit"
         },
@@ -1206,12 +1212,6 @@
           "http://purl.obolibrary.org/obo/XCO_0000300": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
           "http://purl.obolibrary.org/obo/XCO_0000332": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
           "http://purl.obolibrary.org/obo/XCO_0000333": "Multiple_Dictionaries:http://www.thefreedictionary.com/"
-        },
-        "NCBI_GeneID": {
-          "http://purl.obolibrary.org/obo/XCO_0000286": "NCBI_GeneID:6295",
-          "http://purl.obolibrary.org/obo/XCO_0000287": "NCBI_GeneID:5949",
-          "http://purl.obolibrary.org/obo/XCO_0000288": "NCBI_GeneID:5949",
-          "http://purl.obolibrary.org/obo/XCO_0000289": "NCBI_GeneID:5949"
         },
         "NIH": {
           "http://purl.obolibrary.org/obo/XCO_0000157": "NIH:http://grants.nih.gov/grants/olaw/Guide-for-the-care-and-use-of-Laboratory-animals.pdf",

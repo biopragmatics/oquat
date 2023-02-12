@@ -2,18 +2,8 @@
 
 This page summarize the different resources that reference `resid`
 but use local unique identifiers that do not match the standard pattern of
-`^AA\d{4}$`. Of the 2 resources,
+`^AA\d{4}$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['RESID'].
-
-## `go`: Gene Ontology
-
-Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
-
-| external_xref   |   usages_count | usages                                                  |
-|-----------------|----------------|---------------------------------------------------------|
-| `RESID:AA00167` |              1 | [GO:0018355](http://purl.obolibrary.org/obo/GO_0018355) |
-| `RESID:AA0`     |              1 | [GO:0018418](http://purl.obolibrary.org/obo/GO_0018418) |
-| `RESID:AA02376` |              1 | [GO:0051218](http://purl.obolibrary.org/obo/GO_0051218) |
 
 ## `mod`: Protein modification
 

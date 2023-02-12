@@ -4,6 +4,43 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `dto`. See the [GitHub repository](https://github.com/DrugTargetOntology/DTO).
 
 
+## `CALOHA`: CALIPHO Group Ontology of Human Anatomy
+
+Overall, there were 27 invalid
+xrefs to external prefixed with `CALOHA` (standardized to Bioregistry
+prefix [`caloha`](https://bioregistry.io/caloha)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref    |   usages_count | usages                                                          |
+|------------------|----------------|-----------------------------------------------------------------|
+| `CALOHA:TS-0134` |              1 | [UBERON:0000002](http://purl.obolibrary.org/obo/UBERON_0000002) |
+| `CALOHA:TS-1084` |              1 | [UBERON:0000056](http://purl.obolibrary.org/obo/UBERON_0000056) |
+| `CALOHA:TS-0490` |              1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
+| `CALOHA:TS-2083` |              1 | [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) |
+| `CALOHA:TS-1030` |              1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
+| `CALOHA:TS-0980` |              1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
+| `CALOHA:TS-0095` |              1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
+| `CALOHA:TS-0730` |              1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
+| `CALOHA:TS-1102` |              1 | [UBERON:0000995](http://purl.obolibrary.org/obo/UBERON_0000995) |
+| `CALOHA:TS-1168` |              1 | [UBERON:0000997](http://purl.obolibrary.org/obo/UBERON_0000997) |
+| `CALOHA:TS-1313` |              1 | [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) |
+| `CALOHA:TS-0700` |              1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
+| `CALOHA:TS-1090` |              1 | [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) |
+| `CALOHA:TS-0736` |              1 | [UBERON:0001264](http://purl.obolibrary.org/obo/UBERON_0001264) |
+| `CALOHA:TS-0088` |              1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
+| `CALOHA:TS-0800` |              1 | [UBERON:0001969](http://purl.obolibrary.org/obo/UBERON_0001969) |
+| `CALOHA:TS-1047` |              1 | [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) |
+| `CALOHA:TS-0568` |              1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
+| `CALOHA:TS-0934` |              1 | [UBERON:0002097](http://purl.obolibrary.org/obo/UBERON_0002097) |
+| `CALOHA:TS-0564` |              1 | [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) |
+| `CALOHA:TS-0394` |              1 | [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) |
+| `CALOHA:TS-0510` |              1 | [UBERON:0002113](http://purl.obolibrary.org/obo/UBERON_0002113) |
+| `CALOHA:TS-0214` |              1 | [UBERON:0002114](http://purl.obolibrary.org/obo/UBERON_0002114) |
+| `CALOHA:TS-0828` |              1 | [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) |
+| `CALOHA:TS-0016` |              1 | [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) |
+| `CALOHA:TS-0642` |              1 | [UBERON:0002385](http://purl.obolibrary.org/obo/UBERON_0002385) |
+| `CALOHA:TS-2356` |              1 | [UBERON:0007811](http://purl.obolibrary.org/obo/UBERON_0007811) |
+
 ## `ChEBI`: Chemical Entities of Biological Interest
 
 Overall, there were 1 invalid

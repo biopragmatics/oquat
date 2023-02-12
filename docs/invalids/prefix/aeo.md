@@ -14,14 +14,14 @@ Identifiers for this prefix are given incorrectly in `aeo`. See the [GitHub repo
 | `AEO:JB`        |            111 | [AEO:0000078](http://purl.obolibrary.org/obo/AEO_0000078), [AEO:0000079](http://purl.obolibrary.org/obo/AEO_0000079), [AEO:0000080](http://purl.obolibrary.org/obo/AEO_0000080), [AEO:0000081](http://purl.obolibrary.org/obo/AEO_0000081), [AEO:0000082](http://purl.obolibrary.org/obo/AEO_0000082), ... |
 | `AEO.:JB`       |              1 | [AEO:0000203](http://purl.obolibrary.org/obo/AEO_0000203)                                                                                                                                                                                                                                                  |
 
-## `ehdaa2`: Human developmental anatomy, abstract
+## `nif`: None
 
-Identifiers for this prefix are given incorrectly in `ehdaa2`. See the [GitHub repository](https://github.com/obophenotype/human-developmental-anatomy-ontology).
+Identifiers for this prefix are given incorrectly in `nif`.
 
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
-|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `AEO:JB`        |            111 | [AEO:0000078](http://purl.obolibrary.org/obo/AEO_0000078), [AEO:0000079](http://purl.obolibrary.org/obo/AEO_0000079), [AEO:0000080](http://purl.obolibrary.org/obo/AEO_0000080), [AEO:0000081](http://purl.obolibrary.org/obo/AEO_0000081), [AEO:0000082](http://purl.obolibrary.org/obo/AEO_0000082), ... |
-| `AEO.:JB`       |              1 | [AEO:0000203](http://purl.obolibrary.org/obo/AEO_0000203)                                                                                                                                                                                                                                                  |
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `AEO:JB`        |             30 | [UBERON:0001637](http://purl.obolibrary.org/obo/UBERON_0001637), [UBERON:0004016](http://purl.obolibrary.org/obo/UBERON_0004016), [UBERON:0005866](http://purl.obolibrary.org/obo/UBERON_0005866), [UBERON:0006846](http://purl.obolibrary.org/obo/UBERON_0006846), [UBERON:0007473](http://purl.obolibrary.org/obo/UBERON_0007473), ... |
+| `AEO:000020`    |              1 | [UBERON:0001013](http://purl.obolibrary.org/obo/UBERON_0001013)                                                                                                                                                                                                                                                                          |
 
 ## `uberon`: Uber Anatomy Ontology
 

@@ -898,3 +898,5 @@ FodyWeavers.xsd
 
 scratch/
 results/pr.json
+docs/_site
+docs/.jekyll-cache

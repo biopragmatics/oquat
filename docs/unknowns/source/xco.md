@@ -156,17 +156,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | Mosby:Mosbys_Medical_Dictionary--8th_Ed |       68 | [XCO:0000021](http://purl.obolibrary.org/obo/XCO_0000021), [XCO:0000042](http://purl.obolibrary.org/obo/XCO_0000042), [XCO:0000047](http://purl.obolibrary.org/obo/XCO_0000047), [XCO:0000048](http://purl.obolibrary.org/obo/XCO_0000048), [XCO:0000049](http://purl.obolibrary.org/obo/XCO_0000049), ... |
 | Mosby:Mosbys_Dental_Dictionary--2nd_Ed  |        2 | [XCO:0000341](http://purl.obolibrary.org/obo/XCO_0000341), [XCO:0000373](http://purl.obolibrary.org/obo/XCO_0000373)                                                                                                                                                                                       |
 
-## `NCBI_GeneID`
-
-There are 2 usages of `NCBI_GeneID` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NCBI_GeneID).
-
-| curie            |   usages | nodes                                                                                                                                                                           |
-|------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NCBI_GeneID:5949 |        3 | [XCO:0000287](http://purl.obolibrary.org/obo/XCO_0000287), [XCO:0000288](http://purl.obolibrary.org/obo/XCO_0000288), [XCO:0000289](http://purl.obolibrary.org/obo/XCO_0000289) |
-| NCBI_GeneID:6295 |        1 | [XCO:0000286](http://purl.obolibrary.org/obo/XCO_0000286)                                                                                                                       |
-
 ## `NIH`
 
 There are 1 usages of `NIH` in `xco`.

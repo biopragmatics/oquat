@@ -2,14 +2,7 @@
   "http://purl.obolibrary.org/obo/miro.owl": {
     "graph_id": "http://purl.obolibrary.org/obo/miro.owl",
     "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/OBO_REL#_has_quality": [
-          "COG:cjm"
-        ],
-        "http://purl.obolibrary.org/obo/OBO_REL#_inheres_in": [
-          "COG:cjm"
-        ]
-      },
+      "invalid_luids": {},
       "label": "Provenance Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {
@@ -21,10 +14,6 @@
         }
       },
       "unknown_prefixes": {
-        "GOC": {
-          "http://purl.obolibrary.org/obo/OBO_REL#_has_role": "GOC:cjm",
-          "http://purl.obolibrary.org/obo/OBO_REL_realizes": "GOC:cjm"
-        },
         "IRAC": {
           "http://purl.obolibrary.org/obo/MIRO_00000000": "IRAC:manual",
           "http://purl.obolibrary.org/obo/MIRO_00000006": "IRAC:manual",

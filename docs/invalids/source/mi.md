@@ -19,7 +19,7 @@ did not match the standard pattern `^\d{7}$`.
 | `GO:GO:0018322` |              1 | [MI:2272](http://purl.obolibrary.org/obo/MI_2272)                                                    |
 | `GO:GO:0018166` |              1 | [MI:2273](http://purl.obolibrary.org/obo/MI_2273)                                                    |
 
-## `PMID`: PubMed
+## `PMID`: PubMed ID
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
@@ -31,15 +31,4 @@ did not match the standard pattern `^\d+$`.
 | `PMID::17072308`   |              1 | [MI:0813](http://purl.obolibrary.org/obo/MI_0813) |
 | `PMID:ID:11604014` |              1 | [MI:1075](http://purl.obolibrary.org/obo/MI_1075) |
 | `PMID:13846364.`   |              1 | [MI:1197](http://purl.obolibrary.org/obo/MI_1197) |
-
-## `psi-mi`: Molecular Interactions Controlled Vocabulary
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `psi-mi` (standardized to Bioregistry
-prefix [`mi`](https://bioregistry.io/mi)) that
-did not match the standard pattern `^\d{4}$`.
-
-| external_xref    |   usages_count | usages                                            |
-|------------------|----------------|---------------------------------------------------|
-| `psi-mi:MI:1285` |              1 | [MI:1276](http://purl.obolibrary.org/obo/MI_1276) |
 

@@ -2515,6 +2515,15 @@
         "http://purl.obolibrary.org/obo/ECO_0006393": [
           "ECO:SN"
         ],
+        "http://purl.obolibrary.org/obo/ECO_0006395": [
+          "ECO:MG"
+        ],
+        "http://purl.obolibrary.org/obo/ECO_0006396": [
+          "ECO:SN"
+        ],
+        "http://purl.obolibrary.org/obo/ECO_0006397": [
+          "ECO:SN"
+        ],
         "http://purl.obolibrary.org/obo/ECO_0007000": [
           "GO:IMP"
         ],
@@ -4386,6 +4395,12 @@
         ],
         "http://purl.obolibrary.org/obo/ECO_0007850": [
           "ECO:RCJ"
+        ],
+        "http://purl.obolibrary.org/obo/ECO_9000000": [
+          "ECO:SN"
+        ],
+        "http://purl.obolibrary.org/obo/ECO_9000001": [
+          "ECO:SN"
         ]
       },
       "label": "Provenance Xrefs",
@@ -4419,8 +4434,7 @@
           "http://purl.obolibrary.org/obo/ECO_0006098": "GOC:PG",
           "http://purl.obolibrary.org/obo/ECO_0006099": "GOC:PG",
           "http://purl.obolibrary.org/obo/ECO_0006100": "GOC:PG",
-          "http://purl.obolibrary.org/obo/ECO_0006101": "GOC:PG",
-          "http://purl.obolibrary.org/obo/ECO_9000000": "GOC:cjm"
+          "http://purl.obolibrary.org/obo/ECO_0006101": "GOC:PG"
         },
         "NBK": {
           "http://purl.obolibrary.org/obo/ECO_0000010": "NBK:22011",
@@ -4723,8 +4737,8 @@
         }
       }
     },
-    "version": "2022-08-05",
-    "version_iri": "http://purl.obolibrary.org/obo/eco/releases/2022-08-05/eco.owl",
+    "version": "2022-12-04",
+    "version_iri": "http://purl.obolibrary.org/obo/eco/releases/2022-12-04/eco.owl",
     "xref_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/ECO_0000324": [

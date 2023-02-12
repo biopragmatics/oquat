@@ -1,81 +1,4 @@
 {
-  "http://purl.obolibrary.org/obo/iao.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/iao.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2020-12-09",
-    "version_iri": "http://purl.obolibrary.org/obo/iao/2020-12-09/iao.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/iao/d-acts/dev/d-acts.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/iao/d-acts/dev/d-acts.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "development version 2022-07-05",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/iao/pno.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/iao/pno.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "release version 2021-06-11",
-    "version_iri": "http://purl.obolibrary.org/obo/iao/pno/release/2021-06-11/pno.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
   "http://purl.obolibrary.org/obo/oostt.owl": {
     "graph_id": "http://purl.obolibrary.org/obo/oostt.owl",
     "prov_pack": {
@@ -92,8 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "release version - 2021-01-11",
-    "version_iri": "http://purl.obolibrary.org/obo/oostt//2021-01-08/oostt.owl",
+    "version": "release version - 2022-09-23",
+    "version_iri": "http://purl.obolibrary.org/obo/oostt/release/2022-10-27/oostt.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

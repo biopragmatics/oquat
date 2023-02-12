@@ -1,11 +1,11 @@
-# [`pubmed`](https://bioregistry.io/pubmed): PubMed
+# [`pubmed`](https://bioregistry.io/pubmed): PubMed ID
 
 This page summarize the different resources that reference `pubmed`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 25 resources,
+`^\d+$`. Of the 21 resources,
 4 variants on the standard prefix were found: ['Medline', 'PMID', 'PubMed', 'Pubmed'].
 
-## `bto`: BRENDA tissue / enzyme source
+## `bto`: BRENDA Tissue Ontology
 
 Identifiers for this prefix are given incorrectly in `bto`. See the [GitHub repository](https://github.com/BRENDA-Enzymes/BTO).
 
@@ -49,16 +49,6 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `PMID:25167691 `  |              1 | [EFO:0010695](http://www.ebi.ac.uk/efo/EFO_0010695) |
 | `PMID: 32355309`  |              1 | [EFO:0010749](http://www.ebi.ac.uk/efo/EFO_0010749) |
 
-## `ehdaa2`: Human developmental anatomy, abstract
-
-Identifiers for this prefix are given incorrectly in `ehdaa2`. See the [GitHub repository](https://github.com/obophenotype/human-developmental-anatomy-ontology).
-
-| external_xref    |   usages_count | usages                                                  |
-|------------------|----------------|---------------------------------------------------------|
-| `PMID:10102814j` |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
-| `PMID:_17986482` |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
-| `PMID:_19960544` |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
-
 ## `enm`: eNanoMapper Ontology
 
 Identifiers for this prefix are given incorrectly in `enm`.
@@ -81,15 +71,6 @@ Identifiers for this prefix are given incorrectly in `fypo`. See the [GitHub rep
 | `PMID:34805795
 PomBase:val`                 |              1 | [FYPO:0007907](http://purl.obolibrary.org/obo/FYPO_0007907) |
 | `PMID::8247131` |              1 | [FYPO:0001686](http://purl.obolibrary.org/obo/FYPO_0001686) |
-
-## `go`: Gene Ontology
-
-Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
-
-| external_xref    |   usages_count | usages                                                  |
-|------------------|----------------|---------------------------------------------------------|
-| `PMID:11585923.` |              1 | [GO:0106028](http://purl.obolibrary.org/obo/GO_0106028) |
-| `PMID:19014349.` |              1 | [GO:0106258](http://purl.obolibrary.org/obo/GO_0106258) |
 
 ## `hp`: Human Phenotype Ontology
 
@@ -151,6 +132,25 @@ Identifiers for this prefix are given incorrectly in `mpath`. See the [GitHub re
 | `PMID: 11794381`    |              1 | [MPATH:40](http://purl.obolibrary.org/obo/MPATH_40)   |
 | `PMID:    21191096` |              1 | [MPATH:815](http://purl.obolibrary.org/obo/MPATH_815) |
 
+## `nif`: None
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref                                |   usages_count | usages                                                                                                                                                                                                                                                                                      |
+|----------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `PMID: 24572720`                             |              5 | [SO:0002344](http://purl.obolibrary.org/obo/SO_0002344), [SO:0002345](http://purl.obolibrary.org/obo/SO_0002345), [SO:0002346](http://purl.obolibrary.org/obo/SO_0002346), [SO:0002347](http://purl.obolibrary.org/obo/SO_0002347), [SO:0002348](http://purl.obolibrary.org/obo/SO_0002348) |
+| `PMID:12537576:16827941`                     |              4 | [SO:0001158](http://purl.obolibrary.org/obo/SO_0001158), [SO:0001159](http://purl.obolibrary.org/obo/SO_0001159), [SO:0001160](http://purl.obolibrary.org/obo/SO_0001160), [SO:0001161](http://purl.obolibrary.org/obo/SO_0001161)                                                          |
+| `PMID: 118436`                               |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
+| `PMID: 29474379`                             |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
+| `PMID: 3136294`                              |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
+| `Medline:http://www.nlm.nih.gov/medlineplus` |              1 | [PATO:0002048](http://purl.obolibrary.org/obo/PATO_0002048)                                                                                                                                                                                                                                 |
+| `PMID:16827941:12537576`                     |              1 | [SO:0001157](http://purl.obolibrary.org/obo/SO_0001157)                                                                                                                                                                                                                                     |
+| `PMID:12537576:15231738`                     |              1 | [SO:0001162](http://purl.obolibrary.org/obo/SO_0001162)                                                                                                                                                                                                                                     |
+| `PMID:15388847,PMID:16524884`                |              1 | [SO:0002235](http://purl.obolibrary.org/obo/SO_0002235)                                                                                                                                                                                                                                     |
+| `PMID: 19407924`                             |              1 | [SO:0002293](http://purl.obolibrary.org/obo/SO_0002293)                                                                                                                                                                                                                                     |
+| `PMID: 16236432`                             |              1 | [SO:0002350](http://purl.obolibrary.org/obo/SO_0002350)                                                                                                                                                                                                                                     |
+| `PMID: 17608616`                             |              1 | [SO:0002350](http://purl.obolibrary.org/obo/SO_0002350)                                                                                                                                                                                                                                     |
+
 ## `pato`: Phenotype And Trait Ontology
 
 Identifiers for this prefix are given incorrectly in `pato`. See the [GitHub repository](https://github.com/pato-ontology/pato).
@@ -208,21 +208,12 @@ Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repos
 | `PMID: 118436`                |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
 | `PMID: 29474379`              |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
 | `PMID: 3136294`               |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
-| `PMID:=12409455`              |              1 | [SO:0000394](http://purl.obolibrary.org/obo/SO_0000394)                                                                                                                                                                                                                                     |
 | `PMID:16827941:12537576`      |              1 | [SO:0001157](http://purl.obolibrary.org/obo/SO_0001157)                                                                                                                                                                                                                                     |
 | `PMID:12537576:15231738`      |              1 | [SO:0001162](http://purl.obolibrary.org/obo/SO_0001162)                                                                                                                                                                                                                                     |
 | `PMID:15388847,PMID:16524884` |              1 | [SO:0002235](http://purl.obolibrary.org/obo/SO_0002235)                                                                                                                                                                                                                                     |
 | `PMID: 19407924`              |              1 | [SO:0002293](http://purl.obolibrary.org/obo/SO_0002293)                                                                                                                                                                                                                                     |
 | `PMID: 16236432`              |              1 | [SO:0002350](http://purl.obolibrary.org/obo/SO_0002350)                                                                                                                                                                                                                                     |
 | `PMID: 17608616`              |              1 | [SO:0002350](http://purl.obolibrary.org/obo/SO_0002350)                                                                                                                                                                                                                                     |
-
-## `tao`: Teleost Anatomy Ontology
-
-Identifiers for this prefix are given incorrectly in `tao`.
-
-| external_xref    |   usages_count | usages                                                  |
-|------------------|----------------|---------------------------------------------------------|
-| `PMID:10102814j` |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
 
 ## `tgma`: Mosquito gross anatomy ontology
 
@@ -236,41 +227,25 @@ Identifiers for this prefix are given incorrectly in `tgma`. See the [GitHub rep
 
 Identifiers for this prefix are given incorrectly in `unimod`.
 
-| external_xref                                                                    |   usages_count | usages                                                                                                                                                                                                                                     |
-|----------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/11869872`                               |              4 | [UNIMOD:1281](http://purl.obolibrary.org/obo/UNIMOD_1281), [UNIMOD:1310](http://purl.obolibrary.org/obo/UNIMOD_1310), [UNIMOD:1315](http://purl.obolibrary.org/obo/UNIMOD_1315), [UNIMOD:1317](http://purl.obolibrary.org/obo/UNIMOD_1317) |
-| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/21432907`                               |              1 | [UNIMOD:1036](http://purl.obolibrary.org/obo/UNIMOD_1036)                                                                                                                                                                                  |
-| `PMID:http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5369209`           |              1 | [UNIMOD:1253](http://purl.obolibrary.org/obo/UNIMOD_1253)                                                                                                                                                                                  |
-| `PMID:http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=637568&loc=ec_rcs` |              1 | [UNIMOD:1262](http://purl.obolibrary.org/obo/UNIMOD_1262)                                                                                                                                                                                  |
-| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/21740851`                               |              1 | [UNIMOD:1327](http://purl.obolibrary.org/obo/UNIMOD_1327)                                                                                                                                                                                  |
-| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/?term=2475130`                          |              1 | [UNIMOD:1380](http://purl.obolibrary.org/obo/UNIMOD_1380)                                                                                                                                                                                  |
-| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/1242713`                                |              1 | [UNIMOD:1381](http://purl.obolibrary.org/obo/UNIMOD_1381)                                                                                                                                                                                  |
-| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/2475130`                                |              1 | [UNIMOD:1381](http://purl.obolibrary.org/obo/UNIMOD_1381)                                                                                                                                                                                  |
-| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/18528979`                               |              1 | [UNIMOD:1382](http://purl.obolibrary.org/obo/UNIMOD_1382)                                                                                                                                                                                  |
-| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/?term=23908237`                         |              1 | [UNIMOD:1387](http://purl.obolibrary.org/obo/UNIMOD_1387)                                                                                                                                                                                  |
-| `PMID:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3523197/`                     |              1 | [UNIMOD:1839](http://purl.obolibrary.org/obo/UNIMOD_1839)                                                                                                                                                                                  |
-| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/23924801`                               |              1 | [UNIMOD:1840](http://purl.obolibrary.org/obo/UNIMOD_1840)                                                                                                                                                                                  |
-| `PMID:https://www.ncbi.nlm.nih.gov/pubmed/14638685`                              |              1 | [UNIMOD:1875](http://purl.obolibrary.org/obo/UNIMOD_1875)                                                                                                                                                                                  |
-| `PMID:https://www.ncbi.nlm.nih.gov/pubmed/16704222`                              |              1 | [UNIMOD:1875](http://purl.obolibrary.org/obo/UNIMOD_1875)                                                                                                                                                                                  |
-| `PMID:https://pubmed.ncbi.nlm.nih.gov/32886756/`                                 |              1 | [UNIMOD:2022](http://purl.obolibrary.org/obo/UNIMOD_2022)                                                                                                                                                                                  |
-| `PMID:https://pubmed.ncbi.nlm.nih.gov/8829804/`                                  |              1 | [UNIMOD:2040](http://purl.obolibrary.org/obo/UNIMOD_2040)                                                                                                                                                                                  |
-| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/14670044?dopt=AbstractPlus`             |              1 | [UNIMOD:986](http://purl.obolibrary.org/obo/UNIMOD_986)                                                                                                                                                                                    |
-
-## `upa`: Unipathway
-
-Identifiers for this prefix are given incorrectly in `upa`. See the [GitHub repository](https://github.com/geneontology/unipathway).
-
-| external_xref            |   usages_count | usages                                                      |
-|--------------------------|----------------|-------------------------------------------------------------|
-| `PMID:SBN:0-13-144329-1` |              1 | [UPa:UPA00219](http://purl.obolibrary.org/obo/UPa_UPA00219) |
-
-## `vsao`: Vertebrate Skeletal Anatomy Ontology
-
-Identifiers for this prefix are given incorrectly in `vsao`.
-
-| external_xref    |   usages_count | usages                                                  |
-|------------------|----------------|---------------------------------------------------------|
-| `PMID:10102814j` |              1 | [CL:0000134](http://purl.obolibrary.org/obo/CL_0000134) |
+| external_xref                                                                                                                                                                                                                                                  |   usages_count | usages                                                                                                                                                                                                                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/11869872`                                                                                                                                                                                                             |              4 | [UNIMOD:1281](http://purl.obolibrary.org/obo/UNIMOD_1281), [UNIMOD:1310](http://purl.obolibrary.org/obo/UNIMOD_1310), [UNIMOD:1315](http://purl.obolibrary.org/obo/UNIMOD_1315), [UNIMOD:1317](http://purl.obolibrary.org/obo/UNIMOD_1317) |
+| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/21432907`                                                                                                                                                                                                             |              1 | [UNIMOD:1036](http://purl.obolibrary.org/obo/UNIMOD_1036)                                                                                                                                                                                  |
+| `PMID:http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5369209`                                                                                                                                                                                         |              1 | [UNIMOD:1253](http://purl.obolibrary.org/obo/UNIMOD_1253)                                                                                                                                                                                  |
+| `PMID:http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=637568&loc=ec_rcs`                                                                                                                                                                               |              1 | [UNIMOD:1262](http://purl.obolibrary.org/obo/UNIMOD_1262)                                                                                                                                                                                  |
+| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/21740851`                                                                                                                                                                                                             |              1 | [UNIMOD:1327](http://purl.obolibrary.org/obo/UNIMOD_1327)                                                                                                                                                                                  |
+| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/?term=2475130`                                                                                                                                                                                                        |              1 | [UNIMOD:1380](http://purl.obolibrary.org/obo/UNIMOD_1380)                                                                                                                                                                                  |
+| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/1242713`                                                                                                                                                                                                              |              1 | [UNIMOD:1381](http://purl.obolibrary.org/obo/UNIMOD_1381)                                                                                                                                                                                  |
+| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/2475130`                                                                                                                                                                                                              |              1 | [UNIMOD:1381](http://purl.obolibrary.org/obo/UNIMOD_1381)                                                                                                                                                                                  |
+| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/18528979`                                                                                                                                                                                                             |              1 | [UNIMOD:1382](http://purl.obolibrary.org/obo/UNIMOD_1382)                                                                                                                                                                                  |
+| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/?term=23908237`                                                                                                                                                                                                       |              1 | [UNIMOD:1387](http://purl.obolibrary.org/obo/UNIMOD_1387)                                                                                                                                                                                  |
+| `PMID:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3523197/`                                                                                                                                                                                                   |              1 | [UNIMOD:1839](http://purl.obolibrary.org/obo/UNIMOD_1839)                                                                                                                                                                                  |
+| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/23924801`                                                                                                                                                                                                             |              1 | [UNIMOD:1840](http://purl.obolibrary.org/obo/UNIMOD_1840)                                                                                                                                                                                  |
+| `PMID:https://www.ncbi.nlm.nih.gov/pubmed/14638685`                                                                                                                                                                                                            |              1 | [UNIMOD:1875](http://purl.obolibrary.org/obo/UNIMOD_1875)                                                                                                                                                                                  |
+| `PMID:https://www.ncbi.nlm.nih.gov/pubmed/16704222`                                                                                                                                                                                                            |              1 | [UNIMOD:1875](http://purl.obolibrary.org/obo/UNIMOD_1875)                                                                                                                                                                                  |
+| `PMID:https://books.google.co.in/books?id=IOuPDwAAQBAJ&pg=PA333&lpg=PA333&dq=kdo+220+mass&source=bl&ots=t--BcUkzNH&sig=ACfU3U2lNj05UnTthH1BD6fS0jC6rxYpFw&hl=en&sa=X&ved=2ahUKEwjLmPfoic7nAhWA7XMBHRsiAk4Q6AEwCnoECAoQAQ#v=onepage&q=kdo%20220%20mass&f=false` |              1 | [UNIMOD:2022](http://purl.obolibrary.org/obo/UNIMOD_2022)                                                                                                                                                                                  |
+| `PMID:https://pubmed.ncbi.nlm.nih.gov/8829804/`                                                                                                                                                                                                                |              1 | [UNIMOD:2040](http://purl.obolibrary.org/obo/UNIMOD_2040)                                                                                                                                                                                  |
+| `PMID:http://www.ncbi.nlm.nih.gov/pubmed/14670044?dopt=AbstractPlus`                                                                                                                                                                                           |              1 | [UNIMOD:986](http://purl.obolibrary.org/obo/UNIMOD_986)                                                                                                                                                                                    |
 
 ## `vt`: Vertebrate trait ontology
 

@@ -15,16 +15,14 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
+    "version": "2023-02-01",
+    "version_iri": "http://purl.obolibrary.org/obo/fideo/releases/2023-02-01/fideo.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "SUBSET_SIREN": {
-          "http://purl.obolibrary.org/obo/FIDEO_00000028": "SUBSET_SIREN:F1702"
-        }
-      }
+      "unknown_prefixes": {}
     }
   }
 }

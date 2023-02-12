@@ -1,6 +1,6 @@
 {
-  "http://purl.obolibrary.org/obo/caro.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/caro.owl",
+  "http://purl.obolibrary.org/obo/caro.json": {
+    "graph_id": "http://purl.obolibrary.org/obo/caro.json",
     "prov_pack": {
       "invalid_luids": {
         "http://purl.obolibrary.org/obo/CARO_0000041": [
@@ -34,7 +34,7 @@
       "unknown_prefixes": {}
     },
     "version": "2022-02-18",
-    "version_iri": "http://purl.obolibrary.org/obo/caro/releases/2022-02-18/caro.owl",
+    "version_iri": "http://purl.obolibrary.org/obo/caro/releases/2022-02-18/caro.json",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

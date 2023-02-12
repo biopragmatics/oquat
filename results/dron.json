@@ -15,8 +15,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2022-04-22",
-    "version_iri": "http://purl.obolibrary.org/obo/dron/releases/2022-04-22/dron.owl",
+    "version": "2022-10-22",
+    "version_iri": "http://purl.obolibrary.org/obo/dron/releases/2022-10-22/dron.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

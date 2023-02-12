@@ -1992,6 +1992,21 @@
         "http://purl.obolibrary.org/obo/XAO_0005426": [
           "XAO:MEF"
         ],
+        "http://purl.obolibrary.org/obo/XAO_0005501": [
+          "XAO:MEF"
+        ],
+        "http://purl.obolibrary.org/obo/XAO_0005503": [
+          "XAO:MEF"
+        ],
+        "http://purl.obolibrary.org/obo/XAO_0005504": [
+          "NCIt:Abdominal_Wall"
+        ],
+        "http://purl.obolibrary.org/obo/XAO_0005505": [
+          "XAO:MEF"
+        ],
+        "http://purl.obolibrary.org/obo/XAO_0005506": [
+          "XAO:MEF"
+        ],
         "http://purl.obolibrary.org/obo/XAO_1000000": [
           "XAO:EJS"
         ],
@@ -2057,8 +2072,8 @@
       "noncanonical_prefixes": {},
       "unknown_prefixes": {}
     },
-    "version": "2021-03-04",
-    "version_iri": "http://purl.obolibrary.org/obo/xao/releases/2021-03-04/xao.owl",
+    "version": "2022-08-29",
+    "version_iri": "http://purl.obolibrary.org/obo/xao/releases/2022-08-29/xao.owl",
     "xref_pack": {
       "invalid_luids": {},
       "label": "Node Xrefs",

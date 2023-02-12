@@ -95,7 +95,7 @@ did not match the standard pattern `^\d+$`.
 
 ## `VFB`: Virtual Fly Brain
 
-Overall, there were 9,416 invalid
+Overall, there were 9,480 invalid
 xrefs to external prefixed with `VFB` (standardized to Bioregistry
 prefix [`vfb`](https://bioregistry.io/vfb)) that
 did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
@@ -301,12 +301,8 @@ did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
 | `VFB:FBbt_00001399` |              1 | [FBbt:00001399](http://purl.obolibrary.org/obo/FBbt_00001399) |
 | `VFB:FBbt_00001400` |              1 | [FBbt:00001400](http://purl.obolibrary.org/obo/FBbt_00001400) |
 | `VFB:FBbt_00001401` |              1 | [FBbt:00001401](http://purl.obolibrary.org/obo/FBbt_00001401) |
-| `VFB:FBbt_00001402` |              1 | [FBbt:00001402](http://purl.obolibrary.org/obo/FBbt_00001402) |
-| `VFB:FBbt_00001403` |              1 | [FBbt:00001403](http://purl.obolibrary.org/obo/FBbt_00001403) |
 | `VFB:FBbt_00001404` |              1 | [FBbt:00001404](http://purl.obolibrary.org/obo/FBbt_00001404) |
 | `VFB:FBbt_00001405` |              1 | [FBbt:00001405](http://purl.obolibrary.org/obo/FBbt_00001405) |
-| `VFB:FBbt_00001406` |              1 | [FBbt:00001406](http://purl.obolibrary.org/obo/FBbt_00001406) |
-| `VFB:FBbt_00001407` |              1 | [FBbt:00001407](http://purl.obolibrary.org/obo/FBbt_00001407) |
 | `VFB:FBbt_00001408` |              1 | [FBbt:00001408](http://purl.obolibrary.org/obo/FBbt_00001408) |
 | `VFB:FBbt_00001409` |              1 | [FBbt:00001409](http://purl.obolibrary.org/obo/FBbt_00001409) |
 | `VFB:FBbt_00001410` |              1 | [FBbt:00001410](http://purl.obolibrary.org/obo/FBbt_00001410) |
@@ -411,7 +407,6 @@ did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
 | `VFB:FBbt_00001523` |              1 | [FBbt:00001523](http://purl.obolibrary.org/obo/FBbt_00001523) |
 | `VFB:FBbt_00001524` |              1 | [FBbt:00001524](http://purl.obolibrary.org/obo/FBbt_00001524) |
 | `VFB:FBbt_00001525` |              1 | [FBbt:00001525](http://purl.obolibrary.org/obo/FBbt_00001525) |
-| `VFB:FBbt_00001526` |              1 | [FBbt:00001526](http://purl.obolibrary.org/obo/FBbt_00001526) |
 | `VFB:FBbt_00001527` |              1 | [FBbt:00001527](http://purl.obolibrary.org/obo/FBbt_00001527) |
 | `VFB:FBbt_00001528` |              1 | [FBbt:00001528](http://purl.obolibrary.org/obo/FBbt_00001528) |
 | `VFB:FBbt_00001529` |              1 | [FBbt:00001529](http://purl.obolibrary.org/obo/FBbt_00001529) |
@@ -738,7 +733,6 @@ did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
 | `VFB:FBbt_00002177` |              1 | [FBbt:00002177](http://purl.obolibrary.org/obo/FBbt_00002177) |
 | `VFB:FBbt_00002178` |              1 | [FBbt:00002178](http://purl.obolibrary.org/obo/FBbt_00002178) |
 | `VFB:FBbt_00002179` |              1 | [FBbt:00002179](http://purl.obolibrary.org/obo/FBbt_00002179) |
-| `VFB:FBbt_00002180` |              1 | [FBbt:00002180](http://purl.obolibrary.org/obo/FBbt_00002180) |
 | `VFB:FBbt_00002181` |              1 | [FBbt:00002181](http://purl.obolibrary.org/obo/FBbt_00002181) |
 | `VFB:FBbt_00002182` |              1 | [FBbt:00002182](http://purl.obolibrary.org/obo/FBbt_00002182) |
 | `VFB:FBbt_00002183` |              1 | [FBbt:00002183](http://purl.obolibrary.org/obo/FBbt_00002183) |
@@ -1161,7 +1155,6 @@ did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
 | `VFB:FBbt_00002620` |              1 | [FBbt:00002620](http://purl.obolibrary.org/obo/FBbt_00002620) |
 | `VFB:FBbt_00002621` |              1 | [FBbt:00002621](http://purl.obolibrary.org/obo/FBbt_00002621) |
 | `VFB:FBbt_00002622` |              1 | [FBbt:00002622](http://purl.obolibrary.org/obo/FBbt_00002622) |
-| `VFB:FBbt_00002623` |              1 | [FBbt:00002623](http://purl.obolibrary.org/obo/FBbt_00002623) |
 | `VFB:FBbt_00002624` |              1 | [FBbt:00002624](http://purl.obolibrary.org/obo/FBbt_00002624) |
 | `VFB:FBbt_00002625` |              1 | [FBbt:00002625](http://purl.obolibrary.org/obo/FBbt_00002625) |
 | `VFB:FBbt_00002627` |              1 | [FBbt:00002627](http://purl.obolibrary.org/obo/FBbt_00002627) |
@@ -2686,8 +2679,6 @@ did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
 | `VFB:FBbt_00007281` |              1 | [FBbt:00007281](http://purl.obolibrary.org/obo/FBbt_00007281) |
 | `VFB:FBbt_00007282` |              1 | [FBbt:00007282](http://purl.obolibrary.org/obo/FBbt_00007282) |
 | `VFB:FBbt_00007292` |              1 | [FBbt:00007292](http://purl.obolibrary.org/obo/FBbt_00007292) |
-| `VFB:FBbt_00007314` |              1 | [FBbt:00007314](http://purl.obolibrary.org/obo/FBbt_00007314) |
-| `VFB:FBbt_00007315` |              1 | [FBbt:00007315](http://purl.obolibrary.org/obo/FBbt_00007315) |
 | `VFB:FBbt_00007318` |              1 | [FBbt:00007318](http://purl.obolibrary.org/obo/FBbt_00007318) |
 | `VFB:FBbt_00007326` |              1 | [FBbt:00007326](http://purl.obolibrary.org/obo/FBbt_00007326) |
 | `VFB:FBbt_00007327` |              1 | [FBbt:00007327](http://purl.obolibrary.org/obo/FBbt_00007327) |
@@ -5470,7 +5461,6 @@ did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
 | `VFB:FBbt_00049516` |              1 | [FBbt:00049516](http://purl.obolibrary.org/obo/FBbt_00049516) |
 | `VFB:FBbt_00049517` |              1 | [FBbt:00049517](http://purl.obolibrary.org/obo/FBbt_00049517) |
 | `VFB:FBbt_00049518` |              1 | [FBbt:00049518](http://purl.obolibrary.org/obo/FBbt_00049518) |
-| `VFB:FBbt_00049519` |              1 | [FBbt:00049519](http://purl.obolibrary.org/obo/FBbt_00049519) |
 | `VFB:FBbt_00049520` |              1 | [FBbt:00049520](http://purl.obolibrary.org/obo/FBbt_00049520) |
 | `VFB:FBbt_00049521` |              1 | [FBbt:00049521](http://purl.obolibrary.org/obo/FBbt_00049521) |
 | `VFB:FBbt_00049522` |              1 | [FBbt:00049522](http://purl.obolibrary.org/obo/FBbt_00049522) |
@@ -7259,6 +7249,86 @@ did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
 | `VFB:FBbt_00052274` |              1 | [FBbt:00052274](http://purl.obolibrary.org/obo/FBbt_00052274) |
 | `VFB:FBbt_00052275` |              1 | [FBbt:00052275](http://purl.obolibrary.org/obo/FBbt_00052275) |
 | `VFB:FBbt_00052276` |              1 | [FBbt:00052276](http://purl.obolibrary.org/obo/FBbt_00052276) |
+| `VFB:FBbt_00052277` |              1 | [FBbt:00052277](http://purl.obolibrary.org/obo/FBbt_00052277) |
+| `VFB:FBbt_00052278` |              1 | [FBbt:00052278](http://purl.obolibrary.org/obo/FBbt_00052278) |
+| `VFB:FBbt_00052279` |              1 | [FBbt:00052279](http://purl.obolibrary.org/obo/FBbt_00052279) |
+| `VFB:FBbt_00052280` |              1 | [FBbt:00052280](http://purl.obolibrary.org/obo/FBbt_00052280) |
+| `VFB:FBbt_00052281` |              1 | [FBbt:00052281](http://purl.obolibrary.org/obo/FBbt_00052281) |
+| `VFB:FBbt_00052282` |              1 | [FBbt:00052282](http://purl.obolibrary.org/obo/FBbt_00052282) |
+| `VFB:FBbt_00052283` |              1 | [FBbt:00052283](http://purl.obolibrary.org/obo/FBbt_00052283) |
+| `VFB:FBbt_00052284` |              1 | [FBbt:00052284](http://purl.obolibrary.org/obo/FBbt_00052284) |
+| `VFB:FBbt_00052285` |              1 | [FBbt:00052285](http://purl.obolibrary.org/obo/FBbt_00052285) |
+| `VFB:FBbt_00052286` |              1 | [FBbt:00052286](http://purl.obolibrary.org/obo/FBbt_00052286) |
+| `VFB:FBbt_00052287` |              1 | [FBbt:00052287](http://purl.obolibrary.org/obo/FBbt_00052287) |
+| `VFB:FBbt_00052288` |              1 | [FBbt:00052288](http://purl.obolibrary.org/obo/FBbt_00052288) |
+| `VFB:FBbt_00052289` |              1 | [FBbt:00052289](http://purl.obolibrary.org/obo/FBbt_00052289) |
+| `VFB:FBbt_00052290` |              1 | [FBbt:00052290](http://purl.obolibrary.org/obo/FBbt_00052290) |
+| `VFB:FBbt_00052291` |              1 | [FBbt:00052291](http://purl.obolibrary.org/obo/FBbt_00052291) |
+| `VFB:FBbt_00052292` |              1 | [FBbt:00052292](http://purl.obolibrary.org/obo/FBbt_00052292) |
+| `VFB:FBbt_00052293` |              1 | [FBbt:00052293](http://purl.obolibrary.org/obo/FBbt_00052293) |
+| `VFB:FBbt_00052294` |              1 | [FBbt:00052294](http://purl.obolibrary.org/obo/FBbt_00052294) |
+| `VFB:FBbt_00052295` |              1 | [FBbt:00052295](http://purl.obolibrary.org/obo/FBbt_00052295) |
+| `VFB:FBbt_00052296` |              1 | [FBbt:00052296](http://purl.obolibrary.org/obo/FBbt_00052296) |
+| `VFB:FBbt_00052297` |              1 | [FBbt:00052297](http://purl.obolibrary.org/obo/FBbt_00052297) |
+| `VFB:FBbt_00052298` |              1 | [FBbt:00052298](http://purl.obolibrary.org/obo/FBbt_00052298) |
+| `VFB:FBbt_00052299` |              1 | [FBbt:00052299](http://purl.obolibrary.org/obo/FBbt_00052299) |
+| `VFB:FBbt_00052300` |              1 | [FBbt:00052300](http://purl.obolibrary.org/obo/FBbt_00052300) |
+| `VFB:FBbt_00052301` |              1 | [FBbt:00052301](http://purl.obolibrary.org/obo/FBbt_00052301) |
+| `VFB:FBbt_00052302` |              1 | [FBbt:00052302](http://purl.obolibrary.org/obo/FBbt_00052302) |
+| `VFB:FBbt_00052303` |              1 | [FBbt:00052303](http://purl.obolibrary.org/obo/FBbt_00052303) |
+| `VFB:FBbt_00052304` |              1 | [FBbt:00052304](http://purl.obolibrary.org/obo/FBbt_00052304) |
+| `VFB:FBbt_00052305` |              1 | [FBbt:00052305](http://purl.obolibrary.org/obo/FBbt_00052305) |
+| `VFB:FBbt_00052306` |              1 | [FBbt:00052306](http://purl.obolibrary.org/obo/FBbt_00052306) |
+| `VFB:FBbt_00052307` |              1 | [FBbt:00052307](http://purl.obolibrary.org/obo/FBbt_00052307) |
+| `VFB:FBbt_00052308` |              1 | [FBbt:00052308](http://purl.obolibrary.org/obo/FBbt_00052308) |
+| `VFB:FBbt_00052309` |              1 | [FBbt:00052309](http://purl.obolibrary.org/obo/FBbt_00052309) |
+| `VFB:FBbt_00052310` |              1 | [FBbt:00052310](http://purl.obolibrary.org/obo/FBbt_00052310) |
+| `VFB:FBbt_00052311` |              1 | [FBbt:00052311](http://purl.obolibrary.org/obo/FBbt_00052311) |
+| `VFB:FBbt_00052312` |              1 | [FBbt:00052312](http://purl.obolibrary.org/obo/FBbt_00052312) |
+| `VFB:FBbt_00052313` |              1 | [FBbt:00052313](http://purl.obolibrary.org/obo/FBbt_00052313) |
+| `VFB:FBbt_00052314` |              1 | [FBbt:00052314](http://purl.obolibrary.org/obo/FBbt_00052314) |
+| `VFB:FBbt_00052315` |              1 | [FBbt:00052315](http://purl.obolibrary.org/obo/FBbt_00052315) |
+| `VFB:FBbt_00052316` |              1 | [FBbt:00052316](http://purl.obolibrary.org/obo/FBbt_00052316) |
+| `VFB:FBbt_00052317` |              1 | [FBbt:00052317](http://purl.obolibrary.org/obo/FBbt_00052317) |
+| `VFB:FBbt_00052318` |              1 | [FBbt:00052318](http://purl.obolibrary.org/obo/FBbt_00052318) |
+| `VFB:FBbt_00052319` |              1 | [FBbt:00052319](http://purl.obolibrary.org/obo/FBbt_00052319) |
+| `VFB:FBbt_00052320` |              1 | [FBbt:00052320](http://purl.obolibrary.org/obo/FBbt_00052320) |
+| `VFB:FBbt_00052321` |              1 | [FBbt:00052321](http://purl.obolibrary.org/obo/FBbt_00052321) |
+| `VFB:FBbt_00052322` |              1 | [FBbt:00052322](http://purl.obolibrary.org/obo/FBbt_00052322) |
+| `VFB:FBbt_00052323` |              1 | [FBbt:00052323](http://purl.obolibrary.org/obo/FBbt_00052323) |
+| `VFB:FBbt_00052324` |              1 | [FBbt:00052324](http://purl.obolibrary.org/obo/FBbt_00052324) |
+| `VFB:FBbt_00052325` |              1 | [FBbt:00052325](http://purl.obolibrary.org/obo/FBbt_00052325) |
+| `VFB:FBbt_00052326` |              1 | [FBbt:00052326](http://purl.obolibrary.org/obo/FBbt_00052326) |
+| `VFB:FBbt_00052327` |              1 | [FBbt:00052327](http://purl.obolibrary.org/obo/FBbt_00052327) |
+| `VFB:FBbt_00052328` |              1 | [FBbt:00052328](http://purl.obolibrary.org/obo/FBbt_00052328) |
+| `VFB:FBbt_00052329` |              1 | [FBbt:00052329](http://purl.obolibrary.org/obo/FBbt_00052329) |
+| `VFB:FBbt_00052330` |              1 | [FBbt:00052330](http://purl.obolibrary.org/obo/FBbt_00052330) |
+| `VFB:FBbt_00052331` |              1 | [FBbt:00052331](http://purl.obolibrary.org/obo/FBbt_00052331) |
+| `VFB:FBbt_00052332` |              1 | [FBbt:00052332](http://purl.obolibrary.org/obo/FBbt_00052332) |
+| `VFB:FBbt_00052333` |              1 | [FBbt:00052333](http://purl.obolibrary.org/obo/FBbt_00052333) |
+| `VFB:FBbt_00052334` |              1 | [FBbt:00052334](http://purl.obolibrary.org/obo/FBbt_00052334) |
+| `VFB:FBbt_00052335` |              1 | [FBbt:00052335](http://purl.obolibrary.org/obo/FBbt_00052335) |
+| `VFB:FBbt_00052336` |              1 | [FBbt:00052336](http://purl.obolibrary.org/obo/FBbt_00052336) |
+| `VFB:FBbt_00052337` |              1 | [FBbt:00052337](http://purl.obolibrary.org/obo/FBbt_00052337) |
+| `VFB:FBbt_00052338` |              1 | [FBbt:00052338](http://purl.obolibrary.org/obo/FBbt_00052338) |
+| `VFB:FBbt_00052339` |              1 | [FBbt:00052339](http://purl.obolibrary.org/obo/FBbt_00052339) |
+| `VFB:FBbt_00052340` |              1 | [FBbt:00052340](http://purl.obolibrary.org/obo/FBbt_00052340) |
+| `VFB:FBbt_00052341` |              1 | [FBbt:00052341](http://purl.obolibrary.org/obo/FBbt_00052341) |
+| `VFB:FBbt_00052342` |              1 | [FBbt:00052342](http://purl.obolibrary.org/obo/FBbt_00052342) |
+| `VFB:FBbt_00052343` |              1 | [FBbt:00052343](http://purl.obolibrary.org/obo/FBbt_00052343) |
+| `VFB:FBbt_00052344` |              1 | [FBbt:00052344](http://purl.obolibrary.org/obo/FBbt_00052344) |
+| `VFB:FBbt_00052345` |              1 | [FBbt:00052345](http://purl.obolibrary.org/obo/FBbt_00052345) |
+| `VFB:FBbt_00052346` |              1 | [FBbt:00052346](http://purl.obolibrary.org/obo/FBbt_00052346) |
+| `VFB:FBbt_00052347` |              1 | [FBbt:00052347](http://purl.obolibrary.org/obo/FBbt_00052347) |
+| `VFB:FBbt_00052348` |              1 | [FBbt:00052348](http://purl.obolibrary.org/obo/FBbt_00052348) |
+| `VFB:FBbt_00052349` |              1 | [FBbt:00052349](http://purl.obolibrary.org/obo/FBbt_00052349) |
+| `VFB:FBbt_00052350` |              1 | [FBbt:00052350](http://purl.obolibrary.org/obo/FBbt_00052350) |
+| `VFB:FBbt_00052351` |              1 | [FBbt:00052351](http://purl.obolibrary.org/obo/FBbt_00052351) |
+| `VFB:FBbt_00052352` |              1 | [FBbt:00052352](http://purl.obolibrary.org/obo/FBbt_00052352) |
+| `VFB:FBbt_00052353` |              1 | [FBbt:00052353](http://purl.obolibrary.org/obo/FBbt_00052353) |
+| `VFB:FBbt_00052354` |              1 | [FBbt:00052354](http://purl.obolibrary.org/obo/FBbt_00052354) |
+| `VFB:FBbt_00052355` |              1 | [FBbt:00052355](http://purl.obolibrary.org/obo/FBbt_00052355) |
+| `VFB:FBbt_00052356` |              1 | [FBbt:00052356](http://purl.obolibrary.org/obo/FBbt_00052356) |
 | `VFB:FBbt_00058013` |              1 | [FBbt:00058013](http://purl.obolibrary.org/obo/FBbt_00058013) |
 | `VFB:FBbt_00058014` |              1 | [FBbt:00058014](http://purl.obolibrary.org/obo/FBbt_00058014) |
 | `VFB:FBbt_00058015` |              1 | [FBbt:00058015](http://purl.obolibrary.org/obo/FBbt_00058015) |
@@ -7386,6 +7456,7 @@ did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
 | `VFB:FBbt_00058258` |              1 | [FBbt:00058258](http://purl.obolibrary.org/obo/FBbt_00058258) |
 | `VFB:FBbt_00058259` |              1 | [FBbt:00058259](http://purl.obolibrary.org/obo/FBbt_00058259) |
 | `VFB:FBbt_00058264` |              1 | [FBbt:00058264](http://purl.obolibrary.org/obo/FBbt_00058264) |
+| `VFB:FBbt_00059168` |              1 | [FBbt:00059168](http://purl.obolibrary.org/obo/FBbt_00059168) |
 | `VFB:FBbt_00067000` |              1 | [FBbt:00067000](http://purl.obolibrary.org/obo/FBbt_00067000) |
 | `VFB:FBbt_00067001` |              1 | [FBbt:00067001](http://purl.obolibrary.org/obo/FBbt_00067001) |
 | `VFB:FBbt_00067002` |              1 | [FBbt:00067002](http://purl.obolibrary.org/obo/FBbt_00067002) |
@@ -8375,7 +8446,6 @@ did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
 | `VFB:FBbt_00110277` |              1 | [FBbt:00110277](http://purl.obolibrary.org/obo/FBbt_00110277) |
 | `VFB:FBbt_00110278` |              1 | [FBbt:00110278](http://purl.obolibrary.org/obo/FBbt_00110278) |
 | `VFB:FBbt_00110279` |              1 | [FBbt:00110279](http://purl.obolibrary.org/obo/FBbt_00110279) |
-| `VFB:FBbt_00110281` |              1 | [FBbt:00110281](http://purl.obolibrary.org/obo/FBbt_00110281) |
 | `VFB:FBbt_00110282` |              1 | [FBbt:00110282](http://purl.obolibrary.org/obo/FBbt_00110282) |
 | `VFB:FBbt_00110284` |              1 | [FBbt:00110284](http://purl.obolibrary.org/obo/FBbt_00110284) |
 | `VFB:FBbt_00110285` |              1 | [FBbt:00110285](http://purl.obolibrary.org/obo/FBbt_00110285) |
@@ -8386,10 +8456,7 @@ did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
 | `VFB:FBbt_00110297` |              1 | [FBbt:00110297](http://purl.obolibrary.org/obo/FBbt_00110297) |
 | `VFB:FBbt_00110300` |              1 | [FBbt:00110300](http://purl.obolibrary.org/obo/FBbt_00110300) |
 | `VFB:FBbt_00110302` |              1 | [FBbt:00110302](http://purl.obolibrary.org/obo/FBbt_00110302) |
-| `VFB:FBbt_00110304` |              1 | [FBbt:00110304](http://purl.obolibrary.org/obo/FBbt_00110304) |
-| `VFB:FBbt_00110305` |              1 | [FBbt:00110305](http://purl.obolibrary.org/obo/FBbt_00110305) |
 | `VFB:FBbt_00110306` |              1 | [FBbt:00110306](http://purl.obolibrary.org/obo/FBbt_00110306) |
-| `VFB:FBbt_00110307` |              1 | [FBbt:00110307](http://purl.obolibrary.org/obo/FBbt_00110307) |
 | `VFB:FBbt_00110308` |              1 | [FBbt:00110308](http://purl.obolibrary.org/obo/FBbt_00110308) |
 | `VFB:FBbt_00110310` |              1 | [FBbt:00110310](http://purl.obolibrary.org/obo/FBbt_00110310) |
 | `VFB:FBbt_00110311` |              1 | [FBbt:00110311](http://purl.obolibrary.org/obo/FBbt_00110311) |
@@ -8898,7 +8965,6 @@ did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
 | `VFB:FBbt_00111040` |              1 | [FBbt:00111040](http://purl.obolibrary.org/obo/FBbt_00111040) |
 | `VFB:FBbt_00111041` |              1 | [FBbt:00111041](http://purl.obolibrary.org/obo/FBbt_00111041) |
 | `VFB:FBbt_00111042` |              1 | [FBbt:00111042](http://purl.obolibrary.org/obo/FBbt_00111042) |
-| `VFB:FBbt_00111043` |              1 | [FBbt:00111043](http://purl.obolibrary.org/obo/FBbt_00111043) |
 | `VFB:FBbt_00111044` |              1 | [FBbt:00111044](http://purl.obolibrary.org/obo/FBbt_00111044) |
 | `VFB:FBbt_00111045` |              1 | [FBbt:00111045](http://purl.obolibrary.org/obo/FBbt_00111045) |
 | `VFB:FBbt_00111046` |              1 | [FBbt:00111046](http://purl.obolibrary.org/obo/FBbt_00111046) |
@@ -9356,8 +9422,6 @@ did not match the standard pattern `^[0-9a-zA-Z]{8}$`.
 | `VFB:FBbt_00111515` |              1 | [FBbt:00111515](http://purl.obolibrary.org/obo/FBbt_00111515) |
 | `VFB:FBbt_00111516` |              1 | [FBbt:00111516](http://purl.obolibrary.org/obo/FBbt_00111516) |
 | `VFB:FBbt_00111517` |              1 | [FBbt:00111517](http://purl.obolibrary.org/obo/FBbt_00111517) |
-| `VFB:FBbt_00111518` |              1 | [FBbt:00111518](http://purl.obolibrary.org/obo/FBbt_00111518) |
-| `VFB:FBbt_00111519` |              1 | [FBbt:00111519](http://purl.obolibrary.org/obo/FBbt_00111519) |
 | `VFB:FBbt_00111607` |              1 | [FBbt:00111607](http://purl.obolibrary.org/obo/FBbt_00111607) |
 | `VFB:FBbt_00111608` |              1 | [FBbt:00111608](http://purl.obolibrary.org/obo/FBbt_00111608) |
 | `VFB:FBbt_00111615` |              1 | [FBbt:00111615](http://purl.obolibrary.org/obo/FBbt_00111615) |

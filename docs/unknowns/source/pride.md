@@ -1,25 +1,5 @@
 # pride
 
-## `Curator`
-
-There are 1 usages of `Curator` in `pride`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Curator).
-
-| curie      |   usages | nodes                                                         |
-|------------|----------|---------------------------------------------------------------|
-| Curator:Rc |        1 | [PRIDE:0000130](http://purl.obolibrary.org/obo/PRIDE_0000130) |
-
-## `value-type`
-
-There are 1 usages of `value-type` in `pride`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20value-type).
-
-| curie                 |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
-|-----------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| value-type:xsd:string |       17 | [PRIDE:0000400](http://purl.obolibrary.org/obo/PRIDE_0000400), [PRIDE:0000403](http://purl.obolibrary.org/obo/PRIDE_0000403), [PRIDE:0000404](http://purl.obolibrary.org/obo/PRIDE_0000404), [PRIDE:0000406](http://purl.obolibrary.org/obo/PRIDE_0000406), [PRIDE:0000407](http://purl.obolibrary.org/obo/PRIDE_0000407), ... |
-
 ## `10.1051/jphyscol`
 
 There are 1 usages of `10.1051/jphyscol` in `pride`.
@@ -29,6 +9,16 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | curie                     |   usages | nodes                                                       |
 |---------------------------|----------|-------------------------------------------------------------|
 | 10.1051/jphyscol:19879119 |        1 | [CHMO:0000317](http://purl.obolibrary.org/obo/CHMO_0000317) |
+
+## `Curator`
+
+There are 1 usages of `Curator` in `pride`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Curator).
+
+| curie      |   usages | nodes                                                         |
+|------------|----------|---------------------------------------------------------------|
+| Curator:Rc |        1 | [PRIDE:0000130](http://purl.obolibrary.org/obo/PRIDE_0000130) |
 
 ## `Orange`
 
@@ -165,4 +155,14 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | rsc:10.1039/b902504a |        1 | [CHMO:0001085](http://purl.obolibrary.org/obo/CHMO_0001085)                                                                                                                                                                                                                                                          |
 | rsc:hib              |        1 | [CHMO:0001493](http://purl.obolibrary.org/obo/CHMO_0001493)                                                                                                                                                                                                                                                          |
 | rsc:ds               |        1 | [CHMO:0002372](http://purl.obolibrary.org/obo/CHMO_0002372)                                                                                                                                                                                                                                                          |
+
+## `value-type`
+
+There are 1 usages of `value-type` in `pride`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20value-type).
+
+| curie                 |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
+|-----------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| value-type:xsd:string |       17 | [PRIDE:0000400](http://purl.obolibrary.org/obo/PRIDE_0000400), [PRIDE:0000403](http://purl.obolibrary.org/obo/PRIDE_0000403), [PRIDE:0000404](http://purl.obolibrary.org/obo/PRIDE_0000404), [PRIDE:0000406](http://purl.obolibrary.org/obo/PRIDE_0000406), [PRIDE:0000407](http://purl.obolibrary.org/obo/PRIDE_0000407), ... |
 

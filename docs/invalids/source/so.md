@@ -15,6 +15,17 @@ did not match the standard pattern `^(\d{4}\.\d{2}\.\d{2}\.)?\d{6,8}(v\d{1,3})?$
 |------------------------------------------|----------------|---------------------------------------------------------|
 | `BioRXiv:https://doi.org/10.1101/584664` |              1 | [SO:0002223](http://purl.obolibrary.org/obo/SO_0002223) |
 
+## `DOI`: Digital Object Identifier
+
+Overall, there were 7 invalid
+xrefs to external prefixed with `DOI` (standardized to Bioregistry
+prefix [`doi`](https://bioregistry.io/doi)) that
+did not match the standard pattern `^10.\d{2,9}/.*$`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `DOI:10.1126`   |              7 | [SO:0001486](http://purl.obolibrary.org/obo/SO_0001486), [SO:0001487](http://purl.obolibrary.org/obo/SO_0001487), [SO:0001488](http://purl.obolibrary.org/obo/SO_0001488), [SO:0001489](http://purl.obolibrary.org/obo/SO_0001489), [SO:0001490](http://purl.obolibrary.org/obo/SO_0001490), ... |
+
 ## `FB`: FlyBase Gene
 
 Overall, there were 42 invalid
@@ -48,7 +59,7 @@ did not match the standard pattern `^\d{7}$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `HGNC` (standardized to Bioregistry
 prefix [`hgnc`](https://bioregistry.io/hgnc)) that
-did not match the standard pattern `^((HGNC|hgnc):)?\d{1,5}$`.
+did not match the standard pattern `^\d{1,5}$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
@@ -88,7 +99,7 @@ did not match the standard pattern `^\d+$`.
 |-----------------|----------------|---------------------------------------------------------|
 | `MGI:hdeen`     |              1 | [SO:0001503](http://purl.obolibrary.org/obo/SO_0001503) |
 
-## `PMC`: Pubmed Central
+## `PMC`: PubMed Central
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PMC` (standardized to Bioregistry
@@ -99,9 +110,9 @@ did not match the standard pattern `^PMC\d+$`.
 |-----------------|----------------|---------------------------------------------------------|
 | `PMC:126017`    |              1 | [SO:0002095](http://purl.obolibrary.org/obo/SO_0002095) |
 
-## `PMID`: PubMed
+## `PMID`: PubMed ID
 
-Overall, there were 22 invalid
+Overall, there were 21 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
 prefix [`pubmed`](https://bioregistry.io/pubmed)) that
 did not match the standard pattern `^\d+$`.
@@ -113,7 +124,6 @@ did not match the standard pattern `^\d+$`.
 | `PMID: 118436`                |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
 | `PMID: 29474379`              |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
 | `PMID: 3136294`               |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
-| `PMID:=12409455`              |              1 | [SO:0000394](http://purl.obolibrary.org/obo/SO_0000394)                                                                                                                                                                                                                                     |
 | `PMID:16827941:12537576`      |              1 | [SO:0001157](http://purl.obolibrary.org/obo/SO_0001157)                                                                                                                                                                                                                                     |
 | `PMID:12537576:15231738`      |              1 | [SO:0001162](http://purl.obolibrary.org/obo/SO_0001162)                                                                                                                                                                                                                                     |
 | `PMID:15388847,PMID:16524884` |              1 | [SO:0002235](http://purl.obolibrary.org/obo/SO_0002235)                                                                                                                                                                                                                                     |
@@ -239,7 +249,7 @@ did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0
 | `uniprot:feature`      |              2 | [SO:0001655](http://purl.obolibrary.org/obo/SO_0001655), [SO:0100020](http://purl.obolibrary.org/obo/SO_0100020)                                                                                                                                                                                 |
 | `uniprot:curation`     |              1 | [SO:0001091](http://purl.obolibrary.org/obo/SO_0001091)                                                                                                                                                                                                                                          |
 
-## `WB`: WormBase database of nematode biology
+## `WB`: Wormbase Gene ID
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `WB` (standardized to Bioregistry

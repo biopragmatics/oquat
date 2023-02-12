@@ -9,11 +9,7 @@
       "unknown_prefixes": {}
     },
     "synonym_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/HAO_0000569": [
-          "DOI:10.108/00222930701579732"
-        ]
-      },
+      "invalid_luids": {},
       "label": "Synonym Xrefs",
       "malformed_curies": {},
       "noncanonical_prefixes": {},

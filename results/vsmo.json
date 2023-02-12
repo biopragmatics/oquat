@@ -1,0 +1,1518 @@
+{
+  "http://purl.obolibrary.org/obo/TEMP": {
+    "graph_id": "http://purl.obolibrary.org/obo/TEMP",
+    "prov_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/OBI_0000415": [
+          "OBI:authors"
+        ],
+        "http://purl.obolibrary.org/obo/OBI_0000659": [
+          "OBI:authors"
+        ],
+        "http://purl.obolibrary.org/obo/VO_0000002": [
+          "VO:Authors"
+        ],
+        "http://purl.obolibrary.org/obo/VO_0003021": [
+          "VO:Authors"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000529": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000546": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000578": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000579": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000580": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000581": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000593": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000624": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000625": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000626": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000628": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000629": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000630": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000631": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000633": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000635": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000793": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000794": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000798": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000799": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000801": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000802": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000806": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000815": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000823": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000825": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000826": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000827": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000880": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000883": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001216": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001217": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001218": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001219": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001233": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001234": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001250": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001258": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001259": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001700": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001711": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001713": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001715": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001717": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001721": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001725": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001727": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001730": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001732": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001733": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001735": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001740": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001741": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001742": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001743": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001744": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001746": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001747": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001748": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001749": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001751": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001752": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001753": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001754": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001756": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001757": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001758": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001759": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001760": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001761": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001762": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001763": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001766": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001770": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001947": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0001948": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002002": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002003": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002004": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002005": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002006": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002010": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002014": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002015": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002016": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002017": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002018": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002019": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002020": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002021": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002022": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002023": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002024": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002025": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002044": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002045": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002046": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002047": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002048": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002049": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002050": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002051": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002052": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002053": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002262": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002660": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002661": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002672": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002673": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0002675": [
+          "ISBN:1555812384:"
+        ],
+        "http://purl.obolibrary.org/obo/snap_Object": [
+          "BFO:snap:Object"
+        ],
+        "http://purl.obolibrary.org/obo/snap_ObjectAggregate": [
+          "BFO:snap:ObjectAggregate"
+        ],
+        "http://purl.obolibrary.org/obo/snap_Quality": [
+          "BFO:snap:Quality"
+        ],
+        "http://purl.obolibrary.org/obo/snap_Role": [
+          "BFO:snap:Role"
+        ],
+        "http://purl.obolibrary.org/obo/span_Process": [
+          "BFO:span:Process"
+        ],
+        "http://purl.obolibrary.org/obo/span_TemporalRegion": [
+          "BFO:span:TemporalRegion"
+        ]
+      },
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "": {
+          "http://purl.obolibrary.org/obo/VSMO_0000493": ":"
+        },
+        "Add": {
+          "http://purl.obolibrary.org/obo/VSMO_0001564": "Add:Silver",
+          "http://purl.obolibrary.org/obo/VSMO_0001610": "Add:Silver"
+        },
+        "AmericanHeritageMedicalDictionary": {
+          "http://purl.obolibrary.org/obo/IDOMAL_0000306": "AmericanHeritageMedicalDictionary:0"
+        },
+        "GOC": {
+          "http://purl.obolibrary.org/obo/GO_0008150": "GOC:isa_complete",
+          "http://purl.obolibrary.org/obo/OBO_REL#_bearer_of": "GOC:cjm",
+          "http://purl.obolibrary.org/obo/OBO_REL#_has_function": "GOC:cjm",
+          "http://purl.obolibrary.org/obo/OBO_REL#_has_quality": "GOC:cjm",
+          "http://purl.obolibrary.org/obo/OBO_REL#_has_role": "GOC:cjm",
+          "http://purl.obolibrary.org/obo/OBO_REL_relationship": "GOC:cjm"
+        },
+        "KL": {
+          "http://purl.obolibrary.org/obo/IDOMAL_0000260": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000261": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000297": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000298": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000299": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000300": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000302": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000304": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000305": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000307": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000313": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000320": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000322": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000873": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000878": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000880": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000883": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000886": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000888": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000891": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000895": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0000898": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0001024": "KL:KL",
+          "http://purl.obolibrary.org/obo/IDOMAL_0001031": "KL:KL"
+        },
+        "LE": {
+          "http://purl.obolibrary.org/obo/VSMO_0001352": "LE:LE",
+          "http://purl.obolibrary.org/obo/VSMO_0001353": "LE:LE",
+          "http://purl.obolibrary.org/obo/VSMO_0001355": "LE:LE",
+          "http://purl.obolibrary.org/obo/VSMO_0001366": "LE:LE"
+        },
+        "MGED": {
+          "http://purl.obolibrary.org/obo/PATO_0000383": "MGED:MGED",
+          "http://purl.obolibrary.org/obo/PATO_0000384": "MGED:MGED"
+        },
+        "PT": {
+          "http://purl.obolibrary.org/obo/MIRO_10000002": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000003": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000004": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000005": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000006": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000007": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000008": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000009": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000010": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000011": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000012": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000013": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000014": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000015": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000016": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000017": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000018": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000019": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000020": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000021": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000022": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000023": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000024": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000025": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000026": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000027": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000028": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000029": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000031": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000032": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000033": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000034": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000035": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000036": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000037": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000038": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000039": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000040": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000041": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000042": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000043": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000044": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000045": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000046": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000047": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000048": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000049": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000050": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000051": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000052": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000053": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000054": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000055": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000056": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000057": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000058": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000059": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000060": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000061": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000062": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000063": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000064": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000065": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000066": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000067": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000068": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000069": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000070": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000071": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000072": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000073": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000074": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000075": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000076": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000077": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000078": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000079": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000080": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000081": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000082": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000083": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000084": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000085": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000086": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000087": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000088": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000089": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000090": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000091": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000092": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000093": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000094": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000095": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000096": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000097": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000098": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000099": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000101": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000102": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000103": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000104": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000105": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000106": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000107": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000108": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000109": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000110": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000112": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000113": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000114": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000115": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000116": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000117": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000118": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000119": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000120": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000121": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000122": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000123": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000124": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000125": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000126": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000127": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000128": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000129": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000130": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000131": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000132": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000133": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000134": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000135": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000136": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000137": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000138": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000139": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000140": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000141": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000142": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000143": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000144": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000145": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000146": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000147": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000148": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000149": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000150": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000151": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000152": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000153": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000154": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000155": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000156": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000157": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000158": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000160": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000161": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000162": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000163": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000164": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000165": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000166": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000167": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000168": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000170": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000172": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000173": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000175": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000177": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000178": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000179": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000180": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000181": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000183": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000184": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000185": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000186": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000188": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000190": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000193": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000194": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000196": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000198": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000201": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000202": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000203": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000205": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000206": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000208": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000209": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000210": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000211": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000212": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000214": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000215": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000217": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000219": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000221": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000223": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000226": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000228": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000229": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000230": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000231": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000233": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000234": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000235": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000237": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000238": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000239": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000241": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000242": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000243": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000244": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000245": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000246": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000247": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000248": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000249": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000250": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000251": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000252": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000254": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000255": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000256": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000257": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000259": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000260": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000261": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000262": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000264": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000266": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000269": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000271": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000273": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000275": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000276": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000277": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000278": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000279": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000280": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000281": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000283": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000285": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000286": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000287": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000289": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000290": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000292": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000294": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000296": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000298": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000307": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000310": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000312": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000314": "PT:PT",
+          "http://purl.obolibrary.org/obo/MIRO_10000316": "PT:PT"
+        },
+        "Rodhain": {
+          "http://purl.obolibrary.org/obo/VSMO_0000583": "Rodhain:1997",
+          "http://purl.obolibrary.org/obo/VSMO_0000647": "Rodhain:1997",
+          "http://purl.obolibrary.org/obo/VSMO_0000671": "Rodhain:1997",
+          "http://purl.obolibrary.org/obo/VSMO_0000719": "Rodhain:1997",
+          "http://purl.obolibrary.org/obo/VSMO_0000722": "Rodhain:1997",
+          "http://purl.obolibrary.org/obo/VSMO_0000751": "Rodhain:1997",
+          "http://purl.obolibrary.org/obo/VSMO_0000752": "Rodhain:1997",
+          "http://purl.obolibrary.org/obo/VSMO_0000886": "Rodhain:1997",
+          "http://purl.obolibrary.org/obo/VSMO_0000887": "Rodhain:1997",
+          "http://purl.obolibrary.org/obo/VSMO_0002151": "Rodhain:1997",
+          "http://purl.obolibrary.org/obo/VSMO_0002154": "Rodhain:1997",
+          "http://purl.obolibrary.org/obo/VSMO_0002156": "Rodhain:1997",
+          "http://purl.obolibrary.org/obo/VSMO_0002278": "Rodhain:1997",
+          "http://purl.obolibrary.org/obo/VSMO_0002707": "Rodhain:1997",
+          "http://purl.obolibrary.org/obo/VSMO_0002722": "Rodhain:1997"
+        },
+        "Ryckman_RE": {
+          "http://purl.obolibrary.org/obo/VSMO_0000869": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0000870": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0000871": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0000877": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002074": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002075": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002076": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002077": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002078": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002079": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002081": "Ryckman_RE:1984",
+          "http://purl.obolibrary.org/obo/VSMO_0002082": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002083": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002084": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002085": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002086": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002087": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002089": "Ryckman_RE:1984",
+          "http://purl.obolibrary.org/obo/VSMO_0002493": "Ryckman_RE:1984",
+          "http://purl.obolibrary.org/obo/VSMO_0002495": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002496": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002497": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002498": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002500": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002502": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002504": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002505": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002506": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002507": "Ryckman_RE:1984",
+          "http://purl.obolibrary.org/obo/VSMO_0002510": "Ryckman_RE:1984",
+          "http://purl.obolibrary.org/obo/VSMO_0002511": "Ryckman_RE:1984",
+          "http://purl.obolibrary.org/obo/VSMO_0002514": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002515": "Ryckman_RE:1986",
+          "http://purl.obolibrary.org/obo/VSMO_0002516": "Ryckman_RE:1984",
+          "http://purl.obolibrary.org/obo/VSMO_0002725": "Ryckman_RE:1986"
+        },
+        "Sharma": {
+          "http://purl.obolibrary.org/obo/VSMO_0000848": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0000849": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0000850": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0000853": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0000854": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0000856": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0000857": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0000858": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0000859": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0000860": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0000861": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0000864": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0000866": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0002128": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0002130": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0002131": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0002133": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0002135": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0002136": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0002137": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0002138": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0002139": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0002141": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0002143": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0002144": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0002310": "Sharma:2008",
+          "http://purl.obolibrary.org/obo/VSMO_0002556": "Sharma:2008"
+        },
+        "URI": {
+          "http://purl.obolibrary.org/obo/VSMO_0000082": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000092": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0000099": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0000118": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0000198": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000546": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000555": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0000557": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000564": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000567": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0000582": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000583": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000584": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000585": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000586": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000587": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000620": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000621": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000624": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000625": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000626": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000628": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000629": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000630": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000631": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000633": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000635": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000647": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000649": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000652": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000653": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000654": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000655": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000656": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000660": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000661": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000663": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000665": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000666": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000667": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000669": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000671": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000673": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000674": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000675": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000676": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000677": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000678": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000679": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000680": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000683": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000684": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000685": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000686": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000687": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000688": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000689": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000690": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000691": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000693": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000694": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000695": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000696": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000697": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000698": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000699": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000700": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000701": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000702": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000703": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000704": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000705": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000706": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000707": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000708": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000709": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000711": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000712": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000715": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000716": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000717": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000719": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000721": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000722": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000723": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000725": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000726": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000728": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000729": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000730": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000731": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000733": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000738": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000739": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000740": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000741": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000742": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000743": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000744": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000745": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000746": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000747": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000749": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000750": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000751": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000752": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0000753": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000755": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000757": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000758": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000759": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000761": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000762": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000763": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000764": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000765": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000766": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000767": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000768": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000769": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000770": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000771": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000772": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000773": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000774": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000775": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000776": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000777": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000778": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000779": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000780": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000793": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000794": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000798": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000799": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000801": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000802": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000804": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000805": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000806": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000809": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000815": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000816": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000823": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000825": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000826": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000829": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0000836": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0000837": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0000838": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0000839": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000840": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000841": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000842": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000843": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000844": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000845": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000846": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000849": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000850": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000852": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000853": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000854": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000856": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000857": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000858": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000859": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000860": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000861": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000869": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0000870": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0000871": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0000877": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0000886": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000887": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0000888": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001359": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0001362": "URI:http://whqlibdoc.who.int/hq/2003/WHO_CDS_WHOPES_GCDPP_2003.5.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0001363": "URI:http://whqlibdoc.who.int/hq/2003/WHO_CDS_WHOPES_GCDPP_2003.5.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0001383": "URI:http://whqlibdoc.who.int/hq/2006/WHO_CDS_NTD_WHOPES_2006.5_eng.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0001402": "URI:http://whqlibdoc.who.int/hq/2003/WHO_CDS_WHOPES_GCDPP_2003.5.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0001403": "URI:http://whqlibdoc.who.int/hq/2003/WHO_CDS_WHOPES_GCDPP_2003.5.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0001404": "URI:http://whqlibdoc.who.int/hq/2003/WHO_CDS_WHOPES_GCDPP_2003.5.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0001405": "URI:http://whqlibdoc.who.int/hq/2003/WHO_CDS_WHOPES_GCDPP_2003.5.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0001406": "URI:http://whqlibdoc.who.int/hq/2003/WHO_CDS_WHOPES_GCDPP_2003.5.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0001407": "URI:http://whqlibdoc.who.int/hq/2003/WHO_CDS_WHOPES_GCDPP_2003.5.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0001408": "URI:http://whqlibdoc.who.int/hq/2003/WHO_CDS_WHOPES_GCDPP_2003.5.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0001409": "URI:http://whqlibdoc.who.int/hq/2003/WHO_CDS_WHOPES_GCDPP_2003.5.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0001843": "URI:http://books.google.com/books?id=mRw2AAAAMAAJ",
+          "http://purl.obolibrary.org/obo/VSMO_0001880": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001881": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001882": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001883": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001884": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001885": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001886": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001887": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001888": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001889": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001890": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001892": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001893": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001895": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001896": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001897": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001898": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001899": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001900": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0001919": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0001920": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0001958": "URI:http://whqlibdoc.who.int/hq/2003/WHO_CDS_WHOPES_GCDPP_2003.5.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0001997": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002017": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002018": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002019": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002020": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002021": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002022": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002023": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002024": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002025": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002044": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002047": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002048": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002049": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002050": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002051": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002052": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002061": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002062": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002064": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002065": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002068": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002069": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002074": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002075": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002076": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002077": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002078": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002079": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002080": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002081": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002082": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002083": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002084": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002085": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002086": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002087": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002089": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002103": "URI:http://books.google.com/books?id=mRw2AAAAMAAJ",
+          "http://purl.obolibrary.org/obo/VSMO_0002104": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002105": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002106": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002107": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002108": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002109": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002110": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002111": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002112": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002113": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002114": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002115": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002116": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002117": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002118": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002119": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002120": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002121": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002122": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002123": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002124": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002125": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002126": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002127": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002128": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002129": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002130": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002131": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002132": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002135": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002137": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002138": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002139": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002140": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002141": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002142": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002143": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002144": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002145": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002146": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002147": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002148": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002150": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002151": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002152": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002153": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002154": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002155": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002156": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002157": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002158": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002159": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002160": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002161": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002162": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002163": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002164": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002165": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002166": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002167": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002168": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002169": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002170": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002172": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002173": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002174": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002175": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002176": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002177": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002178": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002179": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002180": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002181": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002182": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002183": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002184": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002185": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002186": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002187": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002188": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002189": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002190": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002191": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002192": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002193": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002194": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002195": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002196": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002197": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002198": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002200": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002201": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002202": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002203": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002204": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002206": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002207": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002208": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002209": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002210": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002211": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002212": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002214": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002215": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002216": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002217": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002218": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002219": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002220": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002221": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002222": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002223": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002225": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002226": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002227": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002228": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002229": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002230": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002231": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002232": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002233": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002235": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002236": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002237": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002238": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002239": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002240": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002241": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002242": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002243": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002244": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002245": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002246": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002247": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002248": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002249": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002250": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002251": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002252": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002253": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002254": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002255": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002256": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002257": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002258": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002259": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002260": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002261": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002262": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002265": "URI:http://www.nearctica.com/nomina/main.htm",
+          "http://purl.obolibrary.org/obo/VSMO_0002266": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002267": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002269": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002270": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002271": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002273": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002276": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002277": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002278": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002279": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002280": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002281": "URI:http://books.google.com/books?id=mRw2AAAAMAAJ",
+          "http://purl.obolibrary.org/obo/VSMO_0002282": "URI:http://books.google.com/books?id=mRw2AAAAMAAJ",
+          "http://purl.obolibrary.org/obo/VSMO_0002283": "URI:http://books.google.com/books?id=mRw2AAAAMAAJ",
+          "http://purl.obolibrary.org/obo/VSMO_0002284": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002285": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002287": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002288": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002289": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002290": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002291": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002292": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002293": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002309": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002310": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002312": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002313": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002314": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002316": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002317": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002318": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002319": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002320": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002321": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002322": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002323": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002325": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002326": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002327": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002328": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002329": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002330": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002331": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002332": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002333": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002334": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002335": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002336": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002337": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002338": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002339": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002340": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002341": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002342": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002343": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002345": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002346": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002347": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002348": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002349": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002351": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002352": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002353": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002354": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002356": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002357": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002358": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002359": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002360": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002361": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002362": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002363": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002367": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002368": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002369": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002370": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002371": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002372": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002373": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002374": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002375": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002376": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002377": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002383": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002385": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002386": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002387": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002390": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002397": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002399": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002402": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002404": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002405": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002406": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002407": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002408": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002409": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002410": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002411": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002412": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002413": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002414": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002415": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002416": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002417": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002418": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002419": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002420": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002421": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002422": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002423": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002424": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002425": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002426": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002427": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002428": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002429": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002430": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002431": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002432": "URI:http://www.who.int/csr/resources/publications/plague/WHO_CDS_CSR_EDC_99_2_EN/en/",
+          "http://purl.obolibrary.org/obo/VSMO_0002434": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002435": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002437": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002438": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002439": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002440": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002441": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002442": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002443": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002444": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002445": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002447": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002448": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002449": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002451": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002452": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002453": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002454": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002455": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002456": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002457": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002458": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002459": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002463": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002464": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002465": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002466": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002467": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002468": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002469": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002470": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002471": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002472": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002473": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002474": "URI:http://blackflies.info/sites/blackflies.info/files/u13/SIMULIIDAE_INVENTORY__NEW_VERSION_2009.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002483": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002486": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002487": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002488": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002489": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002490": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002491": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002493": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002495": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002496": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002497": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002498": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002500": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002501": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002502": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002503": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002504": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002505": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002506": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002507": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002508": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002509": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002510": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002511": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002512": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002514": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002515": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002516": "URI:http://hdl.handle.net/2246/1282",
+          "http://purl.obolibrary.org/obo/VSMO_0002518": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002519": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002520": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002521": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002522": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002523": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002524": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002525": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002526": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002527": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002528": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002529": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002530": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002531": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002532": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002533": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002534": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002535": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002538": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002539": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002540": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002541": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002543": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002555": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002556": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002624": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002625": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002627": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002628": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002629": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002630": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002632": "URI:http://www.sandflycatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002633": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002635": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002636": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002637": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002638": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002639": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002640": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002641": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002642": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002643": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002644": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002645": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002646": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002647": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002648": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002649": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002650": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002651": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002652": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002653": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002654": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002655": "URI:http://www.inhs.illinois.edu/research/FLYTREE/CeratopogonidaeCatalog.pdf",
+          "http://purl.obolibrary.org/obo/VSMO_0002657": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002660": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002661": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002662": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002663": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002664": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002665": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002666": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002667": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002668": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002669": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002670": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002672": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002673": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002674": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002675": "URI:http://www.kolonin.org/1.html",
+          "http://purl.obolibrary.org/obo/VSMO_0002678": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002679": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002682": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002683": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002685": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002686": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002687": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002688": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002689": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002690": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002691": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002692": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002693": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002694": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002695": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002696": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002697": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002698": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002699": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002700": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002702": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002703": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002704": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002705": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002706": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002707": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002708": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002709": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002710": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002711": "URI:http://wwwn.cdc.gov/arbocat/index.asp",
+          "http://purl.obolibrary.org/obo/VSMO_0002712": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002713": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002714": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002715": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002716": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002717": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002718": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002719": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002720": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002722": "URI:http://www.mosquitocatalog.org/",
+          "http://purl.obolibrary.org/obo/VSMO_0002725": "URI:http://eclat.fcien.edu.uy/",
+          "http://purl.obolibrary.org/obo/VSMO_0002726": "URI:http://eclat.fcien.edu.uy/"
+        },
+        "XX": {
+          "http://purl.obolibrary.org/obo/VSMO_0001216": "XX:<new dbxref>"
+        },
+        "wiki": {
+          "http://purl.obolibrary.org/obo/PATO_0002370": "wiki:http://en.wikipedia.org/wiki/Parity_(biology)"
+        }
+      }
+    },
+    "synonym_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/CHEBI_23092": [
+          "ChEBI:"
+        ]
+      },
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "URL": {
+          "http://purl.obolibrary.org/obo/VSMO_0000180": "URL:http://en.wikipedia.org/wiki/Biological_classification"
+        },
+        "url": {
+          "http://purl.obolibrary.org/obo/VSMO_0000499": "url:http://en.wikipedia.org/wiki/Incubation_period"
+        }
+      }
+    },
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/MIRO_10000108": [
+          "CAS:7-(2-chlorophenyl)-4-ethoxy-3,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile4-sulfide"
+        ],
+        "http://purl.obolibrary.org/obo/VSMO_0000055": [
+          "DOID: 2293"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {
+        "IRAC": {
+          "http://purl.obolibrary.org/obo/MIRO_10000101": "IRAC:eClassification",
+          "http://purl.obolibrary.org/obo/MIRO_10000181": "IRAC:eClassification",
+          "http://purl.obolibrary.org/obo/MIRO_10000206": "IRAC:eClassification",
+          "http://purl.obolibrary.org/obo/MIRO_10000239": "IRAC:eClassification"
+        },
+        "IUPAC": {
+          "http://purl.obolibrary.org/obo/MIRO_10000108": "IUPAC:O,O-diethyl2-chloro--cyanobenzylideneaminooxyphosphonothioate",
+          "http://purl.obolibrary.org/obo/MIRO_10000160": "IUPAC:(1R,4S,4aS,5R,6R,7S,8S,8aR)-1,2,3,4,10,10-hexachloro-1,4,4a,5,6,7,8,8a-octahydro-6,7-epoxy-1,4:5,8-dimethanonaphthalene"
+        },
+        "biotop": {
+          "http://purl.obolibrary.org/obo/VSMO_0000084": "biotop:ArthropodPopulation"
+        }
+      }
+    }
+  }
+}

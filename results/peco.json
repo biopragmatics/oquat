@@ -739,7 +739,6 @@
           "http://purl.obolibrary.org/obo/PECO_0007080": "Gramene:pankaj_jaiswal",
           "http://purl.obolibrary.org/obo/PECO_0007083": "Gramene:ivy",
           "http://purl.obolibrary.org/obo/PECO_0007084": "Gramene:pankaj_jaiswal",
-          "http://purl.obolibrary.org/obo/PECO_0007085": "Gramene:pankaj_jaiswal",
           "http://purl.obolibrary.org/obo/PECO_0007086": "Gramene:pankaj_jaiswal",
           "http://purl.obolibrary.org/obo/PECO_0007087": "Gramene:pankaj_jaiswal",
           "http://purl.obolibrary.org/obo/PECO_0007088": "Gramene:ivy",
@@ -813,7 +812,6 @@
           "http://purl.obolibrary.org/obo/PECO_0007164": "Gramene:pankaj_jaiswal",
           "http://purl.obolibrary.org/obo/PECO_0007165": "Gramene:pankaj_jaiswal",
           "http://purl.obolibrary.org/obo/PECO_0007166": "Gramene:pankaj_jaiswal",
-          "http://purl.obolibrary.org/obo/PECO_0007167": "Gramene:pankaj_jaiswal",
           "http://purl.obolibrary.org/obo/PECO_0007168": "Gramene:pankaj_jaiswal",
           "http://purl.obolibrary.org/obo/PECO_0007171": "Gramene:pankaj_jaiswal",
           "http://purl.obolibrary.org/obo/PECO_0007172": "Gramene:pankaj_jaiswal",
@@ -1198,7 +1196,7 @@
           "http://purl.obolibrary.org/obo/PECO_0001047": "OBO_SF2_PECO:14",
           "http://purl.obolibrary.org/obo/PECO_0001048": "OBO_SF2_PECO:18",
           "http://purl.obolibrary.org/obo/PECO_0001049": "OBO_SF2_PECO:17",
-          "http://purl.obolibrary.org/obo/PECO_0001050": "OBO_SF2_PECO:19",
+          "http://purl.obolibrary.org/obo/PECO_0001050": "OBO_SF2_PECO:2",
           "http://purl.obolibrary.org/obo/PECO_0001051": "OBO_SF2_PECO:21",
           "http://purl.obolibrary.org/obo/PECO_0001052": "OBO_SF2_PECO:22",
           "http://purl.obolibrary.org/obo/PECO_0001053": "OBO_SF2_PECO:24",
@@ -1311,7 +1309,7 @@
           "http://purl.obolibrary.org/obo/PECO_0001047": "PECO_GIT:14",
           "http://purl.obolibrary.org/obo/PECO_0001048": "PECO_GIT:18",
           "http://purl.obolibrary.org/obo/PECO_0001049": "PECO_GIT:17",
-          "http://purl.obolibrary.org/obo/PECO_0001050": "PECO_GIT:19",
+          "http://purl.obolibrary.org/obo/PECO_0001050": "PECO_GIT:2",
           "http://purl.obolibrary.org/obo/PECO_0001051": "PECO_GIT:21",
           "http://purl.obolibrary.org/obo/PECO_0001052": "PECO_GIT:22",
           "http://purl.obolibrary.org/obo/PECO_0001053": "PECO_GIT:24",
@@ -1387,198 +1385,6 @@
           "http://purl.obolibrary.org/obo/PECO_0007633": "PECO_GIT:74"
         }
       }
-    }
-  },
-  "http://purl.obolibrary.org/obo/peco/imports/chebi_import.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/peco/imports/chebi_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/peco/imports/envo_import.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/peco/imports/envo_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/peco/imports/ncbitaxon_import.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/peco/imports/ncbitaxon_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/peco/imports/ro_import.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/peco/imports/ro_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/peco/patterns/exposure-chebi_pattern.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/peco/patterns/exposure-chebi_pattern.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/peco/patterns/exposure-chebi_role_pattern.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/peco/patterns/exposure-chebi_role_pattern.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/peco/patterns/exposure-envo_pattern.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/peco/patterns/exposure-envo_pattern.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  },
-  "http://purl.obolibrary.org/obo/peco/patterns/exposure-ncbitaxon_pattern.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/peco/patterns/exposure-ncbitaxon_pattern.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
     }
   }
 }

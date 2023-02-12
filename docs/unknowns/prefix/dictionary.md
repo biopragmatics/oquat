@@ -13,6 +13,13 @@
 | Dictionary:http://dictionary.reference.com/ |        9 | [PATO:0000318](http://purl.obolibrary.org/obo/PATO_0000318), [PATO:0000320](http://purl.obolibrary.org/obo/PATO_0000320), [PATO:0000322](http://purl.obolibrary.org/obo/PATO_0000322), [PATO:0000323](http://purl.obolibrary.org/obo/PATO_0000323), [PATO:0000324](http://purl.obolibrary.org/obo/PATO_0000324), ... |
 | dictionary:reference                        |        1 | [PATO:0000389](http://purl.obolibrary.org/obo/PATO_0000389)                                                                                                                                                                                                                                                          |
 
+## nif
+
+| curie                                       |   usages | nodes                                                                                                                                                                                                                                                                                                                |
+|---------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dictionary:http://dictionary.reference.com/ |        9 | [PATO:0000318](http://purl.obolibrary.org/obo/PATO_0000318), [PATO:0000320](http://purl.obolibrary.org/obo/PATO_0000320), [PATO:0000322](http://purl.obolibrary.org/obo/PATO_0000322), [PATO:0000323](http://purl.obolibrary.org/obo/PATO_0000323), [PATO:0000324](http://purl.obolibrary.org/obo/PATO_0000324), ... |
+| dictionary:reference                        |        1 | [PATO:0000389](http://purl.obolibrary.org/obo/PATO_0000389)                                                                                                                                                                                                                                                          |
+
 ## bto
 
 | curie                                                  |   usages | nodes                                                                                                                                                                                                                                                                                                      |

@@ -70,3 +70,13 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |-----------------------|----------|-----------------------------------------------------------|
 | ZDB:ZDB-PUB-031103-13 |        1 | [ZFA:0001165](http://purl.obolibrary.org/obo/ZFA_0001165) |
 
+## `goc`
+
+There are 1 usages of `goc` in `zfa`.
+If you are knowledgable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20goc).
+
+| curie   |   usages | nodes                                                                                                                                                                                                                                      |
+|---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| goc:cvs |        4 | [ZFA:0005945](http://purl.obolibrary.org/obo/ZFA_0005945), [ZFA:0005946](http://purl.obolibrary.org/obo/ZFA_0005946), [ZFA:0005947](http://purl.obolibrary.org/obo/ZFA_0005947), [ZFA:0005948](http://purl.obolibrary.org/obo/ZFA_0005948) |
+

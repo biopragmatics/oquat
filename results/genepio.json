@@ -1,0 +1,178 @@
+{
+  "http://purl.obolibrary.org/obo/genepio.owl": {
+    "graph_id": "http://purl.obolibrary.org/obo/genepio.owl",
+    "prov_pack": {
+      "invalid_luids": {},
+      "label": "Provenance Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "synonym_pack": {
+      "invalid_luids": {},
+      "label": "Synonym Xrefs",
+      "malformed_curies": {},
+      "noncanonical_prefixes": {},
+      "unknown_prefixes": {}
+    },
+    "version": "2023-01-26",
+    "version_iri": "http://purl.obolibrary.org/obo/genepio/releases/2023-01-26/genepio.owl",
+    "xref_pack": {
+      "invalid_luids": {
+        "http://purl.obolibrary.org/obo/GENEPIO_0001076": [
+          "Snomed: Concept 260827009"
+        ],
+        "http://purl.obolibrary.org/obo/GENEPIO_0001077": [
+          "Snomed: Concept 260823008"
+        ],
+        "http://purl.obolibrary.org/obo/GENEPIO_0001643": [
+          "INSDC:institution_code:BRS"
+        ],
+        "http://purl.obolibrary.org/obo/GENEPIO_0001719": [
+          "SNOMED: http://www.snomedbrowser.com/Codes/Details/272405002"
+        ],
+        "http://purl.obolibrary.org/obo/GENEPIO_0001722": [
+          "INSDC:specimen_voucher"
+        ]
+      },
+      "label": "Node Xrefs",
+      "malformed_curies": {
+        "http://purl.obolibrary.org/obo/GENEPIO_0001666": [
+          "INSDC"
+        ],
+        "http://purl.obolibrary.org/obo/GENEPIO_0001813": [
+          "ITIS"
+        ],
+        "http://purl.obolibrary.org/obo/GENEPIO_0001818": [
+          "MSH"
+        ],
+        "http://purl.obolibrary.org/obo/GENEPIO_0001819": [
+          "NCI_Thesaurus",
+          "NCIt"
+        ],
+        "http://purl.obolibrary.org/obo/GENEPIO_0001821": [
+          "SNOMEDCT"
+        ],
+        "http://purl.obolibrary.org/obo/GENEPIO_0001822": [
+          "FAO ASFIS"
+        ],
+        "http://purl.obolibrary.org/obo/GENEPIO_0001837": [
+          "AHA HIPPA"
+        ],
+        "http://purl.obolibrary.org/obo/GENEPIO_0001838": [
+          "PMID"
+        ],
+        "http://purl.obolibrary.org/obo/GENEPIO_0001839": [
+          "PulseNet"
+        ]
+      },
+      "noncanonical_prefixes": {
+        "SNOMED": {
+          "http://purl.obolibrary.org/obo/GENEPIO_0001719": "SNOMED: http://www.snomedbrowser.com/Codes/Details/272405002"
+        },
+        "Snomed": {
+          "http://purl.obolibrary.org/obo/GENEPIO_0001076": "Snomed: Concept 260827009",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001077": "Snomed: Concept 260823008"
+        }
+      },
+      "unknown_prefixes": {
+        "AHA Hippa": {
+          "http://purl.obolibrary.org/obo/GENEPIO_0001840": "AHA Hippa: Good"
+        },
+        "IRIDA": {
+          "http://purl.obolibrary.org/obo/GENEPIO_0001643": "IRIDA:ACK"
+        },
+        "Illumina SampleSheet": {
+          "http://purl.obolibrary.org/obo/GENEPIO_0000079": "Illumina SampleSheet: Sample_ID"
+        },
+        "NCBI BioSample": {
+          "http://purl.obolibrary.org/obo/GENEPIO_0000019": "NCBI BioSample: intersex",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001615": "NCBI BioSample: isolate",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001660": "NCBI BioSample: neuter",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001661": "NCBI BioSample: 'pooled male and female'",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001706": "NCBI BioSample: collection_code"
+        },
+        "NCBI Biosample": {
+          "http://purl.obolibrary.org/obo/GENEPIO_0001246": "NCBI Biosample: environmental (swab or sampling)",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001618": "NCBI Biosample: missing",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001620": "NCBI Biosample: not collected"
+        },
+        "NCBI SRA": {
+          "http://purl.obolibrary.org/obo/GENEPIO_0001923": "NCBI SRA: ILLUMINA",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001924": "NCBI SRA: COMPLETE_GENOMICS",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001926": "NCBI SRA: LS454",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001927": "NCBI SRA: PACBIO_SMRT",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001928": "NCBI SRA: AB SOLiD 4hq",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001929": "NCBI SRA: AB SOLiD 5500",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001930": "NCBI SRA: AB SOLiD 5500xl",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001931": "NCBI SRA: AB SOLiD PI System",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001932": "NCBI SRA: AB SOLiD System 2.0",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001933": "NCBI SRA: AB SOLiD System 3.0",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001935": "NCBI SRA: Ion Torrent PGM",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001936": "NCBI SRA: 454 GS FLX Titanium",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001937": "NCBI SRA: 454 GS",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001938": "NCBI SRA: 454 GS Junior",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001940": "NCBI SRA: LIBRARY_SELECTION",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001941": "NCBI SRA: 5-methylcytidine antibody",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001942": "NCBI SRA: CAGE",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001943": "NCBI SRA: CF-H",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001944": "NCBI SRA: CF-M",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001945": "NCBI SRA: CF-S",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001946": "NCBI SRA: CF-T",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001947": "NCBI SRA: ChIP",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001948": "NCBI SRA: DNAse",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001949": "NCBI SRA: HMPR",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001950": "NCBI SRA: Hybrid Selection",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001951": "NCBI SRA: MBD2 protein methyl-CpG binding domain",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001952": "NCBI SRA: MF",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001953": "NCBI SRA: MNase",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001954": "NCBI SRA: MSLL",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001955": "NCBI SRA: PCR",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001956": "NCBI SRA: RACE",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001957": "NCBI SRA: RANDOM PCR",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001958": "NCBI SRA: RANDOM",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001959": "NCBI SRA: RT-PCR",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001960": "NCBI SRA: Reduced Representation",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001961": "NCBI SRA: Restriction Digest",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001962": "NCBI SRA: cDNA",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001963": "NCBI SRA: size fractionation",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001964": "NCBI SRA: other",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001966": "NCBI SRA: GENOMIC",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001967": "NCBI SRA: METAGENOMIC",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001968": "NCBI SRA: METATRANSCRIPTOMIC",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001969": "NCBI SRA: OTHER",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001970": "NCBI SRA: SYNTHETIC",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001971": "NCBI SRA: TRANSCRIPTOMIC",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001972": "NCBI SRA: VIRAL RNA",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001974": "NCBI SRA: AMPLICON",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001975": "NCBI SRA: Bisulfite-Seq",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001976": "NCBI SRA: CLONEEND",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001977": "NCBI SRA: CLONE",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001978": "NCBI SRA: CTS",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001979": "NCBI SRA: ChIP-Seq",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001980": "NCBI SRA: DNase-Hypersensitivity",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001981": "NCBI SRA: EST",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001982": "NCBI SRA: FINISHING",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001983": "NCBI SRA: FL-cDNA",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001984": "NCBI SRA: MBD-Seq",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001985": "NCBI SRA: MNase-Seq",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001986": "NCBI SRA: MRE-Seq",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001987": "NCBI SRA: MeDIP-Seq",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001988": "NCBI SRA: OTHER",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001989": "NCBI SRA: POOLCLONE",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001990": "NCBI SRA: RNA-Seq",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001991": "NCBI SRA: WCS",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001992": "NCBI SRA: WGS",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001993": "NCBI SRA: WXS",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001995": "NCBI SRA: LIBRARY_NAME"
+        },
+        "PulseNet": {
+          "http://purl.obolibrary.org/obo/GENEPIO_0000024": "PulseNet: UploadDate",
+          "http://purl.obolibrary.org/obo/GENEPIO_0000079": "PulseNet: SubmittedNumber",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001559": "PulseNet: Outbreak",
+          "http://purl.obolibrary.org/obo/GENEPIO_0001782": "PulseNet: UploadModifiedDate"
+        }
+      }
+    }
+  }
+}

@@ -4,7 +4,7 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `xlmod`. See the [GitHub repository](https://github.com/HUPO-PSI/xlmod-CV).
 
 
-## `CAS`: CAS Chemical Registry
+## `CAS`: CAS Registry Number
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `CAS` (standardized to Bioregistry

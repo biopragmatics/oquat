@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `gmelin`
 but use local unique identifiers that do not match the standard pattern of
-`^[1-9][0-9]{3,6}$`. Of the 3 resources,
+`^[1-9][0-9]{3,6}$`. Of the 5 resources,
 1 variants on the standard prefix were found: ['Gmelin'].
 
 ## `chebi`: Chemical Entities of Biological Interest
@@ -182,6 +182,15 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `Gmelin:276`    |              1 | [CHEBI:51707](http://purl.obolibrary.org/obo/CHEBI_51707) |
 | `Gmelin:917`    |              1 | [CHEBI:7438](http://purl.obolibrary.org/obo/CHEBI_7438)   |
 
+## `covoc`: CoVoc Coronavirus Vocabulary
+
+Identifiers for this prefix are given incorrectly in `covoc`. See the [GitHub repository](https://github.com/EBISPOT/covoc).
+
+| external_xref   |   usages_count | usages                                                    |
+|-----------------|----------------|-----------------------------------------------------------|
+| `Gmelin:485`    |              1 | [CHEBI:15379](http://purl.obolibrary.org/obo/CHEBI_15379) |
+| `Gmelin:509`    |              1 | [CHEBI:16240](http://purl.obolibrary.org/obo/CHEBI_16240) |
+
 ## `enm`: eNanoMapper Ontology
 
 Identifiers for this prefix are given incorrectly in `enm`.
@@ -200,4 +209,37 @@ Identifiers for this prefix are given incorrectly in `msio`. See the [GitHub rep
 | `Gmelin:79`     |              1 | [CHEBI:16134](http://purl.obolibrary.org/obo/CHEBI_16134) |
 | `Gmelin:895`    |              1 | [CHEBI:38472](http://purl.obolibrary.org/obo/CHEBI_38472) |
 | `Gmelin:97`     |              1 | [CHEBI:41981](http://purl.obolibrary.org/obo/CHEBI_41981) |
+
+## `nif`: None
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref   |   usages_count | usages                                                    |
+|-----------------|----------------|-----------------------------------------------------------|
+| `Gmelin:117`    |              1 | [CHEBI:15377](http://purl.obolibrary.org/obo/CHEBI_15377) |
+| `Gmelin:485`    |              1 | [CHEBI:15379](http://purl.obolibrary.org/obo/CHEBI_15379) |
+| `Gmelin:897`    |              1 | [CHEBI:15862](http://purl.obolibrary.org/obo/CHEBI_15862) |
+| `Gmelin:79`     |              1 | [CHEBI:16134](http://purl.obolibrary.org/obo/CHEBI_16134) |
+| `Gmelin:303`    |              1 | [CHEBI:16136](http://purl.obolibrary.org/obo/CHEBI_16136) |
+| `Gmelin:59`     |              1 | [CHEBI:16183](http://purl.obolibrary.org/obo/CHEBI_16183) |
+| `Gmelin:787`    |              1 | [CHEBI:16236](http://purl.obolibrary.org/obo/CHEBI_16236) |
+| `Gmelin:509`    |              1 | [CHEBI:16240](http://purl.obolibrary.org/obo/CHEBI_16240) |
+| `Gmelin:977`    |              1 | [CHEBI:16301](http://purl.obolibrary.org/obo/CHEBI_16301) |
+| `Gmelin:451`    |              1 | [CHEBI:16480](http://purl.obolibrary.org/obo/CHEBI_16480) |
+| `Gmelin:989`    |              1 | [CHEBI:16526](http://purl.obolibrary.org/obo/CHEBI_16526) |
+| `Gmelin:421`    |              1 | [CHEBI:17245](http://purl.obolibrary.org/obo/CHEBI_17245) |
+| `Gmelin:89`     |              1 | [CHEBI:17514](http://purl.obolibrary.org/obo/CHEBI_17514) |
+| `Gmelin:449`    |              1 | [CHEBI:17790](http://purl.obolibrary.org/obo/CHEBI_17790) |
+| `Gmelin:322`    |              1 | [CHEBI:17883](http://purl.obolibrary.org/obo/CHEBI_17883) |
+| `Gmelin:983`    |              1 | [CHEBI:25567](http://purl.obolibrary.org/obo/CHEBI_25567) |
+| `Gmelin:676`    |              1 | [CHEBI:27561](http://purl.obolibrary.org/obo/CHEBI_27561) |
+| `Gmelin:84`     |              1 | [CHEBI:28938](http://purl.obolibrary.org/obo/CHEBI_28938) |
+| `Gmelin:507`    |              1 | [CHEBI:29192](http://purl.obolibrary.org/obo/CHEBI_29192) |
+| `Gmelin:141`    |              1 | [CHEBI:29412](http://purl.obolibrary.org/obo/CHEBI_29412) |
+| `Gmelin:773`    |              1 | [CHEBI:29449](http://purl.obolibrary.org/obo/CHEBI_29449) |
+| `Gmelin:508`    |              1 | [CHEBI:29793](http://purl.obolibrary.org/obo/CHEBI_29793) |
+| `Gmelin:307`    |              1 | [CHEBI:30488](http://purl.obolibrary.org/obo/CHEBI_30488) |
+| `Gmelin:113`    |              1 | [CHEBI:36856](http://purl.obolibrary.org/obo/CHEBI_36856) |
+| `Gmelin:620`    |              1 | [CHEBI:47266](http://purl.obolibrary.org/obo/CHEBI_47266) |
+| `Gmelin:331`    |              1 | [CHEBI:50315](http://purl.obolibrary.org/obo/CHEBI_50315) |
 
