@@ -3,7 +3,7 @@
 ## `DD`
 
 There are 1 usages of `DD` in `ddpheno`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DD).
 
 | curie   |   usages | nodes                                                                                                                                                                                                   |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DDB`
 
 There are 1 usages of `DDB` in `ddpheno`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DDB).
 
 | curie   |   usages | nodes                                                                                                                                                                                                   |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DDBB`
 
 There are 1 usages of `DDBB` in `ddpheno`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DDBB).
 
 | curie   |   usages | nodes                                                             |
@@ -33,7 +33,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DDD`
 
 There are 1 usages of `DDD` in `ddpheno`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DDD).
 
 | curie   |   usages | nodes                                                             |
@@ -43,7 +43,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DDb`
 
 There are 1 usages of `DDb` in `ddpheno`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DDb).
 
 | curie   |   usages | nodes                                                             |

@@ -3,7 +3,7 @@
 ## `GOC`
 
 There are 128 usages of `GOC` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 <details>
@@ -145,7 +145,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOCL`
 
 There are 1 usages of `GOCL` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOCL).
 
 | curie     |   usages | nodes                                                   |
@@ -155,7 +155,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOV`
 
 There are 1 usages of `GOV` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOV).
 
 | curie   |   usages | nodes                                                   |
@@ -165,7 +165,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GPC`
 
 There are 1 usages of `GPC` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GPC).
 
 | curie   |   usages | nodes                                                   |
@@ -175,7 +175,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `HEA`
 
 There are 1 usages of `HEA` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20HEA).
 
 | curie     |   usages | nodes                                                   |
@@ -185,7 +185,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IMG`
 
 There are 2 usages of `IMG` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMG).
 
 | curie     |   usages | nodes                                                   |
@@ -196,7 +196,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `LIGAND`
 
 There are 1 usages of `LIGAND` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20LIGAND).
 
 | curie         |   usages | nodes                                                   |
@@ -206,7 +206,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MEROPS`
 
 There are 1 usages of `MEROPS` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MEROPS).
 
 | curie          |   usages | nodes                                                   |
@@ -216,7 +216,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MEROPS_fam`
 
 There are 2 usages of `MEROPS_fam` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MEROPS_fam).
 
 | curie          |   usages | nodes                                                   |
@@ -227,7 +227,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MITRE`
 
 There are 1 usages of `MITRE` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MITRE).
 
 | curie    |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -237,7 +237,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PIMD`
 
 There are 1 usages of `PIMD` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PIMD).
 
 | curie         |   usages | nodes                                                   |
@@ -247,7 +247,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `POC`
 
 There are 1 usages of `POC` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20POC).
 
 | curie        |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -257,7 +257,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PO_REF`
 
 There are 1 usages of `PO_REF` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PO_REF).
 
 | curie        |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -267,7 +267,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Wiki`
 
 There are 1 usages of `Wiki` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiki).
 
 | curie             |   usages | nodes                                                   |
@@ -277,7 +277,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ABA`
 
 There are 1 usages of `ABA` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ABA).
 
 | curie   |   usages | nodes                                                   |
@@ -287,7 +287,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GGOC`
 
 There are 1 usages of `GGOC` in `go`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GGOC).
 
 | curie     |   usages | nodes                                                   |

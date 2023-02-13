@@ -1,1214 +1,1218 @@
 {
-  "http://purl.obolibrary.org/obo/mpath.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/mpath.owl",
-    "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/MPATH_40": [
-          "PMID: 11794381"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_499": [
-          "PMCID: 1964945"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_652": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_656": [
-          "MPATH:Curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_670": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_722": [
-          "ICD-O:M-8900/0"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_723": [
-          "ICDO:M-8822/1"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_724": [
-          "MPATH:Pathology Committee"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_733": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_735": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_739": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_740": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_741": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_742": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_743": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_744": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_745": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_746": [
-          "MPATH::Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_747": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_748": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_749": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_750": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_751": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_752": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_753": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_754": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_755": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_756": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_757": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_758": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_759": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_760": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_761": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_762": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_763": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_764": [
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_765": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_766": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_768": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_769": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_770": [
-          "MPATH:<new dbxref>",
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_771": [
-          "MPATH:<new dbxref>",
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_772": [
-          "MPATH:<new dbxref>",
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_773": [
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_774": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_775": [
-          "MPATH:PNS",
-          "mpath:<new dbxref>"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_776": [
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_777": [
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_778": [
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_779": [
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_780": [
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_781": [
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_782": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_783": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_784": [
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_785": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_786": [
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_787": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_788": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_789": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_790": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_791": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_792": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_793": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_794": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_795": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_796": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_797": [
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_798": [
-          "MPATH:PNS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_799": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_800": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_801": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_802": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_803": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_809": [
-          "MPATH:Pathology committee"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_810": [
-          "MPATH:Sundberg"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_811": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_812": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_813": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_814": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_815": [
-          "PMID:    21191096"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_817": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_820": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_821": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_822": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_823": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_825": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_826": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_827": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_828": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_829": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_830": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_831": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_832": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_833": [
-          "mpath:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_834": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_835": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_836": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_837": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_838": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_839": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_840": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_841": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_843": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_844": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_845": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_846": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_847": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_848": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_849": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_850": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_851": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_853": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_854": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_856": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_857": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_858": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_859": [
-          "ISBN: 0-7216-2921-0."
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_860": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_861": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_862": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_863": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_864": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_865": [
-          "MPATH:curationf>"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_866": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_867": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_868": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_869": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_870": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_871": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_872": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_873": [
-          "MPATH:curation"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_874": [
-          "MPATH:Pathology Committee"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_875": [
-          "MPATH:Pathology Committee"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_876": [
-          "MPATH:Pathology Committee"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_878": [
-          "MPATH:Pathology Committee"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_879": [
-          "MPATH:Pathology Committee"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_880": [
-          "MPATH:Pathology Committee"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_881": [
-          "MPATH:Pathology Committee"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_882": [
-          "MPATH:JPS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_883": [
-          "MPATH:JPS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_884": [
-          "MPATH:JPS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_885": [
-          "MPATH:Pathology Committee"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_886": [
-          "MPATH:Pathology Committee"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_887": [
-          "MPATH:Pathology Committee"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_888": [
-          "MPATH:JPS"
-        ],
-        "http://purl.obolibrary.org/obo/MPATH_889": [
-          "MPATH:PNS"
-        ]
-      },
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "ICD-O": {
-          "http://purl.obolibrary.org/obo/MPATH_709": "ICD-O:8920/3",
-          "http://purl.obolibrary.org/obo/MPATH_710": "ICD-O:8910/3",
-          "http://purl.obolibrary.org/obo/MPATH_722": "ICD-O:M-8900/0"
+  "created": "2023-02-13T19:00:40.435866",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/mpath.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/mpath.owl",
+      "prov_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/MPATH_40": [
+            "PMID: 11794381"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_499": [
+            "PMCID: 1964945"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_652": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_656": [
+            "MPATH:Curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_670": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_722": [
+            "ICD-O:M-8900/0"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_723": [
+            "ICDO:M-8822/1"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_724": [
+            "MPATH:Pathology Committee"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_733": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_735": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_739": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_740": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_741": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_742": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_743": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_744": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_745": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_746": [
+            "MPATH::Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_747": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_748": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_749": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_750": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_751": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_752": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_753": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_754": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_755": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_756": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_757": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_758": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_759": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_760": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_761": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_762": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_763": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_764": [
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_765": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_766": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_768": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_769": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_770": [
+            "MPATH:<new dbxref>",
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_771": [
+            "MPATH:<new dbxref>",
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_772": [
+            "MPATH:<new dbxref>",
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_773": [
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_774": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_775": [
+            "MPATH:PNS",
+            "mpath:<new dbxref>"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_776": [
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_777": [
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_778": [
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_779": [
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_780": [
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_781": [
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_782": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_783": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_784": [
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_785": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_786": [
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_787": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_788": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_789": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_790": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_791": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_792": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_793": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_794": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_795": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_796": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_797": [
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_798": [
+            "MPATH:PNS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_799": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_800": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_801": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_802": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_803": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_809": [
+            "MPATH:Pathology committee"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_810": [
+            "MPATH:Sundberg"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_811": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_812": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_813": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_814": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_815": [
+            "PMID:    21191096"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_817": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_820": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_821": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_822": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_823": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_825": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_826": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_827": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_828": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_829": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_830": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_831": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_832": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_833": [
+            "mpath:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_834": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_835": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_836": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_837": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_838": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_839": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_840": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_841": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_843": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_844": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_845": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_846": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_847": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_848": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_849": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_850": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_851": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_853": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_854": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_856": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_857": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_858": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_859": [
+            "ISBN: 0-7216-2921-0."
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_860": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_861": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_862": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_863": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_864": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_865": [
+            "MPATH:curationf>"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_866": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_867": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_868": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_869": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_870": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_871": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_872": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_873": [
+            "MPATH:curation"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_874": [
+            "MPATH:Pathology Committee"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_875": [
+            "MPATH:Pathology Committee"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_876": [
+            "MPATH:Pathology Committee"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_878": [
+            "MPATH:Pathology Committee"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_879": [
+            "MPATH:Pathology Committee"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_880": [
+            "MPATH:Pathology Committee"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_881": [
+            "MPATH:Pathology Committee"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_882": [
+            "MPATH:JPS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_883": [
+            "MPATH:JPS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_884": [
+            "MPATH:JPS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_885": [
+            "MPATH:Pathology Committee"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_886": [
+            "MPATH:Pathology Committee"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_887": [
+            "MPATH:Pathology Committee"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_888": [
+            "MPATH:JPS"
+          ],
+          "http://purl.obolibrary.org/obo/MPATH_889": [
+            "MPATH:PNS"
+          ]
         },
-        "ICDO-": {
-          "http://purl.obolibrary.org/obo/MPATH_710": "ICDO-:8912/3"
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {
+          "ICD-O": {
+            "http://purl.obolibrary.org/obo/MPATH_709": "ICD-O:8920/3",
+            "http://purl.obolibrary.org/obo/MPATH_710": "ICD-O:8910/3",
+            "http://purl.obolibrary.org/obo/MPATH_722": "ICD-O:M-8900/0"
+          },
+          "ICDO-": {
+            "http://purl.obolibrary.org/obo/MPATH_710": "ICDO-:8912/3"
+          },
+          "ISBN-13": {
+            "http://purl.obolibrary.org/obo/MPATH_244": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_245": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_246": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_247": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_249": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_250": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_251": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_252": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_253": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_370": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_376": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_435": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_437": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_438": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_564": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_568": "ISBN-13:9783794515530",
+            "http://purl.obolibrary.org/obo/MPATH_569": "ISBN-13:9783794515530"
+          },
+          "PMCID": {
+            "http://purl.obolibrary.org/obo/MPATH_499": "PMCID: 1964945"
+          }
         },
-        "ISBN-13": {
-          "http://purl.obolibrary.org/obo/MPATH_244": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_245": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_246": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_247": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_249": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_250": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_251": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_252": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_253": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_370": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_376": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_435": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_437": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_438": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_564": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_568": "ISBN-13:9783794515530",
-          "http://purl.obolibrary.org/obo/MPATH_569": "ISBN-13:9783794515530"
-        },
-        "PMCID": {
-          "http://purl.obolibrary.org/obo/MPATH_499": "PMCID: 1964945"
+        "unknown_prefixes": {
+          "": {
+            "http://purl.obolibrary.org/obo/MPATH_226": ":Papillary adenoma",
+            "http://purl.obolibrary.org/obo/MPATH_319": ":Walt; H.; Oosterhuis; J.W. and Stevens; L.C. (1993)  Int J Androl; 16; 267-271",
+            "http://purl.obolibrary.org/obo/MPATH_585": ":Murray AB; Luz A ( 1990 ) Acidophilic macrophage pneumonia in laboratory mice. Vet Pathol.  27; 274-81",
+            "http://purl.obolibrary.org/obo/MPATH_595": ":Ward; J.M.; Mann; P.C.; Mrishima; H.; and Frith; C.H. Thymus; Spleen and Lymph nodes. Ch 13.  p342. In Maronpot; R. Pathology of the Mouse. (1999) Cache River Press. Vienna IL",
+            "http://purl.obolibrary.org/obo/MPATH_615": ":NCI Thesaurus / A7567983",
+            "http://purl.obolibrary.org/obo/MPATH_708": ":",
+            "http://purl.obolibrary.org/obo/MPATH_718": ":",
+            "http://purl.obolibrary.org/obo/MPATH_721": ":"
+          },
+          "Book": {
+            "http://purl.obolibrary.org/obo/MPATH_357": "Book: Bannasche; P and Zerban; H. Preneoplastic and neoplastic lesions of the rat iver. In; Pathology of neoplasia and preneoplasia in rodents; P. Bannasch and W. Goessner; Editors. 1997. Schattauer; Stuttgart. p. 18-63",
+            "http://purl.obolibrary.org/obo/MPATH_359": "Book: Klein-Szanto; A.J.; Neoplastic and preneoplastic lesions of the mouse skin; in Pathology of neoplasia and preneoplasia in rodents; P. Bannasch and W. Goessner; Editors. 1997. Schattauer; Stuttgart. p. 1-18",
+            "http://purl.obolibrary.org/obo/MPATH_396": "Book: Luz; A and Gessner; W. ; Neoplastic bone lesions of the mouse; in Pathology of neoplasia and preneoplasia in rodents; P. Bannasch and W. Goessner; Editors. 1997. Schattauer; Stuttgart. p. 142-154",
+            "http://purl.obolibrary.org/obo/MPATH_520": "Book: Morse; et al. (2002) Blood 100; 246-258",
+            "http://purl.obolibrary.org/obo/MPATH_548": "Book: Kunze; E. (1994) Preneoplastic and neoplastic lesions of the Rat urinary bladder. In; Pathology of Neoplasia and Preneoplasia in Rodents. Eds. Bannach; P.;  and Goessner; W.;  Vol 1 p 114. Schattauer; Stuttgart New York",
+            "http://purl.obolibrary.org/obo/MPATH_552": "Book: Hahn; F.F. and Boorman; GA. neoplasia and pre-neoplasia in the lung. In Pathology of Neoplasia and Preneoplasia in Rodents. Vol.2. p 39. (1997) Schattauer ( Stuttgart and New York)",
+            "http://purl.obolibrary.org/obo/MPATH_572": "Book: Luz A; Goessner; W.;and Murray AB.(1991) Ossifying fibroma; mouse. In; Jones TC; Mohr U; Hunt RD (eds) Monographs on pathology of laboratory animals. Cardiovascular and musculoskeletal systems. Springer; Berlin Heidelberg New York Tokyo; pp 228-232",
+            "http://purl.obolibrary.org/obo/MPATH_590": "Book: Albassam MA; Courtney CL (1996) Nonneoplastic and neoplastic lesions of the bone. In; Mohr U; Dungworth DL; Capen CC; Carlton WW; Sundberg JP; Ward JM (eds) Pathobiology of the aging mouse. Vol 2. Musculoskeletal system. ILSI Press; Washington D.C.; pp 425-437"
+          },
+          "CUI": {
+            "http://purl.obolibrary.org/obo/MPATH_824": "CUI:C1266121"
+          },
+          "Journal": {
+            "http://purl.obolibrary.org/obo/MPATH_128": "Journal: Ward; J.M. ( 2002) J Toxicol. Pathol. 15; 123-128",
+            "http://purl.obolibrary.org/obo/MPATH_130": "Journal: Ward; J.M. ( 2002) J Toxicol. Pathol. 15; 123-128",
+            "http://purl.obolibrary.org/obo/MPATH_131": "Journal: Ward; J.M. ( 2002) J Toxicol. Pathol. 15; 123-128",
+            "http://purl.obolibrary.org/obo/MPATH_132": "Journal: Ward; J.M. ( 2002) J Toxicol. Pathol. 15; 123-128",
+            "http://purl.obolibrary.org/obo/MPATH_481": "Journal: Ward; J.M. ( 2002) J Toxicol. Pathol. 15; 123-128",
+            "http://purl.obolibrary.org/obo/MPATH_587": "Journal: La Perle KM; Blomme EA; Sagartz JE; Capen CC (2002) Epididymal cribriform hyperplasia with nuclear atypia in p53 homozygous knockout. Comp Med.  2002 52:568-71.",
+            "http://purl.obolibrary.org/obo/MPATH_632": "Journal: Ward; J.M.; Anver; M.R.; Haines; D.C. & Benveniste; R.E. (1994). Chronic active hepatitis in mice caused by Helicobacter hepaticus. Am J Pathol; 145; 959-68."
+          },
+          "Long; P.H.; and Leininger; J.R ( 1999) Bones Joints and synovia; p663. in": {
+            "http://purl.obolibrary.org/obo/MPATH_616": "Long; P.H.; and Leininger; J.R ( 1999) Bones Joints and synovia; p663. in: Pathology of the Mouse. Ed Maronpot; R. Cache River Press"
+          },
+          "Lu; L-M.; et al (1999) Jpn J. Cancer Res. 90": {
+            "http://purl.obolibrary.org/obo/MPATH_531": "Lu; L-M.; et al (1999) Jpn J. Cancer Res. 90: 1218-1223"
+          },
+          "MAPTH": {
+            "http://purl.obolibrary.org/obo/MPATH_880": "MAPTH:<new dbxref>"
+          },
+          "MPAHTH": {
+            "http://purl.obolibrary.org/obo/MPATH_852": "MPAHTH:curation"
+          },
+          "Mahler M; Sundberg JP ( 1997) Spontaneous Leydig cell tumors in inbred laboratory mice Lab Animal Science 47": {
+            "http://purl.obolibrary.org/obo/MPATH_328": "Mahler M; Sundberg JP ( 1997) Spontaneous Leydig cell tumors in inbred laboratory mice Lab Animal Science 47:148-52"
+          },
+          "Millodot; Michel and Daniel Laby. Dictionary of Ophthalmology. London": {
+            "http://purl.obolibrary.org/obo/MPATH_623": "Millodot; Michel and Daniel Laby. Dictionary of Ophthalmology. London: Butterworth Heinemann; 2002"
+          },
+          "Mills; S.E.; Cooper; P.H. & Fechner; R.E. (1980). Lobular capillary hemangioma": {
+            "http://purl.obolibrary.org/obo/MPATH_628": "Mills; S.E.; Cooper; P.H. & Fechner; R.E. (1980). Lobular capillary hemangioma: the underlying lesion of pyogenic granuloma. A study of 73 cases from the oral and nasal mucous membranes. Am J Surg Pathol; 4; 470-9."
+          },
+          "Nervous System. Radovsky A and Mahler; J.S. In": {
+            "http://purl.obolibrary.org/obo/MPATH_567": "Nervous System. Radovsky A and Mahler; J.S. In: Maronpot; R. Pathology of the Mouse. (1999) Cache River Press. Vienna IL"
+          },
+          "PMH": {
+            "http://purl.obolibrary.org/obo/MPATH_767": "PMH:0001281"
+          },
+          "Pathbase": {
+            "http://purl.obolibrary.org/obo/MPATH_0": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_1": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_100": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_101": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_102": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_103": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_104": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_105": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_106": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_107": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_109": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_110": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_111": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_112": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_113": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_114": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_115": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_116": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_117": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_118": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_119": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_124": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_125": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_126": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_127": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_129": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_133": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_134": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_135": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_137": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_138": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_139": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_14": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_144": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_145": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_147": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_148": "Pathbase: Mohr",
+            "http://purl.obolibrary.org/obo/MPATH_149": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_15": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_151": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_152": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_153": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_154": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_155": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_156": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_159": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_160": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_17": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_175": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_176": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_177": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_178": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_179": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_18": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_180": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_181": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_182": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_183": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_184": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_185": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_186": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_187": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_188": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_189": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_19": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_194": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_195": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_196": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_197": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_2": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_20": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_200": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_201": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_202": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_203": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_204": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_205": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_206": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_207": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_208": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_209": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_21": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_210": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_211": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_212": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_213": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_214": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_218": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_219": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_22": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_220": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_221": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_222": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_223": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_224": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_225": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_227": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_228": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_229": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_23": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_230": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_231": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_233": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_235": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_236": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_237": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_238": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_239": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_24": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_241": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_243": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_248": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_25": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_254": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_255": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_256": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_257": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_258": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_259": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_260": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_261": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_262": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_263": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_264": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_265": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_266": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_267": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_268": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_269": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_270": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_271": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_274": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_275": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_276": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_277": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_278": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_279": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_28": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_280": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_281": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_282": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_283": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_284": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_285": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_286": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_287": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_288": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_289": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_291": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_292": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_293": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_294": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_295": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_296": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_297": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_298": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_299": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_3": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_300": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_301": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_302": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_303": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_304": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_305": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_307": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_308": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_309": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_310": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_311": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_312": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_313": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_314": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_315": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_316": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_317": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_318": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_32": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_320": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_321": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_322": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_323": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_324": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_325": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_327": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_329": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_33": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_330": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_331": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_332": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_333": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_334": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_336": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_338": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_339": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_343": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_344": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_345": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_347": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_348": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_349": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_35": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_350": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_352": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_353": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_354": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_355": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_356": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_358": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_36": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_360": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_361": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_362": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_363": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_364": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_365": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_366": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_367": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_368": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_369": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_37": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_372": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_373": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_374": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_375": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_377": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_378": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_379": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_38": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_380": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_381": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_382": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_383": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_384": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_385": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_386": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_388": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_389": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_39": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_390": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_391": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_392": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_393": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_394": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_395": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_397": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_398": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_399": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_400": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_401": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_402": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_403": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_404": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_405": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_406": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_407": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_408": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_409": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_41": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_410": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_411": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_412": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_413": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_414": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_415": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_416": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_417": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_418": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_419": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_42": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_421": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_422": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_423": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_424": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_425": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_426": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_427": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_428": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_429": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_43": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_430": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_431": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_432": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_433": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_434": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_436": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_439": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_44": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_440": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_441": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_442": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_443": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_444": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_445": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_446": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_447": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_448": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_449": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_45": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_450": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_451": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_452": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_453": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_454": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_455": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_456": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_457": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_458": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_459": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_46": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_460": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_468": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_469": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_47": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_470": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_471": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_472": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_473": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_474": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_475": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_476": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_478": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_479": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_48": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_480": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_482": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_483": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_484": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_485": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_49": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_490": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_495": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_50": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_51": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_514": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_516": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_52": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_543": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_544": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_545": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_547": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_549": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_55": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_550": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_551": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_554": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_556": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_56": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_562": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_565": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_566": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_57": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_570": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_573": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_579": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_580": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_581": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_582": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_583": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_584": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_586": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_588": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_589": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_59": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_591": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_593": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_594": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_596": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_597": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_598": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_599": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_60": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_600": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_601": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_602": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_603": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_604": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_605": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_606": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_607": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_61": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_611": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_617": "Pathbase: Mohr",
+            "http://purl.obolibrary.org/obo/MPATH_618": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_619": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_62": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_620": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_621": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_622": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_627": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_63": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_630": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_631": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_636": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_637": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_639": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_64": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_640": "Pathbase: Pathology  Committee",
+            "http://purl.obolibrary.org/obo/MPATH_641": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_642": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_643": "Pathbase: Pathology  Committee",
+            "http://purl.obolibrary.org/obo/MPATH_644": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_65": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_66": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_67": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_68": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_69": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_70": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_72": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_73": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_75": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_76": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_77": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_78": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_79": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_80": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_81": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_82": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_83": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_84": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_85": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_86": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_87": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_88": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_89": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_90": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_91": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_92": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_93": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_94": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_95": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_96": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_98": "Pathbase: Pathology Committee",
+            "http://purl.obolibrary.org/obo/MPATH_99": "Pathbase: Pathology Committee"
+          },
+          "See": {
+            "http://purl.obolibrary.org/obo/MPATH_571": "See: Gat; U.; DasGupta; R.; Degenstein; L. and Fuchs; E. (1998) De Novo hair follicle morphogenesis and hair tumors in mice expressing a truncated beta-catenin in skin Cell; 95; 605-614."
+          },
+          "UOB": {
+            "http://purl.obolibrary.org/obo/MPATH_1000": "UOB:LTS"
+          },
+          "URL": {
+            "http://purl.obolibrary.org/obo/MPATH_232": "URL:http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models",
+            "http://purl.obolibrary.org/obo/MPATH_234": "URL:http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models",
+            "http://purl.obolibrary.org/obo/MPATH_335": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_575": "URL:http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models",
+            "http://purl.obolibrary.org/obo/MPATH_576": "URL:http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models",
+            "http://purl.obolibrary.org/obo/MPATH_577": "URL:http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models/hierarchical_classification",
+            "http://purl.obolibrary.org/obo/MPATH_578": "URL:http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models/hierarchical_classification",
+            "http://purl.obolibrary.org/obo/MPATH_638": "URL:http://cancerweb.ncl.ac.uk/cgi-bin/omd?action=Search+OMD&query=cellulitis"
+          }
         }
       },
-      "unknown_prefixes": {
-        "": {
-          "http://purl.obolibrary.org/obo/MPATH_226": ":Papillary adenoma",
-          "http://purl.obolibrary.org/obo/MPATH_319": ":Walt; H.; Oosterhuis; J.W. and Stevens; L.C. (1993)  Int J Androl; 16; 267-271",
-          "http://purl.obolibrary.org/obo/MPATH_585": ":Murray AB; Luz A ( 1990 ) Acidophilic macrophage pneumonia in laboratory mice. Vet Pathol.  27; 274-81",
-          "http://purl.obolibrary.org/obo/MPATH_595": ":Ward; J.M.; Mann; P.C.; Mrishima; H.; and Frith; C.H. Thymus; Spleen and Lymph nodes. Ch 13.  p342. In Maronpot; R. Pathology of the Mouse. (1999) Cache River Press. Vienna IL",
-          "http://purl.obolibrary.org/obo/MPATH_615": ":NCI Thesaurus / A7567983",
-          "http://purl.obolibrary.org/obo/MPATH_708": ":",
-          "http://purl.obolibrary.org/obo/MPATH_718": ":",
-          "http://purl.obolibrary.org/obo/MPATH_721": ":"
-        },
-        "Book": {
-          "http://purl.obolibrary.org/obo/MPATH_357": "Book: Bannasche; P and Zerban; H. Preneoplastic and neoplastic lesions of the rat iver. In; Pathology of neoplasia and preneoplasia in rodents; P. Bannasch and W. Goessner; Editors. 1997. Schattauer; Stuttgart. p. 18-63",
-          "http://purl.obolibrary.org/obo/MPATH_359": "Book: Klein-Szanto; A.J.; Neoplastic and preneoplastic lesions of the mouse skin; in Pathology of neoplasia and preneoplasia in rodents; P. Bannasch and W. Goessner; Editors. 1997. Schattauer; Stuttgart. p. 1-18",
-          "http://purl.obolibrary.org/obo/MPATH_396": "Book: Luz; A and Gessner; W. ; Neoplastic bone lesions of the mouse; in Pathology of neoplasia and preneoplasia in rodents; P. Bannasch and W. Goessner; Editors. 1997. Schattauer; Stuttgart. p. 142-154",
-          "http://purl.obolibrary.org/obo/MPATH_520": "Book: Morse; et al. (2002) Blood 100; 246-258",
-          "http://purl.obolibrary.org/obo/MPATH_548": "Book: Kunze; E. (1994) Preneoplastic and neoplastic lesions of the Rat urinary bladder. In; Pathology of Neoplasia and Preneoplasia in Rodents. Eds. Bannach; P.;  and Goessner; W.;  Vol 1 p 114. Schattauer; Stuttgart New York",
-          "http://purl.obolibrary.org/obo/MPATH_552": "Book: Hahn; F.F. and Boorman; GA. neoplasia and pre-neoplasia in the lung. In Pathology of Neoplasia and Preneoplasia in Rodents. Vol.2. p 39. (1997) Schattauer ( Stuttgart and New York)",
-          "http://purl.obolibrary.org/obo/MPATH_572": "Book: Luz A; Goessner; W.;and Murray AB.(1991) Ossifying fibroma; mouse. In; Jones TC; Mohr U; Hunt RD (eds) Monographs on pathology of laboratory animals. Cardiovascular and musculoskeletal systems. Springer; Berlin Heidelberg New York Tokyo; pp 228-232",
-          "http://purl.obolibrary.org/obo/MPATH_590": "Book: Albassam MA; Courtney CL (1996) Nonneoplastic and neoplastic lesions of the bone. In; Mohr U; Dungworth DL; Capen CC; Carlton WW; Sundberg JP; Ward JM (eds) Pathobiology of the aging mouse. Vol 2. Musculoskeletal system. ILSI Press; Washington D.C.; pp 425-437"
-        },
-        "CUI": {
-          "http://purl.obolibrary.org/obo/MPATH_824": "CUI:C1266121"
-        },
-        "Journal": {
-          "http://purl.obolibrary.org/obo/MPATH_128": "Journal: Ward; J.M. ( 2002) J Toxicol. Pathol. 15; 123-128",
-          "http://purl.obolibrary.org/obo/MPATH_130": "Journal: Ward; J.M. ( 2002) J Toxicol. Pathol. 15; 123-128",
-          "http://purl.obolibrary.org/obo/MPATH_131": "Journal: Ward; J.M. ( 2002) J Toxicol. Pathol. 15; 123-128",
-          "http://purl.obolibrary.org/obo/MPATH_132": "Journal: Ward; J.M. ( 2002) J Toxicol. Pathol. 15; 123-128",
-          "http://purl.obolibrary.org/obo/MPATH_481": "Journal: Ward; J.M. ( 2002) J Toxicol. Pathol. 15; 123-128",
-          "http://purl.obolibrary.org/obo/MPATH_587": "Journal: La Perle KM; Blomme EA; Sagartz JE; Capen CC (2002) Epididymal cribriform hyperplasia with nuclear atypia in p53 homozygous knockout. Comp Med.  2002 52:568-71.",
-          "http://purl.obolibrary.org/obo/MPATH_632": "Journal: Ward; J.M.; Anver; M.R.; Haines; D.C. & Benveniste; R.E. (1994). Chronic active hepatitis in mice caused by Helicobacter hepaticus. Am J Pathol; 145; 959-68."
-        },
-        "Long; P.H.; and Leininger; J.R ( 1999) Bones Joints and synovia; p663. in": {
-          "http://purl.obolibrary.org/obo/MPATH_616": "Long; P.H.; and Leininger; J.R ( 1999) Bones Joints and synovia; p663. in: Pathology of the Mouse. Ed Maronpot; R. Cache River Press"
-        },
-        "Lu; L-M.; et al (1999) Jpn J. Cancer Res. 90": {
-          "http://purl.obolibrary.org/obo/MPATH_531": "Lu; L-M.; et al (1999) Jpn J. Cancer Res. 90: 1218-1223"
-        },
-        "MAPTH": {
-          "http://purl.obolibrary.org/obo/MPATH_880": "MAPTH:<new dbxref>"
-        },
-        "MPAHTH": {
-          "http://purl.obolibrary.org/obo/MPATH_852": "MPAHTH:curation"
-        },
-        "Mahler M; Sundberg JP ( 1997) Spontaneous Leydig cell tumors in inbred laboratory mice Lab Animal Science 47": {
-          "http://purl.obolibrary.org/obo/MPATH_328": "Mahler M; Sundberg JP ( 1997) Spontaneous Leydig cell tumors in inbred laboratory mice Lab Animal Science 47:148-52"
-        },
-        "Millodot; Michel and Daniel Laby. Dictionary of Ophthalmology. London": {
-          "http://purl.obolibrary.org/obo/MPATH_623": "Millodot; Michel and Daniel Laby. Dictionary of Ophthalmology. London: Butterworth Heinemann; 2002"
-        },
-        "Mills; S.E.; Cooper; P.H. & Fechner; R.E. (1980). Lobular capillary hemangioma": {
-          "http://purl.obolibrary.org/obo/MPATH_628": "Mills; S.E.; Cooper; P.H. & Fechner; R.E. (1980). Lobular capillary hemangioma: the underlying lesion of pyogenic granuloma. A study of 73 cases from the oral and nasal mucous membranes. Am J Surg Pathol; 4; 470-9."
-        },
-        "Nervous System. Radovsky A and Mahler; J.S. In": {
-          "http://purl.obolibrary.org/obo/MPATH_567": "Nervous System. Radovsky A and Mahler; J.S. In: Maronpot; R. Pathology of the Mouse. (1999) Cache River Press. Vienna IL"
-        },
-        "PMH": {
-          "http://purl.obolibrary.org/obo/MPATH_767": "PMH:0001281"
-        },
-        "Pathbase": {
-          "http://purl.obolibrary.org/obo/MPATH_0": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_1": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_100": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_101": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_102": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_103": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_104": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_105": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_106": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_107": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_109": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_110": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_111": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_112": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_113": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_114": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_115": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_116": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_117": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_118": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_119": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_124": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_125": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_126": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_127": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_129": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_133": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_134": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_135": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_137": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_138": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_139": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_14": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_144": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_145": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_147": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_148": "Pathbase: Mohr",
-          "http://purl.obolibrary.org/obo/MPATH_149": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_15": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_151": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_152": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_153": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_154": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_155": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_156": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_159": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_160": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_17": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_175": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_176": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_177": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_178": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_179": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_18": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_180": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_181": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_182": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_183": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_184": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_185": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_186": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_187": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_188": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_189": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_19": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_194": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_195": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_196": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_197": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_2": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_20": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_200": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_201": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_202": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_203": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_204": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_205": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_206": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_207": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_208": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_209": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_21": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_210": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_211": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_212": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_213": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_214": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_218": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_219": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_22": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_220": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_221": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_222": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_223": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_224": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_225": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_227": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_228": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_229": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_23": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_230": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_231": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_233": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_235": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_236": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_237": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_238": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_239": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_24": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_241": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_243": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_248": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_25": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_254": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_255": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_256": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_257": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_258": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_259": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_260": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_261": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_262": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_263": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_264": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_265": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_266": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_267": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_268": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_269": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_270": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_271": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_274": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_275": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_276": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_277": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_278": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_279": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_28": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_280": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_281": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_282": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_283": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_284": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_285": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_286": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_287": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_288": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_289": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_291": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_292": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_293": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_294": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_295": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_296": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_297": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_298": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_299": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_3": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_300": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_301": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_302": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_303": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_304": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_305": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_307": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_308": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_309": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_310": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_311": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_312": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_313": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_314": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_315": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_316": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_317": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_318": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_32": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_320": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_321": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_322": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_323": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_324": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_325": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_327": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_329": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_33": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_330": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_331": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_332": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_333": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_334": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_336": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_338": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_339": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_343": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_344": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_345": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_347": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_348": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_349": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_35": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_350": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_352": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_353": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_354": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_355": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_356": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_358": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_36": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_360": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_361": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_362": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_363": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_364": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_365": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_366": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_367": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_368": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_369": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_37": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_372": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_373": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_374": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_375": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_377": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_378": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_379": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_38": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_380": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_381": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_382": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_383": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_384": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_385": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_386": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_388": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_389": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_39": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_390": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_391": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_392": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_393": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_394": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_395": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_397": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_398": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_399": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_400": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_401": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_402": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_403": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_404": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_405": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_406": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_407": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_408": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_409": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_41": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_410": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_411": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_412": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_413": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_414": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_415": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_416": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_417": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_418": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_419": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_42": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_421": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_422": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_423": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_424": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_425": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_426": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_427": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_428": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_429": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_43": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_430": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_431": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_432": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_433": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_434": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_436": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_439": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_44": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_440": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_441": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_442": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_443": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_444": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_445": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_446": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_447": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_448": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_449": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_45": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_450": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_451": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_452": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_453": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_454": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_455": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_456": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_457": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_458": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_459": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_46": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_460": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_468": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_469": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_47": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_470": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_471": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_472": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_473": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_474": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_475": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_476": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_478": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_479": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_48": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_480": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_482": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_483": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_484": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_485": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_49": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_490": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_495": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_50": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_51": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_514": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_516": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_52": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_543": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_544": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_545": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_547": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_549": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_55": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_550": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_551": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_554": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_556": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_56": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_562": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_565": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_566": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_57": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_570": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_573": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_579": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_580": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_581": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_582": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_583": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_584": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_586": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_588": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_589": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_59": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_591": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_593": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_594": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_596": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_597": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_598": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_599": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_60": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_600": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_601": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_602": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_603": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_604": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_605": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_606": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_607": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_61": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_611": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_617": "Pathbase: Mohr",
-          "http://purl.obolibrary.org/obo/MPATH_618": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_619": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_62": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_620": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_621": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_622": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_627": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_63": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_630": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_631": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_636": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_637": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_639": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_64": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_640": "Pathbase: Pathology  Committee",
-          "http://purl.obolibrary.org/obo/MPATH_641": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_642": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_643": "Pathbase: Pathology  Committee",
-          "http://purl.obolibrary.org/obo/MPATH_644": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_65": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_66": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_67": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_68": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_69": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_70": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_72": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_73": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_75": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_76": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_77": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_78": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_79": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_80": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_81": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_82": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_83": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_84": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_85": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_86": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_87": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_88": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_89": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_90": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_91": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_92": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_93": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_94": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_95": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_96": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_98": "Pathbase: Pathology Committee",
-          "http://purl.obolibrary.org/obo/MPATH_99": "Pathbase: Pathology Committee"
-        },
-        "See": {
-          "http://purl.obolibrary.org/obo/MPATH_571": "See: Gat; U.; DasGupta; R.; Degenstein; L. and Fuchs; E. (1998) De Novo hair follicle morphogenesis and hair tumors in mice expressing a truncated beta-catenin in skin Cell; 95; 605-614."
-        },
-        "UOB": {
-          "http://purl.obolibrary.org/obo/MPATH_1000": "UOB:LTS"
-        },
-        "URL": {
-          "http://purl.obolibrary.org/obo/MPATH_232": "URL:http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models",
-          "http://purl.obolibrary.org/obo/MPATH_234": "URL:http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models",
-          "http://purl.obolibrary.org/obo/MPATH_335": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_575": "URL:http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models",
-          "http://purl.obolibrary.org/obo/MPATH_576": "URL:http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models",
-          "http://purl.obolibrary.org/obo/MPATH_577": "URL:http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models/hierarchical_classification",
-          "http://purl.obolibrary.org/obo/MPATH_578": "URL:http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models/hierarchical_classification",
-          "http://purl.obolibrary.org/obo/MPATH_638": "URL:http://cancerweb.ncl.ac.uk/cgi-bin/omd?action=Search+OMD&query=cellulitis"
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "Pathbase": {
+            "http://purl.obolibrary.org/obo/MPATH_10": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_108": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_121": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_128": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_130": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_131": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_132": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_133": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_136": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_141": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_143": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_147": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_148": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_149": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_154": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_157": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_158": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_16": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_169": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_184": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_200": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_201": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_224": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_227": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_228": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_229": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_230": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_232": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_233": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_236": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_237": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_238": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_240": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_241": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_242": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_244": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_251": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_252": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_255": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_257": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_261": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_263": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_265": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_27": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_272": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_273": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_278": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_282": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_283": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_284": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_285": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_286": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_287": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_288": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_289": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_290": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_291": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_294": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_3": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_30": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_300": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_302": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_306": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_307": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_308": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_312": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_314": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_315": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_316": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_317": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_319": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_326": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_328": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_329": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_331": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_332": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_334": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_34": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_342": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_353": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_356": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_357": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_359": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_360": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_361": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_362": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_363": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_370": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_371": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_374": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_382": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_383": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_385": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_393": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_394": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_396": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_397": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_399": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_40": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_400": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_403": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_410": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_413": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_421": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_437": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_438": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_440": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_443": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_444": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_446": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_447": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_448": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_452": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_455": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_456": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_477": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_484": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_485": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_486": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_487": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_488": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_489": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_490": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_497": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_498": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_499": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_500": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_501": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_506": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_507": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_518": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_520": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_521": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_522": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_523": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_524": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_525": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_526": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_530": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_537": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_557": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_563": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_564": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_567": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_57": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_581": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_586": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_590": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_592": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_606": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_616": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_617": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_622": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_628": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_634": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_76": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_79": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_82": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_91": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_92": "Pathbase: Curation",
+            "http://purl.obolibrary.org/obo/MPATH_98": "Pathbase: Curation"
+          }
         }
-      }
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "Pathbase": {
-          "http://purl.obolibrary.org/obo/MPATH_10": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_108": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_121": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_128": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_130": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_131": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_132": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_133": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_136": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_141": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_143": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_147": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_148": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_149": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_154": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_157": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_158": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_16": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_169": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_184": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_200": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_201": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_224": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_227": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_228": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_229": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_230": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_232": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_233": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_236": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_237": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_238": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_240": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_241": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_242": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_244": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_251": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_252": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_255": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_257": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_261": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_263": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_265": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_27": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_272": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_273": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_278": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_282": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_283": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_284": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_285": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_286": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_287": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_288": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_289": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_290": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_291": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_294": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_3": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_30": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_300": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_302": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_306": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_307": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_308": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_312": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_314": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_315": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_316": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_317": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_319": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_326": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_328": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_329": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_331": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_332": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_334": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_34": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_342": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_353": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_356": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_357": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_359": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_360": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_361": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_362": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_363": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_370": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_371": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_374": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_382": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_383": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_385": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_393": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_394": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_396": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_397": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_399": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_40": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_400": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_403": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_410": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_413": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_421": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_437": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_438": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_440": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_443": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_444": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_446": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_447": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_448": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_452": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_455": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_456": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_477": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_484": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_485": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_486": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_487": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_488": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_489": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_490": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_497": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_498": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_499": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_500": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_501": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_506": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_507": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_518": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_520": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_521": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_522": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_523": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_524": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_525": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_526": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_530": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_537": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_557": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_563": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_564": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_567": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_57": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_581": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_586": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_590": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_592": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_606": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_616": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_617": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_622": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_628": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_634": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_76": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_79": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_82": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_91": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_92": "Pathbase: Curation",
-          "http://purl.obolibrary.org/obo/MPATH_98": "Pathbase: Curation"
-        }
-      }
-    },
-    "version": "2020-05-19",
-    "version_iri": "http://purl.obolibrary.org/obo/mpath/2020-05-19/mpath.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "URL": {
-          "http://purl.obolibrary.org/obo/MPATH_272": "URL: http://emice.nci.nih.gov/mouse_models/organ_models/lung_models/murinecancer/tumorclass",
-          "http://purl.obolibrary.org/obo/MPATH_273": "URL: http://emice.nci.nih.gov/mouse_models/organ_models/lung_models/murinecancer/tumorclass",
-          "http://purl.obolibrary.org/obo/MPATH_337": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_340": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_341": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_342": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_359": "URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models/malignant_melanoma#melanoma_table",
-          "http://purl.obolibrary.org/obo/MPATH_371": "URL: http://emice.nci.nih.gov/mouse_models/organ_models/lung_models/murinecancer/tumorclass",
-          "http://purl.obolibrary.org/obo/MPATH_488": "URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/prostate_models/path_class_mouse",
-          "http://purl.obolibrary.org/obo/MPATH_496": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_497": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_498": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_500": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_501": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_502": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_503": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_504": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_505": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_506": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_507": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_508": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_509": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_510": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_511": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_512": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_515": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
-          "http://purl.obolibrary.org/obo/MPATH_530": "URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/hema_models/hema_mouse_class",
-          "http://purl.obolibrary.org/obo/MPATH_532": "URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/hema_models/hema_mouse_class",
-          "http://purl.obolibrary.org/obo/MPATH_552": "URL: http://emice.nci.nih.gov/mouse_models/organ_models/lung_models/murinecancer/tumorclass"
-        },
-        "XX": {
-          "http://purl.obolibrary.org/obo/MPATH_713": "XX:<new dbxref>",
-          "http://purl.obolibrary.org/obo/MPATH_759": "XX:<new xref>"
+      },
+      "version": "2020-05-19",
+      "version_iri": "http://purl.obolibrary.org/obo/mpath/2020-05-19/mpath.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "URL": {
+            "http://purl.obolibrary.org/obo/MPATH_272": "URL: http://emice.nci.nih.gov/mouse_models/organ_models/lung_models/murinecancer/tumorclass",
+            "http://purl.obolibrary.org/obo/MPATH_273": "URL: http://emice.nci.nih.gov/mouse_models/organ_models/lung_models/murinecancer/tumorclass",
+            "http://purl.obolibrary.org/obo/MPATH_337": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_340": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_341": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_342": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_359": "URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models/malignant_melanoma#melanoma_table",
+            "http://purl.obolibrary.org/obo/MPATH_371": "URL: http://emice.nci.nih.gov/mouse_models/organ_models/lung_models/murinecancer/tumorclass",
+            "http://purl.obolibrary.org/obo/MPATH_488": "URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/prostate_models/path_class_mouse",
+            "http://purl.obolibrary.org/obo/MPATH_496": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_497": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_498": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_500": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_501": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_502": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_503": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_504": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_505": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_506": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_507": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_508": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_509": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_510": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_511": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_512": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_515": "URL:http://www.bloodjournal.org/cgi/content/full/100/1/238/DC1/2",
+            "http://purl.obolibrary.org/obo/MPATH_530": "URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/hema_models/hema_mouse_class",
+            "http://purl.obolibrary.org/obo/MPATH_532": "URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/hema_models/hema_mouse_class",
+            "http://purl.obolibrary.org/obo/MPATH_552": "URL: http://emice.nci.nih.gov/mouse_models/organ_models/lung_models/murinecancer/tumorclass"
+          },
+          "XX": {
+            "http://purl.obolibrary.org/obo/MPATH_713": "XX:<new dbxref>",
+            "http://purl.obolibrary.org/obo/MPATH_759": "XX:<new xref>"
+          }
         }
       }
     }

@@ -3,7 +3,7 @@
 ## `Abcam`
 
 There are 4191 usages of `Abcam` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Abcam).
 
 <details>
@@ -4208,7 +4208,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `CCLV`
 
 There are 190 usages of `CCLV` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CCLV).
 
 <details>
@@ -4412,7 +4412,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `CCTCC`
 
 There are 261 usages of `CCTCC` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CCTCC).
 
 <details>
@@ -4687,7 +4687,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `CancerTools`
 
 There are 295 usages of `CancerTools` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CancerTools).
 
 <details>
@@ -4996,7 +4996,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Cosmic-CLP`
 
 There are 1020 usages of `Cosmic-CLP` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Cosmic-CLP).
 
 <details>
@@ -6030,7 +6030,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DSMZCellDive`
 
 There are 920 usages of `DSMZCellDive` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DSMZCellDive).
 
 <details>
@@ -6964,7 +6964,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `EGA`
 
 There are 18 usages of `EGA` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20EGA).
 
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -6991,7 +6991,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `FCDI`
 
 There are 1618 usages of `FCDI` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FCDI).
 
 <details>
@@ -8623,7 +8623,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `FlyBase_Cell_line`
 
 There are 305 usages of `FlyBase_Cell_line` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FlyBase_Cell_line).
 
 <details>
@@ -8942,7 +8942,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IARC_TP53`
 
 There are 2193 usages of `IARC_TP53` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IARC_TP53).
 
 <details>
@@ -11149,7 +11149,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IBRC`
 
 There are 1134 usages of `IBRC` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IBRC).
 
 <details>
@@ -12297,7 +12297,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ICLDB`
 
 There are 730 usages of `ICLDB` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICLDB).
 
 <details>
@@ -13041,7 +13041,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ISCR`
 
 There are 1618 usages of `ISCR` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ISCR).
 
 <details>
@@ -14673,7 +14673,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IZSLER`
 
 There are 560 usages of `IZSLER` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IZSLER).
 
 <details>
@@ -15247,7 +15247,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Innoprot`
 
 There are 122 usages of `Innoprot` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Innoprot).
 
 <details>
@@ -15383,7 +15383,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `KCB`
 
 There are 530 usages of `KCB` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KCB).
 
 <details>
@@ -15927,7 +15927,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `LINCS_HMS`
 
 There are 152 usages of `LINCS_HMS` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20LINCS_HMS).
 
 <details>
@@ -16093,7 +16093,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MCCL`
 
 There are 501 usages of `MCCL` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MCCL).
 
 <details>
@@ -16608,7 +16608,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NCBI_Iran`
 
 There are 526 usages of `NCBI_Iran` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NCBI_Iran).
 
 <details>
@@ -17148,7 +17148,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NCI-DTP`
 
 There are 129 usages of `NCI-DTP` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NCI-DTP).
 
 <details>
@@ -17291,7 +17291,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NISES`
 
 There are 35 usages of `NISES` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NISES).
 
 <details>
@@ -17340,7 +17340,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NRFC`
 
 There are 76 usages of `NRFC` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NRFC).
 
 <details>
@@ -17430,7 +17430,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PharmacoDB`
 
 There are 1652 usages of `PharmacoDB` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PharmacoDB).
 
 <details>
@@ -19096,7 +19096,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PubChem_Cell_line`
 
 There are 1555 usages of `PubChem_Cell_line` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PubChem_Cell_line).
 
 <details>
@@ -20665,7 +20665,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `RSCB`
 
 There are 302 usages of `RSCB` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RSCB).
 
 <details>
@@ -20981,7 +20981,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Rockland`
 
 There are 98 usages of `Rockland` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Rockland).
 
 <details>
@@ -21093,7 +21093,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SKY/M-FISH/CGH`
 
 There are 177 usages of `SKY/M-FISH/CGH` in `cellosaurus`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SKY/M-FISH/CGH).
 
 <details>

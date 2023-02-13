@@ -10,7 +10,8 @@ import bioregistry
 from tabulate import tabulate
 from tqdm import tqdm
 
-from oquat.large_scale_analysis import DOCS, RESULTS, url_md
+from oquat.api import ResultPack
+from oquat.large_scale_analysis import DOCS, RESULTS, url_md, AnalysisResults
 
 INVALIDS = DOCS.joinpath("invalids")
 INVALIDS.mkdir(exist_ok=True, parents=True)
@@ -26,8 +27,6 @@ KEYS = [
     "xref_pack",
 ]
 
-INVALID_KEY = "invalid_luids"
-
 
 def main():
     """Analyze invalid identifiers."""
@@ -35,9 +34,11 @@ def main():
     xref_agg = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
     for path in RESULTS.glob("*.json"):
         source = path.stem
-        for results in json.loads(path.read_text()).values():
+        analysis_results = AnalysisResults.parse_obj(json.loads(path.read_text()))
+        for results in analysis_results.results.values():
             for key in KEYS:
-                for node, invalid_xrefs in results[key][INVALID_KEY].items():
+                pack: ResultPack = getattr(results, key)
+                for node, invalid_xrefs in pack.invalid_luids.items():
                     # node_curie = node.removeprefix(OBO_PREFIX).replace("_", ":")
                     for xref in invalid_xrefs:
                         xref_prefix, xref_curie = xref.split(":", 1)

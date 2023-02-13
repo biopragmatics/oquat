@@ -1,27 +1,31 @@
 {
-  "https://github.com/qfo/OrthologyOntology/raw/master/orthOntology_RC_v2_A.owl": {
-    "graph_id": "https://github.com/qfo/OrthologyOntology/raw/master/orthOntology_RC_v2_A.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "This ontology is a release candidate of a second version of the orthology ontology previously published in 2015 and available on http://purl.bioontology.org/ontology/ORTH .\r\n@authors H. Chiba, J.T. Fernandez-Breis and T.M. de Farias",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+  "created": "2023-02-13T19:18:13.964056",
+  "messages": [],
+  "results": {
+    "https://github.com/qfo/OrthologyOntology/raw/master/orthOntology_RC_v2_A.owl": {
+      "graph_id": "https://github.com/qfo/OrthologyOntology/raw/master/orthOntology_RC_v2_A.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "This ontology is a release candidate of a second version of the orthology ontology previously published in 2015 and available on http://purl.bioontology.org/ontology/ORTH .\r\n@authors H. Chiba, J.T. Fernandez-Breis and T.M. de Farias",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

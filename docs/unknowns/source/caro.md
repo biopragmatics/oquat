@@ -3,7 +3,7 @@
 ## `CAROC`
 
 There are 1 usages of `CAROC` in `caro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CAROC).
 
 | curie                 |   usages | nodes                                                       |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `FBC`
 
 There are 1 usages of `FBC` in `caro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FBC).
 
 | curie   |   usages | nodes                                                                                                                    |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOC`
 
 There are 1 usages of `GOC` in `caro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie   |   usages | nodes                                                       |

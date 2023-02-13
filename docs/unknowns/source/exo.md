@@ -3,7 +3,7 @@
 ## `CTD`
 
 There are 1 usages of `CTD` in `exo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CTD).
 
 | curie        |   usages | nodes                                                     |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DOExO`
 
 There are 1 usages of `DOExO` in `exo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DOExO).
 
 | curie   |   usages | nodes                                                     |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOC`
 
 There are 1 usages of `GOC` in `exo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                      |
@@ -33,7 +33,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SYOExO`
 
 There are 1 usages of `SYOExO` in `exo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SYOExO).
 
 | curie        |   usages | nodes                                                     |
@@ -43,7 +43,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `XCTD`
 
 There are 1 usages of `XCTD` in `exo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XCTD).
 
 | curie         |   usages | nodes                                                     |
@@ -53,7 +53,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `google`
 
 There are 1 usages of `google` in `exo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20google).
 
 | curie         |   usages | nodes                                                                                                                                                                                                                                      |

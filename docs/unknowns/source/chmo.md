@@ -3,7 +3,7 @@
 ## `10.1051/jphyscol`
 
 There are 1 usages of `10.1051/jphyscol` in `chmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%2010.1051/jphyscol).
 
 | curie                     |   usages | nodes                                                       |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Orange`
 
 There are 23 usages of `Orange` in `chmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Orange).
 
 <details>
@@ -50,7 +50,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OrangeBook`
 
 There are 27 usages of `OrangeBook` in `chmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OrangeBook).
 
 <details>
@@ -91,7 +91,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SBN`
 
 There are 1 usages of `SBN` in `chmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SBN).
 
 | curie          |   usages | nodes                                                       |
@@ -101,7 +101,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `USPat`
 
 There are 1 usages of `USPat` in `chmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USPat).
 
 | curie         |   usages | nodes                                                       |
@@ -111,7 +111,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `USPatent`
 
 There are 5 usages of `USPatent` in `chmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USPatent).
 
 | curie            |   usages | nodes                                                       |
@@ -125,7 +125,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `rsc`
 
 There are 5 usages of `rsc` in `chmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20rsc).
 
 | curie                |   usages | nodes                                                                                                                                                                                                                                                                                                                |

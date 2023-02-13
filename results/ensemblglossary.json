@@ -1,64 +1,68 @@
 {
-  "http://purl.obolibrary.org/obo/ensembl-glossary.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/ensembl-glossary.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version_iri": "http://ensembl.org/glossary/ensembl-glossary/releases/2022-08-31/ensembl-glossary.owl",
-    "xref_pack": {
-      "invalid_luids": {
-        "http://ensembl.org/glossary/ENSGLOSSARY_0000050": [
-          "SO:0002109, SO:0002107, SO:0002108"
-        ],
-        "http://ensembl.org/glossary/ENSGLOSSARY_0000051": [
-          "SO:0002105, SO:0002106"
-        ],
-        "http://ensembl.org/glossary/ENSGLOSSARY_0000080": [
-          "SO:0000853, FHOM_0000007"
-        ]
+  "created": "2023-02-13T18:42:28.545932",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/ensembl-glossary.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/ensembl-glossary.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       },
-      "label": "Node Xrefs",
-      "malformed_curies": {
-        "http://ensembl.org/glossary/ENSGLOSSARY_0000082": [
-          "FHOM_0000017"
-        ],
-        "http://ensembl.org/glossary/ENSGLOSSARY_0000083": [
-          "FHOM_0000020"
-        ],
-        "http://ensembl.org/glossary/ENSGLOSSARY_0000084": [
-          "FHOM_0000034"
-        ],
-        "http://ensembl.org/glossary/ENSGLOSSARY_0000085": [
-          "FHOM_0000048"
-        ],
-        "http://ensembl.org/glossary/ENSGLOSSARY_0000086": [
-          "FHOM_0000011"
-        ],
-        "http://ensembl.org/glossary/ENSGLOSSARY_0000087": [
-          "FHOM_0000050"
-        ],
-        "http://ensembl.org/glossary/ENSGLOSSARY_0000090": [
-          "FHOM_0000049"
-        ],
-        "http://ensembl.org/glossary/ENSGLOSSARY_0000091": [
-          "FHOM_0000073"
-        ]
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       },
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        " https": {
-          "http://ensembl.org/glossary/ENSGLOSSARY_0000081": " https://en.wikipedia.org/wiki/Phylogenetic_tree"
+      "version_iri": "http://ensembl.org/glossary/ensembl-glossary/releases/2022-08-31/ensembl-glossary.owl",
+      "xref_pack": {
+        "invalid_luids": {
+          "http://ensembl.org/glossary/ENSGLOSSARY_0000050": [
+            "SO:0002109, SO:0002107, SO:0002108"
+          ],
+          "http://ensembl.org/glossary/ENSGLOSSARY_0000051": [
+            "SO:0002105, SO:0002106"
+          ],
+          "http://ensembl.org/glossary/ENSGLOSSARY_0000080": [
+            "SO:0000853, FHOM_0000007"
+          ]
+        },
+        "label": "Node Xrefs",
+        "malformed_curies": {
+          "http://ensembl.org/glossary/ENSGLOSSARY_0000082": [
+            "FHOM_0000017"
+          ],
+          "http://ensembl.org/glossary/ENSGLOSSARY_0000083": [
+            "FHOM_0000020"
+          ],
+          "http://ensembl.org/glossary/ENSGLOSSARY_0000084": [
+            "FHOM_0000034"
+          ],
+          "http://ensembl.org/glossary/ENSGLOSSARY_0000085": [
+            "FHOM_0000048"
+          ],
+          "http://ensembl.org/glossary/ENSGLOSSARY_0000086": [
+            "FHOM_0000011"
+          ],
+          "http://ensembl.org/glossary/ENSGLOSSARY_0000087": [
+            "FHOM_0000050"
+          ],
+          "http://ensembl.org/glossary/ENSGLOSSARY_0000090": [
+            "FHOM_0000049"
+          ],
+          "http://ensembl.org/glossary/ENSGLOSSARY_0000091": [
+            "FHOM_0000073"
+          ]
+        },
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          " https": {
+            "http://ensembl.org/glossary/ENSGLOSSARY_0000081": " https://en.wikipedia.org/wiki/Phylogenetic_tree"
+          }
         }
       }
     }

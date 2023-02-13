@@ -1,27 +1,31 @@
 {
-  "http://purl.obolibrary.org/obo/stato.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/stato.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "RC1.4",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+  "created": "2023-02-13T19:57:56.237207",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/stato.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/stato.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "RC1.4",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

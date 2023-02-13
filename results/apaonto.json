@@ -1,26 +1,30 @@
 {
-  "http://aber-owl.net/media/ontologies/APAONTO/4/apaonto.owl": {
-    "graph_id": "http://aber-owl.net/media/ontologies/APAONTO/4/apaonto.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+  "created": "2023-02-13T18:11:15.065163",
+  "messages": [],
+  "results": {
+    "http://aber-owl.net/media/ontologies/APAONTO/4/apaonto.owl": {
+      "graph_id": "http://aber-owl.net/media/ontologies/APAONTO/4/apaonto.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

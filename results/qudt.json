@@ -1,28 +1,48 @@
 {
-  "http://qudt.org/schema/qudt": {
-    "graph_id": "http://qudt.org/schema/qudt",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "$Id: OSG_qudt-(v1.1).ttl 4989 2011-06-01 21:56:40Z RalphHodgson $",
-    "version_iri": "http://qudt.org/1.1/schema/qudt",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+  "created": "2023-02-13T19:55:01.480025",
+  "messages": [
+    "2023-02-13 19:55:01,242 ERROR org.semanticweb.owlapi.rdf.rdfxml.parser.OWLRDFConsumer - Entity not properly recognized, missing triples in input? http://org.semanticweb.owlapi/error#Error1 for type Class",
+    "2023-02-13 19:55:01,254 ERROR org.semanticweb.owlapi.rdf.rdfxml.parser.OWLRDFConsumer - Entity not properly recognized, missing triples in input? http://org.semanticweb.owlapi/error#Error2 for type Class",
+    "2023-02-13 19:55:01,276 ERROR org.semanticweb.owlapi.rdf.rdfxml.parser.OWLRDFConsumer - Entity not properly recognized, missing triples in input? http://org.semanticweb.owlapi/error#Error3 for type Class",
+    "2023-02-13 19:55:01,278 ERROR org.semanticweb.owlapi.rdf.rdfxml.parser.OWLRDFConsumer - Entity not properly recognized, missing triples in input? http://org.semanticweb.owlapi/error#Error4 for type Class",
+    "2023-02-13 19:55:01,286 ERROR org.semanticweb.owlapi.rdf.rdfxml.parser.OWLRDFConsumer - Entity not properly recognized, missing triples in input? http://org.semanticweb.owlapi/error#Error5 for type Class",
+    "2023-02-13 19:55:01,303 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 9 triple(s) that could not be parsed:",
+    " - _:genid-nodeid-A23 <http://www.w3.org/2002/07/owl#withRestrictions> _:genid-nodeid-A1.",
+    " - _:genid-nodeid-A23 <http://www.w3.org/2002/07/owl#onDatatype> <http://www.w3.org/2001/XMLSchema#string>.",
+    " - <http://qudt.org/schema/qudt#SIBaseUnit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid-nodeid-A52.",
+    " - <http://qudt.org/schema/qudt#BaseUnit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid-nodeid-A21.",
+    " - <http://qudt.org/schema/qudt#DerivedUnit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid-nodeid-A5.",
+    " - _:genid-nodeid-A3 <http://www.w3.org/2002/07/owl#onDatatype> <http://www.w3.org/2001/XMLSchema#integer>.",
+    " - _:genid-nodeid-A37 <http://www.w3.org/2002/07/owl#withRestrictions> _:genid-nodeid-A53.",
+    " - _:genid-nodeid-A37 <http://www.w3.org/2002/07/owl#onDatatype> <http://www.w3.org/2001/XMLSchema#float>.",
+    " - _:genid-nodeid-A3 <http://www.w3.org/2002/07/owl#withRestrictions> _:genid-nodeid-A4."
+  ],
+  "results": {
+    "http://qudt.org/schema/qudt": {
+      "graph_id": "http://qudt.org/schema/qudt",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "$Id: OSG_qudt-(v1.1).ttl 4989 2011-06-01 21:56:40Z RalphHodgson $",
+      "version_iri": "http://qudt.org/1.1/schema/qudt",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

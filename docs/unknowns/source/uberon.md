@@ -3,7 +3,7 @@
 ## `AOO`
 
 There are 1 usages of `AOO` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20AOO).
 
 | curie   |   usages | nodes                                                           |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ASD`
 
 There are 1 usages of `ASD` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ASD).
 
 | curie   |   usages | nodes                                                           |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BRAINSPAN`
 
 There are 1 usages of `BRAINSPAN` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BRAINSPAN).
 
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
@@ -33,7 +33,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Bgee`
 
 There are 1 usages of `Bgee` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Bgee).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
@@ -43,7 +43,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BrainInfo`
 
 There are 2 usages of `BrainInfo` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BrainInfo).
 
 | curie          |   usages | nodes                                                                                                                            |
@@ -54,7 +54,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `FBC`
 
 There are 1 usages of `FBC` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FBC).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
@@ -64,7 +64,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `FEED`
 
 There are 2 usages of `FEED` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FEED).
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
@@ -75,7 +75,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GAID`
 
 There are 771 usages of `GAID` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GAID).
 
 <details>
@@ -860,7 +860,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOC`
 
 There are 4 usages of `GOC` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie                |   usages | nodes                                                                                                                            |
@@ -873,7 +873,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `INCF`
 
 There are 1 usages of `INCF` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20INCF).
 
 | curie                 |   usages | nodes                                                           |
@@ -883,7 +883,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `J`
 
 There are 3 usages of `J` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20J).
 
 | curie    |   usages | nodes                                                           |
@@ -895,7 +895,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `LG`
 
 There are 11 usages of `LG` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20LG).
 
 | curie      |   usages | nodes                                                           |
@@ -915,7 +915,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MURDOCH`
 
 There are 2 usages of `MURDOCH` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MURDOCH).
 
 | curie        |   usages | nodes                                                           |
@@ -926,7 +926,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MorphoBank`
 
 There are 1 usages of `MorphoBank` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MorphoBank).
 
 | curie                 |   usages | nodes                                                           |
@@ -936,7 +936,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NCBI`
 
 There are 1 usages of `NCBI` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NCBI).
 
 | curie     |   usages | nodes                                                           |
@@ -946,7 +946,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OBOL`
 
 There are 3 usages of `OBOL` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBOL).
 
 | curie            |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
@@ -958,7 +958,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OMD`
 
 There are 1 usages of `OMD` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OMD).
 
 | curie            |   usages | nodes                                                           |
@@ -968,7 +968,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OldNeuroNames`
 
 There are 8 usages of `OldNeuroNames` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OldNeuroNames).
 
 | curie                     |   usages | nodes                                                           |
@@ -985,7 +985,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PATOC`
 
 There are 1 usages of `PATOC` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PATOC).
 
 | curie     |   usages | nodes                                                           |
@@ -995,7 +995,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PHENOSCAPE`
 
 There are 5 usages of `PHENOSCAPE` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PHENOSCAPE).
 
 | curie         |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
@@ -1009,7 +1009,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PLB`
 
 There are 1 usages of `PLB` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PLB).
 
 | curie   |   usages | nodes                                                           |
@@ -1019,7 +1019,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Phenoscape`
 
 There are 1 usages of `Phenoscape` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Phenoscape).
 
 | curie         |   usages | nodes                                                           |
@@ -1029,7 +1029,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PhenoscapeRCN`
 
 There are 1 usages of `PhenoscapeRCN` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PhenoscapeRCN).
 
 | curie                 |   usages | nodes                                                                                                                                                                                             |
@@ -1039,7 +1039,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Renal_Physiology`
 
 There are 1 usages of `Renal_Physiology` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Renal_Physiology).
 
 | curie                      |   usages | nodes                                                           |
@@ -1049,7 +1049,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UBERONREF`
 
 There are 3 usages of `UBERONREF` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UBERONREF).
 
 | curie             |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
@@ -1061,7 +1061,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WA`
 
 There are 1 usages of `WA` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WA).
 
 | curie   |   usages | nodes                                                           |
@@ -1071,7 +1071,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WikipediaVersioned`
 
 There are 1 usages of `WikipediaVersioned` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaVersioned).
 
 | curie                                                     |   usages | nodes                                                           |
@@ -1081,7 +1081,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Wiktionary`
 
 There are 1 usages of `Wiktionary` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiktionary).
 
 | curie                     |   usages | nodes                                                           |
@@ -1091,7 +1091,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `XB`
 
 There are 1 usages of `XB` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XB).
 
 | curie      |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
@@ -1101,7 +1101,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `bgee`
 
 There are 1 usages of `bgee` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20bgee).
 
 | curie    |   usages | nodes                                                           |
@@ -1111,7 +1111,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ref`
 
 There are 1 usages of `ref` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ref).
 
 | curie        |   usages | nodes                                                           |
@@ -1121,7 +1121,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ABA`
 
 There are 9 usages of `ABA` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ABA).
 
 | curie       |   usages | nodes                                                           |
@@ -1139,7 +1139,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BM`
 
 There are 239 usages of `BM` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BM).
 
 <details>
@@ -1392,7 +1392,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BioMart`
 
 There are 1 usages of `BioMart` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BioMart).
 
 | curie           |   usages | nodes                                                           |
@@ -1402,7 +1402,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `CHECKME`
 
 There are 1 usages of `CHECKME` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CHECKME).
 
 | curie           |   usages | nodes                                                           |
@@ -1412,7 +1412,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `CUMBO`
 
 There are 1 usages of `CUMBO` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CUMBO).
 
 | curie       |   usages | nodes                                                                                                                            |
@@ -1422,7 +1422,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DHB`
 
 There are 3 usages of `DHB` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DHB).
 
 | curie   |   usages | nodes                                                           |
@@ -1434,7 +1434,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Geisha`
 
 There are 1 usages of `Geisha` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Geisha).
 
 | curie      |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
@@ -1444,7 +1444,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Giesha`
 
 There are 1 usages of `Giesha` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Giesha).
 
 | curie      |   usages | nodes                                                           |
@@ -1454,7 +1454,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Hymans`
 
 There are 1 usages of `Hymans` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Hymans).
 
 | curie         |   usages | nodes                                                           |
@@ -1464,7 +1464,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MTB`
 
 There are 1 usages of `MTB` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MTB).
 
 | curie   |   usages | nodes                                                           |
@@ -1474,7 +1474,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NIF`
 
 There are 1 usages of `NIF` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                              |
@@ -1484,7 +1484,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NominaAnatomica`
 
 There are 1 usages of `NominaAnatomica` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NominaAnatomica).
 
 | curie              |   usages | nodes                                                                                                                            |
@@ -1494,7 +1494,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Obol`
 
 There are 2 usages of `Obol` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Obol).
 
 | curie     |   usages | nodes                                                           |
@@ -1505,7 +1505,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PAPUB`
 
 There are 1 usages of `PAPUB` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PAPUB).
 
 | curie         |   usages | nodes                                                                                                                            |
@@ -1515,7 +1515,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Swanson`
 
 There are 1 usages of `Swanson` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Swanson).
 
 | curie        |   usages | nodes                                                                                                                            |
@@ -1525,7 +1525,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UBERONTEMP`
 
 There are 99 usages of `UBERONTEMP` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UBERONTEMP).
 
 <details>
@@ -1638,7 +1638,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ANISEED`
 
 There are 13 usages of `ANISEED` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ANISEED).
 
 | curie           |   usages | nodes                                                           |
@@ -1660,7 +1660,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BILS`
 
 There are 9 usages of `BILS` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BILS).
 
 | curie        |   usages | nodes                                                           |
@@ -1678,7 +1678,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BSA`
 
 There are 26 usages of `BSA` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BSA).
 
 <details>
@@ -1718,7 +1718,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BilaDO`
 
 There are 9 usages of `BilaDO` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BilaDO).
 
 | curie          |   usages | nodes                                                           |
@@ -1736,7 +1736,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DrerDO`
 
 There are 1 usages of `DrerDO` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DrerDO).
 
 | curie          |   usages | nodes                                                           |
@@ -1746,7 +1746,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `EMAPS`
 
 There are 1 usages of `EMAPS` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20EMAPS).
 
 | curie         |   usages | nodes                                                           |
@@ -1756,7 +1756,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MAP`
 
 There are 1 usages of `MAP` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MAP).
 
 | curie       |   usages | nodes                                                           |
@@ -1766,7 +1766,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NIFSTD_RETIRED`
 
 There are 8 usages of `NIFSTD_RETIRED` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIFSTD_RETIRED).
 
 | curie                           |   usages | nodes                                                           |
@@ -1783,7 +1783,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NIF_Organism`
 
 There are 2 usages of `NIF_Organism` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIF_Organism).
 
 | curie                    |   usages | nodes                                                           |
@@ -1794,7 +1794,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NOID`
 
 There are 1 usages of `NOID` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NOID).
 
 | curie   |   usages | nodes                                                                                                                            |
@@ -1804,7 +1804,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NeuroNamesCNID`
 
 There are 5 usages of `NeuroNamesCNID` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NeuroNamesCNID).
 
 | curie              |   usages | nodes                                                           |
@@ -1818,7 +1818,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OGEM`
 
 There are 2 usages of `OGEM` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OGEM).
 
 | curie       |   usages | nodes                                                           |
@@ -1829,7 +1829,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OGES`
 
 There are 13 usages of `OGES` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OGES).
 
 | curie       |   usages | nodes                                                           |
@@ -1851,7 +1851,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `TA2`
 
 There are 1 usages of `TA2` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TA2).
 
 | curie    |   usages | nodes                                                           |
@@ -1861,7 +1861,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Talairach`
 
 There are 1 usages of `Talairach` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Talairach).
 
 | curie          |   usages | nodes                                                           |
@@ -1871,7 +1871,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WikipediaCategory`
 
 There are 7 usages of `WikipediaCategory` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaCategory).
 
 | curie                                        |   usages | nodes                                                           |
@@ -1887,7 +1887,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `XtroDO`
 
 There are 7 usages of `XtroDO` in `uberon`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XtroDO).
 
 | curie          |   usages | nodes                                                           |

@@ -3,7 +3,7 @@
 ## `BR`
 
 There are 1 usages of `BR` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BR).
 
 | curie   |   usages | nodes                                                   |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `CIRAD`
 
 There are 1 usages of `CIRAD` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CIRAD).
 
 | curie                   |   usages | nodes                                                   |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GCP`
 
 There are 1 usages of `GCP` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GCP).
 
 | curie              |   usages | nodes                                                                                                                                                                     |
@@ -33,7 +33,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GR`
 
 There are 1 usages of `GR` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GR).
 
 | curie   |   usages | nodes                                                   |
@@ -43,7 +43,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GR_REF`
 
 There are 2 usages of `GR_REF` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GR_REF).
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -54,7 +54,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GrainGenes_trait`
 
 There are 7 usages of `GrainGenes_trait` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GrainGenes_trait).
 
 | curie                                          |   usages | nodes                                                   |
@@ -70,7 +70,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Gramene`
 
 There are 8 usages of `Gramene` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gramene).
 
 | curie                    |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -87,7 +87,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ICRIS`
 
 There are 5 usages of `ICRIS` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICRIS).
 
 | curie     |   usages | nodes                                                   |
@@ -101,7 +101,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ICRISAT`
 
 There are 1 usages of `ICRISAT` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICRISAT).
 
 | curie                 |   usages | nodes                                                                                                                                                                     |
@@ -111,7 +111,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IIRRI`
 
 There are 1 usages of `IIRRI` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IIRRI).
 
 | curie     |   usages | nodes                                                   |
@@ -121,7 +121,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ILRI`
 
 There are 1 usages of `ILRI` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ILRI).
 
 | curie                |   usages | nodes                                                                                                                                                                     |
@@ -131,7 +131,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IRRI`
 
 There are 1 usages of `IRRI` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IRRI).
 
 | curie    |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -141,7 +141,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IWIS`
 
 There are 5 usages of `IWIS` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IWIS).
 
 | curie     |   usages | nodes                                                   |
@@ -155,7 +155,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `R`
 
 There are 1 usages of `R` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20R).
 
 | curie   |   usages | nodes                                                   |
@@ -165,7 +165,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `T-CAP`
 
 There are 1 usages of `T-CAP` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20T-CAP).
 
 | curie                |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -175,7 +175,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `TO_GIT`
 
 There are 152 usages of `TO_GIT` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TO_GIT).
 
 <details>
@@ -341,7 +341,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `group`
 
 There are 1 usages of `group` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20group).
 
 | curie                     |   usages | nodes                                                                                                                                                                     |
@@ -351,7 +351,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MaizeGDB_QTL`
 
 There are 13 usages of `MaizeGDB_QTL` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MaizeGDB_QTL).
 
 | curie               |   usages | nodes                                                                                                            |
@@ -373,7 +373,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SOY`
 
 There are 2 usages of `SOY` in `to`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SOY).
 
 | curie       |   usages | nodes                                                   |

@@ -1,66 +1,70 @@
 {
-  "http://purl.obolibrary.org/obo/tads.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/tads.owl",
-    "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/TADS_0000026": [
-          "ISBN:0-19-505910-7."
-        ],
-        "http://purl.obolibrary.org/obo/TADS_0000224": [
-          "Wikipedia:www.wikipedia.org"
-        ],
-        "http://purl.obolibrary.org/obo/TADS_0000244": [
-          "ISSN:1516-635X."
-        ],
-        "http://purl.obolibrary.org/obo/TADS_0000285": [
-          "ISBN:0-19-5505910-7"
-        ],
-        "http://purl.obolibrary.org/obo/TADS_0000286": [
-          "ISBN:0-19-5505910-7"
-        ],
-        "http://purl.obolibrary.org/obo/TADS_0000370": [
-          "ISSN:00168-8162"
-        ],
-        "http://purl.obolibrary.org/obo/TADS_0000382": [
-          "ISSN:0168-8162."
-        ],
-        "http://purl.obolibrary.org/obo/TADS_0000520": [
-          "ISSN:0040-8166."
-        ],
-        "http://purl.obolibrary.org/obo/TADS_0000575": [
-          "ISSN:0168-8162 Exp. Appl. Acarol. 17: 631-653"
-        ],
-        "http://purl.obolibrary.org/obo/TADS_0000581": [
-          "ISSN:0168-8162 Exp. Appl.Acarol. 17: 631-653"
-        ]
-      },
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "Google": {
-          "http://purl.obolibrary.org/obo/TADS_0000296": "Google:Steullet 1993"
+  "created": "2023-02-13T19:58:14.100304",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/tads.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/tads.owl",
+      "prov_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/TADS_0000026": [
+            "ISBN:0-19-505910-7."
+          ],
+          "http://purl.obolibrary.org/obo/TADS_0000224": [
+            "Wikipedia:www.wikipedia.org"
+          ],
+          "http://purl.obolibrary.org/obo/TADS_0000244": [
+            "ISSN:1516-635X."
+          ],
+          "http://purl.obolibrary.org/obo/TADS_0000285": [
+            "ISBN:0-19-5505910-7"
+          ],
+          "http://purl.obolibrary.org/obo/TADS_0000286": [
+            "ISBN:0-19-5505910-7"
+          ],
+          "http://purl.obolibrary.org/obo/TADS_0000370": [
+            "ISSN:00168-8162"
+          ],
+          "http://purl.obolibrary.org/obo/TADS_0000382": [
+            "ISSN:0168-8162."
+          ],
+          "http://purl.obolibrary.org/obo/TADS_0000520": [
+            "ISSN:0040-8166."
+          ],
+          "http://purl.obolibrary.org/obo/TADS_0000575": [
+            "ISSN:0168-8162 Exp. Appl. Acarol. 17: 631-653"
+          ],
+          "http://purl.obolibrary.org/obo/TADS_0000581": [
+            "ISSN:0168-8162 Exp. Appl.Acarol. 17: 631-653"
+          ]
         },
-        "Med.Vet.Entomol.": {
-          "http://purl.obolibrary.org/obo/TADS_0000391": "Med.Vet.Entomol.:15:422-332"
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "Google": {
+            "http://purl.obolibrary.org/obo/TADS_0000296": "Google:Steullet 1993"
+          },
+          "Med.Vet.Entomol.": {
+            "http://purl.obolibrary.org/obo/TADS_0000391": "Med.Vet.Entomol.:15:422-332"
+          }
         }
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2015-08-20",
+      "version_iri": "http://purl.obolibrary.org/obo/tads/2015-08-20/tads.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       }
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2015-08-20",
-    "version_iri": "http://purl.obolibrary.org/obo/tads/2015-08-20/tads.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
     }
   }
 }

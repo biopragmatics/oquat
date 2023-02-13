@@ -3,7 +3,7 @@
 ## `CS`
 
 There are 1 usages of `CS` in `xlmod`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CS).
 
 | curie          |   usages | nodes                                                     |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ChemicalBookNo`
 
 There are 443 usages of `ChemicalBookNo` in `xlmod`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ChemicalBookNo).
 
 <details>
@@ -470,7 +470,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MDL`
 
 There are 68 usages of `MDL` in `xlmod`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MDL).
 
 <details>
@@ -552,7 +552,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PSI`
 
 There are 1 usages of `PSI` in `xlmod`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PSI).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -562,7 +562,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PXI`
 
 There are 1 usages of `PXI` in `xlmod`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PXI).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                      |

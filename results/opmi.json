@@ -1,27 +1,37 @@
 {
-  "http://purl.obolibrary.org/obo/opmi.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/opmi.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "Vision Release: 1.0.161",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+  "created": "2023-02-13T19:17:14.361020",
+  "messages": [
+    "2023-02-13 19:17:13,336 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 4 triple(s) that could not be parsed:",
+    " - <http://purl.obolibrary.org/obo/OPMI_0000316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485647.",
+    " - <http://purl.obolibrary.org/obo/OPMI_0000317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485652.",
+    " - <http://purl.obolibrary.org/obo/OPMI_0000315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485637.",
+    " - <http://purl.obolibrary.org/obo/OPMI_0000315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485642."
+  ],
+  "results": {
+    "http://purl.obolibrary.org/obo/opmi.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/opmi.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "Vision Release: 1.0.161",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

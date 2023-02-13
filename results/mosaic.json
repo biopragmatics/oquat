@@ -1,28 +1,32 @@
 {
-  "https://purl.dataone.org/odo/MOSAIC_": {
-    "graph_id": "https://purl.dataone.org/odo/MOSAIC_",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "Version 1.0.1",
-    "version_iri": "https://purl.dataone.org/odo/MOSAIC/1.0.1",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+  "created": "2023-02-13T18:59:55.885888",
+  "messages": [],
+  "results": {
+    "https://purl.dataone.org/odo/MOSAIC_": {
+      "graph_id": "https://purl.dataone.org/odo/MOSAIC_",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "Version 1.0.1",
+      "version_iri": "https://purl.dataone.org/odo/MOSAIC/1.0.1",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

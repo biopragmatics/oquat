@@ -3,7 +3,7 @@
 ## ``
 
 There are 1 usages of `` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20).
 
 | curie   |   usages | nodes                                             |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `EMBL`
 
 There are 1 usages of `EMBL` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20EMBL).
 
 | curie         |   usages | nodes                                                   |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOC`
 
 There are 1 usages of `GOC` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie              |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -33,7 +33,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IMG`
 
 There are 35 usages of `IMG` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMG).
 
 <details>
@@ -82,7 +82,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MEROPS_fam`
 
 There are 2 usages of `MEROPS_fam` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MEROPS_fam).
 
 | curie          |   usages | nodes                                                   |
@@ -93,7 +93,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MITRE`
 
 There are 1 usages of `MITRE` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MITRE).
 
 | curie    |   usages | nodes                                                                                                                                                                     |
@@ -103,7 +103,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PHI`
 
 There are 1 usages of `PHI` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PHI).
 
 | curie       |   usages | nodes                                                   |
@@ -113,7 +113,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `POC`
 
 There are 1 usages of `POC` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20POC).
 
 | curie        |   usages | nodes                                                                                                                                                                                                                              |
@@ -123,7 +123,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SP`
 
 There are 3 usages of `SP` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SP).
 
 | curie     |   usages | nodes                                                   |
@@ -135,7 +135,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `TIGR_TIGRFAMS`
 
 There are 1 usages of `TIGR_TIGRFAMS` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TIGR_TIGRFAMS).
 
 | curie                   |   usages | nodes                                                   |
@@ -145,7 +145,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `XX`
 
 There are 1 usages of `XX` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX).
 
 | curie   |   usages | nodes                                                                                                |
@@ -155,7 +155,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Wikilpedia`
 
 There are 1 usages of `Wikilpedia` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wikilpedia).
 
 | curie                                   |   usages | nodes                                                   |
@@ -165,7 +165,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `dph`
 
 There are 1 usages of `dph` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20dph).
 
 | curie   |   usages | nodes                                                   |
@@ -175,7 +175,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `gOC`
 
 There are 1 usages of `gOC` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20gOC).
 
 | curie   |   usages | nodes                                                   |
@@ -185,7 +185,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `goc`
 
 There are 1 usages of `goc` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20goc).
 
 | curie   |   usages | nodes                                                   |
@@ -195,7 +195,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `TAIR`
 
 There are 16374 usages of `TAIR` in `cco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TAIR).
 
 <details>

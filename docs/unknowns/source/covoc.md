@@ -3,7 +3,7 @@
 ## `DDD`
 
 There are 1 usages of `DDD` in `covoc`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DDD).
 
 | curie         |   usages | nodes                                                   |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOC`
 
 There are 4 usages of `GOC` in `covoc`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie   |   usages | nodes                                                                                                            |
@@ -26,7 +26,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `LMU`
 
 There are 1 usages of `LMU` in `covoc`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20LMU).
 
 | curie       |   usages | nodes                                                   |
@@ -36,7 +36,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MGED`
 
 There are 1 usages of `MGED` in `covoc`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MGED).
 
 | curie     |   usages | nodes                                                                                                                    |
@@ -46,7 +46,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PANTHER`
 
 There are 1 usages of `PANTHER` in `covoc`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PANTHER).
 
 | curie                 |   usages | nodes                                                       |
@@ -56,7 +56,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PATOC`
 
 There are 1 usages of `PATOC` in `covoc`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PATOC).
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                              |
@@ -66,7 +66,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UToronto`
 
 There are 1 usages of `UToronto` in `covoc`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UToronto).
 
 | curie         |   usages | nodes                                                   |
@@ -76,7 +76,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MTH`
 
 There are 1 usages of `MTH` in `covoc`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MTH).
 
 | curie      |   usages | nodes                                                         |
@@ -86,7 +86,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DB`
 
 There are 58 usages of `DB` in `covoc`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DB).
 
 <details>
@@ -158,7 +158,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GAID`
 
 There are 4 usages of `GAID` in `covoc`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GAID).
 
 | curie     |   usages | nodes                                                           |
@@ -171,7 +171,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OpenCyc`
 
 There are 4 usages of `OpenCyc` in `covoc`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OpenCyc).
 
 | curie                              |   usages | nodes                                                           |
@@ -184,7 +184,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PERSON`
 
 There are 1 usages of `PERSON` in `covoc`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PERSON).
 
 | curie                |   usages | nodes                                                                                                    |

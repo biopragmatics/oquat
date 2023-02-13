@@ -1,36 +1,44 @@
 {
-  "http://purl.obolibrary.org/obo/poro.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/poro.owl",
-    "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/PORO_0000044": [
-          "UBERON:cjm"
-        ]
+  "created": "2023-02-13T19:20:16.973912",
+  "messages": [
+    "2023-02-13 19:20:16,708 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 2 triple(s) that could not be parsed:",
+    " - <http://purl.obolibrary.org/obo/poro/images/acanthostyle.png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484758.",
+    " - <http://purl.obolibrary.org/obo/poro/images/verticiliate_acanthostyle.png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484759."
+  ],
+  "results": {
+    "http://purl.obolibrary.org/obo/poro.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/poro.owl",
+      "prov_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/PORO_0000044": [
+            "UBERON:cjm"
+          ]
+        },
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       },
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/PORO_0000101": [
-          "UBERON:cjm"
-        ]
+      "synonym_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/PORO_0000101": [
+            "UBERON:cjm"
+          ]
+        },
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       },
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2016-10-06",
-    "version_iri": "http://purl.obolibrary.org/obo/poro/releases/2016-10-06/poro.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+      "version": "2016-10-06",
+      "version_iri": "http://purl.obolibrary.org/obo/poro/releases/2016-10-06/poro.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

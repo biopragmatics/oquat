@@ -3,7 +3,7 @@
 ## `Bertram_Weiss`
 
 There are 1 usages of `Bertram_Weiss` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Bertram_Weiss).
 
 | curie                                  |   usages | nodes                                                                                                            |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `CDR`
 
 There are 1 usages of `CDR` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CDR).
 
 | curie      |   usages | nodes                                                   |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOC`
 
 There are 4 usages of `GOC` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie         |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -36,7 +36,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IMPC`
 
 There are 1 usages of `IMPC` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMPC).
 
 | curie      |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -46,7 +46,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `J`
 
 There are 132 usages of `J` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20J).
 
 <details>
@@ -192,7 +192,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `KOMP`
 
 There are 1 usages of `KOMP` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KOMP).
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -202,7 +202,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `KSU`
 
 There are 1 usages of `KSU` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KSU).
 
 | curie         |   usages | nodes                                                   |
@@ -212,7 +212,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MIG`
 
 There are 1 usages of `MIG` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MIG).
 
 | curie    |   usages | nodes                                                   |
@@ -222,7 +222,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MPD`
 
 There are 3 usages of `MPD` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MPD).
 
 | curie                      |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -234,7 +234,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NCBI`
 
 There are 1 usages of `NCBI` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NCBI).
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -244,7 +244,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PMMID`
 
 There are 1 usages of `PMMID` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PMMID).
 
 | curie          |   usages | nodes                                                   |
@@ -254,7 +254,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `URL`
 
 There are 1 usages of `URL` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL).
 
 | curie                                                                                                  |   usages | nodes                                                   |
@@ -264,7 +264,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WTSI`
 
 There are 1 usages of `WTSI` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WTSI).
 
 | curie          |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -274,7 +274,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `eMedicine`
 
 There are 1 usages of `eMedicine` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20eMedicine).
 
 | curie                                               |   usages | nodes                                                   |
@@ -284,7 +284,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `url`
 
 There are 20 usages of `url` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url).
 
 <details>
@@ -318,7 +318,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `zillmusom`
 
 There are 1 usages of `zillmusom` in `mp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20zillmusom).
 
 | curie                                                                |   usages | nodes                                                                                                            |

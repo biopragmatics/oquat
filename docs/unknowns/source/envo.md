@@ -3,7 +3,7 @@
 ## `ADL`
 
 There are 1 usages of `ADL` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ADL).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ENVOC`
 
 There are 1 usages of `ENVOC` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ENVOC).
 
 | curie    |   usages | nodes                                                         |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GEMINA`
 
 There are 2 usages of `GEMINA` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GEMINA).
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                      |
@@ -34,7 +34,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOC`
 
 There are 1 usages of `GOC` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie         |   usages | nodes                                                                                                                        |
@@ -44,7 +44,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Gemina`
 
 There are 1 usages of `Gemina` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gemina).
 
 | curie     |   usages | nodes                                                         |
@@ -54,7 +54,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `INTERNAS`
 
 There are 1 usages of `INTERNAS` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20INTERNAS).
 
 | curie        |   usages | nodes                                                                                                                        |
@@ -64,7 +64,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IPCC`
 
 There are 1 usages of `IPCC` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IPCC).
 
 | curie                                         |   usages | nodes                                                         |
@@ -74,7 +74,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NM`
 
 There are 1 usages of `NM` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NM).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
@@ -84,7 +84,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PATOC`
 
 There are 1 usages of `PATOC` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PATOC).
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
@@ -94,7 +94,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `URL`
 
 There are 1 usages of `URL` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL).
 
 | curie                                      |   usages | nodes                                                         |
@@ -104,7 +104,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `USGS`
 
 There are 1 usages of `USGS` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USGS).
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
@@ -114,7 +114,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WWW`
 
 There are 2 usages of `WWW` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WWW).
 
 | curie                                                                  |   usages | nodes                                                                                                                        |
@@ -125,7 +125,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Wiktionary`
 
 There are 1 usages of `Wiktionary` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiktionary).
 
 | curie            |   usages | nodes                                                         |
@@ -135,7 +135,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `webpage`
 
 There are 1 usages of `webpage` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20webpage).
 
 | curie                                                         |   usages | nodes                                                         |
@@ -145,7 +145,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `wiki`
 
 There are 4 usages of `wiki` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wiki).
 
 | curie                                                     |   usages | nodes                                                         |
@@ -158,7 +158,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Genomes`
 
 There are 1 usages of `Genomes` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Genomes).
 
 | curie           |   usages | nodes                                                         |
@@ -168,7 +168,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Getty`
 
 There are 1 usages of `Getty` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Getty).
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
@@ -178,7 +178,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NASA`
 
 There are 1 usages of `NASA` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NASA).
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
@@ -188,7 +188,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SPIRE`
 
 There are 36 usages of `SPIRE` in `envo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPIRE).
 
 <details>

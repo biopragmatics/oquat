@@ -1,112 +1,116 @@
 {
-  "http://humanbehaviourchange.org/ontology/bcio.owl": {
-    "graph_id": "http://humanbehaviourchange.org/ontology/bcio.owl",
-    "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/ENVO_00000010": [
-          "MA:ma"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000070": [
-          "MA:ma"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000469": [
-          "MA:ma"
-        ]
-      },
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "ADL": {
-          "http://purl.obolibrary.org/obo/ENVO_00000856": "ADL:FTT"
+  "created": "2023-02-13T18:12:34.783278",
+  "messages": [],
+  "results": {
+    "http://humanbehaviourchange.org/ontology/bcio.owl": {
+      "graph_id": "http://humanbehaviourchange.org/ontology/bcio.owl",
+      "prov_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/ENVO_00000010": [
+            "MA:ma"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000070": [
+            "MA:ma"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000469": [
+            "MA:ma"
+          ]
         },
-        "USGS": {
-          "http://purl.obolibrary.org/obo/ENVO_00000062": "USGS:http://mapping.usgs.gov/www/ti/GNIS/gnis_users_guide_appendixc.html",
-          "http://purl.obolibrary.org/obo/ENVO_00000109": "USGS:SDTS"
-        },
-        "url": {
-          "http://www.geneontology.org/formats/oboInOwl#id": "url:http://purl.obolibrary.org/obo/IAO_0020000",
-          "http://www.w3.org/2000/01/rdf-schema#label": "url:http://www.w3.org/2000/01/rdf-schema#label"
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "ADL": {
+            "http://purl.obolibrary.org/obo/ENVO_00000856": "ADL:FTT"
+          },
+          "USGS": {
+            "http://purl.obolibrary.org/obo/ENVO_00000062": "USGS:http://mapping.usgs.gov/www/ti/GNIS/gnis_users_guide_appendixc.html",
+            "http://purl.obolibrary.org/obo/ENVO_00000109": "USGS:SDTS"
+          },
+          "url": {
+            "http://www.geneontology.org/formats/oboInOwl#id": "url:http://purl.obolibrary.org/obo/IAO_0020000",
+            "http://www.w3.org/2000/01/rdf-schema#label": "url:http://www.w3.org/2000/01/rdf-schema#label"
+          }
         }
-      }
-    },
-    "synonym_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/ENVO_00000062": [
-          "Geonames:feature"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000064": [
-          "Geonames:feature"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000091": [
-          "Geonames:feature"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000109": [
-          "Geonames:feature"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000111": [
-          "Geonames:feature"
-        ]
       },
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "ADL": {
-          "http://purl.obolibrary.org/obo/ENVO_00000064": "ADL:FTT",
-          "http://purl.obolibrary.org/obo/ENVO_00000091": "ADL:FTT",
-          "http://purl.obolibrary.org/obo/ENVO_00000109": "ADL:FTT",
-          "http://purl.obolibrary.org/obo/ENVO_00000191": "ADL:FTT",
-          "http://purl.obolibrary.org/obo/ENVO_00000856": "ADL:FTT"
+      "synonym_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/ENVO_00000062": [
+            "Geonames:feature"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000064": [
+            "Geonames:feature"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000091": [
+            "Geonames:feature"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000109": [
+            "Geonames:feature"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000111": [
+            "Geonames:feature"
+          ]
         },
-        "Getty": {
-          "http://purl.obolibrary.org/obo/ENVO_00000062": "Getty:TGN",
-          "http://purl.obolibrary.org/obo/ENVO_00000064": "Getty:TGN",
-          "http://purl.obolibrary.org/obo/ENVO_00000106": "Getty:TGN",
-          "http://purl.obolibrary.org/obo/ENVO_00000109": "Getty:TGN",
-          "http://purl.obolibrary.org/obo/ENVO_00000111": "Getty:TGN"
-        },
-        "NASA": {
-          "http://purl.obolibrary.org/obo/ENVO_00000091": "NASA:earthrealm"
-        },
-        "USGS": {
-          "http://purl.obolibrary.org/obo/ENVO_00000062": "USGS:SDTS",
-          "http://purl.obolibrary.org/obo/ENVO_00000064": "USGS:SDTS",
-          "http://purl.obolibrary.org/obo/ENVO_00000091": "USGS:SDTS",
-          "http://purl.obolibrary.org/obo/ENVO_00000106": "USGS:SDTS",
-          "http://purl.obolibrary.org/obo/ENVO_00000109": "USGS:SDTS"
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "ADL": {
+            "http://purl.obolibrary.org/obo/ENVO_00000064": "ADL:FTT",
+            "http://purl.obolibrary.org/obo/ENVO_00000091": "ADL:FTT",
+            "http://purl.obolibrary.org/obo/ENVO_00000109": "ADL:FTT",
+            "http://purl.obolibrary.org/obo/ENVO_00000191": "ADL:FTT",
+            "http://purl.obolibrary.org/obo/ENVO_00000856": "ADL:FTT"
+          },
+          "Getty": {
+            "http://purl.obolibrary.org/obo/ENVO_00000062": "Getty:TGN",
+            "http://purl.obolibrary.org/obo/ENVO_00000064": "Getty:TGN",
+            "http://purl.obolibrary.org/obo/ENVO_00000106": "Getty:TGN",
+            "http://purl.obolibrary.org/obo/ENVO_00000109": "Getty:TGN",
+            "http://purl.obolibrary.org/obo/ENVO_00000111": "Getty:TGN"
+          },
+          "NASA": {
+            "http://purl.obolibrary.org/obo/ENVO_00000091": "NASA:earthrealm"
+          },
+          "USGS": {
+            "http://purl.obolibrary.org/obo/ENVO_00000062": "USGS:SDTS",
+            "http://purl.obolibrary.org/obo/ENVO_00000064": "USGS:SDTS",
+            "http://purl.obolibrary.org/obo/ENVO_00000091": "USGS:SDTS",
+            "http://purl.obolibrary.org/obo/ENVO_00000106": "USGS:SDTS",
+            "http://purl.obolibrary.org/obo/ENVO_00000109": "USGS:SDTS"
+          }
         }
-      }
-    },
-    "version_iri": "http://humanbehaviourchange.org/ontology/bcio.owl/2022-08-24",
-    "xref_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/ENVO_00000062": [
-          "Geonames:P.PPL",
-          "Geonames:P.PPLS"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000064": [
-          "Geonames:R",
-          "Geonames:R.RD",
-          "Geonames:R.ST"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000091": [
-          "Geonames:T.BCH",
-          "Geonames:T.BCHS"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000109": [
-          "Geonames:V.GRVPN"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000111": [
-          "Geonames:V.FRST"
-        ]
       },
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "GAID": {
-          "http://purl.obolibrary.org/obo/UBERON_0000061": "GAID:781"
+      "version_iri": "http://humanbehaviourchange.org/ontology/bcio.owl/2022-08-24",
+      "xref_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/ENVO_00000062": [
+            "Geonames:P.PPL",
+            "Geonames:P.PPLS"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000064": [
+            "Geonames:R",
+            "Geonames:R.RD",
+            "Geonames:R.ST"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000091": [
+            "Geonames:T.BCH",
+            "Geonames:T.BCHS"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000109": [
+            "Geonames:V.GRVPN"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000111": [
+            "Geonames:V.FRST"
+          ]
+        },
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "GAID": {
+            "http://purl.obolibrary.org/obo/UBERON_0000061": "GAID:781"
+          }
         }
       }
     }

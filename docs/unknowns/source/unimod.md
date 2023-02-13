@@ -3,7 +3,7 @@
 ## `FindMod`
 
 There are 59 usages of `FindMod` in `unimod`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FindMod).
 
 <details>
@@ -76,7 +76,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UNIMODURL`
 
 There are 1513 usages of `UNIMODURL` in `unimod`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UNIMODURL).
 
 <details>
@@ -1603,7 +1603,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `URL`
 
 There are 533 usages of `URL` in `unimod`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL).
 
 <details>

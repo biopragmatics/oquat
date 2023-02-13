@@ -1,2085 +1,2089 @@
 {
-  "http://purl.obolibrary.org/obo/xao.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/xao.owl",
-    "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/XAO_0000000": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000013": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000026": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000027": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000029": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000030": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000032": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000034": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000036": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000037": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000038": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000040": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000041": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000045": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000046": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000048": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000052": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000053": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000054": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000058": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000062": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000063": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000069": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000070": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000071": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000076": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000080": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000081": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000085": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000087": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000088": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000089": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000091": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000094": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000097": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000098": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000103": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000104": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000111": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000120": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000121": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000126": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000132": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000134": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000135": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000137": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000138": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000141": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000146": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000153": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000154": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000157": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000168": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000171": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000175": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000179": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000202": [
-          "XAO:curator"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000204": [
-          "NCIt:Peripheral_Nerve"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000205": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000206": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000207": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000210": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000218": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000226": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000228": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000232": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000233": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000234": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000235": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000239": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000242": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000244": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000248": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000250": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000261": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000263": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000264": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000266": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000267": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000268": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000274": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000278": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000280": [
-          "XAO:curator"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000281": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000295": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000296": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000297": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000298": [
-          "NCIt:Dorsal"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000299": [
-          "NCIt:Ventral"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000300": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000301": [
-          "NCIt:Deep"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000304": [
-          "NCIt:Lateral"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000307": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000310": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000313": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000314": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000316": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000318": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000320": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000326": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000327": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000328": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000329": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000331": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000332": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000333": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000334": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000336": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000342": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000349": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000356": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000357": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000358": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000373": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000374": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000377": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000384": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000387": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000388": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000390": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000391": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000392": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000393": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000396": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000397": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000401": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000403": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000404": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000405": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000408": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000409": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000410": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000411": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000412": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000415": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000416": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000417": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000418": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000419": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000420": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000421": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000422": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000423": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000424": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000425": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000429": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000437": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000439": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000443": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000448": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000461": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000462": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000464": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000465": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000467": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000469": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0000475": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0001001": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0001002": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0001010": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0001013": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0001014": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0001015": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0001017": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0001019": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0001101": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0001102": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0002000": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003003": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003007": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003019": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003025": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003027": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003028": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003035": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003036": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003044": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003046": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003047": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003056": [
-          "NCIt:Anterior"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003057": [
-          "NCIt:Posterior"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003062": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003065": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003066": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003075": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003076": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003077": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003078": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003079": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003080": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003084": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003087": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003095": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003103": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003104": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003105": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003106": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003107": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003108": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003109": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003110": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003111": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003112": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003113": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003114": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003115": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003116": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003117": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003118": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003119": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003120": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003121": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003122": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003123": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003124": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003125": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003126": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003127": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003128": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003129": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003130": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003131": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003132": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003133": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003134": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003135": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003136": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003137": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003138": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003139": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003140": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003141": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003142": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003143": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003145": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003149": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003151": [
-          "NCIt:Spermatid"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003153": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003154": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003158": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003170": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003176": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003177": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003178": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003179": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003181": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003182": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003183": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003184": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003185": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003186": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003187": [
-          "NCIt:Medial"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003188": [
-          "NCIt:Proximal"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003189": [
-          "NCIt:Distal"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003191": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003192": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003195": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003198": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003199": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003200": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003202": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003203": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003206": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003210": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003215": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003216": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003217": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003220": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003222": [
-          "NCIt:Inner_Limiting_Membrane"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003224": [
-          "NCIt:Outer_Limiting_Membrane"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003226": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003228": [
-          "XAO:curator"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003229": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003230": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003234": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003236": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003238": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003251": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003253": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003257": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003262": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003266": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0003267": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004002": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004005": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004007": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004008": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004009": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004010": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004024": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004039": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004056": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004057": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004058": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004059": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004060": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004061": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004064": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004065": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004069": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004071": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004072": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004074": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004076": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004077": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004078": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004079": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004080": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004081": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004082": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004083": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004084": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004088": [
-          "XAO:curator"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004090": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004091": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004094": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004102": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004103": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004106": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004107": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004108": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004109": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004113": [
-          "XAO:curator"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004114": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004115": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004116": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004117": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004118": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004119": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004122": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004125": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004127": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004128": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004129": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004134": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004143": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004153": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004154": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004157": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004183": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004191": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004192": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004200": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004210": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004216": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004218": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004219": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004220": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004221": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004222": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004223": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004229": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004234": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004238": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004239": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004246": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004251": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004252": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004257": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004260": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004261": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004265": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004266": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004269": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004270": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004272": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004283": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004284": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004285": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004296": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004297": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004301": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004303": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004304": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004307": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004308": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004309": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004310": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004311": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004312": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004313": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004314": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004316": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004317": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004318": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004319": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004320": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004321": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004322": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004340": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004341": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004342": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004343": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004351": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004352": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004353": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004366": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004372": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004375": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004379": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004384": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004389": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004390": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004391": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004393": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004394": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004395": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004396": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004397": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004398": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004399": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004400": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004401": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004406": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004407": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004408": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004409": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004410": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004411": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004412": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004413": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004414": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004415": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004416": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004417": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004418": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004419": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004420": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004421": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004422": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004423": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004424": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004425": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004426": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004427": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004428": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004429": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004430": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004431": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004432": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004433": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004434": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004435": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004436": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004437": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004438": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004439": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004440": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004441": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004442": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004443": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004444": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004445": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004446": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004447": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004448": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004449": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004450": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004451": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004452": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004453": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004454": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004455": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004457": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004458": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004459": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004460": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004461": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004462": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004463": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004464": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004467": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004474": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004475": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004476": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004477": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004478": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004479": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004480": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004481": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004482": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004483": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004484": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004487": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004488": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004489": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004490": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004491": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004492": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004493": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004494": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004495": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004496": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004497": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004498": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004499": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004502": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004506": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004510": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004511": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004512": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004513": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004514": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004515": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004516": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004517": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004520": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004524": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004525": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004526": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004527": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004528": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004533": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004537": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004538": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004539": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004540": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004544": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004546": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004549": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004555": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004556": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004560": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004562": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004564": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004566": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004571": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004579": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004580": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004581": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004582": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004588": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004590": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004591": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004592": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004597": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004599": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004600": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004601": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004607": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004610": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004611": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004613": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004616": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004617": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004618": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004619": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004621": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004622": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004623": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004624": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004625": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004626": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0004627": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005003": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005004": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005005": [
-          "NCIt:Left"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005006": [
-          "NCIt:Right"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005008": [
-          "XAO:KAB"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005018": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005026": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005027": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005031": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005032": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005034": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005035": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005044": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005046": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005047": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005049": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005055": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005061": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005062": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005083": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005119": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005121": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005123": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005125": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005126": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005127": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005128": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005129": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005130": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005131": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005134": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005137": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005138": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005139": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005155": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005160": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005161": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005162": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005163": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005164": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005165": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005166": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005167": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005168": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005169": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005170": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005171": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005172": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005173": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005174": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005175": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005176": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005177": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005178": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005179": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005180": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005196": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005197": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005214": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005225": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005226": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005228": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005229": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005230": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005235": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005240": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005241": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005242": [
-          "XAO:CJZ"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005243": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005244": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005245": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005246": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005247": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005248": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005249": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005250": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005251": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005260": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005261": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005262": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005263": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005264": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005265": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005266": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005267": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005268": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005282": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005287": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005297": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005298": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005299": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005300": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005301": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005302": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005303": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005304": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005305": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005306": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005307": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005315": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005316": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005321": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005323": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005324": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005327": [
-          "XAO:curators"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005423": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005424": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005425": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005426": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005501": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005503": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005504": [
-          "NCIt:Abdominal_Wall"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005505": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_0005506": [
-          "XAO:MEF"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000000": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000010": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000012": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000081": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000082": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000083": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000084": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000085": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000086": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000087": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000088": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000092": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000093": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000094": [
-          "XAO:EJS"
-        ],
-        "http://purl.obolibrary.org/obo/XAO_1000095": [
-          "XAO:EJS"
-        ]
-      },
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "Bgee": {
-          "http://purl.obolibrary.org/obo/XAO_1000002": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/XAO_1000012": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/XAO_1000079": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/XAO_1000080": "Bgee:curator"
+  "created": "2023-02-13T20:05:03.567846",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/xao.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/xao.owl",
+      "prov_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/XAO_0000000": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000013": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000026": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000027": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000029": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000030": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000032": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000034": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000036": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000037": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000038": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000040": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000041": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000045": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000046": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000048": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000052": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000053": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000054": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000058": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000062": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000063": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000069": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000070": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000071": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000076": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000080": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000081": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000085": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000087": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000088": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000089": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000091": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000094": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000097": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000098": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000103": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000104": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000111": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000120": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000121": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000126": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000132": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000134": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000135": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000137": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000138": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000141": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000146": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000153": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000154": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000157": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000168": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000171": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000175": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000179": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000202": [
+            "XAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000204": [
+            "NCIt:Peripheral_Nerve"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000205": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000206": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000207": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000210": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000218": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000226": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000228": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000232": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000233": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000234": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000235": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000239": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000242": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000244": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000248": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000250": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000261": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000263": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000264": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000266": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000267": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000268": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000274": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000278": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000280": [
+            "XAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000281": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000295": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000296": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000297": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000298": [
+            "NCIt:Dorsal"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000299": [
+            "NCIt:Ventral"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000300": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000301": [
+            "NCIt:Deep"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000304": [
+            "NCIt:Lateral"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000307": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000310": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000313": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000314": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000316": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000318": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000320": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000326": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000327": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000328": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000329": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000331": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000332": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000333": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000334": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000336": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000342": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000349": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000356": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000357": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000358": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000373": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000374": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000377": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000384": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000387": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000388": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000390": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000391": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000392": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000393": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000396": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000397": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000401": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000403": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000404": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000405": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000408": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000409": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000410": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000411": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000412": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000415": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000416": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000417": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000418": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000419": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000420": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000421": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000422": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000423": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000424": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000425": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000429": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000437": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000439": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000443": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000448": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000461": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000462": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000464": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000465": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000467": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000469": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0000475": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0001001": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0001002": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0001010": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0001013": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0001014": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0001015": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0001017": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0001019": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0001101": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0001102": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0002000": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003003": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003007": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003019": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003025": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003027": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003028": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003035": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003036": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003044": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003046": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003047": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003056": [
+            "NCIt:Anterior"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003057": [
+            "NCIt:Posterior"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003062": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003065": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003066": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003075": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003076": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003077": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003078": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003079": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003080": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003084": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003087": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003095": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003103": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003104": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003105": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003106": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003107": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003108": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003109": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003110": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003111": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003112": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003113": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003114": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003115": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003116": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003117": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003118": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003119": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003120": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003121": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003122": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003123": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003124": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003125": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003126": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003127": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003128": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003129": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003130": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003131": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003132": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003133": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003134": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003135": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003136": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003137": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003138": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003139": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003140": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003141": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003142": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003143": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003145": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003149": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003151": [
+            "NCIt:Spermatid"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003153": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003154": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003158": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003170": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003176": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003177": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003178": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003179": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003181": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003182": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003183": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003184": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003185": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003186": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003187": [
+            "NCIt:Medial"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003188": [
+            "NCIt:Proximal"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003189": [
+            "NCIt:Distal"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003191": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003192": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003195": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003198": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003199": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003200": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003202": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003203": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003206": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003210": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003215": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003216": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003217": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003220": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003222": [
+            "NCIt:Inner_Limiting_Membrane"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003224": [
+            "NCIt:Outer_Limiting_Membrane"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003226": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003228": [
+            "XAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003229": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003230": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003234": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003236": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003238": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003251": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003253": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003257": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003262": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003266": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0003267": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004002": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004005": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004007": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004008": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004009": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004010": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004024": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004039": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004056": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004057": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004058": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004059": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004060": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004061": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004064": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004065": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004069": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004071": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004072": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004074": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004076": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004077": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004078": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004079": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004080": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004081": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004082": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004083": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004084": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004088": [
+            "XAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004090": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004091": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004094": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004102": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004103": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004106": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004107": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004108": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004109": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004113": [
+            "XAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004114": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004115": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004116": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004117": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004118": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004119": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004122": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004125": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004127": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004128": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004129": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004134": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004143": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004153": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004154": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004157": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004183": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004191": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004192": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004200": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004210": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004216": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004218": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004219": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004220": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004221": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004222": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004223": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004229": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004234": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004238": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004239": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004246": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004251": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004252": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004257": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004260": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004261": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004265": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004266": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004269": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004270": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004272": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004283": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004284": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004285": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004296": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004297": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004301": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004303": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004304": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004307": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004308": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004309": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004310": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004311": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004312": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004313": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004314": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004316": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004317": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004318": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004319": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004320": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004321": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004322": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004340": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004341": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004342": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004343": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004351": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004352": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004353": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004366": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004372": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004375": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004379": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004384": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004389": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004390": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004391": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004393": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004394": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004395": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004396": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004397": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004398": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004399": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004400": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004401": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004406": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004407": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004408": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004409": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004410": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004411": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004412": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004413": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004414": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004415": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004416": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004417": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004418": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004419": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004420": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004421": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004422": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004423": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004424": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004425": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004426": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004427": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004428": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004429": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004430": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004431": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004432": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004433": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004434": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004435": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004436": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004437": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004438": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004439": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004440": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004441": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004442": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004443": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004444": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004445": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004446": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004447": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004448": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004449": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004450": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004451": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004452": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004453": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004454": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004455": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004457": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004458": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004459": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004460": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004461": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004462": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004463": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004464": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004467": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004474": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004475": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004476": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004477": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004478": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004479": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004480": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004481": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004482": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004483": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004484": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004487": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004488": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004489": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004490": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004491": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004492": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004493": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004494": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004495": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004496": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004497": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004498": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004499": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004502": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004506": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004510": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004511": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004512": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004513": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004514": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004515": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004516": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004517": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004520": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004524": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004525": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004526": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004527": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004528": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004533": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004537": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004538": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004539": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004540": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004544": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004546": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004549": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004555": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004556": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004560": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004562": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004564": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004566": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004571": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004579": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004580": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004581": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004582": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004588": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004590": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004591": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004592": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004597": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004599": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004600": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004601": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004607": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004610": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004611": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004613": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004616": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004617": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004618": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004619": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004621": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004622": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004623": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004624": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004625": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004626": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0004627": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005003": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005004": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005005": [
+            "NCIt:Left"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005006": [
+            "NCIt:Right"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005008": [
+            "XAO:KAB"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005018": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005026": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005027": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005031": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005032": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005034": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005035": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005044": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005046": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005047": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005049": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005055": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005061": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005062": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005083": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005119": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005121": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005123": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005125": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005126": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005127": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005128": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005129": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005130": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005131": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005134": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005137": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005138": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005139": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005155": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005160": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005161": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005162": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005163": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005164": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005165": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005166": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005167": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005168": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005169": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005170": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005171": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005172": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005173": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005174": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005175": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005176": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005177": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005178": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005179": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005180": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005196": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005197": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005214": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005225": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005226": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005228": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005229": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005230": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005235": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005240": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005241": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005242": [
+            "XAO:CJZ"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005243": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005244": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005245": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005246": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005247": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005248": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005249": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005250": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005251": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005260": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005261": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005262": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005263": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005264": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005265": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005266": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005267": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005268": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005282": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005287": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005297": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005298": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005299": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005300": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005301": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005302": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005303": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005304": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005305": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005306": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005307": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005315": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005316": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005321": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005323": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005324": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005327": [
+            "XAO:curators"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005423": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005424": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005425": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005426": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005501": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005503": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005504": [
+            "NCIt:Abdominal_Wall"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005505": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_0005506": [
+            "XAO:MEF"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000000": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000010": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000012": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000081": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000082": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000083": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000084": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000085": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000086": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000087": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000088": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000092": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000093": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000094": [
+            "XAO:EJS"
+          ],
+          "http://purl.obolibrary.org/obo/XAO_1000095": [
+            "XAO:EJS"
+          ]
+        },
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "Bgee": {
+            "http://purl.obolibrary.org/obo/XAO_1000002": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/XAO_1000012": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/XAO_1000079": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/XAO_1000080": "Bgee:curator"
+          }
         }
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2022-08-29",
+      "version_iri": "http://purl.obolibrary.org/obo/xao/releases/2022-08-29/xao.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       }
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2022-08-29",
-    "version_iri": "http://purl.obolibrary.org/obo/xao/releases/2022-08-29/xao.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
     }
   }
 }

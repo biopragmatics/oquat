@@ -1,26 +1,58 @@
 {
-  "http://aber-owl.net/media/ontologies/SCHEMAORG/2/schemaorg.owl": {
-    "graph_id": "http://aber-owl.net/media/ontologies/SCHEMAORG/2/schemaorg.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+  "created": "2023-02-13T19:57:11.164144",
+  "messages": [
+    "2023-02-13 19:57:10,531 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 26 triple(s) that could not be parsed:",
+    " - <http://schema.org/legislationJurisdiction> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://data.europa.eu/eli/ontology#jurisdiction>.",
+    " - <http://schema.org/pagination> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/ontology/bibo/pages>.",
+    " - <http://schema.org/legislationLegalForce> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://data.europa.eu/eli/ontology#in_force>.",
+    " - <http://schema.org/legislationType> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://data.europa.eu/eli/ontology#type_document>.",
+    " - <http://schema.org/spatialCoverage> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/dc/terms/spatial>.",
+    " - <http://schema.org/issn> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/ontology/bibo/issn>.",
+    " - <http://schema.org/legislationApplies> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://data.europa.eu/eli/ontology#implements>.",
+    " - <http://schema.org/legislationDateVersion> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://data.europa.eu/eli/ontology#version_date>.",
+    " - <http://schema.org/legislationTransposes> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://data.europa.eu/eli/ontology#transposes>.",
+    " - <http://schema.org/legislationResponsible> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://data.europa.eu/eli/ontology#responsibility_of>.",
+    " - <http://schema.org/spatial> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/dc/terms/spatial>.",
+    " - <http://schema.org/pageStart> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/ontology/bibo/pageStart>.",
+    " - <http://schema.org/name> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/dc/terms/title>.",
+    " - <http://schema.org/legislationConsolidates> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://data.europa.eu/eli/ontology#consolidates>.",
+    " - <http://schema.org/isbn> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/ontology/bibo/isbn>.",
+    " - <http://schema.org/legislationLegalValue> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://data.europa.eu/eli/ontology#legal_value>.",
+    " - <http://schema.org/temporalCoverage> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/dc/terms/temporal>.",
+    " - <http://schema.org/legislationPassedBy> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://data.europa.eu/eli/ontology#passed_by>.",
+    " - <http://schema.org/recordLabel> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/ontology/mo/label>.",
+    " - <http://schema.org/volumeNumber> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/ontology/bibo/volume>.",
+    " - <http://schema.org/description> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/dc/terms/description>.",
+    " - <http://schema.org/pageEnd> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/ontology/bibo/pageEnd>.",
+    " - <http://schema.org/legislationDate> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://data.europa.eu/eli/ontology#date_document>.",
+    " - <http://schema.org/identifier> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/dc/terms/identifier>.",
+    " - <http://schema.org/issueNumber> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://purl.org/ontology/bibo/issue>.",
+    " - <http://schema.org/legislationChanges> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://data.europa.eu/eli/ontology#changes>."
+  ],
+  "results": {
+    "http://aber-owl.net/media/ontologies/SCHEMAORG/2/schemaorg.owl": {
+      "graph_id": "http://aber-owl.net/media/ontologies/SCHEMAORG/2/schemaorg.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

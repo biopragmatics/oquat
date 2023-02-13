@@ -1,37 +1,41 @@
 {
-  "http://purl.obolibrary.org/obo/geno.json": {
-    "graph_id": "http://purl.obolibrary.org/obo/geno.json",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2022-08-10",
-    "version_iri": "http://purl.obolibrary.org/obo/geno/releases/2022-08-10/geno.json",
-    "xref_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/GENO_0000010": [
-          "OBI:genetic population background information"
-        ],
-        "http://purl.obolibrary.org/obo/GENO_0000666": [
-          "SO:0000831 (gene member region)"
-        ]
+  "created": "2023-02-13T18:46:38.256664",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/geno.json": {
+      "graph_id": "http://purl.obolibrary.org/obo/geno.json",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       },
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "perhaps not same as SO": {
-          "http://purl.obolibrary.org/obo/GENO_0000019": "perhaps not same as SO:sequence collection, as here we explicitly include features that can have an extent of zero (and SO:sequence collection is a collection of regions that have an extent of at least one)"
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2022-08-10",
+      "version_iri": "http://purl.obolibrary.org/obo/geno/releases/2022-08-10/geno.json",
+      "xref_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/GENO_0000010": [
+            "OBI:genetic population background information"
+          ],
+          "http://purl.obolibrary.org/obo/GENO_0000666": [
+            "SO:0000831 (gene member region)"
+          ]
+        },
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "perhaps not same as SO": {
+            "http://purl.obolibrary.org/obo/GENO_0000019": "perhaps not same as SO:sequence collection, as here we explicitly include features that can have an extent of zero (and SO:sequence collection is a collection of regions that have an extent of at least one)"
+          }
         }
       }
     }

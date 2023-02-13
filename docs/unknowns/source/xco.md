@@ -3,7 +3,7 @@
 ## `American_Heritage`
 
 There are 4 usages of `American_Heritage` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20American_Heritage).
 
 | curie                                                                              |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -16,7 +16,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Cambridge`
 
 There are 1 usages of `Cambridge` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Cambridge).
 
 | curie                                                     |   usages | nodes                                                     |
@@ -26,7 +26,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Collins`
 
 There are 1 usages of `Collins` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Collins).
 
 | curie                                     |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -36,7 +36,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Dorland`
 
 There are 1 usages of `Dorland` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dorland).
 
 | curie                                                    |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -46,7 +46,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Encarta`
 
 There are 1 usages of `Encarta` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Encarta).
 
 | curie                                    |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -56,7 +56,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Farlex`
 
 There are 2 usages of `Farlex` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Farlex).
 
 | curie                                         |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -67,7 +67,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Fink`
 
 There are 1 usages of `Fink` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Fink).
 
 | curie                       |   usages | nodes                                                     |
@@ -77,7 +77,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Gale`
 
 There are 2 usages of `Gale` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gale).
 
 | curie                                   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -88,7 +88,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `McGraw-Hill`
 
 There are 1 usages of `McGraw-Hill` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20McGraw-Hill).
 
 | curie                                                         |   usages | nodes                                                     |
@@ -98,7 +98,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MediLexicon`
 
 There are 1 usages of `MediLexicon` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MediLexicon).
 
 | curie                                                                |   usages | nodes                                                     |
@@ -108,7 +108,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MedicineNet`
 
 There are 1 usages of `MedicineNet` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MedicineNet).
 
 | curie                               |   usages | nodes                                                     |
@@ -118,7 +118,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Merriam-Webster`
 
 There are 1 usages of `Merriam-Webster` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Merriam-Webster).
 
 | curie                                                       |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -128,7 +128,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Miller-Keane`
 
 There are 1 usages of `Miller-Keane` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Miller-Keane).
 
 | curie                                                                                               |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -138,7 +138,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Mondofacto`
 
 There are 1 usages of `Mondofacto` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Mondofacto).
 
 | curie                                           |   usages | nodes                                                                                                                                                                           |
@@ -148,7 +148,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Mosby`
 
 There are 2 usages of `Mosby` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Mosby).
 
 | curie                                   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -159,7 +159,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NIH`
 
 There are 1 usages of `NIH` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIH).
 
 | curie                                                                                      |   usages | nodes                                                                                                                                                                                                                                      |
@@ -169,7 +169,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PGA`
 
 There are 1 usages of `PGA` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PGA).
 
 | curie              |   usages | nodes                                                     |
@@ -179,7 +179,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Saunders`
 
 There are 1 usages of `Saunders` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Saunders).
 
 | curie                                                         |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -189,7 +189,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Segen`
 
 There are 1 usages of `Segen` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Segen).
 
 | curie                                |   usages | nodes                                                                                                                                                                                                                                      |
@@ -199,7 +199,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Stedman`
 
 There are 1 usages of `Stedman` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Stedman).
 
 | curie                                       |   usages | nodes                                                     |
@@ -209,7 +209,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Website`
 
 There are 14 usages of `Website` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Website).
 
 | curie                                                                                    |   usages | nodes                                                                                                                                                                           |
@@ -232,7 +232,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Webster`
 
 There are 1 usages of `Webster` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Webster).
 
 | curie                                                           |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -242,7 +242,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Wiktionary`
 
 There are 1 usages of `Wiktionary` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiktionary).
 
 | curie                                               |   usages | nodes                                                                                                                |
@@ -252,7 +252,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `YourDictionary`
 
 There are 1 usages of `YourDictionary` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20YourDictionary).
 
 | curie                                              |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -262,7 +262,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `merriam-webster`
 
 There are 1 usages of `merriam-webster` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20merriam-webster).
 
 | curie                                                            |   usages | nodes                                                     |
@@ -272,7 +272,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `url`
 
 There are 2 usages of `url` in `xco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url).
 
 | curie                                                       |   usages | nodes                                                                                                                                                                           |

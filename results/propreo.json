@@ -1,26 +1,33 @@
 {
-  "http://lsdis.cs.uga.edu/projects/glycomics/propreo": {
-    "graph_id": "http://lsdis.cs.uga.edu/projects/glycomics/propreo",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+  "created": "2023-02-13T19:54:40.505426",
+  "messages": [
+    "2023-02-13 19:54:40,332 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 1 triple(s) that could not be parsed:",
+    " - _:genid2147483955 <http://www.w3.org/2002/07/owl#oneOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>."
+  ],
+  "results": {
+    "http://lsdis.cs.uga.edu/projects/glycomics/propreo": {
+      "graph_id": "http://lsdis.cs.uga.edu/projects/glycomics/propreo",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

@@ -1,135 +1,142 @@
 {
-  "http://purl.obolibrary.org/obo/agro-edit.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/agro-edit.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {
-        "http://purl.obolibrary.org/obo/AGRO_00000005": [
-          "agglossary.org/wiki/index.php?title=Residue_management"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000006": [
-          "www.dictionary.com/browse/irrigation"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000060": [
-          "www.fao.org/docrep/s8684e/s8684e06.htm"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000256": [
-          "www.cigrjournal.org/index.php/Ejounral/article/download/1073/1225"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000355": [
-          "FAO, 1990"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000374": [
-          "www.thefreedictionary.com/student"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000376": [
-          "www.thefreedictionary.com/extension+agent"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000377": [
-          "www.thefreedictionary.com/faculty+member"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000431": [
-          "www.sheep101.info/201/grazingsystems.html"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000436": [
-          "beeflambnz.com/Documents/Farm/Creep%20grazing%20lambs.pdf"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000668": [
-          "Emma Griffiths"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000669": [
-          "Anoosha Sehar"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000671": [
-          "Emma Griffiths"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000672": [
-          "Emma Griffiths"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000673": [
-          "Emma Griffiths"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000674": [
-          "Emma Griffiths"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000675": [
-          "Emma Griffiths"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000676": [
-          "Emma Griffiths"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000677": [
-          "Emma Griffiths"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000678": [
-          "Emma Griffiths"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000679": [
-          "Emma Griffiths"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000680": [
-          "Anoosha Sehar"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000692": [
-          "Emma Griffiths"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00000693": [
-          "Emma Griffiths"
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00010156": [
-          "\"Harvey, C.A., Villanueva, C., Villacís, J., Chacón, M., Muñoz, D., López, M., Ibrahim, M., Gómez, R., Taylor, R., Martinez, J. and Navas, A., 2005. Contribution of live fences to the ecological integrity of agricultural landscapes. Agriculture, ecosystems & environment, 111(1-4), pp.200-230. ecological integrity of agricultural landscapes\""
-        ],
-        "http://purl.obolibrary.org/obo/AGRO_00010165": [
-          "Sinclair, F.L., 1999. A general classification of agroforestry practice. Agroforestry systems, 46(2), pp.161-180."
-        ]
-      },
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "BRENCHLEY, W. The Management of Farm Woodlands. Nature 146, 475 (1940). https": {
-          "http://purl.obolibrary.org/obo/AGRO_00010163": "BRENCHLEY, W. The Management of Farm Woodlands. Nature 146, 475 (1940). https://doi.org/10.1038/146475a0"
+  "created": "2023-02-13T18:10:35.016245",
+  "messages": [
+    "2023-02-13 18:10:33,817 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 1 triple(s) that could not be parsed:",
+    " - <https://www.wikidata.org/wiki/Q2306597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147496553."
+  ],
+  "results": {
+    "http://purl.obolibrary.org/obo/agro-edit.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/agro-edit.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {
+          "http://purl.obolibrary.org/obo/AGRO_00000005": [
+            "agglossary.org/wiki/index.php?title=Residue_management"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000006": [
+            "www.dictionary.com/browse/irrigation"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000060": [
+            "www.fao.org/docrep/s8684e/s8684e06.htm"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000256": [
+            "www.cigrjournal.org/index.php/Ejounral/article/download/1073/1225"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000355": [
+            "FAO, 1990"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000374": [
+            "www.thefreedictionary.com/student"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000376": [
+            "www.thefreedictionary.com/extension+agent"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000377": [
+            "www.thefreedictionary.com/faculty+member"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000431": [
+            "www.sheep101.info/201/grazingsystems.html"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000436": [
+            "beeflambnz.com/Documents/Farm/Creep%20grazing%20lambs.pdf"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000668": [
+            "Emma Griffiths"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000669": [
+            "Anoosha Sehar"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000671": [
+            "Emma Griffiths"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000672": [
+            "Emma Griffiths"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000673": [
+            "Emma Griffiths"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000674": [
+            "Emma Griffiths"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000675": [
+            "Emma Griffiths"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000676": [
+            "Emma Griffiths"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000677": [
+            "Emma Griffiths"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000678": [
+            "Emma Griffiths"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000679": [
+            "Emma Griffiths"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000680": [
+            "Anoosha Sehar"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000692": [
+            "Emma Griffiths"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00000693": [
+            "Emma Griffiths"
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00010156": [
+            "\"Harvey, C.A., Villanueva, C., Villacís, J., Chacón, M., Muñoz, D., López, M., Ibrahim, M., Gómez, R., Taylor, R., Martinez, J. and Navas, A., 2005. Contribution of live fences to the ecological integrity of agricultural landscapes. Agriculture, ecosystems & environment, 111(1-4), pp.200-230. ecological integrity of agricultural landscapes\""
+          ],
+          "http://purl.obolibrary.org/obo/AGRO_00010165": [
+            "Sinclair, F.L., 1999. A general classification of agroforestry practice. Agroforestry systems, 46(2), pp.161-180."
+          ]
         },
-        "Baker, K., Baumann, D., Michaud, J.S., van Mossel-Forrester, B., 2014. Technical Specification Boundary Planting. Registered Plan Vivo Project": {
-          "http://purl.obolibrary.org/obo/AGRO_00010157": "Baker, K., Baumann, D., Michaud, J.S., van Mossel-Forrester, B., 2014. Technical Specification Boundary Planting. Registered Plan Vivo Project: The CommuniTree Carbon Project. 64p. URL: https://takingroot.org/wp-content/uploads/2015/04/takingroot-boundary-planting.pdf"
-        },
-        "Crawford, Martin (2010). Creating a Forest Garden. Green Books. https": {
-          "http://purl.obolibrary.org/obo/AGRO_00000683": "Crawford, Martin (2010). Creating a Forest Garden. Green Books. https://www.agroforestry.co.uk/wp-content/uploads/product/creating-a-forest-garden-2/Creating_a_forest_garden.pdf",
-          "http://purl.obolibrary.org/obo/AGRO_00010166": "Crawford, Martin (2010). Creating a Forest Garden. Green Books. https://www.agroforestry.co.uk/wp-content/uploads/product/creating-a-forest-garden-2/Creating_a_forest_garden.pdf"
-        },
-        "FAO, 1982. University of Ibadan Workshop on Shifting Cultivation and Extension, in Ibadan. https": {
-          "http://purl.obolibrary.org/obo/AGRO_00010167": "FAO, 1982. University of Ibadan Workshop on Shifting Cultivation and Extension, in Ibadan. https://www.fao.org/3/r1340E/r1340e04.htm"
-        },
-        "Huelsen, W. A. (1943). Stand irregularity and its relation to the yields of sweet corn. Journal of Agricultural Research, 67(5), 211–224. https": {
-          "http://purl.obolibrary.org/obo/AGRO_00000570": "Huelsen, W. A. (1943). Stand irregularity and its relation to the yields of sweet corn. Journal of Agricultural Research, 67(5), 211–224. https://naldc.nal.usda.gov/download/IND43969864/PDF",
-          "http://purl.obolibrary.org/obo/AGRO_00000571": "Huelsen, W. A. (1943). Stand irregularity and its relation to the yields of sweet corn. Journal of Agricultural Research, 67(5), 211–224. https://naldc.nal.usda.gov/download/IND43969864/PDF"
-        },
-        "Technical Specification Boundary Planting. https": {
-          "http://purl.obolibrary.org/obo/AGRO_00010157": "Technical Specification Boundary Planting. https://takingroot.org/wp-content/uploads/2015/04/takingroot-boundary-planting.pdf"
-        },
-        "drum.http": {
-          "http://purl.obolibrary.org/obo/AGRO_00000397": "drum.http://www.kvkimphalwest.org/images/paddy-drum-seeder.pdf"
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "BRENCHLEY, W. The Management of Farm Woodlands. Nature 146, 475 (1940). https": {
+            "http://purl.obolibrary.org/obo/AGRO_00010163": "BRENCHLEY, W. The Management of Farm Woodlands. Nature 146, 475 (1940). https://doi.org/10.1038/146475a0"
+          },
+          "Baker, K., Baumann, D., Michaud, J.S., van Mossel-Forrester, B., 2014. Technical Specification Boundary Planting. Registered Plan Vivo Project": {
+            "http://purl.obolibrary.org/obo/AGRO_00010157": "Baker, K., Baumann, D., Michaud, J.S., van Mossel-Forrester, B., 2014. Technical Specification Boundary Planting. Registered Plan Vivo Project: The CommuniTree Carbon Project. 64p. URL: https://takingroot.org/wp-content/uploads/2015/04/takingroot-boundary-planting.pdf"
+          },
+          "Crawford, Martin (2010). Creating a Forest Garden. Green Books. https": {
+            "http://purl.obolibrary.org/obo/AGRO_00000683": "Crawford, Martin (2010). Creating a Forest Garden. Green Books. https://www.agroforestry.co.uk/wp-content/uploads/product/creating-a-forest-garden-2/Creating_a_forest_garden.pdf",
+            "http://purl.obolibrary.org/obo/AGRO_00010166": "Crawford, Martin (2010). Creating a Forest Garden. Green Books. https://www.agroforestry.co.uk/wp-content/uploads/product/creating-a-forest-garden-2/Creating_a_forest_garden.pdf"
+          },
+          "FAO, 1982. University of Ibadan Workshop on Shifting Cultivation and Extension, in Ibadan. https": {
+            "http://purl.obolibrary.org/obo/AGRO_00010167": "FAO, 1982. University of Ibadan Workshop on Shifting Cultivation and Extension, in Ibadan. https://www.fao.org/3/r1340E/r1340e04.htm"
+          },
+          "Huelsen, W. A. (1943). Stand irregularity and its relation to the yields of sweet corn. Journal of Agricultural Research, 67(5), 211–224. https": {
+            "http://purl.obolibrary.org/obo/AGRO_00000570": "Huelsen, W. A. (1943). Stand irregularity and its relation to the yields of sweet corn. Journal of Agricultural Research, 67(5), 211–224. https://naldc.nal.usda.gov/download/IND43969864/PDF",
+            "http://purl.obolibrary.org/obo/AGRO_00000571": "Huelsen, W. A. (1943). Stand irregularity and its relation to the yields of sweet corn. Journal of Agricultural Research, 67(5), 211–224. https://naldc.nal.usda.gov/download/IND43969864/PDF"
+          },
+          "Technical Specification Boundary Planting. https": {
+            "http://purl.obolibrary.org/obo/AGRO_00010157": "Technical Specification Boundary Planting. https://takingroot.org/wp-content/uploads/2015/04/takingroot-boundary-planting.pdf"
+          },
+          "drum.http": {
+            "http://purl.obolibrary.org/obo/AGRO_00000397": "drum.http://www.kvkimphalwest.org/images/paddy-drum-seeder.pdf"
+          }
         }
-      }
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2022-11-02",
-    "version_iri": "http://purl.obolibrary.org/obo/agro/releases/2022-11-02/agro.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {
-        "http://purl.obolibrary.org/obo/AGRO_00000318": [
-          "inter-row spacing"
-        ]
       },
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2022-11-02",
+      "version_iri": "http://purl.obolibrary.org/obo/agro/releases/2022-11-02/agro.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {
+          "http://purl.obolibrary.org/obo/AGRO_00000318": [
+            "inter-row spacing"
+          ]
+        },
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

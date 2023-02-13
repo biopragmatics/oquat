@@ -3,7 +3,7 @@
 ## `Babylon`
 
 There are 1 usages of `Babylon` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Babylon).
 
 | curie                     |   usages | nodes                                                           |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `EM`
 
 There are 1 usages of `EM` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20EM).
 
 | curie   |   usages | nodes                                                             |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IB`
 
 There are 1 usages of `IB` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IB).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
@@ -33,7 +33,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `INIST-CNRS`
 
 There are 1 usages of `INIST-CNRS` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20INIST-CNRS).
 
 | curie                                |   usages | nodes                                                           |
@@ -43,7 +43,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IRAC`
 
 There are 1 usages of `IRAC` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IRAC).
 
 | curie                |   usages | nodes                                                           |
@@ -53,7 +53,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ISBN034057190X`
 
 There are 1 usages of `ISBN034057190X` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ISBN034057190X).
 
 | curie                 |   usages | nodes                                                           |
@@ -63,7 +63,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ISBN9780340740644`
 
 There are 1 usages of `ISBN9780340740644` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ISBN9780340740644).
 
 | curie                                 |   usages | nodes                                                                                                                                                                                             |
@@ -73,7 +73,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `KL`
 
 There are 1 usages of `KL` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KL).
 
 | curie   |   usages | nodes                                                                                                                            |
@@ -83,7 +83,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `KLXX`
 
 There are 1 usages of `KLXX` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KLXX).
 
 | curie   |   usages | nodes                                                           |
@@ -93,7 +93,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Kuby`
 
 There are 2 usages of `Kuby` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Kuby).
 
 | curie             |   usages | nodes                                                           |
@@ -104,7 +104,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MedicineNET.com`
 
 There are 1 usages of `MedicineNET.com` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MedicineNET.com).
 
 | curie                    |   usages | nodes                                                           |
@@ -114,7 +114,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MerriamWebsterOnline`
 
 There are 3 usages of `MerriamWebsterOnline` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MerriamWebsterOnline).
 
 | curie                            |   usages | nodes                                                           |
@@ -126,7 +126,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PIMD`
 
 There are 1 usages of `PIMD` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PIMD).
 
 | curie         |   usages | nodes                                                           |
@@ -136,7 +136,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PT`
 
 There are 1 usages of `PT` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PT).
 
 | curie   |   usages | nodes                                                           |
@@ -146,7 +146,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `TheFreeDictionary`
 
 There are 1 usages of `TheFreeDictionary` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TheFreeDictionary).
 
 | curie                                           |   usages | nodes                                                           |
@@ -156,7 +156,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `XOX`
 
 There are 1 usages of `XOX` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XOX).
 
 | curie    |   usages | nodes                                                           |
@@ -166,7 +166,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `XX`
 
 There are 2 usages of `XX` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX).
 
 | curie       |   usages | nodes                                                           |
@@ -177,7 +177,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `YourDictionary.com`
 
 There are 1 usages of `YourDictionary.com` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20YourDictionary.com).
 
 | curie                      |   usages | nodes                                                           |
@@ -187,7 +187,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `kl`
 
 There are 1 usages of `kl` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20kl).
 
 | curie   |   usages | nodes                                                                                                                            |
@@ -197,7 +197,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `medilexicon.com`
 
 There are 1 usages of `medilexicon.com` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20medilexicon.com).
 
 | curie                                 |   usages | nodes                                                           |
@@ -207,7 +207,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `yourDictionary.com`
 
 There are 1 usages of `yourDictionary.com` in `idomal`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20yourDictionary.com).
 
 | curie                   |   usages | nodes                                                           |

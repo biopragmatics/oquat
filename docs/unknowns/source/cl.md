@@ -3,7 +3,7 @@
 ## `GOC`
 
 There are 1 usages of `GOC` in `cl`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                              |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOc`
 
 There are 1 usages of `GOc` in `cl`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOc).
 
 | curie   |   usages | nodes                                                   |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `JB`
 
 There are 1 usages of `JB` in `cl`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20JB).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -33,7 +33,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NPX`
 
 There are 1 usages of `NPX` in `cl`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NPX).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -43,7 +43,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SANBI`
 
 There are 1 usages of `SANBI` in `cl`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SANBI).
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -53,7 +53,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `TAIR`
 
 There are 3 usages of `TAIR` in `cl`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TAIR).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -65,7 +65,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UBERONREF`
 
 There are 1 usages of `UBERONREF` in `cl`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UBERONREF).
 
 | curie             |   usages | nodes                                                   |
@@ -75,7 +75,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Wiki`
 
 There are 3 usages of `Wiki` in `cl`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiki).
 
 | curie                                                                 |   usages | nodes                                                   |
@@ -87,7 +87,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WikipediaVersion`
 
 There are 1 usages of `WikipediaVersion` in `cl`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaVersion).
 
 | curie                                               |   usages | nodes                                                                                                                                                                     |
@@ -97,7 +97,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WikipediaVersioned`
 
 There are 2 usages of `WikipediaVersioned` in `cl`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaVersioned).
 
 | curie                                                  |   usages | nodes                                                   |

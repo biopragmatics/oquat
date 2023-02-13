@@ -3,7 +3,7 @@
 ## `DeltaMass`
 
 There are 112 usages of `DeltaMass` in `mod`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DeltaMass).
 
 <details>
@@ -129,7 +129,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OMSSA`
 
 There are 137 usages of `OMSSA` in `mod`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OMSSA).
 
 <details>
@@ -280,7 +280,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `URL`
 
 There are 10 usages of `URL` in `mod`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL).
 
 | curie                                                                                                                                    |   usages | nodes                                                                                                                                                                                                                                                                                  |
@@ -299,7 +299,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `url`
 
 There are 1 usages of `url` in `mod`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url).
 
 | curie   |   usages | nodes                                                 |

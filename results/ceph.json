@@ -1,28 +1,60 @@
 {
-  "http://purl.obolibrary.org/obo/ceph.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/ceph.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2016-01-12",
-    "version_iri": "http://purl.obolibrary.org/obo/ceph/releases/2016-01-12/ceph.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+  "created": "2023-02-13T18:20:24.968397",
+  "messages": [
+    "2023-02-13 18:20:24,531 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 26 triple(s) that could not be parsed:",
+    " - <http://upload.wikimedia.org/wikipedia/commons/8/89/Sepioteuthis_lessoniana_gladius.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485459.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tentacule_Abraliopsis_morisi.jpg/237px-Tentacule_Abraliopsis_morisi.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485477.",
+    " - <http://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Ocythoe_tuberculata_hectocotylus_-_from_Commons.jpg/220px-Ocythoe_tuberculata_hectocotylus_-_from_Commons.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485481.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tentacule_Abraliopsis_morisi.jpg/237px-Tentacule_Abraliopsis_morisi.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485476.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/f/fb/Hectocotylized_arm_of_an_octopod.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485461.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/f/fb/Hectocotylized_arm_of_an_octopod.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485462.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Illex_illecebrosus_tentacle.jpg/440px-Illex_illecebrosus_tentacle.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485472.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Illex_illecebrosus_teeth.jpg/671px-Illex_illecebrosus_teeth.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485474.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cuttlefish_eye_closeup.JPG/240px-Cuttlefish_eye_closeup.JPG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485463.",
+    " - <http://upload.wikimedia.org/wikipedia/en/b/b5/Chtenopteryx_sicula2_-_from_Commons.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485480.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hectocotylized_arm_of_a_squid.jpg/613px-Hectocotylized_arm_of_a_squid.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485469.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Suckers_of_octopus_by_steve_lodefink.jpg/180px-Suckers_of_octopus_by_steve_lodefink.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485473.",
+    " - <http://tolweb.org/tree/ToLimages/LeachiaClub.JPG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485457.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cephalopod_suckers_and_configuration_of_suckers_%28schematic%29_on_tentacular_club.jpg/647px-Cephalopod_suckers_and_configuration_of_suckers_%28schematic%29_on_tentacular_club.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485464.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Squid_eye.jpg/800px-Squid_eye.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485471.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/a/ab/Herklots_1859_I_2_Sepia_officinalis_-_schelp.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485460.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Illex_illecebrosus_arm.jpg/440px-Illex_illecebrosus_arm.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485478.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Nautilus_pompilius_%28head%29.jpg/240px-Nautilus_pompilius_%28head%29.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485470.",
+    " - <http://upload.wikimedia.org/wikipedia/en/a/a4/Chtenopteryx_sicula_paralarvae_-_from_Commons.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485479.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/0/04/Mastigoteuthis_grimaldii2.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485458.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Eye_squid.jpg/762px-Eye_squid.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485468.",
+    " - <http://tolweb.org/tree/ToLimages/GenSquidDraw.JPG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485456.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Abraliopsis_morisi_hectocotylus-English.jpg/350px-Abraliopsis_morisi_hectocotylus-English.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485475.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Octopusv_cropped.JPG/203px-Octopusv_cropped.JPG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485467.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/SquidEggCases-MontereryAquarium-April2-07.png/800px-SquidEggCases-MontereryAquarium-April2-07.png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485466.",
+    " - <http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Architeuthis_beak.jpg/800px-Architeuthis_beak.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485465."
+  ],
+  "results": {
+    "http://purl.obolibrary.org/obo/ceph.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/ceph.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2016-01-12",
+      "version_iri": "http://purl.obolibrary.org/obo/ceph/releases/2016-01-12/ceph.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

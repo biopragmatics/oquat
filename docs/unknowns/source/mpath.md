@@ -3,7 +3,7 @@
 ## ``
 
 There are 6 usages of `` in `mpath`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20).
 
 | curie                                                                                                                                                                            |   usages | nodes                                                                                                                                                               |
@@ -18,7 +18,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Book`
 
 There are 8 usages of `Book` in `mpath`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Book).
 
 | curie                                                                                                                                                                                                                                                                      |   usages | nodes                                                 |
@@ -35,7 +35,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `CUI`
 
 There are 1 usages of `CUI` in `mpath`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CUI).
 
 | curie        |   usages | nodes                                                 |
@@ -45,7 +45,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Journal`
 
 There are 3 usages of `Journal` in `mpath`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Journal).
 
 | curie                                                                                                                                                                     |   usages | nodes                                                                                                                                                                                                                                                                                  |
@@ -57,7 +57,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MAPTH`
 
 There are 1 usages of `MAPTH` in `mpath`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MAPTH).
 
 | curie              |   usages | nodes                                                 |
@@ -67,7 +67,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MPAHTH`
 
 There are 1 usages of `MPAHTH` in `mpath`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MPAHTH).
 
 | curie           |   usages | nodes                                                 |
@@ -77,7 +77,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PMH`
 
 There are 1 usages of `PMH` in `mpath`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PMH).
 
 | curie       |   usages | nodes                                                 |
@@ -87,7 +87,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Pathbase`
 
 There are 1 usages of `Pathbase` in `mpath`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Pathbase).
 
 | curie              |   usages | nodes                                                                                                                                                                                                                                                                                |
@@ -97,7 +97,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `See`
 
 There are 1 usages of `See` in `mpath`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20See).
 
 | curie                                                                                                                                                                                      |   usages | nodes                                                 |
@@ -107,7 +107,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UOB`
 
 There are 1 usages of `UOB` in `mpath`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UOB).
 
 | curie   |   usages | nodes                                                   |
@@ -117,7 +117,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `URL`
 
 There are 5 usages of `URL` in `mpath`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL).
 
 | curie                                                                                                       |   usages | nodes                                                                                                                                                                                                                                                                                  |
@@ -131,7 +131,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `XX`
 
 There are 2 usages of `XX` in `mpath`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX).
 
 | curie           |   usages | nodes                                                 |

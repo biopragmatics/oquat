@@ -409,6 +409,8 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 
 | external_xref   |   usages_count | usages                                                      |
 |-----------------|----------------|-------------------------------------------------------------|
+| `NCI: C27789`   |              1 | [DOID:9005612](http://purl.obolibrary.org/obo/DOID_9005612) |
+| `NCI: C39758`   |              1 | [DOID:9007904](http://purl.obolibrary.org/obo/DOID_9007904) |
 | `NCI:131302`    |              1 | [DOID:0080925](http://purl.obolibrary.org/obo/DOID_0080925) |
 
 ## `uberon`: Uber Anatomy Ontology

@@ -3,7 +3,7 @@
 ## `AD_Instruments`
 
 There are 1 usages of `AD_Instruments` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20AD_Instruments).
 
 | curie                                       |   usages | nodes                                                     |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `APC`
 
 There are 1 usages of `APC` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20APC).
 
 | curie                           |   usages | nodes                                                     |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Alliance`
 
 There are 1 usages of `Alliance` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Alliance).
 
 | curie                                      |   usages | nodes                                                                                                                                                                                                                                      |
@@ -33,7 +33,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `American_Heritage`
 
 There are 4 usages of `American_Heritage` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20American_Heritage).
 
 | curie                                                                              |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -46,7 +46,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Beta`
 
 There are 1 usages of `Beta` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Beta).
 
 | curie                        |   usages | nodes                                                     |
@@ -56,7 +56,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `CMDT`
 
 There are 1 usages of `CMDT` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CMDT).
 
 | curie                                                 |   usages | nodes                                                                                                                                                                                                                                      |
@@ -66,7 +66,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Collins`
 
 There are 2 usages of `Collins` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Collins).
 
 | curie                                         |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -77,7 +77,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Dictionary`
 
 There are 1 usages of `Dictionary` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dictionary).
 
 | curie                                         |   usages | nodes                                                     |
@@ -87,7 +87,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Dorland`
 
 There are 1 usages of `Dorland` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dorland).
 
 | curie                                                    |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -97,7 +97,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Encarta`
 
 There are 1 usages of `Encarta` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Encarta).
 
 | curie                                    |   usages | nodes                                                     |
@@ -107,7 +107,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Farlex`
 
 There are 2 usages of `Farlex` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Farlex).
 
 | curie                                                                 |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -118,7 +118,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `FormulaMedical`
 
 There are 1 usages of `FormulaMedical` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FormulaMedical).
 
 | curie                                        |   usages | nodes                                                     |
@@ -128,7 +128,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Gale`
 
 There are 2 usages of `Gale` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gale).
 
 | curie                                   |   usages | nodes                                                                                                                                                                           |
@@ -139,7 +139,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Google_Docs`
 
 There are 1 usages of `Google_Docs` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Google_Docs).
 
 | curie                            |   usages | nodes                                                     |
@@ -149,7 +149,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Harpenden`
 
 There are 1 usages of `Harpenden` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Harpenden).
 
 | curie                                      |   usages | nodes                                                                                                                |
@@ -159,7 +159,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Harvard_Apparatus`
 
 There are 1 usages of `Harvard_Apparatus` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Harvard_Apparatus).
 
 | curie                                             |   usages | nodes                                                     |
@@ -169,7 +169,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IUPAC`
 
 There are 1 usages of `IUPAC` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IUPAC).
 
 | curie                                       |   usages | nodes                                                     |
@@ -179,7 +179,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Infoplease`
 
 There are 1 usages of `Infoplease` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Infoplease).
 
 | curie                                       |   usages | nodes                                                     |
@@ -189,7 +189,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Journal_Article`
 
 There are 1 usages of `Journal_Article` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Journal_Article).
 
 | curie                                                         |   usages | nodes                                                     |
@@ -199,7 +199,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Kent`
 
 There are 2 usages of `Kent` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Kent).
 
 | curie                             |   usages | nodes                                                     |
@@ -210,7 +210,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Keogh`
 
 There are 1 usages of `Keogh` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Keogh).
 
 | curie                                                     |   usages | nodes                                                     |
@@ -220,7 +220,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Life_Measurement`
 
 There are 1 usages of `Life_Measurement` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Life_Measurement).
 
 | curie                                  |   usages | nodes                                                     |
@@ -230,7 +230,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MDPI`
 
 There are 1 usages of `MDPI` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MDPI).
 
 | curie                                          |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -240,7 +240,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MPD`
 
 There are 1 usages of `MPD` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MPD).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -250,7 +250,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Macmillan`
 
 There are 1 usages of `Macmillan` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Macmillan).
 
 | curie                                                         |   usages | nodes                                                     |
@@ -260,7 +260,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `McGraw-Hill`
 
 There are 3 usages of `McGraw-Hill` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20McGraw-Hill).
 
 | curie                                                                        |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -272,7 +272,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MedicalGlossary`
 
 There are 1 usages of `MedicalGlossary` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MedicalGlossary).
 
 | curie                                   |   usages | nodes                                                     |
@@ -282,7 +282,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Merriam-Webster`
 
 There are 1 usages of `Merriam-Webster` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Merriam-Webster).
 
 | curie                                                       |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -292,7 +292,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Miller-Keane`
 
 There are 1 usages of `Miller-Keane` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Miller-Keane).
 
 | curie                                                                                               |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -302,7 +302,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Mondofacto`
 
 There are 1 usages of `Mondofacto` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Mondofacto).
 
 | curie                                           |   usages | nodes                                                     |
@@ -312,7 +312,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Mosby`
 
 There are 4 usages of `Mosby` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Mosby).
 
 | curie                                                          |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -325,7 +325,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Oxford`
 
 There are 1 usages of `Oxford` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Oxford).
 
 | curie                                               |   usages | nodes                                                                                                                                                                                                                                      |
@@ -335,7 +335,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PGA`
 
 There are 1 usages of `PGA` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PGA).
 
 | curie                |   usages | nodes                                                     |
@@ -345,7 +345,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `RNA-seqlopedia`
 
 There are 1 usages of `RNA-seqlopedia` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RNA-seqlopedia).
 
 | curie                                      |   usages | nodes                                                     |
@@ -355,7 +355,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Regence`
 
 There are 1 usages of `Regence` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Regence).
 
 | curie                           |   usages | nodes                                                     |
@@ -365,7 +365,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Saunders`
 
 There are 1 usages of `Saunders` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Saunders).
 
 | curie                                                         |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -375,7 +375,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Scitable`
 
 There are 1 usages of `Scitable` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Scitable).
 
 | curie                                                                                     |   usages | nodes                                                     |
@@ -385,7 +385,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Segen`
 
 There are 1 usages of `Segen` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Segen).
 
 | curie                                |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -395,7 +395,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Springer_Protocols`
 
 There are 1 usages of `Springer_Protocols` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Springer_Protocols).
 
 | curie                                                                                      |   usages | nodes                                                                                                                                                                           |
@@ -405,7 +405,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `TopEndSports`
 
 There are 1 usages of `TopEndSports` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TopEndSports).
 
 | curie                                    |   usages | nodes                                                     |
@@ -415,7 +415,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Web_Document`
 
 There are 1 usages of `Web_Document` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Web_Document).
 
 | curie                                                        |   usages | nodes                                                     |
@@ -425,7 +425,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Web_article`
 
 There are 1 usages of `Web_article` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Web_article).
 
 | curie                                                             |   usages | nodes                                                     |
@@ -435,7 +435,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Website`
 
 There are 50 usages of `Website` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Website).
 
 <details>
@@ -499,7 +499,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Webster`
 
 There are 1 usages of `Webster` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Webster).
 
 | curie                                                           |   usages | nodes                                                                                                                                                                                                                                      |
@@ -509,7 +509,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WordNet_3_0`
 
 There are 1 usages of `WordNet_3_0` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WordNet_3_0).
 
 | curie                                             |   usages | nodes                                                     |
@@ -519,7 +519,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `XX`
 
 There are 1 usages of `XX` in `mmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX).
 
 | curie           |   usages | nodes                                                     |

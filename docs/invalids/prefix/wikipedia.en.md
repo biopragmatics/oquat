@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `wikipedia.en`
 but use local unique identifiers that do not match the standard pattern of
-`^[A-Za-z-0-9_]+$`. Of the 24 resources,
+`^[A-Za-z-0-9_]+$`. Of the 23 resources,
 2 variants on the standard prefix were found: ['Wikipedia', 'wikipedia'].
 
 ## `bao`: BioAssay Ontology
@@ -544,16 +544,6 @@ Identifiers for this prefix are given incorrectly in `fbbi`. See the [GitHub rep
 | external_xref                                        |   usages_count | usages                                                                                                                       |
 |------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------|
 | `Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain` |              2 | [FBbi:00000037](http://purl.obolibrary.org/obo/FBbi_00000037), [FBbi:00000041](http://purl.obolibrary.org/obo/FBbi_00000041) |
-
-## `foodon`: The Food Ontology
-
-Identifiers for this prefix are given incorrectly in `foodon`. See the [GitHub repository](https://github.com/FoodOntology/foodon).
-
-| external_xref                  |   usages_count | usages                                                            |
-|--------------------------------|----------------|-------------------------------------------------------------------|
-| `Wikipedia:Wort_%28brewing%29` |              1 | [FOODON:00001019](http://purl.obolibrary.org/obo/FOODON_00001019) |
-| `Wikipedia:Malt_vinegar#Malt`  |              1 | [FOODON:00001074](http://purl.obolibrary.org/obo/FOODON_00001074) |
-| `Wikipedia:Egg_%28food%29`     |              1 | [FOODON:00001274](http://purl.obolibrary.org/obo/FOODON_00001274) |
 
 ## `go`: Gene Ontology
 

@@ -3,7 +3,7 @@
 ## `PSD`
 
 There are 1 usages of `PSD` in `spd`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PSD).
 
 | curie       |   usages | nodes                                                     |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SPDd`
 
 There are 1 usages of `SPDd` in `spd`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPDd).
 
 | curie        |   usages | nodes                                                     |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SPDrf`
 
 There are 13 usages of `SPDrf` in `spd`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPDrf).
 
 | curie                           |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -45,7 +45,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SPR`
 
 There are 1 usages of `SPR` in `spd`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPR).
 
 | curie       |   usages | nodes                                                     |
@@ -55,7 +55,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `TrOn`
 
 There are 1 usages of `TrOn` in `spd`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TrOn).
 
 | curie        |   usages | nodes                                                     |

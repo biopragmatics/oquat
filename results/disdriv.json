@@ -1,32 +1,36 @@
 {
-  "http://purl.obolibrary.org/obo/doid/imports/disdriv_import.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/doid/imports/disdriv_import.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "url": {
-          "http://purl.obolibrary.org/obo/DISDRIV_0000001": "url:https://www.who.int/health-topics/micronutrients",
-          "http://purl.obolibrary.org/obo/DISDRIV_0000004": "url:https://ods.od.nih.gov/factsheets/Biotin-Consumer/",
-          "http://purl.obolibrary.org/obo/DISDRIV_0000005": "url:url:https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/"
+  "created": "2023-02-13T18:32:18.176055",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/doid/imports/disdriv_import.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/doid/imports/disdriv_import.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "url": {
+            "http://purl.obolibrary.org/obo/DISDRIV_0000001": "url:https://www.who.int/health-topics/micronutrients",
+            "http://purl.obolibrary.org/obo/DISDRIV_0000004": "url:https://ods.od.nih.gov/factsheets/Biotin-Consumer/",
+            "http://purl.obolibrary.org/obo/DISDRIV_0000005": "url:url:https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/"
+          }
         }
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       }
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
     }
   }
 }

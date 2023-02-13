@@ -3,7 +3,7 @@
 ## `IRAC`
 
 There are 2 usages of `IRAC` in `miro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IRAC).
 
 | curie                |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
@@ -14,7 +14,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `KL`
 
 There are 1 usages of `KL` in `miro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KL).
 
 | curie   |   usages | nodes                                                         |
@@ -24,7 +24,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MD`
 
 There are 1 usages of `MD` in `miro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MD).
 
 | curie   |   usages | nodes                                                         |
@@ -34,7 +34,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PT`
 
 There are 1 usages of `PT` in `miro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PT).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
@@ -44,7 +44,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SLF`
 
 There are 1 usages of `SLF` in `miro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SLF).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                      |
@@ -54,7 +54,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WHO/CDS/CPC/MAL/`
 
 There are 1 usages of `WHO/CDS/CPC/MAL/` in `miro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WHO/CDS/CPC/MAL/).
 
 | curie                 |   usages | nodes                                                                                                                        |
@@ -64,7 +64,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WHOManual`
 
 There are 1 usages of `WHOManual` in `miro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WHOManual).
 
 | curie               |   usages | nodes                                                                                                                                                                                       |
@@ -74,7 +74,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Walter_Reed`
 
 There are 1 usages of `Walter_Reed` in `miro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Walter_Reed).
 
 | curie                |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
@@ -84,7 +84,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Water_Reed`
 
 There are 1 usages of `Water_Reed` in `miro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Water_Reed).
 
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
@@ -94,7 +94,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `web`
 
 There are 1 usages of `web` in `miro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20web).
 
 | curie       |   usages | nodes                                                         |
@@ -104,7 +104,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NS`
 
 There are 1 usages of `NS` in `miro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NS).
 
 | curie   |   usages | nodes                                                         |
@@ -114,7 +114,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IUPAC`
 
 There are 2 usages of `IUPAC` in `miro`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IUPAC).
 
 | curie                                                                                                                         |   usages | nodes                                                         |

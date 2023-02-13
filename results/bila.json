@@ -1,170 +1,174 @@
 {
-  "http://purl.obolibrary.org/obo/bila.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/bila.owl",
-    "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/BILA_0000003": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000004": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000005": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000006": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000007": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000008": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000009": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000010": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000011": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000012": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000013": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000014": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000019": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000021": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000024": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000027": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000028": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000029": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000030": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000032": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000040": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000041": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000042": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000043": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000045": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000046": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000048": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000049": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000050": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000054": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000055": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000062": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000063": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000064": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000065": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000066": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000067": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000068": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000069": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000070": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000071": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000072": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000073": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000074": [
-          "CARO:MAH"
-        ],
-        "http://purl.obolibrary.org/obo/BILA_0000077": [
-          "CARO:MAH"
-        ]
-      },
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "4DXp": {
-          "http://purl.obolibrary.org/obo/BILA_0000015": "4DXp:TH",
-          "http://purl.obolibrary.org/obo/BILA_0000018": "4DXp:TH",
-          "http://purl.obolibrary.org/obo/BILA_0000115": "4DXp:TH"
+  "created": "2023-02-13T18:12:46.603697",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/bila.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/bila.owl",
+      "prov_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/BILA_0000003": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000004": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000005": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000006": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000007": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000008": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000009": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000010": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000011": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000012": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000013": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000014": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000019": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000021": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000024": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000027": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000028": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000029": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000030": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000032": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000040": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000041": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000042": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000043": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000045": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000046": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000048": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000049": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000050": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000054": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000055": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000062": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000063": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000064": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000065": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000066": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000067": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000068": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000069": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000070": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000071": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000072": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000073": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000074": [
+            "CARO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/BILA_0000077": [
+            "CARO:MAH"
+          ]
+        },
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "4DXp": {
+            "http://purl.obolibrary.org/obo/BILA_0000015": "4DXp:TH",
+            "http://purl.obolibrary.org/obo/BILA_0000018": "4DXp:TH",
+            "http://purl.obolibrary.org/obo/BILA_0000115": "4DXp:TH"
+          }
         }
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2019-06-12",
+      "version_iri": "http://purl.obolibrary.org/obo/bila/releases/2019-06-12/bila.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       }
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2019-06-12",
-    "version_iri": "http://purl.obolibrary.org/obo/bila/releases/2019-06-12/bila.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
     }
   }
 }

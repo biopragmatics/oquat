@@ -1,28 +1,49 @@
 {
-  "http://purl.obolibrary.org/obo/cmo.obo": {
-    "graph_id": "http://purl.obolibrary.org/obo/cmo.obo",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2019-02-19",
-    "version_iri": "http://purl.obolibrary.org/obo/cmo/releases/2019-02-19/cmo.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+  "created": "2023-02-13T18:28:33.178792",
+  "messages": [
+    "2023-02-13 18:28:32,370 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 15 triple(s) that could not be parsed:",
+    " - _:genid-nodeid-node1gp5t4b3ox224 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>.",
+    " - _:genid-nodeid-node1gp5t4b3ox222 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>.",
+    " - _:genid-nodeid-node1gp5t4b3ox222 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-825c648aeef340e6b5dff87320da7912-genid224.",
+    " - _:genid-nodeid-node1gp5t4b3ox220 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-825c648aeef340e6b5dff87320da7912-genid221.",
+    " - _:genid-nodeid-node1gp5t4b3ox220 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>.",
+    " - _:genid-nodeid-node1gp5t4b3ox263 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>.",
+    " - _:genid-nodeid-node1gp5t4b3ox220 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>.",
+    " - _:genid-nodeid-node1gp5t4b3ox224 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-825c648aeef340e6b5dff87320da7912-genid227.",
+    " - _:genid-nodeid-node1gp5t4b3ox263 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-825c648aeef340e6b5dff87320da7912-genid267.",
+    " - _:genid-nodeid-node1gp5t4b3ox263 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>.",
+    " - _:genid-nodeid-node1gp5t4b3ox218 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>.",
+    " - _:genid-nodeid-node1gp5t4b3ox222 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>.",
+    " - _:genid-nodeid-node1gp5t4b3ox218 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>.",
+    " - _:genid-nodeid-node1gp5t4b3ox218 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-825c648aeef340e6b5dff87320da7912-genid218.",
+    " - _:genid-nodeid-node1gp5t4b3ox224 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>."
+  ],
+  "results": {
+    "http://purl.obolibrary.org/obo/cmo.obo": {
+      "graph_id": "http://purl.obolibrary.org/obo/cmo.obo",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2019-02-19",
+      "version_iri": "http://purl.obolibrary.org/obo/cmo/releases/2019-02-19/cmo.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

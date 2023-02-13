@@ -3,7 +3,7 @@
 ## `ISNBN`
 
 There are 1 usages of `ISNBN` in `dermo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ISNBN).
 
 | curie               |   usages | nodes                                                         |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PMDERMO`
 
 There are 2 usages of `PMDERMO` in `dermo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PMDERMO).
 
 | curie            |   usages | nodes                                                         |
@@ -24,7 +24,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `XX`
 
 There are 1 usages of `XX` in `dermo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX).
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
@@ -34,7 +34,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## ``
 
 There are 1 usages of `` in `dermo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20).
 
 | curie   |   usages | nodes                                                         |
@@ -44,7 +44,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DERMLEX`
 
 There are 1023 usages of `DERMLEX` in `dermo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DERMLEX).
 
 <details>
@@ -1081,7 +1081,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DODERMO`
 
 There are 1 usages of `DODERMO` in `dermo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DODERMO).
 
 | curie           |   usages | nodes                                                         |
@@ -1091,7 +1091,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `RID`
 
 There are 7 usages of `RID` in `dermo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RID).
 
 | curie     |   usages | nodes                                                         |

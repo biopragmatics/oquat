@@ -711,6 +711,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 |-----------------|----------------|-------------------------------------------------------------|
 | `OMIM:PS267700` |              1 | [DOID:0050120](http://purl.obolibrary.org/obo/DOID_0050120) |
 | `OMIM:PS275200` |              1 | [DOID:0050328](http://purl.obolibrary.org/obo/DOID_0050328) |
+| `OMIM:PS149730` |              1 | [DOID:0050331](http://purl.obolibrary.org/obo/DOID_0050331) |
 | `OMIM:PS175100` |              1 | [DOID:0050424](http://purl.obolibrary.org/obo/DOID_0050424) |
 | `OMIM:PS102300` |              1 | [DOID:0050425](http://purl.obolibrary.org/obo/DOID_0050425) |
 | `OMIM:PS107970` |              1 | [DOID:0050431](http://purl.obolibrary.org/obo/DOID_0050431) |
@@ -1190,6 +1191,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS251270` |              1 | [DOID:9005482](http://purl.obolibrary.org/obo/DOID_9005482) |
 | `OMIM:PS190350` |              1 | [DOID:9005517](http://purl.obolibrary.org/obo/DOID_9005517) |
 | `OMIM:PS142700` |              1 | [DOID:9005560](http://purl.obolibrary.org/obo/DOID_9005560) |
+| `OMIM:PS277400` |              1 | [DOID:9005614](http://purl.obolibrary.org/obo/DOID_9005614) |
 | `OMIM:PS148210` |              1 | [DOID:9005709](http://purl.obolibrary.org/obo/DOID_9005709) |
 | `OMIM:PS223360` |              1 | [DOID:9005950](http://purl.obolibrary.org/obo/DOID_9005950) |
 | `OMIM:PS614592` |              1 | [DOID:9006314](http://purl.obolibrary.org/obo/DOID_9006314) |
@@ -1199,6 +1201,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS617186` |              1 | [DOID:9006901](http://purl.obolibrary.org/obo/DOID_9006901) |
 | `OMIM:PS612975` |              1 | [DOID:9006913](http://purl.obolibrary.org/obo/DOID_9006913) |
 | `OMIM:PS188580` |              1 | [DOID:9006927](http://purl.obolibrary.org/obo/DOID_9006927) |
+| `OMIM:PS212720` |              1 | [DOID:9006949](http://purl.obolibrary.org/obo/DOID_9006949) |
 | `OMIM:PS607748` |              1 | [DOID:9007118](http://purl.obolibrary.org/obo/DOID_9007118) |
 | `OMIM:PS614675` |              1 | [DOID:9007222](http://purl.obolibrary.org/obo/DOID_9007222) |
 | `OMIM:PS190440` |              1 | [DOID:9007261](http://purl.obolibrary.org/obo/DOID_9007261) |

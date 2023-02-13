@@ -1,193 +1,199 @@
 {
-  "http://purl.obolibrary.org/obo/maxo.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/maxo.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {
-        "http://purl.obolibrary.org/obo/MAXO_0000013": [
-          "NCCIH"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000118": [
-          "WHO"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000449": [
-          "ICD-10-PCS"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000478": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000666": [
-          "ABMS.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000667": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000670": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000671": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000672": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000673": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000675": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000677": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000678": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000679": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000680": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000681": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000682": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000683": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000685": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000686": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000688": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000690": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000691": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000692": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000693": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000694": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000697": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000698": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000699": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000700": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000701": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000702": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000703": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000704": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000705": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000706": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000707": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000709": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000710": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000711": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000712": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000713": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000714": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000715": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000716": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000717": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000718": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000719": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000721": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000722": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000725": [
-          "abms.org"
-        ],
-        "http://purl.obolibrary.org/obo/MAXO_0000733": [
-          "asha.org"
-        ]
+  "created": "2023-02-13T18:57:00.566539",
+  "messages": [
+    "could not parse JSON for maxo from http://purl.obolibrary.org/obo/maxo.json"
+  ],
+  "results": {
+    "http://purl.obolibrary.org/obo/maxo.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/maxo.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {
+          "http://purl.obolibrary.org/obo/MAXO_0000013": [
+            "NCCIH"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000118": [
+            "WHO"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000449": [
+            "ICD-10-PCS"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000478": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000666": [
+            "ABMS.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000667": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000670": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000671": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000672": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000673": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000675": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000677": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000678": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000679": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000680": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000681": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000682": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000683": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000685": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000686": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000688": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000690": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000691": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000692": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000693": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000694": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000697": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000698": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000699": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000700": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000701": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000702": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000703": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000704": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000705": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000706": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000707": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000709": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000710": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000711": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000712": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000713": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000714": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000715": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000716": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000717": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000718": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000719": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000721": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000722": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000725": [
+            "abms.org"
+          ],
+          "http://purl.obolibrary.org/obo/MAXO_0000733": [
+            "asha.org"
+          ]
+        },
+        "noncanonical_prefixes": {
+          "ISBN-10": {
+            "http://purl.obolibrary.org/obo/MAXO_0000002": "ISBN-10:0124105165"
+          }
+        },
+        "unknown_prefixes": {}
       },
-      "noncanonical_prefixes": {
-        "ISBN-10": {
-          "http://purl.obolibrary.org/obo/MAXO_0000002": "ISBN-10:0124105165"
-        }
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       },
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2022-12-19",
-    "version_iri": "http://purl.obolibrary.org/obo/maxo/releases/2022-12-19/maxo.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "UMLS_CUI": {
-          "http://purl.obolibrary.org/obo/MAXO_0000474": "UMLS_CUI:C0162589"
-        }
-      },
-      "unknown_prefixes": {}
+      "version": "2022-12-19",
+      "version_iri": "http://purl.obolibrary.org/obo/maxo/releases/2022-12-19/maxo.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {
+          "UMLS_CUI": {
+            "http://purl.obolibrary.org/obo/MAXO_0000474": "UMLS_CUI:C0162589"
+          }
+        },
+        "unknown_prefixes": {}
+      }
     }
   }
 }

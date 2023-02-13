@@ -8,6 +8,7 @@ import bioregistry
 from tabulate import tabulate
 from tqdm import tqdm
 
+from oquat.api import AnalysisResults
 from oquat.large_scale_analysis import DOCS, RESULTS
 
 INVALIDS = DOCS.joinpath("versions")
@@ -33,13 +34,14 @@ def main():
         resource = bioregistry.get_resource(prefix)
         obo_prefix = None if resource is None else resource.get_obofoundry_prefix()
 
-        for graph_iri, graph in json.loads(path.read_text()).items():
+        analysis_results = AnalysisResults.parse_obj(json.loads(path.read_text()))
+        for graph_iri, graph in analysis_results.results.items():
             if "import" in graph_iri:
                 continue
-            graph_version = graph.get("version", "")
+            graph_version = graph.version or ""
             if graph_version:
                 graph_version = graph_version.replace("\n", " ")
-            version_iri = graph.get("version_iri", "")
+            version_iri = graph.version_iri or ""
 
             if obo_prefix:
                 if graph_iri != f"http://purl.obolibrary.org/obo/{obo_prefix.lower()}.owl":

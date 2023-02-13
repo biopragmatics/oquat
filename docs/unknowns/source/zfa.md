@@ -3,7 +3,7 @@
 ## `GOC`
 
 There are 1 usages of `GOC` in `zfa`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie   |   usages | nodes                                                     |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IBSN`
 
 There are 1 usages of `IBSN` in `zfa`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IBSN).
 
 | curie           |   usages | nodes                                                     |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ORDCiD`
 
 There are 1 usages of `ORDCiD` in `zfa`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ORDCiD).
 
 | curie                      |   usages | nodes                                                     |
@@ -33,7 +33,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ORDiD`
 
 There are 1 usages of `ORDiD` in `zfa`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ORDiD).
 
 | curie                     |   usages | nodes                                                     |
@@ -43,7 +43,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SANBI`
 
 There are 1 usages of `SANBI` in `zfa`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SANBI).
 
 | curie         |   usages | nodes                                                                                                                |
@@ -53,7 +53,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `TAIR`
 
 There are 1 usages of `TAIR` in `zfa`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TAIR).
 
 | curie   |   usages | nodes                                                     |
@@ -63,7 +63,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ZDB`
 
 There are 1 usages of `ZDB` in `zfa`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ZDB).
 
 | curie                 |   usages | nodes                                                     |
@@ -73,7 +73,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `goc`
 
 There are 1 usages of `goc` in `zfa`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20goc).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                      |

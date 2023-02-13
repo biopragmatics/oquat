@@ -3,7 +3,7 @@
 ## `CINEAS`
 
 There are 1 usages of `CINEAS` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CINEAS).
 
 | curie          |   usages | nodes                                                                                                                                                                     |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `COST`
 
 There are 1 usages of `COST` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20COST).
 
 | curie         |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ClinGen`
 
 There are 1 usages of `ClinGen` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ClinGen).
 
 | curie                 |   usages | nodes                                                   |
@@ -33,7 +33,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Cochrane`
 
 There are 1 usages of `Cochrane` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Cochrane).
 
 | curie             |   usages | nodes                                                   |
@@ -43,7 +43,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DD`
 
 There are 1 usages of `DD` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DD).
 
 | curie   |   usages | nodes                                                   |
@@ -53,7 +53,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DDD`
 
 There are 29 usages of `DDD` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DDD).
 
 <details>
@@ -96,7 +96,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DSM`
 
 There are 1 usages of `DSM` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DSM).
 
 | curie      |   usages | nodes                                                   |
@@ -106,7 +106,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Eurenomics`
 
 There are 3 usages of `Eurenomics` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Eurenomics).
 
 | curie                |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -118,7 +118,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOC`
 
 There are 4 usages of `GOC` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie            |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -131,7 +131,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Gene42`
 
 There are 1 usages of `Gene42` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gene42).
 
 | curie              |   usages | nodes                                                   |
@@ -141,7 +141,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `HPPO`
 
 There are 1 usages of `HPPO` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20HPPO).
 
 | curie          |   usages | nodes                                                   |
@@ -151,7 +151,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ICM`
 
 There are 1 usages of `ICM` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICM).
 
 | curie        |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -161,7 +161,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IMM`
 
 There are 1 usages of `IMM` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMM).
 
 | curie         |   usages | nodes                                                   |
@@ -171,7 +171,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ISCA`
 
 There are 1 usages of `ISCA` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ISCA).
 
 | curie       |   usages | nodes                                                   |
@@ -181,7 +181,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `JGM`
 
 There are 1 usages of `JGM` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20JGM).
 
 | curie         |   usages | nodes                                                   |
@@ -191,7 +191,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `KI`
 
 There are 1 usages of `KI` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KI).
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -201,7 +201,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `KMU`
 
 There are 1 usages of `KMU` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KMU).
 
 | curie         |   usages | nodes                                                                                                                                                                     |
@@ -211,7 +211,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `KPMP`
 
 There are 2 usages of `KPMP` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KPMP).
 
 | curie            |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -222,7 +222,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `LMU`
 
 There are 5 usages of `LMU` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20LMU).
 
 | curie         |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -236,7 +236,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MONARCH`
 
 There are 1 usages of `MONARCH` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MONARCH).
 
 | curie            |   usages | nodes                                                                                                                                                                     |
@@ -246,7 +246,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Monarch`
 
 There are 1 usages of `Monarch` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Monarch).
 
 | curie            |   usages | nodes                                                                                                                                                                     |
@@ -256,7 +256,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NIHR`
 
 There are 1 usages of `NIHR` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIHR).
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -266,7 +266,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NSTRN`
 
 There are 1 usages of `NSTRN` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NSTRN).
 
 | curie         |   usages | nodes                                                   |
@@ -276,7 +276,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Neuromics`
 
 There are 1 usages of `Neuromics` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Neuromics).
 
 | curie             |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -286,7 +286,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OHSU`
 
 There are 1 usages of `OHSU` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OHSU).
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -296,7 +296,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PhenoTips`
 
 There are 1 usages of `PhenoTips` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PhenoTips).
 
 | curie          |   usages | nodes                                                   |
@@ -306,7 +306,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Sanford`
 
 There are 1 usages of `Sanford` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Sanford).
 
 | curie           |   usages | nodes                                                   |
@@ -316,7 +316,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UCDenver`
 
 There are 1 usages of `UCDenver` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UCDenver).
 
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -326,7 +326,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UHPO`
 
 There are 1 usages of `UHPO` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UHPO).
 
 | curie          |   usages | nodes                                                   |
@@ -336,7 +336,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UK`
 
 There are 1 usages of `UK` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UK).
 
 | curie      |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -346,7 +346,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UKB`
 
 There are 1 usages of `UKB` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UKB).
 
 | curie            |   usages | nodes                                                                                                                                                                     |
@@ -356,7 +356,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UKT`
 
 There are 1 usages of `UKT` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UKT).
 
 | curie        |   usages | nodes                                                                                                                                                                                                                              |
@@ -366,7 +366,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UManchester`
 
 There are 1 usages of `UManchester` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UManchester).
 
 | curie                     |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -376,7 +376,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UManchster`
 
 There are 1 usages of `UManchster` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UManchster).
 
 | curie                    |   usages | nodes                                                   |
@@ -386,7 +386,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UNCL`
 
 There are 3 usages of `UNCL` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UNCL).
 
 | curie             |   usages | nodes                                                                                                                                                                     |
@@ -398,7 +398,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UToronto`
 
 There are 1 usages of `UToronto` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UToronto).
 
 | curie         |   usages | nodes                                                   |
@@ -408,7 +408,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WWW`
 
 There are 1 usages of `WWW` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WWW).
 
 | curie         |   usages | nodes                                                   |
@@ -418,7 +418,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `eMedicine`
 
 There are 8 usages of `eMedicine` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20eMedicine).
 
 | curie             |   usages | nodes                                                                                                                                                                     |
@@ -435,7 +435,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `emedicine`
 
 There are 1 usages of `emedicine` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20emedicine).
 
 | curie            |   usages | nodes                                                   |
@@ -445,7 +445,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `eom`
 
 There are 19 usages of `eom` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20eom).
 
 | curie                |   usages | nodes                                                   |
@@ -473,7 +473,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `sanford`
 
 There are 1 usages of `sanford` in `hp`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20sanford).
 
 | curie           |   usages | nodes                                                   |

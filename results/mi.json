@@ -1,224 +1,228 @@
 {
-  "http://purl.obolibrary.org/obo/mi.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/mi.owl",
-    "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/MI_0813": [
-          "PMID::17072308"
-        ],
-        "http://purl.obolibrary.org/obo/MI_0945": [
-          "GO:GO:0016491"
-        ],
-        "http://purl.obolibrary.org/obo/MI_1075": [
-          "PMID:ID:11604014"
-        ],
-        "http://purl.obolibrary.org/obo/MI_1197": [
-          "PMID:13846364."
-        ],
-        "http://purl.obolibrary.org/obo/MI_1327": [
-          "GO:GO:0016783"
-        ]
+  "created": "2023-02-13T18:58:31.137724",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/mi.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/mi.owl",
+      "prov_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/MI_0813": [
+            "PMID::17072308"
+          ],
+          "http://purl.obolibrary.org/obo/MI_0945": [
+            "GO:GO:0016491"
+          ],
+          "http://purl.obolibrary.org/obo/MI_1075": [
+            "PMID:ID:11604014"
+          ],
+          "http://purl.obolibrary.org/obo/MI_1197": [
+            "PMID:13846364."
+          ],
+          "http://purl.obolibrary.org/obo/MI_1327": [
+            "GO:GO:0016783"
+          ]
+        },
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {
+          "pmid": {
+            "http://purl.obolibrary.org/obo/MI_1337": "pmid:20200009",
+            "http://purl.obolibrary.org/obo/MI_2189": "pmid:22414956"
+          }
+        },
+        "unknown_prefixes": {}
       },
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "pmid": {
-          "http://purl.obolibrary.org/obo/MI_1337": "pmid:20200009",
-          "http://purl.obolibrary.org/obo/MI_2189": "pmid:22414956"
-        }
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       },
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/MI_2236": [
-          "GO:GO:0044093"
-        ],
-        "http://purl.obolibrary.org/obo/MI_2241": [
-          "GO:GO:0044093"
-        ],
-        "http://purl.obolibrary.org/obo/MI_2272": [
-          "GO:GO:0018322"
-        ],
-        "http://purl.obolibrary.org/obo/MI_2273": [
-          "GO:GO:0018166"
-        ]
-      },
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "id-validation-regex": {
-          "http://purl.obolibrary.org/obo/MI_2350": "id-validation-regex:"
+      "xref_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/MI_2236": [
+            "GO:GO:0044093"
+          ],
+          "http://purl.obolibrary.org/obo/MI_2241": [
+            "GO:GO:0044093"
+          ],
+          "http://purl.obolibrary.org/obo/MI_2272": [
+            "GO:GO:0018322"
+          ],
+          "http://purl.obolibrary.org/obo/MI_2273": [
+            "GO:GO:0018166"
+          ]
         },
-        "id-validation-regexp": {
-          "http://purl.obolibrary.org/obo/MI_0244": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0245": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0246": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0247": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0248": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0249": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0446": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0448": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0449": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0450": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0451": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0452": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0453": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0454": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0455": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0456": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0457": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0458": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0459": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0460": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0462": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0464": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0465": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0467": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0469": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0470": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0471": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0472": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0474": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0475": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0476": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0477": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0478": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0479": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0480": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0481": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0482": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0483": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0484": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0485": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0486": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0487": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0488": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0574": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0575": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0585": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0601": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0675": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0805": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0806": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0849": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0851": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0852": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0860": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0897": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0942": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_0967": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_1015": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_1043": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_1098": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_1099": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_1317": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_1331": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_1337": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_1347": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_1350": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_1357": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_2172": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_2173": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_2174": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_2175": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_2176": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_2177": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_2178": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_2225": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_2347": "id-validation-regexp:",
-          "http://purl.obolibrary.org/obo/MI_2349": "id-validation-regexp:"
-        },
-        "regexp": {
-          "http://purl.obolibrary.org/obo/MI_1348": "regexp:"
-        },
-        "search-url": {
-          "http://purl.obolibrary.org/obo/MI_0244": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0245": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0246": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0247": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0248": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0249": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0354": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0355": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0359": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0446": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0448": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0449": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0460": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0465": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0467": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0469": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0471": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0472": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0474": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0475": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0476": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0478": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0480": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0484": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0485": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0486": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0488": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0574": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0575": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0585": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0670": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0738": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0805": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0806": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0849": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0851": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0852": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0917": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0936": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0942": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_0967": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_1013": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_1042": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_1098": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_1099": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_1317": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_1331": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_1337": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_1340": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_1347": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_1348": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_1350": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_1357": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2172": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2173": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2174": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2175": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2176": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2177": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2178": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2180": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2181": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2214": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2225": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2228": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2279": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2324": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2344": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2347": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2349": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2350": "search-url:",
-          "http://purl.obolibrary.org/obo/MI_2358": "search-url:"
-        },
-        "url": {
-          "http://purl.obolibrary.org/obo/MI_1262": "url:http://iid.ophid.utoronto.ca/iid/",
-          "http://purl.obolibrary.org/obo/MI_2204": "url:",
-          "http://purl.obolibrary.org/obo/MI_2270": "url:http://signalink.org",
-          "http://purl.obolibrary.org/obo/MI_2271": "url:http://edamontology.org/"
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "id-validation-regex": {
+            "http://purl.obolibrary.org/obo/MI_2350": "id-validation-regex:"
+          },
+          "id-validation-regexp": {
+            "http://purl.obolibrary.org/obo/MI_0244": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0245": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0246": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0247": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0248": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0249": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0446": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0448": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0449": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0450": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0451": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0452": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0453": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0454": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0455": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0456": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0457": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0458": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0459": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0460": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0462": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0464": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0465": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0467": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0469": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0470": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0471": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0472": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0474": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0475": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0476": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0477": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0478": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0479": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0480": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0481": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0482": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0483": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0484": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0485": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0486": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0487": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0488": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0574": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0575": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0585": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0601": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0675": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0805": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0806": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0849": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0851": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0852": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0860": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0897": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0942": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_0967": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_1015": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_1043": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_1098": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_1099": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_1317": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_1331": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_1337": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_1347": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_1350": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_1357": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_2172": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_2173": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_2174": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_2175": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_2176": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_2177": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_2178": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_2225": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_2347": "id-validation-regexp:",
+            "http://purl.obolibrary.org/obo/MI_2349": "id-validation-regexp:"
+          },
+          "regexp": {
+            "http://purl.obolibrary.org/obo/MI_1348": "regexp:"
+          },
+          "search-url": {
+            "http://purl.obolibrary.org/obo/MI_0244": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0245": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0246": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0247": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0248": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0249": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0354": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0355": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0359": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0446": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0448": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0449": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0460": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0465": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0467": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0469": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0471": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0472": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0474": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0475": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0476": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0478": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0480": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0484": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0485": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0486": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0488": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0574": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0575": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0585": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0670": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0738": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0805": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0806": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0849": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0851": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0852": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0917": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0936": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0942": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_0967": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_1013": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_1042": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_1098": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_1099": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_1317": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_1331": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_1337": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_1340": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_1347": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_1348": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_1350": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_1357": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2172": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2173": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2174": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2175": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2176": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2177": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2178": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2180": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2181": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2214": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2225": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2228": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2279": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2324": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2344": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2347": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2349": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2350": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2358": "search-url:"
+          },
+          "url": {
+            "http://purl.obolibrary.org/obo/MI_1262": "url:http://iid.ophid.utoronto.ca/iid/",
+            "http://purl.obolibrary.org/obo/MI_2204": "url:",
+            "http://purl.obolibrary.org/obo/MI_2270": "url:http://signalink.org",
+            "http://purl.obolibrary.org/obo/MI_2271": "url:http://edamontology.org/"
+          }
         }
       }
     }

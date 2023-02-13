@@ -3,7 +3,7 @@
 ## `ABA`
 
 There are 1 usages of `ABA` in `dto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ABA).
 
 | curie     |   usages | nodes                                                           |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ANISEED`
 
 There are 3 usages of `ANISEED` in `dto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ANISEED).
 
 | curie           |   usages | nodes                                                           |
@@ -25,7 +25,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BSA`
 
 There are 3 usages of `BSA` in `dto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BSA).
 
 | curie       |   usages | nodes                                                           |
@@ -37,7 +37,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GAID`
 
 There are 23 usages of `GAID` in `dto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GAID).
 
 <details>
@@ -74,7 +74,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OpenCyc`
 
 There are 24 usages of `OpenCyc` in `dto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OpenCyc).
 
 <details>
@@ -112,7 +112,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SUBMITTER`
 
 There are 1 usages of `SUBMITTER` in `dto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SUBMITTER).
 
 | curie                  |   usages | nodes                                                     |
@@ -122,7 +122,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UM-BBD`
 
 There are 2 usages of `UM-BBD` in `dto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UM-BBD).
 
 | curie        |   usages | nodes                                                     |
@@ -133,7 +133,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WikipediaCategory`
 
 There are 1 usages of `WikipediaCategory` in `dto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaCategory).
 
 | curie                           |   usages | nodes                                                           |

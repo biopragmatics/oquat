@@ -3,7 +3,7 @@
 ## `Gramene`
 
 There are 2 usages of `Gramene` in `peco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gramene).
 
 | curie                  |   usages | nodes                                                                                                                                                                                                                                                                                                                |
@@ -14,7 +14,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IRIS`
 
 There are 1 usages of `IRIS` in `peco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IRIS).
 
 | curie    |   usages | nodes                                                                                                                                                                                 |
@@ -24,7 +24,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OBO_SF2_PECO`
 
 There are 74 usages of `OBO_SF2_PECO` in `peco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBO_SF2_PECO).
 
 <details>
@@ -112,7 +112,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PECO_GIT`
 
 There are 80 usages of `PECO_GIT` in `peco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PECO_GIT).
 
 <details>

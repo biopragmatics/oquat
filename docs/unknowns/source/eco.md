@@ -3,7 +3,7 @@
 ## `GOC`
 
 There are 1 usages of `GOC` in `eco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie   |   usages | nodes                                                                                                                |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NBK`
 
 There are 4 usages of `NBK` in `eco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NBK).
 
 | curie      |   usages | nodes                                                                                                                                                                           |
@@ -26,7 +26,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OED`
 
 There are 1 usages of `OED` in `eco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OED).
 
 | curie          |   usages | nodes                                                     |
@@ -36,7 +36,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PhenoScape`
 
 There are 1 usages of `PhenoScape` in `eco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PhenoScape).
 
 | curie         |   usages | nodes                                                     |
@@ -46,7 +46,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SIB`
 
 There are 1 usages of `SIB` in `eco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SIB).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -56,7 +56,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `TAIR`
 
 There are 1 usages of `TAIR` in `eco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TAIR).
 
 | curie    |   usages | nodes                                                                                                                                                                           |
@@ -66,7 +66,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `URL`
 
 There are 16 usages of `URL` in `eco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL).
 
 | curie                                                                                                                                     |   usages | nodes                                                                                                                                                                                                                                      |
@@ -91,7 +91,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `url`
 
 There are 118 usages of `url` in `eco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url).
 
 <details>
@@ -223,7 +223,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PMI`
 
 There are 1 usages of `PMI` in `eco`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PMI).
 
 | curie        |   usages | nodes                                                     |

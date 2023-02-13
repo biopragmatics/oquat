@@ -3,7 +3,7 @@
 ## `AspGD`
 
 There are 3 usages of `AspGD` in `apo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20AspGD).
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -15,7 +15,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `CryptoGD`
 
 There are 1 usages of `CryptoGD` in `apo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CryptoGD).
 
 | curie        |   usages | nodes                                                                                                                |
@@ -25,7 +25,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOC`
 
 There are 3 usages of `GOC` in `apo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie              |   usages | nodes                                                     |
@@ -37,7 +37,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `RSN`
 
 There are 1 usages of `RSN` in `apo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RSN).
 
 | curie   |   usages | nodes                                                     |

@@ -18,6 +18,7 @@ from tqdm.contrib.logging import logging_redirect_tqdm
 
 from .api import (
     SKIP_PREFIXES,
+    AnalysisResults,
     MissingGraphIRI,
     NoParsableURIs,
     Results,
@@ -125,16 +126,18 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False, skip_messages:
         analysis_path = RESULTS.joinpath(prefix).with_suffix(".json")
         if analysis_path.is_file() and not force:
             tqdm.write(f"loading results from {analysis_path}")
-            result = {k: Results(**v) for k, v in json.loads(analysis_path.read_text()).items()}
+            analysis_results = {
+                k: AnalysisResults.parse_obj(v)
+                for k, v in json.loads(analysis_path.read_text()).items()
+            }
         else:
             _iri_filter = iri_filter or CUSTOM_FILTERS.get(prefix)
-            _obo = " 🔨" if bioregistry.get_obofoundry_prefix(prefix) else ""
-            _deprecated = " ⚠️" if bioregistry.is_deprecated(prefix) else ""
-            text = f"[{prefix}{_obo}{_deprecated}] analyzing"
+            _obo = " (obo)" if bioregistry.get_obofoundry_prefix(prefix) else ""
+            text = f"[{prefix}{_obo}] analyzing"
             if _iri_filter:
                 text = f"{text} with IRI filter: {_iri_filter}"
             tqdm.write(text)
-            result = None
+            analysis_results = None
             try:
                 analysis_results = analyze_by_prefix(prefix, iri_filter=_iri_filter)
             except urllib.error.URLError:
@@ -153,19 +156,18 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False, skip_messages:
                 failure_text = f"General error: {e}"
                 _failure(prefix=prefix, text=failure_text)
             else:
-                result = analysis_results.results
                 if not skip_messages:
                     for message in analysis_results.messages:
                         secho(f"> {message}", fg="yellow")
 
             # secho(f"{prefix} writing results to {analysis_path}")
-            if not result:
+            if not analysis_results:
                 _failure(prefix=prefix, text="No parsable graphs")
             else:
                 # tqdm.write(f"writing {prefix} to {analysis_path}")
                 analysis_path.write_text(
                     json.dumps(
-                        result,
+                        analysis_results,
                         indent=2,
                         sort_keys=True,
                         ensure_ascii=False,
@@ -173,7 +175,7 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False, skip_messages:
                     )
                 )
 
-        results.append((prefix, result))
+        results.append((prefix, analysis_results))
 
     failures_table_rows = [
         (f"[{prefix}](https://bioregistry.io/{prefix})", message) for prefix, message in failures

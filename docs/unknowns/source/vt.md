@@ -3,7 +3,7 @@
 ## `ABO`
 
 There are 1 usages of `ABO` in `vt`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ABO).
 
 | curie    |   usages | nodes                                                                                                            |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BioON`
 
 There are 1 usages of `BioON` in `vt`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BioON).
 
 | curie                |   usages | nodes                                                   |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Dorland`
 
 There are 3 usages of `Dorland` in `vt`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dorland).
 
 | curie                                                    |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -35,7 +35,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MPD`
 
 There are 2 usages of `MPD` in `vt`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MPD).
 
 | curie                      |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -46,7 +46,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Mosby`
 
 There are 1 usages of `Mosby` in `vt`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Mosby).
 
 | curie                                  |   usages | nodes                                                   |
@@ -56,7 +56,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NCBI`
 
 There are 1 usages of `NCBI` in `vt`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NCBI).
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -66,7 +66,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NMF`
 
 There are 1 usages of `NMF` in `vt`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NMF).
 
 | curie      |   usages | nodes                                                   |
@@ -76,7 +76,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Saunders`
 
 There are 1 usages of `Saunders` in `vt`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Saunders).
 
 | curie                                   |   usages | nodes                                                                                                                                                                     |
@@ -86,7 +86,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `XX`
 
 There are 1 usages of `XX` in `vt`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX).
 
 | curie           |   usages | nodes                                                   |

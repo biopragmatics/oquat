@@ -1,26 +1,7 @@
 {
-  "http://purl.obolibrary.org/obo/TEMP": {
-    "graph_id": "http://purl.obolibrary.org/obo/TEMP",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    }
-  }
+  "created": "2023-02-13T20:00:47.555760",
+  "messages": [
+    "could not parse OBO for uniprot.location from https://www.uniprot.org/locations/?query=*&format=obo"
+  ],
+  "results": {}
 }

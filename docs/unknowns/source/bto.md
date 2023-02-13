@@ -3,7 +3,7 @@
 ## `Abcam_Products`
 
 There are 1 usages of `Abcam_Products` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Abcam_Products).
 
 | curie                                                                                                               |   usages | nodes                                                     |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Aetna_InteliHealth`
 
 There are 1 usages of `Aetna_InteliHealth` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Aetna_InteliHealth).
 
 | curie                                                                           |   usages | nodes                                                     |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Anatomy_of_the_Brain`
 
 There are 1 usages of `Anatomy_of_the_Brain` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Anatomy_of_the_Brain).
 
 | curie                                                                                    |   usages | nodes                                                     |
@@ -33,7 +33,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Answers.com`
 
 There are 1 usages of `Answers.com` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Answers.com).
 
 | curie                               |   usages | nodes                                                                                                                                                                                                                                      |
@@ -43,7 +43,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Applied_Biosystems`
 
 There are 1 usages of `Applied_Biosystems` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Applied_Biosystems).
 
 | curie                                     |   usages | nodes                                                     |
@@ -53,7 +53,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Asterand_Bioscience`
 
 There are 1 usages of `Asterand_Bioscience` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Asterand_Bioscience).
 
 | curie                                              |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -63,7 +63,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BIOCHEMICA_1999`
 
 There are 1 usages of `BIOCHEMICA_1999` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BIOCHEMICA_1999).
 
 | curie                                                                                                             |   usages | nodes                                                     |
@@ -73,7 +73,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Bee_Venom_Products`
 
 There are 1 usages of `Bee_Venom_Products` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Bee_Venom_Products).
 
 | curie                                                            |   usages | nodes                                                     |
@@ -83,7 +83,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Biochimica_Clinica`
 
 There are 1 usages of `Biochimica_Clinica` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Biochimica_Clinica).
 
 | curie                                                                                       |   usages | nodes                                                     |
@@ -93,7 +93,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Biocompare`
 
 There are 1 usages of `Biocompare` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Biocompare).
 
 | curie                                 |   usages | nodes                                                                                                                                                                           |
@@ -103,7 +103,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BrainMaps.org`
 
 There are 2 usages of `BrainMaps.org` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BrainMaps.org).
 
 | curie                              |   usages | nodes                                                     |
@@ -114,7 +114,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Brain_Structures`
 
 There are 1 usages of `Brain_Structures` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Brain_Structures).
 
 | curie                                                                   |   usages | nodes                                                     |
@@ -124,7 +124,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Braininfo`
 
 There are 1 usages of `Braininfo` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Braininfo).
 
 | curie                                                                        |   usages | nodes                                                     |
@@ -134,7 +134,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `COPE_Encyclopedia`
 
 There are 2 usages of `COPE_Encyclopedia` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20COPE_Encyclopedia).
 
 | curie                                                                      |   usages | nodes                                                                                                                                                                           |
@@ -145,7 +145,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `CaliperLifeSciences`
 
 There are 1 usages of `CaliperLifeSciences` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CaliperLifeSciences).
 
 | curie                                         |   usages | nodes                                                     |
@@ -155,7 +155,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Cancer.gov`
 
 There are 1 usages of `Cancer.gov` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Cancer.gov).
 
 | curie                                        |   usages | nodes                                                     |
@@ -165,7 +165,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Cancer.net`
 
 There are 1 usages of `Cancer.net` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Cancer.net).
 
 | curie                            |   usages | nodes                                                     |
@@ -175,7 +175,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Cancerbackup.org`
 
 There are 1 usages of `Cancerbackup.org` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Cancerbackup.org).
 
 | curie                                                                                                        |   usages | nodes                                                                                                                |
@@ -185,7 +185,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `CellApplicationsInc`
 
 There are 1 usages of `CellApplicationsInc` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CellApplicationsInc).
 
 | curie                                                 |   usages | nodes                                                     |
@@ -195,7 +195,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `CellOntology`
 
 There are 1 usages of `CellOntology` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CellOntology).
 
 | curie                                                                                   |   usages | nodes                                                                                                                                                                                                                                      |
@@ -205,7 +205,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Cell_Applications`
 
 There are 1 usages of `Cell_Applications` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Cell_Applications).
 
 | curie                                                |   usages | nodes                                                     |
@@ -215,7 +215,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Cell_Lines_Service`
 
 There are 1 usages of `Cell_Lines_Service` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Cell_Lines_Service).
 
 | curie                                                |   usages | nodes                                                     |
@@ -225,7 +225,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Cell_Name_Index`
 
 There are 1 usages of `Cell_Name_Index` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Cell_Name_Index).
 
 | curie                                                    |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -235,7 +235,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Cell_Research_(2008)`
 
 There are 1 usages of `Cell_Research_(2008)` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Cell_Research_(2008)).
 
 | curie                                                                          |   usages | nodes                                                     |
@@ -245,7 +245,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Cell_line_database`
 
 There are 1 usages of `Cell_line_database` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Cell_line_database).
 
 | curie                                         |   usages | nodes                                                                                                                |
@@ -255,7 +255,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Cellbank`
 
 There are 2 usages of `Cellbank` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Cellbank).
 
 | curie                                                     |   usages | nodes                                                                                                                                                                                                                                      |
@@ -266,7 +266,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Class_Gastropoda`
 
 There are 1 usages of `Class_Gastropoda` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Class_Gastropoda).
 
 | curie                                                             |   usages | nodes                                                     |
@@ -276,7 +276,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Clontech`
 
 There are 1 usages of `Clontech` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Clontech).
 
 | curie                                                                                                                 |   usages | nodes                                                     |
@@ -286,7 +286,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Concepts_in_Mycology`
 
 There are 1 usages of `Concepts_in_Mycology` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Concepts_in_Mycology).
 
 | curie                                                                       |   usages | nodes                                                                                                                |
@@ -296,7 +296,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `CreativeBioarray`
 
 There are 1 usages of `CreativeBioarray` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CreativeBioarray).
 
 | curie                                      |   usages | nodes                                                                                                                                                                                                                                      |
@@ -306,7 +306,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Crustacea_Glossary`
 
 There are 1 usages of `Crustacea_Glossary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Crustacea_Glossary).
 
 | curie                                                                              |   usages | nodes                                                     |
@@ -316,7 +316,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Dictionary`
 
 There are 3 usages of `Dictionary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dictionary).
 
 | curie                                                  |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -328,7 +328,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Dictionary.com`
 
 There are 2 usages of `Dictionary.com` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dictionary.com).
 
 | curie                                       |   usages | nodes                                                                                                                |
@@ -339,7 +339,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DictionaryBarn`
 
 There are 1 usages of `DictionaryBarn` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DictionaryBarn).
 
 | curie                                         |   usages | nodes                                                                                                                |
@@ -349,7 +349,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Dictionary_of_Botany`
 
 There are 2 usages of `Dictionary_of_Botany` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dictionary_of_Botany).
 
 | curie                                                               |   usages | nodes                                                                                                                                                                           |
@@ -360,7 +360,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Dictionary_of_Terms`
 
 There are 1 usages of `Dictionary_of_Terms` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dictionary_of_Terms).
 
 | curie                                                        |   usages | nodes                                                     |
@@ -370,7 +370,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Diseases`
 
 There are 1 usages of `Diseases` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Diseases).
 
 | curie                                  |   usages | nodes                                                     |
@@ -380,7 +380,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DoveMed`
 
 There are 1 usages of `DoveMed` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DoveMed).
 
 | curie                                                                             |   usages | nodes                                                     |
@@ -390,7 +390,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Earthworm`
 
 There are 1 usages of `Earthworm` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Earthworm).
 
 | curie                                                                        |   usages | nodes                                                     |
@@ -400,7 +400,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Ebony_Ayres`
 
 There are 1 usages of `Ebony_Ayres` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Ebony_Ayres).
 
 | curie                                                                                           |   usages | nodes                                                     |
@@ -410,7 +410,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `EcoWorld_Plants`
 
 There are 1 usages of `EcoWorld_Plants` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20EcoWorld_Plants).
 
 | curie                                           |   usages | nodes                                                                                                                |
@@ -420,7 +420,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Emedicinehealth`
 
 There are 1 usages of `Emedicinehealth` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Emedicinehealth).
 
 | curie                                           |   usages | nodes                                                                                                                |
@@ -430,7 +430,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Encyclo`
 
 There are 1 usages of `Encyclo` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Encyclo).
 
 | curie                             |   usages | nodes                                                     |
@@ -440,7 +440,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Encyclopedia`
 
 There are 1 usages of `Encyclopedia` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Encyclopedia).
 
 | curie                                                   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -450,7 +450,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Encyclopedia.com`
 
 There are 2 usages of `Encyclopedia.com` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Encyclopedia.com).
 
 | curie                                         |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -461,7 +461,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Equine_reproduction`
 
 There are 1 usages of `Equine_reproduction` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Equine_reproduction).
 
 | curie                                                |   usages | nodes                                                     |
@@ -471,7 +471,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Flybrain`
 
 There are 1 usages of `Flybrain` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Flybrain).
 
 | curie                                              |   usages | nodes                                                     |
@@ -481,7 +481,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Frontiers`
 
 There are 1 usages of `Frontiers` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Frontiers).
 
 | curie                                                                                                     |   usages | nodes                                                     |
@@ -491,7 +491,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Gardening_Glossary`
 
 There are 1 usages of `Gardening_Glossary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gardening_Glossary).
 
 | curie                                                           |   usages | nodes                                                     |
@@ -501,7 +501,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GeneOntology`
 
 There are 1 usages of `GeneOntology` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GeneOntology).
 
 | curie                                                                                                        |   usages | nodes                                                                                                                |
@@ -511,7 +511,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `General_Parasitology`
 
 There are 1 usages of `General_Parasitology` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20General_Parasitology).
 
 | curie                                |   usages | nodes                                                     |
@@ -521,7 +521,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Glossary`
 
 There are 3 usages of `Glossary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Glossary).
 
 | curie                                                                                                  |   usages | nodes                                                     |
@@ -533,7 +533,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Gramene`
 
 There are 1 usages of `Gramene` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gramene).
 
 | curie                                                           |   usages | nodes                                                     |
@@ -543,7 +543,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Gramene_DB`
 
 There are 1 usages of `Gramene_DB` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gramene_DB).
 
 | curie                                                 |   usages | nodes                                                                                                                                                                                                                                      |
@@ -553,7 +553,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Health_Library`
 
 There are 1 usages of `Health_Library` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Health_Library).
 
 | curie                                      |   usages | nodes                                                     |
@@ -563,7 +563,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `HyperCLDB`
 
 There are 2 usages of `HyperCLDB` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20HyperCLDB).
 
 | curie                                      |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -574,7 +574,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Invitrogen`
 
 There are 1 usages of `Invitrogen` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Invitrogen).
 
 | curie                                      |   usages | nodes                                                                                                                                                                                                                                      |
@@ -584,7 +584,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Isenet_Biobanking`
 
 There are 1 usages of `Isenet_Biobanking` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Isenet_Biobanking).
 
 | curie                                               |   usages | nodes                                                     |
@@ -594,7 +594,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Keratin.com`
 
 There are 1 usages of `Keratin.com` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Keratin.com).
 
 | curie                               |   usages | nodes                                                                                                                                                                           |
@@ -604,7 +604,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Labor&more`
 
 There are 1 usages of `Labor&more` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Labor&more).
 
 | curie                                                                                               |   usages | nodes                                                                                                                |
@@ -614,7 +614,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Leaf_Glossary`
 
 There are 1 usages of `Leaf_Glossary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Leaf_Glossary).
 
 | curie                                                                |   usages | nodes                                                     |
@@ -624,7 +624,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `LifeMapSciences`
 
 There are 1 usages of `LifeMapSciences` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20LifeMapSciences).
 
 | curie                                                                                                                                              |   usages | nodes                                                                                                                |
@@ -634,7 +634,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `LifeTechnologies`
 
 There are 1 usages of `LifeTechnologies` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20LifeTechnologies).
 
 | curie                                             |   usages | nodes                                                     |
@@ -644,7 +644,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `LungEvity`
 
 There are 1 usages of `LungEvity` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20LungEvity).
 
 | curie                            |   usages | nodes                                                     |
@@ -654,7 +654,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Maize_DB`
 
 There are 1 usages of `Maize_DB` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Maize_DB).
 
 | curie                                                                                        |   usages | nodes                                                                                                                |
@@ -664,7 +664,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Mammalian_cells`
 
 There are 1 usages of `Mammalian_cells` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Mammalian_cells).
 
 | curie                            |   usages | nodes                                                                                                                |
@@ -674,7 +674,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MarLIN`
 
 There are 1 usages of `MarLIN` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MarLIN).
 
 | curie                                      |   usages | nodes                                                                                                                |
@@ -684,7 +684,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Mayoclinic.com`
 
 There are 1 usages of `Mayoclinic.com` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Mayoclinic.com).
 
 | curie                                    |   usages | nodes                                                     |
@@ -694,7 +694,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MedBib.com`
 
 There are 1 usages of `MedBib.com` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MedBib.com).
 
 | curie                        |   usages | nodes                                                     |
@@ -704,7 +704,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Medical_Definitions`
 
 There are 1 usages of `Medical_Definitions` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Medical_Definitions).
 
 | curie                                                         |   usages | nodes                                                     |
@@ -714,7 +714,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Medical_Dictionary`
 
 There are 7 usages of `Medical_Dictionary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Medical_Dictionary).
 
 | curie                                                                |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -730,7 +730,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Medical_Encyclopedia`
 
 There are 1 usages of `Medical_Encyclopedia` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Medical_Encyclopedia).
 
 | curie                                                                     |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -740,7 +740,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MedicineNet`
 
 There are 1 usages of `MedicineNet` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MedicineNet).
 
 | curie                                    |   usages | nodes                                                     |
@@ -750,7 +750,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Medscape`
 
 There are 1 usages of `Medscape` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Medscape).
 
 | curie                                   |   usages | nodes                                                     |
@@ -760,7 +760,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Merck_Millipore`
 
 There are 2 usages of `Merck_Millipore` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Merck_Millipore).
 
 | curie                                                                                                          |   usages | nodes                                                     |
@@ -771,7 +771,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Mezcalistas`
 
 There are 1 usages of `Mezcalistas` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Mezcalistas).
 
 | curie                                          |   usages | nodes                                                     |
@@ -781,7 +781,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Microbiology`
 
 There are 1 usages of `Microbiology` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Microbiology).
 
 | curie                                                                                                          |   usages | nodes                                                     |
@@ -791,7 +791,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Mollusks`
 
 There are 1 usages of `Mollusks` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Mollusks).
 
 | curie                                                               |   usages | nodes                                                     |
@@ -801,7 +801,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MyPathologyReport.ca`
 
 There are 1 usages of `MyPathologyReport.ca` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MyPathologyReport.ca).
 
 | curie                                                                       |   usages | nodes                                                     |
@@ -811,7 +811,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Mycota_Dictionary`
 
 There are 1 usages of `Mycota_Dictionary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Mycota_Dictionary).
 
 | curie                                                                                 |   usages | nodes                                                     |
@@ -821,7 +821,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NDI`
 
 There are 1 usages of `NDI` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NDI).
 
 | curie                                         |   usages | nodes                                                     |
@@ -831,7 +831,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NatureResearch`
 
 There are 1 usages of `NatureResearch` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NatureResearch).
 
 | curie                                                                |   usages | nodes                                                     |
@@ -841,7 +841,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Neurolex.org`
 
 There are 1 usages of `Neurolex.org` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Neurolex.org).
 
 | curie                                                             |   usages | nodes                                                                                                                                                                                                                                      |
@@ -851,7 +851,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Neuromics`
 
 There are 1 usages of `Neuromics` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Neuromics).
 
 | curie                               |   usages | nodes                                                     |
@@ -861,7 +861,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PAE_Virtual_Glossary`
 
 There are 1 usages of `PAE_Virtual_Glossary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PAE_Virtual_Glossary).
 
 | curie                                                                                                            |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -871,7 +871,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Parathyroid_Hormone`
 
 There are 1 usages of `Parathyroid_Hormone` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Parathyroid_Hormone).
 
 | curie                                                                                        |   usages | nodes                                                     |
@@ -881,7 +881,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Parotid_Gland_Cancer`
 
 There are 1 usages of `Parotid_Gland_Cancer` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Parotid_Gland_Cancer).
 
 | curie                                                                               |   usages | nodes                                                     |
@@ -891,7 +891,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Pathbase`
 
 There are 1 usages of `Pathbase` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Pathbase).
 
 | curie                                                       |   usages | nodes                                                     |
@@ -901,7 +901,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Physiopedia`
 
 There are 1 usages of `Physiopedia` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Physiopedia).
 
 | curie                                     |   usages | nodes                                                     |
@@ -911,7 +911,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PlantStudio`
 
 There are 1 usages of `PlantStudio` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PlantStudio).
 
 | curie                |   usages | nodes                                                     |
@@ -921,7 +921,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Plant_Biology`
 
 There are 1 usages of `Plant_Biology` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Plant_Biology).
 
 | curie                                       |   usages | nodes                                                     |
@@ -931,7 +931,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Plant_Glossary`
 
 There are 1 usages of `Plant_Glossary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Plant_Glossary).
 
 | curie                                            |   usages | nodes                                                     |
@@ -941,7 +941,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Plant_Ontology`
 
 There are 3 usages of `Plant_Ontology` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Plant_Ontology).
 
 | curie                                                                                   |   usages | nodes                                                                                                                |
@@ -953,7 +953,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Plantlife`
 
 There are 1 usages of `Plantlife` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Plantlife).
 
 | curie                               |   usages | nodes                                                     |
@@ -963,7 +963,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Prawn`
 
 There are 1 usages of `Prawn` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Prawn).
 
 | curie                                                                                   |   usages | nodes                                                                                                                |
@@ -973,7 +973,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PromoCell`
 
 There are 1 usages of `PromoCell` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PromoCell).
 
 | curie                               |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -983,7 +983,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Qbiogene`
 
 There are 1 usages of `Qbiogene` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Qbiogene).
 
 | curie                                                           |   usages | nodes                                                                                                                |
@@ -993,7 +993,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `R&D_Systems`
 
 There are 1 usages of `R&D_Systems` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20R&D_Systems).
 
 | curie                                                                |   usages | nodes                                                     |
@@ -1003,7 +1003,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Radiopaedia.org`
 
 There are 1 usages of `Radiopaedia.org` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Radiopaedia.org).
 
 | curie                                                                      |   usages | nodes                                                     |
@@ -1013,7 +1013,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Rakhmanov,_Mirzokhid`
 
 There are 1 usages of `Rakhmanov,_Mirzokhid` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Rakhmanov,_Mirzokhid).
 
 | curie                                                                                                |   usages | nodes                                                     |
@@ -1023,7 +1023,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Real_Dictionary.com`
 
 There are 1 usages of `Real_Dictionary.com` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Real_Dictionary.com).
 
 | curie                                                                     |   usages | nodes                                                     |
@@ -1033,7 +1033,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Renal_Physiology`
 
 There are 1 usages of `Renal_Physiology` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Renal_Physiology).
 
 | curie                                 |   usages | nodes                                                     |
@@ -1043,7 +1043,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Rene_Geurts_`
 
 There are 1 usages of `Rene_Geurts_` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Rene_Geurts_).
 
 | curie                                                                                                   |   usages | nodes                                                     |
@@ -1053,7 +1053,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Repropedia`
 
 There are 1 usages of `Repropedia` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Repropedia).
 
 | curie                                                        |   usages | nodes                                                     |
@@ -1063,7 +1063,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Review_Glossary`
 
 There are 1 usages of `Review_Glossary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Review_Glossary).
 
 | curie                                   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -1073,7 +1073,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Riken_(Japan)`
 
 There are 1 usages of `Riken_(Japan)` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Riken_(Japan)).
 
 | curie                                               |   usages | nodes                                                     |
@@ -1083,7 +1083,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Sci-Tech_Dictionary`
 
 There are 1 usages of `Sci-Tech_Dictionary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Sci-Tech_Dictionary).
 
 | curie                                       |   usages | nodes                                                     |
@@ -1093,7 +1093,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ScienceDirect`
 
 There are 1 usages of `ScienceDirect` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ScienceDirect).
 
 | curie                                                       |   usages | nodes                                                     |
@@ -1103,7 +1103,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Science_Dictionary`
 
 There are 1 usages of `Science_Dictionary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Science_Dictionary).
 
 | curie                                 |   usages | nodes                                                     |
@@ -1113,7 +1113,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Snake_Anatomy`
 
 There are 1 usages of `Snake_Anatomy` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Snake_Anatomy).
 
 | curie                                                                |   usages | nodes                                                     |
@@ -1123,7 +1123,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Stem_Cell_Glossary`
 
 There are 1 usages of `Stem_Cell_Glossary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Stem_Cell_Glossary).
 
 | curie                                                                                 |   usages | nodes                                                     |
@@ -1133,7 +1133,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Stratagene`
 
 There are 1 usages of `Stratagene` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Stratagene).
 
 | curie                                 |   usages | nodes                                                     |
@@ -1143,7 +1143,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Surgical_Pathology`
 
 There are 1 usages of `Surgical_Pathology` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Surgical_Pathology).
 
 | curie                                                                                  |   usages | nodes                                                     |
@@ -1153,7 +1153,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `TheCancer.info`
 
 There are 1 usages of `TheCancer.info` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TheCancer.info).
 
 | curie                                                                     |   usages | nodes                                                     |
@@ -1163,7 +1163,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `TheFreeDictionary`
 
 There are 2 usages of `TheFreeDictionary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TheFreeDictionary).
 
 | curie                                                               |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -1174,7 +1174,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `The_Doctors_Doctor`
 
 There are 1 usages of `The_Doctors_Doctor` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20The_Doctors_Doctor).
 
 | curie                                               |   usages | nodes                                                     |
@@ -1184,7 +1184,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `The_Insect_Head`
 
 There are 1 usages of `The_Insect_Head` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20The_Insect_Head).
 
 | curie                                                           |   usages | nodes                                                     |
@@ -1194,7 +1194,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `The_Phylum_Nematoda`
 
 There are 1 usages of `The_Phylum_Nematoda` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20The_Phylum_Nematoda).
 
 | curie                                                              |   usages | nodes                                                     |
@@ -1204,7 +1204,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `The_TreeDictionary`
 
 There are 1 usages of `The_TreeDictionary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20The_TreeDictionary).
 
 | curie                                             |   usages | nodes                                                                                                                                                                           |
@@ -1214,7 +1214,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `The_interactive_fly`
 
 There are 1 usages of `The_interactive_fly` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20The_interactive_fly).
 
 | curie                                                                      |   usages | nodes                                                     |
@@ -1224,7 +1224,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Tick_gross_anatomy`
 
 There are 1 usages of `Tick_gross_anatomy` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Tick_gross_anatomy).
 
 | curie                                                                           |   usages | nodes                                                     |
@@ -1234,7 +1234,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UNSW_Embryology`
 
 There are 1 usages of `UNSW_Embryology` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UNSW_Embryology).
 
 | curie                    |   usages | nodes                                                     |
@@ -1244,7 +1244,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `University_of_York`
 
 There are 1 usages of `University_of_York` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20University_of_York).
 
 | curie                          |   usages | nodes                                                     |
@@ -1254,7 +1254,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Veterinary_Histology`
 
 There are 1 usages of `Veterinary_Histology` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Veterinary_Histology).
 
 | curie                                                                                                  |   usages | nodes                                                     |
@@ -1264,7 +1264,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WO/2007/095583`
 
 There are 1 usages of `WO/2007/095583` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WO/2007/095583).
 
 | curie                                                                                                              |   usages | nodes                                                     |
@@ -1274,7 +1274,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Wiktionary`
 
 There are 1 usages of `Wiktionary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiktionary).
 
 | curie                                      |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -1284,7 +1284,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Wormatlas`
 
 There are 1 usages of `Wormatlas` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wormatlas).
 
 | curie                               |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -1294,7 +1294,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Ximbio.com`
 
 There are 1 usages of `Ximbio.com` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Ximbio.com).
 
 | curie                                           |   usages | nodes                                                     |
@@ -1304,7 +1304,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `YourDictionary`
 
 There are 1 usages of `YourDictionary` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20YourDictionary).
 
 | curie                                          |   usages | nodes                                                                                                                |
@@ -1314,7 +1314,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Zebrafish_Anatomy`
 
 There are 1 usages of `Zebrafish_Anatomy` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Zebrafish_Anatomy).
 
 | curie                                                     |   usages | nodes                                                     |
@@ -1324,7 +1324,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Zebrafish_UCL`
 
 There are 1 usages of `Zebrafish_UCL` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Zebrafish_UCL).
 
 | curie                                  |   usages | nodes                                                     |
@@ -1334,7 +1334,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Zoomorphology`
 
 There are 1 usages of `Zoomorphology` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Zoomorphology).
 
 | curie                                                                                                                     |   usages | nodes                                                     |
@@ -1344,7 +1344,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `curators`
 
 There are 2 usages of `curators` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20curators).
 
 | curie        |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -1355,7 +1355,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `eScienceNews`
 
 There are 1 usages of `eScienceNews` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20eScienceNews).
 
 | curie                                                                                    |   usages | nodes                                                     |
@@ -1365,7 +1365,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `lookfordiagnosis.com`
 
 There are 1 usages of `lookfordiagnosis.com` in `bto`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20lookfordiagnosis.com).
 
 | curie                                                 |   usages | nodes                                                     |

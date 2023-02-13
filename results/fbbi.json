@@ -1,43 +1,47 @@
 {
-  "http://purl.obolibrary.org/obo/fbbi.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/fbbi.owl",
-    "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/FBbi_00000037": [
-          "Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain"
-        ],
-        "http://purl.obolibrary.org/obo/FBbi_00000041": [
-          "Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain"
-        ]
-      },
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "": {
-          "http://purl.obolibrary.org/obo/FBbi_00000291": ":"
+  "created": "2023-02-13T18:43:02.072032",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/fbbi.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/fbbi.owl",
+      "prov_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/FBbi_00000037": [
+            "Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain"
+          ],
+          "http://purl.obolibrary.org/obo/FBbi_00000041": [
+            "Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain"
+          ]
         },
-        "XX": {
-          "http://purl.obolibrary.org/obo/FBbi_00000025": "XX:ISBN978-087969683-2",
-          "http://purl.obolibrary.org/obo/FBbi_00000366": "XX:-new-dbxref-"
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "": {
+            "http://purl.obolibrary.org/obo/FBbi_00000291": ":"
+          },
+          "XX": {
+            "http://purl.obolibrary.org/obo/FBbi_00000025": "XX:ISBN978-087969683-2",
+            "http://purl.obolibrary.org/obo/FBbi_00000366": "XX:-new-dbxref-"
+          }
         }
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2020-11-06",
+      "version_iri": "http://purl.obolibrary.org/obo/fbbi/releases/2020-11-06/fbbi.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       }
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2020-11-06",
-    "version_iri": "http://purl.obolibrary.org/obo/fbbi/releases/2020-11-06/fbbi.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
     }
   }
 }

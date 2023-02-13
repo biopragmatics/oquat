@@ -1,1281 +1,1285 @@
 {
-  "http://purl.obolibrary.org/obo/vario.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/vario.owl",
-    "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/VariO_0001": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0002": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0003": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0004": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0005": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0006": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0007": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0008": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0009": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0010": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0011": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0012": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0013": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0014": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0015": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0016": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0017": [
-          "Vario:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0018": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0019": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0020": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0021": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0022": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0023": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0024": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0025": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0026": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0027": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0028": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0029": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0030": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0031": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0032": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0033": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0034": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0035": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0036": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0037": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0038": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0039": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0040": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0041": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0042": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0043": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0044": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0045": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0046": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0047": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0048": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0049": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0050": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0051": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0052": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0053": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0054": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0055": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0056": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0057": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0058": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0059": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0060": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0061": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0062": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0063": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0064": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0065": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0066": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0067": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0068": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0069": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0070": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0071": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0072": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0073": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0074": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0075": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0076": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0077": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0078": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0079": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0080": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0081": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0082": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0083": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0084": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0085": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0086": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0087": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0088": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0089": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0090": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0091": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0092": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0093": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0094": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0095": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0096": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0097": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0098": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0099": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0100": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0101": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0102": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0103": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0104": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0105": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0106": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0107": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0108": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0109": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0110": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0111": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0112": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0113": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0114": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0115": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0116": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0117": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0118": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0119": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0120": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0121": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0122": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0123": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0124": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0125": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0126": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0127": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0128": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0129": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0130": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0131": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0132": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0133": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0134": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0135": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0136": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0137": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0138": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0139": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0140": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0141": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0142": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0143": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0144": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0145": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0146": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0147": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0148": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0149": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0150": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0151": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0152": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0153": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0154": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0155": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0156": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0157": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0158": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0159": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0160": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0161": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0162": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0163": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0164": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0165": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0166": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0167": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0168": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0169": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0170": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0171": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0172": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0173": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0174": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0175": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0176": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0177": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0178": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0179": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0180": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0181": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0182": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0183": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0184": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0185": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0186": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0187": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0188": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0189": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0190": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0191": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0192": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0193": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0194": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0195": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0196": [
-          "SO:ke",
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0197": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0198": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0199": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0200": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0201": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0202": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0203": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0204": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0205": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0206": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0207": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0208": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0209": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0210": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0211": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0212": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0213": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0214": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0215": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0216": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0217": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0218": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0219": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0220": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0221": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0222": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0223": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0224": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0225": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0226": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0227": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0228": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0229": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0230": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0231": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0232": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0233": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0234": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0235": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0236": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0237": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0238": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0240": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0241": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0242": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0243": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0245": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0246": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0247": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0248": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0249": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0251": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0253": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0254": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0255": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0256": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0258": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0259": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0260": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0272": [
-          "MI:0000704"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0279": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0281": [
-          "UniProt:curation_manual",
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0282": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0283": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0284": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0286": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0287": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0288": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0289": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0290": [
-          "SGD:curators"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0291": [
-          "SGD:curators"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0292": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0293": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0294": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0295": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0296": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0297": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0298": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0299": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0300": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0301": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0302": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0303": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0304": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0305": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0306": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0307": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0308": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0309": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0310": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0311": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0312": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0313": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0314": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0315": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0316": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0317": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0318": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0319": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0320": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0321": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0322": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0323": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0324": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0325": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0326": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0327": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0328": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0329": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0330": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0331": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0332": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0333": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0334": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0335": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0336": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0337": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0338": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0343": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0349": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0350": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0351": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0352": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0353": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0354": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0356": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0361": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0362": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0363": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0364": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0365": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0366": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0367": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0368": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0369": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0370": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0371": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0372": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0373": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0374": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0375": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0376": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0377": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0378": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0379": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0380": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0381": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0382": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0383": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0384": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0385": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0386": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0387": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0388": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0389": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0390": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0391": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0392": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0393": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0394": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0396": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0397": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0398": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0399": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0400": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0401": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0402": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0403": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0404": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0405": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0407": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0408": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0409": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0410": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0411": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0412": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0413": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0414": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0415": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0416": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0417": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0418": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0419": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0420": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0421": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0422": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0423": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0424": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0425": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0426": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0427": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0428": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0429": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0430": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0431": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0432": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0433": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0434": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0435": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0436": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0437": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0438": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0439": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0440": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0441": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0442": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0443": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0444": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0445": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0446": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0447": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0448": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0449": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0450": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0451": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0452": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0453": [
-          "VariO:mv"
-        ],
-        "http://purl.obolibrary.org/obo/VariO_0454": [
-          "VariO:mv"
-        ]
-      },
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "EBIBS": {
-          "http://purl.obolibrary.org/obo/VariO_0281": "EBIBS:GAR"
+  "created": "2023-02-13T20:01:11.388551",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/vario.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/vario.owl",
+      "prov_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/VariO_0001": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0002": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0003": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0004": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0005": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0006": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0007": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0008": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0009": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0010": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0011": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0012": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0013": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0014": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0015": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0016": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0017": [
+            "Vario:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0018": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0019": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0020": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0021": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0022": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0023": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0024": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0025": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0026": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0027": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0028": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0029": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0030": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0031": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0032": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0033": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0034": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0035": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0036": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0037": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0038": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0039": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0040": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0041": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0042": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0043": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0044": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0045": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0046": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0047": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0048": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0049": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0050": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0051": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0052": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0053": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0054": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0055": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0056": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0057": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0058": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0059": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0060": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0061": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0062": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0063": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0064": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0065": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0066": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0067": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0068": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0069": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0070": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0071": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0072": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0073": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0074": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0075": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0076": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0077": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0078": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0079": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0080": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0081": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0082": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0083": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0084": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0085": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0086": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0087": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0088": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0089": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0090": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0091": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0092": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0093": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0094": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0095": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0096": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0097": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0098": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0099": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0100": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0101": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0102": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0103": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0104": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0105": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0106": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0107": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0108": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0109": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0110": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0111": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0112": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0113": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0114": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0115": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0116": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0117": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0118": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0119": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0120": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0121": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0122": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0123": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0124": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0125": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0126": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0127": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0128": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0129": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0130": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0131": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0132": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0133": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0134": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0135": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0136": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0137": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0138": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0139": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0140": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0141": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0142": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0143": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0144": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0145": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0146": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0147": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0148": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0149": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0150": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0151": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0152": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0153": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0154": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0155": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0156": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0157": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0158": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0159": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0160": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0161": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0162": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0163": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0164": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0165": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0166": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0167": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0168": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0169": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0170": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0171": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0172": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0173": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0174": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0175": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0176": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0177": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0178": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0179": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0180": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0181": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0182": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0183": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0184": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0185": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0186": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0187": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0188": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0189": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0190": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0191": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0192": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0193": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0194": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0195": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0196": [
+            "SO:ke",
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0197": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0198": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0199": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0200": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0201": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0202": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0203": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0204": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0205": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0206": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0207": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0208": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0209": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0210": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0211": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0212": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0213": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0214": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0215": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0216": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0217": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0218": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0219": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0220": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0221": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0222": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0223": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0224": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0225": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0226": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0227": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0228": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0229": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0230": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0231": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0232": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0233": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0234": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0235": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0236": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0237": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0238": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0240": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0241": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0242": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0243": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0245": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0246": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0247": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0248": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0249": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0251": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0253": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0254": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0255": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0256": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0258": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0259": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0260": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0272": [
+            "MI:0000704"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0279": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0281": [
+            "UniProt:curation_manual",
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0282": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0283": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0284": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0286": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0287": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0288": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0289": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0290": [
+            "SGD:curators"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0291": [
+            "SGD:curators"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0292": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0293": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0294": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0295": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0296": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0297": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0298": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0299": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0300": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0301": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0302": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0303": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0304": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0305": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0306": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0307": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0308": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0309": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0310": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0311": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0312": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0313": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0314": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0315": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0316": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0317": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0318": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0319": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0320": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0321": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0322": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0323": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0324": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0325": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0326": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0327": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0328": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0329": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0330": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0331": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0332": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0333": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0334": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0335": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0336": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0337": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0338": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0343": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0349": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0350": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0351": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0352": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0353": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0354": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0356": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0361": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0362": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0363": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0364": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0365": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0366": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0367": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0368": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0369": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0370": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0371": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0372": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0373": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0374": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0375": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0376": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0377": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0378": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0379": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0380": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0381": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0382": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0383": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0384": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0385": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0386": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0387": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0388": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0389": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0390": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0391": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0392": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0393": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0394": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0396": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0397": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0398": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0399": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0400": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0401": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0402": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0403": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0404": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0405": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0407": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0408": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0409": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0410": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0411": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0412": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0413": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0414": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0415": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0416": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0417": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0418": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0419": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0420": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0421": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0422": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0423": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0424": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0425": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0426": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0427": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0428": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0429": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0430": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0431": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0432": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0433": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0434": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0435": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0436": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0437": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0438": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0439": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0440": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0441": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0442": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0443": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0444": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0445": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0446": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0447": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0448": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0449": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0450": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0451": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0452": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0453": [
+            "VariO:mv"
+          ],
+          "http://purl.obolibrary.org/obo/VariO_0454": [
+            "VariO:mv"
+          ]
         },
-        "VriO": {
-          "http://purl.obolibrary.org/obo/VariO_0244": "VriO:mv"
-        },
-        "src_code": {
-          "http://purl.obolibrary.org/obo/VariO_0236": "src_code:NR"
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "EBIBS": {
+            "http://purl.obolibrary.org/obo/VariO_0281": "EBIBS:GAR"
+          },
+          "VriO": {
+            "http://purl.obolibrary.org/obo/VariO_0244": "VriO:mv"
+          },
+          "src_code": {
+            "http://purl.obolibrary.org/obo/VariO_0236": "src_code:NR"
+          }
         }
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       }
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
     }
   }
 }

@@ -3,7 +3,7 @@
 ## `Biology-online`
 
 There are 1 usages of `Biology-online` in `cmpo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Biology-online).
 
 | curie                         |   usages | nodes                                                                                                                    |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Dictionary`
 
 There are 1 usages of `Dictionary` in `cmpo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dictionary).
 
 | curie                                       |   usages | nodes                                                       |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOC`
 
 There are 16 usages of `GOC` in `cmpo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -48,7 +48,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PATOC`
 
 There are 9 usages of `PATOC` in `cmpo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PATOC).
 
 | curie            |   usages | nodes                                                                                                                                                                                                                                                                                                                |
@@ -66,7 +66,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `RKC`
 
 There are 1 usages of `RKC` in `cmpo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RKC).
 
 | curie   |   usages | nodes                                                       |
@@ -76,7 +76,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WordNet`
 
 There are 1 usages of `WordNet` in `cmpo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WordNet).
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
@@ -86,7 +86,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `medical-dictionary`
 
 There are 1 usages of `medical-dictionary` in `cmpo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20medical-dictionary).
 
 | curie                                 |   usages | nodes                                                       |
@@ -96,7 +96,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `thefreedictionary`
 
 There are 2 usages of `thefreedictionary` in `cmpo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20thefreedictionary).
 
 | curie                                                         |   usages | nodes                                                       |
@@ -107,7 +107,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `wiktionary`
 
 There are 1 usages of `wiktionary` in `cmpo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wiktionary).
 
 | curie                   |   usages | nodes                                                       |
@@ -117,7 +117,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `wordreference`
 
 There are 1 usages of `wordreference` in `cmpo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wordreference).
 
 | curie                       |   usages | nodes                                                       |

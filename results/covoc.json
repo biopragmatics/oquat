@@ -1,1042 +1,1048 @@
 {
-  "http://purl.obolibrary.org/obo/covoc.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/covoc.owl",
-    "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/CL_0000000": [
-          "CARO:mah"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000010": [
-          "ReO:mhb"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000134": [
-          "FB:ma"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0005575": [
-          "NIF_Subcellular:sao1337158144"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0000822": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0000969": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0000988": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0000989": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0001025": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0001649": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0001742": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0001945": [
-          "HPO:sdoelken"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0002013": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0002014": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0002018": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0002027": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0002094": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0002789": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0003077": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0003326": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0012378": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0012735": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0100806": [
-          "HPO:probinson"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0005002": [
-          "NCIT:P378"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0005015": [
-          "NCIT:P378"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0005091": [
-          "NCIT:P378"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0005108": [
-          "NCIT:P378"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0005249": [
-          "NCIT:P378"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0005812": [
-          "NCIT:P378"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0100096": [
-          "MONDO:patterns/infectious_disease_by_agent"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0100120": [
-          "Wikipedia:Vector_(epidemiology)"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000000001": [
-          "PRO:DAN",
-          "PRO:WCB"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000001341": [
-          "PRO:WCB"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000001471": [
-          "PRO:JAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000003137": [
-          "PRO:CNA"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000018931": [
-          "PRO:DNx"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000050252": [
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000050272": [
-          "GenPept:YP_009725299",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_O15393": [
-          "PRO:DNx"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC1-1": [
-          "GenPept:YP_009725295",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC2": [
-          "GenPept:YP_009724390",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC3": [
-          "GenPept:YP_009724391",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC4": [
-          "GenPept:YP_009724392",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC5": [
-          "GenPept:YP_009724393",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC7": [
-          "GenPept:YP_009724395",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC9": [
-          "GenPept:YP_009724397",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTD1-1": [
-          "GenPept:YP_009724389",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P12821": [
-          "PRO:WCB"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P22301": [
-          "PRO:JAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_Q9BYF1": [
-          "PRO:DNx"
-        ],
-        "http://purl.obolibrary.org/obo/PR_Q9H2X3": [
-          "PRO:WCB"
-        ]
-      },
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "FB": {
-          "http://purl.obolibrary.org/obo/CL_0000134": "FB:ma"
+  "created": "2023-02-13T18:30:44.649109",
+  "messages": [
+    "could not parse JSON for covoc from https://github.com/EBISPOT/covoc/releases/download/current/covoc.json"
+  ],
+  "results": {
+    "http://purl.obolibrary.org/obo/covoc.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/covoc.owl",
+      "prov_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/CL_0000000": [
+            "CARO:mah"
+          ],
+          "http://purl.obolibrary.org/obo/CL_0000010": [
+            "ReO:mhb"
+          ],
+          "http://purl.obolibrary.org/obo/CL_0000134": [
+            "FB:ma"
+          ],
+          "http://purl.obolibrary.org/obo/GO_0005575": [
+            "NIF_Subcellular:sao1337158144"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0000822": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0000969": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0000988": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0000989": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0001025": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0001649": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0001742": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0001945": [
+            "HPO:sdoelken"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0002013": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0002014": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0002018": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0002027": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0002094": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0002789": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0003077": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0003326": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0012378": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0012735": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0100806": [
+            "HPO:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0005002": [
+            "NCIT:P378"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0005015": [
+            "NCIT:P378"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0005091": [
+            "NCIT:P378"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0005108": [
+            "NCIT:P378"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0005249": [
+            "NCIT:P378"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0005812": [
+            "NCIT:P378"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0100096": [
+            "MONDO:patterns/infectious_disease_by_agent"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0100120": [
+            "Wikipedia:Vector_(epidemiology)"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000000001": [
+            "PRO:DAN",
+            "PRO:WCB"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000001341": [
+            "PRO:WCB"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000001471": [
+            "PRO:JAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000003137": [
+            "PRO:CNA"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000018931": [
+            "PRO:DNx"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000050252": [
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000050272": [
+            "GenPept:YP_009725299",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_O15393": [
+            "PRO:DNx"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC1-1": [
+            "GenPept:YP_009725295",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC2": [
+            "GenPept:YP_009724390",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC3": [
+            "GenPept:YP_009724391",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC4": [
+            "GenPept:YP_009724392",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC5": [
+            "GenPept:YP_009724393",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC7": [
+            "GenPept:YP_009724395",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC9": [
+            "GenPept:YP_009724397",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTD1-1": [
+            "GenPept:YP_009724389",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P12821": [
+            "PRO:WCB"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P22301": [
+            "PRO:JAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_Q9BYF1": [
+            "PRO:DNx"
+          ],
+          "http://purl.obolibrary.org/obo/PR_Q9H2X3": [
+            "PRO:WCB"
+          ]
         },
-        "GO_REF": {
-          "http://purl.obolibrary.org/obo/CL_0000235": "GO_REF:0000031",
-          "http://purl.obolibrary.org/obo/CL_0000787": "GO_REF:0000031",
-          "http://purl.obolibrary.org/obo/GO_0002250": "GO_REF:0000022",
-          "http://purl.obolibrary.org/obo/GO_0006955": "GO_REF:0000022"
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {
+          "FB": {
+            "http://purl.obolibrary.org/obo/CL_0000134": "FB:ma"
+          },
+          "GO_REF": {
+            "http://purl.obolibrary.org/obo/CL_0000235": "GO_REF:0000031",
+            "http://purl.obolibrary.org/obo/CL_0000787": "GO_REF:0000031",
+            "http://purl.obolibrary.org/obo/GO_0002250": "GO_REF:0000022",
+            "http://purl.obolibrary.org/obo/GO_0006955": "GO_REF:0000022"
+          },
+          "HPO": {
+            "http://purl.obolibrary.org/obo/HP_0000822": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0000969": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0000988": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0000989": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0001025": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0001649": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0001742": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0001945": "HPO:sdoelken",
+            "http://purl.obolibrary.org/obo/HP_0002013": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0002014": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0002018": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0002027": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0002094": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0002789": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0003077": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0003326": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0012378": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0012735": "HPO:probinson",
+            "http://purl.obolibrary.org/obo/HP_0100806": "HPO:probinson"
+          },
+          "ISBN-10": {
+            "http://purl.obolibrary.org/obo/MAXO_0000002": "ISBN-10:0124105165"
+          },
+          "NIF_Subcellular": {
+            "http://purl.obolibrary.org/obo/GO_0005575": "NIF_Subcellular:sao1337158144"
+          },
+          "PMCID": {
+            "http://purl.obolibrary.org/obo/CL_0000134": "PMCID:PMC2613570"
+          },
+          "PRO": {
+            "http://purl.obolibrary.org/obo/PR_000000001": "PRO:WCB",
+            "http://purl.obolibrary.org/obo/PR_000001341": "PRO:WCB",
+            "http://purl.obolibrary.org/obo/PR_000001471": "PRO:JAN",
+            "http://purl.obolibrary.org/obo/PR_000003137": "PRO:CNA",
+            "http://purl.obolibrary.org/obo/PR_000018931": "PRO:DNx",
+            "http://purl.obolibrary.org/obo/PR_000050252": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_000050272": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_O15393": "PRO:DNx",
+            "http://purl.obolibrary.org/obo/PR_P0DTC1-1": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P0DTC2": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P0DTC3": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P0DTC4": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P0DTC5": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P0DTC7": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P0DTC9": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P0DTD1-1": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P12821": "PRO:WCB",
+            "http://purl.obolibrary.org/obo/PR_P22301": "PRO:JAN",
+            "http://purl.obolibrary.org/obo/PR_Q9BYF1": "PRO:DNx",
+            "http://purl.obolibrary.org/obo/PR_Q9H2X3": "PRO:WCB"
+          },
+          "UniProtKB": {
+            "http://purl.obolibrary.org/obo/PR_000050272": "UniProtKB:P0DTD1",
+            "http://purl.obolibrary.org/obo/PR_O15393": "UniProtKB:O15393",
+            "http://purl.obolibrary.org/obo/PR_P0DTC1-1": "UniProtKB:P0DTC1",
+            "http://purl.obolibrary.org/obo/PR_P0DTC2": "UniProtKB:P0DTC2",
+            "http://purl.obolibrary.org/obo/PR_P0DTC3": "UniProtKB:P0DTC3",
+            "http://purl.obolibrary.org/obo/PR_P0DTC4": "UniProtKB:P0DTC4",
+            "http://purl.obolibrary.org/obo/PR_P0DTC5": "UniProtKB:P0DTC5",
+            "http://purl.obolibrary.org/obo/PR_P0DTC7": "UniProtKB:P0DTC7",
+            "http://purl.obolibrary.org/obo/PR_P0DTC9": "UniProtKB:P0DTC9",
+            "http://purl.obolibrary.org/obo/PR_P0DTD1-1": "UniProtKB:P0DTD1",
+            "http://purl.obolibrary.org/obo/PR_P12821": "UniProtKB:P12821",
+            "http://purl.obolibrary.org/obo/PR_P22301": "UniProtKB:P22301",
+            "http://purl.obolibrary.org/obo/PR_Q9BYF1": "UniProtKB:Q9BYF1",
+            "http://purl.obolibrary.org/obo/PR_Q9H2X3": "UniProtKB:Q9H2X3"
+          },
+          "VZ": {
+            "http://purl.obolibrary.org/obo/GO_0039693": "VZ:915"
+          }
         },
-        "HPO": {
-          "http://purl.obolibrary.org/obo/HP_0000822": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0000969": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0000988": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0000989": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0001025": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0001649": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0001742": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0001945": "HPO:sdoelken",
-          "http://purl.obolibrary.org/obo/HP_0002013": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0002014": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0002018": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0002027": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0002094": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0002789": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0003077": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0003326": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0012378": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0012735": "HPO:probinson",
-          "http://purl.obolibrary.org/obo/HP_0100806": "HPO:probinson"
-        },
-        "ISBN-10": {
-          "http://purl.obolibrary.org/obo/MAXO_0000002": "ISBN-10:0124105165"
-        },
-        "NIF_Subcellular": {
-          "http://purl.obolibrary.org/obo/GO_0005575": "NIF_Subcellular:sao1337158144"
-        },
-        "PMCID": {
-          "http://purl.obolibrary.org/obo/CL_0000134": "PMCID:PMC2613570"
-        },
-        "PRO": {
-          "http://purl.obolibrary.org/obo/PR_000000001": "PRO:WCB",
-          "http://purl.obolibrary.org/obo/PR_000001341": "PRO:WCB",
-          "http://purl.obolibrary.org/obo/PR_000001471": "PRO:JAN",
-          "http://purl.obolibrary.org/obo/PR_000003137": "PRO:CNA",
-          "http://purl.obolibrary.org/obo/PR_000018931": "PRO:DNx",
-          "http://purl.obolibrary.org/obo/PR_000050252": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_000050272": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_O15393": "PRO:DNx",
-          "http://purl.obolibrary.org/obo/PR_P0DTC1-1": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P0DTC2": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P0DTC3": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P0DTC4": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P0DTC5": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P0DTC7": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P0DTC9": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P0DTD1-1": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P12821": "PRO:WCB",
-          "http://purl.obolibrary.org/obo/PR_P22301": "PRO:JAN",
-          "http://purl.obolibrary.org/obo/PR_Q9BYF1": "PRO:DNx",
-          "http://purl.obolibrary.org/obo/PR_Q9H2X3": "PRO:WCB"
-        },
-        "UniProtKB": {
-          "http://purl.obolibrary.org/obo/PR_000050272": "UniProtKB:P0DTD1",
-          "http://purl.obolibrary.org/obo/PR_O15393": "UniProtKB:O15393",
-          "http://purl.obolibrary.org/obo/PR_P0DTC1-1": "UniProtKB:P0DTC1",
-          "http://purl.obolibrary.org/obo/PR_P0DTC2": "UniProtKB:P0DTC2",
-          "http://purl.obolibrary.org/obo/PR_P0DTC3": "UniProtKB:P0DTC3",
-          "http://purl.obolibrary.org/obo/PR_P0DTC4": "UniProtKB:P0DTC4",
-          "http://purl.obolibrary.org/obo/PR_P0DTC5": "UniProtKB:P0DTC5",
-          "http://purl.obolibrary.org/obo/PR_P0DTC7": "UniProtKB:P0DTC7",
-          "http://purl.obolibrary.org/obo/PR_P0DTC9": "UniProtKB:P0DTC9",
-          "http://purl.obolibrary.org/obo/PR_P0DTD1-1": "UniProtKB:P0DTD1",
-          "http://purl.obolibrary.org/obo/PR_P12821": "UniProtKB:P12821",
-          "http://purl.obolibrary.org/obo/PR_P22301": "UniProtKB:P22301",
-          "http://purl.obolibrary.org/obo/PR_Q9BYF1": "UniProtKB:Q9BYF1",
-          "http://purl.obolibrary.org/obo/PR_Q9H2X3": "UniProtKB:Q9H2X3"
-        },
-        "VZ": {
-          "http://purl.obolibrary.org/obo/GO_0039693": "VZ:915"
+        "unknown_prefixes": {
+          "DDD": {
+            "http://purl.obolibrary.org/obo/HP_0011950": "DDD:tkuijpers"
+          },
+          "GOC": {
+            "http://purl.obolibrary.org/obo/CL_0000134": "GOC:dsd",
+            "http://purl.obolibrary.org/obo/CL_0000235": "GOC:tfm",
+            "http://purl.obolibrary.org/obo/CL_0000624": "GOC:add",
+            "http://purl.obolibrary.org/obo/CL_0000625": "GOC:tfm",
+            "http://purl.obolibrary.org/obo/CL_0000738": "GOC:tfm",
+            "http://purl.obolibrary.org/obo/CL_0000787": "GOC:rhs",
+            "http://purl.obolibrary.org/obo/CL_0002569": "GOC:tfm",
+            "http://purl.obolibrary.org/obo/GO_0002250": "GOC:add",
+            "http://purl.obolibrary.org/obo/GO_0002524": "GOC:jal",
+            "http://purl.obolibrary.org/obo/GO_0003674": "GOC:pdt",
+            "http://purl.obolibrary.org/obo/GO_0005575": "GOC:pdt",
+            "http://purl.obolibrary.org/obo/GO_0006260": "GOC:mah",
+            "http://purl.obolibrary.org/obo/GO_0006412": "GOC:go_curators",
+            "http://purl.obolibrary.org/obo/GO_0006508": "GOC:mah",
+            "http://purl.obolibrary.org/obo/GO_0006810": "GOC:mah",
+            "http://purl.obolibrary.org/obo/GO_0006914": "GOC:autophagy",
+            "http://purl.obolibrary.org/obo/GO_0006915": "GOC:tb",
+            "http://purl.obolibrary.org/obo/GO_0006955": "GOC:add",
+            "http://purl.obolibrary.org/obo/GO_0008150": "GOC:pdt",
+            "http://purl.obolibrary.org/obo/GO_0008219": "GOC:mtg_apoptosis",
+            "http://purl.obolibrary.org/obo/GO_0009058": "GOC:curators",
+            "http://purl.obolibrary.org/obo/GO_0009405": "GOC:go_curators",
+            "http://purl.obolibrary.org/obo/GO_0009606": "GOC:curators",
+            "http://purl.obolibrary.org/obo/GO_0010467": "GOC:txnOH-2018",
+            "http://purl.obolibrary.org/obo/GO_0019076": "GOC:jl",
+            "http://purl.obolibrary.org/obo/GO_0036338": "GOC:bm",
+            "http://purl.obolibrary.org/obo/GO_0039693": "GOC:jl",
+            "http://purl.obolibrary.org/obo/GO_0039694": "GOC:jl",
+            "http://purl.obolibrary.org/obo/GO_0040007": "GOC:ma",
+            "http://purl.obolibrary.org/obo/GO_0043657": "GOC:jl",
+            "http://purl.obolibrary.org/obo/GO_0046718": "GOC:jl",
+            "http://purl.obolibrary.org/obo/GO_0061025": "GOC:tb",
+            "http://purl.obolibrary.org/obo/GO_0097659": "GOC:vw"
+          },
+          "LMU": {
+            "http://purl.obolibrary.org/obo/HP_0033006": "LMU:mgriese"
+          },
+          "MGED": {
+            "http://purl.obolibrary.org/obo/PATO_0000047": "MGED:MGED",
+            "http://purl.obolibrary.org/obo/PATO_0000384": "MGED:MGED"
+          },
+          "PANTHER": {
+            "http://purl.obolibrary.org/obo/PR_000001471": "PANTHER:PTHR11585:SF1"
+          },
+          "PATOC": {
+            "http://purl.obolibrary.org/obo/PATO_0000001": "PATOC:GVG",
+            "http://purl.obolibrary.org/obo/PATO_0000057": "PATOC:GVG",
+            "http://purl.obolibrary.org/obo/PATO_0000169": "PATOC:GVG",
+            "http://purl.obolibrary.org/obo/PATO_0001422": "PATOC:GVG"
+          },
+          "UToronto": {
+            "http://purl.obolibrary.org/obo/HP_0030830": "UToronto:chum"
+          }
         }
       },
-      "unknown_prefixes": {
-        "DDD": {
-          "http://purl.obolibrary.org/obo/HP_0011950": "DDD:tkuijpers"
+      "synonym_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/GO_0005575": [
+            "NIF_Subcellular:nlx_subcell_100315"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0003326": [
+            "HPO:skoehler"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0002258": [
+            "MONDO:patterns/inflammatory_disease_by_site"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0002280": [
+            "MONDO:ambiguous"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0004995": [
+            "MONDO:cjm",
+            "MONDO:design_pattern",
+            "MONDO:patterns/location",
+            "MONDO:patterns/location_top"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0005002": [
+            "MONDO:patterns/chronic"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0005015": [
+            "MONDO:ambiguous"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0005091": [
+            "MONDO:patterns/specific_infectious_disease_by_agent"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0005108": [
+            "MONDO:patterns/infectious_disease_by_agent",
+            "MONDO:patterns/specific_infectious_disease_by_agent"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0005812": [
+            "MONDO:patterns/specific_infectious_disease_by_agent"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0007186": [
+            "MONDO:Lexical"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0100096": [
+            "MONDO:patterns/infectious_disease_by_agent"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0100120": [
+            "Wikipedia:Vector_(epidemiology)"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000000001": [
+            "IEDB:BP",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000001341": [
+            "PRO:DNx"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000001471": [
+            "PRO:DNx"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000003137": [
+            "PRO:DNx"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000018931": [
+            "PRO:DNx"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000050252": [
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000050272": [
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_O15393": [
+            "PRO:DNx"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC1-1": [
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC2": [
+            "GenPept:YP_009724390",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC3": [
+            "GenPept:YP_009724391",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC4": [
+            "GenPept:YP_009724392",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC5": [
+            "GenPept:YP_009724393",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC7": [
+            "GenPept:YP_009724395",
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC9": [
+            "PRO:DAN",
+            "PRO:YC"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTD1-1": [
+            "PRO:DAN"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P12821": [
+            "PRO:DNx"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P22301": [
+            "PRO:DNx"
+          ],
+          "http://purl.obolibrary.org/obo/PR_Q9BYF1": [
+            "PRO:DNx"
+          ],
+          "http://purl.obolibrary.org/obo/PR_Q9H2X3": [
+            "PRO:DNx"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0000684": [
+            "MONDO:design_pattern",
+            "MONDO:patterns/location",
+            "MONDO:patterns/location_top"
+          ]
         },
-        "GOC": {
-          "http://purl.obolibrary.org/obo/CL_0000134": "GOC:dsd",
-          "http://purl.obolibrary.org/obo/CL_0000235": "GOC:tfm",
-          "http://purl.obolibrary.org/obo/CL_0000624": "GOC:add",
-          "http://purl.obolibrary.org/obo/CL_0000625": "GOC:tfm",
-          "http://purl.obolibrary.org/obo/CL_0000738": "GOC:tfm",
-          "http://purl.obolibrary.org/obo/CL_0000787": "GOC:rhs",
-          "http://purl.obolibrary.org/obo/CL_0002569": "GOC:tfm",
-          "http://purl.obolibrary.org/obo/GO_0002250": "GOC:add",
-          "http://purl.obolibrary.org/obo/GO_0002524": "GOC:jal",
-          "http://purl.obolibrary.org/obo/GO_0003674": "GOC:pdt",
-          "http://purl.obolibrary.org/obo/GO_0005575": "GOC:pdt",
-          "http://purl.obolibrary.org/obo/GO_0006260": "GOC:mah",
-          "http://purl.obolibrary.org/obo/GO_0006412": "GOC:go_curators",
-          "http://purl.obolibrary.org/obo/GO_0006508": "GOC:mah",
-          "http://purl.obolibrary.org/obo/GO_0006810": "GOC:mah",
-          "http://purl.obolibrary.org/obo/GO_0006914": "GOC:autophagy",
-          "http://purl.obolibrary.org/obo/GO_0006915": "GOC:tb",
-          "http://purl.obolibrary.org/obo/GO_0006955": "GOC:add",
-          "http://purl.obolibrary.org/obo/GO_0008150": "GOC:pdt",
-          "http://purl.obolibrary.org/obo/GO_0008219": "GOC:mtg_apoptosis",
-          "http://purl.obolibrary.org/obo/GO_0009058": "GOC:curators",
-          "http://purl.obolibrary.org/obo/GO_0009405": "GOC:go_curators",
-          "http://purl.obolibrary.org/obo/GO_0009606": "GOC:curators",
-          "http://purl.obolibrary.org/obo/GO_0010467": "GOC:txnOH-2018",
-          "http://purl.obolibrary.org/obo/GO_0019076": "GOC:jl",
-          "http://purl.obolibrary.org/obo/GO_0036338": "GOC:bm",
-          "http://purl.obolibrary.org/obo/GO_0039693": "GOC:jl",
-          "http://purl.obolibrary.org/obo/GO_0039694": "GOC:jl",
-          "http://purl.obolibrary.org/obo/GO_0040007": "GOC:ma",
-          "http://purl.obolibrary.org/obo/GO_0043657": "GOC:jl",
-          "http://purl.obolibrary.org/obo/GO_0046718": "GOC:jl",
-          "http://purl.obolibrary.org/obo/GO_0061025": "GOC:tb",
-          "http://purl.obolibrary.org/obo/GO_0097659": "GOC:vw"
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {
+          "HPO": {
+            "http://purl.obolibrary.org/obo/HP_0003326": "HPO:skoehler"
+          },
+          "NIF_Subcellular": {
+            "http://purl.obolibrary.org/obo/GO_0005575": "NIF_Subcellular:nlx_subcell_100315"
+          },
+          "PRO": {
+            "http://purl.obolibrary.org/obo/PR_000000001": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_000001341": "PRO:DNx",
+            "http://purl.obolibrary.org/obo/PR_000001471": "PRO:DNx",
+            "http://purl.obolibrary.org/obo/PR_000003137": "PRO:DNx",
+            "http://purl.obolibrary.org/obo/PR_000018931": "PRO:DNx",
+            "http://purl.obolibrary.org/obo/PR_000050252": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_000050272": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_O15393": "PRO:DNx",
+            "http://purl.obolibrary.org/obo/PR_P0DTC1-1": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P0DTC2": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P0DTC3": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P0DTC4": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P0DTC5": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P0DTC7": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P0DTC9": "PRO:YC",
+            "http://purl.obolibrary.org/obo/PR_P0DTD1-1": "PRO:DAN",
+            "http://purl.obolibrary.org/obo/PR_P12821": "PRO:DNx",
+            "http://purl.obolibrary.org/obo/PR_P22301": "PRO:DNx",
+            "http://purl.obolibrary.org/obo/PR_Q9BYF1": "PRO:DNx",
+            "http://purl.obolibrary.org/obo/PR_Q9H2X3": "PRO:DNx"
+          },
+          "UniProtKB": {
+            "http://purl.obolibrary.org/obo/PR_000050272": "UniProtKB:P0DTD1",
+            "http://purl.obolibrary.org/obo/PR_O15393": "UniProtKB:O15393",
+            "http://purl.obolibrary.org/obo/PR_P0DTC1-1": "UniProtKB:P0DTC1",
+            "http://purl.obolibrary.org/obo/PR_P0DTC2": "UniProtKB:P0DTC2",
+            "http://purl.obolibrary.org/obo/PR_P0DTC3": "UniProtKB:P0DTC3",
+            "http://purl.obolibrary.org/obo/PR_P0DTC4": "UniProtKB:P0DTC4",
+            "http://purl.obolibrary.org/obo/PR_P0DTC5": "UniProtKB:P0DTC5",
+            "http://purl.obolibrary.org/obo/PR_P0DTC7": "UniProtKB:P0DTC7",
+            "http://purl.obolibrary.org/obo/PR_P0DTC9": "UniProtKB:P0DTC9",
+            "http://purl.obolibrary.org/obo/PR_P0DTD1-1": "UniProtKB:P0DTD1",
+            "http://purl.obolibrary.org/obo/PR_P12821": "UniProtKB:P12821",
+            "http://purl.obolibrary.org/obo/PR_P22301": "UniProtKB:P22301",
+            "http://purl.obolibrary.org/obo/PR_Q9BYF1": "UniProtKB:Q9BYF1",
+            "http://purl.obolibrary.org/obo/PR_Q9H2X3": "UniProtKB:Q9H2X3"
+          }
         },
-        "LMU": {
-          "http://purl.obolibrary.org/obo/HP_0033006": "LMU:mgriese"
-        },
-        "MGED": {
-          "http://purl.obolibrary.org/obo/PATO_0000047": "MGED:MGED",
-          "http://purl.obolibrary.org/obo/PATO_0000384": "MGED:MGED"
-        },
-        "PANTHER": {
-          "http://purl.obolibrary.org/obo/PR_000001471": "PANTHER:PTHR11585:SF1"
-        },
-        "PATOC": {
-          "http://purl.obolibrary.org/obo/PATO_0000001": "PATOC:GVG",
-          "http://purl.obolibrary.org/obo/PATO_0000057": "PATOC:GVG",
-          "http://purl.obolibrary.org/obo/PATO_0000169": "PATOC:GVG",
-          "http://purl.obolibrary.org/obo/PATO_0001422": "PATOC:GVG"
-        },
-        "UToronto": {
-          "http://purl.obolibrary.org/obo/HP_0030830": "UToronto:chum"
-        }
-      }
-    },
-    "synonym_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/GO_0005575": [
-          "NIF_Subcellular:nlx_subcell_100315"
-        ],
-        "http://purl.obolibrary.org/obo/HP_0003326": [
-          "HPO:skoehler"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0002258": [
-          "MONDO:patterns/inflammatory_disease_by_site"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0002280": [
-          "MONDO:ambiguous"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0004995": [
-          "MONDO:cjm",
-          "MONDO:design_pattern",
-          "MONDO:patterns/location",
-          "MONDO:patterns/location_top"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0005002": [
-          "MONDO:patterns/chronic"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0005015": [
-          "MONDO:ambiguous"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0005091": [
-          "MONDO:patterns/specific_infectious_disease_by_agent"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0005108": [
-          "MONDO:patterns/infectious_disease_by_agent",
-          "MONDO:patterns/specific_infectious_disease_by_agent"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0005812": [
-          "MONDO:patterns/specific_infectious_disease_by_agent"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0007186": [
-          "MONDO:Lexical"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0100096": [
-          "MONDO:patterns/infectious_disease_by_agent"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0100120": [
-          "Wikipedia:Vector_(epidemiology)"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000000001": [
-          "IEDB:BP",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000001341": [
-          "PRO:DNx"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000001471": [
-          "PRO:DNx"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000003137": [
-          "PRO:DNx"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000018931": [
-          "PRO:DNx"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000050252": [
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000050272": [
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_O15393": [
-          "PRO:DNx"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC1-1": [
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC2": [
-          "GenPept:YP_009724390",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC3": [
-          "GenPept:YP_009724391",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC4": [
-          "GenPept:YP_009724392",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC5": [
-          "GenPept:YP_009724393",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC7": [
-          "GenPept:YP_009724395",
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC9": [
-          "PRO:DAN",
-          "PRO:YC"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTD1-1": [
-          "PRO:DAN"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P12821": [
-          "PRO:DNx"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P22301": [
-          "PRO:DNx"
-        ],
-        "http://purl.obolibrary.org/obo/PR_Q9BYF1": [
-          "PRO:DNx"
-        ],
-        "http://purl.obolibrary.org/obo/PR_Q9H2X3": [
-          "PRO:DNx"
-        ],
-        "http://www.ebi.ac.uk/efo/EFO_0000684": [
-          "MONDO:design_pattern",
-          "MONDO:patterns/location",
-          "MONDO:patterns/location_top"
-        ]
-      },
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "HPO": {
-          "http://purl.obolibrary.org/obo/HP_0003326": "HPO:skoehler"
-        },
-        "NIF_Subcellular": {
-          "http://purl.obolibrary.org/obo/GO_0005575": "NIF_Subcellular:nlx_subcell_100315"
-        },
-        "PRO": {
-          "http://purl.obolibrary.org/obo/PR_000000001": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_000001341": "PRO:DNx",
-          "http://purl.obolibrary.org/obo/PR_000001471": "PRO:DNx",
-          "http://purl.obolibrary.org/obo/PR_000003137": "PRO:DNx",
-          "http://purl.obolibrary.org/obo/PR_000018931": "PRO:DNx",
-          "http://purl.obolibrary.org/obo/PR_000050252": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_000050272": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_O15393": "PRO:DNx",
-          "http://purl.obolibrary.org/obo/PR_P0DTC1-1": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P0DTC2": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P0DTC3": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P0DTC4": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P0DTC5": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P0DTC7": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P0DTC9": "PRO:YC",
-          "http://purl.obolibrary.org/obo/PR_P0DTD1-1": "PRO:DAN",
-          "http://purl.obolibrary.org/obo/PR_P12821": "PRO:DNx",
-          "http://purl.obolibrary.org/obo/PR_P22301": "PRO:DNx",
-          "http://purl.obolibrary.org/obo/PR_Q9BYF1": "PRO:DNx",
-          "http://purl.obolibrary.org/obo/PR_Q9H2X3": "PRO:DNx"
-        },
-        "UniProtKB": {
-          "http://purl.obolibrary.org/obo/PR_000050272": "UniProtKB:P0DTD1",
-          "http://purl.obolibrary.org/obo/PR_O15393": "UniProtKB:O15393",
-          "http://purl.obolibrary.org/obo/PR_P0DTC1-1": "UniProtKB:P0DTC1",
-          "http://purl.obolibrary.org/obo/PR_P0DTC2": "UniProtKB:P0DTC2",
-          "http://purl.obolibrary.org/obo/PR_P0DTC3": "UniProtKB:P0DTC3",
-          "http://purl.obolibrary.org/obo/PR_P0DTC4": "UniProtKB:P0DTC4",
-          "http://purl.obolibrary.org/obo/PR_P0DTC5": "UniProtKB:P0DTC5",
-          "http://purl.obolibrary.org/obo/PR_P0DTC7": "UniProtKB:P0DTC7",
-          "http://purl.obolibrary.org/obo/PR_P0DTC9": "UniProtKB:P0DTC9",
-          "http://purl.obolibrary.org/obo/PR_P0DTD1-1": "UniProtKB:P0DTD1",
-          "http://purl.obolibrary.org/obo/PR_P12821": "UniProtKB:P12821",
-          "http://purl.obolibrary.org/obo/PR_P22301": "UniProtKB:P22301",
-          "http://purl.obolibrary.org/obo/PR_Q9BYF1": "UniProtKB:Q9BYF1",
-          "http://purl.obolibrary.org/obo/PR_Q9H2X3": "UniProtKB:Q9H2X3"
+        "unknown_prefixes": {
+          "GOC": {
+            "http://purl.obolibrary.org/obo/GO_0002250": "GOC:add",
+            "http://purl.obolibrary.org/obo/GO_0006508": "GOC:mah",
+            "http://purl.obolibrary.org/obo/GO_0006915": "GOC:add",
+            "http://purl.obolibrary.org/obo/GO_0019076": "GOC:jl",
+            "http://purl.obolibrary.org/obo/GO_0039693": "GOC:jl",
+            "http://purl.obolibrary.org/obo/GO_0040007": "GOC:mah",
+            "http://purl.obolibrary.org/obo/GO_0046718": "GOC:bf"
+          },
+          "MTH": {
+            "http://purl.obolibrary.org/obo/MONDO_0007186": "MTH:NOCODE"
+          }
         }
       },
-      "unknown_prefixes": {
-        "GOC": {
-          "http://purl.obolibrary.org/obo/GO_0002250": "GOC:add",
-          "http://purl.obolibrary.org/obo/GO_0006508": "GOC:mah",
-          "http://purl.obolibrary.org/obo/GO_0006915": "GOC:add",
-          "http://purl.obolibrary.org/obo/GO_0019076": "GOC:jl",
-          "http://purl.obolibrary.org/obo/GO_0039693": "GOC:jl",
-          "http://purl.obolibrary.org/obo/GO_0040007": "GOC:mah",
-          "http://purl.obolibrary.org/obo/GO_0046718": "GOC:bf"
+      "version": "2022-10-26",
+      "version_iri": "http://purl.obolibrary.org/obo/covoc/releases/2022-10-26/covoc.owl",
+      "xref_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/CHEBI_15379": [
+            "Gmelin:485"
+          ],
+          "http://purl.obolibrary.org/obo/CHEBI_16240": [
+            "Gmelin:509"
+          ],
+          "http://purl.obolibrary.org/obo/CHEBI_6078": [
+            "ATC: D11AX22"
+          ],
+          "http://purl.obolibrary.org/obo/CHEBI_62088": [
+            "ATC: N02BB02"
+          ],
+          "http://purl.obolibrary.org/obo/CHEBI_6960": [
+            "ATC: C09BA13"
+          ],
+          "http://purl.obolibrary.org/obo/CHEBI_87228": [
+            "Wikipedia:Sulfonamide_(medicine)"
+          ],
+          "http://purl.obolibrary.org/obo/CL_0000000": [
+            "CALOHA:TS-2035"
+          ],
+          "http://purl.obolibrary.org/obo/CL_0000235": [
+            "CALOHA:TS-0587"
+          ],
+          "http://purl.obolibrary.org/obo/CL_0000738": [
+            "CALOHA:TS-0549"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0010007": [
+            "Wikipedia:Neutralizing_antibody#Virus_evasion_of_neutralizing_antibodies"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0010034": [
+            "Wikipedia:Epitope#T_cell_epitopes"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0030001": [
+            "ChEMBL:477164"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0030002": [
+            "ChEMBL:1201580"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0030004": [
+            "ChEMBL:2106041"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0030005": [
+            "ChEMBL:519846"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0030019": [
+            "Wikipedia:Cannabis_(drug)"
+          ],
+          "http://purl.obolibrary.org/obo/COVOC_0070006": [
+            "GEO:000000374"
+          ],
+          "http://purl.obolibrary.org/obo/GO_0005575": [
+            "NIF_Subcellular:sao1337158144"
+          ],
+          "http://purl.obolibrary.org/obo/GO_0005730": [
+            "NIF_Subcellular:sao1820400233"
+          ],
+          "http://purl.obolibrary.org/obo/GO_0006412": [
+            "Wikipedia:Translation_(genetics)"
+          ],
+          "http://purl.obolibrary.org/obo/GO_0006914": [
+            "Wikipedia:Autophagy_(cellular)"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0002050": [
+            "UMLS:CN236658"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0004979": [
+            "KEGG:05310"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0004995": [
+            "ICD9:390-459.99",
+            "ICD9:420-429.99"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0005002": [
+            "ICD9:490-496.99"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0005108": [
+            "ICD9:060-066.99"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_0100096": [
+            "ICD11:RA01.0",
+            "ICD11:RA01.2"
+          ],
+          "http://purl.obolibrary.org/obo/PR_000050272": [
+            "GenPept:YP_009725299",
+            "GenPept:YP_009742610"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC1-1": [
+            "GenPept:YP_009725295",
+            "UniProtKB:P0DTC1-1"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC2": [
+            "GenPept:YP_009724390"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC3": [
+            "GenPept:YP_009724391"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC4": [
+            "GenPept:YP_009724392"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC5": [
+            "GenPept:YP_009724393"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC7": [
+            "GenPept:YP_009724395"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTC9": [
+            "GenPept:YP_009724397"
+          ],
+          "http://purl.obolibrary.org/obo/PR_P0DTD1-1": [
+            "GenPept:YP_009724389",
+            "UniProtKB:P0DTD1-1"
+          ],
+          "http://purl.obolibrary.org/obo/UBERON_0001088": [
+            "CALOHA:TS-1092"
+          ],
+          "http://purl.obolibrary.org/obo/UBERON_0001836": [
+            "CALOHA:TS-0891"
+          ],
+          "http://purl.obolibrary.org/obo/UBERON_0001988": [
+            "CALOHA:TS-2345"
+          ],
+          "http://purl.obolibrary.org/obo/UBERON_0002048": [
+            "CALOHA:TS-0568"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0000264": [
+            "NIFSTD:birnlex_2110"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0000651": [
+            "NIFSTD:birnlex_2087"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0000684": [
+            "ICD9:460-519.99",
+            "ICD9:500-508.99",
+            "ICD9:510-519.99"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0004352": [
+            "MeSH:Q000401",
+            "UMLS:C0026565 | UMLS:C0026566"
+          ]
         },
-        "MTH": {
-          "http://purl.obolibrary.org/obo/MONDO_0007186": "MTH:NOCODE"
-        }
-      }
-    },
-    "version": "2022-10-26",
-    "version_iri": "http://purl.obolibrary.org/obo/covoc/releases/2022-10-26/covoc.owl",
-    "xref_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/CHEBI_15379": [
-          "Gmelin:485"
-        ],
-        "http://purl.obolibrary.org/obo/CHEBI_16240": [
-          "Gmelin:509"
-        ],
-        "http://purl.obolibrary.org/obo/CHEBI_6078": [
-          "ATC: D11AX22"
-        ],
-        "http://purl.obolibrary.org/obo/CHEBI_62088": [
-          "ATC: N02BB02"
-        ],
-        "http://purl.obolibrary.org/obo/CHEBI_6960": [
-          "ATC: C09BA13"
-        ],
-        "http://purl.obolibrary.org/obo/CHEBI_87228": [
-          "Wikipedia:Sulfonamide_(medicine)"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000000": [
-          "CALOHA:TS-2035"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000235": [
-          "CALOHA:TS-0587"
-        ],
-        "http://purl.obolibrary.org/obo/CL_0000738": [
-          "CALOHA:TS-0549"
-        ],
-        "http://purl.obolibrary.org/obo/COVOC_0010007": [
-          "Wikipedia:Neutralizing_antibody#Virus_evasion_of_neutralizing_antibodies"
-        ],
-        "http://purl.obolibrary.org/obo/COVOC_0010034": [
-          "Wikipedia:Epitope#T_cell_epitopes"
-        ],
-        "http://purl.obolibrary.org/obo/COVOC_0030001": [
-          "ChEMBL:477164"
-        ],
-        "http://purl.obolibrary.org/obo/COVOC_0030002": [
-          "ChEMBL:1201580"
-        ],
-        "http://purl.obolibrary.org/obo/COVOC_0030004": [
-          "ChEMBL:2106041"
-        ],
-        "http://purl.obolibrary.org/obo/COVOC_0030005": [
-          "ChEMBL:519846"
-        ],
-        "http://purl.obolibrary.org/obo/COVOC_0030019": [
-          "Wikipedia:Cannabis_(drug)"
-        ],
-        "http://purl.obolibrary.org/obo/COVOC_0070006": [
-          "GEO:000000374"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0005575": [
-          "NIF_Subcellular:sao1337158144"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0005730": [
-          "NIF_Subcellular:sao1820400233"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0006412": [
-          "Wikipedia:Translation_(genetics)"
-        ],
-        "http://purl.obolibrary.org/obo/GO_0006914": [
-          "Wikipedia:Autophagy_(cellular)"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0002050": [
-          "UMLS:CN236658"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0004979": [
-          "KEGG:05310"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0004995": [
-          "ICD9:390-459.99",
-          "ICD9:420-429.99"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0005002": [
-          "ICD9:490-496.99"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0005108": [
-          "ICD9:060-066.99"
-        ],
-        "http://purl.obolibrary.org/obo/MONDO_0100096": [
-          "ICD11:RA01.0",
-          "ICD11:RA01.2"
-        ],
-        "http://purl.obolibrary.org/obo/PR_000050272": [
-          "GenPept:YP_009725299",
-          "GenPept:YP_009742610"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC1-1": [
-          "GenPept:YP_009725295",
-          "UniProtKB:P0DTC1-1"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC2": [
-          "GenPept:YP_009724390"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC3": [
-          "GenPept:YP_009724391"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC4": [
-          "GenPept:YP_009724392"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC5": [
-          "GenPept:YP_009724393"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC7": [
-          "GenPept:YP_009724395"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTC9": [
-          "GenPept:YP_009724397"
-        ],
-        "http://purl.obolibrary.org/obo/PR_P0DTD1-1": [
-          "GenPept:YP_009724389",
-          "UniProtKB:P0DTD1-1"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001088": [
-          "CALOHA:TS-1092"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001836": [
-          "CALOHA:TS-0891"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0001988": [
-          "CALOHA:TS-2345"
-        ],
-        "http://purl.obolibrary.org/obo/UBERON_0002048": [
-          "CALOHA:TS-0568"
-        ],
-        "http://www.ebi.ac.uk/efo/EFO_0000264": [
-          "NIFSTD:birnlex_2110"
-        ],
-        "http://www.ebi.ac.uk/efo/EFO_0000651": [
-          "NIFSTD:birnlex_2087"
-        ],
-        "http://www.ebi.ac.uk/efo/EFO_0000684": [
-          "ICD9:460-519.99",
-          "ICD9:500-508.99",
-          "ICD9:510-519.99"
-        ],
-        "http://www.ebi.ac.uk/efo/EFO_0004352": [
-          "MeSH:Q000401",
-          "UMLS:C0026565 | UMLS:C0026566"
-        ]
-      },
-      "label": "Node Xrefs",
-      "malformed_curies": {
-        "http://purl.obolibrary.org/obo/NCIT_C15429": [
-          "C0035168"
-        ],
-        "http://purl.obolibrary.org/obo/OBI_0000181": [
-          "C1257890"
-        ]
-      },
-      "noncanonical_prefixes": {
-        "Beilstein": {
-          "http://purl.obolibrary.org/obo/CHEBI_16240": "Beilstein:3587191",
-          "http://purl.obolibrary.org/obo/CHEBI_26271": "Beilstein:80809",
-          "http://purl.obolibrary.org/obo/CHEBI_2955": "Beilstein:5387583",
-          "http://purl.obolibrary.org/obo/CHEBI_32016": "Beilstein:1526549",
-          "http://purl.obolibrary.org/obo/CHEBI_3638": "Beilstein:482809",
-          "http://purl.obolibrary.org/obo/CHEBI_367163": "Beilstein:7960555",
-          "http://purl.obolibrary.org/obo/CHEBI_3732": "Beilstein:3581974",
-          "http://purl.obolibrary.org/obo/CHEBI_38545": "Beilstein:9670765",
-          "http://purl.obolibrary.org/obo/CHEBI_40050": "Beilstein:10126027",
-          "http://purl.obolibrary.org/obo/CHEBI_41977": "Beilstein:1445583",
-          "http://purl.obolibrary.org/obo/CHEBI_46195": "Beilstein:2208089",
-          "http://purl.obolibrary.org/obo/CHEBI_4653": "Beilstein:0068373",
-          "http://purl.obolibrary.org/obo/CHEBI_472657": "Beilstein:6025058",
-          "http://purl.obolibrary.org/obo/CHEBI_50729": "Beilstein:2795126",
-          "http://purl.obolibrary.org/obo/CHEBI_575568": "Beilstein:8076827",
-          "http://purl.obolibrary.org/obo/CHEBI_5855": "Beilstein:2049713",
-          "http://purl.obolibrary.org/obo/CHEBI_59343": "Beilstein:8174297",
-          "http://purl.obolibrary.org/obo/CHEBI_63580": "Beilstein:892462",
-          "http://purl.obolibrary.org/obo/CHEBI_6402": "Beilstein:4323174",
-          "http://purl.obolibrary.org/obo/CHEBI_9139": "Beilstein:7673458"
+        "label": "Node Xrefs",
+        "malformed_curies": {
+          "http://purl.obolibrary.org/obo/NCIT_C15429": [
+            "C0035168"
+          ],
+          "http://purl.obolibrary.org/obo/OBI_0000181": [
+            "C1257890"
+          ]
         },
-        "CVCL": {
-          "http://purl.obolibrary.org/obo/CLO_0002172": "CVCL:0025",
-          "http://purl.obolibrary.org/obo/CLO_0002192": "CVCL:0609",
-          "http://purl.obolibrary.org/obo/CLO_0002462": "CVCL:0214",
-          "http://purl.obolibrary.org/obo/CLO_0007059": "CVCL:0004",
-          "http://purl.obolibrary.org/obo/CLO_0009524": "CVCL:0059",
-          "http://purl.obolibrary.org/obo/COVOC_0020001": "CVCL:YZ47",
-          "http://purl.obolibrary.org/obo/COVOC_0020002": "CVCL:0574",
-          "http://purl.obolibrary.org/obo/COVOC_0020003": "CVCL:YQ49",
-          "http://purl.obolibrary.org/obo/COVOC_0020004": "CVCL:G704",
-          "http://purl.obolibrary.org/obo/COVOC_0020011": "CVCL:XA76",
-          "http://purl.obolibrary.org/obo/COVOC_0020012": "CVCL:XA77",
-          "http://purl.obolibrary.org/obo/COVOC_0020013": "CVCL:YQ10",
-          "http://purl.obolibrary.org/obo/COVOC_0020014": "CVCL:YQ13",
-          "http://purl.obolibrary.org/obo/COVOC_0020015": "CVCL:YQ14",
-          "http://purl.obolibrary.org/obo/COVOC_0020016": "CVCL:YQ11",
-          "http://purl.obolibrary.org/obo/COVOC_0020017": "CVCL:YQ12",
-          "http://www.ebi.ac.uk/efo/EFO_0001184": "CVCL:0063",
-          "http://www.ebi.ac.uk/efo/EFO_0005384": "CVCL:0036"
+        "noncanonical_prefixes": {
+          "Beilstein": {
+            "http://purl.obolibrary.org/obo/CHEBI_16240": "Beilstein:3587191",
+            "http://purl.obolibrary.org/obo/CHEBI_26271": "Beilstein:80809",
+            "http://purl.obolibrary.org/obo/CHEBI_2955": "Beilstein:5387583",
+            "http://purl.obolibrary.org/obo/CHEBI_32016": "Beilstein:1526549",
+            "http://purl.obolibrary.org/obo/CHEBI_3638": "Beilstein:482809",
+            "http://purl.obolibrary.org/obo/CHEBI_367163": "Beilstein:7960555",
+            "http://purl.obolibrary.org/obo/CHEBI_3732": "Beilstein:3581974",
+            "http://purl.obolibrary.org/obo/CHEBI_38545": "Beilstein:9670765",
+            "http://purl.obolibrary.org/obo/CHEBI_40050": "Beilstein:10126027",
+            "http://purl.obolibrary.org/obo/CHEBI_41977": "Beilstein:1445583",
+            "http://purl.obolibrary.org/obo/CHEBI_46195": "Beilstein:2208089",
+            "http://purl.obolibrary.org/obo/CHEBI_4653": "Beilstein:0068373",
+            "http://purl.obolibrary.org/obo/CHEBI_472657": "Beilstein:6025058",
+            "http://purl.obolibrary.org/obo/CHEBI_50729": "Beilstein:2795126",
+            "http://purl.obolibrary.org/obo/CHEBI_575568": "Beilstein:8076827",
+            "http://purl.obolibrary.org/obo/CHEBI_5855": "Beilstein:2049713",
+            "http://purl.obolibrary.org/obo/CHEBI_59343": "Beilstein:8174297",
+            "http://purl.obolibrary.org/obo/CHEBI_63580": "Beilstein:892462",
+            "http://purl.obolibrary.org/obo/CHEBI_6402": "Beilstein:4323174",
+            "http://purl.obolibrary.org/obo/CHEBI_9139": "Beilstein:7673458"
+          },
+          "CVCL": {
+            "http://purl.obolibrary.org/obo/CLO_0002172": "CVCL:0025",
+            "http://purl.obolibrary.org/obo/CLO_0002192": "CVCL:0609",
+            "http://purl.obolibrary.org/obo/CLO_0002462": "CVCL:0214",
+            "http://purl.obolibrary.org/obo/CLO_0007059": "CVCL:0004",
+            "http://purl.obolibrary.org/obo/CLO_0009524": "CVCL:0059",
+            "http://purl.obolibrary.org/obo/COVOC_0020001": "CVCL:YZ47",
+            "http://purl.obolibrary.org/obo/COVOC_0020002": "CVCL:0574",
+            "http://purl.obolibrary.org/obo/COVOC_0020003": "CVCL:YQ49",
+            "http://purl.obolibrary.org/obo/COVOC_0020004": "CVCL:G704",
+            "http://purl.obolibrary.org/obo/COVOC_0020011": "CVCL:XA76",
+            "http://purl.obolibrary.org/obo/COVOC_0020012": "CVCL:XA77",
+            "http://purl.obolibrary.org/obo/COVOC_0020013": "CVCL:YQ10",
+            "http://purl.obolibrary.org/obo/COVOC_0020014": "CVCL:YQ13",
+            "http://purl.obolibrary.org/obo/COVOC_0020015": "CVCL:YQ14",
+            "http://purl.obolibrary.org/obo/COVOC_0020016": "CVCL:YQ11",
+            "http://purl.obolibrary.org/obo/COVOC_0020017": "CVCL:YQ12",
+            "http://www.ebi.ac.uk/efo/EFO_0001184": "CVCL:0063",
+            "http://www.ebi.ac.uk/efo/EFO_0005384": "CVCL:0036"
+          },
+          "Drug_Central": {
+            "http://purl.obolibrary.org/obo/CHEBI_134722": "Drug_Central:4887",
+            "http://purl.obolibrary.org/obo/CHEBI_134730": "Drug_Central:4868",
+            "http://purl.obolibrary.org/obo/CHEBI_135921": "Drug_Central:4194",
+            "http://purl.obolibrary.org/obo/CHEBI_16240": "Drug_Central:3281",
+            "http://purl.obolibrary.org/obo/CHEBI_2549": "Drug_Central:105",
+            "http://purl.obolibrary.org/obo/CHEBI_2955": "Drug_Central:276",
+            "http://purl.obolibrary.org/obo/CHEBI_31528": "Drug_Central:977",
+            "http://purl.obolibrary.org/obo/CHEBI_31781": "Drug_Central:1601",
+            "http://purl.obolibrary.org/obo/CHEBI_32016": "Drug_Central:4224",
+            "http://purl.obolibrary.org/obo/CHEBI_3638": "Drug_Central:607",
+            "http://purl.obolibrary.org/obo/CHEBI_367163": "Drug_Central:4143",
+            "http://purl.obolibrary.org/obo/CHEBI_3732": "Drug_Central:668",
+            "http://purl.obolibrary.org/obo/CHEBI_38545": "Drug_Central:2406",
+            "http://purl.obolibrary.org/obo/CHEBI_40050": "Drug_Central:200",
+            "http://purl.obolibrary.org/obo/CHEBI_41977": "Drug_Central:786",
+            "http://purl.obolibrary.org/obo/CHEBI_44032": "Drug_Central:1437",
+            "http://purl.obolibrary.org/obo/CHEBI_45409": "Drug_Central:2391",
+            "http://purl.obolibrary.org/obo/CHEBI_46195": "Drug_Central:52",
+            "http://purl.obolibrary.org/obo/CHEBI_4653": "Drug_Central:924",
+            "http://purl.obolibrary.org/obo/CHEBI_472657": "Drug_Central:537",
+            "http://purl.obolibrary.org/obo/CHEBI_50729": "Drug_Central:1821",
+            "http://purl.obolibrary.org/obo/CHEBI_575568": "Drug_Central:258",
+            "http://purl.obolibrary.org/obo/CHEBI_5801": "Drug_Central:1395",
+            "http://purl.obolibrary.org/obo/CHEBI_5855": "Drug_Central:1407",
+            "http://purl.obolibrary.org/obo/CHEBI_62088": "Drug_Central:4659",
+            "http://purl.obolibrary.org/obo/CHEBI_63115": "Drug_Central:4167",
+            "http://purl.obolibrary.org/obo/CHEBI_63580": "Drug_Central:2373",
+            "http://purl.obolibrary.org/obo/CHEBI_6402": "Drug_Central:1552",
+            "http://purl.obolibrary.org/obo/CHEBI_66919": "Drug_Central:4190",
+            "http://purl.obolibrary.org/obo/CHEBI_6960": "Drug_Central:1827",
+            "http://purl.obolibrary.org/obo/CHEBI_71204": "Drug_Central:341",
+            "http://purl.obolibrary.org/obo/CHEBI_72291": "Drug_Central:4299",
+            "http://purl.obolibrary.org/obo/CHEBI_7496": "Drug_Central:1893",
+            "http://purl.obolibrary.org/obo/CHEBI_77572": "Drug_Central:2714",
+            "http://purl.obolibrary.org/obo/CHEBI_82941": "Drug_Central:1240",
+            "http://purl.obolibrary.org/obo/CHEBI_85083": "Drug_Central:4811",
+            "http://purl.obolibrary.org/obo/CHEBI_9139": "Drug_Central:2441"
+          },
+          "FooDB": {
+            "http://purl.obolibrary.org/obo/CHEBI_9139": "FooDB:FDB023606"
+          },
+          "GC_ID": {
+            "http://purl.obolibrary.org/obo/NCBITaxon_10239": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11118": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11250": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11308": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1335626": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1479610": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_196889": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2509511": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2559587": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_277944": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_290028": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_31631": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_39733": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_40674": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_693996": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_694002": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_694009": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_76804": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9397": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9615": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9675": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9836": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9838": "GC_ID:1",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9972": "GC_ID:1"
+          },
+          "IUPHARobj": {
+            "http://purl.obolibrary.org/obo/PR_000001341": "IUPHARobj:1612",
+            "http://purl.obolibrary.org/obo/PR_000003137": "IUPHARobj:2366"
+          },
+          "LINCS": {
+            "http://purl.obolibrary.org/obo/CHEBI_2549": "LINCS:LSM-5178",
+            "http://purl.obolibrary.org/obo/CHEBI_2955": "LINCS:LSM-5821",
+            "http://purl.obolibrary.org/obo/CHEBI_31781": "LINCS:LSM-6027",
+            "http://purl.obolibrary.org/obo/CHEBI_32016": "LINCS:LSM-4190",
+            "http://purl.obolibrary.org/obo/CHEBI_3638": "LINCS:LSM-1901",
+            "http://purl.obolibrary.org/obo/CHEBI_3732": "LINCS:LSM-5606",
+            "http://purl.obolibrary.org/obo/CHEBI_41977": "LINCS:LSM-2962",
+            "http://purl.obolibrary.org/obo/CHEBI_44032": "LINCS:LSM-5471",
+            "http://purl.obolibrary.org/obo/CHEBI_45409": "LINCS:LSM-5623",
+            "http://purl.obolibrary.org/obo/CHEBI_46195": "LINCS:LSM-5533",
+            "http://purl.obolibrary.org/obo/CHEBI_4653": "LINCS:LSM-3927",
+            "http://purl.obolibrary.org/obo/CHEBI_50729": "LINCS:LSM-2481",
+            "http://purl.obolibrary.org/obo/CHEBI_5801": "LINCS:LSM-5193",
+            "http://purl.obolibrary.org/obo/CHEBI_5855": "LINCS:LSM-1354",
+            "http://purl.obolibrary.org/obo/CHEBI_62088": "LINCS:LSM-5839",
+            "http://purl.obolibrary.org/obo/CHEBI_63580": "LINCS:LSM-5701",
+            "http://purl.obolibrary.org/obo/CHEBI_63621": "LINCS:LSM-2205",
+            "http://purl.obolibrary.org/obo/CHEBI_6402": "LINCS:LSM-3771",
+            "http://purl.obolibrary.org/obo/CHEBI_66919": "LINCS:LSM-1139",
+            "http://purl.obolibrary.org/obo/CHEBI_6960": "LINCS:LSM-2751",
+            "http://purl.obolibrary.org/obo/CHEBI_7496": "LINCS:LSM-5819",
+            "http://purl.obolibrary.org/obo/CHEBI_9139": "LINCS:LSM-3797",
+            "http://purl.obolibrary.org/obo/CHEBI_9513": "LINCS:LSM-1914"
+          },
+          "LIPID_MAPS_instance": {
+            "http://purl.obolibrary.org/obo/CHEBI_3732": "LIPID_MAPS_instance:LMPK04000014",
+            "http://purl.obolibrary.org/obo/CHEBI_41977": "LIPID_MAPS_instance:LMPK13050002"
+          },
+          "MSH": {
+            "http://purl.obolibrary.org/obo/HP_0000822": "MSH:D006973",
+            "http://purl.obolibrary.org/obo/HP_0000969": "MSH:D004487",
+            "http://purl.obolibrary.org/obo/HP_0000988": "MSH:D005076",
+            "http://purl.obolibrary.org/obo/HP_0000989": "MSH:D011537",
+            "http://purl.obolibrary.org/obo/HP_0001025": "MSH:D014581",
+            "http://purl.obolibrary.org/obo/HP_0001649": "MSH:D013610",
+            "http://purl.obolibrary.org/obo/HP_0001742": "MSH:D015508",
+            "http://purl.obolibrary.org/obo/HP_0001945": "MSH:D005334",
+            "http://purl.obolibrary.org/obo/HP_0002013": "MSH:D014839",
+            "http://purl.obolibrary.org/obo/HP_0002014": "MSH:D003967",
+            "http://purl.obolibrary.org/obo/HP_0002018": "MSH:D009325",
+            "http://purl.obolibrary.org/obo/HP_0002027": "MSH:D015746",
+            "http://purl.obolibrary.org/obo/HP_0002094": "MSH:D004417",
+            "http://purl.obolibrary.org/obo/HP_0002789": "MSH:D059246",
+            "http://purl.obolibrary.org/obo/HP_0003077": "MSH:D006949",
+            "http://purl.obolibrary.org/obo/HP_0003326": "MSH:D063806",
+            "http://purl.obolibrary.org/obo/HP_0011950": "MSH:D001988",
+            "http://purl.obolibrary.org/obo/HP_0012378": "MSH:D005221",
+            "http://purl.obolibrary.org/obo/HP_0012531": "MSH:D010146",
+            "http://purl.obolibrary.org/obo/HP_0012735": "MSH:D003371",
+            "http://purl.obolibrary.org/obo/HP_0030830": "MSH:D012135",
+            "http://purl.obolibrary.org/obo/HP_0100749": "MSH:D002637",
+            "http://purl.obolibrary.org/obo/HP_0100806": "MSH:D018805"
+          },
+          "MetaCyc": {
+            "http://purl.obolibrary.org/obo/CHEBI_15379": "MetaCyc:OXYGEN-MOLECULE",
+            "http://purl.obolibrary.org/obo/CHEBI_16240": "MetaCyc:HYDROGEN-PEROXIDE",
+            "http://purl.obolibrary.org/obo/CHEBI_46195": "MetaCyc:CPD-7669"
+          },
+          "NIFSTD": {
+            "http://www.ebi.ac.uk/efo/EFO_0000264": "NIFSTD:birnlex_2110",
+            "http://www.ebi.ac.uk/efo/EFO_0000651": "NIFSTD:birnlex_2087"
+          },
+          "NIF_Subcellular": {
+            "http://purl.obolibrary.org/obo/GO_0005575": "NIF_Subcellular:sao1337158144",
+            "http://purl.obolibrary.org/obo/GO_0005730": "NIF_Subcellular:sao1820400233"
+          },
+          "PDBeChem": {
+            "http://purl.obolibrary.org/obo/CHEBI_15379": "PDBeChem:OXY",
+            "http://purl.obolibrary.org/obo/CHEBI_16240": "PDBeChem:PEO",
+            "http://purl.obolibrary.org/obo/CHEBI_2955": "PDBeChem:ZIT",
+            "http://purl.obolibrary.org/obo/CHEBI_31781": "PDBeChem:AB1",
+            "http://purl.obolibrary.org/obo/CHEBI_3638": "PDBeChem:CLQ",
+            "http://purl.obolibrary.org/obo/CHEBI_367163": "PDBeChem:017",
+            "http://purl.obolibrary.org/obo/CHEBI_3732": "PDBeChem:CTY",
+            "http://purl.obolibrary.org/obo/CHEBI_41977": "PDBeChem:DM1",
+            "http://purl.obolibrary.org/obo/CHEBI_45409": "PDBeChem:RIT",
+            "http://purl.obolibrary.org/obo/CHEBI_46195": "PDBeChem:TYL",
+            "http://purl.obolibrary.org/obo/CHEBI_50729": "PDBeChem:MIX",
+            "http://purl.obolibrary.org/obo/CHEBI_7496": "PDBeChem:1UN",
+            "http://purl.obolibrary.org/obo/CHEBI_77572": "PDBeChem:D27",
+            "http://purl.obolibrary.org/obo/CHEBI_9139": "PDBeChem:VIA"
+          },
+          "PMCID": {
+            "http://purl.obolibrary.org/obo/CHEBI_145994": "PMCID:PMC5630887",
+            "http://purl.obolibrary.org/obo/CHEBI_5801": "PMCID:PMC7122276"
+          },
+          "Patent": {
+            "http://purl.obolibrary.org/obo/CHEBI_2955": "Patent:US4517359",
+            "http://purl.obolibrary.org/obo/CHEBI_31303": "Patent:CN101817754",
+            "http://purl.obolibrary.org/obo/CHEBI_3638": "Patent:DE683692",
+            "http://purl.obolibrary.org/obo/CHEBI_3732": "Patent:EP41355",
+            "http://purl.obolibrary.org/obo/CHEBI_38545": "Patent:US2013035316",
+            "http://purl.obolibrary.org/obo/CHEBI_4653": "Patent:US3031450",
+            "http://purl.obolibrary.org/obo/CHEBI_472657": "Patent:US4409214",
+            "http://purl.obolibrary.org/obo/CHEBI_48923": "Patent:US2653899",
+            "http://purl.obolibrary.org/obo/CHEBI_50729": "Patent:DE2835661",
+            "http://purl.obolibrary.org/obo/CHEBI_575568": "Patent:EP123238",
+            "http://purl.obolibrary.org/obo/CHEBI_5801": "Patent:US2546658",
+            "http://purl.obolibrary.org/obo/CHEBI_5855": "Patent:US6727286",
+            "http://purl.obolibrary.org/obo/CHEBI_59343": "Patent:EP475610",
+            "http://purl.obolibrary.org/obo/CHEBI_6078": "Patent:US4199569",
+            "http://purl.obolibrary.org/obo/CHEBI_63621": "Patent:US5196438",
+            "http://purl.obolibrary.org/obo/CHEBI_6402": "Patent:DE2854439",
+            "http://purl.obolibrary.org/obo/CHEBI_66919": "Patent:US2010190981",
+            "http://purl.obolibrary.org/obo/CHEBI_71204": "Patent:WO2008153289",
+            "http://purl.obolibrary.org/obo/CHEBI_72291": "Patent:WO2012151165",
+            "http://purl.obolibrary.org/obo/CHEBI_9139": "Patent:EP463756",
+            "http://purl.obolibrary.org/obo/CHEBI_9513": "Patent:US2012142734"
+          },
+          "SCTID": {
+            "http://purl.obolibrary.org/obo/MONDO_0002050": "SCTID:35489007",
+            "http://purl.obolibrary.org/obo/MONDO_0002258": "SCTID:405737000",
+            "http://purl.obolibrary.org/obo/MONDO_0002280": "SCTID:271737000",
+            "http://purl.obolibrary.org/obo/MONDO_0004979": "SCTID:31387002",
+            "http://purl.obolibrary.org/obo/MONDO_0004995": "SCTID:49601007",
+            "http://purl.obolibrary.org/obo/MONDO_0005002": "SCTID:13645005",
+            "http://purl.obolibrary.org/obo/MONDO_0005015": "SCTID:73211009",
+            "http://purl.obolibrary.org/obo/MONDO_0005091": "SCTID:398447004",
+            "http://purl.obolibrary.org/obo/MONDO_0005108": "SCTID:34014006",
+            "http://purl.obolibrary.org/obo/MONDO_0005249": "SCTID:233604007",
+            "http://purl.obolibrary.org/obo/MONDO_0005550": "SCTID:40733004",
+            "http://purl.obolibrary.org/obo/MONDO_0005618": "SCTID:197480006",
+            "http://purl.obolibrary.org/obo/MONDO_0005812": "SCTID:61700007",
+            "http://purl.obolibrary.org/obo/MONDO_0007186": "SCTID:235595009",
+            "http://purl.obolibrary.org/obo/MONDO_0021146": "SCTID:230461009",
+            "http://purl.obolibrary.org/obo/MONDO_0024352": "SCTID:312133006",
+            "http://purl.obolibrary.org/obo/MONDO_0024355": "SCTID:275498002",
+            "http://purl.obolibrary.org/obo/MONDO_0100053": "SCTID:39579001",
+            "http://purl.obolibrary.org/obo/MONDO_0100096": "SCTID:840539006",
+            "http://www.ebi.ac.uk/efo/EFO_0000408": "SCTID:64572001",
+            "http://www.ebi.ac.uk/efo/EFO_0000684": "SCTID:50043002",
+            "http://www.ebi.ac.uk/efo/EFO_0007227": "SCTID:71186008"
+          },
+          "SNOMEDCT_US": {
+            "http://purl.obolibrary.org/obo/HP_0000822": "SNOMEDCT_US:38341003",
+            "http://purl.obolibrary.org/obo/HP_0000969": "SNOMEDCT_US:79654002",
+            "http://purl.obolibrary.org/obo/HP_0000988": "SNOMEDCT_US:271807003",
+            "http://purl.obolibrary.org/obo/HP_0000989": "SNOMEDCT_US:418363000",
+            "http://purl.obolibrary.org/obo/HP_0001025": "SNOMEDCT_US:126485001",
+            "http://purl.obolibrary.org/obo/HP_0001649": "SNOMEDCT_US:86651002",
+            "http://purl.obolibrary.org/obo/HP_0001742": "SNOMEDCT_US:68235000",
+            "http://purl.obolibrary.org/obo/HP_0001945": "SNOMEDCT_US:386661006",
+            "http://purl.obolibrary.org/obo/HP_0002013": "SNOMEDCT_US:300359004",
+            "http://purl.obolibrary.org/obo/HP_0002014": "SNOMEDCT_US:62315008",
+            "http://purl.obolibrary.org/obo/HP_0002017": "SNOMEDCT_US:16932000",
+            "http://purl.obolibrary.org/obo/HP_0002018": "SNOMEDCT_US:422587007",
+            "http://purl.obolibrary.org/obo/HP_0002027": "SNOMEDCT_US:21522001",
+            "http://purl.obolibrary.org/obo/HP_0002094": "SNOMEDCT_US:230145002",
+            "http://purl.obolibrary.org/obo/HP_0002789": "SNOMEDCT_US:271823003",
+            "http://purl.obolibrary.org/obo/HP_0003077": "SNOMEDCT_US:55822004",
+            "http://purl.obolibrary.org/obo/HP_0003326": "SNOMEDCT_US:68962001",
+            "http://purl.obolibrary.org/obo/HP_0011950": "SNOMEDCT_US:4120002",
+            "http://purl.obolibrary.org/obo/HP_0012378": "SNOMEDCT_US:84229001",
+            "http://purl.obolibrary.org/obo/HP_0012531": "SNOMEDCT_US:22253000",
+            "http://purl.obolibrary.org/obo/HP_0012735": "SNOMEDCT_US:272039006",
+            "http://purl.obolibrary.org/obo/HP_0030830": "SNOMEDCT_US:48409008",
+            "http://purl.obolibrary.org/obo/HP_0100749": "SNOMEDCT_US:29857009"
+          },
+          "UniProtKB": {
+            "http://purl.obolibrary.org/obo/PR_O15393": "UniProtKB:O15393",
+            "http://purl.obolibrary.org/obo/PR_P0DTC1-1": "UniProtKB:P0DTC1-1",
+            "http://purl.obolibrary.org/obo/PR_P0DTC2": "UniProtKB:P0DTC2",
+            "http://purl.obolibrary.org/obo/PR_P0DTC3": "UniProtKB:P0DTC3",
+            "http://purl.obolibrary.org/obo/PR_P0DTC4": "UniProtKB:P0DTC4",
+            "http://purl.obolibrary.org/obo/PR_P0DTC5": "UniProtKB:P0DTC5",
+            "http://purl.obolibrary.org/obo/PR_P0DTC7": "UniProtKB:P0DTC7",
+            "http://purl.obolibrary.org/obo/PR_P0DTC9": "UniProtKB:P0DTC9",
+            "http://purl.obolibrary.org/obo/PR_P0DTD1-1": "UniProtKB:P0DTD1-1",
+            "http://purl.obolibrary.org/obo/PR_P12821": "UniProtKB:P12821",
+            "http://purl.obolibrary.org/obo/PR_P22301": "UniProtKB:P22301",
+            "http://purl.obolibrary.org/obo/PR_Q9BYF1": "UniProtKB:Q9BYF1",
+            "http://purl.obolibrary.org/obo/PR_Q9H2X3": "UniProtKB:Q9H2X3"
+          },
+          "VZ": {
+            "http://purl.obolibrary.org/obo/GO_0019076": "VZ:1076",
+            "http://purl.obolibrary.org/obo/GO_0046718": "VZ:936"
+          }
         },
-        "Drug_Central": {
-          "http://purl.obolibrary.org/obo/CHEBI_134722": "Drug_Central:4887",
-          "http://purl.obolibrary.org/obo/CHEBI_134730": "Drug_Central:4868",
-          "http://purl.obolibrary.org/obo/CHEBI_135921": "Drug_Central:4194",
-          "http://purl.obolibrary.org/obo/CHEBI_16240": "Drug_Central:3281",
-          "http://purl.obolibrary.org/obo/CHEBI_2549": "Drug_Central:105",
-          "http://purl.obolibrary.org/obo/CHEBI_2955": "Drug_Central:276",
-          "http://purl.obolibrary.org/obo/CHEBI_31528": "Drug_Central:977",
-          "http://purl.obolibrary.org/obo/CHEBI_31781": "Drug_Central:1601",
-          "http://purl.obolibrary.org/obo/CHEBI_32016": "Drug_Central:4224",
-          "http://purl.obolibrary.org/obo/CHEBI_3638": "Drug_Central:607",
-          "http://purl.obolibrary.org/obo/CHEBI_367163": "Drug_Central:4143",
-          "http://purl.obolibrary.org/obo/CHEBI_3732": "Drug_Central:668",
-          "http://purl.obolibrary.org/obo/CHEBI_38545": "Drug_Central:2406",
-          "http://purl.obolibrary.org/obo/CHEBI_40050": "Drug_Central:200",
-          "http://purl.obolibrary.org/obo/CHEBI_41977": "Drug_Central:786",
-          "http://purl.obolibrary.org/obo/CHEBI_44032": "Drug_Central:1437",
-          "http://purl.obolibrary.org/obo/CHEBI_45409": "Drug_Central:2391",
-          "http://purl.obolibrary.org/obo/CHEBI_46195": "Drug_Central:52",
-          "http://purl.obolibrary.org/obo/CHEBI_4653": "Drug_Central:924",
-          "http://purl.obolibrary.org/obo/CHEBI_472657": "Drug_Central:537",
-          "http://purl.obolibrary.org/obo/CHEBI_50729": "Drug_Central:1821",
-          "http://purl.obolibrary.org/obo/CHEBI_575568": "Drug_Central:258",
-          "http://purl.obolibrary.org/obo/CHEBI_5801": "Drug_Central:1395",
-          "http://purl.obolibrary.org/obo/CHEBI_5855": "Drug_Central:1407",
-          "http://purl.obolibrary.org/obo/CHEBI_62088": "Drug_Central:4659",
-          "http://purl.obolibrary.org/obo/CHEBI_63115": "Drug_Central:4167",
-          "http://purl.obolibrary.org/obo/CHEBI_63580": "Drug_Central:2373",
-          "http://purl.obolibrary.org/obo/CHEBI_6402": "Drug_Central:1552",
-          "http://purl.obolibrary.org/obo/CHEBI_66919": "Drug_Central:4190",
-          "http://purl.obolibrary.org/obo/CHEBI_6960": "Drug_Central:1827",
-          "http://purl.obolibrary.org/obo/CHEBI_71204": "Drug_Central:341",
-          "http://purl.obolibrary.org/obo/CHEBI_72291": "Drug_Central:4299",
-          "http://purl.obolibrary.org/obo/CHEBI_7496": "Drug_Central:1893",
-          "http://purl.obolibrary.org/obo/CHEBI_77572": "Drug_Central:2714",
-          "http://purl.obolibrary.org/obo/CHEBI_82941": "Drug_Central:1240",
-          "http://purl.obolibrary.org/obo/CHEBI_85083": "Drug_Central:4811",
-          "http://purl.obolibrary.org/obo/CHEBI_9139": "Drug_Central:2441"
-        },
-        "FooDB": {
-          "http://purl.obolibrary.org/obo/CHEBI_9139": "FooDB:FDB023606"
-        },
-        "GC_ID": {
-          "http://purl.obolibrary.org/obo/NCBITaxon_10239": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_11118": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_11250": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_11308": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_1335626": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_1479610": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_196889": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_2509511": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_2559587": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_2697049": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_277944": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_290028": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_31631": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_39733": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_40674": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_693996": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_694002": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_694009": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_76804": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_9397": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_9606": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_9615": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_9675": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_9836": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_9838": "GC_ID:1",
-          "http://purl.obolibrary.org/obo/NCBITaxon_9972": "GC_ID:1"
-        },
-        "IUPHARobj": {
-          "http://purl.obolibrary.org/obo/PR_000001341": "IUPHARobj:1612",
-          "http://purl.obolibrary.org/obo/PR_000003137": "IUPHARobj:2366"
-        },
-        "LINCS": {
-          "http://purl.obolibrary.org/obo/CHEBI_2549": "LINCS:LSM-5178",
-          "http://purl.obolibrary.org/obo/CHEBI_2955": "LINCS:LSM-5821",
-          "http://purl.obolibrary.org/obo/CHEBI_31781": "LINCS:LSM-6027",
-          "http://purl.obolibrary.org/obo/CHEBI_32016": "LINCS:LSM-4190",
-          "http://purl.obolibrary.org/obo/CHEBI_3638": "LINCS:LSM-1901",
-          "http://purl.obolibrary.org/obo/CHEBI_3732": "LINCS:LSM-5606",
-          "http://purl.obolibrary.org/obo/CHEBI_41977": "LINCS:LSM-2962",
-          "http://purl.obolibrary.org/obo/CHEBI_44032": "LINCS:LSM-5471",
-          "http://purl.obolibrary.org/obo/CHEBI_45409": "LINCS:LSM-5623",
-          "http://purl.obolibrary.org/obo/CHEBI_46195": "LINCS:LSM-5533",
-          "http://purl.obolibrary.org/obo/CHEBI_4653": "LINCS:LSM-3927",
-          "http://purl.obolibrary.org/obo/CHEBI_50729": "LINCS:LSM-2481",
-          "http://purl.obolibrary.org/obo/CHEBI_5801": "LINCS:LSM-5193",
-          "http://purl.obolibrary.org/obo/CHEBI_5855": "LINCS:LSM-1354",
-          "http://purl.obolibrary.org/obo/CHEBI_62088": "LINCS:LSM-5839",
-          "http://purl.obolibrary.org/obo/CHEBI_63580": "LINCS:LSM-5701",
-          "http://purl.obolibrary.org/obo/CHEBI_63621": "LINCS:LSM-2205",
-          "http://purl.obolibrary.org/obo/CHEBI_6402": "LINCS:LSM-3771",
-          "http://purl.obolibrary.org/obo/CHEBI_66919": "LINCS:LSM-1139",
-          "http://purl.obolibrary.org/obo/CHEBI_6960": "LINCS:LSM-2751",
-          "http://purl.obolibrary.org/obo/CHEBI_7496": "LINCS:LSM-5819",
-          "http://purl.obolibrary.org/obo/CHEBI_9139": "LINCS:LSM-3797",
-          "http://purl.obolibrary.org/obo/CHEBI_9513": "LINCS:LSM-1914"
-        },
-        "LIPID_MAPS_instance": {
-          "http://purl.obolibrary.org/obo/CHEBI_3732": "LIPID_MAPS_instance:LMPK04000014",
-          "http://purl.obolibrary.org/obo/CHEBI_41977": "LIPID_MAPS_instance:LMPK13050002"
-        },
-        "MSH": {
-          "http://purl.obolibrary.org/obo/HP_0000822": "MSH:D006973",
-          "http://purl.obolibrary.org/obo/HP_0000969": "MSH:D004487",
-          "http://purl.obolibrary.org/obo/HP_0000988": "MSH:D005076",
-          "http://purl.obolibrary.org/obo/HP_0000989": "MSH:D011537",
-          "http://purl.obolibrary.org/obo/HP_0001025": "MSH:D014581",
-          "http://purl.obolibrary.org/obo/HP_0001649": "MSH:D013610",
-          "http://purl.obolibrary.org/obo/HP_0001742": "MSH:D015508",
-          "http://purl.obolibrary.org/obo/HP_0001945": "MSH:D005334",
-          "http://purl.obolibrary.org/obo/HP_0002013": "MSH:D014839",
-          "http://purl.obolibrary.org/obo/HP_0002014": "MSH:D003967",
-          "http://purl.obolibrary.org/obo/HP_0002018": "MSH:D009325",
-          "http://purl.obolibrary.org/obo/HP_0002027": "MSH:D015746",
-          "http://purl.obolibrary.org/obo/HP_0002094": "MSH:D004417",
-          "http://purl.obolibrary.org/obo/HP_0002789": "MSH:D059246",
-          "http://purl.obolibrary.org/obo/HP_0003077": "MSH:D006949",
-          "http://purl.obolibrary.org/obo/HP_0003326": "MSH:D063806",
-          "http://purl.obolibrary.org/obo/HP_0011950": "MSH:D001988",
-          "http://purl.obolibrary.org/obo/HP_0012378": "MSH:D005221",
-          "http://purl.obolibrary.org/obo/HP_0012531": "MSH:D010146",
-          "http://purl.obolibrary.org/obo/HP_0012735": "MSH:D003371",
-          "http://purl.obolibrary.org/obo/HP_0030830": "MSH:D012135",
-          "http://purl.obolibrary.org/obo/HP_0100749": "MSH:D002637",
-          "http://purl.obolibrary.org/obo/HP_0100806": "MSH:D018805"
-        },
-        "MetaCyc": {
-          "http://purl.obolibrary.org/obo/CHEBI_15379": "MetaCyc:OXYGEN-MOLECULE",
-          "http://purl.obolibrary.org/obo/CHEBI_16240": "MetaCyc:HYDROGEN-PEROXIDE",
-          "http://purl.obolibrary.org/obo/CHEBI_46195": "MetaCyc:CPD-7669"
-        },
-        "NIFSTD": {
-          "http://www.ebi.ac.uk/efo/EFO_0000264": "NIFSTD:birnlex_2110",
-          "http://www.ebi.ac.uk/efo/EFO_0000651": "NIFSTD:birnlex_2087"
-        },
-        "NIF_Subcellular": {
-          "http://purl.obolibrary.org/obo/GO_0005575": "NIF_Subcellular:sao1337158144",
-          "http://purl.obolibrary.org/obo/GO_0005730": "NIF_Subcellular:sao1820400233"
-        },
-        "PDBeChem": {
-          "http://purl.obolibrary.org/obo/CHEBI_15379": "PDBeChem:OXY",
-          "http://purl.obolibrary.org/obo/CHEBI_16240": "PDBeChem:PEO",
-          "http://purl.obolibrary.org/obo/CHEBI_2955": "PDBeChem:ZIT",
-          "http://purl.obolibrary.org/obo/CHEBI_31781": "PDBeChem:AB1",
-          "http://purl.obolibrary.org/obo/CHEBI_3638": "PDBeChem:CLQ",
-          "http://purl.obolibrary.org/obo/CHEBI_367163": "PDBeChem:017",
-          "http://purl.obolibrary.org/obo/CHEBI_3732": "PDBeChem:CTY",
-          "http://purl.obolibrary.org/obo/CHEBI_41977": "PDBeChem:DM1",
-          "http://purl.obolibrary.org/obo/CHEBI_45409": "PDBeChem:RIT",
-          "http://purl.obolibrary.org/obo/CHEBI_46195": "PDBeChem:TYL",
-          "http://purl.obolibrary.org/obo/CHEBI_50729": "PDBeChem:MIX",
-          "http://purl.obolibrary.org/obo/CHEBI_7496": "PDBeChem:1UN",
-          "http://purl.obolibrary.org/obo/CHEBI_77572": "PDBeChem:D27",
-          "http://purl.obolibrary.org/obo/CHEBI_9139": "PDBeChem:VIA"
-        },
-        "PMCID": {
-          "http://purl.obolibrary.org/obo/CHEBI_145994": "PMCID:PMC5630887",
-          "http://purl.obolibrary.org/obo/CHEBI_5801": "PMCID:PMC7122276"
-        },
-        "Patent": {
-          "http://purl.obolibrary.org/obo/CHEBI_2955": "Patent:US4517359",
-          "http://purl.obolibrary.org/obo/CHEBI_31303": "Patent:CN101817754",
-          "http://purl.obolibrary.org/obo/CHEBI_3638": "Patent:DE683692",
-          "http://purl.obolibrary.org/obo/CHEBI_3732": "Patent:EP41355",
-          "http://purl.obolibrary.org/obo/CHEBI_38545": "Patent:US2013035316",
-          "http://purl.obolibrary.org/obo/CHEBI_4653": "Patent:US3031450",
-          "http://purl.obolibrary.org/obo/CHEBI_472657": "Patent:US4409214",
-          "http://purl.obolibrary.org/obo/CHEBI_48923": "Patent:US2653899",
-          "http://purl.obolibrary.org/obo/CHEBI_50729": "Patent:DE2835661",
-          "http://purl.obolibrary.org/obo/CHEBI_575568": "Patent:EP123238",
-          "http://purl.obolibrary.org/obo/CHEBI_5801": "Patent:US2546658",
-          "http://purl.obolibrary.org/obo/CHEBI_5855": "Patent:US6727286",
-          "http://purl.obolibrary.org/obo/CHEBI_59343": "Patent:EP475610",
-          "http://purl.obolibrary.org/obo/CHEBI_6078": "Patent:US4199569",
-          "http://purl.obolibrary.org/obo/CHEBI_63621": "Patent:US5196438",
-          "http://purl.obolibrary.org/obo/CHEBI_6402": "Patent:DE2854439",
-          "http://purl.obolibrary.org/obo/CHEBI_66919": "Patent:US2010190981",
-          "http://purl.obolibrary.org/obo/CHEBI_71204": "Patent:WO2008153289",
-          "http://purl.obolibrary.org/obo/CHEBI_72291": "Patent:WO2012151165",
-          "http://purl.obolibrary.org/obo/CHEBI_9139": "Patent:EP463756",
-          "http://purl.obolibrary.org/obo/CHEBI_9513": "Patent:US2012142734"
-        },
-        "SCTID": {
-          "http://purl.obolibrary.org/obo/MONDO_0002050": "SCTID:35489007",
-          "http://purl.obolibrary.org/obo/MONDO_0002258": "SCTID:405737000",
-          "http://purl.obolibrary.org/obo/MONDO_0002280": "SCTID:271737000",
-          "http://purl.obolibrary.org/obo/MONDO_0004979": "SCTID:31387002",
-          "http://purl.obolibrary.org/obo/MONDO_0004995": "SCTID:49601007",
-          "http://purl.obolibrary.org/obo/MONDO_0005002": "SCTID:13645005",
-          "http://purl.obolibrary.org/obo/MONDO_0005015": "SCTID:73211009",
-          "http://purl.obolibrary.org/obo/MONDO_0005091": "SCTID:398447004",
-          "http://purl.obolibrary.org/obo/MONDO_0005108": "SCTID:34014006",
-          "http://purl.obolibrary.org/obo/MONDO_0005249": "SCTID:233604007",
-          "http://purl.obolibrary.org/obo/MONDO_0005550": "SCTID:40733004",
-          "http://purl.obolibrary.org/obo/MONDO_0005618": "SCTID:197480006",
-          "http://purl.obolibrary.org/obo/MONDO_0005812": "SCTID:61700007",
-          "http://purl.obolibrary.org/obo/MONDO_0007186": "SCTID:235595009",
-          "http://purl.obolibrary.org/obo/MONDO_0021146": "SCTID:230461009",
-          "http://purl.obolibrary.org/obo/MONDO_0024352": "SCTID:312133006",
-          "http://purl.obolibrary.org/obo/MONDO_0024355": "SCTID:275498002",
-          "http://purl.obolibrary.org/obo/MONDO_0100053": "SCTID:39579001",
-          "http://purl.obolibrary.org/obo/MONDO_0100096": "SCTID:840539006",
-          "http://www.ebi.ac.uk/efo/EFO_0000408": "SCTID:64572001",
-          "http://www.ebi.ac.uk/efo/EFO_0000684": "SCTID:50043002",
-          "http://www.ebi.ac.uk/efo/EFO_0007227": "SCTID:71186008"
-        },
-        "SNOMEDCT_US": {
-          "http://purl.obolibrary.org/obo/HP_0000822": "SNOMEDCT_US:38341003",
-          "http://purl.obolibrary.org/obo/HP_0000969": "SNOMEDCT_US:79654002",
-          "http://purl.obolibrary.org/obo/HP_0000988": "SNOMEDCT_US:271807003",
-          "http://purl.obolibrary.org/obo/HP_0000989": "SNOMEDCT_US:418363000",
-          "http://purl.obolibrary.org/obo/HP_0001025": "SNOMEDCT_US:126485001",
-          "http://purl.obolibrary.org/obo/HP_0001649": "SNOMEDCT_US:86651002",
-          "http://purl.obolibrary.org/obo/HP_0001742": "SNOMEDCT_US:68235000",
-          "http://purl.obolibrary.org/obo/HP_0001945": "SNOMEDCT_US:386661006",
-          "http://purl.obolibrary.org/obo/HP_0002013": "SNOMEDCT_US:300359004",
-          "http://purl.obolibrary.org/obo/HP_0002014": "SNOMEDCT_US:62315008",
-          "http://purl.obolibrary.org/obo/HP_0002017": "SNOMEDCT_US:16932000",
-          "http://purl.obolibrary.org/obo/HP_0002018": "SNOMEDCT_US:422587007",
-          "http://purl.obolibrary.org/obo/HP_0002027": "SNOMEDCT_US:21522001",
-          "http://purl.obolibrary.org/obo/HP_0002094": "SNOMEDCT_US:230145002",
-          "http://purl.obolibrary.org/obo/HP_0002789": "SNOMEDCT_US:271823003",
-          "http://purl.obolibrary.org/obo/HP_0003077": "SNOMEDCT_US:55822004",
-          "http://purl.obolibrary.org/obo/HP_0003326": "SNOMEDCT_US:68962001",
-          "http://purl.obolibrary.org/obo/HP_0011950": "SNOMEDCT_US:4120002",
-          "http://purl.obolibrary.org/obo/HP_0012378": "SNOMEDCT_US:84229001",
-          "http://purl.obolibrary.org/obo/HP_0012531": "SNOMEDCT_US:22253000",
-          "http://purl.obolibrary.org/obo/HP_0012735": "SNOMEDCT_US:272039006",
-          "http://purl.obolibrary.org/obo/HP_0030830": "SNOMEDCT_US:48409008",
-          "http://purl.obolibrary.org/obo/HP_0100749": "SNOMEDCT_US:29857009"
-        },
-        "UniProtKB": {
-          "http://purl.obolibrary.org/obo/PR_O15393": "UniProtKB:O15393",
-          "http://purl.obolibrary.org/obo/PR_P0DTC1-1": "UniProtKB:P0DTC1-1",
-          "http://purl.obolibrary.org/obo/PR_P0DTC2": "UniProtKB:P0DTC2",
-          "http://purl.obolibrary.org/obo/PR_P0DTC3": "UniProtKB:P0DTC3",
-          "http://purl.obolibrary.org/obo/PR_P0DTC4": "UniProtKB:P0DTC4",
-          "http://purl.obolibrary.org/obo/PR_P0DTC5": "UniProtKB:P0DTC5",
-          "http://purl.obolibrary.org/obo/PR_P0DTC7": "UniProtKB:P0DTC7",
-          "http://purl.obolibrary.org/obo/PR_P0DTC9": "UniProtKB:P0DTC9",
-          "http://purl.obolibrary.org/obo/PR_P0DTD1-1": "UniProtKB:P0DTD1-1",
-          "http://purl.obolibrary.org/obo/PR_P12821": "UniProtKB:P12821",
-          "http://purl.obolibrary.org/obo/PR_P22301": "UniProtKB:P22301",
-          "http://purl.obolibrary.org/obo/PR_Q9BYF1": "UniProtKB:Q9BYF1",
-          "http://purl.obolibrary.org/obo/PR_Q9H2X3": "UniProtKB:Q9H2X3"
-        },
-        "VZ": {
-          "http://purl.obolibrary.org/obo/GO_0019076": "VZ:1076",
-          "http://purl.obolibrary.org/obo/GO_0046718": "VZ:936"
-        }
-      },
-      "unknown_prefixes": {
-        "DB": {
-          "http://purl.obolibrary.org/obo/CHEBI_134722": "DB:12466",
-          "http://purl.obolibrary.org/obo/CHEBI_134730": "DB:13609",
-          "http://purl.obolibrary.org/obo/CHEBI_135921": "DB:11638",
-          "http://purl.obolibrary.org/obo/CHEBI_145994": "DB:14761",
-          "http://purl.obolibrary.org/obo/CHEBI_16240": "DB:11091",
-          "http://purl.obolibrary.org/obo/CHEBI_22198": "DB:06151",
-          "http://purl.obolibrary.org/obo/CHEBI_2955": "DB:00207",
-          "http://purl.obolibrary.org/obo/CHEBI_31303": "DB:09019",
-          "http://purl.obolibrary.org/obo/CHEBI_31528": "DB:11742",
-          "http://purl.obolibrary.org/obo/CHEBI_31781": "DB:01601",
-          "http://purl.obolibrary.org/obo/CHEBI_32016": "DB:04951",
-          "http://purl.obolibrary.org/obo/CHEBI_3638": "DB:00608",
-          "http://purl.obolibrary.org/obo/CHEBI_367163": "DB:01264",
-          "http://purl.obolibrary.org/obo/CHEBI_3732": "DB:01211",
-          "http://purl.obolibrary.org/obo/CHEBI_37924": "DB:01072",
-          "http://purl.obolibrary.org/obo/CHEBI_38545": "DB:01098",
-          "http://purl.obolibrary.org/obo/CHEBI_40050": "DB:00701",
-          "http://purl.obolibrary.org/obo/CHEBI_41977": "DB:00694",
-          "http://purl.obolibrary.org/obo/CHEBI_44032": "DB:00224",
-          "http://purl.obolibrary.org/obo/CHEBI_45409": "DB:00503",
-          "http://purl.obolibrary.org/obo/CHEBI_4653": "DB:00975",
-          "http://purl.obolibrary.org/obo/CHEBI_472657": "DB:00671",
-          "http://purl.obolibrary.org/obo/CHEBI_48432": "DB:11842",
-          "http://purl.obolibrary.org/obo/CHEBI_48923": "DB:00199",
-          "http://purl.obolibrary.org/obo/CHEBI_50729": "DB:01204",
-          "http://purl.obolibrary.org/obo/CHEBI_575568": "DB:01117",
-          "http://purl.obolibrary.org/obo/CHEBI_5801": "DB:01611",
-          "http://purl.obolibrary.org/obo/CHEBI_59343": "DB:01066",
-          "http://purl.obolibrary.org/obo/CHEBI_6078": "DB:00602",
-          "http://purl.obolibrary.org/obo/CHEBI_62088": "DB:04817",
-          "http://purl.obolibrary.org/obo/CHEBI_63115": "DB:08868",
-          "http://purl.obolibrary.org/obo/CHEBI_63580": "DB:00811",
-          "http://purl.obolibrary.org/obo/CHEBI_63621": "DB:01232",
-          "http://purl.obolibrary.org/obo/CHEBI_63628": "DB:00932",
-          "http://purl.obolibrary.org/obo/CHEBI_6402": "DB:01097",
-          "http://purl.obolibrary.org/obo/CHEBI_66919": "DB:08877",
-          "http://purl.obolibrary.org/obo/CHEBI_6960": "DB:00691",
-          "http://purl.obolibrary.org/obo/CHEBI_71204": "DB:04890",
-          "http://purl.obolibrary.org/obo/CHEBI_72291": "DB:09065",
-          "http://purl.obolibrary.org/obo/CHEBI_7496": "DB:00220",
-          "http://purl.obolibrary.org/obo/CHEBI_82941": "DB:01319",
-          "http://purl.obolibrary.org/obo/CHEBI_85083": "DB:08934",
-          "http://purl.obolibrary.org/obo/CHEBI_9139": "DB:00203",
-          "http://purl.obolibrary.org/obo/CHEBI_9513": "DB:01041",
-          "http://purl.obolibrary.org/obo/COVOC_0030002": "DB:00051",
-          "http://purl.obolibrary.org/obo/COVOC_0030003": "DB:15623",
-          "http://purl.obolibrary.org/obo/COVOC_0030004": "DB:06260",
-          "http://purl.obolibrary.org/obo/COVOC_0030006": "DB:13997",
-          "http://purl.obolibrary.org/obo/COVOC_0030007": "DB:11817",
-          "http://purl.obolibrary.org/obo/COVOC_0030008": "DB:09275",
-          "http://purl.obolibrary.org/obo/COVOC_0030012": "DB:11779",
-          "http://purl.obolibrary.org/obo/COVOC_0030014": "DB:01257",
-          "http://purl.obolibrary.org/obo/COVOC_0030015": "DB:11676",
-          "http://purl.obolibrary.org/obo/COVOC_0030017": "DB:00069",
-          "http://purl.obolibrary.org/obo/COVOC_0030020": "DB:06612",
-          "http://purl.obolibrary.org/obo/COVOC_0030021": "DB:00959",
-          "http://purl.obolibrary.org/obo/COVOC_0030027": "DB:11767",
-          "http://purl.obolibrary.org/obo/COVOC_0030029": "DB:06273",
-          "http://purl.obolibrary.org/obo/COVOC_0040001": "DB:00959",
-          "http://purl.obolibrary.org/obo/COVOC_0040002": "DB:11842",
-          "http://purl.obolibrary.org/obo/COVOC_0040003": "DB:01257",
-          "http://purl.obolibrary.org/obo/COVOC_0040004": "DB:14761",
-          "http://purl.obolibrary.org/obo/COVOC_0040005": "DB:14761",
-          "http://purl.obolibrary.org/obo/COVOC_0040006": "DB:01601",
-          "http://purl.obolibrary.org/obo/COVOC_0040007": "DB:00203",
-          "http://purl.obolibrary.org/obo/COVOC_0040008": "DB:06273",
-          "http://purl.obolibrary.org/obo/COVOC_0040009": "DB:01611",
-          "http://purl.obolibrary.org/obo/COVOC_0040010": "DB:01601",
-          "http://purl.obolibrary.org/obo/COVOC_0040011": "DB:12466",
-          "http://purl.obolibrary.org/obo/COVOC_0040012": "DB:11767",
-          "http://purl.obolibrary.org/obo/COVOC_0040013": "DB:01611",
-          "http://purl.obolibrary.org/obo/COVOC_0040018": "DB:06273",
-          "http://purl.obolibrary.org/obo/COVOC_0040019": "DB:11842",
-          "http://purl.obolibrary.org/obo/COVOC_0040023": "DB:01611"
-        },
-        "GAID": {
-          "http://purl.obolibrary.org/obo/UBERON_0001088": "GAID:1189",
-          "http://purl.obolibrary.org/obo/UBERON_0001836": "GAID:1167",
-          "http://purl.obolibrary.org/obo/UBERON_0001988": "GAID:1199",
-          "http://purl.obolibrary.org/obo/UBERON_0002048": "GAID:345"
-        },
-        "OpenCyc": {
-          "http://purl.obolibrary.org/obo/UBERON_0001088": "OpenCyc:Mx4rvVjGppwpEbGdrcN5Y29ycA",
-          "http://purl.obolibrary.org/obo/UBERON_0001836": "OpenCyc:Mx4rvVjJ95wpEbGdrcN5Y29ycA",
-          "http://purl.obolibrary.org/obo/UBERON_0001988": "OpenCyc:Mx4rvVjJMZwpEbGdrcN5Y29ycA",
-          "http://purl.obolibrary.org/obo/UBERON_0002048": "OpenCyc:Mx4rvVjKy5wpEbGdrcN5Y29ycA"
-        },
-        "PANTHER": {
-          "http://purl.obolibrary.org/obo/PR_000001471": "PANTHER:PTHR11585:SF1"
-        },
-        "PERSON": {
-          "http://www.ebi.ac.uk/efo/EFO_0000714": "PERSON: James Malone",
-          "http://www.ebi.ac.uk/efo/EFO_0001426": "PERSON: James Malone"
+        "unknown_prefixes": {
+          "DB": {
+            "http://purl.obolibrary.org/obo/CHEBI_134722": "DB:12466",
+            "http://purl.obolibrary.org/obo/CHEBI_134730": "DB:13609",
+            "http://purl.obolibrary.org/obo/CHEBI_135921": "DB:11638",
+            "http://purl.obolibrary.org/obo/CHEBI_145994": "DB:14761",
+            "http://purl.obolibrary.org/obo/CHEBI_16240": "DB:11091",
+            "http://purl.obolibrary.org/obo/CHEBI_22198": "DB:06151",
+            "http://purl.obolibrary.org/obo/CHEBI_2955": "DB:00207",
+            "http://purl.obolibrary.org/obo/CHEBI_31303": "DB:09019",
+            "http://purl.obolibrary.org/obo/CHEBI_31528": "DB:11742",
+            "http://purl.obolibrary.org/obo/CHEBI_31781": "DB:01601",
+            "http://purl.obolibrary.org/obo/CHEBI_32016": "DB:04951",
+            "http://purl.obolibrary.org/obo/CHEBI_3638": "DB:00608",
+            "http://purl.obolibrary.org/obo/CHEBI_367163": "DB:01264",
+            "http://purl.obolibrary.org/obo/CHEBI_3732": "DB:01211",
+            "http://purl.obolibrary.org/obo/CHEBI_37924": "DB:01072",
+            "http://purl.obolibrary.org/obo/CHEBI_38545": "DB:01098",
+            "http://purl.obolibrary.org/obo/CHEBI_40050": "DB:00701",
+            "http://purl.obolibrary.org/obo/CHEBI_41977": "DB:00694",
+            "http://purl.obolibrary.org/obo/CHEBI_44032": "DB:00224",
+            "http://purl.obolibrary.org/obo/CHEBI_45409": "DB:00503",
+            "http://purl.obolibrary.org/obo/CHEBI_4653": "DB:00975",
+            "http://purl.obolibrary.org/obo/CHEBI_472657": "DB:00671",
+            "http://purl.obolibrary.org/obo/CHEBI_48432": "DB:11842",
+            "http://purl.obolibrary.org/obo/CHEBI_48923": "DB:00199",
+            "http://purl.obolibrary.org/obo/CHEBI_50729": "DB:01204",
+            "http://purl.obolibrary.org/obo/CHEBI_575568": "DB:01117",
+            "http://purl.obolibrary.org/obo/CHEBI_5801": "DB:01611",
+            "http://purl.obolibrary.org/obo/CHEBI_59343": "DB:01066",
+            "http://purl.obolibrary.org/obo/CHEBI_6078": "DB:00602",
+            "http://purl.obolibrary.org/obo/CHEBI_62088": "DB:04817",
+            "http://purl.obolibrary.org/obo/CHEBI_63115": "DB:08868",
+            "http://purl.obolibrary.org/obo/CHEBI_63580": "DB:00811",
+            "http://purl.obolibrary.org/obo/CHEBI_63621": "DB:01232",
+            "http://purl.obolibrary.org/obo/CHEBI_63628": "DB:00932",
+            "http://purl.obolibrary.org/obo/CHEBI_6402": "DB:01097",
+            "http://purl.obolibrary.org/obo/CHEBI_66919": "DB:08877",
+            "http://purl.obolibrary.org/obo/CHEBI_6960": "DB:00691",
+            "http://purl.obolibrary.org/obo/CHEBI_71204": "DB:04890",
+            "http://purl.obolibrary.org/obo/CHEBI_72291": "DB:09065",
+            "http://purl.obolibrary.org/obo/CHEBI_7496": "DB:00220",
+            "http://purl.obolibrary.org/obo/CHEBI_82941": "DB:01319",
+            "http://purl.obolibrary.org/obo/CHEBI_85083": "DB:08934",
+            "http://purl.obolibrary.org/obo/CHEBI_9139": "DB:00203",
+            "http://purl.obolibrary.org/obo/CHEBI_9513": "DB:01041",
+            "http://purl.obolibrary.org/obo/COVOC_0030002": "DB:00051",
+            "http://purl.obolibrary.org/obo/COVOC_0030003": "DB:15623",
+            "http://purl.obolibrary.org/obo/COVOC_0030004": "DB:06260",
+            "http://purl.obolibrary.org/obo/COVOC_0030006": "DB:13997",
+            "http://purl.obolibrary.org/obo/COVOC_0030007": "DB:11817",
+            "http://purl.obolibrary.org/obo/COVOC_0030008": "DB:09275",
+            "http://purl.obolibrary.org/obo/COVOC_0030012": "DB:11779",
+            "http://purl.obolibrary.org/obo/COVOC_0030014": "DB:01257",
+            "http://purl.obolibrary.org/obo/COVOC_0030015": "DB:11676",
+            "http://purl.obolibrary.org/obo/COVOC_0030017": "DB:00069",
+            "http://purl.obolibrary.org/obo/COVOC_0030020": "DB:06612",
+            "http://purl.obolibrary.org/obo/COVOC_0030021": "DB:00959",
+            "http://purl.obolibrary.org/obo/COVOC_0030027": "DB:11767",
+            "http://purl.obolibrary.org/obo/COVOC_0030029": "DB:06273",
+            "http://purl.obolibrary.org/obo/COVOC_0040001": "DB:00959",
+            "http://purl.obolibrary.org/obo/COVOC_0040002": "DB:11842",
+            "http://purl.obolibrary.org/obo/COVOC_0040003": "DB:01257",
+            "http://purl.obolibrary.org/obo/COVOC_0040004": "DB:14761",
+            "http://purl.obolibrary.org/obo/COVOC_0040005": "DB:14761",
+            "http://purl.obolibrary.org/obo/COVOC_0040006": "DB:01601",
+            "http://purl.obolibrary.org/obo/COVOC_0040007": "DB:00203",
+            "http://purl.obolibrary.org/obo/COVOC_0040008": "DB:06273",
+            "http://purl.obolibrary.org/obo/COVOC_0040009": "DB:01611",
+            "http://purl.obolibrary.org/obo/COVOC_0040010": "DB:01601",
+            "http://purl.obolibrary.org/obo/COVOC_0040011": "DB:12466",
+            "http://purl.obolibrary.org/obo/COVOC_0040012": "DB:11767",
+            "http://purl.obolibrary.org/obo/COVOC_0040013": "DB:01611",
+            "http://purl.obolibrary.org/obo/COVOC_0040018": "DB:06273",
+            "http://purl.obolibrary.org/obo/COVOC_0040019": "DB:11842",
+            "http://purl.obolibrary.org/obo/COVOC_0040023": "DB:01611"
+          },
+          "GAID": {
+            "http://purl.obolibrary.org/obo/UBERON_0001088": "GAID:1189",
+            "http://purl.obolibrary.org/obo/UBERON_0001836": "GAID:1167",
+            "http://purl.obolibrary.org/obo/UBERON_0001988": "GAID:1199",
+            "http://purl.obolibrary.org/obo/UBERON_0002048": "GAID:345"
+          },
+          "OpenCyc": {
+            "http://purl.obolibrary.org/obo/UBERON_0001088": "OpenCyc:Mx4rvVjGppwpEbGdrcN5Y29ycA",
+            "http://purl.obolibrary.org/obo/UBERON_0001836": "OpenCyc:Mx4rvVjJ95wpEbGdrcN5Y29ycA",
+            "http://purl.obolibrary.org/obo/UBERON_0001988": "OpenCyc:Mx4rvVjJMZwpEbGdrcN5Y29ycA",
+            "http://purl.obolibrary.org/obo/UBERON_0002048": "OpenCyc:Mx4rvVjKy5wpEbGdrcN5Y29ycA"
+          },
+          "PANTHER": {
+            "http://purl.obolibrary.org/obo/PR_000001471": "PANTHER:PTHR11585:SF1"
+          },
+          "PERSON": {
+            "http://www.ebi.ac.uk/efo/EFO_0000714": "PERSON: James Malone",
+            "http://www.ebi.ac.uk/efo/EFO_0001426": "PERSON: James Malone"
+          }
         }
       }
     }

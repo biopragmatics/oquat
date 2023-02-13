@@ -3,7 +3,7 @@
 ## ``
 
 There are 2 usages of `` in `zea`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20).
 
 | curie                                                     |   usages | nodes                                                     |
@@ -14,7 +14,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `***`
 
 There are 1 usages of `***` in `zea`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20***).
 
 | curie     |   usages | nodes                                                                                                                |
@@ -24,7 +24,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `****`
 
 There are 2 usages of `****` in `zea`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20****).
 
 | curie      |   usages | nodes                                                                                                                                                                                                                                      |
@@ -35,7 +35,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `2222`
 
 There are 1 usages of `2222` in `zea`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%202222).
 
 | curie      |   usages | nodes                                                                                                                |
@@ -45,7 +45,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Chapman`
 
 There are 2 usages of `Chapman` in `zea`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Chapman).
 
 | curie                                               |   usages | nodes                                                     |
@@ -56,7 +56,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `DELTA`
 
 There are 1 usages of `DELTA` in `zea`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DELTA).
 
 | curie                      |   usages | nodes                                                     |
@@ -66,7 +66,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MaizeDB`
 
 There are 13 usages of `MaizeDB` in `zea`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MaizeDB).
 
 | curie           |   usages | nodes                                                                                                                |
@@ -88,7 +88,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `XXX`
 
 There are 1 usages of `XXX` in `zea`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XXX).
 
 | curie     |   usages | nodes                                                     |
@@ -98,7 +98,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `maizedb`
 
 There are 10 usages of `maizedb` in `zea`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20maizedb).
 
 | curie                      |   usages | nodes                                                                                                                                                                                                                                                                                                      |

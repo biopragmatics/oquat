@@ -3,7 +3,7 @@
 ## `Book`
 
 There are 1 usages of `Book` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Book).
 
 | curie                  |   usages | nodes                                                   |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Casrdb`
 
 There are 1 usages of `Casrdb` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Casrdb).
 
 | curie                              |   usages | nodes                                                   |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Cell`
 
 There are 1 usages of `Cell` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Cell).
 
 | curie            |   usages | nodes                                                   |
@@ -33,7 +33,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Dorland's`
 
 There are 1 usages of `Dorland's` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Dorland's).
 
 | curie                     |   usages | nodes                                                   |
@@ -43,7 +43,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Handbook`
 
 There are 3 usages of `Handbook` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Handbook).
 
 | curie                             |   usages | nodes                                                                                                            |
@@ -55,7 +55,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `InHouse`
 
 There are 7 usages of `InHouse` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20InHouse).
 
 | curie                          |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -71,7 +71,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `InPress`
 
 There are 1 usages of `InPress` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20InPress).
 
 | curie              |   usages | nodes                                                   |
@@ -81,7 +81,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Internet`
 
 There are 2 usages of `Internet` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Internet).
 
 | curie                                                    |   usages | nodes                                                   |
@@ -92,7 +92,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MCW`
 
 There are 3 usages of `MCW` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MCW).
 
 | curie                                             |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -104,7 +104,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OneLook`
 
 There are 8 usages of `OneLook` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OneLook).
 
 | curie                           |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -121,7 +121,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OneLoook`
 
 There are 1 usages of `OneLoook` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OneLoook).
 
 | curie                           |   usages | nodes                                                   |
@@ -131,7 +131,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Onelook`
 
 There are 3 usages of `Onelook` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Onelook).
 
 | curie                           |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -143,7 +143,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Online`
 
 There are 4 usages of `Online` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Online).
 
 | curie                                                    |   usages | nodes                                                   |
@@ -156,7 +156,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PMIM`
 
 There are 1 usages of `PMIM` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PMIM).
 
 | curie       |   usages | nodes                                                   |
@@ -166,7 +166,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PgarmGKB`
 
 There are 1 usages of `PgarmGKB` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PgarmGKB).
 
 | curie                                                |   usages | nodes                                                   |
@@ -176,7 +176,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PharmGKB`
 
 There are 25 usages of `PharmGKB` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PharmGKB).
 
 <details>
@@ -215,7 +215,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Reactomee`
 
 There are 1 usages of `Reactomee` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Reactomee).
 
 | curie                      |   usages | nodes                                                   |
@@ -225,7 +225,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SMPFB`
 
 There are 1 usages of `SMPFB` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SMPFB).
 
 | curie                                                   |   usages | nodes                                                   |
@@ -235,7 +235,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Web`
 
 There are 1 usages of `Web` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Web).
 
 | curie                                                   |   usages | nodes                                                   |
@@ -245,7 +245,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `XXwikipedia`
 
 There are 2 usages of `XXwikipedia` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XXwikipedia).
 
 | curie                                                |   usages | nodes                                                   |
@@ -256,7 +256,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `drugs.com`
 
 There are 1 usages of `drugs.com` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20drugs.com).
 
 | curie                                               |   usages | nodes                                                                                                                                                                     |
@@ -266,7 +266,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `eikipedia`
 
 There are 1 usages of `eikipedia` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20eikipedia).
 
 | curie                                             |   usages | nodes                                                   |
@@ -276,7 +276,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `inHouse`
 
 There are 1 usages of `inHouse` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20inHouse).
 
 | curie                         |   usages | nodes                                                   |
@@ -286,7 +286,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `localhealth`
 
 There are 1 usages of `localhealth` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20localhealth).
 
 | curie                                  |   usages | nodes                                                   |
@@ -296,7 +296,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `onelook`
 
 There are 1 usages of `onelook` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20onelook).
 
 | curie                   |   usages | nodes                                                   |
@@ -306,7 +306,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `online`
 
 There are 1 usages of `online` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20online).
 
 | curie                                                                  |   usages | nodes                                                   |
@@ -316,7 +316,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `pathway`
 
 There are 1 usages of `pathway` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20pathway).
 
 | curie                                            |   usages | nodes                                                   |
@@ -326,7 +326,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `wiki[pedia`
 
 There are 1 usages of `wiki[pedia` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wiki[pedia).
 
 | curie                                              |   usages | nodes                                                   |
@@ -336,7 +336,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `wkkipedia`
 
 There are 1 usages of `wkkipedia` in `pw`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wkkipedia).
 
 | curie                                             |   usages | nodes                                                   |

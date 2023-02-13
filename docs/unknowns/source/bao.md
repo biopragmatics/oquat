@@ -3,7 +3,7 @@
 ## `ABA`
 
 There are 1 usages of `ABA` in `bao`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ABA).
 
 | curie     |   usages | nodes                                                           |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ANISEED`
 
 There are 3 usages of `ANISEED` in `bao`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ANISEED).
 
 | curie           |   usages | nodes                                                           |
@@ -25,7 +25,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BILS`
 
 There are 3 usages of `BILS` in `bao`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BILS).
 
 | curie        |   usages | nodes                                                           |
@@ -37,7 +37,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BSA`
 
 There are 3 usages of `BSA` in `bao`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BSA).
 
 | curie       |   usages | nodes                                                           |
@@ -49,7 +49,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BilaDO`
 
 There are 2 usages of `BilaDO` in `bao`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BilaDO).
 
 | curie          |   usages | nodes                                                           |
@@ -60,7 +60,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GAID`
 
 There are 25 usages of `GAID` in `bao`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GAID).
 
 <details>
@@ -99,7 +99,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OGES`
 
 There are 3 usages of `OGES` in `bao`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OGES).
 
 | curie       |   usages | nodes                                                           |
@@ -111,7 +111,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OpenCyc`
 
 There are 26 usages of `OpenCyc` in `bao`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OpenCyc).
 
 <details>
@@ -151,7 +151,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WikipediaCategory`
 
 There are 1 usages of `WikipediaCategory` in `bao`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaCategory).
 
 | curie                           |   usages | nodes                                                           |

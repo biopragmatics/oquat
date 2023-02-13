@@ -3,7 +3,7 @@
 ## `ABA`
 
 There are 1 usages of `ABA` in `epso`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ABA).
 
 | curie     |   usages | nodes                                                           |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BM`
 
 There are 29 usages of `BM` in `epso`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BM).
 
 <details>
@@ -56,7 +56,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GAID`
 
 There are 25 usages of `GAID` in `epso`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GAID).
 
 <details>
@@ -95,7 +95,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MIPS_funcat`
 
 There are 4 usages of `MIPS_funcat` in `epso`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MIPS_funcat).
 
 | curie                   |   usages | nodes                                                   |
@@ -108,7 +108,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MTH`
 
 There are 2 usages of `MTH` in `epso`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MTH).
 
 | curie       |   usages | nodes                                                 |
@@ -119,7 +119,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OpenCyc`
 
 There are 22 usages of `OpenCyc` in `epso`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OpenCyc).
 
 <details>
@@ -155,7 +155,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Talairach`
 
 There are 1 usages of `Talairach` in `epso`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Talairach).
 
 | curie          |   usages | nodes                                                           |
@@ -165,7 +165,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WikipediaCategory`
 
 There are 1 usages of `WikipediaCategory` in `epso`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaCategory).
 
 | curie                            |   usages | nodes                                                           |

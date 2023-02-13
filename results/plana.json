@@ -1,167 +1,171 @@
 {
-  "http://purl.obolibrary.org/obo/plana.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/plana.owl",
-    "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/PLANA_0000224": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000241": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000472": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000473": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000474": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000475": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000476": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000477": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0003504": [
-          "PMID: 23652002"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0003800": [
-          "PMID: 20967238"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0003801": [
-          "PMID: 20967238"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0003802": [
-          "PMID: 29674431"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0003803": [
-          "PMID: 29674432"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0003804": [
-          "PMID: 29674433"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0007535": [
-          "ASIN:B000M4NK9M"
-        ]
+  "created": "2023-02-13T19:19:55.695851",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/plana.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/plana.owl",
+      "prov_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/PLANA_0000224": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000241": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000472": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000473": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000474": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000475": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000476": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000477": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0003504": [
+            "PMID: 23652002"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0003800": [
+            "PMID: 20967238"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0003801": [
+            "PMID: 20967238"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0003802": [
+            "PMID: 29674431"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0003803": [
+            "PMID: 29674432"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0003804": [
+            "PMID: 29674433"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0007535": [
+            "ASIN:B000M4NK9M"
+          ]
+        },
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       },
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2022-03-09",
-    "version_iri": "http://purl.obolibrary.org/obo/plana/releases/2022-03-09",
-    "xref_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/PLANA_0000137": [
-          "Wikipedia:Regeneration:(biology)"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000224": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000241": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000470": [
-          "CALOHA:TS-2403"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000472": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000473": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000474": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000475": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000476": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000477": [
-          "ASIN:B000M4NK9M"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000495": [
-          "ncithesaurus:Blastemal_Cell"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000499": [
-          "CALOHA:TS-2035"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0001005": [
-          "NIF_Subcellular:sao1397492660"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0002042": [
-          "PMID: 22074376"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0007535": [
-          "ASIN:B000M4NK9M"
-        ]
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       },
-      "label": "Node Xrefs",
-      "malformed_curies": {
-        "http://purl.obolibrary.org/obo/PLANA_0000459": [
-          "C90609"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000468": [
-          "doi.org/10.1002/jmor.1051550208"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000470": [
-          "C12617"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000492": [
-          "C12929"
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0000495": [
-          ""
-        ],
-        "http://purl.obolibrary.org/obo/PLANA_0001005": [
-          "C32186"
-        ]
-      },
-      "noncanonical_prefixes": {
-        "NIF_Subcellular": {
-          "http://purl.obolibrary.org/obo/PLANA_0001005": "NIF_Subcellular:sao1397492660"
+      "version": "2022-03-09",
+      "version_iri": "http://purl.obolibrary.org/obo/plana/releases/2022-03-09",
+      "xref_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/PLANA_0000137": [
+            "Wikipedia:Regeneration:(biology)"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000224": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000241": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000470": [
+            "CALOHA:TS-2403"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000472": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000473": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000474": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000475": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000476": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000477": [
+            "ASIN:B000M4NK9M"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000495": [
+            "ncithesaurus:Blastemal_Cell"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000499": [
+            "CALOHA:TS-2035"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0001005": [
+            "NIF_Subcellular:sao1397492660"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0002042": [
+            "PMID: 22074376"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0007535": [
+            "ASIN:B000M4NK9M"
+          ]
         },
-        "ncithesaurus": {
-          "http://purl.obolibrary.org/obo/PLANA_0000495": "ncithesaurus:Blastemal_Cell"
+        "label": "Node Xrefs",
+        "malformed_curies": {
+          "http://purl.obolibrary.org/obo/PLANA_0000459": [
+            "C90609"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000468": [
+            "doi.org/10.1002/jmor.1051550208"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000470": [
+            "C12617"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000492": [
+            "C12929"
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0000495": [
+            ""
+          ],
+          "http://purl.obolibrary.org/obo/PLANA_0001005": [
+            "C32186"
+          ]
         },
-        "nlx": {
-          "http://purl.obolibrary.org/obo/PLANA_0000097": "nlx:146329"
-        }
-      },
-      "unknown_prefixes": {
-        "BM": {
-          "http://purl.obolibrary.org/obo/PLANA_0000459": "BM:Tel-OCX"
+        "noncanonical_prefixes": {
+          "NIF_Subcellular": {
+            "http://purl.obolibrary.org/obo/PLANA_0001005": "NIF_Subcellular:sao1397492660"
+          },
+          "ncithesaurus": {
+            "http://purl.obolibrary.org/obo/PLANA_0000495": "ncithesaurus:Blastemal_Cell"
+          },
+          "nlx": {
+            "http://purl.obolibrary.org/obo/PLANA_0000097": "nlx:146329"
+          }
         },
-        "BSA": {
-          "http://purl.obolibrary.org/obo/PLANA_0000240": "BSA:0000058"
-        },
-        "GAID": {
-          "http://purl.obolibrary.org/obo/PLANA_0000459": "GAID:832",
-          "http://purl.obolibrary.org/obo/PLANA_0000470": "GAID:740"
-        },
-        "GOC": {
-          "http://purl.obolibrary.org/obo/PLANA_0000137": "GOC:pr"
-        },
-        "NIF": {
-          "http://purl.obolibrary.org/obo/PLANA_0000470": "NIF:Subcellular:sao205380252"
-        },
-        "Optic": {
-          "http://purl.obolibrary.org/obo/PLANA_0000459": "Optic:chiasm"
+        "unknown_prefixes": {
+          "BM": {
+            "http://purl.obolibrary.org/obo/PLANA_0000459": "BM:Tel-OCX"
+          },
+          "BSA": {
+            "http://purl.obolibrary.org/obo/PLANA_0000240": "BSA:0000058"
+          },
+          "GAID": {
+            "http://purl.obolibrary.org/obo/PLANA_0000459": "GAID:832",
+            "http://purl.obolibrary.org/obo/PLANA_0000470": "GAID:740"
+          },
+          "GOC": {
+            "http://purl.obolibrary.org/obo/PLANA_0000137": "GOC:pr"
+          },
+          "NIF": {
+            "http://purl.obolibrary.org/obo/PLANA_0000470": "NIF:Subcellular:sao205380252"
+          },
+          "Optic": {
+            "http://purl.obolibrary.org/obo/PLANA_0000459": "Optic:chiasm"
+          }
         }
       }
     }

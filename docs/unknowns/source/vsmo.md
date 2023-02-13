@@ -3,7 +3,7 @@
 ## ``
 
 There are 1 usages of `` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20).
 
 | curie   |   usages | nodes                                                       |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Add`
 
 There are 1 usages of `Add` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Add).
 
 | curie      |   usages | nodes                                                                                                                    |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOC`
 
 There are 2 usages of `GOC` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie            |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -34,7 +34,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `KL`
 
 There are 1 usages of `KL` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KL).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
@@ -44,7 +44,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `LE`
 
 There are 1 usages of `LE` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20LE).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                              |
@@ -54,7 +54,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MGED`
 
 There are 1 usages of `MGED` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MGED).
 
 | curie     |   usages | nodes                                                                                                                    |
@@ -64,7 +64,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PT`
 
 There are 1 usages of `PT` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PT).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
@@ -74,7 +74,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Rodhain`
 
 There are 1 usages of `Rodhain` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Rodhain).
 
 | curie        |   usages | nodes                                                                                                                                                                                                                                                                                                                |
@@ -84,7 +84,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Ryckman_RE`
 
 There are 2 usages of `Ryckman_RE` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Ryckman_RE).
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
@@ -95,7 +95,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Sharma`
 
 There are 1 usages of `Sharma` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Sharma).
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                                                                |
@@ -105,7 +105,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `URI`
 
 There are 13 usages of `URI` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URI).
 
 | curie                                                                                                 |   usages | nodes                                                                                                                                                                                                                                                                                                                |
@@ -127,7 +127,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `XX`
 
 There are 1 usages of `XX` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX).
 
 | curie           |   usages | nodes                                                       |
@@ -137,7 +137,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `wiki`
 
 There are 1 usages of `wiki` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wiki).
 
 | curie                                              |   usages | nodes                                                       |
@@ -147,7 +147,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `URL`
 
 There are 1 usages of `URL` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL).
 
 | curie                                                      |   usages | nodes                                                       |
@@ -157,7 +157,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `url`
 
 There are 1 usages of `url` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url).
 
 | curie                                              |   usages | nodes                                                       |
@@ -167,7 +167,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IRAC`
 
 There are 1 usages of `IRAC` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IRAC).
 
 | curie                |   usages | nodes                                                                                                                                                                                                                                                      |
@@ -177,7 +177,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IUPAC`
 
 There are 2 usages of `IUPAC` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IUPAC).
 
 | curie                                                                                                                         |   usages | nodes                                                         |
@@ -188,7 +188,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `biotop`
 
 There are 1 usages of `biotop` in `vsmo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20biotop).
 
 | curie                      |   usages | nodes                                                       |

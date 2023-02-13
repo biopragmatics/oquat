@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `eccode`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.n\d{1,3})?$`. Of the 6 resources,
+`^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.n\d{1,3})?$`. Of the 5 resources,
 1 variants on the standard prefix were found: ['EC'].
 
 ## `cco`: Cell Cycle Ontology
@@ -180,18 +180,6 @@ Identifiers for this prefix are given incorrectly in `cmpo`. See the [GitHub rep
 |-----------------|----------------|---------------------------------------------------------|
 | `EC:2.7.7.-`    |              1 | [GO:0003720](http://purl.obolibrary.org/obo/GO_0003720) |
 | `EC:3.1.-.-`    |              1 | [GO:0004518](http://purl.obolibrary.org/obo/GO_0004518) |
-
-## `foodon`: The Food Ontology
-
-Identifiers for this prefix are given incorrectly in `foodon`. See the [GitHub repository](https://github.com/FoodOntology/foodon).
-
-| external_xref         |   usages_count | usages                                                            |
-|-----------------------|----------------|-------------------------------------------------------------------|
-| `EC:No 216/2009 DCP`  |              1 | [FOODON:03411081](http://purl.obolibrary.org/obo/FOODON_03411081) |
-| `EC:No 216/2009 MOL`  |              1 | [FOODON:03412112](http://purl.obolibrary.org/obo/FOODON_03412112) |
-| `EC:No 1637/2001 ECH` |              1 | [FOODON:03412115](http://purl.obolibrary.org/obo/FOODON_03412115) |
-| `EC:No 216/2009 SAS`  |              1 | [FOODON:03413856](http://purl.obolibrary.org/obo/FOODON_03413856) |
-| `EC:No 216/2009 RAX`  |              1 | [FOODON:03413974](http://purl.obolibrary.org/obo/FOODON_03413974) |
 
 ## `go`: Gene Ontology
 

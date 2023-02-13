@@ -1,76 +1,128 @@
 {
-  "http://purl.unep.org/sdg/sdgio.owl": {
-    "graph_id": "http://purl.unep.org/sdg/sdgio.owl",
-    "prov_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/ENVO_00000070": [
-          "MA:ma"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00010483": [
-          "MA:ma"
-        ]
-      },
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "Chemistry": {
-          "http://purl.obolibrary.org/obo/PATO_0001546": "Chemistry:http://chemistry.about.com/od/chemistryglossary/a/soliddefinition.htm",
-          "http://purl.obolibrary.org/obo/PATO_0001547": "Chemistry:http://chemistry.about.com/od/chemistryglossary/a/gasdefinition.htm"
+  "created": "2023-02-13T19:57:14.730332",
+  "messages": [
+    "2023-02-13 19:57:14,348 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 46 triple(s) that could not be parsed:",
+    " - <http://purl.unep.org/sdg/SDGIO_00000120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484852.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484835.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484838.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484828.",
+    " - <http://purl.unep.org/sdg/SDGIO_00000120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484857.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484817.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484820.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484841.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484844.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484813.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484825.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484810.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484819.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484837.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484847.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484834.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484842.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484816.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484839.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484824.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484833.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484822.",
+    " - <http://purl.unep.org/sdg/SDGIO_00000120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484850.",
+    " - <http://purl.unep.org/sdg/SDGIO_00000120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484851.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484845.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484814.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484823.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000765> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484818.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484843.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484840.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484829.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484821.",
+    " - <http://purl.unep.org/sdg/SDGIO_00000120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484849.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484812.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484848.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484831.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484826.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484846.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000757> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484815.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484811.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484836.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484827.",
+    " - <http://purl.obolibrary.org/obo/OBI_0000462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484809.",
+    " - <http://purl.unep.org/sdg/SDGIO_00000120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484862.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484832.",
+    " - <http://purl.obolibrary.org/obo/OBI_0001287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484830."
+  ],
+  "results": {
+    "http://purl.unep.org/sdg/sdgio.owl": {
+      "graph_id": "http://purl.unep.org/sdg/sdgio.owl",
+      "prov_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/ENVO_00000070": [
+            "MA:ma"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00010483": [
+            "MA:ma"
+          ]
         },
-        "GOC": {
-          "http://purl.obolibrary.org/obo/GO_0008150": "GOC:isa_complete",
-          "http://purl.obolibrary.org/obo/RO_0002023": "GOC:dos",
-          "http://purl.obolibrary.org/obo/RO_0002024": "GOC:dos",
-          "http://purl.obolibrary.org/obo/RO_0002025": "GOC:dos",
-          "http://purl.obolibrary.org/obo/RO_0002432": "GOC:dos"
-        },
-        "NM": {
-          "http://purl.obolibrary.org/obo/ENVO_00002297": "NM:nm"
-        },
-        "PATOC": {
-          "http://purl.obolibrary.org/obo/PATO_0000001": "PATOC:GVG",
-          "http://purl.obolibrary.org/obo/PATO_0000140": "PATOC:GVG",
-          "http://purl.obolibrary.org/obo/PATO_0000165": "PATOC:GVG",
-          "http://purl.obolibrary.org/obo/PATO_0000308": "PATOC:GVG",
-          "http://purl.obolibrary.org/obo/PATO_0000309": "PATOC:GVG",
-          "http://purl.obolibrary.org/obo/PATO_0001018": "PATOC:GVG",
-          "http://purl.obolibrary.org/obo/PATO_0001241": "PATOC:GVG",
-          "http://purl.obolibrary.org/obo/PATO_0001547": "PATOC:GVG",
-          "http://purl.obolibrary.org/obo/PATO_0001646": "PATOC:nc",
-          "http://purl.obolibrary.org/obo/PATO_0002138": "PATOC:VO",
-          "http://purl.obolibrary.org/obo/PATO_0002198": "PATOC:GVG"
-        },
-        "URL": {
-          "http://purl.obolibrary.org/obo/ENVO_00010483": "URL:http://ontology.buffalo.edu/smith/articles/niches.html"
-        },
-        "WordNet": {
-          "http://purl.obolibrary.org/obo/PATO_0000011": "WordNet:WordNet",
-          "http://purl.obolibrary.org/obo/PATO_0001598": "WordNet:WordNet"
-        },
-        "url": {
-          "http://purl.obolibrary.org/obo/PATO_0001548": "url:http://www.chemistry-dictionary.com/definition/liquid.php"
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "Chemistry": {
+            "http://purl.obolibrary.org/obo/PATO_0001546": "Chemistry:http://chemistry.about.com/od/chemistryglossary/a/soliddefinition.htm",
+            "http://purl.obolibrary.org/obo/PATO_0001547": "Chemistry:http://chemistry.about.com/od/chemistryglossary/a/gasdefinition.htm"
+          },
+          "GOC": {
+            "http://purl.obolibrary.org/obo/GO_0008150": "GOC:isa_complete",
+            "http://purl.obolibrary.org/obo/RO_0002023": "GOC:dos",
+            "http://purl.obolibrary.org/obo/RO_0002024": "GOC:dos",
+            "http://purl.obolibrary.org/obo/RO_0002025": "GOC:dos",
+            "http://purl.obolibrary.org/obo/RO_0002432": "GOC:dos"
+          },
+          "NM": {
+            "http://purl.obolibrary.org/obo/ENVO_00002297": "NM:nm"
+          },
+          "PATOC": {
+            "http://purl.obolibrary.org/obo/PATO_0000001": "PATOC:GVG",
+            "http://purl.obolibrary.org/obo/PATO_0000140": "PATOC:GVG",
+            "http://purl.obolibrary.org/obo/PATO_0000165": "PATOC:GVG",
+            "http://purl.obolibrary.org/obo/PATO_0000308": "PATOC:GVG",
+            "http://purl.obolibrary.org/obo/PATO_0000309": "PATOC:GVG",
+            "http://purl.obolibrary.org/obo/PATO_0001018": "PATOC:GVG",
+            "http://purl.obolibrary.org/obo/PATO_0001241": "PATOC:GVG",
+            "http://purl.obolibrary.org/obo/PATO_0001547": "PATOC:GVG",
+            "http://purl.obolibrary.org/obo/PATO_0001646": "PATOC:nc",
+            "http://purl.obolibrary.org/obo/PATO_0002138": "PATOC:VO",
+            "http://purl.obolibrary.org/obo/PATO_0002198": "PATOC:GVG"
+          },
+          "URL": {
+            "http://purl.obolibrary.org/obo/ENVO_00010483": "URL:http://ontology.buffalo.edu/smith/articles/niches.html"
+          },
+          "WordNet": {
+            "http://purl.obolibrary.org/obo/PATO_0000011": "WordNet:WordNet",
+            "http://purl.obolibrary.org/obo/PATO_0001598": "WordNet:WordNet"
+          },
+          "url": {
+            "http://purl.obolibrary.org/obo/PATO_0001548": "url:http://www.chemistry-dictionary.com/definition/liquid.php"
+          }
         }
-      }
-    },
-    "synonym_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/RO_0009501": [
-          "RO:cjm"
-        ]
       },
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version_iri": "http://purl.unep.org/sdg/releases/2018-08-10/sdgio.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+      "synonym_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/RO_0009501": [
+            "RO:cjm"
+          ]
+        },
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version_iri": "http://purl.unep.org/sdg/releases/2018-08-10/sdgio.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

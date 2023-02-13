@@ -3,7 +3,7 @@
 ## `Moby`
 
 There are 20 usages of `Moby` in `ito`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Moby).
 
 <details>
@@ -37,7 +37,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Moby_namespace`
 
 There are 14 usages of `Moby_namespace` in `ito`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Moby_namespace).
 
 | curie                                     |   usages | nodes                                                                  |
@@ -60,7 +60,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PDBML`
 
 There are 7 usages of `PDBML` in `ito`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PDBML).
 
 | curie                    |   usages | nodes                                                                                                                                          |
@@ -76,7 +76,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WHATIF`
 
 There are 25 usages of `WHATIF` in `ito`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WHATIF).
 
 <details>

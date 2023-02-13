@@ -1,1805 +1,1809 @@
 {
-  "http://purl.obolibrary.org/obo/ncro.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/ncro.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2015-12-10",
-    "version_iri": "http://purl.obolibrary.org/obo/ncro/2015-12-10/ncro-combined.owl",
-    "xref_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/NCRO_0002693": [
-          "miRBase:MIPF0000001"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002694": [
-          "miRBase:MIPF0000002"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002695": [
-          "miRBase:MIPF0000005"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002696": [
-          "miRBase:MIPF0000006"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002697": [
-          "miRBase:MIPF0000007"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002698": [
-          "miRBase:MIPF0000009"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002699": [
-          "miRBase:MIPF0000011"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002700": [
-          "miRBase:MIPF0000013"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002701": [
-          "miRBase:MIPF0000014"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002702": [
-          "miRBase:MIPF0000018"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002703": [
-          "miRBase:MIPF0000019"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002704": [
-          "miRBase:MIPF0000020"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002705": [
-          "miRBase:MIPF0000021"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002706": [
-          "miRBase:MIPF0000022"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002707": [
-          "miRBase:MIPF0000024"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002708": [
-          "miRBase:MIPF0000026"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002709": [
-          "miRBase:MIPF0000027"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002710": [
-          "miRBase:MIPF0000028"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002711": [
-          "miRBase:MIPF0000029"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002712": [
-          "miRBase:MIPF0000031"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002713": [
-          "miRBase:MIPF0000033"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002714": [
-          "miRBase:MIPF0000034"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002715": [
-          "miRBase:MIPF0000036"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002716": [
-          "miRBase:MIPF0000038"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002717": [
-          "miRBase:MIPF0000039"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002718": [
-          "miRBase:MIPF0000040"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002719": [
-          "miRBase:MIPF0000041"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002720": [
-          "miRBase:MIPF0000042"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002721": [
-          "miRBase:MIPF0000043"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002722": [
-          "miRBase:MIPF0000044"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002723": [
-          "miRBase:MIPF0000046"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002724": [
-          "miRBase:MIPF0000048"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002725": [
-          "miRBase:MIPF0000050"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002726": [
-          "miRBase:MIPF0000051"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002727": [
-          "miRBase:MIPF0000053"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002728": [
-          "miRBase:MIPF0000054"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002729": [
-          "miRBase:MIPF0000055"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002730": [
-          "miRBase:MIPF0000056"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002731": [
-          "miRBase:MIPF0000057"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002732": [
-          "miRBase:MIPF0000058"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002733": [
-          "miRBase:MIPF0000059"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002734": [
-          "miRBase:MIPF0000060"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002735": [
-          "miRBase:MIPF0000061"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002736": [
-          "miRBase:MIPF0000062"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002737": [
-          "miRBase:MIPF0000063"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002738": [
-          "miRBase:MIPF0000064"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002739": [
-          "miRBase:MIPF0000065"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002740": [
-          "miRBase:MIPF0000066"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002741": [
-          "miRBase:MIPF0000067"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002742": [
-          "miRBase:MIPF0000068"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002743": [
-          "miRBase:MIPF0000069"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002744": [
-          "miRBase:MIPF0000070"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002745": [
-          "miRBase:MIPF0000071"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002746": [
-          "miRBase:MIPF0000072"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002747": [
-          "miRBase:MIPF0000073"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002748": [
-          "miRBase:MIPF0000074"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002749": [
-          "miRBase:MIPF0000075"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002750": [
-          "miRBase:MIPF0000076"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002751": [
-          "miRBase:MIPF0000077"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002752": [
-          "miRBase:MIPF0000078"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002753": [
-          "miRBase:MIPF0000079"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002754": [
-          "miRBase:MIPF0000080"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002755": [
-          "miRBase:MIPF0000082"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002756": [
-          "miRBase:MIPF0000084"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002757": [
-          "miRBase:MIPF0000085"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002758": [
-          "miRBase:MIPF0000086"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002759": [
-          "miRBase:MIPF0000088"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002760": [
-          "miRBase:MIPF0000090"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002761": [
-          "miRBase:MIPF0000091"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002762": [
-          "miRBase:MIPF0000093"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002763": [
-          "miRBase:MIPF0000094"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002764": [
-          "miRBase:MIPF0000095"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002765": [
-          "miRBase:MIPF0000097"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002766": [
-          "miRBase:MIPF0000098"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002767": [
-          "miRBase:MIPF0000099"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002768": [
-          "miRBase:MIPF0000103"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002769": [
-          "miRBase:MIPF0000105"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002770": [
-          "miRBase:MIPF0000106"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002771": [
-          "miRBase:MIPF0000108"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002772": [
-          "miRBase:MIPF0000109"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002773": [
-          "miRBase:MIPF0000110"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002774": [
-          "miRBase:MIPF0000111"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002775": [
-          "miRBase:MIPF0000112"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002776": [
-          "miRBase:MIPF0000113"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002777": [
-          "miRBase:MIPF0000114"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002778": [
-          "miRBase:MIPF0000115"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002779": [
-          "miRBase:MIPF0000116"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002780": [
-          "miRBase:MIPF0000117"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002781": [
-          "miRBase:MIPF0000121"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002782": [
-          "miRBase:MIPF0000123"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002783": [
-          "miRBase:MIPF0000126"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002784": [
-          "miRBase:MIPF0000128"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002785": [
-          "miRBase:MIPF0000129"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002786": [
-          "miRBase:MIPF0000130"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002787": [
-          "miRBase:MIPF0000133"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002788": [
-          "miRBase:MIPF0000137"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002789": [
-          "miRBase:MIPF0000138"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002790": [
-          "miRBase:MIPF0000139"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002791": [
-          "miRBase:MIPF0000142"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002792": [
-          "miRBase:MIPF0000143"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002793": [
-          "miRBase:MIPF0000147"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002794": [
-          "miRBase:MIPF0000148"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002795": [
-          "miRBase:MIPF0000149"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002796": [
-          "miRBase:MIPF0000157"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002797": [
-          "miRBase:MIPF0000159"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002798": [
-          "miRBase:MIPF0000162"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002799": [
-          "miRBase:MIPF0000163"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002800": [
-          "miRBase:MIPF0000164"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002801": [
-          "miRBase:MIPF0000165"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002802": [
-          "miRBase:MIPF0000167"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002803": [
-          "miRBase:MIPF0000168"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002804": [
-          "miRBase:MIPF0000172"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002805": [
-          "miRBase:MIPF0000173"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002806": [
-          "miRBase:MIPF0000174"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002807": [
-          "miRBase:MIPF0000177"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002808": [
-          "miRBase:MIPF0000178"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002809": [
-          "miRBase:MIPF0000180"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002810": [
-          "miRBase:MIPF0000183"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002811": [
-          "miRBase:MIPF0000185"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002812": [
-          "miRBase:MIPF0000186"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002813": [
-          "miRBase:MIPF0000188"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002814": [
-          "miRBase:MIPF0000189"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002815": [
-          "miRBase:MIPF0000190"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002816": [
-          "miRBase:MIPF0000191"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002817": [
-          "miRBase:MIPF0000192"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002818": [
-          "miRBase:MIPF0000193"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002819": [
-          "miRBase:MIPF0000194"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002820": [
-          "miRBase:MIPF0000195"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002821": [
-          "miRBase:MIPF0000196"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002822": [
-          "miRBase:MIPF0000197"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002823": [
-          "miRBase:MIPF0000199"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002824": [
-          "miRBase:MIPF0000200"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002825": [
-          "miRBase:MIPF0000201"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002826": [
-          "miRBase:MIPF0000202"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002827": [
-          "miRBase:MIPF0000203"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002828": [
-          "miRBase:MIPF0000204"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002829": [
-          "miRBase:MIPF0000206"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002830": [
-          "miRBase:MIPF0000209"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002831": [
-          "miRBase:MIPF0000211"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002832": [
-          "miRBase:MIPF0000213"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002833": [
-          "miRBase:MIPF0000217"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002834": [
-          "miRBase:MIPF0000219"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002835": [
-          "miRBase:MIPF0000220"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002836": [
-          "miRBase:MIPF0000229"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002837": [
-          "miRBase:MIPF0000230"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002838": [
-          "miRBase:MIPF0000231"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002839": [
-          "miRBase:MIPF0000242"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002840": [
-          "miRBase:MIPF0000274"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002841": [
-          "miRBase:MIPF0000287"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002842": [
-          "miRBase:MIPF0000288"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002843": [
-          "miRBase:MIPF0000289"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002844": [
-          "miRBase:MIPF0000300"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002845": [
-          "miRBase:MIPF0000316"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002846": [
-          "miRBase:MIPF0000317"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002847": [
-          "miRBase:MIPF0000318"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002848": [
-          "miRBase:MIPF0000319"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002849": [
-          "miRBase:MIPF0000329"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002850": [
-          "miRBase:MIPF0000333"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002851": [
-          "miRBase:MIPF0000334"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002852": [
-          "miRBase:MIPF0000340"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002853": [
-          "miRBase:MIPF0000342"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002854": [
-          "miRBase:MIPF0000353"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002855": [
-          "miRBase:MIPF0000355"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002856": [
-          "miRBase:MIPF0000357"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002857": [
-          "miRBase:MIPF0000358"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002858": [
-          "miRBase:MIPF0000360"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002859": [
-          "miRBase:MIPF0000365"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002860": [
-          "miRBase:MIPF0000386"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002861": [
-          "miRBase:MIPF0000387"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002862": [
-          "miRBase:MIPF0000390"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002863": [
-          "miRBase:MIPF0000392"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002864": [
-          "miRBase:MIPF0000393"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002865": [
-          "miRBase:MIPF0000395"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002866": [
-          "miRBase:MIPF0000397"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002867": [
-          "miRBase:MIPF0000401"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002868": [
-          "miRBase:MIPF0000404"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002869": [
-          "miRBase:MIPF0000408"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002870": [
-          "miRBase:MIPF0000409"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002871": [
-          "miRBase:MIPF0000417"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002872": [
-          "miRBase:MIPF0000418"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002873": [
-          "miRBase:MIPF0000419"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002874": [
-          "miRBase:MIPF0000420"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002875": [
-          "miRBase:MIPF0000424"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002876": [
-          "miRBase:MIPF0000430"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002877": [
-          "miRBase:MIPF0000431"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002878": [
-          "miRBase:MIPF0000435"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002879": [
-          "miRBase:MIPF0000436"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002880": [
-          "miRBase:MIPF0000437"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002881": [
-          "miRBase:MIPF0000440"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002882": [
-          "miRBase:MIPF0000444"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002883": [
-          "miRBase:MIPF0000445"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002884": [
-          "miRBase:MIPF0000454"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002885": [
-          "miRBase:MIPF0000456"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002886": [
-          "miRBase:MIPF0000457"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002887": [
-          "miRBase:MIPF0000462"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002888": [
-          "miRBase:MIPF0000463"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002889": [
-          "miRBase:MIPF0000464"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002890": [
-          "miRBase:MIPF0000465"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002891": [
-          "miRBase:MIPF0000466"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002892": [
-          "miRBase:MIPF0000467"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002893": [
-          "miRBase:MIPF0000468"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002894": [
-          "miRBase:MIPF0000469"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002895": [
-          "miRBase:MIPF0000470"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002896": [
-          "miRBase:MIPF0000471"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002897": [
-          "miRBase:MIPF0000474"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002898": [
-          "miRBase:MIPF0000475"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002899": [
-          "miRBase:MIPF0000476"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002900": [
-          "miRBase:MIPF0000477"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002901": [
-          "miRBase:MIPF0000478"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002902": [
-          "miRBase:MIPF0000479"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002903": [
-          "miRBase:MIPF0000480"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002904": [
-          "miRBase:MIPF0000482"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002905": [
-          "miRBase:MIPF0000483"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002906": [
-          "miRBase:MIPF0000484"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002907": [
-          "miRBase:MIPF0000486"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002908": [
-          "miRBase:MIPF0000487"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002909": [
-          "miRBase:MIPF0000488"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002910": [
-          "miRBase:MIPF0000490"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002911": [
-          "miRBase:MIPF0000492"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002912": [
-          "miRBase:MIPF0000493"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002913": [
-          "miRBase:MIPF0000494"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002914": [
-          "miRBase:MIPF0000495"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002915": [
-          "miRBase:MIPF0000496"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002916": [
-          "miRBase:MIPF0000498"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002917": [
-          "miRBase:MIPF0000499"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002918": [
-          "miRBase:MIPF0000500"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002919": [
-          "miRBase:MIPF0000501"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002920": [
-          "miRBase:MIPF0000502"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002921": [
-          "miRBase:MIPF0000503"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002922": [
-          "miRBase:MIPF0000505"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002923": [
-          "miRBase:MIPF0000506"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002924": [
-          "miRBase:MIPF0000507"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002925": [
-          "miRBase:MIPF0000508"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002926": [
-          "miRBase:MIPF0000511"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002927": [
-          "miRBase:MIPF0000512"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002928": [
-          "miRBase:MIPF0000513"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002929": [
-          "miRBase:MIPF0000514"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002930": [
-          "miRBase:MIPF0000515"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002931": [
-          "miRBase:MIPF0000516"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002932": [
-          "miRBase:MIPF0000517"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002933": [
-          "miRBase:MIPF0000519"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002934": [
-          "miRBase:MIPF0000520"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002935": [
-          "miRBase:MIPF0000522"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002936": [
-          "miRBase:MIPF0000523"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002937": [
-          "miRBase:MIPF0000524"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002938": [
-          "miRBase:MIPF0000527"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002939": [
-          "miRBase:MIPF0000528"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002940": [
-          "miRBase:MIPF0000529"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002941": [
-          "miRBase:MIPF0000530"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002942": [
-          "miRBase:MIPF0000531"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002943": [
-          "miRBase:MIPF0000532"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002944": [
-          "miRBase:MIPF0000533"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002945": [
-          "miRBase:MIPF0000534"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002946": [
-          "miRBase:MIPF0000535"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002947": [
-          "miRBase:MIPF0000536"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002948": [
-          "miRBase:MIPF0000537"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002949": [
-          "miRBase:MIPF0000538"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002950": [
-          "miRBase:MIPF0000539"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002951": [
-          "miRBase:MIPF0000540"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002952": [
-          "miRBase:MIPF0000541"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002953": [
-          "miRBase:MIPF0000542"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002954": [
-          "miRBase:MIPF0000545"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002955": [
-          "miRBase:MIPF0000546"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002956": [
-          "miRBase:MIPF0000547"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002957": [
-          "miRBase:MIPF0000548"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002958": [
-          "miRBase:MIPF0000549"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002959": [
-          "miRBase:MIPF0000550"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002960": [
-          "miRBase:MIPF0000551"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002961": [
-          "miRBase:MIPF0000552"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002962": [
-          "miRBase:MIPF0000553"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002963": [
-          "miRBase:MIPF0000554"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002964": [
-          "miRBase:MIPF0000555"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002965": [
-          "miRBase:MIPF0000556"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002966": [
-          "miRBase:MIPF0000557"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002967": [
-          "miRBase:MIPF0000558"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002968": [
-          "miRBase:MIPF0000559"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002969": [
-          "miRBase:MIPF0000560"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002970": [
-          "miRBase:MIPF0000561"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002971": [
-          "miRBase:MIPF0000562"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002972": [
-          "miRBase:MIPF0000563"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002973": [
-          "miRBase:MIPF0000569"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002974": [
-          "miRBase:MIPF0000576"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002975": [
-          "miRBase:MIPF0000578"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002976": [
-          "miRBase:MIPF0000579"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002977": [
-          "miRBase:MIPF0000583"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002978": [
-          "miRBase:MIPF0000584"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002979": [
-          "miRBase:MIPF0000585"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002980": [
-          "miRBase:MIPF0000586"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002981": [
-          "miRBase:MIPF0000587"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002982": [
-          "miRBase:MIPF0000589"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002983": [
-          "miRBase:MIPF0000590"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002984": [
-          "miRBase:MIPF0000591"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002985": [
-          "miRBase:MIPF0000592"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002986": [
-          "miRBase:MIPF0000594"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002987": [
-          "miRBase:MIPF0000595"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002988": [
-          "miRBase:MIPF0000596"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002989": [
-          "miRBase:MIPF0000597"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002990": [
-          "miRBase:MIPF0000598"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002991": [
-          "miRBase:MIPF0000599"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002992": [
-          "miRBase:MIPF0000600"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002993": [
-          "miRBase:MIPF0000601"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002994": [
-          "miRBase:MIPF0000603"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002995": [
-          "miRBase:MIPF0000604"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002996": [
-          "miRBase:MIPF0000605"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002997": [
-          "miRBase:MIPF0000606"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002998": [
-          "miRBase:MIPF0000608"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0002999": [
-          "miRBase:MIPF0000609"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003000": [
-          "miRBase:MIPF0000610"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003001": [
-          "miRBase:MIPF0000611"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003002": [
-          "miRBase:MIPF0000612"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003003": [
-          "miRBase:MIPF0000613"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003004": [
-          "miRBase:MIPF0000614"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003005": [
-          "miRBase:MIPF0000615"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003006": [
-          "miRBase:MIPF0000617"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003007": [
-          "miRBase:MIPF0000619"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003008": [
-          "miRBase:MIPF0000620"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003009": [
-          "miRBase:MIPF0000621"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003010": [
-          "miRBase:MIPF0000622"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003011": [
-          "miRBase:MIPF0000623"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003012": [
-          "miRBase:MIPF0000624"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003013": [
-          "miRBase:MIPF0000625"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003014": [
-          "miRBase:MIPF0000626"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003015": [
-          "miRBase:MIPF0000627"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003016": [
-          "miRBase:MIPF0000628"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003017": [
-          "miRBase:MIPF0000631"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003018": [
-          "miRBase:MIPF0000632"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003019": [
-          "miRBase:MIPF0000633"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003020": [
-          "miRBase:MIPF0000634"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003021": [
-          "miRBase:MIPF0000640"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003022": [
-          "miRBase:MIPF0000641"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003023": [
-          "miRBase:MIPF0000643"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003024": [
-          "miRBase:MIPF0000645"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003025": [
-          "miRBase:MIPF0000646"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003026": [
-          "miRBase:MIPF0000647"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003027": [
-          "miRBase:MIPF0000649"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003028": [
-          "miRBase:MIPF0000651"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003029": [
-          "miRBase:MIPF0000652"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003030": [
-          "miRBase:MIPF0000653"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003031": [
-          "miRBase:MIPF0000656"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003032": [
-          "miRBase:MIPF0000657"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003033": [
-          "miRBase:MIPF0000658"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003034": [
-          "miRBase:MIPF0000660"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003035": [
-          "miRBase:MIPF0000661"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003036": [
-          "miRBase:MIPF0000662"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003037": [
-          "miRBase:MIPF0000663"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003038": [
-          "miRBase:MIPF0000665"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003039": [
-          "miRBase:MIPF0000667"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003040": [
-          "miRBase:MIPF0000668"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003041": [
-          "miRBase:MIPF0000669"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003042": [
-          "miRBase:MIPF0000670"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003043": [
-          "miRBase:MIPF0000671"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003044": [
-          "miRBase:MIPF0000672"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003045": [
-          "miRBase:MIPF0000673"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003046": [
-          "miRBase:MIPF0000674"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003047": [
-          "miRBase:MIPF0000675"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003048": [
-          "miRBase:MIPF0000676"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003049": [
-          "miRBase:MIPF0000677"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003050": [
-          "miRBase:MIPF0000679"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003051": [
-          "miRBase:MIPF0000681"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003052": [
-          "miRBase:MIPF0000682"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003053": [
-          "miRBase:MIPF0000684"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003054": [
-          "miRBase:MIPF0000687"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003055": [
-          "miRBase:MIPF0000688"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003056": [
-          "miRBase:MIPF0000689"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003057": [
-          "miRBase:MIPF0000690"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003058": [
-          "miRBase:MIPF0000691"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003059": [
-          "miRBase:MIPF0000695"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003060": [
-          "miRBase:MIPF0000696"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003061": [
-          "miRBase:MIPF0000706"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003062": [
-          "miRBase:MIPF0000707"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003063": [
-          "miRBase:MIPF0000709"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003064": [
-          "miRBase:MIPF0000714"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003065": [
-          "miRBase:MIPF0000721"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003066": [
-          "miRBase:MIPF0000725"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003067": [
-          "miRBase:MIPF0000727"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003068": [
-          "miRBase:MIPF0000734"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003069": [
-          "miRBase:MIPF0000742"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003070": [
-          "miRBase:MIPF0000748"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003071": [
-          "miRBase:MIPF0000757"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003072": [
-          "miRBase:MIPF0000767"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003073": [
-          "miRBase:MIPF0000768"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003074": [
-          "miRBase:MIPF0000777"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003075": [
-          "miRBase:MIPF0000780"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003076": [
-          "miRBase:MIPF0000789"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003077": [
-          "miRBase:MIPF0000798"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003078": [
-          "miRBase:MIPF0000802"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003079": [
-          "miRBase:MIPF0000808"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003080": [
-          "miRBase:MIPF0000845"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003081": [
-          "miRBase:MIPF0000846"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003082": [
-          "miRBase:MIPF0000877"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003083": [
-          "miRBase:MIPF0000891"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003084": [
-          "miRBase:MIPF0000894"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003085": [
-          "miRBase:MIPF0000900"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003086": [
-          "miRBase:MIPF0000903"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003087": [
-          "miRBase:MIPF0000917"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003088": [
-          "miRBase:MIPF0000919"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003089": [
-          "miRBase:MIPF0000924"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003090": [
-          "miRBase:MIPF0000938"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003091": [
-          "miRBase:MIPF0000939"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003092": [
-          "miRBase:MIPF0000941"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003093": [
-          "miRBase:MIPF0000946"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003094": [
-          "miRBase:MIPF0000963"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003095": [
-          "miRBase:MIPF0000965"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003096": [
-          "miRBase:MIPF0000968"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003097": [
-          "miRBase:MIPF0000971"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003098": [
-          "miRBase:MIPF0000972"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003099": [
-          "miRBase:MIPF0000973"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003100": [
-          "miRBase:MIPF0000979"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003101": [
-          "miRBase:MIPF0000982"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003102": [
-          "miRBase:MIPF0000984"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003103": [
-          "miRBase:MIPF0000987"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003104": [
-          "miRBase:MIPF0000998"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003105": [
-          "miRBase:MIPF0001002"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003106": [
-          "miRBase:MIPF0001015"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003107": [
-          "miRBase:MIPF0001020"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003108": [
-          "miRBase:MIPF0001021"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003109": [
-          "miRBase:MIPF0001025"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003110": [
-          "miRBase:MIPF0001026"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003111": [
-          "miRBase:MIPF0001028"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003112": [
-          "miRBase:MIPF0001033"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003113": [
-          "miRBase:MIPF0001036"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003114": [
-          "miRBase:MIPF0001037"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003115": [
-          "miRBase:MIPF0001040"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003116": [
-          "miRBase:MIPF0001064"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003117": [
-          "miRBase:MIPF0001065"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003118": [
-          "miRBase:MIPF0001069"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003119": [
-          "miRBase:MIPF0001102"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003120": [
-          "miRBase:MIPF0001103"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003121": [
-          "miRBase:MIPF0001105"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003122": [
-          "miRBase:MIPF0001118"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003123": [
-          "miRBase:MIPF0001134"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003124": [
-          "miRBase:MIPF0001144"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003125": [
-          "miRBase:MIPF0001148"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003126": [
-          "miRBase:MIPF0001169"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003127": [
-          "miRBase:MIPF0001179"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003128": [
-          "miRBase:MIPF0001206"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003129": [
-          "miRBase:MIPF0001207"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003130": [
-          "miRBase:MIPF0001210"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003131": [
-          "miRBase:MIPF0001216"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003132": [
-          "miRBase:MIPF0001219"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003133": [
-          "miRBase:MIPF0001220"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003134": [
-          "miRBase:MIPF0001228"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003135": [
-          "miRBase:MIPF0001234"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003136": [
-          "miRBase:MIPF0001236"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003137": [
-          "miRBase:MIPF0001238"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003138": [
-          "miRBase:MIPF0001242"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003139": [
-          "miRBase:MIPF0001245"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003140": [
-          "miRBase:MIPF0001250"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003141": [
-          "miRBase:MIPF0001251"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003142": [
-          "miRBase:MIPF0001256"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003143": [
-          "miRBase:MIPF0001258"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003144": [
-          "miRBase:MIPF0001261"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003145": [
-          "miRBase:MIPF0001263"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003146": [
-          "miRBase:MIPF0001271"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003147": [
-          "miRBase:MIPF0001272"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003148": [
-          "miRBase:MIPF0001274"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003149": [
-          "miRBase:MIPF0001309"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003150": [
-          "miRBase:MIPF0001310"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003151": [
-          "miRBase:MIPF0001319"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003152": [
-          "miRBase:MIPF0001325"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003153": [
-          "miRBase:MIPF0001330"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003154": [
-          "miRBase:MIPF0001338"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003155": [
-          "miRBase:MIPF0001340"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003156": [
-          "miRBase:MIPF0001343"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003157": [
-          "miRBase:MIPF0001351"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003158": [
-          "miRBase:MIPF0001356"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003159": [
-          "miRBase:MIPF0001381"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003160": [
-          "miRBase:MIPF0001382"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003161": [
-          "miRBase:MIPF0001383"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003162": [
-          "miRBase:MIPF0001384"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003163": [
-          "miRBase:MIPF0001385"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003164": [
-          "miRBase:MIPF0001387"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003165": [
-          "miRBase:MIPF0001390"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003166": [
-          "miRBase:MIPF0001394"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003167": [
-          "miRBase:MIPF0001397"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003168": [
-          "miRBase:MIPF0001399"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003169": [
-          "miRBase:MIPF0001400"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003170": [
-          "miRBase:MIPF0001401"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003171": [
-          "miRBase:MIPF0001402"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003172": [
-          "miRBase:MIPF0001405"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003173": [
-          "miRBase:MIPF0001411"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003174": [
-          "miRBase:MIPF0001412"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003175": [
-          "miRBase:MIPF0001413"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003176": [
-          "miRBase:MIPF0001415"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003177": [
-          "miRBase:MIPF0001417"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003178": [
-          "miRBase:MIPF0001423"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003179": [
-          "miRBase:MIPF0001427"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003180": [
-          "miRBase:MIPF0001428"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003181": [
-          "miRBase:MIPF0001429"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003182": [
-          "miRBase:MIPF0001438"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003183": [
-          "miRBase:MIPF0001439"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003184": [
-          "miRBase:MIPF0001440"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003185": [
-          "miRBase:MIPF0001441"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003186": [
-          "miRBase:MIPF0001442"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003187": [
-          "miRBase:MIPF0001445"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003188": [
-          "miRBase:MIPF0001451"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003189": [
-          "miRBase:MIPF0001458"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003190": [
-          "miRBase:MIPF0001460"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003191": [
-          "miRBase:MIPF0001462"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003192": [
-          "miRBase:MIPF0001463"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003193": [
-          "miRBase:MIPF0001464"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003194": [
-          "miRBase:MIPF0001467"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003195": [
-          "miRBase:MIPF0001474"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003196": [
-          "miRBase:MIPF0001476"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003197": [
-          "miRBase:MIPF0001477"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003198": [
-          "miRBase:MIPF0001481"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003199": [
-          "miRBase:MIPF0001488"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003200": [
-          "miRBase:MIPF0001500"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003201": [
-          "miRBase:MIPF0001506"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003202": [
-          "miRBase:MIPF0001507"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003203": [
-          "miRBase:MIPF0001508"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003204": [
-          "miRBase:MIPF0001509"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003205": [
-          "miRBase:MIPF0001510"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003206": [
-          "miRBase:MIPF0001511"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003207": [
-          "miRBase:MIPF0001512"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003208": [
-          "miRBase:MIPF0001518"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003209": [
-          "miRBase:MIPF0001519"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003210": [
-          "miRBase:MIPF0001520"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003211": [
-          "miRBase:MIPF0001521"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003212": [
-          "miRBase:MIPF0001522"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003213": [
-          "miRBase:MIPF0001525"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003214": [
-          "miRBase:MIPF0001527"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003215": [
-          "miRBase:MIPF0001529"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003216": [
-          "miRBase:MIPF0001530"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003217": [
-          "miRBase:MIPF0001540"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003218": [
-          "miRBase:MIPF0001545"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003219": [
-          "miRBase:MIPF0001546"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003220": [
-          "miRBase:MIPF0001548"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003221": [
-          "miRBase:MIPF0001549"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003222": [
-          "miRBase:MIPF0001551"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003223": [
-          "miRBase:MIPF0001552"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003224": [
-          "miRBase:MIPF0001555"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003225": [
-          "miRBase:MIPF0001566"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003226": [
-          "miRBase:MIPF0001569"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003227": [
-          "miRBase:MIPF0001573"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003228": [
-          "miRBase:MIPF0001574"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003229": [
-          "miRBase:MIPF0001575"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003230": [
-          "miRBase:MIPF0001578"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003231": [
-          "miRBase:MIPF0001582"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003232": [
-          "miRBase:MIPF0001584"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003233": [
-          "miRBase:MIPF0001586"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003234": [
-          "miRBase:MIPF0001587"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003235": [
-          "miRBase:MIPF0001597"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003236": [
-          "miRBase:MIPF0001599"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003237": [
-          "miRBase:MIPF0001601"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003238": [
-          "miRBase:MIPF0001614"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003239": [
-          "miRBase:MIPF0001615"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003240": [
-          "miRBase:MIPF0001618"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003241": [
-          "miRBase:MIPF0001623"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003242": [
-          "miRBase:MIPF0001626"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003243": [
-          "miRBase:MIPF0001630"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003244": [
-          "miRBase:MIPF0001633"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003245": [
-          "miRBase:MIPF0001635"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003246": [
-          "miRBase:MIPF0001637"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003247": [
-          "miRBase:MIPF0001639"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003248": [
-          "miRBase:MIPF0001640"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003249": [
-          "miRBase:MIPF0001659"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003250": [
-          "miRBase:MIPF0001672"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003251": [
-          "miRBase:MIPF0001692"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003252": [
-          "miRBase:MIPF0001693"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003253": [
-          "miRBase:MIPF0001698"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003254": [
-          "miRBase:MIPF0001708"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003255": [
-          "miRBase:MIPF0001710"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003256": [
-          "miRBase:MIPF0001726"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003257": [
-          "miRBase:MIPF0001747"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003258": [
-          "miRBase:MIPF0001748"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003259": [
-          "miRBase:MIPF0001759"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003260": [
-          "miRBase:MIPF0001764"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003261": [
-          "miRBase:MIPF0001787"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003262": [
-          "miRBase:MIPF0001799"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003263": [
-          "miRBase:MIPF0001805"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003264": [
-          "miRBase:MIPF0001811"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003265": [
-          "miRBase:MIPF0001821"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003266": [
-          "miRBase:MIPF0001823"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003267": [
-          "miRBase:MIPF0001825"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003268": [
-          "miRBase:MIPF0001826"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003269": [
-          "miRBase:MIPF0001848"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003270": [
-          "miRBase:MIPF0001855"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003271": [
-          "miRBase:MIPF0001920"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003272": [
-          "miRBase:MIPF0001928"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003273": [
-          "miRBase:MIPF0001935"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003274": [
-          "miRBase:MIPF0001937"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003275": [
-          "miRBase:MIPF0001984"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003276": [
-          "miRBase:MIPF0001988"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003277": [
-          "miRBase:MIPF0002009"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003278": [
-          "miRBase:MIPF0002050"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003279": [
-          "miRBase:MIPF0002051"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003280": [
-          "miRBase:MIPF0002103"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003281": [
-          "miRBase:MIPF0002104"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003282": [
-          "miRBase:MIMAT0000423"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003283": [
-          "miRBase:MIMAT0004592"
-        ],
-        "http://purl.obolibrary.org/obo/NCRO_0003284": [
-          "miRBase:MIMAT0004603"
-        ]
+  "created": "2023-02-13T19:05:17.576349",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/ncro.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/ncro.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       },
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2015-12-10",
+      "version_iri": "http://purl.obolibrary.org/obo/ncro/2015-12-10/ncro-combined.owl",
+      "xref_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/NCRO_0002693": [
+            "miRBase:MIPF0000001"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002694": [
+            "miRBase:MIPF0000002"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002695": [
+            "miRBase:MIPF0000005"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002696": [
+            "miRBase:MIPF0000006"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002697": [
+            "miRBase:MIPF0000007"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002698": [
+            "miRBase:MIPF0000009"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002699": [
+            "miRBase:MIPF0000011"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002700": [
+            "miRBase:MIPF0000013"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002701": [
+            "miRBase:MIPF0000014"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002702": [
+            "miRBase:MIPF0000018"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002703": [
+            "miRBase:MIPF0000019"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002704": [
+            "miRBase:MIPF0000020"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002705": [
+            "miRBase:MIPF0000021"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002706": [
+            "miRBase:MIPF0000022"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002707": [
+            "miRBase:MIPF0000024"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002708": [
+            "miRBase:MIPF0000026"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002709": [
+            "miRBase:MIPF0000027"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002710": [
+            "miRBase:MIPF0000028"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002711": [
+            "miRBase:MIPF0000029"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002712": [
+            "miRBase:MIPF0000031"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002713": [
+            "miRBase:MIPF0000033"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002714": [
+            "miRBase:MIPF0000034"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002715": [
+            "miRBase:MIPF0000036"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002716": [
+            "miRBase:MIPF0000038"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002717": [
+            "miRBase:MIPF0000039"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002718": [
+            "miRBase:MIPF0000040"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002719": [
+            "miRBase:MIPF0000041"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002720": [
+            "miRBase:MIPF0000042"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002721": [
+            "miRBase:MIPF0000043"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002722": [
+            "miRBase:MIPF0000044"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002723": [
+            "miRBase:MIPF0000046"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002724": [
+            "miRBase:MIPF0000048"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002725": [
+            "miRBase:MIPF0000050"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002726": [
+            "miRBase:MIPF0000051"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002727": [
+            "miRBase:MIPF0000053"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002728": [
+            "miRBase:MIPF0000054"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002729": [
+            "miRBase:MIPF0000055"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002730": [
+            "miRBase:MIPF0000056"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002731": [
+            "miRBase:MIPF0000057"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002732": [
+            "miRBase:MIPF0000058"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002733": [
+            "miRBase:MIPF0000059"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002734": [
+            "miRBase:MIPF0000060"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002735": [
+            "miRBase:MIPF0000061"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002736": [
+            "miRBase:MIPF0000062"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002737": [
+            "miRBase:MIPF0000063"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002738": [
+            "miRBase:MIPF0000064"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002739": [
+            "miRBase:MIPF0000065"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002740": [
+            "miRBase:MIPF0000066"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002741": [
+            "miRBase:MIPF0000067"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002742": [
+            "miRBase:MIPF0000068"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002743": [
+            "miRBase:MIPF0000069"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002744": [
+            "miRBase:MIPF0000070"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002745": [
+            "miRBase:MIPF0000071"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002746": [
+            "miRBase:MIPF0000072"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002747": [
+            "miRBase:MIPF0000073"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002748": [
+            "miRBase:MIPF0000074"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002749": [
+            "miRBase:MIPF0000075"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002750": [
+            "miRBase:MIPF0000076"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002751": [
+            "miRBase:MIPF0000077"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002752": [
+            "miRBase:MIPF0000078"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002753": [
+            "miRBase:MIPF0000079"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002754": [
+            "miRBase:MIPF0000080"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002755": [
+            "miRBase:MIPF0000082"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002756": [
+            "miRBase:MIPF0000084"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002757": [
+            "miRBase:MIPF0000085"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002758": [
+            "miRBase:MIPF0000086"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002759": [
+            "miRBase:MIPF0000088"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002760": [
+            "miRBase:MIPF0000090"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002761": [
+            "miRBase:MIPF0000091"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002762": [
+            "miRBase:MIPF0000093"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002763": [
+            "miRBase:MIPF0000094"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002764": [
+            "miRBase:MIPF0000095"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002765": [
+            "miRBase:MIPF0000097"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002766": [
+            "miRBase:MIPF0000098"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002767": [
+            "miRBase:MIPF0000099"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002768": [
+            "miRBase:MIPF0000103"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002769": [
+            "miRBase:MIPF0000105"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002770": [
+            "miRBase:MIPF0000106"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002771": [
+            "miRBase:MIPF0000108"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002772": [
+            "miRBase:MIPF0000109"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002773": [
+            "miRBase:MIPF0000110"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002774": [
+            "miRBase:MIPF0000111"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002775": [
+            "miRBase:MIPF0000112"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002776": [
+            "miRBase:MIPF0000113"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002777": [
+            "miRBase:MIPF0000114"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002778": [
+            "miRBase:MIPF0000115"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002779": [
+            "miRBase:MIPF0000116"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002780": [
+            "miRBase:MIPF0000117"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002781": [
+            "miRBase:MIPF0000121"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002782": [
+            "miRBase:MIPF0000123"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002783": [
+            "miRBase:MIPF0000126"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002784": [
+            "miRBase:MIPF0000128"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002785": [
+            "miRBase:MIPF0000129"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002786": [
+            "miRBase:MIPF0000130"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002787": [
+            "miRBase:MIPF0000133"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002788": [
+            "miRBase:MIPF0000137"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002789": [
+            "miRBase:MIPF0000138"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002790": [
+            "miRBase:MIPF0000139"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002791": [
+            "miRBase:MIPF0000142"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002792": [
+            "miRBase:MIPF0000143"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002793": [
+            "miRBase:MIPF0000147"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002794": [
+            "miRBase:MIPF0000148"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002795": [
+            "miRBase:MIPF0000149"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002796": [
+            "miRBase:MIPF0000157"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002797": [
+            "miRBase:MIPF0000159"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002798": [
+            "miRBase:MIPF0000162"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002799": [
+            "miRBase:MIPF0000163"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002800": [
+            "miRBase:MIPF0000164"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002801": [
+            "miRBase:MIPF0000165"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002802": [
+            "miRBase:MIPF0000167"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002803": [
+            "miRBase:MIPF0000168"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002804": [
+            "miRBase:MIPF0000172"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002805": [
+            "miRBase:MIPF0000173"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002806": [
+            "miRBase:MIPF0000174"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002807": [
+            "miRBase:MIPF0000177"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002808": [
+            "miRBase:MIPF0000178"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002809": [
+            "miRBase:MIPF0000180"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002810": [
+            "miRBase:MIPF0000183"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002811": [
+            "miRBase:MIPF0000185"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002812": [
+            "miRBase:MIPF0000186"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002813": [
+            "miRBase:MIPF0000188"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002814": [
+            "miRBase:MIPF0000189"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002815": [
+            "miRBase:MIPF0000190"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002816": [
+            "miRBase:MIPF0000191"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002817": [
+            "miRBase:MIPF0000192"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002818": [
+            "miRBase:MIPF0000193"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002819": [
+            "miRBase:MIPF0000194"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002820": [
+            "miRBase:MIPF0000195"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002821": [
+            "miRBase:MIPF0000196"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002822": [
+            "miRBase:MIPF0000197"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002823": [
+            "miRBase:MIPF0000199"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002824": [
+            "miRBase:MIPF0000200"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002825": [
+            "miRBase:MIPF0000201"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002826": [
+            "miRBase:MIPF0000202"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002827": [
+            "miRBase:MIPF0000203"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002828": [
+            "miRBase:MIPF0000204"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002829": [
+            "miRBase:MIPF0000206"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002830": [
+            "miRBase:MIPF0000209"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002831": [
+            "miRBase:MIPF0000211"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002832": [
+            "miRBase:MIPF0000213"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002833": [
+            "miRBase:MIPF0000217"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002834": [
+            "miRBase:MIPF0000219"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002835": [
+            "miRBase:MIPF0000220"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002836": [
+            "miRBase:MIPF0000229"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002837": [
+            "miRBase:MIPF0000230"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002838": [
+            "miRBase:MIPF0000231"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002839": [
+            "miRBase:MIPF0000242"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002840": [
+            "miRBase:MIPF0000274"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002841": [
+            "miRBase:MIPF0000287"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002842": [
+            "miRBase:MIPF0000288"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002843": [
+            "miRBase:MIPF0000289"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002844": [
+            "miRBase:MIPF0000300"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002845": [
+            "miRBase:MIPF0000316"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002846": [
+            "miRBase:MIPF0000317"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002847": [
+            "miRBase:MIPF0000318"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002848": [
+            "miRBase:MIPF0000319"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002849": [
+            "miRBase:MIPF0000329"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002850": [
+            "miRBase:MIPF0000333"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002851": [
+            "miRBase:MIPF0000334"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002852": [
+            "miRBase:MIPF0000340"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002853": [
+            "miRBase:MIPF0000342"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002854": [
+            "miRBase:MIPF0000353"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002855": [
+            "miRBase:MIPF0000355"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002856": [
+            "miRBase:MIPF0000357"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002857": [
+            "miRBase:MIPF0000358"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002858": [
+            "miRBase:MIPF0000360"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002859": [
+            "miRBase:MIPF0000365"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002860": [
+            "miRBase:MIPF0000386"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002861": [
+            "miRBase:MIPF0000387"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002862": [
+            "miRBase:MIPF0000390"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002863": [
+            "miRBase:MIPF0000392"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002864": [
+            "miRBase:MIPF0000393"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002865": [
+            "miRBase:MIPF0000395"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002866": [
+            "miRBase:MIPF0000397"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002867": [
+            "miRBase:MIPF0000401"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002868": [
+            "miRBase:MIPF0000404"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002869": [
+            "miRBase:MIPF0000408"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002870": [
+            "miRBase:MIPF0000409"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002871": [
+            "miRBase:MIPF0000417"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002872": [
+            "miRBase:MIPF0000418"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002873": [
+            "miRBase:MIPF0000419"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002874": [
+            "miRBase:MIPF0000420"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002875": [
+            "miRBase:MIPF0000424"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002876": [
+            "miRBase:MIPF0000430"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002877": [
+            "miRBase:MIPF0000431"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002878": [
+            "miRBase:MIPF0000435"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002879": [
+            "miRBase:MIPF0000436"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002880": [
+            "miRBase:MIPF0000437"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002881": [
+            "miRBase:MIPF0000440"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002882": [
+            "miRBase:MIPF0000444"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002883": [
+            "miRBase:MIPF0000445"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002884": [
+            "miRBase:MIPF0000454"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002885": [
+            "miRBase:MIPF0000456"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002886": [
+            "miRBase:MIPF0000457"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002887": [
+            "miRBase:MIPF0000462"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002888": [
+            "miRBase:MIPF0000463"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002889": [
+            "miRBase:MIPF0000464"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002890": [
+            "miRBase:MIPF0000465"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002891": [
+            "miRBase:MIPF0000466"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002892": [
+            "miRBase:MIPF0000467"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002893": [
+            "miRBase:MIPF0000468"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002894": [
+            "miRBase:MIPF0000469"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002895": [
+            "miRBase:MIPF0000470"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002896": [
+            "miRBase:MIPF0000471"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002897": [
+            "miRBase:MIPF0000474"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002898": [
+            "miRBase:MIPF0000475"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002899": [
+            "miRBase:MIPF0000476"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002900": [
+            "miRBase:MIPF0000477"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002901": [
+            "miRBase:MIPF0000478"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002902": [
+            "miRBase:MIPF0000479"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002903": [
+            "miRBase:MIPF0000480"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002904": [
+            "miRBase:MIPF0000482"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002905": [
+            "miRBase:MIPF0000483"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002906": [
+            "miRBase:MIPF0000484"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002907": [
+            "miRBase:MIPF0000486"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002908": [
+            "miRBase:MIPF0000487"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002909": [
+            "miRBase:MIPF0000488"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002910": [
+            "miRBase:MIPF0000490"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002911": [
+            "miRBase:MIPF0000492"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002912": [
+            "miRBase:MIPF0000493"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002913": [
+            "miRBase:MIPF0000494"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002914": [
+            "miRBase:MIPF0000495"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002915": [
+            "miRBase:MIPF0000496"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002916": [
+            "miRBase:MIPF0000498"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002917": [
+            "miRBase:MIPF0000499"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002918": [
+            "miRBase:MIPF0000500"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002919": [
+            "miRBase:MIPF0000501"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002920": [
+            "miRBase:MIPF0000502"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002921": [
+            "miRBase:MIPF0000503"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002922": [
+            "miRBase:MIPF0000505"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002923": [
+            "miRBase:MIPF0000506"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002924": [
+            "miRBase:MIPF0000507"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002925": [
+            "miRBase:MIPF0000508"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002926": [
+            "miRBase:MIPF0000511"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002927": [
+            "miRBase:MIPF0000512"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002928": [
+            "miRBase:MIPF0000513"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002929": [
+            "miRBase:MIPF0000514"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002930": [
+            "miRBase:MIPF0000515"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002931": [
+            "miRBase:MIPF0000516"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002932": [
+            "miRBase:MIPF0000517"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002933": [
+            "miRBase:MIPF0000519"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002934": [
+            "miRBase:MIPF0000520"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002935": [
+            "miRBase:MIPF0000522"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002936": [
+            "miRBase:MIPF0000523"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002937": [
+            "miRBase:MIPF0000524"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002938": [
+            "miRBase:MIPF0000527"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002939": [
+            "miRBase:MIPF0000528"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002940": [
+            "miRBase:MIPF0000529"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002941": [
+            "miRBase:MIPF0000530"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002942": [
+            "miRBase:MIPF0000531"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002943": [
+            "miRBase:MIPF0000532"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002944": [
+            "miRBase:MIPF0000533"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002945": [
+            "miRBase:MIPF0000534"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002946": [
+            "miRBase:MIPF0000535"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002947": [
+            "miRBase:MIPF0000536"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002948": [
+            "miRBase:MIPF0000537"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002949": [
+            "miRBase:MIPF0000538"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002950": [
+            "miRBase:MIPF0000539"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002951": [
+            "miRBase:MIPF0000540"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002952": [
+            "miRBase:MIPF0000541"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002953": [
+            "miRBase:MIPF0000542"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002954": [
+            "miRBase:MIPF0000545"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002955": [
+            "miRBase:MIPF0000546"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002956": [
+            "miRBase:MIPF0000547"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002957": [
+            "miRBase:MIPF0000548"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002958": [
+            "miRBase:MIPF0000549"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002959": [
+            "miRBase:MIPF0000550"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002960": [
+            "miRBase:MIPF0000551"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002961": [
+            "miRBase:MIPF0000552"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002962": [
+            "miRBase:MIPF0000553"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002963": [
+            "miRBase:MIPF0000554"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002964": [
+            "miRBase:MIPF0000555"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002965": [
+            "miRBase:MIPF0000556"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002966": [
+            "miRBase:MIPF0000557"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002967": [
+            "miRBase:MIPF0000558"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002968": [
+            "miRBase:MIPF0000559"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002969": [
+            "miRBase:MIPF0000560"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002970": [
+            "miRBase:MIPF0000561"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002971": [
+            "miRBase:MIPF0000562"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002972": [
+            "miRBase:MIPF0000563"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002973": [
+            "miRBase:MIPF0000569"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002974": [
+            "miRBase:MIPF0000576"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002975": [
+            "miRBase:MIPF0000578"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002976": [
+            "miRBase:MIPF0000579"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002977": [
+            "miRBase:MIPF0000583"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002978": [
+            "miRBase:MIPF0000584"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002979": [
+            "miRBase:MIPF0000585"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002980": [
+            "miRBase:MIPF0000586"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002981": [
+            "miRBase:MIPF0000587"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002982": [
+            "miRBase:MIPF0000589"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002983": [
+            "miRBase:MIPF0000590"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002984": [
+            "miRBase:MIPF0000591"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002985": [
+            "miRBase:MIPF0000592"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002986": [
+            "miRBase:MIPF0000594"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002987": [
+            "miRBase:MIPF0000595"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002988": [
+            "miRBase:MIPF0000596"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002989": [
+            "miRBase:MIPF0000597"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002990": [
+            "miRBase:MIPF0000598"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002991": [
+            "miRBase:MIPF0000599"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002992": [
+            "miRBase:MIPF0000600"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002993": [
+            "miRBase:MIPF0000601"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002994": [
+            "miRBase:MIPF0000603"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002995": [
+            "miRBase:MIPF0000604"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002996": [
+            "miRBase:MIPF0000605"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002997": [
+            "miRBase:MIPF0000606"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002998": [
+            "miRBase:MIPF0000608"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0002999": [
+            "miRBase:MIPF0000609"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003000": [
+            "miRBase:MIPF0000610"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003001": [
+            "miRBase:MIPF0000611"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003002": [
+            "miRBase:MIPF0000612"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003003": [
+            "miRBase:MIPF0000613"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003004": [
+            "miRBase:MIPF0000614"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003005": [
+            "miRBase:MIPF0000615"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003006": [
+            "miRBase:MIPF0000617"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003007": [
+            "miRBase:MIPF0000619"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003008": [
+            "miRBase:MIPF0000620"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003009": [
+            "miRBase:MIPF0000621"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003010": [
+            "miRBase:MIPF0000622"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003011": [
+            "miRBase:MIPF0000623"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003012": [
+            "miRBase:MIPF0000624"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003013": [
+            "miRBase:MIPF0000625"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003014": [
+            "miRBase:MIPF0000626"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003015": [
+            "miRBase:MIPF0000627"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003016": [
+            "miRBase:MIPF0000628"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003017": [
+            "miRBase:MIPF0000631"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003018": [
+            "miRBase:MIPF0000632"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003019": [
+            "miRBase:MIPF0000633"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003020": [
+            "miRBase:MIPF0000634"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003021": [
+            "miRBase:MIPF0000640"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003022": [
+            "miRBase:MIPF0000641"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003023": [
+            "miRBase:MIPF0000643"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003024": [
+            "miRBase:MIPF0000645"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003025": [
+            "miRBase:MIPF0000646"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003026": [
+            "miRBase:MIPF0000647"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003027": [
+            "miRBase:MIPF0000649"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003028": [
+            "miRBase:MIPF0000651"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003029": [
+            "miRBase:MIPF0000652"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003030": [
+            "miRBase:MIPF0000653"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003031": [
+            "miRBase:MIPF0000656"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003032": [
+            "miRBase:MIPF0000657"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003033": [
+            "miRBase:MIPF0000658"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003034": [
+            "miRBase:MIPF0000660"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003035": [
+            "miRBase:MIPF0000661"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003036": [
+            "miRBase:MIPF0000662"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003037": [
+            "miRBase:MIPF0000663"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003038": [
+            "miRBase:MIPF0000665"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003039": [
+            "miRBase:MIPF0000667"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003040": [
+            "miRBase:MIPF0000668"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003041": [
+            "miRBase:MIPF0000669"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003042": [
+            "miRBase:MIPF0000670"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003043": [
+            "miRBase:MIPF0000671"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003044": [
+            "miRBase:MIPF0000672"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003045": [
+            "miRBase:MIPF0000673"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003046": [
+            "miRBase:MIPF0000674"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003047": [
+            "miRBase:MIPF0000675"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003048": [
+            "miRBase:MIPF0000676"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003049": [
+            "miRBase:MIPF0000677"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003050": [
+            "miRBase:MIPF0000679"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003051": [
+            "miRBase:MIPF0000681"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003052": [
+            "miRBase:MIPF0000682"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003053": [
+            "miRBase:MIPF0000684"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003054": [
+            "miRBase:MIPF0000687"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003055": [
+            "miRBase:MIPF0000688"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003056": [
+            "miRBase:MIPF0000689"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003057": [
+            "miRBase:MIPF0000690"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003058": [
+            "miRBase:MIPF0000691"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003059": [
+            "miRBase:MIPF0000695"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003060": [
+            "miRBase:MIPF0000696"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003061": [
+            "miRBase:MIPF0000706"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003062": [
+            "miRBase:MIPF0000707"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003063": [
+            "miRBase:MIPF0000709"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003064": [
+            "miRBase:MIPF0000714"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003065": [
+            "miRBase:MIPF0000721"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003066": [
+            "miRBase:MIPF0000725"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003067": [
+            "miRBase:MIPF0000727"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003068": [
+            "miRBase:MIPF0000734"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003069": [
+            "miRBase:MIPF0000742"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003070": [
+            "miRBase:MIPF0000748"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003071": [
+            "miRBase:MIPF0000757"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003072": [
+            "miRBase:MIPF0000767"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003073": [
+            "miRBase:MIPF0000768"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003074": [
+            "miRBase:MIPF0000777"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003075": [
+            "miRBase:MIPF0000780"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003076": [
+            "miRBase:MIPF0000789"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003077": [
+            "miRBase:MIPF0000798"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003078": [
+            "miRBase:MIPF0000802"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003079": [
+            "miRBase:MIPF0000808"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003080": [
+            "miRBase:MIPF0000845"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003081": [
+            "miRBase:MIPF0000846"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003082": [
+            "miRBase:MIPF0000877"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003083": [
+            "miRBase:MIPF0000891"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003084": [
+            "miRBase:MIPF0000894"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003085": [
+            "miRBase:MIPF0000900"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003086": [
+            "miRBase:MIPF0000903"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003087": [
+            "miRBase:MIPF0000917"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003088": [
+            "miRBase:MIPF0000919"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003089": [
+            "miRBase:MIPF0000924"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003090": [
+            "miRBase:MIPF0000938"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003091": [
+            "miRBase:MIPF0000939"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003092": [
+            "miRBase:MIPF0000941"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003093": [
+            "miRBase:MIPF0000946"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003094": [
+            "miRBase:MIPF0000963"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003095": [
+            "miRBase:MIPF0000965"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003096": [
+            "miRBase:MIPF0000968"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003097": [
+            "miRBase:MIPF0000971"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003098": [
+            "miRBase:MIPF0000972"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003099": [
+            "miRBase:MIPF0000973"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003100": [
+            "miRBase:MIPF0000979"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003101": [
+            "miRBase:MIPF0000982"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003102": [
+            "miRBase:MIPF0000984"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003103": [
+            "miRBase:MIPF0000987"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003104": [
+            "miRBase:MIPF0000998"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003105": [
+            "miRBase:MIPF0001002"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003106": [
+            "miRBase:MIPF0001015"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003107": [
+            "miRBase:MIPF0001020"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003108": [
+            "miRBase:MIPF0001021"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003109": [
+            "miRBase:MIPF0001025"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003110": [
+            "miRBase:MIPF0001026"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003111": [
+            "miRBase:MIPF0001028"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003112": [
+            "miRBase:MIPF0001033"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003113": [
+            "miRBase:MIPF0001036"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003114": [
+            "miRBase:MIPF0001037"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003115": [
+            "miRBase:MIPF0001040"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003116": [
+            "miRBase:MIPF0001064"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003117": [
+            "miRBase:MIPF0001065"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003118": [
+            "miRBase:MIPF0001069"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003119": [
+            "miRBase:MIPF0001102"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003120": [
+            "miRBase:MIPF0001103"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003121": [
+            "miRBase:MIPF0001105"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003122": [
+            "miRBase:MIPF0001118"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003123": [
+            "miRBase:MIPF0001134"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003124": [
+            "miRBase:MIPF0001144"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003125": [
+            "miRBase:MIPF0001148"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003126": [
+            "miRBase:MIPF0001169"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003127": [
+            "miRBase:MIPF0001179"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003128": [
+            "miRBase:MIPF0001206"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003129": [
+            "miRBase:MIPF0001207"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003130": [
+            "miRBase:MIPF0001210"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003131": [
+            "miRBase:MIPF0001216"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003132": [
+            "miRBase:MIPF0001219"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003133": [
+            "miRBase:MIPF0001220"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003134": [
+            "miRBase:MIPF0001228"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003135": [
+            "miRBase:MIPF0001234"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003136": [
+            "miRBase:MIPF0001236"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003137": [
+            "miRBase:MIPF0001238"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003138": [
+            "miRBase:MIPF0001242"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003139": [
+            "miRBase:MIPF0001245"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003140": [
+            "miRBase:MIPF0001250"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003141": [
+            "miRBase:MIPF0001251"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003142": [
+            "miRBase:MIPF0001256"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003143": [
+            "miRBase:MIPF0001258"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003144": [
+            "miRBase:MIPF0001261"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003145": [
+            "miRBase:MIPF0001263"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003146": [
+            "miRBase:MIPF0001271"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003147": [
+            "miRBase:MIPF0001272"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003148": [
+            "miRBase:MIPF0001274"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003149": [
+            "miRBase:MIPF0001309"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003150": [
+            "miRBase:MIPF0001310"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003151": [
+            "miRBase:MIPF0001319"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003152": [
+            "miRBase:MIPF0001325"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003153": [
+            "miRBase:MIPF0001330"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003154": [
+            "miRBase:MIPF0001338"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003155": [
+            "miRBase:MIPF0001340"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003156": [
+            "miRBase:MIPF0001343"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003157": [
+            "miRBase:MIPF0001351"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003158": [
+            "miRBase:MIPF0001356"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003159": [
+            "miRBase:MIPF0001381"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003160": [
+            "miRBase:MIPF0001382"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003161": [
+            "miRBase:MIPF0001383"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003162": [
+            "miRBase:MIPF0001384"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003163": [
+            "miRBase:MIPF0001385"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003164": [
+            "miRBase:MIPF0001387"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003165": [
+            "miRBase:MIPF0001390"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003166": [
+            "miRBase:MIPF0001394"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003167": [
+            "miRBase:MIPF0001397"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003168": [
+            "miRBase:MIPF0001399"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003169": [
+            "miRBase:MIPF0001400"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003170": [
+            "miRBase:MIPF0001401"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003171": [
+            "miRBase:MIPF0001402"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003172": [
+            "miRBase:MIPF0001405"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003173": [
+            "miRBase:MIPF0001411"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003174": [
+            "miRBase:MIPF0001412"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003175": [
+            "miRBase:MIPF0001413"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003176": [
+            "miRBase:MIPF0001415"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003177": [
+            "miRBase:MIPF0001417"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003178": [
+            "miRBase:MIPF0001423"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003179": [
+            "miRBase:MIPF0001427"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003180": [
+            "miRBase:MIPF0001428"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003181": [
+            "miRBase:MIPF0001429"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003182": [
+            "miRBase:MIPF0001438"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003183": [
+            "miRBase:MIPF0001439"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003184": [
+            "miRBase:MIPF0001440"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003185": [
+            "miRBase:MIPF0001441"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003186": [
+            "miRBase:MIPF0001442"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003187": [
+            "miRBase:MIPF0001445"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003188": [
+            "miRBase:MIPF0001451"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003189": [
+            "miRBase:MIPF0001458"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003190": [
+            "miRBase:MIPF0001460"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003191": [
+            "miRBase:MIPF0001462"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003192": [
+            "miRBase:MIPF0001463"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003193": [
+            "miRBase:MIPF0001464"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003194": [
+            "miRBase:MIPF0001467"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003195": [
+            "miRBase:MIPF0001474"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003196": [
+            "miRBase:MIPF0001476"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003197": [
+            "miRBase:MIPF0001477"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003198": [
+            "miRBase:MIPF0001481"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003199": [
+            "miRBase:MIPF0001488"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003200": [
+            "miRBase:MIPF0001500"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003201": [
+            "miRBase:MIPF0001506"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003202": [
+            "miRBase:MIPF0001507"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003203": [
+            "miRBase:MIPF0001508"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003204": [
+            "miRBase:MIPF0001509"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003205": [
+            "miRBase:MIPF0001510"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003206": [
+            "miRBase:MIPF0001511"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003207": [
+            "miRBase:MIPF0001512"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003208": [
+            "miRBase:MIPF0001518"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003209": [
+            "miRBase:MIPF0001519"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003210": [
+            "miRBase:MIPF0001520"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003211": [
+            "miRBase:MIPF0001521"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003212": [
+            "miRBase:MIPF0001522"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003213": [
+            "miRBase:MIPF0001525"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003214": [
+            "miRBase:MIPF0001527"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003215": [
+            "miRBase:MIPF0001529"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003216": [
+            "miRBase:MIPF0001530"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003217": [
+            "miRBase:MIPF0001540"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003218": [
+            "miRBase:MIPF0001545"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003219": [
+            "miRBase:MIPF0001546"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003220": [
+            "miRBase:MIPF0001548"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003221": [
+            "miRBase:MIPF0001549"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003222": [
+            "miRBase:MIPF0001551"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003223": [
+            "miRBase:MIPF0001552"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003224": [
+            "miRBase:MIPF0001555"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003225": [
+            "miRBase:MIPF0001566"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003226": [
+            "miRBase:MIPF0001569"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003227": [
+            "miRBase:MIPF0001573"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003228": [
+            "miRBase:MIPF0001574"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003229": [
+            "miRBase:MIPF0001575"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003230": [
+            "miRBase:MIPF0001578"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003231": [
+            "miRBase:MIPF0001582"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003232": [
+            "miRBase:MIPF0001584"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003233": [
+            "miRBase:MIPF0001586"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003234": [
+            "miRBase:MIPF0001587"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003235": [
+            "miRBase:MIPF0001597"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003236": [
+            "miRBase:MIPF0001599"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003237": [
+            "miRBase:MIPF0001601"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003238": [
+            "miRBase:MIPF0001614"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003239": [
+            "miRBase:MIPF0001615"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003240": [
+            "miRBase:MIPF0001618"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003241": [
+            "miRBase:MIPF0001623"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003242": [
+            "miRBase:MIPF0001626"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003243": [
+            "miRBase:MIPF0001630"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003244": [
+            "miRBase:MIPF0001633"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003245": [
+            "miRBase:MIPF0001635"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003246": [
+            "miRBase:MIPF0001637"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003247": [
+            "miRBase:MIPF0001639"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003248": [
+            "miRBase:MIPF0001640"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003249": [
+            "miRBase:MIPF0001659"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003250": [
+            "miRBase:MIPF0001672"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003251": [
+            "miRBase:MIPF0001692"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003252": [
+            "miRBase:MIPF0001693"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003253": [
+            "miRBase:MIPF0001698"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003254": [
+            "miRBase:MIPF0001708"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003255": [
+            "miRBase:MIPF0001710"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003256": [
+            "miRBase:MIPF0001726"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003257": [
+            "miRBase:MIPF0001747"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003258": [
+            "miRBase:MIPF0001748"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003259": [
+            "miRBase:MIPF0001759"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003260": [
+            "miRBase:MIPF0001764"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003261": [
+            "miRBase:MIPF0001787"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003262": [
+            "miRBase:MIPF0001799"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003263": [
+            "miRBase:MIPF0001805"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003264": [
+            "miRBase:MIPF0001811"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003265": [
+            "miRBase:MIPF0001821"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003266": [
+            "miRBase:MIPF0001823"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003267": [
+            "miRBase:MIPF0001825"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003268": [
+            "miRBase:MIPF0001826"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003269": [
+            "miRBase:MIPF0001848"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003270": [
+            "miRBase:MIPF0001855"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003271": [
+            "miRBase:MIPF0001920"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003272": [
+            "miRBase:MIPF0001928"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003273": [
+            "miRBase:MIPF0001935"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003274": [
+            "miRBase:MIPF0001937"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003275": [
+            "miRBase:MIPF0001984"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003276": [
+            "miRBase:MIPF0001988"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003277": [
+            "miRBase:MIPF0002009"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003278": [
+            "miRBase:MIPF0002050"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003279": [
+            "miRBase:MIPF0002051"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003280": [
+            "miRBase:MIPF0002103"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003281": [
+            "miRBase:MIPF0002104"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003282": [
+            "miRBase:MIMAT0000423"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003283": [
+            "miRBase:MIMAT0004592"
+          ],
+          "http://purl.obolibrary.org/obo/NCRO_0003284": [
+            "miRBase:MIMAT0004603"
+          ]
+        },
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

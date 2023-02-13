@@ -9,6 +9,7 @@ from bioregistry.utils import norm
 from tabulate import tabulate
 from tqdm import tqdm
 
+from oquat.api import AnalysisResults, ResultPack
 from oquat.large_scale_analysis import DOCS, RESULTS, url_md
 
 UNKNOWNS = DOCS.joinpath("unknowns")
@@ -31,9 +32,11 @@ def main():
     source_agg = defaultdict(dict)
     for path in RESULTS.glob("*.json"):
         source = path.stem
-        for results in json.loads(path.read_text()).values():
+        analysis_results = AnalysisResults.parse_obj(json.loads(path.read_text()))
+        for results in analysis_results.results.values():
             for key in KEYS:
-                for unknown_prefix, node_to_curie in results[key]["unknown_prefixes"].items():
+                pack: ResultPack = getattr(results, key)
+                for unknown_prefix, node_to_curie in pack.unknown_prefixes.items():
                     if (
                         " " in unknown_prefix
                         or "www." in unknown_prefix
@@ -79,7 +82,7 @@ def main():
 ## `{unknown_prefix}`
 
 There are {len(rows)} usages of `{unknown_prefix}` in `{source}`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?\
 assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20{unknown_prefix}).
 

@@ -3,7 +3,7 @@
 ## `Allen`
 
 There are 1 usages of `Allen` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Allen).
 
 | curie          |   usages | nodes                                                     |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Answers.com`
 
 There are 1 usages of `Answers.com` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Answers.com).
 
 | curie                   |   usages | nodes                                                       |
@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ENVOC`
 
 There are 1 usages of `ENVOC` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ENVOC).
 
 | curie    |   usages | nodes                                                         |
@@ -33,7 +33,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GEMINA`
 
 There are 1 usages of `GEMINA` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GEMINA).
 
 | curie     |   usages | nodes                                                         |
@@ -43,7 +43,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOC`
 
 There are 1 usages of `GOC` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie   |   usages | nodes                                                   |
@@ -53,7 +53,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Gemina`
 
 There are 1 usages of `Gemina` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gemina).
 
 | curie     |   usages | nodes                                                         |
@@ -63,7 +63,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Invitrogen`
 
 There are 1 usages of `Invitrogen` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Invitrogen).
 
 | curie                                      |   usages | nodes                                                     |
@@ -73,7 +73,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Merriam-Webster`
 
 There are 1 usages of `Merriam-Webster` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Merriam-Webster).
 
 | curie                           |   usages | nodes                                                       |
@@ -83,7 +83,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NPX`
 
 There are 1 usages of `NPX` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NPX).
 
 | curie   |   usages | nodes                                                   |
@@ -93,7 +93,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Orange`
 
 There are 3 usages of `Orange` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Orange).
 
 | curie           |   usages | nodes                                                                                                                                                                                 |
@@ -105,7 +105,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OrangeBook`
 
 There are 3 usages of `OrangeBook` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OrangeBook).
 
 | curie               |   usages | nodes                                                       |
@@ -117,7 +117,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PATOC`
 
 There are 6 usages of `PATOC` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PATOC).
 
 | curie         |   usages | nodes                                                                                                                                                                                                                                                                                                                |
@@ -132,7 +132,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PHENOSCPAE`
 
 There are 1 usages of `PHENOSCPAE` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PHENOSCPAE).
 
 | curie                   |   usages | nodes                                                   |
@@ -142,7 +142,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `UBERONREF`
 
 There are 1 usages of `UBERONREF` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UBERONREF).
 
 | curie             |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -152,7 +152,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `URL`
 
 There are 1 usages of `URL` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL).
 
 | curie                                      |   usages | nodes                                                         |
@@ -162,7 +162,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Wiikipedia`
 
 There are 2 usages of `Wiikipedia` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiikipedia).
 
 | curie                 |   usages | nodes                                                       |
@@ -173,7 +173,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WordNet`
 
 There are 1 usages of `WordNet` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WordNet).
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
@@ -183,7 +183,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `curators`
 
 There are 1 usages of `curators` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20curators).
 
 | curie       |   usages | nodes                                                     |
@@ -193,7 +193,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `edp`
 
 There are 1 usages of `edp` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20edp).
 
 | curie   |   usages | nodes                                                                                                                                                                                 |
@@ -203,7 +203,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `studyphysics`
 
 There are 1 usages of `studyphysics` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20studyphysics).
 
 | curie                     |   usages | nodes                                                                                                                    |
@@ -213,7 +213,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `url`
 
 There are 1 usages of `url` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url).
 
 | curie                           |   usages | nodes                                                       |
@@ -223,7 +223,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ADL`
 
 There are 1 usages of `ADL` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ADL).
 
 | curie   |   usages | nodes                                                         |
@@ -233,7 +233,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Getty`
 
 There are 1 usages of `Getty` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Getty).
 
 | curie     |   usages | nodes                                                         |
@@ -243,7 +243,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NASA`
 
 There are 1 usages of `NASA` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NASA).
 
 | curie           |   usages | nodes                                                                                                                                                                                       |
@@ -253,7 +253,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `USGS`
 
 There are 1 usages of `USGS` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USGS).
 
 | curie     |   usages | nodes                                                         |
@@ -263,7 +263,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PERSON`
 
 There are 2 usages of `PERSON` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PERSON).
 
 | curie                |   usages | nodes                                               |
@@ -274,7 +274,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SPIRE`
 
 There are 11 usages of `SPIRE` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SPIRE).
 
 | curie                       |   usages | nodes                                                                                                                        |
@@ -294,7 +294,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WikipediaCategory`
 
 There are 1 usages of `WikipediaCategory` in `enm`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaCategory).
 
 | curie                    |   usages | nodes                                                           |

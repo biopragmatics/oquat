@@ -1,27 +1,31 @@
 {
-  "http://vocabularies.wikipathways.org/wpTypes#": {
-    "graph_id": "http://vocabularies.wikipathways.org/wpTypes#",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version_iri": "http://www.w3.org/2012/pyRdfa/extract?uri=http://vocabularies.wikipathways.org/wp#",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+  "created": "2023-02-13T20:04:56.046602",
+  "messages": [],
+  "results": {
+    "http://vocabularies.wikipathways.org/wpTypes#": {
+      "graph_id": "http://vocabularies.wikipathways.org/wpTypes#",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version_iri": "http://www.w3.org/2012/pyRdfa/extract?uri=http://vocabularies.wikipathways.org/wp#",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

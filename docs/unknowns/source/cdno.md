@@ -3,7 +3,7 @@
 ## `INFOODs`
 
 There are 254 usages of `INFOODs` in `cdno`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20INFOODs).
 
 <details>
@@ -271,7 +271,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `USDA_NDB`
 
 There are 203 usages of `USDA_NDB` in `cdno`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USDA_NDB).
 
 <details>
@@ -488,7 +488,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `USDA_NDBex`
 
 There are 1 usages of `USDA_NDBex` in `cdno`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20USDA_NDBex).
 
 | curie           |   usages | nodes                                                       |
@@ -498,7 +498,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ex`
 
 There are 2 usages of `ex` in `cdno`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ex).
 
 | curie   |   usages | nodes                                                       |

@@ -3,12 +3,12 @@
 """Ontology analysis."""
 
 import dataclasses
+import datetime
 import logging
 import random
 import re
 import sys
 from collections import defaultdict
-from dataclasses import dataclass
 from functools import lru_cache
 from operator import itemgetter
 from pathlib import Path
@@ -22,7 +22,7 @@ from bioontologies import get_obograph_by_prefix
 from bioontologies.obograph import Graph, GraphDocument
 from bioontologies.robot import convert_to_obograph_local, convert_to_obograph_remote
 from more_click import verbose_option
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from pydantic.json import ENCODERS_BY_TYPE
 from tabulate import tabulate
 from tqdm import tqdm
@@ -170,19 +170,19 @@ class NoParsableURIs(ValueError):
     """Raised when none of the URIs work."""
 
 
-@dataclass
-class AnalysisResults:
+class AnalysisResults(pydantic.BaseModel):
     """Results from analysis and messages from the journey."""
 
-    results: Dict[str, Results]
-    messages: List[str]
+    results: Dict[str, Results] = pydantic.Field(default_factory=dict)
+    messages: List[str] = pydantic.Field(default_factory=list)
+    created: datetime.datetime = pydantic.Field(default_factory=datetime.datetime.now)
 
 
 def analyze_by_prefix(
     prefix: str, *, cache: bool = False, iri_filter: Optional[str] = None
 ) -> AnalysisResults:
     """Analyze an ontology based on a given Bioregistry prefix."""
-    parse_results = get_obograph_by_prefix(prefix, cache=prefix in DOWNLOAD_BEFORE_PARSING)
+    parse_results = get_obograph_by_prefix(prefix, cache=cache or prefix in DOWNLOAD_BEFORE_PARSING)
     if parse_results.graph_document is None:
         return AnalysisResults(
             results={},

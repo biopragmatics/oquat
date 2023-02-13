@@ -1,49 +1,53 @@
 {
-  "http://purl.obolibrary.org/obo/MFOMD.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/MFOMD.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "url": {
-          "http://purl.obolibrary.org/obo/MFOMD_0000004": "url:http://en.wikipedia.org/wiki/Mental_disorder"
+  "created": "2023-02-13T18:58:27.178787",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/MFOMD.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/MFOMD.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "url": {
+            "http://purl.obolibrary.org/obo/MFOMD_0000004": "url:http://en.wikipedia.org/wiki/Mental_disorder"
+          }
         }
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2020-04-26",
+      "version_iri": "http://purl.obolibrary.org/obo/MFOMD/2020-04-26/MFOMD.owl",
+      "xref_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/MFOMD_0000004": [
+            "ICD9CM:290-319.99"
+          ]
+        },
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {
+          "MSH": {
+            "http://purl.obolibrary.org/obo/MFOMD_0000004": "MSH:D001523"
+          },
+          "NCI": {
+            "http://purl.obolibrary.org/obo/MFOMD_0000004": "NCI:C2893"
+          },
+          "SNOMEDCT_2010_1_31": {
+            "http://purl.obolibrary.org/obo/MFOMD_0000004": "SNOMEDCT_2010_1_31:154971002"
+          },
+          "UMLS_CUI": {
+            "http://purl.obolibrary.org/obo/MFOMD_0000004": "UMLS_CUI:C0004936"
+          }
+        },
+        "unknown_prefixes": {}
       }
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2020-04-26",
-    "version_iri": "http://purl.obolibrary.org/obo/MFOMD/2020-04-26/MFOMD.owl",
-    "xref_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/MFOMD_0000004": [
-          "ICD9CM:290-319.99"
-        ]
-      },
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "MSH": {
-          "http://purl.obolibrary.org/obo/MFOMD_0000004": "MSH:D001523"
-        },
-        "NCI": {
-          "http://purl.obolibrary.org/obo/MFOMD_0000004": "NCI:C2893"
-        },
-        "SNOMEDCT_2010_1_31": {
-          "http://purl.obolibrary.org/obo/MFOMD_0000004": "SNOMEDCT_2010_1_31:154971002"
-        },
-        "UMLS_CUI": {
-          "http://purl.obolibrary.org/obo/MFOMD_0000004": "UMLS_CUI:C0004936"
-        }
-      },
-      "unknown_prefixes": {}
     }
   }
 }

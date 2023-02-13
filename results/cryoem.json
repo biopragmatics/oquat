@@ -1,28 +1,32 @@
 {
-  "http://scipion.i2pc.es/ontology/cryoem.owl": {
-    "graph_id": "http://scipion.i2pc.es/ontology/cryoem.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2021-03-09",
-    "version_iri": "http://scipion.i2pc.es/ontology/cryoem/releases/2021-03-09/cryoem.owl",
-    "xref_pack": {
-      "invalid_luids": {},
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
+  "created": "2023-02-13T18:30:50.857718",
+  "messages": [],
+  "results": {
+    "http://scipion.i2pc.es/ontology/cryoem.owl": {
+      "graph_id": "http://scipion.i2pc.es/ontology/cryoem.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2021-03-09",
+      "version_iri": "http://scipion.i2pc.es/ontology/cryoem/releases/2021-03-09/cryoem.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
     }
   }
 }

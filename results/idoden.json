@@ -1,180 +1,184 @@
 {
-  "http://purl.bioontology.org/ontology/IDODEN": {
-    "graph_id": "http://purl.bioontology.org/ontology/IDODEN",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "synonym_pack": {
-      "invalid_luids": {},
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "xref_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/ENVO_00000014": [
-          "Geonames:CNL"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000019": [
-          "Geonames:LKN",
-          "Geonames:LKSN"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000020": [
-          "Geonames:LK",
-          "Geonames:LKS"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000023": [
-          "Geonames:STM",
-          "Geonames:STMS"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000026": [
-          "Geonames:WLL",
-          "Geonames:WLLS"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000027": [
-          "Geonames:SPNG"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000029": [
-          "Geonames:NRWS",
-          "Geonames:RCH",
-          "Geonames:SPLY",
-          "Geonames:WTRC"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000033": [
-          "Geonames:PND",
-          "Geonames:PNDS",
-          "Geonames:POOL"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000037": [
-          "Geomames:DTCH"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000038": [
-          "Geonames:LGN",
-          "Geonames:LGNS"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000041": [
-          "Geonames:CRKT"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000043": [
-          "Geonames:WTLD"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000045": [
-          "Geonames:ESTY"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000057": [
-          "Geonames:MGV"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000103": [
-          "Geonames:ISLM"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000113": [
-          "Geonames:CULT"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000139": [
-          "Geonames:DTCHI"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000140": [
-          "Geonames:DTCHD"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000231": [
-          "Geonames:MOOR"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000233": [
-          "Geonames:SWMP"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000241": [
-          "Geonames:FLTT"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000395": [
-          "Geonames:CHN",
-          "Geonames:SCNU",
-          "Geonames:SCSU"
-        ],
-        "http://purl.obolibrary.org/obo/ENVO_00000547": [
-          "Geonames:WTRH"
-        ],
-        "http://purl.obolibrary.org/obo/IDOMAL_0000030": [
-          "ISBN:034057190X \"Essential Malariology\""
-        ],
-        "http://purl.obolibrary.org/obo/IDOMAL_0002461": [
-          "CARO:00000041"
-        ],
-        "http://purl.obolibrary.org/obo/MIRO_00000015": [
-          "PMID:16925478 \"Li et al. (2007), Ann Rev Entomol, 52: 231\""
-        ],
-        "http://purl.obolibrary.org/obo/MIRO_10000108": [
-          "CAS:7-(2-chlorophenyl)-4-ethoxy-3\\,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile4-sulfide"
-        ]
+  "created": "2023-02-13T18:54:58.567755",
+  "messages": [],
+  "results": {
+    "http://purl.bioontology.org/ontology/IDODEN": {
+      "graph_id": "http://purl.bioontology.org/ontology/IDODEN",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       },
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {
-        "Geomames": {
-          "http://purl.obolibrary.org/obo/ENVO_00000037": "Geomames:DTCH"
-        },
-        "ICD9CM_2005": {
-          "http://purl.obolibrary.org/obo/SYMP_0000450": "ICD9CM_2005:785.5",
-          "http://purl.obolibrary.org/obo/SYMP_0000528": "ICD9CM_2005:785",
-          "http://purl.obolibrary.org/obo/SYMP_0000567": "ICD9CM_2005:780",
-          "http://purl.obolibrary.org/obo/SYMP_0000595": "ICD9CM_2005:780.31",
-          "http://purl.obolibrary.org/obo/SYMP_0000596": "ICD9CM_2005:780.3",
-          "http://purl.obolibrary.org/obo/SYMP_0000607": "ICD9CM_2005:780.1"
-        },
-        "UMLS_CUI": {
-          "http://purl.obolibrary.org/obo/SYMP_0000450": "UMLS_CUI:C0159051",
-          "http://purl.obolibrary.org/obo/SYMP_0000528": "UMLS_CUI:C0159049",
-          "http://purl.obolibrary.org/obo/SYMP_0000567": "UMLS_CUI:C0159028",
-          "http://purl.obolibrary.org/obo/SYMP_0000595": "UMLS_CUI:C0009952",
-          "http://purl.obolibrary.org/obo/SYMP_0000596": "UMLS_CUI:C0009951",
-          "http://purl.obolibrary.org/obo/SYMP_0000607": "UMLS_CUI:C0018524"
-        },
-        "UMLS_ICD9CM_2005_AUI": {
-          "http://purl.obolibrary.org/obo/SYMP_0000450": "UMLS_ICD9CM_2005_AUI:A0284197",
-          "http://purl.obolibrary.org/obo/SYMP_0000528": "UMLS_ICD9CM_2005_AUI:A0284192",
-          "http://purl.obolibrary.org/obo/SYMP_0000567": "UMLS_ICD9CM_2005_AUI:A0284119",
-          "http://purl.obolibrary.org/obo/SYMP_0000595": "UMLS_ICD9CM_2005_AUI:A0701466",
-          "http://purl.obolibrary.org/obo/SYMP_0000596": "UMLS_ICD9CM_2005_AUI:A0042665",
-          "http://purl.obolibrary.org/obo/SYMP_0000607": "UMLS_ICD9CM_2005_AUI:A0065642"
-        }
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       },
-      "unknown_prefixes": {
-        "IRAC": {
-          "http://purl.obolibrary.org/obo/CHEBI_24942": "IRAC:eClassification",
-          "http://purl.obolibrary.org/obo/CHEBI_25355": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/CHEBI_38462": "IRAC:eClassification",
-          "http://purl.obolibrary.org/obo/CHEBI_38500": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/CHEBI_38634": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/CHEBI_38809": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/CHEBI_38999": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/CHEBI_39000": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/CHEBI_39276": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/CHEBI_62608": "IRAC:eClassification",
-          "http://purl.obolibrary.org/obo/CHEBI_73267": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/IDOMAL_0000930": "IRAC:eClassification",
-          "http://purl.obolibrary.org/obo/MIRO_00000006": "IRAC:manual",
-          "http://purl.obolibrary.org/obo/MIRO_00000028": "IRAC:manual",
-          "http://purl.obolibrary.org/obo/MIRO_10000001": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/MIRO_10000030": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/MIRO_10000101": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/MIRO_10000159": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/MIRO_10000174": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/MIRO_10000176": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/MIRO_10000206": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/MIRO_10000213": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/MIRO_10000236": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/MIRO_10000265": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/MIRO_10000274": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/MIRO_10000284": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
-          "http://purl.obolibrary.org/obo/MIRO_10000295": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\""
+      "xref_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/ENVO_00000014": [
+            "Geonames:CNL"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000019": [
+            "Geonames:LKN",
+            "Geonames:LKSN"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000020": [
+            "Geonames:LK",
+            "Geonames:LKS"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000023": [
+            "Geonames:STM",
+            "Geonames:STMS"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000026": [
+            "Geonames:WLL",
+            "Geonames:WLLS"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000027": [
+            "Geonames:SPNG"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000029": [
+            "Geonames:NRWS",
+            "Geonames:RCH",
+            "Geonames:SPLY",
+            "Geonames:WTRC"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000033": [
+            "Geonames:PND",
+            "Geonames:PNDS",
+            "Geonames:POOL"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000037": [
+            "Geomames:DTCH"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000038": [
+            "Geonames:LGN",
+            "Geonames:LGNS"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000041": [
+            "Geonames:CRKT"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000043": [
+            "Geonames:WTLD"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000045": [
+            "Geonames:ESTY"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000057": [
+            "Geonames:MGV"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000103": [
+            "Geonames:ISLM"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000113": [
+            "Geonames:CULT"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000139": [
+            "Geonames:DTCHI"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000140": [
+            "Geonames:DTCHD"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000231": [
+            "Geonames:MOOR"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000233": [
+            "Geonames:SWMP"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000241": [
+            "Geonames:FLTT"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000395": [
+            "Geonames:CHN",
+            "Geonames:SCNU",
+            "Geonames:SCSU"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_00000547": [
+            "Geonames:WTRH"
+          ],
+          "http://purl.obolibrary.org/obo/IDOMAL_0000030": [
+            "ISBN:034057190X \"Essential Malariology\""
+          ],
+          "http://purl.obolibrary.org/obo/IDOMAL_0002461": [
+            "CARO:00000041"
+          ],
+          "http://purl.obolibrary.org/obo/MIRO_00000015": [
+            "PMID:16925478 \"Li et al. (2007), Ann Rev Entomol, 52: 231\""
+          ],
+          "http://purl.obolibrary.org/obo/MIRO_10000108": [
+            "CAS:7-(2-chlorophenyl)-4-ethoxy-3\\,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile4-sulfide"
+          ]
         },
-        "IUPAC": {
-          "http://purl.obolibrary.org/obo/CHEBI_34696": "IUPAC:(1R\\,4S\\,4aS\\,5R\\,6R\\,7S\\,8S\\,8aR)-1\\,2\\,3\\,4\\,10\\,10-hexachloro-1\\,4\\,4a\\,5\\,6\\,7\\,8\\,8a-octahydro-6\\,7-epoxy-1\\,4\\:5\\,8-dimethanonaphthalene",
-          "http://purl.obolibrary.org/obo/MIRO_10000108": "IUPAC:O\\,O-diethyl2-chloro--cyanobenzylideneaminooxyphosphonothioate"
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {
+          "Geomames": {
+            "http://purl.obolibrary.org/obo/ENVO_00000037": "Geomames:DTCH"
+          },
+          "ICD9CM_2005": {
+            "http://purl.obolibrary.org/obo/SYMP_0000450": "ICD9CM_2005:785.5",
+            "http://purl.obolibrary.org/obo/SYMP_0000528": "ICD9CM_2005:785",
+            "http://purl.obolibrary.org/obo/SYMP_0000567": "ICD9CM_2005:780",
+            "http://purl.obolibrary.org/obo/SYMP_0000595": "ICD9CM_2005:780.31",
+            "http://purl.obolibrary.org/obo/SYMP_0000596": "ICD9CM_2005:780.3",
+            "http://purl.obolibrary.org/obo/SYMP_0000607": "ICD9CM_2005:780.1"
+          },
+          "UMLS_CUI": {
+            "http://purl.obolibrary.org/obo/SYMP_0000450": "UMLS_CUI:C0159051",
+            "http://purl.obolibrary.org/obo/SYMP_0000528": "UMLS_CUI:C0159049",
+            "http://purl.obolibrary.org/obo/SYMP_0000567": "UMLS_CUI:C0159028",
+            "http://purl.obolibrary.org/obo/SYMP_0000595": "UMLS_CUI:C0009952",
+            "http://purl.obolibrary.org/obo/SYMP_0000596": "UMLS_CUI:C0009951",
+            "http://purl.obolibrary.org/obo/SYMP_0000607": "UMLS_CUI:C0018524"
+          },
+          "UMLS_ICD9CM_2005_AUI": {
+            "http://purl.obolibrary.org/obo/SYMP_0000450": "UMLS_ICD9CM_2005_AUI:A0284197",
+            "http://purl.obolibrary.org/obo/SYMP_0000528": "UMLS_ICD9CM_2005_AUI:A0284192",
+            "http://purl.obolibrary.org/obo/SYMP_0000567": "UMLS_ICD9CM_2005_AUI:A0284119",
+            "http://purl.obolibrary.org/obo/SYMP_0000595": "UMLS_ICD9CM_2005_AUI:A0701466",
+            "http://purl.obolibrary.org/obo/SYMP_0000596": "UMLS_ICD9CM_2005_AUI:A0042665",
+            "http://purl.obolibrary.org/obo/SYMP_0000607": "UMLS_ICD9CM_2005_AUI:A0065642"
+          }
+        },
+        "unknown_prefixes": {
+          "IRAC": {
+            "http://purl.obolibrary.org/obo/CHEBI_24942": "IRAC:eClassification",
+            "http://purl.obolibrary.org/obo/CHEBI_25355": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/CHEBI_38462": "IRAC:eClassification",
+            "http://purl.obolibrary.org/obo/CHEBI_38500": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/CHEBI_38634": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/CHEBI_38809": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/CHEBI_38999": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/CHEBI_39000": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/CHEBI_39276": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/CHEBI_62608": "IRAC:eClassification",
+            "http://purl.obolibrary.org/obo/CHEBI_73267": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/IDOMAL_0000930": "IRAC:eClassification",
+            "http://purl.obolibrary.org/obo/MIRO_00000006": "IRAC:manual",
+            "http://purl.obolibrary.org/obo/MIRO_00000028": "IRAC:manual",
+            "http://purl.obolibrary.org/obo/MIRO_10000001": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/MIRO_10000030": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/MIRO_10000101": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/MIRO_10000159": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/MIRO_10000174": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/MIRO_10000176": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/MIRO_10000206": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/MIRO_10000213": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/MIRO_10000236": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/MIRO_10000265": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/MIRO_10000274": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/MIRO_10000284": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\"",
+            "http://purl.obolibrary.org/obo/MIRO_10000295": "IRAC:eClassification \"http://www.irac-online.org/eClassification/\""
+          },
+          "IUPAC": {
+            "http://purl.obolibrary.org/obo/CHEBI_34696": "IUPAC:(1R\\,4S\\,4aS\\,5R\\,6R\\,7S\\,8S\\,8aR)-1\\,2\\,3\\,4\\,10\\,10-hexachloro-1\\,4\\,4a\\,5\\,6\\,7\\,8\\,8a-octahydro-6\\,7-epoxy-1\\,4\\:5\\,8-dimethanonaphthalene",
+            "http://purl.obolibrary.org/obo/MIRO_10000108": "IUPAC:O\\,O-diethyl2-chloro--cyanobenzylideneaminooxyphosphonothioate"
+          }
         }
       }
     }

@@ -3,7 +3,7 @@
 ## `BBOP`
 
 There are 2 usages of `BBOP` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BBOP).
 
 | curie    |   usages | nodes                                                   |
@@ -14,7 +14,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BCS`
 
 There are 2 usages of `BCS` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BCS).
 
 | curie     |   usages | nodes                                                                                                            |
@@ -25,7 +25,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Clingen`
 
 There are 1 usages of `Clingen` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Clingen).
 
 | curie      |   usages | nodes                                                   |
@@ -35,7 +35,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `EBI`
 
 There are 1 usages of `EBI` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20EBI).
 
 | curie                                                     |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -45,7 +45,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `EBIBS`
 
 There are 1 usages of `EBIBS` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20EBIBS).
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -55,7 +55,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GENCODE`
 
 There are 1 usages of `GENCODE` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GENCODE).
 
 | curie                                                     |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -65,7 +65,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GENECODE`
 
 There are 1 usages of `GENECODE` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GENECODE).
 
 | curie                                                      |   usages | nodes                                                                                                            |
@@ -75,7 +75,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GMOD`
 
 There are 1 usages of `GMOD` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GMOD).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -85,7 +85,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GOC`
 
 There are 6 usages of `GOC` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
 
 | curie   |   usages | nodes                                                                                                            |
@@ -100,7 +100,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GREEKC`
 
 There are 2 usages of `GREEKC` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GREEKC).
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -111,7 +111,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `GenCC`
 
 There are 1 usages of `GenCC` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GenCC).
 
 | curie    |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -121,7 +121,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Http`
 
 There are 1 usages of `Http` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Http).
 
 | curie                                  |   usages | nodes                                                   |
@@ -131,7 +131,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `IGMT`
 
 There are 1 usages of `IGMT` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IGMT).
 
 | curie                                                                         |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -141,7 +141,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Indiana`
 
 There are 1 usages of `Indiana` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Indiana).
 
 | curie      |   usages | nodes                                                                                                            |
@@ -151,7 +151,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Invitrogen`
 
 There are 1 usages of `Invitrogen` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Invitrogen).
 
 | curie         |   usages | nodes                                                   |
@@ -161,7 +161,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `LAMHDI`
 
 There are 1 usages of `LAMHDI` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20LAMHDI).
 
 | curie     |   usages | nodes                                                   |
@@ -171,7 +171,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `NCBI`
 
 There are 4 usages of `NCBI` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NCBI).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -184,7 +184,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `POMBE`
 
 There are 2 usages of `POMBE` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20POMBE).
 
 | curie    |   usages | nodes                                                   |
@@ -195,7 +195,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Phigo`
 
 There are 2 usages of `Phigo` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Phigo).
 
 | curie        |   usages | nodes                                                                                                                                                                                                                              |
@@ -206,7 +206,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `RSC`
 
 There are 2 usages of `RSC` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RSC).
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -217,7 +217,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SANGER`
 
 There are 1 usages of `SANGER` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SANGER).
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -227,7 +227,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `SBOL`
 
 There are 2 usages of `SBOL` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SBOL).
 
 | curie        |   usages | nodes                                                                                                            |
@@ -238,7 +238,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Sanger`
 
 There are 1 usages of `Sanger` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Sanger).
 
 | curie     |   usages | nodes                                                   |
@@ -248,7 +248,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `modENCODE`
 
 There are 1 usages of `modENCODE` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20modENCODE).
 
 | curie         |   usages | nodes                                                   |
@@ -258,7 +258,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `phigo`
 
 There are 1 usages of `phigo` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20phigo).
 
 | curie    |   usages | nodes                                                   |
@@ -268,7 +268,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `sanger`
 
 There are 1 usages of `sanger` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20sanger).
 
 | curie     |   usages | nodes                                                   |
@@ -278,7 +278,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ftp`
 
 There are 1 usages of `ftp` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ftp).
 
 | curie                                           |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -288,7 +288,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `unirot`
 
 There are 1 usages of `unirot` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20unirot).
 
 | curie           |   usages | nodes                                                   |
@@ -298,7 +298,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `WIKI`
 
 There are 1 usages of `WIKI` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WIKI).
 
 | curie                                               |   usages | nodes                                                   |
@@ -308,7 +308,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `XX`
 
 There are 1 usages of `XX` in `so`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX).
 
 | curie                                                                     |   usages | nodes                                                   |

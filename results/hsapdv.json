@@ -1,380 +1,384 @@
 {
-  "http://purl.obolibrary.org/obo/hsapdv.owl": {
-    "graph_id": "http://purl.obolibrary.org/obo/hsapdv.owl",
-    "prov_pack": {
-      "invalid_luids": {},
-      "label": "Provenance Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {
-        "Bgee": {
-          "http://purl.obolibrary.org/obo/HsapDv_0000001": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000002": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000004": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000037": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000046": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000047": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000048": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000049": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000050": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000051": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000052": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000053": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000054": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000055": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000056": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000057": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000058": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000059": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000060": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000061": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000062": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000063": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000064": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000065": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000066": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000067": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000068": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000069": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000070": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000071": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000072": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000073": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000074": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000075": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000080": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000081": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000082": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000083": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000084": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000085": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000086": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000087": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000088": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000089": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000090": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000091": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000092": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000093": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000094": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000095": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000096": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000097": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000098": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000099": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000100": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000101": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000102": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000103": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000104": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000105": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000106": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000107": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000108": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000109": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000110": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000111": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000112": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000113": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000114": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000115": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000116": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000117": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000118": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000119": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000120": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000121": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000122": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000123": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000124": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000125": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000126": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000127": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000128": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000129": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000130": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000131": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000132": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000133": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000134": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000135": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000136": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000137": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000138": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000139": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000140": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000141": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000142": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000143": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000144": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000145": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000146": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000147": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000148": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000149": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000150": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000151": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000152": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000153": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000154": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000155": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000156": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000157": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000158": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000159": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000160": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000161": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000162": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000163": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000164": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000165": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000166": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000167": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000168": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000169": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000170": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000171": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000172": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000173": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000174": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000175": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000176": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000177": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000178": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000179": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000180": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000181": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000182": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000183": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000184": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000185": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000186": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000187": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000188": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000189": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000190": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000191": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000192": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000193": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000194": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000195": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000196": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000197": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000198": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000199": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000200": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000201": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000202": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000203": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000204": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000205": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000206": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000207": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000208": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000209": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000210": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000211": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000212": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000213": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000214": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000215": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000216": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000217": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000218": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000219": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000220": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000221": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000222": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000223": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000224": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000225": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000228": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000229": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000230": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000231": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000232": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000233": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000234": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000235": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000236": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000237": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000238": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000239": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000240": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000241": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000242": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000243": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000244": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000245": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000246": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000247": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000248": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000249": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000250": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000251": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000252": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000253": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000254": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000255": "Bgee:curator",
-          "http://purl.obolibrary.org/obo/HsapDv_0000256": "Bgee:curator"
+  "created": "2023-02-13T18:53:46.707163",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/hsapdv.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/hsapdv.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "Bgee": {
+            "http://purl.obolibrary.org/obo/HsapDv_0000001": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000002": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000004": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000037": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000046": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000047": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000048": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000049": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000050": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000051": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000052": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000053": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000054": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000055": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000056": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000057": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000058": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000059": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000060": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000061": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000062": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000063": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000064": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000065": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000066": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000067": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000068": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000069": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000070": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000071": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000072": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000073": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000074": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000075": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000080": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000081": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000082": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000083": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000084": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000085": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000086": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000087": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000088": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000089": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000090": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000091": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000092": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000093": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000094": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000095": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000096": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000097": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000098": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000099": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000100": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000101": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000102": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000103": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000104": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000105": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000106": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000107": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000108": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000109": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000110": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000111": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000112": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000113": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000114": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000115": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000116": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000117": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000118": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000119": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000120": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000121": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000122": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000123": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000124": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000125": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000126": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000127": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000128": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000129": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000130": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000131": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000132": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000133": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000134": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000135": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000136": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000137": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000138": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000139": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000140": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000141": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000142": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000143": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000144": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000145": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000146": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000147": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000148": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000149": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000150": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000151": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000152": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000153": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000154": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000155": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000156": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000157": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000158": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000159": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000160": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000161": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000162": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000163": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000164": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000165": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000166": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000167": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000168": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000169": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000170": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000171": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000172": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000173": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000174": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000175": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000176": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000177": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000178": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000179": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000180": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000181": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000182": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000183": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000184": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000185": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000186": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000187": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000188": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000189": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000190": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000191": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000192": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000193": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000194": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000195": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000196": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000197": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000198": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000199": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000200": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000201": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000202": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000203": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000204": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000205": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000206": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000207": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000208": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000209": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000210": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000211": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000212": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000213": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000214": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000215": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000216": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000217": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000218": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000219": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000220": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000221": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000222": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000223": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000224": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000225": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000228": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000229": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000230": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000231": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000232": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000233": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000234": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000235": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000236": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000237": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000238": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000239": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000240": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000241": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000242": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000243": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000244": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000245": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000246": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000247": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000248": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000249": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000250": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000251": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000252": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000253": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000254": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000255": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000256": "Bgee:curator"
+          }
         }
+      },
+      "synonym_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/HsapDv_0000003": [
+            "EHDAA2:CS01"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000005": [
+            "EHDAA2:CS02"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000007": [
+            "EHDAA2:CS03"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000008": [
+            "EHDAA2:CS04"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000013": [
+            "EHDAA2:CS07"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000014": [
+            "EHDAA2:CS08"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000016": [
+            "EHDAA2:CS09"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000017": [
+            "EHDAA2:CS10"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000018": [
+            "EHDAA2:CS11"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000019": [
+            "EHDAA2:CS12"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000020": [
+            "EHDAA2:CS13"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000021": [
+            "EHDAA2:CS14"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000022": [
+            "EHDAA2:CS15"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000023": [
+            "EHDAA2:CS16"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000024": [
+            "EHDAA2:CS17"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000025": [
+            "EHDAA2:CS18"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000026": [
+            "EHDAA2:CS19"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000027": [
+            "EHDAA2:CS20"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000031": [
+            "EHDAA2:CS05a"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000032": [
+            "EHDAA2:CS05b"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000033": [
+            "EHDAA2:CS05c"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000034": [
+            "EHDAA2:CS06a"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000035": [
+            "EHDAA2:CS06b"
+          ]
+        },
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2020-03-10",
+      "version_iri": "http://purl.obolibrary.org/obo/hsapdv/releases/2020-03-10/hsapdv.owl",
+      "xref_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/HsapDv_0000003": [
+            "EHDAA2:CS01"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000005": [
+            "EHDAA2:CS02"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000007": [
+            "EHDAA2:CS03"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000008": [
+            "EHDAA2:CS04"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000013": [
+            "EHDAA2:CS07"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000014": [
+            "EHDAA2:CS08"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000016": [
+            "EHDAA2:CS09"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000017": [
+            "EHDAA2:CS10"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000018": [
+            "EHDAA2:CS11"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000019": [
+            "EHDAA2:CS12"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000020": [
+            "EHDAA2:CS13"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000021": [
+            "EHDAA2:CS14"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000022": [
+            "EHDAA2:CS15"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000023": [
+            "EHDAA2:CS16"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000024": [
+            "EHDAA2:CS17"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000025": [
+            "EHDAA2:CS18"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000026": [
+            "EHDAA2:CS19"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000027": [
+            "EHDAA2:CS20"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000031": [
+            "EHDAA2:CS05a"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000032": [
+            "EHDAA2:CS05b"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000033": [
+            "EHDAA2:CS05c"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000034": [
+            "EHDAA2:CS06a"
+          ],
+          "http://purl.obolibrary.org/obo/HsapDv_0000035": [
+            "EHDAA2:CS06b"
+          ]
+        },
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
       }
-    },
-    "synonym_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/HsapDv_0000003": [
-          "EHDAA2:CS01"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000005": [
-          "EHDAA2:CS02"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000007": [
-          "EHDAA2:CS03"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000008": [
-          "EHDAA2:CS04"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000013": [
-          "EHDAA2:CS07"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000014": [
-          "EHDAA2:CS08"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000016": [
-          "EHDAA2:CS09"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000017": [
-          "EHDAA2:CS10"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000018": [
-          "EHDAA2:CS11"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000019": [
-          "EHDAA2:CS12"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000020": [
-          "EHDAA2:CS13"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000021": [
-          "EHDAA2:CS14"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000022": [
-          "EHDAA2:CS15"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000023": [
-          "EHDAA2:CS16"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000024": [
-          "EHDAA2:CS17"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000025": [
-          "EHDAA2:CS18"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000026": [
-          "EHDAA2:CS19"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000027": [
-          "EHDAA2:CS20"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000031": [
-          "EHDAA2:CS05a"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000032": [
-          "EHDAA2:CS05b"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000033": [
-          "EHDAA2:CS05c"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000034": [
-          "EHDAA2:CS06a"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000035": [
-          "EHDAA2:CS06b"
-        ]
-      },
-      "label": "Synonym Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
-    },
-    "version": "2020-03-10",
-    "version_iri": "http://purl.obolibrary.org/obo/hsapdv/releases/2020-03-10/hsapdv.owl",
-    "xref_pack": {
-      "invalid_luids": {
-        "http://purl.obolibrary.org/obo/HsapDv_0000003": [
-          "EHDAA2:CS01"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000005": [
-          "EHDAA2:CS02"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000007": [
-          "EHDAA2:CS03"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000008": [
-          "EHDAA2:CS04"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000013": [
-          "EHDAA2:CS07"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000014": [
-          "EHDAA2:CS08"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000016": [
-          "EHDAA2:CS09"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000017": [
-          "EHDAA2:CS10"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000018": [
-          "EHDAA2:CS11"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000019": [
-          "EHDAA2:CS12"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000020": [
-          "EHDAA2:CS13"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000021": [
-          "EHDAA2:CS14"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000022": [
-          "EHDAA2:CS15"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000023": [
-          "EHDAA2:CS16"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000024": [
-          "EHDAA2:CS17"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000025": [
-          "EHDAA2:CS18"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000026": [
-          "EHDAA2:CS19"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000027": [
-          "EHDAA2:CS20"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000031": [
-          "EHDAA2:CS05a"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000032": [
-          "EHDAA2:CS05b"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000033": [
-          "EHDAA2:CS05c"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000034": [
-          "EHDAA2:CS06a"
-        ],
-        "http://purl.obolibrary.org/obo/HsapDv_0000035": [
-          "EHDAA2:CS06b"
-        ]
-      },
-      "label": "Node Xrefs",
-      "malformed_curies": {},
-      "noncanonical_prefixes": {},
-      "unknown_prefixes": {}
     }
   }
 }

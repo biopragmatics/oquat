@@ -3,7 +3,7 @@
 ## `WikipediaVersioned`
 
 There are 1 usages of `WikipediaVersioned` in `efo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WikipediaVersioned).
 
 | curie                                                |   usages | nodes                                               |
@@ -13,7 +13,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MONDORULE`
 
 There are 2 usages of `MONDORULE` in `efo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MONDORULE).
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                        |
@@ -24,7 +24,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MTH`
 
 There are 1 usages of `MTH` in `efo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MTH).
 
 | curie   |   usages | nodes                                               |
@@ -34,7 +34,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `BilaDO`
 
 There are 1 usages of `BilaDO` in `efo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20BilaDO).
 
 | curie          |   usages | nodes                                               |
@@ -44,7 +44,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `Germplasm`
 
 There are 2 usages of `Germplasm` in `efo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Germplasm).
 
 | curie             |   usages | nodes                                               |
@@ -55,7 +55,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `ICD10EXP`
 
 There are 14 usages of `ICD10EXP` in `efo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10EXP).
 
 | curie           |   usages | nodes                                               |
@@ -78,7 +78,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `MAP`
 
 There are 1 usages of `MAP` in `efo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MAP).
 
 | curie       |   usages | nodes                                               |
@@ -88,7 +88,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `OGES`
 
 There are 1 usages of `OGES` in `efo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OGES).
 
 | curie       |   usages | nodes                                               |
@@ -98,7 +98,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `PERSON`
 
 There are 2 usages of `PERSON` in `efo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PERSON).
 
 | curie                |   usages | nodes                                                                                                                                                                                                              |
@@ -109,7 +109,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `STRUCTURE_Formula`
 
 There are 2 usages of `STRUCTURE_Formula` in `efo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20STRUCTURE_Formula).
 
 | curie                          |   usages | nodes                                               |
@@ -120,7 +120,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 ## `birn_anat`
 
 There are 5 usages of `birn_anat` in `efo`.
-If you are knowledgable about this prefix, please consider submitting a new prefix
+If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20birn_anat).
 
 | curie                       |   usages | nodes                                               |
