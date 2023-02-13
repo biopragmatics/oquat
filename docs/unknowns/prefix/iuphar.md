@@ -1,22 +1,5 @@
 # `iuphar`
 
-## pr
-
-| curie                                 |   usages | nodes                                                       |
-|---------------------------------------|----------|-------------------------------------------------------------|
-| IUPHAR:GPCRListForward?class=A        |        1 | [PR:000001094](http://purl.obolibrary.org/obo/PR_000001094) |
-| IUPHAR:GPCRListForward?class=B        |        1 | [PR:000001095](http://purl.obolibrary.org/obo/PR_000001095) |
-| IUPHAR:GPCRListForward?class=C        |        1 | [PR:000030038](http://purl.obolibrary.org/obo/PR_000030038) |
-| IUPHAR:GPCRListForward?class=adhesion |        1 | [PR:000001087](http://purl.obolibrary.org/obo/PR_000001087) |
-| IUPHAR:GPCRListForward?class=frizzled |        1 | [PR:000001315](http://purl.obolibrary.org/obo/PR_000001315) |
-
-## nif
-
-| curie                                                    |   usages | nodes                                                       |
-|----------------------------------------------------------|----------|-------------------------------------------------------------|
-| IUPHAR:http://www.iuphar-db.org/GPCR/ReceptorListForward |        1 | [PR:000001094](http://purl.obolibrary.org/obo/PR_000001094) |
-| IUPHAR:GPCRListForward?class=A                           |        1 | [PR:000001094](http://purl.obolibrary.org/obo/PR_000001094) |
-
 ## orphanet
 
 | curie       |   usages | nodes                                                                                  |

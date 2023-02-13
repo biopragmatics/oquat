@@ -1,7 +1,7 @@
 {
-  "created": "2023-02-13T19:15:46.014576",
+  "created": "2023-02-13T21:30:52.078801",
   "messages": [
-    "2023-02-13 19:15:45,357 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 7 triple(s) that could not be parsed:",
+    "ERROR Input ontology contains 7 triple(s) that could not be parsed:",
     " - <http://www.wurvoc.org/bibliography/om-2/Stroemgren1956Authors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1> <http://www.wurvoc.org/bibliography/om-2/Brengt_Stroemgren>.",
     " - <http://www.wurvoc.org/bibliography/om-2/Stroemgren1956Authors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq>.",
     " - <http://www.wurvoc.org/bibliography/om-2/IntroAstronomicalPhotometryAuthors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq>.",

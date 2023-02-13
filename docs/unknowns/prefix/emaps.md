@@ -1,11 +1,5 @@
 # `emaps`
 
-## uberon
-
-| curie         |   usages | nodes                                                           |
-|---------------|----------|-----------------------------------------------------------------|
-| EMAPS:1818928 |        1 | [UBERON:0018240](http://purl.obolibrary.org/obo/UBERON_0018240) |
-
 ## ma
 
 | curie          |   usages | nodes                                                                                                            |
@@ -221,7 +215,7 @@
 | EMAPS:3584528  |        1 | [MA:0000227](http://purl.obolibrary.org/obo/MA_0000227)                                                          |
 | EMAPS:3281528  |        1 | [MA:0000228](http://purl.obolibrary.org/obo/MA_0000228)                                                          |
 | EMAPS:1698628  |        1 | [MA:0000229](http://purl.obolibrary.org/obo/MA_0000229)                                                          |
-| EMAPS:1666628  |        1 | [MA:0000230](http://purl.obolibrary.org/obo/MA_0000230)                                                          |
+| EMAPS:3579628  |        1 | [MA:0000230](http://purl.obolibrary.org/obo/MA_0000230)                                                          |
 | EMAPS:1666728  |        1 | [MA:0000231](http://purl.obolibrary.org/obo/MA_0000231)                                                          |
 | EMAPS:1666828  |        1 | [MA:0000232](http://purl.obolibrary.org/obo/MA_0000232)                                                          |
 | EMAPS:1698928  |        1 | [MA:0000233](http://purl.obolibrary.org/obo/MA_0000233)                                                          |
@@ -381,7 +375,7 @@
 | EMAPS:1929628  |        1 | [MA:0000409](http://purl.obolibrary.org/obo/MA_0000409)                                                          |
 | EMAPS:1918028  |        1 | [MA:0000410](http://purl.obolibrary.org/obo/MA_0000410)                                                          |
 | EMAPS:1797228  |        1 | [MA:0000411](http://purl.obolibrary.org/obo/MA_0000411)                                                          |
-| EMAPS:1868528  |        1 | [MA:0000412](http://purl.obolibrary.org/obo/MA_0000412)                                                          |
+| EMAPS:3147628  |        1 | [MA:0000412](http://purl.obolibrary.org/obo/MA_0000412)                                                          |
 | EMAPS:1868128  |        1 | [MA:0000413](http://purl.obolibrary.org/obo/MA_0000413)                                                          |
 | EMAPS:1833328  |        1 | [MA:0000414](http://purl.obolibrary.org/obo/MA_0000414)                                                          |
 | EMAPS:1672828  |        1 | [MA:0000415](http://purl.obolibrary.org/obo/MA_0000415)                                                          |
@@ -449,7 +443,7 @@
 | EMAPS:1818528  |        1 | [MA:0000537](http://purl.obolibrary.org/obo/MA_0000537)                                                          |
 | EMAPS:2854028  |        1 | [MA:0000544](http://purl.obolibrary.org/obo/MA_0000544)                                                          |
 | EMAPS:1802528  |        1 | [MA:0000547](http://purl.obolibrary.org/obo/MA_0000547)                                                          |
-| EMAPS:1774728  |        1 | [MA:0000548](http://purl.obolibrary.org/obo/MA_0000548)                                                          |
+| EMAPS:1774828  |        1 | [MA:0000548](http://purl.obolibrary.org/obo/MA_0000548)                                                          |
 | EMAPS:3285628  |        1 | [MA:0000565](http://purl.obolibrary.org/obo/MA_0000565)                                                          |
 | EMAPS:3599628  |        1 | [MA:0000576](http://purl.obolibrary.org/obo/MA_0000576)                                                          |
 | EMAPS:1609828  |        1 | [MA:0000577](http://purl.obolibrary.org/obo/MA_0000577)                                                          |
@@ -803,9 +797,9 @@
 | EMAPS:1726928  |        1 | [MA:0001094](http://purl.obolibrary.org/obo/MA_0001094)                                                          |
 | EMAPS:1757428  |        1 | [MA:0001095](http://purl.obolibrary.org/obo/MA_0001095)                                                          |
 | EMAPS:1779728  |        1 | [MA:0001096](http://purl.obolibrary.org/obo/MA_0001096)                                                          |
-| EMAPS:1757528  |        1 | [MA:0001097](http://purl.obolibrary.org/obo/MA_0001097)                                                          |
+| EMAPS:1784628  |        1 | [MA:0001097](http://purl.obolibrary.org/obo/MA_0001097)                                                          |
 | EMAPS:1760328  |        1 | [MA:0001098](http://purl.obolibrary.org/obo/MA_0001098)                                                          |
-| EMAPS:1667828  |        1 | [MA:0001099](http://purl.obolibrary.org/obo/MA_0001099)                                                          |
+| EMAPS:3561728  |        1 | [MA:0001099](http://purl.obolibrary.org/obo/MA_0001099)                                                          |
 | EMAPS:1757628  |        1 | [MA:0001100](http://purl.obolibrary.org/obo/MA_0001100)                                                          |
 | EMAPS:1779828  |        1 | [MA:0001101](http://purl.obolibrary.org/obo/MA_0001101)                                                          |
 | EMAPS:1916828  |        1 | [MA:0001102](http://purl.obolibrary.org/obo/MA_0001102)                                                          |
@@ -1223,14 +1217,14 @@
 | EMAPS:3515528  |        1 | [MA:0001791](http://purl.obolibrary.org/obo/MA_0001791)                                                          |
 | EMAPS:1896328  |        1 | [MA:0001797](http://purl.obolibrary.org/obo/MA_0001797)                                                          |
 | EMAPS:1926928  |        1 | [MA:0001798](http://purl.obolibrary.org/obo/MA_0001798)                                                          |
-| EMAPS:3573128  |        1 | [MA:0001799](http://purl.obolibrary.org/obo/MA_0001799)                                                          |
+| EMAPS:3599528  |        1 | [MA:0001799](http://purl.obolibrary.org/obo/MA_0001799)                                                          |
 | EMAPS:3573228  |        1 | [MA:0001805](http://purl.obolibrary.org/obo/MA_0001805)                                                          |
 | EMAPS:3597728  |        1 | [MA:0001814](http://purl.obolibrary.org/obo/MA_0001814)                                                          |
 | EMAPS:1869428  |        1 | [MA:0001818](http://purl.obolibrary.org/obo/MA_0001818)                                                          |
 | EMAPS:3282628  |        1 | [MA:0001823](http://purl.obolibrary.org/obo/MA_0001823)                                                          |
 | EMAPS:3573328  |        1 | [MA:0001828](http://purl.obolibrary.org/obo/MA_0001828)                                                          |
 | EMAPS:3573428  |        1 | [MA:0001830](http://purl.obolibrary.org/obo/MA_0001830)                                                          |
-| EMAPS:3269028  |        1 | [MA:0001831](http://purl.obolibrary.org/obo/MA_0001831)                                                          |
+| EMAPS:3519328  |        1 | [MA:0001831](http://purl.obolibrary.org/obo/MA_0001831)                                                          |
 | EMAPS:3519228  |        1 | [MA:0001835](http://purl.obolibrary.org/obo/MA_0001835)                                                          |
 | EMAPS:3519428  |        1 | [MA:0001836](http://purl.obolibrary.org/obo/MA_0001836)                                                          |
 | EMAPS:3269128  |        1 | [MA:0001839](http://purl.obolibrary.org/obo/MA_0001839)                                                          |
@@ -1312,7 +1306,7 @@
 | EMAPS:1681228  |        1 | [MA:0002025](http://purl.obolibrary.org/obo/MA_0002025)                                                          |
 | EMAPS:1700828  |        1 | [MA:0002031](http://purl.obolibrary.org/obo/MA_0002031)                                                          |
 | EMAPS:1824028  |        1 | [MA:0002033](http://purl.obolibrary.org/obo/MA_0002033)                                                          |
-| EMAPS:1786228  |        1 | [MA:0002035](http://purl.obolibrary.org/obo/MA_0002035)                                                          |
+| EMAPS:2837328  |        1 | [MA:0002035](http://purl.obolibrary.org/obo/MA_0002035)                                                          |
 | EMAPS:1824128  |        1 | [MA:0002043](http://purl.obolibrary.org/obo/MA_0002043)                                                          |
 | EMAPS:1761728  |        1 | [MA:0002045](http://purl.obolibrary.org/obo/MA_0002045)                                                          |
 | EMAPS:1909728  |        1 | [MA:0002048](http://purl.obolibrary.org/obo/MA_0002048)                                                          |
@@ -1863,7 +1857,7 @@
 | EMAPS:2691328  |        1 | [MA:0003256](http://purl.obolibrary.org/obo/MA_0003256)                                                          |
 | EMAPS:3625428  |        1 | [MA:0003257](http://purl.obolibrary.org/obo/MA_0003257)                                                          |
 
-## nif
+## uberon
 
 | curie         |   usages | nodes                                                           |
 |---------------|----------|-----------------------------------------------------------------|

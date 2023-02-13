@@ -1,7 +1,7 @@
 {
-  "created": "2023-02-13T18:51:35.965386",
+  "created": "2023-02-13T21:16:06.606013",
   "messages": [
-    "2023-02-13 18:51:35,405 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 2764 triple(s) that could not be parsed:",
+    "ERROR Input ontology contains 2764 triple(s) that could not be parsed:",
     " - <http://api.hymao.org/api/figure/fig_8586.svg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147492924.",
     " - <http://api.hymao.org/api/figure/fig_8858.svg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147493175.",
     " - <http://api.hymao.org/api/figure/fig_12662.svg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147491202.",

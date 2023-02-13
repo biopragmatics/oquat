@@ -823,7 +823,7 @@
 | PharmacoDB:RERFLCMS_1306_2019              |        1 | [Cellosaurus#CVCL:1655](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1655) |
 | PharmacoDB:RERFLCSq1_1308_2019             |        1 | [Cellosaurus#CVCL:1656](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1656) |
 | PharmacoDB:RF48_1309_2019                  |        1 | [Cellosaurus#CVCL:1657](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1657) |
-| PharmacoDB:EW8_361_2019                    |        1 | [Cellosaurus#CVCL:1658](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1658) |
+| PharmacoDB:RH1_1310_2019                   |        1 | [Cellosaurus#CVCL:1658](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1658) |
 | PharmacoDB:RH18_1311_2019                  |        1 | [Cellosaurus#CVCL:1659](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1659) |
 | PharmacoDB:RL_1318_2019                    |        1 | [Cellosaurus#CVCL:1660](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1660) |
 | PharmacoDB:ZR7530_1690_2019                |        1 | [Cellosaurus#CVCL:1661](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1661) |

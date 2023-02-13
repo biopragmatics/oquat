@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `icd11`
 but use local unique identifiers that do not match the standard pattern of
-`^[1-9]\d*$`. Of the 5 resources,
+`^[1-9]\d*$`. Of the 4 resources,
 2 variants on the standard prefix were found: ['ICD-11', 'ICD11'].
 
 ## `covoc`: CoVoc Coronavirus Vocabulary
@@ -31,14 +31,6 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | `ICD11:LD08.1`  |              1 | [MONDO:0020066](http://purl.obolibrary.org/obo/MONDO_0020066) |
 | `ICD11:RA01.0`  |              1 | [MONDO:0100096](http://purl.obolibrary.org/obo/MONDO_0100096) |
 | `ICD11:RA01.2`  |              1 | [MONDO:0100096](http://purl.obolibrary.org/obo/MONDO_0100096) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref   |   usages_count | usages                                                      |
-|-----------------|----------------|-------------------------------------------------------------|
-| `ICD11:4B24`    |              1 | [DOID:0081267](http://purl.obolibrary.org/obo/DOID_0081267) |
 
 ## `orphanet`: Orphanet
 

@@ -6,12 +6,6 @@
 |---------|----------|-------------------------------------------------------|
 | MTH:646 |        1 | [DOID:2975](http://purl.obolibrary.org/obo/DOID_2975) |
 
-## covoc
-
-| curie      |   usages | nodes                                                         |
-|------------|----------|---------------------------------------------------------------|
-| MTH:NOCODE |        1 | [MONDO:0007186](http://purl.obolibrary.org/obo/MONDO_0007186) |
-
 ## efo
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                        |
@@ -37,6 +31,12 @@
 | MTH:191     |        1 | [EFO:1001950](http://www.ebi.ac.uk/efo/EFO_1001950)                                                                                                                                                                                                                          |
 | MTH:587     |        1 | [EFO:1002023](http://www.ebi.ac.uk/efo/EFO_1002023)                                                                                                                                                                                                                          |
 | MTH:217     |        1 | [EFO:0003894](http://www.ebi.ac.uk/efo/EFO_0003894)                                                                                                                                                                                                                          |
+
+## covoc
+
+| curie      |   usages | nodes                                                         |
+|------------|----------|---------------------------------------------------------------|
+| MTH:NOCODE |        1 | [MONDO:0007186](http://purl.obolibrary.org/obo/MONDO_0007186) |
 
 ## epso
 

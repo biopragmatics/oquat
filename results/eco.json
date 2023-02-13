@@ -1,5 +1,5 @@
 {
-  "created": "2023-02-13T18:39:31.138297",
+  "created": "2023-02-13T21:02:59.511776",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/eco.owl": {
@@ -4752,7 +4752,7 @@
         "malformed_curies": {},
         "noncanonical_prefixes": {
           "GO_REF": {
-            "http://purl.obolibrary.org/obo/ECO_0000031": "GO_REF:0000012",
+            "http://purl.obolibrary.org/obo/ECO_0000031": "GO_REF:0000027",
             "http://purl.obolibrary.org/obo/ECO_0000084": "GO_REF:0000025",
             "http://purl.obolibrary.org/obo/ECO_0000249": "GO_REF:0000107",
             "http://purl.obolibrary.org/obo/ECO_0000255": "GO_REF:0000011",
@@ -4760,7 +4760,7 @@
             "http://purl.obolibrary.org/obo/ECO_0000265": "GO_REF:0000035",
             "http://purl.obolibrary.org/obo/ECO_0000354": "GO_REF:0000025",
             "http://purl.obolibrary.org/obo/ECO_0000363": "GO_REF:0000108",
-            "http://purl.obolibrary.org/obo/ECO_0000501": "GO_REF:0000043"
+            "http://purl.obolibrary.org/obo/ECO_0000501": "GO_REF:0000116"
           }
         },
         "unknown_prefixes": {

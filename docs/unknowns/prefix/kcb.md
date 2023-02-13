@@ -18,8 +18,8 @@
 | KCB:KCB 200434YJ    |        1 | [Cellosaurus#CVCL:0023](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0023) |
 | KCB:KCB 200710YJ    |        1 | [Cellosaurus#CVCL:0025](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0025) |
 | KCB:KCB 200507YJ    |        1 | [Cellosaurus#CVCL:0027](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0027) |
-| KCB:KCB 86019YJ     |        1 | [Cellosaurus#CVCL:0030](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0030) |
-| KCB:KCB 200529YJ    |        1 | [Cellosaurus#CVCL:0031](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0031) |
+| KCB:KCB 90024YJ     |        1 | [Cellosaurus#CVCL:0030](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0030) |
+| KCB:KCB 200831YJ    |        1 | [Cellosaurus#CVCL:0031](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0031) |
 | KCB:KCB 2013026YJ   |        1 | [Cellosaurus#CVCL:0032](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0032) |
 | KCB:KCB 200723YJ    |        1 | [Cellosaurus#CVCL:0033](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0033) |
 | KCB:KCB 200725YJ    |        1 | [Cellosaurus#CVCL:0035](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0035) |
@@ -53,7 +53,7 @@
 | KCB:KCB 2013041YJ   |        1 | [Cellosaurus#CVCL:0201](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0201) |
 | KCB:KCB 2014010YJ   |        1 | [Cellosaurus#CVCL:0204](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0204) |
 | KCB:KCB 93014YJ     |        1 | [Cellosaurus#CVCL:0212](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0212) |
-| KCB:KCB 82012YJ     |        1 | [Cellosaurus#CVCL:0213](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0213) |
+| KCB:KCB 83004YJ     |        1 | [Cellosaurus#CVCL:0213](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0213) |
 | KCB:KCB 88028YJ     |        1 | [Cellosaurus#CVCL:0214](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0214) |
 | KCB:KCB 2017032YJ   |        1 | [Cellosaurus#CVCL:0216](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0216) |
 | KCB:KCB 200719YJ    |        1 | [Cellosaurus#CVCL:0218](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0218) |
@@ -75,7 +75,7 @@
 | KCB:KCB 200703YJ    |        1 | [Cellosaurus#CVCL:0315](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0315) |
 | KCB:KCB 2013029YJ   |        1 | [Cellosaurus#CVCL:0317](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0317) |
 | KCB:KCB 200508YJ    |        1 | [Cellosaurus#CVCL:0320](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0320) |
-| KCB:KCB 200771YJ    |        1 | [Cellosaurus#CVCL:0326](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0326) |
+| KCB:KCB 200942YJ    |        1 | [Cellosaurus#CVCL:0326](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0326) |
 | KCB:KCB 2012025YJ   |        1 | [Cellosaurus#CVCL:0332](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0332) |
 | KCB:KCB 2013048YJ   |        1 | [Cellosaurus#CVCL:0333](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0333) |
 | KCB:KCB 200970YJ    |        1 | [Cellosaurus#CVCL:0336](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0336) |
@@ -96,7 +96,7 @@
 | KCB:KCB 2006105YJ   |        1 | [Cellosaurus#CVCL:0422](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0422) |
 | KCB:KCB 200528YJ    |        1 | [Cellosaurus#CVCL:0426](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0426) |
 | KCB:KCB 2016037YJ   |        1 | [Cellosaurus#CVCL:0439](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0439) |
-| KCB:KCB 200412YJ    |        1 | [Cellosaurus#CVCL:0440](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0440) |
+| KCB:KCB 89023YJ     |        1 | [Cellosaurus#CVCL:0440](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0440) |
 | KCB:KCB 200822YJ    |        1 | [Cellosaurus#CVCL:0455](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0455) |
 | KCB:KCB 2015009YJ   |        1 | [Cellosaurus#CVCL:0458](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0458) |
 | KCB:KCB 2010102YJ   |        1 | [Cellosaurus#CVCL:0459](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0459) |
@@ -107,8 +107,8 @@
 | KCB:KCB 2014025YJ   |        1 | [Cellosaurus#CVCL:0470](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0470) |
 | KCB:KCB 200824YJ    |        1 | [Cellosaurus#CVCL:0472](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0472) |
 | KCB:KCB 200775YJ    |        1 | [Cellosaurus#CVCL:0477](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0477) |
-| KCB:KCB 200788YJ    |        1 | [Cellosaurus#CVCL:0480](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0480) |
-| KCB:KCB 200735YJ    |        1 | [Cellosaurus#CVCL:0481](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0481) |
+| KCB:KCB 200809YJ    |        1 | [Cellosaurus#CVCL:0480](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0480) |
+| KCB:KCB 93033YJ     |        1 | [Cellosaurus#CVCL:0481](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0481) |
 | KCB:KCB 200785YJ    |        1 | [Cellosaurus#CVCL:0485](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0485) |
 | KCB:KCB 82005YJ     |        1 | [Cellosaurus#CVCL:0489](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0489) |
 | KCB:KCB 200603YJ    |        1 | [Cellosaurus#CVCL:0493](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0493) |
@@ -181,7 +181,7 @@
 | KCB:KCB 2014053YJ   |        1 | [Cellosaurus#CVCL:1783](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1783) |
 | KCB:KCB 92005YJ     |        1 | [Cellosaurus#CVCL:1915](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1915) |
 | KCB:KCB 89021YJ     |        1 | [Cellosaurus#CVCL:1920](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1920) |
-| KCB:KCB 91004YJ     |        1 | [Cellosaurus#CVCL:1953](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1953) |
+| KCB:KCB 93008YJ     |        1 | [Cellosaurus#CVCL:1953](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1953) |
 | KCB:KCB 200712YJ    |        1 | [Cellosaurus#CVCL:1977](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1977) |
 | KCB:KCB 2014070YJ   |        1 | [Cellosaurus#CVCL:2018](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2018) |
 | KCB:KCB 200855YJ    |        1 | [Cellosaurus#CVCL:2111](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2111) |
@@ -205,17 +205,17 @@
 | KCB:KCB 2015018YJ   |        1 | [Cellosaurus#CVCL:2718](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2718) |
 | KCB:KCB 93029YJ     |        1 | [Cellosaurus#CVCL:2874](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2874) |
 | KCB:KCB 2016077YJ   |        1 | [Cellosaurus#CVCL:2915](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2915) |
-| KCB:KCB 200648YJ    |        1 | [Cellosaurus#CVCL:2959](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2959) |
+| KCB:KCB 2012087YJ   |        1 | [Cellosaurus#CVCL:2959](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2959) |
 | KCB:KCB 2015019YJ   |        1 | [Cellosaurus#CVCL:2967](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2967) |
 | KCB:KCB 2013030YJ   |        1 | [Cellosaurus#CVCL:3155](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3155) |
 | KCB:KCB 2014059YJ   |        1 | [Cellosaurus#CVCL:3275](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3275) |
 | KCB:KCB 94021YJ     |        1 | [Cellosaurus#CVCL:3310](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3310) |
 | KCB:KCB 86017YJ     |        1 | [Cellosaurus#CVCL:3371](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3371) |
-| KCB:KCB 87015YJ     |        1 | [Cellosaurus#CVCL:3392](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3392) |
+| KCB:KCB 94012YJ     |        1 | [Cellosaurus#CVCL:3392](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3392) |
 | KCB:KCB 82010YJ     |        1 | [Cellosaurus#CVCL:3472](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3472) |
 | KCB:KCB 2013004YJ   |        1 | [Cellosaurus#CVCL:3603](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3603) |
 | KCB:KCB 2012094YJ   |        1 | [Cellosaurus#CVCL:3622](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3622) |
-| KCB:KCB 2017068YJ   |        1 | [Cellosaurus#CVCL:3688](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3688) |
+| KCB:KCB 2018026YJ   |        1 | [Cellosaurus#CVCL:3688](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3688) |
 | KCB:KCB 200677YJ    |        1 | [Cellosaurus#CVCL:3755](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3755) |
 | KCB:KCB 92014YJ     |        1 | [Cellosaurus#CVCL:3758](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3758) |
 | KCB:KCB 2016061YJ   |        1 | [Cellosaurus#CVCL:3764](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3764) |
@@ -400,7 +400,7 @@
 | KCB:KCB 88011KZJ    |        1 | [Cellosaurus#CVCL:BS84](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS84) |
 | KCB:KCB 88011LZJ    |        1 | [Cellosaurus#CVCL:BS85](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS85) |
 | KCB:KCB 88011SZJ    |        1 | [Cellosaurus#CVCL:BS86](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS86) |
-| KCB:KCB 94005ZJ     |        1 | [Cellosaurus#CVCL:BS92](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS92) |
+| KCB:KCB 94013       |        1 | [Cellosaurus#CVCL:BS92](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS92) |
 | KCB:KCB 200539YJ    |        1 | [Cellosaurus#CVCL:BS93](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS93) |
 | KCB:KCB 90014ZJ     |        1 | [Cellosaurus#CVCL:BS94](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS94) |
 | KCB:KCB 94026ZJ     |        1 | [Cellosaurus#CVCL:BS95](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS95) |
@@ -420,7 +420,7 @@
 | KCB:KCB 200705SZJ   |        1 | [Cellosaurus#CVCL:DR20](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_DR20) |
 | KCB:KCB 88014KZJ    |        1 | [Cellosaurus#CVCL:DR22](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_DR22) |
 | KCB:KCB 83002ZJ     |        1 | [Cellosaurus#CVCL:DR23](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_DR23) |
-| KCB:KCB 2014029YJ   |        1 | [Cellosaurus#CVCL:F936](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_F936) |
+| KCB:KCB 93030YJ     |        1 | [Cellosaurus#CVCL:F936](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_F936) |
 | KCB:KCB 200915ZJ    |        1 | [Cellosaurus#CVCL:G258](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_G258) |
 | KCB:KCB 200918ZJ    |        1 | [Cellosaurus#CVCL:G259](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_G259) |
 | KCB:KCB 200917ZJ    |        1 | [Cellosaurus#CVCL:G260](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_G260) |

@@ -1,11 +1,9 @@
 {
-  "created": "2023-02-13T20:02:10.309221",
-  "messages": [
-    "could not parse JSON for vbo from http://purl.obolibrary.org/obo/vbo.json"
-  ],
+  "created": "2023-02-13T21:55:19.580956",
+  "messages": [],
   "results": {
-    "http://purl.obolibrary.org/obo/vbo.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/vbo.owl",
+    "http://purl.obolibrary.org/obo/vbo.json": {
+      "graph_id": "http://purl.obolibrary.org/obo/vbo.json",
       "prov_pack": {
         "invalid_luids": {},
         "label": "Provenance Xrefs",
@@ -21,7 +19,7 @@
         "unknown_prefixes": {}
       },
       "version": "2023-02-07",
-      "version_iri": "http://purl.obolibrary.org/obo/vbo/releases/2023-02-07/vbo.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/vbo/releases/2023-02-07/vbo.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/VBO_0000466": [

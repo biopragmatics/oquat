@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `bspo`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 3 resources,
+`^\d{7}$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['BSPO'].
 
 ## `bspo`: Biological Spatial Ontology
@@ -28,14 +28,4 @@ Identifiers for this prefix are given incorrectly in `enm`.
 |----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `BSPO:cjm`           |             11 | [BSPO:0000096](http://purl.obolibrary.org/obo/BSPO_0000096), [BSPO:0000097](http://purl.obolibrary.org/obo/BSPO_0000097), [BSPO:0000098](http://purl.obolibrary.org/obo/BSPO_0000098), [BSPO:0000099](http://purl.obolibrary.org/obo/BSPO_0000099), [BSPO:0000100](http://purl.obolibrary.org/obo/BSPO_0000100), ... |
 | `BSPO:PATO_mtg_2009` |              6 | [BSPO:0000120](http://purl.obolibrary.org/obo/BSPO_0000120), [BSPO:0000121](http://purl.obolibrary.org/obo/BSPO_0000121), [BSPO:0000122](http://purl.obolibrary.org/obo/BSPO_0000122), [BSPO:0000123](http://purl.obolibrary.org/obo/BSPO_0000123), [BSPO:0000124](http://purl.obolibrary.org/obo/BSPO_0000124), ... |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
-|----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `BSPO:cjm`           |             14 | [BSPO:0000096](http://purl.obolibrary.org/obo/BSPO_0000096), [BSPO:0000097](http://purl.obolibrary.org/obo/BSPO_0000097), [BSPO:0000098](http://purl.obolibrary.org/obo/BSPO_0000098), [BSPO:0000099](http://purl.obolibrary.org/obo/BSPO_0000099), [BSPO:0000100](http://purl.obolibrary.org/obo/BSPO_0000100), ... |
-| `BSPO:PATO_mtg_2009` |              6 | [BSPO:0000120](http://purl.obolibrary.org/obo/BSPO_0000120), [BSPO:0000121](http://purl.obolibrary.org/obo/BSPO_0000121), [BSPO:0000122](http://purl.obolibrary.org/obo/BSPO_0000122), [BSPO:0000123](http://purl.obolibrary.org/obo/BSPO_0000123), [BSPO:0000124](http://purl.obolibrary.org/obo/BSPO_0000124), ... |
-| `BSPO:curators`      |              4 | [BSPO:0001107](http://purl.obolibrary.org/obo/BSPO_0001107), [BSPO:0015009](http://purl.obolibrary.org/obo/BSPO_0015009), [BSPO:0015012](http://purl.obolibrary.org/obo/BSPO_0015012), [BSPO:0015014](http://purl.obolibrary.org/obo/BSPO_0015014)                                                                   |
 

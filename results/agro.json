@@ -1,7 +1,7 @@
 {
-  "created": "2023-02-13T18:10:35.016245",
+  "created": "2023-02-13T20:15:09.536201",
   "messages": [
-    "2023-02-13 18:10:33,817 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 1 triple(s) that could not be parsed:",
+    "ERROR Input ontology contains 1 triple(s) that could not be parsed:",
     " - <https://www.wikidata.org/wiki/Q2306597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147496553."
   ],
   "results": {

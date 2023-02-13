@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `agricola`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 4 resources,
+`^\d+$`. Of the 3 resources,
 2 variants on the standard prefix were found: ['AGR', 'Agricola'].
 
 ## `chebi`: Chemical Entities of Biological Interest
@@ -1159,27 +1159,6 @@ Identifiers for this prefix are given incorrectly in `enm`.
 | `AGR:IND89021681` |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
 | `AGR:IND92003154` |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
 | `AGR:IND43789627` |              1 | [CHEBI:136646](http://purl.obolibrary.org/obo/CHEBI_136646) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref      |   usages_count | usages                                                      |
-|--------------------|----------------|-------------------------------------------------------------|
-| `AGR:IND84086009`  |              1 | [CHEBI:136643](http://purl.obolibrary.org/obo/CHEBI_136643) |
-| `AGR:IND20386178`  |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
-| `AGR:IND84086011`  |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
-| `AGR:IND89021681`  |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
-| `AGR:IND92003154`  |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
-| `AGR:IND81078502`  |              1 | [CHEBI:15955](http://purl.obolibrary.org/obo/CHEBI_15955)   |
-| `AGR:IND605478333` |              1 | [CHEBI:16522](http://purl.obolibrary.org/obo/CHEBI_16522)   |
-| `AGR:IND607198670` |              1 | [CHEBI:16709](http://purl.obolibrary.org/obo/CHEBI_16709)   |
-| `AGR:IND606960789` |              1 | [CHEBI:27470](http://purl.obolibrary.org/obo/CHEBI_27470)   |
-| `AGR:IND605848433` |              1 | [CHEBI:28934](http://purl.obolibrary.org/obo/CHEBI_28934)   |
-| `AGR:IND607339542` |              1 | [CHEBI:3312](http://purl.obolibrary.org/obo/CHEBI_3312)     |
-| `AGR:IND43941110`  |              1 | [CHEBI:62546](http://purl.obolibrary.org/obo/CHEBI_62546)   |
-| `AGR:IND44688035`  |              1 | [CHEBI:87230](http://purl.obolibrary.org/obo/CHEBI_87230)   |
-| `AGR:IND607175662` |              1 | [CHEBI:9506](http://purl.obolibrary.org/obo/CHEBI_9506)     |
 
 ## `po`: Plant Ontology
 

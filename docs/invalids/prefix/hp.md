@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `hp`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 7 resources,
+`^\d{7}$`. Of the 6 resources,
 2 variants on the standard prefix were found: ['HP', 'HPO'].
 
 ## `covoc`: CoVoc Coronavirus Vocabulary
@@ -89,16 +89,6 @@ Identifiers for this prefix are given incorrectly in `mp`. See the [GitHub repos
 |-----------------|----------------|---------------------------------------------------------|
 | `HPO:probinson` |              1 | [MP:0013806](http://purl.obolibrary.org/obo/MP_0013806) |
 | `HPO:curators`  |              1 | [MP:0013807](http://purl.obolibrary.org/obo/MP_0013807) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref   |   usages_count | usages                                                                                                                           |
-|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------|
-| `HPO:curators`  |              2 | [UBERON:0014386](http://purl.obolibrary.org/obo/UBERON_0014386), [UBERON:0034908](http://purl.obolibrary.org/obo/UBERON_0034908) |
-| `HPO:pr`        |              2 | [UBERON:0001750](http://purl.obolibrary.org/obo/UBERON_0001750), [UBERON:0035639](http://purl.obolibrary.org/obo/UBERON_0035639) |
-| `HPO:probinson` |              1 | [UBERON:0017732](http://purl.obolibrary.org/obo/UBERON_0017732)                                                                  |
 
 ## `uberon`: Uber Anatomy Ontology
 

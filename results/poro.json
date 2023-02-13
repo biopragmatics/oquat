@@ -1,7 +1,7 @@
 {
-  "created": "2023-02-13T19:20:16.973912",
+  "created": "2023-02-13T21:34:07.659561",
   "messages": [
-    "2023-02-13 19:20:16,708 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 2 triple(s) that could not be parsed:",
+    "ERROR Input ontology contains 2 triple(s) that could not be parsed:",
     " - <http://purl.obolibrary.org/obo/poro/images/acanthostyle.png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484758.",
     " - <http://purl.obolibrary.org/obo/poro/images/verticiliate_acanthostyle.png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484759."
   ],

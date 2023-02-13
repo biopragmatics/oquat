@@ -122,7 +122,7 @@
 | FlyBase_Cell_line:FBtc0000301 |        1 | [Cellosaurus#CVCL:XF74](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_XF74) |
 | FlyBase_Cell_line:FBtc0000302 |        1 | [Cellosaurus#CVCL:XF75](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_XF75) |
 | FlyBase_Cell_line:FBtc0000009 |        1 | [Cellosaurus#CVCL:Z231](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Z231) |
-| FlyBase_Cell_line:FBtc9000006 |        1 | [Cellosaurus#CVCL:Z232](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Z232) |
+| FlyBase_Cell_line:FBtc9000068 |        1 | [Cellosaurus#CVCL:Z232](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Z232) |
 | FlyBase_Cell_line:FBtc0000005 |        1 | [Cellosaurus#CVCL:Z233](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Z233) |
 | FlyBase_Cell_line:FBtc9000041 |        1 | [Cellosaurus#CVCL:Z260](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Z260) |
 | FlyBase_Cell_line:FBtc0000173 |        1 | [Cellosaurus#CVCL:Z425](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Z425) |

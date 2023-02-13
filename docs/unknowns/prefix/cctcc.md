@@ -8,7 +8,7 @@
 | CCTCC:GDC0203 |        2 | [Cellosaurus#CVCL:0382](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0382), [Cellosaurus#CVCL:U255](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_U255) |
 | CCTCC:GDC0201 |        2 | [Cellosaurus#CVCL:2478](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2478), [Cellosaurus#CVCL:U253](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_U253) |
 | CCTCC:GDC0071 |        1 | [Cellosaurus#CVCL:0001](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0001)                                                                                |
-| CCTCC:GDC0027 |        1 | [Cellosaurus#CVCL:0002](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0002)                                                                                |
+| CCTCC:GDC0028 |        1 | [Cellosaurus#CVCL:0002](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0002)                                                                                |
 | CCTCC:GDC0037 |        1 | [Cellosaurus#CVCL:0004](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0004)                                                                                |
 | CCTCC:GDC0100 |        1 | [Cellosaurus#CVCL:0006](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0006)                                                                                |
 | CCTCC:GDC0080 |        1 | [Cellosaurus#CVCL:0007](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0007)                                                                                |
@@ -37,7 +37,7 @@
 | CCTCC:GDC0181 |        1 | [Cellosaurus#CVCL:0119](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0119)                                                                                |
 | CCTCC:GDC0180 |        1 | [Cellosaurus#CVCL:0123](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0123)                                                                                |
 | CCTCC:GDC0294 |        1 | [Cellosaurus#CVCL:0125](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0125)                                                                                |
-| CCTCC:GDC0285 |        1 | [Cellosaurus#CVCL:0132](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0132)                                                                                |
+| CCTCC:GDC0314 |        1 | [Cellosaurus#CVCL:0132](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0132)                                                                                |
 | CCTCC:GDC0247 |        1 | [Cellosaurus#CVCL:0139](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0139)                                                                                |
 | CCTCC:GDC0147 |        1 | [Cellosaurus#CVCL:0143](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0143)                                                                                |
 | CCTCC:GDC0323 |        1 | [Cellosaurus#CVCL:0145](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0145)                                                                                |
@@ -77,7 +77,7 @@
 | CCTCC:GDC0284 |        1 | [Cellosaurus#CVCL:0395](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0395)                                                                                |
 | CCTCC:GDC0186 |        1 | [Cellosaurus#CVCL:0399](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0399)                                                                                |
 | CCTCC:GDC0188 |        1 | [Cellosaurus#CVCL:0409](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0409)                                                                                |
-| CCTCC:GDC0108 |        1 | [Cellosaurus#CVCL:0421](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0421)                                                                                |
+| CCTCC:GDC0290 |        1 | [Cellosaurus#CVCL:0421](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0421)                                                                                |
 | CCTCC:GDC0401 |        1 | [Cellosaurus#CVCL:0422](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0422)                                                                                |
 | CCTCC:GDC0074 |        1 | [Cellosaurus#CVCL:0426](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0426)                                                                                |
 | CCTCC:GDC0255 |        1 | [Cellosaurus#CVCL:0428](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0428)                                                                                |
@@ -102,13 +102,13 @@
 | CCTCC:GDC0047 |        1 | [Cellosaurus#CVCL:0531](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0531)                                                                                |
 | CCTCC:GDC0114 |        1 | [Cellosaurus#CVCL:0532](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0532)                                                                                |
 | CCTCC:GDC0258 |        1 | [Cellosaurus#CVCL:0544](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0544)                                                                                |
-| CCTCC:GDC0065 |        1 | [Cellosaurus#CVCL:0546](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0546)                                                                                |
+| CCTCC:GDC0306 |        1 | [Cellosaurus#CVCL:0546](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0546)                                                                                |
 | CCTCC:GDC0075 |        1 | [Cellosaurus#CVCL:0548](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0548)                                                                                |
 | CCTCC:GDC0008 |        1 | [Cellosaurus#CVCL:0549](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0549)                                                                                |
 | CCTCC:GDC0045 |        1 | [Cellosaurus#CVCL:0553](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0553)                                                                                |
 | CCTCC:GDC0078 |        1 | [Cellosaurus#CVCL:0554](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0554)                                                                                |
 | CCTCC:GDC0196 |        1 | [Cellosaurus#CVCL:0559](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0559)                                                                                |
-| CCTCC:GDC0301 |        1 | [Cellosaurus#CVCL:0566](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0566)                                                                                |
+| CCTCC:GDC0325 |        1 | [Cellosaurus#CVCL:0566](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0566)                                                                                |
 | CCTCC:GDC0146 |        1 | [Cellosaurus#CVCL:0574](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0574)                                                                                |
 | CCTCC:GDC0016 |        1 | [Cellosaurus#CVCL:0579](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0579)                                                                                |
 | CCTCC:GDC0296 |        1 | [Cellosaurus#CVCL:0589](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0589)                                                                                |

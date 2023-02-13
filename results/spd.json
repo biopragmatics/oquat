@@ -1,5 +1,5 @@
 {
-  "created": "2023-02-13T19:57:50.527514",
+  "created": "2023-02-13T21:53:10.236951",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/spd.owl": {
@@ -2489,7 +2489,7 @@
             "http://purl.obolibrary.org/obo/SPD_0000140": "SPDrf:Carico_and_Holt_1964",
             "http://purl.obolibrary.org/obo/SPD_0000168": "SPDrf:Ubick_et_al_2005_glossary",
             "http://purl.obolibrary.org/obo/SPD_0000177": "SPDrf:Comstock_1910",
-            "http://purl.obolibrary.org/obo/SPD_0000287": "SPDrf:Lopardo_and_Hormiga_2008",
+            "http://purl.obolibrary.org/obo/SPD_0000287": "SPDrf:Kropf_1990",
             "http://purl.obolibrary.org/obo/SPD_0000288": "SPDrf:Foelix_2011",
             "http://purl.obolibrary.org/obo/SPD_0000289": "SPDrf:Ubick_et_al_2005_glossary",
             "http://purl.obolibrary.org/obo/SPD_0000295": "SPDrf:Ubick_et_al_2005_glossary",

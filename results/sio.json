@@ -1,7 +1,7 @@
 {
-  "created": "2023-02-13T19:57:39.022520",
+  "created": "2023-02-13T21:53:01.199945",
   "messages": [
-    "2023-02-13 19:57:38,500 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 18 triple(s) that could not be parsed:",
+    "ERROR Input ontology contains 18 triple(s) that could not be parsed:",
     " - _:genid-nodeid-arc906bb1008 <http://purl.org/dc/elements/1.1/identifier> :arc906bb1008.",
     " - _:genid-nodeid-arc906bb995 <http://purl.org/dc/elements/1.1/identifier> :arc906bb995.",
     " - _:genid-nodeid-arc906bb1029 <http://purl.org/dc/elements/1.1/identifier> :arc906bb1029.",

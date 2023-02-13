@@ -12,9 +12,3 @@
 |--------------------------|----------|-------------------------------------------------------------|
 | Oxford:EnglishDictionary |        1 | [PATO:0001889](http://purl.obolibrary.org/obo/PATO_0001889) |
 
-## nif
-
-| curie                    |   usages | nodes                                                       |
-|--------------------------|----------|-------------------------------------------------------------|
-| Oxford:EnglishDictionary |        1 | [PATO:0001889](http://purl.obolibrary.org/obo/PATO_0001889) |
-

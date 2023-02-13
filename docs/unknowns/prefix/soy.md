@@ -1,12 +1,5 @@
 # `soy`
 
-## to
-
-| curie       |   usages | nodes                                                   |
-|-------------|----------|---------------------------------------------------------|
-| SOY:0001342 |        1 | [TO:0000108](http://purl.obolibrary.org/obo/TO_0000108) |
-| SOY:0001341 |        1 | [TO:0000930](http://purl.obolibrary.org/obo/TO_0000930) |
-
 ## po
 
 | curie       |   usages | nodes                                                   |
@@ -22,7 +15,7 @@
 | SOY:0000011 |        1 | [PO:0007015](http://purl.obolibrary.org/obo/PO_0007015) |
 | SOY:0000006 |        1 | [PO:0007016](http://purl.obolibrary.org/obo/PO_0007016) |
 | SOY:0000008 |        1 | [PO:0007017](http://purl.obolibrary.org/obo/PO_0007017) |
-| SOY:0000090 |        1 | [PO:0007022](http://purl.obolibrary.org/obo/PO_0007022) |
+| SOY:0000091 |        1 | [PO:0007022](http://purl.obolibrary.org/obo/PO_0007022) |
 | SOY:0000076 |        1 | [PO:0007024](http://purl.obolibrary.org/obo/PO_0007024) |
 | SOY:0000072 |        1 | [PO:0007026](http://purl.obolibrary.org/obo/PO_0007026) |
 | SOY:0000084 |        1 | [PO:0007027](http://purl.obolibrary.org/obo/PO_0007027) |
@@ -56,7 +49,7 @@
 | SOY:0000047 |        1 | [PO:0007077](http://purl.obolibrary.org/obo/PO_0007077) |
 | SOY:0000049 |        1 | [PO:0007079](http://purl.obolibrary.org/obo/PO_0007079) |
 | SOY:0000042 |        1 | [PO:0007080](http://purl.obolibrary.org/obo/PO_0007080) |
-| SOY:0000035 |        1 | [PO:0007082](http://purl.obolibrary.org/obo/PO_0007082) |
+| SOY:0000039 |        1 | [PO:0007082](http://purl.obolibrary.org/obo/PO_0007082) |
 | SOY:0000027 |        1 | [PO:0007083](http://purl.obolibrary.org/obo/PO_0007083) |
 | SOY:0000059 |        1 | [PO:0007084](http://purl.obolibrary.org/obo/PO_0007084) |
 | SOY:0000028 |        1 | [PO:0007085](http://purl.obolibrary.org/obo/PO_0007085) |
@@ -91,4 +84,11 @@
 | SOY:0000033 |        1 | [PO:0007120](http://purl.obolibrary.org/obo/PO_0007120) |
 | SOY:0000046 |        1 | [PO:0007122](http://purl.obolibrary.org/obo/PO_0007122) |
 | SOY:0000020 |        1 | [PO:0007123](http://purl.obolibrary.org/obo/PO_0007123) |
+
+## to
+
+| curie       |   usages | nodes                                                   |
+|-------------|----------|---------------------------------------------------------|
+| SOY:0001342 |        1 | [TO:0000108](http://purl.obolibrary.org/obo/TO_0000108) |
+| SOY:0001341 |        1 | [TO:0000930](http://purl.obolibrary.org/obo/TO_0000930) |
 

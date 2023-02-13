@@ -2,20 +2,12 @@
 
 This page summarize the different resources that reference `kupo`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 3 resources,
+`^\d{7}$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['KUPO'].
 
 ## `cl`: Cell Ontology
 
 Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
-
-| external_xref   |   usages_count | usages                                                  |
-|-----------------|----------------|---------------------------------------------------------|
-| `KUPO:SJ`       |              1 | [CL:0002518](http://purl.obolibrary.org/obo/CL_0002518) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|

@@ -2,16 +2,8 @@
 
 This page summarize the different resources that reference `to`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 4 resources,
+`^\d{7}$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['TO'].
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref   |   usages_count | usages                                                                                                                   |
-|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------|
-| `TO:TO`         |              2 | [PATO:0001540](http://purl.obolibrary.org/obo/PATO_0001540), [PATO:0001541](http://purl.obolibrary.org/obo/PATO_0001541) |
 
 ## `pato`: Phenotype And Trait Ontology
 
@@ -27,7 +19,7 @@ Identifiers for this prefix are given incorrectly in `peco`. See the [GitHub rep
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `TO:moorel`     |             11 | [PECO:0007041](http://purl.obolibrary.org/obo/PECO_0007041), [PECO:0007063](http://purl.obolibrary.org/obo/PECO_0007063), [PECO:0007168](http://purl.obolibrary.org/obo/PECO_0007168), [PECO:0007287](http://purl.obolibrary.org/obo/PECO_0007287), [PECO:0007292](http://purl.obolibrary.org/obo/PECO_0007292), ... |
+| `TO:moorel`     |             10 | [PECO:0007063](http://purl.obolibrary.org/obo/PECO_0007063), [PECO:0007168](http://purl.obolibrary.org/obo/PECO_0007168), [PECO:0007287](http://purl.obolibrary.org/obo/PECO_0007287), [PECO:0007292](http://purl.obolibrary.org/obo/PECO_0007292), [PECO:0007402](http://purl.obolibrary.org/obo/PECO_0007402), ... |
 
 ## `to`: Plant Trait Ontology
 

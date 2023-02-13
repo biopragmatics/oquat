@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `pmc`
 but use local unique identifiers that do not match the standard pattern of
-`^PMC\d+$`. Of the 5 resources,
+`^PMC\d+$`. Of the 4 resources,
 2 variants on the standard prefix were found: ['PMC', 'PMCID'].
 
 ## `mp`: Mammalian Phenotype Ontology
@@ -20,14 +20,6 @@ Identifiers for this prefix are given incorrectly in `mpath`. See the [GitHub re
 | external_xref    |   usages_count | usages                                                |
 |------------------|----------------|-------------------------------------------------------|
 | `PMCID: 1964945` |              1 | [MPATH:499](http://purl.obolibrary.org/obo/MPATH_499) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref   |   usages_count | usages                                                  |
-|-----------------|----------------|---------------------------------------------------------|
-| `PMC:126017`    |              1 | [SO:0002095](http://purl.obolibrary.org/obo/SO_0002095) |
 
 ## `so`: Sequence types and features ontology
 

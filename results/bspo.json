@@ -1,11 +1,9 @@
 {
-  "created": "2023-02-13T18:13:25.068330",
-  "messages": [
-    "could not parse JSON for bspo from http://purl.obolibrary.org/obo/bspo.json"
-  ],
+  "created": "2023-02-13T20:16:55.918268",
+  "messages": [],
   "results": {
-    "http://purl.obolibrary.org/obo/bspo.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/bspo.owl",
+    "http://purl.obolibrary.org/obo/bspo.json": {
+      "graph_id": "http://purl.obolibrary.org/obo/bspo.json",
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/BSPO_0000000": [
@@ -484,7 +482,7 @@
         "unknown_prefixes": {}
       },
       "version": "2022-11-16",
-      "version_iri": "http://purl.obolibrary.org/obo/bspo/releases/2022-11-16/bspo.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/bspo/releases/2022-11-16/bspo.json",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

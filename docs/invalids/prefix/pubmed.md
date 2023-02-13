@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `pubmed`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 21 resources,
+`^\d+$`. Of the 20 resources,
 4 variants on the standard prefix were found: ['Medline', 'PMID', 'PubMed', 'Pubmed'].
 
 ## `bto`: BRENDA Tissue Ontology
@@ -131,25 +131,6 @@ Identifiers for this prefix are given incorrectly in `mpath`. See the [GitHub re
 |---------------------|----------------|-------------------------------------------------------|
 | `PMID: 11794381`    |              1 | [MPATH:40](http://purl.obolibrary.org/obo/MPATH_40)   |
 | `PMID:    21191096` |              1 | [MPATH:815](http://purl.obolibrary.org/obo/MPATH_815) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref                                |   usages_count | usages                                                                                                                                                                                                                                                                                      |
-|----------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PMID: 24572720`                             |              5 | [SO:0002344](http://purl.obolibrary.org/obo/SO_0002344), [SO:0002345](http://purl.obolibrary.org/obo/SO_0002345), [SO:0002346](http://purl.obolibrary.org/obo/SO_0002346), [SO:0002347](http://purl.obolibrary.org/obo/SO_0002347), [SO:0002348](http://purl.obolibrary.org/obo/SO_0002348) |
-| `PMID:12537576:16827941`                     |              4 | [SO:0001158](http://purl.obolibrary.org/obo/SO_0001158), [SO:0001159](http://purl.obolibrary.org/obo/SO_0001159), [SO:0001160](http://purl.obolibrary.org/obo/SO_0001160), [SO:0001161](http://purl.obolibrary.org/obo/SO_0001161)                                                          |
-| `PMID: 118436`                               |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
-| `PMID: 29474379`                             |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
-| `PMID: 3136294`                              |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
-| `Medline:http://www.nlm.nih.gov/medlineplus` |              1 | [PATO:0002048](http://purl.obolibrary.org/obo/PATO_0002048)                                                                                                                                                                                                                                 |
-| `PMID:16827941:12537576`                     |              1 | [SO:0001157](http://purl.obolibrary.org/obo/SO_0001157)                                                                                                                                                                                                                                     |
-| `PMID:12537576:15231738`                     |              1 | [SO:0001162](http://purl.obolibrary.org/obo/SO_0001162)                                                                                                                                                                                                                                     |
-| `PMID:15388847,PMID:16524884`                |              1 | [SO:0002235](http://purl.obolibrary.org/obo/SO_0002235)                                                                                                                                                                                                                                     |
-| `PMID: 19407924`                             |              1 | [SO:0002293](http://purl.obolibrary.org/obo/SO_0002293)                                                                                                                                                                                                                                     |
-| `PMID: 16236432`                             |              1 | [SO:0002350](http://purl.obolibrary.org/obo/SO_0002350)                                                                                                                                                                                                                                     |
-| `PMID: 17608616`                             |              1 | [SO:0002350](http://purl.obolibrary.org/obo/SO_0002350)                                                                                                                                                                                                                                     |
 
 ## `pato`: Phenotype And Trait Ontology
 

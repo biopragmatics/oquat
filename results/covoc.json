@@ -1,11 +1,9 @@
 {
-  "created": "2023-02-13T18:30:44.649109",
-  "messages": [
-    "could not parse JSON for covoc from https://github.com/EBISPOT/covoc/releases/download/current/covoc.json"
-  ],
+  "created": "2023-02-13T21:00:01.099067",
+  "messages": [],
   "results": {
-    "http://purl.obolibrary.org/obo/covoc.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/covoc.owl",
+    "http://purl.obolibrary.org/obo/covoc.json": {
+      "graph_id": "http://purl.obolibrary.org/obo/covoc.json",
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/CL_0000000": [
@@ -498,7 +496,7 @@
         }
       },
       "version": "2022-10-26",
-      "version_iri": "http://purl.obolibrary.org/obo/covoc/releases/2022-10-26/covoc.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/covoc/releases/2022-10-26/covoc.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/CHEBI_15379": [
@@ -858,25 +856,25 @@
           "Patent": {
             "http://purl.obolibrary.org/obo/CHEBI_2955": "Patent:US4517359",
             "http://purl.obolibrary.org/obo/CHEBI_31303": "Patent:CN101817754",
-            "http://purl.obolibrary.org/obo/CHEBI_3638": "Patent:DE683692",
-            "http://purl.obolibrary.org/obo/CHEBI_3732": "Patent:EP41355",
+            "http://purl.obolibrary.org/obo/CHEBI_3638": "Patent:US2233970",
+            "http://purl.obolibrary.org/obo/CHEBI_3732": "Patent:US4331803",
             "http://purl.obolibrary.org/obo/CHEBI_38545": "Patent:US2013035316",
             "http://purl.obolibrary.org/obo/CHEBI_4653": "Patent:US3031450",
             "http://purl.obolibrary.org/obo/CHEBI_472657": "Patent:US4409214",
             "http://purl.obolibrary.org/obo/CHEBI_48923": "Patent:US2653899",
-            "http://purl.obolibrary.org/obo/CHEBI_50729": "Patent:DE2835661",
-            "http://purl.obolibrary.org/obo/CHEBI_575568": "Patent:EP123238",
+            "http://purl.obolibrary.org/obo/CHEBI_50729": "Patent:US4197249",
+            "http://purl.obolibrary.org/obo/CHEBI_575568": "Patent:US5053432",
             "http://purl.obolibrary.org/obo/CHEBI_5801": "Patent:US2546658",
             "http://purl.obolibrary.org/obo/CHEBI_5855": "Patent:US6727286",
-            "http://purl.obolibrary.org/obo/CHEBI_59343": "Patent:EP475610",
+            "http://purl.obolibrary.org/obo/CHEBI_59343": "Patent:US4839650",
             "http://purl.obolibrary.org/obo/CHEBI_6078": "Patent:US4199569",
             "http://purl.obolibrary.org/obo/CHEBI_63621": "Patent:US5196438",
-            "http://purl.obolibrary.org/obo/CHEBI_6402": "Patent:DE2854439",
+            "http://purl.obolibrary.org/obo/CHEBI_6402": "Patent:US4284786",
             "http://purl.obolibrary.org/obo/CHEBI_66919": "Patent:US2010190981",
             "http://purl.obolibrary.org/obo/CHEBI_71204": "Patent:WO2008153289",
             "http://purl.obolibrary.org/obo/CHEBI_72291": "Patent:WO2012151165",
-            "http://purl.obolibrary.org/obo/CHEBI_9139": "Patent:EP463756",
-            "http://purl.obolibrary.org/obo/CHEBI_9513": "Patent:US2012142734"
+            "http://purl.obolibrary.org/obo/CHEBI_9139": "Patent:US5250534",
+            "http://purl.obolibrary.org/obo/CHEBI_9513": "Patent:WO2013100657"
           },
           "SCTID": {
             "http://purl.obolibrary.org/obo/MONDO_0002050": "SCTID:35489007",
@@ -906,24 +904,24 @@
             "http://purl.obolibrary.org/obo/HP_0000822": "SNOMEDCT_US:38341003",
             "http://purl.obolibrary.org/obo/HP_0000969": "SNOMEDCT_US:79654002",
             "http://purl.obolibrary.org/obo/HP_0000988": "SNOMEDCT_US:271807003",
-            "http://purl.obolibrary.org/obo/HP_0000989": "SNOMEDCT_US:418363000",
-            "http://purl.obolibrary.org/obo/HP_0001025": "SNOMEDCT_US:126485001",
+            "http://purl.obolibrary.org/obo/HP_0000989": "SNOMEDCT_US:424492005",
+            "http://purl.obolibrary.org/obo/HP_0001025": "SNOMEDCT_US:64305001",
             "http://purl.obolibrary.org/obo/HP_0001649": "SNOMEDCT_US:86651002",
             "http://purl.obolibrary.org/obo/HP_0001742": "SNOMEDCT_US:68235000",
-            "http://purl.obolibrary.org/obo/HP_0001945": "SNOMEDCT_US:386661006",
-            "http://purl.obolibrary.org/obo/HP_0002013": "SNOMEDCT_US:300359004",
+            "http://purl.obolibrary.org/obo/HP_0001945": "SNOMEDCT_US:50177009",
+            "http://purl.obolibrary.org/obo/HP_0002013": "SNOMEDCT_US:422400008",
             "http://purl.obolibrary.org/obo/HP_0002014": "SNOMEDCT_US:62315008",
             "http://purl.obolibrary.org/obo/HP_0002017": "SNOMEDCT_US:16932000",
             "http://purl.obolibrary.org/obo/HP_0002018": "SNOMEDCT_US:422587007",
             "http://purl.obolibrary.org/obo/HP_0002027": "SNOMEDCT_US:21522001",
-            "http://purl.obolibrary.org/obo/HP_0002094": "SNOMEDCT_US:230145002",
+            "http://purl.obolibrary.org/obo/HP_0002094": "SNOMEDCT_US:267036007",
             "http://purl.obolibrary.org/obo/HP_0002789": "SNOMEDCT_US:271823003",
             "http://purl.obolibrary.org/obo/HP_0003077": "SNOMEDCT_US:55822004",
             "http://purl.obolibrary.org/obo/HP_0003326": "SNOMEDCT_US:68962001",
             "http://purl.obolibrary.org/obo/HP_0011950": "SNOMEDCT_US:4120002",
             "http://purl.obolibrary.org/obo/HP_0012378": "SNOMEDCT_US:84229001",
             "http://purl.obolibrary.org/obo/HP_0012531": "SNOMEDCT_US:22253000",
-            "http://purl.obolibrary.org/obo/HP_0012735": "SNOMEDCT_US:272039006",
+            "http://purl.obolibrary.org/obo/HP_0012735": "SNOMEDCT_US:49727002",
             "http://purl.obolibrary.org/obo/HP_0030830": "SNOMEDCT_US:48409008",
             "http://purl.obolibrary.org/obo/HP_0100749": "SNOMEDCT_US:29857009"
           },

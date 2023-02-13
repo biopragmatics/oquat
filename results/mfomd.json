@@ -1,5 +1,5 @@
 {
-  "created": "2023-02-13T18:58:27.178787",
+  "created": "2023-02-13T21:20:23.642843",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/MFOMD.owl": {
@@ -9,11 +9,7 @@
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {
-          "url": {
-            "http://purl.obolibrary.org/obo/MFOMD_0000004": "url:http://en.wikipedia.org/wiki/Mental_disorder"
-          }
-        }
+        "unknown_prefixes": {}
       },
       "synonym_pack": {
         "invalid_luids": {},
@@ -40,7 +36,7 @@
             "http://purl.obolibrary.org/obo/MFOMD_0000004": "NCI:C2893"
           },
           "SNOMEDCT_2010_1_31": {
-            "http://purl.obolibrary.org/obo/MFOMD_0000004": "SNOMEDCT_2010_1_31:154971002"
+            "http://purl.obolibrary.org/obo/MFOMD_0000004": "SNOMEDCT_2010_1_31:74732009"
           },
           "UMLS_CUI": {
             "http://purl.obolibrary.org/obo/MFOMD_0000004": "UMLS_CUI:C0004936"

@@ -13,23 +13,23 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |----------------|----------|-------------------------------------------------------------------------------|
 | Abcam:ab282204 |        1 | [Cellosaurus#CVCL:0002](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0002) |
 | Abcam:ab275469 |        1 | [Cellosaurus#CVCL:0004](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0004) |
-| Abcam:ab275477 |        1 | [Cellosaurus#CVCL:0006](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0006) |
+| Abcam:ab281894 |        1 | [Cellosaurus#CVCL:0006](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0006) |
 | Abcam:ab275475 |        1 | [Cellosaurus#CVCL:0019](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0019) |
 | Abcam:ab278079 |        1 | [Cellosaurus#CVCL:0022](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0022) |
-| Abcam:ab255450 |        1 | [Cellosaurus#CVCL:0023](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0023) |
+| Abcam:ab288558 |        1 | [Cellosaurus#CVCL:0023](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0023) |
 | Abcam:ab275464 |        1 | [Cellosaurus#CVCL:0025](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0025) |
 | Abcam:ab275467 |        1 | [Cellosaurus#CVCL:0027](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0027) |
-| Abcam:ab260075 |        1 | [Cellosaurus#CVCL:0030](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0030) |
+| Abcam:ab275466 |        1 | [Cellosaurus#CVCL:0030](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0030) |
 | Abcam:ab288560 |        1 | [Cellosaurus#CVCL:0031](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0031) |
 | Abcam:ab275472 |        1 | [Cellosaurus#CVCL:0035](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0035) |
 | Abcam:ab275462 |        1 | [Cellosaurus#CVCL:0037](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0037) |
 | Abcam:ab279979 |        1 | [Cellosaurus#CVCL:0042](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0042) |
 | Abcam:ab277915 |        1 | [Cellosaurus#CVCL:0045](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0045) |
-| Abcam:ab255449 |        1 | [Cellosaurus#CVCL:0063](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0063) |
-| Abcam:ab271143 |        1 | [Cellosaurus#CVCL:0065](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0065) |
+| Abcam:ab282205 |        1 | [Cellosaurus#CVCL:0063](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0063) |
+| Abcam:ab275468 |        1 | [Cellosaurus#CVCL:0065](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0065) |
 | Abcam:ab275461 |        1 | [Cellosaurus#CVCL:0132](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0132) |
 | Abcam:ab279976 |        1 | [Cellosaurus#CVCL:0188](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0188) |
-| Abcam:ab255451 |        1 | [Cellosaurus#CVCL:0291](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0291) |
+| Abcam:ab288559 |        1 | [Cellosaurus#CVCL:0291](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0291) |
 | Abcam:ab275471 |        1 | [Cellosaurus#CVCL:0465](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0465) |
 | Abcam:ab279975 |        1 | [Cellosaurus#CVCL:0470](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0470) |
 | Abcam:ab279978 |        1 | [Cellosaurus#CVCL:0481](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0481) |
@@ -4228,7 +4228,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | CCLV:CCLV-RIE 1079 |        1 | [Cellosaurus#CVCL:0336](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0336) |
 | CCLV:CCLV-RIE 0016 |        1 | [Cellosaurus#CVCL:0372](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0372) |
 | CCLV:CCLV-RIE 1151 |        1 | [Cellosaurus#CVCL:0399](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0399) |
-| CCLV:CCLV-RIE 0084 |        1 | [Cellosaurus#CVCL:0421](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0421) |
+| CCLV:CCLV-RIE 0261 |        1 | [Cellosaurus#CVCL:0421](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0421) |
 | CCLV:CCLV-RIE 0083 |        1 | [Cellosaurus#CVCL:0422](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0422) |
 | CCLV:CCLV-RIE 1061 |        1 | [Cellosaurus#CVCL:0424](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0424) |
 | CCLV:CCLV-RIE 0962 |        1 | [Cellosaurus#CVCL:0459](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0459) |
@@ -4261,7 +4261,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | CCLV:CCLV-RIE 0755 |        1 | [Cellosaurus#CVCL:0I64](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I64) |
 | CCLV:CCLV-RIE 0728 |        1 | [Cellosaurus#CVCL:0I65](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I65) |
 | CCLV:CCLV-RIE 0379 |        1 | [Cellosaurus#CVCL:0I66](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I66) |
-| CCLV:CCLV-RIE 0105 |        1 | [Cellosaurus#CVCL:0I67](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I67) |
+| CCLV:CCLV-RIE 0122 |        1 | [Cellosaurus#CVCL:0I67](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I67) |
 | CCLV:CCLV-RIE 0266 |        1 | [Cellosaurus#CVCL:0I68](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I68) |
 | CCLV:CCLV-RIE 0242 |        1 | [Cellosaurus#CVCL:0I69](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I69) |
 | CCLV:CCLV-RIE 0456 |        1 | [Cellosaurus#CVCL:0I70](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I70) |
@@ -4280,8 +4280,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | CCLV:CCLV-RIE 0060 |        1 | [Cellosaurus#CVCL:0R17](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0R17) |
 | CCLV:CCLV-RIE 0012 |        1 | [Cellosaurus#CVCL:1905](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1905) |
 | CCLV:CCLV-RIE 0141 |        1 | [Cellosaurus#CVCL:1906](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1906) |
-| CCLV:CCLV-RIE 0929 |        1 | [Cellosaurus#CVCL:1912](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1912) |
-| CCLV:CCLV-RIE 0179 |        1 | [Cellosaurus#CVCL:1915](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1915) |
+| CCLV:CCLV-RIE 1146 |        1 | [Cellosaurus#CVCL:1912](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1912) |
+| CCLV:CCLV-RIE 0194 |        1 | [Cellosaurus#CVCL:1915](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1915) |
 | CCLV:CCLV-RIE 0088 |        1 | [Cellosaurus#CVCL:1920](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1920) |
 | CCLV:CCLV-RIE 0044 |        1 | [Cellosaurus#CVCL:2044](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2044) |
 | CCLV:CCLV-RIE 0005 |        1 | [Cellosaurus#CVCL:2160](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2160) |
@@ -4424,7 +4424,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | CCTCC:GDC0203 |        2 | [Cellosaurus#CVCL:0382](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0382), [Cellosaurus#CVCL:U255](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_U255) |
 | CCTCC:GDC0201 |        2 | [Cellosaurus#CVCL:2478](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2478), [Cellosaurus#CVCL:U253](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_U253) |
 | CCTCC:GDC0071 |        1 | [Cellosaurus#CVCL:0001](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0001)                                                                                |
-| CCTCC:GDC0027 |        1 | [Cellosaurus#CVCL:0002](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0002)                                                                                |
+| CCTCC:GDC0028 |        1 | [Cellosaurus#CVCL:0002](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0002)                                                                                |
 | CCTCC:GDC0037 |        1 | [Cellosaurus#CVCL:0004](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0004)                                                                                |
 | CCTCC:GDC0100 |        1 | [Cellosaurus#CVCL:0006](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0006)                                                                                |
 | CCTCC:GDC0080 |        1 | [Cellosaurus#CVCL:0007](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0007)                                                                                |
@@ -4453,7 +4453,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | CCTCC:GDC0181 |        1 | [Cellosaurus#CVCL:0119](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0119)                                                                                |
 | CCTCC:GDC0180 |        1 | [Cellosaurus#CVCL:0123](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0123)                                                                                |
 | CCTCC:GDC0294 |        1 | [Cellosaurus#CVCL:0125](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0125)                                                                                |
-| CCTCC:GDC0285 |        1 | [Cellosaurus#CVCL:0132](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0132)                                                                                |
+| CCTCC:GDC0314 |        1 | [Cellosaurus#CVCL:0132](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0132)                                                                                |
 | CCTCC:GDC0247 |        1 | [Cellosaurus#CVCL:0139](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0139)                                                                                |
 | CCTCC:GDC0147 |        1 | [Cellosaurus#CVCL:0143](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0143)                                                                                |
 | CCTCC:GDC0323 |        1 | [Cellosaurus#CVCL:0145](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0145)                                                                                |
@@ -4493,7 +4493,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | CCTCC:GDC0284 |        1 | [Cellosaurus#CVCL:0395](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0395)                                                                                |
 | CCTCC:GDC0186 |        1 | [Cellosaurus#CVCL:0399](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0399)                                                                                |
 | CCTCC:GDC0188 |        1 | [Cellosaurus#CVCL:0409](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0409)                                                                                |
-| CCTCC:GDC0108 |        1 | [Cellosaurus#CVCL:0421](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0421)                                                                                |
+| CCTCC:GDC0290 |        1 | [Cellosaurus#CVCL:0421](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0421)                                                                                |
 | CCTCC:GDC0401 |        1 | [Cellosaurus#CVCL:0422](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0422)                                                                                |
 | CCTCC:GDC0074 |        1 | [Cellosaurus#CVCL:0426](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0426)                                                                                |
 | CCTCC:GDC0255 |        1 | [Cellosaurus#CVCL:0428](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0428)                                                                                |
@@ -4518,13 +4518,13 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | CCTCC:GDC0047 |        1 | [Cellosaurus#CVCL:0531](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0531)                                                                                |
 | CCTCC:GDC0114 |        1 | [Cellosaurus#CVCL:0532](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0532)                                                                                |
 | CCTCC:GDC0258 |        1 | [Cellosaurus#CVCL:0544](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0544)                                                                                |
-| CCTCC:GDC0065 |        1 | [Cellosaurus#CVCL:0546](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0546)                                                                                |
+| CCTCC:GDC0306 |        1 | [Cellosaurus#CVCL:0546](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0546)                                                                                |
 | CCTCC:GDC0075 |        1 | [Cellosaurus#CVCL:0548](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0548)                                                                                |
 | CCTCC:GDC0008 |        1 | [Cellosaurus#CVCL:0549](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0549)                                                                                |
 | CCTCC:GDC0045 |        1 | [Cellosaurus#CVCL:0553](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0553)                                                                                |
 | CCTCC:GDC0078 |        1 | [Cellosaurus#CVCL:0554](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0554)                                                                                |
 | CCTCC:GDC0196 |        1 | [Cellosaurus#CVCL:0559](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0559)                                                                                |
-| CCTCC:GDC0301 |        1 | [Cellosaurus#CVCL:0566](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0566)                                                                                |
+| CCTCC:GDC0325 |        1 | [Cellosaurus#CVCL:0566](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0566)                                                                                |
 | CCTCC:GDC0146 |        1 | [Cellosaurus#CVCL:0574](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0574)                                                                                |
 | CCTCC:GDC0016 |        1 | [Cellosaurus#CVCL:0579](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0579)                                                                                |
 | CCTCC:GDC0296 |        1 | [Cellosaurus#CVCL:0589](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0589)                                                                                |
@@ -6963,29 +6963,30 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 ## `EGA`
 
-There are 18 usages of `EGA` in `cellosaurus`.
+There are 19 usages of `EGA` in `cellosaurus`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20EGA).
 
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                          |
 |---------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| EGA:EGAS00001000978 |      760 | [Cellosaurus#CVCL:0005](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0005), [Cellosaurus#CVCL:0009](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0009), [Cellosaurus#CVCL:0013](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0013), [Cellosaurus#CVCL:0021](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0021), [Cellosaurus#CVCL:0022](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0022), ... |
-| EGA:EGAS00001000610 |      373 | [Cellosaurus#CVCL:0001](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0001), [Cellosaurus#CVCL:0002](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0002), [Cellosaurus#CVCL:0004](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0004), [Cellosaurus#CVCL:0006](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0006), [Cellosaurus#CVCL:0007](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0007), ... |
+| EGA:EGAS00001000978 |      879 | [Cellosaurus#CVCL:0002](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0002), [Cellosaurus#CVCL:0005](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0005), [Cellosaurus#CVCL:0006](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0006), [Cellosaurus#CVCL:0009](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0009), [Cellosaurus#CVCL:0013](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0013), ... |
 | EGA:EGAS00000000056 |      180 | [Cellosaurus#CVCL:B4P9](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4P9), [Cellosaurus#CVCL:B4PA](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4PA), [Cellosaurus#CVCL:B4PB](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4PB), [Cellosaurus#CVCL:B4PC](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4PC), [Cellosaurus#CVCL:B4PD](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4PD), ... |
+| EGA:EGAS00001002554 |      178 | [Cellosaurus#CVCL:0001](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0001), [Cellosaurus#CVCL:0004](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0004), [Cellosaurus#CVCL:0007](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0007), [Cellosaurus#CVCL:0008](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0008), [Cellosaurus#CVCL:0012](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0012), ... |
+| EGA:EGAS00001000610 |      170 | [Cellosaurus#CVCL:0024](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0024), [Cellosaurus#CVCL:0027](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0027), [Cellosaurus#CVCL:0034](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0034), [Cellosaurus#CVCL:0100](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0100), [Cellosaurus#CVCL:0101](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0101), ... |
 | EGA:EGAS00001003485 |      160 | [Cellosaurus#CVCL:B4L5](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4L5), [Cellosaurus#CVCL:B4L6](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4L6), [Cellosaurus#CVCL:B4L7](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4L7), [Cellosaurus#CVCL:B4L8](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4L8), [Cellosaurus#CVCL:B4L9](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4L9), ... |
-| EGA:EGAS00001002554 |       93 | [Cellosaurus#CVCL:0023](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0023), [Cellosaurus#CVCL:0025](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0025), [Cellosaurus#CVCL:0031](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0031), [Cellosaurus#CVCL:0033](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0033), [Cellosaurus#CVCL:0039](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0039), ... |
 | EGA:EGAS00001002755 |       67 | [Cellosaurus#CVCL:1E66](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1E66), [Cellosaurus#CVCL:1E67](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1E67), [Cellosaurus#CVCL:1E68](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1E68), [Cellosaurus#CVCL:9S47](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_9S47), [Cellosaurus#CVCL:9S48](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_9S48), ... |
 | EGA:EGAD00001008559 |       64 | [Cellosaurus#CVCL:C0ZJ](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C0ZJ), [Cellosaurus#CVCL:C0ZM](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C0ZM), [Cellosaurus#CVCL:C0ZS](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C0ZS), [Cellosaurus#CVCL:C0ZT](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C0ZT), [Cellosaurus#CVCL:C0ZX](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C0ZX), ... |
 | EGA:EGAS00001001167 |        9 | [Cellosaurus#CVCL:6G24](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6G24), [Cellosaurus#CVCL:6G25](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6G25), [Cellosaurus#CVCL:B7G0](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B7G0), [Cellosaurus#CVCL:B7G1](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B7G1), [Cellosaurus#CVCL:B7G2](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B7G2), ... |
 | EGA:EGAD00001004475 |        9 | [Cellosaurus#CVCL:M173](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_M173), [Cellosaurus#CVCL:M175](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_M175), [Cellosaurus#CVCL:SA00](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_SA00), [Cellosaurus#CVCL:SA01](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_SA01), [Cellosaurus#CVCL:SA03](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_SA03), ... |
-| EGA:EGAS00001000160 |        5 | [Cellosaurus#CVCL:1369](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1369), [Cellosaurus#CVCL:1524](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1524), [Cellosaurus#CVCL:2645](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2645), [Cellosaurus#CVCL:2648](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2648), [Cellosaurus#CVCL:VU87](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_VU87), ... |
 | EGA:EGAD00001007001 |        5 | [Cellosaurus#CVCL:B7B0](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B7B0), [Cellosaurus#CVCL:B7B1](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B7B1), [Cellosaurus#CVCL:B7B2](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B7B2), [Cellosaurus#CVCL:B7B3](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B7B3), [Cellosaurus#CVCL:B7B4](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B7B4), ... |
 | EGA:EGAS00001003684 |        4 | [Cellosaurus#CVCL:B5NA](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B5NA), [Cellosaurus#CVCL:B5ND](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B5ND), [Cellosaurus#CVCL:B5NG](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B5NG), [Cellosaurus#CVCL:B5NP](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B5NP)                                                                                     |
 | EGA:EGAS00001001678 |        4 | [Cellosaurus#CVCL:RH15](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_RH15), [Cellosaurus#CVCL:RH18](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_RH18), [Cellosaurus#CVCL:RH19](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_RH19), [Cellosaurus#CVCL:RH20](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_RH20)                                                                                     |
-| EGA:EGAS00001003493 |        3 | [Cellosaurus#CVCL:B4P6](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4P6), [Cellosaurus#CVCL:B4P7](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4P7), [Cellosaurus#CVCL:B4P8](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4P8)                                                                                                                                                                    |
+| EGA:EGAS00001000160 |        3 | [Cellosaurus#CVCL:2645](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2645), [Cellosaurus#CVCL:2648](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2648), [Cellosaurus#CVCL:VU87](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_VU87)                                                                                                                                                                    |
+| EGA:EGAS00001003700 |        3 | [Cellosaurus#CVCL:B4P6](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4P6), [Cellosaurus#CVCL:B4P7](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4P7), [Cellosaurus#CVCL:B4P8](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B4P8)                                                                                                                                                                    |
 | EGA:phs000640       |        1 | [Cellosaurus#CVCL:0030](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0030)                                                                                                                                                                                                                                                                                                                                  |
+| EGA:EGAS00001004743 |        1 | [Cellosaurus#CVCL:1619](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1619)                                                                                                                                                                                                                                                                                                                                  |
 | EGA:EGAS00000000052 |        1 | [Cellosaurus#CVCL:1999](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1999)                                                                                                                                                                                                                                                                                                                                  |
-| EGA:EGAS00001000082 |        1 | [Cellosaurus#CVCL:5160](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5160)                                                                                                                                                                                                                                                                                                                                  |
+| EGA:EGAS00001002414 |        1 | [Cellosaurus#CVCL:2078](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2078)                                                                                                                                                                                                                                                                                                                                  |
 | EGA:EGAS00001002840 |        1 | [Cellosaurus#CVCL:RY01](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_RY01)                                                                                                                                                                                                                                                                                                                                  |
 
 ## `FCDI`
@@ -8749,7 +8750,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | FlyBase_Cell_line:FBtc0000301 |        1 | [Cellosaurus#CVCL:XF74](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_XF74) |
 | FlyBase_Cell_line:FBtc0000302 |        1 | [Cellosaurus#CVCL:XF75](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_XF75) |
 | FlyBase_Cell_line:FBtc0000009 |        1 | [Cellosaurus#CVCL:Z231](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Z231) |
-| FlyBase_Cell_line:FBtc9000006 |        1 | [Cellosaurus#CVCL:Z232](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Z232) |
+| FlyBase_Cell_line:FBtc9000068 |        1 | [Cellosaurus#CVCL:Z232](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Z232) |
 | FlyBase_Cell_line:FBtc0000005 |        1 | [Cellosaurus#CVCL:Z233](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Z233) |
 | FlyBase_Cell_line:FBtc9000041 |        1 | [Cellosaurus#CVCL:Z260](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Z260) |
 | FlyBase_Cell_line:FBtc0000173 |        1 | [Cellosaurus#CVCL:Z425](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Z425) |
@@ -8953,11 +8954,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:18698  |        2 | [Cellosaurus#CVCL:LM75](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_LM75), [Cellosaurus#CVCL:LM76](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_LM76) |
 | IARC_TP53:21368  |        1 | [Cellosaurus#CVCL:0001](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0001)                                                                                |
 | IARC_TP53:21731  |        1 | [Cellosaurus#CVCL:0002](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0002)                                                                                |
-| IARC_TP53:21424  |        1 | [Cellosaurus#CVCL:0004](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0004)                                                                                |
+| IARC_TP53:30210  |        1 | [Cellosaurus#CVCL:0004](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0004)                                                                                |
 | IARC_TP53:21705  |        1 | [Cellosaurus#CVCL:0005](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0005)                                                                                |
 | IARC_TP53:2198   |        1 | [Cellosaurus#CVCL:0006](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0006)                                                                                |
 | IARC_TP53:2199   |        1 | [Cellosaurus#CVCL:0007](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0007)                                                                                |
-| IARC_TP53:143    |        1 | [Cellosaurus#CVCL:0008](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0008)                                                                                |
+| IARC_TP53:21144  |        1 | [Cellosaurus#CVCL:0008](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0008)                                                                                |
 | IARC_TP53:23613  |        1 | [Cellosaurus#CVCL:0009](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0009)                                                                                |
 | IARC_TP53:21475  |        1 | [Cellosaurus#CVCL:0012](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0012)                                                                                |
 | IARC_TP53:27042  |        1 | [Cellosaurus#CVCL:0013](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0013)                                                                                |
@@ -8970,7 +8971,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21037  |        1 | [Cellosaurus#CVCL:0023](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0023)                                                                                |
 | IARC_TP53:27236  |        1 | [Cellosaurus#CVCL:0024](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0024)                                                                                |
 | IARC_TP53:21749  |        1 | [Cellosaurus#CVCL:0025](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0025)                                                                                |
-| IARC_TP53:30199  |        1 | [Cellosaurus#CVCL:0026](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0026)                                                                                |
+| IARC_TP53:313    |        1 | [Cellosaurus#CVCL:0026](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0026)                                                                                |
 | IARC_TP53:30037  |        1 | [Cellosaurus#CVCL:0027](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0027)                                                                                |
 | IARC_TP53:21175  |        1 | [Cellosaurus#CVCL:0028](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0028)                                                                                |
 | IARC_TP53:21322  |        1 | [Cellosaurus#CVCL:0029](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0029)                                                                                |
@@ -8979,14 +8980,14 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:580    |        1 | [Cellosaurus#CVCL:0033](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0033)                                                                                |
 | IARC_TP53:752    |        1 | [Cellosaurus#CVCL:0035](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0035)                                                                                |
 | IARC_TP53:21088  |        1 | [Cellosaurus#CVCL:0036](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0036)                                                                                |
-| IARC_TP53:21167  |        1 | [Cellosaurus#CVCL:0037](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0037)                                                                                |
+| IARC_TP53:23618  |        1 | [Cellosaurus#CVCL:0037](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0037)                                                                                |
 | IARC_TP53:1820   |        1 | [Cellosaurus#CVCL:0038](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0038)                                                                                |
 | IARC_TP53:27239  |        1 | [Cellosaurus#CVCL:0039](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0039)                                                                                |
-| IARC_TP53:21271  |        1 | [Cellosaurus#CVCL:0040](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0040)                                                                                |
-| IARC_TP53:27704  |        1 | [Cellosaurus#CVCL:0041](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0041)                                                                                |
+| IARC_TP53:24992  |        1 | [Cellosaurus#CVCL:0040](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0040)                                                                                |
+| IARC_TP53:356    |        1 | [Cellosaurus#CVCL:0041](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0041)                                                                                |
 | IARC_TP53:27710  |        1 | [Cellosaurus#CVCL:0042](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0042)                                                                                |
 | IARC_TP53:21200  |        1 | [Cellosaurus#CVCL:0044](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0044)                                                                                |
-| IARC_TP53:21537  |        1 | [Cellosaurus#CVCL:0060](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0060)                                                                                |
+| IARC_TP53:21722  |        1 | [Cellosaurus#CVCL:0060](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0060)                                                                                |
 | IARC_TP53:6      |        1 | [Cellosaurus#CVCL:0062](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0062)                                                                                |
 | IARC_TP53:21521  |        1 | [Cellosaurus#CVCL:0064](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0064)                                                                                |
 | IARC_TP53:186    |        1 | [Cellosaurus#CVCL:0065](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0065)                                                                                |
@@ -8995,9 +8996,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:18086  |        1 | [Cellosaurus#CVCL:0069](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0069)                                                                                |
 | IARC_TP53:306    |        1 | [Cellosaurus#CVCL:0076](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0076)                                                                                |
 | IARC_TP53:6307   |        1 | [Cellosaurus#CVCL:0077](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0077)                                                                                |
-| IARC_TP53:21582  |        1 | [Cellosaurus#CVCL:0078](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0078)                                                                                |
+| IARC_TP53:307    |        1 | [Cellosaurus#CVCL:0078](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0078)                                                                                |
 | IARC_TP53:21153  |        1 | [Cellosaurus#CVCL:0079](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0079)                                                                                |
-| IARC_TP53:21168  |        1 | [Cellosaurus#CVCL:0080](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0080)                                                                                |
+| IARC_TP53:705    |        1 | [Cellosaurus#CVCL:0080](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0080)                                                                                |
 | IARC_TP53:30121  |        1 | [Cellosaurus#CVCL:0089](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0089)                                                                                |
 | IARC_TP53:6304   |        1 | [Cellosaurus#CVCL:0090](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0090)                                                                                |
 | IARC_TP53:21526  |        1 | [Cellosaurus#CVCL:0091](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0091)                                                                                |
@@ -9005,7 +9006,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21293  |        1 | [Cellosaurus#CVCL:0093](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0093)                                                                                |
 | IARC_TP53:28231  |        1 | [Cellosaurus#CVCL:0095](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0095)                                                                                |
 | IARC_TP53:27238  |        1 | [Cellosaurus#CVCL:0098](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0098)                                                                                |
-| IARC_TP53:21581  |        1 | [Cellosaurus#CVCL:0099](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0099)                                                                                |
+| IARC_TP53:30155  |        1 | [Cellosaurus#CVCL:0099](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0099)                                                                                |
 | IARC_TP53:7419   |        1 | [Cellosaurus#CVCL:0100](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0100)                                                                                |
 | IARC_TP53:7420   |        1 | [Cellosaurus#CVCL:0101](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0101)                                                                                |
 | IARC_TP53:7421   |        1 | [Cellosaurus#CVCL:0102](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0102)                                                                                |
@@ -9029,9 +9030,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:4      |        1 | [Cellosaurus#CVCL:0179](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0179)                                                                                |
 | IARC_TP53:21199  |        1 | [Cellosaurus#CVCL:0181](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0181)                                                                                |
 | IARC_TP53:312    |        1 | [Cellosaurus#CVCL:0186](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0186)                                                                                |
-| IARC_TP53:28485  |        1 | [Cellosaurus#CVCL:0201](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0201)                                                                                |
-| IARC_TP53:1414   |        1 | [Cellosaurus#CVCL:0202](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0202)                                                                                |
-| IARC_TP53:13197  |        1 | [Cellosaurus#CVCL:0207](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0207)                                                                                |
+| IARC_TP53:30197  |        1 | [Cellosaurus#CVCL:0201](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0201)                                                                                |
+| IARC_TP53:30198  |        1 | [Cellosaurus#CVCL:0202](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0202)                                                                                |
+| IARC_TP53:21218  |        1 | [Cellosaurus#CVCL:0207](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0207)                                                                                |
 | IARC_TP53:21221  |        1 | [Cellosaurus#CVCL:0209](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0209)                                                                                |
 | IARC_TP53:21228  |        1 | [Cellosaurus#CVCL:0216](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0216)                                                                                |
 | IARC_TP53:28399  |        1 | [Cellosaurus#CVCL:0217](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0217)                                                                                |
@@ -9040,7 +9041,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21232  |        1 | [Cellosaurus#CVCL:0220](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0220)                                                                                |
 | IARC_TP53:21041  |        1 | [Cellosaurus#CVCL:0234](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0234)                                                                                |
 | IARC_TP53:30022  |        1 | [Cellosaurus#CVCL:0235](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0235)                                                                                |
-| IARC_TP53:119    |        1 | [Cellosaurus#CVCL:0236](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0236)                                                                                |
+| IARC_TP53:21265  |        1 | [Cellosaurus#CVCL:0236](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0236)                                                                                |
 | IARC_TP53:1560   |        1 | [Cellosaurus#CVCL:0237](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0237)                                                                                |
 | IARC_TP53:30030  |        1 | [Cellosaurus#CVCL:0243](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0243)                                                                                |
 | IARC_TP53:8094   |        1 | [Cellosaurus#CVCL:0244](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0244)                                                                                |
@@ -9082,7 +9083,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:2195   |        1 | [Cellosaurus#CVCL:0374](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0374)                                                                                |
 | IARC_TP53:27560  |        1 | [Cellosaurus#CVCL:0375](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0375)                                                                                |
 | IARC_TP53:21436  |        1 | [Cellosaurus#CVCL:0378](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0378)                                                                                |
-| IARC_TP53:21446  |        1 | [Cellosaurus#CVCL:0379](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0379)                                                                                |
+| IARC_TP53:342    |        1 | [Cellosaurus#CVCL:0379](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0379)                                                                                |
 | IARC_TP53:21457  |        1 | [Cellosaurus#CVCL:0388](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0388)                                                                                |
 | IARC_TP53:21459  |        1 | [Cellosaurus#CVCL:0389](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0389)                                                                                |
 | IARC_TP53:2570   |        1 | [Cellosaurus#CVCL:0392](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0392)                                                                                |
@@ -9097,25 +9098,25 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:18065  |        1 | [Cellosaurus#CVCL:0417](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0417)                                                                                |
 | IARC_TP53:762    |        1 | [Cellosaurus#CVCL:0418](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0418)                                                                                |
 | IARC_TP53:94     |        1 | [Cellosaurus#CVCL:0419](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0419)                                                                                |
-| IARC_TP53:21489  |        1 | [Cellosaurus#CVCL:0420](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0420)                                                                                |
+| IARC_TP53:5550   |        1 | [Cellosaurus#CVCL:0420](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0420)                                                                                |
 | IARC_TP53:21491  |        1 | [Cellosaurus#CVCL:0425](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0425)                                                                                |
 | IARC_TP53:21660  |        1 | [Cellosaurus#CVCL:0426](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0426)                                                                                |
 | IARC_TP53:316    |        1 | [Cellosaurus#CVCL:0428](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0428)                                                                                |
 | IARC_TP53:30213  |        1 | [Cellosaurus#CVCL:0434](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0434)                                                                                |
 | IARC_TP53:25022  |        1 | [Cellosaurus#CVCL:0439](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0439)                                                                                |
 | IARC_TP53:26074  |        1 | [Cellosaurus#CVCL:0445](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0445)                                                                                |
-| IARC_TP53:21142  |        1 | [Cellosaurus#CVCL:0454](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0454)                                                                                |
+| IARC_TP53:6309   |        1 | [Cellosaurus#CVCL:0454](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0454)                                                                                |
 | IARC_TP53:21568  |        1 | [Cellosaurus#CVCL:0455](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0455)                                                                                |
 | IARC_TP53:21083  |        1 | [Cellosaurus#CVCL:0459](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0459)                                                                                |
-| IARC_TP53:28453  |        1 | [Cellosaurus#CVCL:0463](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0463)                                                                                |
+| IARC_TP53:495    |        1 | [Cellosaurus#CVCL:0463](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0463)                                                                                |
 | IARC_TP53:1417   |        1 | [Cellosaurus#CVCL:0465](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0465)                                                                                |
 | IARC_TP53:2129   |        1 | [Cellosaurus#CVCL:0467](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0467)                                                                                |
 | IARC_TP53:21601  |        1 | [Cellosaurus#CVCL:0471](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0471)                                                                                |
 | IARC_TP53:25074  |        1 | [Cellosaurus#CVCL:0473](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0473)                                                                                |
 | IARC_TP53:21275  |        1 | [Cellosaurus#CVCL:0478](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0478)                                                                                |
-| IARC_TP53:1418   |        1 | [Cellosaurus#CVCL:0479](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0479)                                                                                |
+| IARC_TP53:8338   |        1 | [Cellosaurus#CVCL:0479](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0479)                                                                                |
 | IARC_TP53:317    |        1 | [Cellosaurus#CVCL:0480](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0480)                                                                                |
-| IARC_TP53:107    |        1 | [Cellosaurus#CVCL:0485](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0485)                                                                                |
+| IARC_TP53:30016  |        1 | [Cellosaurus#CVCL:0485](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0485)                                                                                |
 | IARC_TP53:6310   |        1 | [Cellosaurus#CVCL:0497](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0497)                                                                                |
 | IARC_TP53:1114   |        1 | [Cellosaurus#CVCL:0505](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0505)                                                                                |
 | IARC_TP53:704    |        1 | [Cellosaurus#CVCL:0511](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0511)                                                                                |
@@ -9136,18 +9137,18 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:27036  |        1 | [Cellosaurus#CVCL:0543](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0543)                                                                                |
 | IARC_TP53:1559   |        1 | [Cellosaurus#CVCL:0544](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0544)                                                                                |
 | IARC_TP53:21752  |        1 | [Cellosaurus#CVCL:0545](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0545)                                                                                |
-| IARC_TP53:23572  |        1 | [Cellosaurus#CVCL:0546](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0546)                                                                                |
+| IARC_TP53:96     |        1 | [Cellosaurus#CVCL:0546](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0546)                                                                                |
 | IARC_TP53:20     |        1 | [Cellosaurus#CVCL:0547](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0547)                                                                                |
 | IARC_TP53:21653  |        1 | [Cellosaurus#CVCL:0548](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0548)                                                                                |
 | IARC_TP53:26114  |        1 | [Cellosaurus#CVCL:0550](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0550)                                                                                |
 | IARC_TP53:98     |        1 | [Cellosaurus#CVCL:0553](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0553)                                                                                |
-| IARC_TP53:21131  |        1 | [Cellosaurus#CVCL:0554](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0554)                                                                                |
+| IARC_TP53:3722   |        1 | [Cellosaurus#CVCL:0554](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0554)                                                                                |
 | IARC_TP53:23495  |        1 | [Cellosaurus#CVCL:0555](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0555)                                                                                |
 | IARC_TP53:2574   |        1 | [Cellosaurus#CVCL:0556](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0556)                                                                                |
 | IARC_TP53:2197   |        1 | [Cellosaurus#CVCL:0559](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0559)                                                                                |
 | IARC_TP53:21695  |        1 | [Cellosaurus#CVCL:0561](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0561)                                                                                |
 | IARC_TP53:18700  |        1 | [Cellosaurus#CVCL:0565](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0565)                                                                                |
-| IARC_TP53:30185  |        1 | [Cellosaurus#CVCL:0566](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0566)                                                                                |
+| IARC_TP53:361    |        1 | [Cellosaurus#CVCL:0566](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0566)                                                                                |
 | IARC_TP53:21680  |        1 | [Cellosaurus#CVCL:0568](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0568)                                                                                |
 | IARC_TP53:21682  |        1 | [Cellosaurus#CVCL:0569](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0569)                                                                                |
 | IARC_TP53:27230  |        1 | [Cellosaurus#CVCL:0582](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0582)                                                                                |
@@ -9165,14 +9166,14 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:18375  |        1 | [Cellosaurus#CVCL:0617](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0617)                                                                                |
 | IARC_TP53:18370  |        1 | [Cellosaurus#CVCL:0618](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0618)                                                                                |
 | IARC_TP53:24350  |        1 | [Cellosaurus#CVCL:0619](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0619)                                                                                |
-| IARC_TP53:18373  |        1 | [Cellosaurus#CVCL:0620](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0620)                                                                                |
+| IARC_TP53:21128  |        1 | [Cellosaurus#CVCL:0620](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0620)                                                                                |
 | IARC_TP53:24355  |        1 | [Cellosaurus#CVCL:0621](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0621)                                                                                |
-| IARC_TP53:18371  |        1 | [Cellosaurus#CVCL:0623](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0623)                                                                                |
+| IARC_TP53:26994  |        1 | [Cellosaurus#CVCL:0623](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0623)                                                                                |
 | IARC_TP53:21767  |        1 | [Cellosaurus#CVCL:0626](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0626)                                                                                |
 | IARC_TP53:710    |        1 | [Cellosaurus#CVCL:0627](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0627)                                                                                |
 | IARC_TP53:769    |        1 | [Cellosaurus#CVCL:0628](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0628)                                                                                |
 | IARC_TP53:121    |        1 | [Cellosaurus#CVCL:0629](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0629)                                                                                |
-| IARC_TP53:18793  |        1 | [Cellosaurus#CVCL:0630](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0630)                                                                                |
+| IARC_TP53:8201   |        1 | [Cellosaurus#CVCL:0630](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0630)                                                                                |
 | IARC_TP53:27243  |        1 | [Cellosaurus#CVCL:0631](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0631)                                                                                |
 | IARC_TP53:21763  |        1 | [Cellosaurus#CVCL:0632](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0632)                                                                                |
 | IARC_TP53:4195   |        1 | [Cellosaurus#CVCL:0633](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0633)                                                                                |
@@ -9238,10 +9239,10 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21158  |        1 | [Cellosaurus#CVCL:1058](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1058)                                                                                |
 | IARC_TP53:21159  |        1 | [Cellosaurus#CVCL:1059](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1059)                                                                                |
 | IARC_TP53:21160  |        1 | [Cellosaurus#CVCL:1060](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1060)                                                                                |
-| IARC_TP53:183    |        1 | [Cellosaurus#CVCL:1062](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1062)                                                                                |
+| IARC_TP53:21162  |        1 | [Cellosaurus#CVCL:1062](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1062)                                                                                |
 | IARC_TP53:21164  |        1 | [Cellosaurus#CVCL:1063](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1063)                                                                                |
 | IARC_TP53:21165  |        1 | [Cellosaurus#CVCL:1064](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1064)                                                                                |
-| IARC_TP53:21169  |        1 | [Cellosaurus#CVCL:1065](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1065)                                                                                |
+| IARC_TP53:27550  |        1 | [Cellosaurus#CVCL:1065](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1065)                                                                                |
 | IARC_TP53:11875  |        1 | [Cellosaurus#CVCL:1066](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1066)                                                                                |
 | IARC_TP53:21039  |        1 | [Cellosaurus#CVCL:1067](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1067)                                                                                |
 | IARC_TP53:21170  |        1 | [Cellosaurus#CVCL:1068](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1068)                                                                                |
@@ -9255,7 +9256,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21186  |        1 | [Cellosaurus#CVCL:1076](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1076)                                                                                |
 | IARC_TP53:21187  |        1 | [Cellosaurus#CVCL:1077](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1077)                                                                                |
 | IARC_TP53:26919  |        1 | [Cellosaurus#CVCL:1078](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1078)                                                                                |
-| IARC_TP53:21189  |        1 | [Cellosaurus#CVCL:1079](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1079)                                                                                |
+| IARC_TP53:23656  |        1 | [Cellosaurus#CVCL:1079](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1079)                                                                                |
 | IARC_TP53:26979  |        1 | [Cellosaurus#CVCL:1080](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1080)                                                                                |
 | IARC_TP53:21650  |        1 | [Cellosaurus#CVCL:1081](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1081)                                                                                |
 | IARC_TP53:21181  |        1 | [Cellosaurus#CVCL:1082](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1082)                                                                                |
@@ -9263,18 +9264,18 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:4367   |        1 | [Cellosaurus#CVCL:1084](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1084)                                                                                |
 | IARC_TP53:21193  |        1 | [Cellosaurus#CVCL:1085](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1085)                                                                                |
 | IARC_TP53:25036  |        1 | [Cellosaurus#CVCL:1086](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1086)                                                                                |
-| IARC_TP53:21194  |        1 | [Cellosaurus#CVCL:1087](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1087)                                                                                |
+| IARC_TP53:700    |        1 | [Cellosaurus#CVCL:1087](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1087)                                                                                |
 | IARC_TP53:21195  |        1 | [Cellosaurus#CVCL:1088](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1088)                                                                                |
 | IARC_TP53:27686  |        1 | [Cellosaurus#CVCL:1089](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1089)                                                                                |
 | IARC_TP53:21196  |        1 | [Cellosaurus#CVCL:1090](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1090)                                                                                |
 | IARC_TP53:27687  |        1 | [Cellosaurus#CVCL:1091](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1091)                                                                                |
-| IARC_TP53:28243  |        1 | [Cellosaurus#CVCL:1092](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1092)                                                                                |
+| IARC_TP53:5      |        1 | [Cellosaurus#CVCL:1092](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1092)                                                                                |
 | IARC_TP53:21201  |        1 | [Cellosaurus#CVCL:1093](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1093)                                                                                |
 | IARC_TP53:324    |        1 | [Cellosaurus#CVCL:1094](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1094)                                                                                |
 | IARC_TP53:21202  |        1 | [Cellosaurus#CVCL:1095](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1095)                                                                                |
 | IARC_TP53:21203  |        1 | [Cellosaurus#CVCL:1096](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1096)                                                                                |
 | IARC_TP53:21204  |        1 | [Cellosaurus#CVCL:1097](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1097)                                                                                |
-| IARC_TP53:21205  |        1 | [Cellosaurus#CVCL:1098](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1098)                                                                                |
+| IARC_TP53:27688  |        1 | [Cellosaurus#CVCL:1098](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1098)                                                                                |
 | IARC_TP53:21206  |        1 | [Cellosaurus#CVCL:1099](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1099)                                                                                |
 | IARC_TP53:21261  |        1 | [Cellosaurus#CVCL:1100](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1100)                                                                                |
 | IARC_TP53:7395   |        1 | [Cellosaurus#CVCL:1101](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1101)                                                                                |
@@ -9292,7 +9293,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21214  |        1 | [Cellosaurus#CVCL:1113](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1113)                                                                                |
 | IARC_TP53:21215  |        1 | [Cellosaurus#CVCL:1114](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1114)                                                                                |
 | IARC_TP53:18372  |        1 | [Cellosaurus#CVCL:1115](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1115)                                                                                |
-| IARC_TP53:21665  |        1 | [Cellosaurus#CVCL:1116](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1116)                                                                                |
+| IARC_TP53:21735  |        1 | [Cellosaurus#CVCL:1116](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1116)                                                                                |
 | IARC_TP53:21216  |        1 | [Cellosaurus#CVCL:1117](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1117)                                                                                |
 | IARC_TP53:21217  |        1 | [Cellosaurus#CVCL:1118](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1118)                                                                                |
 | IARC_TP53:2839   |        1 | [Cellosaurus#CVCL:1119](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1119)                                                                                |
@@ -9302,7 +9303,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21225  |        1 | [Cellosaurus#CVCL:1123](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1123)                                                                                |
 | IARC_TP53:21226  |        1 | [Cellosaurus#CVCL:1124](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1124)                                                                                |
 | IARC_TP53:21227  |        1 | [Cellosaurus#CVCL:1125](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1125)                                                                                |
-| IARC_TP53:21229  |        1 | [Cellosaurus#CVCL:1126](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1126)                                                                                |
+| IARC_TP53:30192  |        1 | [Cellosaurus#CVCL:1126](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1126)                                                                                |
 | IARC_TP53:21267  |        1 | [Cellosaurus#CVCL:1127](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1127)                                                                                |
 | IARC_TP53:21231  |        1 | [Cellosaurus#CVCL:1128](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1128)                                                                                |
 | IARC_TP53:21234  |        1 | [Cellosaurus#CVCL:1129](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1129)                                                                                |
@@ -9349,17 +9350,17 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21302  |        1 | [Cellosaurus#CVCL:1172](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1172)                                                                                |
 | IARC_TP53:21303  |        1 | [Cellosaurus#CVCL:1173](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1173)                                                                                |
 | IARC_TP53:21640  |        1 | [Cellosaurus#CVCL:1174](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1174)                                                                                |
-| IARC_TP53:19177  |        1 | [Cellosaurus#CVCL:1175](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1175)                                                                                |
+| IARC_TP53:21306  |        1 | [Cellosaurus#CVCL:1175](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1175)                                                                                |
 | IARC_TP53:21307  |        1 | [Cellosaurus#CVCL:1176](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1176)                                                                                |
 | IARC_TP53:21308  |        1 | [Cellosaurus#CVCL:1177](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1177)                                                                                |
 | IARC_TP53:21309  |        1 | [Cellosaurus#CVCL:1178](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1178)                                                                                |
-| IARC_TP53:21310  |        1 | [Cellosaurus#CVCL:1179](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1179)                                                                                |
+| IARC_TP53:25029  |        1 | [Cellosaurus#CVCL:1179](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1179)                                                                                |
 | IARC_TP53:21311  |        1 | [Cellosaurus#CVCL:1180](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1180)                                                                                |
 | IARC_TP53:21314  |        1 | [Cellosaurus#CVCL:1181](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1181)                                                                                |
 | IARC_TP53:21312  |        1 | [Cellosaurus#CVCL:1182](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1182)                                                                                |
 | IARC_TP53:21043  |        1 | [Cellosaurus#CVCL:1183](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1183)                                                                                |
 | IARC_TP53:21313  |        1 | [Cellosaurus#CVCL:1184](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1184)                                                                                |
-| IARC_TP53:155    |        1 | [Cellosaurus#CVCL:1185](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1185)                                                                                |
+| IARC_TP53:21145  |        1 | [Cellosaurus#CVCL:1185](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1185)                                                                                |
 | IARC_TP53:21316  |        1 | [Cellosaurus#CVCL:1186](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1186)                                                                                |
 | IARC_TP53:21317  |        1 | [Cellosaurus#CVCL:1187](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1187)                                                                                |
 | IARC_TP53:21318  |        1 | [Cellosaurus#CVCL:1188](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1188)                                                                                |
@@ -9405,7 +9406,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21341  |        1 | [Cellosaurus#CVCL:1229](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1229)                                                                                |
 | IARC_TP53:21342  |        1 | [Cellosaurus#CVCL:1230](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1230)                                                                                |
 | IARC_TP53:21343  |        1 | [Cellosaurus#CVCL:1231](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1231)                                                                                |
-| IARC_TP53:23838  |        1 | [Cellosaurus#CVCL:1232](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1232)                                                                                |
+| IARC_TP53:27693  |        1 | [Cellosaurus#CVCL:1232](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1232)                                                                                |
 | IARC_TP53:21346  |        1 | [Cellosaurus#CVCL:1233](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1233)                                                                                |
 | IARC_TP53:21052  |        1 | [Cellosaurus#CVCL:1234](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1234)                                                                                |
 | IARC_TP53:21348  |        1 | [Cellosaurus#CVCL:1235](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1235)                                                                                |
@@ -9417,7 +9418,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21357  |        1 | [Cellosaurus#CVCL:1241](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1241)                                                                                |
 | IARC_TP53:27557  |        1 | [Cellosaurus#CVCL:1242](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1242)                                                                                |
 | IARC_TP53:21358  |        1 | [Cellosaurus#CVCL:1243](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1243)                                                                                |
-| IARC_TP53:21359  |        1 | [Cellosaurus#CVCL:1245](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1245)                                                                                |
+| IARC_TP53:30200  |        1 | [Cellosaurus#CVCL:1245](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1245)                                                                                |
 | IARC_TP53:30201  |        1 | [Cellosaurus#CVCL:1247](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1247)                                                                                |
 | IARC_TP53:10271  |        1 | [Cellosaurus#CVCL:1249](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1249)                                                                                |
 | IARC_TP53:30202  |        1 | [Cellosaurus#CVCL:1251](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1251)                                                                                |
@@ -9427,8 +9428,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21362  |        1 | [Cellosaurus#CVCL:1256](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1256)                                                                                |
 | IARC_TP53:10273  |        1 | [Cellosaurus#CVCL:1258](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1258)                                                                                |
 | IARC_TP53:21363  |        1 | [Cellosaurus#CVCL:1259](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1259)                                                                                |
-| IARC_TP53:21364  |        1 | [Cellosaurus#CVCL:1261](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1261)                                                                                |
-| IARC_TP53:10275  |        1 | [Cellosaurus#CVCL:1263](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1263)                                                                                |
+| IARC_TP53:30204  |        1 | [Cellosaurus#CVCL:1261](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1261)                                                                                |
+| IARC_TP53:21365  |        1 | [Cellosaurus#CVCL:1263](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1263)                                                                                |
 | IARC_TP53:30034  |        1 | [Cellosaurus#CVCL:1265](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1265)                                                                                |
 | IARC_TP53:21115  |        1 | [Cellosaurus#CVCL:1266](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1266)                                                                                |
 | IARC_TP53:10268  |        1 | [Cellosaurus#CVCL:1267](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1267)                                                                                |
@@ -9450,7 +9451,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:1100   |        1 | [Cellosaurus#CVCL:1288](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1288)                                                                                |
 | IARC_TP53:1102   |        1 | [Cellosaurus#CVCL:1289](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1289)                                                                                |
 | IARC_TP53:21377  |        1 | [Cellosaurus#CVCL:1290](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1290)                                                                                |
-| IARC_TP53:21130  |        1 | [Cellosaurus#CVCL:1291](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1291)                                                                                |
+| IARC_TP53:3719   |        1 | [Cellosaurus#CVCL:1291](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1291)                                                                                |
 | IARC_TP53:3720   |        1 | [Cellosaurus#CVCL:1292](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1292)                                                                                |
 | IARC_TP53:325    |        1 | [Cellosaurus#CVCL:1293](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1293)                                                                                |
 | IARC_TP53:21739  |        1 | [Cellosaurus#CVCL:1294](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1294)                                                                                |
@@ -9463,7 +9464,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21385  |        1 | [Cellosaurus#CVCL:1301](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1301)                                                                                |
 | IARC_TP53:21393  |        1 | [Cellosaurus#CVCL:1302](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1302)                                                                                |
 | IARC_TP53:21394  |        1 | [Cellosaurus#CVCL:1303](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1303)                                                                                |
-| IARC_TP53:21072  |        1 | [Cellosaurus#CVCL:1304](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1304)                                                                                |
+| IARC_TP53:30209  |        1 | [Cellosaurus#CVCL:1304](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1304)                                                                                |
 | IARC_TP53:21395  |        1 | [Cellosaurus#CVCL:1305](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1305)                                                                                |
 | IARC_TP53:21396  |        1 | [Cellosaurus#CVCL:1306](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1306)                                                                                |
 | IARC_TP53:21397  |        1 | [Cellosaurus#CVCL:1307](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1307)                                                                                |
@@ -9485,7 +9486,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21430  |        1 | [Cellosaurus#CVCL:1327](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1327)                                                                                |
 | IARC_TP53:21432  |        1 | [Cellosaurus#CVCL:1328](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1328)                                                                                |
 | IARC_TP53:1113   |        1 | [Cellosaurus#CVCL:1329](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1329)                                                                                |
-| IARC_TP53:21433  |        1 | [Cellosaurus#CVCL:1330](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1330)                                                                                |
+| IARC_TP53:23616  |        1 | [Cellosaurus#CVCL:1330](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1330)                                                                                |
 | IARC_TP53:21119  |        1 | [Cellosaurus#CVCL:1331](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1331)                                                                                |
 | IARC_TP53:21434  |        1 | [Cellosaurus#CVCL:1332](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1332)                                                                                |
 | IARC_TP53:28504  |        1 | [Cellosaurus#CVCL:1333](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1333)                                                                                |
@@ -9510,11 +9511,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:7685   |        1 | [Cellosaurus#CVCL:1353](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1353)                                                                                |
 | IARC_TP53:7686   |        1 | [Cellosaurus#CVCL:1354](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1354)                                                                                |
 | IARC_TP53:7693   |        1 | [Cellosaurus#CVCL:1355](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1355)                                                                                |
-| IARC_TP53:21454  |        1 | [Cellosaurus#CVCL:1356](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1356)                                                                                |
+| IARC_TP53:7690   |        1 | [Cellosaurus#CVCL:1356](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1356)                                                                                |
 | IARC_TP53:27175  |        1 | [Cellosaurus#CVCL:1357](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1357)                                                                                |
 | IARC_TP53:7680   |        1 | [Cellosaurus#CVCL:1358](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1358)                                                                                |
 | IARC_TP53:7683   |        1 | [Cellosaurus#CVCL:1359](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1359)                                                                                |
-| IARC_TP53:21455  |        1 | [Cellosaurus#CVCL:1361](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1361)                                                                                |
+| IARC_TP53:23612  |        1 | [Cellosaurus#CVCL:1361](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1361)                                                                                |
 | IARC_TP53:23615  |        1 | [Cellosaurus#CVCL:1362](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1362)                                                                                |
 | IARC_TP53:27562  |        1 | [Cellosaurus#CVCL:1363](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1363)                                                                                |
 | IARC_TP53:21460  |        1 | [Cellosaurus#CVCL:1364](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1364)                                                                                |
@@ -9536,9 +9537,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:9767   |        1 | [Cellosaurus#CVCL:1380](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1380)                                                                                |
 | IARC_TP53:21077  |        1 | [Cellosaurus#CVCL:1381](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1381)                                                                                |
 | IARC_TP53:6483   |        1 | [Cellosaurus#CVCL:1382](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1382)                                                                                |
-| IARC_TP53:21477  |        1 | [Cellosaurus#CVCL:1383](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1383)                                                                                |
+| IARC_TP53:21742  |        1 | [Cellosaurus#CVCL:1383](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1383)                                                                                |
 | IARC_TP53:21708  |        1 | [Cellosaurus#CVCL:1384](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1384)                                                                                |
-| IARC_TP53:21479  |        1 | [Cellosaurus#CVCL:1385](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1385)                                                                                |
+| IARC_TP53:21751  |        1 | [Cellosaurus#CVCL:1385](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1385)                                                                                |
 | IARC_TP53:21480  |        1 | [Cellosaurus#CVCL:1386](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1386)                                                                                |
 | IARC_TP53:1014   |        1 | [Cellosaurus#CVCL:1387](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1387)                                                                                |
 | IARC_TP53:1015   |        1 | [Cellosaurus#CVCL:1389](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1389)                                                                                |
@@ -9567,7 +9568,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21503  |        1 | [Cellosaurus#CVCL:1413](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1413)                                                                                |
 | IARC_TP53:21504  |        1 | [Cellosaurus#CVCL:1414](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1414)                                                                                |
 | IARC_TP53:998    |        1 | [Cellosaurus#CVCL:1415](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1415)                                                                                |
-| IARC_TP53:21505  |        1 | [Cellosaurus#CVCL:1416](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1416)                                                                                |
+| IARC_TP53:972    |        1 | [Cellosaurus#CVCL:1416](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1416)                                                                                |
 | IARC_TP53:21641  |        1 | [Cellosaurus#CVCL:1417](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1417)                                                                                |
 | IARC_TP53:21508  |        1 | [Cellosaurus#CVCL:1419](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1419)                                                                                |
 | IARC_TP53:27564  |        1 | [Cellosaurus#CVCL:1420](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1420)                                                                                |
@@ -9591,7 +9592,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:27177  |        1 | [Cellosaurus#CVCL:1443](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1443)                                                                                |
 | IARC_TP53:27178  |        1 | [Cellosaurus#CVCL:1444](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1444)                                                                                |
 | IARC_TP53:27700  |        1 | [Cellosaurus#CVCL:1445](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1445)                                                                                |
-| IARC_TP53:21531  |        1 | [Cellosaurus#CVCL:1448](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1448)                                                                                |
+| IARC_TP53:27184  |        1 | [Cellosaurus#CVCL:1448](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1448)                                                                                |
 | IARC_TP53:27185  |        1 | [Cellosaurus#CVCL:1450](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1450)                                                                                |
 | IARC_TP53:21532  |        1 | [Cellosaurus#CVCL:1451](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1451)                                                                                |
 | IARC_TP53:21533  |        1 | [Cellosaurus#CVCL:1452](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1452)                                                                                |
@@ -9610,7 +9611,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:491    |        1 | [Cellosaurus#CVCL:1468](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1468)                                                                                |
 | IARC_TP53:21538  |        1 | [Cellosaurus#CVCL:1469](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1469)                                                                                |
 | IARC_TP53:492    |        1 | [Cellosaurus#CVCL:1470](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1470)                                                                                |
-| IARC_TP53:21539  |        1 | [Cellosaurus#CVCL:1471](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1471)                                                                                |
+| IARC_TP53:254    |        1 | [Cellosaurus#CVCL:1471](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1471)                                                                                |
 | IARC_TP53:493    |        1 | [Cellosaurus#CVCL:1472](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1472)                                                                                |
 | IARC_TP53:21540  |        1 | [Cellosaurus#CVCL:1473](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1473)                                                                                |
 | IARC_TP53:21542  |        1 | [Cellosaurus#CVCL:1475](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1475)                                                                                |
@@ -9632,7 +9633,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21547  |        1 | [Cellosaurus#CVCL:1493](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1493)                                                                                |
 | IARC_TP53:505    |        1 | [Cellosaurus#CVCL:1494](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1494)                                                                                |
 | IARC_TP53:506    |        1 | [Cellosaurus#CVCL:1495](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1495)                                                                                |
-| IARC_TP53:21405  |        1 | [Cellosaurus#CVCL:1496](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1496)                                                                                |
+| IARC_TP53:507    |        1 | [Cellosaurus#CVCL:1496](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1496)                                                                                |
 | IARC_TP53:28442  |        1 | [Cellosaurus#CVCL:1497](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1497)                                                                                |
 | IARC_TP53:28311  |        1 | [Cellosaurus#CVCL:1498](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1498)                                                                                |
 | IARC_TP53:21548  |        1 | [Cellosaurus#CVCL:1499](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1499)                                                                                |
@@ -9640,7 +9641,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:28286  |        1 | [Cellosaurus#CVCL:1503](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1503)                                                                                |
 | IARC_TP53:27567  |        1 | [Cellosaurus#CVCL:1504](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1504)                                                                                |
 | IARC_TP53:509    |        1 | [Cellosaurus#CVCL:1505](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1505)                                                                                |
-| IARC_TP53:1404   |        1 | [Cellosaurus#CVCL:1506](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1506)                                                                                |
+| IARC_TP53:21549  |        1 | [Cellosaurus#CVCL:1506](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1506)                                                                                |
 | IARC_TP53:27188  |        1 | [Cellosaurus#CVCL:1507](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1507)                                                                                |
 | IARC_TP53:30129  |        1 | [Cellosaurus#CVCL:1508](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1508)                                                                                |
 | IARC_TP53:433    |        1 | [Cellosaurus#CVCL:1510](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1510)                                                                                |
@@ -9668,12 +9669,12 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21560  |        1 | [Cellosaurus#CVCL:1539](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1539)                                                                                |
 | IARC_TP53:436    |        1 | [Cellosaurus#CVCL:1542](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1542)                                                                                |
 | IARC_TP53:27190  |        1 | [Cellosaurus#CVCL:1543](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1543)                                                                                |
-| IARC_TP53:23624  |        1 | [Cellosaurus#CVCL:1544](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1544)                                                                                |
+| IARC_TP53:515    |        1 | [Cellosaurus#CVCL:1544](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1544)                                                                                |
 | IARC_TP53:28267  |        1 | [Cellosaurus#CVCL:1545](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1545)                                                                                |
 | IARC_TP53:27192  |        1 | [Cellosaurus#CVCL:1546](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1546)                                                                                |
 | IARC_TP53:256    |        1 | [Cellosaurus#CVCL:1547](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1547)                                                                                |
 | IARC_TP53:21562  |        1 | [Cellosaurus#CVCL:1549](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1549)                                                                                |
-| IARC_TP53:21563  |        1 | [Cellosaurus#CVCL:1550](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1550)                                                                                |
+| IARC_TP53:28451  |        1 | [Cellosaurus#CVCL:1550](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1550)                                                                                |
 | IARC_TP53:21564  |        1 | [Cellosaurus#CVCL:1551](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1551)                                                                                |
 | IARC_TP53:28321  |        1 | [Cellosaurus#CVCL:1552](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1552)                                                                                |
 | IARC_TP53:27193  |        1 | [Cellosaurus#CVCL:1554](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1554)                                                                                |
@@ -9681,14 +9682,14 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:516    |        1 | [Cellosaurus#CVCL:1556](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1556)                                                                                |
 | IARC_TP53:21407  |        1 | [Cellosaurus#CVCL:1557](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1557)                                                                                |
 | IARC_TP53:21570  |        1 | [Cellosaurus#CVCL:1558](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1558)                                                                                |
-| IARC_TP53:21571  |        1 | [Cellosaurus#CVCL:1559](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1559)                                                                                |
+| IARC_TP53:21723  |        1 | [Cellosaurus#CVCL:1559](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1559)                                                                                |
 | IARC_TP53:21572  |        1 | [Cellosaurus#CVCL:1560](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1560)                                                                                |
-| IARC_TP53:21408  |        1 | [Cellosaurus#CVCL:1561](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1561)                                                                                |
+| IARC_TP53:518    |        1 | [Cellosaurus#CVCL:1561](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1561)                                                                                |
 | IARC_TP53:21573  |        1 | [Cellosaurus#CVCL:1562](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1562)                                                                                |
 | IARC_TP53:21574  |        1 | [Cellosaurus#CVCL:1564](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1564)                                                                                |
 | IARC_TP53:437    |        1 | [Cellosaurus#CVCL:1565](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1565)                                                                                |
 | IARC_TP53:519    |        1 | [Cellosaurus#CVCL:1566](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1566)                                                                                |
-| IARC_TP53:21410  |        1 | [Cellosaurus#CVCL:1567](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1567)                                                                                |
+| IARC_TP53:520    |        1 | [Cellosaurus#CVCL:1567](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1567)                                                                                |
 | IARC_TP53:21575  |        1 | [Cellosaurus#CVCL:1568](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1568)                                                                                |
 | IARC_TP53:995    |        1 | [Cellosaurus#CVCL:1569](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1569)                                                                                |
 | IARC_TP53:521    |        1 | [Cellosaurus#CVCL:1571](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1571)                                                                                |
@@ -9703,14 +9704,14 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21743  |        1 | [Cellosaurus#CVCL:1581](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1581)                                                                                |
 | IARC_TP53:27194  |        1 | [Cellosaurus#CVCL:1582](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1582)                                                                                |
 | IARC_TP53:526    |        1 | [Cellosaurus#CVCL:1583](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1583)                                                                                |
-| IARC_TP53:28250  |        1 | [Cellosaurus#CVCL:1584](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1584)                                                                                |
+| IARC_TP53:527    |        1 | [Cellosaurus#CVCL:1584](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1584)                                                                                |
 | IARC_TP53:1557   |        1 | [Cellosaurus#CVCL:1587](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1587)                                                                                |
 | IARC_TP53:21580  |        1 | [Cellosaurus#CVCL:1588](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1588)                                                                                |
 | IARC_TP53:438    |        1 | [Cellosaurus#CVCL:1589](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1589)                                                                                |
 | IARC_TP53:27195  |        1 | [Cellosaurus#CVCL:1590](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1590)                                                                                |
 | IARC_TP53:440    |        1 | [Cellosaurus#CVCL:1591](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1591)                                                                                |
 | IARC_TP53:528    |        1 | [Cellosaurus#CVCL:1592](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1592)                                                                                |
-| IARC_TP53:25039  |        1 | [Cellosaurus#CVCL:1594](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1594)                                                                                |
+| IARC_TP53:30215  |        1 | [Cellosaurus#CVCL:1594](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1594)                                                                                |
 | IARC_TP53:11886  |        1 | [Cellosaurus#CVCL:1595](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1595)                                                                                |
 | IARC_TP53:257    |        1 | [Cellosaurus#CVCL:1598](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1598)                                                                                |
 | IARC_TP53:530    |        1 | [Cellosaurus#CVCL:1599](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1599)                                                                                |
@@ -9740,7 +9741,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:28518  |        1 | [Cellosaurus#CVCL:1625](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1625)                                                                                |
 | IARC_TP53:21604  |        1 | [Cellosaurus#CVCL:1626](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1626)                                                                                |
 | IARC_TP53:30217  |        1 | [Cellosaurus#CVCL:1627](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1627)                                                                                |
-| IARC_TP53:18079  |        1 | [Cellosaurus#CVCL:1629](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1629)                                                                                |
+| IARC_TP53:21121  |        1 | [Cellosaurus#CVCL:1629](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1629)                                                                                |
 | IARC_TP53:10568  |        1 | [Cellosaurus#CVCL:1630](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1630)                                                                                |
 | IARC_TP53:21273  |        1 | [Cellosaurus#CVCL:1631](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1631)                                                                                |
 | IARC_TP53:21274  |        1 | [Cellosaurus#CVCL:1632](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1632)                                                                                |
@@ -9750,7 +9751,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:28220  |        1 | [Cellosaurus#CVCL:1636](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1636)                                                                                |
 | IARC_TP53:30143  |        1 | [Cellosaurus#CVCL:1637](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1637)                                                                                |
 | IARC_TP53:27227  |        1 | [Cellosaurus#CVCL:1639](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1639)                                                                                |
-| IARC_TP53:11872  |        1 | [Cellosaurus#CVCL:1640](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1640)                                                                                |
+| IARC_TP53:21133  |        1 | [Cellosaurus#CVCL:1640](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1640)                                                                                |
 | IARC_TP53:21278  |        1 | [Cellosaurus#CVCL:1641](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1641)                                                                                |
 | IARC_TP53:21279  |        1 | [Cellosaurus#CVCL:1642](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1642)                                                                                |
 | IARC_TP53:7674   |        1 | [Cellosaurus#CVCL:1643](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1643)                                                                                |
@@ -9761,10 +9762,10 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:767    |        1 | [Cellosaurus#CVCL:1649](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1649)                                                                                |
 | IARC_TP53:28432  |        1 | [Cellosaurus#CVCL:1650](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1650)                                                                                |
 | IARC_TP53:28282  |        1 | [Cellosaurus#CVCL:1651](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1651)                                                                                |
-| IARC_TP53:28364  |        1 | [Cellosaurus#CVCL:1652](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1652)                                                                                |
+| IARC_TP53:30151  |        1 | [Cellosaurus#CVCL:1652](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1652)                                                                                |
 | IARC_TP53:27228  |        1 | [Cellosaurus#CVCL:1653](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1653)                                                                                |
 | IARC_TP53:21635  |        1 | [Cellosaurus#CVCL:1654](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1654)                                                                                |
-| IARC_TP53:11878  |        1 | [Cellosaurus#CVCL:1655](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1655)                                                                                |
+| IARC_TP53:28452  |        1 | [Cellosaurus#CVCL:1655](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1655)                                                                                |
 | IARC_TP53:21286  |        1 | [Cellosaurus#CVCL:1657](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1657)                                                                                |
 | IARC_TP53:27229  |        1 | [Cellosaurus#CVCL:1658](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1658)                                                                                |
 | IARC_TP53:27702  |        1 | [Cellosaurus#CVCL:1659](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1659)                                                                                |
@@ -9800,7 +9801,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:27575  |        1 | [Cellosaurus#CVCL:1695](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1695)                                                                                |
 | IARC_TP53:27705  |        1 | [Cellosaurus#CVCL:1697](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1697)                                                                                |
 | IARC_TP53:27240  |        1 | [Cellosaurus#CVCL:1698](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1698)                                                                                |
-| IARC_TP53:27241  |        1 | [Cellosaurus#CVCL:1699](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1699)                                                                                |
+| IARC_TP53:28509  |        1 | [Cellosaurus#CVCL:1699](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1699)                                                                                |
 | IARC_TP53:23597  |        1 | [Cellosaurus#CVCL:1700](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1700)                                                                                |
 | IARC_TP53:27242  |        1 | [Cellosaurus#CVCL:1701](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1701)                                                                                |
 | IARC_TP53:27244  |        1 | [Cellosaurus#CVCL:1702](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1702)                                                                                |
@@ -9812,7 +9813,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:27246  |        1 | [Cellosaurus#CVCL:1708](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1708)                                                                                |
 | IARC_TP53:28285  |        1 | [Cellosaurus#CVCL:1709](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1709)                                                                                |
 | IARC_TP53:21744  |        1 | [Cellosaurus#CVCL:1710](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1710)                                                                                |
-| IARC_TP53:21092  |        1 | [Cellosaurus#CVCL:1711](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1711)                                                                                |
+| IARC_TP53:28377  |        1 | [Cellosaurus#CVCL:1711](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1711)                                                                                |
 | IARC_TP53:27043  |        1 | [Cellosaurus#CVCL:1712](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1712)                                                                                |
 | IARC_TP53:27248  |        1 | [Cellosaurus#CVCL:1713](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1713)                                                                                |
 | IARC_TP53:27249  |        1 | [Cellosaurus#CVCL:1715](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1715)                                                                                |
@@ -9823,19 +9824,19 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:6606   |        1 | [Cellosaurus#CVCL:1721](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1721)                                                                                |
 | IARC_TP53:27251  |        1 | [Cellosaurus#CVCL:1722](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1722)                                                                                |
 | IARC_TP53:27582  |        1 | [Cellosaurus#CVCL:1723](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1723)                                                                                |
-| IARC_TP53:21768  |        1 | [Cellosaurus#CVCL:1724](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1724)                                                                                |
+| IARC_TP53:4556   |        1 | [Cellosaurus#CVCL:1724](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1724)                                                                                |
 | IARC_TP53:27252  |        1 | [Cellosaurus#CVCL:1725](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1725)                                                                                |
 | IARC_TP53:27253  |        1 | [Cellosaurus#CVCL:1726](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1726)                                                                                |
 | IARC_TP53:27583  |        1 | [Cellosaurus#CVCL:1727](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1727)                                                                                |
 | IARC_TP53:27584  |        1 | [Cellosaurus#CVCL:1728](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1728)                                                                                |
-| IARC_TP53:23571  |        1 | [Cellosaurus#CVCL:1729](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1729)                                                                                |
+| IARC_TP53:95     |        1 | [Cellosaurus#CVCL:1729](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1729)                                                                                |
 | IARC_TP53:24518  |        1 | [Cellosaurus#CVCL:1730](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1730)                                                                                |
 | IARC_TP53:27254  |        1 | [Cellosaurus#CVCL:1731](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1731)                                                                                |
 | IARC_TP53:27255  |        1 | [Cellosaurus#CVCL:1732](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1732)                                                                                |
 | IARC_TP53:27256  |        1 | [Cellosaurus#CVCL:1733](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1733)                                                                                |
 | IARC_TP53:27585  |        1 | [Cellosaurus#CVCL:1734](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1734)                                                                                |
 | IARC_TP53:30173  |        1 | [Cellosaurus#CVCL:1735](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1735)                                                                                |
-| IARC_TP53:10564  |        1 | [Cellosaurus#CVCL:1736](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1736)                                                                                |
+| IARC_TP53:27257  |        1 | [Cellosaurus#CVCL:1736](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1736)                                                                                |
 | IARC_TP53:27258  |        1 | [Cellosaurus#CVCL:1737](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1737)                                                                                |
 | IARC_TP53:3724   |        1 | [Cellosaurus#CVCL:1738](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1738)                                                                                |
 | IARC_TP53:30179  |        1 | [Cellosaurus#CVCL:1743](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1743)                                                                                |
@@ -9907,12 +9908,12 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:28303  |        1 | [Cellosaurus#CVCL:1877](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1877)                                                                                |
 | IARC_TP53:30134  |        1 | [Cellosaurus#CVCL:1878](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1878)                                                                                |
 | IARC_TP53:27010  |        1 | [Cellosaurus#CVCL:1882](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1882)                                                                                |
-| IARC_TP53:25018  |        1 | [Cellosaurus#CVCL:1884](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1884)                                                                                |
+| IARC_TP53:30218  |        1 | [Cellosaurus#CVCL:1884](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1884)                                                                                |
 | IARC_TP53:28266  |        1 | [Cellosaurus#CVCL:1885](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1885)                                                                                |
 | IARC_TP53:28255  |        1 | [Cellosaurus#CVCL:1889](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1889)                                                                                |
 | IARC_TP53:28232  |        1 | [Cellosaurus#CVCL:1902](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1902)                                                                                |
 | IARC_TP53:21110  |        1 | [Cellosaurus#CVCL:1911](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1911)                                                                                |
-| IARC_TP53:10566  |        1 | [Cellosaurus#CVCL:1913](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1913)                                                                                |
+| IARC_TP53:30193  |        1 | [Cellosaurus#CVCL:1913](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1913)                                                                                |
 | IARC_TP53:30018  |        1 | [Cellosaurus#CVCL:1958](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1958)                                                                                |
 | IARC_TP53:28335  |        1 | [Cellosaurus#CVCL:1978](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1978)                                                                                |
 | IARC_TP53:28287  |        1 | [Cellosaurus#CVCL:1979](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1979)                                                                                |
@@ -9999,7 +10000,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:18891  |        1 | [Cellosaurus#CVCL:2235](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2235)                                                                                |
 | IARC_TP53:30040  |        1 | [Cellosaurus#CVCL:2255](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2255)                                                                                |
 | IARC_TP53:21147  |        1 | [Cellosaurus#CVCL:2265](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2265)                                                                                |
-| IARC_TP53:21149  |        1 | [Cellosaurus#CVCL:2270](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2270)                                                                                |
+| IARC_TP53:27023  |        1 | [Cellosaurus#CVCL:2270](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2270)                                                                                |
 | IARC_TP53:28342  |        1 | [Cellosaurus#CVCL:2291](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2291)                                                                                |
 | IARC_TP53:28381  |        1 | [Cellosaurus#CVCL:2308](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2308)                                                                                |
 | IARC_TP53:30020  |        1 | [Cellosaurus#CVCL:2309](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2309)                                                                                |
@@ -10007,7 +10008,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:28360  |        1 | [Cellosaurus#CVCL:2312](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2312)                                                                                |
 | IARC_TP53:28393  |        1 | [Cellosaurus#CVCL:2313](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2313)                                                                                |
 | IARC_TP53:1908   |        1 | [Cellosaurus#CVCL:2314](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2314)                                                                                |
-| IARC_TP53:18374  |        1 | [Cellosaurus#CVCL:2319](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2319)                                                                                |
+| IARC_TP53:24359  |        1 | [Cellosaurus#CVCL:2319](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2319)                                                                                |
 | IARC_TP53:28322  |        1 | [Cellosaurus#CVCL:2409](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2409)                                                                                |
 | IARC_TP53:30026  |        1 | [Cellosaurus#CVCL:2412](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2412)                                                                                |
 | IARC_TP53:28263  |        1 | [Cellosaurus#CVCL:2415](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2415)                                                                                |
@@ -10071,17 +10072,17 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21737  |        1 | [Cellosaurus#CVCL:2873](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2873)                                                                                |
 | IARC_TP53:21134  |        1 | [Cellosaurus#CVCL:2891](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2891)                                                                                |
 | IARC_TP53:28332  |        1 | [Cellosaurus#CVCL:2908](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2908)                                                                                |
-| IARC_TP53:21657  |        1 | [Cellosaurus#CVCL:2909](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2909)                                                                                |
+| IARC_TP53:30033  |        1 | [Cellosaurus#CVCL:2909](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2909)                                                                                |
 | IARC_TP53:27694  |        1 | [Cellosaurus#CVCL:2911](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2911)                                                                                |
 | IARC_TP53:28383  |        1 | [Cellosaurus#CVCL:2914](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2914)                                                                                |
 | IARC_TP53:28343  |        1 | [Cellosaurus#CVCL:2917](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2917)                                                                                |
 | IARC_TP53:30205  |        1 | [Cellosaurus#CVCL:2923](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2923)                                                                                |
 | IARC_TP53:20592  |        1 | [Cellosaurus#CVCL:2924](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2924)                                                                                |
-| IARC_TP53:21066  |        1 | [Cellosaurus#CVCL:2925](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2925)                                                                                |
+| IARC_TP53:30206  |        1 | [Cellosaurus#CVCL:2925](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2925)                                                                                |
 | IARC_TP53:20593  |        1 | [Cellosaurus#CVCL:2927](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2927)                                                                                |
 | IARC_TP53:21067  |        1 | [Cellosaurus#CVCL:2928](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2928)                                                                                |
 | IARC_TP53:20591  |        1 | [Cellosaurus#CVCL:2930](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2930)                                                                                |
-| IARC_TP53:21068  |        1 | [Cellosaurus#CVCL:2931](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2931)                                                                                |
+| IARC_TP53:30207  |        1 | [Cellosaurus#CVCL:2931](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2931)                                                                                |
 | IARC_TP53:21069  |        1 | [Cellosaurus#CVCL:2932](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2932)                                                                                |
 | IARC_TP53:2009   |        1 | [Cellosaurus#CVCL:2947](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2947)                                                                                |
 | IARC_TP53:28374  |        1 | [Cellosaurus#CVCL:2949](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2949)                                                                                |
@@ -10155,7 +10156,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:22808  |        1 | [Cellosaurus#CVCL:3378](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3378)                                                                                |
 | IARC_TP53:28288  |        1 | [Cellosaurus#CVCL:3385](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3385)                                                                                |
 | IARC_TP53:30093  |        1 | [Cellosaurus#CVCL:3386](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3386)                                                                                |
-| IARC_TP53:21589  |        1 | [Cellosaurus#CVCL:3407](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3407)                                                                                |
+| IARC_TP53:21590  |        1 | [Cellosaurus#CVCL:3407](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3407)                                                                                |
 | IARC_TP53:24338  |        1 | [Cellosaurus#CVCL:3421](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3421)                                                                                |
 | IARC_TP53:24356  |        1 | [Cellosaurus#CVCL:3422](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3422)                                                                                |
 | IARC_TP53:24367  |        1 | [Cellosaurus#CVCL:3423](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3423)                                                                                |
@@ -10174,7 +10175,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:20197  |        1 | [Cellosaurus#CVCL:3612](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3612)                                                                                |
 | IARC_TP53:21094  |        1 | [Cellosaurus#CVCL:3613](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3613)                                                                                |
 | IARC_TP53:28522  |        1 | [Cellosaurus#CVCL:3688](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3688)                                                                                |
-| IARC_TP53:21630  |        1 | [Cellosaurus#CVCL:3702](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3702)                                                                                |
+| IARC_TP53:23555  |        1 | [Cellosaurus#CVCL:3702](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3702)                                                                                |
 | IARC_TP53:23657  |        1 | [Cellosaurus#CVCL:3728](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3728)                                                                                |
 | IARC_TP53:20198  |        1 | [Cellosaurus#CVCL:3768](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3768)                                                                                |
 | IARC_TP53:28488  |        1 | [Cellosaurus#CVCL:3769](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3769)                                                                                |
@@ -10212,7 +10213,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:1911   |        1 | [Cellosaurus#CVCL:4029](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4029)                                                                                |
 | IARC_TP53:16738  |        1 | [Cellosaurus#CVCL:4034](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4034)                                                                                |
 | IARC_TP53:3386   |        1 | [Cellosaurus#CVCL:4054](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4054)                                                                                |
-| IARC_TP53:1561   |        1 | [Cellosaurus#CVCL:4056](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4056)                                                                                |
+| IARC_TP53:16746  |        1 | [Cellosaurus#CVCL:4056](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4056)                                                                                |
 | IARC_TP53:21063  |        1 | [Cellosaurus#CVCL:4362](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4362)                                                                                |
 | IARC_TP53:428    |        1 | [Cellosaurus#CVCL:4363](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4363)                                                                                |
 | IARC_TP53:3384   |        1 | [Cellosaurus#CVCL:4374](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4374)                                                                                |
@@ -10418,7 +10419,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:24993  |        1 | [Cellosaurus#CVCL:6795](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6795)                                                                                |
 | IARC_TP53:26082  |        1 | [Cellosaurus#CVCL:6797](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6797)                                                                                |
 | IARC_TP53:24991  |        1 | [Cellosaurus#CVCL:6803](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6803)                                                                                |
-| IARC_TP53:1193   |        1 | [Cellosaurus#CVCL:6804](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6804)                                                                                |
+| IARC_TP53:26084  |        1 | [Cellosaurus#CVCL:6804](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6804)                                                                                |
 | IARC_TP53:30189  |        1 | [Cellosaurus#CVCL:6805](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6805)                                                                                |
 | IARC_TP53:24990  |        1 | [Cellosaurus#CVCL:6806](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6806)                                                                                |
 | IARC_TP53:30190  |        1 | [Cellosaurus#CVCL:6809](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6809)                                                                                |
@@ -10484,7 +10485,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:21101  |        1 | [Cellosaurus#CVCL:7725](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7725)                                                                                |
 | IARC_TP53:18880  |        1 | [Cellosaurus#CVCL:7729](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7729)                                                                                |
 | IARC_TP53:25908  |        1 | [Cellosaurus#CVCL:7731](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7731)                                                                                |
-| IARC_TP53:21637  |        1 | [Cellosaurus#CVCL:7732](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7732)                                                                                |
+| IARC_TP53:25909  |        1 | [Cellosaurus#CVCL:7732](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7732)                                                                                |
 | IARC_TP53:18881  |        1 | [Cellosaurus#CVCL:7733](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7733)                                                                                |
 | IARC_TP53:21102  |        1 | [Cellosaurus#CVCL:7735](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7735)                                                                                |
 | IARC_TP53:21638  |        1 | [Cellosaurus#CVCL:7737](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7737)                                                                                |
@@ -10690,12 +10691,12 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:28416  |        1 | [Cellosaurus#CVCL:A2BL](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A2BL)                                                                                |
 | IARC_TP53:28431  |        1 | [Cellosaurus#CVCL:A2BM](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A2BM)                                                                                |
 | IARC_TP53:3508   |        1 | [Cellosaurus#CVCL:A2BS](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A2BS)                                                                                |
-| IARC_TP53:2681   |        1 | [Cellosaurus#CVCL:A325](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A325)                                                                                |
+| IARC_TP53:28433  |        1 | [Cellosaurus#CVCL:A325](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A325)                                                                                |
 | IARC_TP53:28417  |        1 | [Cellosaurus#CVCL:A326](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A326)                                                                                |
 | IARC_TP53:2682   |        1 | [Cellosaurus#CVCL:A327](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A327)                                                                                |
 | IARC_TP53:28418  |        1 | [Cellosaurus#CVCL:A328](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A328)                                                                                |
 | IARC_TP53:28434  |        1 | [Cellosaurus#CVCL:A331](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A331)                                                                                |
-| IARC_TP53:2684   |        1 | [Cellosaurus#CVCL:A333](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A333)                                                                                |
+| IARC_TP53:28419  |        1 | [Cellosaurus#CVCL:A333](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A333)                                                                                |
 | IARC_TP53:30187  |        1 | [Cellosaurus#CVCL:A341](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A341)                                                                                |
 | IARC_TP53:11451  |        1 | [Cellosaurus#CVCL:A351](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A351)                                                                                |
 | IARC_TP53:11453  |        1 | [Cellosaurus#CVCL:A352](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A352)                                                                                |
@@ -10977,8 +10978,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:2148   |        1 | [Cellosaurus#CVCL:N729](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N729)                                                                                |
 | IARC_TP53:23561  |        1 | [Cellosaurus#CVCL:N730](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N730)                                                                                |
 | IARC_TP53:23559  |        1 | [Cellosaurus#CVCL:N731](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N731)                                                                                |
-| IARC_TP53:21613  |        1 | [Cellosaurus#CVCL:N732](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N732)                                                                                |
-| IARC_TP53:21606  |        1 | [Cellosaurus#CVCL:N733](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N733)                                                                                |
+| IARC_TP53:23563  |        1 | [Cellosaurus#CVCL:N732](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N732)                                                                                |
+| IARC_TP53:23560  |        1 | [Cellosaurus#CVCL:N733](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N733)                                                                                |
 | IARC_TP53:21612  |        1 | [Cellosaurus#CVCL:N735](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N735)                                                                                |
 | IARC_TP53:23558  |        1 | [Cellosaurus#CVCL:N736](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N736)                                                                                |
 | IARC_TP53:21609  |        1 | [Cellosaurus#CVCL:N740](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N740)                                                                                |
@@ -10986,7 +10987,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IARC_TP53:23566  |        1 | [Cellosaurus#CVCL:N742](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N742)                                                                                |
 | IARC_TP53:23567  |        1 | [Cellosaurus#CVCL:N743](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N743)                                                                                |
 | IARC_TP53:2145   |        1 | [Cellosaurus#CVCL:N744](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N744)                                                                                |
-| IARC_TP53:2143   |        1 | [Cellosaurus#CVCL:N745](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N745)                                                                                |
+| IARC_TP53:21610  |        1 | [Cellosaurus#CVCL:N745](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N745)                                                                                |
 | IARC_TP53:23564  |        1 | [Cellosaurus#CVCL:N747](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N747)                                                                                |
 | IARC_TP53:2146   |        1 | [Cellosaurus#CVCL:N748](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N748)                                                                                |
 | IARC_TP53:23568  |        1 | [Cellosaurus#CVCL:N753](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N753)                                                                                |
@@ -11162,7 +11163,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IBRC:C10681 |        1 | [Cellosaurus#CVCL:0023](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0023) |
 | IBRC:C10094 |        1 | [Cellosaurus#CVCL:0025](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0025) |
 | IBRC:C10096 |        1 | [Cellosaurus#CVCL:0027](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0027) |
-| IBRC:C10082 |        1 | [Cellosaurus#CVCL:0031](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0031) |
+| IBRC:C10682 |        1 | [Cellosaurus#CVCL:0031](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0031) |
 | IBRC:C10147 |        1 | [Cellosaurus#CVCL:0033](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0033) |
 | IBRC:C10509 |        1 | [Cellosaurus#CVCL:0034](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0034) |
 | IBRC:C10139 |        1 | [Cellosaurus#CVCL:0045](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0045) |
@@ -15405,8 +15406,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | KCB:KCB 200434YJ    |        1 | [Cellosaurus#CVCL:0023](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0023) |
 | KCB:KCB 200710YJ    |        1 | [Cellosaurus#CVCL:0025](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0025) |
 | KCB:KCB 200507YJ    |        1 | [Cellosaurus#CVCL:0027](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0027) |
-| KCB:KCB 86019YJ     |        1 | [Cellosaurus#CVCL:0030](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0030) |
-| KCB:KCB 200529YJ    |        1 | [Cellosaurus#CVCL:0031](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0031) |
+| KCB:KCB 90024YJ     |        1 | [Cellosaurus#CVCL:0030](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0030) |
+| KCB:KCB 200831YJ    |        1 | [Cellosaurus#CVCL:0031](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0031) |
 | KCB:KCB 2013026YJ   |        1 | [Cellosaurus#CVCL:0032](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0032) |
 | KCB:KCB 200723YJ    |        1 | [Cellosaurus#CVCL:0033](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0033) |
 | KCB:KCB 200725YJ    |        1 | [Cellosaurus#CVCL:0035](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0035) |
@@ -15440,7 +15441,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | KCB:KCB 2013041YJ   |        1 | [Cellosaurus#CVCL:0201](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0201) |
 | KCB:KCB 2014010YJ   |        1 | [Cellosaurus#CVCL:0204](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0204) |
 | KCB:KCB 93014YJ     |        1 | [Cellosaurus#CVCL:0212](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0212) |
-| KCB:KCB 82012YJ     |        1 | [Cellosaurus#CVCL:0213](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0213) |
+| KCB:KCB 83004YJ     |        1 | [Cellosaurus#CVCL:0213](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0213) |
 | KCB:KCB 88028YJ     |        1 | [Cellosaurus#CVCL:0214](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0214) |
 | KCB:KCB 2017032YJ   |        1 | [Cellosaurus#CVCL:0216](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0216) |
 | KCB:KCB 200719YJ    |        1 | [Cellosaurus#CVCL:0218](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0218) |
@@ -15462,7 +15463,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | KCB:KCB 200703YJ    |        1 | [Cellosaurus#CVCL:0315](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0315) |
 | KCB:KCB 2013029YJ   |        1 | [Cellosaurus#CVCL:0317](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0317) |
 | KCB:KCB 200508YJ    |        1 | [Cellosaurus#CVCL:0320](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0320) |
-| KCB:KCB 200771YJ    |        1 | [Cellosaurus#CVCL:0326](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0326) |
+| KCB:KCB 200942YJ    |        1 | [Cellosaurus#CVCL:0326](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0326) |
 | KCB:KCB 2012025YJ   |        1 | [Cellosaurus#CVCL:0332](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0332) |
 | KCB:KCB 2013048YJ   |        1 | [Cellosaurus#CVCL:0333](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0333) |
 | KCB:KCB 200970YJ    |        1 | [Cellosaurus#CVCL:0336](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0336) |
@@ -15483,7 +15484,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | KCB:KCB 2006105YJ   |        1 | [Cellosaurus#CVCL:0422](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0422) |
 | KCB:KCB 200528YJ    |        1 | [Cellosaurus#CVCL:0426](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0426) |
 | KCB:KCB 2016037YJ   |        1 | [Cellosaurus#CVCL:0439](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0439) |
-| KCB:KCB 200412YJ    |        1 | [Cellosaurus#CVCL:0440](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0440) |
+| KCB:KCB 89023YJ     |        1 | [Cellosaurus#CVCL:0440](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0440) |
 | KCB:KCB 200822YJ    |        1 | [Cellosaurus#CVCL:0455](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0455) |
 | KCB:KCB 2015009YJ   |        1 | [Cellosaurus#CVCL:0458](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0458) |
 | KCB:KCB 2010102YJ   |        1 | [Cellosaurus#CVCL:0459](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0459) |
@@ -15494,8 +15495,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | KCB:KCB 2014025YJ   |        1 | [Cellosaurus#CVCL:0470](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0470) |
 | KCB:KCB 200824YJ    |        1 | [Cellosaurus#CVCL:0472](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0472) |
 | KCB:KCB 200775YJ    |        1 | [Cellosaurus#CVCL:0477](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0477) |
-| KCB:KCB 200788YJ    |        1 | [Cellosaurus#CVCL:0480](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0480) |
-| KCB:KCB 200735YJ    |        1 | [Cellosaurus#CVCL:0481](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0481) |
+| KCB:KCB 200809YJ    |        1 | [Cellosaurus#CVCL:0480](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0480) |
+| KCB:KCB 93033YJ     |        1 | [Cellosaurus#CVCL:0481](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0481) |
 | KCB:KCB 200785YJ    |        1 | [Cellosaurus#CVCL:0485](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0485) |
 | KCB:KCB 82005YJ     |        1 | [Cellosaurus#CVCL:0489](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0489) |
 | KCB:KCB 200603YJ    |        1 | [Cellosaurus#CVCL:0493](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0493) |
@@ -15568,7 +15569,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | KCB:KCB 2014053YJ   |        1 | [Cellosaurus#CVCL:1783](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1783) |
 | KCB:KCB 92005YJ     |        1 | [Cellosaurus#CVCL:1915](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1915) |
 | KCB:KCB 89021YJ     |        1 | [Cellosaurus#CVCL:1920](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1920) |
-| KCB:KCB 91004YJ     |        1 | [Cellosaurus#CVCL:1953](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1953) |
+| KCB:KCB 93008YJ     |        1 | [Cellosaurus#CVCL:1953](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1953) |
 | KCB:KCB 200712YJ    |        1 | [Cellosaurus#CVCL:1977](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1977) |
 | KCB:KCB 2014070YJ   |        1 | [Cellosaurus#CVCL:2018](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2018) |
 | KCB:KCB 200855YJ    |        1 | [Cellosaurus#CVCL:2111](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2111) |
@@ -15592,17 +15593,17 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | KCB:KCB 2015018YJ   |        1 | [Cellosaurus#CVCL:2718](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2718) |
 | KCB:KCB 93029YJ     |        1 | [Cellosaurus#CVCL:2874](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2874) |
 | KCB:KCB 2016077YJ   |        1 | [Cellosaurus#CVCL:2915](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2915) |
-| KCB:KCB 200648YJ    |        1 | [Cellosaurus#CVCL:2959](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2959) |
+| KCB:KCB 2012087YJ   |        1 | [Cellosaurus#CVCL:2959](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2959) |
 | KCB:KCB 2015019YJ   |        1 | [Cellosaurus#CVCL:2967](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2967) |
 | KCB:KCB 2013030YJ   |        1 | [Cellosaurus#CVCL:3155](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3155) |
 | KCB:KCB 2014059YJ   |        1 | [Cellosaurus#CVCL:3275](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3275) |
 | KCB:KCB 94021YJ     |        1 | [Cellosaurus#CVCL:3310](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3310) |
 | KCB:KCB 86017YJ     |        1 | [Cellosaurus#CVCL:3371](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3371) |
-| KCB:KCB 87015YJ     |        1 | [Cellosaurus#CVCL:3392](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3392) |
+| KCB:KCB 94012YJ     |        1 | [Cellosaurus#CVCL:3392](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3392) |
 | KCB:KCB 82010YJ     |        1 | [Cellosaurus#CVCL:3472](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3472) |
 | KCB:KCB 2013004YJ   |        1 | [Cellosaurus#CVCL:3603](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3603) |
 | KCB:KCB 2012094YJ   |        1 | [Cellosaurus#CVCL:3622](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3622) |
-| KCB:KCB 2017068YJ   |        1 | [Cellosaurus#CVCL:3688](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3688) |
+| KCB:KCB 2018026YJ   |        1 | [Cellosaurus#CVCL:3688](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3688) |
 | KCB:KCB 200677YJ    |        1 | [Cellosaurus#CVCL:3755](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3755) |
 | KCB:KCB 92014YJ     |        1 | [Cellosaurus#CVCL:3758](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3758) |
 | KCB:KCB 2016061YJ   |        1 | [Cellosaurus#CVCL:3764](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3764) |
@@ -15787,7 +15788,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | KCB:KCB 88011KZJ    |        1 | [Cellosaurus#CVCL:BS84](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS84) |
 | KCB:KCB 88011LZJ    |        1 | [Cellosaurus#CVCL:BS85](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS85) |
 | KCB:KCB 88011SZJ    |        1 | [Cellosaurus#CVCL:BS86](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS86) |
-| KCB:KCB 94005ZJ     |        1 | [Cellosaurus#CVCL:BS92](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS92) |
+| KCB:KCB 94013       |        1 | [Cellosaurus#CVCL:BS92](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS92) |
 | KCB:KCB 200539YJ    |        1 | [Cellosaurus#CVCL:BS93](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS93) |
 | KCB:KCB 90014ZJ     |        1 | [Cellosaurus#CVCL:BS94](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS94) |
 | KCB:KCB 94026ZJ     |        1 | [Cellosaurus#CVCL:BS95](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_BS95) |
@@ -15807,7 +15808,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | KCB:KCB 200705SZJ   |        1 | [Cellosaurus#CVCL:DR20](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_DR20) |
 | KCB:KCB 88014KZJ    |        1 | [Cellosaurus#CVCL:DR22](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_DR22) |
 | KCB:KCB 83002ZJ     |        1 | [Cellosaurus#CVCL:DR23](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_DR23) |
-| KCB:KCB 2014029YJ   |        1 | [Cellosaurus#CVCL:F936](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_F936) |
+| KCB:KCB 93030YJ     |        1 | [Cellosaurus#CVCL:F936](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_F936) |
 | KCB:KCB 200915ZJ    |        1 | [Cellosaurus#CVCL:G258](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_G258) |
 | KCB:KCB 200918ZJ    |        1 | [Cellosaurus#CVCL:G259](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_G259) |
 | KCB:KCB 200917ZJ    |        1 | [Cellosaurus#CVCL:G260](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_G260) |
@@ -15969,7 +15970,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | LINCS_HMS:50009 |        1 | [Cellosaurus#CVCL:0608](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0608) |
 | LINCS_HMS:50010 |        1 | [Cellosaurus#CVCL:0609](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0609) |
 | LINCS_HMS:50327 |        1 | [Cellosaurus#CVCL:0617](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0617) |
-| LINCS_HMS:50324 |        1 | [Cellosaurus#CVCL:0618](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0618) |
+| LINCS_HMS:50328 |        1 | [Cellosaurus#CVCL:0618](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0618) |
 | LINCS_HMS:50331 |        1 | [Cellosaurus#CVCL:0620](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0620) |
 | LINCS_HMS:50332 |        1 | [Cellosaurus#CVCL:0621](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0621) |
 | LINCS_HMS:50030 |        1 | [Cellosaurus#CVCL:0622](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0622) |
@@ -16224,7 +16225,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | MCCL:MCC:0000093 |        1 | [Cellosaurus#CVCL:0204](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0204) |
 | MCCL:MCC:0000094 |        1 | [Cellosaurus#CVCL:0205](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0205) |
 | MCCL:MCC:0000095 |        1 | [Cellosaurus#CVCL:0206](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0206) |
-| MCCL:MCC:0000096 |        1 | [Cellosaurus#CVCL:0207](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0207) |
+| MCCL:MCC:0000097 |        1 | [Cellosaurus#CVCL:0207](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0207) |
 | MCCL:MCC:0000098 |        1 | [Cellosaurus#CVCL:0209](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0209) |
 | MCCL:MCC:0000099 |        1 | [Cellosaurus#CVCL:0210](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0210) |
 | MCCL:MCC:0000100 |        1 | [Cellosaurus#CVCL:0211](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0211) |
@@ -16286,7 +16287,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | MCCL:MCC:0000163 |        1 | [Cellosaurus#CVCL:0272](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0272) |
 | MCCL:MCC:0000164 |        1 | [Cellosaurus#CVCL:0273](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0273) |
 | MCCL:MCC:0000165 |        1 | [Cellosaurus#CVCL:0274](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0274) |
-| MCCL:MCC:0000166 |        1 | [Cellosaurus#CVCL:0276](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0276) |
+| MCCL:MCC:0000167 |        1 | [Cellosaurus#CVCL:0276](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0276) |
 | MCCL:MCC:0000168 |        1 | [Cellosaurus#CVCL:0277](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0277) |
 | MCCL:MCC:0000169 |        1 | [Cellosaurus#CVCL:0278](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0278) |
 | MCCL:MCC:0000170 |        1 | [Cellosaurus#CVCL:0279](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0279) |
@@ -16643,7 +16644,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | NCBI_Iran:C572   |        1 | [Cellosaurus#CVCL:0058](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0058)                                                                                                                                                               |
 | NCBI_Iran:C101   |        1 | [Cellosaurus#CVCL:0059](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0059)                                                                                                                                                               |
 | NCBI_Iran:C578   |        1 | [Cellosaurus#CVCL:0062](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0062)                                                                                                                                                               |
-| NCBI_Iran:C498   |        1 | [Cellosaurus#CVCL:0063](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0063)                                                                                                                                                               |
+| NCBI_Iran:C644   |        1 | [Cellosaurus#CVCL:0063](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0063)                                                                                                                                                               |
 | NCBI_Iran:C120   |        1 | [Cellosaurus#CVCL:0065](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0065)                                                                                                                                                               |
 | NCBI_Iran:C126   |        1 | [Cellosaurus#CVCL:0067](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0067)                                                                                                                                                               |
 | NCBI_Iran:C212   |        1 | [Cellosaurus#CVCL:0092](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0092)                                                                                                                                                               |
@@ -18257,7 +18258,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | PharmacoDB:RERFLCMS_1306_2019              |        1 | [Cellosaurus#CVCL:1655](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1655) |
 | PharmacoDB:RERFLCSq1_1308_2019             |        1 | [Cellosaurus#CVCL:1656](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1656) |
 | PharmacoDB:RF48_1309_2019                  |        1 | [Cellosaurus#CVCL:1657](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1657) |
-| PharmacoDB:EW8_361_2019                    |        1 | [Cellosaurus#CVCL:1658](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1658) |
+| PharmacoDB:RH1_1310_2019                   |        1 | [Cellosaurus#CVCL:1658](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1658) |
 | PharmacoDB:RH18_1311_2019                  |        1 | [Cellosaurus#CVCL:1659](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1659) |
 | PharmacoDB:RL_1318_2019                    |        1 | [Cellosaurus#CVCL:1660](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1660) |
 | PharmacoDB:ZR7530_1690_2019                |        1 | [Cellosaurus#CVCL:1661](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1661) |
@@ -21123,7 +21124,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | SKY/M-FISH/CGH:5014 |        1 | [Cellosaurus#CVCL:0219](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0219) |
 | SKY/M-FISH/CGH:2790 |        1 | [Cellosaurus#CVCL:0234](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0234) |
 | SKY/M-FISH/CGH:1999 |        1 | [Cellosaurus#CVCL:0237](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0237) |
-| SKY/M-FISH/CGH:1992 |        1 | [Cellosaurus#CVCL:0248](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0248) |
+| SKY/M-FISH/CGH:2763 |        1 | [Cellosaurus#CVCL:0248](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0248) |
 | SKY/M-FISH/CGH:3883 |        1 | [Cellosaurus#CVCL:0291](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0291) |
 | SKY/M-FISH/CGH:2786 |        1 | [Cellosaurus#CVCL:0292](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0292) |
 | SKY/M-FISH/CGH:2836 |        1 | [Cellosaurus#CVCL:0320](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0320) |
@@ -21141,7 +21142,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | SKY/M-FISH/CGH:1438 |        1 | [Cellosaurus#CVCL:0532](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0532) |
 | SKY/M-FISH/CGH:2822 |        1 | [Cellosaurus#CVCL:0535](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0535) |
 | SKY/M-FISH/CGH:3982 |        1 | [Cellosaurus#CVCL:0546](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0546) |
-| SKY/M-FISH/CGH:2806 |        1 | [Cellosaurus#CVCL:0547](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0547) |
+| SKY/M-FISH/CGH:5075 |        1 | [Cellosaurus#CVCL:0547](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0547) |
 | SKY/M-FISH/CGH:2824 |        1 | [Cellosaurus#CVCL:0553](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0553) |
 | SKY/M-FISH/CGH:2853 |        1 | [Cellosaurus#CVCL:0555](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0555) |
 | SKY/M-FISH/CGH:5015 |        1 | [Cellosaurus#CVCL:0626](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0626) |

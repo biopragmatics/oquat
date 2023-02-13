@@ -104,12 +104,12 @@ did not match the standard pattern `^\d+$`.
 
 ## `TO`: Plant Trait Ontology
 
-Overall, there were 11 invalid
+Overall, there were 10 invalid
 xrefs to external prefixed with `TO` (standardized to Bioregistry
 prefix [`to`](https://bioregistry.io/to)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `TO:moorel`     |             11 | [PECO:0007041](http://purl.obolibrary.org/obo/PECO_0007041), [PECO:0007063](http://purl.obolibrary.org/obo/PECO_0007063), [PECO:0007168](http://purl.obolibrary.org/obo/PECO_0007168), [PECO:0007287](http://purl.obolibrary.org/obo/PECO_0007287), [PECO:0007292](http://purl.obolibrary.org/obo/PECO_0007292), ... |
+| `TO:moorel`     |             10 | [PECO:0007063](http://purl.obolibrary.org/obo/PECO_0007063), [PECO:0007168](http://purl.obolibrary.org/obo/PECO_0007168), [PECO:0007287](http://purl.obolibrary.org/obo/PECO_0007287), [PECO:0007292](http://purl.obolibrary.org/obo/PECO_0007292), [PECO:0007402](http://purl.obolibrary.org/obo/PECO_0007402), ... |
 

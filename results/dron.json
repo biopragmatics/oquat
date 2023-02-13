@@ -1,11 +1,9 @@
 {
-  "created": "2023-02-13T18:37:48.792129",
-  "messages": [
-    "could not parse JSON for dron from http://purl.obolibrary.org/obo/dron.json"
-  ],
+  "created": "2023-02-13T21:02:29.505695",
+  "messages": [],
   "results": {
-    "http://purl.obolibrary.org/obo/dron.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/dron.owl",
+    "http://purl.obolibrary.org/obo/dron.json": {
+      "graph_id": "http://purl.obolibrary.org/obo/dron.json",
       "prov_pack": {
         "invalid_luids": {},
         "label": "Provenance Xrefs",
@@ -21,7 +19,7 @@
         "unknown_prefixes": {}
       },
       "version": "2022-10-22",
-      "version_iri": "http://purl.obolibrary.org/obo/dron/releases/2022-10-22/dron.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/dron/releases/2022-10-22/dron.json",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

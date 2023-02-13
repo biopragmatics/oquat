@@ -127,7 +127,7 @@
 | MCCL:MCC:0000093 |        1 | [Cellosaurus#CVCL:0204](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0204) |
 | MCCL:MCC:0000094 |        1 | [Cellosaurus#CVCL:0205](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0205) |
 | MCCL:MCC:0000095 |        1 | [Cellosaurus#CVCL:0206](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0206) |
-| MCCL:MCC:0000096 |        1 | [Cellosaurus#CVCL:0207](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0207) |
+| MCCL:MCC:0000097 |        1 | [Cellosaurus#CVCL:0207](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0207) |
 | MCCL:MCC:0000098 |        1 | [Cellosaurus#CVCL:0209](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0209) |
 | MCCL:MCC:0000099 |        1 | [Cellosaurus#CVCL:0210](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0210) |
 | MCCL:MCC:0000100 |        1 | [Cellosaurus#CVCL:0211](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0211) |
@@ -189,7 +189,7 @@
 | MCCL:MCC:0000163 |        1 | [Cellosaurus#CVCL:0272](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0272) |
 | MCCL:MCC:0000164 |        1 | [Cellosaurus#CVCL:0273](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0273) |
 | MCCL:MCC:0000165 |        1 | [Cellosaurus#CVCL:0274](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0274) |
-| MCCL:MCC:0000166 |        1 | [Cellosaurus#CVCL:0276](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0276) |
+| MCCL:MCC:0000167 |        1 | [Cellosaurus#CVCL:0276](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0276) |
 | MCCL:MCC:0000168 |        1 | [Cellosaurus#CVCL:0277](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0277) |
 | MCCL:MCC:0000169 |        1 | [Cellosaurus#CVCL:0278](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0278) |
 | MCCL:MCC:0000170 |        1 | [Cellosaurus#CVCL:0279](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0279) |

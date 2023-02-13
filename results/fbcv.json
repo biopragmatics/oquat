@@ -1,11 +1,9 @@
 {
-  "created": "2023-02-13T18:43:41.053548",
-  "messages": [
-    "could not parse JSON for fbcv from http://purl.obolibrary.org/obo/fbcv.json"
-  ],
+  "created": "2023-02-13T21:07:18.525266",
+  "messages": [],
   "results": {
-    "http://purl.obolibrary.org/obo/fbcv.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/fbcv.owl",
+    "http://purl.obolibrary.org/obo/fbcv.json": {
+      "graph_id": "http://purl.obolibrary.org/obo/fbcv.json",
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/FBcv_0000002": [
@@ -1057,7 +1055,7 @@
         }
       },
       "version": "2023-02-09",
-      "version_iri": "http://purl.obolibrary.org/obo/fbcv/releases/2023-02-09/fbcv.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/fbcv/releases/2023-02-09/fbcv.json",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

@@ -9,7 +9,7 @@
 | IBRC:C10681 |        1 | [Cellosaurus#CVCL:0023](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0023) |
 | IBRC:C10094 |        1 | [Cellosaurus#CVCL:0025](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0025) |
 | IBRC:C10096 |        1 | [Cellosaurus#CVCL:0027](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0027) |
-| IBRC:C10082 |        1 | [Cellosaurus#CVCL:0031](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0031) |
+| IBRC:C10682 |        1 | [Cellosaurus#CVCL:0031](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0031) |
 | IBRC:C10147 |        1 | [Cellosaurus#CVCL:0033](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0033) |
 | IBRC:C10509 |        1 | [Cellosaurus#CVCL:0034](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0034) |
 | IBRC:C10139 |        1 | [Cellosaurus#CVCL:0045](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0045) |

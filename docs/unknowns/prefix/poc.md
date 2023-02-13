@@ -1,28 +1,10 @@
 # `poc`
 
-## go
-
-| curie        |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|--------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| POC:curators |        5 | [GO:0048756](http://purl.obolibrary.org/obo/GO_0048756), [GO:0097217](http://purl.obolibrary.org/obo/GO_0097217), [GO:0097218](http://purl.obolibrary.org/obo/GO_0097218), [GO:0097219](http://purl.obolibrary.org/obo/GO_0097219), [GO:0097220](http://purl.obolibrary.org/obo/GO_0097220), ... |
-
-## nif
-
-| curie        |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|--------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| POC:curators |        5 | [GO:0048756](http://purl.obolibrary.org/obo/GO_0048756), [GO:0097217](http://purl.obolibrary.org/obo/GO_0097217), [GO:0097218](http://purl.obolibrary.org/obo/GO_0097218), [GO:0097219](http://purl.obolibrary.org/obo/GO_0097219), [GO:0097220](http://purl.obolibrary.org/obo/GO_0097220), ... |
-
-## cco
-
-| curie        |   usages | nodes                                                                                                                                                                                                                              |
-|--------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| POC:curators |        4 | [GO:0097217](http://purl.obolibrary.org/obo/GO_0097217), [GO:0097218](http://purl.obolibrary.org/obo/GO_0097218), [GO:0097219](http://purl.obolibrary.org/obo/GO_0097219), [GO:0097220](http://purl.obolibrary.org/obo/GO_0097220) |
-
 ## po
 
 | curie                        |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| POC:Maria_Alejandra_Gandolfo |     1348 | [PO:0000001](http://purl.obolibrary.org/obo/PO_0000001), [PO:0000002](http://purl.obolibrary.org/obo/PO_0000002), [PO:0000003](http://purl.obolibrary.org/obo/PO_0000003), [PO:0000004](http://purl.obolibrary.org/obo/PO_0000004), [PO:0000005](http://purl.obolibrary.org/obo/PO_0000005), ... |
+| POC:Maria_Alejandra_Gandolfo |     1347 | [PO:0000001](http://purl.obolibrary.org/obo/PO_0000001), [PO:0000002](http://purl.obolibrary.org/obo/PO_0000002), [PO:0000003](http://purl.obolibrary.org/obo/PO_0000003), [PO:0000004](http://purl.obolibrary.org/obo/PO_0000004), [PO:0000005](http://purl.obolibrary.org/obo/PO_0000005), ... |
 | POC:curators                 |      588 | [PO:0000003](http://purl.obolibrary.org/obo/PO_0000003), [PO:0000004](http://purl.obolibrary.org/obo/PO_0000004), [PO:0000005](http://purl.obolibrary.org/obo/PO_0000005), [PO:0000006](http://purl.obolibrary.org/obo/PO_0000006), [PO:0000007](http://purl.obolibrary.org/obo/PO_0000007), ... |
 | POC:Ramona_Walls             |      261 | [PO:0000001](http://purl.obolibrary.org/obo/PO_0000001), [PO:0000032](http://purl.obolibrary.org/obo/PO_0000032), [PO:0000033](http://purl.obolibrary.org/obo/PO_0000033), [PO:0000036](http://purl.obolibrary.org/obo/PO_0000036), [PO:0000048](http://purl.obolibrary.org/obo/PO_0000048), ... |
 | POC:Laurel_Cooper            |      195 | [PO:0000022](http://purl.obolibrary.org/obo/PO_0000022), [PO:0000025](http://purl.obolibrary.org/obo/PO_0000025), [PO:0000031](http://purl.obolibrary.org/obo/PO_0000031), [PO:0000042](http://purl.obolibrary.org/obo/PO_0000042), [PO:0000043](http://purl.obolibrary.org/obo/PO_0000043), ... |
@@ -37,4 +19,16 @@
 | POC:cooperl                  |        1 | [PO:0025257](http://purl.obolibrary.org/obo/PO_0025257)                                                                                                                                                                                                                                          |
 | POC:curators_test            |        1 | [PO:0025587](http://purl.obolibrary.org/obo/PO_0025587)                                                                                                                                                                                                                                          |
 | POC:Laurel_Copoer            |        1 | [PO:0025591](http://purl.obolibrary.org/obo/PO_0025591)                                                                                                                                                                                                                                          |
+
+## go
+
+| curie        |   usages | nodes                                                                                                                                                                                                                                                                                            |
+|--------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| POC:curators |        5 | [GO:0048756](http://purl.obolibrary.org/obo/GO_0048756), [GO:0097217](http://purl.obolibrary.org/obo/GO_0097217), [GO:0097218](http://purl.obolibrary.org/obo/GO_0097218), [GO:0097219](http://purl.obolibrary.org/obo/GO_0097219), [GO:0097220](http://purl.obolibrary.org/obo/GO_0097220), ... |
+
+## cco
+
+| curie        |   usages | nodes                                                                                                                                                                                                                              |
+|--------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| POC:curators |        4 | [GO:0097217](http://purl.obolibrary.org/obo/GO_0097217), [GO:0097218](http://purl.obolibrary.org/obo/GO_0097218), [GO:0097219](http://purl.obolibrary.org/obo/GO_0097219), [GO:0097220](http://purl.obolibrary.org/obo/GO_0097220) |
 

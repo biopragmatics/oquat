@@ -1,5 +1,5 @@
 {
-  "created": "2023-02-13T18:12:34.783278",
+  "created": "2023-02-13T20:16:32.304824",
   "messages": [],
   "results": {
     "http://humanbehaviourchange.org/ontology/bcio.owl": {
@@ -25,9 +25,11 @@
           },
           "USGS": {
             "http://purl.obolibrary.org/obo/ENVO_00000062": "USGS:http://mapping.usgs.gov/www/ti/GNIS/gnis_users_guide_appendixc.html",
+            "http://purl.obolibrary.org/obo/ENVO_00000064": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000109": "USGS:SDTS"
           },
           "url": {
+            "http://purl.obolibrary.org/obo/IAO_0000115": "url:http://purl.obolibrary.org/obo/iao.owl",
             "http://www.geneontology.org/formats/oboInOwl#id": "url:http://purl.obolibrary.org/obo/IAO_0020000",
             "http://www.w3.org/2000/01/rdf-schema#label": "url:http://www.w3.org/2000/01/rdf-schema#label"
           }

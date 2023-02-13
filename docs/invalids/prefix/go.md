@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `go`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 17 resources,
+`^\d{7}$`. Of the 16 resources,
 1 variants on the standard prefix were found: ['GO'].
 
 ## `aeo`: Anatomical Entity Ontology
@@ -103,31 +103,6 @@ Identifiers for this prefix are given incorrectly in `mp`. See the [GitHub repos
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
 | `GO:00006302`   |              1 | [MP:0010948](http://purl.obolibrary.org/obo/MP_0010948) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                  |
-|-----------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `GO:jl`         |             12 | [GO:0044092](http://purl.obolibrary.org/obo/GO_0044092), [GO:0044093](http://purl.obolibrary.org/obo/GO_0044093), [GO:0044110](http://purl.obolibrary.org/obo/GO_0044110), [GO:0044111](http://purl.obolibrary.org/obo/GO_0044111), [GO:0044113](http://purl.obolibrary.org/obo/GO_0044113), ...                        |
-| `GO:tfm`        |              5 | [CL:0000482](http://purl.obolibrary.org/obo/CL_0000482), [CL:0000506](http://purl.obolibrary.org/obo/CL_0000506), [CL:0000507](http://purl.obolibrary.org/obo/CL_0000507), [CL:0000509](http://purl.obolibrary.org/obo/CL_0000509), [CL:0000511](http://purl.obolibrary.org/obo/CL_0000511)                             |
-| `GO:GO`         |              5 | [PATO:0001440](http://purl.obolibrary.org/obo/PATO_0001440), [PATO:0001441](http://purl.obolibrary.org/obo/PATO_0001441), [PATO:0001720](http://purl.obolibrary.org/obo/PATO_0001720), [UBERON:0000016](http://purl.obolibrary.org/obo/UBERON_0000016), [UBERON:0006003](http://purl.obolibrary.org/obo/UBERON_0006003) |
-| `GO:kmv`        |              3 | [GO:1901074](http://purl.obolibrary.org/obo/GO_1901074), [GO:1901075](http://purl.obolibrary.org/obo/GO_1901075), [GO:1901076](http://purl.obolibrary.org/obo/GO_1901076)                                                                                                                                               |
-| `GO:mah`        |              3 | [SO:0001861](http://purl.obolibrary.org/obo/SO_0001861), [SO:0001861](http://purl.obolibrary.org/obo/SO_0001861), [SO:0001871](http://purl.obolibrary.org/obo/SO_0001871)                                                                                                                                               |
-| `GO:dos`        |              2 | [GO:0099046](http://purl.obolibrary.org/obo/GO_0099046), [GO:0099047](http://purl.obolibrary.org/obo/GO_0099047)                                                                                                                                                                                                        |
-| `GO:cvs`        |              1 | [CL:0005008](http://purl.obolibrary.org/obo/CL_0005008)                                                                                                                                                                                                                                                                 |
-| `GO:hjd`        |              1 | [GO:0002189](http://purl.obolibrary.org/obo/GO_0002189)                                                                                                                                                                                                                                                                 |
-| `GO:bf`         |              1 | [GO:0035348](http://purl.obolibrary.org/obo/GO_0035348)                                                                                                                                                                                                                                                                 |
-| `GO:sl`         |              1 | [GO:0035364](http://purl.obolibrary.org/obo/GO_0035364)                                                                                                                                                                                                                                                                 |
-| `GO:add`        |              1 | [GO:0035525](http://purl.obolibrary.org/obo/GO_0035525)                                                                                                                                                                                                                                                                 |
-| `GO:bhm`        |              1 | [GO:0140091](http://purl.obolibrary.org/obo/GO_0140091)                                                                                                                                                                                                                                                                 |
-| `GO:bc`         |              1 | [GO:0150014](http://purl.obolibrary.org/obo/GO_0150014)                                                                                                                                                                                                                                                                 |
-| `GO:curator`    |              1 | [UBERON:0005863](http://purl.obolibrary.org/obo/UBERON_0005863)                                                                                                                                                                                                                                                         |
-| `GO:dph`        |              1 | [GO:0002093](http://purl.obolibrary.org/obo/GO_0002093)                                                                                                                                                                                                                                                                 |
-| `GO:curators`   |              1 | [GO:0004479](http://purl.obolibrary.org/obo/GO_0004479)                                                                                                                                                                                                                                                                 |
-| `GO:krc`        |              1 | [GO:0120132](http://purl.obolibrary.org/obo/GO_0120132)                                                                                                                                                                                                                                                                 |
-| `GO:ach`        |              1 | [GO:0120312](http://purl.obolibrary.org/obo/GO_0120312)                                                                                                                                                                                                                                                                 |
 
 ## `omp`: Ontology of Microbial Phenotypes
 

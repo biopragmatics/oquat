@@ -1,11 +1,5 @@
 # `lmu`
 
-## covoc
-
-| curie       |   usages | nodes                                                   |
-|-------------|----------|---------------------------------------------------------|
-| LMU:mgriese |        1 | [HP:0033006](http://purl.obolibrary.org/obo/HP_0033006) |
-
 ## hp
 
 | curie         |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -15,4 +9,10 @@
 | LMU:kknoflach |       14 | [HP:0032966](http://purl.obolibrary.org/obo/HP_0032966), [HP:0032972](http://purl.obolibrary.org/obo/HP_0032972), [HP:0032976](http://purl.obolibrary.org/obo/HP_0032976), [HP:0032977](http://purl.obolibrary.org/obo/HP_0032977), [HP:0032978](http://purl.obolibrary.org/obo/HP_0032978), ... |
 | LMU:chrapp    |        4 | [HP:0033028](http://purl.obolibrary.org/obo/HP_0033028), [HP:0033032](http://purl.obolibrary.org/obo/HP_0033032), [HP:0033038](http://purl.obolibrary.org/obo/HP_0033038), [HP:0033039](http://purl.obolibrary.org/obo/HP_0033039)                                                               |
 | LMU:kknofloch |        2 | [HP:0033240](http://purl.obolibrary.org/obo/HP_0033240), [HP:0033245](http://purl.obolibrary.org/obo/HP_0033245)                                                                                                                                                                                 |
+
+## covoc
+
+| curie       |   usages | nodes                                                   |
+|-------------|----------|---------------------------------------------------------|
+| LMU:mgriese |        1 | [HP:0033006](http://purl.obolibrary.org/obo/HP_0033006) |
 

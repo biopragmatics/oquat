@@ -1,7 +1,7 @@
 {
-  "created": "2023-02-13T19:13:05.832917",
+  "created": "2023-02-13T21:28:58.935111",
   "messages": [
-    "2023-02-13 19:13:05,663 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 323 triple(s) that could not be parsed:",
+    "ERROR Input ontology contains 323 triple(s) that could not be parsed:",
     " - <http://oarcs-api.speciesfilegroup.org/api/figure/fig_45629.svg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484365.",
     " - <http://oarcs-api.speciesfilegroup.org/api/figure/fig_48259.svg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484511.",
     " - <http://oarcs-api.speciesfilegroup.org/api/figure/fig_48651.svg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147484548.",

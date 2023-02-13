@@ -16,7 +16,7 @@
 | CCLV:CCLV-RIE 1079 |        1 | [Cellosaurus#CVCL:0336](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0336) |
 | CCLV:CCLV-RIE 0016 |        1 | [Cellosaurus#CVCL:0372](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0372) |
 | CCLV:CCLV-RIE 1151 |        1 | [Cellosaurus#CVCL:0399](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0399) |
-| CCLV:CCLV-RIE 0084 |        1 | [Cellosaurus#CVCL:0421](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0421) |
+| CCLV:CCLV-RIE 0261 |        1 | [Cellosaurus#CVCL:0421](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0421) |
 | CCLV:CCLV-RIE 0083 |        1 | [Cellosaurus#CVCL:0422](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0422) |
 | CCLV:CCLV-RIE 1061 |        1 | [Cellosaurus#CVCL:0424](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0424) |
 | CCLV:CCLV-RIE 0962 |        1 | [Cellosaurus#CVCL:0459](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0459) |
@@ -49,7 +49,7 @@
 | CCLV:CCLV-RIE 0755 |        1 | [Cellosaurus#CVCL:0I64](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I64) |
 | CCLV:CCLV-RIE 0728 |        1 | [Cellosaurus#CVCL:0I65](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I65) |
 | CCLV:CCLV-RIE 0379 |        1 | [Cellosaurus#CVCL:0I66](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I66) |
-| CCLV:CCLV-RIE 0105 |        1 | [Cellosaurus#CVCL:0I67](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I67) |
+| CCLV:CCLV-RIE 0122 |        1 | [Cellosaurus#CVCL:0I67](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I67) |
 | CCLV:CCLV-RIE 0266 |        1 | [Cellosaurus#CVCL:0I68](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I68) |
 | CCLV:CCLV-RIE 0242 |        1 | [Cellosaurus#CVCL:0I69](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I69) |
 | CCLV:CCLV-RIE 0456 |        1 | [Cellosaurus#CVCL:0I70](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0I70) |
@@ -68,8 +68,8 @@
 | CCLV:CCLV-RIE 0060 |        1 | [Cellosaurus#CVCL:0R17](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0R17) |
 | CCLV:CCLV-RIE 0012 |        1 | [Cellosaurus#CVCL:1905](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1905) |
 | CCLV:CCLV-RIE 0141 |        1 | [Cellosaurus#CVCL:1906](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1906) |
-| CCLV:CCLV-RIE 0929 |        1 | [Cellosaurus#CVCL:1912](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1912) |
-| CCLV:CCLV-RIE 0179 |        1 | [Cellosaurus#CVCL:1915](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1915) |
+| CCLV:CCLV-RIE 1146 |        1 | [Cellosaurus#CVCL:1912](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1912) |
+| CCLV:CCLV-RIE 0194 |        1 | [Cellosaurus#CVCL:1915](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1915) |
 | CCLV:CCLV-RIE 0088 |        1 | [Cellosaurus#CVCL:1920](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1920) |
 | CCLV:CCLV-RIE 0044 |        1 | [Cellosaurus#CVCL:2044](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2044) |
 | CCLV:CCLV-RIE 0005 |        1 | [Cellosaurus#CVCL:2160](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2160) |

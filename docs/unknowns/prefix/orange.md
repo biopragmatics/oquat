@@ -28,14 +28,6 @@
 | Orange:9.2.1.5  |        1 | [CHMO:0001011](http://purl.obolibrary.org/obo/CHMO_0001011)                                                                                                                                                                                                                                                          |
 | Orange:3.4.12   |        1 | [CHMO:0002348](http://purl.obolibrary.org/obo/CHMO_0002348)                                                                                                                                                                                                                                                          |
 
-## enm
-
-| curie           |   usages | nodes                                                                                                                                                                                 |
-|-----------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Orange:17.2.4   |        3 | [CHMO:0000344](http://purl.obolibrary.org/obo/CHMO_0000344), [CHMO:0000346](http://purl.obolibrary.org/obo/CHMO_0000346), [CHMO:0000353](http://purl.obolibrary.org/obo/CHMO_0000353) |
-| Orange:17.2.7   |        1 | [CHMO:0000098](http://purl.obolibrary.org/obo/CHMO_0000098)                                                                                                                           |
-| Orange:17.2.1.2 |        1 | [CHMO:0000407](http://purl.obolibrary.org/obo/CHMO_0000407)                                                                                                                           |
-
 ## pride
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
@@ -63,4 +55,12 @@
 | Orange:9.2.1.3  |        1 | [CHMO:0001008](http://purl.obolibrary.org/obo/CHMO_0001008)                                                                                                                                                                                                                                                          |
 | Orange:9.2.1.5  |        1 | [CHMO:0001011](http://purl.obolibrary.org/obo/CHMO_0001011)                                                                                                                                                                                                                                                          |
 | Orange:3.4.12   |        1 | [CHMO:0002348](http://purl.obolibrary.org/obo/CHMO_0002348)                                                                                                                                                                                                                                                          |
+
+## enm
+
+| curie           |   usages | nodes                                                                                                                                                                                 |
+|-----------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Orange:17.2.4   |        3 | [CHMO:0000344](http://purl.obolibrary.org/obo/CHMO_0000344), [CHMO:0000346](http://purl.obolibrary.org/obo/CHMO_0000346), [CHMO:0000353](http://purl.obolibrary.org/obo/CHMO_0000353) |
+| Orange:17.2.7   |        1 | [CHMO:0000098](http://purl.obolibrary.org/obo/CHMO_0000098)                                                                                                                           |
+| Orange:17.2.1.2 |        1 | [CHMO:0000407](http://purl.obolibrary.org/obo/CHMO_0000407)                                                                                                                           |
 

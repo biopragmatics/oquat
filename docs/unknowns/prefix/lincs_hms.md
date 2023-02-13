@@ -38,7 +38,7 @@
 | LINCS_HMS:50009 |        1 | [Cellosaurus#CVCL:0608](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0608) |
 | LINCS_HMS:50010 |        1 | [Cellosaurus#CVCL:0609](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0609) |
 | LINCS_HMS:50327 |        1 | [Cellosaurus#CVCL:0617](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0617) |
-| LINCS_HMS:50324 |        1 | [Cellosaurus#CVCL:0618](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0618) |
+| LINCS_HMS:50328 |        1 | [Cellosaurus#CVCL:0618](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0618) |
 | LINCS_HMS:50331 |        1 | [Cellosaurus#CVCL:0620](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0620) |
 | LINCS_HMS:50332 |        1 | [Cellosaurus#CVCL:0621](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0621) |
 | LINCS_HMS:50030 |        1 | [Cellosaurus#CVCL:0622](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0622) |

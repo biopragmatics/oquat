@@ -1,9 +1,11 @@
 {
-  "created": "2023-02-13T18:58:18.931846",
-  "messages": [],
+  "created": "2023-02-13T21:20:16.341197",
+  "messages": [
+    "could not parse OWL for mfo from http://purl.obolibrary.org/obo/mfo.owl"
+  ],
   "results": {
-    "http://purl.obolibrary.org/obo/mfo.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/mfo.owl",
+    "http://purl.obolibrary.org/obo/TEMP": {
+      "graph_id": "http://purl.obolibrary.org/obo/TEMP",
       "prov_pack": {
         "invalid_luids": {},
         "label": "Provenance Xrefs",

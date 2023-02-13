@@ -26,7 +26,7 @@
 | SKY/M-FISH/CGH:5014 |        1 | [Cellosaurus#CVCL:0219](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0219) |
 | SKY/M-FISH/CGH:2790 |        1 | [Cellosaurus#CVCL:0234](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0234) |
 | SKY/M-FISH/CGH:1999 |        1 | [Cellosaurus#CVCL:0237](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0237) |
-| SKY/M-FISH/CGH:1992 |        1 | [Cellosaurus#CVCL:0248](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0248) |
+| SKY/M-FISH/CGH:2763 |        1 | [Cellosaurus#CVCL:0248](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0248) |
 | SKY/M-FISH/CGH:3883 |        1 | [Cellosaurus#CVCL:0291](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0291) |
 | SKY/M-FISH/CGH:2786 |        1 | [Cellosaurus#CVCL:0292](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0292) |
 | SKY/M-FISH/CGH:2836 |        1 | [Cellosaurus#CVCL:0320](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0320) |
@@ -44,7 +44,7 @@
 | SKY/M-FISH/CGH:1438 |        1 | [Cellosaurus#CVCL:0532](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0532) |
 | SKY/M-FISH/CGH:2822 |        1 | [Cellosaurus#CVCL:0535](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0535) |
 | SKY/M-FISH/CGH:3982 |        1 | [Cellosaurus#CVCL:0546](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0546) |
-| SKY/M-FISH/CGH:2806 |        1 | [Cellosaurus#CVCL:0547](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0547) |
+| SKY/M-FISH/CGH:5075 |        1 | [Cellosaurus#CVCL:0547](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0547) |
 | SKY/M-FISH/CGH:2824 |        1 | [Cellosaurus#CVCL:0553](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0553) |
 | SKY/M-FISH/CGH:2853 |        1 | [Cellosaurus#CVCL:0555](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0555) |
 | SKY/M-FISH/CGH:5015 |        1 | [Cellosaurus#CVCL:0626](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0626) |

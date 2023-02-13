@@ -1,5 +1,5 @@
 {
-  "created": "2023-02-13T20:06:02.525958",
+  "created": "2023-02-13T21:57:59.565227",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/TEMP": {
@@ -586,7 +586,7 @@
             "http://purl.obolibrary.org/obo/ZEA_0015036": "maizedb:pldv (ID#165572)",
             "http://purl.obolibrary.org/obo/ZEA_0015070": "maizedb:XXXXX",
             "http://purl.obolibrary.org/obo/ZEA_0015071": "maizedb:pldv (ID#165572)",
-            "http://purl.obolibrary.org/obo/ZEA_0015073": "maizedb:pldv (ID#165572",
+            "http://purl.obolibrary.org/obo/ZEA_0015073": "maizedb:pldv (ID#165572)",
             "http://purl.obolibrary.org/obo/ZEA_0015075": "maizedb:59445 (p. 53)",
             "http://purl.obolibrary.org/obo/ZEA_0015076": "maizedb:64470",
             "http://purl.obolibrary.org/obo/ZEA_0015079": "maizedb:XXXXX",
@@ -602,9 +602,9 @@
             "http://purl.obolibrary.org/obo/ZEA_0015137": "maizedb:pldv (ID#165572",
             "http://purl.obolibrary.org/obo/ZEA_0015139": "maizedb:pldv (ID# 165572)",
             "http://purl.obolibrary.org/obo/ZEA_0015140": "maizedb:pldv (ID # 165572)",
-            "http://purl.obolibrary.org/obo/ZEA_0015141": "maizedb:ID# 77179",
+            "http://purl.obolibrary.org/obo/ZEA_0015141": "maizedb:http://www.agron.missouri.edu/mnl/77/08has.html",
             "http://purl.obolibrary.org/obo/ZEA_0015170": "maizedb:ID # 11089",
-            "http://purl.obolibrary.org/obo/ZEA_0015171": "maizedb:ID# 402669"
+            "http://purl.obolibrary.org/obo/ZEA_0015171": "maizedb:pldv (ID# 165572)"
           }
         }
       }
