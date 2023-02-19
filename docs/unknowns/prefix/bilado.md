@@ -1,5 +1,11 @@
 # `bilado`
 
+## efo
+
+| curie          |   usages | nodes                                               |
+|----------------|----------|-----------------------------------------------------|
+| BilaDO:0000002 |        1 | [EFO:0007725](http://www.ebi.ac.uk/efo/EFO_0007725) |
+
 ## uberon
 
 | curie          |   usages | nodes                                                           |
@@ -13,12 +19,6 @@
 | BilaDO:0000008 |        1 | [UBERON:0000109](http://purl.obolibrary.org/obo/UBERON_0000109) |
 | BilaDO:0000009 |        1 | [UBERON:0000110](http://purl.obolibrary.org/obo/UBERON_0000110) |
 | BilaDO:0000010 |        1 | [UBERON:0000111](http://purl.obolibrary.org/obo/UBERON_0000111) |
-
-## efo
-
-| curie          |   usages | nodes                                               |
-|----------------|----------|-----------------------------------------------------|
-| BilaDO:0000002 |        1 | [EFO:0007725](http://www.ebi.ac.uk/efo/EFO_0007725) |
 
 ## bao
 

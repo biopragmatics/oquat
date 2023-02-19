@@ -244,12 +244,6 @@
 | BM:Tel-Cx-Te      |        1 | [UBERON:0016538](http://purl.obolibrary.org/obo/UBERON_0016538)                                                                  |
 | BM:Tel-Cx-Ins     |        1 | [UBERON:0034891](http://purl.obolibrary.org/obo/UBERON_0034891)                                                                  |
 
-## plana
-
-| curie      |   usages | nodes                                                         |
-|------------|----------|---------------------------------------------------------------|
-| BM:Tel-OCX |        1 | [PLANA:0000459](http://purl.obolibrary.org/obo/PLANA_0000459) |
-
 ## epso
 
 | curie          |   usages | nodes                                                           |
@@ -283,4 +277,10 @@
 | BM:Tel-Cx-PoCS |        1 | [UBERON:0002915](http://purl.obolibrary.org/obo/UBERON_0002915) |
 | BM:Tel-Cx-Cg   |        1 | [UBERON:0003027](http://purl.obolibrary.org/obo/UBERON_0003027) |
 | BM:Tel-Cx-FR   |        1 | [UBERON:0016525](http://purl.obolibrary.org/obo/UBERON_0016525) |
+
+## plana
+
+| curie      |   usages | nodes                                                         |
+|------------|----------|---------------------------------------------------------------|
+| BM:Tel-OCX |        1 | [PLANA:0000459](http://purl.obolibrary.org/obo/PLANA_0000459) |
 

@@ -1,5 +1,11 @@
 # `tair`
 
+## zfa
+
+| curie   |   usages | nodes                                                     |
+|---------|----------|-----------------------------------------------------------|
+| TAIR:sr |        1 | [ZFA:0005745](http://purl.obolibrary.org/obo/ZFA_0005745) |
+
 ## po
 
 | curie         |   usages | nodes                                                                                                            |
@@ -36,12 +42,6 @@
 | TAIR:0000027  |        1 | [PO:0007131](http://purl.obolibrary.org/obo/PO_0007131)                                                          |
 | TAIR:0000305  |        1 | [PO:0007134](http://purl.obolibrary.org/obo/PO_0007134)                                                          |
 | TAIR:0000205  |        1 | [PO:0009012](http://purl.obolibrary.org/obo/PO_0009012)                                                          |
-
-## eco
-
-| curie    |   usages | nodes                                                                                                                                                                                                                                                                                                      |
-|----------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TAIR:TED |       32 | [ECO:0000004](http://purl.obolibrary.org/obo/ECO_0000004), [ECO:0000007](http://purl.obolibrary.org/obo/ECO_0000007), [ECO:0000011](http://purl.obolibrary.org/obo/ECO_0000011), [ECO:0000022](http://purl.obolibrary.org/obo/ECO_0000022), [ECO:0000027](http://purl.obolibrary.org/obo/ECO_0000027), ... |
 
 ## cco
 
@@ -16422,6 +16422,12 @@
 | TAIR:AT1G77815 |        1 | [NCBIGene:844442](http://purl.obolibrary.org/obo/NCBIGene_844442)     |
 | TAIR:AT1G45243 |        1 | [NCBIGene:844573](http://purl.obolibrary.org/obo/NCBIGene_844573)     |
 
+## eco
+
+| curie    |   usages | nodes                                                                                                                                                                                                                                                                                                      |
+|----------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TAIR:TED |       32 | [ECO:0000004](http://purl.obolibrary.org/obo/ECO_0000004), [ECO:0000007](http://purl.obolibrary.org/obo/ECO_0000007), [ECO:0000011](http://purl.obolibrary.org/obo/ECO_0000011), [ECO:0000022](http://purl.obolibrary.org/obo/ECO_0000022), [ECO:0000027](http://purl.obolibrary.org/obo/ECO_0000027), ... |
+
 ## cl
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -16429,10 +16435,4 @@
 | TAIR:lr |        7 | [CL:0000254](http://purl.obolibrary.org/obo/CL_0000254), [CL:0000278](http://purl.obolibrary.org/obo/CL_0000278), [CL:0000280](http://purl.obolibrary.org/obo/CL_0000280), [CL:0000296](http://purl.obolibrary.org/obo/CL_0000296), [CL:0000433](http://purl.obolibrary.org/obo/CL_0000433), ... |
 | TAIR:sr |        3 | [CL:0000293](http://purl.obolibrary.org/obo/CL_0000293), [CL:0000627](http://purl.obolibrary.org/obo/CL_0000627), [CL:0000628](http://purl.obolibrary.org/obo/CL_0000628)                                                                                                                        |
 | TAIR:TB |        2 | [CL:0005016](http://purl.obolibrary.org/obo/CL_0005016), [CL:0005017](http://purl.obolibrary.org/obo/CL_0005017)                                                                                                                                                                                 |
-
-## zfa
-
-| curie   |   usages | nodes                                                     |
-|---------|----------|-----------------------------------------------------------|
-| TAIR:sr |        1 | [ZFA:0005745](http://purl.obolibrary.org/obo/ZFA_0005745) |
 

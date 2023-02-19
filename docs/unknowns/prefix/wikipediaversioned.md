@@ -1,5 +1,11 @@
 # `wikipediaversioned`
 
+## efo
+
+| curie                                                |   usages | nodes                                               |
+|------------------------------------------------------|----------|-----------------------------------------------------|
+| WikipediaVersioned:Exome_sequencing&oldid=1000635953 |        1 | [EFO:0005396](http://www.ebi.ac.uk/efo/EFO_0005396) |
+
 ## uberon
 
 | curie                                                              |   usages | nodes                                                                                                                            |
@@ -73,10 +79,4 @@
 | WikipediaVersioned:Parasol_cell&oldid=1032171532                                            |        1 | [CL:4023189](http://purl.obolibrary.org/obo/CL_4023189)                                                                                                                   |
 | WikipediaVersioned:Cajal–Retzius_cell&oldid=1032081753                                      |        1 | [CL:0000695](http://purl.obolibrary.org/obo/CL_0000695)                                                                                                                   |
 | WikipediaVersioned:Gamma_motor_neuron&oldid=1037462173                                      |        1 | [CL:0008037](http://purl.obolibrary.org/obo/CL_0008037)                                                                                                                   |
-
-## efo
-
-| curie                                                |   usages | nodes                                               |
-|------------------------------------------------------|----------|-----------------------------------------------------|
-| WikipediaVersioned:Exome_sequencing&oldid=1000635953 |        1 | [EFO:0005396](http://www.ebi.ac.uk/efo/EFO_0005396) |
 

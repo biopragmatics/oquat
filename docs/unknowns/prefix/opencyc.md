@@ -1,5 +1,14 @@
 # `opencyc`
 
+## covoc
+
+| curie                              |   usages | nodes                                                           |
+|------------------------------------|----------|-----------------------------------------------------------------|
+| OpenCyc:Mx4rvVjGppwpEbGdrcN5Y29ycA |        1 | [UBERON:0001088](http://purl.obolibrary.org/obo/UBERON_0001088) |
+| OpenCyc:Mx4rvVjJ95wpEbGdrcN5Y29ycA |        1 | [UBERON:0001836](http://purl.obolibrary.org/obo/UBERON_0001836) |
+| OpenCyc:Mx4rvVjJMZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001988](http://purl.obolibrary.org/obo/UBERON_0001988) |
+| OpenCyc:Mx4rvVjKy5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
+
 ## icdo
 
 | curie                                                          |   usages | nodes                                                                                                                            |
@@ -60,34 +69,32 @@
 | OpenCyc:Mx4rvVjOsZwpEbGdrcN5Y29ycA                             |        1 | [UBERON:0003129](http://purl.obolibrary.org/obo/UBERON_0003129)                                                                  |
 | OpenCyc:Mx4rmexpjPdAEduAAAAOpmP6tw                             |        1 | [UBERON:0004151](http://purl.obolibrary.org/obo/UBERON_0004151)                                                                  |
 
-## dto
+## epso
 
 | curie                              |   usages | nodes                                                           |
 |------------------------------------|----------|-----------------------------------------------------------------|
-| OpenCyc:Mx4rvVipEJwpEbGdrcN5Y29ycA |        1 | [UBERON:0000002](http://purl.obolibrary.org/obo/UBERON_0000002) |
-| OpenCyc:Mx4rvhmm6JwpEbGdrcN5Y29ycA |        1 | [UBERON:0000056](http://purl.obolibrary.org/obo/UBERON_0000056) |
-| OpenCyc:Mx4rvVjV7ZwpEbGdrcN5Y29ycA |        1 | [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) |
-| OpenCyc:Mx4rvVjM25wpEbGdrcN5Y29ycA |        1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
-| OpenCyc:Mx4rvVjlqpwpEbGdrcN5Y29ycA |        1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
+| OpenCyc:Mx4rv5XMb5wpEbGdrcN5Y29ycA |        1 | [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) |
+| OpenCyc:Mx4rvmKNOpwpEbGdrcN5Y29ycA |        1 | [UBERON:0000344](http://purl.obolibrary.org/obo/UBERON_0000344) |
 | OpenCyc:Mx4rvVjT65wpEbGdrcN5Y29ycA |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
-| OpenCyc:Mx4rvVi9QJwpEbGdrcN5Y29ycA |        1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
-| OpenCyc:Mx4rvViojJwpEbGdrcN5Y29ycA |        1 | [UBERON:0000995](http://purl.obolibrary.org/obo/UBERON_0000995) |
-| OpenCyc:Mx4rvgAWeJwpEbGdrcN5Y29ycA |        1 | [UBERON:0000997](http://purl.obolibrary.org/obo/UBERON_0000997) |
-| OpenCyc:Mx4rvViT_pwpEbGdrcN5Y29ycA |        1 | [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) |
-| OpenCyc:Mx4rvVj9Q5wpEbGdrcN5Y29ycA |        1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
-| OpenCyc:Mx4rvVjMmZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) |
-| OpenCyc:Mx4rvVimZZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001264](http://purl.obolibrary.org/obo/UBERON_0001264) |
-| OpenCyc:Mx4rvVkCG5wpEbGdrcN5Y29ycA |        1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
-| OpenCyc:Mx4rEg4ZYrIbEduAAAAOpmP6tw |        1 | [UBERON:0001969](http://purl.obolibrary.org/obo/UBERON_0001969) |
-| OpenCyc:Mx4rvVjLT5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) |
-| OpenCyc:Mx4rvVjKy5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
-| OpenCyc:Mx4rvVjX3ZwpEbGdrcN5Y29ycA |        1 | [UBERON:0002097](http://purl.obolibrary.org/obo/UBERON_0002097) |
-| OpenCyc:Mx4rvVimppwpEbGdrcN5Y29ycA |        1 | [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) |
-| OpenCyc:Mx4rvVkGr5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) |
-| OpenCyc:Mx4rvVjlYpwpEbGdrcN5Y29ycA |        1 | [UBERON:0002113](http://purl.obolibrary.org/obo/UBERON_0002113) |
-| OpenCyc:Mx4rv4LJDpwpEbGdrcN5Y29ycA |        1 | [UBERON:0002114](http://purl.obolibrary.org/obo/UBERON_0002114) |
-| OpenCyc:Mx4rv6trqZwpEbGdrcN5Y29ycA |        1 | [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) |
-| OpenCyc:Mx4rvXYiz5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) |
+| OpenCyc:Mx4rdBrmE6gOEdudWQACs5b6Bw |        1 | [UBERON:0001020](http://purl.obolibrary.org/obo/UBERON_0001020) |
+| OpenCyc:Mx4rwQLi-ZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001871](http://purl.obolibrary.org/obo/UBERON_0001871) |
+| OpenCyc:Mx4rvg-typwpEbGdrcN5Y29ycA |        1 | [UBERON:0001872](http://purl.obolibrary.org/obo/UBERON_0001872) |
+| OpenCyc:Mx4rwJC_2ZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001876](http://purl.obolibrary.org/obo/UBERON_0001876) |
+| OpenCyc:Mx4rvsBUqpwpEbGdrcN5Y29ycA |        1 | [UBERON:0001891](http://purl.obolibrary.org/obo/UBERON_0001891) |
+| OpenCyc:Mx4rwC-V0JwpEbGdrcN5Y29ycA |        1 | [UBERON:0001894](http://purl.obolibrary.org/obo/UBERON_0001894) |
+| OpenCyc:Mx4rwCqnXJwpEbGdrcN5Y29ycA |        1 | [UBERON:0001896](http://purl.obolibrary.org/obo/UBERON_0001896) |
+| OpenCyc:Mx4rwMPQ65wpEbGdrcN5Y29ycA |        1 | [UBERON:0001897](http://purl.obolibrary.org/obo/UBERON_0001897) |
+| OpenCyc:Mx4rwEgr9JwpEbGdrcN5Y29ycA |        1 | [UBERON:0001898](http://purl.obolibrary.org/obo/UBERON_0001898) |
+| OpenCyc:Mx4rwDdKMpwpEbGdrcN5Y29ycA |        1 | [UBERON:0002020](http://purl.obolibrary.org/obo/UBERON_0002020) |
+| OpenCyc:Mx4rv9OFy5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002021](http://purl.obolibrary.org/obo/UBERON_0002021) |
+| OpenCyc:Mx4rvl1eipwpEbGdrcN5Y29ycA |        1 | [UBERON:0002037](http://purl.obolibrary.org/obo/UBERON_0002037) |
+| OpenCyc:Mx4rvakhcJwpEbGdrcN5Y29ycA |        1 | [UBERON:0002286](http://purl.obolibrary.org/obo/UBERON_0002286) |
+| OpenCyc:Mx4rwOAsDZwpEbGdrcN5Y29ycA |        1 | [UBERON:0002316](http://purl.obolibrary.org/obo/UBERON_0002316) |
+| OpenCyc:Mx4rvbNzdZwpEbGdrcN5Y29ycA |        1 | [UBERON:0002336](http://purl.obolibrary.org/obo/UBERON_0002336) |
+| OpenCyc:Mx4rv-7Q6pwpEbGdrcN5Y29ycA |        1 | [UBERON:0002422](http://purl.obolibrary.org/obo/UBERON_0002422) |
+| OpenCyc:Mx4rv7l_DJwpEbGdrcN5Y29ycA |        1 | [UBERON:0002695](http://purl.obolibrary.org/obo/UBERON_0002695) |
+| OpenCyc:Mx4rvmTY65wpEbGdrcN5Y29ycA |        1 | [UBERON:0004086](http://purl.obolibrary.org/obo/UBERON_0004086) |
+| OpenCyc:Mx4rv3OJ8JwpEbGdrcN5Y29ycA |        1 | [UBERON:0016525](http://purl.obolibrary.org/obo/UBERON_0016525) |
 
 ## bao
 
@@ -120,39 +127,32 @@
 | OpenCyc:Mx4rvXYiz5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) |
 | OpenCyc:Mx4rvpDOU5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002391](http://purl.obolibrary.org/obo/UBERON_0002391) |
 
-## covoc
+## dto
 
 | curie                              |   usages | nodes                                                           |
 |------------------------------------|----------|-----------------------------------------------------------------|
-| OpenCyc:Mx4rvVjGppwpEbGdrcN5Y29ycA |        1 | [UBERON:0001088](http://purl.obolibrary.org/obo/UBERON_0001088) |
-| OpenCyc:Mx4rvVjJ95wpEbGdrcN5Y29ycA |        1 | [UBERON:0001836](http://purl.obolibrary.org/obo/UBERON_0001836) |
-| OpenCyc:Mx4rvVjJMZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001988](http://purl.obolibrary.org/obo/UBERON_0001988) |
-| OpenCyc:Mx4rvVjKy5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
-
-## epso
-
-| curie                              |   usages | nodes                                                           |
-|------------------------------------|----------|-----------------------------------------------------------------|
-| OpenCyc:Mx4rv5XMb5wpEbGdrcN5Y29ycA |        1 | [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) |
-| OpenCyc:Mx4rvmKNOpwpEbGdrcN5Y29ycA |        1 | [UBERON:0000344](http://purl.obolibrary.org/obo/UBERON_0000344) |
+| OpenCyc:Mx4rvVipEJwpEbGdrcN5Y29ycA |        1 | [UBERON:0000002](http://purl.obolibrary.org/obo/UBERON_0000002) |
+| OpenCyc:Mx4rvhmm6JwpEbGdrcN5Y29ycA |        1 | [UBERON:0000056](http://purl.obolibrary.org/obo/UBERON_0000056) |
+| OpenCyc:Mx4rvVjV7ZwpEbGdrcN5Y29ycA |        1 | [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) |
+| OpenCyc:Mx4rvVjM25wpEbGdrcN5Y29ycA |        1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
+| OpenCyc:Mx4rvVjlqpwpEbGdrcN5Y29ycA |        1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
 | OpenCyc:Mx4rvVjT65wpEbGdrcN5Y29ycA |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
-| OpenCyc:Mx4rdBrmE6gOEdudWQACs5b6Bw |        1 | [UBERON:0001020](http://purl.obolibrary.org/obo/UBERON_0001020) |
-| OpenCyc:Mx4rwQLi-ZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001871](http://purl.obolibrary.org/obo/UBERON_0001871) |
-| OpenCyc:Mx4rvg-typwpEbGdrcN5Y29ycA |        1 | [UBERON:0001872](http://purl.obolibrary.org/obo/UBERON_0001872) |
-| OpenCyc:Mx4rwJC_2ZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001876](http://purl.obolibrary.org/obo/UBERON_0001876) |
-| OpenCyc:Mx4rvsBUqpwpEbGdrcN5Y29ycA |        1 | [UBERON:0001891](http://purl.obolibrary.org/obo/UBERON_0001891) |
-| OpenCyc:Mx4rwC-V0JwpEbGdrcN5Y29ycA |        1 | [UBERON:0001894](http://purl.obolibrary.org/obo/UBERON_0001894) |
-| OpenCyc:Mx4rwCqnXJwpEbGdrcN5Y29ycA |        1 | [UBERON:0001896](http://purl.obolibrary.org/obo/UBERON_0001896) |
-| OpenCyc:Mx4rwMPQ65wpEbGdrcN5Y29ycA |        1 | [UBERON:0001897](http://purl.obolibrary.org/obo/UBERON_0001897) |
-| OpenCyc:Mx4rwEgr9JwpEbGdrcN5Y29ycA |        1 | [UBERON:0001898](http://purl.obolibrary.org/obo/UBERON_0001898) |
-| OpenCyc:Mx4rwDdKMpwpEbGdrcN5Y29ycA |        1 | [UBERON:0002020](http://purl.obolibrary.org/obo/UBERON_0002020) |
-| OpenCyc:Mx4rv9OFy5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002021](http://purl.obolibrary.org/obo/UBERON_0002021) |
-| OpenCyc:Mx4rvl1eipwpEbGdrcN5Y29ycA |        1 | [UBERON:0002037](http://purl.obolibrary.org/obo/UBERON_0002037) |
-| OpenCyc:Mx4rvakhcJwpEbGdrcN5Y29ycA |        1 | [UBERON:0002286](http://purl.obolibrary.org/obo/UBERON_0002286) |
-| OpenCyc:Mx4rwOAsDZwpEbGdrcN5Y29ycA |        1 | [UBERON:0002316](http://purl.obolibrary.org/obo/UBERON_0002316) |
-| OpenCyc:Mx4rvbNzdZwpEbGdrcN5Y29ycA |        1 | [UBERON:0002336](http://purl.obolibrary.org/obo/UBERON_0002336) |
-| OpenCyc:Mx4rv-7Q6pwpEbGdrcN5Y29ycA |        1 | [UBERON:0002422](http://purl.obolibrary.org/obo/UBERON_0002422) |
-| OpenCyc:Mx4rv7l_DJwpEbGdrcN5Y29ycA |        1 | [UBERON:0002695](http://purl.obolibrary.org/obo/UBERON_0002695) |
-| OpenCyc:Mx4rvmTY65wpEbGdrcN5Y29ycA |        1 | [UBERON:0004086](http://purl.obolibrary.org/obo/UBERON_0004086) |
-| OpenCyc:Mx4rv3OJ8JwpEbGdrcN5Y29ycA |        1 | [UBERON:0016525](http://purl.obolibrary.org/obo/UBERON_0016525) |
+| OpenCyc:Mx4rvVi9QJwpEbGdrcN5Y29ycA |        1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
+| OpenCyc:Mx4rvViojJwpEbGdrcN5Y29ycA |        1 | [UBERON:0000995](http://purl.obolibrary.org/obo/UBERON_0000995) |
+| OpenCyc:Mx4rvgAWeJwpEbGdrcN5Y29ycA |        1 | [UBERON:0000997](http://purl.obolibrary.org/obo/UBERON_0000997) |
+| OpenCyc:Mx4rvViT_pwpEbGdrcN5Y29ycA |        1 | [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) |
+| OpenCyc:Mx4rvVj9Q5wpEbGdrcN5Y29ycA |        1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
+| OpenCyc:Mx4rvVjMmZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) |
+| OpenCyc:Mx4rvVimZZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001264](http://purl.obolibrary.org/obo/UBERON_0001264) |
+| OpenCyc:Mx4rvVkCG5wpEbGdrcN5Y29ycA |        1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
+| OpenCyc:Mx4rEg4ZYrIbEduAAAAOpmP6tw |        1 | [UBERON:0001969](http://purl.obolibrary.org/obo/UBERON_0001969) |
+| OpenCyc:Mx4rvVjLT5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) |
+| OpenCyc:Mx4rvVjKy5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
+| OpenCyc:Mx4rvVjX3ZwpEbGdrcN5Y29ycA |        1 | [UBERON:0002097](http://purl.obolibrary.org/obo/UBERON_0002097) |
+| OpenCyc:Mx4rvVimppwpEbGdrcN5Y29ycA |        1 | [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) |
+| OpenCyc:Mx4rvVkGr5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) |
+| OpenCyc:Mx4rvVjlYpwpEbGdrcN5Y29ycA |        1 | [UBERON:0002113](http://purl.obolibrary.org/obo/UBERON_0002113) |
+| OpenCyc:Mx4rv4LJDpwpEbGdrcN5Y29ycA |        1 | [UBERON:0002114](http://purl.obolibrary.org/obo/UBERON_0002114) |
+| OpenCyc:Mx4rv6trqZwpEbGdrcN5Y29ycA |        1 | [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) |
+| OpenCyc:Mx4rvXYiz5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) |
 

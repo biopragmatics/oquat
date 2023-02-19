@@ -1,22 +1,16 @@
 # `aba`
 
-## icdo
-
-| curie     |   usages | nodes                                                           |
-|-----------|----------|-----------------------------------------------------------------|
-| ABA:Brain |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
-
-## dto
-
-| curie     |   usages | nodes                                                           |
-|-----------|----------|-----------------------------------------------------------------|
-| ABA:Brain |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
-
 ## go
 
 | curie   |   usages | nodes                                                   |
 |---------|----------|---------------------------------------------------------|
 | ABA:HPF |        1 | [GO:0021766](http://purl.obolibrary.org/obo/GO_0021766) |
+
+## icdo
+
+| curie     |   usages | nodes                                                           |
+|-----------|----------|-----------------------------------------------------------------|
+| ABA:Brain |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
 
 ## uberon
 
@@ -78,13 +72,19 @@
 | ABA:Brain   |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
 | ABA:CTX1-6b |        1 | [UBERON:0002301](http://purl.obolibrary.org/obo/UBERON_0002301) |
 
+## epso
+
+| curie     |   usages | nodes                                                           |
+|-----------|----------|-----------------------------------------------------------------|
+| ABA:Brain |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
+
 ## bao
 
 | curie     |   usages | nodes                                                           |
 |-----------|----------|-----------------------------------------------------------------|
 | ABA:Brain |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
 
-## epso
+## dto
 
 | curie     |   usages | nodes                                                           |
 |-----------|----------|-----------------------------------------------------------------|

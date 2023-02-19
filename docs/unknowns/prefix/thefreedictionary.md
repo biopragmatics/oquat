@@ -1,5 +1,12 @@
 # `thefreedictionary`
 
+## bto
+
+| curie                                                               |   usages | nodes                                                                                                                                                                                                                                                                                                      |
+|---------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TheFreeDictionary:http://www.thefreedictionary.com/                 |        6 | [BTO:0002406](http://purl.obolibrary.org/obo/BTO_0002406), [BTO:0002420](http://purl.obolibrary.org/obo/BTO_0002420), [BTO:0002421](http://purl.obolibrary.org/obo/BTO_0002421), [BTO:0002743](http://purl.obolibrary.org/obo/BTO_0002743), [BTO:0002774](http://purl.obolibrary.org/obo/BTO_0002774), ... |
+| TheFreeDictionary:http://columbia.thefreedictionary.com/Thyrostraca |        1 | [BTO:0002738](http://purl.obolibrary.org/obo/BTO_0002738)                                                                                                                                                                                                                                                  |
+
 ## cmpo
 
 | curie                                                         |   usages | nodes                                                       |
@@ -22,13 +29,6 @@
 | thefreedictionary:http://www.thefreedictionary.com/bilobed      |        1 | [PATO:0002214](http://purl.obolibrary.org/obo/PATO_0002214)                                                                                                                                                                                                                                                          |
 | thefreedictionary:http://www.thefreedictionary.com/demyelinated |        1 | [PATO:0002218](http://purl.obolibrary.org/obo/PATO_0002218)                                                                                                                                                                                                                                                          |
 | thefreedictionary:http://www.thefreedictionary.com/fan-shaped   |        1 | [PATO:0002219](http://purl.obolibrary.org/obo/PATO_0002219)                                                                                                                                                                                                                                                          |
-
-## bto
-
-| curie                                                               |   usages | nodes                                                                                                                                                                                                                                                                                                      |
-|---------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TheFreeDictionary:http://www.thefreedictionary.com/                 |        6 | [BTO:0002406](http://purl.obolibrary.org/obo/BTO_0002406), [BTO:0002420](http://purl.obolibrary.org/obo/BTO_0002420), [BTO:0002421](http://purl.obolibrary.org/obo/BTO_0002421), [BTO:0002743](http://purl.obolibrary.org/obo/BTO_0002743), [BTO:0002774](http://purl.obolibrary.org/obo/BTO_0002774), ... |
-| TheFreeDictionary:http://columbia.thefreedictionary.com/Thyrostraca |        1 | [BTO:0002738](http://purl.obolibrary.org/obo/BTO_0002738)                                                                                                                                                                                                                                                  |
 
 ## idomal
 

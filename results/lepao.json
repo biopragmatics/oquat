@@ -1,5 +1,5 @@
 {
-  "created": "2023-02-13T21:18:55.900992",
+  "created": "2023-02-19T02:13:34.986837",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/lepao.owl": {
@@ -18,8 +18,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2021-11-20",
-      "version_iri": "http://purl.obolibrary.org/obo/lepao/releases/2021-11-20/lepao.owl",
+      "version": "2022-12-29",
+      "version_iri": "http://purl.obolibrary.org/obo/lepao/releases/2023-02-18/lepao.owl",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

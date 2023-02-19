@@ -1,5 +1,42 @@
 # `patoc`
 
+## covoc
+
+| curie     |   usages | nodes                                                                                                                                                                                                                                              |
+|-----------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PATOC:GVG |        4 | [PATO:0000001](http://purl.obolibrary.org/obo/PATO_0000001), [PATO:0000057](http://purl.obolibrary.org/obo/PATO_0000057), [PATO:0000169](http://purl.obolibrary.org/obo/PATO_0000169), [PATO:0001422](http://purl.obolibrary.org/obo/PATO_0001422) |
+
+## enm
+
+| curie         |   usages | nodes                                                                                                                                                                                                                                                                                                                |
+|---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PATOC:GVG     |       49 | [PATO:0000049](http://purl.obolibrary.org/obo/PATO_0000049), [PATO:0000119](http://purl.obolibrary.org/obo/PATO_0000119), [PATO:0000122](http://purl.obolibrary.org/obo/PATO_0000122), [PATO:0000125](http://purl.obolibrary.org/obo/PATO_0000125), [PATO:0000146](http://purl.obolibrary.org/obo/PATO_0000146), ... |
+| PATOC:MAH     |        2 | [PATO:0000584](http://purl.obolibrary.org/obo/PATO_0000584), [PATO:0000585](http://purl.obolibrary.org/obo/PATO_0000585)                                                                                                                                                                                             |
+| PATOC:WD      |        2 | [PATO:0005015](http://purl.obolibrary.org/obo/PATO_0005015), [PATO:0005022](http://purl.obolibrary.org/obo/PATO_0005022)                                                                                                                                                                                             |
+| PATOC:melissa |        1 | [PATO:0000161](http://purl.obolibrary.org/obo/PATO_0000161)                                                                                                                                                                                                                                                          |
+| PATOC:CJM     |        1 | [PATO:0001555](http://purl.obolibrary.org/obo/PATO_0001555)                                                                                                                                                                                                                                                          |
+| PATOC:UMH     |        1 | [PATO:0001940](http://purl.obolibrary.org/obo/PATO_0001940)                                                                                                                                                                                                                                                          |
+
+## sdgio
+
+| curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                |
+|-----------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PATOC:GVG |        9 | [PATO:0000001](http://purl.obolibrary.org/obo/PATO_0000001), [PATO:0000140](http://purl.obolibrary.org/obo/PATO_0000140), [PATO:0000165](http://purl.obolibrary.org/obo/PATO_0000165), [PATO:0000308](http://purl.obolibrary.org/obo/PATO_0000308), [PATO:0000309](http://purl.obolibrary.org/obo/PATO_0000309), ... |
+| PATOC:nc  |        1 | [PATO:0001646](http://purl.obolibrary.org/obo/PATO_0001646)                                                                                                                                                                                                                                                          |
+| PATOC:VO  |        1 | [PATO:0002138](http://purl.obolibrary.org/obo/PATO_0002138)                                                                                                                                                                                                                                                          |
+
+## envo
+
+| curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
+|-----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PATOC:cjm |        5 | [ENVO:00006776](http://purl.obolibrary.org/obo/ENVO_00006776), [ENVO:00009001](http://purl.obolibrary.org/obo/ENVO_00009001), [ENVO:00009002](http://purl.obolibrary.org/obo/ENVO_00009002), [ENVO:00009003](http://purl.obolibrary.org/obo/ENVO_00009003), [ENVO:00009004](http://purl.obolibrary.org/obo/ENVO_00009004), ... |
+
+## uberon
+
+| curie     |   usages | nodes                                                           |
+|-----------|----------|-----------------------------------------------------------------|
+| PATOC:MAH |        1 | [UBERON:0005160](http://purl.obolibrary.org/obo/UBERON_0005160) |
+
 ## cmpo
 
 | curie            |   usages | nodes                                                                                                                                                                                                                                                                                                                |
@@ -13,23 +50,6 @@
 | PATOC:mellybelly |        1 | [PATO:0001309](http://purl.obolibrary.org/obo/PATO_0001309)                                                                                                                                                                                                                                                          |
 | PATOC:me         |        1 | [PATO:0002065](http://purl.obolibrary.org/obo/PATO_0002065)                                                                                                                                                                                                                                                          |
 | PATOC:OREGON     |        1 | [PATO:0002268](http://purl.obolibrary.org/obo/PATO_0002268)                                                                                                                                                                                                                                                          |
-
-## uberon
-
-| curie     |   usages | nodes                                                           |
-|-----------|----------|-----------------------------------------------------------------|
-| PATOC:MAH |        1 | [UBERON:0005160](http://purl.obolibrary.org/obo/UBERON_0005160) |
-
-## enm
-
-| curie         |   usages | nodes                                                                                                                                                                                                                                                                                                                |
-|---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PATOC:GVG     |       49 | [PATO:0000049](http://purl.obolibrary.org/obo/PATO_0000049), [PATO:0000119](http://purl.obolibrary.org/obo/PATO_0000119), [PATO:0000122](http://purl.obolibrary.org/obo/PATO_0000122), [PATO:0000125](http://purl.obolibrary.org/obo/PATO_0000125), [PATO:0000146](http://purl.obolibrary.org/obo/PATO_0000146), ... |
-| PATOC:MAH     |        2 | [PATO:0000584](http://purl.obolibrary.org/obo/PATO_0000584), [PATO:0000585](http://purl.obolibrary.org/obo/PATO_0000585)                                                                                                                                                                                             |
-| PATOC:WD      |        2 | [PATO:0005015](http://purl.obolibrary.org/obo/PATO_0005015), [PATO:0005022](http://purl.obolibrary.org/obo/PATO_0005022)                                                                                                                                                                                             |
-| PATOC:melissa |        1 | [PATO:0000161](http://purl.obolibrary.org/obo/PATO_0000161)                                                                                                                                                                                                                                                          |
-| PATOC:CJM     |        1 | [PATO:0001555](http://purl.obolibrary.org/obo/PATO_0001555)                                                                                                                                                                                                                                                          |
-| PATOC:UMH     |        1 | [PATO:0001940](http://purl.obolibrary.org/obo/PATO_0001940)                                                                                                                                                                                                                                                          |
 
 ## pato
 
@@ -97,24 +117,4 @@
 | PATOC:NI                                                |        1 | [PATO:0002443](http://purl.obolibrary.org/obo/PATO_0002443)                                                                                                                                                                                                                                                          |
 | PATOC:CM                                                |        1 | [PATO:0002450](http://purl.obolibrary.org/obo/PATO_0002450)                                                                                                                                                                                                                                                          |
 | PATOC:DOS                                               |        1 | [PATO:0002506](http://purl.obolibrary.org/obo/PATO_0002506)                                                                                                                                                                                                                                                          |
-
-## envo
-
-| curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
-|-----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PATOC:cjm |        5 | [ENVO:00006776](http://purl.obolibrary.org/obo/ENVO_00006776), [ENVO:00009001](http://purl.obolibrary.org/obo/ENVO_00009001), [ENVO:00009002](http://purl.obolibrary.org/obo/ENVO_00009002), [ENVO:00009003](http://purl.obolibrary.org/obo/ENVO_00009003), [ENVO:00009004](http://purl.obolibrary.org/obo/ENVO_00009004), ... |
-
-## covoc
-
-| curie     |   usages | nodes                                                                                                                                                                                                                                              |
-|-----------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PATOC:GVG |        4 | [PATO:0000001](http://purl.obolibrary.org/obo/PATO_0000001), [PATO:0000057](http://purl.obolibrary.org/obo/PATO_0000057), [PATO:0000169](http://purl.obolibrary.org/obo/PATO_0000169), [PATO:0001422](http://purl.obolibrary.org/obo/PATO_0001422) |
-
-## sdgio
-
-| curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                |
-|-----------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PATOC:GVG |        9 | [PATO:0000001](http://purl.obolibrary.org/obo/PATO_0000001), [PATO:0000140](http://purl.obolibrary.org/obo/PATO_0000140), [PATO:0000165](http://purl.obolibrary.org/obo/PATO_0000165), [PATO:0000308](http://purl.obolibrary.org/obo/PATO_0000308), [PATO:0000309](http://purl.obolibrary.org/obo/PATO_0000309), ... |
-| PATOC:nc  |        1 | [PATO:0001646](http://purl.obolibrary.org/obo/PATO_0001646)                                                                                                                                                                                                                                                          |
-| PATOC:VO  |        1 | [PATO:0002138](http://purl.obolibrary.org/obo/PATO_0002138)                                                                                                                                                                                                                                                          |
 

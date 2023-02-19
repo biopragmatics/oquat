@@ -1,11 +1,10 @@
 # `mosby`
 
-## xco
+## vt
 
-| curie                                   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
-|-----------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Mosby:Mosbys_Medical_Dictionary--8th_Ed |       68 | [XCO:0000021](http://purl.obolibrary.org/obo/XCO_0000021), [XCO:0000042](http://purl.obolibrary.org/obo/XCO_0000042), [XCO:0000047](http://purl.obolibrary.org/obo/XCO_0000047), [XCO:0000048](http://purl.obolibrary.org/obo/XCO_0000048), [XCO:0000049](http://purl.obolibrary.org/obo/XCO_0000049), ... |
-| Mosby:Mosbys_Dental_Dictionary--2nd_Ed  |        2 | [XCO:0000341](http://purl.obolibrary.org/obo/XCO_0000341), [XCO:0000373](http://purl.obolibrary.org/obo/XCO_0000373)                                                                                                                                                                                       |
+| curie                                  |   usages | nodes                                                   |
+|----------------------------------------|----------|---------------------------------------------------------|
+| Mosby:Mosbys Medical Dictionary 8th Ed |        1 | [VT:0002796](http://purl.obolibrary.org/obo/VT_0002796) |
 
 ## mmo
 
@@ -16,9 +15,10 @@
 | Mosby:Mosbys_Dental_Dictionary--2nd_Ed                         |        4 | [MMO:0000005](http://purl.obolibrary.org/obo/MMO_0000005), [MMO:0000006](http://purl.obolibrary.org/obo/MMO_0000006), [MMO:0000157](http://purl.obolibrary.org/obo/MMO_0000157), [MMO:0000239](http://purl.obolibrary.org/obo/MMO_0000239)                                                                 |
 | Mosby:Mosbys_Medical_Dictionary--9th_Ed                        |        2 | [MMO:0000588](http://purl.obolibrary.org/obo/MMO_0000588), [MMO:0000629](http://purl.obolibrary.org/obo/MMO_0000629)                                                                                                                                                                                       |
 
-## vt
+## xco
 
-| curie                                  |   usages | nodes                                                   |
-|----------------------------------------|----------|---------------------------------------------------------|
-| Mosby:Mosbys Medical Dictionary 8th Ed |        1 | [VT:0002796](http://purl.obolibrary.org/obo/VT_0002796) |
+| curie                                   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
+|-----------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Mosby:Mosbys_Medical_Dictionary--8th_Ed |       68 | [XCO:0000021](http://purl.obolibrary.org/obo/XCO_0000021), [XCO:0000042](http://purl.obolibrary.org/obo/XCO_0000042), [XCO:0000047](http://purl.obolibrary.org/obo/XCO_0000047), [XCO:0000048](http://purl.obolibrary.org/obo/XCO_0000048), [XCO:0000049](http://purl.obolibrary.org/obo/XCO_0000049), ... |
+| Mosby:Mosbys_Dental_Dictionary--2nd_Ed  |        2 | [XCO:0000341](http://purl.obolibrary.org/obo/XCO_0000341), [XCO:0000373](http://purl.obolibrary.org/obo/XCO_0000373)                                                                                                                                                                                       |
 

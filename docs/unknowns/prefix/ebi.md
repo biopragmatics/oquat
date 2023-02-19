@@ -1,11 +1,5 @@
 # `ebi`
 
-## rex
-
-| curie   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
-|---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| EBI:kid |       33 | [REX:0000085](http://purl.obolibrary.org/obo/REX_0000085), [REX:0000088](http://purl.obolibrary.org/obo/REX_0000088), [REX:0000107](http://purl.obolibrary.org/obo/REX_0000107), [REX:0000118](http://purl.obolibrary.org/obo/REX_0000118), [REX:0000239](http://purl.obolibrary.org/obo/REX_0000239), ... |
-
 ## so
 
 | curie                                                     |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -16,4 +10,10 @@
 | EBI:fc                                                    |        3 | [SO:0001782](http://purl.obolibrary.org/obo/SO_0001782), [SO:0001792](http://purl.obolibrary.org/obo/SO_0001792), [SO:0001878](http://purl.obolibrary.org/obo/SO_0001878)                                                                                                                        |
 | EBI:rh                                                    |        1 | [SO:0001408](http://purl.obolibrary.org/obo/SO_0001408)                                                                                                                                                                                                                                          |
 | EBI:dvga                                                  |        1 | [SO:0001837](http://purl.obolibrary.org/obo/SO_0001837)                                                                                                                                                                                                                                          |
+
+## rex
+
+| curie   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
+|---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| EBI:kid |       33 | [REX:0000085](http://purl.obolibrary.org/obo/REX_0000085), [REX:0000088](http://purl.obolibrary.org/obo/REX_0000088), [REX:0000107](http://purl.obolibrary.org/obo/REX_0000107), [REX:0000118](http://purl.obolibrary.org/obo/REX_0000118), [REX:0000239](http://purl.obolibrary.org/obo/REX_0000239), ... |
 
