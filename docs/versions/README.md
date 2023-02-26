@@ -5,17 +5,17 @@ required and suggested practices in versioning of ontologies. This
 table has the following columns:
 
 1. The prefix of the ontology
-2. Has a version IRI (128/147, 87.1%)
+2. Has a version IRI (128/146, 87.7%)
 3. Has a version IRI that contains either a semantic version string or `YYYY-MM-DD` date version string
-   (114/147, 77.6%)
+   (114/146, 78.1%)
 4. Has a version IRI that follows the standard pattern
    `http://purl.obolibrary.org/obo/<prefix>/releases/<trailing stuff>` or
    `http://purl.obolibrary.org/obo/<prefix>/<trailing stuff>`
-   (118/147, 80.3%)
+   (118/146, 80.8%)
 5. Has a version annotated with `http://www.w3.org/2002/07/owl#versionInfo`
-   (139/147, 94.6%)
+   (139/146, 95.2%)
 6. Has a version that appears in the version IRI
-   (112/147, 76.2%)
+   (112/146, 76.7%)
 
 | source                                                    | version iri                                                                    | version iri has version   | version iri is standard   | version                       | version in iri   |
 |-----------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------|---------------------------|-------------------------------|------------------|
@@ -94,7 +94,7 @@ table has the following columns:
 | [mop](http://obofoundry.org/ontology/mop)                 | http://purl.obolibrary.org/obo/mop/releases/2022-05-11/mop.owl                 | ✅                        | ✅                        | 2022-05-11                    | ✅               |
 | [mpath](http://obofoundry.org/ontology/mpath)             | http://purl.obolibrary.org/obo/mpath/2020-05-19/mpath.owl                      | ✅                        | ✅                        | 2020-05-19                    | ✅               |
 | [mpio](http://obofoundry.org/ontology/mpio)               | http://purl.obolibrary.org/obo/mpio/release/2019-01-30/mpio.owl                | ⭕                        | ⭕                        | release version 2019-01-30    | ⭕               |
-| [mro](http://obofoundry.org/ontology/mro)                 | http://purl.obolibrary.org/obo/mro/2022-10-17/mro.owl                          | ✅                        | ✅                        | 2022-10-17                    | ✅               |
+| [mro](http://obofoundry.org/ontology/mro)                 | http://purl.obolibrary.org/obo/mro/2023-02-22/mro.owl                          | ✅                        | ✅                        | 2023-02-22                    | ✅               |
 | [ms](http://obofoundry.org/ontology/ms)                   | http://purl.obolibrary.org/obo/ms/4.1.110/ms.owl                               | ✅                        | ✅                        | 4.1.110                       | ✅               |
 | [nbo](http://obofoundry.org/ontology/nbo)                 | http://purl.obolibrary.org/obo/nbo/releases/2021-02-15/nbo.owl                 | ✅                        | ✅                        | 2021-02-15                    | ✅               |
 | [ncro](http://obofoundry.org/ontology/ncro)               | http://purl.obolibrary.org/obo/ncro/2015-12-10/ncro-combined.owl               | ⭕                        | ⭕                        | 2015-12-10                    | ⭕               |
@@ -135,9 +135,8 @@ table has the following columns:
 | [pw](http://obofoundry.org/ontology/pw)                   | http://purl.obolibrary.org/obo/pw/7.52/pw.owl                                  | ✅                        | ✅                        | 7.52                          | ✅               |
 | [rex](http://obofoundry.org/ontology/rex)                 | http://purl.obolibrary.org/obo/rex/releases/2017-11-19/rex.owl                 | ✅                        | ✅                        | 2017-11-19                    | ✅               |
 | [ro](http://obofoundry.org/ontology/ro)                   | http://purl.obolibrary.org/obo/ro/releases/2023-01-04/ro.owl                   | ✅                        | ✅                        | 2023-01-04                    | ✅               |
-| [rs](http://obofoundry.org/ontology/rs)                   | http://purl.obolibrary.org/obo/rs/6.186/rs.owl                                 | ✅                        | ✅                        | 6.186                         | ✅               |
+| [rs](http://obofoundry.org/ontology/rs)                   | http://purl.obolibrary.org/obo/rs/6.187/rs.owl                                 | ✅                        | ✅                        | 6.187                         | ✅               |
 | [rxno](http://obofoundry.org/ontology/rxno)               | http://purl.obolibrary.org/obo/rxno/releases/2021-12-16/rxno.owl               | ✅                        | ✅                        | 2021-12-16                    | ✅               |
-| [sepio](http://obofoundry.org/ontology/sepio)             |                                                                                |                           |                           |                               |                  |
 | [sibo](http://obofoundry.org/ontology/sibo)               | http://purl.obolibrary.org/obo/sibo/releases/2015-06-15/sibo.owl               | ✅                        | ✅                        | 2015-06-15                    | ✅               |
 | [so](http://obofoundry.org/ontology/so)                   | http://purl.obolibrary.org/obo/so/2021-11-22/so.owl                            | ✅                        | ✅                        | 2021-11-22                    | ✅               |
 | [spd](http://obofoundry.org/ontology/spd)                 | http://purl.obolibrary.org/obo/spd/1.0/spd.owl                                 | ✅                        | ✅                        | 1.0                           | ✅               |
@@ -239,7 +238,6 @@ multiple graphs due to imports.
 | hgnc            | file:///C:/Workspaces/MyEclipse8.x/HugoToOwl/Hugo.owl                            |                                                                   |                                                                                       |                  |
 | cio             | http://purl.obolibrary.org/obo/cio.owl                                           | 2015-03-10                                                        | http://purl.obolibrary.org/obo/cio/releases/2015-03-10/cio.owl                        | ✅               |
 | datacite        | http://purl.org/spar/datacite                                                    | 1.2                                                               | http://purl.org/spar/datacite/2022-09-15                                              | ⭕               |
-| sepio           | http://purl.obolibrary.org/obo/sepio.owl                                         |                                                                   |                                                                                       |                  |
 | maxo            | http://purl.obolibrary.org/obo/maxo.owl                                          | 2022-12-19                                                        | http://purl.obolibrary.org/obo/maxo/releases/2022-12-19/maxo.owl                      | ✅               |
 | msio            | http://purl.obolibrary.org/obo/msio.owl                                          | 1.0.1                                                             |                                                                                       |                  |
 | cro             | http://purl.obolibrary.org/obo/cro.owl                                           | 2019-12-11                                                        | http://purl.obolibrary.org/obo/cro/releases/2019-12-11/cro.owl                        | ✅               |
@@ -247,7 +245,7 @@ multiple graphs due to imports.
 | zp              | http://purl.obolibrary.org/obo/zp.owl                                            | 2022-12-17                                                        | http://purl.obolibrary.org/obo/zp/releases/2022-12-17/zp.owl                          | ✅               |
 | xpo             | http://purl.obolibrary.org/obo/xpo.owl                                           | 2022-09-15                                                        | http://purl.obolibrary.org/obo/xpo/releases/2022-09-15/xpo.owl                        | ✅               |
 | ecao            | http://purl.obolibrary.org/obo/ecao.owl                                          | 2020-05-22                                                        | http://purl.obolibrary.org/obo/ecao/releases/2020-05-22/ecao.owl                      | ✅               |
-| rdo             | http://purl.obolibrary.org/obo/rdo.owl                                           | 1.214                                                             | http://purl.obolibrary.org/obo/rdo/1.214/rdo.owl                                      | ✅               |
+| rdo             | http://purl.obolibrary.org/obo/rdo.owl                                           | 1.215                                                             | http://purl.obolibrary.org/obo/rdo/1.215/rdo.owl                                      | ✅               |
 | oae             | http://purl.obolibrary.org/obo/oae.owl                                           | 1.2.47                                                            |                                                                                       |                  |
 | opmi            | http://purl.obolibrary.org/obo/opmi.owl                                          | Vision Release: 1.0.161                                           |                                                                                       |                  |
 | co_358          | https://cropontology.org/rdf/                                                    |                                                                   |                                                                                       |                  |
@@ -267,7 +265,7 @@ multiple graphs due to imports.
 | labo            | http://purl.obolibrary.org/obo/labo.owl                                          | 2021-06-08                                                        | http://purl.obolibrary.org/obo/labo/2021-06-08/labo.owl                               | ✅               |
 | hog             | http://purl.obolibrary.org/obo/TEMP                                              |                                                                   |                                                                                       |                  |
 | pmr             | http://purl.bioontology.org/ontology/PMR.owl                                     |                                                                   |                                                                                       |                  |
-| rs              | http://purl.obolibrary.org/obo/rs.owl                                            | 6.186                                                             | http://purl.obolibrary.org/obo/rs/6.186/rs.owl                                        | ✅               |
+| rs              | http://purl.obolibrary.org/obo/rs.owl                                            | 6.187                                                             | http://purl.obolibrary.org/obo/rs/6.187/rs.owl                                        | ✅               |
 | mmo             | http://purl.obolibrary.org/obo/mmo.owl                                           | 2.39                                                              | http://purl.obolibrary.org/obo/mmo/2.39/mmo.owl                                       | ✅               |
 | co_333          | https://cropontology.org/rdf/                                                    |                                                                   |                                                                                       |                  |
 | unimod          | http://purl.obolibrary.org/obo/TEMP                                              |                                                                   |                                                                                       |                  |
@@ -330,7 +328,7 @@ multiple graphs due to imports.
 | time            | http://www.w3.org/2006/time                                                      |                                                                   | http://www.w3.org/2006/time#2016                                                      |                  |
 | cdno            | http://purl.obolibrary.org/obo/cdno.owl                                          | 2022-12-23                                                        | http://purl.obolibrary.org/obo/cdno/releases/2022-12-23/cdno.owl                      | ✅               |
 | probonto        | http://www.probonto.org/ontology                                                 | 2.5.0                                                             |                                                                                       |                  |
-| mro             | http://purl.obolibrary.org/obo/mro.owl                                           | 2022-10-17                                                        | http://purl.obolibrary.org/obo/mro/2022-10-17/mro.owl                                 | ✅               |
+| mro             | http://purl.obolibrary.org/obo/mro.owl                                           | 2023-02-22                                                        | http://purl.obolibrary.org/obo/mro/2023-02-22/mro.owl                                 | ✅               |
 | vo              | http://purl.obolibrary.org/obo/vo.owl                                            | 1.1.202                                                           |                                                                                       |                  |
 | pdro            | http://purl.obolibrary.org/obo/pdro.owl                                          | 2021-06-08                                                        | http://purl.obolibrary.org/obo/pdro/2021-06-08/pdro.owl                               | ✅               |
 | fbsp            | http://purl.obolibrary.org/obo/fbsp.owl                                          | 2017-11-19                                                        | http://purl.obolibrary.org/obo/fbsp/releases/2017-11-19/fbsp.owl                      | ✅               |
@@ -385,7 +383,7 @@ multiple graphs due to imports.
 | plana           | http://purl.obolibrary.org/obo/plana.owl                                         | 2022-03-09                                                        | http://purl.obolibrary.org/obo/plana/releases/2022-03-09                              | ⭕               |
 | clao            | http://purl.obolibrary.org/obo/clao.owl                                          | 2020-16-05                                                        | http://purl.obolibrary.org/obo/clao/releases/2021-09-27/clao.owl                      | ⭕               |
 | dmba            | http://purl.obolibrary.org/obo/dmba.owl                                          |                                                                   |                                                                                       |                  |
-| semapv          | https://w3id.org/semapv/semapv.owl                                               |                                                                   |                                                                                       |                  |
+| semapv          | http://w3id.org/semapv/vocab/semapv.owl                                          |                                                                   | http://w3id.org/semapv/vocab/releases/2023-02-23/semapv.owl                           |                  |
 | miapa           | http://purl.obolibrary.org/obo/miapa.owl                                         |                                                                   |                                                                                       |                  |
 | geogeo          | http://purl.obolibrary.org/obo/geo.owl                                           | production version 2016-03-26                                     |                                                                                       |                  |
 | mpio            | http://purl.obolibrary.org/obo/mpio.owl                                          | release version 2019-01-30                                        | http://purl.obolibrary.org/obo/mpio/release/2019-01-30/mpio.owl                       | ⭕               |

@@ -1,30 +1,7 @@
 {
-  "created": "2023-02-19T02:44:25.680928",
-  "messages": [],
-  "results": {
-    "http://purl.obolibrary.org/obo/sepio.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/sepio.owl",
-      "prov_pack": {
-        "invalid_luids": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
-    }
-  }
+  "created": "2023-02-26T02:18:41.158485",
+  "messages": [
+    "could not parse OWL for sepio from http://purl.obolibrary.org/obo/sepio.owl"
+  ],
+  "results": {}
 }

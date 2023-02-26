@@ -1,5 +1,5 @@
 {
-  "created": "2023-02-19T02:43:52.543450",
+  "created": "2023-02-26T02:18:16.244587",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/rs.owl": {
@@ -33,8 +33,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "6.186",
-      "version_iri": "http://purl.obolibrary.org/obo/rs/6.186/rs.owl",
+      "version": "6.187",
+      "version_iri": "http://purl.obolibrary.org/obo/rs/6.187/rs.owl",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",
