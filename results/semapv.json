@@ -1,5 +1,5 @@
 {
-  "created": "2023-02-26T02:18:35.049011",
+  "created": "2023-03-05T02:58:21.202565",
   "messages": [],
   "results": {
     "http://w3id.org/semapv/vocab/semapv.owl": {
@@ -18,7 +18,7 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version_iri": "http://w3id.org/semapv/vocab/releases/2023-02-23/semapv.owl",
+      "version_iri": "http://w3id.org/semapv/vocab/releases/2023-02-27/semapv.owl",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

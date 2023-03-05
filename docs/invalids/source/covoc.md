@@ -17,23 +17,6 @@ did not match the standard pattern `^[A-Z](\d+([A-Z]{1,2}(\d+)?)?)?$`.
 | `ATC: N02BB02`  |              1 | [CHEBI:62088](http://purl.obolibrary.org/obo/CHEBI_62088) |
 | `ATC: C09BA13`  |              1 | [CHEBI:6960](http://purl.obolibrary.org/obo/CHEBI_6960)   |
 
-## `CALOHA`: CALIPHO Group Ontology of Human Anatomy
-
-Overall, there were 7 invalid
-xrefs to external prefixed with `CALOHA` (standardized to Bioregistry
-prefix [`caloha`](https://bioregistry.io/caloha)) that
-did not match the standard pattern `^\d+$`.
-
-| external_xref    |   usages_count | usages                                                          |
-|------------------|----------------|-----------------------------------------------------------------|
-| `CALOHA:TS-2035` |              1 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000)         |
-| `CALOHA:TS-0587` |              1 | [CL:0000235](http://purl.obolibrary.org/obo/CL_0000235)         |
-| `CALOHA:TS-0549` |              1 | [CL:0000738](http://purl.obolibrary.org/obo/CL_0000738)         |
-| `CALOHA:TS-1092` |              1 | [UBERON:0001088](http://purl.obolibrary.org/obo/UBERON_0001088) |
-| `CALOHA:TS-0891` |              1 | [UBERON:0001836](http://purl.obolibrary.org/obo/UBERON_0001836) |
-| `CALOHA:TS-2345` |              1 | [UBERON:0001988](http://purl.obolibrary.org/obo/UBERON_0001988) |
-| `CALOHA:TS-0568` |              1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
-
 ## `CARO`: Common Anatomy Reference Ontology
 
 Overall, there were 1 invalid

@@ -20,7 +20,7 @@ did not match the standard pattern `^[0-9]{10}$`.
 Overall, there were 2 invalid
 xrefs to external prefixed with `CALOHA` (standardized to Bioregistry
 prefix [`caloha`](https://bioregistry.io/caloha)) that
-did not match the standard pattern `^\d+$`.
+did not match the standard pattern `^TS-\d+$`.
 
 | external_xref    |   usages_count | usages                                                        |
 |------------------|----------------|---------------------------------------------------------------|

@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `caloha`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 9 resources,
+`^TS-\d+$`. Of the 7 resources,
 1 variants on the standard prefix were found: ['CALOHA'].
 
 ## `bao`: BioAssay Ontology
@@ -190,54 +190,6 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | `CALOHA:TS-0056` |              1 | [CL:1001607](http://purl.obolibrary.org/obo/CL_1001607)                                                                                                                   |
 | `CALOHA:TS-0384` |              1 | [CL:1001608](http://purl.obolibrary.org/obo/CL_1001608)                                                                                                                   |
 | `CALOHA:TS-0643` |              1 | [CL:1001609](http://purl.obolibrary.org/obo/CL_1001609)                                                                                                                   |
-
-## `covoc`: CoVoc Coronavirus Vocabulary
-
-Identifiers for this prefix are given incorrectly in `covoc`. See the [GitHub repository](https://github.com/EBISPOT/covoc).
-
-| external_xref    |   usages_count | usages                                                          |
-|------------------|----------------|-----------------------------------------------------------------|
-| `CALOHA:TS-2035` |              1 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000)         |
-| `CALOHA:TS-0587` |              1 | [CL:0000235](http://purl.obolibrary.org/obo/CL_0000235)         |
-| `CALOHA:TS-0549` |              1 | [CL:0000738](http://purl.obolibrary.org/obo/CL_0000738)         |
-| `CALOHA:TS-1092` |              1 | [UBERON:0001088](http://purl.obolibrary.org/obo/UBERON_0001088) |
-| `CALOHA:TS-0891` |              1 | [UBERON:0001836](http://purl.obolibrary.org/obo/UBERON_0001836) |
-| `CALOHA:TS-2345` |              1 | [UBERON:0001988](http://purl.obolibrary.org/obo/UBERON_0001988) |
-| `CALOHA:TS-0568` |              1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
-
-## `dto`: Drug Target Ontology
-
-Identifiers for this prefix are given incorrectly in `dto`. See the [GitHub repository](https://github.com/DrugTargetOntology/DTO).
-
-| external_xref    |   usages_count | usages                                                          |
-|------------------|----------------|-----------------------------------------------------------------|
-| `CALOHA:TS-0134` |              1 | [UBERON:0000002](http://purl.obolibrary.org/obo/UBERON_0000002) |
-| `CALOHA:TS-1084` |              1 | [UBERON:0000056](http://purl.obolibrary.org/obo/UBERON_0000056) |
-| `CALOHA:TS-0490` |              1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
-| `CALOHA:TS-2083` |              1 | [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) |
-| `CALOHA:TS-1030` |              1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
-| `CALOHA:TS-0980` |              1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
-| `CALOHA:TS-0095` |              1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
-| `CALOHA:TS-0730` |              1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
-| `CALOHA:TS-1102` |              1 | [UBERON:0000995](http://purl.obolibrary.org/obo/UBERON_0000995) |
-| `CALOHA:TS-1168` |              1 | [UBERON:0000997](http://purl.obolibrary.org/obo/UBERON_0000997) |
-| `CALOHA:TS-1313` |              1 | [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) |
-| `CALOHA:TS-0700` |              1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
-| `CALOHA:TS-1090` |              1 | [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) |
-| `CALOHA:TS-0736` |              1 | [UBERON:0001264](http://purl.obolibrary.org/obo/UBERON_0001264) |
-| `CALOHA:TS-0088` |              1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
-| `CALOHA:TS-0800` |              1 | [UBERON:0001969](http://purl.obolibrary.org/obo/UBERON_0001969) |
-| `CALOHA:TS-1047` |              1 | [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) |
-| `CALOHA:TS-0568` |              1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
-| `CALOHA:TS-0934` |              1 | [UBERON:0002097](http://purl.obolibrary.org/obo/UBERON_0002097) |
-| `CALOHA:TS-0564` |              1 | [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) |
-| `CALOHA:TS-0394` |              1 | [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) |
-| `CALOHA:TS-0510` |              1 | [UBERON:0002113](http://purl.obolibrary.org/obo/UBERON_0002113) |
-| `CALOHA:TS-0214` |              1 | [UBERON:0002114](http://purl.obolibrary.org/obo/UBERON_0002114) |
-| `CALOHA:TS-0828` |              1 | [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) |
-| `CALOHA:TS-0016` |              1 | [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) |
-| `CALOHA:TS-0642` |              1 | [UBERON:0002385](http://purl.obolibrary.org/obo/UBERON_0002385) |
-| `CALOHA:TS-2356` |              1 | [UBERON:0007811](http://purl.obolibrary.org/obo/UBERON_0007811) |
 
 ## `enm`: eNanoMapper Ontology
 

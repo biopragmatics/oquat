@@ -1,5 +1,5 @@
 {
-  "created": "2023-02-26T02:11:48.207620",
+  "created": "2023-03-05T02:42:49.555141",
   "messages": [
     "ERROR Input ontology contains 15 triple(s) that could not be parsed:",
     " - <http://purl.org/pav/createdBy> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://swan.mindinformatics.org/ontologies/1.2/pav/createdBy>.",

@@ -1,5 +1,5 @@
 {
-  "created": "2023-02-26T01:40:43.596234",
+  "created": "2023-03-05T01:59:56.429033",
   "messages": [],
   "results": {
     "http://www.drugtargetontology.org/dto/dto_complete.owl": {
@@ -157,62 +157,50 @@
             "KEGG COMPOUND:9002-04-4"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0000002": [
-            "CALOHA:TS-0134",
             "MESH:A05.360.319.679.256",
             "ncithesaurus:Cervix"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0000056": [
-            "CALOHA:TS-1084",
             "MESH:A05.810.776",
             "ncithesaurus:Ureter"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0000160": [
-            "CALOHA:TS-0490",
             "MESH:A03.492.411",
             "ncithesaurus:Intestine"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0000310": [
-            "CALOHA:TS-2083",
             "MESH:A01.236",
             "ncithesaurus:Breast"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0000473": [
-            "CALOHA:TS-1030",
             "MESH:A05.360.444.849",
             "ncithesaurus:Testis"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0000945": [
-            "CALOHA:TS-0980",
             "MESH:A03.492.766",
             "ncithesaurus:Stomach"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0000955": [
-            "CALOHA:TS-0095",
             "MESH:A08.186.211",
             "ncithesaurus:Brain"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0000992": [
-            "CALOHA:TS-0730",
             "MESH:A05.360.319.114.630",
             "ncithesaurus:Ovary"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0000995": [
-            "CALOHA:TS-1102",
             "MESH:A05.360.319.679",
             "ncithesaurus:Uterus"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0000997": [
-            "CALOHA:TS-1168",
             "MESH:A05.360.319.887",
             "ncithesaurus:Vulva"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0001016": [
-            "CALOHA:TS-1313",
             "MESH:A08",
             "ncithesaurus:Nervous_System"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0001043": [
-            "CALOHA:TS-0700",
             "MESH:A03.365",
             "ncithesaurus:Esophagus"
           ],
@@ -220,76 +208,61 @@
             "ncithesaurus:Anatomic_Structure_System_or_Substance"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0001255": [
-            "CALOHA:TS-1090",
             "MESH:A05.810.161",
             "ncithesaurus:Bladder"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0001264": [
-            "CALOHA:TS-0736",
             "MESH:A03.734",
             "ncithesaurus:Pancreas"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0001474": [
-            "CALOHA:TS-0088",
             "ncithesaurus:Bone"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0001969": [
-            "CALOHA:TS-0800",
             "MESH:A12.207.152.693",
             "ncithesaurus:Plasma"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0002046": [
-            "CALOHA:TS-1047",
             "MESH:A06.407.900",
             "ncithesaurus:Thyroid_Gland"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0002048": [
-            "CALOHA:TS-0568",
             "MESH:A04.411",
             "ncithesaurus:Lung"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0002097": [
-            "CALOHA:TS-0934",
             "MESH:A17.815",
             "ncithesaurus:Skin"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0002107": [
-            "CALOHA:TS-0564",
             "MESH:A03.620",
             "ncithesaurus:Liver"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0002110": [
-            "CALOHA:TS-0394",
             "MESH:A03.159.439",
             "ncithesaurus:Gallbladder"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0002113": [
-            "CALOHA:TS-0510",
             "MESH:A05.810.453",
             "ncithesaurus:Kidney"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0002114": [
-            "CALOHA:TS-0214",
             "MESH:A03.492.411.620.270",
             "ncithesaurus:Duodenum"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0002367": [
-            "CALOHA:TS-0828",
             "MESH:A05.360.444.575",
             "ncithesaurus:Prostate_Gland"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0002369": [
-            "CALOHA:TS-0016",
             "MESH:A06.407.071",
             "ncithesaurus:Adrenal_Gland"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0002385": [
-            "CALOHA:TS-0642",
             "MESH:A02.633",
             "ncithesaurus:Muscle_Tissue"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0007811": [
-            "CALOHA:TS-2356",
             "ncithesaurus:Head_and_Neck"
           ]
         },

@@ -29,8 +29,6 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 | external_xref   |   usages_count | usages                                                        |
 |-----------------|----------------|---------------------------------------------------------------|
 | `ICD11:LD08.1`  |              1 | [MONDO:0020066](http://purl.obolibrary.org/obo/MONDO_0020066) |
-| `ICD11:RA01.0`  |              1 | [MONDO:0100096](http://purl.obolibrary.org/obo/MONDO_0100096) |
-| `ICD11:RA01.2`  |              1 | [MONDO:0100096](http://purl.obolibrary.org/obo/MONDO_0100096) |
 
 ## `orphanet`: Orphanet
 

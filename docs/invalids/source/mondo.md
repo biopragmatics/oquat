@@ -39,7 +39,7 @@ did not match the standard pattern `^\d+$`.
 
 ## `ICD11`: International Classification of Diseases, 11th Revision
 
-Overall, there were 3 invalid
+Overall, there were 1 invalid
 xrefs to external prefixed with `ICD11` (standardized to Bioregistry
 prefix [`icd11`](https://bioregistry.io/icd11)) that
 did not match the standard pattern `^[1-9]\d*$`.
@@ -47,8 +47,6 @@ did not match the standard pattern `^[1-9]\d*$`.
 | external_xref   |   usages_count | usages                                                        |
 |-----------------|----------------|---------------------------------------------------------------|
 | `ICD11:LD08.1`  |              1 | [MONDO:0020066](http://purl.obolibrary.org/obo/MONDO_0020066) |
-| `ICD11:RA01.0`  |              1 | [MONDO:0100096](http://purl.obolibrary.org/obo/MONDO_0100096) |
-| `ICD11:RA01.2`  |              1 | [MONDO:0100096](http://purl.obolibrary.org/obo/MONDO_0100096) |
 
 ## `ICD9`: International Classification of Diseases, 9th Revision
 
@@ -130,50 +128,6 @@ did not match the standard pattern `^[0-9]+$`.
 |-----------------|----------------|---------------------------------------------------------------|
 | `IEDB:RV`       |              1 | [MONDO:0025518](http://purl.obolibrary.org/obo/MONDO_0025518) |
 
-## `KEGG`: Kyoto Encyclopedia of Genes and Genomes
-
-Overall, there were 34 invalid
-xrefs to external prefixed with `KEGG` (standardized to Bioregistry
-prefix [`kegg`](https://bioregistry.io/kegg)) that
-did not match the standard pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`.
-
-| external_xref   |   usages_count | usages                                                        |
-|-----------------|----------------|---------------------------------------------------------------|
-| `KEGG:05219`    |              1 | [MONDO:0001187](http://purl.obolibrary.org/obo/MONDO_0001187) |
-| `KEGG:05142`    |              1 | [MONDO:0001444](http://purl.obolibrary.org/obo/MONDO_0001444) |
-| `KEGG:05216`    |              1 | [MONDO:0002108](http://purl.obolibrary.org/obo/MONDO_0002108) |
-| `KEGG:05340`    |              1 | [MONDO:0003778](http://purl.obolibrary.org/obo/MONDO_0003778) |
-| `KEGG:05416`    |              1 | [MONDO:0004496](http://purl.obolibrary.org/obo/MONDO_0004496) |
-| `KEGG:05010`    |              1 | [MONDO:0004975](http://purl.obolibrary.org/obo/MONDO_0004975) |
-| `KEGG:05014`    |              1 | [MONDO:0004976](http://purl.obolibrary.org/obo/MONDO_0004976) |
-| `KEGG:05310`    |              1 | [MONDO:0004979](http://purl.obolibrary.org/obo/MONDO_0004979) |
-| `KEGG:05414`    |              1 | [MONDO:0005021](http://purl.obolibrary.org/obo/MONDO_0005021) |
-| `KEGG:05410`    |              1 | [MONDO:0005045](http://purl.obolibrary.org/obo/MONDO_0005045) |
-| `KEGG:05133`    |              1 | [MONDO:0005077](http://purl.obolibrary.org/obo/MONDO_0005077) |
-| `KEGG:05218`    |              1 | [MONDO:0005105](http://purl.obolibrary.org/obo/MONDO_0005105) |
-| `KEGG:04940`    |              1 | [MONDO:0005147](http://purl.obolibrary.org/obo/MONDO_0005147) |
-| `KEGG:04930`    |              1 | [MONDO:0005148](http://purl.obolibrary.org/obo/MONDO_0005148) |
-| `KEGG:05215`    |              1 | [MONDO:0005159](http://purl.obolibrary.org/obo/MONDO_0005159) |
-| `KEGG:05012`    |              1 | [MONDO:0005180](http://purl.obolibrary.org/obo/MONDO_0005180) |
-| `KEGG:05223`    |              1 | [MONDO:0005233](http://purl.obolibrary.org/obo/MONDO_0005233) |
-| `KEGG:05321`    |              1 | [MONDO:0005265](http://purl.obolibrary.org/obo/MONDO_0005265) |
-| `KEGG:05217`    |              1 | [MONDO:0005341](http://purl.obolibrary.org/obo/MONDO_0005341) |
-| `KEGG:05020`    |              1 | [MONDO:0005429](http://purl.obolibrary.org/obo/MONDO_0005429) |
-| `KEGG:05143`    |              1 | [MONDO:0005459](http://purl.obolibrary.org/obo/MONDO_0005459) |
-| `KEGG:05210`    |              1 | [MONDO:0005575](http://purl.obolibrary.org/obo/MONDO_0005575) |
-| `KEGG:05034`    |              1 | [MONDO:0007079](http://purl.obolibrary.org/obo/MONDO_0007079) |
-| `KEGG:05016`    |              1 | [MONDO:0007739](http://purl.obolibrary.org/obo/MONDO_0007739) |
-| `KEGG:05322`    |              1 | [MONDO:0007915](http://purl.obolibrary.org/obo/MONDO_0007915) |
-| `KEGG:05323`    |              1 | [MONDO:0008383](http://purl.obolibrary.org/obo/MONDO_0008383) |
-| `KEGG:05222`    |              1 | [MONDO:0008433](http://purl.obolibrary.org/obo/MONDO_0008433) |
-| `KEGG:05212`    |              1 | [MONDO:0009831](http://purl.obolibrary.org/obo/MONDO_0009831) |
-| `KEGG:05213`    |              1 | [MONDO:0011962](http://purl.obolibrary.org/obo/MONDO_0011962) |
-| `KEGG:05220`    |              1 | [MONDO:0011996](http://purl.obolibrary.org/obo/MONDO_0011996) |
-| `KEGG:05221`    |              1 | [MONDO:0018874](http://purl.obolibrary.org/obo/MONDO_0018874) |
-| `KEGG:04950`    |              1 | [MONDO:0018911](http://purl.obolibrary.org/obo/MONDO_0018911) |
-| `KEGG:05131`    |              1 | [MONDO:0019345](http://purl.obolibrary.org/obo/MONDO_0019345) |
-| `KEGG:05214`    |              1 | [MONDO:0100342](http://purl.obolibrary.org/obo/MONDO_0100342) |
-
 ## `MedDRA`: Medical Dictionary for Regulatory Activities Terminology
 
 Overall, there were 2 invalid
@@ -203,7 +157,7 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 
 ## `MONDO`: Monarch Disease Ontology
 
-Overall, there were 18,265 invalid
+Overall, there were 18,286 invalid
 xrefs to external prefixed with `MONDO` (standardized to Bioregistry
 prefix [`mondo`](https://bioregistry.io/mondo)) that
 did not match the standard pattern `^\d{7}$`.
@@ -212,15 +166,15 @@ did not match the standard pattern `^\d{7}$`.
 |----------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `MONDO:Lexical`                                                |           4567 | [MONDO:0000170](http://purl.obolibrary.org/obo/MONDO_0000170), [MONDO:0000200](http://purl.obolibrary.org/obo/MONDO_0000200), [MONDO:0000208](http://purl.obolibrary.org/obo/MONDO_0000208), [MONDO:0000902](http://purl.obolibrary.org/obo/MONDO_0000902), [MONDO:0000908](http://purl.obolibrary.org/obo/MONDO_0000908), ... |
 | `MONDO:patterns/disease_series_by_gene`                        |           3992 | [MONDO:0000764](http://purl.obolibrary.org/obo/MONDO_0000764), [MONDO:0000908](http://purl.obolibrary.org/obo/MONDO_0000908), [MONDO:0000908](http://purl.obolibrary.org/obo/MONDO_0000908), [MONDO:0000911](http://purl.obolibrary.org/obo/MONDO_0000911), [MONDO:0000911](http://purl.obolibrary.org/obo/MONDO_0000911), ... |
-| `MONDO:design_pattern`                                         |           2885 | [MONDO:0000212](http://purl.obolibrary.org/obo/MONDO_0000212), [MONDO:0000212](http://purl.obolibrary.org/obo/MONDO_0000212), [MONDO:0000257](http://purl.obolibrary.org/obo/MONDO_0000257), [MONDO:0000270](http://purl.obolibrary.org/obo/MONDO_0000270), [MONDO:0000414](http://purl.obolibrary.org/obo/MONDO_0000414), ... |
-| `MONDO:patterns/location`                                      |           2838 | [MONDO:0000236](http://purl.obolibrary.org/obo/MONDO_0000236), [MONDO:0000236](http://purl.obolibrary.org/obo/MONDO_0000236), [MONDO:0000242](http://purl.obolibrary.org/obo/MONDO_0000242), [MONDO:0000242](http://purl.obolibrary.org/obo/MONDO_0000242), [MONDO:0000253](http://purl.obolibrary.org/obo/MONDO_0000253), ... |
-| `MONDO:ambiguous`                                              |            445 | [MONDO:0000063](http://purl.obolibrary.org/obo/MONDO_0000063), [MONDO:0000094](http://purl.obolibrary.org/obo/MONDO_0000094), [MONDO:0000106](http://purl.obolibrary.org/obo/MONDO_0000106), [MONDO:0000129](http://purl.obolibrary.org/obo/MONDO_0000129), [MONDO:0000138](http://purl.obolibrary.org/obo/MONDO_0000138), ... |
+| `MONDO:design_pattern`                                         |           2884 | [MONDO:0000212](http://purl.obolibrary.org/obo/MONDO_0000212), [MONDO:0000212](http://purl.obolibrary.org/obo/MONDO_0000212), [MONDO:0000257](http://purl.obolibrary.org/obo/MONDO_0000257), [MONDO:0000270](http://purl.obolibrary.org/obo/MONDO_0000270), [MONDO:0000414](http://purl.obolibrary.org/obo/MONDO_0000414), ... |
+| `MONDO:patterns/location`                                      |           2837 | [MONDO:0000236](http://purl.obolibrary.org/obo/MONDO_0000236), [MONDO:0000236](http://purl.obolibrary.org/obo/MONDO_0000236), [MONDO:0000242](http://purl.obolibrary.org/obo/MONDO_0000242), [MONDO:0000242](http://purl.obolibrary.org/obo/MONDO_0000242), [MONDO:0000253](http://purl.obolibrary.org/obo/MONDO_0000253), ... |
+| `MONDO:ambiguous`                                              |            444 | [MONDO:0000063](http://purl.obolibrary.org/obo/MONDO_0000063), [MONDO:0000094](http://purl.obolibrary.org/obo/MONDO_0000094), [MONDO:0000106](http://purl.obolibrary.org/obo/MONDO_0000106), [MONDO:0000129](http://purl.obolibrary.org/obo/MONDO_0000129), [MONDO:0000138](http://purl.obolibrary.org/obo/MONDO_0000138), ... |
 | `MONDO:patterns/specific_infectious_disease_by_agent`          |            347 | [MONDO:0000276](http://purl.obolibrary.org/obo/MONDO_0000276), [MONDO:0000292](http://purl.obolibrary.org/obo/MONDO_0000292), [MONDO:0000294](http://purl.obolibrary.org/obo/MONDO_0000294), [MONDO:0000294](http://purl.obolibrary.org/obo/MONDO_0000294), [MONDO:0000295](http://purl.obolibrary.org/obo/MONDO_0000295), ... |
-| `MONDO:patterns/location_top`                                  |            243 | [MONDO:0000270](http://purl.obolibrary.org/obo/MONDO_0000270), [MONDO:0000462](http://purl.obolibrary.org/obo/MONDO_0000462), [MONDO:0000462](http://purl.obolibrary.org/obo/MONDO_0000462), [MONDO:0000469](http://purl.obolibrary.org/obo/MONDO_0000469), [MONDO:0000470](http://purl.obolibrary.org/obo/MONDO_0000470), ... |
 | `MONDO:patterns/cancer`                                        |            243 | [MONDO:0000376](http://purl.obolibrary.org/obo/MONDO_0000376), [MONDO:0000377](http://purl.obolibrary.org/obo/MONDO_0000377), [MONDO:0000380](http://purl.obolibrary.org/obo/MONDO_0000380), [MONDO:0000405](http://purl.obolibrary.org/obo/MONDO_0000405), [MONDO:0000612](http://purl.obolibrary.org/obo/MONDO_0000612), ... |
+| `MONDO:patterns/location_top`                                  |            242 | [MONDO:0000270](http://purl.obolibrary.org/obo/MONDO_0000270), [MONDO:0000462](http://purl.obolibrary.org/obo/MONDO_0000462), [MONDO:0000462](http://purl.obolibrary.org/obo/MONDO_0000462), [MONDO:0000469](http://purl.obolibrary.org/obo/MONDO_0000469), [MONDO:0000470](http://purl.obolibrary.org/obo/MONDO_0000470), ... |
 | `MONDO:patterns/neoplasm`                                      |            234 | [MONDO:0000921](http://purl.obolibrary.org/obo/MONDO_0000921), [MONDO:0000933](http://purl.obolibrary.org/obo/MONDO_0000933), [MONDO:0001236](http://purl.obolibrary.org/obo/MONDO_0001236), [MONDO:0001406](http://purl.obolibrary.org/obo/MONDO_0001406), [MONDO:0001420](http://purl.obolibrary.org/obo/MONDO_0001420), ... |
 | `MONDO:cjm`                                                    |            222 | [MONDO:0000050](http://purl.obolibrary.org/obo/MONDO_0000050), [MONDO:0000107](http://purl.obolibrary.org/obo/MONDO_0000107), [MONDO:0000127](http://purl.obolibrary.org/obo/MONDO_0000127), [MONDO:0000129](http://purl.obolibrary.org/obo/MONDO_0000129), [MONDO:0000136](http://purl.obolibrary.org/obo/MONDO_0000136), ... |
-| `MONDO:patterns/hereditary`                                    |            220 | [MONDO:0000044](http://purl.obolibrary.org/obo/MONDO_0000044), [MONDO:0000700](http://purl.obolibrary.org/obo/MONDO_0000700), [MONDO:0000995](http://purl.obolibrary.org/obo/MONDO_0000995), [MONDO:0001115](http://purl.obolibrary.org/obo/MONDO_0001115), [MONDO:0001336](http://purl.obolibrary.org/obo/MONDO_0001336), ... |
+| `MONDO:patterns/hereditary`                                    |            221 | [MONDO:0000044](http://purl.obolibrary.org/obo/MONDO_0000044), [MONDO:0000700](http://purl.obolibrary.org/obo/MONDO_0000700), [MONDO:0000995](http://purl.obolibrary.org/obo/MONDO_0000995), [MONDO:0001115](http://purl.obolibrary.org/obo/MONDO_0001115), [MONDO:0001336](http://purl.obolibrary.org/obo/MONDO_0001336), ... |
 | `MONDO:patterns/rare`                                          |            154 | [MONDO:0015076](http://purl.obolibrary.org/obo/MONDO_0015076), [MONDO:0015076](http://purl.obolibrary.org/obo/MONDO_0015076), [MONDO:0015108](http://purl.obolibrary.org/obo/MONDO_0015108), [MONDO:0015112](http://purl.obolibrary.org/obo/MONDO_0015112), [MONDO:0015112](http://purl.obolibrary.org/obo/MONDO_0015112), ... |
 | `MONDO:patterns/inflammatory_disease_by_site`                  |            130 | [MONDO:0000261](http://purl.obolibrary.org/obo/MONDO_0000261), [MONDO:0000261](http://purl.obolibrary.org/obo/MONDO_0000261), [MONDO:0000409](http://purl.obolibrary.org/obo/MONDO_0000409), [MONDO:0000497](http://purl.obolibrary.org/obo/MONDO_0000497), [MONDO:0000739](http://purl.obolibrary.org/obo/MONDO_0000739), ... |
 | `MONDO:patterns/carcinoma`                                     |            114 | [MONDO:0000380](http://purl.obolibrary.org/obo/MONDO_0000380), [MONDO:0000521](http://purl.obolibrary.org/obo/MONDO_0000521), [MONDO:0000552](http://purl.obolibrary.org/obo/MONDO_0000552), [MONDO:0001502](http://purl.obolibrary.org/obo/MONDO_0001502), [MONDO:0001602](http://purl.obolibrary.org/obo/MONDO_0001602), ... |
@@ -234,7 +188,7 @@ did not match the standard pattern `^\d{7}$`.
 | `MONDO:patterns/acute`                                         |             79 | [MONDO:0000222](http://purl.obolibrary.org/obo/MONDO_0000222), [MONDO:0000222](http://purl.obolibrary.org/obo/MONDO_0000222), [MONDO:0000257](http://purl.obolibrary.org/obo/MONDO_0000257), [MONDO:0000257](http://purl.obolibrary.org/obo/MONDO_0000257), [MONDO:0000990](http://purl.obolibrary.org/obo/MONDO_0000990), ... |
 | `MONDO:patterns/childhood`                                     |             71 | [MONDO:0000414](http://purl.obolibrary.org/obo/MONDO_0000414), [MONDO:0002505](http://purl.obolibrary.org/obo/MONDO_0002505), [MONDO:0002540](http://purl.obolibrary.org/obo/MONDO_0002540), [MONDO:0002623](http://purl.obolibrary.org/obo/MONDO_0002623), [MONDO:0002685](http://purl.obolibrary.org/obo/MONDO_0002685), ... |
 | `MONDO:patterns/isolated`                                      |             69 | [MONDO:0000062](http://purl.obolibrary.org/obo/MONDO_0000062), [MONDO:0000062](http://purl.obolibrary.org/obo/MONDO_0000062), [MONDO:0000509](http://purl.obolibrary.org/obo/MONDO_0000509), [MONDO:0000509](http://purl.obolibrary.org/obo/MONDO_0000509), [MONDO:0000722](http://purl.obolibrary.org/obo/MONDO_0000722), ... |
-| `MONDO:patterns/infectious_disease_by_agent`                   |             65 | [MONDO:0000276](http://purl.obolibrary.org/obo/MONDO_0000276), [MONDO:0000290](http://purl.obolibrary.org/obo/MONDO_0000290), [MONDO:0000290](http://purl.obolibrary.org/obo/MONDO_0000290), [MONDO:0000292](http://purl.obolibrary.org/obo/MONDO_0000292), [MONDO:0000298](http://purl.obolibrary.org/obo/MONDO_0000298), ... |
+| `MONDO:patterns/infectious_disease_by_agent`                   |             66 | [MONDO:0000276](http://purl.obolibrary.org/obo/MONDO_0000276), [MONDO:0000290](http://purl.obolibrary.org/obo/MONDO_0000290), [MONDO:0000290](http://purl.obolibrary.org/obo/MONDO_0000290), [MONDO:0000292](http://purl.obolibrary.org/obo/MONDO_0000292), [MONDO:0000298](http://purl.obolibrary.org/obo/MONDO_0000298), ... |
 | `MONDO:patterns/syndromic`                                     |             64 | [MONDO:0000508](http://purl.obolibrary.org/obo/MONDO_0000508), [MONDO:0000508](http://purl.obolibrary.org/obo/MONDO_0000508), [MONDO:0002254](http://purl.obolibrary.org/obo/MONDO_0002254), [MONDO:0009105](http://purl.obolibrary.org/obo/MONDO_0009105), [MONDO:0015150](http://purl.obolibrary.org/obo/MONDO_0015150), ... |
 | `MONDO:patterns/allergy`                                       |             62 | [MONDO:0000606](http://purl.obolibrary.org/obo/MONDO_0000606), [MONDO:0000606](http://purl.obolibrary.org/obo/MONDO_0000606), [MONDO:0000772](http://purl.obolibrary.org/obo/MONDO_0000772), [MONDO:0000772](http://purl.obolibrary.org/obo/MONDO_0000772), [MONDO:0000773](http://purl.obolibrary.org/obo/MONDO_0000773), ... |
 | `MONDO:patterns/genetic`                                       |             62 | [MONDO:0007781](http://purl.obolibrary.org/obo/MONDO_0007781), [MONDO:0007781](http://purl.obolibrary.org/obo/MONDO_0007781), [MONDO:0009970](http://purl.obolibrary.org/obo/MONDO_0009970), [MONDO:0009970](http://purl.obolibrary.org/obo/MONDO_0009970), [MONDO:0013099](http://purl.obolibrary.org/obo/MONDO_0013099), ... |
@@ -243,8 +197,9 @@ did not match the standard pattern `^\d{7}$`.
 | `MONDO:patterns/carcinoma_in_situ`                             |             53 | [MONDO:0000371](http://purl.obolibrary.org/obo/MONDO_0000371), [MONDO:0000372](http://purl.obolibrary.org/obo/MONDO_0000372), [MONDO:0000373](http://purl.obolibrary.org/obo/MONDO_0000373), [MONDO:0000373](http://purl.obolibrary.org/obo/MONDO_0000373), [MONDO:0000374](http://purl.obolibrary.org/obo/MONDO_0000374), ... |
 | `MONDO:patterns/x_linked`                                      |             52 | [MONDO:0000425](http://purl.obolibrary.org/obo/MONDO_0000425), [MONDO:0000425](http://purl.obolibrary.org/obo/MONDO_0000425), [MONDO:0010222](http://purl.obolibrary.org/obo/MONDO_0010222), [MONDO:0010222](http://purl.obolibrary.org/obo/MONDO_0010222), [MONDO:0010248](http://purl.obolibrary.org/obo/MONDO_0010248), ... |
 | `MONDO:patterns/sarcoma`                                       |             49 | [MONDO:0001204](http://purl.obolibrary.org/obo/MONDO_0001204), [MONDO:0001374](http://purl.obolibrary.org/obo/MONDO_0001374), [MONDO:0001387](http://purl.obolibrary.org/obo/MONDO_0001387), [MONDO:0001418](http://purl.obolibrary.org/obo/MONDO_0001418), [MONDO:0001501](http://purl.obolibrary.org/obo/MONDO_0001501), ... |
-| `MONDO:patterns/inherited_susceptibility`                      |             46 | [MONDO:0007573](http://purl.obolibrary.org/obo/MONDO_0007573), [MONDO:0011237](http://purl.obolibrary.org/obo/MONDO_0011237), [MONDO:0011596](http://purl.obolibrary.org/obo/MONDO_0011596), [MONDO:0011598](http://purl.obolibrary.org/obo/MONDO_0011598), [MONDO:0011608](http://purl.obolibrary.org/obo/MONDO_0011608), ... |
+| `MONDO:patterns/inherited_susceptibility`                      |             47 | [MONDO:0007573](http://purl.obolibrary.org/obo/MONDO_0007573), [MONDO:0011237](http://purl.obolibrary.org/obo/MONDO_0011237), [MONDO:0011596](http://purl.obolibrary.org/obo/MONDO_0011596), [MONDO:0011598](http://purl.obolibrary.org/obo/MONDO_0011598), [MONDO:0011608](http://purl.obolibrary.org/obo/MONDO_0011608), ... |
 | `MONDO:patterns/benign`                                        |             34 | [MONDO:0000638](http://purl.obolibrary.org/obo/MONDO_0000638), [MONDO:0000638](http://purl.obolibrary.org/obo/MONDO_0000638), [MONDO:0000654](http://purl.obolibrary.org/obo/MONDO_0000654), [MONDO:0002065](http://purl.obolibrary.org/obo/MONDO_0002065), [MONDO:0002373](http://purl.obolibrary.org/obo/MONDO_0002373), ... |
+| `MONDO:patterns/nonhuman_disease`                              |             27 | [MONDO:0700049](http://purl.obolibrary.org/obo/MONDO_0700049), [MONDO:0700050](http://purl.obolibrary.org/obo/MONDO_0700050), [MONDO:0700053](http://purl.obolibrary.org/obo/MONDO_0700053), [MONDO:0700056](http://purl.obolibrary.org/obo/MONDO_0700056), [MONDO:0700059](http://purl.obolibrary.org/obo/MONDO_0700059), ... |
 | `MONDO:patterns/chromosome_type`                               |             24 | [MONDO:0020583](http://purl.obolibrary.org/obo/MONDO_0020583), [MONDO:0700008](http://purl.obolibrary.org/obo/MONDO_0700008), [MONDO:0700009](http://purl.obolibrary.org/obo/MONDO_0700009), [MONDO:0700010](http://purl.obolibrary.org/obo/MONDO_0700010), [MONDO:0700011](http://purl.obolibrary.org/obo/MONDO_0700011), ... |
 | `MONDO:patterns/neuroendocrine_neoplasm`                       |             20 | [MONDO:0002477](http://purl.obolibrary.org/obo/MONDO_0002477), [MONDO:0002481](http://purl.obolibrary.org/obo/MONDO_0002481), [MONDO:0002485](http://purl.obolibrary.org/obo/MONDO_0002485), [MONDO:0002882](http://purl.obolibrary.org/obo/MONDO_0002882), [MONDO:0002883](http://purl.obolibrary.org/obo/MONDO_0002883), ... |
 | `MONDO:patterns/allergic_form_of_disease`                      |             14 | [MONDO:0000771](http://purl.obolibrary.org/obo/MONDO_0000771), [MONDO:0000771](http://purl.obolibrary.org/obo/MONDO_0000771), [MONDO:0004784](http://purl.obolibrary.org/obo/MONDO_0004784), [MONDO:0004784](http://purl.obolibrary.org/obo/MONDO_0004784), [MONDO:0004980](http://purl.obolibrary.org/obo/MONDO_0004980), ... |
@@ -259,7 +214,6 @@ did not match the standard pattern `^\d{7}$`.
 | `MONDO:patterns/disease_by_dysfunctional_structure`            |              6 | [MONDO:0001343](http://purl.obolibrary.org/obo/MONDO_0001343), [MONDO:0001343](http://purl.obolibrary.org/obo/MONDO_0001343), [MONDO:0004880](http://purl.obolibrary.org/obo/MONDO_0004880), [MONDO:0004880](http://purl.obolibrary.org/obo/MONDO_0004880), [MONDO:0100311](http://purl.obolibrary.org/obo/MONDO_0100311), ... |
 | `MONDO:patterns/susceptibility_by_gene`                        |              5 | [MONDO:0014680](http://purl.obolibrary.org/obo/MONDO_0014680), [MONDO:0100183](http://purl.obolibrary.org/obo/MONDO_0100183), [MONDO:0100231](http://purl.obolibrary.org/obo/MONDO_0100231), [MONDO:0100231](http://purl.obolibrary.org/obo/MONDO_0100231), [MONDO:0700042](http://purl.obolibrary.org/obo/MONDO_0700042)      |
 | `MONDO:patterns/rare_genetic`                                  |              5 | [MONDO:0015107](http://purl.obolibrary.org/obo/MONDO_0015107), [MONDO:0015513](http://purl.obolibrary.org/obo/MONDO_0015513), [MONDO:0015955](http://purl.obolibrary.org/obo/MONDO_0015955), [MONDO:0015972](http://purl.obolibrary.org/obo/MONDO_0015972), [MONDO:0015972](http://purl.obolibrary.org/obo/MONDO_0015972)      |
-| `MONDO:patterns/nonhuman_disease`                              |              5 | [MONDO:0700131](http://purl.obolibrary.org/obo/MONDO_0700131), [MONDO:0700132](http://purl.obolibrary.org/obo/MONDO_0700132), [MONDO:0700133](http://purl.obolibrary.org/obo/MONDO_0700133), [MONDO:0700170](http://purl.obolibrary.org/obo/MONDO_0700170), [MONDO:0700175](http://purl.obolibrary.org/obo/MONDO_0700175)      |
 | `MONDO:patterns/y_linked`                                      |              4 | [MONDO:0000428](http://purl.obolibrary.org/obo/MONDO_0000428), [MONDO:0000428](http://purl.obolibrary.org/obo/MONDO_0000428), [MONDO:0010761](http://purl.obolibrary.org/obo/MONDO_0010761), [MONDO:0010761](http://purl.obolibrary.org/obo/MONDO_0010761)                                                                     |
 | `MONDO:patterns/disrupts_process`                              |              3 | [MONDO:0056803](http://purl.obolibrary.org/obo/MONDO_0056803), [MONDO:0100277](http://purl.obolibrary.org/obo/MONDO_0100277), [MONDO:0100306](http://purl.obolibrary.org/obo/MONDO_0100306)                                                                                                                                    |
 | `MONDO:patterns/inborn_metabolic_disrupts`                     |              3 | [MONDO:0019688](http://purl.obolibrary.org/obo/MONDO_0019688), [MONDO:0100188](http://purl.obolibrary.org/obo/MONDO_0100188), [MONDO:0100304](http://purl.obolibrary.org/obo/MONDO_0100304)                                                                                                                                    |
@@ -280,14 +234,14 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `NCIT`: NCI Thesaurus
 
-Overall, there were 1,596 invalid
+Overall, there were 1,594 invalid
 xrefs to external prefixed with `NCIT` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
 did not match the standard pattern `^C\d+$`.
 
 | external_xref           |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `NCIT:P378`             |           1591 | [MONDO:0000158](http://purl.obolibrary.org/obo/MONDO_0000158), [MONDO:0000190](http://purl.obolibrary.org/obo/MONDO_0000190), [MONDO:0000327](http://purl.obolibrary.org/obo/MONDO_0000327), [MONDO:0000328](http://purl.obolibrary.org/obo/MONDO_0000328), [MONDO:0000372](http://purl.obolibrary.org/obo/MONDO_0000372), ... |
+| `NCIT:P378`             |           1589 | [MONDO:0000158](http://purl.obolibrary.org/obo/MONDO_0000158), [MONDO:0000190](http://purl.obolibrary.org/obo/MONDO_0000190), [MONDO:0000327](http://purl.obolibrary.org/obo/MONDO_0000327), [MONDO:0000328](http://purl.obolibrary.org/obo/MONDO_0000328), [MONDO:0000372](http://purl.obolibrary.org/obo/MONDO_0000372), ... |
 | `NCIT:C128346-modified` |              1 | [MONDO:0005429](http://purl.obolibrary.org/obo/MONDO_0005429)                                                                                                                                                                                                                                                                  |
 | `NCIT:C3131-modified`   |              1 | [MONDO:0021094](http://purl.obolibrary.org/obo/MONDO_0021094)                                                                                                                                                                                                                                                                  |
 | `NCIT:C84543-modified`  |              1 | [MONDO:0043209](http://purl.obolibrary.org/obo/MONDO_0043209)                                                                                                                                                                                                                                                                  |
@@ -324,14 +278,14 @@ did not match the standard pattern `^BAMSC\d+$`.
 
 ## `OMIM`: Online Mendelian Inheritance in Man
 
-Overall, there were 2,062 invalid
+Overall, there were 2,061 invalid
 xrefs to external prefixed with `OMIM` (standardized to Bioregistry
 prefix [`omim`](https://bioregistry.io/omim)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `OMIM:genemap2` |           2062 | [MONDO:0000912](http://purl.obolibrary.org/obo/MONDO_0000912), [MONDO:0000914](http://purl.obolibrary.org/obo/MONDO_0000914), [MONDO:0001056](http://purl.obolibrary.org/obo/MONDO_0001056), [MONDO:0001187](http://purl.obolibrary.org/obo/MONDO_0001187), [MONDO:0002009](http://purl.obolibrary.org/obo/MONDO_0002009), ... |
+| `OMIM:genemap2` |           2061 | [MONDO:0000912](http://purl.obolibrary.org/obo/MONDO_0000912), [MONDO:0000914](http://purl.obolibrary.org/obo/MONDO_0000914), [MONDO:0001056](http://purl.obolibrary.org/obo/MONDO_0001056), [MONDO:0001187](http://purl.obolibrary.org/obo/MONDO_0001187), [MONDO:0002009](http://purl.obolibrary.org/obo/MONDO_0002009), ... |
 
 ## `Orphanet`: Orphanet
 
@@ -827,7 +781,6 @@ did not match the standard pattern `^C\d+$`.
 | `UMLS:CN197364` |              1 | [MONDO:0015071](http://purl.obolibrary.org/obo/MONDO_0015071) |
 | `UMLS:CN197365` |              1 | [MONDO:0015072](http://purl.obolibrary.org/obo/MONDO_0015072) |
 | `UMLS:CN197366` |              1 | [MONDO:0015073](http://purl.obolibrary.org/obo/MONDO_0015073) |
-| `UMLS:CN197370` |              1 | [MONDO:0015077](http://purl.obolibrary.org/obo/MONDO_0015077) |
 | `UMLS:CN197373` |              1 | [MONDO:0015079](http://purl.obolibrary.org/obo/MONDO_0015079) |
 | `UMLS:CN197376` |              1 | [MONDO:0015081](http://purl.obolibrary.org/obo/MONDO_0015081) |
 | `UMLS:CN197382` |              1 | [MONDO:0015084](http://purl.obolibrary.org/obo/MONDO_0015084) |
@@ -2860,6 +2813,7 @@ did not match the standard pattern `^C\d+$`.
 | `UMLS:CN226819` |              1 | [MONDO:0021181](http://purl.obolibrary.org/obo/MONDO_0021181) |
 | `UMLS:CN236649` |              1 | [MONDO:0021187](http://purl.obolibrary.org/obo/MONDO_0021187) |
 | `UMLS:CN206953` |              1 | [MONDO:0021198](http://purl.obolibrary.org/obo/MONDO_0021198) |
+| `UMLS:CN197370` |              1 | [MONDO:0021227](http://purl.obolibrary.org/obo/MONDO_0021227) |
 | `UMLS:CN373594` |              1 | [MONDO:0021547](http://purl.obolibrary.org/obo/MONDO_0021547) |
 | `UMLS:CN031763` |              1 | [MONDO:0021571](http://purl.obolibrary.org/obo/MONDO_0021571) |
 | `UMLS:CN562785` |              1 | [MONDO:0021575](http://purl.obolibrary.org/obo/MONDO_0021575) |

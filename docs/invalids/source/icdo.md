@@ -9,7 +9,7 @@ for node, synonym, and definition cross-references in `icdo`.
 Overall, there were 54 invalid
 xrefs to external prefixed with `CALOHA` (standardized to Bioregistry
 prefix [`caloha`](https://bioregistry.io/caloha)) that
-did not match the standard pattern `^\d+$`.
+did not match the standard pattern `^TS-\d+$`.
 
 | external_xref    |   usages_count | usages                                                          |
 |------------------|----------------|-----------------------------------------------------------------|

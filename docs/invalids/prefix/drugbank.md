@@ -29,6 +29,7 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `DrugBank:DBSALT002497` |              1 | [CHEBI:18290](http://purl.obolibrary.org/obo/CHEBI_18290)   |
 | `DrugBank:DBSALT001276` |              1 | [CHEBI:189695](http://purl.obolibrary.org/obo/CHEBI_189695) |
 | `DrugBank:DBSALT000142` |              1 | [CHEBI:191940](http://purl.obolibrary.org/obo/CHEBI_191940) |
+| `DrugBank:DBSALT003251` |              1 | [CHEBI:194301](http://purl.obolibrary.org/obo/CHEBI_194301) |
 | `DrugBank:DBSALT000151` |              1 | [CHEBI:30961](http://purl.obolibrary.org/obo/CHEBI_30961)   |
 | `DrugBank:DBSALT002914` |              1 | [CHEBI:31347](http://purl.obolibrary.org/obo/CHEBI_31347)   |
 | `DrugBank:DBSALT001147` |              1 | [CHEBI:31398](http://purl.obolibrary.org/obo/CHEBI_31398)   |

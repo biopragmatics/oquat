@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `kegg`
 but use local unique identifiers that do not match the standard pattern of
-`^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`. Of the 9 resources,
+`^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,5})|(\w{2,4}\d{5})$`. Of the 8 resources,
 1 variants on the standard prefix were found: ['KEGG'].
 
 ## `bao`: BioAssay Ontology
@@ -171,47 +171,6 @@ Identifiers for this prefix are given incorrectly in `epso`.
 | `KEGG:05322`    |              1 | [DOID:9074](http://purl.obolibrary.org/obo/DOID_9074)         |
 | `KEGG:04940`    |              1 | [DOID:9744](http://purl.obolibrary.org/obo/DOID_9744)         |
 | `KEGG:05214`    |              1 | [MONDO:0015917](http://purl.obolibrary.org/obo/MONDO_0015917) |
-
-## `mondo`: Monarch Disease Ontology
-
-Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub repository](https://github.com/monarch-initiative/mondo).
-
-| external_xref   |   usages_count | usages                                                        |
-|-----------------|----------------|---------------------------------------------------------------|
-| `KEGG:05219`    |              1 | [MONDO:0001187](http://purl.obolibrary.org/obo/MONDO_0001187) |
-| `KEGG:05142`    |              1 | [MONDO:0001444](http://purl.obolibrary.org/obo/MONDO_0001444) |
-| `KEGG:05216`    |              1 | [MONDO:0002108](http://purl.obolibrary.org/obo/MONDO_0002108) |
-| `KEGG:05340`    |              1 | [MONDO:0003778](http://purl.obolibrary.org/obo/MONDO_0003778) |
-| `KEGG:05416`    |              1 | [MONDO:0004496](http://purl.obolibrary.org/obo/MONDO_0004496) |
-| `KEGG:05010`    |              1 | [MONDO:0004975](http://purl.obolibrary.org/obo/MONDO_0004975) |
-| `KEGG:05014`    |              1 | [MONDO:0004976](http://purl.obolibrary.org/obo/MONDO_0004976) |
-| `KEGG:05310`    |              1 | [MONDO:0004979](http://purl.obolibrary.org/obo/MONDO_0004979) |
-| `KEGG:05414`    |              1 | [MONDO:0005021](http://purl.obolibrary.org/obo/MONDO_0005021) |
-| `KEGG:05410`    |              1 | [MONDO:0005045](http://purl.obolibrary.org/obo/MONDO_0005045) |
-| `KEGG:05133`    |              1 | [MONDO:0005077](http://purl.obolibrary.org/obo/MONDO_0005077) |
-| `KEGG:05218`    |              1 | [MONDO:0005105](http://purl.obolibrary.org/obo/MONDO_0005105) |
-| `KEGG:04940`    |              1 | [MONDO:0005147](http://purl.obolibrary.org/obo/MONDO_0005147) |
-| `KEGG:04930`    |              1 | [MONDO:0005148](http://purl.obolibrary.org/obo/MONDO_0005148) |
-| `KEGG:05215`    |              1 | [MONDO:0005159](http://purl.obolibrary.org/obo/MONDO_0005159) |
-| `KEGG:05012`    |              1 | [MONDO:0005180](http://purl.obolibrary.org/obo/MONDO_0005180) |
-| `KEGG:05223`    |              1 | [MONDO:0005233](http://purl.obolibrary.org/obo/MONDO_0005233) |
-| `KEGG:05321`    |              1 | [MONDO:0005265](http://purl.obolibrary.org/obo/MONDO_0005265) |
-| `KEGG:05217`    |              1 | [MONDO:0005341](http://purl.obolibrary.org/obo/MONDO_0005341) |
-| `KEGG:05020`    |              1 | [MONDO:0005429](http://purl.obolibrary.org/obo/MONDO_0005429) |
-| `KEGG:05143`    |              1 | [MONDO:0005459](http://purl.obolibrary.org/obo/MONDO_0005459) |
-| `KEGG:05210`    |              1 | [MONDO:0005575](http://purl.obolibrary.org/obo/MONDO_0005575) |
-| `KEGG:05034`    |              1 | [MONDO:0007079](http://purl.obolibrary.org/obo/MONDO_0007079) |
-| `KEGG:05016`    |              1 | [MONDO:0007739](http://purl.obolibrary.org/obo/MONDO_0007739) |
-| `KEGG:05322`    |              1 | [MONDO:0007915](http://purl.obolibrary.org/obo/MONDO_0007915) |
-| `KEGG:05323`    |              1 | [MONDO:0008383](http://purl.obolibrary.org/obo/MONDO_0008383) |
-| `KEGG:05222`    |              1 | [MONDO:0008433](http://purl.obolibrary.org/obo/MONDO_0008433) |
-| `KEGG:05212`    |              1 | [MONDO:0009831](http://purl.obolibrary.org/obo/MONDO_0009831) |
-| `KEGG:05213`    |              1 | [MONDO:0011962](http://purl.obolibrary.org/obo/MONDO_0011962) |
-| `KEGG:05220`    |              1 | [MONDO:0011996](http://purl.obolibrary.org/obo/MONDO_0011996) |
-| `KEGG:05221`    |              1 | [MONDO:0018874](http://purl.obolibrary.org/obo/MONDO_0018874) |
-| `KEGG:04950`    |              1 | [MONDO:0018911](http://purl.obolibrary.org/obo/MONDO_0018911) |
-| `KEGG:05131`    |              1 | [MONDO:0019345](http://purl.obolibrary.org/obo/MONDO_0019345) |
-| `KEGG:05214`    |              1 | [MONDO:0100342](http://purl.obolibrary.org/obo/MONDO_0100342) |
 
 ## `pw`: Pathway ontology
 

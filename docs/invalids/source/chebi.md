@@ -6,7 +6,7 @@ for node, synonym, and definition cross-references in `chebi`. See the [GitHub r
 
 ## `AGR`: Agricultural Online Access
 
-Overall, there were 1,169 invalid
+Overall, there were 1,173 invalid
 xrefs to external prefixed with `AGR` (standardized to Bioregistry
 prefix [`agricola`](https://bioregistry.io/agricola)) that
 did not match the standard pattern `^\d+$`.
@@ -481,6 +481,7 @@ did not match the standard pattern `^\d+$`.
 | `AGR:IND607193238` |              1 | [CHEBI:190131](http://purl.obolibrary.org/obo/CHEBI_190131)                                                                                                                       |
 | `AGR:IND23330970`  |              1 | [CHEBI:190301](http://purl.obolibrary.org/obo/CHEBI_190301)                                                                                                                       |
 | `AGR:IND605569220` |              1 | [CHEBI:190475](http://purl.obolibrary.org/obo/CHEBI_190475)                                                                                                                       |
+| `AGR:IND44654715`  |              1 | [CHEBI:190521](http://purl.obolibrary.org/obo/CHEBI_190521)                                                                                                                       |
 | `AGR:IND607710400` |              1 | [CHEBI:190522](http://purl.obolibrary.org/obo/CHEBI_190522)                                                                                                                       |
 | `AGR:IND20623568`  |              1 | [CHEBI:192381](http://purl.obolibrary.org/obo/CHEBI_192381)                                                                                                                       |
 | `AGR:IND601124298` |              1 | [CHEBI:192702](http://purl.obolibrary.org/obo/CHEBI_192702)                                                                                                                       |
@@ -887,6 +888,9 @@ did not match the standard pattern `^\d+$`.
 | `AGR:IND43689111`  |              1 | [CHEBI:80940](http://purl.obolibrary.org/obo/CHEBI_80940)                                                                                                                         |
 | `AGR:IND43697387`  |              1 | [CHEBI:80940](http://purl.obolibrary.org/obo/CHEBI_80940)                                                                                                                         |
 | `AGR:IND43732322`  |              1 | [CHEBI:80940](http://purl.obolibrary.org/obo/CHEBI_80940)                                                                                                                         |
+| `AGR:IND20372171`  |              1 | [CHEBI:80946](http://purl.obolibrary.org/obo/CHEBI_80946)                                                                                                                         |
+| `AGR:IND44562988`  |              1 | [CHEBI:80946](http://purl.obolibrary.org/obo/CHEBI_80946)                                                                                                                         |
+| `AGR:IND92053572`  |              1 | [CHEBI:80946](http://purl.obolibrary.org/obo/CHEBI_80946)                                                                                                                         |
 | `AGR:IND606456156` |              1 | [CHEBI:81526](http://purl.obolibrary.org/obo/CHEBI_81526)                                                                                                                         |
 | `AGR:IND44109762`  |              1 | [CHEBI:81696](http://purl.obolibrary.org/obo/CHEBI_81696)                                                                                                                         |
 | `AGR:IND87036376`  |              1 | [CHEBI:81731](http://purl.obolibrary.org/obo/CHEBI_81731)                                                                                                                         |
@@ -1216,7 +1220,7 @@ did not match the standard pattern `^\d+\-\d+\-\d+$`.
 
 ## `DrugBank`: DrugBank
 
-Overall, there were 56 invalid
+Overall, there were 57 invalid
 xrefs to external prefixed with `DrugBank` (standardized to Bioregistry
 prefix [`drugbank`](https://bioregistry.io/drugbank)) that
 did not match the standard pattern `^DB\d{5}$`.
@@ -1241,6 +1245,7 @@ did not match the standard pattern `^DB\d{5}$`.
 | `DrugBank:DBSALT002497` |              1 | [CHEBI:18290](http://purl.obolibrary.org/obo/CHEBI_18290)   |
 | `DrugBank:DBSALT001276` |              1 | [CHEBI:189695](http://purl.obolibrary.org/obo/CHEBI_189695) |
 | `DrugBank:DBSALT000142` |              1 | [CHEBI:191940](http://purl.obolibrary.org/obo/CHEBI_191940) |
+| `DrugBank:DBSALT003251` |              1 | [CHEBI:194301](http://purl.obolibrary.org/obo/CHEBI_194301) |
 | `DrugBank:DBSALT000151` |              1 | [CHEBI:30961](http://purl.obolibrary.org/obo/CHEBI_30961)   |
 | `DrugBank:DBSALT002914` |              1 | [CHEBI:31347](http://purl.obolibrary.org/obo/CHEBI_31347)   |
 | `DrugBank:DBSALT001147` |              1 | [CHEBI:31398](http://purl.obolibrary.org/obo/CHEBI_31398)   |
