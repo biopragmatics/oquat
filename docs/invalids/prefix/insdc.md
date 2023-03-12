@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `insdc`
 but use local unique identifiers that do not match the standard pattern of
-`^([A-Z]\d{5}|[A-Z]{2}\d{6}|[A-Z]{4}\d{8}|[A-J][A-Z]{2}\d{5})(\.\d+)?$`. Of the 1 resources,
+`^([A-Z]\d{5}|[A-Z]{2}\d{6}|[A-Z]{4,6}\d{8,10}|[A-J][A-Z]{2}\d{5})(\.\d+)?$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['INSDC'].
 
 ## `genepio`: Genomic Epidemiology Ontology

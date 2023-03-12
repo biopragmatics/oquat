@@ -7,18 +7,18 @@
 | USGS:http://mapping.usgs.gov/www/ti/GNIS/gnis_users_guide_appendixc.html |        1 | [ENVO:00000062](http://purl.obolibrary.org/obo/ENVO_00000062) |
 | USGS:SDTS                                                                |        1 | [ENVO:00000062](http://purl.obolibrary.org/obo/ENVO_00000062) |
 
-## enm
-
-| curie     |   usages | nodes                                                         |
-|-----------|----------|---------------------------------------------------------------|
-| USGS:SDTS |        1 | [ENVO:00000194](http://purl.obolibrary.org/obo/ENVO_00000194) |
-
 ## envo
 
 | curie                                                                    |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |--------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | USGS:SDTS                                                                |      187 | [ENVO:00000011](http://purl.obolibrary.org/obo/ENVO_00000011), [ENVO:00000016](http://purl.obolibrary.org/obo/ENVO_00000016), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), [ENVO:00000020](http://purl.obolibrary.org/obo/ENVO_00000020), [ENVO:00000022](http://purl.obolibrary.org/obo/ENVO_00000022), ... |
 | USGS:http://mapping.usgs.gov/www/ti/GNIS/gnis_users_guide_appendixc.html |        2 | [ENVO:00000023](http://purl.obolibrary.org/obo/ENVO_00000023), [ENVO:00000062](http://purl.obolibrary.org/obo/ENVO_00000062)                                                                                                                                                                                                   |
+
+## enm
+
+| curie     |   usages | nodes                                                         |
+|-----------|----------|---------------------------------------------------------------|
+| USGS:SDTS |        1 | [ENVO:00000194](http://purl.obolibrary.org/obo/ENVO_00000194) |
 
 ## bcio
 

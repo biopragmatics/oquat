@@ -1,5 +1,11 @@
 # `dictionary`
 
+## cmpo
+
+| curie                                       |   usages | nodes                                                       |
+|---------------------------------------------|----------|-------------------------------------------------------------|
+| Dictionary:http://dictionary.reference.com/ |        1 | [PATO:0001303](http://purl.obolibrary.org/obo/PATO_0001303) |
+
 ## bto
 
 | curie                                                  |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -13,12 +19,6 @@
 | curie                                         |   usages | nodes                                                     |
 |-----------------------------------------------|----------|-----------------------------------------------------------|
 | Dictionary:Electrochemistry_Dictionary_Online |        1 | [MMO:0000227](http://purl.obolibrary.org/obo/MMO_0000227) |
-
-## cmpo
-
-| curie                                       |   usages | nodes                                                       |
-|---------------------------------------------|----------|-------------------------------------------------------------|
-| Dictionary:http://dictionary.reference.com/ |        1 | [PATO:0001303](http://purl.obolibrary.org/obo/PATO_0001303) |
 
 ## pato
 

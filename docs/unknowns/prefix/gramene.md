@@ -1,11 +1,5 @@
 # `gramene`
 
-## bto
-
-| curie                                                           |   usages | nodes                                                     |
-|-----------------------------------------------------------------|----------|-----------------------------------------------------------|
-| Gramene:http://dev.gramene.org/db/ontology/search?id=PO:0006339 |        1 | [BTO:0003147](http://purl.obolibrary.org/obo/BTO_0003147) |
-
 ## po
 
 | curie                  |   usages | nodes                                                                                                                                                                                                                                                                                            |
@@ -26,6 +20,12 @@
 | Gramene:cwt6             |        3 | [TO:0020005](http://purl.obolibrary.org/obo/TO_0020005), [TO:0020007](http://purl.obolibrary.org/obo/TO_0020007), [TO:0020032](http://purl.obolibrary.org/obo/TO_0020032)                                                                                                                        |
 | Gramene:jcl              |        1 | [TO:0000227](http://purl.obolibrary.org/obo/TO_0000227)                                                                                                                                                                                                                                          |
 | Gramene:pankaj_jaiswal,  |        1 | [TO:0000386](http://purl.obolibrary.org/obo/TO_0000386)                                                                                                                                                                                                                                          |
+
+## bto
+
+| curie                                                           |   usages | nodes                                                     |
+|-----------------------------------------------------------------|----------|-----------------------------------------------------------|
+| Gramene:http://dev.gramene.org/db/ontology/search?id=PO:0006339 |        1 | [BTO:0003147](http://purl.obolibrary.org/obo/BTO_0003147) |
 
 ## peco
 

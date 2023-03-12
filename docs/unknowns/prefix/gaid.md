@@ -1,72 +1,62 @@
 # `gaid`
 
-## covoc
-
-| curie     |   usages | nodes                                                           |
-|-----------|----------|-----------------------------------------------------------------|
-| GAID:1189 |        1 | [UBERON:0001088](http://purl.obolibrary.org/obo/UBERON_0001088) |
-| GAID:1167 |        1 | [UBERON:0001836](http://purl.obolibrary.org/obo/UBERON_0001836) |
-| GAID:1199 |        1 | [UBERON:0001988](http://purl.obolibrary.org/obo/UBERON_0001988) |
-| GAID:345  |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
-
-## icdo
+## bao
 
 | curie        |   usages | nodes                                                           |
 |--------------|----------|-----------------------------------------------------------------|
-| GAID:77      |        1 | [UBERON:0000004](http://purl.obolibrary.org/obo/UBERON_0000004) |
-| GAID:933     |        1 | [UBERON:0000014](http://purl.obolibrary.org/obo/UBERON_0000014) |
-| GAID:63      |        1 | [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020) |
-| GAID:61      |        1 | [UBERON:0000033](http://purl.obolibrary.org/obo/UBERON_0000033) |
-| GAID:19      |        1 | [UBERON:0000042](http://purl.obolibrary.org/obo/UBERON_0000042) |
-| GAID:781     |        1 | [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) |
+| GAID:376     |        1 | [UBERON:0000002](http://purl.obolibrary.org/obo/UBERON_0000002) |
+| GAID:438     |        1 | [UBERON:0000056](http://purl.obolibrary.org/obo/UBERON_0000056) |
 | GAID:295     |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
 | GAID:965     |        1 | [UBERON:0000178](http://purl.obolibrary.org/obo/UBERON_0000178) |
 | GAID:33      |        1 | [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) |
+| GAID:396     |        1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
 | GAID:293     |        1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
-| GAID:174     |        1 | [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) |
 | GAID:571     |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
-| GAID:69      |        1 | [UBERON:0000970](http://purl.obolibrary.org/obo/UBERON_0000970) |
-| GAID:360     |        1 | [UBERON:0000977](http://purl.obolibrary.org/obo/UBERON_0000977) |
-| GAID:49      |        1 | [UBERON:0000978](http://purl.obolibrary.org/obo/UBERON_0000978) |
-| GAID:102     |        1 | [UBERON:0000982](http://purl.obolibrary.org/obo/UBERON_0000982) |
+| GAID:367     |        1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
 | GAID:172     |        1 | [UBERON:0000995](http://purl.obolibrary.org/obo/UBERON_0000995) |
-| GAID:78      |        1 | [UBERON:0001004](http://purl.obolibrary.org/obo/UBERON_0001004) |
-| GAID:278     |        1 | [UBERON:0001007](http://purl.obolibrary.org/obo/UBERON_0001007) |
+| GAID:383     |        1 | [UBERON:0000997](http://purl.obolibrary.org/obo/UBERON_0000997) |
 | GAID:466     |        1 | [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) |
 | GAID:291     |        1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
-| GAID:1172    |        1 | [UBERON:0001089](http://purl.obolibrary.org/obo/UBERON_0001089) |
-| GAID:167     |        1 | [UBERON:0001135](http://purl.obolibrary.org/obo/UBERON_0001135) |
-| GAID:30      |        1 | [UBERON:0001137](http://purl.obolibrary.org/obo/UBERON_0001137) |
 | GAID:0000004 |        1 | [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) |
 | GAID:334     |        1 | [UBERON:0001264](http://purl.obolibrary.org/obo/UBERON_0001264) |
-| GAID:397     |        1 | [UBERON:0001301](http://purl.obolibrary.org/obo/UBERON_0001301) |
-| GAID:864     |        1 | [UBERON:0001352](http://purl.obolibrary.org/obo/UBERON_0001352) |
-| GAID:91      |        1 | [UBERON:0001443](http://purl.obolibrary.org/obo/UBERON_0001443) |
 | GAID:92      |        1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
-| GAID:468     |        1 | [UBERON:0001637](http://purl.obolibrary.org/obo/UBERON_0001637) |
-| GAID:62      |        1 | [UBERON:0001690](http://purl.obolibrary.org/obo/UBERON_0001690) |
-| GAID:104     |        1 | [UBERON:0001691](http://purl.obolibrary.org/obo/UBERON_0001691) |
-| GAID:169     |        1 | [UBERON:0001981](http://purl.obolibrary.org/obo/UBERON_0001981) |
+| GAID:1178    |        1 | [UBERON:0001969](http://purl.obolibrary.org/obo/UBERON_0001969) |
 | GAID:465     |        1 | [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) |
 | GAID:345     |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
-| GAID:555     |        1 | [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) |
-| GAID:568     |        1 | [UBERON:0002082](http://purl.obolibrary.org/obo/UBERON_0002082) |
 | GAID:288     |        1 | [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) |
-| GAID:313     |        1 | [UBERON:0002108](http://purl.obolibrary.org/obo/UBERON_0002108) |
 | GAID:423     |        1 | [UBERON:0002113](http://purl.obolibrary.org/obo/UBERON_0002113) |
-| GAID:98      |        1 | [UBERON:0002204](http://purl.obolibrary.org/obo/UBERON_0002204) |
-| GAID:1158    |        1 | [UBERON:0002297](http://purl.obolibrary.org/obo/UBERON_0002297) |
-| GAID:34      |        1 | [UBERON:0002365](http://purl.obolibrary.org/obo/UBERON_0002365) |
+| GAID:284     |        1 | [UBERON:0002114](http://purl.obolibrary.org/obo/UBERON_0002114) |
 | GAID:392     |        1 | [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) |
-| GAID:335     |        1 | [UBERON:0002368](http://purl.obolibrary.org/obo/UBERON_0002368) |
-| GAID:100     |        1 | [UBERON:0002384](http://purl.obolibrary.org/obo/UBERON_0002384) |
-| GAID:328     |        1 | [UBERON:0002405](http://purl.obolibrary.org/obo/UBERON_0002405) |
-| GAID:99      |        1 | [UBERON:0002418](http://purl.obolibrary.org/obo/UBERON_0002418) |
-| GAID:82      |        1 | [UBERON:0003129](http://purl.obolibrary.org/obo/UBERON_0003129) |
-| GAID:272     |        1 | [UBERON:0003700](http://purl.obolibrary.org/obo/UBERON_0003700) |
-| GAID:294     |        1 | [UBERON:0005409](http://purl.obolibrary.org/obo/UBERON_0005409) |
-| GAID:266     |        1 | [UBERON:0006314](http://purl.obolibrary.org/obo/UBERON_0006314) |
-| GAID:201     |        1 | [UBERON:0007119](http://purl.obolibrary.org/obo/UBERON_0007119) |
+| GAID:446     |        1 | [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) |
+| GAID:1186    |        1 | [UBERON:0002391](http://purl.obolibrary.org/obo/UBERON_0002391) |
+
+## dto
+
+| curie        |   usages | nodes                                                           |
+|--------------|----------|-----------------------------------------------------------------|
+| GAID:376     |        1 | [UBERON:0000002](http://purl.obolibrary.org/obo/UBERON_0000002) |
+| GAID:438     |        1 | [UBERON:0000056](http://purl.obolibrary.org/obo/UBERON_0000056) |
+| GAID:295     |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
+| GAID:33      |        1 | [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) |
+| GAID:396     |        1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
+| GAID:293     |        1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
+| GAID:571     |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
+| GAID:367     |        1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
+| GAID:172     |        1 | [UBERON:0000995](http://purl.obolibrary.org/obo/UBERON_0000995) |
+| GAID:383     |        1 | [UBERON:0000997](http://purl.obolibrary.org/obo/UBERON_0000997) |
+| GAID:466     |        1 | [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) |
+| GAID:291     |        1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
+| GAID:0000004 |        1 | [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) |
+| GAID:334     |        1 | [UBERON:0001264](http://purl.obolibrary.org/obo/UBERON_0001264) |
+| GAID:92      |        1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
+| GAID:1178    |        1 | [UBERON:0001969](http://purl.obolibrary.org/obo/UBERON_0001969) |
+| GAID:465     |        1 | [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) |
+| GAID:345     |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
+| GAID:288     |        1 | [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) |
+| GAID:423     |        1 | [UBERON:0002113](http://purl.obolibrary.org/obo/UBERON_0002113) |
+| GAID:284     |        1 | [UBERON:0002114](http://purl.obolibrary.org/obo/UBERON_0002114) |
+| GAID:392     |        1 | [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) |
+| GAID:446     |        1 | [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) |
 
 ## uberon
 
@@ -847,6 +837,81 @@
 | GAID:929     |        1 | [UBERON:0011818](http://purl.obolibrary.org/obo/UBERON_0011818)                                                                  |
 | GAID:141     |        1 | [UBERON:0014892](http://purl.obolibrary.org/obo/UBERON_0014892)                                                                  |
 
+## covoc
+
+| curie     |   usages | nodes                                                           |
+|-----------|----------|-----------------------------------------------------------------|
+| GAID:1189 |        1 | [UBERON:0001088](http://purl.obolibrary.org/obo/UBERON_0001088) |
+| GAID:1167 |        1 | [UBERON:0001836](http://purl.obolibrary.org/obo/UBERON_0001836) |
+| GAID:1199 |        1 | [UBERON:0001988](http://purl.obolibrary.org/obo/UBERON_0001988) |
+| GAID:345  |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
+
+## plana
+
+| curie    |   usages | nodes                                                         |
+|----------|----------|---------------------------------------------------------------|
+| GAID:832 |        1 | [PLANA:0000459](http://purl.obolibrary.org/obo/PLANA_0000459) |
+| GAID:740 |        1 | [PLANA:0000470](http://purl.obolibrary.org/obo/PLANA_0000470) |
+
+## icdo
+
+| curie        |   usages | nodes                                                           |
+|--------------|----------|-----------------------------------------------------------------|
+| GAID:77      |        1 | [UBERON:0000004](http://purl.obolibrary.org/obo/UBERON_0000004) |
+| GAID:933     |        1 | [UBERON:0000014](http://purl.obolibrary.org/obo/UBERON_0000014) |
+| GAID:63      |        1 | [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020) |
+| GAID:61      |        1 | [UBERON:0000033](http://purl.obolibrary.org/obo/UBERON_0000033) |
+| GAID:19      |        1 | [UBERON:0000042](http://purl.obolibrary.org/obo/UBERON_0000042) |
+| GAID:781     |        1 | [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) |
+| GAID:295     |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
+| GAID:965     |        1 | [UBERON:0000178](http://purl.obolibrary.org/obo/UBERON_0000178) |
+| GAID:33      |        1 | [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) |
+| GAID:293     |        1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
+| GAID:174     |        1 | [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) |
+| GAID:571     |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
+| GAID:69      |        1 | [UBERON:0000970](http://purl.obolibrary.org/obo/UBERON_0000970) |
+| GAID:360     |        1 | [UBERON:0000977](http://purl.obolibrary.org/obo/UBERON_0000977) |
+| GAID:49      |        1 | [UBERON:0000978](http://purl.obolibrary.org/obo/UBERON_0000978) |
+| GAID:102     |        1 | [UBERON:0000982](http://purl.obolibrary.org/obo/UBERON_0000982) |
+| GAID:172     |        1 | [UBERON:0000995](http://purl.obolibrary.org/obo/UBERON_0000995) |
+| GAID:78      |        1 | [UBERON:0001004](http://purl.obolibrary.org/obo/UBERON_0001004) |
+| GAID:278     |        1 | [UBERON:0001007](http://purl.obolibrary.org/obo/UBERON_0001007) |
+| GAID:466     |        1 | [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) |
+| GAID:291     |        1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
+| GAID:1172    |        1 | [UBERON:0001089](http://purl.obolibrary.org/obo/UBERON_0001089) |
+| GAID:167     |        1 | [UBERON:0001135](http://purl.obolibrary.org/obo/UBERON_0001135) |
+| GAID:30      |        1 | [UBERON:0001137](http://purl.obolibrary.org/obo/UBERON_0001137) |
+| GAID:0000004 |        1 | [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) |
+| GAID:334     |        1 | [UBERON:0001264](http://purl.obolibrary.org/obo/UBERON_0001264) |
+| GAID:397     |        1 | [UBERON:0001301](http://purl.obolibrary.org/obo/UBERON_0001301) |
+| GAID:864     |        1 | [UBERON:0001352](http://purl.obolibrary.org/obo/UBERON_0001352) |
+| GAID:91      |        1 | [UBERON:0001443](http://purl.obolibrary.org/obo/UBERON_0001443) |
+| GAID:92      |        1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
+| GAID:468     |        1 | [UBERON:0001637](http://purl.obolibrary.org/obo/UBERON_0001637) |
+| GAID:62      |        1 | [UBERON:0001690](http://purl.obolibrary.org/obo/UBERON_0001690) |
+| GAID:104     |        1 | [UBERON:0001691](http://purl.obolibrary.org/obo/UBERON_0001691) |
+| GAID:169     |        1 | [UBERON:0001981](http://purl.obolibrary.org/obo/UBERON_0001981) |
+| GAID:465     |        1 | [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) |
+| GAID:345     |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
+| GAID:555     |        1 | [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) |
+| GAID:568     |        1 | [UBERON:0002082](http://purl.obolibrary.org/obo/UBERON_0002082) |
+| GAID:288     |        1 | [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) |
+| GAID:313     |        1 | [UBERON:0002108](http://purl.obolibrary.org/obo/UBERON_0002108) |
+| GAID:423     |        1 | [UBERON:0002113](http://purl.obolibrary.org/obo/UBERON_0002113) |
+| GAID:98      |        1 | [UBERON:0002204](http://purl.obolibrary.org/obo/UBERON_0002204) |
+| GAID:1158    |        1 | [UBERON:0002297](http://purl.obolibrary.org/obo/UBERON_0002297) |
+| GAID:34      |        1 | [UBERON:0002365](http://purl.obolibrary.org/obo/UBERON_0002365) |
+| GAID:392     |        1 | [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) |
+| GAID:335     |        1 | [UBERON:0002368](http://purl.obolibrary.org/obo/UBERON_0002368) |
+| GAID:100     |        1 | [UBERON:0002384](http://purl.obolibrary.org/obo/UBERON_0002384) |
+| GAID:328     |        1 | [UBERON:0002405](http://purl.obolibrary.org/obo/UBERON_0002405) |
+| GAID:99      |        1 | [UBERON:0002418](http://purl.obolibrary.org/obo/UBERON_0002418) |
+| GAID:82      |        1 | [UBERON:0003129](http://purl.obolibrary.org/obo/UBERON_0003129) |
+| GAID:272     |        1 | [UBERON:0003700](http://purl.obolibrary.org/obo/UBERON_0003700) |
+| GAID:294     |        1 | [UBERON:0005409](http://purl.obolibrary.org/obo/UBERON_0005409) |
+| GAID:266     |        1 | [UBERON:0006314](http://purl.obolibrary.org/obo/UBERON_0006314) |
+| GAID:201     |        1 | [UBERON:0007119](http://purl.obolibrary.org/obo/UBERON_0007119) |
+
 ## epso
 
 | curie     |   usages | nodes                                                           |
@@ -876,71 +941,6 @@
 | GAID:636  |        1 | [UBERON:0002728](http://purl.obolibrary.org/obo/UBERON_0002728) |
 | GAID:1233 |        1 | [UBERON:0006794](http://purl.obolibrary.org/obo/UBERON_0006794) |
 | GAID:681  |        1 | [UBERON:0008930](http://purl.obolibrary.org/obo/UBERON_0008930) |
-
-## plana
-
-| curie    |   usages | nodes                                                         |
-|----------|----------|---------------------------------------------------------------|
-| GAID:832 |        1 | [PLANA:0000459](http://purl.obolibrary.org/obo/PLANA_0000459) |
-| GAID:740 |        1 | [PLANA:0000470](http://purl.obolibrary.org/obo/PLANA_0000470) |
-
-## bao
-
-| curie        |   usages | nodes                                                           |
-|--------------|----------|-----------------------------------------------------------------|
-| GAID:376     |        1 | [UBERON:0000002](http://purl.obolibrary.org/obo/UBERON_0000002) |
-| GAID:438     |        1 | [UBERON:0000056](http://purl.obolibrary.org/obo/UBERON_0000056) |
-| GAID:295     |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
-| GAID:965     |        1 | [UBERON:0000178](http://purl.obolibrary.org/obo/UBERON_0000178) |
-| GAID:33      |        1 | [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) |
-| GAID:396     |        1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
-| GAID:293     |        1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
-| GAID:571     |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
-| GAID:367     |        1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
-| GAID:172     |        1 | [UBERON:0000995](http://purl.obolibrary.org/obo/UBERON_0000995) |
-| GAID:383     |        1 | [UBERON:0000997](http://purl.obolibrary.org/obo/UBERON_0000997) |
-| GAID:466     |        1 | [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) |
-| GAID:291     |        1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
-| GAID:0000004 |        1 | [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) |
-| GAID:334     |        1 | [UBERON:0001264](http://purl.obolibrary.org/obo/UBERON_0001264) |
-| GAID:92      |        1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
-| GAID:1178    |        1 | [UBERON:0001969](http://purl.obolibrary.org/obo/UBERON_0001969) |
-| GAID:465     |        1 | [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) |
-| GAID:345     |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
-| GAID:288     |        1 | [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) |
-| GAID:423     |        1 | [UBERON:0002113](http://purl.obolibrary.org/obo/UBERON_0002113) |
-| GAID:284     |        1 | [UBERON:0002114](http://purl.obolibrary.org/obo/UBERON_0002114) |
-| GAID:392     |        1 | [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) |
-| GAID:446     |        1 | [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) |
-| GAID:1186    |        1 | [UBERON:0002391](http://purl.obolibrary.org/obo/UBERON_0002391) |
-
-## dto
-
-| curie        |   usages | nodes                                                           |
-|--------------|----------|-----------------------------------------------------------------|
-| GAID:376     |        1 | [UBERON:0000002](http://purl.obolibrary.org/obo/UBERON_0000002) |
-| GAID:438     |        1 | [UBERON:0000056](http://purl.obolibrary.org/obo/UBERON_0000056) |
-| GAID:295     |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
-| GAID:33      |        1 | [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) |
-| GAID:396     |        1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
-| GAID:293     |        1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
-| GAID:571     |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
-| GAID:367     |        1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
-| GAID:172     |        1 | [UBERON:0000995](http://purl.obolibrary.org/obo/UBERON_0000995) |
-| GAID:383     |        1 | [UBERON:0000997](http://purl.obolibrary.org/obo/UBERON_0000997) |
-| GAID:466     |        1 | [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) |
-| GAID:291     |        1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
-| GAID:0000004 |        1 | [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) |
-| GAID:334     |        1 | [UBERON:0001264](http://purl.obolibrary.org/obo/UBERON_0001264) |
-| GAID:92      |        1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
-| GAID:1178    |        1 | [UBERON:0001969](http://purl.obolibrary.org/obo/UBERON_0001969) |
-| GAID:465     |        1 | [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) |
-| GAID:345     |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
-| GAID:288     |        1 | [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) |
-| GAID:423     |        1 | [UBERON:0002113](http://purl.obolibrary.org/obo/UBERON_0002113) |
-| GAID:284     |        1 | [UBERON:0002114](http://purl.obolibrary.org/obo/UBERON_0002114) |
-| GAID:392     |        1 | [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) |
-| GAID:446     |        1 | [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) |
 
 ## bcio
 

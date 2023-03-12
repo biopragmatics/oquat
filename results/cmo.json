@@ -1,22 +1,22 @@
 {
-  "created": "2023-03-05T01:46:04.846268",
+  "created": "2023-03-12T01:34:13.712241",
   "messages": [
     "ERROR Input ontology contains 15 triple(s) that could not be parsed:",
-    " - _:genid-nodeid-node1gqnn50k5x263 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>.",
-    " - _:genid-nodeid-node1gqnn50k5x218 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>.",
-    " - _:genid-nodeid-node1gqnn50k5x218 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-ee5d71bc7c5a49af81678cde9d1323bd-genid218.",
-    " - _:genid-nodeid-node1gqnn50k5x224 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>.",
-    " - _:genid-nodeid-node1gqnn50k5x222 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-ee5d71bc7c5a49af81678cde9d1323bd-genid224.",
-    " - _:genid-nodeid-node1gqnn50k5x263 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>.",
-    " - _:genid-nodeid-node1gqnn50k5x224 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>.",
-    " - _:genid-nodeid-node1gqnn50k5x220 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-ee5d71bc7c5a49af81678cde9d1323bd-genid221.",
-    " - _:genid-nodeid-node1gqnn50k5x222 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>.",
-    " - _:genid-nodeid-node1gqnn50k5x220 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>.",
-    " - _:genid-nodeid-node1gqnn50k5x218 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>.",
-    " - _:genid-nodeid-node1gqnn50k5x220 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>.",
-    " - _:genid-nodeid-node1gqnn50k5x222 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>.",
-    " - _:genid-nodeid-node1gqnn50k5x263 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-ee5d71bc7c5a49af81678cde9d1323bd-genid267.",
-    " - _:genid-nodeid-node1gqnn50k5x224 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-ee5d71bc7c5a49af81678cde9d1323bd-genid227."
+    " - _:genid-nodeid-node1gr9n8b23x263 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>.",
+    " - _:genid-nodeid-node1gr9n8b23x220 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-f0c8ad4f69dd447b8bd0f75f7fe635df-genid221.",
+    " - _:genid-nodeid-node1gr9n8b23x222 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>.",
+    " - _:genid-nodeid-node1gr9n8b23x263 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-f0c8ad4f69dd447b8bd0f75f7fe635df-genid267.",
+    " - _:genid-nodeid-node1gr9n8b23x218 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>.",
+    " - _:genid-nodeid-node1gr9n8b23x224 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-f0c8ad4f69dd447b8bd0f75f7fe635df-genid227.",
+    " - _:genid-nodeid-node1gr9n8b23x224 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>.",
+    " - _:genid-nodeid-node1gr9n8b23x218 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-f0c8ad4f69dd447b8bd0f75f7fe635df-genid218.",
+    " - _:genid-nodeid-node1gr9n8b23x224 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>.",
+    " - _:genid-nodeid-node1gr9n8b23x222 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>.",
+    " - _:genid-nodeid-node1gr9n8b23x218 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>.",
+    " - _:genid-nodeid-node1gr9n8b23x263 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>.",
+    " - _:genid-nodeid-node1gr9n8b23x222 <http://www.w3.org/2002/07/owl#annotatedSource> _:genid-nodeid-genid-f0c8ad4f69dd447b8bd0f75f7fe635df-genid224.",
+    " - _:genid-nodeid-node1gr9n8b23x220 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOWL#xref>.",
+    " - _:genid-nodeid-node1gr9n8b23x220 <http://www.w3.org/2002/07/owl#annotatedTarget> ECGOntology:<new dbxref>."
   ],
   "results": {
     "http://purl.obolibrary.org/obo/cmo.obo": {

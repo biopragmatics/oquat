@@ -1,5 +1,12 @@
 # `merriamwebster`
 
+## xco
+
+| curie                                                            |   usages | nodes                                                                                                                                                                                                                                                                                                      |
+|------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed      |       12 | [XCO:0000057](http://purl.obolibrary.org/obo/XCO_0000057), [XCO:0000100](http://purl.obolibrary.org/obo/XCO_0000100), [XCO:0000239](http://purl.obolibrary.org/obo/XCO_0000239), [XCO:0000320](http://purl.obolibrary.org/obo/XCO_0000320), [XCO:0000321](http://purl.obolibrary.org/obo/XCO_0000321), ... |
+| merriam-webster:https://www.merriam-webster.com/dictionary/prion |        1 | [XCO:0000655](http://purl.obolibrary.org/obo/XCO_0000655)                                                                                                                                                                                                                                                  |
+
 ## enm
 
 | curie                           |   usages | nodes                                                       |
@@ -29,11 +36,4 @@
 | merriam-webster:http://www.merriam-webster.com/dictionary/cauline        |        1 | [PATO:0002350](http://purl.obolibrary.org/obo/PATO_0002350)                                                                                                                                                                                                                                                          |
 | merriam-webster:http://www.merriam-webster.com/dictionary/subovoid       |        1 | [PATO:0002537](http://purl.obolibrary.org/obo/PATO_0002537)                                                                                                                                                                                                                                                          |
 | merriam-webster:http://www.merriam-webster.com/dictionary/concavo-convex |        1 | [PATO:0002538](http://purl.obolibrary.org/obo/PATO_0002538)                                                                                                                                                                                                                                                          |
-
-## xco
-
-| curie                                                            |   usages | nodes                                                                                                                                                                                                                                                                                                      |
-|------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed      |       12 | [XCO:0000057](http://purl.obolibrary.org/obo/XCO_0000057), [XCO:0000100](http://purl.obolibrary.org/obo/XCO_0000100), [XCO:0000239](http://purl.obolibrary.org/obo/XCO_0000239), [XCO:0000320](http://purl.obolibrary.org/obo/XCO_0000320), [XCO:0000321](http://purl.obolibrary.org/obo/XCO_0000321), ... |
-| merriam-webster:https://www.merriam-webster.com/dictionary/prion |        1 | [XCO:0000655](http://purl.obolibrary.org/obo/XCO_0000655)                                                                                                                                                                                                                                                  |
 

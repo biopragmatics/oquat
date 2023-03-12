@@ -9,7 +9,7 @@ for node, synonym, and definition cross-references in `genepio`. See the [GitHub
 Overall, there were 2 invalid
 xrefs to external prefixed with `INSDC` (standardized to Bioregistry
 prefix [`insdc`](https://bioregistry.io/insdc)) that
-did not match the standard pattern `^([A-Z]\d{5}|[A-Z]{2}\d{6}|[A-Z]{4}\d{8}|[A-J][A-Z]{2}\d{5})(\.\d+)?$`.
+did not match the standard pattern `^([A-Z]\d{5}|[A-Z]{2}\d{6}|[A-Z]{4,6}\d{8,10}|[A-J][A-Z]{2}\d{5})(\.\d+)?$`.
 
 | external_xref                |   usages_count | usages                                                            |
 |------------------------------|----------------|-------------------------------------------------------------------|

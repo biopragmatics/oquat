@@ -4,6 +4,17 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `rdo`.
 
 
+## `EFO`: Experimental Factor Ontology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `EFO` (standardized to Bioregistry
+prefix [`efo`](https://bioregistry.io/efo)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                |
+|-----------------|----------------|-------------------------------------------------------|
+| `EFO:1001233 `  |              1 | [DOID:5435](http://purl.obolibrary.org/obo/DOID_5435) |
+
 ## `ICD-O`: International Classification of Diseases for Oncology
 
 Overall, there were 48 invalid
@@ -125,7 +136,7 @@ did not match the standard pattern `^C\d+$`.
 
 ## `OMIM`: Online Mendelian Inheritance in Man
 
-Overall, there were 529 invalid
+Overall, there were 528 invalid
 xrefs to external prefixed with `OMIM` (standardized to Bioregistry
 prefix [`omim`](https://bioregistry.io/omim)) that
 did not match the standard pattern `^\d+$`.
@@ -263,7 +274,6 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS228520` |              1 | [DOID:0060465](http://purl.obolibrary.org/obo/DOID_0060465) |
 | `OMIM:PS135300` |              1 | [DOID:0060466](http://purl.obolibrary.org/obo/DOID_0060466) |
 | `OMIM:PS147920` |              1 | [DOID:0060473](http://purl.obolibrary.org/obo/DOID_0060473) |
-| `OMIM:PS617711` |              1 | [DOID:0060475](http://purl.obolibrary.org/obo/DOID_0060475) |
 | `OMIM:PS260400` |              1 | [DOID:0060479](http://purl.obolibrary.org/obo/DOID_0060479) |
 | `OMIM:PS604169` |              1 | [DOID:0060480](http://purl.obolibrary.org/obo/DOID_0060480) |
 | `OMIM:PS252011` |              1 | [DOID:0060537](http://purl.obolibrary.org/obo/DOID_0060537) |

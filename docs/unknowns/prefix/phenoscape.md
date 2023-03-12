@@ -1,5 +1,13 @@
 # `phenoscape`
 
+## eco
+
+| curie           |   usages | nodes                                                     |
+|-----------------|----------|-----------------------------------------------------------|
+| PhenoScape:IGTS |        1 | [ECO:0000051](http://purl.obolibrary.org/obo/ECO_0000051) |
+| PhenoScape:IPTS |        1 | [ECO:0000057](http://purl.obolibrary.org/obo/ECO_0000057) |
+| PhenoScape:IP   |        1 | [ECO:0000080](http://purl.obolibrary.org/obo/ECO_0000080) |
+
 ## uberon
 
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
@@ -27,12 +35,4 @@
 | PHENOSCAPE:JL       |        1 | [UBERON:4300121](http://purl.obolibrary.org/obo/UBERON_4300121)                                                                                                                                                                                                                                                                          |
 | Phenoscape:PM       |        1 | [UBERON:4000164](http://purl.obolibrary.org/obo/UBERON_4000164)                                                                                                                                                                                                                                                                          |
 | Phenoscape:DB       |        1 | [UBERON:3010831](http://purl.obolibrary.org/obo/UBERON_3010831)                                                                                                                                                                                                                                                                          |
-
-## eco
-
-| curie           |   usages | nodes                                                     |
-|-----------------|----------|-----------------------------------------------------------|
-| PhenoScape:IGTS |        1 | [ECO:0000051](http://purl.obolibrary.org/obo/ECO_0000051) |
-| PhenoScape:IPTS |        1 | [ECO:0000057](http://purl.obolibrary.org/obo/ECO_0000057) |
-| PhenoScape:IP   |        1 | [ECO:0000080](http://purl.obolibrary.org/obo/ECO_0000080) |
 

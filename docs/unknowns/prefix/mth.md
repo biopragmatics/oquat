@@ -1,10 +1,10 @@
 # `mth`
 
-## covoc
+## rdo
 
-| curie      |   usages | nodes                                                         |
-|------------|----------|---------------------------------------------------------------|
-| MTH:NOCODE |        1 | [MONDO:0007186](http://purl.obolibrary.org/obo/MONDO_0007186) |
+| curie   |   usages | nodes                                                 |
+|---------|----------|-------------------------------------------------------|
+| MTH:646 |        1 | [DOID:2975](http://purl.obolibrary.org/obo/DOID_2975) |
 
 ## efo
 
@@ -75,11 +75,11 @@
 | MTH:U002240 |        1 | [MONDO:0017844](http://purl.obolibrary.org/obo/MONDO_0017844)                                                                                                                                                                                                                                                                  |
 | MTH:217     |        1 | [MONDO:0011438](http://purl.obolibrary.org/obo/MONDO_0011438)                                                                                                                                                                                                                                                                  |
 
-## rdo
+## covoc
 
-| curie   |   usages | nodes                                                 |
-|---------|----------|-------------------------------------------------------|
-| MTH:646 |        1 | [DOID:2975](http://purl.obolibrary.org/obo/DOID_2975) |
+| curie      |   usages | nodes                                                         |
+|------------|----------|---------------------------------------------------------------|
+| MTH:NOCODE |        1 | [MONDO:0007186](http://purl.obolibrary.org/obo/MONDO_0007186) |
 
 ## epso
 

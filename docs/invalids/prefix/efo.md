@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `efo`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 2 resources,
+`^\d{7}$`. Of the 3 resources,
 2 variants on the standard prefix were found: ['EFO', 'efo'].
 
 ## `cellosaurus`: Cellosaurus
@@ -1327,4 +1327,12 @@ Identifiers for this prefix are given incorrectly in `mmo`. See the [GitHub repo
 | `efo:EFO_0008896` |              1 | [MMO:0000659](http://purl.obolibrary.org/obo/MMO_0000659) |
 | `efo:EFO_0002941` |              1 | [MMO:0000660](http://purl.obolibrary.org/obo/MMO_0000660) |
 | `efo:EFO_0000561` |              1 | [MMO:0000672](http://purl.obolibrary.org/obo/MMO_0000672) |
+
+## `rdo`: RGD Disease Ontology
+
+Identifiers for this prefix are given incorrectly in `rdo`.
+
+| external_xref   |   usages_count | usages                                                |
+|-----------------|----------------|-------------------------------------------------------|
+| `EFO:1001233 `  |              1 | [DOID:5435](http://purl.obolibrary.org/obo/DOID_5435) |
 

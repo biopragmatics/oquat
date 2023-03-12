@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-05T02:30:21.501497",
+  "created": "2023-03-12T02:00:08.744054",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/mp.json": {
@@ -29508,8 +29508,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2023-02-09",
-      "version_iri": "http://purl.obolibrary.org/obo/mp/releases/2023-02-09/mp.json",
+      "version": "2023-03-02",
+      "version_iri": "http://purl.obolibrary.org/obo/mp/releases/2023-03-02/mp.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MP_0009875": [

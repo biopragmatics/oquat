@@ -1,13 +1,5 @@
 # `ddb`
 
-## ddanat
-
-| curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
-|---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DDB:pg  |      122 | [DDANAT:0000002](http://purl.obolibrary.org/obo/DDANAT_0000002), [DDANAT:0000003](http://purl.obolibrary.org/obo/DDANAT_0000003), [DDANAT:0000004](http://purl.obolibrary.org/obo/DDANAT_0000004), [DDANAT:0000005](http://purl.obolibrary.org/obo/DDANAT_0000005), [DDANAT:0000006](http://purl.obolibrary.org/obo/DDANAT_0000006), ... |
-| DDB:pf  |        3 | [DDANAT:0000418](http://purl.obolibrary.org/obo/DDANAT_0000418), [DDANAT:0001000](http://purl.obolibrary.org/obo/DDANAT_0001000), [DDANAT:0001001](http://purl.obolibrary.org/obo/DDANAT_0001001)                                                                                                                                        |
-| DDB:PG  |        1 | [DDANAT:0000083](http://purl.obolibrary.org/obo/DDANAT_0000083)                                                                                                                                                                                                                                                                          |
-
 ## ddpheno
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                                              |
@@ -17,4 +9,12 @@
 | DDB:kp  |       16 | [DDPHENO:0000099](http://purl.obolibrary.org/obo/DDPHENO_0000099), [DDPHENO:0000300](http://purl.obolibrary.org/obo/DDPHENO_0000300), [DDPHENO:0000301](http://purl.obolibrary.org/obo/DDPHENO_0000301), [DDPHENO:0000382](http://purl.obolibrary.org/obo/DDPHENO_0000382), [DDPHENO:0000400](http://purl.obolibrary.org/obo/DDPHENO_0000400), ... |
 | DDB:pgg |        1 | [DDPHENO:0000529](http://purl.obolibrary.org/obo/DDPHENO_0000529)                                                                                                                                                                                                                                                                                  |
 | DDb:pg  |        1 | [DDPHENO:0001456](http://purl.obolibrary.org/obo/DDPHENO_0001456)                                                                                                                                                                                                                                                                                  |
+
+## ddanat
+
+| curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
+|---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| DDB:pg  |      122 | [DDANAT:0000002](http://purl.obolibrary.org/obo/DDANAT_0000002), [DDANAT:0000003](http://purl.obolibrary.org/obo/DDANAT_0000003), [DDANAT:0000004](http://purl.obolibrary.org/obo/DDANAT_0000004), [DDANAT:0000005](http://purl.obolibrary.org/obo/DDANAT_0000005), [DDANAT:0000006](http://purl.obolibrary.org/obo/DDANAT_0000006), ... |
+| DDB:pf  |        3 | [DDANAT:0000418](http://purl.obolibrary.org/obo/DDANAT_0000418), [DDANAT:0001000](http://purl.obolibrary.org/obo/DDANAT_0001000), [DDANAT:0001001](http://purl.obolibrary.org/obo/DDANAT_0001001)                                                                                                                                        |
+| DDB:PG  |        1 | [DDANAT:0000083](http://purl.obolibrary.org/obo/DDANAT_0000083)                                                                                                                                                                                                                                                                          |
 

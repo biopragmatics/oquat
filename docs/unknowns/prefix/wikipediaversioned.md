@@ -1,11 +1,5 @@
 # `wikipediaversioned`
 
-## efo
-
-| curie                                                |   usages | nodes                                               |
-|------------------------------------------------------|----------|-----------------------------------------------------|
-| WikipediaVersioned:Exome_sequencing&oldid=1000635953 |        1 | [EFO:0005396](http://www.ebi.ac.uk/efo/EFO_0005396) |
-
 ## uberon
 
 | curie                                                              |   usages | nodes                                                                                                                            |
@@ -38,6 +32,12 @@
 | WikipediaVersioned:Brodmann_area_38&oldid=984922149                |        1 | [UBERON:0006479](http://purl.obolibrary.org/obo/UBERON_0006479)                                                                  |
 | WikipediaVersioned:Coccygeal_glomus&oldid=1019065130               |        1 | [UBERON:8410076](http://purl.obolibrary.org/obo/UBERON_8410076)                                                                  |
 | WikipediaVersioned:Duodenojejunal_flexure&oldid=937307798          |        1 | [UBERON:8410000](http://purl.obolibrary.org/obo/UBERON_8410000)                                                                  |
+
+## efo
+
+| curie                                                |   usages | nodes                                               |
+|------------------------------------------------------|----------|-----------------------------------------------------|
+| WikipediaVersioned:Exome_sequencing&oldid=1000635953 |        1 | [EFO:0005396](http://www.ebi.ac.uk/efo/EFO_0005396) |
 
 ## pato
 
