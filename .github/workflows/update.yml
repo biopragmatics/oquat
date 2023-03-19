@@ -33,4 +33,4 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           message: '🍓 Update oquat'
-          push: true
+          default_author: github_actions
