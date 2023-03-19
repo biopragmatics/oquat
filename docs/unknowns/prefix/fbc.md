@@ -1,5 +1,16 @@
 # `fbc`
 
+## uberon
+
+| curie                         |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
+|-------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| FBC:auto_generated_definition |       45 | [UBERON:0003212](http://purl.obolibrary.org/obo/UBERON_0003212), [UBERON:6000016](http://purl.obolibrary.org/obo/UBERON_6000016), [UBERON:6000137](http://purl.obolibrary.org/obo/UBERON_6000137), [UBERON:6000158](http://purl.obolibrary.org/obo/UBERON_6000158), [UBERON:6000160](http://purl.obolibrary.org/obo/UBERON_6000160), ... |
+| FBC:DOS                       |       43 | [UBERON:0000122](http://purl.obolibrary.org/obo/UBERON_0000122), [UBERON:0015203](http://purl.obolibrary.org/obo/UBERON_0015203), [UBERON:6000009](http://purl.obolibrary.org/obo/UBERON_6000009), [UBERON:6000017](http://purl.obolibrary.org/obo/UBERON_6000017), [UBERON:6000018](http://purl.obolibrary.org/obo/UBERON_6000018), ... |
+| FBC:SPR                       |       17 | [UBERON:6000021](http://purl.obolibrary.org/obo/UBERON_6000021), [UBERON:6000172](http://purl.obolibrary.org/obo/UBERON_6000172), [UBERON:6001060](http://purl.obolibrary.org/obo/UBERON_6001060), [UBERON:6001649](http://purl.obolibrary.org/obo/UBERON_6001649), [UBERON:6001650](http://purl.obolibrary.org/obo/UBERON_6001650), ... |
+| FBC:gg                        |        8 | [UBERON:0006795](http://purl.obolibrary.org/obo/UBERON_0006795), [UBERON:6000007](http://purl.obolibrary.org/obo/UBERON_6000007), [UBERON:6000011](http://purl.obolibrary.org/obo/UBERON_6000011), [UBERON:6001789](http://purl.obolibrary.org/obo/UBERON_6001789), [UBERON:6001790](http://purl.obolibrary.org/obo/UBERON_6001790), ... |
+| FBC:MMC                       |        2 | [UBERON:6004668](http://purl.obolibrary.org/obo/UBERON_6004668), [UBERON:6007248](http://purl.obolibrary.org/obo/UBERON_6007248)                                                                                                                                                                                                         |
+| FBC:KI                        |        1 | [UBERON:6041000](http://purl.obolibrary.org/obo/UBERON_6041000)                                                                                                                                                                                                                                                                          |
+
 ## fbbt
 
 | curie             |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
@@ -20,23 +31,6 @@
 | FBC:VT            |        1 | [FBbt:00006030](http://purl.obolibrary.org/obo/FBbt_00006030)                                                                                                                                                                                                                                                                  |
 | FBC:GJ            |        1 | [FBbt:00007451](http://purl.obolibrary.org/obo/FBbt_00007451)                                                                                                                                                                                                                                                                  |
 | FBC:FlyBase       |        1 | [FBbt:00004043](http://purl.obolibrary.org/obo/FBbt_00004043)                                                                                                                                                                                                                                                                  |
-
-## uberon
-
-| curie                         |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
-|-------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| FBC:auto_generated_definition |       45 | [UBERON:0003212](http://purl.obolibrary.org/obo/UBERON_0003212), [UBERON:6000016](http://purl.obolibrary.org/obo/UBERON_6000016), [UBERON:6000137](http://purl.obolibrary.org/obo/UBERON_6000137), [UBERON:6000158](http://purl.obolibrary.org/obo/UBERON_6000158), [UBERON:6000160](http://purl.obolibrary.org/obo/UBERON_6000160), ... |
-| FBC:DOS                       |       43 | [UBERON:0000122](http://purl.obolibrary.org/obo/UBERON_0000122), [UBERON:0015203](http://purl.obolibrary.org/obo/UBERON_0015203), [UBERON:6000009](http://purl.obolibrary.org/obo/UBERON_6000009), [UBERON:6000017](http://purl.obolibrary.org/obo/UBERON_6000017), [UBERON:6000018](http://purl.obolibrary.org/obo/UBERON_6000018), ... |
-| FBC:SPR                       |       17 | [UBERON:6000021](http://purl.obolibrary.org/obo/UBERON_6000021), [UBERON:6000172](http://purl.obolibrary.org/obo/UBERON_6000172), [UBERON:6001060](http://purl.obolibrary.org/obo/UBERON_6001060), [UBERON:6001649](http://purl.obolibrary.org/obo/UBERON_6001649), [UBERON:6001650](http://purl.obolibrary.org/obo/UBERON_6001650), ... |
-| FBC:gg                        |        8 | [UBERON:0006795](http://purl.obolibrary.org/obo/UBERON_0006795), [UBERON:6000007](http://purl.obolibrary.org/obo/UBERON_6000007), [UBERON:6000011](http://purl.obolibrary.org/obo/UBERON_6000011), [UBERON:6001789](http://purl.obolibrary.org/obo/UBERON_6001789), [UBERON:6001790](http://purl.obolibrary.org/obo/UBERON_6001790), ... |
-| FBC:MMC                       |        2 | [UBERON:6004668](http://purl.obolibrary.org/obo/UBERON_6004668), [UBERON:6007248](http://purl.obolibrary.org/obo/UBERON_6007248)                                                                                                                                                                                                         |
-| FBC:KI                        |        1 | [UBERON:6041000](http://purl.obolibrary.org/obo/UBERON_6041000)                                                                                                                                                                                                                                                                          |
-
-## caro
-
-| curie   |   usages | nodes                                                                                                                    |
-|---------|----------|--------------------------------------------------------------------------------------------------------------------------|
-| FBC:DOS |        2 | [CARO:0002003](http://purl.obolibrary.org/obo/CARO_0002003), [CARO:0010005](http://purl.obolibrary.org/obo/CARO_0010005) |
 
 ## fbcv
 

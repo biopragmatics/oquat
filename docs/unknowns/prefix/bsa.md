@@ -1,21 +1,5 @@
 # `bsa`
 
-## bao
-
-| curie       |   usages | nodes                                                           |
-|-------------|----------|-----------------------------------------------------------------|
-| BSA:0000093 |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
-| BSA:0000085 |        1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
-| BSA:0000080 |        1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
-
-## dto
-
-| curie       |   usages | nodes                                                           |
-|-------------|----------|-----------------------------------------------------------------|
-| BSA:0000093 |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
-| BSA:0000085 |        1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
-| BSA:0000080 |        1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
-
 ## uberon
 
 | curie       |   usages | nodes                                                           |
@@ -62,4 +46,20 @@
 | BSA:0000049 |        1 | [UBERON:0000467](http://purl.obolibrary.org/obo/UBERON_0000467) |
 | BSA:0000038 |        1 | [UBERON:0000468](http://purl.obolibrary.org/obo/UBERON_0000468) |
 | BSA:0000123 |        1 | [UBERON:0010039](http://purl.obolibrary.org/obo/UBERON_0010039) |
+
+## dto
+
+| curie       |   usages | nodes                                                           |
+|-------------|----------|-----------------------------------------------------------------|
+| BSA:0000093 |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
+| BSA:0000085 |        1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
+| BSA:0000080 |        1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
+
+## bao
+
+| curie       |   usages | nodes                                                           |
+|-------------|----------|-----------------------------------------------------------------|
+| BSA:0000093 |        1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
+| BSA:0000085 |        1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
+| BSA:0000080 |        1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
 

@@ -49,7 +49,7 @@ did not match the standard pattern `^\d+$`.
 |---------------------------------|----------------|---------------------------------------------------------------|
 | `NIF_Subcellular:sao1397492660` |              1 | [PLANA:0001005](http://purl.obolibrary.org/obo/PLANA_0001005) |
 
-## `PMID`: PubMed ID
+## `PMID`: PubMed
 
 Overall, there were 7 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry

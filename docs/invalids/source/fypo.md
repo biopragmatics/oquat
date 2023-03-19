@@ -19,7 +19,7 @@ did not match the standard pattern `^\d{7}$`.
 | `GO:030995`              |              1 | [FYPO:0004270](http://purl.obolibrary.org/obo/FYPO_0004270)                                                                                                                           |
 | `GO:003118`              |              1 | [FYPO:0007501](http://purl.obolibrary.org/obo/FYPO_0007501)                                                                                                                           |
 
-## `PMID`: PubMed ID
+## `PMID`: PubMed
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry

@@ -37,7 +37,7 @@ did not match the standard pattern `^\d{4}-\d{3}[\dX]$`.
 |----------------------|----------------|-------------------------------------------------------------|
 | `ISSN:9781496335418` |              1 | [PATO:0001744](http://purl.obolibrary.org/obo/PATO_0001744) |
 
-## `Medline`: PubMed ID
+## `Medline`: PubMed
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `Medline` (standardized to Bioregistry

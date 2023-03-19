@@ -72,7 +72,7 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `MS:RGD`        |              4 | [VT:0000466](http://purl.obolibrary.org/obo/VT_0000466), [VT:0010213](http://purl.obolibrary.org/obo/VT_0010213), [VT:0010239](http://purl.obolibrary.org/obo/VT_0010239), [VT:1000711](http://purl.obolibrary.org/obo/VT_1000711) |
 
-## `PMID`: PubMed ID
+## `PMID`: PubMed
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry

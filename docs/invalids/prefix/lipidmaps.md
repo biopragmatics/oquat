@@ -1,4 +1,4 @@
-# [`lipidmaps`](https://bioregistry.io/lipidmaps): LIPID MAPS ID
+# [`lipidmaps`](https://bioregistry.io/lipidmaps): LIPID MAPS
 
 This page summarize the different resources that reference `lipidmaps`
 but use local unique identifiers that do not match the standard pattern of

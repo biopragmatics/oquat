@@ -92,7 +92,7 @@ did not match the standard pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{
 |-------------------------------------------|----------------|-----------------------------------------------------------------|
 | `ISBN:034057190X "Essential Malariology"` |              1 | [IDOMAL:0000030](http://purl.obolibrary.org/obo/IDOMAL_0000030) |
 
-## `PMID`: PubMed ID
+## `PMID`: PubMed
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry

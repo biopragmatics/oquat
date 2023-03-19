@@ -110,7 +110,7 @@ did not match the standard pattern `^PMC\d+$`.
 |-----------------|----------------|---------------------------------------------------------|
 | `PMC:126017`    |              1 | [SO:0002095](http://purl.obolibrary.org/obo/SO_0002095) |
 
-## `PMID`: PubMed ID
+## `PMID`: PubMed
 
 Overall, there were 21 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
@@ -249,7 +249,7 @@ did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0
 | `uniprot:feature`      |              2 | [SO:0001655](http://purl.obolibrary.org/obo/SO_0001655), [SO:0100020](http://purl.obolibrary.org/obo/SO_0100020)                                                                                                                                                                                 |
 | `uniprot:curation`     |              1 | [SO:0001091](http://purl.obolibrary.org/obo/SO_0001091)                                                                                                                                                                                                                                          |
 
-## `WB`: Wormbase Gene ID
+## `WB`: Wormbase Gene
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `WB` (standardized to Bioregistry

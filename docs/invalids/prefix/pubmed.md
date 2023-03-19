@@ -1,4 +1,4 @@
-# [`pubmed`](https://bioregistry.io/pubmed): PubMed ID
+# [`pubmed`](https://bioregistry.io/pubmed): PubMed
 
 This page summarize the different resources that reference `pubmed`
 but use local unique identifiers that do not match the standard pattern of

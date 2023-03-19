@@ -4,7 +4,7 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `unimod`.
 
 
-## `PMID`: PubMed ID
+## `PMID`: PubMed
 
 Overall, there were 20 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry

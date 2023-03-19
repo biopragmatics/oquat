@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `caro`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 14 resources,
+`^\d{7}$`. Of the 13 resources,
 1 variants on the standard prefix were found: ['CARO'].
 
 ## `aeo`: Anatomical Entity Ontology
@@ -20,14 +20,6 @@ Identifiers for this prefix are given incorrectly in `bila`.
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `CARO:MAH`      |             45 | [BILA:0000003](http://purl.obolibrary.org/obo/BILA_0000003), [BILA:0000004](http://purl.obolibrary.org/obo/BILA_0000004), [BILA:0000005](http://purl.obolibrary.org/obo/BILA_0000005), [BILA:0000006](http://purl.obolibrary.org/obo/BILA_0000006), [BILA:0000007](http://purl.obolibrary.org/obo/BILA_0000007), ... |
-
-## `caro`: Common Anatomy Reference Ontology
-
-Identifiers for this prefix are given incorrectly in `caro`. See the [GitHub repository](https://github.com/obophenotype/caro).
-
-| external_xref   |   usages_count | usages                                                                                                                   |
-|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------|
-| `CARO:MAH`      |              2 | [CARO:0000041](http://purl.obolibrary.org/obo/CARO_0000041), [CARO:0000054](http://purl.obolibrary.org/obo/CARO_0000054) |
 
 ## `cl`: Cell Ontology
 

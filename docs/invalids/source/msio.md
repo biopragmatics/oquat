@@ -18,7 +18,7 @@ did not match the standard pattern `^[1-9][0-9]{3,6}$`.
 | `Gmelin:895`    |              1 | [CHEBI:38472](http://purl.obolibrary.org/obo/CHEBI_38472) |
 | `Gmelin:97`     |              1 | [CHEBI:41981](http://purl.obolibrary.org/obo/CHEBI_41981) |
 
-## `LIPID_MAPS_class`: LIPID MAPS ID
+## `LIPID_MAPS_class`: LIPID MAPS
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `LIPID_MAPS_class` (standardized to Bioregistry

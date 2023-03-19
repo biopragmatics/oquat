@@ -1387,7 +1387,7 @@ did not match the standard pattern `^\d{7}$`.
 | `VHOG:OG`       |              4 | [UBERON:0005872](http://purl.obolibrary.org/obo/UBERON_0005872), [UBERON:0005873](http://purl.obolibrary.org/obo/UBERON_0005873), [UBERON:0005874](http://purl.obolibrary.org/obo/UBERON_0005874), [UBERON:0005875](http://purl.obolibrary.org/obo/UBERON_0005875) |
 | `VHOG:FB`       |              1 | [UBERON:0000112](http://purl.obolibrary.org/obo/UBERON_0000112)                                                                                                                                                                                                    |
 
-## `WB`: Wormbase Gene ID
+## `WB`: Wormbase Gene
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `WB` (standardized to Bioregistry

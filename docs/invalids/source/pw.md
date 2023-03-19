@@ -116,7 +116,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:OMIM`                              |              3 | [PW:0000625](http://purl.obolibrary.org/obo/PW_0000625), [PW:0000627](http://purl.obolibrary.org/obo/PW_0000627), [PW:0000631](http://purl.obolibrary.org/obo/PW_0000631) |
 | `OMIM:https://www.omim.org/entry/201710` |              1 | [PW:0001479](http://purl.obolibrary.org/obo/PW_0001479)                                                                                                                   |
 
-## `PMID`: PubMed ID
+## `PMID`: PubMed
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
@@ -140,7 +140,7 @@ did not match the standard pattern `^\d+$`.
 |------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `PubChem:https://pubchem.ncbi.nlm.nih.gov/compound/hydroflumethiazide` |              3 | [PW:0002377](http://purl.obolibrary.org/obo/PW_0002377), [PW:0002378](http://purl.obolibrary.org/obo/PW_0002378), [PW:0002379](http://purl.obolibrary.org/obo/PW_0002379) |
 
-## `PubMed`: PubMed ID
+## `PubMed`: PubMed
 
 Overall, there were 16 invalid
 xrefs to external prefixed with `PubMed` (standardized to Bioregistry
@@ -164,7 +164,7 @@ did not match the standard pattern `^\d+$`.
 | `PubMed:Annu. Rev. Neursci. 2003, v26, 701-28.`                               |              1 | [PW:0000274](http://purl.obolibrary.org/obo/PW_0000274)                                                          |
 | `PubMed:Several articles`                                                     |              1 | [PW:0000668](http://purl.obolibrary.org/obo/PW_0000668)                                                          |
 
-## `Pubmed`: PubMed ID
+## `Pubmed`: PubMed
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `Pubmed` (standardized to Bioregistry

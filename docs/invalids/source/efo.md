@@ -542,7 +542,7 @@ did not match the standard pattern `^C?\d+$`.
 | `ORDO:Orphanet_85414`  |              1 | [EFO:1001999](http://www.ebi.ac.uk/efo/EFO_1001999)                                                      |
 | `ORDO:Orphanet_66529`  |              1 | [EFO:1002000](http://www.ebi.ac.uk/efo/EFO_1002000)                                                      |
 
-## `PMID`: PubMed ID
+## `PMID`: PubMed
 
 Overall, there were 8 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry

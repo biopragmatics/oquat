@@ -124,7 +124,7 @@ did not match the standard pattern `^C\d+$`.
 |-------------------------------------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------|
 | `NCI Thesaurus:https://ncit-stage.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C930&ns=ncit` |              1 | [XCO:0000620](http://purl.obolibrary.org/obo/XCO_0000620) |
 
-## `PMID`: PubMed ID
+## `PMID`: PubMed
 
 Overall, there were 4 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry

@@ -1,5 +1,21 @@
 # `spire`
 
+## enm
+
+| curie                       |   usages | nodes                                                                                                                        |
+|-----------------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
+| SPIRE:Tundra                |        2 | [ENVO:01000180](http://purl.obolibrary.org/obo/ENVO_01000180), [ENVO:01001505](http://purl.obolibrary.org/obo/ENVO_01001505) |
+| SPIRE:Terrestrial           |        1 | [ENVO:00000446](http://purl.obolibrary.org/obo/ENVO_00000446)                                                                |
+| SPIRE:Marine                |        1 | [ENVO:00000447](http://purl.obolibrary.org/obo/ENVO_00000447)                                                                |
+| SPIRE:Freshwater            |        1 | [ENVO:00000873](http://purl.obolibrary.org/obo/ENVO_00000873)                                                                |
+| SPIRE:Soil                  |        1 | [ENVO:00001998](http://purl.obolibrary.org/obo/ENVO_00001998)                                                                |
+| SPIRE:Dung                  |        1 | [ENVO:00002003](http://purl.obolibrary.org/obo/ENVO_00002003)                                                                |
+| SPIRE:Brackish_water        |        1 | [ENVO:00002019](http://purl.obolibrary.org/obo/ENVO_00002019)                                                                |
+| SPIRE:Estuarine             |        1 | [ENVO:01000020](http://purl.obolibrary.org/obo/ENVO_01000020)                                                                |
+| SPIRE:Benthic               |        1 | [ENVO:01000024](http://purl.obolibrary.org/obo/ENVO_01000024)                                                                |
+| SPIRE:Savannah_or_grassland |        1 | [ENVO:01000178](http://purl.obolibrary.org/obo/ENVO_01000178)                                                                |
+| SPIRE:Urban                 |        1 | [ENVO:01000249](http://purl.obolibrary.org/obo/ENVO_01000249)                                                                |
+
 ## envo
 
 | curie                       |   usages | nodes                                                                                                                                                                                                                                                      |
@@ -40,20 +56,4 @@
 | SPIRE:Polar                 |        1 | [ENVO:01000238](http://purl.obolibrary.org/obo/ENVO_01000238)                                                                                                                                                                                              |
 | SPIRE:Urban                 |        1 | [ENVO:01000249](http://purl.obolibrary.org/obo/ENVO_01000249)                                                                                                                                                                                              |
 | SPIRE:Taiga                 |        1 | [ENVO:01000250](http://purl.obolibrary.org/obo/ENVO_01000250)                                                                                                                                                                                              |
-
-## enm
-
-| curie                       |   usages | nodes                                                                                                                        |
-|-----------------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
-| SPIRE:Tundra                |        2 | [ENVO:01000180](http://purl.obolibrary.org/obo/ENVO_01000180), [ENVO:01001505](http://purl.obolibrary.org/obo/ENVO_01001505) |
-| SPIRE:Terrestrial           |        1 | [ENVO:00000446](http://purl.obolibrary.org/obo/ENVO_00000446)                                                                |
-| SPIRE:Marine                |        1 | [ENVO:00000447](http://purl.obolibrary.org/obo/ENVO_00000447)                                                                |
-| SPIRE:Freshwater            |        1 | [ENVO:00000873](http://purl.obolibrary.org/obo/ENVO_00000873)                                                                |
-| SPIRE:Soil                  |        1 | [ENVO:00001998](http://purl.obolibrary.org/obo/ENVO_00001998)                                                                |
-| SPIRE:Dung                  |        1 | [ENVO:00002003](http://purl.obolibrary.org/obo/ENVO_00002003)                                                                |
-| SPIRE:Brackish_water        |        1 | [ENVO:00002019](http://purl.obolibrary.org/obo/ENVO_00002019)                                                                |
-| SPIRE:Estuarine             |        1 | [ENVO:01000020](http://purl.obolibrary.org/obo/ENVO_01000020)                                                                |
-| SPIRE:Benthic               |        1 | [ENVO:01000024](http://purl.obolibrary.org/obo/ENVO_01000024)                                                                |
-| SPIRE:Savannah_or_grassland |        1 | [ENVO:01000178](http://purl.obolibrary.org/obo/ENVO_01000178)                                                                |
-| SPIRE:Urban                 |        1 | [ENVO:01000249](http://purl.obolibrary.org/obo/ENVO_01000249)                                                                |
 

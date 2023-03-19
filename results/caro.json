@@ -1,31 +1,17 @@
 {
-  "created": "2023-03-12T01:03:17.638511",
+  "created": "2023-03-19T01:05:34.363601",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/caro.json": {
       "graph_id": "http://purl.obolibrary.org/obo/caro.json",
       "prov_pack": {
-        "invalid_luids": {
-          "http://purl.obolibrary.org/obo/CARO_0000041": [
-            "CARO:MAH"
-          ],
-          "http://purl.obolibrary.org/obo/CARO_0000054": [
-            "CARO:MAH"
-          ]
-        },
+        "invalid_luids": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {
           "CAROC": {
             "http://purl.obolibrary.org/obo/CARO_0000000": "CAROC:Brownsville2014"
-          },
-          "FBC": {
-            "http://purl.obolibrary.org/obo/CARO_0002003": "FBC:DOS",
-            "http://purl.obolibrary.org/obo/CARO_0010005": "FBC:DOS"
-          },
-          "GOC": {
-            "http://purl.obolibrary.org/obo/CARO_0002101": "GOC:dos"
           }
         }
       },
@@ -36,8 +22,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2022-02-18",
-      "version_iri": "http://purl.obolibrary.org/obo/caro/releases/2022-02-18/caro.json",
+      "version": "2023-03-15",
+      "version_iri": "http://purl.obolibrary.org/obo/caro/releases/2023-03-15/caro.json",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

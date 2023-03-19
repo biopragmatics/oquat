@@ -144,7 +144,7 @@ did not match the standard pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`.
 |----------------------------|----------------|---------------------------------------------------------|
 | `ORCID:000-0002-6670-9157` |              1 | [HP:0002673](http://purl.obolibrary.org/obo/HP_0002673) |
 
-## `PMID`: PubMed ID
+## `PMID`: PubMed
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry

@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-12T02:10:45.354812",
+  "created": "2023-03-19T02:11:45.391792",
   "messages": [
     "ERROR Input ontology contains 7 triple(s) that could not be parsed:",
     " - <http://www.wurvoc.org/bibliography/om-2/Stroemgren1956Authors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1> <http://www.wurvoc.org/bibliography/om-2/Brengt_Stroemgren>.",
@@ -27,7 +27,7 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2.0.38",
+      "version": "2.0.39",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

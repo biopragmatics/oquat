@@ -247,7 +247,7 @@ did not match the standard pattern `^\d{7}$`.
 | `PATO:DS`       |              1 | [PATO:0002390](http://purl.obolibrary.org/obo/PATO_0002390)                                                                                                                                                                                                                                                     |
 | `PATO:MAH`      |              1 | [PATO:0002632](http://purl.obolibrary.org/obo/PATO_0002632)                                                                                                                                                                                                                                                     |
 
-## `PMID`: PubMed ID
+## `PMID`: PubMed
 
 Overall, there were 6 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry

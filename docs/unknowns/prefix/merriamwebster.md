@@ -1,12 +1,5 @@
 # `merriamwebster`
 
-## xco
-
-| curie                                                            |   usages | nodes                                                                                                                                                                                                                                                                                                      |
-|------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed      |       12 | [XCO:0000057](http://purl.obolibrary.org/obo/XCO_0000057), [XCO:0000100](http://purl.obolibrary.org/obo/XCO_0000100), [XCO:0000239](http://purl.obolibrary.org/obo/XCO_0000239), [XCO:0000320](http://purl.obolibrary.org/obo/XCO_0000320), [XCO:0000321](http://purl.obolibrary.org/obo/XCO_0000321), ... |
-| merriam-webster:https://www.merriam-webster.com/dictionary/prion |        1 | [XCO:0000655](http://purl.obolibrary.org/obo/XCO_0000655)                                                                                                                                                                                                                                                  |
-
 ## enm
 
 | curie                           |   usages | nodes                                                       |
@@ -18,6 +11,13 @@
 | curie                                                       |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |-------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed |       13 | [MMO:0000105](http://purl.obolibrary.org/obo/MMO_0000105), [MMO:0000120](http://purl.obolibrary.org/obo/MMO_0000120), [MMO:0000172](http://purl.obolibrary.org/obo/MMO_0000172), [MMO:0000213](http://purl.obolibrary.org/obo/MMO_0000213), [MMO:0000217](http://purl.obolibrary.org/obo/MMO_0000217), ... |
+
+## xco
+
+| curie                                                            |   usages | nodes                                                                                                                                                                                                                                                                                                      |
+|------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed      |       12 | [XCO:0000057](http://purl.obolibrary.org/obo/XCO_0000057), [XCO:0000100](http://purl.obolibrary.org/obo/XCO_0000100), [XCO:0000239](http://purl.obolibrary.org/obo/XCO_0000239), [XCO:0000320](http://purl.obolibrary.org/obo/XCO_0000320), [XCO:0000321](http://purl.obolibrary.org/obo/XCO_0000321), ... |
+| merriam-webster:https://www.merriam-webster.com/dictionary/prion |        1 | [XCO:0000655](http://purl.obolibrary.org/obo/XCO_0000655)                                                                                                                                                                                                                                                  |
 
 ## pato
 

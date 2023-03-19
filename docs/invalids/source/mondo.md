@@ -300,7 +300,7 @@ did not match the standard pattern `^\d+$`.
 | `Orphanet:189-text`          |              1 | [MONDO:0007510](http://purl.obolibrary.org/obo/MONDO_0007510)                                                                |
 | `Orphanet:890-text`          |              1 | [MONDO:0019514](http://purl.obolibrary.org/obo/MONDO_0019514)                                                                |
 
-## `PMID`: PubMed ID
+## `PMID`: PubMed
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry

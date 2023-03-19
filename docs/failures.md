@@ -17710,13 +17710,13 @@ graphs -> 0 -> nodes -> 11658 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)                                                                                                                                                      |
 | [ecto](https://bioregistry.io/ecto)               | No parsable graphs                                                                                                                                   |
 | [efo](https://bioregistry.io/efo)                 | General error: 4 validation errors for GraphDocument
-graphs -> 0 -> nodes -> 15968 -> meta -> synonyms -> 0 -> val
+graphs -> 0 -> nodes -> 15995 -> meta -> synonyms -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 18784 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 18811 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 24441 -> meta -> synonyms -> 0 -> val
+graphs -> 0 -> nodes -> 24468 -> meta -> synonyms -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 26115 -> meta -> definition -> val
+graphs -> 0 -> nodes -> 26142 -> meta -> definition -> val
   field required (type=value_error.missing)                                                                                                                                                      |
 | [efo](https://bioregistry.io/efo)                 | No parsable graphs                                                                                                                                   |
 | [enm](https://bioregistry.io/enm)                 | General error: 8 validation errors for GraphDocument
@@ -18437,7 +18437,7 @@ graphs -> 0 -> nodes -> 1163 -> meta -> synonyms -> 0 -> val
   field required (type=value_error.missing)                                                                                                                                                      |
 | [mat](https://bioregistry.io/mat)                 | No parsable graphs                                                                                                                                   |
 | [maxo](https://bioregistry.io/maxo)               | General error: 1 validation error for GraphDocument
-graphs -> 0 -> nodes -> 10725 -> meta -> basicPropertyValues -> 1 -> val
+graphs -> 0 -> nodes -> 11294 -> meta -> basicPropertyValues -> 1 -> val
   field required (type=value_error.missing)                                                                                                                                                      |
 | [maxo](https://bioregistry.io/maxo)               | No parsable graphs                                                                                                                                   |
 | [mba](https://bioregistry.io/mba)                 | General error: 1 validation error for GraphDocument
@@ -18463,309 +18463,295 @@ graphs -> 0 -> nodes -> 17057 -> meta -> synonyms -> 0 -> val
   field required (type=value_error.missing)                                                                                                                                                      |
 | [micro](https://bioregistry.io/micro)             | No parsable graphs                                                                                                                                   |
 | [ms](https://bioregistry.io/ms)                   | General error: 304 validation errors for GraphDocument
-graphs -> 0 -> nodes -> 8986 -> meta -> basicPropertyValues -> 10 -> val
+graphs -> 0 -> nodes -> 8994 -> meta -> basicPropertyValues -> 10 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 9053 -> meta -> basicPropertyValues -> 9 -> val
+graphs -> 0 -> nodes -> 9061 -> meta -> basicPropertyValues -> 9 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 9096 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 9104 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 9164 -> meta -> basicPropertyValues -> 9 -> val
+graphs -> 0 -> nodes -> 9172 -> meta -> basicPropertyValues -> 9 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 9181 -> meta -> basicPropertyValues -> 8 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 9182 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 9183 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 9184 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 9186 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 9187 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 9189 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 9189 -> meta -> basicPropertyValues -> 8 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 9190 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 9191 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 9193 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 9192 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 9194 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 9194 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12071 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 9195 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12469 -> meta -> basicPropertyValues -> 1 -> val
+graphs -> 0 -> nodes -> 9197 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12529 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 9198 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12531 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 9199 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12535 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 9201 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12536 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 9202 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12539 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 12079 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12540 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12477 -> meta -> basicPropertyValues -> 1 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12541 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12537 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12542 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12539 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12547 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12543 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12548 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 12544 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12549 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12547 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12550 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 12548 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12561 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12549 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12563 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12550 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12564 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12555 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12565 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 12556 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12568 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12557 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12570 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12558 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12571 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12569 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12572 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12571 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12573 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12572 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12574 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12573 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12575 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12576 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12577 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 12578 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12578 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12579 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12580 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12580 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12581 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12581 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12583 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12582 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12584 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12583 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12585 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12586 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12587 -> meta -> basicPropertyValues -> 5 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12588 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12588 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12589 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12590 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12591 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12591 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12593 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12592 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12594 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12595 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12595 -> meta -> basicPropertyValues -> 5 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12596 -> meta -> basicPropertyValues -> 5 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12597 -> meta -> basicPropertyValues -> 5 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12598 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12599 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12601 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12603 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12602 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12604 -> meta -> basicPropertyValues -> 5 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12605 -> meta -> basicPropertyValues -> 5 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12606 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12603 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12607 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12608 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12609 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12609 -> meta -> basicPropertyValues -> 7 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12610 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12611 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12612 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12613 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12613 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12615 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12614 -> meta -> basicPropertyValues -> 5 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12615 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12616 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12617 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 12617 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12618 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12620 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12620 -> meta -> basicPropertyValues -> 5 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12621 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12623 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12624 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12625 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12625 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12631 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12626 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12632 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12628 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12634 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12631 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12635 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12632 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12633 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12639 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12644 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12640 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12645 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12642 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12647 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12643 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12650 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12647 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12651 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12652 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12653 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12653 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12660 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12655 -> meta -> basicPropertyValues -> 5 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12658 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12659 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12661 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12665 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12668 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12666 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12669 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12671 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12673 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12673 -> meta -> basicPropertyValues -> 7 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12674 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12674 -> meta -> basicPropertyValues -> 7 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12675 -> meta -> basicPropertyValues -> 5 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12678 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12674 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12679 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12682 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12681 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12695 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12682 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12696 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12682 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12699 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12683 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12700 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12686 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12701 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12687 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12702 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12690 -> meta -> basicPropertyValues -> 5 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12703 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12704 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12705 -> meta -> basicPropertyValues -> 5 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12706 -> meta -> basicPropertyValues -> 5 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12707 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12711 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12708 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12715 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12709 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12717 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 12710 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12718 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12712 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12720 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 12713 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12721 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12714 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12722 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12715 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12723 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 12719 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12723 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12725 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12726 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12727 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12728 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12728 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12729 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12729 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 12730 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12729 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12731 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12730 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12731 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12734 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12739 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 12735 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12739 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12736 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12740 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12737 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12741 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12737 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12741 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12738 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12742 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12742 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12744 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 12742 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12747 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12748 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 12747 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12750 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12748 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12752 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12749 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12753 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12749 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12754 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12750 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12756 -> meta -> basicPropertyValues -> 8 -> val
+graphs -> 0 -> nodes -> 12750 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12757 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12752 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12759 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12755 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12763 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12756 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12764 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12758 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12765 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12760 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12766 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12761 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12771 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12762 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12772 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12764 -> meta -> basicPropertyValues -> 8 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12765 -> meta -> basicPropertyValues -> 7 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12767 -> meta -> basicPropertyValues -> 7 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12771 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12772 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12773 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12774 -> meta -> basicPropertyValues -> 7 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12777 -> meta -> basicPropertyValues -> 7 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12778 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12778 -> meta -> basicPropertyValues -> 9 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12779 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
@@ -18773,303 +18759,317 @@ graphs -> 0 -> nodes -> 12780 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12781 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12782 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12782 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12784 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12785 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12788 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 12786 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12790 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12786 -> meta -> basicPropertyValues -> 9 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12791 -> meta -> basicPropertyValues -> 8 -> val
+graphs -> 0 -> nodes -> 12787 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12792 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12788 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12794 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12789 -> meta -> basicPropertyValues -> 5 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12790 -> meta -> basicPropertyValues -> 5 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12792 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12796 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12797 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12798 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12801 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12799 -> meta -> basicPropertyValues -> 8 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12802 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12800 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12803 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12802 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12804 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12804 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12805 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12806 -> meta -> basicPropertyValues -> 8 -> val
+graphs -> 0 -> nodes -> 12805 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12809 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12812 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 12810 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12812 -> meta -> basicPropertyValues -> 8 -> val
+graphs -> 0 -> nodes -> 12811 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12813 -> meta -> basicPropertyValues -> 8 -> val
+graphs -> 0 -> nodes -> 12812 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12817 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 12813 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12818 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 12814 -> meta -> basicPropertyValues -> 8 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12819 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 12817 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12832 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 12820 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12835 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12820 -> meta -> basicPropertyValues -> 8 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12852 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12821 -> meta -> basicPropertyValues -> 8 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12853 -> meta -> basicPropertyValues -> 10 -> val
+graphs -> 0 -> nodes -> 12825 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12862 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12826 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12863 -> meta -> basicPropertyValues -> 2 -> val
+graphs -> 0 -> nodes -> 12827 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12863 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 12840 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12877 -> meta -> basicPropertyValues -> 8 -> val
+graphs -> 0 -> nodes -> 12843 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12880 -> meta -> basicPropertyValues -> 8 -> val
+graphs -> 0 -> nodes -> 12860 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12883 -> meta -> basicPropertyValues -> 8 -> val
+graphs -> 0 -> nodes -> 12861 -> meta -> basicPropertyValues -> 10 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12870 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12871 -> meta -> basicPropertyValues -> 2 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 12871 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12885 -> meta -> basicPropertyValues -> 8 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12886 -> meta -> basicPropertyValues -> 8 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 12888 -> meta -> basicPropertyValues -> 8 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12898 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12891 -> meta -> basicPropertyValues -> 8 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12913 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12893 -> meta -> basicPropertyValues -> 8 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12923 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12894 -> meta -> basicPropertyValues -> 8 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12932 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 12896 -> meta -> basicPropertyValues -> 8 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12934 -> meta -> basicPropertyValues -> 2 -> val
+graphs -> 0 -> nodes -> 12906 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12945 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 12921 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12945 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12931 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12956 -> meta -> basicPropertyValues -> 2 -> val
+graphs -> 0 -> nodes -> 12940 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12960 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 12942 -> meta -> basicPropertyValues -> 2 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12960 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12953 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12980 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12953 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12980 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 12964 -> meta -> basicPropertyValues -> 2 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12981 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 12968 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12981 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12968 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12985 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 12988 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12985 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 12988 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12986 -> meta -> basicPropertyValues -> 1 -> val
+graphs -> 0 -> nodes -> 12989 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12986 -> meta -> basicPropertyValues -> 2 -> val
+graphs -> 0 -> nodes -> 12989 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12986 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 12993 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12987 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 12993 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12988 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 12994 -> meta -> basicPropertyValues -> 1 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12990 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 12994 -> meta -> basicPropertyValues -> 2 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12992 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 12994 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12992 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 12995 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12993 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 12996 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12993 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 12998 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12994 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12994 -> meta -> basicPropertyValues -> 5 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12995 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 12995 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 13000 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 13000 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13001 -> meta -> basicPropertyValues -> 0 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 13001 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13003 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 13002 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13004 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13002 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13004 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 13003 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13005 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13003 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13007 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 13008 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13007 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13009 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13007 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 13011 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13008 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 13012 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13008 -> meta -> basicPropertyValues -> 3 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13008 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13009 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13009 -> meta -> basicPropertyValues -> 3 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13009 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13012 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 13012 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 13013 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13013 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 13015 -> meta -> basicPropertyValues -> 0 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13015 -> meta -> basicPropertyValues -> 3 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13015 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13016 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 13016 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 13016 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13017 -> meta -> basicPropertyValues -> 0 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13017 -> meta -> basicPropertyValues -> 3 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 13017 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13019 -> meta -> basicPropertyValues -> 3 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13020 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 13020 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13022 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13021 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13022 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 13021 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13024 -> meta -> basicPropertyValues -> 7 -> val
+graphs -> 0 -> nodes -> 13024 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13035 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13024 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13037 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13025 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13039 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13027 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13040 -> meta -> basicPropertyValues -> 2 -> val
+graphs -> 0 -> nodes -> 13028 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13040 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13028 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13041 -> meta -> basicPropertyValues -> 2 -> val
+graphs -> 0 -> nodes -> 13030 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13041 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13030 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13045 -> meta -> basicPropertyValues -> 2 -> val
+graphs -> 0 -> nodes -> 13032 -> meta -> basicPropertyValues -> 7 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13045 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 13043 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13050 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13045 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13050 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 13047 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13051 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13048 -> meta -> basicPropertyValues -> 2 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13051 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 13048 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13052 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13049 -> meta -> basicPropertyValues -> 2 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13052 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 13049 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13054 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13053 -> meta -> basicPropertyValues -> 2 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13055 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 13053 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13055 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 13058 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13056 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 13058 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13056 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 13059 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13057 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 13059 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13057 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 13060 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13058 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 13060 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13059 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 13062 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13061 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 13063 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13065 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13063 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13064 -> meta -> basicPropertyValues -> 0 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13064 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13065 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 13065 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13066 -> meta -> basicPropertyValues -> 0 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 13067 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13069 -> meta -> basicPropertyValues -> 3 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13072 -> meta -> basicPropertyValues -> 2 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13072 -> meta -> basicPropertyValues -> 3 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13072 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13073 -> meta -> basicPropertyValues -> 2 -> val
+graphs -> 0 -> nodes -> 13069 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 13073 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 13073 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13074 -> meta -> basicPropertyValues -> 2 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13074 -> meta -> basicPropertyValues -> 3 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13074 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13077 -> meta -> basicPropertyValues -> 2 -> val
+graphs -> 0 -> nodes -> 13075 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 13077 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13079 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13080 -> meta -> basicPropertyValues -> 2 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13079 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 13080 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 13080 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13080 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 13081 -> meta -> basicPropertyValues -> 2 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13083 -> meta -> basicPropertyValues -> 2 -> val
+graphs -> 0 -> nodes -> 13081 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13083 -> meta -> basicPropertyValues -> 3 -> val
+graphs -> 0 -> nodes -> 13081 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13083 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 13082 -> meta -> basicPropertyValues -> 2 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13088 -> meta -> basicPropertyValues -> 1 -> val
+graphs -> 0 -> nodes -> 13082 -> meta -> basicPropertyValues -> 3 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13082 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13085 -> meta -> basicPropertyValues -> 2 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13085 -> meta -> basicPropertyValues -> 3 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13087 -> meta -> basicPropertyValues -> 3 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13087 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13088 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 13088 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13092 -> meta -> basicPropertyValues -> 8 -> val
+graphs -> 0 -> nodes -> 13091 -> meta -> basicPropertyValues -> 2 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13093 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 13091 -> meta -> basicPropertyValues -> 3 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13095 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 13091 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13100 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 13096 -> meta -> basicPropertyValues -> 1 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13104 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 13096 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13105 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 13100 -> meta -> basicPropertyValues -> 8 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13106 -> meta -> basicPropertyValues -> 5 -> val
+graphs -> 0 -> nodes -> 13101 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13953 -> meta -> basicPropertyValues -> 1 -> val
+graphs -> 0 -> nodes -> 13103 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13108 -> meta -> basicPropertyValues -> 5 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13112 -> meta -> basicPropertyValues -> 0 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13113 -> meta -> basicPropertyValues -> 5 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13114 -> meta -> basicPropertyValues -> 5 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 13961 -> meta -> basicPropertyValues -> 1 -> val
   field required (type=value_error.missing)                                                                                                                                                      |
 | [ms](https://bioregistry.io/ms)                   | No parsable graphs                                                                                                                                   |
 | [msio](https://bioregistry.io/msio)               | General error: 7 validation errors for GraphDocument
@@ -19093,139 +19093,71 @@ graphs -> 0 -> nodes -> 3492 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)                                                                                                                                                      |
 | [nbo](https://bioregistry.io/nbo)                 | No parsable graphs                                                                                                                                   |
 | [nif.std](https://bioregistry.io/nif.std)         | General error: 714 validation errors for GraphDocument
-graphs -> 0 -> nodes -> 114637 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 114656 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 143956 -> meta -> basicPropertyValues -> 2 -> val
+graphs -> 0 -> nodes -> 143975 -> meta -> basicPropertyValues -> 2 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 151023 -> meta -> basicPropertyValues -> 1 -> val
+graphs -> 0 -> nodes -> 151042 -> meta -> basicPropertyValues -> 1 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165544 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165571 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165550 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165551 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165552 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165558 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165561 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165563 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165564 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165565 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165566 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165567 -> meta -> basicPropertyValues -> 0 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165569 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165577 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 165578 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165580 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165579 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165581 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165585 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165582 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165588 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165586 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165590 -> meta -> basicPropertyValues -> 0 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 165591 -> meta -> basicPropertyValues -> 0 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 165592 -> meta -> basicPropertyValues -> 0 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 165593 -> meta -> basicPropertyValues -> 0 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 165594 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 165596 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165600 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165605 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165619 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165607 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165632 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165608 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165633 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165609 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165635 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165613 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165691 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165623 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165693 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165627 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165694 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165646 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 165695 -> meta -> basicPropertyValues -> 0 -> val
+graphs -> 0 -> nodes -> 165659 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175950 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 165660 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175951 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 165662 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175952 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 165718 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175953 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 165720 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175954 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 165721 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175955 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 165722 -> meta -> basicPropertyValues -> 0 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175956 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 175977 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175957 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175958 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175958 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175959 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175959 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175960 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175961 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175962 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175963 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175965 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175966 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175967 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175967 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175968 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175968 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175969 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175969 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175970 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175970 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175971 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175972 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175973 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175974 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175974 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175975 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175976 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175976 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175977 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 175978 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 175979 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175979 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 175980 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19251,13 +19183,7 @@ graphs -> 0 -> nodes -> 175988 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 175989 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175989 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 175990 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175990 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175991 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 175992 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19265,17 +19191,23 @@ graphs -> 0 -> nodes -> 175993 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 175994 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 175994 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 175995 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 175995 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 175996 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 175996 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 175997 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 175997 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 175998 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 175999 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 175999 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176000 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19289,11 +19221,11 @@ graphs -> 0 -> nodes -> 176003 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176003 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176004 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176005 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176004 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176006 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176006 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176007 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19305,11 +19237,13 @@ graphs -> 0 -> nodes -> 176010 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176011 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176011 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176012 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176012 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176013 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176013 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176014 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19317,11 +19251,13 @@ graphs -> 0 -> nodes -> 176015 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176016 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176016 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176017 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176018 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176017 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176018 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176018 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176019 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19329,35 +19265,35 @@ graphs -> 0 -> nodes -> 176020 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176021 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176022 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176022 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176023 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176024 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176024 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176025 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176026 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176026 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176027 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176028 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176028 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176029 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176029 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176030 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176030 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176031 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176032 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176033 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176033 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176034 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19369,11 +19305,11 @@ graphs -> 0 -> nodes -> 176037 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176038 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176038 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176039 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176040 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176040 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176041 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19385,19 +19321,13 @@ graphs -> 0 -> nodes -> 176044 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176045 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176046 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176045 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176046 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176046 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176047 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176047 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176048 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176048 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176049 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176049 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
@@ -19405,17 +19335,15 @@ graphs -> 0 -> nodes -> 176050 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176051 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176052 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176051 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176052 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176052 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176053 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176054 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176055 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176055 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176056 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19425,11 +19353,7 @@ graphs -> 0 -> nodes -> 176057 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176058 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176058 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176059 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176059 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176060 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19437,17 +19361,11 @@ graphs -> 0 -> nodes -> 176060 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176061 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176061 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176062 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176062 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176063 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176064 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176064 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176065 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19459,15 +19377,9 @@ graphs -> 0 -> nodes -> 176067 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176068 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176068 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176069 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176069 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176070 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176070 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176071 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19479,6 +19391,8 @@ graphs -> 0 -> nodes -> 176073 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176074 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176074 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176075 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176075 -> meta -> basicPropertyValues -> 6 -> val
@@ -19488,8 +19402,6 @@ graphs -> 0 -> nodes -> 176076 -> meta -> basicPropertyValues -> 4 -> val
 graphs -> 0 -> nodes -> 176076 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176077 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176077 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176078 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19517,6 +19429,8 @@ graphs -> 0 -> nodes -> 176085 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176086 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176086 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176087 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176087 -> meta -> basicPropertyValues -> 6 -> val
@@ -19533,19 +19447,27 @@ graphs -> 0 -> nodes -> 176090 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176091 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176091 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176092 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176093 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176093 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176094 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176094 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176095 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176095 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176096 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176096 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176097 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176097 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176098 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19553,17 +19475,27 @@ graphs -> 0 -> nodes -> 176099 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176100 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176100 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176101 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176102 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176102 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176103 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176103 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176104 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176104 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176105 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176106 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176106 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176107 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19575,9 +19507,13 @@ graphs -> 0 -> nodes -> 176109 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176110 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176110 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176111 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176112 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176112 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176113 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19595,17 +19531,13 @@ graphs -> 0 -> nodes -> 176116 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176117 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176117 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176118 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176118 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176119 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176119 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176120 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176120 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176121 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19623,15 +19555,9 @@ graphs -> 0 -> nodes -> 176127 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176128 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176128 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176129 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176129 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176130 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176130 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176131 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19643,9 +19569,9 @@ graphs -> 0 -> nodes -> 176134 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176135 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176135 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176136 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176136 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176137 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19657,9 +19583,15 @@ graphs -> 0 -> nodes -> 176140 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176141 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176141 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176142 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176142 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176143 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176143 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176144 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19671,9 +19603,9 @@ graphs -> 0 -> nodes -> 176145 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176146 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176147 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176146 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176147 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176147 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176148 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19687,15 +19619,19 @@ graphs -> 0 -> nodes -> 176152 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176153 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176153 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176154 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176155 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176155 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176156 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176156 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176157 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176157 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176158 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19706,6 +19642,8 @@ graphs -> 0 -> nodes -> 176160 -> meta -> basicPropertyValues -> 4 -> val
 graphs -> 0 -> nodes -> 176161 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176162 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176162 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176163 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19719,41 +19657,37 @@ graphs -> 0 -> nodes -> 176167 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176168 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176168 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176169 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176169 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176170 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176171 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176171 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176172 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176172 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176173 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176174 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176175 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176174 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176175 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176175 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176176 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176176 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176177 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176177 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176178 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176179 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176179 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176180 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176180 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176181 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19763,7 +19697,7 @@ graphs -> 0 -> nodes -> 176183 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176184 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176184 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176185 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176186 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19775,15 +19709,11 @@ graphs -> 0 -> nodes -> 176189 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176190 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176190 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176191 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176192 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176193 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176193 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176194 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19793,15 +19723,13 @@ graphs -> 0 -> nodes -> 176195 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176196 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176196 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176197 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176198 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176198 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176199 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176199 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176200 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19809,29 +19737,33 @@ graphs -> 0 -> nodes -> 176201 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176202 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176202 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176203 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176203 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176204 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176205 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176204 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176205 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176205 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176206 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176207 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176206 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176207 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176207 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176208 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176209 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176209 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176210 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176211 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176211 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176212 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176213 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19843,11 +19775,15 @@ graphs -> 0 -> nodes -> 176216 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176217 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176217 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176218 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176219 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176220 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176220 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176221 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19861,7 +19797,11 @@ graphs -> 0 -> nodes -> 176224 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176225 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176225 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176226 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176226 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176227 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19871,29 +19811,29 @@ graphs -> 0 -> nodes -> 176229 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176230 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176231 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176232 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176232 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176233 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176234 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176234 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176235 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176235 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176236 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176237 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176237 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176236 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176238 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176238 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176239 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176240 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176240 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176241 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19905,11 +19845,15 @@ graphs -> 0 -> nodes -> 176244 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176245 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176246 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176247 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176248 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176249 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176249 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176250 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19921,21 +19865,11 @@ graphs -> 0 -> nodes -> 176253 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176254 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176254 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176255 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176256 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176256 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176257 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176257 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176258 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176258 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176259 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19943,17 +19877,23 @@ graphs -> 0 -> nodes -> 176260 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176261 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176261 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176262 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176262 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176263 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176264 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176264 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176265 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176266 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176267 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176267 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176268 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19963,11 +19903,7 @@ graphs -> 0 -> nodes -> 176270 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176271 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176271 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176272 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176273 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176274 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -19985,6 +19921,8 @@ graphs -> 0 -> nodes -> 176280 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176281 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176281 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176282 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176283 -> meta -> basicPropertyValues -> 4 -> val
@@ -19993,7 +19931,11 @@ graphs -> 0 -> nodes -> 176283 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176284 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176284 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176285 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176285 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176286 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20001,19 +19943,15 @@ graphs -> 0 -> nodes -> 176287 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176288 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176288 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176289 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176289 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176290 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176291 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176292 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176293 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176293 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176294 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20025,21 +19963,15 @@ graphs -> 0 -> nodes -> 176297 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176298 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176299 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176298 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176299 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176299 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176300 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176300 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176301 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176301 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176302 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176302 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176303 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20055,13 +19987,11 @@ graphs -> 0 -> nodes -> 176308 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176309 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176309 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176310 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176311 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176310 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176311 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176311 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176312 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20073,6 +20003,8 @@ graphs -> 0 -> nodes -> 176315 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176316 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176316 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176317 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176318 -> meta -> basicPropertyValues -> 4 -> val
@@ -20081,15 +20013,21 @@ graphs -> 0 -> nodes -> 176319 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176320 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176320 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176321 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176322 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176323 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176324 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176325 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176326 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176326 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176327 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20109,35 +20047,37 @@ graphs -> 0 -> nodes -> 176331 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176332 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176332 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176333 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176334 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176334 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176335 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176336 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176336 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176337 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176338 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176338 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176339 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176340 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176341 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176342 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176343 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176344 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176344 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176345 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176346 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176346 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176347 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20145,11 +20085,7 @@ graphs -> 0 -> nodes -> 176348 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176349 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176349 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176350 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176350 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176352 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20157,7 +20093,15 @@ graphs -> 0 -> nodes -> 176353 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176354 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176354 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176355 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176355 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176356 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176356 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176357 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20165,13 +20109,13 @@ graphs -> 0 -> nodes -> 176358 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176359 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176360 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176359 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176360 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176360 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176361 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176362 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176361 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176363 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20181,23 +20125,19 @@ graphs -> 0 -> nodes -> 176365 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176366 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176366 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176367 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176368 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176369 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176369 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176370 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176371 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176371 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176372 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176373 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176373 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176374 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20205,9 +20145,11 @@ graphs -> 0 -> nodes -> 176375 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176376 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176376 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176377 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176378 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176377 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176379 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20215,13 +20157,9 @@ graphs -> 0 -> nodes -> 176380 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176381 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176382 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176383 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176384 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176384 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176385 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20243,15 +20181,15 @@ graphs -> 0 -> nodes -> 176392 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176393 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176394 -> meta -> basicPropertyValues -> 4 -> val
+graphs -> 0 -> nodes -> 176393 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176394 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176394 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176395 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176395 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176396 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176396 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176397 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20266,8 +20204,6 @@ graphs -> 0 -> nodes -> 176401 -> meta -> basicPropertyValues -> 4 -> val
 graphs -> 0 -> nodes -> 176402 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176403 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176403 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176404 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20285,11 +20221,15 @@ graphs -> 0 -> nodes -> 176410 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176411 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176411 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176412 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176413 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176414 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176414 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176415 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20305,7 +20245,11 @@ graphs -> 0 -> nodes -> 176420 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176421 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176421 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176422 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176422 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176423 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20322,6 +20266,8 @@ graphs -> 0 -> nodes -> 176428 -> meta -> basicPropertyValues -> 4 -> val
 graphs -> 0 -> nodes -> 176429 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176430 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176430 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176431 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20377,8 +20323,6 @@ graphs -> 0 -> nodes -> 176456 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176457 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176457 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176458 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176459 -> meta -> basicPropertyValues -> 4 -> val
@@ -20393,17 +20337,11 @@ graphs -> 0 -> nodes -> 176463 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176464 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176464 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176465 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176465 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176466 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176467 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176467 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176468 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20439,6 +20377,8 @@ graphs -> 0 -> nodes -> 176483 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176484 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176484 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176485 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176486 -> meta -> basicPropertyValues -> 4 -> val
@@ -20453,19 +20393,29 @@ graphs -> 0 -> nodes -> 176490 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176491 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176491 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176492 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176492 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176493 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176494 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176494 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176495 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176496 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176497 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176499 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176498 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176499 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176500 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176500 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176501 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20475,9 +20425,7 @@ graphs -> 0 -> nodes -> 176503 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176504 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176504 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176505 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176505 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176506 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20487,23 +20435,17 @@ graphs -> 0 -> nodes -> 176508 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176509 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176509 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176510 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176510 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176511 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176511 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176512 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176512 -> meta -> basicPropertyValues -> 6 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176513 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176513 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176514 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176515 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176515 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176516 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
@@ -20511,15 +20453,73 @@ graphs -> 0 -> nodes -> 176517 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176518 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176519 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176520 -> meta -> basicPropertyValues -> 4 -> val
-  field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176520 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)
 graphs -> 0 -> nodes -> 176521 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 176521 -> meta -> basicPropertyValues -> 6 -> val
+graphs -> 0 -> nodes -> 176523 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176524 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176526 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176527 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176527 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176528 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176529 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176530 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176531 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176531 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176532 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176533 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176534 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176535 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176536 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176536 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176537 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176537 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176538 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176538 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176539 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176540 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176541 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176542 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176543 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176544 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176545 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176546 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176547 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176547 -> meta -> basicPropertyValues -> 6 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176548 -> meta -> basicPropertyValues -> 4 -> val
+  field required (type=value_error.missing)
+graphs -> 0 -> nodes -> 176548 -> meta -> basicPropertyValues -> 6 -> val
   field required (type=value_error.missing)                                                                                                                                                      |
 | [nif.std](https://bioregistry.io/nif.std)         | No parsable graphs                                                                                                                                   |
 | [nomen](https://bioregistry.io/nomen)             | General error: 4 validation errors for GraphDocument
@@ -22168,7 +22168,7 @@ graphs -> 0 -> nodes -> 532 -> meta -> basicPropertyValues -> 4 -> val
   field required (type=value_error.missing)                                                                                                                                                      |
 | [phenx](https://bioregistry.io/phenx)             | No parsable graphs                                                                                                                                   |
 | [plana](https://bioregistry.io/plana)             | General error: 1 validation error for GraphDocument
-graphs -> 0 -> nodes -> 451 -> meta -> xrefs -> 0 -> val
+graphs -> 0 -> nodes -> 458 -> meta -> xrefs -> 0 -> val
   field required (type=value_error.missing)                                                                                                                                                      |
 | [plana](https://bioregistry.io/plana)             | No parsable graphs                                                                                                                                   |
 | [planp](https://bioregistry.io/planp)             | General error: 443 validation errors for GraphDocument
@@ -23794,7 +23794,7 @@ graphs -> 0 -> nodes -> 730 -> meta -> basicPropertyValues -> 0 -> val
 graphs -> 0 -> nodes -> 792 -> meta -> basicPropertyValues -> 2 -> val
   field required (type=value_error.missing)                                                                                                                                                      |
 | [sao](https://bioregistry.io/sao)                 | No parsable graphs                                                                                                                                   |
-| [shacl](https://bioregistry.io/shacl)             | Unhanded suffix in its OWL URL: https://triplydb.com/w3c/sh/download.trig.gz                                                                         |
+| [sh](https://bioregistry.io/sh)                   | Unhanded suffix in its OWL URL: https://triplydb.com/w3c/sh/download.trig.gz                                                                         |
 | [snomedct](https://bioregistry.io/snomedct)       | Unhanded suffix in its OWL URL: http://snomed.info/sct/900000000000207008/version/20200131                                                           |
 | [sphn](https://bioregistry.io/sphn)               | Unhanded suffix in its OWL URL: https://git.dcc.sib.swiss/sphn-semantic-framework/sphn-ontology/-/raw/master/ontology/sphn_ontology.owl?inline=false |
 | [stato](https://bioregistry.io/stato)             | General error: 301 validation errors for GraphDocument
@@ -24402,9 +24402,9 @@ graphs -> 0 -> nodes -> 980 -> meta -> basicPropertyValues -> 5 -> val
   field required (type=value_error.missing)                                                                                                                                                      |
 | [stato](https://bioregistry.io/stato)             | No parsable graphs                                                                                                                                   |
 | [uberon](https://bioregistry.io/uberon)           | General error: 2 validation errors for GraphDocument
-graphs -> 0 -> nodes -> 10216 -> meta -> basicPropertyValues -> 1 -> val
+graphs -> 0 -> nodes -> 10346 -> meta -> basicPropertyValues -> 1 -> val
   field required (type=value_error.missing)
-graphs -> 0 -> nodes -> 13490 -> meta -> basicPropertyValues -> 1 -> val
+graphs -> 0 -> nodes -> 13620 -> meta -> basicPropertyValues -> 1 -> val
   field required (type=value_error.missing)                                                                                                                                                      |
 | [uberon](https://bioregistry.io/uberon)           | No parsable graphs                                                                                                                                   |
 | [uo](https://bioregistry.io/uo)                   | General error: 1 validation error for GraphDocument

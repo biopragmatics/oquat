@@ -80,7 +80,7 @@ did not match the standard pattern `^PMC\d+$`.
 |------------------|----------------|-------------------------------------------------------|
 | `PMCID: 1964945` |              1 | [MPATH:499](http://purl.obolibrary.org/obo/MPATH_499) |
 
-## `PMID`: PubMed ID
+## `PMID`: PubMed
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry

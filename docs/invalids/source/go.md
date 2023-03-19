@@ -764,7 +764,7 @@ did not match the standard pattern `^KW-\d{4}$`.
 |-----------------------|----------------|---------------------------------------------------------|
 | `UniProtKB-KW:KW-984` |              1 | [GO:0039664](http://purl.obolibrary.org/obo/GO_0039664) |
 
-## `WB_REF`: Wormbase Gene ID
+## `WB_REF`: Wormbase Gene
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `WB_REF` (standardized to Bioregistry

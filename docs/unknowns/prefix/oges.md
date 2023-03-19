@@ -1,13 +1,5 @@
 # `oges`
 
-## bao
-
-| curie       |   usages | nodes                                                           |
-|-------------|----------|-----------------------------------------------------------------|
-| OGES:000000 |        1 | [UBERON:0000068](http://purl.obolibrary.org/obo/UBERON_0000068) |
-| OGES:000004 |        1 | [UBERON:0000109](http://purl.obolibrary.org/obo/UBERON_0000109) |
-| OGES:000026 |        1 | [UBERON:0000113](http://purl.obolibrary.org/obo/UBERON_0000113) |
-
 ## uberon
 
 | curie       |   usages | nodes                                                           |
@@ -31,4 +23,12 @@
 | curie       |   usages | nodes                                               |
 |-------------|----------|-----------------------------------------------------|
 | OGES:000022 |        1 | [EFO:0007725](http://www.ebi.ac.uk/efo/EFO_0007725) |
+
+## bao
+
+| curie       |   usages | nodes                                                           |
+|-------------|----------|-----------------------------------------------------------------|
+| OGES:000000 |        1 | [UBERON:0000068](http://purl.obolibrary.org/obo/UBERON_0000068) |
+| OGES:000004 |        1 | [UBERON:0000109](http://purl.obolibrary.org/obo/UBERON_0000109) |
+| OGES:000026 |        1 | [UBERON:0000113](http://purl.obolibrary.org/obo/UBERON_0000113) |
 

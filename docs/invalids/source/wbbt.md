@@ -15,7 +15,7 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------|----------------|-------------------------------------------------------------|
 | `CARO:MAH`      |              1 | [WBbt:0008628](http://purl.obolibrary.org/obo/WBbt_0008628) |
 
-## `WB`: Wormbase Gene ID
+## `WB`: Wormbase Gene
 
 Overall, there were 5,448 invalid
 xrefs to external prefixed with `WB` (standardized to Bioregistry
@@ -48,7 +48,7 @@ did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 | `WB:Paper00000536` |              1 | [WBbt:0006850](http://purl.obolibrary.org/obo/WBbt_0006850)                                                                                                                                                                                                                                                          |
 | `WB:Paper00006002` |              1 | [WBbt:0007854](http://purl.obolibrary.org/obo/WBbt_0007854)                                                                                                                                                                                                                                                          |
 
-## `Wb`: Wormbase Gene ID
+## `Wb`: Wormbase Gene
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `Wb` (standardized to Bioregistry
@@ -60,7 +60,7 @@ did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
 | `Wb:rynl`       |              2 | [WBbt:0005370](http://purl.obolibrary.org/obo/WBbt_0005370), [WBbt:0005839](http://purl.obolibrary.org/obo/WBbt_0005839) |
 | `Wb:wjc`        |              1 | [WBbt:0006762](http://purl.obolibrary.org/obo/WBbt_0006762)                                                              |
 
-## `wB`: Wormbase Gene ID
+## `wB`: Wormbase Gene
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `wB` (standardized to Bioregistry

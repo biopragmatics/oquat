@@ -1514,7 +1514,7 @@ did not match the standard pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,
 | `KEGG:C-8660`   |              1 | [CHEBI:189210](http://purl.obolibrary.org/obo/CHEBI_189210) |
 | `KEGG:C-9227`   |              1 | [CHEBI:191088](http://purl.obolibrary.org/obo/CHEBI_191088) |
 
-## `LIPID_MAPS_class`: LIPID MAPS ID
+## `LIPID_MAPS_class`: LIPID MAPS
 
 Overall, there were 10 invalid
 xrefs to external prefixed with `LIPID_MAPS_class` (standardized to Bioregistry

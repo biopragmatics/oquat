@@ -7,6 +7,12 @@
 | thefreedictionary:http://www.thefreedictionary.com/bilobed    |        1 | [PATO:0002214](http://purl.obolibrary.org/obo/PATO_0002214) |
 | thefreedictionary:http://www.thefreedictionary.com/fan-shaped |        1 | [PATO:0002219](http://purl.obolibrary.org/obo/PATO_0002219) |
 
+## idomal
+
+| curie                                           |   usages | nodes                                                           |
+|-------------------------------------------------|----------|-----------------------------------------------------------------|
+| TheFreeDictionary:hemaglutinationinhibitiontest |        1 | [IDOMAL:0000557](http://purl.obolibrary.org/obo/IDOMAL_0000557) |
+
 ## bto
 
 | curie                                                               |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -29,10 +35,4 @@
 | thefreedictionary:http://www.thefreedictionary.com/bilobed      |        1 | [PATO:0002214](http://purl.obolibrary.org/obo/PATO_0002214)                                                                                                                                                                                                                                                          |
 | thefreedictionary:http://www.thefreedictionary.com/demyelinated |        1 | [PATO:0002218](http://purl.obolibrary.org/obo/PATO_0002218)                                                                                                                                                                                                                                                          |
 | thefreedictionary:http://www.thefreedictionary.com/fan-shaped   |        1 | [PATO:0002219](http://purl.obolibrary.org/obo/PATO_0002219)                                                                                                                                                                                                                                                          |
-
-## idomal
-
-| curie                                           |   usages | nodes                                                           |
-|-------------------------------------------------|----------|-----------------------------------------------------------------|
-| TheFreeDictionary:hemaglutinationinhibitiontest |        1 | [IDOMAL:0000557](http://purl.obolibrary.org/obo/IDOMAL_0000557) |
 

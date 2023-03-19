@@ -1,4 +1,4 @@
-# [`wormbase`](https://bioregistry.io/wormbase): Wormbase Gene ID
+# [`wormbase`](https://bioregistry.io/wormbase): Wormbase Gene
 
 This page summarize the different resources that reference `wormbase`
 but use local unique identifiers that do not match the standard pattern of

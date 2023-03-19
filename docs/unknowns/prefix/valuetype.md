@@ -1,5 +1,11 @@
 # `valuetype`
 
+## pride
+
+| curie                 |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
+|-----------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| value-type:xsd:string |       17 | [PRIDE:0000400](http://purl.obolibrary.org/obo/PRIDE_0000400), [PRIDE:0000403](http://purl.obolibrary.org/obo/PRIDE_0000403), [PRIDE:0000404](http://purl.obolibrary.org/obo/PRIDE_0000404), [PRIDE:0000406](http://purl.obolibrary.org/obo/PRIDE_0000406), [PRIDE:0000407](http://purl.obolibrary.org/obo/PRIDE_0000407), ... |
+
 ## msio
 
 | curie                  |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -9,10 +15,4 @@
 | value-type:xsd:decimal |        4 | [http://nmrML.org/nmrCV#NMR:1002016](http://nmrML.org/nmrCV#NMR:1002016), [http://nmrML.org/nmrCV#NMR:1002017](http://nmrML.org/nmrCV#NMR:1002017), [http://nmrML.org/nmrCV#NMR:1002018](http://nmrML.org/nmrCV#NMR:1002018), [http://nmrML.org/nmrCV#NMR:1002021](http://nmrML.org/nmrCV#NMR:1002021)                                                                                |
 | value-type:xsd:integer |        2 | [http://nmrML.org/nmrCV#NMR:1000879](http://nmrML.org/nmrCV#NMR:1000879), [http://nmrML.org/nmrCV#NMR:1002000](http://nmrML.org/nmrCV#NMR:1002000)                                                                                                                                                                                                                                    |
 | value-type:xsd:date    |        1 | [http://nmrML.org/nmrCV#NMR:1000747](http://nmrML.org/nmrCV#NMR:1000747)                                                                                                                                                                                                                                                                                                              |
-
-## pride
-
-| curie                 |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
-|-----------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| value-type:xsd:string |       17 | [PRIDE:0000400](http://purl.obolibrary.org/obo/PRIDE_0000400), [PRIDE:0000403](http://purl.obolibrary.org/obo/PRIDE_0000403), [PRIDE:0000404](http://purl.obolibrary.org/obo/PRIDE_0000404), [PRIDE:0000406](http://purl.obolibrary.org/obo/PRIDE_0000406), [PRIDE:0000407](http://purl.obolibrary.org/obo/PRIDE_0000407), ... |
 

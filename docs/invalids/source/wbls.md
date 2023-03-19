@@ -16,7 +16,7 @@ did not match the standard pattern `^PMC\d+$`.
 | `PMC:4492366`   |              1 | [WBls:0000801](http://purl.obolibrary.org/obo/WBls_0000801) |
 | `PMC:3697962`   |              1 | [WBls:0000802](http://purl.obolibrary.org/obo/WBls_0000802) |
 
-## `WB`: Wormbase Gene ID
+## `WB`: Wormbase Gene
 
 Overall, there were 751 invalid
 xrefs to external prefixed with `WB` (standardized to Bioregistry

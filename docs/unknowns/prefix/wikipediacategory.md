@@ -1,17 +1,5 @@
 # `wikipediacategory`
 
-## bao
-
-| curie                           |   usages | nodes                                                           |
-|---------------------------------|----------|-----------------------------------------------------------------|
-| WikipediaCategory:Head_and_neck |        1 | [UBERON:0007811](http://purl.obolibrary.org/obo/UBERON_0007811) |
-
-## dto
-
-| curie                           |   usages | nodes                                                           |
-|---------------------------------|----------|-----------------------------------------------------------------|
-| WikipediaCategory:Head_and_neck |        1 | [UBERON:0007811](http://purl.obolibrary.org/obo/UBERON_0007811) |
-
 ## uberon
 
 | curie                                        |   usages | nodes                                                           |
@@ -30,6 +18,12 @@
 |--------------------------|----------|-----------------------------------------------------------------|
 | WikipediaCategory:Glands |        1 | [UBERON:0002530](http://purl.obolibrary.org/obo/UBERON_0002530) |
 
+## epso
+
+| curie                            |   usages | nodes                                                           |
+|----------------------------------|----------|-----------------------------------------------------------------|
+| WikipediaCategory:Brodmann_areas |        1 | [UBERON:0013529](http://purl.obolibrary.org/obo/UBERON_0013529) |
+
 ## icdo
 
 | curie                    |   usages | nodes                                                           |
@@ -37,9 +31,15 @@
 | WikipediaCategory:Glands |        1 | [UBERON:0002530](http://purl.obolibrary.org/obo/UBERON_0002530) |
 | WikipediaCategory:Skull  |        1 | [UBERON:0003129](http://purl.obolibrary.org/obo/UBERON_0003129) |
 
-## epso
+## dto
 
-| curie                            |   usages | nodes                                                           |
-|----------------------------------|----------|-----------------------------------------------------------------|
-| WikipediaCategory:Brodmann_areas |        1 | [UBERON:0013529](http://purl.obolibrary.org/obo/UBERON_0013529) |
+| curie                           |   usages | nodes                                                           |
+|---------------------------------|----------|-----------------------------------------------------------------|
+| WikipediaCategory:Head_and_neck |        1 | [UBERON:0007811](http://purl.obolibrary.org/obo/UBERON_0007811) |
+
+## bao
+
+| curie                           |   usages | nodes                                                           |
+|---------------------------------|----------|-----------------------------------------------------------------|
+| WikipediaCategory:Head_and_neck |        1 | [UBERON:0007811](http://purl.obolibrary.org/obo/UBERON_0007811) |
 
