@@ -7,12 +7,6 @@
 | Bgee:AN  |        5 | [UBERON:0018241](http://purl.obolibrary.org/obo/UBERON_0018241), [UBERON:0018685](http://purl.obolibrary.org/obo/UBERON_0018685), [UBERON:0034919](http://purl.obolibrary.org/obo/UBERON_0034919), [UBERON:0034920](http://purl.obolibrary.org/obo/UBERON_0034920), [UBERON:0035602](http://purl.obolibrary.org/obo/UBERON_0035602), ... |
 | bgee:ANN |        1 | [UBERON:0036219](http://purl.obolibrary.org/obo/UBERON_0036219)                                                                                                                                                                                                                                                                          |
 
-## vhog
-
-| curie        |   usages | nodes                                                                                                                                                                                                                                                                                                                |
-|--------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bgee:curator |       91 | [VHOG:0000009](http://purl.obolibrary.org/obo/VHOG_0000009), [VHOG:0000010](http://purl.obolibrary.org/obo/VHOG_0000010), [VHOG:0000011](http://purl.obolibrary.org/obo/VHOG_0000011), [VHOG:0000012](http://purl.obolibrary.org/obo/VHOG_0000012), [VHOG:0000013](http://purl.obolibrary.org/obo/VHOG_0000013), ... |
-
 ## hog
 
 | curie        |   usages | nodes                                                                                                                                                                                                                                                                                                      |

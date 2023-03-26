@@ -46,6 +46,8 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`.
 | `Coriell:AICS-0088-083` |              1 | [Cellosaurus#CVCL:A8RT](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8RT) |
 | `Coriell:AICS-0099-020` |              1 | [Cellosaurus#CVCL:A8SR](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8SR) |
 | `Coriell:AICS-0082-001` |              1 | [Cellosaurus#CVCL:B6E3](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B6E3) |
+| `Coriell:AICS-0083-005` |              1 | [Cellosaurus#CVCL:C6T3](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C6T3) |
+| `Coriell:AICS-0083-124` |              1 | [Cellosaurus#CVCL:C6T4](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C6T4) |
 | `Coriell:I91S-04`       |              1 | [Cellosaurus#CVCL:CX66](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_CX66) |
 | `Coriell:I91S-05`       |              1 | [Cellosaurus#CVCL:CX66](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_CX66) |
 | `Coriell:I91S-06`       |              1 | [Cellosaurus#CVCL:CX66](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_CX66) |

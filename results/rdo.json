@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-19T02:19:56.657048",
+  "created": "2023-03-26T02:15:39.573984",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/rdo.owl": {
@@ -612,8 +612,8 @@
           }
         }
       },
-      "version": "1.218",
-      "version_iri": "http://purl.obolibrary.org/obo/rdo/1.218/rdo.owl",
+      "version": "1.219",
+      "version_iri": "http://purl.obolibrary.org/obo/rdo/1.219/rdo.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/DOID_0050120": [

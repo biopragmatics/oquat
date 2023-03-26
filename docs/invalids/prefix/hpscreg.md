@@ -20,6 +20,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`.
 | `hPSCreg:LZUSHI001-A`  |              1 | [Cellosaurus#CVCL:C0IG](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C0IG) |
 | `hPSCreg:LZUSHI002-A`  |              1 | [Cellosaurus#CVCL:C1UQ](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C1UQ) |
 | `hPSCreg:FDCHDPe012-a` |              1 | [Cellosaurus#CVCL:C3RE](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C3RE) |
+| `hPSCreg:STJUDEi005`   |              1 | [Cellosaurus#CVCL:C6SV](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C6SV) |
 | `hPSCreg:SCHI001-A`    |              1 | [Cellosaurus#CVCL:QY96](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_QY96) |
 | `hPSCreg:CENSOi002-a`  |              1 | [Cellosaurus#CVCL:VT13](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_VT13) |
 

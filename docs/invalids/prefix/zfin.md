@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `zfin`
 but use local unique identifiers that do not match the standard pattern of
-`^ZDB\-\w+\-\d+\-\d+$`. Of the 9 resources,
+`^ZDB\-\w+\-\d+\-\d+$`. Of the 8 resources,
 2 variants on the standard prefix were found: ['ZFIN', 'zfin'].
 
 ## `cl`: Cell Ontology
@@ -63,14 +63,6 @@ Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub r
 | `zfin:curator`   |              1 | [UBERON:0008911](http://purl.obolibrary.org/obo/UBERON_0008911)                                                                                                                                                                                                                                                                          |
 | `ZFIN:090511-18` |              1 | [UBERON:2002145](http://purl.obolibrary.org/obo/UBERON_2002145)                                                                                                                                                                                                                                                                          |
 | `ZFIN:CVS`       |              1 | [UBERON:2005265](http://purl.obolibrary.org/obo/UBERON_2005265)                                                                                                                                                                                                                                                                          |
-
-## `vhog`: Vertebrate Homologous Organ Group Ontology
-
-Identifiers for this prefix are given incorrectly in `vhog`.
-
-| external_xref   |   usages_count | usages                                                      |
-|-----------------|----------------|-------------------------------------------------------------|
-| `ZFIN:Curator`  |              1 | [VHOG:0001750](http://purl.obolibrary.org/obo/VHOG_0001750) |
 
 ## `vsao`: Vertebrate Skeletal Anatomy Ontology
 
