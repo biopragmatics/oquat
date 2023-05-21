@@ -945,15 +945,14 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 ## `OBOL`
 
-There are 3 usages of `OBOL` in `uberon`.
+There are 2 usages of `OBOL` in `uberon`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OBOL).
 
-| curie            |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
-|------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| OBOL:automatic   |      920 | [UBERON:0000031](http://purl.obolibrary.org/obo/UBERON_0000031), [UBERON:0000044](http://purl.obolibrary.org/obo/UBERON_0000044), [UBERON:0000079](http://purl.obolibrary.org/obo/UBERON_0000079), [UBERON:0000102](http://purl.obolibrary.org/obo/UBERON_0000102), [UBERON:0000114](http://purl.obolibrary.org/obo/UBERON_0000114), ... |
-| OBOL:accepted    |       98 | [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020), [UBERON:0001463](http://purl.obolibrary.org/obo/UBERON_0001463), [UBERON:0003522](http://purl.obolibrary.org/obo/UBERON_0003522), [UBERON:0003578](http://purl.obolibrary.org/obo/UBERON_0003578), [UBERON:0003597](http://purl.obolibrary.org/obo/UBERON_0003597), ... |
-| OBOL:exploratory |        1 | [UBERON:0003661](http://purl.obolibrary.org/obo/UBERON_0003661)                                                                                                                                                                                                                                                                          |
+| curie          |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
+|----------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| OBOL:automatic |      904 | [UBERON:0000031](http://purl.obolibrary.org/obo/UBERON_0000031), [UBERON:0000044](http://purl.obolibrary.org/obo/UBERON_0000044), [UBERON:0000079](http://purl.obolibrary.org/obo/UBERON_0000079), [UBERON:0000102](http://purl.obolibrary.org/obo/UBERON_0000102), [UBERON:0000114](http://purl.obolibrary.org/obo/UBERON_0000114), ... |
+| OBOL:accepted  |      115 | [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020), [UBERON:0001463](http://purl.obolibrary.org/obo/UBERON_0001463), [UBERON:0001747](http://purl.obolibrary.org/obo/UBERON_0001747), [UBERON:0003435](http://purl.obolibrary.org/obo/UBERON_0003435), [UBERON:0003508](http://purl.obolibrary.org/obo/UBERON_0003508), ... |
 
 ## `OMD`
 
@@ -1304,7 +1303,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | BM:Tel-Cx-POS     |        1 | [UBERON:0002695](http://purl.obolibrary.org/obo/UBERON_0002695)                                                                  |
 | BM:MB-CNF         |        1 | [UBERON:0002696](http://purl.obolibrary.org/obo/UBERON_0002696)                                                                  |
 | BM:Die-Hy-HPA     |        1 | [UBERON:0002706](http://purl.obolibrary.org/obo/UBERON_0002706)                                                                  |
-| BM:CST            |        1 | [UBERON:0002707](http://purl.obolibrary.org/obo/UBERON_0002707)                                                                  |
+| BM:Me-PyT         |        1 | [UBERON:0002707](http://purl.obolibrary.org/obo/UBERON_0002707)                                                                  |
 | BM:Tel-Cx-CGS     |        1 | [UBERON:0002710](http://purl.obolibrary.org/obo/UBERON_0002710)                                                                  |
 | BM:NPC            |        1 | [UBERON:0002711](http://purl.obolibrary.org/obo/UBERON_0002711)                                                                  |
 | BM:Me-ST          |        1 | [UBERON:0002718](http://purl.obolibrary.org/obo/UBERON_0002718)                                                                  |
@@ -1358,7 +1357,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | BM:Tel-SI         |        1 | [UBERON:0003017](http://purl.obolibrary.org/obo/UBERON_0003017)                                                                  |
 | BM:Die-Th-L       |        1 | [UBERON:0003026](http://purl.obolibrary.org/obo/UBERON_0003026)                                                                  |
 | BM:Tel-Cx-Cg      |        1 | [UBERON:0003027](http://purl.obolibrary.org/obo/UBERON_0003027)                                                                  |
-| BM:ST             |        1 | [UBERON:0003029](http://purl.obolibrary.org/obo/UBERON_0003029)                                                                  |
+| BM:STr            |        1 | [UBERON:0003029](http://purl.obolibrary.org/obo/UBERON_0003029)                                                                  |
 | BM:Die-Th-Po      |        1 | [UBERON:0003030](http://purl.obolibrary.org/obo/UBERON_0003030)                                                                  |
 | BM:Die-Th-SG      |        1 | [UBERON:0003033](http://purl.obolibrary.org/obo/UBERON_0003033)                                                                  |
 | BM:Die-CL         |        1 | [UBERON:0003036](http://purl.obolibrary.org/obo/UBERON_0003036)                                                                  |
@@ -1647,7 +1646,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ANISEED:1235300 |        1 | [UBERON:0000206](http://purl.obolibrary.org/obo/UBERON_0000206) |
 | ANISEED:1235297 |        1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
 | ANISEED:1235301 |        1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
-| ANISEED:777311  |        1 | [UBERON:0002280](http://purl.obolibrary.org/obo/UBERON_0002280) |
+| ANISEED:874485  |        1 | [UBERON:0002280](http://purl.obolibrary.org/obo/UBERON_0002280) |
 | ANISEED:1235299 |        1 | [UBERON:0006870](http://purl.obolibrary.org/obo/UBERON_0006870) |
 | ANISEED:1239655 |        1 | [UBERON:0009860](http://purl.obolibrary.org/obo/UBERON_0009860) |
 | ANISEED:777309  |        1 | [UBERON:0009892](http://purl.obolibrary.org/obo/UBERON_0009892) |
@@ -1743,16 +1742,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |----------------|----------|-----------------------------------------------------------------|
 | DrerDO:0000052 |        1 | [UBERON:0004707](http://purl.obolibrary.org/obo/UBERON_0004707) |
 
-## `EMAPS`
-
-There are 1 usages of `EMAPS` in `uberon`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20EMAPS).
-
-| curie         |   usages | nodes                                                           |
-|---------------|----------|-----------------------------------------------------------------|
-| EMAPS:1818928 |        1 | [UBERON:0018240](http://purl.obolibrary.org/obo/UBERON_0018240) |
-
 ## `MAP`
 
 There are 1 usages of `MAP` in `uberon`.
@@ -1834,16 +1823,16 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie       |   usages | nodes                                                           |
 |-------------|----------|-----------------------------------------------------------------|
-| OGES:000000 |        1 | [UBERON:0000068](http://purl.obolibrary.org/obo/UBERON_0000068) |
+| OGES:000022 |        1 | [UBERON:0000068](http://purl.obolibrary.org/obo/UBERON_0000068) |
 | OGES:000008 |        1 | [UBERON:0000069](http://purl.obolibrary.org/obo/UBERON_0000069) |
 | OGES:000024 |        1 | [UBERON:0000092](http://purl.obolibrary.org/obo/UBERON_0000092) |
 | OGES:000011 |        1 | [UBERON:0000104](http://purl.obolibrary.org/obo/UBERON_0000104) |
-| OGES:000015 |        1 | [UBERON:0000107](http://purl.obolibrary.org/obo/UBERON_0000107) |
-| OGES:000003 |        1 | [UBERON:0000108](http://purl.obolibrary.org/obo/UBERON_0000108) |
-| OGES:000004 |        1 | [UBERON:0000109](http://purl.obolibrary.org/obo/UBERON_0000109) |
-| OGES:000005 |        1 | [UBERON:0000111](http://purl.obolibrary.org/obo/UBERON_0000111) |
+| OGES:000020 |        1 | [UBERON:0000107](http://purl.obolibrary.org/obo/UBERON_0000107) |
+| OGES:000021 |        1 | [UBERON:0000108](http://purl.obolibrary.org/obo/UBERON_0000108) |
+| OGES:000019 |        1 | [UBERON:0000109](http://purl.obolibrary.org/obo/UBERON_0000109) |
+| OGES:000032 |        1 | [UBERON:0000111](http://purl.obolibrary.org/obo/UBERON_0000111) |
 | OGES:000009 |        1 | [UBERON:0000112](http://purl.obolibrary.org/obo/UBERON_0000112) |
-| OGES:000026 |        1 | [UBERON:0000113](http://purl.obolibrary.org/obo/UBERON_0000113) |
+| OGES:000027 |        1 | [UBERON:0000113](http://purl.obolibrary.org/obo/UBERON_0000113) |
 | OGES:000006 |        1 | [UBERON:0004707](http://purl.obolibrary.org/obo/UBERON_0004707) |
 | OGES:000023 |        1 | [UBERON:0007220](http://purl.obolibrary.org/obo/UBERON_0007220) |
 | OGES:000025 |        1 | [UBERON:0007221](http://purl.obolibrary.org/obo/UBERON_0007221) |

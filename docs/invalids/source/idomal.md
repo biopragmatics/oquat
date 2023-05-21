@@ -49,14 +49,3 @@ did not match the standard pattern `^C\d+$`.
 |-----------------|----------------|-------------------------------------------------------------------|
 | `NCI:Thesaurus` |              1 | [IDOMAL:50000048](http://purl.obolibrary.org/obo/IDOMAL_50000048) |
 
-## `Wikipedia`: Wikipedia
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
-prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
-did not match the standard pattern `^[A-Za-z-0-9_]+$`.
-
-| external_xref            |   usages_count | usages                                                          |
-|--------------------------|----------------|-----------------------------------------------------------------|
-| `Wikipedia:Field'sstain` |              1 | [IDOMAL:0000553](http://purl.obolibrary.org/obo/IDOMAL_0000553) |
-

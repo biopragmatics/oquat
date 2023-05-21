@@ -1,7 +1,7 @@
 {
-  "created": "2023-03-26T02:16:18.025044",
+  "created": "2023-05-21T01:52:55.595233",
   "messages": [
-    "could not parse OWL for schema from http://aber-owl.net/media/ontologies/SCHEMAORG/2/schemaorg.owl"
+    "could not parse OWL for schema from https://schema.org/version/latest/schemaorg-all-http.rdf"
   ],
   "results": {}
 }

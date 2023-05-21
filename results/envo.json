@@ -1,9 +1,13 @@
 {
-  "created": "2023-02-13T18:42:30.448383",
-  "messages": [],
+  "created": "2023-05-21T00:55:10.095139",
+  "messages": [
+    "could not parse JSON for envo from http://purl.obolibrary.org/obo/envo.json",
+    "ERROR Input ontology contains 1 triple(s) that could not be parsed:",
+    " - <https://www.wikidata.org/wiki/Q2306597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147500604."
+  ],
   "results": {
-    "http://purl.obolibrary.org/obo/envo.json": {
-      "graph_id": "http://purl.obolibrary.org/obo/envo.json",
+    "http://purl.obolibrary.org/obo/envo.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/envo.owl",
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000005": [
@@ -238,9 +242,6 @@
             "MA:ma"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000310": [
-            "MA:ma"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000339": [
             "MA:ma"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000342": [
@@ -606,14 +607,17 @@
           "http://purl.obolibrary.org/obo/ENVO_01001071": [
             "MA:ma"
           ],
+          "http://purl.obolibrary.org/obo/ENVO_01001897": [
+            "MA:ma"
+          ],
+          "http://purl.obolibrary.org/obo/ENVO_01001898": [
+            "MA:ma"
+          ],
           "http://purl.obolibrary.org/obo/ENVO_02500002": [
             "GEMET: http://www.eionet.europa.eu/gemet/concept/3301"
           ],
           "http://purl.obolibrary.org/obo/ENVO_02500011": [
             "GEMET:http://www.eionet.europa.eu/gemet/concept/167"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_2000000": [
-            "ENVO:cjm"
           ]
         },
         "label": "Provenance Xrefs",
@@ -716,13 +720,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00002297": "NM:nm",
             "http://purl.obolibrary.org/obo/ENVO_01000320": "NM:nm"
           },
-          "PATOC": {
-            "http://purl.obolibrary.org/obo/ENVO_00006776": "PATOC:cjm",
-            "http://purl.obolibrary.org/obo/ENVO_00009001": "PATOC:cjm",
-            "http://purl.obolibrary.org/obo/ENVO_00009002": "PATOC:cjm",
-            "http://purl.obolibrary.org/obo/ENVO_00009003": "PATOC:cjm",
-            "http://purl.obolibrary.org/obo/ENVO_00009004": "PATOC:cjm"
-          },
           "Romero, D., & Lauzon, A. (2015). The Art of Feasting": {
             "http://purl.obolibrary.org/obo/ENVO_01000907": "Romero, D., & Lauzon, A. (2015). The Art of Feasting: Style and Identity in a Ritual Area at the Harris Site. In. In L. Ludeman (Ed.), Collected Papers from the 18th Biennial Mogollon Archaeology Conference (pp. 43-50). Las Cruces, New Mexico: Privately published by Lonnie Ludeman."
           },
@@ -778,7 +775,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000075": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000076": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000078": "USGS:SDTS",
-            "http://purl.obolibrary.org/obo/ENVO_00000080": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000086": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000087": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000097": "USGS:SDTS",
@@ -815,7 +811,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000480": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000481": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000483": "USGS:SDTS",
-            "http://purl.obolibrary.org/obo/ENVO_00000484": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000486": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000501": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000508": "USGS:SDTS",
@@ -854,25 +849,10 @@
           "http://purl.obolibrary.org/obo/ENVO_00000008": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000011": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000015": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000016": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000023": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000024": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000025": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000027": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000029": [
@@ -882,9 +862,6 @@
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000033": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000034": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000035": [
@@ -899,37 +876,13 @@
           "http://purl.obolibrary.org/obo/ENVO_00000040": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000041": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000042": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000044": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000045": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000048": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000050": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000051": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000054": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000055": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000057": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000058": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000062": [
@@ -947,28 +900,13 @@
           "http://purl.obolibrary.org/obo/ENVO_00000068": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000069": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000072": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000073": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000074": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000075": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000077": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000078": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000080": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000081": [
@@ -980,37 +918,16 @@
           "http://purl.obolibrary.org/obo/ENVO_00000084": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000086": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000087": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000091": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000095": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000096": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000099": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000100": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000101": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000103": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000104": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000107": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000108": [
@@ -1023,12 +940,6 @@
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000113": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000114": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000115": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000116": [
@@ -1058,21 +969,6 @@
           "http://purl.obolibrary.org/obo/ENVO_00000130": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000133": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000135": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000139": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000140": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000142": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000145": [
             "Geonames:feature"
           ],
@@ -1082,22 +978,10 @@
           "http://purl.obolibrary.org/obo/ENVO_00000147": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000150": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000151": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000152": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000153": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000155": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000156": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000157": [
@@ -1106,31 +990,7 @@
           "http://purl.obolibrary.org/obo/ENVO_00000158": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000159": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000160": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000161": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000162": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000164": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000165": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000166": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000167": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000168": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000170": [
@@ -1142,19 +1002,7 @@
           "http://purl.obolibrary.org/obo/ENVO_00000173": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000174": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000175": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000177": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000178": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000179": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000180": [
@@ -1164,12 +1012,6 @@
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000182": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000183": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000184": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000192": [
@@ -1196,9 +1038,6 @@
           "http://purl.obolibrary.org/obo/ENVO_00000241": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000247": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000264": [
             "Geonames:feature"
           ],
@@ -1217,9 +1056,6 @@
           "http://purl.obolibrary.org/obo/ENVO_00000272": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000274": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000277": [
             "Geonames:feature"
           ],
@@ -1235,15 +1071,6 @@
           "http://purl.obolibrary.org/obo/ENVO_00000283": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000286": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000287": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000288": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000291": [
             "Geonames:feature"
           ],
@@ -1251,9 +1078,6 @@
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000300": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000304": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000305": [
@@ -1268,37 +1092,19 @@
           "http://purl.obolibrary.org/obo/ENVO_00000309": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000313": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000314": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000342": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000383": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000385": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000387": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000389": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000394": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000398": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000409": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000411": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000428": [
@@ -1319,13 +1125,7 @@
           "http://purl.obolibrary.org/obo/ENVO_00000504": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000505": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000506": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000507": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000508": [
@@ -1334,70 +1134,25 @@
           "http://purl.obolibrary.org/obo/ENVO_00000509": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000510": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000515": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000516": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000517": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000518": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000520": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000521": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000522": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000523": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000524": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000525": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000526": [
             "Geonames:feature"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00000527": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000528": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000529": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000530": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000531": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000532": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000535": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000536": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000537": [
-            "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000538": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000539": [
@@ -1411,9 +1166,6 @@
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000550": [
             "Geonames:feature"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00005774": [
-            "ENVO:cjm"
           ],
           "http://purl.obolibrary.org/obo/ENVO_01000311": [
             "Geonames:feature"
@@ -1453,7 +1205,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000011": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000012": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000015": "ADL:FTT",
-            "http://purl.obolibrary.org/obo/ENVO_00000016": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000020": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000022": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000023": "ADL:FTT",
@@ -1463,9 +1214,7 @@
             "http://purl.obolibrary.org/obo/ENVO_00000031": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000032": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000033": "ADL:FTT",
-            "http://purl.obolibrary.org/obo/ENVO_00000034": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000035": "ADL:FTT",
-            "http://purl.obolibrary.org/obo/ENVO_00000036": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000038": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000040": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000041": "ADL:FTT",
@@ -1473,7 +1222,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000044": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000048": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000050": "ADL:FTT",
-            "http://purl.obolibrary.org/obo/ENVO_00000051": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000054": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000055": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000063": "ADL:FTT",
@@ -1570,8 +1318,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000268": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000269": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000270": "ADL:FTT",
-            "http://purl.obolibrary.org/obo/ENVO_00000272": "ADL:FTT",
-            "http://purl.obolibrary.org/obo/ENVO_00000275": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000277": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000278": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000280": "ADL:FTT",
@@ -1619,12 +1365,9 @@
             "http://purl.obolibrary.org/obo/ENVO_00000498": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000502": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000504": "ADL:FTT",
-            "http://purl.obolibrary.org/obo/ENVO_00000505": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000508": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000509": "ADL:FTT",
-            "http://purl.obolibrary.org/obo/ENVO_00000510": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000517": "ADL:FTT",
-            "http://purl.obolibrary.org/obo/ENVO_00000518": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000520": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000522": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000523": "ADL:FTT",
@@ -1635,7 +1378,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000531": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000532": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000533": "ADL:FTT",
-            "http://purl.obolibrary.org/obo/ENVO_00000538": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000539": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000856": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_01000311": "ADL:FTT",
@@ -1659,7 +1401,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000031": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000033": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000040": "Getty:TGN",
-            "http://purl.obolibrary.org/obo/ENVO_00000062": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000063": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000064": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000065": "Getty:TGN",
@@ -1668,7 +1409,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000072": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000077": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000078": "Getty:TGN",
-            "http://purl.obolibrary.org/obo/ENVO_00000080": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000084": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000094": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000095": "Getty:TGN",
@@ -1685,7 +1425,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000145": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000146": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000147": "Getty:TGN",
-            "http://purl.obolibrary.org/obo/ENVO_00000156": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000167": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000169": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000170": "Getty:TGN",
@@ -1713,7 +1452,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000383": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000398": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000423": "Getty:TGN",
-            "http://purl.obolibrary.org/obo/ENVO_00000477": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000495": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000508": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000517": "Getty:TGN",
@@ -1729,33 +1467,22 @@
             "http://purl.obolibrary.org/obo/ENVO_01001500": "INTERNAS:WS2"
           },
           "NASA": {
-            "http://purl.obolibrary.org/obo/ENVO_00000015": "NASA:earthrealm",
-            "http://purl.obolibrary.org/obo/ENVO_00000016": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000021": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000023": "NASA:earthrealm",
-            "http://purl.obolibrary.org/obo/ENVO_00000027": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000033": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000035": "NASA:earthrealm",
-            "http://purl.obolibrary.org/obo/ENVO_00000038": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000043": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000044": "NASA:earthrealm",
-            "http://purl.obolibrary.org/obo/ENVO_00000045": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000057": "NASA:earthrealm",
-            "http://purl.obolibrary.org/obo/ENVO_00000074": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000077": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000081": "NASA:earthrealm",
-            "http://purl.obolibrary.org/obo/ENVO_00000086": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000091": "NASA:earthrealm",
-            "http://purl.obolibrary.org/obo/ENVO_00000101": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000112": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000131": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000133": "NASA:earthrealm",
-            "http://purl.obolibrary.org/obo/ENVO_00000134": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000146": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000150": "NASA:earthrealm",
-            "http://purl.obolibrary.org/obo/ENVO_00000155": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000167": "NASA:earthrealm",
-            "http://purl.obolibrary.org/obo/ENVO_00000170": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000182": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000190": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000207": "NASA:earthrealm",
@@ -1765,10 +1492,8 @@
             "http://purl.obolibrary.org/obo/ENVO_00000220": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000233": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000244": "NASA:earthrealm",
-            "http://purl.obolibrary.org/obo/ENVO_00000247": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000255": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000261": "NASA:earthrealm",
-            "http://purl.obolibrary.org/obo/ENVO_00000264": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000267": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000275": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000283": "NASA:earthrealm",
@@ -1815,7 +1540,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000045": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000046": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000048": "USGS:SDTS",
-            "http://purl.obolibrary.org/obo/ENVO_00000050": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000051": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000054": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000057": "USGS:SDTS",
@@ -1827,12 +1551,10 @@
             "http://purl.obolibrary.org/obo/ENVO_00000068": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000069": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000072": "USGS:SDTS",
-            "http://purl.obolibrary.org/obo/ENVO_00000073": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000074": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000075": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000078": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000079": "USGS:SDTS",
-            "http://purl.obolibrary.org/obo/ENVO_00000080": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000083": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000084": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000086": "USGS:SDTS",
@@ -1868,8 +1590,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000151": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000152": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000153": "USGS:SDTS",
-            "http://purl.obolibrary.org/obo/ENVO_00000155": "USGS:SDTS",
-            "http://purl.obolibrary.org/obo/ENVO_00000156": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000157": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000158": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000166": "USGS:SDTS",
@@ -1931,7 +1651,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000398": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000400": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000403": "USGS:SDTS",
-            "http://purl.obolibrary.org/obo/ENVO_00000411": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000413": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000415": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000418": "USGS:SDTS",
@@ -1980,8 +1699,8 @@
           }
         }
       },
-      "version": "2021-05-14",
-      "version_iri": "http://purl.obolibrary.org/obo/envo/releases/2021-05-14/envo.json",
+      "version": "2023-02-13",
+      "version_iri": "http://purl.obolibrary.org/obo/envo/releases/2023-02-13/envo.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000005": [
@@ -2068,7 +1787,7 @@
             "Geonames:H.CNLI"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000037": [
-            "Geomames:DTCH"
+            "Geonames:DTCH"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000038": [
             "Geonames:H.LGN",
@@ -2179,7 +1898,7 @@
             "Geonames:S.RNCH"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000080": [
-            "Geonamaes:MTS"
+            "Geonames:MTS"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000081": [
             "Geonames:T.MT",
@@ -2701,7 +2420,7 @@
             "Geonames:H.TNLC"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000523": [
-            "Geomames:CUTF"
+            "Geonames:CUTF"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000524": [
             "Geonames:H.STMQ"
@@ -2732,9 +2451,6 @@
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000535": [
             "Geonames:S.WEIR"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000536": [
-            "Geonames:U.MOTU"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000537": [
             "Geonames:T.BLDR"
@@ -2826,13 +2542,6 @@
           ]
         },
         "noncanonical_prefixes": {
-          "Geomames": {
-            "http://purl.obolibrary.org/obo/ENVO_00000037": "Geomames:DTCH",
-            "http://purl.obolibrary.org/obo/ENVO_00000523": "Geomames:CUTF"
-          },
-          "Geonamaes": {
-            "http://purl.obolibrary.org/obo/ENVO_00000080": "Geonamaes:MTS"
-          },
           "WWF": {
             "http://purl.obolibrary.org/obo/ENVO_01001569": "WWF:AA1310",
             "http://purl.obolibrary.org/obo/ENVO_01001572": "WWF:AA1309",
@@ -2916,9 +2625,6 @@
             "http://purl.obolibrary.org/obo/ENVO_01001371": "SPIRE:Tundra",
             "http://purl.obolibrary.org/obo/ENVO_01001468": "SPIRE:Intertidal",
             "http://purl.obolibrary.org/obo/ENVO_01001505": "SPIRE:Tundra"
-          },
-          "URL": {
-            "http://purl.obolibrary.org/obo/ENVO_01000404": "URL:http://aims.fao.org/aos/agrovoc/c_5998"
           }
         }
       }

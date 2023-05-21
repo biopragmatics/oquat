@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `hgnc`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{1,5}$`. Of the 2 resources,
+`^\d{1,5}$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['HGNC'].
 
 ## `cco`: Cell Cycle Ontology
@@ -13628,6 +13628,14 @@ Identifiers for this prefix are given incorrectly in `cco`.
 | `HGNC:HGNC:2845`  |              1 | [NCBIGene:9993](http://purl.obolibrary.org/obo/NCBIGene_9993)           |
 | `HGNC:HGNC:1510`  |              1 | [NCBIGene:9994](http://purl.obolibrary.org/obo/NCBIGene_9994)           |
 | `HGNC:HGNC:10604` |              1 | [NCBIGene:9997](http://purl.obolibrary.org/obo/NCBIGene_9997)           |
+
+## `nif`: None
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `HGNC:mw`       |              1 | [SO:0001877](http://purl.obolibrary.org/obo/SO_0001877) |
 
 ## `so`: Sequence types and features ontology
 

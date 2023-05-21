@@ -90,7 +90,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 ## `url`
 
-There are 118 usages of `url` in `eco`.
+There are 121 usages of `url` in `eco`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url).
 
@@ -217,6 +217,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | url:https://en.wikipedia.org/wiki/Encyclopedia                                                                                                                                                            |        1 | [ECO:0007637](http://purl.obolibrary.org/obo/ECO_0007637)                                                                                                                                                                                                                                                  |
 | url:https://en.wikipedia.org/wiki/Dictionary                                                                                                                                                              |        1 | [ECO:0007641](http://purl.obolibrary.org/obo/ECO_0007641)                                                                                                                                                                                                                                                  |
 | url:https://en.wikipedia.org/wiki/Scientific_journal                                                                                                                                                      |        1 | [ECO:0007645](http://purl.obolibrary.org/obo/ECO_0007645)                                                                                                                                                                                                                                                  |
+| url:https://en.wikipedia.org/wiki/Machine_learning                                                                                                                                                        |        1 | [ECO:0008000](http://purl.obolibrary.org/obo/ECO_0008000)                                                                                                                                                                                                                                                  |
+| url:https://www.uniprot.org/help/ProtNLM                                                                                                                                                                  |        1 | [ECO:0008001](http://purl.obolibrary.org/obo/ECO_0008001)                                                                                                                                                                                                                                                  |
+| url:https://www.uniprot.org/help/arba                                                                                                                                                                     |        1 | [ECO:0008002](http://purl.obolibrary.org/obo/ECO_0008002)                                                                                                                                                                                                                                                  |
 
 </details>
 

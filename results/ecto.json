@@ -1,9 +1,9 @@
 {
-  "created": "2023-02-13T18:40:06.274289",
+  "created": "2023-05-21T00:52:43.808518",
   "messages": [
     "could not parse JSON for ecto from http://purl.obolibrary.org/obo/ecto.json",
-    "2023-02-13 18:39:59,986 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 1 triple(s) that could not be parsed:",
-    " - <https://www.wikidata.org/wiki/Q2306597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147615663."
+    "ERROR Input ontology contains 1 triple(s) that could not be parsed:",
+    " - <https://www.wikidata.org/wiki/Q2306597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147561514."
   ],
   "results": {
     "http://purl.obolibrary.org/obo/ecto.owl": {
@@ -22,8 +22,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2022-12-12",
-      "version_iri": "http://purl.obolibrary.org/obo/ecto/releases/2022-12-12/ecto.owl",
+      "version": "2023-02-14",
+      "version_iri": "http://purl.obolibrary.org/obo/ecto/releases/2023-02-14/ecto.owl",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

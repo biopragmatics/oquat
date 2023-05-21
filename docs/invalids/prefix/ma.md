@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `ma`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 8 resources,
+`^\d+$`. Of the 9 resources,
 1 variants on the standard prefix were found: ['MA'].
 
 ## `aeon`: Academic Event Ontology
@@ -37,7 +37,7 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `MA:ma`         |              4 | [CL:0000362](http://purl.obolibrary.org/obo/CL_0000362), [CL:0000724](http://purl.obolibrary.org/obo/CL_0000724), [CL:0000730](http://purl.obolibrary.org/obo/CL_0000730), [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) |
 
-## `enm`: eNanoMapper Ontology
+## `enm`: eNanoMapper ontology
 
 Identifiers for this prefix are given incorrectly in `enm`.
 
@@ -52,7 +52,16 @@ Identifiers for this prefix are given incorrectly in `envo`. See the [GitHub rep
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MA:ma`         |            133 | [ENVO:00000010](http://purl.obolibrary.org/obo/ENVO_00000010), [ENVO:00000012](http://purl.obolibrary.org/obo/ENVO_00000012), [ENVO:00000014](http://purl.obolibrary.org/obo/ENVO_00000014), [ENVO:00000018](http://purl.obolibrary.org/obo/ENVO_00000018), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), ... |
+| `MA:ma`         |            134 | [ENVO:00000010](http://purl.obolibrary.org/obo/ENVO_00000010), [ENVO:00000012](http://purl.obolibrary.org/obo/ENVO_00000012), [ENVO:00000014](http://purl.obolibrary.org/obo/ENVO_00000014), [ENVO:00000018](http://purl.obolibrary.org/obo/ENVO_00000018), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), ... |
+
+## `nif`: None
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                               |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `MA:th`         |             17 | [BSPO:1000000](http://purl.obolibrary.org/obo/BSPO_1000000), [UBERON:0000983](http://purl.obolibrary.org/obo/UBERON_0000983), [UBERON:0002470](http://purl.obolibrary.org/obo/UBERON_0002470), [UBERON:0002471](http://purl.obolibrary.org/obo/UBERON_0002471), [UBERON:0002472](http://purl.obolibrary.org/obo/UBERON_0002472), ... |
+| `MA:ma`         |              2 | [CL:0000362](http://purl.obolibrary.org/obo/CL_0000362), [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731)                                                                                                                                                                                                                     |
 
 ## `sdgio`: Sustainable Development Goals Interface Ontology
 

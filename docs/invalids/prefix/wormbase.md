@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `wormbase`
 but use local unique identifiers that do not match the standard pattern of
-`^WB[A-Z][a-z]+\d+$`. Of the 8 resources,
+`^WB[A-Z][a-z]+\d+$`. Of the 9 resources,
 6 variants on the standard prefix were found: ['WB', 'WB_REF', 'Wb', 'WormBase', 'Wormbase', 'wB'].
 
 ## `bto`: BRENDA Tissue Ontology
@@ -30,6 +30,19 @@ Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repos
 |----------------------|----------------|---------------------------------------------------------|
 | `WB_REF:cgc467`      |              1 | [GO:0043052](http://purl.obolibrary.org/obo/GO_0043052) |
 | `WB_REF:wm2003ab740` |              1 | [GO:0043055](http://purl.obolibrary.org/obo/GO_0043055) |
+
+## `nif`: None
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref        |   usages_count | usages                                                          |
+|----------------------|----------------|-----------------------------------------------------------------|
+| `WB_REF:cgc467`      |              1 | [GO:0043052](http://purl.obolibrary.org/obo/GO_0043052)         |
+| `WB_REF:wm2003ab740` |              1 | [GO:0043055](http://purl.obolibrary.org/obo/GO_0043055)         |
+| `WB:ems`             |              1 | [SO:0000274](http://purl.obolibrary.org/obo/SO_0000274)         |
+| `WB:Paper00000938`   |              1 | [UBERON:0000934](http://purl.obolibrary.org/obo/UBERON_0000934) |
+| `WB:Paper00000653`   |              1 | [UBERON:0000954](http://purl.obolibrary.org/obo/UBERON_0000954) |
+| `WB:rynl`            |              1 | [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) |
 
 ## `so`: Sequence types and features ontology
 

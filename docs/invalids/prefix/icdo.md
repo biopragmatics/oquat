@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `icdo`
 but use local unique identifiers that do not match the standard pattern of
-`^[8-9]\d{3}(/[0-3])?$`. Of the 8 resources,
+`^[8-9]\d{3}(/[0-3])?$`. Of the 9 resources,
 2 variants on the standard prefix were found: ['ICD-O', 'ICDO'].
 
 ## `bao`: BioAssay Ontology
@@ -59,7 +59,7 @@ Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repos
 | `ICD-O:M8272/0` |              1 | [HP:0002893](http://purl.obolibrary.org/obo/HP_0002893) |
 | `ICD-O:M9982/3` |              1 | [HP:0004828](http://purl.obolibrary.org/obo/HP_0004828) |
 
-## `mondo`: Monarch Disease Ontology
+## `mondo`: Mondo Disease Ontology
 
 Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub repository](https://github.com/monarch-initiative/mondo).
 
@@ -81,6 +81,15 @@ Identifiers for this prefix are given incorrectly in `mpath`. See the [GitHub re
 |------------------|----------------|-------------------------------------------------------|
 | `ICD-O:M-8900/0` |              1 | [MPATH:722](http://purl.obolibrary.org/obo/MPATH_722) |
 | `ICDO:M-8822/1`  |              1 | [MPATH:723](http://purl.obolibrary.org/obo/MPATH_723) |
+
+## `nif`: None
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref   |   usages_count | usages                                                |
+|-----------------|----------------|-------------------------------------------------------|
+| `ICDO:8480/6`   |              1 | [DOID:3559](http://purl.obolibrary.org/obo/DOID_3559) |
+| `ICDO:8800/9`   |              1 | [DOID:7615](http://purl.obolibrary.org/obo/DOID_7615) |
 
 ## `rdo`: RGD Disease Ontology
 

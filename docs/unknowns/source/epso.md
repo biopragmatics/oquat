@@ -102,7 +102,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |-------------------------|----------|---------------------------------------------------------|
 | MIPS_funcat:36.25.09    |        1 | [GO:0006936](http://purl.obolibrary.org/obo/GO_0006936) |
 | MIPS_funcat:30          |        1 | [GO:0007165](http://purl.obolibrary.org/obo/GO_0007165) |
-| MIPS_funcat:30.01.05.05 |        1 | [GO:0007186](http://purl.obolibrary.org/obo/GO_0007186) |
+| MIPS_funcat:30.05.02.24 |        1 | [GO:0007186](http://purl.obolibrary.org/obo/GO_0007186) |
 | MIPS_funcat:30.05.02.20 |        1 | [GO:0016055](http://purl.obolibrary.org/obo/GO_0016055) |
 
 ## `MTH`
@@ -127,7 +127,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie                              |   usages | nodes                                                           |
 |------------------------------------|----------|-----------------------------------------------------------------|
-| OpenCyc:Mx4rv5XMb5wpEbGdrcN5Y29ycA |        1 | [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) |
+| OpenCyc:Mx4rwP3iWpwpEbGdrcN5Y29ycA |        1 | [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) |
 | OpenCyc:Mx4rvmKNOpwpEbGdrcN5Y29ycA |        1 | [UBERON:0000344](http://purl.obolibrary.org/obo/UBERON_0000344) |
 | OpenCyc:Mx4rvVjT65wpEbGdrcN5Y29ycA |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
 | OpenCyc:Mx4rdBrmE6gOEdudWQACs5b6Bw |        1 | [UBERON:0001020](http://purl.obolibrary.org/obo/UBERON_0001020) |

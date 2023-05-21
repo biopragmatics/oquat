@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-26T01:37:36.615196",
+  "created": "2023-05-21T00:52:15.077454",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/eco.owl": {
@@ -4399,6 +4399,27 @@
           "http://purl.obolibrary.org/obo/ECO_0007850": [
             "ECO:RCJ"
           ],
+          "http://purl.obolibrary.org/obo/ECO_0008002": [
+            "UniProt:Vishal Joshi"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008003": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008004": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008005": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008006": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008007": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008008": [
+            "ECO:SN"
+          ],
           "http://purl.obolibrary.org/obo/ECO_9000000": [
             "ECO:SN"
           ],
@@ -4706,7 +4727,10 @@
             "http://purl.obolibrary.org/obo/ECO_0007063": "url:http://www.soft-matter.uni-tuebingen.de/index.html?dls.html",
             "http://purl.obolibrary.org/obo/ECO_0007637": "url:https://en.wikipedia.org/wiki/Encyclopedia",
             "http://purl.obolibrary.org/obo/ECO_0007641": "url:https://en.wikipedia.org/wiki/Dictionary",
-            "http://purl.obolibrary.org/obo/ECO_0007645": "url:https://en.wikipedia.org/wiki/Scientific_journal"
+            "http://purl.obolibrary.org/obo/ECO_0007645": "url:https://en.wikipedia.org/wiki/Scientific_journal",
+            "http://purl.obolibrary.org/obo/ECO_0008000": "url:https://en.wikipedia.org/wiki/Machine_learning",
+            "http://purl.obolibrary.org/obo/ECO_0008001": "url:https://www.uniprot.org/help/ProtNLM",
+            "http://purl.obolibrary.org/obo/ECO_0008002": "url:https://www.uniprot.org/help/arba"
           }
         }
       },
@@ -4740,8 +4764,8 @@
           }
         }
       },
-      "version": "2022-12-04",
-      "version_iri": "http://purl.obolibrary.org/obo/eco/releases/2022-12-04/eco.owl",
+      "version": "2023-04-07",
+      "version_iri": "http://purl.obolibrary.org/obo/eco/releases/2023-04-07/eco.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ECO_0000324": [

@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-26T02:21:05.579476",
+  "created": "2023-05-21T02:02:22.929821",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/xco.owl": {
@@ -48,30 +48,6 @@
           "http://purl.obolibrary.org/obo/XCO_0000032": [
             "RGD:MS"
           ],
-          "http://purl.obolibrary.org/obo/XCO_0000039": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ionizing_radiation"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000040": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Gamma_ray"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000041": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ionizing_radiation"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000042": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000043": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000044": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Non-ionizing_radiation"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000045": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000046": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation"
-          ],
           "http://purl.obolibrary.org/obo/XCO_0000056": [
             "RGD:MS"
           ],
@@ -81,20 +57,11 @@
           "http://purl.obolibrary.org/obo/XCO_0000063": [
             "RGD:MS"
           ],
-          "http://purl.obolibrary.org/obo/XCO_0000074": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Caffeine"
-          ],
           "http://purl.obolibrary.org/obo/XCO_0000083": [
             "RGD:MS"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000086": [
             "RGD:MS"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000091": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Steroid"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000092": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Estradiol"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000095": [
             "RGD:MS"
@@ -120,50 +87,14 @@
           "http://purl.obolibrary.org/obo/XCO_0000114": [
             "RGD:MS"
           ],
-          "http://purl.obolibrary.org/obo/XCO_0000119": [
-            "Wikipedia:http://en.eikipedia.org/wiki/"
-          ],
           "http://purl.obolibrary.org/obo/XCO_0000120": [
             "RGD:JRS"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000123": [
-            "Wikipedia:http://en.eikipedia.org/wiki/"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000124": [
-            "Wikipedia:http://en.eikipedia.org/wiki/"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000130": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ketamine"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000131": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Xylazine"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000132": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Acepromazine"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000133": [
             "RGD:JRS"
           ],
-          "http://purl.obolibrary.org/obo/XCO_0000134": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Methacholine"
-          ],
           "http://purl.obolibrary.org/obo/XCO_0000138": [
             "RGD:SL"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000142": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Sodium_nitroprusside"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000143": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Acetylcholine"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000145": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Phenylephrine"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000147": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Saline_%28medicine%29#Normal"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000148": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Saline_%28medicine%29#Normal"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000152": [
             "RGD:JRS"
@@ -171,14 +102,8 @@
           "http://purl.obolibrary.org/obo/XCO_0000153": [
             "RGD:JRS"
           ],
-          "http://purl.obolibrary.org/obo/XCO_0000156": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Saline_%28medicine%29"
-          ],
           "http://purl.obolibrary.org/obo/XCO_0000158": [
             "RGD:JRS"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000165": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Surgery"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000166": [
             "RGD:JRS",
@@ -196,343 +121,20 @@
           "http://purl.obolibrary.org/obo/XCO_0000171": [
             "RGD:JRS"
           ],
-          "http://purl.obolibrary.org/obo/XCO_0000177": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Thrombin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000178": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Thapsigargin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000179": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation",
-            "Wikipedia:http://en.wikipedia.org/wiki/Ionizing_radiation"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000180": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_Radiation",
-            "Wikipedia:http://en.wikipedia.org/wiki/Ultraviolet"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000184": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Calcium"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000185": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Calcium"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000187": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Trimethaphan_camsylate"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000188": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Darodipine"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000192": [
-            "Wikipedia:http://en.wikipedia.org/wiki/11-Deoxycorticosterone"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000196": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Glibenclamide"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000200": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Alpha-Ketoisocaproic_acid"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000208": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Acetylaminofluorene"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000215": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Saline_%28medicine%29#Normal"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000224": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ruthenium_red"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000225": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Potassium_channel"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000226": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Apamin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000227": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Charybdotoxin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000241": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Streptozotocin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000242": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Alloxan"
-          ],
           "http://purl.obolibrary.org/obo/XCO_0000247": [
             "RGD:JRS"
           ],
-          "http://purl.obolibrary.org/obo/XCO_0000252": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Tolbutamide"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000256": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Isoprenaline#Chemistry"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000268": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Balloon_angioplasty"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000270": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Captopril"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000272": [
-            "Wikipedia:http://en.wikipedia.org/wiki/4-Hydroxy-TEMPO"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000273": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Carrageenan"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000279": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Terpene"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000280": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Squalene"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000281": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Collagen"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000282": [
-            "Wikipedia:http://en.wikipedia.org/wiki/CD90"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000293": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Technetium_%2899mTc%29_sestamibi"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000294": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Estrogen"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000295": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Diethylstilbestrol"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000318": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Surgery"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000320": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Hexamethonium"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000321": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Hexamethonium"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000322": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Hexamethonium"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000328": [
-            "Wikipedia:http://en.wikipedia.org/wiki/11-Deoxycorticosterone"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000329": [
-            "Wikipedia:http://en.wikipedia.org/wiki/11-Deoxycorticosterone"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000330": [
-            "Wikipedia:http://en.wikipedia.org/wiki/11-Deoxycorticosterone"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000331": [
-            "Wikipedia:http://en.wikipedia.org/wiki/RU28362"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000332": [
-            "Wikipedia:http://en.wikipedia.org/wiki/RU28362"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000333": [
-            "Wikipedia:http://en.wikipedia.org/wiki/RU28362"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000334": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Adrenal_gland"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000335": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Adrenal_gland"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000336": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Adrenergic_receptors"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000338": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Nanoparticle"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000339": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Nanoparticle",
-            "Wikipedia:http://en.wikipedia.org/wiki/Titanium_dioxide"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000343": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea"
-          ],
           "http://purl.obolibrary.org/obo/XCO_0000344": [
-            "PubChem_Compound:CID_13157",
-            "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea",
-            "Wikipedia:http://en.wikipedia.org/wiki/Propyl"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000345": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ethyl_group",
-            "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000346": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Methyl_group",
-            "Wikipedia:http://en.wikipedia.org/wiki/N-Methyl-N-nitrosourea",
-            "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000348": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Middle_Cerebral_Artery"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000350": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Streptococcus"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000351": [
-            "Wikipedia:http://en.wikipedia.org/wiki/4-Nitroquinoline_1-oxide",
-            "Wikipedia:http://en.wikipedia.org/wiki/Quinoline"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000354": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Methylnitronitrosoguanidine"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000355": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Methylnitronitrosoguanidine"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000359": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Aminohippuric_acid"
+            "PubChem_Compound:CID_13157"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000368": [
             "RGD:JRS"
           ],
-          "http://purl.obolibrary.org/obo/XCO_0000370": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Trichinella_spiralis"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000371": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Trichinella_spiralis"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000372": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Dexamethasone"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000382": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Captopril"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000383": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Losartan"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000384": [
-            "Wikipedia:http://en.wikipedia.org/wiki/TEMPOL"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000390": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Antimetabolite"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000391": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Bromodeoxyuridine"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000392": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Nucleotide"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000393": [
-            "Wikipedia:http://en.wikipedia.org/wiki/1,2-dimethylhydrazine"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000395": [
-            "Wikipedia:http://en.wikipedia.org/wiki/4-Nitroquinoline_1-oxide"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000397": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Bisphenol_A"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000398": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Cisplatin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000402": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Habituation"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000404": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Bisphenol_A"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000405": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Cisplatin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000406": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Bisphenol_A"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000408": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Metformin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000409": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Metformin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000410": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Metformin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000423": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Thymoquinone"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000424": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Benfotiamine"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000425": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Lactoferrin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000426": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Pyrazole"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000427": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Lycopene"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000428": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Fructose"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000429": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Fructose"
-          ],
           "http://purl.obolibrary.org/obo/XCO_0000436": [
-            "PubChem_Compound:CID_13157",
-            "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea"
+            "PubChem_Compound:CID_13157"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000437": [
-            "PubChem_Compound:CID_13157",
-            "Wikipedia:http://en.wikipedia.org/wiki/Nitrosourea"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000438": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Candesartan"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000441": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Acetylaminofluorene"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000442": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Acetylaminofluorene"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000443": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Dexamethasone"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000444": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Dexamethasone"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000445": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Phosphate_buffered_saline"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000451": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Herpes_simplex_virus"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000456": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Retinyl_palmitate"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000458": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Retinyl_palmitate"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000468": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Vitamin_A"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000469": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Retinoid"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000470": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Flavonoid"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000473": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Naringenin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000474": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Alendronic_acid"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000476": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Streptococcus_pneumoniae"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000477": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Streptococcus_pneumoniae"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000478": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Streptococcus_pneumoniae"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000479": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Haemophilus_influenzae"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000480": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Haemophilus_influenzae"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000481": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Haemophilus_influenzae"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000484": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ceftriaxone"
+            "PubChem_Compound:CID_13157"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000485": [
             "RGD:JRS"
@@ -543,107 +145,20 @@
           "http://purl.obolibrary.org/obo/XCO_0000487": [
             "RGD:JRS"
           ],
-          "http://purl.obolibrary.org/obo/XCO_0000507": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Carprofen"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000511": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Ester"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000512": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Teratology"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000513": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Dibutyl_phthalate"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000514": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Metoprolol"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000515": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Metoprolol"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000516": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Metoprolol"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000520": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Neuromodulation_(medicine)"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000521": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Neurostimulation"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000522": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Common_peroneal_nerve",
-            "Wikipedia:https://en.wikipedia.org/wiki/Neurostimulation"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000524": [
-            "Wikipedia:https://en.wikipedia.org/wiki/ACE_inhibitor"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000525": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Benazepril"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000532": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Protein_synthesis_inhibitor"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000533": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Puromycin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000534": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Sunitinib"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000536": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Angiotensin_II_receptor_blocker"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000537": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Olmesartan"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000538": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Temocapril"
-          ],
           "http://purl.obolibrary.org/obo/XCO_0000539": [
-            "DrugBank:https://www.drugbank.ca/drugs/DB00997",
-            "Wikipedia:https://en.wikipedia.org/wiki/Doxorubicin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000540": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Delapril"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000541": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Bosentan"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000542": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Enalapril"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000543": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Vitamin_D"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000544": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Ergocalciferol"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000545": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Cholecalciferol"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000546": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Analog"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000547": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Paricalcitol"
+            "DrugBank:https://www.drugbank.ca/drugs/DB00997"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000548": [
             "DrugBank:https://www.drugbank.ca/drugs/DB00178"
           ],
-          "http://purl.obolibrary.org/obo/XCO_0000549": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Anterior_interventricular_branch_of_left_coronary_artery"
-          ],
           "http://purl.obolibrary.org/obo/XCO_0000550": [
-            "DrugBank:https://www.drugbank.ca/drugs/DB00206",
-            "Wikipedia:https://en.wikipedia.org/wiki/Reserpine"
+            "DrugBank:https://www.drugbank.ca/drugs/DB00206"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000551": [
             "DrugBank:https://www.drugbank.ca/drugs/DB01275"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000552": [
             "DrugBank:https://www.drugbank.ca/drugs/DB00999"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000553": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Everolimus"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000557": [
             "Drugbank:https://www.drugbank.ca/drugs/DB01296"
@@ -653,15 +168,6 @@
           ],
           "http://purl.obolibrary.org/obo/XCO_0000563": [
             "Medline Plus:http\\://www.nlm.nih.gov/medlineplus/"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000564": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Meclofenamic_acid"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000565": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Ipragliflozin"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000575": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Meropenem"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000587": [
             "PMID:PMID:25312437"
@@ -708,17 +214,11 @@
           "http://purl.obolibrary.org/obo/XCO_0000620": [
             "NCI Thesaurus:https://ncit-stage.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C930&ns=ncit"
           ],
-          "http://purl.obolibrary.org/obo/XCO_0000624": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Thiobutabarbital"
-          ],
           "http://purl.obolibrary.org/obo/XCO_0000627": [
             "DRUGBANK:https://www.drugbank.ca/drugs/DB00421"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000631": [
             "DRUGBANK:https://www.drugbank.ca/drugs/DB00572"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000633": [
-            "wikipedia:https://en.wikipedia.org/wiki/Cortisol"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000635": [
             "PMID:PMID:15894899"
@@ -740,9 +240,6 @@
           ],
           "http://purl.obolibrary.org/obo/XCO_0000647": [
             "drugbank:https://www.drugbank.ca/drugs/DB04883"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000677": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Enalapril"
           ]
         },
         "label": "Provenance Xrefs",

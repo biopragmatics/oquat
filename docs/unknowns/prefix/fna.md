@@ -1,5 +1,11 @@
 # `fna`
 
+## nif
+
+| curie   |   usages | nodes                                                       |
+|---------|----------|-------------------------------------------------------------|
+| FNA:FNA |        1 | [PATO:0002385](http://purl.obolibrary.org/obo/PATO_0002385) |
+
 ## po
 
 | curie                                    |   usages | nodes                                                                                                                                                                                                                              |

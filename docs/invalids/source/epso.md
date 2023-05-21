@@ -4,42 +4,6 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `epso`.
 
 
-## `CALOHA`: CALIPHO Group Ontology of Human Anatomy
-
-Overall, there were 26 invalid
-xrefs to external prefixed with `CALOHA` (standardized to Bioregistry
-prefix [`caloha`](https://bioregistry.io/caloha)) that
-did not match the standard pattern `^TS-\d+$`.
-
-| external_xref    |   usages_count | usages                                                          |
-|------------------|----------------|-----------------------------------------------------------------|
-| `CALOHA:TS-2031` |              1 | [UBERON:0000344](http://purl.obolibrary.org/obo/UBERON_0000344) |
-| `CALOHA:TS-2090` |              1 | [UBERON:0000479](http://purl.obolibrary.org/obo/UBERON_0000479) |
-| `CALOHA:TS-0095` |              1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
-| `CALOHA:TS-0091` |              1 | [UBERON:0000956](http://purl.obolibrary.org/obo/UBERON_0000956) |
-| `CALOHA:TS-0813` |              1 | [UBERON:0000988](http://purl.obolibrary.org/obo/UBERON_0000988) |
-| `CALOHA:TS-1020` |              1 | [UBERON:0001871](http://purl.obolibrary.org/obo/UBERON_0001871) |
-| `CALOHA:TS-0747` |              1 | [UBERON:0001872](http://purl.obolibrary.org/obo/UBERON_0001872) |
-| `CALOHA:TS-0037` |              1 | [UBERON:0001876](http://purl.obolibrary.org/obo/UBERON_0001876) |
-| `CALOHA:TS-0380` |              1 | [UBERON:0001890](http://purl.obolibrary.org/obo/UBERON_0001890) |
-| `CALOHA:TS-0630` |              1 | [UBERON:0001891](http://purl.obolibrary.org/obo/UBERON_0001891) |
-| `CALOHA:TS-1018` |              1 | [UBERON:0001893](http://purl.obolibrary.org/obo/UBERON_0001893) |
-| `CALOHA:TS-0199` |              1 | [UBERON:0001894](http://purl.obolibrary.org/obo/UBERON_0001894) |
-| `CALOHA:TS-0607` |              1 | [UBERON:0001896](http://purl.obolibrary.org/obo/UBERON_0001896) |
-| `CALOHA:TS-1031` |              1 | [UBERON:0001897](http://purl.obolibrary.org/obo/UBERON_0001897) |
-| `CALOHA:TS-0469` |              1 | [UBERON:0001898](http://purl.obolibrary.org/obo/UBERON_0001898) |
-| `CALOHA:TS-0693` |              1 | [UBERON:0002021](http://purl.obolibrary.org/obo/UBERON_0002021) |
-| `CALOHA:TS-0457` |              1 | [UBERON:0002028](http://purl.obolibrary.org/obo/UBERON_0002028) |
-| `CALOHA:TS-0125` |              1 | [UBERON:0002037](http://purl.obolibrary.org/obo/UBERON_0002037) |
-| `CALOHA:TS-0702` |              1 | [UBERON:0002264](http://purl.obolibrary.org/obo/UBERON_0002264) |
-| `CALOHA:TS-2058` |              1 | [UBERON:0002286](http://purl.obolibrary.org/obo/UBERON_0002286) |
-| `CALOHA:TS-0093` |              1 | [UBERON:0002298](http://purl.obolibrary.org/obo/UBERON_0002298) |
-| `CALOHA:TS-0180` |              1 | [UBERON:0002336](http://purl.obolibrary.org/obo/UBERON_0002336) |
-| `CALOHA:TS-1149` |              1 | [UBERON:0002420](http://purl.obolibrary.org/obo/UBERON_0002420) |
-| `CALOHA:TS-2015` |              1 | [UBERON:0002422](http://purl.obolibrary.org/obo/UBERON_0002422) |
-| `CALOHA:TS-2361` |              1 | [UBERON:0005401](http://purl.obolibrary.org/obo/UBERON_0005401) |
-| `CALOHA:TS-0389` |              1 | [UBERON:0016525](http://purl.obolibrary.org/obo/UBERON_0016525) |
-
 ## `ICD10`: International Classification of Diseases, 10th Revision
 
 Overall, there were 6 invalid
@@ -228,15 +192,4 @@ did not match the standard pattern `^C\d+$`.
 | `UMLS:CN206976` |              1 | [MONDO:0020072](http://purl.obolibrary.org/obo/MONDO_0020072) |
 | `UMLS:CN207128` |              1 | [MONDO:0020308](http://purl.obolibrary.org/obo/MONDO_0020308) |
 | `UMLS:CN207131` |              1 | [MONDO:0020310](http://purl.obolibrary.org/obo/MONDO_0020310) |
-
-## `Wikipedia`: Wikipedia
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
-prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
-did not match the standard pattern `^[A-Za-z-0-9_]+$`.
-
-| external_xref                        |   usages_count | usages                                                  |
-|--------------------------------------|----------------|---------------------------------------------------------|
-| `Wikipedia:Erection#Penile_erection` |              1 | [GO:0043084](http://purl.obolibrary.org/obo/GO_0043084) |
 

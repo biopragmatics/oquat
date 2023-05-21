@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-26T01:52:10.704470",
+  "created": "2023-05-21T01:11:18.413644",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/idomal.owl": {
@@ -8,9 +8,6 @@
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/IDOMAL_0000002": [
             "BFO:SNAP"
-          ],
-          "http://purl.obolibrary.org/obo/IDOMAL_0000553": [
-            "Wikipedia:Field'sstain"
           ],
           "http://purl.obolibrary.org/obo/IDOMAL_0000783": [
             "ISBN:0-8493-15-67-0"

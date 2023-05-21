@@ -1,30 +1,7 @@
 {
-  "created": "2023-02-13T18:31:37.123454",
-  "messages": [],
-  "results": {
-    "http://vivoweb.org/ontology/core/vivo-dcterms-public-1.5.owl": {
-      "graph_id": "http://vivoweb.org/ontology/core/vivo-dcterms-public-1.5.owl",
-      "prov_pack": {
-        "invalid_luids": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
-    }
-  }
+  "created": "2023-05-21T00:50:28.977054",
+  "messages": [
+    "could not parse OWL for dcterms from https://www.dublincore.org/specifications/dublin-core/dcmi-terms/dublin_core_terms.rdf"
+  ],
+  "results": {}
 }

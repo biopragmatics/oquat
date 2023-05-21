@@ -1,5 +1,11 @@
 # `emedicine`
 
+## mp
+
+| curie                                               |   usages | nodes                                                   |
+|-----------------------------------------------------|----------|---------------------------------------------------------|
+| eMedicine:http://www.emedicine.com/ent/topic372.htm |        1 | [MP:0004736](http://purl.obolibrary.org/obo/MP_0004736) |
+
 ## hp
 
 | curie             |   usages | nodes                                                                                                                                                                     |
@@ -11,12 +17,6 @@
 | eMedicine:900574  |        1 | [HP:0001669](http://purl.obolibrary.org/obo/HP_0001669)                                                                                                                   |
 | eMedicine:986802  |        1 | [HP:0002884](http://purl.obolibrary.org/obo/HP_0002884)                                                                                                                   |
 | eMedicine:118562  |        1 | [HP:0008247](http://purl.obolibrary.org/obo/HP_0008247)                                                                                                                   |
+| eMedicine:402757  |        1 | [HP:0010878](http://purl.obolibrary.org/obo/HP_0010878)                                                                                                                   |
 | eMedicine:1016086 |        1 | [HP:0010957](http://purl.obolibrary.org/obo/HP_0010957)                                                                                                                   |
-| emedicine:402757  |        1 | [HP:0010878](http://purl.obolibrary.org/obo/HP_0010878)                                                                                                                   |
-
-## mp
-
-| curie                                               |   usages | nodes                                                   |
-|-----------------------------------------------------|----------|---------------------------------------------------------|
-| eMedicine:http://www.emedicine.com/ent/topic372.htm |        1 | [MP:0004736](http://purl.obolibrary.org/obo/MP_0004736) |
 

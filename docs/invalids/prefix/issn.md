@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `issn`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{4}-\d{3}[\dX]$`. Of the 6 resources,
+`^\d{4}-\d{3}[\dX]$`. Of the 7 resources,
 1 variants on the standard prefix were found: ['ISSN'].
 
 ## `bto`: BRENDA Tissue Ontology
@@ -31,6 +31,16 @@ Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repos
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `ISSN:15518507` |              9 | [GO:0060102](http://purl.obolibrary.org/obo/GO_0060102), [GO:0060104](http://purl.obolibrary.org/obo/GO_0060104), [GO:0060105](http://purl.obolibrary.org/obo/GO_0060105), [GO:0060106](http://purl.obolibrary.org/obo/GO_0060106), [GO:0060107](http://purl.obolibrary.org/obo/GO_0060107), ... |
 | `ISSN:09498257` |              6 | [GO:0006777](http://purl.obolibrary.org/obo/GO_0006777), [GO:0019720](http://purl.obolibrary.org/obo/GO_0019720), [GO:0042046](http://purl.obolibrary.org/obo/GO_0042046), [GO:0042047](http://purl.obolibrary.org/obo/GO_0042047), [GO:0043545](http://purl.obolibrary.org/obo/GO_0043545), ... |
+
+## `nif`: None
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                                           |
+|----------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `ISSN:15518507`      |              9 | [GO:0060102](http://purl.obolibrary.org/obo/GO_0060102), [GO:0060104](http://purl.obolibrary.org/obo/GO_0060104), [GO:0060105](http://purl.obolibrary.org/obo/GO_0060105), [GO:0060106](http://purl.obolibrary.org/obo/GO_0060106), [GO:0060107](http://purl.obolibrary.org/obo/GO_0060107), ... |
+| `ISSN:09498257`      |              6 | [GO:0006777](http://purl.obolibrary.org/obo/GO_0006777), [GO:0019720](http://purl.obolibrary.org/obo/GO_0019720), [GO:0042046](http://purl.obolibrary.org/obo/GO_0042046), [GO:0042047](http://purl.obolibrary.org/obo/GO_0042047), [GO:0043545](http://purl.obolibrary.org/obo/GO_0043545), ... |
+| `ISSN:9781496335418` |              1 | [PATO:0001744](http://purl.obolibrary.org/obo/PATO_0001744)                                                                                                                                                                                                                                      |
 
 ## `pato`: Phenotype And Trait Ontology
 

@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `FBtc:FBtc0000155` |              1 | [EFO:0005744](http://www.ebi.ac.uk/efo/EFO_0005744) |
 | `FBtc:FBtc0000191` |              1 | [EFO:0005745](http://www.ebi.ac.uk/efo/EFO_0005745) |
 
-## `enm`: eNanoMapper Ontology
+## `enm`: eNanoMapper ontology
 
 Identifiers for this prefix are given incorrectly in `enm`.
 

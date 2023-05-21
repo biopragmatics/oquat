@@ -1,5 +1,5 @@
 {
-  "created": "2023-02-13T19:18:30.842033",
+  "created": "2023-05-21T01:27:49.410668",
   "messages": [
     "could not parse JSON for pato from http://purl.obolibrary.org/obo/pato.json"
   ],
@@ -8,38 +8,8 @@
       "graph_id": "http://purl.obolibrary.org/obo/pato.owl",
       "prov_pack": {
         "invalid_luids": {
-          "http://purl.obolibrary.org/obo/PATO_0000008": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Velocity"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0000033": [
-            "Wikipedia:http://en.wikipedia.org/wiki/concentration"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0000044": [
-            "Wikipedia:http://en.wikipedia.org/wiki/frequency"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0000056": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Trophic_level"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0000128": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Weight"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0000273": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Fecundity"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0000321": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Magenta"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0000422": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Auxotrophic"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0000423": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Prototrophic"
-          ],
           "http://purl.obolibrary.org/obo/PATO_0000428": [
             "PATO:MAH"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0000647": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Necrotic"
           ],
           "http://purl.obolibrary.org/obo/PATO_0000694": [
             "PATO:LC"
@@ -50,32 +20,8 @@
           "http://purl.obolibrary.org/obo/PATO_0000912": [
             "PATO:GVG"
           ],
-          "http://purl.obolibrary.org/obo/PATO_0000952": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Brown"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0000953": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Orange"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001021": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Energy"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001024": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Power"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001026": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Work"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001028": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Acceleration"
-          ],
           "http://purl.obolibrary.org/obo/PATO_0001153": [
             "PATO:GVG"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001185": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Larval"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001291": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_radiation"
           ],
           "http://purl.obolibrary.org/obo/PATO_0001304": [
             "PATO:GVG"
@@ -86,152 +32,11 @@
           "http://purl.obolibrary.org/obo/PATO_0001314": [
             "PATO:GVG"
           ],
-          "http://purl.obolibrary.org/obo/PATO_0001323": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Area"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001324": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Bilateral_symmetry"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001334": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Diameter"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001350": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Angular_acceleration"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001351": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Area_density"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001352": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Linear_density"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001353": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Mass_density"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001374": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ploidy"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001375": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Haploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001376": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Monoploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001377": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Polyploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001378": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Autopolyploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001379": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Allopolyploidy"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001380": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Paleopolyploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001381": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Triploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001382": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Tetraploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001383": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Pentaploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001384": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Hexaploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001385": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Aneuploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001386": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Monosomy"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001387": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Disomy"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001388": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Uniparental_disomy"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001389": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Trisomy"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001390": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Partial_trisomy"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001392": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Endopolyploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001393": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Euploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001394": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Diploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001395": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Haplodiploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001399": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Totipotent"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001400": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Unipotent"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001402": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Multipotent"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001403": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Pluripotent"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001408": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ciliated"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001413": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Angular_velocity"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001424": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Violet"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001426": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Maroon"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001436": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Sessility_(botany)"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001437": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Sessile_(zoology)"
-          ],
           "http://purl.obolibrary.org/obo/PATO_0001440": [
             "GO:GO"
           ],
           "http://purl.obolibrary.org/obo/PATO_0001441": [
             "GO:GO"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001449": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Cartilaginous"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001461": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Surface_tension"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001462": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Membrane_potential"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001463": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Action_potential"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001464": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Electric_potential"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001516": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Focus_(optics)"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001519": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Sound_quality"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001522": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Sound_speed"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001523": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Sound_wavelength"
           ],
           "http://purl.obolibrary.org/obo/PATO_0001540": [
             "TO:TO"
@@ -374,32 +179,11 @@
           "http://purl.obolibrary.org/obo/PATO_0001653": [
             "PATO:GVG"
           ],
-          "http://purl.obolibrary.org/obo/PATO_0001655": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Osmolarity"
-          ],
           "http://purl.obolibrary.org/obo/PATO_0001663": [
             "PATO:GVG"
           ],
           "http://purl.obolibrary.org/obo/PATO_0001664": [
             "PATO:GVG"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001679": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Specific_volume"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001680": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Molar_volume"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001681": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Molar_mass"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001682": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Magnetism"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001711": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Perimeter"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001718": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Luminance"
           ],
           "http://purl.obolibrary.org/obo/PATO_0001720": [
             "GO:GO"
@@ -407,41 +191,11 @@
           "http://purl.obolibrary.org/obo/PATO_0001744": [
             "ISSN:9781496335418"
           ],
-          "http://purl.obolibrary.org/obo/PATO_0001756": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Heat_conduction"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001757": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Electrical_conduction"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001801": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Dehydrated"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001865": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Spheroid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001866": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Prolate"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001867": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Rectangular"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001870": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Crescent"
-          ],
           "http://purl.obolibrary.org/obo/PATO_0001985": [
             "OBI:OBI"
           ],
-          "http://purl.obolibrary.org/obo/PATO_0002021": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Cone_(geometry)"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0002027": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Osmolarity"
-          ],
           "http://purl.obolibrary.org/obo/PATO_0002048": [
             "Medline:http://www.nlm.nih.gov/medlineplus"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0002066": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Crystal"
           ],
           "http://purl.obolibrary.org/obo/PATO_0002108": [
             "PATO:GVG"
@@ -454,18 +208,6 @@
           ],
           "http://purl.obolibrary.org/obo/PATO_0002217": [
             "neurolex:http://neurolex.org/wiki/Category:Nitrated_Molecular_Quality"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0002220": [
-            "wikipedia:en.wikipedia.org/wiki/Phosphorylated"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0002221": [
-            "Wikipedia:http://en.wiktionary.org/wiki/hyperphosphorylated"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0002222": [
-            "Wikipedia:http://en.wiktionary.org/wiki/hypophosphorylated"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0002223": [
-            "Wikipedia:http://en.wiktionary.org/wiki/oxidized"
           ],
           "http://purl.obolibrary.org/obo/PATO_0002282": [
             "PATO:GVG"
@@ -482,29 +224,14 @@
           "http://purl.obolibrary.org/obo/PATO_0002363": [
             "PATO:LC"
           ],
-          "http://purl.obolibrary.org/obo/PATO_0002378": [
-            "wikipedia:https://en.wikipedia.org/wiki/Acinus"
-          ],
           "http://purl.obolibrary.org/obo/PATO_0002389": [
             "PATO:PG"
           ],
           "http://purl.obolibrary.org/obo/PATO_0002390": [
             "PATO:DS"
           ],
-          "http://purl.obolibrary.org/obo/PATO_0002405": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Friability"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0002420": [
-            "wikipedia:http://en.wiktionary.org/wiki/amphiphilic"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0002422": [
-            "wikipedia:https://en.wikipedia.org/wiki/Acinus"
-          ],
           "http://purl.obolibrary.org/obo/PATO_0002454": [
             "PATO:JL"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0002477": [
-            "wikipedia:http://en.wikipedia.org/wiki/Brittleness"
           ],
           "http://purl.obolibrary.org/obo/PATO_0002629": [
             "PATO:MAH"
@@ -526,39 +253,6 @@
           ],
           "http://purl.obolibrary.org/obo/PATO_0015029": [
             "ENVO:pb"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0025000": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Drinking_water"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0025001": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Drinking_water"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0025002": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Drinking_water"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0040027": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Doubled_haploidy"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0040071": [
-            "Wikipedia:NC_ratio&oldid=931936284"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0040072": [
-            "Wikipedia:NC_ratio&oldid=931936284"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0045090": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Cardinal_direction"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0045091": [
-            "Wikipedia:http://en.wikipedia.org/wiki/North"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0045092": [
-            "Wikipedia:http://en.wikipedia.org/wiki/East"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0045093": [
-            "Wikipedia:http://en.wikipedia.org/wiki/South"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0045094": [
-            "Wikipedia:http://en.wikipedia.org/wiki/West"
           ]
         },
         "label": "Provenance Xrefs",
@@ -2149,8 +1843,8 @@
           }
         }
       },
-      "version": "2022-12-15",
-      "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2022-12-15/pato.owl",
+      "version": "2023-05-18",
+      "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2023-05-18/pato.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/PATO_0001555": [

@@ -560,17 +560,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |--------------------------------------------|----------|-----------------------------------------------------------|
 | Health_Library:Southwestern_Medical_Center |        1 | [BTO:0003840](http://purl.obolibrary.org/obo/BTO_0003840) |
 
-## `HyperCLDB`
-
-There are 2 usages of `HyperCLDB` in `bto`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20HyperCLDB).
-
-| curie                                      |   usages | nodes                                                                                                                                                                                                                                                                                                      |
-|--------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| HyperCLDB:http://www.biotech.ist.unige.it/ |       91 | [BTO:0000046](http://purl.obolibrary.org/obo/BTO_0000046), [BTO:0000111](http://purl.obolibrary.org/obo/BTO_0000111), [BTO:0000179](http://purl.obolibrary.org/obo/BTO_0000179), [BTO:0000295](http://purl.obolibrary.org/obo/BTO_0000295), [BTO:0000304](http://purl.obolibrary.org/obo/BTO_0000304), ... |
-| HyperCLDB:http://bioinformatics.istge.it/  |        2 | [BTO:0005030](http://purl.obolibrary.org/obo/BTO_0005030), [BTO:0005492](http://purl.obolibrary.org/obo/BTO_0005492)                                                                                                                                                                                       |
-
 ## `Invitrogen`
 
 There are 1 usages of `Invitrogen` in `bto`.

@@ -1,5 +1,11 @@
 # `arpansa`
 
+## nif
+
+| curie           |   usages | nodes                                                                                                                                                                                 |
+|-----------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| arpansa:arpansa |        3 | [PATO:0001745](http://purl.obolibrary.org/obo/PATO_0001745), [PATO:0001746](http://purl.obolibrary.org/obo/PATO_0001746), [PATO:0001747](http://purl.obolibrary.org/obo/PATO_0001747) |
+
 ## pato
 
 | curie           |   usages | nodes                                                                                                                                                                                 |

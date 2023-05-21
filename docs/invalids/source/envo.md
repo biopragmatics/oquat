@@ -26,17 +26,6 @@ did not match the standard pattern `^\d{7,8}$`.
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------|
 | `EnvO:EnvO`     |              2 | [ENVO:00002036](http://purl.obolibrary.org/obo/ENVO_00002036), [ENVO:01000739](http://purl.obolibrary.org/obo/ENVO_01000739) |
 
-## `ENVO`: Environment Ontology
-
-Overall, there were 2 invalid
-xrefs to external prefixed with `ENVO` (standardized to Bioregistry
-prefix [`envo`](https://bioregistry.io/envo)) that
-did not match the standard pattern `^\d{7,8}$`.
-
-| external_xref   |   usages_count | usages                                                                                                                     |
-|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------|
-| `ENVO:cjm`      |              2 | [ENVO:00005774](http://purl.obolibrary.org/obo/ENVO_00005774), [ENVO:2000000](http://purl.obolibrary.org/obo/ENVO_2000000) |
-
 ## `FAO`: Fungal gross anatomy
 
 Overall, there were 28 invalid
@@ -68,39 +57,16 @@ did not match the standard pattern `^\d+$`.
 | `GEMET:http://www.eionet.europa.eu/gemet/concept/4492`  |              1 | [ENVO:01000545](http://purl.obolibrary.org/obo/ENVO_01000545) |
 | `GEMET:http://www.eionet.europa.eu/gemet/concept/4668`  |              1 | [ENVO:01000692](http://purl.obolibrary.org/obo/ENVO_01000692) |
 
-## `Geomames`: GeoNames
-
-Overall, there were 2 invalid
-xrefs to external prefixed with `Geomames` (standardized to Bioregistry
-prefix [`geonames`](https://bioregistry.io/geonames)) that
-did not match the standard pattern `^\d+$`.
-
-| external_xref   |   usages_count | usages                                                        |
-|-----------------|----------------|---------------------------------------------------------------|
-| `Geomames:DTCH` |              1 | [ENVO:00000037](http://purl.obolibrary.org/obo/ENVO_00000037) |
-| `Geomames:CUTF` |              1 | [ENVO:00000523](http://purl.obolibrary.org/obo/ENVO_00000523) |
-
-## `Geonamaes`: GeoNames
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `Geonamaes` (standardized to Bioregistry
-prefix [`geonames`](https://bioregistry.io/geonames)) that
-did not match the standard pattern `^\d+$`.
-
-| external_xref   |   usages_count | usages                                                        |
-|-----------------|----------------|---------------------------------------------------------------|
-| `Geonamaes:MTS` |              1 | [ENVO:00000080](http://purl.obolibrary.org/obo/ENVO_00000080) |
-
 ## `Geonames`: GeoNames
 
-Overall, there were 567 invalid
+Overall, there were 489 invalid
 xrefs to external prefixed with `Geonames` (standardized to Bioregistry
 prefix [`geonames`](https://bioregistry.io/geonames)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref                                        |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `Geonames:feature`                                   |            222 | [ENVO:00000005](http://purl.obolibrary.org/obo/ENVO_00000005), [ENVO:00000006](http://purl.obolibrary.org/obo/ENVO_00000006), [ENVO:00000007](http://purl.obolibrary.org/obo/ENVO_00000007), [ENVO:00000008](http://purl.obolibrary.org/obo/ENVO_00000008), [ENVO:00000011](http://purl.obolibrary.org/obo/ENVO_00000011), ... |
+| `Geonames:feature`                                   |            142 | [ENVO:00000005](http://purl.obolibrary.org/obo/ENVO_00000005), [ENVO:00000006](http://purl.obolibrary.org/obo/ENVO_00000006), [ENVO:00000007](http://purl.obolibrary.org/obo/ENVO_00000007), [ENVO:00000008](http://purl.obolibrary.org/obo/ENVO_00000008), [ENVO:00000011](http://purl.obolibrary.org/obo/ENVO_00000011), ... |
 | `Geonames:http://www.geonames.org/export/codes.html` |              4 | [ENVO:00000005](http://purl.obolibrary.org/obo/ENVO_00000005), [ENVO:00000006](http://purl.obolibrary.org/obo/ENVO_00000006), [ENVO:00000007](http://purl.obolibrary.org/obo/ENVO_00000007), [ENVO:00000008](http://purl.obolibrary.org/obo/ENVO_00000008)                                                                     |
 | `Geonames:H.LKN`                                     |              2 | [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), [ENVO:00000502](http://purl.obolibrary.org/obo/ENVO_00000502)                                                                                                                                                                                                   |
 | `Geonames:R`                                         |              2 | [ENVO:00000064](http://purl.obolibrary.org/obo/ENVO_00000064), [ENVO:00000065](http://purl.obolibrary.org/obo/ENVO_00000065)                                                                                                                                                                                                   |
@@ -144,6 +110,7 @@ did not match the standard pattern `^\d+$`.
 | `Geonames:H.RPDS`                                    |              1 | [ENVO:00000034](http://purl.obolibrary.org/obo/ENVO_00000034)                                                                                                                                                                                                                                                                  |
 | `Geonames:H.MRSH`                                    |              1 | [ENVO:00000035](http://purl.obolibrary.org/obo/ENVO_00000035)                                                                                                                                                                                                                                                                  |
 | `Geonames:H.CNLI`                                    |              1 | [ENVO:00000036](http://purl.obolibrary.org/obo/ENVO_00000036)                                                                                                                                                                                                                                                                  |
+| `Geonames:DTCH`                                      |              1 | [ENVO:00000037](http://purl.obolibrary.org/obo/ENVO_00000037)                                                                                                                                                                                                                                                                  |
 | `Geonames:H.LGN`                                     |              1 | [ENVO:00000038](http://purl.obolibrary.org/obo/ENVO_00000038)                                                                                                                                                                                                                                                                  |
 | `Geonames:H.LGNS`                                    |              1 | [ENVO:00000038](http://purl.obolibrary.org/obo/ENVO_00000038)                                                                                                                                                                                                                                                                  |
 | `Geonames:H.FJD`                                     |              1 | [ENVO:00000039](http://purl.obolibrary.org/obo/ENVO_00000039)                                                                                                                                                                                                                                                                  |
@@ -189,6 +156,7 @@ did not match the standard pattern `^\d+$`.
 | `Geonames:S.NSY`                                     |              1 | [ENVO:00000077](http://purl.obolibrary.org/obo/ENVO_00000077)                                                                                                                                                                                                                                                                  |
 | `Geonames:S.FRM`                                     |              1 | [ENVO:00000078](http://purl.obolibrary.org/obo/ENVO_00000078)                                                                                                                                                                                                                                                                  |
 | `Geonames:S.FRMS`                                    |              1 | [ENVO:00000078](http://purl.obolibrary.org/obo/ENVO_00000078)                                                                                                                                                                                                                                                                  |
+| `Geonames:MTS`                                       |              1 | [ENVO:00000080](http://purl.obolibrary.org/obo/ENVO_00000080)                                                                                                                                                                                                                                                                  |
 | `Geonames:T.MT`                                      |              1 | [ENVO:00000081](http://purl.obolibrary.org/obo/ENVO_00000081)                                                                                                                                                                                                                                                                  |
 | `Geonames:T.MTS`                                     |              1 | [ENVO:00000081](http://purl.obolibrary.org/obo/ENVO_00000081)                                                                                                                                                                                                                                                                  |
 | `Geonames:T.HLL`                                     |              1 | [ENVO:00000083](http://purl.obolibrary.org/obo/ENVO_00000083)                                                                                                                                                                                                                                                                  |
@@ -416,6 +384,7 @@ did not match the standard pattern `^\d+$`.
 | `Geonames:T.SLID`                                    |              1 | [ENVO:00000520](http://purl.obolibrary.org/obo/ENVO_00000520)                                                                                                                                                                                                                                                                  |
 | `Geonames:T.RKFL`                                    |              1 | [ENVO:00000521](http://purl.obolibrary.org/obo/ENVO_00000521)                                                                                                                                                                                                                                                                  |
 | `Geonames:H.TNLC`                                    |              1 | [ENVO:00000522](http://purl.obolibrary.org/obo/ENVO_00000522)                                                                                                                                                                                                                                                                  |
+| `Geonames:CUTF`                                      |              1 | [ENVO:00000523](http://purl.obolibrary.org/obo/ENVO_00000523)                                                                                                                                                                                                                                                                  |
 | `Geonames:H.STMQ`                                    |              1 | [ENVO:00000524](http://purl.obolibrary.org/obo/ENVO_00000524)                                                                                                                                                                                                                                                                  |
 | `Geonames:H.STMC`                                    |              1 | [ENVO:00000525](http://purl.obolibrary.org/obo/ENVO_00000525)                                                                                                                                                                                                                                                                  |
 | `Geonames:T.CFT`                                     |              1 | [ENVO:00000526](http://purl.obolibrary.org/obo/ENVO_00000526)                                                                                                                                                                                                                                                                  |
@@ -426,7 +395,6 @@ did not match the standard pattern `^\d+$`.
 | `Geonames:H.DPRG`                                    |              1 | [ENVO:00000531](http://purl.obolibrary.org/obo/ENVO_00000531)                                                                                                                                                                                                                                                                  |
 | `Geonames:H.PNDNI`                                   |              1 | [ENVO:00000532](http://purl.obolibrary.org/obo/ENVO_00000532)                                                                                                                                                                                                                                                                  |
 | `Geonames:S.WEIR`                                    |              1 | [ENVO:00000535](http://purl.obolibrary.org/obo/ENVO_00000535)                                                                                                                                                                                                                                                                  |
-| `Geonames:U.MOTU`                                    |              1 | [ENVO:00000536](http://purl.obolibrary.org/obo/ENVO_00000536)                                                                                                                                                                                                                                                                  |
 | `Geonames:T.BLDR`                                    |              1 | [ENVO:00000537](http://purl.obolibrary.org/obo/ENVO_00000537)                                                                                                                                                                                                                                                                  |
 | `Geonames:U.ARRU`                                    |              1 | [ENVO:00000538](http://purl.obolibrary.org/obo/ENVO_00000538)                                                                                                                                                                                                                                                                  |
 | `Geonames:H.SILL`                                    |              1 | [ENVO:00000539](http://purl.obolibrary.org/obo/ENVO_00000539)                                                                                                                                                                                                                                                                  |
@@ -440,14 +408,14 @@ did not match the standard pattern `^\d+$`.
 
 ## `MA`: Mouse adult gross anatomy
 
-Overall, there were 133 invalid
+Overall, there were 134 invalid
 xrefs to external prefixed with `MA` (standardized to Bioregistry
 prefix [`ma`](https://bioregistry.io/ma)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MA:ma`         |            133 | [ENVO:00000010](http://purl.obolibrary.org/obo/ENVO_00000010), [ENVO:00000012](http://purl.obolibrary.org/obo/ENVO_00000012), [ENVO:00000014](http://purl.obolibrary.org/obo/ENVO_00000014), [ENVO:00000018](http://purl.obolibrary.org/obo/ENVO_00000018), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), ... |
+| `MA:ma`         |            134 | [ENVO:00000010](http://purl.obolibrary.org/obo/ENVO_00000010), [ENVO:00000012](http://purl.obolibrary.org/obo/ENVO_00000012), [ENVO:00000014](http://purl.obolibrary.org/obo/ENVO_00000014), [ENVO:00000018](http://purl.obolibrary.org/obo/ENVO_00000018), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), ... |
 
 ## `WWF`: World Wildlife Fund Ecoregion
 

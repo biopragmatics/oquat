@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-26T01:31:32.895290",
+  "created": "2023-05-21T00:47:36.330322",
   "messages": [],
   "results": {
     "http://www.ebi.ac.uk/cmpo/cmpo.owl": {
@@ -36,50 +36,17 @@
           "http://purl.obolibrary.org/obo/GO_1902680": [
             "GO:jl"
           ],
-          "http://purl.obolibrary.org/obo/PATO_0000008": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Velocity"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0000033": [
-            "Wikipedia:http://en.wikipedia.org/wiki/concentration"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0000044": [
-            "Wikipedia:http://en.wikipedia.org/wiki/frequency"
-          ],
           "http://purl.obolibrary.org/obo/PATO_0000911": [
             "PATO:GVG"
           ],
           "http://purl.obolibrary.org/obo/PATO_0000912": [
             "PATO:GVG"
           ],
-          "http://purl.obolibrary.org/obo/PATO_0001291": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_radiation"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001323": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Area"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001374": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ploidy"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001377": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Polyploid"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001393": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Euploid"
-          ],
           "http://purl.obolibrary.org/obo/PATO_0001562": [
             "PATO:GVG"
           ],
           "http://purl.obolibrary.org/obo/PATO_0001563": [
             "PATO:GVG"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0002378": [
-            "wikipedia:https://en.wikipedia.org/wiki/Acinus"
-          ],
-          "http://purl.obolibrary.org/obo/pato#directly_associated_with": [
-            "Wikipedia:Association_(statistics)"
-          ],
-          "http://purl.obolibrary.org/obo/pato#inversely_associated_with": [
-            "Wikipedia:Association_(statistics)"
           ]
         },
         "label": "Provenance Xrefs",
@@ -1279,16 +1246,12 @@
             "Reactome:REACT_95359",
             "Reactome:REACT_98682"
           ],
-          "http://purl.obolibrary.org/obo/GO_0005488": [
-            "Wikipedia:Binding_(molecular)"
-          ],
           "http://purl.obolibrary.org/obo/GO_0005575": [
             "NIF_Subcellular:sao-1337158144",
             "NIF_Subcellular:sao1337158144"
           ],
           "http://purl.obolibrary.org/obo/GO_0005623": [
-            "NIF_Subcellular:sao1813327414",
-            "Wikipedia:Cell_(biology)"
+            "NIF_Subcellular:sao1813327414"
           ],
           "http://purl.obolibrary.org/obo/GO_0005634": [
             "NIF_Subcellular:sao1702920020"
@@ -1427,9 +1390,6 @@
             "Reactome:REACT_98713",
             "Reactome:REACT_99275",
             "Reactome:REACT_99925"
-          ],
-          "http://purl.obolibrary.org/obo/GO_0006351": [
-            "Wikipedia:Transcription_(genetics)"
           ],
           "http://purl.obolibrary.org/obo/GO_0006915": [
             "Reactome:REACT_100045",
@@ -1654,8 +1614,7 @@
             "NIF_Subcellular:sao180601769"
           ],
           "http://purl.obolibrary.org/obo/GO_0031982": [
-            "NIF_Subcellular:sao221389602",
-            "Wikipedia:Vesicle_(biology)"
+            "NIF_Subcellular:sao221389602"
           ],
           "http://purl.obolibrary.org/obo/GO_0034061": [
             "Reactome:REACT_115680",

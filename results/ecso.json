@@ -1,0 +1,7 @@
+{
+  "created": "2023-05-21T00:52:26.616644",
+  "messages": [
+    "could not parse OWL for ecso from https://raw.githubusercontent.com/DataONEorg/sem-prov-ontologies/run4/observation/d1-ECSO.owl"
+  ],
+  "results": {}
+}

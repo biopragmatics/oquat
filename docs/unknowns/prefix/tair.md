@@ -14,6 +14,12 @@
 | TAIR:sr |        3 | [CL:0000293](http://purl.obolibrary.org/obo/CL_0000293), [CL:0000627](http://purl.obolibrary.org/obo/CL_0000627), [CL:0000628](http://purl.obolibrary.org/obo/CL_0000628)                                                                                                                        |
 | TAIR:TB |        2 | [CL:0005016](http://purl.obolibrary.org/obo/CL_0005016), [CL:0005017](http://purl.obolibrary.org/obo/CL_0005017)                                                                                                                                                                                 |
 
+## nif
+
+| curie   |   usages | nodes                                                                                                            |
+|---------|----------|------------------------------------------------------------------------------------------------------------------|
+| TAIR:sr |        2 | [CL:0000293](http://purl.obolibrary.org/obo/CL_0000293), [CL:0000627](http://purl.obolibrary.org/obo/CL_0000627) |
+
 ## po
 
 | curie         |   usages | nodes                                                                                                            |

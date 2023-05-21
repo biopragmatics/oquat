@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `kegg.compound`
 but use local unique identifiers that do not match the standard pattern of
-`^C\d+$`. Of the 2 resources,
+`^C\d+$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['KEGG COMPOUND'].
 
 ## `dto`: Drug Target Ontology
@@ -50,6 +50,15 @@ Identifiers for this prefix are given incorrectly in `dto`. See the [GitHub repo
 | `KEGG COMPOUND:67382-96-1`  |              1 | [CHEBI:80254](http://purl.obolibrary.org/obo/CHEBI_80254) |
 | `KEGG COMPOUND:148498-78-6` |              1 | [CHEBI:80339](http://purl.obolibrary.org/obo/CHEBI_80339) |
 | `KEGG COMPOUND:9002-04-4`   |              1 | [CHEBI:9574](http://purl.obolibrary.org/obo/CHEBI_9574)   |
+
+## `nif`: None
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref             |   usages_count | usages                                                    |
+|---------------------------|----------------|-----------------------------------------------------------|
+| `KEGG COMPOUND:87-51-4`   |              1 | [CHEBI:16411](http://purl.obolibrary.org/obo/CHEBI_16411) |
+| `KEGG COMPOUND:6894-38-8` |              1 | [CHEBI:18292](http://purl.obolibrary.org/obo/CHEBI_18292) |
 
 ## `sibo`: Social Insect Behavior Ontology
 

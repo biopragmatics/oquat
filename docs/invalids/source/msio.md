@@ -34,7 +34,7 @@ did not match the standard pattern `^LM(FA|GL|GP|SP|ST|PR|SL|PK)[0-9]{4}([0-9a-z
 Overall, there were 1 invalid
 xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
 prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
-did not match the standard pattern `^[A-Za-z-0-9_]+$`.
+did not match the standard pattern `^\S+$`.
 
 | external_xref           |   usages_count | usages                                                    |
 |-------------------------|----------------|-----------------------------------------------------------|

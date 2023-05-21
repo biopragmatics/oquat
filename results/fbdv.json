@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-26T01:41:01.538738",
+  "created": "2023-05-21T00:55:45.146714",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/fbdv.json": {
@@ -99,9 +99,6 @@
             "http://purl.obolibrary.org/obo/FBdv_00007134": "FBC:DOS",
             "http://purl.obolibrary.org/obo/FBdv_00007135": "FBC:DOS",
             "http://purl.obolibrary.org/obo/FBdv_00014201": "FBC:DOS"
-          },
-          "[FlyBase": {
-            "http://purl.obolibrary.org/obo/FBdv_00005313": "[FlyBase:FBrf0039741"
           }
         }
       },
@@ -117,8 +114,8 @@
           }
         }
       },
-      "version": "2023-02-08",
-      "version_iri": "http://purl.obolibrary.org/obo/fbdv/releases/2023-02-08/fbdv.json",
+      "version": "2023-05-03",
+      "version_iri": "http://purl.obolibrary.org/obo/fbdv/releases/2023-05-03/fbdv.json",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

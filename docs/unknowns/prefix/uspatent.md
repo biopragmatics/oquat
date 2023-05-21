@@ -1,6 +1,6 @@
 # `uspatent`
 
-## pride
+## chmo
 
 | curie            |   usages | nodes                                                       |
 |------------------|----------|-------------------------------------------------------------|
@@ -10,7 +10,7 @@
 | USPatent:5780518 |        1 | [CHMO:0001517](http://purl.obolibrary.org/obo/CHMO_0001517) |
 | USPatent:7204970 |        1 | [CHMO:0002321](http://purl.obolibrary.org/obo/CHMO_0002321) |
 
-## chmo
+## pride
 
 | curie            |   usages | nodes                                                       |
 |------------------|----------|-------------------------------------------------------------|

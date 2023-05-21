@@ -1,6 +1,8 @@
 {
-  "created": "2023-02-19T02:43:43.118685",
-  "messages": [],
+  "created": "2023-05-21T01:51:54.157681",
+  "messages": [
+    "could not parse JSON for ro from http://purl.obolibrary.org/obo/ro.json"
+  ],
   "results": {
     "http://purl.obolibrary.org/obo/ro.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/ro.owl",
@@ -44,8 +46,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2023-01-04",
-      "version_iri": "http://purl.obolibrary.org/obo/ro/releases/2023-01-04/ro.owl",
+      "version": "2023-02-22",
+      "version_iri": "http://purl.obolibrary.org/obo/ro/releases/2023-02-22/ro.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/RO_HOM0000000": [

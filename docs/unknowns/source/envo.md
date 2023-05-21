@@ -8,7 +8,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ADL:FTT |      200 | [ENVO:00000003](http://purl.obolibrary.org/obo/ENVO_00000003), [ENVO:00000004](http://purl.obolibrary.org/obo/ENVO_00000004), [ENVO:00000005](http://purl.obolibrary.org/obo/ENVO_00000005), [ENVO:00000006](http://purl.obolibrary.org/obo/ENVO_00000006), [ENVO:00000007](http://purl.obolibrary.org/obo/ENVO_00000007), ... |
+| ADL:FTT |      190 | [ENVO:00000003](http://purl.obolibrary.org/obo/ENVO_00000003), [ENVO:00000004](http://purl.obolibrary.org/obo/ENVO_00000004), [ENVO:00000005](http://purl.obolibrary.org/obo/ENVO_00000005), [ENVO:00000006](http://purl.obolibrary.org/obo/ENVO_00000006), [ENVO:00000007](http://purl.obolibrary.org/obo/ENVO_00000007), ... |
 
 ## `ENVOC`
 
@@ -81,25 +81,15 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | NM:nm   |       14 | [ENVO:00000144](http://purl.obolibrary.org/obo/ENVO_00000144), [ENVO:00000568](http://purl.obolibrary.org/obo/ENVO_00000568), [ENVO:00000569](http://purl.obolibrary.org/obo/ENVO_00000569), [ENVO:00000570](http://purl.obolibrary.org/obo/ENVO_00000570), [ENVO:00000571](http://purl.obolibrary.org/obo/ENVO_00000571), ... |
 
-## `PATOC`
-
-There are 1 usages of `PATOC` in `envo`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PATOC).
-
-| curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
-|-----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PATOC:cjm |        5 | [ENVO:00006776](http://purl.obolibrary.org/obo/ENVO_00006776), [ENVO:00009001](http://purl.obolibrary.org/obo/ENVO_00009001), [ENVO:00009002](http://purl.obolibrary.org/obo/ENVO_00009002), [ENVO:00009003](http://purl.obolibrary.org/obo/ENVO_00009003), [ENVO:00009004](http://purl.obolibrary.org/obo/ENVO_00009004), ... |
-
 ## `URL`
 
 There are 1 usages of `URL` in `envo`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL).
 
-| curie                                      |   usages | nodes                                                         |
-|--------------------------------------------|----------|---------------------------------------------------------------|
-| URL:http://aims.fao.org/aos/agrovoc/c_5998 |        1 | [ENVO:01000404](http://purl.obolibrary.org/obo/ENVO_01000404) |
+| curie                                                                                 |   usages | nodes                                                         |
+|---------------------------------------------------------------------------------------|----------|---------------------------------------------------------------|
+| URL:http://www.britannica.com/EBchecked/topic/383726/mineral-deposit?anchor=ref624175 |        1 | [ENVO:01000255](http://purl.obolibrary.org/obo/ENVO_01000255) |
 
 ## `USGS`
 
@@ -109,7 +99,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| USGS:SDTS |      182 | [ENVO:00000011](http://purl.obolibrary.org/obo/ENVO_00000011), [ENVO:00000016](http://purl.obolibrary.org/obo/ENVO_00000016), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), [ENVO:00000020](http://purl.obolibrary.org/obo/ENVO_00000020), [ENVO:00000022](http://purl.obolibrary.org/obo/ENVO_00000022), ... |
+| USGS:SDTS |      176 | [ENVO:00000011](http://purl.obolibrary.org/obo/ENVO_00000011), [ENVO:00000016](http://purl.obolibrary.org/obo/ENVO_00000016), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), [ENVO:00000020](http://purl.obolibrary.org/obo/ENVO_00000020), [ENVO:00000022](http://purl.obolibrary.org/obo/ENVO_00000022), ... |
 
 ## `WWW`
 
@@ -173,7 +163,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Getty:TGN |       75 | [ENVO:00000004](http://purl.obolibrary.org/obo/ENVO_00000004), [ENVO:00000005](http://purl.obolibrary.org/obo/ENVO_00000005), [ENVO:00000006](http://purl.obolibrary.org/obo/ENVO_00000006), [ENVO:00000007](http://purl.obolibrary.org/obo/ENVO_00000007), [ENVO:00000008](http://purl.obolibrary.org/obo/ENVO_00000008), ... |
+| Getty:TGN |       71 | [ENVO:00000004](http://purl.obolibrary.org/obo/ENVO_00000004), [ENVO:00000005](http://purl.obolibrary.org/obo/ENVO_00000005), [ENVO:00000006](http://purl.obolibrary.org/obo/ENVO_00000006), [ENVO:00000007](http://purl.obolibrary.org/obo/ENVO_00000007), [ENVO:00000008](http://purl.obolibrary.org/obo/ENVO_00000008), ... |
 
 ## `NASA`
 
@@ -183,7 +173,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NASA:earthrealm |       58 | [ENVO:00000015](http://purl.obolibrary.org/obo/ENVO_00000015), [ENVO:00000016](http://purl.obolibrary.org/obo/ENVO_00000016), [ENVO:00000021](http://purl.obolibrary.org/obo/ENVO_00000021), [ENVO:00000023](http://purl.obolibrary.org/obo/ENVO_00000023), [ENVO:00000027](http://purl.obolibrary.org/obo/ENVO_00000027), ... |
+| NASA:earthrealm |       45 | [ENVO:00000021](http://purl.obolibrary.org/obo/ENVO_00000021), [ENVO:00000023](http://purl.obolibrary.org/obo/ENVO_00000023), [ENVO:00000033](http://purl.obolibrary.org/obo/ENVO_00000033), [ENVO:00000035](http://purl.obolibrary.org/obo/ENVO_00000035), [ENVO:00000043](http://purl.obolibrary.org/obo/ENVO_00000043), ... |
 
 ## `SPIRE`
 

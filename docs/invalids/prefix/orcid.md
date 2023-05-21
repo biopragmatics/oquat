@@ -2,16 +2,8 @@
 
 This page summarize the different resources that reference `orcid`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`. Of the 3 resources,
+`^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`. Of the 2 resources,
 2 variants on the standard prefix were found: ['ORCID', 'ORCiD'].
-
-## `hp`: Human Phenotype Ontology
-
-Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repository](https://github.com/obophenotype/human-phenotype-ontology).
-
-| external_xref              |   usages_count | usages                                                  |
-|----------------------------|----------------|---------------------------------------------------------|
-| `ORCID:000-0002-6670-9157` |              1 | [HP:0002673](http://purl.obolibrary.org/obo/HP_0002673) |
 
 ## `mp`: Mammalian Phenotype Ontology
 

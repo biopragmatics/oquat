@@ -1,0 +1,32 @@
+{
+  "created": "2023-05-21T01:03:48.906445",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/HEPRO.json": {
+      "graph_id": "http://purl.obolibrary.org/obo/HEPRO.json",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2023-05-05",
+      "version_iri": "http://purl.obolibrary.org/obo/HEPRO/releases/2023-05-05/HEPRO.json",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
+    }
+  }
+}

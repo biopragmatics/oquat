@@ -171,7 +171,7 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 |-----------------|----------------|-----------------------------------------------------|
 | `MeSH:Q000401`  |              1 | [EFO:0004352](http://www.ebi.ac.uk/efo/EFO_0004352) |
 
-## `MONDO`: Monarch Disease Ontology
+## `MONDO`: Mondo Disease Ontology
 
 Overall, there were 18 invalid
 xrefs to external prefixed with `MONDO` (standardized to Bioregistry
@@ -277,21 +277,4 @@ did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0
 |----------------------|----------------|-----------------------------------------------------------|
 | `UniProtKB:P0DTC1-1` |              1 | [PR:P0DTC1-1](http://purl.obolibrary.org/obo/PR_P0DTC1-1) |
 | `UniProtKB:P0DTD1-1` |              1 | [PR:P0DTD1-1](http://purl.obolibrary.org/obo/PR_P0DTD1-1) |
-
-## `Wikipedia`: Wikipedia
-
-Overall, there were 8 invalid
-xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
-prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
-did not match the standard pattern `^[A-Za-z-0-9_]+$`.
-
-| external_xref                                                              |   usages_count | usages                                                                                                                       |
-|----------------------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------|
-| `Wikipedia:Vector_(epidemiology)`                                          |              2 | [MONDO:0100120](http://purl.obolibrary.org/obo/MONDO_0100120), [MONDO:0100120](http://purl.obolibrary.org/obo/MONDO_0100120) |
-| `Wikipedia:Sulfonamide_(medicine)`                                         |              1 | [CHEBI:87228](http://purl.obolibrary.org/obo/CHEBI_87228)                                                                    |
-| `Wikipedia:Neutralizing_antibody#Virus_evasion_of_neutralizing_antibodies` |              1 | [COVOC:0010007](http://purl.obolibrary.org/obo/COVOC_0010007)                                                                |
-| `Wikipedia:Epitope#T_cell_epitopes`                                        |              1 | [COVOC:0010034](http://purl.obolibrary.org/obo/COVOC_0010034)                                                                |
-| `Wikipedia:Cannabis_(drug)`                                                |              1 | [COVOC:0030019](http://purl.obolibrary.org/obo/COVOC_0030019)                                                                |
-| `Wikipedia:Translation_(genetics)`                                         |              1 | [GO:0006412](http://purl.obolibrary.org/obo/GO_0006412)                                                                      |
-| `Wikipedia:Autophagy_(cellular)`                                           |              1 | [GO:0006914](http://purl.obolibrary.org/obo/GO_0006914)                                                                      |
 

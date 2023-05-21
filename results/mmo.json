@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-26T01:56:55.270833",
+  "created": "2023-05-21T01:16:19.192739",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/mmo.owl": {
@@ -9,44 +9,17 @@
           "http://purl.obolibrary.org/obo/MMO_0000017": [
             "RGD:JRS"
           ],
-          "http://purl.obolibrary.org/obo/MMO_0000023": [
-            "Wikipedia:http://en.wikipedia.org/wiki/"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000077": [
-            "Wikipedia:http://en.wikipedia.org/wiki/"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000078": [
-            "Wikipedia:http://en.wikipedia.org/wiki/"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000079": [
-            "Wikipedia:http://en.wikipedia.org/wiki/"
-          ],
           "http://purl.obolibrary.org/obo/MMO_0000081": [
             "RGD:MS"
           ],
           "http://purl.obolibrary.org/obo/MMO_0000088": [
             "RGD:JRS"
           ],
-          "http://purl.obolibrary.org/obo/MMO_0000091": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Hydrostatic_weighing"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000094": [
-            "Wikipedia:http://en.wikipedia.org/wiki/"
-          ],
           "http://purl.obolibrary.org/obo/MMO_0000097": [
             "RGD:MS"
           ],
-          "http://purl.obolibrary.org/obo/MMO_0000099": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Thromboelastometry"
-          ],
           "http://purl.obolibrary.org/obo/MMO_0000104": [
             "RGD:MS"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000111": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000113": [
-            "Wikipedia:http://en.wikipedia.org/wiki/"
           ],
           "http://purl.obolibrary.org/obo/MMO_0000119": [
             "RGD:JRS"
@@ -57,50 +30,11 @@
           "http://purl.obolibrary.org/obo/MMO_0000137": [
             "RGD:MS"
           ],
-          "http://purl.obolibrary.org/obo/MMO_0000153": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000154": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000159": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Caliper"
-          ],
           "http://purl.obolibrary.org/obo/MMO_0000160": [
             "RGD:MS"
           ],
-          "http://purl.obolibrary.org/obo/MMO_0000164": [
-            "Wikipedia:http://en.wikipedia.org/wiki/"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000171": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000178": [
-            "Wikipedia:http://en.wikipedia.org/wiki/"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000180": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000181": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000186": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000187": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000201": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Sphygmomanometry"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000204": [
-            "Wikipedia:http://en.wikipedia.org/wiki/"
-          ],
           "http://purl.obolibrary.org/obo/MMO_0000218": [
             "RGD:JRS"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000220": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum"
           ],
           "http://purl.obolibrary.org/obo/MMO_0000222": [
             "RGD:JRS"
@@ -117,20 +51,8 @@
           "http://purl.obolibrary.org/obo/MMO_0000226": [
             "RGD:JRS"
           ],
-          "http://purl.obolibrary.org/obo/MMO_0000228": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ultrasonic_flow_meter"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000231": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Inductively_coupled_plasma"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000232": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Atomic_absorption_spectroscopy"
-          ],
           "http://purl.obolibrary.org/obo/MMO_0000235": [
             "RGD:JRS"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000238": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Liquid_scintillation_counting"
           ],
           "http://purl.obolibrary.org/obo/MMO_0000239": [
             "RGD:JRS"
@@ -174,188 +96,11 @@
           "http://purl.obolibrary.org/obo/MMO_0000276": [
             "RGD:JRS"
           ],
-          "http://purl.obolibrary.org/obo/MMO_0000289": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Chromatography#Thin_layer_chromatography"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000291": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Electrophysiology"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000292": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Patch_clamp"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000293": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Patch_clamp#Whole-cell_recording_or_whole-cell_patch"
-          ],
           "http://purl.obolibrary.org/obo/MMO_0000303": [
             "RGD:JRS"
           ],
-          "http://purl.obolibrary.org/obo/MMO_0000326": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Glucose_tolerance_test"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000328": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Solid_%28state_of_matter%29"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000338": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Western_blot"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000340": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Southern_blot"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000364": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Quantitative_computed_tomography"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000365": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Quantitative_computed_tomography"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000367": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Quantitative_computed_tomography"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000368": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Hemocytometer"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000379": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Atomic_absorption_spectroscopy"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000380": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Graphite_furnace_atomic_absorption"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000384": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Gadolinium"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000386": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Electroanalytical_Methods"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000387": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Clark_electrode"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000393": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Mohr_pipette"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000402": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Morris_water_maze"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000415": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000419": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000420": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000421": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000422": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Visible_spectrum"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000424": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Bicinchoninic_acid_assay"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000425": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Lowry_protein_assay"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000426": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Bradford_protein_assay"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000436": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Bromocresol_green"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000438": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ouchterlony_double_immunodiffusion"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000439": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Radial_immunodiffusion"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000440": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Radial_immunodiffusion"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000447": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Hemocytometer"
-          ],
           "http://purl.obolibrary.org/obo/MMO_0000448": [
             "RGD:SJL"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000450": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ion_selective_electrode"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000451": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ion_selective_electrode"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000452": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ion_selective_electrode"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000453": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Ion_selective_electrode"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000454": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Transducer"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000455": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Piezoelectric_accelerometer"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000458": [
-            "Wikipedia:http://en.wikipedia.org/wiki/ELISPOT"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000461": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Polymerase_Chain_Reaction"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000462": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Polymerase_Chain_Reaction"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000463": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000464": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Urine_test_strip"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000472": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000473": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000474": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000475": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000476": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000477": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000478": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000481": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000482": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000483": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000484": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Intermediate-density_lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000485": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000486": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000487": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000488": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000490": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Lipoprotein"
           ],
           "http://purl.obolibrary.org/obo/MMO_0000497": [
             "RGD:GTH"
@@ -363,175 +108,14 @@
           "http://purl.obolibrary.org/obo/MMO_0000502": [
             "RGD:JRS"
           ],
-          "http://purl.obolibrary.org/obo/MMO_0000508": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Quantitative_computed_tomography"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000514": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Calipers"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000515": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Calipers"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000516": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Calipers"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000517": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Calipers"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000520": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Campesterol"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000521": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Sitosterol"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000522": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Sitosterol"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000523": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Sitosterol"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000524": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Campesterol"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000525": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Campesterol"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000530": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Phytosterol"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000531": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Campesterol"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000532": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Sitosterol"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000542": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000543": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000544": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000545": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000546": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Jaffe_reaction"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000561": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Histology#Staining"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000563": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Colony-forming_unit#Tools_for_counting_colonies"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000564": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Colony-forming_unit#Tools_for_counting_colonies",
-            "Wikipedia:http://en.wikipedia.org/wiki/Growth_medium#Selective_media"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000567": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Rotarod_performance_test"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000582": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Common_carotid_artery"
-          ],
           "http://purl.obolibrary.org/obo/MMO_0000586": [
             "RGD:JRS"
           ],
           "http://purl.obolibrary.org/obo/MMO_0000595": [
             "RGD:JRS"
           ],
-          "http://purl.obolibrary.org/obo/MMO_0000598": [
-            "Wikipedia:https://en.wikipedia.org/wiki/SHIRPA"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000599": [
-            "Wikipedia:https://en.wikipedia.org/wiki/SHIRPA"
-          ],
           "http://purl.obolibrary.org/obo/MMO_0000611": [
             "RGD:JRS"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000616": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Electroretinography"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000617": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Flow_cytometry"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000622": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Pressure_measurement#Liquid_column_(manometer)"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000624": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Tympanometry"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000633": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Bronchoalveolar_lavage"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000640": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Gene_expression"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000641": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Primary_transcript"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000643": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Gene_expression",
-            "Wikipedia:https://en.wikipedia.org/wiki/In_situ#Biology_and_biomedical_engineering"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000644": [
-            "Wikipedia:https://en.wikipedia.org/wiki/High_throughput_biology"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000648": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Microarray"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000649": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Microarray"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000650": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Tiling_array"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000651": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Nuclease_protection_assay"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000652": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Nuclease_protection_assay"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000655": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Polymerase_chain_reaction",
-            "Wikipedia:https://en.wikipedia.org/wiki/Reverse_transcription_polymerase_chain_reaction"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000656": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Real-time_polymerase_chain_reaction"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000658": [
-            "Wikipedia:https://en.wikipedia.org/wiki/In_situ_hybridization"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000660": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Serial_analysis_of_gene_expression"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000662": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Immunofluorescence"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000664": [
-            "Wikipedia:https://en.wikipedia.org/wiki/High_throughput_biology",
-            "Wikipedia:https://en.wikipedia.org/wiki/Proteomics#High-throughput_proteomic_technologies"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000665": [
-            "Wikipedia:https://en.wikipedia.org/wiki/High_throughput_biology",
-            "Wikipedia:https://en.wikipedia.org/wiki/Proteomics"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000666": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Protein_microarray"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000667": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Tissue_microarray"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000668": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Antibody_microarray"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000669": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Western_blot"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000675": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Vapor_pressure_osmometry"
           ],
           "http://purl.obolibrary.org/obo/MMO_0000678": [
             "ECO:ECO:0001010"
@@ -563,14 +147,8 @@
           "http://purl.obolibrary.org/obo/MMO_0000695": [
             "PMID:PMID:3411196"
           ],
-          "http://purl.obolibrary.org/obo/MMO_0000696": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Optical_coherence_tomography"
-          ],
           "http://purl.obolibrary.org/obo/MMO_0000697": [
             "MESH:https://meshb.nlm.nih.gov/record/ui?ui=D009543"
-          ],
-          "http://purl.obolibrary.org/obo/MMO_0000698": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Comprehensive_metabolic_panel"
           ]
         },
         "label": "Provenance Xrefs",

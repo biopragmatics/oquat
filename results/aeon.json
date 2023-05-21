@@ -1,5 +1,5 @@
 {
-  "created": "2023-02-19T01:01:04.918920",
+  "created": "2023-05-21T00:11:12.778872",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/aeon.owl": {
@@ -50,16 +50,15 @@
           "Getty": {
             "http://purl.obolibrary.org/obo/ENVO_00000004": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000005": "Getty:TGN",
-            "http://purl.obolibrary.org/obo/ENVO_00000009": "Getty:TGN",
-            "http://purl.obolibrary.org/obo/ENVO_00000062": "Getty:TGN"
+            "http://purl.obolibrary.org/obo/ENVO_00000009": "Getty:TGN"
           },
           "USGS": {
             "http://purl.obolibrary.org/obo/ENVO_00000062": "USGS:SDTS"
           }
         }
       },
-      "version": "2022-11-25",
-      "version_iri": "http://purl.obolibrary.org/obo/aeon/releases/2022-11-25/aeon.owl",
+      "version": "2023-02-22",
+      "version_iri": "http://purl.obolibrary.org/obo/aeon/releases/2023-02-22/aeon.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000005": [

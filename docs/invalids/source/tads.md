@@ -32,14 +32,3 @@ did not match the standard pattern `^\d{4}-\d{3}[\dX]$`.
 | `ISSN:0168-8162 Exp. Appl. Acarol. 17: 631-653` |              1 | [TADS:0000575](http://purl.obolibrary.org/obo/TADS_0000575) |
 | `ISSN:0168-8162 Exp. Appl.Acarol. 17: 631-653`  |              1 | [TADS:0000581](http://purl.obolibrary.org/obo/TADS_0000581) |
 
-## `Wikipedia`: Wikipedia
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
-prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
-did not match the standard pattern `^[A-Za-z-0-9_]+$`.
-
-| external_xref                 |   usages_count | usages                                                      |
-|-------------------------------|----------------|-------------------------------------------------------------|
-| `Wikipedia:www.wikipedia.org` |              1 | [TADS:0000224](http://purl.obolibrary.org/obo/TADS_0000224) |
-

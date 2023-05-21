@@ -1,11 +1,11 @@
 # `thefreedictionary`
 
-## cmpo
+## bto
 
-| curie                                                         |   usages | nodes                                                       |
-|---------------------------------------------------------------|----------|-------------------------------------------------------------|
-| thefreedictionary:http://www.thefreedictionary.com/bilobed    |        1 | [PATO:0002214](http://purl.obolibrary.org/obo/PATO_0002214) |
-| thefreedictionary:http://www.thefreedictionary.com/fan-shaped |        1 | [PATO:0002219](http://purl.obolibrary.org/obo/PATO_0002219) |
+| curie                                                               |   usages | nodes                                                                                                                                                                                                                                                                                                      |
+|---------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TheFreeDictionary:http://www.thefreedictionary.com/                 |        6 | [BTO:0002406](http://purl.obolibrary.org/obo/BTO_0002406), [BTO:0002420](http://purl.obolibrary.org/obo/BTO_0002420), [BTO:0002421](http://purl.obolibrary.org/obo/BTO_0002421), [BTO:0002743](http://purl.obolibrary.org/obo/BTO_0002743), [BTO:0002774](http://purl.obolibrary.org/obo/BTO_0002774), ... |
+| TheFreeDictionary:http://columbia.thefreedictionary.com/Thyrostraca |        1 | [BTO:0002738](http://purl.obolibrary.org/obo/BTO_0002738)                                                                                                                                                                                                                                                  |
 
 ## idomal
 
@@ -13,12 +13,28 @@
 |-------------------------------------------------|----------|-----------------------------------------------------------------|
 | TheFreeDictionary:hemaglutinationinhibitiontest |        1 | [IDOMAL:0000557](http://purl.obolibrary.org/obo/IDOMAL_0000557) |
 
-## bto
+## nif
 
-| curie                                                               |   usages | nodes                                                                                                                                                                                                                                                                                                      |
-|---------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TheFreeDictionary:http://www.thefreedictionary.com/                 |        6 | [BTO:0002406](http://purl.obolibrary.org/obo/BTO_0002406), [BTO:0002420](http://purl.obolibrary.org/obo/BTO_0002420), [BTO:0002421](http://purl.obolibrary.org/obo/BTO_0002421), [BTO:0002743](http://purl.obolibrary.org/obo/BTO_0002743), [BTO:0002774](http://purl.obolibrary.org/obo/BTO_0002774), ... |
-| TheFreeDictionary:http://columbia.thefreedictionary.com/Thyrostraca |        1 | [BTO:0002738](http://purl.obolibrary.org/obo/BTO_0002738)                                                                                                                                                                                                                                                  |
+| curie                                                           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
+|-----------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| thefreedictionary:thefreedictionary                             |        9 | [PATO:0000185](http://purl.obolibrary.org/obo/PATO_0000185), [PATO:0000463](http://purl.obolibrary.org/obo/PATO_0000463), [PATO:0000464](http://purl.obolibrary.org/obo/PATO_0000464), [PATO:0001597](http://purl.obolibrary.org/obo/PATO_0001597), [PATO:0001909](http://purl.obolibrary.org/obo/PATO_0001909), ... |
+| thefreedictionary.:thefreedictionary.                           |        5 | [PATO:0000462](http://purl.obolibrary.org/obo/PATO_0000462), [PATO:0002165](http://purl.obolibrary.org/obo/PATO_0002165), [PATO:0040058](http://purl.obolibrary.org/obo/PATO_0040058), [PATO:0040059](http://purl.obolibrary.org/obo/PATO_0040059), [PATO:0040060](http://purl.obolibrary.org/obo/PATO_0040060), ... |
+| thefreedictionary:www.thefreedictionary.com                     |        2 | [PATO:0002341](http://purl.obolibrary.org/obo/PATO_0002341), [PATO:0002343](http://purl.obolibrary.org/obo/PATO_0002343)                                                                                                                                                                                             |
+| TheFreeDictionary:cancellous                                    |        1 | [PATO:0002519](http://purl.obolibrary.org/obo/PATO_0002519)                                                                                                                                                                                                                                                          |
+| thefreedictionary:http://www.thefreedictionary.com/biconvexity  |        1 | [PATO:0002040](http://purl.obolibrary.org/obo/PATO_0002040)                                                                                                                                                                                                                                                          |
+| thefreedictionary:http://www.thefreedictionary.com/adaxial      |        1 | [PATO:0002047](http://purl.obolibrary.org/obo/PATO_0002047)                                                                                                                                                                                                                                                          |
+| thefreedictionary:http://www.thefreedictionary.com/spoon-shaped |        1 | [PATO:0002208](http://purl.obolibrary.org/obo/PATO_0002208)                                                                                                                                                                                                                                                          |
+| thefreedictionary:http://www.thefreedictionary.com/incisiform   |        1 | [PATO:0002209](http://purl.obolibrary.org/obo/PATO_0002209)                                                                                                                                                                                                                                                          |
+| thefreedictionary:http://www.thefreedictionary.com/bilobed      |        1 | [PATO:0002214](http://purl.obolibrary.org/obo/PATO_0002214)                                                                                                                                                                                                                                                          |
+| thefreedictionary:http://www.thefreedictionary.com/demyelinated |        1 | [PATO:0002218](http://purl.obolibrary.org/obo/PATO_0002218)                                                                                                                                                                                                                                                          |
+| thefreedictionary:http://www.thefreedictionary.com/fan-shaped   |        1 | [PATO:0002219](http://purl.obolibrary.org/obo/PATO_0002219)                                                                                                                                                                                                                                                          |
+
+## cmpo
+
+| curie                                                         |   usages | nodes                                                       |
+|---------------------------------------------------------------|----------|-------------------------------------------------------------|
+| thefreedictionary:http://www.thefreedictionary.com/bilobed    |        1 | [PATO:0002214](http://purl.obolibrary.org/obo/PATO_0002214) |
+| thefreedictionary:http://www.thefreedictionary.com/fan-shaped |        1 | [PATO:0002219](http://purl.obolibrary.org/obo/PATO_0002219) |
 
 ## pato
 

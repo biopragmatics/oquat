@@ -1,98 +1,5 @@
 # hp
 
-## `CINEAS`
-
-There are 1 usages of `CINEAS` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CINEAS).
-
-| curie          |   usages | nodes                                                                                                                                                                     |
-|----------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| CINEAS:asollie |        3 | [HP:0012775](http://purl.obolibrary.org/obo/HP_0012775), [HP:0012776](http://purl.obolibrary.org/obo/HP_0012776), [HP:0012777](http://purl.obolibrary.org/obo/HP_0012777) |
-
-## `COST`
-
-There are 1 usages of `COST` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20COST).
-
-| curie         |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|---------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| COST:neuromig |       51 | [HP:0001302](http://purl.obolibrary.org/obo/HP_0001302), [HP:0001339](http://purl.obolibrary.org/obo/HP_0001339), [HP:0001355](http://purl.obolibrary.org/obo/HP_0001355), [HP:0002126](http://purl.obolibrary.org/obo/HP_0002126), [HP:0002282](http://purl.obolibrary.org/obo/HP_0002282), ... |
-
-## `ClinGen`
-
-There are 1 usages of `ClinGen` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ClinGen).
-
-| curie                 |   usages | nodes                                                   |
-|-----------------------|----------|---------------------------------------------------------|
-| ClinGen:tristannelson |        1 | [HP:0032113](http://purl.obolibrary.org/obo/HP_0032113) |
-
-## `Cochrane`
-
-There are 1 usages of `Cochrane` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Cochrane).
-
-| curie             |   usages | nodes                                                   |
-|-------------------|----------|---------------------------------------------------------|
-| Cochrane:ab005233 |        1 | [HP:0000360](http://purl.obolibrary.org/obo/HP_0000360) |
-
-## `DD`
-
-There are 1 usages of `DD` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DD).
-
-| curie   |   usages | nodes                                                   |
-|---------|----------|---------------------------------------------------------|
-| DD:WHO  |        1 | [HP:0012524](http://purl.obolibrary.org/obo/HP_0012524) |
-
-## `DDD`
-
-There are 29 usages of `DDD` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20DDD).
-
-<details>
-<summary>Click to expand the `DDD` table</summary>
-
-| curie               |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|---------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DDD:dbrown          |      143 | [HP:0001631](http://purl.obolibrary.org/obo/HP_0001631), [HP:0001651](http://purl.obolibrary.org/obo/HP_0001651), [HP:0001655](http://purl.obolibrary.org/obo/HP_0001655), [HP:0001660](http://purl.obolibrary.org/obo/HP_0001660), [HP:0001674](http://purl.obolibrary.org/obo/HP_0001674), ... |
-| DDD:spark           |       64 | [HP:0000837](http://purl.obolibrary.org/obo/HP_0000837), [HP:0000845](http://purl.obolibrary.org/obo/HP_0000845), [HP:0000859](http://purl.obolibrary.org/obo/HP_0000859), [HP:0000864](http://purl.obolibrary.org/obo/HP_0000864), [HP:0000870](http://purl.obolibrary.org/obo/HP_0000870), ... |
-| DDD:ncarter         |       43 | [HP:0000483](http://purl.obolibrary.org/obo/HP_0000483), [HP:0000528](http://purl.obolibrary.org/obo/HP_0000528), [HP:0000614](http://purl.obolibrary.org/obo/HP_0000614), [HP:0001142](http://purl.obolibrary.org/obo/HP_0001142), [HP:0007641](http://purl.obolibrary.org/obo/HP_0007641), ... |
-| DDD:gblack          |       29 | [HP:0000505](http://purl.obolibrary.org/obo/HP_0000505), [HP:0000618](http://purl.obolibrary.org/obo/HP_0000618), [HP:0000642](http://purl.obolibrary.org/obo/HP_0000642), [HP:0001116](http://purl.obolibrary.org/obo/HP_0001116), [HP:0007677](http://purl.obolibrary.org/obo/HP_0007677), ... |
-| DDD:hfirth          |       29 | [HP:0001518](http://purl.obolibrary.org/obo/HP_0001518), [HP:0001519](http://purl.obolibrary.org/obo/HP_0001519), [HP:0001530](http://purl.obolibrary.org/obo/HP_0001530), [HP:0002573](http://purl.obolibrary.org/obo/HP_0002573), [HP:0003502](http://purl.obolibrary.org/obo/HP_0003502), ... |
-| DDD:cmoss           |       24 | [HP:0000956](http://purl.obolibrary.org/obo/HP_0000956), [HP:0001034](http://purl.obolibrary.org/obo/HP_0001034), [HP:0002227](http://purl.obolibrary.org/obo/HP_0002227), [HP:0002286](http://purl.obolibrary.org/obo/HP_0002286), [HP:0002299](http://purl.obolibrary.org/obo/HP_0002299), ... |
-| DDD:wouwehand       |       24 | [HP:0001973](http://purl.obolibrary.org/obo/HP_0001973), [HP:0003540](http://purl.obolibrary.org/obo/HP_0003540), [HP:0005527](http://purl.obolibrary.org/obo/HP_0005527), [HP:0005528](http://purl.obolibrary.org/obo/HP_0005528), [HP:0005537](http://purl.obolibrary.org/obo/HP_0005537), ... |
-| DDD:akelly          |       24 | [HP:0002584](http://purl.obolibrary.org/obo/HP_0002584), [HP:0007420](http://purl.obolibrary.org/obo/HP_0007420), [HP:0007902](http://purl.obolibrary.org/obo/HP_0007902), [HP:0011884](http://purl.obolibrary.org/obo/HP_0011884), [HP:0011885](http://purl.obolibrary.org/obo/HP_0011885), ... |
-| DDD:awilkie         |       21 | [HP:0000293](http://purl.obolibrary.org/obo/HP_0000293), [HP:0002085](http://purl.obolibrary.org/obo/HP_0002085), [HP:0005458](http://purl.obolibrary.org/obo/HP_0005458), [HP:0005474](http://purl.obolibrary.org/obo/HP_0005474), [HP:0011315](http://purl.obolibrary.org/obo/HP_0011315), ... |
-| DDD:dfitzpatrick    |       17 | [HP:0011372](http://purl.obolibrary.org/obo/HP_0011372), [HP:0011377](http://purl.obolibrary.org/obo/HP_0011377), [HP:0011380](http://purl.obolibrary.org/obo/HP_0011380), [HP:0011381](http://purl.obolibrary.org/obo/HP_0011381), [HP:0011382](http://purl.obolibrary.org/obo/HP_0011382), ... |
-| DDD:hvfirth         |       13 | [HP:0000717](http://purl.obolibrary.org/obo/HP_0000717), [HP:0001263](http://purl.obolibrary.org/obo/HP_0001263), [HP:0002376](http://purl.obolibrary.org/obo/HP_0002376), [HP:0006863](http://purl.obolibrary.org/obo/HP_0006863), [HP:0011342](http://purl.obolibrary.org/obo/HP_0011342), ... |
-| DDD:rscott          |       11 | [HP:0006732](http://purl.obolibrary.org/obo/HP_0006732), [HP:0006770](http://purl.obolibrary.org/obo/HP_0006770), [HP:0008696](http://purl.obolibrary.org/obo/HP_0008696), [HP:0011792](http://purl.obolibrary.org/obo/HP_0011792), [HP:0011793](http://purl.obolibrary.org/obo/HP_0011793), ... |
-| DDD:jclayton-smith  |        9 | [HP:0000325](http://purl.obolibrary.org/obo/HP_0000325), [HP:0001999](http://purl.obolibrary.org/obo/HP_0001999), [HP:0010620](http://purl.obolibrary.org/obo/HP_0010620), [HP:0011323](http://purl.obolibrary.org/obo/HP_0011323), [HP:0011335](http://purl.obolibrary.org/obo/HP_0011335), ... |
-| DDD:mbitner-glidicz |        9 | [HP:0008609](http://purl.obolibrary.org/obo/HP_0008609), [HP:0011374](http://purl.obolibrary.org/obo/HP_0011374), [HP:0011376](http://purl.obolibrary.org/obo/HP_0011376), [HP:0011378](http://purl.obolibrary.org/obo/HP_0011378), [HP:0011379](http://purl.obolibrary.org/obo/HP_0011379), ... |
-| DDD:tkuijpers       |        8 | [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206), [HP:0011920](http://purl.obolibrary.org/obo/HP_0011920), [HP:0011921](http://purl.obolibrary.org/obo/HP_0011921), [HP:0011945](http://purl.obolibrary.org/obo/HP_0011945), [HP:0011948](http://purl.obolibrary.org/obo/HP_0011948), ... |
-| DDD:jhurst          |        5 | [HP:0000220](http://purl.obolibrary.org/obo/HP_0000220), [HP:0011338](http://purl.obolibrary.org/obo/HP_0011338), [HP:0011341](http://purl.obolibrary.org/obo/HP_0011341), [HP:0011820](http://purl.obolibrary.org/obo/HP_0011820), [HP:0100731](http://purl.obolibrary.org/obo/HP_0100731), ... |
-| DDD:probinson       |        4 | [HP:0002211](http://purl.obolibrary.org/obo/HP_0002211), [HP:0002442](http://purl.obolibrary.org/obo/HP_0002442), [HP:0003447](http://purl.obolibrary.org/obo/HP_0003447), [HP:0011447](http://purl.obolibrary.org/obo/HP_0011447)                                                               |
-| DDD:kfreson         |        4 | [HP:0008320](http://purl.obolibrary.org/obo/HP_0008320), [HP:0011873](http://purl.obolibrary.org/obo/HP_0011873), [HP:0011875](http://purl.obolibrary.org/obo/HP_0011875), [HP:0011889](http://purl.obolibrary.org/obo/HP_0011889)                                                               |
-| DDD:fmunitoni       |        2 | [HP:0001350](http://purl.obolibrary.org/obo/HP_0001350), [HP:0003130](http://purl.obolibrary.org/obo/HP_0003130)                                                                                                                                                                                 |
-| DDD:cwright         |        2 | [HP:0005324](http://purl.obolibrary.org/obo/HP_0005324), [HP:0011468](http://purl.obolibrary.org/obo/HP_0011468)                                                                                                                                                                                 |
-| DDD:whouwehand      |        2 | [HP:0011460](http://purl.obolibrary.org/obo/HP_0011460), [HP:0011461](http://purl.obolibrary.org/obo/HP_0011461)                                                                                                                                                                                 |
-| DDD:ouwehand        |        1 | [HP:0001975](http://purl.obolibrary.org/obo/HP_0001975)                                                                                                                                                                                                                                          |
-| DDD:mumford         |        1 | [HP:0003010](http://purl.obolibrary.org/obo/HP_0003010)                                                                                                                                                                                                                                          |
-| DDD:kfreeson        |        1 | [HP:0004813](http://purl.obolibrary.org/obo/HP_0004813)                                                                                                                                                                                                                                          |
-| DDD:ssisodiya       |        1 | [HP:0011157](http://purl.obolibrary.org/obo/HP_0011157)                                                                                                                                                                                                                                          |
-| DDD:fmuntoni        |        1 | [HP:0011400](http://purl.obolibrary.org/obo/HP_0011400)                                                                                                                                                                                                                                          |
-| DDD:ssissodiya      |        1 | [HP:0011445](http://purl.obolibrary.org/obo/HP_0011445)                                                                                                                                                                                                                                          |
-| DDD:ajackson        |        1 | [HP:0011446](http://purl.obolibrary.org/obo/HP_0011446)                                                                                                                                                                                                                                          |
-| DDD:jcampbell       |        1 | [HP:0011835](http://purl.obolibrary.org/obo/HP_0011835)                                                                                                                                                                                                                                          |
-
-</details>
-
 ## `DSM`
 
 There are 1 usages of `DSM` in `hp`.
@@ -103,321 +10,69 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |------------|----------|---------------------------------------------------------|
 | DSM:313.81 |        1 | [HP:0010865](http://purl.obolibrary.org/obo/HP_0010865) |
 
-## `Eurenomics`
+## `HPO_CONTRIBUTOR`
 
-There are 3 usages of `Eurenomics` in `hp`.
+There are 46 usages of `HPO_CONTRIBUTOR` in `hp`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Eurenomics).
-
-| curie                |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|----------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Eurenomics:fschaefer |       32 | [HP:0000090](http://purl.obolibrary.org/obo/HP_0000090), [HP:0000096](http://purl.obolibrary.org/obo/HP_0000096), [HP:0000097](http://purl.obolibrary.org/obo/HP_0000097), [HP:0000107](http://purl.obolibrary.org/obo/HP_0000107), [HP:0000127](http://purl.obolibrary.org/obo/HP_0000127), ... |
-| Eurenomics:ewuehl    |       30 | [HP:0000074](http://purl.obolibrary.org/obo/HP_0000074), [HP:0000095](http://purl.obolibrary.org/obo/HP_0000095), [HP:0000111](http://purl.obolibrary.org/obo/HP_0000111), [HP:0000794](http://purl.obolibrary.org/obo/HP_0000794), [HP:0004734](http://purl.obolibrary.org/obo/HP_0004734), ... |
-| Eurenomics:eweuehl   |        1 | [HP:0012595](http://purl.obolibrary.org/obo/HP_0012595)                                                                                                                                                                                                                                          |
-
-## `GOC`
-
-There are 4 usages of `GOC` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GOC).
-
-| curie            |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| GOC:TermGenie    |       74 | [HP:3000002](http://purl.obolibrary.org/obo/HP_3000002), [HP:3000003](http://purl.obolibrary.org/obo/HP_3000003), [HP:3000004](http://purl.obolibrary.org/obo/HP_3000004), [HP:3000005](http://purl.obolibrary.org/obo/HP_3000005), [HP:3000006](http://purl.obolibrary.org/obo/HP_3000006), ... |
-| GOC:MG           |       11 | [HP:0430000](http://purl.obolibrary.org/obo/HP_0430000), [HP:0430002](http://purl.obolibrary.org/obo/HP_0430002), [HP:0430003](http://purl.obolibrary.org/obo/HP_0430003), [HP:0430005](http://purl.obolibrary.org/obo/HP_0430005), [HP:0430006](http://purl.obolibrary.org/obo/HP_0430006), ... |
-| GOC:mgi_curators |        1 | [HP:0005384](http://purl.obolibrary.org/obo/HP_0005384)                                                                                                                                                                                                                                          |
-| GOC:NV           |        1 | [HP:0410000](http://purl.obolibrary.org/obo/HP_0410000)                                                                                                                                                                                                                                          |
-
-## `Gene42`
-
-There are 1 usages of `Gene42` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Gene42).
-
-| curie              |   usages | nodes                                                   |
-|--------------------|----------|---------------------------------------------------------|
-| Gene42:pbuczkowicz |        1 | [HP:0031809](http://purl.obolibrary.org/obo/HP_0031809) |
-
-## `HPPO`
-
-There are 1 usages of `HPPO` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20HPPO).
-
-| curie          |   usages | nodes                                                   |
-|----------------|----------|---------------------------------------------------------|
-| HPPO:probinson |        1 | [HP:0100750](http://purl.obolibrary.org/obo/HP_0100750) |
-
-## `ICM`
-
-There are 1 usages of `ICM` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICM).
-
-| curie        |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|--------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ICM:PCaroppo |       10 | [HP:0030213](http://purl.obolibrary.org/obo/HP_0030213), [HP:0030214](http://purl.obolibrary.org/obo/HP_0030214), [HP:0030215](http://purl.obolibrary.org/obo/HP_0030215), [HP:0030216](http://purl.obolibrary.org/obo/HP_0030216), [HP:0030217](http://purl.obolibrary.org/obo/HP_0030217), ... |
-
-## `IMM`
-
-There are 1 usages of `IMM` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IMM).
-
-| curie         |   usages | nodes                                                   |
-|---------------|----------|---------------------------------------------------------|
-| IMM:tkuijpers |        1 | [HP:0006528](http://purl.obolibrary.org/obo/HP_0006528) |
-
-## `ISCA`
-
-There are 1 usages of `ISCA` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ISCA).
-
-| curie       |   usages | nodes                                                   |
-|-------------|----------|---------------------------------------------------------|
-| ISCA:eriggs |        1 | [HP:0011968](http://purl.obolibrary.org/obo/HP_0011968) |
-
-## `JGM`
-
-There are 1 usages of `JGM` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20JGM).
-
-| curie         |   usages | nodes                                                   |
-|---------------|----------|---------------------------------------------------------|
-| JGM:lccarmody |        1 | [HP:0020134](http://purl.obolibrary.org/obo/HP_0020134) |
-
-## `KI`
-
-There are 1 usages of `KI` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KI).
-
-| curie       |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| KI:phemming |       12 | [HP:0001298](http://purl.obolibrary.org/obo/HP_0001298), [HP:0002922](http://purl.obolibrary.org/obo/HP_0002922), [HP:0003785](http://purl.obolibrary.org/obo/HP_0003785), [HP:0006976](http://purl.obolibrary.org/obo/HP_0006976), [HP:0007074](http://purl.obolibrary.org/obo/HP_0007074), ... |
-
-## `KMU`
-
-There are 1 usages of `KMU` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KMU).
-
-| curie         |   usages | nodes                                                                                                                                                                     |
-|---------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| KMU:kknoflach |        3 | [HP:0033520](http://purl.obolibrary.org/obo/HP_0033520), [HP:0033999](http://purl.obolibrary.org/obo/HP_0033999), [HP:0034000](http://purl.obolibrary.org/obo/HP_0034000) |
-
-## `KPMP`
-
-There are 2 usages of `KPMP` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20KPMP).
-
-| curie            |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| KPMP:arosenberg  |      191 | [HP:0004737](http://purl.obolibrary.org/obo/HP_0004737), [HP:0012574](http://purl.obolibrary.org/obo/HP_0012574), [HP:0012577](http://purl.obolibrary.org/obo/HP_0012577), [HP:0020204](http://purl.obolibrary.org/obo/HP_0020204), [HP:0020205](http://purl.obolibrary.org/obo/HP_0020205), ... |
-| KPMP:arosenbereg |        1 | [HP:0033945](http://purl.obolibrary.org/obo/HP_0033945)                                                                                                                                                                                                                                          |
-
-## `LMU`
-
-There are 5 usages of `LMU` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20LMU).
-
-| curie         |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|---------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| LMU:mgriese   |       39 | [HP:0006516](http://purl.obolibrary.org/obo/HP_0006516), [HP:0025696](http://purl.obolibrary.org/obo/HP_0025696), [HP:0025697](http://purl.obolibrary.org/obo/HP_0025697), [HP:0025698](http://purl.obolibrary.org/obo/HP_0025698), [HP:0030859](http://purl.obolibrary.org/obo/HP_0030859), ... |
-| LMU:crapp     |       14 | [HP:0005942](http://purl.obolibrary.org/obo/HP_0005942), [HP:0032965](http://purl.obolibrary.org/obo/HP_0032965), [HP:0032968](http://purl.obolibrary.org/obo/HP_0032968), [HP:0032969](http://purl.obolibrary.org/obo/HP_0032969), [HP:0032980](http://purl.obolibrary.org/obo/HP_0032980), ... |
-| LMU:kknoflach |       14 | [HP:0032966](http://purl.obolibrary.org/obo/HP_0032966), [HP:0032972](http://purl.obolibrary.org/obo/HP_0032972), [HP:0032976](http://purl.obolibrary.org/obo/HP_0032976), [HP:0032977](http://purl.obolibrary.org/obo/HP_0032977), [HP:0032978](http://purl.obolibrary.org/obo/HP_0032978), ... |
-| LMU:chrapp    |        4 | [HP:0033028](http://purl.obolibrary.org/obo/HP_0033028), [HP:0033032](http://purl.obolibrary.org/obo/HP_0033032), [HP:0033038](http://purl.obolibrary.org/obo/HP_0033038), [HP:0033039](http://purl.obolibrary.org/obo/HP_0033039)                                                               |
-| LMU:kknofloch |        2 | [HP:0033240](http://purl.obolibrary.org/obo/HP_0033240), [HP:0033245](http://purl.obolibrary.org/obo/HP_0033245)                                                                                                                                                                                 |
-
-## `MONARCH`
-
-There are 1 usages of `MONARCH` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MONARCH).
-
-| curie            |   usages | nodes                                                                                                                                                                     |
-|------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MONARCH:mhaendel |        3 | [HP:0012647](http://purl.obolibrary.org/obo/HP_0012647), [HP:0012648](http://purl.obolibrary.org/obo/HP_0012648), [HP:0012649](http://purl.obolibrary.org/obo/HP_0012649) |
-
-## `Monarch`
-
-There are 1 usages of `Monarch` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Monarch).
-
-| curie            |   usages | nodes                                                                                                                                                                     |
-|------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Monarch:mhaendel |        3 | [HP:0012654](http://purl.obolibrary.org/obo/HP_0012654), [HP:0012655](http://purl.obolibrary.org/obo/HP_0012655), [HP:0012656](http://purl.obolibrary.org/obo/HP_0012656) |
-
-## `NIHR`
-
-There are 1 usages of `NIHR` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NIHR).
-
-| curie           |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|-----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NIHR:ldaugherty |        9 | [HP:0002091](http://purl.obolibrary.org/obo/HP_0002091), [HP:0006518](http://purl.obolibrary.org/obo/HP_0006518), [HP:0030872](http://purl.obolibrary.org/obo/HP_0030872), [HP:0030874](http://purl.obolibrary.org/obo/HP_0030874), [HP:0030876](http://purl.obolibrary.org/obo/HP_0030876), ... |
-
-## `NSTRN`
-
-There are 1 usages of `NSTRN` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NSTRN).
-
-| curie         |   usages | nodes                                                   |
-|---------------|----------|---------------------------------------------------------|
-| NSTRN:jmiller |        1 | [HP:0033088](http://purl.obolibrary.org/obo/HP_0033088) |
-
-## `Neuromics`
-
-There are 1 usages of `Neuromics` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Neuromics).
-
-| curie             |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|-------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Neuromics:vstraub |       16 | [HP:0003560](http://purl.obolibrary.org/obo/HP_0003560), [HP:0003634](http://purl.obolibrary.org/obo/HP_0003634), [HP:0012548](http://purl.obolibrary.org/obo/HP_0012548), [HP:0030224](http://purl.obolibrary.org/obo/HP_0030224), [HP:0030225](http://purl.obolibrary.org/obo/HP_0030225), ... |
-
-## `OHSU`
-
-There are 1 usages of `OHSU` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OHSU).
-
-| curie           |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|-----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| OHSU:jpgourdine |       10 | [HP:0025641](http://purl.obolibrary.org/obo/HP_0025641), [HP:0031810](http://purl.obolibrary.org/obo/HP_0031810), [HP:0031811](http://purl.obolibrary.org/obo/HP_0031811), [HP:0031812](http://purl.obolibrary.org/obo/HP_0031812), [HP:0032305](http://purl.obolibrary.org/obo/HP_0032305), ... |
-
-## `PhenoTips`
-
-There are 1 usages of `PhenoTips` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PhenoTips).
-
-| curie          |   usages | nodes                                                   |
-|----------------|----------|---------------------------------------------------------|
-| PhenoTips:CHum |        1 | [HP:0040200](http://purl.obolibrary.org/obo/HP_0040200) |
-
-## `Sanford`
-
-There are 1 usages of `Sanford` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Sanford).
-
-| curie           |   usages | nodes                                                   |
-|-----------------|----------|---------------------------------------------------------|
-| Sanford:krageth |        1 | [HP:0001388](http://purl.obolibrary.org/obo/HP_0001388) |
-
-## `UCDenver`
-
-There are 1 usages of `UCDenver` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UCDenver).
-
-| curie               |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|---------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| UCDenver:tjcallahan |       35 | [HP:0020077](http://purl.obolibrary.org/obo/HP_0020077), [HP:0020078](http://purl.obolibrary.org/obo/HP_0020078), [HP:0020147](http://purl.obolibrary.org/obo/HP_0020147), [HP:0020158](http://purl.obolibrary.org/obo/HP_0020158), [HP:0020175](http://purl.obolibrary.org/obo/HP_0020175), ... |
-
-## `UHPO`
-
-There are 1 usages of `UHPO` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UHPO).
-
-| curie          |   usages | nodes                                                   |
-|----------------|----------|---------------------------------------------------------|
-| UHPO:probinson |        1 | [HP:0001833](http://purl.obolibrary.org/obo/HP_0001833) |
-
-## `UK`
-
-There are 1 usages of `UK` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UK).
-
-| curie      |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| UK:rheller |       10 | [HP:0030195](http://purl.obolibrary.org/obo/HP_0030195), [HP:0030198](http://purl.obolibrary.org/obo/HP_0030198), [HP:0030199](http://purl.obolibrary.org/obo/HP_0030199), [HP:0030200](http://purl.obolibrary.org/obo/HP_0030200), [HP:0030201](http://purl.obolibrary.org/obo/HP_0030201), ... |
-
-## `UKB`
-
-There are 1 usages of `UKB` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UKB).
-
-| curie            |   usages | nodes                                                                                                                                                                     |
-|------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| UKB:tklockgether |        3 | [HP:0001269](http://purl.obolibrary.org/obo/HP_0001269), [HP:0002075](http://purl.obolibrary.org/obo/HP_0002075), [HP:0030180](http://purl.obolibrary.org/obo/HP_0030180) |
-
-## `UKT`
-
-There are 1 usages of `UKT` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UKT).
-
-| curie        |   usages | nodes                                                                                                                                                                                                                              |
-|--------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| UKT:rschuele |        4 | [HP:0002061](http://purl.obolibrary.org/obo/HP_0002061), [HP:0002066](http://purl.obolibrary.org/obo/HP_0002066), [HP:0002078](http://purl.obolibrary.org/obo/HP_0002078), [HP:0030181](http://purl.obolibrary.org/obo/HP_0030181) |
-
-## `UManchester`
-
-There are 1 usages of `UManchester` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UManchester).
-
-| curie                     |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|---------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| UManchester:psergouniotis |       53 | [HP:0000486](http://purl.obolibrary.org/obo/HP_0000486), [HP:0000526](http://purl.obolibrary.org/obo/HP_0000526), [HP:0010543](http://purl.obolibrary.org/obo/HP_0010543), [HP:0012109](http://purl.obolibrary.org/obo/HP_0012109), [HP:0020161](http://purl.obolibrary.org/obo/HP_0020161), ... |
-
-## `UManchster`
-
-There are 1 usages of `UManchster` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UManchster).
-
-| curie                    |   usages | nodes                                                   |
-|--------------------------|----------|---------------------------------------------------------|
-| UManchster:psergouniotis |        1 | [HP:0031727](http://purl.obolibrary.org/obo/HP_0031727) |
-
-## `UNCL`
-
-There are 3 usages of `UNCL` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UNCL).
-
-| curie             |   usages | nodes                                                                                                                                                                     |
-|-------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| UNCL:mbertoli     |        3 | [HP:0030192](http://purl.obolibrary.org/obo/HP_0030192), [HP:0030196](http://purl.obolibrary.org/obo/HP_0030196), [HP:0030209](http://purl.obolibrary.org/obo/HP_0030209) |
-| UNCL:tevangelista |        2 | [HP:0030193](http://purl.obolibrary.org/obo/HP_0030193), [HP:0030211](http://purl.obolibrary.org/obo/HP_0030211)                                                          |
-| UNCL:hlochmueller |        2 | [HP:0030194](http://purl.obolibrary.org/obo/HP_0030194), [HP:0030210](http://purl.obolibrary.org/obo/HP_0030210)                                                          |
-
-## `UToronto`
-
-There are 1 usages of `UToronto` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UToronto).
-
-| curie         |   usages | nodes                                                   |
-|---------------|----------|---------------------------------------------------------|
-| UToronto:chum |        1 | [HP:0030707](http://purl.obolibrary.org/obo/HP_0030707) |
-
-## `WWW`
-
-There are 1 usages of `WWW` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WWW).
-
-| curie         |   usages | nodes                                                   |
-|---------------|----------|---------------------------------------------------------|
-| WWW:wouwehand |        1 | [HP:0006298](http://purl.obolibrary.org/obo/HP_0006298) |
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20HPO_CONTRIBUTOR).
+
+<details>
+<summary>Click to expand the `HPO_CONTRIBUTOR` table</summary>
+
+| curie                                   |   usages | nodes                                                                                                                                                                                                                                                                                            |
+|-----------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HPO_CONTRIBUTOR:DDD_dbrown              |      143 | [HP:0001631](http://purl.obolibrary.org/obo/HP_0001631), [HP:0001651](http://purl.obolibrary.org/obo/HP_0001651), [HP:0001655](http://purl.obolibrary.org/obo/HP_0001655), [HP:0001660](http://purl.obolibrary.org/obo/HP_0001660), [HP:0001674](http://purl.obolibrary.org/obo/HP_0001674), ... |
+| HPO_CONTRIBUTOR:jalbers                 |       91 | [HP:0001326](http://purl.obolibrary.org/obo/HP_0001326), [HP:0002123](http://purl.obolibrary.org/obo/HP_0002123), [HP:0002133](http://purl.obolibrary.org/obo/HP_0002133), [HP:0002392](http://purl.obolibrary.org/obo/HP_0002392), [HP:0007332](http://purl.obolibrary.org/obo/HP_0007332), ... |
+| HPO_CONTRIBUTOR:UToronto_htrang         |       76 | [HP:0009808](http://purl.obolibrary.org/obo/HP_0009808), [HP:0012671](http://purl.obolibrary.org/obo/HP_0012671), [HP:0012679](http://purl.obolibrary.org/obo/HP_0012679), [HP:0012681](http://purl.obolibrary.org/obo/HP_0012681), [HP:0012684](http://purl.obolibrary.org/obo/HP_0012684), ... |
+| HPO_CONTRIBUTOR:gcarletti               |       71 | [HP:0000573](http://purl.obolibrary.org/obo/HP_0000573), [HP:0001342](http://purl.obolibrary.org/obo/HP_0001342), [HP:0001987](http://purl.obolibrary.org/obo/HP_0001987), [HP:0001988](http://purl.obolibrary.org/obo/HP_0001988), [HP:0002148](http://purl.obolibrary.org/obo/HP_0002148), ... |
+| HPO_CONTRIBUTOR:DDD_ncarter             |       43 | [HP:0000483](http://purl.obolibrary.org/obo/HP_0000483), [HP:0000528](http://purl.obolibrary.org/obo/HP_0000528), [HP:0000614](http://purl.obolibrary.org/obo/HP_0000614), [HP:0001142](http://purl.obolibrary.org/obo/HP_0001142), [HP:0007641](http://purl.obolibrary.org/obo/HP_0007641), ... |
+| HPO_CONTRIBUTOR:Eurenomics_fschaefer    |       32 | [HP:0000090](http://purl.obolibrary.org/obo/HP_0000090), [HP:0000096](http://purl.obolibrary.org/obo/HP_0000096), [HP:0000097](http://purl.obolibrary.org/obo/HP_0000097), [HP:0000107](http://purl.obolibrary.org/obo/HP_0000107), [HP:0000127](http://purl.obolibrary.org/obo/HP_0000127), ... |
+| HPO_CONTRIBUTOR:Eurenomics_ewuehl       |       30 | [HP:0000074](http://purl.obolibrary.org/obo/HP_0000074), [HP:0000095](http://purl.obolibrary.org/obo/HP_0000095), [HP:0000111](http://purl.obolibrary.org/obo/HP_0000111), [HP:0000794](http://purl.obolibrary.org/obo/HP_0000794), [HP:0004734](http://purl.obolibrary.org/obo/HP_0004734), ... |
+| HPO_CONTRIBUTOR:DDD_dfitzpatrick        |       17 | [HP:0011372](http://purl.obolibrary.org/obo/HP_0011372), [HP:0011377](http://purl.obolibrary.org/obo/HP_0011377), [HP:0011380](http://purl.obolibrary.org/obo/HP_0011380), [HP:0011381](http://purl.obolibrary.org/obo/HP_0011381), [HP:0011382](http://purl.obolibrary.org/obo/HP_0011382), ... |
+| HPO_CONTRIBUTOR:LMU_kknoflach           |       14 | [HP:0032966](http://purl.obolibrary.org/obo/HP_0032966), [HP:0032972](http://purl.obolibrary.org/obo/HP_0032972), [HP:0032976](http://purl.obolibrary.org/obo/HP_0032976), [HP:0032977](http://purl.obolibrary.org/obo/HP_0032977), [HP:0032978](http://purl.obolibrary.org/obo/HP_0032978), ... |
+| HPO_CONTRIBUTOR:RGD_sjwang              |       13 | [HP:0031414](http://purl.obolibrary.org/obo/HP_0031414), [HP:0031415](http://purl.obolibrary.org/obo/HP_0031415), [HP:0031419](http://purl.obolibrary.org/obo/HP_0031419), [HP:0031424](http://purl.obolibrary.org/obo/HP_0031424), [HP:0031425](http://purl.obolibrary.org/obo/HP_0031425), ... |
+| HPO_CONTRIBUTOR:UToronto_bgallinger     |       12 | [HP:0030125](http://purl.obolibrary.org/obo/HP_0030125), [HP:0030277](http://purl.obolibrary.org/obo/HP_0030277), [HP:0030279](http://purl.obolibrary.org/obo/HP_0030279), [HP:0030282](http://purl.obolibrary.org/obo/HP_0030282), [HP:0030283](http://purl.obolibrary.org/obo/HP_0030283), ... |
+| HPO_CONTRIBUTOR:KI_phemming             |       11 | [HP:0001298](http://purl.obolibrary.org/obo/HP_0001298), [HP:0002922](http://purl.obolibrary.org/obo/HP_0002922), [HP:0003785](http://purl.obolibrary.org/obo/HP_0003785), [HP:0006976](http://purl.obolibrary.org/obo/HP_0006976), [HP:0007074](http://purl.obolibrary.org/obo/HP_0007074), ... |
+| HPO_CONTRIBUTOR:cmiller                 |       11 | [HP:0030129](http://purl.obolibrary.org/obo/HP_0030129), [HP:0030130](http://purl.obolibrary.org/obo/HP_0030130), [HP:0030131](http://purl.obolibrary.org/obo/HP_0030131), [HP:0030132](http://purl.obolibrary.org/obo/HP_0030132), [HP:0030133](http://purl.obolibrary.org/obo/HP_0030133), ... |
+| HPO_CONTRIBUTOR:RGD_gthayman            |       11 | [HP:0031817](http://purl.obolibrary.org/obo/HP_0031817), [HP:0031820](http://purl.obolibrary.org/obo/HP_0031820), [HP:0031831](http://purl.obolibrary.org/obo/HP_0031831), [HP:0031835](http://purl.obolibrary.org/obo/HP_0031835), [HP:0031836](http://purl.obolibrary.org/obo/HP_0031836), ... |
+| HPO_CONTRIBUTOR:GOC_MG                  |       11 | [HP:0430000](http://purl.obolibrary.org/obo/HP_0430000), [HP:0430002](http://purl.obolibrary.org/obo/HP_0430002), [HP:0430003](http://purl.obolibrary.org/obo/HP_0430003), [HP:0430005](http://purl.obolibrary.org/obo/HP_0430005), [HP:0430006](http://purl.obolibrary.org/obo/HP_0430006), ... |
+| HPO_CONTRIBUTOR:UK_rheller              |       10 | [HP:0030195](http://purl.obolibrary.org/obo/HP_0030195), [HP:0030198](http://purl.obolibrary.org/obo/HP_0030198), [HP:0030199](http://purl.obolibrary.org/obo/HP_0030199), [HP:0030200](http://purl.obolibrary.org/obo/HP_0030200), [HP:0030201](http://purl.obolibrary.org/obo/HP_0030201), ... |
+| HPO_CONTRIBUTOR:ICM_PCaroppo            |       10 | [HP:0030213](http://purl.obolibrary.org/obo/HP_0030213), [HP:0030214](http://purl.obolibrary.org/obo/HP_0030214), [HP:0030215](http://purl.obolibrary.org/obo/HP_0030215), [HP:0030216](http://purl.obolibrary.org/obo/HP_0030216), [HP:0030217](http://purl.obolibrary.org/obo/HP_0030217), ... |
+| HPO_CONTRIBUTOR:DDD_mbitner-glidicz     |        9 | [HP:0008609](http://purl.obolibrary.org/obo/HP_0008609), [HP:0011374](http://purl.obolibrary.org/obo/HP_0011374), [HP:0011376](http://purl.obolibrary.org/obo/HP_0011376), [HP:0011378](http://purl.obolibrary.org/obo/HP_0011378), [HP:0011379](http://purl.obolibrary.org/obo/HP_0011379), ... |
+| HPO_CONTRIBUTOR:DDD_tkuijpers           |        8 | [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206), [HP:0011920](http://purl.obolibrary.org/obo/HP_0011920), [HP:0011921](http://purl.obolibrary.org/obo/HP_0011921), [HP:0011945](http://purl.obolibrary.org/obo/HP_0011945), [HP:0011948](http://purl.obolibrary.org/obo/HP_0011948), ... |
+| HPO_CONTRIBUTOR:DDD_jhurst              |        5 | [HP:0000220](http://purl.obolibrary.org/obo/HP_0000220), [HP:0011338](http://purl.obolibrary.org/obo/HP_0011338), [HP:0011341](http://purl.obolibrary.org/obo/HP_0011341), [HP:0011820](http://purl.obolibrary.org/obo/HP_0011820), [HP:0100731](http://purl.obolibrary.org/obo/HP_0100731), ... |
+| HPO_CONTRIBUTOR:UKT_rschuele            |        4 | [HP:0002061](http://purl.obolibrary.org/obo/HP_0002061), [HP:0002066](http://purl.obolibrary.org/obo/HP_0002066), [HP:0002078](http://purl.obolibrary.org/obo/HP_0002078), [HP:0030181](http://purl.obolibrary.org/obo/HP_0030181)                                                               |
+| HPO_CONTRIBUTOR:GC_HPE                  |        3 | [HP:0002507](http://purl.obolibrary.org/obo/HP_0002507), [HP:0006870](http://purl.obolibrary.org/obo/HP_0006870), [HP:0006988](http://purl.obolibrary.org/obo/HP_0006988)                                                                                                                        |
+| HPO_CONTRIBUTOR:jbaets                  |        3 | [HP:0003130](http://purl.obolibrary.org/obo/HP_0003130), [HP:0007233](http://purl.obolibrary.org/obo/HP_0007233), [HP:0030176](http://purl.obolibrary.org/obo/HP_0030176)                                                                                                                        |
+| HPO_CONTRIBUTOR:vkumar                  |        3 | [HP:0010693](http://purl.obolibrary.org/obo/HP_0010693), [HP:0010920](http://purl.obolibrary.org/obo/HP_0010920), [HP:0010921](http://purl.obolibrary.org/obo/HP_0010921)                                                                                                                        |
+| HPO_CONTRIBUTOR:CINEAS_asollie          |        3 | [HP:0012775](http://purl.obolibrary.org/obo/HP_0012775), [HP:0012776](http://purl.obolibrary.org/obo/HP_0012776), [HP:0012777](http://purl.obolibrary.org/obo/HP_0012777)                                                                                                                        |
+| HPO_CONTRIBUTOR:RGD_SJWang              |        3 | [HP:0020182](http://purl.obolibrary.org/obo/HP_0020182), [HP:0020183](http://purl.obolibrary.org/obo/HP_0020183), [HP:0020184](http://purl.obolibrary.org/obo/HP_0020184)                                                                                                                        |
+| HPO_CONTRIBUTOR:jbeats                  |        3 | [HP:0030172](http://purl.obolibrary.org/obo/HP_0030172), [HP:0030174](http://purl.obolibrary.org/obo/HP_0030174), [HP:0030175](http://purl.obolibrary.org/obo/HP_0030175)                                                                                                                        |
+| HPO_CONTRIBUTOR:UNCL_mbertoli           |        3 | [HP:0030192](http://purl.obolibrary.org/obo/HP_0030192), [HP:0030196](http://purl.obolibrary.org/obo/HP_0030196), [HP:0030209](http://purl.obolibrary.org/obo/HP_0030209)                                                                                                                        |
+| HPO_CONTRIBUTOR:KMU_kknoflach           |        3 | [HP:0033520](http://purl.obolibrary.org/obo/HP_0033520), [HP:0033999](http://purl.obolibrary.org/obo/HP_0033999), [HP:0034000](http://purl.obolibrary.org/obo/HP_0034000)                                                                                                                        |
+| HPO_CONTRIBUTOR:UKB_tklockgether        |        2 | [HP:0001269](http://purl.obolibrary.org/obo/HP_0001269), [HP:0030180](http://purl.obolibrary.org/obo/HP_0030180)                                                                                                                                                                                 |
+| HPO_CONTRIBUTOR:UNCL_tevangelista       |        2 | [HP:0030193](http://purl.obolibrary.org/obo/HP_0030193), [HP:0030211](http://purl.obolibrary.org/obo/HP_0030211)                                                                                                                                                                                 |
+| HPO_CONTRIBUTOR:RGD_gth                 |        2 | [HP:0031421](http://purl.obolibrary.org/obo/HP_0031421), [HP:0031423](http://purl.obolibrary.org/obo/HP_0031423)                                                                                                                                                                                 |
+| HPO_CONTRIBUTOR:LMU_kknofloch           |        2 | [HP:0033240](http://purl.obolibrary.org/obo/HP_0033240), [HP:0033245](http://purl.obolibrary.org/obo/HP_0033245)                                                                                                                                                                                 |
+| HPO_CONTRIBUTOR:zaferyueksel            |        1 | [HP:0002075](http://purl.obolibrary.org/obo/HP_0002075)                                                                                                                                                                                                                                          |
+| HPO_CONTRIBUTOR:gcarlotti               |        1 | [HP:0003218](http://purl.obolibrary.org/obo/HP_0003218)                                                                                                                                                                                                                                          |
+| HPO_CONTRIBUTOR:IMM_tkuijpers           |        1 | [HP:0006528](http://purl.obolibrary.org/obo/HP_0006528)                                                                                                                                                                                                                                          |
+| HPO_CONTRIBUTOR:fprobst                 |        1 | [HP:0007937](http://purl.obolibrary.org/obo/HP_0007937)                                                                                                                                                                                                                                          |
+| HPO_CONTRIBUTOR:mengelstad              |        1 | [HP:0010289](http://purl.obolibrary.org/obo/HP_0010289)                                                                                                                                                                                                                                          |
+| HPO_CONTRIBUTOR:dfitzpatrick            |        1 | [HP:0011375](http://purl.obolibrary.org/obo/HP_0011375)                                                                                                                                                                                                                                          |
+| HPO_CONTRIBUTOR:DDD_jcampbell           |        1 | [HP:0011835](http://purl.obolibrary.org/obo/HP_0011835)                                                                                                                                                                                                                                          |
+| HPO_CONTRIBUTOR:Eurenomics_eweuehl      |        1 | [HP:0012595](http://purl.obolibrary.org/obo/HP_0012595)                                                                                                                                                                                                                                          |
+| HPO_CONTRIBUTOR:tevangelista            |        1 | [HP:0030207](http://purl.obolibrary.org/obo/HP_0030207)                                                                                                                                                                                                                                          |
+| HPO_CONTRIBUTOR:jdavis                  |        1 | [HP:0030753](http://purl.obolibrary.org/obo/HP_0030753)                                                                                                                                                                                                                                          |
+| HPO_CONTRIBUTOR:ClinGen_scottgoehringer |        1 | [HP:0032113](http://purl.obolibrary.org/obo/HP_0032113)                                                                                                                                                                                                                                          |
+| HPO_CONTRIBUTOR:NSTRN_jmiller           |        1 | [HP:0033088](http://purl.obolibrary.org/obo/HP_0033088)                                                                                                                                                                                                                                          |
+| HPO_CONTRIBUTOR:ucbasharo               |        1 | [HP:0550004](http://purl.obolibrary.org/obo/HP_0550004)                                                                                                                                                                                                                                          |
+
+</details>
 
 ## `eMedicine`
 
-There are 8 usages of `eMedicine` in `hp`.
+There are 9 usages of `eMedicine` in `hp`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20eMedicine).
 
@@ -430,17 +85,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | eMedicine:900574  |        1 | [HP:0001669](http://purl.obolibrary.org/obo/HP_0001669)                                                                                                                   |
 | eMedicine:986802  |        1 | [HP:0002884](http://purl.obolibrary.org/obo/HP_0002884)                                                                                                                   |
 | eMedicine:118562  |        1 | [HP:0008247](http://purl.obolibrary.org/obo/HP_0008247)                                                                                                                   |
+| eMedicine:402757  |        1 | [HP:0010878](http://purl.obolibrary.org/obo/HP_0010878)                                                                                                                   |
 | eMedicine:1016086 |        1 | [HP:0010957](http://purl.obolibrary.org/obo/HP_0010957)                                                                                                                   |
-
-## `emedicine`
-
-There are 1 usages of `emedicine` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20emedicine).
-
-| curie            |   usages | nodes                                                   |
-|------------------|----------|---------------------------------------------------------|
-| emedicine:402757 |        1 | [HP:0010878](http://purl.obolibrary.org/obo/HP_0010878) |
 
 ## `eom`
 
@@ -469,14 +115,4 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | eom:5b0e213b31288acd |        1 | [HP:0400003](http://purl.obolibrary.org/obo/HP_0400003) |
 | eom:2028381d5c61842a |        1 | [HP:0400004](http://purl.obolibrary.org/obo/HP_0400004) |
 | eom:2cff5ac9b681fc73 |        1 | [HP:0400005](http://purl.obolibrary.org/obo/HP_0400005) |
-
-## `sanford`
-
-There are 1 usages of `sanford` in `hp`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20sanford).
-
-| curie           |   usages | nodes                                                   |
-|-----------------|----------|---------------------------------------------------------|
-| sanford:krageth |        1 | [HP:0045086](http://purl.obolibrary.org/obo/HP_0045086) |
 

@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `drugbank`
 but use local unique identifiers that do not match the standard pattern of
-`^DB\d{5}$`. Of the 2 resources,
+`^DB\d{5}$`. Of the 3 resources,
 4 variants on the standard prefix were found: ['DRUGBANK', 'DrugBank', 'Drugbank', 'drugbank'].
 
 ## `chebi`: Chemical Entities of Biological Interest
@@ -68,6 +68,16 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `DrugBank:DBSALT000540` |              1 | [CHEBI:9364](http://purl.obolibrary.org/obo/CHEBI_9364)     |
 | `DrugBank:DBSALT001254` |              1 | [CHEBI:9492](http://purl.obolibrary.org/obo/CHEBI_9492)     |
 | `DrugBank:DBSALT001257` |              1 | [CHEBI:9925](http://purl.obolibrary.org/obo/CHEBI_9925)     |
+
+## `nif`: None
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref           |   usages_count | usages                                                    |
+|-------------------------|----------------|-----------------------------------------------------------|
+| `DrugBank:DBSALT000889` |              1 | [CHEBI:5556](http://purl.obolibrary.org/obo/CHEBI_5556)   |
+| `DrugBank:DBSALT003069` |              1 | [CHEBI:91243](http://purl.obolibrary.org/obo/CHEBI_91243) |
+| `DrugBank:DBSALT001257` |              1 | [CHEBI:9925](http://purl.obolibrary.org/obo/CHEBI_9925)   |
 
 ## `xco`: Experimental condition ontology
 

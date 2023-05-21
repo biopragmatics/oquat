@@ -1,7 +1,7 @@
 {
-  "created": "2023-02-13T19:17:14.361020",
+  "created": "2023-05-21T01:27:15.514876",
   "messages": [
-    "2023-02-13 19:17:13,336 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 4 triple(s) that could not be parsed:",
+    "ERROR Input ontology contains 4 triple(s) that could not be parsed:",
     " - <http://purl.obolibrary.org/obo/OPMI_0000316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485647.",
     " - <http://purl.obolibrary.org/obo/OPMI_0000317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485652.",
     " - <http://purl.obolibrary.org/obo/OPMI_0000315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485637.",

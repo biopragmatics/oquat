@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-26T01:43:37.234876",
+  "created": "2023-05-21T00:58:00.723782",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/gno.owl": {
@@ -18,8 +18,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "V1.11.0",
-      "version_iri": "http://purl.obolibrary.org/obo/gno/2022-12-20/gno.owl",
+      "version": "v1.11.1",
+      "version_iri": "http://purl.obolibrary.org/obo/gno/2023-05-08/gno.owl",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

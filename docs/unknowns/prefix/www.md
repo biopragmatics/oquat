@@ -1,11 +1,5 @@
 # `www`
 
-## hp
-
-| curie         |   usages | nodes                                                   |
-|---------------|----------|---------------------------------------------------------|
-| WWW:wouwehand |        1 | [HP:0006298](http://purl.obolibrary.org/obo/HP_0006298) |
-
 ## envo
 
 | curie                                                                  |   usages | nodes                                                                                                                        |

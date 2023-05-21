@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-26T01:33:28.261075",
+  "created": "2023-05-21T00:49:51.399456",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/covoc.json": {
@@ -95,9 +95,6 @@
           ],
           "http://purl.obolibrary.org/obo/MONDO_0100096": [
             "MONDO:patterns/infectious_disease_by_agent"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0100120": [
-            "Wikipedia:Vector_(epidemiology)"
           ],
           "http://purl.obolibrary.org/obo/PR_000000001": [
             "PRO:DAN",
@@ -356,9 +353,6 @@
           "http://purl.obolibrary.org/obo/MONDO_0100096": [
             "MONDO:patterns/infectious_disease_by_agent"
           ],
-          "http://purl.obolibrary.org/obo/MONDO_0100120": [
-            "Wikipedia:Vector_(epidemiology)"
-          ],
           "http://purl.obolibrary.org/obo/PR_000000001": [
             "IEDB:BP",
             "PRO:DAN"
@@ -514,15 +508,6 @@
           "http://purl.obolibrary.org/obo/CHEBI_6960": [
             "ATC: C09BA13"
           ],
-          "http://purl.obolibrary.org/obo/CHEBI_87228": [
-            "Wikipedia:Sulfonamide_(medicine)"
-          ],
-          "http://purl.obolibrary.org/obo/COVOC_0010007": [
-            "Wikipedia:Neutralizing_antibody#Virus_evasion_of_neutralizing_antibodies"
-          ],
-          "http://purl.obolibrary.org/obo/COVOC_0010034": [
-            "Wikipedia:Epitope#T_cell_epitopes"
-          ],
           "http://purl.obolibrary.org/obo/COVOC_0030001": [
             "ChEMBL:477164"
           ],
@@ -535,9 +520,6 @@
           "http://purl.obolibrary.org/obo/COVOC_0030005": [
             "ChEMBL:519846"
           ],
-          "http://purl.obolibrary.org/obo/COVOC_0030019": [
-            "Wikipedia:Cannabis_(drug)"
-          ],
           "http://purl.obolibrary.org/obo/COVOC_0070006": [
             "GEO:000000374"
           ],
@@ -546,12 +528,6 @@
           ],
           "http://purl.obolibrary.org/obo/GO_0005730": [
             "NIF_Subcellular:sao1820400233"
-          ],
-          "http://purl.obolibrary.org/obo/GO_0006412": [
-            "Wikipedia:Translation_(genetics)"
-          ],
-          "http://purl.obolibrary.org/obo/GO_0006914": [
-            "Wikipedia:Autophagy_(cellular)"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0002050": [
             "UMLS:CN236658"

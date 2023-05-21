@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-26T01:41:01.277687",
+  "created": "2023-05-21T00:55:44.420507",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/fbcv.json": {
@@ -933,7 +933,14 @@
             "http://purl.obolibrary.org/obo/FBcv_0009005": "FBC:DPG",
             "http://purl.obolibrary.org/obo/FBcv_0009009": "FBC:DPG",
             "http://purl.obolibrary.org/obo/FBcv_0009014": "FBC:DPG",
-            "http://purl.obolibrary.org/obo/FBcv_0009015": "FBC:DPG"
+            "http://purl.obolibrary.org/obo/FBcv_0009015": "FBC:DPG",
+            "http://purl.obolibrary.org/obo/FBcv_0009016": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009017": "FBC:DPG",
+            "http://purl.obolibrary.org/obo/FBcv_0009018": "FBC:DPG",
+            "http://purl.obolibrary.org/obo/FBcv_0009021": "FBC:DPG",
+            "http://purl.obolibrary.org/obo/FBcv_0009022": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009024": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009025": "FBC:DPG"
           },
           "GOC": {
             "http://purl.obolibrary.org/obo/FBcv_0000002": "GOC:cab1",
@@ -1050,12 +1057,13 @@
             "http://purl.obolibrary.org/obo/FBcv_0005004": "FBC:TJ",
             "http://purl.obolibrary.org/obo/FBcv_0005069": "FBC:GM",
             "http://purl.obolibrary.org/obo/FBcv_0005077": "FBC:GM",
-            "http://purl.obolibrary.org/obo/FBcv_0007041": "FBC:GM"
+            "http://purl.obolibrary.org/obo/FBcv_0007041": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009023": "FBC:GM"
           }
         }
       },
-      "version": "2023-02-09",
-      "version_iri": "http://purl.obolibrary.org/obo/fbcv/releases/2023-02-09/fbcv.json",
+      "version": "2023-05-04",
+      "version_iri": "http://purl.obolibrary.org/obo/fbcv/releases/2023-05-04/fbcv.json",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

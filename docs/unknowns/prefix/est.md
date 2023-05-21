@@ -1,11 +1,5 @@
 # `est`
 
-## pr
-
-| curie        |   usages | nodes                                                       |
-|--------------|----------|-------------------------------------------------------------|
-| EST:AA169504 |        1 | [PR:000000478](http://purl.obolibrary.org/obo/PR_000000478) |
-
 ## nif
 
 | curie        |   usages | nodes                                                       |

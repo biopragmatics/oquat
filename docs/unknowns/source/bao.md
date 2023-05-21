@@ -104,9 +104,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie       |   usages | nodes                                                           |
 |-------------|----------|-----------------------------------------------------------------|
-| OGES:000000 |        1 | [UBERON:0000068](http://purl.obolibrary.org/obo/UBERON_0000068) |
-| OGES:000004 |        1 | [UBERON:0000109](http://purl.obolibrary.org/obo/UBERON_0000109) |
-| OGES:000026 |        1 | [UBERON:0000113](http://purl.obolibrary.org/obo/UBERON_0000113) |
+| OGES:000022 |        1 | [UBERON:0000068](http://purl.obolibrary.org/obo/UBERON_0000068) |
+| OGES:000019 |        1 | [UBERON:0000109](http://purl.obolibrary.org/obo/UBERON_0000109) |
+| OGES:000027 |        1 | [UBERON:0000113](http://purl.obolibrary.org/obo/UBERON_0000113) |
 
 ## `OpenCyc`
 

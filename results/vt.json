@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-26T02:19:32.457987",
+  "created": "2023-05-21T02:01:08.922846",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/TEMP": {
@@ -2097,6 +2097,15 @@
             "RGD:cur"
           ],
           "http://purl.obolibrary.org/obo/VT_0011016": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011017": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011018": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011019": [
             "RGD:cur"
           ],
           "http://purl.obolibrary.org/obo/VT_0015027": [

@@ -1026,3 +1026,10 @@
 | IUPHAR:2196 |        1 | [http://www.orpha.net/ORDO/Orphanet_629004](http://www.orpha.net/ORDO/Orphanet_629004) |
 | IUPHAR:1477 |        1 | [http://www.orpha.net/ORDO/Orphanet_629029](http://www.orpha.net/ORDO/Orphanet_629029) |
 
+## nif
+
+| curie                                                    |   usages | nodes                                                       |
+|----------------------------------------------------------|----------|-------------------------------------------------------------|
+| IUPHAR:http://www.iuphar-db.org/GPCR/ReceptorListForward |        1 | [PR:000001094](http://purl.obolibrary.org/obo/PR_000001094) |
+| IUPHAR:GPCRListForward?class=A                           |        1 | [PR:000001094](http://purl.obolibrary.org/obo/PR_000001094) |
+

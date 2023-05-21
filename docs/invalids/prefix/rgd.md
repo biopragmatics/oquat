@@ -2,19 +2,8 @@
 
 This page summarize the different resources that reference `rgd`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{4,}$`. Of the 7 resources,
+`^\d{4,}$`. Of the 6 resources,
 2 variants on the standard prefix were found: ['RGD', 'RGD '].
-
-## `hp`: Human Phenotype Ontology
-
-Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repository](https://github.com/obophenotype/human-phenotype-ontology).
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
-|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `RGD:sjwang`    |             13 | [HP:0031414](http://purl.obolibrary.org/obo/HP_0031414), [HP:0031415](http://purl.obolibrary.org/obo/HP_0031415), [HP:0031419](http://purl.obolibrary.org/obo/HP_0031419), [HP:0031424](http://purl.obolibrary.org/obo/HP_0031424), [HP:0031425](http://purl.obolibrary.org/obo/HP_0031425), ... |
-| `RGD:gthayman`  |             11 | [HP:0031817](http://purl.obolibrary.org/obo/HP_0031817), [HP:0031820](http://purl.obolibrary.org/obo/HP_0031820), [HP:0031831](http://purl.obolibrary.org/obo/HP_0031831), [HP:0031835](http://purl.obolibrary.org/obo/HP_0031835), [HP:0031836](http://purl.obolibrary.org/obo/HP_0031836), ... |
-| `RGD:SJWang`    |              3 | [HP:0020182](http://purl.obolibrary.org/obo/HP_0020182), [HP:0020183](http://purl.obolibrary.org/obo/HP_0020183), [HP:0020184](http://purl.obolibrary.org/obo/HP_0020184)                                                                                                                        |
-| `RGD:gth`       |              2 | [HP:0031421](http://purl.obolibrary.org/obo/HP_0031421), [HP:0031423](http://purl.obolibrary.org/obo/HP_0031423)                                                                                                                                                                                 |
 
 ## `mmo`: Measurement method ontology
 
@@ -62,7 +51,7 @@ Identifiers for this prefix are given incorrectly in `vt`. See the [GitHub repos
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `RGD:cur`       |            201 | [VT:0000032](http://purl.obolibrary.org/obo/VT_0000032), [VT:0002871](http://purl.obolibrary.org/obo/VT_0002871), [VT:0002928](http://purl.obolibrary.org/obo/VT_0002928), [VT:0002929](http://purl.obolibrary.org/obo/VT_0002929), [VT:0002932](http://purl.obolibrary.org/obo/VT_0002932), ... |
+| `RGD:cur`       |            204 | [VT:0000032](http://purl.obolibrary.org/obo/VT_0000032), [VT:0002871](http://purl.obolibrary.org/obo/VT_0002871), [VT:0002928](http://purl.obolibrary.org/obo/VT_0002928), [VT:0002929](http://purl.obolibrary.org/obo/VT_0002929), [VT:0002932](http://purl.obolibrary.org/obo/VT_0002932), ... |
 | `RGD:MS`        |             62 | [VT:0000073](http://purl.obolibrary.org/obo/VT_0000073), [VT:0000222](http://purl.obolibrary.org/obo/VT_0000222), [VT:0000524](http://purl.obolibrary.org/obo/VT_0000524), [VT:0000535](http://purl.obolibrary.org/obo/VT_0000535), [VT:0000544](http://purl.obolibrary.org/obo/VT_0000544), ... |
 | `RGD:dhm`       |             55 | [VT:0000050](http://purl.obolibrary.org/obo/VT_0000050), [VT:0000066](http://purl.obolibrary.org/obo/VT_0000066), [VT:0000153](http://purl.obolibrary.org/obo/VT_0000153), [VT:0000154](http://purl.obolibrary.org/obo/VT_0000154), [VT:0000170](http://purl.obolibrary.org/obo/VT_0000170), ... |
 | `RGD:ms`        |             18 | [VT:0002128](http://purl.obolibrary.org/obo/VT_0002128), [VT:0002295](http://purl.obolibrary.org/obo/VT_0002295), [VT:0002504](http://purl.obolibrary.org/obo/VT_0002504), [VT:0002726](http://purl.obolibrary.org/obo/VT_0002726), [VT:0002792](http://purl.obolibrary.org/obo/VT_0002792), ... |

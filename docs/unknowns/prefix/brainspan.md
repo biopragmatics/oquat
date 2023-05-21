@@ -1,5 +1,11 @@
 # `brainspan`
 
+## nif
+
+| curie               |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
+|---------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| BRAINSPAN:BRAINSPAN |        8 | [UBERON:0001950](http://purl.obolibrary.org/obo/UBERON_0001950), [UBERON:0004035](http://purl.obolibrary.org/obo/UBERON_0004035), [UBERON:0004040](http://purl.obolibrary.org/obo/UBERON_0004040), [UBERON:0005343](http://purl.obolibrary.org/obo/UBERON_0005343), [UBERON:0014736](http://purl.obolibrary.org/obo/UBERON_0014736), ... |
+
 ## uberon
 
 | curie               |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |

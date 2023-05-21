@@ -5,7 +5,7 @@ but use local unique identifiers that do not match the standard pattern of
 `^AT\d+$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['WWF'].
 
-## `enm`: eNanoMapper Ontology
+## `enm`: eNanoMapper ontology
 
 Identifiers for this prefix are given incorrectly in `enm`.
 

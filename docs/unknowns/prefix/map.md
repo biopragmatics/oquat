@@ -1,5 +1,11 @@
 # `map`
 
+## nif
+
+| curie       |   usages | nodes                                                           |
+|-------------|----------|-----------------------------------------------------------------|
+| MAP:0000001 |        1 | [UBERON:0001155](http://purl.obolibrary.org/obo/UBERON_0001155) |
+
 ## uberon
 
 | curie       |   usages | nodes                                                           |

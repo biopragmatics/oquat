@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-26T02:07:15.102078",
+  "created": "2023-05-21T01:25:50.578941",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/ohd.owl": {
@@ -18,8 +18,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2022-10-10",
-      "version_iri": "http://purl.obolibrary.org/obo/ohd/releases/2022-10-10/ohd.owl",
+      "version": "2023-04-14",
+      "version_iri": "http://purl.obolibrary.org/obo/ohd/releases/2023-04-14/ohd.owl",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

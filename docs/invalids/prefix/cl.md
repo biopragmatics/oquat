@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `cl`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 4 resources,
+`^\d{7}$`. Of the 5 resources,
 1 variants on the standard prefix were found: ['CL'].
 
 ## `cl`: Cell Ontology
@@ -16,6 +16,18 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | `CL:curator`                             |              1 | [CL:0005018](http://purl.obolibrary.org/obo/CL_0005018)                                                                                                                                                                                                                                          |
 | `CL:patterns/cellPartOfAnatomicalEntity` |              1 | [CL:0011030](http://purl.obolibrary.org/obo/CL_0011030)                                                                                                                                                                                                                                          |
 | `CL:cjm`                                 |              1 | [CL:1000742](http://purl.obolibrary.org/obo/CL_1000742)                                                                                                                                                                                                                                          |
+
+## `nif`: None
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref                            |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `CL:tm`                                  |             19 | [UBERON:0001249](http://purl.obolibrary.org/obo/UBERON_0001249), [UBERON:0001249](http://purl.obolibrary.org/obo/UBERON_0001249), [UBERON:0001745](http://purl.obolibrary.org/obo/UBERON_0001745), [UBERON:0004041](http://purl.obolibrary.org/obo/UBERON_0004041), [UBERON:0004042](http://purl.obolibrary.org/obo/UBERON_0004042), ... |
+| `CL:CVS`                                 |              6 | [CL:0005000](http://purl.obolibrary.org/obo/CL_0005000), [CL:0005009](http://purl.obolibrary.org/obo/CL_0005009), [CL:0005012](http://purl.obolibrary.org/obo/CL_0005012), [CL:0005014](http://purl.obolibrary.org/obo/CL_0005014), [CL:0005020](http://purl.obolibrary.org/obo/CL_0005020), ...                                         |
+| `CL:MAH`                                 |              1 | [CL:0007011](http://purl.obolibrary.org/obo/CL_0007011)                                                                                                                                                                                                                                                                                  |
+| `CL:patterns/cellPartOfAnatomicalEntity` |              1 | [CL:0011030](http://purl.obolibrary.org/obo/CL_0011030)                                                                                                                                                                                                                                                                                  |
+| `CL:cjm`                                 |              1 | [CL:1000742](http://purl.obolibrary.org/obo/CL_1000742)                                                                                                                                                                                                                                                                                  |
 
 ## `tao`: Teleost Anatomy Ontology
 

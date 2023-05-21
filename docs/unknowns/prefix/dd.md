@@ -1,11 +1,5 @@
 # `dd`
 
-## hp
-
-| curie   |   usages | nodes                                                   |
-|---------|----------|---------------------------------------------------------|
-| DD:WHO  |        1 | [HP:0012524](http://purl.obolibrary.org/obo/HP_0012524) |
-
 ## ddpheno
 
 | curie   |   usages | nodes                                                                                                                                                                                                   |

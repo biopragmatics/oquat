@@ -1,5 +1,5 @@
 {
-  "created": "2023-03-26T02:16:58.706133",
+  "created": "2023-05-21T01:53:41.276198",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/tads.owl": {
@@ -8,9 +8,6 @@
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/TADS_0000026": [
             "ISBN:0-19-505910-7."
-          ],
-          "http://purl.obolibrary.org/obo/TADS_0000224": [
-            "Wikipedia:www.wikipedia.org"
           ],
           "http://purl.obolibrary.org/obo/TADS_0000244": [
             "ISSN:1516-635X."

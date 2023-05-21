@@ -1,19 +1,262 @@
 {
-  "created": "2023-03-26T01:02:00.612824",
+  "created": "2023-05-21T00:12:52.553371",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/bto.json": {
       "graph_id": "http://purl.obolibrary.org/obo/bto.json",
       "prov_pack": {
         "invalid_luids": {
+          "http://purl.obolibrary.org/obo/BTO_0000046": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000111": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000179": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000295": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000304": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000429": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000461": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000587": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000607": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000633": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000675": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000678": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000788": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000791": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000798": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000812": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000813": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000815": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000834": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000871": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000881": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0000994": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001030": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001092": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001093": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001118": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
           "http://purl.obolibrary.org/obo/BTO_0001198": [
             "ISSN:0302-766X_(printed_version)_ISSN_1432-0878_(electronic_version)"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001205": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001210": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001248": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
           ],
           "http://purl.obolibrary.org/obo/BTO_0001464": [
             "Flybase:http://flybase.bio.indiana.edu/allied-data/lk/interactive-fly/lewheld/preface.htm"
           ],
+          "http://purl.obolibrary.org/obo/BTO_0001466": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001482": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001483": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001517": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001553": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001609": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001620": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001861": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001864": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001865": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001870": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001875": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001879": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001881": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001884": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001889": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001915": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001920": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001944": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001945": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001947": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001948": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001951": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0001962": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002028": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002032": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002035": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002036": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
           "http://purl.obolibrary.org/obo/BTO_0002065": [
             "Fishbase:http://www.fishbase.org/Glossary/Glossary.cfm?TermEnglish=venom+apparatus"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002104": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002126": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002127": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002131": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002132": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002133": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002134": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002175": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002208": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002405": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002418": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002419": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002575": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002827": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002832": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002884": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002885": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002887": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002898": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002918": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002938": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0002940": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0003022": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0003035": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
           ],
           "http://purl.obolibrary.org/obo/BTO_0003039": [
             "WormBase:http://www.wormbase.org/"
@@ -24,14 +267,47 @@
           "http://purl.obolibrary.org/obo/BTO_0003093": [
             "MGI:http://www.mousedb.net/searches/GO.cgi?id=GO:0060935"
           ],
+          "http://purl.obolibrary.org/obo/BTO_0003109": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0003297": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0003301": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0003460": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0003541": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0003579": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0003719": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0003724": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0004308": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
           "http://purl.obolibrary.org/obo/BTO_0004783": [
             "PMID:_17179233"
           ],
           "http://purl.obolibrary.org/obo/BTO_0004841": [
             "Patent:CA_Patent_2469027"
           ],
+          "http://purl.obolibrary.org/obo/BTO_0004859": [
+            "HyperCLDB:http://www.biotech.ist.unige.it/"
+          ],
           "http://purl.obolibrary.org/obo/BTO_0004952": [
             "Patent:CA_Patent_2469027"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0005030": [
+            "HyperCLDB:http://bioinformatics.istge.it/"
           ],
           "http://purl.obolibrary.org/obo/BTO_0005035": [
             "MedlinePlus:A_service_of_the_U.S._National_Library_of_Medicine_From_the_National_Institutes_of_Health"
@@ -44,6 +320,9 @@
           ],
           "http://purl.obolibrary.org/obo/BTO_0005386": [
             "PMID:_6178358"
+          ],
+          "http://purl.obolibrary.org/obo/BTO_0005492": [
+            "HyperCLDB:http://bioinformatics.istge.it/"
           ],
           "http://purl.obolibrary.org/obo/BTO_0005634": [
             "PMID::8305734"
@@ -69,6 +348,101 @@
         "noncanonical_prefixes": {
           "Fishbase": {
             "http://purl.obolibrary.org/obo/BTO_0002065": "Fishbase:http://www.fishbase.org/Glossary/Glossary.cfm?TermEnglish=venom+apparatus"
+          },
+          "HyperCLDB": {
+            "http://purl.obolibrary.org/obo/BTO_0000046": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000111": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000179": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000295": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000304": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000429": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000461": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000587": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000607": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000633": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000675": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000678": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000788": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000791": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000798": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000812": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000813": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000815": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000834": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000871": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000881": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0000994": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001030": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001092": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001093": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001118": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001205": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001210": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001248": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001466": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001482": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001483": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001517": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001553": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001609": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001620": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001861": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001864": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001865": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001870": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001875": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001879": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001881": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001884": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001889": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001915": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001920": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001944": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001945": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001947": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001948": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001951": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0001962": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002028": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002032": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002035": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002036": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002104": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002126": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002127": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002131": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002132": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002133": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002134": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002175": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002208": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002405": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002418": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002419": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002575": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002827": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002832": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002884": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002885": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002887": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002898": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002918": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002938": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0002940": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0003022": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0003035": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0003109": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0003297": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0003301": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0003460": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0003541": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0003579": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0003719": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0003724": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0004308": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0004859": "HyperCLDB:http://www.biotech.ist.unige.it/",
+            "http://purl.obolibrary.org/obo/BTO_0005030": "HyperCLDB:http://bioinformatics.istge.it/",
+            "http://purl.obolibrary.org/obo/BTO_0005492": "HyperCLDB:http://bioinformatics.istge.it/"
           },
           "Patent": {
             "http://purl.obolibrary.org/obo/BTO_0004841": "Patent:CA_Patent_2469027",
@@ -2772,101 +3146,6 @@
           },
           "Human_Reproductive_Biology": {
             "http://purl.obolibrary.org/obo/BTO_0006280": "Human_Reproductive_Biology:The_male_reproductive_system"
-          },
-          "HyperCLDB": {
-            "http://purl.obolibrary.org/obo/BTO_0000046": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000111": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000179": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000295": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000304": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000429": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000461": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000587": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000607": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000633": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000675": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000678": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000788": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000791": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000798": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000812": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000813": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000815": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000834": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000871": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000881": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0000994": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001030": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001092": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001093": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001118": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001205": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001210": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001248": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001466": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001482": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001483": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001517": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001553": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001609": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001620": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001861": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001864": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001865": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001870": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001875": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001879": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001881": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001884": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001889": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001915": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001920": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001944": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001945": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001947": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001948": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001951": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0001962": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002028": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002032": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002035": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002036": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002104": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002126": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002127": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002131": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002132": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002133": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002134": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002175": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002208": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002405": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002418": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002419": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002575": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002827": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002832": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002884": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002885": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002887": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002898": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002918": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002938": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0002940": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0003022": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0003035": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0003109": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0003297": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0003301": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0003460": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0003541": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0003579": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0003719": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0003724": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0004308": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0004859": "HyperCLDB:http://www.biotech.ist.unige.it/",
-            "http://purl.obolibrary.org/obo/BTO_0005030": "HyperCLDB:http://bioinformatics.istge.it/",
-            "http://purl.obolibrary.org/obo/BTO_0005492": "HyperCLDB:http://bioinformatics.istge.it/"
           },
           "Illustrated_Encyclopedia_of_Human_Anatomic_Variation": {
             "http://purl.obolibrary.org/obo/BTO_0000151": "Illustrated_Encyclopedia_of_Human_Anatomic_Variation:Part_I_Muscular_System_http://www.vh.org/adult/provider/anatomy/AnatomicVariants/MuscularSystem/Terminology.html",

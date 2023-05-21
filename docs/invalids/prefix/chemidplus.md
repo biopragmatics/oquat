@@ -31,7 +31,6 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `ChemIDplus:0117710039` |              1 | [CHEBI:68857](http://purl.obolibrary.org/obo/CHEBI_68857)   |
 | `ChemIDplus:0143651450` |              1 | [CHEBI:68888](http://purl.obolibrary.org/obo/CHEBI_68888)   |
 | `ChemIDplus:0006801407` |              1 | [CHEBI:68906](http://purl.obolibrary.org/obo/CHEBI_68906)   |
-| `ChemIDplus:0054985885` |              1 | [CHEBI:68995](http://purl.obolibrary.org/obo/CHEBI_68995)   |
 | `ChemIDplus:0023778349` |              1 | [CHEBI:69060](http://purl.obolibrary.org/obo/CHEBI_69060)   |
 | `ChemIDplus:0000112390` |              1 | [CHEBI:69187](http://purl.obolibrary.org/obo/CHEBI_69187)   |
 | `ChemIDplus:0000112618` |              1 | [CHEBI:69188](http://purl.obolibrary.org/obo/CHEBI_69188)   |

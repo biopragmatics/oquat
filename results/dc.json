@@ -1,30 +1,7 @@
 {
-  "created": "2023-02-26T01:39:16.874089",
-  "messages": [],
-  "results": {
-    "http://purl.org/dc/elements/1.1/": {
-      "graph_id": "http://purl.org/dc/elements/1.1/",
-      "prov_pack": {
-        "invalid_luids": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
-    }
-  }
+  "created": "2023-05-21T00:50:25.712719",
+  "messages": [
+    "could not parse OWL for dc from https://www.dublincore.org/specifications/dublin-core/dcmi-terms/dublin_core_elements.rdf"
+  ],
+  "results": {}
 }

@@ -37,6 +37,18 @@ did not match the standard pattern `^FB\w{2}\d{7}$`.
 |---------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------|
 | `Flybase:http://flybase.bio.indiana.edu/allied-data/lk/interactive-fly/lewheld/preface.htm` |              1 | [BTO:0001464](http://purl.obolibrary.org/obo/BTO_0001464) |
 
+## `HyperCLDB`: Cell Line Database
+
+Overall, there were 93 invalid
+xrefs to external prefixed with `HyperCLDB` (standardized to Bioregistry
+prefix [`cldb`](https://bioregistry.io/cldb)) that
+did not match the standard pattern `^(cl|tum)\d+$`.
+
+| external_xref                                |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
+|----------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `HyperCLDB:http://www.biotech.ist.unige.it/` |             91 | [BTO:0000046](http://purl.obolibrary.org/obo/BTO_0000046), [BTO:0000111](http://purl.obolibrary.org/obo/BTO_0000111), [BTO:0000179](http://purl.obolibrary.org/obo/BTO_0000179), [BTO:0000295](http://purl.obolibrary.org/obo/BTO_0000295), [BTO:0000304](http://purl.obolibrary.org/obo/BTO_0000304), ... |
+| `HyperCLDB:http://bioinformatics.istge.it/`  |              2 | [BTO:0005030](http://purl.obolibrary.org/obo/BTO_0005030), [BTO:0005492](http://purl.obolibrary.org/obo/BTO_0005492)                                                                                                                                                                                       |
+
 ## `ISSN`: International Standard Serial Number
 
 Overall, there were 1 invalid

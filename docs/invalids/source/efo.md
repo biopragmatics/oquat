@@ -282,7 +282,7 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 | `MeSH:Q000633`  |              1 | [EFO:0011061](http://www.ebi.ac.uk/efo/EFO_0011061)                                                                                                           |
 | `MeSH:DO14076`  |              1 | [EFO:1001216](http://www.ebi.ac.uk/efo/EFO_1001216)                                                                                                           |
 
-## `MONDO`: Monarch Disease Ontology
+## `MONDO`: Mondo Disease Ontology
 
 Overall, there were 1,747 invalid
 xrefs to external prefixed with `MONDO` (standardized to Bioregistry
@@ -725,7 +725,7 @@ did not match the standard pattern `^C\d+$`.
 Overall, there were 20 invalid
 xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
 prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
-did not match the standard pattern `^[A-Za-z-0-9_]+$`.
+did not match the standard pattern `^\S+$`.
 
 | external_xref                                                         |   usages_count | usages                                                                                                   |
 |-----------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------|

@@ -738,37 +738,3 @@ did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 | `Reactome:REACT_96516`   |              1 | [GO:0061024](http://purl.obolibrary.org/obo/GO_0061024)                                                          |
 | `Reactome:REACT_97881`   |              1 | [GO:0061024](http://purl.obolibrary.org/obo/GO_0061024)                                                          |
 
-## `Wikipedia`: Wikipedia
-
-Overall, there were 14 invalid
-xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
-prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
-did not match the standard pattern `^[A-Za-z-0-9_]+$`.
-
-| external_xref                                                      |   usages_count | usages                                                                                                                                                                                         |
-|--------------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `Wikipedia:Association_(statistics)`                               |              2 | [pato#directly:associated:with](http://purl.obolibrary.org/obo/pato#directly_associated_with), [pato#inversely:associated:with](http://purl.obolibrary.org/obo/pato#inversely_associated_with) |
-| `Wikipedia:http://en.wikipedia.org/wiki/Velocity`                  |              1 | [PATO:0000008](http://purl.obolibrary.org/obo/PATO_0000008)                                                                                                                                    |
-| `Wikipedia:http://en.wikipedia.org/wiki/concentration`             |              1 | [PATO:0000033](http://purl.obolibrary.org/obo/PATO_0000033)                                                                                                                                    |
-| `Wikipedia:http://en.wikipedia.org/wiki/frequency`                 |              1 | [PATO:0000044](http://purl.obolibrary.org/obo/PATO_0000044)                                                                                                                                    |
-| `Wikipedia:http://en.wikipedia.org/wiki/Electromagnetic_radiation` |              1 | [PATO:0001291](http://purl.obolibrary.org/obo/PATO_0001291)                                                                                                                                    |
-| `Wikipedia:http://en.wikipedia.org/wiki/Area`                      |              1 | [PATO:0001323](http://purl.obolibrary.org/obo/PATO_0001323)                                                                                                                                    |
-| `Wikipedia:http://en.wikipedia.org/wiki/Ploidy`                    |              1 | [PATO:0001374](http://purl.obolibrary.org/obo/PATO_0001374)                                                                                                                                    |
-| `Wikipedia:http://en.wikipedia.org/wiki/Polyploid`                 |              1 | [PATO:0001377](http://purl.obolibrary.org/obo/PATO_0001377)                                                                                                                                    |
-| `Wikipedia:http://en.wikipedia.org/wiki/Euploid`                   |              1 | [PATO:0001393](http://purl.obolibrary.org/obo/PATO_0001393)                                                                                                                                    |
-| `Wikipedia:Binding_(molecular)`                                    |              1 | [GO:0005488](http://purl.obolibrary.org/obo/GO_0005488)                                                                                                                                        |
-| `Wikipedia:Cell_(biology)`                                         |              1 | [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623)                                                                                                                                        |
-| `Wikipedia:Transcription_(genetics)`                               |              1 | [GO:0006351](http://purl.obolibrary.org/obo/GO_0006351)                                                                                                                                        |
-| `Wikipedia:Vesicle_(biology)`                                      |              1 | [GO:0031982](http://purl.obolibrary.org/obo/GO_0031982)                                                                                                                                        |
-
-## `wikipedia`: Wikipedia
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `wikipedia` (standardized to Bioregistry
-prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
-did not match the standard pattern `^[A-Za-z-0-9_]+$`.
-
-| external_xref                                    |   usages_count | usages                                                      |
-|--------------------------------------------------|----------------|-------------------------------------------------------------|
-| `wikipedia:https://en.wikipedia.org/wiki/Acinus` |              1 | [PATO:0002378](http://purl.obolibrary.org/obo/PATO_0002378) |
-

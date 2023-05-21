@@ -17,7 +17,7 @@ did not match the standard pattern `^DP\d{5}$`.
 
 ## `ECO`: Evidence ontology
 
-Overall, there were 1,462 invalid
+Overall, there were 1,468 invalid
 xrefs to external prefixed with `ECO` (standardized to Bioregistry
 prefix [`eco`](https://bioregistry.io/eco)) that
 did not match the standard pattern `^\d{7}$`.
@@ -25,7 +25,7 @@ did not match the standard pattern `^\d{7}$`.
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `ECO:RCT`       |            718 | [ECO:0000009](http://purl.obolibrary.org/obo/ECO_0000009), [ECO:0000011](http://purl.obolibrary.org/obo/ECO_0000011), [ECO:0000033](http://purl.obolibrary.org/obo/ECO_0000033), [ECO:0000053](http://purl.obolibrary.org/obo/ECO_0000053), [ECO:0000054](http://purl.obolibrary.org/obo/ECO_0000054), ... |
-| `ECO:SN`        |            374 | [ECO:0000001](http://purl.obolibrary.org/obo/ECO_0000001), [ECO:0000002](http://purl.obolibrary.org/obo/ECO_0000002), [ECO:0000018](http://purl.obolibrary.org/obo/ECO_0000018), [ECO:0000021](http://purl.obolibrary.org/obo/ECO_0000021), [ECO:0000028](http://purl.obolibrary.org/obo/ECO_0000028), ... |
+| `ECO:SN`        |            380 | [ECO:0000001](http://purl.obolibrary.org/obo/ECO_0000001), [ECO:0000002](http://purl.obolibrary.org/obo/ECO_0000002), [ECO:0000018](http://purl.obolibrary.org/obo/ECO_0000018), [ECO:0000021](http://purl.obolibrary.org/obo/ECO_0000021), [ECO:0000028](http://purl.obolibrary.org/obo/ECO_0000028), ... |
 | `ECO:MCC`       |            297 | [ECO:0000000](http://purl.obolibrary.org/obo/ECO_0000000), [ECO:0000007](http://purl.obolibrary.org/obo/ECO_0000007), [ECO:0000008](http://purl.obolibrary.org/obo/ECO_0000008), [ECO:0000019](http://purl.obolibrary.org/obo/ECO_0000019), [ECO:0000020](http://purl.obolibrary.org/obo/ECO_0000020), ... |
 | `ECO:SW`        |             58 | [ECO:0000085](http://purl.obolibrary.org/obo/ECO_0000085), [ECO:0000095](http://purl.obolibrary.org/obo/ECO_0000095), [ECO:0000096](http://purl.obolibrary.org/obo/ECO_0000096), [ECO:0000106](http://purl.obolibrary.org/obo/ECO_0000106), [ECO:0000109](http://purl.obolibrary.org/obo/ECO_0000109), ... |
 | `ECO:MG`        |              7 | [ECO:0006186](http://purl.obolibrary.org/obo/ECO_0006186), [ECO:0006252](http://purl.obolibrary.org/obo/ECO_0006252), [ECO:0006341](http://purl.obolibrary.org/obo/ECO_0006341), [ECO:0006345](http://purl.obolibrary.org/obo/ECO_0006345), [ECO:0006346](http://purl.obolibrary.org/obo/ECO_0006346), ... |
@@ -80,4 +80,15 @@ did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|
 | `PomBase:MAH`   |              1 | [ECO:0000095](http://purl.obolibrary.org/obo/ECO_0000095) |
+
+## `UniProt`: UniProt Protein
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `UniProt` (standardized to Bioregistry
+prefix [`uniprot`](https://bioregistry.io/uniprot)) that
+did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$`.
+
+| external_xref          |   usages_count | usages                                                    |
+|------------------------|----------------|-----------------------------------------------------------|
+| `UniProt:Vishal Joshi` |              1 | [ECO:0008002](http://purl.obolibrary.org/obo/ECO_0008002) |
 

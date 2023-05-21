@@ -1,12 +1,5 @@
 # `soy`
 
-## to
-
-| curie       |   usages | nodes                                                   |
-|-------------|----------|---------------------------------------------------------|
-| SOY:0001342 |        1 | [TO:0000108](http://purl.obolibrary.org/obo/TO_0000108) |
-| SOY:0001341 |        1 | [TO:0000930](http://purl.obolibrary.org/obo/TO_0000930) |
-
 ## po
 
 | curie       |   usages | nodes                                                   |
@@ -91,4 +84,11 @@
 | SOY:0000033 |        1 | [PO:0007120](http://purl.obolibrary.org/obo/PO_0007120) |
 | SOY:0000046 |        1 | [PO:0007122](http://purl.obolibrary.org/obo/PO_0007122) |
 | SOY:0000020 |        1 | [PO:0007123](http://purl.obolibrary.org/obo/PO_0007123) |
+
+## to
+
+| curie       |   usages | nodes                                                   |
+|-------------|----------|---------------------------------------------------------|
+| SOY:0001342 |        1 | [TO:0000108](http://purl.obolibrary.org/obo/TO_0000108) |
+| SOY:0001341 |        1 | [TO:0000930](http://purl.obolibrary.org/obo/TO_0000930) |
 

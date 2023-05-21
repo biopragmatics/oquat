@@ -21,7 +21,7 @@ Identifiers for this prefix are given incorrectly in `covoc`. See the [GitHub re
 |-----------------|----------------|---------------------------------------------------------|
 | `ReO:mhb`       |              1 | [CL:0000010](http://purl.obolibrary.org/obo/CL_0000010) |
 
-## `enm`: eNanoMapper Ontology
+## `enm`: eNanoMapper ontology
 
 Identifiers for this prefix are given incorrectly in `enm`.
 

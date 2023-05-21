@@ -1,18 +1,11 @@
 {
-  "created": "2023-03-26T01:40:54.421820",
+  "created": "2023-05-21T00:55:37.422778",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/fbbi.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/fbbi.owl",
       "prov_pack": {
-        "invalid_luids": {
-          "http://purl.obolibrary.org/obo/FBbi_00000037": [
-            "Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain"
-          ],
-          "http://purl.obolibrary.org/obo/FBbi_00000041": [
-            "Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain"
-          ]
-        },
+        "invalid_luids": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

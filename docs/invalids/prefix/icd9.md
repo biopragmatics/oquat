@@ -66,7 +66,7 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `ICD9:614-616.99` |              1 | [EFO:1001388](http://www.ebi.ac.uk/efo/EFO_1001388)                                                      |
 | `ICD9:209-209.99` |              1 | [EFO:1001901](http://www.ebi.ac.uk/efo/EFO_1001901)                                                      |
 
-## `enm`: eNanoMapper Ontology
+## `enm`: eNanoMapper ontology
 
 Identifiers for this prefix are given incorrectly in `enm`.
 
@@ -85,7 +85,7 @@ Identifiers for this prefix are given incorrectly in `epso`.
 | `ICD9:140-239.99` |              1 | [MONDO:0005070](http://purl.obolibrary.org/obo/MONDO_0005070) |
 | `ICD9:290-299.99` |              1 | [MONDO:0005084](http://purl.obolibrary.org/obo/MONDO_0005084) |
 
-## `mondo`: Monarch Disease Ontology
+## `mondo`: Mondo Disease Ontology
 
 Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub repository](https://github.com/monarch-initiative/mondo).
 

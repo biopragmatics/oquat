@@ -1,30 +1,7 @@
 {
-  "created": "2023-03-26T01:39:34.286660",
-  "messages": [],
-  "results": {
-    "http://purl.obolibrary.org/obo/TEMP": {
-      "graph_id": "http://purl.obolibrary.org/obo/TEMP",
-      "prov_pack": {
-        "invalid_luids": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "xref_pack": {
-        "invalid_luids": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
-    }
-  }
+  "created": "2023-05-21T00:54:29.051449",
+  "messages": [
+    "could not parse OBO for ehdaa from http://aber-owl.net/media/ontologies/EHDAA/6/ehdaa.obo"
+  ],
+  "results": {}
 }

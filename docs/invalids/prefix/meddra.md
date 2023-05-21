@@ -22,7 +22,7 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `MedDRA:1001MedDRA:1009` |              1 | [EFO:1000879](http://www.ebi.ac.uk/efo/EFO_1000879) |
 | `MedDRA:10049MedDRA:100` |              1 | [EFO:1001835](http://www.ebi.ac.uk/efo/EFO_1001835) |
 
-## `enm`: eNanoMapper Ontology
+## `enm`: eNanoMapper ontology
 
 Identifiers for this prefix are given incorrectly in `enm`.
 
@@ -30,7 +30,7 @@ Identifiers for this prefix are given incorrectly in `enm`.
 |--------------------------|----------------|-----------------------------------------------------|
 | `MedDRA:1005MedDRA:1006` |              1 | [EFO:0009248](http://www.ebi.ac.uk/efo/EFO_0009248) |
 
-## `mondo`: Monarch Disease Ontology
+## `mondo`: Mondo Disease Ontology
 
 Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub repository](https://github.com/monarch-initiative/mondo).
 

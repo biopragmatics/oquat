@@ -1,13 +1,5 @@
 # `mpd`
 
-## mp
-
-| curie                      |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|----------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MPD:Molly                  |      116 | [MP:0003656](http://purl.obolibrary.org/obo/MP_0003656), [MP:0005451](http://purl.obolibrary.org/obo/MP_0005451), [MP:0011912](http://purl.obolibrary.org/obo/MP_0011912), [MP:0011913](http://purl.obolibrary.org/obo/MP_0011913), [MP:0011914](http://purl.obolibrary.org/obo/MP_0011914), ... |
-| MPD:Mouse_Phenome_Database |        2 | [MP:0002606](http://purl.obolibrary.org/obo/MP_0002606), [MP:0002607](http://purl.obolibrary.org/obo/MP_0002607)                                                                                                                                                                                 |
-| MPD:Bogue                  |        1 | [MP:0013801](http://purl.obolibrary.org/obo/MP_0013801)                                                                                                                                                                                                                                          |
-
 ## mmo
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                      |
@@ -20,4 +12,12 @@
 |----------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MPD:cur                    |       10 | [VT:0010751](http://purl.obolibrary.org/obo/VT_0010751), [VT:0010808](http://purl.obolibrary.org/obo/VT_0010808), [VT:0010997](http://purl.obolibrary.org/obo/VT_0010997), [VT:0010999](http://purl.obolibrary.org/obo/VT_0010999), [VT:0011000](http://purl.obolibrary.org/obo/VT_0011000), ... |
 | MPD:Mouse_Phenome_Database |        1 | [VT:0002607](http://purl.obolibrary.org/obo/VT_0002607)                                                                                                                                                                                                                                          |
+
+## mp
+
+| curie                      |   usages | nodes                                                                                                                                                                                                                                                                                            |
+|----------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MPD:Molly                  |      116 | [MP:0003656](http://purl.obolibrary.org/obo/MP_0003656), [MP:0005451](http://purl.obolibrary.org/obo/MP_0005451), [MP:0011912](http://purl.obolibrary.org/obo/MP_0011912), [MP:0011913](http://purl.obolibrary.org/obo/MP_0011913), [MP:0011914](http://purl.obolibrary.org/obo/MP_0011914), ... |
+| MPD:Mouse_Phenome_Database |        2 | [MP:0002606](http://purl.obolibrary.org/obo/MP_0002606), [MP:0002607](http://purl.obolibrary.org/obo/MP_0002607)                                                                                                                                                                                 |
+| MPD:Bogue                  |        1 | [MP:0013801](http://purl.obolibrary.org/obo/MP_0013801)                                                                                                                                                                                                                                          |
 
