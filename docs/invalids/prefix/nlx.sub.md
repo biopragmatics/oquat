@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `nlx.sub`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 8 resources,
+`^\d+$`. Of the 9 resources,
 1 variants on the standard prefix were found: ['NIF_Subcellular'].
 
 ## `bao`: BioAssay Ontology
@@ -24,6 +24,15 @@ Identifiers for this prefix are given incorrectly in `bao`. See the [GitHub repo
 | `NIF_Subcellular:sao1470140754` |              1 | [GO:0044303](http://purl.obolibrary.org/obo/GO_0044303) |
 | `NIF_Subcellular:sao884265541`  |              1 | [GO:0044307](http://purl.obolibrary.org/obo/GO_0044307) |
 | `NIF_Subcellular:sao707332678`  |              1 | [GO:1901589](http://purl.obolibrary.org/obo/GO_1901589) |
+
+## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
+
+Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
+
+| external_xref                   |   usages_count | usages                                                          |
+|---------------------------------|----------------|-----------------------------------------------------------------|
+| `NIF_Subcellular:sao1397492660` |              1 | [UBERON:0000482](http://purl.obolibrary.org/obo/UBERON_0000482) |
+| `NIF_Subcellular:sao1145756102` |              1 | [UBERON:0001130](http://purl.obolibrary.org/obo/UBERON_0001130) |
 
 ## `cco`: Cell Cycle Ontology
 

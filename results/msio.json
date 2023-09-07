@@ -1,5 +1,5 @@
 {
-  "created": "2023-02-13T19:01:29.396949",
+  "created": "2023-09-07T13:07:56.881183",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/msio.owl": {
@@ -142,9 +142,6 @@
           ],
           "http://purl.obolibrary.org/obo/CHEBI_41981": [
             "Gmelin:97"
-          ],
-          "http://purl.obolibrary.org/obo/CHEBI_47032": [
-            "Wikipedia:1,4-Dioxane"
           ]
         },
         "label": "Node Xrefs",
@@ -196,7 +193,7 @@
             "http://purl.obolibrary.org/obo/CHEBI_77701": "MetaCyc:CPD-8133"
           },
           "PDBeChem": {
-            "http://purl.obolibrary.org/obo/CHEBI_15377": "PDBeChem:HOH",
+            "http://purl.obolibrary.org/obo/CHEBI_15377": "PDBeChem:MTO",
             "http://purl.obolibrary.org/obo/CHEBI_15956": "PDBeChem:BTN",
             "http://purl.obolibrary.org/obo/CHEBI_16134": "PDBeChem:NH3",
             "http://purl.obolibrary.org/obo/CHEBI_16227": "PDBeChem:0PY",

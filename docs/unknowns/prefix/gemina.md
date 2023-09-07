@@ -1,5 +1,11 @@
 # `gemina`
 
+## salmon
+
+| curie     |   usages | nodes                                                         |
+|-----------|----------|---------------------------------------------------------------|
+| GEMINA:ag |        1 | [ENVO:02000003](http://purl.obolibrary.org/obo/ENVO_02000003) |
+
 ## enm
 
 | curie     |   usages | nodes                                                         |

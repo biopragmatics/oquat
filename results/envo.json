@@ -1,13 +1,9 @@
 {
-  "created": "2023-05-21T00:55:10.095139",
-  "messages": [
-    "could not parse JSON for envo from http://purl.obolibrary.org/obo/envo.json",
-    "ERROR Input ontology contains 1 triple(s) that could not be parsed:",
-    " - <https://www.wikidata.org/wiki/Q2306597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147500604."
-  ],
+  "created": "2023-09-07T12:42:36.590911",
+  "messages": [],
   "results": {
-    "http://purl.obolibrary.org/obo/envo.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/envo.owl",
+    "http://purl.obolibrary.org/obo/envo.json": {
+      "graph_id": "http://purl.obolibrary.org/obo/envo.json",
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000005": [
@@ -1700,7 +1696,7 @@
         }
       },
       "version": "2023-02-13",
-      "version_iri": "http://purl.obolibrary.org/obo/envo/releases/2023-02-13/envo.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/envo/releases/2023-02-13/envo.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000005": [

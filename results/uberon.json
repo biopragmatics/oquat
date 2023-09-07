@@ -1,11 +1,9 @@
 {
-  "created": "2023-05-21T01:54:55.216890",
-  "messages": [
-    "could not parse JSON for uberon from http://purl.obolibrary.org/obo/uberon.json"
-  ],
+  "created": "2023-09-07T13:28:37.506767",
+  "messages": [],
   "results": {
-    "http://purl.obolibrary.org/obo/uberon.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/uberon.owl",
+    "http://purl.obolibrary.org/obo/uberon.json": {
+      "graph_id": "http://purl.obolibrary.org/obo/uberon.json",
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/UBERON_0000004": [
@@ -40,6 +38,10 @@
           ],
           "http://purl.obolibrary.org/obo/UBERON_0000087": [
             "MGI:pvb"
+          ],
+          "http://purl.obolibrary.org/obo/UBERON_0000089": [
+            "GO:dph",
+            "ZFIN:cvs"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0000114": [
             "MGI:anna"
@@ -1651,6 +1653,9 @@
           "http://purl.obolibrary.org/obo/UBERON_0008917": [
             "TAO:wd"
           ],
+          "http://purl.obolibrary.org/obo/UBERON_0008921": [
+            "UBERON:CL_meeting_20110725"
+          ],
           "http://purl.obolibrary.org/obo/UBERON_0008930": [
             "MESH:A08.186.211.730.885.213.670.675"
           ],
@@ -2277,9 +2282,6 @@
           ],
           "http://purl.obolibrary.org/obo/UBERON_0035015": [
             "NIFSTD:oen_0001107"
-          ],
-          "http://purl.obolibrary.org/obo/UBERON_0035017": [
-            "MESH:A08.800.550.700.650"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0035018": [
             "MESH:A08.800.550.700.840"
@@ -8354,6 +8356,7 @@
             "http://purl.obolibrary.org/obo/UBERON_0002418": "GO_REF:0000034",
             "http://purl.obolibrary.org/obo/UBERON_0002481": "GO_REF:0000034",
             "http://purl.obolibrary.org/obo/UBERON_0002513": "GO_REF:0000034",
+            "http://purl.obolibrary.org/obo/UBERON_0004166": "GO_REF:0000021",
             "http://purl.obolibrary.org/obo/UBERON_0004755": "GO_REF:0000034",
             "http://purl.obolibrary.org/obo/UBERON_0007842": "GO_REF:0000034",
             "http://purl.obolibrary.org/obo/UBERON_0007844": "GO_REF:0000034",
@@ -8591,6 +8594,7 @@
             "http://purl.obolibrary.org/obo/UBERON_0002928": "PMCID:PMC2492885",
             "http://purl.obolibrary.org/obo/UBERON_0005206": "PMCID:PMC3496674",
             "http://purl.obolibrary.org/obo/UBERON_0009099": "PMCID:PMC2093943",
+            "http://purl.obolibrary.org/obo/UBERON_0009100": "PMCID:PMC2093943",
             "http://purl.obolibrary.org/obo/UBERON_0010174": "PMCID:PMC3204613",
             "http://purl.obolibrary.org/obo/UBERON_0011932": "PMCID:PMC3130146",
             "http://purl.obolibrary.org/obo/UBERON_0034934": "PMCID:PMC2667924",
@@ -8839,6 +8843,7 @@
             "http://purl.obolibrary.org/obo/UBERON_6000172": "FBC:SPR",
             "http://purl.obolibrary.org/obo/UBERON_6000180": "FBC:auto_generated_definition",
             "http://purl.obolibrary.org/obo/UBERON_6000181": "FBC:auto_generated_definition",
+            "http://purl.obolibrary.org/obo/UBERON_6000186": "FBC:VH",
             "http://purl.obolibrary.org/obo/UBERON_6001060": "FBC:SPR",
             "http://purl.obolibrary.org/obo/UBERON_6001649": "FBC:SPR",
             "http://purl.obolibrary.org/obo/UBERON_6001650": "FBC:SPR",
@@ -8866,7 +8871,6 @@
             "http://purl.obolibrary.org/obo/UBERON_6001755": "FBC:auto_generated_definition",
             "http://purl.obolibrary.org/obo/UBERON_6001756": "FBC:auto_generated_definition",
             "http://purl.obolibrary.org/obo/UBERON_6001760": "FBC:SPR",
-            "http://purl.obolibrary.org/obo/UBERON_6001789": "FBC:gg",
             "http://purl.obolibrary.org/obo/UBERON_6001790": "FBC:gg",
             "http://purl.obolibrary.org/obo/UBERON_6001919": "FBC:SPR",
             "http://purl.obolibrary.org/obo/UBERON_6001920": "FBC:SPR",
@@ -8884,6 +8888,7 @@
             "http://purl.obolibrary.org/obo/UBERON_6003024": "FBC:auto_generated_definition",
             "http://purl.obolibrary.org/obo/UBERON_6003623": "FBC:SPR",
             "http://purl.obolibrary.org/obo/UBERON_6003624": "FBC:SPR",
+            "http://purl.obolibrary.org/obo/UBERON_6004203": "FBC:VH",
             "http://purl.obolibrary.org/obo/UBERON_6004340": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6004475": "FBC:gg",
             "http://purl.obolibrary.org/obo/UBERON_6004521": "FBC:gg",
@@ -8892,7 +8897,10 @@
             "http://purl.obolibrary.org/obo/UBERON_6004668": "FBC:MMC",
             "http://purl.obolibrary.org/obo/UBERON_6004979": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6005378": "FBC:gg",
+            "http://purl.obolibrary.org/obo/UBERON_6005439": "FBC:VH",
+            "http://purl.obolibrary.org/obo/UBERON_6005467": "FBC:VH",
             "http://purl.obolibrary.org/obo/UBERON_6005569": "FBC:DOS",
+            "http://purl.obolibrary.org/obo/UBERON_6005830": "FBC:VH",
             "http://purl.obolibrary.org/obo/UBERON_6006032": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6007045": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6007116": "FBC:DOS",
@@ -8910,6 +8918,12 @@
             "http://purl.obolibrary.org/obo/UBERON_6007331": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6007373": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6007424": "FBC:DOS",
+            "http://purl.obolibrary.org/obo/UBERON_6016022": "FBC:VH",
+            "http://purl.obolibrary.org/obo/UBERON_6017021": "FBC:VH",
+            "http://purl.obolibrary.org/obo/UBERON_6025991": "FBC:DOS",
+            "http://purl.obolibrary.org/obo/UBERON_6025993": "FBC:DOS",
+            "http://purl.obolibrary.org/obo/UBERON_6026000": "FBC:DOS",
+            "http://purl.obolibrary.org/obo/UBERON_6026002": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6040003": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6041000": "FBC:KI",
             "http://purl.obolibrary.org/obo/UBERON_6100153": "FBC:DOS"
@@ -11577,6 +11591,8 @@
             "http://purl.obolibrary.org/obo/UBERON_0018344": "PHENOSCAPE:alex",
             "http://purl.obolibrary.org/obo/UBERON_0018345": "PHENOSCAPE:curators",
             "http://purl.obolibrary.org/obo/UBERON_0018346": "PHENOSCAPE:alex",
+            "http://purl.obolibrary.org/obo/UBERON_0018347": "PHENOSCAPE:alex",
+            "http://purl.obolibrary.org/obo/UBERON_0018348": "PHENOSCAPE:alex",
             "http://purl.obolibrary.org/obo/UBERON_0018349": "PHENOSCAPE:Wasila",
             "http://purl.obolibrary.org/obo/UBERON_0018351": "PHENOSCAPE:Alex",
             "http://purl.obolibrary.org/obo/UBERON_0018352": "PHENOSCAPE:Wasila",
@@ -11584,6 +11600,7 @@
             "http://purl.obolibrary.org/obo/UBERON_0018354": "PHENOSCAPE:Alex",
             "http://purl.obolibrary.org/obo/UBERON_0018355": "PHENOSCAPE:Alex",
             "http://purl.obolibrary.org/obo/UBERON_0018356": "PHENOSCAPE:Alex",
+            "http://purl.obolibrary.org/obo/UBERON_0018357": "PHENOSCAPE:Wasila",
             "http://purl.obolibrary.org/obo/UBERON_0018358": "PHENOSCAPE:Alex",
             "http://purl.obolibrary.org/obo/UBERON_0018359": "PHENOSCAPE:Alex",
             "http://purl.obolibrary.org/obo/UBERON_0018360": "PHENOSCAPE:Nizar",
@@ -16118,9 +16135,6 @@
           "http://purl.obolibrary.org/obo/UBERON_0035015": [
             "NIFSTD:oen_0001107"
           ],
-          "http://purl.obolibrary.org/obo/UBERON_0035017": [
-            "MESH:A08.800.550.700.650"
-          ],
           "http://purl.obolibrary.org/obo/UBERON_0035018": [
             "MESH:A08.800.550.700.840"
           ],
@@ -18356,8 +18370,8 @@
           }
         }
       },
-      "version": "2023-04-19",
-      "version_iri": "http://purl.obolibrary.org/obo/uberon/releases/2023-04-19/uberon.owl",
+      "version": "2023-09-05",
+      "version_iri": "http://purl.obolibrary.org/obo/uberon/releases/2023-09-05/uberon.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/UBERON_0000104": [

@@ -2,8 +2,16 @@
 
 This page summarize the different resources that reference `orcid`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`. Of the 2 resources,
+`^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`. Of the 3 resources,
 2 variants on the standard prefix were found: ['ORCID', 'ORCiD'].
+
+## `fovt`: FuTRES Ontology of Vertebrate Traits
+
+Identifiers for this prefix are given incorrectly in `fovt`. See the [GitHub repository](https://github.com/futres/fovt).
+
+| external_xref                |   usages_count | usages                                                      |
+|------------------------------|----------------|-------------------------------------------------------------|
+| `ORCID: 0000-0003-2699-3066` |              1 | [FOVT:0001158](http://purl.obolibrary.org/obo/FOVT_0001158) |
 
 ## `mp`: Mammalian Phenotype Ontology
 

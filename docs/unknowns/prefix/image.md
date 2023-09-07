@@ -1,6 +1,6 @@
 # `image`
 
-## nif
+## pato
 
 | curie                                                                                                |   usages | nodes                                                       |
 |------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------|
@@ -13,7 +13,7 @@
 | Image:http://www.thefreedictionary.com/_/viewer.aspx?path=hm&name=A4bicovx                           |        1 | [PATO:0002040](http://purl.obolibrary.org/obo/PATO_0002040) |
 | Image:http://2.bp.blogspot.com/_TbkIC-eqFNM/S66IJ3omNWI/AAAAAAAAFSk/pzThLJPvYZw/s1600/ard-detail.gif |        1 | [PATO:0002534](http://purl.obolibrary.org/obo/PATO_0002534) |
 
-## pato
+## nif
 
 | curie                                                                                                |   usages | nodes                                                       |
 |------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------|

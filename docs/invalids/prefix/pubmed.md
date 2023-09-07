@@ -2,8 +2,8 @@
 
 This page summarize the different resources that reference `pubmed`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 21 resources,
-4 variants on the standard prefix were found: ['Medline', 'PMID', 'PubMed', 'Pubmed'].
+`^\d+$`. Of the 17 resources,
+3 variants on the standard prefix were found: ['Medline', 'PMID', 'PubMed'].
 
 ## `bto`: BRENDA Tissue Ontology
 
@@ -62,33 +62,14 @@ Identifiers for this prefix are given incorrectly in `enm`.
 | `PMID: 31636452`  |              1 | [EFO:0010605](http://www.ebi.ac.uk/efo/EFO_0010605) |
 | `PMID: 32355309`  |              1 | [EFO:0010749](http://www.ebi.ac.uk/efo/EFO_0010749) |
 
-## `fypo`: Fission Yeast Phenotype Ontology
-
-Identifiers for this prefix are given incorrectly in `fypo`. See the [GitHub repository](https://github.com/pombase/fypo).
-
-| external_xref   |   usages_count | usages                                                      |
-|-----------------|----------------|-------------------------------------------------------------|
-| `PMID:34805795
-PomBase:val`                 |              1 | [FYPO:0007907](http://purl.obolibrary.org/obo/FYPO_0007907) |
-| `PMID::8247131` |              1 | [FYPO:0001686](http://purl.obolibrary.org/obo/FYPO_0001686) |
-
 ## `hp`: Human Phenotype Ontology
 
 Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repository](https://github.com/obophenotype/human-phenotype-ontology).
 
-| external_xref                               |   usages_count | usages                                                                                                           |
-|---------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------|
-| `PMID:probinson`                            |              2 | [HP:0009659](http://purl.obolibrary.org/obo/HP_0009659), [HP:0030789](http://purl.obolibrary.org/obo/HP_0030789) |
-| `PMID:14645606|PMID:14647932|PMID:31669363` |              1 | [HP:0010780](http://purl.obolibrary.org/obo/HP_0010780)                                                          |
-| `PMID:30085516rdfs:comment`                 |              1 | [HP:0033585](http://purl.obolibrary.org/obo/HP_0033585)                                                          |
-
-## `idoden`: Dengue Fever Ontology
-
-Identifiers for this prefix are given incorrectly in `idoden`.
-
-| external_xref                                                |   usages_count | usages                                                        |
-|--------------------------------------------------------------|----------------|---------------------------------------------------------------|
-| `PMID:16925478 "Li et al. (2007), Ann Rev Entomol, 52: 231"` |              1 | [MIRO:00000015](http://purl.obolibrary.org/obo/MIRO_00000015) |
+| external_xref               |   usages_count | usages                                                                                                           |
+|-----------------------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `PMID:probinson`            |              2 | [HP:0009659](http://purl.obolibrary.org/obo/HP_0009659), [HP:0030789](http://purl.obolibrary.org/obo/HP_0030789) |
+| `PMID:30085516rdfs:comment` |              1 | [HP:0033585](http://purl.obolibrary.org/obo/HP_0033585)                                                          |
 
 ## `mi`: Molecular Interactions Controlled Vocabulary
 
@@ -99,14 +80,6 @@ Identifiers for this prefix are given incorrectly in `mi`. See the [GitHub repos
 | `PMID::17072308`   |              1 | [MI:0813](http://purl.obolibrary.org/obo/MI_0813) |
 | `PMID:ID:11604014` |              1 | [MI:1075](http://purl.obolibrary.org/obo/MI_1075) |
 | `PMID:13846364.`   |              1 | [MI:1197](http://purl.obolibrary.org/obo/MI_1197) |
-
-## `mmo`: Measurement method ontology
-
-Identifiers for this prefix are given incorrectly in `mmo`. See the [GitHub repository](https://github.com/rat-genome-database/MMO-Measurement-Method-Ontology).
-
-| external_xref       |   usages_count | usages                                                    |
-|---------------------|----------------|-----------------------------------------------------------|
-| `PMID:PMID:3411196` |              1 | [MMO:0000695](http://purl.obolibrary.org/obo/MMO_0000695) |
 
 ## `mod`: Protein modification
 
@@ -179,24 +152,20 @@ Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repos
 
 | external_xref                                                                 |   usages_count | usages                                                                                                           |
 |-------------------------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------|
-| `PubMed:2003, v. 285, f1-f8.`                                                 |              2 | [PW:0000182](http://purl.obolibrary.org/obo/PW_0000182), [PW:0000183](http://purl.obolibrary.org/obo/PW_0000183) |
-| `PubMed:http://www.ncbi.nlm.nih.gov/sites/entrez`                             |              2 | [PW:0000573](http://purl.obolibrary.org/obo/PW_0000573), [PW:0000574](http://purl.obolibrary.org/obo/PW_0000574) |
-| `PubMed:2001, v.27, 171-179.`                                                 |              1 | [PW:0000144](http://purl.obolibrary.org/obo/PW_0000144)                                                          |
-| `PubMed:Neuron, 2004, v42, p897-912; Cellular Signaling, 2004, v16, p127-36.` |              1 | [PW:0000169](http://purl.obolibrary.org/obo/PW_0000169)                                                          |
-| `PubMed:2004, v. 17, 38047`                                                   |              1 | [PW:0000174](http://purl.obolibrary.org/obo/PW_0000174)                                                          |
-| `PubMed:2004, v.17, 38-47.`                                                   |              1 | [PW:0000175](http://purl.obolibrary.org/obo/PW_0000175)                                                          |
-| `PubMed:2004, v.29(1), 32-38.`                                                |              1 | [PW:0000179](http://purl.obolibrary.org/obo/PW_0000179)                                                          |
-| `PubMed:TIBS, 2004, v. 29(1), 32-38.`                                         |              1 | [PW:0000180](http://purl.obolibrary.org/obo/PW_0000180)                                                          |
-| `PubMed:Several articles in PubMed`                                           |              1 | [PW:0000204](http://purl.obolibrary.org/obo/PW_0000204)                                                          |
-| `PubMed:TIBS, 2004, v29 (5), p265-273`                                        |              1 | [PW:0000206](http://purl.obolibrary.org/obo/PW_0000206)                                                          |
-| `PubMed:Science, 2002, v296, p1564-7`                                         |              1 | [PW:0000210](http://purl.obolibrary.org/obo/PW_0000210)                                                          |
-| `PubMed:Nature Reviews, Mol. Cell Biology, 2001, v2, p369-77.`                |              1 | [PW:0000231](http://purl.obolibrary.org/obo/PW_0000231)                                                          |
-| `PubMed:Annu. Rev. Neursci. 2003, v26, 701-28.`                               |              1 | [PW:0000274](http://purl.obolibrary.org/obo/PW_0000274)                                                          |
+| `PubMed:2003,_v._285,_f1-f8.`                                                 |              2 | [PW:0000182](http://purl.obolibrary.org/obo/PW_0000182), [PW:0000183](http://purl.obolibrary.org/obo/PW_0000183) |
+| `PubMed:2001,_v.27,_171-179.`                                                 |              1 | [PW:0000144](http://purl.obolibrary.org/obo/PW_0000144)                                                          |
+| `PubMed:Neuron,_2004,_v42,_p897-912;_Cellular_Signaling,_2004,_v16,_p127-36.` |              1 | [PW:0000169](http://purl.obolibrary.org/obo/PW_0000169)                                                          |
+| `PubMed:2004,_v._17,_38047`                                                   |              1 | [PW:0000174](http://purl.obolibrary.org/obo/PW_0000174)                                                          |
+| `PubMed:2004,_v.17,_38-47.`                                                   |              1 | [PW:0000175](http://purl.obolibrary.org/obo/PW_0000175)                                                          |
+| `PubMed:2004,_v.29(1),_32-38.`                                                |              1 | [PW:0000179](http://purl.obolibrary.org/obo/PW_0000179)                                                          |
+| `PubMed:TIBS,_2004,_v._29(1),_32-38.`                                         |              1 | [PW:0000180](http://purl.obolibrary.org/obo/PW_0000180)                                                          |
+| `PubMed:Several_articles_in_PubMed`                                           |              1 | [PW:0000204](http://purl.obolibrary.org/obo/PW_0000204)                                                          |
+| `PubMed:TIBS,_2004,_v29_(5),_p265-273`                                        |              1 | [PW:0000206](http://purl.obolibrary.org/obo/PW_0000206)                                                          |
+| `PubMed:Science,_2002,_v296,_p1564-7`                                         |              1 | [PW:0000210](http://purl.obolibrary.org/obo/PW_0000210)                                                          |
+| `PubMed:Nature_Reviews,_Mol._Cell_Biology,_2001,_v2,_p369-77.`                |              1 | [PW:0000231](http://purl.obolibrary.org/obo/PW_0000231)                                                          |
+| `PubMed:Annu._Rev._Neursci._2003,_v26,_701-28.`                               |              1 | [PW:0000274](http://purl.obolibrary.org/obo/PW_0000274)                                                          |
 | `PMID:9212076;`                                                               |              1 | [PW:0000414](http://purl.obolibrary.org/obo/PW_0000414)                                                          |
-| `Pubmed:http://www.ncbi.nlm.nih.gov/`                                         |              1 | [PW:0000575](http://purl.obolibrary.org/obo/PW_0000575)                                                          |
-| `PubMed:Several articles`                                                     |              1 | [PW:0000668](http://purl.obolibrary.org/obo/PW_0000668)                                                          |
-| `PMID:1 7976918`                                                              |              1 | [PW:0001062](http://purl.obolibrary.org/obo/PW_0001062)                                                          |
-| `PMID:22594892:`                                                              |              1 | [PW:0001121](http://purl.obolibrary.org/obo/PW_0001121)                                                          |
+| `PubMed:Several_articles`                                                     |              1 | [PW:0000668](http://purl.obolibrary.org/obo/PW_0000668)                                                          |
 
 ## `so`: Sequence types and features ontology
 
@@ -255,15 +224,4 @@ Identifiers for this prefix are given incorrectly in `vt`. See the [GitHub repos
 | external_xref        |   usages_count | usages                                                  |
 |----------------------|----------------|---------------------------------------------------------|
 | `PMID:0-87893-258-5` |              1 | [VT:0003359](http://purl.obolibrary.org/obo/VT_0003359) |
-
-## `xco`: Experimental condition ontology
-
-Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
-
-| external_xref        |   usages_count | usages                                                    |
-|----------------------|----------------|-----------------------------------------------------------|
-| `PMID:PMID:25312437` |              1 | [XCO:0000587](http://purl.obolibrary.org/obo/XCO_0000587) |
-| `PMID:PMID: 7609754` |              1 | [XCO:0000612](http://purl.obolibrary.org/obo/XCO_0000612) |
-| `PMID:PMID:15894899` |              1 | [XCO:0000635](http://purl.obolibrary.org/obo/XCO_0000635) |
-| `PMID:PMID:27671317` |              1 | [XCO:0000639](http://purl.obolibrary.org/obo/XCO_0000639) |
 

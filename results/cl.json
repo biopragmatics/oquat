@@ -1,6 +1,8 @@
 {
-  "created": "2023-05-21T00:47:03.887866",
-  "messages": [],
+  "created": "2023-09-07T12:31:49.889109",
+  "messages": [
+    "[cl] could not parse OWL from http://purl.obolibrary.org/obo/cl.owl"
+  ],
   "results": {
     "http://purl.obolibrary.org/obo/cl.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/cl.owl",
@@ -33,17 +35,11 @@
           "http://purl.obolibrary.org/obo/CL_0000119": [
             "NIFSTD:sao1415726815"
           ],
-          "http://purl.obolibrary.org/obo/CL_0000132": [
-            "MESH:A09.371.060.067.31"
-          ],
           "http://purl.obolibrary.org/obo/CL_0000134": [
             "FB:ma"
           ],
           "http://purl.obolibrary.org/obo/CL_0000144": [
             "FB:ma"
-          ],
-          "http://purl.obolibrary.org/obo/CL_0000158": [
-            "DOI:https://doi.org/10.1378/chest.12-2762"
           ],
           "http://purl.obolibrary.org/obo/CL_0000181": [
             "FB:ma"
@@ -74,9 +70,6 @@
           ],
           "http://purl.obolibrary.org/obo/CL_0000325": [
             "FB:ma"
-          ],
-          "http://purl.obolibrary.org/obo/CL_0000333": [
-            "MESH:A16.254.600"
           ],
           "http://purl.obolibrary.org/obo/CL_0000362": [
             "Flybase:dsj",
@@ -148,24 +141,12 @@
           "http://purl.obolibrary.org/obo/CL_0000511": [
             "GO:tfm"
           ],
-          "http://purl.obolibrary.org/obo/CL_0000547": [
-            "MESH:A11.118.290.350.200"
-          ],
           "http://purl.obolibrary.org/obo/CL_0000565": [
             "FB:ma"
-          ],
-          "http://purl.obolibrary.org/obo/CL_0000568": [
-            "MESH:A11.070"
-          ],
-          "http://purl.obolibrary.org/obo/CL_0000577": [
-            "MESH:A03.492.766.440.250"
           ],
           "http://purl.obolibrary.org/obo/CL_0000578": [
             "FB:ma",
             "ReO:mhb"
-          ],
-          "http://purl.obolibrary.org/obo/CL_0000588": [
-            "MESH:A11.329.679"
           ],
           "http://purl.obolibrary.org/obo/CL_0000596": [
             "SGD:clt"
@@ -1804,7 +1785,6 @@
             "http://purl.obolibrary.org/obo/CL_0002606": "GOC:tfm",
             "http://purl.obolibrary.org/obo/CL_0002607": "GOC:tfm",
             "http://purl.obolibrary.org/obo/CL_0002608": "GOC:tfm",
-            "http://purl.obolibrary.org/obo/CL_0002609": "GOC:tfm",
             "http://purl.obolibrary.org/obo/CL_0002610": "GOC:tfm",
             "http://purl.obolibrary.org/obo/CL_0002611": "GOC:tfm",
             "http://purl.obolibrary.org/obo/CL_0002612": "GOC:tfm",
@@ -2406,8 +2386,8 @@
           }
         }
       },
-      "version": "2023-04-20",
-      "version_iri": "http://purl.obolibrary.org/obo/cl/releases/2023-04-20/cl.owl",
+      "version": "2023-08-24",
+      "version_iri": "http://purl.obolibrary.org/obo/cl/releases/2023-08-24/cl.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/CL_0000015": [

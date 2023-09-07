@@ -1,7 +1,31 @@
 {
-  "created": "2023-05-21T01:53:34.062366",
-  "messages": [
-    "could not parse OBO for sweetrealm from https://github.com/EnvironmentOntology/envo/blob/master/src/envo/sources/sweetrealm.obo"
-  ],
-  "results": {}
+  "created": "2023-09-07T13:27:36.931946",
+  "messages": [],
+  "results": {
+    "http://sweet.jpl.nasa.gov/2.3/realm.owl": {
+      "graph_id": "http://sweet.jpl.nasa.gov/2.3/realm.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2.3",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
+    }
+  }
 }

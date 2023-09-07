@@ -1,5 +1,16 @@
 # `spire`
 
+## salmon
+
+| curie              |   usages | nodes                                                                                                                        |
+|--------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
+| SPIRE:Lake_or_pond |        2 | [ENVO:00000020](http://purl.obolibrary.org/obo/ENVO_00000020), [ENVO:00000033](http://purl.obolibrary.org/obo/ENVO_00000033) |
+| SPIRE:Oceanic_vent |        1 | [ENVO:00000218](http://purl.obolibrary.org/obo/ENVO_00000218)                                                                |
+| SPIRE:River        |        1 | [ENVO:00000022](http://purl.obolibrary.org/obo/ENVO_00000022)                                                                |
+| SPIRE:Reef         |        1 | [ENVO:00000130](http://purl.obolibrary.org/obo/ENVO_00000130)                                                                |
+| SPIRE:Abyssal      |        1 | [ENVO:00000244](http://purl.obolibrary.org/obo/ENVO_00000244)                                                                |
+| SPIRE:Littoral     |        1 | [ENVO:00000303](http://purl.obolibrary.org/obo/ENVO_00000303)                                                                |
+
 ## enm
 
 | curie                       |   usages | nodes                                                                                                                        |

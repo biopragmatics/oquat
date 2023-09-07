@@ -1,7 +1,7 @@
 {
-  "created": "2023-05-21T01:27:51.339795",
+  "created": "2023-09-07T13:21:37.401012",
   "messages": [
-    "ERROR Input ontology contains 15 triple(s) that could not be parsed:",
+    "2023-09-07 13:21:37,324 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 15 triple(s) that could not be parsed:",
     " - <http://purl.org/pav/createdBy> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://swan.mindinformatics.org/ontologies/1.2/pav/createdBy>.",
     " - <http://purl.org/pav/authoredBy> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://swan.mindinformatics.org/ontologies/1.2/pav/authoredBy>.",
     " - <http://purl.org/pav/lastUpdateOn> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://swan.mindinformatics.org/ontologies/1.2/pav/lastUpdateOn>.",

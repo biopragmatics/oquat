@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `sgd`
 but use local unique identifiers that do not match the standard pattern of
-`^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`. Of the 7 resources,
+`^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?))$`. Of the 6 resources,
 1 variants on the standard prefix were found: ['SGD'].
 
 ## `apo`: Ascomycete phenotype ontology
@@ -32,14 +32,6 @@ Identifiers for this prefix are given incorrectly in `fao`. See the [GitHub repo
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `SGD:clt`       |             33 | [FAO:0000002](http://purl.obolibrary.org/obo/FAO_0000002), [FAO:0000006](http://purl.obolibrary.org/obo/FAO_0000006), [FAO:0000007](http://purl.obolibrary.org/obo/FAO_0000007), [FAO:0000014](http://purl.obolibrary.org/obo/FAO_0000014), [FAO:0000017](http://purl.obolibrary.org/obo/FAO_0000017), ... |
-
-## `fypo`: Fission Yeast Phenotype Ontology
-
-Identifiers for this prefix are given incorrectly in `fypo`. See the [GitHub repository](https://github.com/pombase/fypo).
-
-| external_xref              |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
-|----------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `SGD:phenotype_annotation` |            292 | [FYPO:0000005](http://purl.obolibrary.org/obo/FYPO_0000005), [FYPO:0000008](http://purl.obolibrary.org/obo/FYPO_0000008), [FYPO:0000011](http://purl.obolibrary.org/obo/FYPO_0000011), [FYPO:0000012](http://purl.obolibrary.org/obo/FYPO_0000012), [FYPO:0000023](http://purl.obolibrary.org/obo/FYPO_0000023), ... |
 
 ## `nif`: None
 

@@ -1,8 +1,8 @@
 {
-  "created": "2023-05-21T01:52:53.093162",
+  "created": "2023-09-07T13:27:09.651388",
   "messages": [
-    "could not parse OWL for scdo from http://purl.obolibrary.org/obo/scdo.owl",
-    "could not parse OBO for scdo from http://purl.obolibrary.org/obo/scdo.obo"
+    "[scdo] could not parse OWL from http://purl.obolibrary.org/obo/scdo.owl",
+    "[scdo] could not parse OBO from http://purl.obolibrary.org/obo/scdo.obo"
   ],
   "results": {}
 }

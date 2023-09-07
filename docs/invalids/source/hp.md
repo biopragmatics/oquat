@@ -62,16 +62,15 @@ did not match the standard pattern `^\d+$`.
 
 ## `PMID`: PubMed
 
-Overall, there were 4 invalid
+Overall, there were 3 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
 prefix [`pubmed`](https://bioregistry.io/pubmed)) that
 did not match the standard pattern `^\d+$`.
 
-| external_xref                               |   usages_count | usages                                                                                                           |
-|---------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------|
-| `PMID:probinson`                            |              2 | [HP:0009659](http://purl.obolibrary.org/obo/HP_0009659), [HP:0030789](http://purl.obolibrary.org/obo/HP_0030789) |
-| `PMID:14645606|PMID:14647932|PMID:31669363` |              1 | [HP:0010780](http://purl.obolibrary.org/obo/HP_0010780)                                                          |
-| `PMID:30085516rdfs:comment`                 |              1 | [HP:0033585](http://purl.obolibrary.org/obo/HP_0033585)                                                          |
+| external_xref               |   usages_count | usages                                                                                                           |
+|-----------------------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `PMID:probinson`            |              2 | [HP:0009659](http://purl.obolibrary.org/obo/HP_0009659), [HP:0030789](http://purl.obolibrary.org/obo/HP_0030789) |
+| `PMID:30085516rdfs:comment` |              1 | [HP:0033585](http://purl.obolibrary.org/obo/HP_0033585)                                                          |
 
 ## `UMLS`: Unified Medical Language System Concept Unique Identifier
 

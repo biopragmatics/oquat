@@ -8,17 +8,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie                  |   usages | nodes                                                   |
 |------------------------|----------|---------------------------------------------------------|
-| Book:QV 600 C335t 2001 |        1 | [PW:0000375](http://purl.obolibrary.org/obo/PW_0000375) |
-
-## `Casrdb`
-
-There are 1 usages of `Casrdb` in `pw`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Casrdb).
-
-| curie                              |   usages | nodes                                                   |
-|------------------------------------|----------|---------------------------------------------------------|
-| Casrdb:http://www.cardb.mcgill.ca/ |        1 | [PW:0001168](http://purl.obolibrary.org/obo/PW_0001168) |
+| Book:QV_600_C335t_2001 |        1 | [PW:0000375](http://purl.obolibrary.org/obo/PW_0000375) |
 
 ## `Cell`
 
@@ -28,7 +18,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie            |   usages | nodes                                                   |
 |------------------|----------|---------------------------------------------------------|
-| Cell:new article |        1 | [PW:0000811](http://purl.obolibrary.org/obo/PW_0000811) |
+| Cell:new_article |        1 | [PW:0000811](http://purl.obolibrary.org/obo/PW_0000811) |
 
 ## `Dorland's`
 
@@ -48,9 +38,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie                             |   usages | nodes                                                                                                            |
 |-----------------------------------|----------|------------------------------------------------------------------------------------------------------------------|
-| Handbook:Essential Cell Biology   |        2 | [PW:0000086](http://purl.obolibrary.org/obo/PW_0000086), [PW:0001317](http://purl.obolibrary.org/obo/PW_0001317) |
-| Handbook:Handbook of Biochemistry |        1 | [PW:0000085](http://purl.obolibrary.org/obo/PW_0000085)                                                          |
-| Handbook:Essential cell Biology   |        1 | [PW:0001318](http://purl.obolibrary.org/obo/PW_0001318)                                                          |
+| Handbook:Essential_Cell_Biology   |        2 | [PW:0000086](http://purl.obolibrary.org/obo/PW_0000086), [PW:0001317](http://purl.obolibrary.org/obo/PW_0001317) |
+| Handbook:Handbook_of_Biochemistry |        1 | [PW:0000085](http://purl.obolibrary.org/obo/PW_0000085)                                                          |
+| Handbook:Essential_cell_Biology   |        1 | [PW:0001318](http://purl.obolibrary.org/obo/PW_0001318)                                                          |
 
 ## `InHouse`
 
@@ -60,13 +50,33 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie                          |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |--------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| InHouse:PW dictionary          |       27 | [PW:0000055](http://purl.obolibrary.org/obo/PW_0000055), [PW:0000095](http://purl.obolibrary.org/obo/PW_0000095), [PW:0000096](http://purl.obolibrary.org/obo/PW_0000096), [PW:0000097](http://purl.obolibrary.org/obo/PW_0000097), [PW:0000168](http://purl.obolibrary.org/obo/PW_0000168), ... |
-| InHouse:InHouse PW dictionary  |       10 | [PW:0000013](http://purl.obolibrary.org/obo/PW_0000013), [PW:0000015](http://purl.obolibrary.org/obo/PW_0000015), [PW:0000020](http://purl.obolibrary.org/obo/PW_0000020), [PW:0000161](http://purl.obolibrary.org/obo/PW_0000161), [PW:0000181](http://purl.obolibrary.org/obo/PW_0000181), ... |
-| InHouse:PW InHouse dictionary  |        6 | [PW:0000132](http://purl.obolibrary.org/obo/PW_0000132), [PW:0000165](http://purl.obolibrary.org/obo/PW_0000165), [PW:0000367](http://purl.obolibrary.org/obo/PW_0000367), [PW:0000402](http://purl.obolibrary.org/obo/PW_0000402), [PW:0000403](http://purl.obolibrary.org/obo/PW_0000403), ... |
-| InHouse:In House PW dictionary |        2 | [PW:0000016](http://purl.obolibrary.org/obo/PW_0000016), [PW:0000352](http://purl.obolibrary.org/obo/PW_0000352)                                                                                                                                                                                 |
+| InHouse:PW_dictionary          |       27 | [PW:0000055](http://purl.obolibrary.org/obo/PW_0000055), [PW:0000095](http://purl.obolibrary.org/obo/PW_0000095), [PW:0000096](http://purl.obolibrary.org/obo/PW_0000096), [PW:0000097](http://purl.obolibrary.org/obo/PW_0000097), [PW:0000168](http://purl.obolibrary.org/obo/PW_0000168), ... |
+| InHouse:InHouse_PW_dictionary  |       10 | [PW:0000013](http://purl.obolibrary.org/obo/PW_0000013), [PW:0000015](http://purl.obolibrary.org/obo/PW_0000015), [PW:0000020](http://purl.obolibrary.org/obo/PW_0000020), [PW:0000161](http://purl.obolibrary.org/obo/PW_0000161), [PW:0000181](http://purl.obolibrary.org/obo/PW_0000181), ... |
+| InHouse:PW_InHouse_dictionary  |        6 | [PW:0000132](http://purl.obolibrary.org/obo/PW_0000132), [PW:0000165](http://purl.obolibrary.org/obo/PW_0000165), [PW:0000367](http://purl.obolibrary.org/obo/PW_0000367), [PW:0000402](http://purl.obolibrary.org/obo/PW_0000402), [PW:0000403](http://purl.obolibrary.org/obo/PW_0000403), ... |
+| InHouse:In_House_PW_dictionary |        2 | [PW:0000016](http://purl.obolibrary.org/obo/PW_0000016), [PW:0000352](http://purl.obolibrary.org/obo/PW_0000352)                                                                                                                                                                                 |
 | InHouse:PW-InHouse             |        2 | [PW:0000589](http://purl.obolibrary.org/obo/PW_0000589), [PW:0000593](http://purl.obolibrary.org/obo/PW_0000593)                                                                                                                                                                                 |
 | InHouse:www.rgd.mcw            |        1 | [PW:0000533](http://purl.obolibrary.org/obo/PW_0000533)                                                                                                                                                                                                                                          |
 | InHouse:PW                     |        1 | [PW:0000691](http://purl.obolibrary.org/obo/PW_0000691)                                                                                                                                                                                                                                          |
+
+## `InHouse_PW`
+
+There are 1 usages of `InHouse_PW` in `pw`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20InHouse_PW).
+
+| curie                 |   usages | nodes                                                   |
+|-----------------------|----------|---------------------------------------------------------|
+| InHouse_PW:InHouse_PW |        1 | [PW:0000551](http://purl.obolibrary.org/obo/PW_0000551) |
+
+## `InHouse_dictionary`
+
+There are 1 usages of `InHouse_dictionary` in `pw`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20InHouse_dictionary).
+
+| curie                                    |   usages | nodes                                                   |
+|------------------------------------------|----------|---------------------------------------------------------|
+| InHouse_dictionary:PW_InHouse_dictionary |        1 | [PW:0000374](http://purl.obolibrary.org/obo/PW_0000374) |
 
 ## `InPress`
 
@@ -78,16 +88,25 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |--------------------|----------|---------------------------------------------------------|
 | InPress:Manuscript |        1 | [PW:0000177](http://purl.obolibrary.org/obo/PW_0000177) |
 
+## `In_House`
+
+There are 1 usages of `In_House` in `pw`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20In_House).
+
+| curie                           |   usages | nodes                                                   |
+|---------------------------------|----------|---------------------------------------------------------|
+| In_House:PW_In_House_dictionary |        1 | [PW:0000484](http://purl.obolibrary.org/obo/PW_0000484) |
+
 ## `Internet`
 
-There are 2 usages of `Internet` in `pw`.
+There are 1 usages of `Internet` in `pw`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Internet).
 
-| curie                                                    |   usages | nodes                                                   |
-|----------------------------------------------------------|----------|---------------------------------------------------------|
-| Internet:http://linux1.nii.res.in/~pksdb/polyketide.html |        1 | [PW:0000256](http://purl.obolibrary.org/obo/PW_0000256) |
-| Internet:Google                                          |        1 | [PW:0000259](http://purl.obolibrary.org/obo/PW_0000259) |
+| curie           |   usages | nodes                                                   |
+|-----------------|----------|---------------------------------------------------------|
+| Internet:Google |        1 | [PW:0000259](http://purl.obolibrary.org/obo/PW_0000259) |
 
 ## `MCW`
 
@@ -97,36 +116,113 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie                                             |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |---------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MCW:Handbook on cellular and molecular immunology |        6 | [PW:0000487](http://purl.obolibrary.org/obo/PW_0000487), [PW:0000826](http://purl.obolibrary.org/obo/PW_0000826), [PW:0000827](http://purl.obolibrary.org/obo/PW_0000827), [PW:0000830](http://purl.obolibrary.org/obo/PW_0000830), [PW:0000832](http://purl.obolibrary.org/obo/PW_0000832), ... |
-| MCW:Handbook on cellular nad molecular immunology |        1 | [PW:0000486](http://purl.obolibrary.org/obo/PW_0000486)                                                                                                                                                                                                                                          |
-| MCW:Handbook on cellular and molecular biology    |        1 | [PW:0000831](http://purl.obolibrary.org/obo/PW_0000831)                                                                                                                                                                                                                                          |
+| MCW:Handbook_on_cellular_and_molecular_immunology |        6 | [PW:0000487](http://purl.obolibrary.org/obo/PW_0000487), [PW:0000826](http://purl.obolibrary.org/obo/PW_0000826), [PW:0000827](http://purl.obolibrary.org/obo/PW_0000827), [PW:0000830](http://purl.obolibrary.org/obo/PW_0000830), [PW:0000832](http://purl.obolibrary.org/obo/PW_0000832), ... |
+| MCW:Handbook_on_cellular_nad_molecular_immunology |        1 | [PW:0000486](http://purl.obolibrary.org/obo/PW_0000486)                                                                                                                                                                                                                                          |
+| MCW:Handbook_on_cellular_and_molecular_biology    |        1 | [PW:0000831](http://purl.obolibrary.org/obo/PW_0000831)                                                                                                                                                                                                                                          |
+
+## `MCW_-_book`
+
+There are 1 usages of `MCW_-_book` in `pw`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MCW_-_book).
+
+| curie                        |   usages | nodes                                                   |
+|------------------------------|----------|---------------------------------------------------------|
+| MCW_-_book:QV_600_C335t_2001 |        1 | [PW:0000373](http://purl.obolibrary.org/obo/PW_0000373) |
+
+## `MCW_Libraries`
+
+There are 3 usages of `MCW_Libraries` in `pw`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MCW_Libraries).
+
+| curie                                  |   usages | nodes                                                                                                                                                                                                                                                                                            |
+|----------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MCW_Libraries:QU4_V876f_2008           |        5 | [PW:0000069](http://purl.obolibrary.org/obo/PW_0000069), [PW:0000157](http://purl.obolibrary.org/obo/PW_0000157), [PW:0000192](http://purl.obolibrary.org/obo/PW_0000192), [PW:0000776](http://purl.obolibrary.org/obo/PW_0000776), [PW:0000777](http://purl.obolibrary.org/obo/PW_0000777), ... |
+| MCW_Libraries:QU4_V876f                |        1 | [PW:0000194](http://purl.obolibrary.org/obo/PW_0000194)                                                                                                                                                                                                                                          |
+| MCW_Libraries:ISBN-13_978-0470-12930-2 |        1 | [PW:0000685](http://purl.obolibrary.org/obo/PW_0000685)                                                                                                                                                                                                                                          |
+
+## `MCW_book`
+
+There are 1 usages of `MCW_book` in `pw`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MCW_book).
+
+| curie                      |   usages | nodes                                                   |
+|----------------------------|----------|---------------------------------------------------------|
+| MCW_book:QV_600_C335t_2001 |        1 | [PW:0000377](http://purl.obolibrary.org/obo/PW_0000377) |
+
+## `MCW_e-journal`
+
+There are 1 usages of `MCW_e-journal` in `pw`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MCW_e-journal).
+
+| curie                                           |   usages | nodes                                                   |
+|-------------------------------------------------|----------|---------------------------------------------------------|
+| MCW_e-journal:J._Mol._Evolo.2000,_v50,_p397-412 |        1 | [PW:0000170](http://purl.obolibrary.org/obo/PW_0000170) |
+
+## `MCW_libraries`
+
+There are 1 usages of `MCW_libraries` in `pw`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MCW_libraries).
+
+| curie                               |   usages | nodes                                                                                                                                                                     |
+|-------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MCW_libraries:Biochemistry_Handbook |        3 | [PW:0000643](http://purl.obolibrary.org/obo/PW_0000643), [PW:0000644](http://purl.obolibrary.org/obo/PW_0000644), [PW:0000645](http://purl.obolibrary.org/obo/PW_0000645) |
+
+## `MCW_library`
+
+There are 11 usages of `MCW_library` in `pw`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MCW_library).
+
+| curie                                                           |   usages | nodes                                                                                                                                                                                                                                                                                            |
+|-----------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MCW_library:QU4_M235b_2009                                      |       24 | [PW:0000153](http://purl.obolibrary.org/obo/PW_0000153), [PW:0000156](http://purl.obolibrary.org/obo/PW_0000156), [PW:0000197](http://purl.obolibrary.org/obo/PW_0000197), [PW:0000248](http://purl.obolibrary.org/obo/PW_0000248), [PW:0000354](http://purl.obolibrary.org/obo/PW_0000354), ... |
+| MCW_library:Handbook_of_cellular_and_molecular_immunology       |        4 | [PW:0000023](http://purl.obolibrary.org/obo/PW_0000023), [PW:0000209](http://purl.obolibrary.org/obo/PW_0000209), [PW:0000821](http://purl.obolibrary.org/obo/PW_0000821), [PW:0000824](http://purl.obolibrary.org/obo/PW_0000824)                                                               |
+| MCW_library:Cellular_and_molecular_immunology,_by_Abbas,_Abul_K |        4 | [PW:0000024](http://purl.obolibrary.org/obo/PW_0000024), [PW:0000818](http://purl.obolibrary.org/obo/PW_0000818), [PW:0000925](http://purl.obolibrary.org/obo/PW_0000925), [PW:0000926](http://purl.obolibrary.org/obo/PW_0000926)                                                               |
+| MCW_library:Handbook_on_cellular_and_molecular_immunology       |        3 | [PW:0000235](http://purl.obolibrary.org/obo/PW_0000235), [PW:0000822](http://purl.obolibrary.org/obo/PW_0000822), [PW:0000825](http://purl.obolibrary.org/obo/PW_0000825)                                                                                                                        |
+| MCW_library:Handbook_on_molecular_and_cellular_immunology       |        3 | [PW:0000577](http://purl.obolibrary.org/obo/PW_0000577), [PW:0000828](http://purl.obolibrary.org/obo/PW_0000828), [PW:0000829](http://purl.obolibrary.org/obo/PW_0000829)                                                                                                                        |
+| MCW_library:Handbooks_of_biochemistry                           |        3 | [PW:0001074](http://purl.obolibrary.org/obo/PW_0001074), [PW:0001075](http://purl.obolibrary.org/obo/PW_0001075), [PW:0001076](http://purl.obolibrary.org/obo/PW_0001076)                                                                                                                        |
+| MCW_library:QU85_B615_2008                                      |        2 | [PW:0000750](http://purl.obolibrary.org/obo/PW_0000750), [PW:0000751](http://purl.obolibrary.org/obo/PW_0000751)                                                                                                                                                                                 |
+| MCW_library:Handbooks_of_Biochemistry                           |        1 | [PW:0000011](http://purl.obolibrary.org/obo/PW_0000011)                                                                                                                                                                                                                                          |
+| MCW_library:QU4_M235b                                           |        1 | [PW:0000747](http://purl.obolibrary.org/obo/PW_0000747)                                                                                                                                                                                                                                          |
+| MCW_library:QU_85_B615_2008                                     |        1 | [PW:0000752](http://purl.obolibrary.org/obo/PW_0000752)                                                                                                                                                                                                                                          |
+| MCW_library:Textbook_on_cellular_and_molecular_immunology       |        1 | [PW:0000823](http://purl.obolibrary.org/obo/PW_0000823)                                                                                                                                                                                                                                          |
+
+## `MCW_library_book`
+
+There are 1 usages of `MCW_library_book` in `pw`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MCW_library_book).
+
+| curie                                               |   usages | nodes                                                   |
+|-----------------------------------------------------|----------|---------------------------------------------------------|
+| MCW_library_book:Homocysteine_in_Health_and_Disease |        1 | [PW:0000048](http://purl.obolibrary.org/obo/PW_0000048) |
+
+## `NCI;_wikipedia`
+
+There are 1 usages of `NCI;_wikipedia` in `pw`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NCI;_wikipedia).
+
+| curie                         |   usages | nodes                                                   |
+|-------------------------------|----------|---------------------------------------------------------|
+| NCI;_wikipedia:www.cancer.gov |        1 | [PW:0001218](http://purl.obolibrary.org/obo/PW_0001218) |
 
 ## `OneLook`
 
-There are 8 usages of `OneLook` in `pw`.
+There are 3 usages of `OneLook` in `pw`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OneLook).
 
-| curie                           |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|---------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| OneLook:www.onelook.com         |      182 | [PW:0000003](http://purl.obolibrary.org/obo/PW_0000003), [PW:0000004](http://purl.obolibrary.org/obo/PW_0000004), [PW:0000005](http://purl.obolibrary.org/obo/PW_0000005), [PW:0000010](http://purl.obolibrary.org/obo/PW_0000010), [PW:0000019](http://purl.obolibrary.org/obo/PW_0000019), ... |
-| OneLook:http://www.onelook.com  |       51 | [PW:0000083](http://purl.obolibrary.org/obo/PW_0000083), [PW:0000135](http://purl.obolibrary.org/obo/PW_0000135), [PW:0000151](http://purl.obolibrary.org/obo/PW_0000151), [PW:0000412](http://purl.obolibrary.org/obo/PW_0000412), [PW:0000440](http://purl.obolibrary.org/obo/PW_0000440), ... |
-| OneLook:www,onelook.com         |        4 | [PW:0000062](http://purl.obolibrary.org/obo/PW_0000062), [PW:0000443](http://purl.obolibrary.org/obo/PW_0000443), [PW:0000452](http://purl.obolibrary.org/obo/PW_0000452), [PW:0000655](http://purl.obolibrary.org/obo/PW_0000655)                                                               |
-| OneLook:www.oneloook.com        |        3 | [PW:0000045](http://purl.obolibrary.org/obo/PW_0000045), [PW:0000573](http://purl.obolibrary.org/obo/PW_0000573), [PW:0000574](http://purl.obolibrary.org/obo/PW_0000574)                                                                                                                        |
-| OneLook:www.onelook.org         |        2 | [PW:0000296](http://purl.obolibrary.org/obo/PW_0000296), [PW:0000299](http://purl.obolibrary.org/obo/PW_0000299)                                                                                                                                                                                 |
-| OneLook:http://www.onelook.com/ |        1 | [PW:0000002](http://purl.obolibrary.org/obo/PW_0000002)                                                                                                                                                                                                                                          |
-| OneLook:www.onelook..com        |        1 | [PW:0000706](http://purl.obolibrary.org/obo/PW_0000706)                                                                                                                                                                                                                                          |
-| OneLook:http://wwwonelook.com   |        1 | [PW:0001058](http://purl.obolibrary.org/obo/PW_0001058)                                                                                                                                                                                                                                          |
-
-## `OneLoook`
-
-There are 1 usages of `OneLoook` in `pw`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OneLoook).
-
-| curie                           |   usages | nodes                                                   |
-|---------------------------------|----------|---------------------------------------------------------|
-| OneLoook:http://www.onelook.com |        1 | [PW:0001038](http://purl.obolibrary.org/obo/PW_0001038) |
+| curie                    |   usages | nodes                                                                                                                                                                                                                                                                                            |
+|--------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| OneLook:www.onelook.com  |      187 | [PW:0000003](http://purl.obolibrary.org/obo/PW_0000003), [PW:0000004](http://purl.obolibrary.org/obo/PW_0000004), [PW:0000005](http://purl.obolibrary.org/obo/PW_0000005), [PW:0000010](http://purl.obolibrary.org/obo/PW_0000010), [PW:0000019](http://purl.obolibrary.org/obo/PW_0000019), ... |
+| OneLook:www.oneloook.com |        3 | [PW:0000045](http://purl.obolibrary.org/obo/PW_0000045), [PW:0000573](http://purl.obolibrary.org/obo/PW_0000573), [PW:0000574](http://purl.obolibrary.org/obo/PW_0000574)                                                                                                                        |
+| OneLook:www.onelook.org  |        2 | [PW:0000296](http://purl.obolibrary.org/obo/PW_0000296), [PW:0000299](http://purl.obolibrary.org/obo/PW_0000299)                                                                                                                                                                                 |
 
 ## `Onelook`
 
@@ -138,20 +234,18 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |---------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Onelook:www.onelook.com         |        8 | [PW:0000077](http://purl.obolibrary.org/obo/PW_0000077), [PW:0000110](http://purl.obolibrary.org/obo/PW_0000110), [PW:0000279](http://purl.obolibrary.org/obo/PW_0000279), [PW:0000301](http://purl.obolibrary.org/obo/PW_0000301), [PW:0000307](http://purl.obolibrary.org/obo/PW_0000307), ... |
 | Onelook:www.onelook.org         |        1 | [PW:0000302](http://purl.obolibrary.org/obo/PW_0000302)                                                                                                                                                                                                                                          |
-| Onelook:www.onelook.com, PubMed |        1 | [PW:0000570](http://purl.obolibrary.org/obo/PW_0000570)                                                                                                                                                                                                                                          |
+| Onelook:www.onelook.com,_PubMed |        1 | [PW:0000570](http://purl.obolibrary.org/obo/PW_0000570)                                                                                                                                                                                                                                          |
 
 ## `Online`
 
-There are 4 usages of `Online` in `pw`.
+There are 2 usages of `Online` in `pw`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Online).
 
 | curie                                                    |   usages | nodes                                                   |
 |----------------------------------------------------------|----------|---------------------------------------------------------|
-| Online:Various sources                                   |        1 | [PW:0000112](http://purl.obolibrary.org/obo/PW_0000112) |
-| Online:Appl. Env. Microbiology, 2004, v.70(9), p4861-70. |        1 | [PW:0000114](http://purl.obolibrary.org/obo/PW_0000114) |
-| Online:http://umbbd.ahc.umn.edu/benz/benz_map.html       |        1 | [PW:0000115](http://purl.obolibrary.org/obo/PW_0000115) |
-| Online:http://pslc.ws/macrog/starlose.htm                |        1 | [PW:0001391](http://purl.obolibrary.org/obo/PW_0001391) |
+| Online:Various_sources                                   |        1 | [PW:0000112](http://purl.obolibrary.org/obo/PW_0000112) |
+| Online:Appl._Env._Microbiology,_2004,_v.70(9),_p4861-70. |        1 | [PW:0000114](http://purl.obolibrary.org/obo/PW_0000114) |
 
 ## `PMIM`
 
@@ -163,115 +257,60 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |-------------|----------|---------------------------------------------------------|
 | PMIM:266150 |        1 | [PW:0001775](http://purl.obolibrary.org/obo/PW_0001775) |
 
-## `PgarmGKB`
+## `PW_Dictionary`
 
-There are 1 usages of `PgarmGKB` in `pw`.
+There are 2 usages of `PW_Dictionary` in `pw`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PgarmGKB).
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PW_Dictionary).
 
-| curie                                                |   usages | nodes                                                   |
-|------------------------------------------------------|----------|---------------------------------------------------------|
-| PgarmGKB:http://www.pharmgkb.org/pathway/PA165950411 |        1 | [PW:0001426](http://purl.obolibrary.org/obo/PW_0001426) |
+| curie                            |   usages | nodes                                                                                                            |
+|----------------------------------|----------|------------------------------------------------------------------------------------------------------------------|
+| PW_Dictionary:InHouse_Dictionary |        2 | [PW:0000263](http://purl.obolibrary.org/obo/PW_0000263), [PW:0000264](http://purl.obolibrary.org/obo/PW_0000264) |
+| PW_Dictionary:InHouse_dictionary |        1 | [PW:0000262](http://purl.obolibrary.org/obo/PW_0000262)                                                          |
+
+## `PW_dictionary`
+
+There are 4 usages of `PW_dictionary` in `pw`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PW_dictionary).
+
+| curie                               |   usages | nodes                                                                                                                                                                                                                                                                                            |
+|-------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PW_dictionary:InHouse_dictionary    |        7 | [PW:0000038](http://purl.obolibrary.org/obo/PW_0000038), [PW:0000044](http://purl.obolibrary.org/obo/PW_0000044), [PW:0000079](http://purl.obolibrary.org/obo/PW_0000079), [PW:0000080](http://purl.obolibrary.org/obo/PW_0000080), [PW:0000084](http://purl.obolibrary.org/obo/PW_0000084), ... |
+| PW_dictionary:InHouse_PW            |        1 | [PW:0000318](http://purl.obolibrary.org/obo/PW_0000318)                                                                                                                                                                                                                                          |
+| PW_dictionary:InHouse_PW_dictionary |        1 | [PW:0000336](http://purl.obolibrary.org/obo/PW_0000336)                                                                                                                                                                                                                                          |
+| PW_dictionary:PW_InHouse_dictionary |        1 | [PW:0000358](http://purl.obolibrary.org/obo/PW_0000358)                                                                                                                                                                                                                                          |
 
 ## `PharmGKB`
 
-There are 25 usages of `PharmGKB` in `pw`.
+There are 2 usages of `PharmGKB` in `pw`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PharmGKB).
 
-<details>
-<summary>Click to expand the `PharmGKB` table</summary>
-
-| curie                                                                                         |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|-----------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PharmGKB:http://www.pharmgkb.org/                                                             |       15 | [PW:0000723](http://purl.obolibrary.org/obo/PW_0000723), [PW:0000724](http://purl.obolibrary.org/obo/PW_0000724), [PW:0000725](http://purl.obolibrary.org/obo/PW_0000725), [PW:0000726](http://purl.obolibrary.org/obo/PW_0000726), [PW:0000727](http://purl.obolibrary.org/obo/PW_0000727), ... |
-| PharmGKB:http://www.pharmgkb.org                                                              |        4 | [PW:0001095](http://purl.obolibrary.org/obo/PW_0001095), [PW:0001096](http://purl.obolibrary.org/obo/PW_0001096), [PW:0001098](http://purl.obolibrary.org/obo/PW_0001098), [PW:0001100](http://purl.obolibrary.org/obo/PW_0001100)                                                               |
-| PharmGKB:http://www.pharmgkb.org/pathway/PA146123006                                          |        3 | [PW:0001244](http://purl.obolibrary.org/obo/PW_0001244), [PW:0001245](http://purl.obolibrary.org/obo/PW_0001245), [PW:0001246](http://purl.obolibrary.org/obo/PW_0001246)                                                                                                                        |
-| PharmGKB:http://www.pharmgkb.org/pathway/PA165860384                                          |        3 | [PW:0001430](http://purl.obolibrary.org/obo/PW_0001430), [PW:0001431](http://purl.obolibrary.org/obo/PW_0001431), [PW:0001432](http://purl.obolibrary.org/obo/PW_0001432)                                                                                                                        |
-| PharmGKB:http://www.pharmgkb.org/do/serve?objId=PA2036                                        |        2 | [PW:0000759](http://purl.obolibrary.org/obo/PW_0000759), [PW:0000760](http://purl.obolibrary.org/obo/PW_0000760)                                                                                                                                                                                 |
-| PharmGKB:http://www.pharmgkb.org/do/serve?objId=PA152241951                                   |        2 | [PW:0000762](http://purl.obolibrary.org/obo/PW_0000762), [PW:0000763](http://purl.obolibrary.org/obo/PW_0000763)                                                                                                                                                                                 |
-| PharmGKB:http://www.pharmgkb.org/pathway/PA2039                                               |        2 | [PW:0000930](http://purl.obolibrary.org/obo/PW_0000930), [PW:0000932](http://purl.obolibrary.org/obo/PW_0000932)                                                                                                                                                                                 |
-| PharmGKB:http://www.pharmgkb.org/pathway/PA162355621                                          |        1 | [PW:0000721](http://purl.obolibrary.org/obo/PW_0000721)                                                                                                                                                                                                                                          |
-| PharmGKB:www.pharmgkb.org/                                                                    |        1 | [PW:0000761](http://purl.obolibrary.org/obo/PW_0000761)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.pharmgkb.org/do/serve?objId=PA2037                                        |        1 | [PW:0000765](http://purl.obolibrary.org/obo/PW_0000765)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.pharmgkb.org/search/pathway/ifos/ifos-pd.jsp                              |        1 | [PW:0000766](http://purl.obolibrary.org/obo/PW_0000766)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.pharmgkb.org/do/serve?objId=PA152530846                                   |        1 | [PW:0000768](http://purl.obolibrary.org/obo/PW_0000768)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.pharmgkb.org/search/pathway/proton-pump/proton-pump-pd.jsp                |        1 | [PW:0000769](http://purl.obolibrary.org/obo/PW_0000769)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.pharmgkb.org/do/serve?objId=PA152325160&objCls=Pathway                    |        1 | [PW:0000870](http://purl.obolibrary.org/obo/PW_0000870)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.pharmgkb.org/do/serve?objId=PA154426903&objCls=Pathway                    |        1 | [PW:0000873](http://purl.obolibrary.org/obo/PW_0000873)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.pharmgkb.org/pathway/PA165816349                                          |        1 | [PW:0000931](http://purl.obolibrary.org/obo/PW_0000931)                                                                                                                                                                                                                                          |
-| PharmGKB:www.pharmgkb.org                                                                     |        1 | [PW:0001097](http://purl.obolibrary.org/obo/PW_0001097)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.onelook.com                                                               |        1 | [PW:0001099](http://purl.obolibrary.org/obo/PW_0001099)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.pharmgkb.org/pathway/PA165959537                                          |        1 | [PW:0001108](http://purl.obolibrary.org/obo/PW_0001108)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.pharmgkb.org/pathway/PA165959584                                          |        1 | [PW:0001109](http://purl.obolibrary.org/obo/PW_0001109)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.pharmgkb.org/pathway/                                                     |        1 | [PW:0001224](http://purl.obolibrary.org/obo/PW_0001224)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.pharmgkb.org/pathway/PA2001                                               |        1 | [PW:0001225](http://purl.obolibrary.org/obo/PW_0001225)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.pharmgkb.org/pathway/PA2029                                               |        1 | [PW:0001226](http://purl.obolibrary.org/obo/PW_0001226)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.pharmgkb.org/search/pathwaysByCategory.action#pathwayCategories:981478748 |        1 | [PW:0001424](http://purl.obolibrary.org/obo/PW_0001424)                                                                                                                                                                                                                                          |
-| PharmGKB:http://www.pharmgkb.org/pathway/PA165950411                                          |        1 | [PW:0001425](http://purl.obolibrary.org/obo/PW_0001425)                                                                                                                                                                                                                                          |
-
-</details>
-
-## `Reactomee`
-
-There are 1 usages of `Reactomee` in `pw`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Reactomee).
-
 | curie                      |   usages | nodes                                                   |
 |----------------------------|----------|---------------------------------------------------------|
-| Reactomee:www.reactome.org |        1 | [PW:0000087](http://purl.obolibrary.org/obo/PW_0000087) |
+| PharmGKB:www.pharmgkb.org/ |        1 | [PW:0000761](http://purl.obolibrary.org/obo/PW_0000761) |
+| PharmGKB:www.pharmgkb.org  |        1 | [PW:0001097](http://purl.obolibrary.org/obo/PW_0001097) |
 
-## `SMPFB`
+## `RGD_library`
 
-There are 1 usages of `SMPFB` in `pw`.
+There are 1 usages of `RGD_library` in `pw`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SMPFB).
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RGD_library).
 
-| curie                                                   |   usages | nodes                                                   |
-|---------------------------------------------------------|----------|---------------------------------------------------------|
-| SMPFB:http://pathman.smpdb.ca/pathways/SMP00448/pathway |        1 | [PW:0000765](http://purl.obolibrary.org/obo/PW_0000765) |
+| curie                                            |   usages | nodes                                                   |
+|--------------------------------------------------|----------|---------------------------------------------------------|
+| RGD_library:Lehringer_Principles_of_Biochemistry |        1 | [PW:0000866](http://purl.obolibrary.org/obo/PW_0000866) |
 
-## `Web`
+## `Reaactome`
 
-There are 1 usages of `Web` in `pw`.
+There are 1 usages of `Reaactome` in `pw`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Web).
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Reaactome).
 
-| curie                                                   |   usages | nodes                                                   |
-|---------------------------------------------------------|----------|---------------------------------------------------------|
-| Web:http://dl.clackamas.cc.or.us/ch106-04/nomencla1.htm |        1 | [PW:0000064](http://purl.obolibrary.org/obo/PW_0000064) |
-
-## `XXwikipedia`
-
-There are 2 usages of `XXwikipedia` in `pw`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XXwikipedia).
-
-| curie                                                |   usages | nodes                                                   |
-|------------------------------------------------------|----------|---------------------------------------------------------|
-| XXwikipedia:https://en.wikipedia.org/wiki/Naltrexone |        1 | [PW:0001918](http://purl.obolibrary.org/obo/PW_0001918) |
-| XXwikipedia:https://en.wikipedia.org/wiki/Citalopram |        1 | [PW:0002118](http://purl.obolibrary.org/obo/PW_0002118) |
-
-## `drugs.com`
-
-There are 1 usages of `drugs.com` in `pw`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20drugs.com).
-
-| curie                                               |   usages | nodes                                                                                                                                                                     |
-|-----------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| drugs.com:http://www.drugs.com/pro/levobunolol.html |        3 | [PW:0002307](http://purl.obolibrary.org/obo/PW_0002307), [PW:0002308](http://purl.obolibrary.org/obo/PW_0002308), [PW:0002309](http://purl.obolibrary.org/obo/PW_0002309) |
-
-## `eikipedia`
-
-There are 1 usages of `eikipedia` in `pw`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20eikipedia).
-
-| curie                                             |   usages | nodes                                                   |
-|---------------------------------------------------|----------|---------------------------------------------------------|
-| eikipedia:https://en.wikipedia.org/wiki/Methadone |        1 | [PW:0001939](http://purl.obolibrary.org/obo/PW_0001939) |
+| curie                  |   usages | nodes                                                   |
+|------------------------|----------|---------------------------------------------------------|
+| Reaactome:R-HSA-379724 |        1 | [PW:0001159](http://purl.obolibrary.org/obo/PW_0001159) |
 
 ## `inHouse`
 
@@ -281,17 +320,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie                         |   usages | nodes                                                   |
 |-------------------------------|----------|---------------------------------------------------------|
-| inHouse:InHouse PW dictionary |        1 | [PW:0000014](http://purl.obolibrary.org/obo/PW_0000014) |
-
-## `localhealth`
-
-There are 1 usages of `localhealth` in `pw`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20localhealth).
-
-| curie                                  |   usages | nodes                                                   |
-|----------------------------------------|----------|---------------------------------------------------------|
-| localhealth:http://www.localhealth.com |        1 | [PW:0001024](http://purl.obolibrary.org/obo/PW_0001024) |
+| inHouse:InHouse_PW_dictionary |        1 | [PW:0000014](http://purl.obolibrary.org/obo/PW_0000014) |
 
 ## `onelook`
 
@@ -302,44 +331,4 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | curie                   |   usages | nodes                                                   |
 |-------------------------|----------|---------------------------------------------------------|
 | onelook:www.onelook.com |        1 | [PW:0000308](http://purl.obolibrary.org/obo/PW_0000308) |
-
-## `online`
-
-There are 1 usages of `online` in `pw`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20online).
-
-| curie                                                                  |   usages | nodes                                                   |
-|------------------------------------------------------------------------|----------|---------------------------------------------------------|
-| online:http://medical-dictionary.thefreedictionary.com/stress+response |        1 | [PW:0000237](http://purl.obolibrary.org/obo/PW_0000237) |
-
-## `pathway`
-
-There are 1 usages of `pathway` in `pw`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20pathway).
-
-| curie                                            |   usages | nodes                                                   |
-|--------------------------------------------------|----------|---------------------------------------------------------|
-| pathway:https://en.wikipedia.org/wiki/Bumetanide |        1 | [PW:0002155](http://purl.obolibrary.org/obo/PW_0002155) |
-
-## `wiki[pedia`
-
-There are 1 usages of `wiki[pedia` in `pw`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wiki[pedia).
-
-| curie                                              |   usages | nodes                                                   |
-|----------------------------------------------------|----------|---------------------------------------------------------|
-| wiki[pedia:http://en.wikipedia.org/wiki/Tryptophan |        1 | [PW:0001280](http://purl.obolibrary.org/obo/PW_0001280) |
-
-## `wkkipedia`
-
-There are 1 usages of `wkkipedia` in `pw`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wkkipedia).
-
-| curie                                             |   usages | nodes                                                   |
-|---------------------------------------------------|----------|---------------------------------------------------------|
-| wkkipedia:https://en.wikipedia.org/wiki/Tirofiban |        1 | [PW:0001743](http://purl.obolibrary.org/obo/PW_0001743) |
 

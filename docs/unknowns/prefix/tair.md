@@ -1,10 +1,10 @@
 # `tair`
 
-## zfa
+## nif
 
-| curie   |   usages | nodes                                                     |
-|---------|----------|-----------------------------------------------------------|
-| TAIR:sr |        1 | [ZFA:0005745](http://purl.obolibrary.org/obo/ZFA_0005745) |
+| curie   |   usages | nodes                                                                                                            |
+|---------|----------|------------------------------------------------------------------------------------------------------------------|
+| TAIR:sr |        2 | [CL:0000293](http://purl.obolibrary.org/obo/CL_0000293), [CL:0000627](http://purl.obolibrary.org/obo/CL_0000627) |
 
 ## cl
 
@@ -13,55 +13,6 @@
 | TAIR:lr |        7 | [CL:0000254](http://purl.obolibrary.org/obo/CL_0000254), [CL:0000278](http://purl.obolibrary.org/obo/CL_0000278), [CL:0000280](http://purl.obolibrary.org/obo/CL_0000280), [CL:0000296](http://purl.obolibrary.org/obo/CL_0000296), [CL:0000433](http://purl.obolibrary.org/obo/CL_0000433), ... |
 | TAIR:sr |        3 | [CL:0000293](http://purl.obolibrary.org/obo/CL_0000293), [CL:0000627](http://purl.obolibrary.org/obo/CL_0000627), [CL:0000628](http://purl.obolibrary.org/obo/CL_0000628)                                                                                                                        |
 | TAIR:TB |        2 | [CL:0005016](http://purl.obolibrary.org/obo/CL_0005016), [CL:0005017](http://purl.obolibrary.org/obo/CL_0005017)                                                                                                                                                                                 |
-
-## nif
-
-| curie   |   usages | nodes                                                                                                            |
-|---------|----------|------------------------------------------------------------------------------------------------------------------|
-| TAIR:sr |        2 | [CL:0000293](http://purl.obolibrary.org/obo/CL_0000293), [CL:0000627](http://purl.obolibrary.org/obo/CL_0000627) |
-
-## po
-
-| curie         |   usages | nodes                                                                                                            |
-|---------------|----------|------------------------------------------------------------------------------------------------------------------|
-| TAIR:0000396  |        2 | [PO:0007043](http://purl.obolibrary.org/obo/PO_0007043), [PO:0007049](http://purl.obolibrary.org/obo/PO_0007049) |
-| TAIR:0000213  |        1 | [PO:0001040](http://purl.obolibrary.org/obo/PO_0001040)                                                          |
-| TAIR:0000420  |        1 | [PO:0007006](http://purl.obolibrary.org/obo/PO_0007006)                                                          |
-| TAIR:0000034  |        1 | [PO:0007010](http://purl.obolibrary.org/obo/PO_0007010)                                                          |
-| TAIR:T0000395 |        1 | [PO:0007015](http://purl.obolibrary.org/obo/PO_0007015)                                                          |
-| TAIR:0000035  |        1 | [PO:0007017](http://purl.obolibrary.org/obo/PO_0007017)                                                          |
-| TAIR:0000394  |        1 | [PO:0007022](http://purl.obolibrary.org/obo/PO_0007022)                                                          |
-| TAIR:0000421  |        1 | [PO:0007026](http://purl.obolibrary.org/obo/PO_0007026)                                                          |
-| TAIR:0000393  |        1 | [PO:0007057](http://purl.obolibrary.org/obo/PO_0007057)                                                          |
-| TAIR:0000410  |        1 | [PO:0007063](http://purl.obolibrary.org/obo/PO_0007063)                                                          |
-| TAIR:0000415  |        1 | [PO:0007064](http://purl.obolibrary.org/obo/PO_0007064)                                                          |
-| TAIR:0000408  |        1 | [PO:0007065](http://purl.obolibrary.org/obo/PO_0007065)                                                          |
-| TAIR:0000044  |        1 | [PO:0007068](http://purl.obolibrary.org/obo/PO_0007068)                                                          |
-| TAIR:0000045  |        1 | [PO:0007076](http://purl.obolibrary.org/obo/PO_0007076)                                                          |
-| TAIR:0000418  |        1 | [PO:0007078](http://purl.obolibrary.org/obo/PO_0007078)                                                          |
-| TAIR:0000043  |        1 | [PO:0007081](http://purl.obolibrary.org/obo/PO_0007081)                                                          |
-| TAIR:0000416  |        1 | [PO:0007083](http://purl.obolibrary.org/obo/PO_0007083)                                                          |
-| TAIR:0000417  |        1 | [PO:0007085](http://purl.obolibrary.org/obo/PO_0007085)                                                          |
-| TAIR:0000411  |        1 | [PO:0007095](http://purl.obolibrary.org/obo/PO_0007095)                                                          |
-| TAIR:0000398  |        1 | [PO:0007098](http://purl.obolibrary.org/obo/PO_0007098)                                                          |
-| TAIR:0000412  |        1 | [PO:0007101](http://purl.obolibrary.org/obo/PO_0007101)                                                          |
-| TAIR:0000413  |        1 | [PO:0007103](http://purl.obolibrary.org/obo/PO_0007103)                                                          |
-| TAIR:0000407  |        1 | [PO:0007106](http://purl.obolibrary.org/obo/PO_0007106)                                                          |
-| TAIR:0000042  |        1 | [PO:0007113](http://purl.obolibrary.org/obo/PO_0007113)                                                          |
-| TAIR:0000399  |        1 | [PO:0007115](http://purl.obolibrary.org/obo/PO_0007115)                                                          |
-| TAIR:0000414  |        1 | [PO:0007116](http://purl.obolibrary.org/obo/PO_0007116)                                                          |
-| TAIR:0000036  |        1 | [PO:0007119](http://purl.obolibrary.org/obo/PO_0007119)                                                          |
-| TAIR:0000409  |        1 | [PO:0007123](http://purl.obolibrary.org/obo/PO_0007123)                                                          |
-| TAIR:0000306  |        1 | [PO:0007130](http://purl.obolibrary.org/obo/PO_0007130)                                                          |
-| TAIR:0000027  |        1 | [PO:0007131](http://purl.obolibrary.org/obo/PO_0007131)                                                          |
-| TAIR:0000305  |        1 | [PO:0007134](http://purl.obolibrary.org/obo/PO_0007134)                                                          |
-| TAIR:0000205  |        1 | [PO:0009012](http://purl.obolibrary.org/obo/PO_0009012)                                                          |
-
-## eco
-
-| curie    |   usages | nodes                                                                                                                                                                                                                                                                                                      |
-|----------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TAIR:TED |       32 | [ECO:0000004](http://purl.obolibrary.org/obo/ECO_0000004), [ECO:0000007](http://purl.obolibrary.org/obo/ECO_0000007), [ECO:0000011](http://purl.obolibrary.org/obo/ECO_0000011), [ECO:0000022](http://purl.obolibrary.org/obo/ECO_0000022), [ECO:0000027](http://purl.obolibrary.org/obo/ECO_0000027), ... |
 
 ## cco
 
@@ -16441,4 +16392,54 @@
 | TAIR:AT1G80990 |        1 | [NCBIGene:844439](http://purl.obolibrary.org/obo/NCBIGene_844439)     |
 | TAIR:AT1G77815 |        1 | [NCBIGene:844442](http://purl.obolibrary.org/obo/NCBIGene_844442)     |
 | TAIR:AT1G45243 |        1 | [NCBIGene:844573](http://purl.obolibrary.org/obo/NCBIGene_844573)     |
+
+## zfa
+
+| curie   |   usages | nodes                                                     |
+|---------|----------|-----------------------------------------------------------|
+| TAIR:sr |        1 | [ZFA:0005745](http://purl.obolibrary.org/obo/ZFA_0005745) |
+
+## po
+
+| curie         |   usages | nodes                                                                                                            |
+|---------------|----------|------------------------------------------------------------------------------------------------------------------|
+| TAIR:0000396  |        2 | [PO:0007043](http://purl.obolibrary.org/obo/PO_0007043), [PO:0007049](http://purl.obolibrary.org/obo/PO_0007049) |
+| TAIR:0000213  |        1 | [PO:0001040](http://purl.obolibrary.org/obo/PO_0001040)                                                          |
+| TAIR:0000420  |        1 | [PO:0007006](http://purl.obolibrary.org/obo/PO_0007006)                                                          |
+| TAIR:0000034  |        1 | [PO:0007010](http://purl.obolibrary.org/obo/PO_0007010)                                                          |
+| TAIR:T0000395 |        1 | [PO:0007015](http://purl.obolibrary.org/obo/PO_0007015)                                                          |
+| TAIR:0000035  |        1 | [PO:0007017](http://purl.obolibrary.org/obo/PO_0007017)                                                          |
+| TAIR:0000394  |        1 | [PO:0007022](http://purl.obolibrary.org/obo/PO_0007022)                                                          |
+| TAIR:0000421  |        1 | [PO:0007026](http://purl.obolibrary.org/obo/PO_0007026)                                                          |
+| TAIR:0000393  |        1 | [PO:0007057](http://purl.obolibrary.org/obo/PO_0007057)                                                          |
+| TAIR:0000410  |        1 | [PO:0007063](http://purl.obolibrary.org/obo/PO_0007063)                                                          |
+| TAIR:0000415  |        1 | [PO:0007064](http://purl.obolibrary.org/obo/PO_0007064)                                                          |
+| TAIR:0000408  |        1 | [PO:0007065](http://purl.obolibrary.org/obo/PO_0007065)                                                          |
+| TAIR:0000044  |        1 | [PO:0007068](http://purl.obolibrary.org/obo/PO_0007068)                                                          |
+| TAIR:0000045  |        1 | [PO:0007076](http://purl.obolibrary.org/obo/PO_0007076)                                                          |
+| TAIR:0000418  |        1 | [PO:0007078](http://purl.obolibrary.org/obo/PO_0007078)                                                          |
+| TAIR:0000043  |        1 | [PO:0007081](http://purl.obolibrary.org/obo/PO_0007081)                                                          |
+| TAIR:0000416  |        1 | [PO:0007083](http://purl.obolibrary.org/obo/PO_0007083)                                                          |
+| TAIR:0000417  |        1 | [PO:0007085](http://purl.obolibrary.org/obo/PO_0007085)                                                          |
+| TAIR:0000411  |        1 | [PO:0007095](http://purl.obolibrary.org/obo/PO_0007095)                                                          |
+| TAIR:0000398  |        1 | [PO:0007098](http://purl.obolibrary.org/obo/PO_0007098)                                                          |
+| TAIR:0000412  |        1 | [PO:0007101](http://purl.obolibrary.org/obo/PO_0007101)                                                          |
+| TAIR:0000413  |        1 | [PO:0007103](http://purl.obolibrary.org/obo/PO_0007103)                                                          |
+| TAIR:0000407  |        1 | [PO:0007106](http://purl.obolibrary.org/obo/PO_0007106)                                                          |
+| TAIR:0000042  |        1 | [PO:0007113](http://purl.obolibrary.org/obo/PO_0007113)                                                          |
+| TAIR:0000399  |        1 | [PO:0007115](http://purl.obolibrary.org/obo/PO_0007115)                                                          |
+| TAIR:0000414  |        1 | [PO:0007116](http://purl.obolibrary.org/obo/PO_0007116)                                                          |
+| TAIR:0000036  |        1 | [PO:0007119](http://purl.obolibrary.org/obo/PO_0007119)                                                          |
+| TAIR:0000409  |        1 | [PO:0007123](http://purl.obolibrary.org/obo/PO_0007123)                                                          |
+| TAIR:0000306  |        1 | [PO:0007130](http://purl.obolibrary.org/obo/PO_0007130)                                                          |
+| TAIR:0000027  |        1 | [PO:0007131](http://purl.obolibrary.org/obo/PO_0007131)                                                          |
+| TAIR:0000305  |        1 | [PO:0007134](http://purl.obolibrary.org/obo/PO_0007134)                                                          |
+| TAIR:0000205  |        1 | [PO:0009012](http://purl.obolibrary.org/obo/PO_0009012)                                                          |
+| TAIR:0000397  |        1 | [PO:0007049](http://purl.obolibrary.org/obo/PO_0007049)                                                          |
+
+## eco
+
+| curie    |   usages | nodes                                                                                                                                                                                                                                                                                                      |
+|----------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TAIR:TED |       32 | [ECO:0000004](http://purl.obolibrary.org/obo/ECO_0000004), [ECO:0000007](http://purl.obolibrary.org/obo/ECO_0000007), [ECO:0000011](http://purl.obolibrary.org/obo/ECO_0000011), [ECO:0000022](http://purl.obolibrary.org/obo/ECO_0000022), [ECO:0000027](http://purl.obolibrary.org/obo/ECO_0000027), ... |
 

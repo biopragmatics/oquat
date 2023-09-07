@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T01:10:24.790647",
+  "created": "2023-09-07T13:01:15.188705",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/hsapdv.owl": {
@@ -191,6 +191,8 @@
             "http://purl.obolibrary.org/obo/HsapDv_0000223": "Bgee:curator",
             "http://purl.obolibrary.org/obo/HsapDv_0000224": "Bgee:curator",
             "http://purl.obolibrary.org/obo/HsapDv_0000225": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000226": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000227": "Bgee:curator",
             "http://purl.obolibrary.org/obo/HsapDv_0000228": "Bgee:curator",
             "http://purl.obolibrary.org/obo/HsapDv_0000229": "Bgee:curator",
             "http://purl.obolibrary.org/obo/HsapDv_0000230": "Bgee:curator",
@@ -219,7 +221,23 @@
             "http://purl.obolibrary.org/obo/HsapDv_0000253": "Bgee:curator",
             "http://purl.obolibrary.org/obo/HsapDv_0000254": "Bgee:curator",
             "http://purl.obolibrary.org/obo/HsapDv_0000255": "Bgee:curator",
-            "http://purl.obolibrary.org/obo/HsapDv_0000256": "Bgee:curator"
+            "http://purl.obolibrary.org/obo/HsapDv_0000256": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000258": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000260": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000261": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000262": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000264": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000265": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000266": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000267": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000268": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000270": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000271": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000272": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/HsapDv_0000273": "Bgee:curator"
+          },
+          "GOC": {
+            "http://purl.obolibrary.org/obo/HsapDv_0010000": "GOC:dos"
           }
         }
       },
@@ -300,8 +318,6 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2020-03-10",
-      "version_iri": "http://purl.obolibrary.org/obo/hsapdv/releases/2020-03-10/hsapdv.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/HsapDv_0000003": [

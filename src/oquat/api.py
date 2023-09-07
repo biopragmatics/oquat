@@ -266,9 +266,9 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
 
         node_xrefs = node_meta.xrefs
         for node_xref_dict in node_xrefs or []:
-            node_xref_pack.aggregate_curie_issues(node_id, node_xref_dict.val)
+            node_xref_pack.aggregate_curie_issues(node_id, node_xref_dict.value_raw)
 
-        definition_xrefs = node_meta.definition and node_meta.definition.xrefs
+        definition_xrefs = node_meta.definition and node_meta.definition.xrefs_raw
         for prov_xref_curie in definition_xrefs or []:
             prov_xref_pack.aggregate_curie_issues(
                 node_id=node_id,
@@ -276,10 +276,10 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
             )
 
         for synonym in node_meta.synonyms or []:
-            for synoynm_xref_curie in synonym.xrefs or []:
+            for synonym_xref_curie in synonym.xrefs_raw or []:
                 syn_xref_pack.aggregate_curie_issues(
                     node_id=node_id,
-                    curie=synoynm_xref_curie,
+                    curie=synonym_xref_curie,
                     # A lot of times they stick random stuff
                     # in here that aren't CURIEs
                     track_non_curies=False,

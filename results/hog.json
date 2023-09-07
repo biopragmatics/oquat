@@ -1,7 +1,7 @@
 {
-  "created": "2023-05-21T01:10:11.145247",
+  "created": "2023-09-07T13:00:31.089513",
   "messages": [
-    "could not parse OBO for hog from ftp://ftp.bgee.org/general/ontologies/HOG.obo"
+    "[hog] could not parse OBO from ftp://ftp.bgee.org/general/ontologies/HOG.obo"
   ],
   "results": {}
 }

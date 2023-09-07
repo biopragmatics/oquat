@@ -5,9 +5,9 @@ but use local unique identifiers that do not match the standard pattern of
 `^10.\d{2,9}/.*$`. Of the 5 resources,
 2 variants on the standard prefix were found: ['DOI', 'doi'].
 
-## `cl`: Cell Ontology
+## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
 
-Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
+Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
 
 | external_xref                               |   usages_count | usages                                                  |
 |---------------------------------------------|----------------|---------------------------------------------------------|

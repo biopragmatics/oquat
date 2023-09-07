@@ -1,9 +1,6 @@
 {
-  "created": "2023-05-21T00:11:21.471915",
-  "messages": [
-    "ERROR Input ontology contains 1 triple(s) that could not be parsed:",
-    " - <https://www.wikidata.org/wiki/Q2306597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147496553."
-  ],
+  "created": "2023-09-07T12:24:30.453051",
+  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/agro-edit.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/agro-edit.owl",

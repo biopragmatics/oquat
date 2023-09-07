@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T01:26:36.546185",
+  "created": "2023-09-07T13:19:03.128703",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/omp.owl": {
@@ -5486,8 +5486,8 @@
           }
         }
       },
-      "version": "2022-12-04",
-      "version_iri": "http://purl.obolibrary.org/obo/omp/releases/2022-12-04/omp.owl",
+      "version": "2023-09-01",
+      "version_iri": "http://purl.obolibrary.org/obo/omp/releases/2023-09-01/omp.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/OMP_0000110": [

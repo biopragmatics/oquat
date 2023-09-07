@@ -1,13 +1,13 @@
 # `nif_organism`
 
-## nif
+## uberon
 
 | curie                    |   usages | nodes                                                           |
 |--------------------------|----------|-----------------------------------------------------------------|
 | NIF_Organism:birnlex_695 |        1 | [UBERON:0007221](http://purl.obolibrary.org/obo/UBERON_0007221) |
 | NIF_Organism:birnlex_691 |        1 | [UBERON:0007222](http://purl.obolibrary.org/obo/UBERON_0007222) |
 
-## uberon
+## nif
 
 | curie                    |   usages | nodes                                                           |
 |--------------------------|----------|-----------------------------------------------------------------|

@@ -8,7 +8,7 @@
 | OGES:000019 |        1 | [UBERON:0000109](http://purl.obolibrary.org/obo/UBERON_0000109) |
 | OGES:000027 |        1 | [UBERON:0000113](http://purl.obolibrary.org/obo/UBERON_0000113) |
 
-## nif
+## uberon
 
 | curie       |   usages | nodes                                                           |
 |-------------|----------|-----------------------------------------------------------------|
@@ -26,7 +26,7 @@
 | OGES:000023 |        1 | [UBERON:0007220](http://purl.obolibrary.org/obo/UBERON_0007220) |
 | OGES:000025 |        1 | [UBERON:0007221](http://purl.obolibrary.org/obo/UBERON_0007221) |
 
-## uberon
+## nif
 
 | curie       |   usages | nodes                                                           |
 |-------------|----------|-----------------------------------------------------------------|

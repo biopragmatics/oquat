@@ -1,9 +1,9 @@
 {
-  "created": "2023-05-21T01:53:23.269111",
+  "created": "2023-09-07T13:27:31.099610",
   "messages": [],
   "results": {
-    "http://purl.obolibrary.org/obo/spd.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/spd.owl",
+    "http://purl.obolibrary.org/obo/TEMP": {
+      "graph_id": "http://purl.obolibrary.org/obo/TEMP",
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/SPD_0000001": [
@@ -2188,8 +2188,8 @@
             "http://purl.obolibrary.org/obo/SPD_0000672": "SPDrf:Shultz_1989",
             "http://purl.obolibrary.org/obo/SPD_0000682": "SPDrf:Hormiga_1994",
             "http://purl.obolibrary.org/obo/SPD_0000692": "SPDrf:Griswold_et_al_2005",
-            "http://purl.obolibrary.org/obo/SPD_0000697": "SPDrf:Huber_1994",
-            "http://purl.obolibrary.org/obo/SPD_0000698": "SPDrf:Huber_1994",
+            "http://purl.obolibrary.org/obo/SPD_0000697": "SPDrf:Huber_2004",
+            "http://purl.obolibrary.org/obo/SPD_0000698": "SPDrf:Huber_2004",
             "http://purl.obolibrary.org/obo/SPD_0000702": "SPDrf:Huber_2000",
             "http://purl.obolibrary.org/obo/SPD_0000703": "SPDrf:Saaristo_1971",
             "http://purl.obolibrary.org/obo/SPD_0000704": "SPDrf:Sierwald_1990",
@@ -2341,6 +2341,9 @@
           "http://purl.obolibrary.org/obo/SPD_0000402": [
             "SPD:Ramirez"
           ],
+          "http://purl.obolibrary.org/obo/SPD_0000416": [
+            "SPD:Peters_1955"
+          ],
           "http://purl.obolibrary.org/obo/SPD_0000430": [
             "SPD:Ramirez"
           ],
@@ -2476,6 +2479,7 @@
             "http://purl.obolibrary.org/obo/SPD_0000016": "SPDrf:Ubick_et_al_2005_glossary",
             "http://purl.obolibrary.org/obo/SPD_0000018": "SPDrf:Ubick_et_al_2005_glossary",
             "http://purl.obolibrary.org/obo/SPD_0000020": "SPDrf:Ubick_et_al_2005_glossary",
+            "http://purl.obolibrary.org/obo/SPD_0000029": "SPDrf:Mcheidze_1972",
             "http://purl.obolibrary.org/obo/SPD_0000036": "SPDrf:Ubick_et_al_2005_glossary",
             "http://purl.obolibrary.org/obo/SPD_0000037": "SPDrf:Ubick_et_al_2005_glossary",
             "http://purl.obolibrary.org/obo/SPD_0000038": "SPDrf:Ubick_et_al_2005_glossary",
@@ -2501,20 +2505,19 @@
             "http://purl.obolibrary.org/obo/SPD_0000385": "SPDrf:Ubick_et_al_2005_glossary",
             "http://purl.obolibrary.org/obo/SPD_0000400": "SPDrf:Foelix_1996",
             "http://purl.obolibrary.org/obo/SPD_0000429": "SPDrf:Foelix_2011",
+            "http://purl.obolibrary.org/obo/SPD_0000457": "SPDrf:Simon_1892",
             "http://purl.obolibrary.org/obo/SPD_0000484": "SPDrf:Speck_&_Barth_1982",
             "http://purl.obolibrary.org/obo/SPD_0000485": "SPDrf:Speck_&_Barth_1982",
             "http://purl.obolibrary.org/obo/SPD_0000523": "SPDrf:Sierwald_1990",
             "http://purl.obolibrary.org/obo/SPD_0000649": "SPDrf:Simon_1892",
             "http://purl.obolibrary.org/obo/SPD_0000680": "SPDrf:Uhl_et_al_2014",
-            "http://purl.obolibrary.org/obo/SPD_0000697": "SPDrf:Huber_1994",
-            "http://purl.obolibrary.org/obo/SPD_0000698": "SPDrf:Huber_1994",
+            "http://purl.obolibrary.org/obo/SPD_0000697": "SPDrf:Huber_2004",
+            "http://purl.obolibrary.org/obo/SPD_0000698": "SPDrf:Huber_2004",
             "http://purl.obolibrary.org/obo/SPD_0000815": "SPDrf:Ruhland_&_Rathmayer_1978",
             "http://purl.obolibrary.org/obo/SPD_0000816": "SPDrf:Ruhland_&_Rathmayer_1978"
           }
         }
       },
-      "version": "1.0",
-      "version_iri": "http://purl.obolibrary.org/obo/spd/1.0/spd.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/SPD_0000820": [

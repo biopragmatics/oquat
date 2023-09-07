@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T00:51:49.386453",
+  "created": "2023-09-07T12:36:46.364812",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/dron.json": {
@@ -18,8 +18,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2023-03-10",
-      "version_iri": "http://purl.obolibrary.org/obo/dron/releases/2023-03-10/dron.json",
+      "version": "2023-08-17",
+      "version_iri": "http://purl.obolibrary.org/obo/dron/releases/2023-08-17/dron.json",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

@@ -1,7 +1,7 @@
 {
-  "created": "2023-05-21T01:16:23.249077",
+  "created": "2023-09-07T13:06:52.431499",
   "messages": [
-    "could not parse OWL for mo from http://purl.obolibrary.org/obo/mo.owl"
+    "[mo] could not parse OWL from http://purl.obolibrary.org/obo/mo.owl"
   ],
   "results": {}
 }

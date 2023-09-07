@@ -2,8 +2,16 @@
 
 This page summarize the different resources that reference `kupo`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 3 resources,
+`^\d{7}$`. Of the 4 resources,
 1 variants on the standard prefix were found: ['KUPO'].
+
+## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
+
+Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
+
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `KUPO:SJ`       |              1 | [CL:0002518](http://purl.obolibrary.org/obo/CL_0002518) |
 
 ## `cl`: Cell Ontology
 

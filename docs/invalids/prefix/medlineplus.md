@@ -2,8 +2,8 @@
 
 This page summarize the different resources that reference `medlineplus`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 3 resources,
-2 variants on the standard prefix were found: ['Medline Plus', 'MedlinePlus'].
+`^\d+$`. Of the 2 resources,
+1 variants on the standard prefix were found: ['MedlinePlus'].
 
 ## `bto`: BRENDA Tissue Ontology
 
@@ -20,12 +20,4 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | external_xref         |   usages_count | usages                                              |
 |-----------------------|----------------|-----------------------------------------------------|
 | `MedlinePlus: 001381` |              1 | [EFO:0000777](http://www.ebi.ac.uk/efo/EFO_0000777) |
-
-## `xco`: Experimental condition ontology
-
-Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
-
-| external_xref                                       |   usages_count | usages                                                    |
-|-----------------------------------------------------|----------------|-----------------------------------------------------------|
-| `Medline Plus:http\://www.nlm.nih.gov/medlineplus/` |              1 | [XCO:0000563](http://purl.obolibrary.org/obo/XCO_0000563) |
 

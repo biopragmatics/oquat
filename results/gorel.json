@@ -1,7 +1,7 @@
 {
-  "created": "2023-05-21T01:03:35.192452",
+  "created": "2023-09-07T12:53:45.945597",
   "messages": [
-    "could not parse OWL for gorel from ftp://ftp.geneontology.org/pub/go/ontology/extensions/gorel.owl"
+    "[gorel] could not parse OWL from ftp://ftp.geneontology.org/pub/go/ontology/extensions/gorel.owl"
   ],
   "results": {}
 }

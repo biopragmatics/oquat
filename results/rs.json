@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T01:52:38.104001",
+  "created": "2023-09-07T13:26:49.193513",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/rs.owl": {
@@ -14,15 +14,15 @@
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {
-          "RGD curators": {
-            "http://purl.obolibrary.org/obo/RS_0004522": "RGD curators:<sjwang>",
-            "http://purl.obolibrary.org/obo/RS_0004523": "RGD curators:<sjwang>",
-            "http://purl.obolibrary.org/obo/RS_0004531": "RGD curators:<sjwang>",
-            "http://purl.obolibrary.org/obo/RS_0004532": "RGD curators:<sjwang>",
-            "http://purl.obolibrary.org/obo/RS_0004534": "RGD curators:<sjwang>",
-            "http://purl.obolibrary.org/obo/RS_0004542": "RGD curators:<sjwang>",
-            "http://purl.obolibrary.org/obo/RS_0004543": "RGD curators:<sjwang>",
-            "http://purl.obolibrary.org/obo/RS_0004549": "RGD curators:<sjwang>"
+          "RGD_curators": {
+            "http://purl.obolibrary.org/obo/RS_0004522": "RGD_curators:<sjwang>",
+            "http://purl.obolibrary.org/obo/RS_0004523": "RGD_curators:<sjwang>",
+            "http://purl.obolibrary.org/obo/RS_0004531": "RGD_curators:<sjwang>",
+            "http://purl.obolibrary.org/obo/RS_0004532": "RGD_curators:<sjwang>",
+            "http://purl.obolibrary.org/obo/RS_0004534": "RGD_curators:<sjwang>",
+            "http://purl.obolibrary.org/obo/RS_0004542": "RGD_curators:<sjwang>",
+            "http://purl.obolibrary.org/obo/RS_0004543": "RGD_curators:<sjwang>",
+            "http://purl.obolibrary.org/obo/RS_0004549": "RGD_curators:<sjwang>"
           }
         }
       },
@@ -33,8 +33,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "6.194",
-      "version_iri": "http://purl.obolibrary.org/obo/rs/6.194/rs.owl",
+      "version": "6.203",
+      "version_iri": "http://purl.obolibrary.org/obo/rs/6.203/rs.owl",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

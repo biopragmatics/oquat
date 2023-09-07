@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T01:55:28.699599",
+  "created": "2023-09-07T13:28:52.381204",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/vbo.json": {
@@ -18,20 +18,10 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2023-03-09",
-      "version_iri": "http://purl.obolibrary.org/obo/vbo/releases/2023-03-09/vbo.json",
+      "version": "2023-06-02",
+      "version_iri": "http://purl.obolibrary.org/obo/vbo/releases/2023-06-02/vbo.json",
       "xref_pack": {
-        "invalid_luids": {
-          "http://purl.obolibrary.org/obo/VBO_0000466": [
-            "OMIA:45/1178"
-          ],
-          "http://purl.obolibrary.org/obo/VBO_0001176": [
-            "OMIA:730/1201"
-          ],
-          "http://purl.obolibrary.org/obo/VBO_0001397": [
-            "OMIA:977/1251"
-          ]
-        },
+        "invalid_luids": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

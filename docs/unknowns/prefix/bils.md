@@ -8,7 +8,7 @@
 | BILS:0000109 |        1 | [UBERON:0000109](http://purl.obolibrary.org/obo/UBERON_0000109) |
 | BILS:0000113 |        1 | [UBERON:0000113](http://purl.obolibrary.org/obo/UBERON_0000113) |
 
-## nif
+## uberon
 
 | curie        |   usages | nodes                                                           |
 |--------------|----------|-----------------------------------------------------------------|
@@ -22,7 +22,7 @@
 | BILS:0000112 |        1 | [UBERON:0000112](http://purl.obolibrary.org/obo/UBERON_0000112) |
 | BILS:0000113 |        1 | [UBERON:0000113](http://purl.obolibrary.org/obo/UBERON_0000113) |
 
-## uberon
+## nif
 
 | curie        |   usages | nodes                                                           |
 |--------------|----------|-----------------------------------------------------------------|

@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `flybase`
 but use local unique identifiers that do not match the standard pattern of
-`^FB\w{2}\d{7}$`. Of the 7 resources,
+`^FB\w{2}\d{7}$`. Of the 8 resources,
 3 variants on the standard prefix were found: ['FB', 'FlyBase', 'Flybase'].
 
 ## `bto`: BRENDA Tissue Ontology
@@ -12,6 +12,14 @@ Identifiers for this prefix are given incorrectly in `bto`. See the [GitHub repo
 | external_xref                                                                               |   usages_count | usages                                                    |
 |---------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------|
 | `Flybase:http://flybase.bio.indiana.edu/allied-data/lk/interactive-fly/lewheld/preface.htm` |              1 | [BTO:0001464](http://purl.obolibrary.org/obo/BTO_0001464) |
+
+## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
+
+Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                      |
+|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `FB:ma`         |              5 | [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066), [CL:0000183](http://purl.obolibrary.org/obo/CL_0000183), [CL:0000211](http://purl.obolibrary.org/obo/CL_0000211), [CL:0000325](http://purl.obolibrary.org/obo/CL_0000325), [CL:0000393](http://purl.obolibrary.org/obo/CL_0000393) |
 
 ## `cl`: Cell Ontology
 

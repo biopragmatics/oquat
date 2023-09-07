@@ -1,6 +1,6 @@
 # `j`
 
-## nif
+## uberon
 
 | curie    |   usages | nodes                                                           |
 |----------|----------|-----------------------------------------------------------------|
@@ -8,7 +8,14 @@
 | J:97123  |        1 | [UBERON:0003604](http://purl.obolibrary.org/obo/UBERON_0003604) |
 | J:117841 |        1 | [UBERON:0015171](http://purl.obolibrary.org/obo/UBERON_0015171) |
 
-## uberon
+## ccf
+
+| curie    |   usages | nodes                                                           |
+|----------|----------|-----------------------------------------------------------------|
+| J:97123  |        1 | [UBERON:0003604](http://purl.obolibrary.org/obo/UBERON_0003604) |
+| J:117841 |        1 | [UBERON:0015171](http://purl.obolibrary.org/obo/UBERON_0015171) |
+
+## nif
 
 | curie    |   usages | nodes                                                           |
 |----------|----------|-----------------------------------------------------------------|

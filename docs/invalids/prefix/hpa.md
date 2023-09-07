@@ -2,8 +2,16 @@
 
 This page summarize the different resources that reference `hpa`
 but use local unique identifiers that do not match the standard pattern of
-`^ENSG\d{11}$`. Of the 3 resources,
+`^ENSG\d{11}$`. Of the 4 resources,
 1 variants on the standard prefix were found: ['HPA'].
+
+## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
+
+Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
+
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `HPA:HPA`       |              1 | [CL:1001599](http://purl.obolibrary.org/obo/CL_1001599) |
 
 ## `cl`: Cell Ontology
 

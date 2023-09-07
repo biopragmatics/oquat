@@ -3,7 +3,7 @@
 This page summarize the different resources that reference `ncit`
 but use local unique identifiers that do not match the standard pattern of
 `^C\d+$`. Of the 19 resources,
-6 variants on the standard prefix were found: ['NCI', 'NCI Thesaurus', 'NCIT', 'NCI_Thesaurus', 'NCIt', 'ncithesaurus'].
+5 variants on the standard prefix were found: ['NCI', 'NCIT', 'NCI_Thesaurus', 'NCIt', 'ncithesaurus'].
 
 ## `bao`: BioAssay Ontology
 
@@ -12,6 +12,107 @@ Identifiers for this prefix are given incorrectly in `bao`. See the [GitHub repo
 | external_xref                      |   usages_count | usages                                                          |
 |------------------------------------|----------------|-----------------------------------------------------------------|
 | `ncithesaurus:Developmental_Stage` |              1 | [UBERON:0000105](http://purl.obolibrary.org/obo/UBERON_0000105) |
+
+## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
+
+Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
+
+| external_xref                                      |   usages_count | usages                                                          |
+|----------------------------------------------------|----------------|-----------------------------------------------------------------|
+| `ncithesaurus:Ileal_Vein`                          |              1 | [UBERON:0001217](http://purl.obolibrary.org/obo/UBERON_0001217) |
+| `ncithesaurus:Median_Basilic_Vein`                 |              1 | [UBERON:0001414](http://purl.obolibrary.org/obo/UBERON_0001414) |
+| `ncithesaurus:Pectoralis_Muscle`                   |              1 | [UBERON:0001495](http://purl.obolibrary.org/obo/UBERON_0001495) |
+| `ncithesaurus:Submental_Vein`                      |              1 | [UBERON:0001655](http://purl.obolibrary.org/obo/UBERON_0001655) |
+| `ncithesaurus:Deep_Temporal_Vein`                  |              1 | [UBERON:0001661](http://purl.obolibrary.org/obo/UBERON_0001661) |
+| `ncithesaurus:Thymic_Lobule`                       |              1 | [UBERON:0002125](http://purl.obolibrary.org/obo/UBERON_0002125) |
+| `ncithesaurus:Endometrial_Stroma`                  |              1 | [UBERON:0002337](http://purl.obolibrary.org/obo/UBERON_0002337) |
+| `ncithesaurus:Anterior_Cruciate_Ligament`          |              1 | [UBERON:0003671](http://purl.obolibrary.org/obo/UBERON_0003671) |
+| `ncithesaurus:Splenic_Vein`                        |              1 | [UBERON:0003713](http://purl.obolibrary.org/obo/UBERON_0003713) |
+| `ncithesaurus:Gastric_Vein`                        |              1 | [UBERON:0004450](http://purl.obolibrary.org/obo/UBERON_0004450) |
+| `ncithesaurus:Digital_Vein`                        |              1 | [UBERON:0004562](http://purl.obolibrary.org/obo/UBERON_0004562) |
+| `ncithesaurus:Rib_3`                               |              1 | [UBERON:0004603](http://purl.obolibrary.org/obo/UBERON_0004603) |
+| `ncithesaurus:Rib_4`                               |              1 | [UBERON:0004604](http://purl.obolibrary.org/obo/UBERON_0004604) |
+| `ncithesaurus:Rib_5`                               |              1 | [UBERON:0004605](http://purl.obolibrary.org/obo/UBERON_0004605) |
+| `ncithesaurus:Rib_6`                               |              1 | [UBERON:0004606](http://purl.obolibrary.org/obo/UBERON_0004606) |
+| `ncithesaurus:Rib_7`                               |              1 | [UBERON:0004607](http://purl.obolibrary.org/obo/UBERON_0004607) |
+| `ncithesaurus:Rib_9`                               |              1 | [UBERON:0004608](http://purl.obolibrary.org/obo/UBERON_0004608) |
+| `ncithesaurus:C3_Vertebra`                         |              1 | [UBERON:0004612](http://purl.obolibrary.org/obo/UBERON_0004612) |
+| `ncithesaurus:C4_Vertebra`                         |              1 | [UBERON:0004613](http://purl.obolibrary.org/obo/UBERON_0004613) |
+| `ncithesaurus:C5_Vertebra`                         |              1 | [UBERON:0004614](http://purl.obolibrary.org/obo/UBERON_0004614) |
+| `ncithesaurus:C6_Vertebra`                         |              1 | [UBERON:0004615](http://purl.obolibrary.org/obo/UBERON_0004615) |
+| `ncithesaurus:L1_Vertebra`                         |              1 | [UBERON:0004617](http://purl.obolibrary.org/obo/UBERON_0004617) |
+| `ncithesaurus:L2_Vertebra`                         |              1 | [UBERON:0004618](http://purl.obolibrary.org/obo/UBERON_0004618) |
+| `ncithesaurus:L3_Vertebra`                         |              1 | [UBERON:0004619](http://purl.obolibrary.org/obo/UBERON_0004619) |
+| `ncithesaurus:L4_Vertebra`                         |              1 | [UBERON:0004620](http://purl.obolibrary.org/obo/UBERON_0004620) |
+| `ncithesaurus:L5_Vertebra`                         |              1 | [UBERON:0004621](http://purl.obolibrary.org/obo/UBERON_0004621) |
+| `ncithesaurus:T1_Vertebra`                         |              1 | [UBERON:0004626](http://purl.obolibrary.org/obo/UBERON_0004626) |
+| `ncithesaurus:T2_Vertebra`                         |              1 | [UBERON:0004627](http://purl.obolibrary.org/obo/UBERON_0004627) |
+| `ncithesaurus:T3_Vertebra`                         |              1 | [UBERON:0004628](http://purl.obolibrary.org/obo/UBERON_0004628) |
+| `ncithesaurus:T4_Vertebra`                         |              1 | [UBERON:0004629](http://purl.obolibrary.org/obo/UBERON_0004629) |
+| `ncithesaurus:T5_Vertebra`                         |              1 | [UBERON:0004630](http://purl.obolibrary.org/obo/UBERON_0004630) |
+| `ncithesaurus:T6_Vertebra`                         |              1 | [UBERON:0004631](http://purl.obolibrary.org/obo/UBERON_0004631) |
+| `ncithesaurus:T7_Vertebra`                         |              1 | [UBERON:0004632](http://purl.obolibrary.org/obo/UBERON_0004632) |
+| `ncithesaurus:T9_Vertebra`                         |              1 | [UBERON:0004633](http://purl.obolibrary.org/obo/UBERON_0004633) |
+| `ncithesaurus:T10_Vertebra`                        |              1 | [UBERON:0004634](http://purl.obolibrary.org/obo/UBERON_0004634) |
+| `ncithesaurus:T11_Vertebra`                        |              1 | [UBERON:0004635](http://purl.obolibrary.org/obo/UBERON_0004635) |
+| `ncithesaurus:T12_Vertebra`                        |              1 | [UBERON:0004636](http://purl.obolibrary.org/obo/UBERON_0004636) |
+| `ncithesaurus:Iliac_Vein`                          |              1 | [UBERON:0005610](http://purl.obolibrary.org/obo/UBERON_0005610) |
+| `ncithesaurus:Aortic_Segment`                      |              1 | [UBERON:0005800](http://purl.obolibrary.org/obo/UBERON_0005800) |
+| `ncithesaurus:Communicating_Artery`                |              1 | [UBERON:0006347](http://purl.obolibrary.org/obo/UBERON_0006347) |
+| `ncithesaurus:Epigastric_Artery`                   |              1 | [UBERON:0006349](http://purl.obolibrary.org/obo/UBERON_0006349) |
+| `ncithesaurus:Inferior_Thyroid_Artery`             |              1 | [UBERON:0007149](http://purl.obolibrary.org/obo/UBERON_0007149) |
+| `ncithesaurus:Inferior_Sagittal_Sinus`             |              1 | [UBERON:0007152](http://purl.obolibrary.org/obo/UBERON_0007152) |
+| `ncithesaurus:Deep_Epigastric_Vein`                |              1 | [UBERON:0007154](http://purl.obolibrary.org/obo/UBERON_0007154) |
+| `ncithesaurus:Lung_Lower_Lobe`                     |              1 | [UBERON:0008949](http://purl.obolibrary.org/obo/UBERON_0008949) |
+| `ncithesaurus:Circumflex_Iliac_Artery`             |              1 | [UBERON:0009026](http://purl.obolibrary.org/obo/UBERON_0009026) |
+| `ncithesaurus:Alveolar_Artery`                     |              1 | [UBERON:0009654](http://purl.obolibrary.org/obo/UBERON_0009654) |
+| `ncithesaurus:Auricular_Artery`                    |              1 | [UBERON:0009655](http://purl.obolibrary.org/obo/UBERON_0009655) |
+| `ncithesaurus:Anterior_Inferior_Cerebellar_Artery` |              1 | [UBERON:0009689](http://purl.obolibrary.org/obo/UBERON_0009689) |
+| `ncithesaurus:Lobe`                                |              1 | [UBERON:0009912](http://purl.obolibrary.org/obo/UBERON_0009912) |
+| `ncithesaurus:Pulmonary_Lobule`                    |              1 | [UBERON:0010368](http://purl.obolibrary.org/obo/UBERON_0010368) |
+| `ncithesaurus:Rib_8`                               |              1 | [UBERON:0010757](http://purl.obolibrary.org/obo/UBERON_0010757) |
+| `ncithesaurus:T8_Vertebra`                         |              1 | [UBERON:0011050](http://purl.obolibrary.org/obo/UBERON_0011050) |
+| `ncithesaurus:Endocervical_Glandular_Epithelium`   |              1 | [UBERON:0012252](http://purl.obolibrary.org/obo/UBERON_0012252) |
+| `ncithesaurus:Interlobular_Duct`                   |              1 | [UBERON:0014716](http://purl.obolibrary.org/obo/UBERON_0014716) |
+| `ncithesaurus:Calcarine_Artery`                    |              1 | [UBERON:0035183](http://purl.obolibrary.org/obo/UBERON_0035183) |
+| `ncithesaurus:Anterior_Temporal_Artery`            |              1 | [UBERON:0035225](http://purl.obolibrary.org/obo/UBERON_0035225) |
+| `ncithesaurus:Superficial_Middle_Cerebral_Vein`    |              1 | [UBERON:0035231](http://purl.obolibrary.org/obo/UBERON_0035231) |
+| `ncithesaurus:Medial_Femoral_Vein`                 |              1 | [UBERON:0035234](http://purl.obolibrary.org/obo/UBERON_0035234) |
+| `ncithesaurus:Posterior_External_Jugular_Vein`     |              1 | [UBERON:0035249](http://purl.obolibrary.org/obo/UBERON_0035249) |
+| `ncithesaurus:Left_Subcostal_Vein`                 |              1 | [UBERON:0035252](http://purl.obolibrary.org/obo/UBERON_0035252) |
+| `ncithesaurus:Supraclavicular_Lymph_Node`          |              1 | [UBERON:0035279](http://purl.obolibrary.org/obo/UBERON_0035279) |
+| `ncithesaurus:Base_of_the_Prostate`                |              1 | [UBERON:0035331](http://purl.obolibrary.org/obo/UBERON_0035331) |
+| `ncithesaurus:Small_Cardiac_Vein`                  |              1 | [UBERON:0035374](http://purl.obolibrary.org/obo/UBERON_0035374) |
+| `ncithesaurus:Cystic_Vein`                         |              1 | [UBERON:0035392](http://purl.obolibrary.org/obo/UBERON_0035392) |
+| `ncithesaurus:Right_Suprarenal_Vein`               |              1 | [UBERON:0035435](http://purl.obolibrary.org/obo/UBERON_0035435) |
+| `ncithesaurus:Apex_of_the_Prostate`                |              1 | [UBERON:0035441](http://purl.obolibrary.org/obo/UBERON_0035441) |
+| `ncithesaurus:Anterior_Parietal_Artery`            |              1 | [UBERON:0035462](http://purl.obolibrary.org/obo/UBERON_0035462) |
+| `ncithesaurus:Right_Subcostal_Vein`                |              1 | [UBERON:0035474](http://purl.obolibrary.org/obo/UBERON_0035474) |
+| `ncithesaurus:Left_Suprarenal_Vein`                |              1 | [UBERON:0035483](http://purl.obolibrary.org/obo/UBERON_0035483) |
+| `ncithesaurus:Lymph_Node_Hilum`                    |              1 | [UBERON:0035495](http://purl.obolibrary.org/obo/UBERON_0035495) |
+| `ncithesaurus:Deep_Middle_Cerebral_Vein`           |              1 | [UBERON:0035532](http://purl.obolibrary.org/obo/UBERON_0035532) |
+| `ncithesaurus:Esophageal_Artery`                   |              1 | [UBERON:0035539](http://purl.obolibrary.org/obo/UBERON_0035539) |
+| `ncithesaurus:Superficial_Vein`                    |              1 | [UBERON:0035550](http://purl.obolibrary.org/obo/UBERON_0035550) |
+| `ncithesaurus:Splenic_Pulp`                        |              1 | [UBERON:1000023](http://purl.obolibrary.org/obo/UBERON_1000023) |
+| `ncithesaurus:Muscularis_Propria`                  |              1 | [UBERON:0000381](http://purl.obolibrary.org/obo/UBERON_0000381) |
+| `ncithesaurus:Pons_Varolii`                        |              1 | [UBERON:0000988](http://purl.obolibrary.org/obo/UBERON_0000988) |
+| `ncithesaurus:Cortical_Column`                     |              1 | [UBERON:0001284](http://purl.obolibrary.org/obo/UBERON_0001284) |
+| `ncithesaurus:Pyramid_of_Malpighi`                 |              1 | [UBERON:0004200](http://purl.obolibrary.org/obo/UBERON_0004200) |
+| `ncithesaurus:Ileocecocolic_Lymph_Node`            |              1 | [UBERON:0016378](http://purl.obolibrary.org/obo/UBERON_0016378) |
+| `ncithesaurus:Beta_Cell`                           |              1 | [CL:0000169](http://purl.obolibrary.org/obo/CL_0000169)         |
+| `ncithesaurus:Heart_Muscle`                        |              1 | [UBERON:0001133](http://purl.obolibrary.org/obo/UBERON_0001133) |
+| `ncithesaurus:Transverse_Sinus`                    |              1 | [UBERON:0001641](http://purl.obolibrary.org/obo/UBERON_0001641) |
+| `ncithesaurus:Insula`                              |              1 | [UBERON:0002022](http://purl.obolibrary.org/obo/UBERON_0002022) |
+| `ncithesaurus:Cerebral_Aqueduct`                   |              1 | [UBERON:0002289](http://purl.obolibrary.org/obo/UBERON_0002289) |
+| `ncithesaurus:Middle_Frontal_Gyrus`                |              1 | [UBERON:0002702](http://purl.obolibrary.org/obo/UBERON_0002702) |
+| `ncithesaurus:Inferior_Temporal_Gyrus`             |              1 | [UBERON:0002751](http://purl.obolibrary.org/obo/UBERON_0002751) |
+| `ncithesaurus:Superior_Temporal_Gyrus`             |              1 | [UBERON:0002769](http://purl.obolibrary.org/obo/UBERON_0002769) |
+| `ncithesaurus:Middle_Temporal_Gyrus`               |              1 | [UBERON:0002771](http://purl.obolibrary.org/obo/UBERON_0002771) |
+| `ncithesaurus:Inferior_Frontal_Gyrus`              |              1 | [UBERON:0002998](http://purl.obolibrary.org/obo/UBERON_0002998) |
+| `ncithesaurus:Dorsal_Thalamus`                     |              1 | [UBERON:0004703](http://purl.obolibrary.org/obo/UBERON_0004703) |
+| `ncithesaurus:Sigmoid_Sinus`                       |              1 | [UBERON:0005475](http://purl.obolibrary.org/obo/UBERON_0005475) |
+| `ncithesaurus:Straight_Sinus`                      |              1 | [UBERON:0005481](http://purl.obolibrary.org/obo/UBERON_0005481) |
+| `ncithesaurus:Adrenal_Artery`                      |              1 | [UBERON:0005624](http://purl.obolibrary.org/obo/UBERON_0005624) |
 
 ## `cl`: Cell Ontology
 
@@ -80,11 +181,12 @@ Identifiers for this prefix are given incorrectly in `dto`. See the [GitHub repo
 
 Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
-| external_xref         |   usages_count | usages                                                                                                                                                                                                                                                                       |
-|-----------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `NCIT:P378`           |            349 | [EFO:0000096](http://www.ebi.ac.uk/efo/EFO_0000096), [EFO:0000186](http://www.ebi.ac.uk/efo/EFO_0000186), [EFO:0000248](http://www.ebi.ac.uk/efo/EFO_0000248), [EFO:0000275](http://www.ebi.ac.uk/efo/EFO_0000275), [EFO:0000308](http://www.ebi.ac.uk/efo/EFO_0000308), ... |
-| `NCIT:C92189-variant` |              1 | [EFO:1001417](http://www.ebi.ac.uk/efo/EFO_1001417)                                                                                                                                                                                                                          |
-| `NCIt: C12511`        |              1 | [EFO:0001394](http://www.ebi.ac.uk/efo/EFO_0001394)                                                                                                                                                                                                                          |
+| external_xref           |   usages_count | usages                                                                                                                                                                                                                                                                       |
+|-------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `NCIT:P378`             |            544 | [EFO:0000096](http://www.ebi.ac.uk/efo/EFO_0000096), [EFO:0000186](http://www.ebi.ac.uk/efo/EFO_0000186), [EFO:0000248](http://www.ebi.ac.uk/efo/EFO_0000248), [EFO:0000275](http://www.ebi.ac.uk/efo/EFO_0000275), [EFO:0000308](http://www.ebi.ac.uk/efo/EFO_0000308), ... |
+| `NCIT:C128346-modified` |              1 | [EFO:0004720](http://www.ebi.ac.uk/efo/EFO_0004720)                                                                                                                                                                                                                          |
+| `NCIT:C92189-variant`   |              1 | [EFO:1001417](http://www.ebi.ac.uk/efo/EFO_1001417)                                                                                                                                                                                                                          |
+| `NCIt: C12511`          |              1 | [EFO:0001394](http://www.ebi.ac.uk/efo/EFO_0001394)                                                                                                                                                                                                                          |
 
 ## `epso`: Epilepsy and Seizure Ontology
 
@@ -129,7 +231,7 @@ Identifiers for this prefix are given incorrectly in `mondo`. See the [GitHub re
 
 | external_xref           |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `NCIT:P378`             |           1587 | [MONDO:0000158](http://purl.obolibrary.org/obo/MONDO_0000158), [MONDO:0000190](http://purl.obolibrary.org/obo/MONDO_0000190), [MONDO:0000327](http://purl.obolibrary.org/obo/MONDO_0000327), [MONDO:0000328](http://purl.obolibrary.org/obo/MONDO_0000328), [MONDO:0000372](http://purl.obolibrary.org/obo/MONDO_0000372), ... |
+| `NCIT:P378`             |           1585 | [MONDO:0000158](http://purl.obolibrary.org/obo/MONDO_0000158), [MONDO:0000190](http://purl.obolibrary.org/obo/MONDO_0000190), [MONDO:0000327](http://purl.obolibrary.org/obo/MONDO_0000327), [MONDO:0000328](http://purl.obolibrary.org/obo/MONDO_0000328), [MONDO:0000372](http://purl.obolibrary.org/obo/MONDO_0000372), ... |
 | `NCIT:C128346-modified` |              1 | [MONDO:0005429](http://purl.obolibrary.org/obo/MONDO_0005429)                                                                                                                                                                                                                                                                  |
 | `NCIT:C3131-modified`   |              1 | [MONDO:0021094](http://purl.obolibrary.org/obo/MONDO_0021094)                                                                                                                                                                                                                                                                  |
 | `NCIT:C84543-modified`  |              1 | [MONDO:0043209](http://purl.obolibrary.org/obo/MONDO_0043209)                                                                                                                                                                                                                                                                  |
@@ -397,11 +499,10 @@ Identifiers for this prefix are given incorrectly in `plana`. See the [GitHub re
 
 Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
 
-| external_xref               |   usages_count | usages                                                                                                           |
-|-----------------------------|----------------|------------------------------------------------------------------------------------------------------------------|
-| `NCI:NCI`                   |              2 | [PW:0001211](http://purl.obolibrary.org/obo/PW_0001211), [PW:0001212](http://purl.obolibrary.org/obo/PW_0001212) |
-| `NCI:http://www.cancer.gov` |              1 | [PW:0001210](http://purl.obolibrary.org/obo/PW_0001210)                                                          |
-| `NCI:www.cancer.gov`        |              1 | [PW:0001217](http://purl.obolibrary.org/obo/PW_0001217)                                                          |
+| external_xref        |   usages_count | usages                                                                                                           |
+|----------------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `NCI:NCI`            |              2 | [PW:0001211](http://purl.obolibrary.org/obo/PW_0001211), [PW:0001212](http://purl.obolibrary.org/obo/PW_0001212) |
+| `NCI:www.cancer.gov` |              1 | [PW:0001217](http://purl.obolibrary.org/obo/PW_0001217)                                                          |
 
 ## `rdo`: RGD Disease Ontology
 
@@ -409,8 +510,6 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 
 | external_xref   |   usages_count | usages                                                      |
 |-----------------|----------------|-------------------------------------------------------------|
-| `NCI: C27789`   |              1 | [DOID:9005612](http://purl.obolibrary.org/obo/DOID_9005612) |
-| `NCI: C39758`   |              1 | [DOID:9007904](http://purl.obolibrary.org/obo/DOID_9007904) |
 | `NCI:131302`    |              1 | [DOID:0080925](http://purl.obolibrary.org/obo/DOID_0080925) |
 
 ## `uberon`: Uber Anatomy Ontology
@@ -670,12 +769,4 @@ Identifiers for this prefix are given incorrectly in `xao`. See the [GitHub repo
 | `NCIt:Left`                    |              1 | [XAO:0005005](http://purl.obolibrary.org/obo/XAO_0005005) |
 | `NCIt:Right`                   |              1 | [XAO:0005006](http://purl.obolibrary.org/obo/XAO_0005006) |
 | `NCIt:Abdominal_Wall`          |              1 | [XAO:0005504](http://purl.obolibrary.org/obo/XAO_0005504) |
-
-## `xco`: Experimental condition ontology
-
-Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
-
-| external_xref                                                                                                           |   usages_count | usages                                                    |
-|-------------------------------------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------|
-| `NCI Thesaurus:https://ncit-stage.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C930&ns=ncit` |              1 | [XCO:0000620](http://purl.obolibrary.org/obo/XCO_0000620) |
 

@@ -1,7 +1,7 @@
 {
-  "created": "2023-05-21T00:12:55.072334",
+  "created": "2023-09-07T12:26:02.182784",
   "messages": [
-    "could not parse OBO for caloha from https://download.nextprot.org/pub/current_release/controlled_vocabularies/caloha.obo"
+    "[caloha] could not parse OBO from https://raw.githubusercontent.com/calipho-sib/controlled-vocabulary/master/caloha.obo"
   ],
   "results": {}
 }

@@ -1,6 +1,6 @@
 # `xtrodo`
 
-## nif
+## uberon
 
 | curie          |   usages | nodes                                                           |
 |----------------|----------|-----------------------------------------------------------------|
@@ -12,7 +12,7 @@
 | XtroDO:0000007 |        1 | [UBERON:0007233](http://purl.obolibrary.org/obo/UBERON_0007233) |
 | XtroDO:0000008 |        1 | [UBERON:0007236](http://purl.obolibrary.org/obo/UBERON_0007236) |
 
-## uberon
+## nif
 
 | curie          |   usages | nodes                                                           |
 |----------------|----------|-----------------------------------------------------------------|

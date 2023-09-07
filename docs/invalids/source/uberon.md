@@ -197,7 +197,7 @@ did not match the standard pattern `^\d+$`.
 
 ## `GO`: Gene Ontology
 
-Overall, there were 3 invalid
+Overall, there were 4 invalid
 xrefs to external prefixed with `GO` (standardized to Bioregistry
 prefix [`go`](https://bioregistry.io/go)) that
 did not match the standard pattern `^\d{7}$`.
@@ -205,6 +205,7 @@ did not match the standard pattern `^\d{7}$`.
 | external_xref   |   usages_count | usages                                                                                                                           |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------|
 | `GO:GO`         |              2 | [UBERON:0000016](http://purl.obolibrary.org/obo/UBERON_0000016), [UBERON:0006003](http://purl.obolibrary.org/obo/UBERON_0006003) |
+| `GO:dph`        |              1 | [UBERON:0000089](http://purl.obolibrary.org/obo/UBERON_0000089)                                                                  |
 | `GO:curator`    |              1 | [UBERON:0005863](http://purl.obolibrary.org/obo/UBERON_0005863)                                                                  |
 
 ## `HBA`: Human Brain Atlas
@@ -271,7 +272,7 @@ did not match the standard pattern `^\d+$`.
 
 ## `MESH`: Medical Subject Headings
 
-Overall, there were 170 invalid
+Overall, there were 168 invalid
 xrefs to external prefixed with `MESH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
 did not match the standard pattern `^(C|D)\d{6,9}$`.
@@ -298,7 +299,6 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 | `MESH:A08.186.211.132.810.428.200.462` |              2 | [UBERON:0014908](http://purl.obolibrary.org/obo/UBERON_0014908), [UBERON:0014908](http://purl.obolibrary.org/obo/UBERON_0014908)                                                                  |
 | `MESH:G06.535.805`                     |              2 | [UBERON:0018229](http://purl.obolibrary.org/obo/UBERON_0018229), [UBERON:0018229](http://purl.obolibrary.org/obo/UBERON_0018229)                                                                  |
 | `MESH:A08.612.600`                     |              2 | [UBERON:0034931](http://purl.obolibrary.org/obo/UBERON_0034931), [UBERON:0034931](http://purl.obolibrary.org/obo/UBERON_0034931)                                                                  |
-| `MESH:A08.800.550.700.650`             |              2 | [UBERON:0035017](http://purl.obolibrary.org/obo/UBERON_0035017), [UBERON:0035017](http://purl.obolibrary.org/obo/UBERON_0035017)                                                                  |
 | `MESH:A08.800.550.700.840`             |              2 | [UBERON:0035018](http://purl.obolibrary.org/obo/UBERON_0035018), [UBERON:0035018](http://purl.obolibrary.org/obo/UBERON_0035018)                                                                  |
 | `MESH:A08.800.050.800.900.700`         |              2 | [UBERON:0004019](http://purl.obolibrary.org/obo/UBERON_0004019), [UBERON:0018392](http://purl.obolibrary.org/obo/UBERON_0018392)                                                                  |
 | `MESH:A03.734.414`                     |              1 | [UBERON:0000006](http://purl.obolibrary.org/obo/UBERON_0000006)                                                                                                                                   |
@@ -829,25 +829,26 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `UBERON`: Uber Anatomy Ontology
 
-Overall, there were 213 invalid
+Overall, there were 214 invalid
 xrefs to external prefixed with `UBERON` (standardized to Bioregistry
 prefix [`uberon`](https://bioregistry.io/uberon)) that
 did not match the standard pattern `^\d+$`.
 
-| external_xref      |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
-|--------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `UBERON:cjm`       |            173 | [UBERON:0000004](http://purl.obolibrary.org/obo/UBERON_0000004), [UBERON:0000004](http://purl.obolibrary.org/obo/UBERON_0000004), [UBERON:0000012](http://purl.obolibrary.org/obo/UBERON_0000012), [UBERON:0000172](http://purl.obolibrary.org/obo/UBERON_0000172), [UBERON:0000977](http://purl.obolibrary.org/obo/UBERON_0000977), ... |
-| `UBERON:EJS`       |             19 | [UBERON:1000000](http://purl.obolibrary.org/obo/UBERON_1000000), [UBERON:1000001](http://purl.obolibrary.org/obo/UBERON_1000001), [UBERON:1000002](http://purl.obolibrary.org/obo/UBERON_1000002), [UBERON:1000004](http://purl.obolibrary.org/obo/UBERON_1000004), [UBERON:1000005](http://purl.obolibrary.org/obo/UBERON_1000005), ... |
-| `UBERON:mah`       |              4 | [UBERON:0001427](http://purl.obolibrary.org/obo/UBERON_0001427), [UBERON:0001428](http://purl.obolibrary.org/obo/UBERON_0001428), [UBERON:0015001](http://purl.obolibrary.org/obo/UBERON_0015001), [UBERON:0015003](http://purl.obolibrary.org/obo/UBERON_0015003)                                                                       |
-| `UBERON:skansa`    |              4 | [UBERON:0012288](http://purl.obolibrary.org/obo/UBERON_0012288), [UBERON:0012289](http://purl.obolibrary.org/obo/UBERON_0012289), [UBERON:0012290](http://purl.obolibrary.org/obo/UBERON_0012290), [UBERON:0013649](http://purl.obolibrary.org/obo/UBERON_0013649)                                                                       |
-| `UBERON:xp`        |              3 | [UBERON:0003133](http://purl.obolibrary.org/obo/UBERON_0003133), [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134), [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135)                                                                                                                                        |
-| `UBERON:automatic` |              2 | [UBERON:0004766](http://purl.obolibrary.org/obo/UBERON_0004766), [UBERON:0004766](http://purl.obolibrary.org/obo/UBERON_0004766)                                                                                                                                                                                                         |
-| `UBERON:gg`        |              2 | [UBERON:0005982](http://purl.obolibrary.org/obo/UBERON_0005982), [UBERON:0006060](http://purl.obolibrary.org/obo/UBERON_0006060)                                                                                                                                                                                                         |
-| `UBERON:md`        |              2 | [UBERON:0013739](http://purl.obolibrary.org/obo/UBERON_0013739), [UBERON:0013740](http://purl.obolibrary.org/obo/UBERON_0013740)                                                                                                                                                                                                         |
-| `UBERON:gvg`       |              1 | [UBERON:0005273](http://purl.obolibrary.org/obo/UBERON_0005273)                                                                                                                                                                                                                                                                          |
-| `UBERON:nv`        |              1 | [UBERON:0016928](http://purl.obolibrary.org/obo/UBERON_0016928)                                                                                                                                                                                                                                                                          |
-| `UBERON:drseb`     |              1 | [UBERON:0019207](http://purl.obolibrary.org/obo/UBERON_0019207)                                                                                                                                                                                                                                                                          |
-| `UBERON:rc`        |              1 | [UBERON:0036015](http://purl.obolibrary.org/obo/UBERON_0036015)                                                                                                                                                                                                                                                                          |
+| external_xref                |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `UBERON:cjm`                 |            173 | [UBERON:0000004](http://purl.obolibrary.org/obo/UBERON_0000004), [UBERON:0000004](http://purl.obolibrary.org/obo/UBERON_0000004), [UBERON:0000012](http://purl.obolibrary.org/obo/UBERON_0000012), [UBERON:0000172](http://purl.obolibrary.org/obo/UBERON_0000172), [UBERON:0000977](http://purl.obolibrary.org/obo/UBERON_0000977), ... |
+| `UBERON:EJS`                 |             19 | [UBERON:1000000](http://purl.obolibrary.org/obo/UBERON_1000000), [UBERON:1000001](http://purl.obolibrary.org/obo/UBERON_1000001), [UBERON:1000002](http://purl.obolibrary.org/obo/UBERON_1000002), [UBERON:1000004](http://purl.obolibrary.org/obo/UBERON_1000004), [UBERON:1000005](http://purl.obolibrary.org/obo/UBERON_1000005), ... |
+| `UBERON:mah`                 |              4 | [UBERON:0001427](http://purl.obolibrary.org/obo/UBERON_0001427), [UBERON:0001428](http://purl.obolibrary.org/obo/UBERON_0001428), [UBERON:0015001](http://purl.obolibrary.org/obo/UBERON_0015001), [UBERON:0015003](http://purl.obolibrary.org/obo/UBERON_0015003)                                                                       |
+| `UBERON:skansa`              |              4 | [UBERON:0012288](http://purl.obolibrary.org/obo/UBERON_0012288), [UBERON:0012289](http://purl.obolibrary.org/obo/UBERON_0012289), [UBERON:0012290](http://purl.obolibrary.org/obo/UBERON_0012290), [UBERON:0013649](http://purl.obolibrary.org/obo/UBERON_0013649)                                                                       |
+| `UBERON:xp`                  |              3 | [UBERON:0003133](http://purl.obolibrary.org/obo/UBERON_0003133), [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134), [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135)                                                                                                                                        |
+| `UBERON:automatic`           |              2 | [UBERON:0004766](http://purl.obolibrary.org/obo/UBERON_0004766), [UBERON:0004766](http://purl.obolibrary.org/obo/UBERON_0004766)                                                                                                                                                                                                         |
+| `UBERON:gg`                  |              2 | [UBERON:0005982](http://purl.obolibrary.org/obo/UBERON_0005982), [UBERON:0006060](http://purl.obolibrary.org/obo/UBERON_0006060)                                                                                                                                                                                                         |
+| `UBERON:md`                  |              2 | [UBERON:0013739](http://purl.obolibrary.org/obo/UBERON_0013739), [UBERON:0013740](http://purl.obolibrary.org/obo/UBERON_0013740)                                                                                                                                                                                                         |
+| `UBERON:gvg`                 |              1 | [UBERON:0005273](http://purl.obolibrary.org/obo/UBERON_0005273)                                                                                                                                                                                                                                                                          |
+| `UBERON:CL_meeting_20110725` |              1 | [UBERON:0008921](http://purl.obolibrary.org/obo/UBERON_0008921)                                                                                                                                                                                                                                                                          |
+| `UBERON:nv`                  |              1 | [UBERON:0016928](http://purl.obolibrary.org/obo/UBERON_0016928)                                                                                                                                                                                                                                                                          |
+| `UBERON:drseb`               |              1 | [UBERON:0019207](http://purl.obolibrary.org/obo/UBERON_0019207)                                                                                                                                                                                                                                                                          |
+| `UBERON:rc`                  |              1 | [UBERON:0036015](http://purl.obolibrary.org/obo/UBERON_0036015)                                                                                                                                                                                                                                                                          |
 
 ## `VHOG`: Vertebrate Homologous Organ Group Ontology
 
@@ -904,7 +905,7 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `ZFIN`: Zebrafish Information Network Gene
 
-Overall, there were 520 invalid
+Overall, there were 521 invalid
 xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
 prefix [`zfin`](https://bioregistry.io/zfin)) that
 did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
@@ -913,6 +914,7 @@ did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 |------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `ZFIN:curator`   |            515 | [UBERON:0000007](http://purl.obolibrary.org/obo/UBERON_0000007), [UBERON:0000966](http://purl.obolibrary.org/obo/UBERON_0000966), [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991), [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016), [UBERON:0001081](http://purl.obolibrary.org/obo/UBERON_0001081), ... |
 | `ZFIN:Curator`   |              2 | [UBERON:0005817](http://purl.obolibrary.org/obo/UBERON_0005817), [UBERON:2005210](http://purl.obolibrary.org/obo/UBERON_2005210)                                                                                                                                                                                                         |
+| `ZFIN:cvs`       |              1 | [UBERON:0000089](http://purl.obolibrary.org/obo/UBERON_0000089)                                                                                                                                                                                                                                                                          |
 | `ZFIN:yb`        |              1 | [UBERON:0003066](http://purl.obolibrary.org/obo/UBERON_0003066)                                                                                                                                                                                                                                                                          |
 | `ZFIN:090511-18` |              1 | [UBERON:2002145](http://purl.obolibrary.org/obo/UBERON_2002145)                                                                                                                                                                                                                                                                          |
 | `ZFIN:CVS`       |              1 | [UBERON:2005265](http://purl.obolibrary.org/obo/UBERON_2005265)                                                                                                                                                                                                                                                                          |

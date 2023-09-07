@@ -51,6 +51,7 @@
 | NCI-DTP:EKVX              |        1 | [Cellosaurus#CVCL:1195](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1195) |
 | NCI-DTP:HCC-2998          |        1 | [Cellosaurus#CVCL:1266](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1266) |
 | NCI-DTP:HOP-62            |        1 | [Cellosaurus#CVCL:1285](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1285) |
+| NCI-DTP:HOP-92            |        1 | [Cellosaurus#CVCL:1286](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1286) |
 | NCI-DTP:IGR-OV1           |        1 | [Cellosaurus#CVCL:1304](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1304) |
 | NCI-DTP:KM-12             |        1 | [Cellosaurus#CVCL:1331](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1331) |
 | NCI-DTP:LOX IMVI          |        1 | [Cellosaurus#CVCL:1381](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1381) |

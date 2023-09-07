@@ -5,7 +5,7 @@
 | curie                                     |   usages | nodes                                                                  |
 |-------------------------------------------|----------|------------------------------------------------------------------------|
 | Moby_namespace:Human_Readable_Description |        1 | [http://edamontology.org/data_0916](http://edamontology.org/data_0916) |
-| Moby_namespace:Global_GeneCommonName      |        1 | [http://edamontology.org/data_1026](http://edamontology.org/data_1026) |
+| Moby_namespace:Global_GeneSymbol          |        1 | [http://edamontology.org/data_1026](http://edamontology.org/data_1026) |
 | Moby_namespace:GeneDB                     |        1 | [http://edamontology.org/data_1035](http://edamontology.org/data_1035) |
 | Moby_namespace:iHOPorganism               |        1 | [http://edamontology.org/data_1873](http://edamontology.org/data_1873) |
 | Moby_namespace:GENEFARM_GeneID            |        1 | [http://edamontology.org/data_1885](http://edamontology.org/data_1885) |

@@ -12,3 +12,9 @@
 |------------------------------------------|----------|-----------------------------------------------------------|
 | Encarta:Encarta_World_English_Dictionary |        1 | [MMO:0000081](http://purl.obolibrary.org/obo/MMO_0000081) |
 
+## cmo
+
+| curie                                    |   usages | nodes                                                     |
+|------------------------------------------|----------|-----------------------------------------------------------|
+| Encarta:Encarta_World_English_Dictionary |        1 | [CMO:0000445](http://purl.obolibrary.org/obo/CMO_0000445) |
+

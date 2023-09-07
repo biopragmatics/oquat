@@ -1,4 +1,4 @@
-# [`edam`](https://bioregistry.io/edam): Bioinformatics operations, data types, formats, identifiers and topics
+# [`edam`](https://bioregistry.io/edam): EDAM Ontology
 
 This page summarize the different resources that reference `edam`
 but use local unique identifiers that do not match the standard pattern of

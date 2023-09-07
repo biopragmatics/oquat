@@ -123,16 +123,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | BrainInfo:2102 |        2 | [UBERON:0002436](http://purl.obolibrary.org/obo/UBERON_0002436), [UBERON:8440010](http://purl.obolibrary.org/obo/UBERON_8440010) |
 | BrainInfo:512  |        1 | [UBERON:0002043](http://purl.obolibrary.org/obo/UBERON_0002043)                                                                  |
 
-## `CC`
-
-There are 1 usages of `CC` in `nif`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CC).
-
-| curie   |   usages | nodes                                                                                                                    |
-|---------|----------|--------------------------------------------------------------------------------------------------------------------------|
-| CC:DOS  |        2 | [CARO:0000003](http://purl.obolibrary.org/obo/CARO_0000003), [CARO:0000006](http://purl.obolibrary.org/obo/CARO_0000006) |
-
 ## `Chemicool`
 
 There are 1 usages of `Chemicool` in `nif`.
@@ -1429,7 +1419,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie    |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MITRE:tk |       33 | [GO:0044044](http://purl.obolibrary.org/obo/GO_0044044), [GO:0044045](http://purl.obolibrary.org/obo/GO_0044045), [GO:0044046](http://purl.obolibrary.org/obo/GO_0044046), [GO:0044047](http://purl.obolibrary.org/obo/GO_0044047), [GO:0044048](http://purl.obolibrary.org/obo/GO_0044048), ... |
+| MITRE:tk |       31 | [GO:0044044](http://purl.obolibrary.org/obo/GO_0044044), [GO:0044045](http://purl.obolibrary.org/obo/GO_0044045), [GO:0044046](http://purl.obolibrary.org/obo/GO_0044046), [GO:0044047](http://purl.obolibrary.org/obo/GO_0044047), [GO:0044048](http://purl.obolibrary.org/obo/GO_0044048), ... |
 
 ## `MURDOCH`
 
@@ -1551,7 +1541,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 ## `OMA`
 
-There are 85 usages of `OMA` in `nif`.
+There are 86 usages of `OMA` in `nif`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OMA).
 
@@ -1571,6 +1561,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | OMA:P01590     |        1 | [PR:P01590](http://purl.obolibrary.org/obo/PR_P01590) |
 | OMA:P01731     |        1 | [PR:P01731](http://purl.obolibrary.org/obo/PR_P01731) |
 | OMA:P01831     |        1 | [PR:P01831](http://purl.obolibrary.org/obo/PR_P01831) |
+| OMA:P03995     |        1 | [PR:P03995](http://purl.obolibrary.org/obo/PR_P03995) |
 | OMA:P04370     |        1 | [PR:P04370](http://purl.obolibrary.org/obo/PR_P04370) |
 | OMA:MOUSE17014 |        1 | [PR:P05532](http://purl.obolibrary.org/obo/PR_P05532) |
 | OMA:P06332     |        1 | [PR:P06332](http://purl.obolibrary.org/obo/PR_P06332) |

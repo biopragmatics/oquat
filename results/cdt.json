@@ -1,7 +1,30 @@
 {
-  "created": "2023-05-21T00:17:00.836577",
-  "messages": [
-    "could not parse OWL for cdt from https://github.com/oral-health-and-disease-ontologies/ohd-ontology/blob/master/src/ontology/older/CDTCodes%20as%20Classes_pruned.owl"
-  ],
-  "results": {}
+  "created": "2023-09-07T12:28:02.035272",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/iao/cdt.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/iao/cdt.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
+    }
+  }
 }

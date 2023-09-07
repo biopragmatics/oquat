@@ -1,0 +1,13 @@
+# `pw_dictionary`
+
+## pw
+
+| curie                               |   usages | nodes                                                                                                                                                                                                                                                                                            |
+|-------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PW_dictionary:InHouse_dictionary    |        7 | [PW:0000038](http://purl.obolibrary.org/obo/PW_0000038), [PW:0000044](http://purl.obolibrary.org/obo/PW_0000044), [PW:0000079](http://purl.obolibrary.org/obo/PW_0000079), [PW:0000080](http://purl.obolibrary.org/obo/PW_0000080), [PW:0000084](http://purl.obolibrary.org/obo/PW_0000084), ... |
+| PW_Dictionary:InHouse_Dictionary    |        2 | [PW:0000263](http://purl.obolibrary.org/obo/PW_0000263), [PW:0000264](http://purl.obolibrary.org/obo/PW_0000264)                                                                                                                                                                                 |
+| PW_Dictionary:InHouse_dictionary    |        1 | [PW:0000262](http://purl.obolibrary.org/obo/PW_0000262)                                                                                                                                                                                                                                          |
+| PW_dictionary:InHouse_PW            |        1 | [PW:0000318](http://purl.obolibrary.org/obo/PW_0000318)                                                                                                                                                                                                                                          |
+| PW_dictionary:InHouse_PW_dictionary |        1 | [PW:0000336](http://purl.obolibrary.org/obo/PW_0000336)                                                                                                                                                                                                                                          |
+| PW_dictionary:PW_InHouse_dictionary |        1 | [PW:0000358](http://purl.obolibrary.org/obo/PW_0000358)                                                                                                                                                                                                                                          |
+

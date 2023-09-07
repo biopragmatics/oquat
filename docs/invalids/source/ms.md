@@ -4,7 +4,7 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `ms`. See the [GitHub repository](https://github.com/HUPO-PSI/psi-ms-CV).
 
 
-## `EDAM`: Bioinformatics operations, data types, formats, identifiers and topics
+## `EDAM`: EDAM Ontology
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `EDAM` (standardized to Bioregistry

@@ -1,5 +1,11 @@
 # `oed`
 
+## pato
+
+| curie   |   usages | nodes                                                       |
+|---------|----------|-------------------------------------------------------------|
+| OED:    |        1 | [PATO:0002312](http://purl.obolibrary.org/obo/PATO_0002312) |
+
 ## nif
 
 | curie   |   usages | nodes                                                       |
@@ -11,10 +17,4 @@
 | curie          |   usages | nodes                                                     |
 |----------------|----------|-----------------------------------------------------------|
 | OED:experiment |        1 | [ECO:0000006](http://purl.obolibrary.org/obo/ECO_0000006) |
-
-## pato
-
-| curie   |   usages | nodes                                                       |
-|---------|----------|-------------------------------------------------------------|
-| OED:    |        1 | [PATO:0002312](http://purl.obolibrary.org/obo/PATO_0002312) |
 

@@ -21,6 +21,15 @@ Identifiers for this prefix are given incorrectly in `bila`.
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `CARO:MAH`      |             45 | [BILA:0000003](http://purl.obolibrary.org/obo/BILA_0000003), [BILA:0000004](http://purl.obolibrary.org/obo/BILA_0000004), [BILA:0000005](http://purl.obolibrary.org/obo/BILA_0000005), [BILA:0000006](http://purl.obolibrary.org/obo/BILA_0000006), [BILA:0000007](http://purl.obolibrary.org/obo/BILA_0000007), ... |
 
+## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
+
+Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
+
+| external_xref   |   usages_count | usages                                                                                                                           |
+|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------|
+| `CARO:mah`      |              2 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000), [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003)                 |
+| `CARO:DOS`      |              2 | [UBERON:0000475](http://purl.obolibrary.org/obo/UBERON_0000475), [UBERON:0000478](http://purl.obolibrary.org/obo/UBERON_0000478) |
+
 ## `cl`: Cell Ontology
 
 Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
@@ -60,14 +69,6 @@ Identifiers for this prefix are given incorrectly in `fbbt`. See the [GitHub rep
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `CARO:MAH`      |             12 | [FBbt:00000124](http://purl.obolibrary.org/obo/FBbt_00000124), [FBbt:00007001](http://purl.obolibrary.org/obo/FBbt_00007001), [FBbt:00007002](http://purl.obolibrary.org/obo/FBbt_00007002), [FBbt:00007003](http://purl.obolibrary.org/obo/FBbt_00007003), [FBbt:00007004](http://purl.obolibrary.org/obo/FBbt_00007004), ... |
-
-## `idoden`: Dengue Fever Ontology
-
-Identifiers for this prefix are given incorrectly in `idoden`.
-
-| external_xref   |   usages_count | usages                                                          |
-|-----------------|----------------|-----------------------------------------------------------------|
-| `CARO:00000041` |              1 | [IDOMAL:0002461](http://purl.obolibrary.org/obo/IDOMAL_0002461) |
 
 ## `idomal`: Malaria Ontology
 

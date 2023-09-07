@@ -1,9 +1,9 @@
 {
-  "created": "2023-05-21T02:01:08.922846",
+  "created": "2023-09-07T13:33:03.400262",
   "messages": [],
   "results": {
-    "http://purl.obolibrary.org/obo/TEMP": {
-      "graph_id": "http://purl.obolibrary.org/obo/TEMP",
+    "http://purl.obolibrary.org/obo/vt.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/vt.owl",
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/VT_0000001": [
@@ -2108,6 +2108,126 @@
           "http://purl.obolibrary.org/obo/VT_0011019": [
             "RGD:cur"
           ],
+          "http://purl.obolibrary.org/obo/VT_0011020": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011021": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011022": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011023": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011024": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011025": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011026": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011027": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011028": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011029": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011030": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011031": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011032": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011033": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011034": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011035": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011036": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011037": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011038": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011039": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011040": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011041": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011042": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011044": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011045": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011046": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011047": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011048": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011049": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011050": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011051": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011052": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011053": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011054": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011055": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011056": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011057": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011058": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011059": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011060": [
+            "RGD:cur"
+          ],
           "http://purl.obolibrary.org/obo/VT_0015027": [
             "MGI:smb",
             "VTO:CP"
@@ -2592,6 +2712,9 @@
         "noncanonical_prefixes": {
           "ISBN ": {
             "http://purl.obolibrary.org/obo/VT_0010440": "ISBN :0805375430"
+          },
+          "ISBN-13": {
+            "http://purl.obolibrary.org/obo/VT_0011021": "ISBN-13:9780781733908"
           },
           "RGD ": {
             "http://purl.obolibrary.org/obo/VT_0010265": "RGD :MS"

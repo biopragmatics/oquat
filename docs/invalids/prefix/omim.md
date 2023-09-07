@@ -140,6 +140,7 @@ Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub rep
 |-----------------|----------------|-------------------------------------------------------------|
 | `OMIM:PS267700` |              1 | [DOID:0050120](http://purl.obolibrary.org/obo/DOID_0050120) |
 | `OMIM:PS275200` |              1 | [DOID:0050328](http://purl.obolibrary.org/obo/DOID_0050328) |
+| `OMIM:PS608415` |              1 | [DOID:0050335](http://purl.obolibrary.org/obo/DOID_0050335) |
 | `OMIM:PS175100` |              1 | [DOID:0050424](http://purl.obolibrary.org/obo/DOID_0050424) |
 | `OMIM:PS102300` |              1 | [DOID:0050425](http://purl.obolibrary.org/obo/DOID_0050425) |
 | `OMIM:PS107970` |              1 | [DOID:0050431](http://purl.obolibrary.org/obo/DOID_0050431) |
@@ -192,6 +193,7 @@ Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub rep
 | `OMIM:PS236680` |              1 | [DOID:0050779](http://purl.obolibrary.org/obo/DOID_0050779) |
 | `OMIM:PS185800` |              1 | [DOID:0050788](http://purl.obolibrary.org/obo/DOID_0050788) |
 | `OMIM:PS186500` |              1 | [DOID:0050794](http://purl.obolibrary.org/obo/DOID_0050794) |
+| `OMIM:PS300352` |              1 | [DOID:0050798](http://purl.obolibrary.org/obo/DOID_0050798) |
 | `OMIM:PS236730` |              1 | [DOID:0050816](http://purl.obolibrary.org/obo/DOID_0050816) |
 | `OMIM:PS233400` |              1 | [DOID:0050857](http://purl.obolibrary.org/obo/DOID_0050857) |
 | `OMIM:PS167320` |              1 | [DOID:0050881](http://purl.obolibrary.org/obo/DOID_0050881) |
@@ -202,6 +204,7 @@ Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub rep
 | `OMIM:PS105800` |              1 | [DOID:0060228](http://purl.obolibrary.org/obo/DOID_0060228) |
 | `OMIM:PS243310` |              1 | [DOID:0060229](http://purl.obolibrary.org/obo/DOID_0060229) |
 | `OMIM:PS115150` |              1 | [DOID:0060233](http://purl.obolibrary.org/obo/DOID_0060233) |
+| `OMIM:PS278300` |              1 | [DOID:0060236](http://purl.obolibrary.org/obo/DOID_0060236) |
 | `OMIM:PS600118` |              1 | [DOID:0060237](http://purl.obolibrary.org/obo/DOID_0060237) |
 | `OMIM:PS601390` |              1 | [DOID:0060238](http://purl.obolibrary.org/obo/DOID_0060238) |
 | `OMIM:PS600630` |              1 | [DOID:0060240](http://purl.obolibrary.org/obo/DOID_0060240) |
@@ -235,6 +238,7 @@ Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub rep
 | `OMIM:PS312080` |              1 | [DOID:0060786](http://purl.obolibrary.org/obo/DOID_0060786) |
 | `OMIM:PS214450` |              1 | [DOID:0060831](http://purl.obolibrary.org/obo/DOID_0060831) |
 | `OMIM:PS169150` |              1 | [DOID:0060863](http://purl.obolibrary.org/obo/DOID_0060863) |
+| `OMIM:PS603896` |              1 | [DOID:0060868](http://purl.obolibrary.org/obo/DOID_0060868) |
 | `OMIM:PS602014` |              1 | [DOID:0060879](http://purl.obolibrary.org/obo/DOID_0060879) |
 | `OMIM:PS254130` |              1 | [DOID:0070198](http://purl.obolibrary.org/obo/DOID_0070198) |
 | `OMIM:PS211600` |              1 | [DOID:0070221](http://purl.obolibrary.org/obo/DOID_0070221) |
@@ -243,6 +247,8 @@ Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub rep
 | `OMIM:PS603041` |              1 | [DOID:0070329](http://purl.obolibrary.org/obo/DOID_0070329) |
 | `OMIM:PS605711` |              1 | [DOID:0070330](http://purl.obolibrary.org/obo/DOID_0070330) |
 | `OMIM:PS158600` |              1 | [DOID:0070348](http://purl.obolibrary.org/obo/DOID_0070348) |
+| `OMIM:PS239300` |              1 | [DOID:0070431](http://purl.obolibrary.org/obo/DOID_0070431) |
+| `OMIM:PS136550` |              1 | [DOID:0070438](http://purl.obolibrary.org/obo/DOID_0070438) |
 | `OMIM:PS123000` |              1 | [DOID:0080033](http://purl.obolibrary.org/obo/DOID_0080033) |
 | `OMIM:PS200600` |              1 | [DOID:0080043](http://purl.obolibrary.org/obo/DOID_0080043) |
 | `OMIM:PS108300` |              1 | [DOID:0080046](http://purl.obolibrary.org/obo/DOID_0080046) |
@@ -281,6 +287,7 @@ Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub rep
 | `OMIM:PS613339` |              1 | [DOID:0081104](http://purl.obolibrary.org/obo/DOID_0081104) |
 | `OMIM:PS248370` |              1 | [DOID:0081127](http://purl.obolibrary.org/obo/DOID_0081127) |
 | `OMIM:PS164310` |              1 | [DOID:0081296](http://purl.obolibrary.org/obo/DOID_0081296) |
+| `OMIM:PS149730` |              1 | [DOID:0081370](http://purl.obolibrary.org/obo/DOID_0081370) |
 | `OMIM:PS219000` |              1 | [DOID:0090001](http://purl.obolibrary.org/obo/DOID_0090001) |
 | `OMIM:PS242860` |              1 | [DOID:0090007](http://purl.obolibrary.org/obo/DOID_0090007) |
 | `OMIM:PS183600` |              1 | [DOID:0090020](http://purl.obolibrary.org/obo/DOID_0090020) |
@@ -317,8 +324,10 @@ Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub rep
 | `OMIM:PS134600` |              1 | [DOID:1062](http://purl.obolibrary.org/obo/DOID_1062)       |
 | `OMIM:PS133100` |              1 | [DOID:10780](http://purl.obolibrary.org/obo/DOID_10780)     |
 | `OMIM:PS603075` |              1 | [DOID:10871](http://purl.obolibrary.org/obo/DOID_10871)     |
+| `OMIM:PS612900` |              1 | [DOID:10970](http://purl.obolibrary.org/obo/DOID_10970)     |
 | `OMIM:PS122470` |              1 | [DOID:11725](http://purl.obolibrary.org/obo/DOID_11725)     |
 | `OMIM:PS310300` |              1 | [DOID:11726](http://purl.obolibrary.org/obo/DOID_11726)     |
+| `OMIM:PS115430` |              1 | [DOID:12169](http://purl.obolibrary.org/obo/DOID_12169)     |
 | `OMIM:PS607594` |              1 | [DOID:12177](http://purl.obolibrary.org/obo/DOID_12177)     |
 | `OMIM:PS109720` |              1 | [DOID:12236](http://purl.obolibrary.org/obo/DOID_12236)     |
 | `OMIM:PS166200` |              1 | [DOID:12347](http://purl.obolibrary.org/obo/DOID_12347)     |
@@ -353,6 +362,7 @@ Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub rep
 | `OMIM:PS235200` |              1 | [DOID:2352](http://purl.obolibrary.org/obo/DOID_2352)       |
 | `OMIM:PS188050` |              1 | [DOID:2452](http://purl.obolibrary.org/obo/DOID_2452)       |
 | `OMIM:PS303350` |              1 | [DOID:2476](http://purl.obolibrary.org/obo/DOID_2476)       |
+| `OMIM:PS109400` |              1 | [DOID:2512](http://purl.obolibrary.org/obo/DOID_2512)       |
 | `OMIM:PS215100` |              1 | [DOID:2580](http://purl.obolibrary.org/obo/DOID_2580)       |
 | `OMIM:PS601495` |              1 | [DOID:2583](http://purl.obolibrary.org/obo/DOID_2583)       |
 | `OMIM:PS256300` |              1 | [DOID:2590](http://purl.obolibrary.org/obo/DOID_2590)       |
@@ -371,13 +381,16 @@ Identifiers for this prefix are given incorrectly in `doid`. See the [GitHub rep
 | `OMIM:PS163950` |              1 | [DOID:3490](http://purl.obolibrary.org/obo/DOID_3490)       |
 | `OMIM:PS601462` |              1 | [DOID:3635](http://purl.obolibrary.org/obo/DOID_3635)       |
 | `OMIM:PS203300` |              1 | [DOID:3753](http://purl.obolibrary.org/obo/DOID_3753)       |
+| `OMIM:PS220110` |              1 | [DOID:3762](http://purl.obolibrary.org/obo/DOID_3762)       |
 | `OMIM:PS102200` |              1 | [DOID:3829](http://purl.obolibrary.org/obo/DOID_3829)       |
 | `OMIM:PS120435` |              1 | [DOID:3883](http://purl.obolibrary.org/obo/DOID_3883)       |
 | `OMIM:PS115210` |              1 | [DOID:397](http://purl.obolibrary.org/obo/DOID_397)         |
 | `OMIM:PS601678` |              1 | [DOID:445](http://purl.obolibrary.org/obo/DOID_445)         |
 | `OMIM:PS605389` |              1 | [DOID:4535](http://purl.obolibrary.org/obo/DOID_4535)       |
+| `OMIM:PS113800` |              1 | [DOID:4603](http://purl.obolibrary.org/obo/DOID_4603)       |
 | `OMIM:PS236100` |              1 | [DOID:4621](http://purl.obolibrary.org/obo/DOID_4621)       |
 | `OMIM:PS190300` |              1 | [DOID:4990](http://purl.obolibrary.org/obo/DOID_4990)       |
+| `OMIM:PS167250` |              1 | [DOID:5408](http://purl.obolibrary.org/obo/DOID_5408)       |
 | `OMIM:PS311360` |              1 | [DOID:5426](http://purl.obolibrary.org/obo/DOID_5426)       |
 | `OMIM:PS128100` |              1 | [DOID:543](http://purl.obolibrary.org/obo/DOID_543)         |
 | `OMIM:PS265450` |              1 | [DOID:5453](http://purl.obolibrary.org/obo/DOID_5453)       |
@@ -403,7 +416,7 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `OMIM:genemap2` |             50 | [EFO:0000174](http://www.ebi.ac.uk/efo/EFO_0000174), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000198](http://www.ebi.ac.uk/efo/EFO_0000198), ... |
+| `OMIM:genemap2` |             49 | [EFO:0000174](http://www.ebi.ac.uk/efo/EFO_0000174), [EFO:0000181](http://www.ebi.ac.uk/efo/EFO_0000181), [EFO:0000182](http://www.ebi.ac.uk/efo/EFO_0000182), [EFO:0000191](http://www.ebi.ac.uk/efo/EFO_0000191), [EFO:0000198](http://www.ebi.ac.uk/efo/EFO_0000198), ... |
 
 ## `epso`: Epilepsy and Seizure Ontology
 
@@ -447,6 +460,7 @@ Identifiers for this prefix are given incorrectly in `nif`.
 |-----------------|----------------|-------------------------------------------------------------|
 | `OMIM:PS267700` |              1 | [DOID:0050120](http://purl.obolibrary.org/obo/DOID_0050120) |
 | `OMIM:PS275200` |              1 | [DOID:0050328](http://purl.obolibrary.org/obo/DOID_0050328) |
+| `OMIM:PS608415` |              1 | [DOID:0050335](http://purl.obolibrary.org/obo/DOID_0050335) |
 | `OMIM:PS175100` |              1 | [DOID:0050424](http://purl.obolibrary.org/obo/DOID_0050424) |
 | `OMIM:PS102300` |              1 | [DOID:0050425](http://purl.obolibrary.org/obo/DOID_0050425) |
 | `OMIM:PS107970` |              1 | [DOID:0050431](http://purl.obolibrary.org/obo/DOID_0050431) |
@@ -499,6 +513,7 @@ Identifiers for this prefix are given incorrectly in `nif`.
 | `OMIM:PS236680` |              1 | [DOID:0050779](http://purl.obolibrary.org/obo/DOID_0050779) |
 | `OMIM:PS185800` |              1 | [DOID:0050788](http://purl.obolibrary.org/obo/DOID_0050788) |
 | `OMIM:PS186500` |              1 | [DOID:0050794](http://purl.obolibrary.org/obo/DOID_0050794) |
+| `OMIM:PS300352` |              1 | [DOID:0050798](http://purl.obolibrary.org/obo/DOID_0050798) |
 | `OMIM:PS236730` |              1 | [DOID:0050816](http://purl.obolibrary.org/obo/DOID_0050816) |
 | `OMIM:PS233400` |              1 | [DOID:0050857](http://purl.obolibrary.org/obo/DOID_0050857) |
 | `OMIM:PS167320` |              1 | [DOID:0050881](http://purl.obolibrary.org/obo/DOID_0050881) |
@@ -509,6 +524,7 @@ Identifiers for this prefix are given incorrectly in `nif`.
 | `OMIM:PS105800` |              1 | [DOID:0060228](http://purl.obolibrary.org/obo/DOID_0060228) |
 | `OMIM:PS243310` |              1 | [DOID:0060229](http://purl.obolibrary.org/obo/DOID_0060229) |
 | `OMIM:PS115150` |              1 | [DOID:0060233](http://purl.obolibrary.org/obo/DOID_0060233) |
+| `OMIM:PS278300` |              1 | [DOID:0060236](http://purl.obolibrary.org/obo/DOID_0060236) |
 | `OMIM:PS600118` |              1 | [DOID:0060237](http://purl.obolibrary.org/obo/DOID_0060237) |
 | `OMIM:PS601390` |              1 | [DOID:0060238](http://purl.obolibrary.org/obo/DOID_0060238) |
 | `OMIM:PS600630` |              1 | [DOID:0060240](http://purl.obolibrary.org/obo/DOID_0060240) |
@@ -542,6 +558,7 @@ Identifiers for this prefix are given incorrectly in `nif`.
 | `OMIM:PS312080` |              1 | [DOID:0060786](http://purl.obolibrary.org/obo/DOID_0060786) |
 | `OMIM:PS214450` |              1 | [DOID:0060831](http://purl.obolibrary.org/obo/DOID_0060831) |
 | `OMIM:PS169150` |              1 | [DOID:0060863](http://purl.obolibrary.org/obo/DOID_0060863) |
+| `OMIM:PS603896` |              1 | [DOID:0060868](http://purl.obolibrary.org/obo/DOID_0060868) |
 | `OMIM:PS602014` |              1 | [DOID:0060879](http://purl.obolibrary.org/obo/DOID_0060879) |
 | `OMIM:PS254130` |              1 | [DOID:0070198](http://purl.obolibrary.org/obo/DOID_0070198) |
 | `OMIM:PS211600` |              1 | [DOID:0070221](http://purl.obolibrary.org/obo/DOID_0070221) |
@@ -550,6 +567,8 @@ Identifiers for this prefix are given incorrectly in `nif`.
 | `OMIM:PS603041` |              1 | [DOID:0070329](http://purl.obolibrary.org/obo/DOID_0070329) |
 | `OMIM:PS605711` |              1 | [DOID:0070330](http://purl.obolibrary.org/obo/DOID_0070330) |
 | `OMIM:PS158600` |              1 | [DOID:0070348](http://purl.obolibrary.org/obo/DOID_0070348) |
+| `OMIM:PS239300` |              1 | [DOID:0070431](http://purl.obolibrary.org/obo/DOID_0070431) |
+| `OMIM:PS136550` |              1 | [DOID:0070438](http://purl.obolibrary.org/obo/DOID_0070438) |
 | `OMIM:PS123000` |              1 | [DOID:0080033](http://purl.obolibrary.org/obo/DOID_0080033) |
 | `OMIM:PS200600` |              1 | [DOID:0080043](http://purl.obolibrary.org/obo/DOID_0080043) |
 | `OMIM:PS108300` |              1 | [DOID:0080046](http://purl.obolibrary.org/obo/DOID_0080046) |
@@ -588,6 +607,7 @@ Identifiers for this prefix are given incorrectly in `nif`.
 | `OMIM:PS613339` |              1 | [DOID:0081104](http://purl.obolibrary.org/obo/DOID_0081104) |
 | `OMIM:PS248370` |              1 | [DOID:0081127](http://purl.obolibrary.org/obo/DOID_0081127) |
 | `OMIM:PS164310` |              1 | [DOID:0081296](http://purl.obolibrary.org/obo/DOID_0081296) |
+| `OMIM:PS149730` |              1 | [DOID:0081370](http://purl.obolibrary.org/obo/DOID_0081370) |
 | `OMIM:PS219000` |              1 | [DOID:0090001](http://purl.obolibrary.org/obo/DOID_0090001) |
 | `OMIM:PS242860` |              1 | [DOID:0090007](http://purl.obolibrary.org/obo/DOID_0090007) |
 | `OMIM:PS183600` |              1 | [DOID:0090020](http://purl.obolibrary.org/obo/DOID_0090020) |
@@ -624,8 +644,10 @@ Identifiers for this prefix are given incorrectly in `nif`.
 | `OMIM:PS134600` |              1 | [DOID:1062](http://purl.obolibrary.org/obo/DOID_1062)       |
 | `OMIM:PS133100` |              1 | [DOID:10780](http://purl.obolibrary.org/obo/DOID_10780)     |
 | `OMIM:PS603075` |              1 | [DOID:10871](http://purl.obolibrary.org/obo/DOID_10871)     |
+| `OMIM:PS612900` |              1 | [DOID:10970](http://purl.obolibrary.org/obo/DOID_10970)     |
 | `OMIM:PS122470` |              1 | [DOID:11725](http://purl.obolibrary.org/obo/DOID_11725)     |
 | `OMIM:PS310300` |              1 | [DOID:11726](http://purl.obolibrary.org/obo/DOID_11726)     |
+| `OMIM:PS115430` |              1 | [DOID:12169](http://purl.obolibrary.org/obo/DOID_12169)     |
 | `OMIM:PS607594` |              1 | [DOID:12177](http://purl.obolibrary.org/obo/DOID_12177)     |
 | `OMIM:PS109720` |              1 | [DOID:12236](http://purl.obolibrary.org/obo/DOID_12236)     |
 | `OMIM:PS166200` |              1 | [DOID:12347](http://purl.obolibrary.org/obo/DOID_12347)     |
@@ -660,6 +682,7 @@ Identifiers for this prefix are given incorrectly in `nif`.
 | `OMIM:PS235200` |              1 | [DOID:2352](http://purl.obolibrary.org/obo/DOID_2352)       |
 | `OMIM:PS188050` |              1 | [DOID:2452](http://purl.obolibrary.org/obo/DOID_2452)       |
 | `OMIM:PS303350` |              1 | [DOID:2476](http://purl.obolibrary.org/obo/DOID_2476)       |
+| `OMIM:PS109400` |              1 | [DOID:2512](http://purl.obolibrary.org/obo/DOID_2512)       |
 | `OMIM:PS215100` |              1 | [DOID:2580](http://purl.obolibrary.org/obo/DOID_2580)       |
 | `OMIM:PS601495` |              1 | [DOID:2583](http://purl.obolibrary.org/obo/DOID_2583)       |
 | `OMIM:PS256300` |              1 | [DOID:2590](http://purl.obolibrary.org/obo/DOID_2590)       |
@@ -678,13 +701,16 @@ Identifiers for this prefix are given incorrectly in `nif`.
 | `OMIM:PS163950` |              1 | [DOID:3490](http://purl.obolibrary.org/obo/DOID_3490)       |
 | `OMIM:PS601462` |              1 | [DOID:3635](http://purl.obolibrary.org/obo/DOID_3635)       |
 | `OMIM:PS203300` |              1 | [DOID:3753](http://purl.obolibrary.org/obo/DOID_3753)       |
+| `OMIM:PS220110` |              1 | [DOID:3762](http://purl.obolibrary.org/obo/DOID_3762)       |
 | `OMIM:PS102200` |              1 | [DOID:3829](http://purl.obolibrary.org/obo/DOID_3829)       |
 | `OMIM:PS120435` |              1 | [DOID:3883](http://purl.obolibrary.org/obo/DOID_3883)       |
 | `OMIM:PS115210` |              1 | [DOID:397](http://purl.obolibrary.org/obo/DOID_397)         |
 | `OMIM:PS601678` |              1 | [DOID:445](http://purl.obolibrary.org/obo/DOID_445)         |
 | `OMIM:PS605389` |              1 | [DOID:4535](http://purl.obolibrary.org/obo/DOID_4535)       |
+| `OMIM:PS113800` |              1 | [DOID:4603](http://purl.obolibrary.org/obo/DOID_4603)       |
 | `OMIM:PS236100` |              1 | [DOID:4621](http://purl.obolibrary.org/obo/DOID_4621)       |
 | `OMIM:PS190300` |              1 | [DOID:4990](http://purl.obolibrary.org/obo/DOID_4990)       |
+| `OMIM:PS167250` |              1 | [DOID:5408](http://purl.obolibrary.org/obo/DOID_5408)       |
 | `OMIM:PS311360` |              1 | [DOID:5426](http://purl.obolibrary.org/obo/DOID_5426)       |
 | `OMIM:PS128100` |              1 | [DOID:543](http://purl.obolibrary.org/obo/DOID_543)         |
 | `OMIM:PS265450` |              1 | [DOID:5453](http://purl.obolibrary.org/obo/DOID_5453)       |
@@ -708,10 +734,9 @@ Identifiers for this prefix are given incorrectly in `nif`.
 
 Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
 
-| external_xref                            |   usages_count | usages                                                                                                                                                                    |
-|------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `OMIM:OMIM`                              |              3 | [PW:0000625](http://purl.obolibrary.org/obo/PW_0000625), [PW:0000627](http://purl.obolibrary.org/obo/PW_0000627), [PW:0000631](http://purl.obolibrary.org/obo/PW_0000631) |
-| `OMIM:https://www.omim.org/entry/201710` |              1 | [PW:0001479](http://purl.obolibrary.org/obo/PW_0001479)                                                                                                                   |
+| external_xref   |   usages_count | usages                                                                                                                                                                    |
+|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `OMIM:OMIM`     |              3 | [PW:0000625](http://purl.obolibrary.org/obo/PW_0000625), [PW:0000627](http://purl.obolibrary.org/obo/PW_0000627), [PW:0000631](http://purl.obolibrary.org/obo/PW_0000631) |
 
 ## `rdo`: RGD Disease Ontology
 
@@ -721,7 +746,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 |-----------------|----------------|-------------------------------------------------------------|
 | `OMIM:PS267700` |              1 | [DOID:0050120](http://purl.obolibrary.org/obo/DOID_0050120) |
 | `OMIM:PS275200` |              1 | [DOID:0050328](http://purl.obolibrary.org/obo/DOID_0050328) |
-| `OMIM:PS149730` |              1 | [DOID:0050331](http://purl.obolibrary.org/obo/DOID_0050331) |
+| `OMIM:PS608415` |              1 | [DOID:0050335](http://purl.obolibrary.org/obo/DOID_0050335) |
 | `OMIM:PS175100` |              1 | [DOID:0050424](http://purl.obolibrary.org/obo/DOID_0050424) |
 | `OMIM:PS102300` |              1 | [DOID:0050425](http://purl.obolibrary.org/obo/DOID_0050425) |
 | `OMIM:PS107970` |              1 | [DOID:0050431](http://purl.obolibrary.org/obo/DOID_0050431) |
@@ -874,6 +899,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS314580` |              1 | [DOID:0060815](http://purl.obolibrary.org/obo/DOID_0060815) |
 | `OMIM:PS214450` |              1 | [DOID:0060831](http://purl.obolibrary.org/obo/DOID_0060831) |
 | `OMIM:PS169150` |              1 | [DOID:0060863](http://purl.obolibrary.org/obo/DOID_0060863) |
+| `OMIM:PS603896` |              1 | [DOID:0060868](http://purl.obolibrary.org/obo/DOID_0060868) |
 | `OMIM:PS262400` |              1 | [DOID:0060870](http://purl.obolibrary.org/obo/DOID_0060870) |
 | `OMIM:PS602014` |              1 | [DOID:0060879](http://purl.obolibrary.org/obo/DOID_0060879) |
 | `OMIM:PS153600` |              1 | [DOID:0060901](http://purl.obolibrary.org/obo/DOID_0060901) |
@@ -884,6 +910,8 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS603041` |              1 | [DOID:0070329](http://purl.obolibrary.org/obo/DOID_0070329) |
 | `OMIM:PS605711` |              1 | [DOID:0070330](http://purl.obolibrary.org/obo/DOID_0070330) |
 | `OMIM:PS158600` |              1 | [DOID:0070348](http://purl.obolibrary.org/obo/DOID_0070348) |
+| `OMIM:PS239300` |              1 | [DOID:0070431](http://purl.obolibrary.org/obo/DOID_0070431) |
+| `OMIM:PS136550` |              1 | [DOID:0070438](http://purl.obolibrary.org/obo/DOID_0070438) |
 | `OMIM:PS184840` |              1 | [DOID:0080026](http://purl.obolibrary.org/obo/DOID_0080026) |
 | `OMIM:PS123000` |              1 | [DOID:0080033](http://purl.obolibrary.org/obo/DOID_0080033) |
 | `OMIM:PS200600` |              1 | [DOID:0080043](http://purl.obolibrary.org/obo/DOID_0080043) |
@@ -903,6 +931,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS109730` |              1 | [DOID:0080332](http://purl.obolibrary.org/obo/DOID_0080332) |
 | `OMIM:PS119580` |              1 | [DOID:0080344](http://purl.obolibrary.org/obo/DOID_0080344) |
 | `OMIM:PS214100` |              1 | [DOID:0080377](http://purl.obolibrary.org/obo/DOID_0080377) |
+| `OMIM:PS256550` |              1 | [DOID:0080488](http://purl.obolibrary.org/obo/DOID_0080488) |
 | `OMIM:PS614080` |              1 | [DOID:0080503](http://purl.obolibrary.org/obo/DOID_0080503) |
 | `OMIM:PS613280` |              1 | [DOID:0080535](http://purl.obolibrary.org/obo/DOID_0080535) |
 | `OMIM:PS308230` |              1 | [DOID:0080544](http://purl.obolibrary.org/obo/DOID_0080544) |
@@ -912,6 +941,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS203650` |              1 | [DOID:0080627](http://purl.obolibrary.org/obo/DOID_0080627) |
 | `OMIM:PS600165` |              1 | [DOID:0080634](http://purl.obolibrary.org/obo/DOID_0080634) |
 | `OMIM:PS309800` |              1 | [DOID:0080636](http://purl.obolibrary.org/obo/DOID_0080636) |
+| `OMIM:PS167030` |              1 | [DOID:0080652](http://purl.obolibrary.org/obo/DOID_0080652) |
 | `OMIM:PS612286` |              1 | [DOID:0080655](http://purl.obolibrary.org/obo/DOID_0080655) |
 | `OMIM:PS161050` |              1 | [DOID:0080683](http://purl.obolibrary.org/obo/DOID_0080683) |
 | `OMIM:PS257300` |              1 | [DOID:0080688](http://purl.obolibrary.org/obo/DOID_0080688) |
@@ -928,6 +958,8 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS300291` |              1 | [DOID:0081077](http://purl.obolibrary.org/obo/DOID_0081077) |
 | `OMIM:PS613339` |              1 | [DOID:0081104](http://purl.obolibrary.org/obo/DOID_0081104) |
 | `OMIM:PS164310` |              1 | [DOID:0081296](http://purl.obolibrary.org/obo/DOID_0081296) |
+| `OMIM:PS117000` |              1 | [DOID:0081337](http://purl.obolibrary.org/obo/DOID_0081337) |
+| `OMIM:PS149730` |              1 | [DOID:0081370](http://purl.obolibrary.org/obo/DOID_0081370) |
 | `OMIM:PS242860` |              1 | [DOID:0090007](http://purl.obolibrary.org/obo/DOID_0090007) |
 | `OMIM:PS210250` |              1 | [DOID:0090019](http://purl.obolibrary.org/obo/DOID_0090019) |
 | `OMIM:PS183600` |              1 | [DOID:0090020](http://purl.obolibrary.org/obo/DOID_0090020) |
@@ -945,6 +977,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS157600` |              1 | [DOID:0111153](http://purl.obolibrary.org/obo/DOID_0111153) |
 | `OMIM:PS252150` |              1 | [DOID:0111165](http://purl.obolibrary.org/obo/DOID_0111165) |
 | `OMIM:PS236670` |              1 | [DOID:0111229](http://purl.obolibrary.org/obo/DOID_0111229) |
+| `OMIM:PS609015` |              1 | [DOID:0111277](http://purl.obolibrary.org/obo/DOID_0111277) |
 | `OMIM:PS141200` |              1 | [DOID:0111365](http://purl.obolibrary.org/obo/DOID_0111365) |
 | `OMIM:PS208150` |              1 | [DOID:0111375](http://purl.obolibrary.org/obo/DOID_0111375) |
 | `OMIM:PS146200` |              1 | [DOID:0111387](http://purl.obolibrary.org/obo/DOID_0111387) |
@@ -1050,6 +1083,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS313900` |              1 | [DOID:1588](http://purl.obolibrary.org/obo/DOID_1588)       |
 | `OMIM:PS613112` |              1 | [DOID:1588](http://purl.obolibrary.org/obo/DOID_1588)       |
 | `OMIM:PS614429` |              1 | [DOID:1657](http://purl.obolibrary.org/obo/DOID_1657)       |
+| `OMIM:PS146590` |              1 | [DOID:1697](http://purl.obolibrary.org/obo/DOID_1697)       |
 | `OMIM:PS600131` |              1 | [DOID:1825](http://purl.obolibrary.org/obo/DOID_1825)       |
 | `OMIM:PS600669` |              1 | [DOID:1827](http://purl.obolibrary.org/obo/DOID_1827)       |
 | `OMIM:PS108800` |              1 | [DOID:1882](http://purl.obolibrary.org/obo/DOID_1882)       |
@@ -1114,13 +1148,14 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS188550` |              1 | [DOID:3969](http://purl.obolibrary.org/obo/DOID_3969)       |
 | `OMIM:PS115210` |              1 | [DOID:397](http://purl.obolibrary.org/obo/DOID_397)         |
 | `OMIM:PS160565` |              1 | [DOID:423](http://purl.obolibrary.org/obo/DOID_423)         |
-| `OMIM:PS136550` |              1 | [DOID:4448](http://purl.obolibrary.org/obo/DOID_4448)       |
 | `OMIM:PS601678` |              1 | [DOID:445](http://purl.obolibrary.org/obo/DOID_445)         |
 | `OMIM:PS103900` |              1 | [DOID:446](http://purl.obolibrary.org/obo/DOID_446)         |
 | `OMIM:PS145260` |              1 | [DOID:4479](http://purl.obolibrary.org/obo/DOID_4479)       |
+| `OMIM:PS177735` |              1 | [DOID:4479](http://purl.obolibrary.org/obo/DOID_4479)       |
 | `OMIM:PS160900` |              1 | [DOID:450](http://purl.obolibrary.org/obo/DOID_450)         |
 | `OMIM:PS311200` |              1 | [DOID:4501](http://purl.obolibrary.org/obo/DOID_4501)       |
 | `OMIM:PS605389` |              1 | [DOID:4535](http://purl.obolibrary.org/obo/DOID_4535)       |
+| `OMIM:PS113800` |              1 | [DOID:4603](http://purl.obolibrary.org/obo/DOID_4603)       |
 | `OMIM:PS607602` |              1 | [DOID:4603](http://purl.obolibrary.org/obo/DOID_4603)       |
 | `OMIM:PS236100` |              1 | [DOID:4621](http://purl.obolibrary.org/obo/DOID_4621)       |
 | `OMIM:PS131760` |              1 | [DOID:4644](http://purl.obolibrary.org/obo/DOID_4644)       |
@@ -1195,7 +1230,6 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS256040` |              1 | [DOID:9004752](http://purl.obolibrary.org/obo/DOID_9004752) |
 | `OMIM:PS607313` |              1 | [DOID:9004787](http://purl.obolibrary.org/obo/DOID_9004787) |
 | `OMIM:PS613135` |              1 | [DOID:9005014](http://purl.obolibrary.org/obo/DOID_9005014) |
-| `OMIM:PS239300` |              1 | [DOID:9005046](http://purl.obolibrary.org/obo/DOID_9005046) |
 | `OMIM:PS174400` |              1 | [DOID:9005329](http://purl.obolibrary.org/obo/DOID_9005329) |
 | `OMIM:PS229200` |              1 | [DOID:9005468](http://purl.obolibrary.org/obo/DOID_9005468) |
 | `OMIM:PS608354` |              1 | [DOID:9005469](http://purl.obolibrary.org/obo/DOID_9005469) |
@@ -1205,6 +1239,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS277400` |              1 | [DOID:9005614](http://purl.obolibrary.org/obo/DOID_9005614) |
 | `OMIM:PS148210` |              1 | [DOID:9005709](http://purl.obolibrary.org/obo/DOID_9005709) |
 | `OMIM:PS223360` |              1 | [DOID:9005950](http://purl.obolibrary.org/obo/DOID_9005950) |
+| `OMIM:PS616744` |              1 | [DOID:9005986](http://purl.obolibrary.org/obo/DOID_9005986) |
 | `OMIM:PS614592` |              1 | [DOID:9006314](http://purl.obolibrary.org/obo/DOID_9006314) |
 | `OMIM:PS615419` |              1 | [DOID:9006603](http://purl.obolibrary.org/obo/DOID_9006603) |
 | `OMIM:PS261100` |              1 | [DOID:9006825](http://purl.obolibrary.org/obo/DOID_9006825) |
@@ -1216,6 +1251,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS607748` |              1 | [DOID:9007118](http://purl.obolibrary.org/obo/DOID_9007118) |
 | `OMIM:PS614675` |              1 | [DOID:9007222](http://purl.obolibrary.org/obo/DOID_9007222) |
 | `OMIM:PS190440` |              1 | [DOID:9007261](http://purl.obolibrary.org/obo/DOID_9007261) |
+| `OMIM:PS301108` |              1 | [DOID:9007299](http://purl.obolibrary.org/obo/DOID_9007299) |
 | `OMIM:PS182250` |              1 | [DOID:9007304](http://purl.obolibrary.org/obo/DOID_9007304) |
 | `OMIM:PS179800` |              1 | [DOID:9007406](http://purl.obolibrary.org/obo/DOID_9007406) |
 | `OMIM:PS615774` |              1 | [DOID:9007456](http://purl.obolibrary.org/obo/DOID_9007456) |
@@ -1235,6 +1271,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `OMIM:PS608207` |              1 | [DOID:9146](http://purl.obolibrary.org/obo/DOID_9146)       |
 | `OMIM:PS118450` |              1 | [DOID:9245](http://purl.obolibrary.org/obo/DOID_9245)       |
 | `OMIM:PS193500` |              1 | [DOID:9258](http://purl.obolibrary.org/obo/DOID_9258)       |
+| `OMIM:PS605899` |              1 | [DOID:9268](http://purl.obolibrary.org/obo/DOID_9268)       |
 | `OMIM:PS248600` |              1 | [DOID:9269](http://purl.obolibrary.org/obo/DOID_9269)       |
 | `OMIM:PS276700` |              1 | [DOID:9275](http://purl.obolibrary.org/obo/DOID_9275)       |
 | `OMIM:PS610551` |              1 | [DOID:936](http://purl.obolibrary.org/obo/DOID_936)         |

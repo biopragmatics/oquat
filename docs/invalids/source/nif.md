@@ -52,7 +52,7 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `AGR`: Agricultural Online Access
 
-Overall, there were 14 invalid
+Overall, there were 15 invalid
 xrefs to external prefixed with `AGR` (standardized to Bioregistry
 prefix [`agricola`](https://bioregistry.io/agricola)) that
 did not match the standard pattern `^\d+$`.
@@ -67,6 +67,7 @@ did not match the standard pattern `^\d+$`.
 | `AGR:IND81078502`  |              1 | [CHEBI:15955](http://purl.obolibrary.org/obo/CHEBI_15955)   |
 | `AGR:IND605478333` |              1 | [CHEBI:16522](http://purl.obolibrary.org/obo/CHEBI_16522)   |
 | `AGR:IND607198670` |              1 | [CHEBI:16709](http://purl.obolibrary.org/obo/CHEBI_16709)   |
+| `AGR:IND93002823`  |              1 | [CHEBI:195233](http://purl.obolibrary.org/obo/CHEBI_195233) |
 | `AGR:IND606960789` |              1 | [CHEBI:27470](http://purl.obolibrary.org/obo/CHEBI_27470)   |
 | `AGR:IND605848433` |              1 | [CHEBI:28934](http://purl.obolibrary.org/obo/CHEBI_28934)   |
 | `AGR:IND607339542` |              1 | [CHEBI:3312](http://purl.obolibrary.org/obo/CHEBI_3312)     |
@@ -147,7 +148,7 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `CL`: Cell Ontology
 
-Overall, there were 28 invalid
+Overall, there were 27 invalid
 xrefs to external prefixed with `CL` (standardized to Bioregistry
 prefix [`cl`](https://bioregistry.io/cl)) that
 did not match the standard pattern `^\d{7}$`.
@@ -158,7 +159,6 @@ did not match the standard pattern `^\d{7}$`.
 | `CL:CVS`                                 |              6 | [CL:0005000](http://purl.obolibrary.org/obo/CL_0005000), [CL:0005009](http://purl.obolibrary.org/obo/CL_0005009), [CL:0005012](http://purl.obolibrary.org/obo/CL_0005012), [CL:0005014](http://purl.obolibrary.org/obo/CL_0005014), [CL:0005020](http://purl.obolibrary.org/obo/CL_0005020), ...                                         |
 | `CL:MAH`                                 |              1 | [CL:0007011](http://purl.obolibrary.org/obo/CL_0007011)                                                                                                                                                                                                                                                                                  |
 | `CL:patterns/cellPartOfAnatomicalEntity` |              1 | [CL:0011030](http://purl.obolibrary.org/obo/CL_0011030)                                                                                                                                                                                                                                                                                  |
-| `CL:cjm`                                 |              1 | [CL:1000742](http://purl.obolibrary.org/obo/CL_1000742)                                                                                                                                                                                                                                                                                  |
 
 ## `DHBA`: Developing Human Brain Atlas
 
@@ -252,7 +252,7 @@ did not match the standard pattern `^DB\d{5}$`.
 
 ## `EC`: Enzyme Commission Code
 
-Overall, there were 1,068 invalid
+Overall, there were 1,036 invalid
 xrefs to external prefixed with `EC` (standardized to Bioregistry
 prefix [`eccode`](https://bioregistry.io/eccode)) that
 did not match the standard pattern `^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.n\d{1,3})?$`.
@@ -264,7 +264,6 @@ did not match the standard pattern `^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.n\d{
 | `EC:2.1.1.-`    |             64 | [GO:0008168](http://purl.obolibrary.org/obo/GO_0008168), [GO:0008169](http://purl.obolibrary.org/obo/GO_0008169), [GO:0008170](http://purl.obolibrary.org/obo/GO_0008170), [GO:0008171](http://purl.obolibrary.org/obo/GO_0008171), [GO:0008172](http://purl.obolibrary.org/obo/GO_0008172), ... |
 | `EC:1.13.11.-`  |             45 | [GO:0016702](http://purl.obolibrary.org/obo/GO_0016702), [GO:0018542](http://purl.obolibrary.org/obo/GO_0018542), [GO:0018555](http://purl.obolibrary.org/obo/GO_0018555), [GO:0018556](http://purl.obolibrary.org/obo/GO_0018556), [GO:0018557](http://purl.obolibrary.org/obo/GO_0018557), ... |
 | `EC:2.3.1.-`    |             41 | [GO:0016747](http://purl.obolibrary.org/obo/GO_0016747), [GO:0016747](http://purl.obolibrary.org/obo/GO_0016747), [GO:0034915](http://purl.obolibrary.org/obo/GO_0034915), [GO:0034945](http://purl.obolibrary.org/obo/GO_0034945), [GO:0043806](http://purl.obolibrary.org/obo/GO_0043806), ... |
-| `EC:1.1.1.-`    |             31 | [GO:0016616](http://purl.obolibrary.org/obo/GO_0016616), [GO:0016616](http://purl.obolibrary.org/obo/GO_0016616), [GO:0102182](http://purl.obolibrary.org/obo/GO_0102182), [GO:0102183](http://purl.obolibrary.org/obo/GO_0102183), [GO:0102187](http://purl.obolibrary.org/obo/GO_0102187), ... |
 | `EC:1.14.11.-`  |             25 | [GO:0016706](http://purl.obolibrary.org/obo/GO_0016706), [GO:0102111](http://purl.obolibrary.org/obo/GO_0102111), [GO:0102494](http://purl.obolibrary.org/obo/GO_0102494), [GO:0102495](http://purl.obolibrary.org/obo/GO_0102495), [GO:0102496](http://purl.obolibrary.org/obo/GO_0102496), ... |
 | `EC:1.14.12.-`  |             20 | [GO:0016708](http://purl.obolibrary.org/obo/GO_0016708), [GO:0018603](http://purl.obolibrary.org/obo/GO_0018603), [GO:0018604](http://purl.obolibrary.org/obo/GO_0018604), [GO:0018606](http://purl.obolibrary.org/obo/GO_0018606), [GO:0018607](http://purl.obolibrary.org/obo/GO_0018607), ... |
 | `EC:1.3.1.-`    |             18 | [GO:0016628](http://purl.obolibrary.org/obo/GO_0016628), [GO:0035671](http://purl.obolibrary.org/obo/GO_0035671), [GO:0102233](http://purl.obolibrary.org/obo/GO_0102233), [GO:0102234](http://purl.obolibrary.org/obo/GO_0102234), [GO:0102678](http://purl.obolibrary.org/obo/GO_0102678), ... |
@@ -273,19 +272,19 @@ did not match the standard pattern `^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.n\d{
 | `EC:1.97.1.-`   |             16 | [GO:0018698](http://purl.obolibrary.org/obo/GO_0018698), [GO:0018699](http://purl.obolibrary.org/obo/GO_0018699), [GO:0018700](http://purl.obolibrary.org/obo/GO_0018700), [GO:0018701](http://purl.obolibrary.org/obo/GO_0018701), [GO:0018702](http://purl.obolibrary.org/obo/GO_0018702), ... |
 | `EC:3.3.2.-`    |             13 | [GO:0008096](http://purl.obolibrary.org/obo/GO_0008096), [GO:0016803](http://purl.obolibrary.org/obo/GO_0016803), [GO:0016803](http://purl.obolibrary.org/obo/GO_0016803), [GO:0018742](http://purl.obolibrary.org/obo/GO_0018742), [GO:0018743](http://purl.obolibrary.org/obo/GO_0018743), ... |
 | `EC:6.2.1.-`    |             13 | [GO:0010435](http://purl.obolibrary.org/obo/GO_0010435), [GO:0016878](http://purl.obolibrary.org/obo/GO_0016878), [GO:0016878](http://purl.obolibrary.org/obo/GO_0016878), [GO:0018853](http://purl.obolibrary.org/obo/GO_0018853), [GO:0047473](http://purl.obolibrary.org/obo/GO_0047473), ... |
-| `EC:1.2.1.-`    |             12 | [GO:0016620](http://purl.obolibrary.org/obo/GO_0016620), [GO:0018474](http://purl.obolibrary.org/obo/GO_0018474), [GO:0019115](http://purl.obolibrary.org/obo/GO_0019115), [GO:0034520](http://purl.obolibrary.org/obo/GO_0034520), [GO:0034530](http://purl.obolibrary.org/obo/GO_0034530), ... |
 | `EC:6.3.-.-`    |             12 | [GO:0016879](http://purl.obolibrary.org/obo/GO_0016879), [GO:0102050](http://purl.obolibrary.org/obo/GO_0102050), [GO:0102051](http://purl.obolibrary.org/obo/GO_0102051), [GO:0102052](http://purl.obolibrary.org/obo/GO_0102052), [GO:0102085](http://purl.obolibrary.org/obo/GO_0102085), ... |
 | `EC:3.2.1.-`    |             10 | [GO:0004553](http://purl.obolibrary.org/obo/GO_0004553), [GO:0008843](http://purl.obolibrary.org/obo/GO_0008843), [GO:0035885](http://purl.obolibrary.org/obo/GO_0035885), [GO:0102224](http://purl.obolibrary.org/obo/GO_0102224), [GO:0102277](http://purl.obolibrary.org/obo/GO_0102277), ... |
+| `EC:1.2.1.-`    |             10 | [GO:0016620](http://purl.obolibrary.org/obo/GO_0016620), [GO:0018474](http://purl.obolibrary.org/obo/GO_0018474), [GO:0019115](http://purl.obolibrary.org/obo/GO_0019115), [GO:0034520](http://purl.obolibrary.org/obo/GO_0034520), [GO:0034530](http://purl.obolibrary.org/obo/GO_0034530), ... |
 | `EC:4.2.1.-`    |              9 | [GO:0016836](http://purl.obolibrary.org/obo/GO_0016836), [GO:0016836](http://purl.obolibrary.org/obo/GO_0016836), [GO:0018128](http://purl.obolibrary.org/obo/GO_0018128), [GO:0018135](http://purl.obolibrary.org/obo/GO_0018135), [GO:0102471](http://purl.obolibrary.org/obo/GO_0102471), ... |
 | `EC:1.14.-.-`   |              9 | [GO:0016705](http://purl.obolibrary.org/obo/GO_0016705), [GO:0018600](http://purl.obolibrary.org/obo/GO_0018600), [GO:0102123](http://purl.obolibrary.org/obo/GO_0102123), [GO:0102124](http://purl.obolibrary.org/obo/GO_0102124), [GO:0102125](http://purl.obolibrary.org/obo/GO_0102125), ... |
 | `EC:2.8.2.-`    |              8 | [GO:0001537](http://purl.obolibrary.org/obo/GO_0001537), [GO:0008146](http://purl.obolibrary.org/obo/GO_0008146), [GO:0019111](http://purl.obolibrary.org/obo/GO_0019111), [GO:0050698](http://purl.obolibrary.org/obo/GO_0050698), [GO:0080131](http://purl.obolibrary.org/obo/GO_0080131), ... |
 | `EC:2.5.1.-`    |              8 | [GO:0016765](http://purl.obolibrary.org/obo/GO_0016765), [GO:0043888](http://purl.obolibrary.org/obo/GO_0043888), [GO:0052622](http://purl.obolibrary.org/obo/GO_0052622), [GO:0052623](http://purl.obolibrary.org/obo/GO_0052623), [GO:0102298](http://purl.obolibrary.org/obo/GO_0102298), ... |
 | `EC:1.14.15.-`  |              8 | [GO:0016713](http://purl.obolibrary.org/obo/GO_0016713), [GO:0018680](http://purl.obolibrary.org/obo/GO_0018680), [GO:0018681](http://purl.obolibrary.org/obo/GO_0018681), [GO:0018682](http://purl.obolibrary.org/obo/GO_0018682), [GO:0034577](http://purl.obolibrary.org/obo/GO_0034577), ... |
 | `EC:1.3.99.-`   |              8 | [GO:0034580](http://purl.obolibrary.org/obo/GO_0034580), [GO:0034845](http://purl.obolibrary.org/obo/GO_0034845), [GO:0034916](http://purl.obolibrary.org/obo/GO_0034916), [GO:0043820](http://purl.obolibrary.org/obo/GO_0043820), [GO:0043830](http://purl.obolibrary.org/obo/GO_0043830), ... |
-| `EC:2.7.1.-`    |              7 | [GO:0016307](http://purl.obolibrary.org/obo/GO_0016307), [GO:0016773](http://purl.obolibrary.org/obo/GO_0016773), [GO:0051717](http://purl.obolibrary.org/obo/GO_0051717), [GO:0051723](http://purl.obolibrary.org/obo/GO_0051723), [GO:0102238](http://purl.obolibrary.org/obo/GO_0102238), ... |
 | `EC:3.1.2.-`    |              7 | [GO:0016790](http://purl.obolibrary.org/obo/GO_0016790), [GO:0016790](http://purl.obolibrary.org/obo/GO_0016790), [GO:0102150](http://purl.obolibrary.org/obo/GO_0102150), [GO:0102327](http://purl.obolibrary.org/obo/GO_0102327), [GO:0102574](http://purl.obolibrary.org/obo/GO_0102574), ... |
 | `EC:2.4.2.-`    |              7 | [GO:0016763](http://purl.obolibrary.org/obo/GO_0016763), [GO:0018071](http://purl.obolibrary.org/obo/GO_0018071), [GO:0018121](http://purl.obolibrary.org/obo/GO_0018121), [GO:0018127](http://purl.obolibrary.org/obo/GO_0018127), [GO:0102562](http://purl.obolibrary.org/obo/GO_0102562), ... |
 | `EC:2.6.1.-`    |              7 | [GO:0008483](http://purl.obolibrary.org/obo/GO_0008483), [GO:0036136](http://purl.obolibrary.org/obo/GO_0036136), [GO:0036137](http://purl.obolibrary.org/obo/GO_0036137), [GO:0102081](http://purl.obolibrary.org/obo/GO_0102081), [GO:0102570](http://purl.obolibrary.org/obo/GO_0102570), ... |
+| `EC:2.7.1.-`    |              6 | [GO:0016773](http://purl.obolibrary.org/obo/GO_0016773), [GO:0051717](http://purl.obolibrary.org/obo/GO_0051717), [GO:0051723](http://purl.obolibrary.org/obo/GO_0051723), [GO:0102238](http://purl.obolibrary.org/obo/GO_0102238), [GO:0102731](http://purl.obolibrary.org/obo/GO_0102731), ... |
 | `EC:1.13.12.-`  |              6 | [GO:0016703](http://purl.obolibrary.org/obo/GO_0016703), [GO:0034835](http://purl.obolibrary.org/obo/GO_0034835), [GO:0034836](http://purl.obolibrary.org/obo/GO_0034836), [GO:0034850](http://purl.obolibrary.org/obo/GO_0034850), [GO:0034898](http://purl.obolibrary.org/obo/GO_0034898), ... |
 | `EC:2.3.3.-`    |              6 | [GO:0046912](http://purl.obolibrary.org/obo/GO_0046912), [GO:0103079](http://purl.obolibrary.org/obo/GO_0103079), [GO:0103082](http://purl.obolibrary.org/obo/GO_0103082), [GO:0103085](http://purl.obolibrary.org/obo/GO_0103085), [GO:0103088](http://purl.obolibrary.org/obo/GO_0103088), ... |
 | `EC:5.4.4.-`    |              6 | [GO:0050486](http://purl.obolibrary.org/obo/GO_0050486), [GO:0103080](http://purl.obolibrary.org/obo/GO_0103080), [GO:0103083](http://purl.obolibrary.org/obo/GO_0103083), [GO:0103086](http://purl.obolibrary.org/obo/GO_0103086), [GO:0103089](http://purl.obolibrary.org/obo/GO_0103089), ... |
@@ -295,8 +294,8 @@ did not match the standard pattern `^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.n\d{
 | `EC:3.5.1.-`    |              5 | [GO:0016811](http://purl.obolibrary.org/obo/GO_0016811), [GO:0052790](http://purl.obolibrary.org/obo/GO_0052790), [GO:0102281](http://purl.obolibrary.org/obo/GO_0102281), [GO:0102572](http://purl.obolibrary.org/obo/GO_0102572), [GO:0102622](http://purl.obolibrary.org/obo/GO_0102622)      |
 | `EC:3.1.3.-`    |              5 | [GO:0016791](http://purl.obolibrary.org/obo/GO_0016791), [GO:0102520](http://purl.obolibrary.org/obo/GO_0102520), [GO:0102537](http://purl.obolibrary.org/obo/GO_0102537), [GO:0103026](http://purl.obolibrary.org/obo/GO_0103026), [GO:0103027](http://purl.obolibrary.org/obo/GO_0103027)      |
 | `EC:1.5.99.-`   |              5 | [GO:0018532](http://purl.obolibrary.org/obo/GO_0018532), [GO:0018534](http://purl.obolibrary.org/obo/GO_0018534), [GO:0034568](http://purl.obolibrary.org/obo/GO_0034568), [GO:0034570](http://purl.obolibrary.org/obo/GO_0034570), [GO:0034572](http://purl.obolibrary.org/obo/GO_0034572)      |
+| `EC:1.1.1.-`    |              4 | [GO:0016616](http://purl.obolibrary.org/obo/GO_0016616), [GO:0016616](http://purl.obolibrary.org/obo/GO_0016616), [GO:0102182](http://purl.obolibrary.org/obo/GO_0102182), [GO:0102727](http://purl.obolibrary.org/obo/GO_0102727)                                                               |
 | `EC:6.3.1.-`    |              4 | [GO:0016211](http://purl.obolibrary.org/obo/GO_0016211), [GO:0016880](http://purl.obolibrary.org/obo/GO_0016880), [GO:0043860](http://purl.obolibrary.org/obo/GO_0043860), [GO:0102115](http://purl.obolibrary.org/obo/GO_0102115)                                                               |
-| `EC:2.3.2.-`    |              4 | [GO:0016755](http://purl.obolibrary.org/obo/GO_0016755), [GO:0102272](http://purl.obolibrary.org/obo/GO_0102272), [GO:0102273](http://purl.obolibrary.org/obo/GO_0102273), [GO:0102636](http://purl.obolibrary.org/obo/GO_0102636)                                                               |
 | `EC:4.1.1.-`    |              4 | [GO:0016831](http://purl.obolibrary.org/obo/GO_0016831), [GO:0043728](http://purl.obolibrary.org/obo/GO_0043728), [GO:0102328](http://purl.obolibrary.org/obo/GO_0102328), [GO:0102765](http://purl.obolibrary.org/obo/GO_0102765)                                                               |
 | `EC:5.5.1.-`    |              4 | [GO:0016872](http://purl.obolibrary.org/obo/GO_0016872), [GO:0018847](http://purl.obolibrary.org/obo/GO_0018847), [GO:0018848](http://purl.obolibrary.org/obo/GO_0018848), [GO:0034794](http://purl.obolibrary.org/obo/GO_0034794)                                                               |
 | `EC:4.5.1.-`    |              4 | [GO:0018827](http://purl.obolibrary.org/obo/GO_0018827), [GO:0018829](http://purl.obolibrary.org/obo/GO_0018829), [GO:0018830](http://purl.obolibrary.org/obo/GO_0018830), [GO:0018831](http://purl.obolibrary.org/obo/GO_0018831)                                                               |
@@ -305,6 +304,7 @@ did not match the standard pattern `^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.n\d{
 | `EC:2.1.2.-`    |              3 | [GO:0016742](http://purl.obolibrary.org/obo/GO_0016742), [GO:0016742](http://purl.obolibrary.org/obo/GO_0016742), [GO:0044685](http://purl.obolibrary.org/obo/GO_0044685)                                                                                                                        |
 | `EC:5.3.-.-`    |              3 | [GO:0016860](http://purl.obolibrary.org/obo/GO_0016860), [GO:0016860](http://purl.obolibrary.org/obo/GO_0016860), [GO:0102929](http://purl.obolibrary.org/obo/GO_0102929)                                                                                                                        |
 | `EC:3.1.1.-`    |              3 | [GO:0052689](http://purl.obolibrary.org/obo/GO_0052689), [GO:0052689](http://purl.obolibrary.org/obo/GO_0052689), [GO:0102140](http://purl.obolibrary.org/obo/GO_0102140)                                                                                                                        |
+| `EC:2.3.2.-`    |              3 | [GO:0016755](http://purl.obolibrary.org/obo/GO_0016755), [GO:0102272](http://purl.obolibrary.org/obo/GO_0102272), [GO:0102273](http://purl.obolibrary.org/obo/GO_0102273)                                                                                                                        |
 | `EC:3.7.1.-`    |              3 | [GO:0016823](http://purl.obolibrary.org/obo/GO_0016823), [GO:0034948](http://purl.obolibrary.org/obo/GO_0034948), [GO:0102324](http://purl.obolibrary.org/obo/GO_0102324)                                                                                                                        |
 | `EC:2.7.4.-`    |              3 | [GO:0016776](http://purl.obolibrary.org/obo/GO_0016776), [GO:0102352](http://purl.obolibrary.org/obo/GO_0102352), [GO:0102763](http://purl.obolibrary.org/obo/GO_0102763)                                                                                                                        |
 | `EC:5.1.3.-`    |              3 | [GO:0016857](http://purl.obolibrary.org/obo/GO_0016857), [GO:0102540](http://purl.obolibrary.org/obo/GO_0102540), [GO:0102541](http://purl.obolibrary.org/obo/GO_0102541)                                                                                                                        |
@@ -364,7 +364,6 @@ did not match the standard pattern `^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.n\d{
 | `EC:3.4.11.-`   |              2 | [GO:0004177](http://purl.obolibrary.org/obo/GO_0004177), [GO:0016284](http://purl.obolibrary.org/obo/GO_0016284)                                                                                                                                                                                 |
 | `EC:3.4.23.-`   |              2 | [GO:0004190](http://purl.obolibrary.org/obo/GO_0004190), [GO:0042500](http://purl.obolibrary.org/obo/GO_0042500)                                                                                                                                                                                 |
 | `EC:1.16.1.-`   |              2 | [GO:0008823](http://purl.obolibrary.org/obo/GO_0008823), [GO:0016723](http://purl.obolibrary.org/obo/GO_0016723)                                                                                                                                                                                 |
-| `EC:1.8.99.-`   |              2 | [GO:0009389](http://purl.obolibrary.org/obo/GO_0009389), [GO:0018550](http://purl.obolibrary.org/obo/GO_0018550)                                                                                                                                                                                 |
 | `EC:7.-.-.-`    |              2 | [GO:0015399](http://purl.obolibrary.org/obo/GO_0015399), [GO:0106178](http://purl.obolibrary.org/obo/GO_0106178)                                                                                                                                                                                 |
 | `EC:3.1.26.-`   |              2 | [GO:0016443](http://purl.obolibrary.org/obo/GO_0016443), [GO:0016891](http://purl.obolibrary.org/obo/GO_0016891)                                                                                                                                                                                 |
 | `EC:1.4.3.-`    |              2 | [GO:0016641](http://purl.obolibrary.org/obo/GO_0016641), [GO:0043912](http://purl.obolibrary.org/obo/GO_0043912)                                                                                                                                                                                 |
@@ -517,6 +516,7 @@ did not match the standard pattern `^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.n\d{
 | `EC:1.20.4.-`   |              1 | [GO:0030614](http://purl.obolibrary.org/obo/GO_0030614)                                                                                                                                                                                                                                          |
 | `EC:1.5.7.-`    |              1 | [GO:0033694](http://purl.obolibrary.org/obo/GO_0033694)                                                                                                                                                                                                                                          |
 | `EC:3.13.1.-`   |              1 | [GO:0034861](http://purl.obolibrary.org/obo/GO_0034861)                                                                                                                                                                                                                                          |
+| `EC:7.2.2.-`    |              1 | [GO:0042626](http://purl.obolibrary.org/obo/GO_0042626)                                                                                                                                                                                                                                          |
 | `EC:1.2.99.-`   |              1 | [GO:0043794](http://purl.obolibrary.org/obo/GO_0043794)                                                                                                                                                                                                                                          |
 | `EC:3.13.-.-`   |              1 | [GO:0046508](http://purl.obolibrary.org/obo/GO_0046508)                                                                                                                                                                                                                                          |
 | `EC:1.7.1.-`    |              1 | [GO:0046857](http://purl.obolibrary.org/obo/GO_0046857)                                                                                                                                                                                                                                          |
@@ -583,6 +583,17 @@ did not match the standard pattern `^\d+$`.
 | external_xref   |   usages_count | usages                                                          |
 |-----------------|----------------|-----------------------------------------------------------------|
 | `EMAPA:th`      |              1 | [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) |
+
+## `EnvO`: Environment Ontology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `EnvO` (standardized to Bioregistry
+prefix [`envo`](https://bioregistry.io/envo)) that
+did not match the standard pattern `^\d{7,8}$`.
+
+| external_xref   |   usages_count | usages                                                        |
+|-----------------|----------------|---------------------------------------------------------------|
+| `EnvO:EnvO`     |              1 | [ENVO:01000739](http://purl.obolibrary.org/obo/ENVO_01000739) |
 
 ## `ENVO`: Environment Ontology
 
@@ -699,7 +710,7 @@ did not match the standard pattern `^[1-9][0-9]{3,6}$`.
 
 ## `GO`: Gene Ontology
 
-Overall, there were 42 invalid
+Overall, there were 43 invalid
 xrefs to external prefixed with `GO` (standardized to Bioregistry
 prefix [`go`](https://bioregistry.io/go)) that
 did not match the standard pattern `^\d{7}$`.
@@ -712,6 +723,7 @@ did not match the standard pattern `^\d{7}$`.
 | `GO:kmv`        |              3 | [GO:1901074](http://purl.obolibrary.org/obo/GO_1901074), [GO:1901075](http://purl.obolibrary.org/obo/GO_1901075), [GO:1901076](http://purl.obolibrary.org/obo/GO_1901076)                                                                                                                                               |
 | `GO:mah`        |              3 | [SO:0001861](http://purl.obolibrary.org/obo/SO_0001861), [SO:0001861](http://purl.obolibrary.org/obo/SO_0001861), [SO:0001871](http://purl.obolibrary.org/obo/SO_0001871)                                                                                                                                               |
 | `GO:dos`        |              2 | [GO:0099046](http://purl.obolibrary.org/obo/GO_0099046), [GO:0099047](http://purl.obolibrary.org/obo/GO_0099047)                                                                                                                                                                                                        |
+| `GO:dph`        |              2 | [GO:0002093](http://purl.obolibrary.org/obo/GO_0002093), [UBERON:0000089](http://purl.obolibrary.org/obo/UBERON_0000089)                                                                                                                                                                                                |
 | `GO:cvs`        |              1 | [CL:0005008](http://purl.obolibrary.org/obo/CL_0005008)                                                                                                                                                                                                                                                                 |
 | `GO:hjd`        |              1 | [GO:0002189](http://purl.obolibrary.org/obo/GO_0002189)                                                                                                                                                                                                                                                                 |
 | `GO:bf`         |              1 | [GO:0035348](http://purl.obolibrary.org/obo/GO_0035348)                                                                                                                                                                                                                                                                 |
@@ -720,7 +732,6 @@ did not match the standard pattern `^\d{7}$`.
 | `GO:bhm`        |              1 | [GO:0140091](http://purl.obolibrary.org/obo/GO_0140091)                                                                                                                                                                                                                                                                 |
 | `GO:bc`         |              1 | [GO:0150014](http://purl.obolibrary.org/obo/GO_0150014)                                                                                                                                                                                                                                                                 |
 | `GO:curator`    |              1 | [UBERON:0005863](http://purl.obolibrary.org/obo/UBERON_0005863)                                                                                                                                                                                                                                                         |
-| `GO:dph`        |              1 | [GO:0002093](http://purl.obolibrary.org/obo/GO_0002093)                                                                                                                                                                                                                                                                 |
 | `GO:curators`   |              1 | [GO:0004479](http://purl.obolibrary.org/obo/GO_0004479)                                                                                                                                                                                                                                                                 |
 | `GO:krc`        |              1 | [GO:0120132](http://purl.obolibrary.org/obo/GO_0120132)                                                                                                                                                                                                                                                                 |
 | `GO:ach`        |              1 | [GO:0120312](http://purl.obolibrary.org/obo/GO_0120312)                                                                                                                                                                                                                                                                 |
@@ -1013,9 +1024,22 @@ did not match the standard pattern `^\d+$`.
 |----------------------------------------------|----------------|-------------------------------------------------------------|
 | `Medline:http://www.nlm.nih.gov/medlineplus` |              1 | [PATO:0002048](http://purl.obolibrary.org/obo/PATO_0002048) |
 
+## `MeSH`: Medical Subject Headings
+
+Overall, there were 4 invalid
+xrefs to external prefixed with `MeSH` (standardized to Bioregistry
+prefix [`mesh`](https://bioregistry.io/mesh)) that
+did not match the standard pattern `^(C|D)\d{6,9}$`.
+
+| external_xref                       |   usages_count | usages                                                                                                                       |
+|-------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------|
+| `MeSH:Synteny`                      |              2 | [RO:HOM0000010](http://purl.obolibrary.org/obo/RO_HOM0000010), [RO:HOM0000010](http://purl.obolibrary.org/obo/RO_HOM0000010) |
+| `MeSH:Structural_Homology,_Protein` |              1 | [RO:HOM0000015](http://purl.obolibrary.org/obo/RO_HOM0000015)                                                                |
+| `MeSH:Chromosome_Pairing`           |              1 | [RO:HOM0000047](http://purl.obolibrary.org/obo/RO_HOM0000047)                                                                |
+
 ## `MESH`: Medical Subject Headings
 
-Overall, there were 174 invalid
+Overall, there were 168 invalid
 xrefs to external prefixed with `MESH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
 did not match the standard pattern `^(C|D)\d{6,9}$`.
@@ -1042,13 +1066,8 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 | `MESH:A08.186.211.132.810.428.200.462` |              2 | [UBERON:0014908](http://purl.obolibrary.org/obo/UBERON_0014908), [UBERON:0014908](http://purl.obolibrary.org/obo/UBERON_0014908)                                                                  |
 | `MESH:G06.535.805`                     |              2 | [UBERON:0018229](http://purl.obolibrary.org/obo/UBERON_0018229), [UBERON:0018229](http://purl.obolibrary.org/obo/UBERON_0018229)                                                                  |
 | `MESH:A08.612.600`                     |              2 | [UBERON:0034931](http://purl.obolibrary.org/obo/UBERON_0034931), [UBERON:0034931](http://purl.obolibrary.org/obo/UBERON_0034931)                                                                  |
-| `MESH:A08.800.550.700.650`             |              2 | [UBERON:0035017](http://purl.obolibrary.org/obo/UBERON_0035017), [UBERON:0035017](http://purl.obolibrary.org/obo/UBERON_0035017)                                                                  |
 | `MESH:A08.800.550.700.840`             |              2 | [UBERON:0035018](http://purl.obolibrary.org/obo/UBERON_0035018), [UBERON:0035018](http://purl.obolibrary.org/obo/UBERON_0035018)                                                                  |
 | `MESH:A08.800.050.800.900.700`         |              2 | [UBERON:0004019](http://purl.obolibrary.org/obo/UBERON_0004019), [UBERON:0018392](http://purl.obolibrary.org/obo/UBERON_0018392)                                                                  |
-| `MESH:A16.254.600`                     |              1 | [CL:0000333](http://purl.obolibrary.org/obo/CL_0000333)                                                                                                                                           |
-| `MESH:A11.118.290.350.200`             |              1 | [CL:0000547](http://purl.obolibrary.org/obo/CL_0000547)                                                                                                                                           |
-| `MESH:A11.070`                         |              1 | [CL:0000568](http://purl.obolibrary.org/obo/CL_0000568)                                                                                                                                           |
-| `MESH:A11.329.679`                     |              1 | [CL:0000588](http://purl.obolibrary.org/obo/CL_0000588)                                                                                                                                           |
 | `MESH:A03.734.414`                     |              1 | [UBERON:0000006](http://purl.obolibrary.org/obo/UBERON_0000006)                                                                                                                                   |
 | `MESH:A09.371.729.522`                 |              1 | [UBERON:0000053](http://purl.obolibrary.org/obo/UBERON_0000053)                                                                                                                                   |
 | `MESH:A01.456.810`                     |              1 | [UBERON:0000403](http://purl.obolibrary.org/obo/UBERON_0000403)                                                                                                                                   |
@@ -1172,19 +1191,6 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 | `MESH:A08.800.550.700`                 |              1 | [UBERON:0012451](http://purl.obolibrary.org/obo/UBERON_0012451)                                                                                                                                   |
 | `MESH:A13.970`                         |              1 | [UBERON:0013196](http://purl.obolibrary.org/obo/UBERON_0013196)                                                                                                                                   |
 | `MESH:E05.256`                         |              1 | [UBERON:0013487](http://purl.obolibrary.org/obo/UBERON_0013487)                                                                                                                                   |
-
-## `MeSH`: Medical Subject Headings
-
-Overall, there were 4 invalid
-xrefs to external prefixed with `MeSH` (standardized to Bioregistry
-prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
-
-| external_xref                       |   usages_count | usages                                                                                                                       |
-|-------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------|
-| `MeSH:Synteny`                      |              2 | [RO:HOM0000010](http://purl.obolibrary.org/obo/RO_HOM0000010), [RO:HOM0000010](http://purl.obolibrary.org/obo/RO_HOM0000010) |
-| `MeSH:Structural_Homology,_Protein` |              1 | [RO:HOM0000015](http://purl.obolibrary.org/obo/RO_HOM0000015)                                                                |
-| `MeSH:Chromosome_Pairing`           |              1 | [RO:HOM0000047](http://purl.obolibrary.org/obo/RO_HOM0000047)                                                                |
 
 ## `MetaCyc`: Metabolic Encyclopedia of metabolic and other pathways
 
@@ -1880,7 +1886,7 @@ did not match the standard pattern `^\d{7}$`.
 Overall, there were 2 invalid
 xrefs to external prefixed with `OBO_REL` (standardized to Bioregistry
 prefix [`ro`](https://bioregistry.io/ro)) that
-did not match the standard pattern `^\d{7}$`.
+did not match the standard pattern `^(HOM)?\d{7}$`.
 
 | external_xref        |   usages_count | usages                                                      |
 |----------------------|----------------|-------------------------------------------------------------|
@@ -1889,7 +1895,7 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `OMIM`: Online Mendelian Inheritance in Man
 
-Overall, there were 258 invalid
+Overall, there were 271 invalid
 xrefs to external prefixed with `OMIM` (standardized to Bioregistry
 prefix [`omim`](https://bioregistry.io/omim)) that
 did not match the standard pattern `^\d+$`.
@@ -1898,6 +1904,7 @@ did not match the standard pattern `^\d+$`.
 |-----------------|----------------|-------------------------------------------------------------|
 | `OMIM:PS267700` |              1 | [DOID:0050120](http://purl.obolibrary.org/obo/DOID_0050120) |
 | `OMIM:PS275200` |              1 | [DOID:0050328](http://purl.obolibrary.org/obo/DOID_0050328) |
+| `OMIM:PS608415` |              1 | [DOID:0050335](http://purl.obolibrary.org/obo/DOID_0050335) |
 | `OMIM:PS175100` |              1 | [DOID:0050424](http://purl.obolibrary.org/obo/DOID_0050424) |
 | `OMIM:PS102300` |              1 | [DOID:0050425](http://purl.obolibrary.org/obo/DOID_0050425) |
 | `OMIM:PS107970` |              1 | [DOID:0050431](http://purl.obolibrary.org/obo/DOID_0050431) |
@@ -1950,6 +1957,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS236680` |              1 | [DOID:0050779](http://purl.obolibrary.org/obo/DOID_0050779) |
 | `OMIM:PS185800` |              1 | [DOID:0050788](http://purl.obolibrary.org/obo/DOID_0050788) |
 | `OMIM:PS186500` |              1 | [DOID:0050794](http://purl.obolibrary.org/obo/DOID_0050794) |
+| `OMIM:PS300352` |              1 | [DOID:0050798](http://purl.obolibrary.org/obo/DOID_0050798) |
 | `OMIM:PS236730` |              1 | [DOID:0050816](http://purl.obolibrary.org/obo/DOID_0050816) |
 | `OMIM:PS233400` |              1 | [DOID:0050857](http://purl.obolibrary.org/obo/DOID_0050857) |
 | `OMIM:PS167320` |              1 | [DOID:0050881](http://purl.obolibrary.org/obo/DOID_0050881) |
@@ -1960,6 +1968,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS105800` |              1 | [DOID:0060228](http://purl.obolibrary.org/obo/DOID_0060228) |
 | `OMIM:PS243310` |              1 | [DOID:0060229](http://purl.obolibrary.org/obo/DOID_0060229) |
 | `OMIM:PS115150` |              1 | [DOID:0060233](http://purl.obolibrary.org/obo/DOID_0060233) |
+| `OMIM:PS278300` |              1 | [DOID:0060236](http://purl.obolibrary.org/obo/DOID_0060236) |
 | `OMIM:PS600118` |              1 | [DOID:0060237](http://purl.obolibrary.org/obo/DOID_0060237) |
 | `OMIM:PS601390` |              1 | [DOID:0060238](http://purl.obolibrary.org/obo/DOID_0060238) |
 | `OMIM:PS600630` |              1 | [DOID:0060240](http://purl.obolibrary.org/obo/DOID_0060240) |
@@ -1993,6 +2002,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS312080` |              1 | [DOID:0060786](http://purl.obolibrary.org/obo/DOID_0060786) |
 | `OMIM:PS214450` |              1 | [DOID:0060831](http://purl.obolibrary.org/obo/DOID_0060831) |
 | `OMIM:PS169150` |              1 | [DOID:0060863](http://purl.obolibrary.org/obo/DOID_0060863) |
+| `OMIM:PS603896` |              1 | [DOID:0060868](http://purl.obolibrary.org/obo/DOID_0060868) |
 | `OMIM:PS602014` |              1 | [DOID:0060879](http://purl.obolibrary.org/obo/DOID_0060879) |
 | `OMIM:PS254130` |              1 | [DOID:0070198](http://purl.obolibrary.org/obo/DOID_0070198) |
 | `OMIM:PS211600` |              1 | [DOID:0070221](http://purl.obolibrary.org/obo/DOID_0070221) |
@@ -2001,6 +2011,8 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS603041` |              1 | [DOID:0070329](http://purl.obolibrary.org/obo/DOID_0070329) |
 | `OMIM:PS605711` |              1 | [DOID:0070330](http://purl.obolibrary.org/obo/DOID_0070330) |
 | `OMIM:PS158600` |              1 | [DOID:0070348](http://purl.obolibrary.org/obo/DOID_0070348) |
+| `OMIM:PS239300` |              1 | [DOID:0070431](http://purl.obolibrary.org/obo/DOID_0070431) |
+| `OMIM:PS136550` |              1 | [DOID:0070438](http://purl.obolibrary.org/obo/DOID_0070438) |
 | `OMIM:PS123000` |              1 | [DOID:0080033](http://purl.obolibrary.org/obo/DOID_0080033) |
 | `OMIM:PS200600` |              1 | [DOID:0080043](http://purl.obolibrary.org/obo/DOID_0080043) |
 | `OMIM:PS108300` |              1 | [DOID:0080046](http://purl.obolibrary.org/obo/DOID_0080046) |
@@ -2039,6 +2051,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS613339` |              1 | [DOID:0081104](http://purl.obolibrary.org/obo/DOID_0081104) |
 | `OMIM:PS248370` |              1 | [DOID:0081127](http://purl.obolibrary.org/obo/DOID_0081127) |
 | `OMIM:PS164310` |              1 | [DOID:0081296](http://purl.obolibrary.org/obo/DOID_0081296) |
+| `OMIM:PS149730` |              1 | [DOID:0081370](http://purl.obolibrary.org/obo/DOID_0081370) |
 | `OMIM:PS219000` |              1 | [DOID:0090001](http://purl.obolibrary.org/obo/DOID_0090001) |
 | `OMIM:PS242860` |              1 | [DOID:0090007](http://purl.obolibrary.org/obo/DOID_0090007) |
 | `OMIM:PS183600` |              1 | [DOID:0090020](http://purl.obolibrary.org/obo/DOID_0090020) |
@@ -2075,8 +2088,10 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS134600` |              1 | [DOID:1062](http://purl.obolibrary.org/obo/DOID_1062)       |
 | `OMIM:PS133100` |              1 | [DOID:10780](http://purl.obolibrary.org/obo/DOID_10780)     |
 | `OMIM:PS603075` |              1 | [DOID:10871](http://purl.obolibrary.org/obo/DOID_10871)     |
+| `OMIM:PS612900` |              1 | [DOID:10970](http://purl.obolibrary.org/obo/DOID_10970)     |
 | `OMIM:PS122470` |              1 | [DOID:11725](http://purl.obolibrary.org/obo/DOID_11725)     |
 | `OMIM:PS310300` |              1 | [DOID:11726](http://purl.obolibrary.org/obo/DOID_11726)     |
+| `OMIM:PS115430` |              1 | [DOID:12169](http://purl.obolibrary.org/obo/DOID_12169)     |
 | `OMIM:PS607594` |              1 | [DOID:12177](http://purl.obolibrary.org/obo/DOID_12177)     |
 | `OMIM:PS109720` |              1 | [DOID:12236](http://purl.obolibrary.org/obo/DOID_12236)     |
 | `OMIM:PS166200` |              1 | [DOID:12347](http://purl.obolibrary.org/obo/DOID_12347)     |
@@ -2111,6 +2126,7 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS235200` |              1 | [DOID:2352](http://purl.obolibrary.org/obo/DOID_2352)       |
 | `OMIM:PS188050` |              1 | [DOID:2452](http://purl.obolibrary.org/obo/DOID_2452)       |
 | `OMIM:PS303350` |              1 | [DOID:2476](http://purl.obolibrary.org/obo/DOID_2476)       |
+| `OMIM:PS109400` |              1 | [DOID:2512](http://purl.obolibrary.org/obo/DOID_2512)       |
 | `OMIM:PS215100` |              1 | [DOID:2580](http://purl.obolibrary.org/obo/DOID_2580)       |
 | `OMIM:PS601495` |              1 | [DOID:2583](http://purl.obolibrary.org/obo/DOID_2583)       |
 | `OMIM:PS256300` |              1 | [DOID:2590](http://purl.obolibrary.org/obo/DOID_2590)       |
@@ -2129,13 +2145,16 @@ did not match the standard pattern `^\d+$`.
 | `OMIM:PS163950` |              1 | [DOID:3490](http://purl.obolibrary.org/obo/DOID_3490)       |
 | `OMIM:PS601462` |              1 | [DOID:3635](http://purl.obolibrary.org/obo/DOID_3635)       |
 | `OMIM:PS203300` |              1 | [DOID:3753](http://purl.obolibrary.org/obo/DOID_3753)       |
+| `OMIM:PS220110` |              1 | [DOID:3762](http://purl.obolibrary.org/obo/DOID_3762)       |
 | `OMIM:PS102200` |              1 | [DOID:3829](http://purl.obolibrary.org/obo/DOID_3829)       |
 | `OMIM:PS120435` |              1 | [DOID:3883](http://purl.obolibrary.org/obo/DOID_3883)       |
 | `OMIM:PS115210` |              1 | [DOID:397](http://purl.obolibrary.org/obo/DOID_397)         |
 | `OMIM:PS601678` |              1 | [DOID:445](http://purl.obolibrary.org/obo/DOID_445)         |
 | `OMIM:PS605389` |              1 | [DOID:4535](http://purl.obolibrary.org/obo/DOID_4535)       |
+| `OMIM:PS113800` |              1 | [DOID:4603](http://purl.obolibrary.org/obo/DOID_4603)       |
 | `OMIM:PS236100` |              1 | [DOID:4621](http://purl.obolibrary.org/obo/DOID_4621)       |
 | `OMIM:PS190300` |              1 | [DOID:4990](http://purl.obolibrary.org/obo/DOID_4990)       |
+| `OMIM:PS167250` |              1 | [DOID:5408](http://purl.obolibrary.org/obo/DOID_5408)       |
 | `OMIM:PS311360` |              1 | [DOID:5426](http://purl.obolibrary.org/obo/DOID_5426)       |
 | `OMIM:PS128100` |              1 | [DOID:543](http://purl.obolibrary.org/obo/DOID_543)         |
 | `OMIM:PS265450` |              1 | [DOID:5453](http://purl.obolibrary.org/obo/DOID_5453)       |
@@ -2290,17 +2309,17 @@ did not match the standard pattern `^S\w+(\.)?\w+(\.)?$`.
 
 ## `PRO`: Protein Ontology
 
-Overall, there were 28,109 invalid
+Overall, there were 28,110 invalid
 xrefs to external prefixed with `PRO` (standardized to Bioregistry
 prefix [`pr`](https://bioregistry.io/pr)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                                                       |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PRO:DNx`       |          22504 | [PR:000001002](http://purl.obolibrary.org/obo/PR_000001002), [PR:000001003](http://purl.obolibrary.org/obo/PR_000001003), [PR:000001004](http://purl.obolibrary.org/obo/PR_000001004), [PR:000001006](http://purl.obolibrary.org/obo/PR_000001006), [PR:000001012](http://purl.obolibrary.org/obo/PR_000001012), ...                                         |
+| `PRO:DNx`       |          22510 | [PR:000001002](http://purl.obolibrary.org/obo/PR_000001002), [PR:000001003](http://purl.obolibrary.org/obo/PR_000001003), [PR:000001004](http://purl.obolibrary.org/obo/PR_000001004), [PR:000001006](http://purl.obolibrary.org/obo/PR_000001006), [PR:000001012](http://purl.obolibrary.org/obo/PR_000001012), ...                                         |
 | `PRO:CNA`       |           2772 | [NCBITaxon:204722](http://purl.obolibrary.org/obo/NCBITaxon_204722), [NCBITaxon:224914](http://purl.obolibrary.org/obo/NCBITaxon_224914), [NCBITaxon:262698](http://purl.obolibrary.org/obo/NCBITaxon_262698), [NCBITaxon:359391](http://purl.obolibrary.org/obo/NCBITaxon_359391), [NCBITaxon:444178](http://purl.obolibrary.org/obo/NCBITaxon_444178), ... |
 | `PRO:WCB`       |            905 | [PR:000000001](http://purl.obolibrary.org/obo/PR_000000001), [PR:000000679](http://purl.obolibrary.org/obo/PR_000000679), [PR:000000680](http://purl.obolibrary.org/obo/PR_000000680), [PR:000000681](http://purl.obolibrary.org/obo/PR_000000681), [PR:000000687](http://purl.obolibrary.org/obo/PR_000000687), ...                                         |
-| `PRO:DAN`       |            565 | [CHEBI:33708](http://purl.obolibrary.org/obo/CHEBI_33708), [MOD:00033](http://purl.obolibrary.org/obo/MOD_00033), [MOD:00127](http://purl.obolibrary.org/obo/MOD_00127), [MOD:00128](http://purl.obolibrary.org/obo/MOD_00128), [MOD:00213](http://purl.obolibrary.org/obo/MOD_00213), ...                                                                   |
+| `PRO:DAN`       |            562 | [CHEBI:33708](http://purl.obolibrary.org/obo/CHEBI_33708), [MOD:00033](http://purl.obolibrary.org/obo/MOD_00033), [MOD:00127](http://purl.obolibrary.org/obo/MOD_00127), [MOD:00128](http://purl.obolibrary.org/obo/MOD_00128), [MOD:00213](http://purl.obolibrary.org/obo/MOD_00213), ...                                                                   |
 | `PRO:HJD`       |            470 | [PR:000000699](http://purl.obolibrary.org/obo/PR_000000699), [PR:000000776](http://purl.obolibrary.org/obo/PR_000000776), [PR:000000777](http://purl.obolibrary.org/obo/PR_000000777), [PR:000000937](http://purl.obolibrary.org/obo/PR_000000937), [PR:000001787](http://purl.obolibrary.org/obo/PR_000001787), ...                                         |
 | `PRO:JAN`       |            288 | [PR:000001317](http://purl.obolibrary.org/obo/PR_000001317), [PR:000001318](http://purl.obolibrary.org/obo/PR_000001318), [PR:000001363](http://purl.obolibrary.org/obo/PR_000001363), [PR:000001388](http://purl.obolibrary.org/obo/PR_000001388), [PR:000001389](http://purl.obolibrary.org/obo/PR_000001389), ...                                         |
 | `PRO:PD`        |            258 | [PR:000027209](http://purl.obolibrary.org/obo/PR_000027209), [PR:000027210](http://purl.obolibrary.org/obo/PR_000027210), [PR:000027211](http://purl.obolibrary.org/obo/PR_000027211), [PR:000027212](http://purl.obolibrary.org/obo/PR_000027212), [PR:000027238](http://purl.obolibrary.org/obo/PR_000027238), ...                                         |
@@ -2313,8 +2332,6 @@ did not match the standard pattern `^\d+$`.
 | `PRO:AL`        |             10 | [PR:000003025](http://purl.obolibrary.org/obo/PR_000003025), [PR:000003026](http://purl.obolibrary.org/obo/PR_000003026), [PR:000003029](http://purl.obolibrary.org/obo/PR_000003029), [PR:000003042](http://purl.obolibrary.org/obo/PR_000003042), [PR:000003043](http://purl.obolibrary.org/obo/PR_000003043), ...                                         |
 | `PRO:CC`        |              2 | [PR:000021967](http://purl.obolibrary.org/obo/PR_000021967), [PR:000021968](http://purl.obolibrary.org/obo/PR_000021968)                                                                                                                                                                                                                                     |
 | `PRO:ADD`       |              2 | [PR:000050216](http://purl.obolibrary.org/obo/PR_000050216), [PR:P08575-8](http://purl.obolibrary.org/obo/PR_P08575-8)                                                                                                                                                                                                                                       |
-| `PRO:XQ`        |              1 | [PR:000001128](http://purl.obolibrary.org/obo/PR_000001128)                                                                                                                                                                                                                                                                                                  |
-| `PRO:JSG`       |              1 | [PR:000018263](http://purl.obolibrary.org/obo/PR_000018263)                                                                                                                                                                                                                                                                                                  |
 | `PRO:JP`        |              1 | [PR:000025992](http://purl.obolibrary.org/obo/PR_000025992)                                                                                                                                                                                                                                                                                                  |
 
 ## `Prosite`: PROSITE
@@ -2332,7 +2349,7 @@ did not match the standard pattern `^PS\d{5}$`.
 
 ## `Reactome`: Reactome
 
-Overall, there were 732 invalid
+Overall, there were 736 invalid
 xrefs to external prefixed with `Reactome` (standardized to Bioregistry
 prefix [`reactome`](https://bioregistry.io/reactome)) that
 did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
@@ -2381,6 +2398,7 @@ did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 | `Reactome:REACT_25852`   |              4 | [PR:000028688](http://purl.obolibrary.org/obo/PR_000028688), [PR:000028690](http://purl.obolibrary.org/obo/PR_000028690), [PR:000028691](http://purl.obolibrary.org/obo/PR_000028691), [PR:000028691](http://purl.obolibrary.org/obo/PR_000028691)                                                              |
 | `Reactome:REACT_26959`   |              4 | [PR:000028697](http://purl.obolibrary.org/obo/PR_000028697), [PR:000028698](http://purl.obolibrary.org/obo/PR_000028698), [PR:000028698](http://purl.obolibrary.org/obo/PR_000028698), [PR:000028698](http://purl.obolibrary.org/obo/PR_000028698)                                                              |
 | `Reactome:REACT_27000`   |              4 | [PR:000028699](http://purl.obolibrary.org/obo/PR_000028699), [PR:000028700](http://purl.obolibrary.org/obo/PR_000028700), [PR:000028700](http://purl.obolibrary.org/obo/PR_000028700), [PR:000028700](http://purl.obolibrary.org/obo/PR_000028700)                                                              |
+| `Reactome:REACT_7415`    |              3 | [GO:0070019](http://purl.obolibrary.org/obo/GO_0070019), [GO:0070022](http://purl.obolibrary.org/obo/GO_0070022), [PR:000025976](http://purl.obolibrary.org/obo/PR_000025976)                                                                                                                                   |
 | `Reactome:REACT_13021`   |              3 | [PR:000025777](http://purl.obolibrary.org/obo/PR_000025777), [PR:000025777](http://purl.obolibrary.org/obo/PR_000025777), [PR:000025780](http://purl.obolibrary.org/obo/PR_000025780)                                                                                                                           |
 | `Reactome:REACT_5060`    |              3 | [PR:000026171](http://purl.obolibrary.org/obo/PR_000026171), [PR:000026172](http://purl.obolibrary.org/obo/PR_000026172), [PR:000026173](http://purl.obolibrary.org/obo/PR_000026173)                                                                                                                           |
 | `Reactome:REACT_3158`    |              3 | [PR:000026174](http://purl.obolibrary.org/obo/PR_000026174), [PR:000026210](http://purl.obolibrary.org/obo/PR_000026210), [PR:000026210](http://purl.obolibrary.org/obo/PR_000026210)                                                                                                                           |
@@ -2441,6 +2459,7 @@ did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 | `Reactome:REACT_3969`    |              3 | [PR:000028430](http://purl.obolibrary.org/obo/PR_000028430), [PR:000028430](http://purl.obolibrary.org/obo/PR_000028430), [PR:000028430](http://purl.obolibrary.org/obo/PR_000028430)                                                                                                                           |
 | `Reactome:REACT_21591`   |              3 | [PR:000028684](http://purl.obolibrary.org/obo/PR_000028684), [PR:000028687](http://purl.obolibrary.org/obo/PR_000028687), [PR:000028687](http://purl.obolibrary.org/obo/PR_000028687)                                                                                                                           |
 | `Reactome:REACT_25772`   |              3 | [PR:000028692](http://purl.obolibrary.org/obo/PR_000028692), [PR:000028694](http://purl.obolibrary.org/obo/PR_000028694), [PR:000028695](http://purl.obolibrary.org/obo/PR_000028695)                                                                                                                           |
+| `Reactome:REACT_7737`    |              2 | [GO:0070018](http://purl.obolibrary.org/obo/GO_0070018), [GO:0070022](http://purl.obolibrary.org/obo/GO_0070022)                                                                                                                                                                                                |
 | `Reactome:REACT_7146`    |              2 | [PR:000025765](http://purl.obolibrary.org/obo/PR_000025765), [PR:000025765](http://purl.obolibrary.org/obo/PR_000025765)                                                                                                                                                                                        |
 | `Reactome:REACT_7444`    |              2 | [PR:000025765](http://purl.obolibrary.org/obo/PR_000025765), [PR:000025765](http://purl.obolibrary.org/obo/PR_000025765)                                                                                                                                                                                        |
 | `Reactome:REACT_6996`    |              2 | [PR:000025926](http://purl.obolibrary.org/obo/PR_000025926), [PR:000025926](http://purl.obolibrary.org/obo/PR_000025926)                                                                                                                                                                                        |
@@ -2606,7 +2625,6 @@ did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
 | `Reactome:REACT_12828.1` |              1 | [PR:000003238](http://purl.obolibrary.org/obo/PR_000003238)                                                                                                                                                                                                                                                     |
 | `Reactome:REACT_8478`    |              1 | [PR:000025773](http://purl.obolibrary.org/obo/PR_000025773)                                                                                                                                                                                                                                                     |
 | `Reactome:REACT_7694`    |              1 | [PR:000025785](http://purl.obolibrary.org/obo/PR_000025785)                                                                                                                                                                                                                                                     |
-| `Reactome:REACT_7415`    |              1 | [PR:000025976](http://purl.obolibrary.org/obo/PR_000025976)                                                                                                                                                                                                                                                     |
 | `Reactome:REACT_12828`   |              1 | [PR:000026136](http://purl.obolibrary.org/obo/PR_000026136)                                                                                                                                                                                                                                                     |
 | `Reactome:REACT_5366`    |              1 | [PR:000026173](http://purl.obolibrary.org/obo/PR_000026173)                                                                                                                                                                                                                                                     |
 | `Reactome:REACT_24452`   |              1 | [PR:000026549](http://purl.obolibrary.org/obo/PR_000026549)                                                                                                                                                                                                                                                     |
@@ -2684,23 +2702,12 @@ did not match the standard pattern `^RF\d{5}$`.
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
 | `RFAM:jd`       |              2 | [SO:0001427](http://purl.obolibrary.org/obo/SO_0001427), [SO:0001459](http://purl.obolibrary.org/obo/SO_0001459) |
 
-## `RO`: Relation Ontology
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `RO` (standardized to Bioregistry
-prefix [`ro`](https://bioregistry.io/ro)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref   |   usages_count | usages                                                  |
-|-----------------|----------------|---------------------------------------------------------|
-| `RO:cjm`        |              1 | [RO:0009501](http://purl.obolibrary.org/obo/RO_0009501) |
-
 ## `RO_proposed_relation`: Relation Ontology
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `RO_proposed_relation` (standardized to Bioregistry
 prefix [`ro`](https://bioregistry.io/ro)) that
-did not match the standard pattern `^\d{7}$`.
+did not match the standard pattern `^(HOM)?\d{7}$`.
 
 | external_xref                        |   usages_count | usages                                                        |
 |--------------------------------------|----------------|---------------------------------------------------------------|
@@ -2866,25 +2873,26 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `UBERON`: Uber Anatomy Ontology
 
-Overall, there were 214 invalid
+Overall, there were 215 invalid
 xrefs to external prefixed with `UBERON` (standardized to Bioregistry
 prefix [`uberon`](https://bioregistry.io/uberon)) that
 did not match the standard pattern `^\d+$`.
 
-| external_xref      |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
-|--------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `UBERON:cjm`       |            174 | [BSPO:0000126](http://purl.obolibrary.org/obo/BSPO_0000126), [UBERON:0000004](http://purl.obolibrary.org/obo/UBERON_0000004), [UBERON:0000004](http://purl.obolibrary.org/obo/UBERON_0000004), [UBERON:0000012](http://purl.obolibrary.org/obo/UBERON_0000012), [UBERON:0000172](http://purl.obolibrary.org/obo/UBERON_0000172), ...     |
-| `UBERON:EJS`       |             19 | [UBERON:1000000](http://purl.obolibrary.org/obo/UBERON_1000000), [UBERON:1000001](http://purl.obolibrary.org/obo/UBERON_1000001), [UBERON:1000002](http://purl.obolibrary.org/obo/UBERON_1000002), [UBERON:1000004](http://purl.obolibrary.org/obo/UBERON_1000004), [UBERON:1000005](http://purl.obolibrary.org/obo/UBERON_1000005), ... |
-| `UBERON:mah`       |              4 | [UBERON:0001427](http://purl.obolibrary.org/obo/UBERON_0001427), [UBERON:0001428](http://purl.obolibrary.org/obo/UBERON_0001428), [UBERON:0015001](http://purl.obolibrary.org/obo/UBERON_0015001), [UBERON:0015003](http://purl.obolibrary.org/obo/UBERON_0015003)                                                                       |
-| `UBERON:skansa`    |              4 | [UBERON:0012288](http://purl.obolibrary.org/obo/UBERON_0012288), [UBERON:0012289](http://purl.obolibrary.org/obo/UBERON_0012289), [UBERON:0012290](http://purl.obolibrary.org/obo/UBERON_0012290), [UBERON:0013649](http://purl.obolibrary.org/obo/UBERON_0013649)                                                                       |
-| `UBERON:xp`        |              3 | [UBERON:0003133](http://purl.obolibrary.org/obo/UBERON_0003133), [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134), [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135)                                                                                                                                        |
-| `UBERON:automatic` |              2 | [UBERON:0004766](http://purl.obolibrary.org/obo/UBERON_0004766), [UBERON:0004766](http://purl.obolibrary.org/obo/UBERON_0004766)                                                                                                                                                                                                         |
-| `UBERON:gg`        |              2 | [UBERON:0005982](http://purl.obolibrary.org/obo/UBERON_0005982), [UBERON:0006060](http://purl.obolibrary.org/obo/UBERON_0006060)                                                                                                                                                                                                         |
-| `UBERON:md`        |              2 | [UBERON:0013739](http://purl.obolibrary.org/obo/UBERON_0013739), [UBERON:0013740](http://purl.obolibrary.org/obo/UBERON_0013740)                                                                                                                                                                                                         |
-| `UBERON:gvg`       |              1 | [UBERON:0005273](http://purl.obolibrary.org/obo/UBERON_0005273)                                                                                                                                                                                                                                                                          |
-| `UBERON:nv`        |              1 | [UBERON:0016928](http://purl.obolibrary.org/obo/UBERON_0016928)                                                                                                                                                                                                                                                                          |
-| `UBERON:drseb`     |              1 | [UBERON:0019207](http://purl.obolibrary.org/obo/UBERON_0019207)                                                                                                                                                                                                                                                                          |
-| `UBERON:rc`        |              1 | [UBERON:0036015](http://purl.obolibrary.org/obo/UBERON_0036015)                                                                                                                                                                                                                                                                          |
+| external_xref                |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `UBERON:cjm`                 |            174 | [BSPO:0000126](http://purl.obolibrary.org/obo/BSPO_0000126), [UBERON:0000004](http://purl.obolibrary.org/obo/UBERON_0000004), [UBERON:0000004](http://purl.obolibrary.org/obo/UBERON_0000004), [UBERON:0000012](http://purl.obolibrary.org/obo/UBERON_0000012), [UBERON:0000172](http://purl.obolibrary.org/obo/UBERON_0000172), ...     |
+| `UBERON:EJS`                 |             19 | [UBERON:1000000](http://purl.obolibrary.org/obo/UBERON_1000000), [UBERON:1000001](http://purl.obolibrary.org/obo/UBERON_1000001), [UBERON:1000002](http://purl.obolibrary.org/obo/UBERON_1000002), [UBERON:1000004](http://purl.obolibrary.org/obo/UBERON_1000004), [UBERON:1000005](http://purl.obolibrary.org/obo/UBERON_1000005), ... |
+| `UBERON:mah`                 |              4 | [UBERON:0001427](http://purl.obolibrary.org/obo/UBERON_0001427), [UBERON:0001428](http://purl.obolibrary.org/obo/UBERON_0001428), [UBERON:0015001](http://purl.obolibrary.org/obo/UBERON_0015001), [UBERON:0015003](http://purl.obolibrary.org/obo/UBERON_0015003)                                                                       |
+| `UBERON:skansa`              |              4 | [UBERON:0012288](http://purl.obolibrary.org/obo/UBERON_0012288), [UBERON:0012289](http://purl.obolibrary.org/obo/UBERON_0012289), [UBERON:0012290](http://purl.obolibrary.org/obo/UBERON_0012290), [UBERON:0013649](http://purl.obolibrary.org/obo/UBERON_0013649)                                                                       |
+| `UBERON:xp`                  |              3 | [UBERON:0003133](http://purl.obolibrary.org/obo/UBERON_0003133), [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134), [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135)                                                                                                                                        |
+| `UBERON:automatic`           |              2 | [UBERON:0004766](http://purl.obolibrary.org/obo/UBERON_0004766), [UBERON:0004766](http://purl.obolibrary.org/obo/UBERON_0004766)                                                                                                                                                                                                         |
+| `UBERON:gg`                  |              2 | [UBERON:0005982](http://purl.obolibrary.org/obo/UBERON_0005982), [UBERON:0006060](http://purl.obolibrary.org/obo/UBERON_0006060)                                                                                                                                                                                                         |
+| `UBERON:md`                  |              2 | [UBERON:0013739](http://purl.obolibrary.org/obo/UBERON_0013739), [UBERON:0013740](http://purl.obolibrary.org/obo/UBERON_0013740)                                                                                                                                                                                                         |
+| `UBERON:gvg`                 |              1 | [UBERON:0005273](http://purl.obolibrary.org/obo/UBERON_0005273)                                                                                                                                                                                                                                                                          |
+| `UBERON:CL_meeting_20110725` |              1 | [UBERON:0008921](http://purl.obolibrary.org/obo/UBERON_0008921)                                                                                                                                                                                                                                                                          |
+| `UBERON:nv`                  |              1 | [UBERON:0016928](http://purl.obolibrary.org/obo/UBERON_0016928)                                                                                                                                                                                                                                                                          |
+| `UBERON:drseb`               |              1 | [UBERON:0019207](http://purl.obolibrary.org/obo/UBERON_0019207)                                                                                                                                                                                                                                                                          |
+| `UBERON:rc`                  |              1 | [UBERON:0036015](http://purl.obolibrary.org/obo/UBERON_0036015)                                                                                                                                                                                                                                                                          |
 
 ## `UM-BBD_pathwayID`: EAWAG Biocatalysis/Biodegradation Database
 
@@ -3592,7 +3600,7 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `ZFIN`: Zebrafish Information Network Gene
 
-Overall, there were 528 invalid
+Overall, there were 529 invalid
 xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
 prefix [`zfin`](https://bioregistry.io/zfin)) that
 did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
@@ -3606,6 +3614,7 @@ did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 | `ZFIN:Curator`   |              2 | [UBERON:0005817](http://purl.obolibrary.org/obo/UBERON_0005817), [UBERON:2005210](http://purl.obolibrary.org/obo/UBERON_2005210)                                                                                                                                                                                                         |
 | `ZFIN:dsf`       |              1 | [GO:0044458](http://purl.obolibrary.org/obo/GO_0044458)                                                                                                                                                                                                                                                                                  |
 | `ZFIN:st`        |              1 | [SO:0002217](http://purl.obolibrary.org/obo/SO_0002217)                                                                                                                                                                                                                                                                                  |
+| `ZFIN:cvs`       |              1 | [UBERON:0000089](http://purl.obolibrary.org/obo/UBERON_0000089)                                                                                                                                                                                                                                                                          |
 | `ZFIN:yb`        |              1 | [UBERON:0003066](http://purl.obolibrary.org/obo/UBERON_0003066)                                                                                                                                                                                                                                                                          |
 | `ZFIN:090511-18` |              1 | [UBERON:2002145](http://purl.obolibrary.org/obo/UBERON_2002145)                                                                                                                                                                                                                                                                          |
 

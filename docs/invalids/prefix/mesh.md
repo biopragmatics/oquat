@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `mesh`
 but use local unique identifiers that do not match the standard pattern of
-`^(C|D)\d{6,9}$`. Of the 19 resources,
+`^(C|D)\d{6,9}$`. Of the 18 resources,
 2 variants on the standard prefix were found: ['MESH', 'MeSH'].
 
 ## `bao`: BioAssay Ontology
@@ -18,18 +18,51 @@ Identifiers for this prefix are given incorrectly in `bao`. See the [GitHub repo
 | `MESH:A03.492.411.620.270` |              1 | [UBERON:0002114](http://purl.obolibrary.org/obo/UBERON_0002114) |
 | `MESH:A12.207.630`         |              1 | [UBERON:0002391](http://purl.obolibrary.org/obo/UBERON_0002391) |
 
-## `cl`: Cell Ontology
+## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
 
-Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
+Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
 
-| external_xref              |   usages_count | usages                                                  |
-|----------------------------|----------------|---------------------------------------------------------|
-| `MESH:A09.371.060.067.31`  |              1 | [CL:0000132](http://purl.obolibrary.org/obo/CL_0000132) |
-| `MESH:A16.254.600`         |              1 | [CL:0000333](http://purl.obolibrary.org/obo/CL_0000333) |
-| `MESH:A11.118.290.350.200` |              1 | [CL:0000547](http://purl.obolibrary.org/obo/CL_0000547) |
-| `MESH:A11.070`             |              1 | [CL:0000568](http://purl.obolibrary.org/obo/CL_0000568) |
-| `MESH:A03.492.766.440.250` |              1 | [CL:0000577](http://purl.obolibrary.org/obo/CL_0000577) |
-| `MESH:A11.329.679`         |              1 | [CL:0000588](http://purl.obolibrary.org/obo/CL_0000588) |
+| external_xref                      |   usages_count | usages                                                                                                                           |
+|------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------|
+| `MESH:A02.835.232.500.247.343`     |              2 | [UBERON:0006767](http://purl.obolibrary.org/obo/UBERON_0006767), [UBERON:0006767](http://purl.obolibrary.org/obo/UBERON_0006767) |
+| `MESH:A02.513.170`                 |              2 | [UBERON:0012332](http://purl.obolibrary.org/obo/UBERON_0012332), [UBERON:0012332](http://purl.obolibrary.org/obo/UBERON_0012332) |
+| `MESH:A09.371.060.067.31`          |              1 | [CL:0000132](http://purl.obolibrary.org/obo/CL_0000132)                                                                          |
+| `MESH:A03.492.766.440.250`         |              1 | [CL:0000577](http://purl.obolibrary.org/obo/CL_0000577)                                                                          |
+| `MESH:A03.734.414`                 |              1 | [UBERON:0000006](http://purl.obolibrary.org/obo/UBERON_0000006)                                                                  |
+| `MESH:A07.541.510`                 |              1 | [UBERON:0000946](http://purl.obolibrary.org/obo/UBERON_0000946)                                                                  |
+| `MESH:A07.231.114.056`             |              1 | [UBERON:0000947](http://purl.obolibrary.org/obo/UBERON_0000947)                                                                  |
+| `MESH:A09.371.060.217`             |              1 | [UBERON:0000964](http://purl.obolibrary.org/obo/UBERON_0000964)                                                                  |
+| `MESH:A10.165.114`                 |              1 | [UBERON:0001013](http://purl.obolibrary.org/obo/UBERON_0001013)                                                                  |
+| `MESH:A02.633.567.900.500`         |              1 | [UBERON:0001111](http://purl.obolibrary.org/obo/UBERON_0001111)                                                                  |
+| `MESH:A07.231.114.565.755`         |              1 | [UBERON:0001182](http://purl.obolibrary.org/obo/UBERON_0001182)                                                                  |
+| `MESH:A05.360.319.679.490`         |              1 | [UBERON:0001295](http://purl.obolibrary.org/obo/UBERON_0001295)                                                                  |
+| `MESH:A02.633.570.500`             |              1 | [UBERON:0001296](http://purl.obolibrary.org/obo/UBERON_0001296)                                                                  |
+| `MESH:A02.835.232.251`             |              1 | [UBERON:0001437](http://purl.obolibrary.org/obo/UBERON_0001437)                                                                  |
+| `MESH:A09.371.060.217.325`         |              1 | [UBERON:0001772](http://purl.obolibrary.org/obo/UBERON_0001772)                                                                  |
+| `MESH:A08.800.800.720`             |              1 | [UBERON:0001780](http://purl.obolibrary.org/obo/UBERON_0001780)                                                                  |
+| `MESH:A09.371.060.200`             |              1 | [UBERON:0001811](http://purl.obolibrary.org/obo/UBERON_0001811)                                                                  |
+| `MESH:A07.231.432.952`             |              1 | [UBERON:0001979](http://purl.obolibrary.org/obo/UBERON_0001979)                                                                  |
+| `MESH:A10.272.491`                 |              1 | [UBERON:0001986](http://purl.obolibrary.org/obo/UBERON_0001986)                                                                  |
+| `MESH:A08.186.211.132.810.428.200` |              1 | [UBERON:0002037](http://purl.obolibrary.org/obo/UBERON_0002037)                                                                  |
+| `MESH:A08.186.854.610.800`         |              1 | [UBERON:0002181](http://purl.obolibrary.org/obo/UBERON_0002181)                                                                  |
+| `MESH:A04.411.125`                 |              1 | [UBERON:0002185](http://purl.obolibrary.org/obo/UBERON_0002185)                                                                  |
+| `MESH:A07.231.114.681`             |              1 | [UBERON:0002250](http://purl.obolibrary.org/obo/UBERON_0002250)                                                                  |
+| `MESH:A05.810.453.736.520.380`     |              1 | [UBERON:0002320](http://purl.obolibrary.org/obo/UBERON_0002320)                                                                  |
+| `MESH:A10.615.284.473`             |              1 | [UBERON:0003124](http://purl.obolibrary.org/obo/UBERON_0003124)                                                                  |
+| `MESH:A02.513.514.475`             |              1 | [UBERON:0003676](http://purl.obolibrary.org/obo/UBERON_0003676)                                                                  |
+| `MESH:A02.633.567.600`             |              1 | [UBERON:0003681](http://purl.obolibrary.org/obo/UBERON_0003681)                                                                  |
+| `MESH:A02.633.567.750`             |              1 | [UBERON:0003682](http://purl.obolibrary.org/obo/UBERON_0003682)                                                                  |
+| `MESH:A07.231.114.565`             |              1 | [UBERON:0005616](http://purl.obolibrary.org/obo/UBERON_0005616)                                                                  |
+| `MESH:A07.231.908.670.385`         |              1 | [UBERON:0005617](http://purl.obolibrary.org/obo/UBERON_0005617)                                                                  |
+| `MESH:A02.633.567.700`             |              1 | [UBERON:0006531](http://purl.obolibrary.org/obo/UBERON_0006531)                                                                  |
+| `MESH:A07.231.114.895`             |              1 | [UBERON:0007610](http://purl.obolibrary.org/obo/UBERON_0007610)                                                                  |
+| `MESH:A02.633.567.825`             |              1 | [UBERON:0008450](http://purl.obolibrary.org/obo/UBERON_0008450)                                                                  |
+| `MESH:A03.734.667`                 |              1 | [UBERON:0001064](http://purl.obolibrary.org/obo/UBERON_0001064)                                                                  |
+| `MESH:A02.835.232.834`             |              1 | [UBERON:0001130](http://purl.obolibrary.org/obo/UBERON_0001130)                                                                  |
+| `MESH:A08.800.800.120.680.660`     |              1 | [UBERON:0001783](http://purl.obolibrary.org/obo/UBERON_0001783)                                                                  |
+| `MESH:A02.835.232`                 |              1 | [UBERON:0002481](http://purl.obolibrary.org/obo/UBERON_0002481)                                                                  |
+| `MESH:A05.810.453.736.560.570`     |              1 | [UBERON:0004134](http://purl.obolibrary.org/obo/UBERON_0004134)                                                                  |
+| `MESH:A16.254.403.473.200`         |              1 | [UBERON:0007106](http://purl.obolibrary.org/obo/UBERON_0007106)                                                                  |
 
 ## `covoc`: CoVoc Coronavirus Vocabulary
 
@@ -75,14 +108,17 @@ Identifiers for this prefix are given incorrectly in `dto`. See the [GitHub repo
 
 Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
-| external_xref   |   usages_count | usages                                                                                                                                                        |
-|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MeSH:NoID`     |              3 | [EFO:0007233](http://www.ebi.ac.uk/efo/EFO_0007233), [EFO:0007422](http://www.ebi.ac.uk/efo/EFO_0007422), [EFO:0007441](http://www.ebi.ac.uk/efo/EFO_0007441) |
-| `MeSH:DO16518`  |              1 | [EFO:0004122](http://www.ebi.ac.uk/efo/EFO_0004122)                                                                                                           |
-| `MeSH:Q000401`  |              1 | [EFO:0004352](http://www.ebi.ac.uk/efo/EFO_0004352)                                                                                                           |
-| `MeSH:68062025` |              1 | [EFO:0010581](http://www.ebi.ac.uk/efo/EFO_0010581)                                                                                                           |
-| `MeSH:Q000633`  |              1 | [EFO:0011061](http://www.ebi.ac.uk/efo/EFO_0011061)                                                                                                           |
-| `MeSH:DO14076`  |              1 | [EFO:1001216](http://www.ebi.ac.uk/efo/EFO_1001216)                                                                                                           |
+| external_xref           |   usages_count | usages                                                                                                                                                        |
+|-------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `MeSH:NoID`             |              3 | [EFO:0007233](http://www.ebi.ac.uk/efo/EFO_0007233), [EFO:0007422](http://www.ebi.ac.uk/efo/EFO_0007422), [EFO:0007441](http://www.ebi.ac.uk/efo/EFO_0007441) |
+| `MESH:D014253-modified` |              1 | [EFO:0007523](http://www.ebi.ac.uk/efo/EFO_0007523)                                                                                                           |
+| `MESH:D014323-modified` |              1 | [EFO:0007526](http://www.ebi.ac.uk/efo/EFO_0007526)                                                                                                           |
+| `MeSH:DO16518`          |              1 | [EFO:0004122](http://www.ebi.ac.uk/efo/EFO_0004122)                                                                                                           |
+| `MeSH:Q000401`          |              1 | [EFO:0004352](http://www.ebi.ac.uk/efo/EFO_0004352)                                                                                                           |
+| `MeSH:68062025`         |              1 | [EFO:0010581](http://www.ebi.ac.uk/efo/EFO_0010581)                                                                                                           |
+| `MeSH:Q000633`          |              1 | [EFO:0011061](http://www.ebi.ac.uk/efo/EFO_0011061)                                                                                                           |
+| `MeSH:130014`           |              1 | [EFO:0022194](http://www.ebi.ac.uk/efo/EFO_0022194)                                                                                                           |
+| `MeSH:DO14076`          |              1 | [EFO:1001216](http://www.ebi.ac.uk/efo/EFO_1001216)                                                                                                           |
 
 ## `enm`: eNanoMapper ontology
 
@@ -143,14 +179,6 @@ Identifiers for this prefix are given incorrectly in `icdo`.
 | `MESH:A03.492.411.620`         |              1 | [UBERON:0002108](http://purl.obolibrary.org/obo/UBERON_0002108) |
 | `MESH:A03.492`                 |              1 | [UBERON:0005409](http://purl.obolibrary.org/obo/UBERON_0005409) |
 | `MESH:A02.835.232.500.247.510` |              1 | [UBERON:0007119](http://purl.obolibrary.org/obo/UBERON_0007119) |
-
-## `mmo`: Measurement method ontology
-
-Identifiers for this prefix are given incorrectly in `mmo`. See the [GitHub repository](https://github.com/rat-genome-database/MMO-Measurement-Method-Ontology).
-
-| external_xref                                         |   usages_count | usages                                                    |
-|-------------------------------------------------------|----------------|-----------------------------------------------------------|
-| `MESH:https://meshb.nlm.nih.gov/record/ui?ui=D009543` |              1 | [MMO:0000697](http://purl.obolibrary.org/obo/MMO_0000697) |
 
 ## `mondo`: Mondo Disease Ontology
 
@@ -619,13 +647,8 @@ Identifiers for this prefix are given incorrectly in `nif`.
 | `MESH:A08.186.211.132.810.428.200.462` |              2 | [UBERON:0014908](http://purl.obolibrary.org/obo/UBERON_0014908), [UBERON:0014908](http://purl.obolibrary.org/obo/UBERON_0014908)                                                                  |
 | `MESH:G06.535.805`                     |              2 | [UBERON:0018229](http://purl.obolibrary.org/obo/UBERON_0018229), [UBERON:0018229](http://purl.obolibrary.org/obo/UBERON_0018229)                                                                  |
 | `MESH:A08.612.600`                     |              2 | [UBERON:0034931](http://purl.obolibrary.org/obo/UBERON_0034931), [UBERON:0034931](http://purl.obolibrary.org/obo/UBERON_0034931)                                                                  |
-| `MESH:A08.800.550.700.650`             |              2 | [UBERON:0035017](http://purl.obolibrary.org/obo/UBERON_0035017), [UBERON:0035017](http://purl.obolibrary.org/obo/UBERON_0035017)                                                                  |
 | `MESH:A08.800.550.700.840`             |              2 | [UBERON:0035018](http://purl.obolibrary.org/obo/UBERON_0035018), [UBERON:0035018](http://purl.obolibrary.org/obo/UBERON_0035018)                                                                  |
 | `MESH:A08.800.050.800.900.700`         |              2 | [UBERON:0004019](http://purl.obolibrary.org/obo/UBERON_0004019), [UBERON:0018392](http://purl.obolibrary.org/obo/UBERON_0018392)                                                                  |
-| `MESH:A16.254.600`                     |              1 | [CL:0000333](http://purl.obolibrary.org/obo/CL_0000333)                                                                                                                                           |
-| `MESH:A11.118.290.350.200`             |              1 | [CL:0000547](http://purl.obolibrary.org/obo/CL_0000547)                                                                                                                                           |
-| `MESH:A11.070`                         |              1 | [CL:0000568](http://purl.obolibrary.org/obo/CL_0000568)                                                                                                                                           |
-| `MESH:A11.329.679`                     |              1 | [CL:0000588](http://purl.obolibrary.org/obo/CL_0000588)                                                                                                                                           |
 | `MESH:A03.734.414`                     |              1 | [UBERON:0000006](http://purl.obolibrary.org/obo/UBERON_0000006)                                                                                                                                   |
 | `MESH:A09.371.729.522`                 |              1 | [UBERON:0000053](http://purl.obolibrary.org/obo/UBERON_0000053)                                                                                                                                   |
 | `MESH:A01.456.810`                     |              1 | [UBERON:0000403](http://purl.obolibrary.org/obo/UBERON_0000403)                                                                                                                                   |
@@ -756,13 +779,11 @@ Identifiers for this prefix are given incorrectly in `nif`.
 
 Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
 
-| external_xref                                                                                                     |   usages_count | usages                                                                                                                                                                    |
-|-------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MeSH:http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi`                                                                |              3 | [PW:0000625](http://purl.obolibrary.org/obo/PW_0000625), [PW:0000700](http://purl.obolibrary.org/obo/PW_0000700), [PW:0000701](http://purl.obolibrary.org/obo/PW_0000701) |
-| `MeSH:MeSH`                                                                                                       |              3 | [PW:0000627](http://purl.obolibrary.org/obo/PW_0000627), [PW:0000631](http://purl.obolibrary.org/obo/PW_0000631), [PW:0000633](http://purl.obolibrary.org/obo/PW_0000633) |
-| `MeSH:Medical Subject Headings`                                                                                   |              2 | [PW:0000517](http://purl.obolibrary.org/obo/PW_0000517), [PW:0001476](http://purl.obolibrary.org/obo/PW_0001476)                                                          |
-| `MeSH:MeSH descriptor`                                                                                            |              1 | [PW:0001414](http://purl.obolibrary.org/obo/PW_0001414)                                                                                                                   |
-| `MeSH:http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?mode=&term=Neoplasms,+Nerve+Tissue&field=entry#TreeC04.557.580` |              1 | [PW:0001550](http://purl.obolibrary.org/obo/PW_0001550)                                                                                                                   |
+| external_xref                   |   usages_count | usages                                                                                                                                                                    |
+|---------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `MeSH:MeSH`                     |              3 | [PW:0000627](http://purl.obolibrary.org/obo/PW_0000627), [PW:0000631](http://purl.obolibrary.org/obo/PW_0000631), [PW:0000633](http://purl.obolibrary.org/obo/PW_0000633) |
+| `MeSH:Medical_Subject_Headings` |              2 | [PW:0000517](http://purl.obolibrary.org/obo/PW_0000517), [PW:0001476](http://purl.obolibrary.org/obo/PW_0001476)                                                          |
+| `MeSH:MeSH_descriptor`          |              1 | [PW:0001414](http://purl.obolibrary.org/obo/PW_0001414)                                                                                                                   |
 
 ## `ro`: Relation Ontology
 
@@ -800,7 +821,6 @@ Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub r
 | `MESH:A08.186.211.132.810.428.200.462` |              2 | [UBERON:0014908](http://purl.obolibrary.org/obo/UBERON_0014908), [UBERON:0014908](http://purl.obolibrary.org/obo/UBERON_0014908)                                                                  |
 | `MESH:G06.535.805`                     |              2 | [UBERON:0018229](http://purl.obolibrary.org/obo/UBERON_0018229), [UBERON:0018229](http://purl.obolibrary.org/obo/UBERON_0018229)                                                                  |
 | `MESH:A08.612.600`                     |              2 | [UBERON:0034931](http://purl.obolibrary.org/obo/UBERON_0034931), [UBERON:0034931](http://purl.obolibrary.org/obo/UBERON_0034931)                                                                  |
-| `MESH:A08.800.550.700.650`             |              2 | [UBERON:0035017](http://purl.obolibrary.org/obo/UBERON_0035017), [UBERON:0035017](http://purl.obolibrary.org/obo/UBERON_0035017)                                                                  |
 | `MESH:A08.800.550.700.840`             |              2 | [UBERON:0035018](http://purl.obolibrary.org/obo/UBERON_0035018), [UBERON:0035018](http://purl.obolibrary.org/obo/UBERON_0035018)                                                                  |
 | `MESH:A08.800.050.800.900.700`         |              2 | [UBERON:0004019](http://purl.obolibrary.org/obo/UBERON_0004019), [UBERON:0018392](http://purl.obolibrary.org/obo/UBERON_0018392)                                                                  |
 | `MESH:A03.734.414`                     |              1 | [UBERON:0000006](http://purl.obolibrary.org/obo/UBERON_0000006)                                                                                                                                   |
@@ -942,14 +962,9 @@ Identifiers for this prefix are given incorrectly in `vt`. See the [GitHub repos
 
 Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
 
-| external_xref                                                                                           |   usages_count | usages                                                    |
-|---------------------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------|
-| `MESH:https://meshb.nlm.nih.gov/record/ui?ui=D008550`                                                   |              1 | [XCO:0000559](http://purl.obolibrary.org/obo/XCO_0000559) |
-| `MESH:https://meshb.nlm.nih.gov/record/ui?ui=D009543`                                                   |              1 | [XCO:0000611](http://purl.obolibrary.org/obo/XCO_0000611) |
-| `MESH:https://www.ncbi.nlm.nih.gov/mesh/68020889`                                                       |              1 | [XCO:0000614](http://purl.obolibrary.org/obo/XCO_0000614) |
-| `MESH:https://www.ncbi.nlm.nih.gov/mesh?Db=mesh&Cmd=DetailsSearch&Term=%22Verapamil%22%5BMeSH+Terms%5D` |              1 | [XCO:0000616](http://purl.obolibrary.org/obo/XCO_0000616) |
-| `MESH:https://www.ncbi.nlm.nih.gov/mesh/68011802`                                                       |              1 | [XCO:0000617](http://purl.obolibrary.org/obo/XCO_0000617) |
-| `MESH:https://www.ncbi.nlm.nih.gov/mesh/68016686`                                                       |              1 | [XCO:0000642](http://purl.obolibrary.org/obo/XCO_0000642) |
+| external_xref   |   usages_count | usages                                                    |
+|-----------------|----------------|-----------------------------------------------------------|
+| `MESH:68011802` |              1 | [XCO:0000617](http://purl.obolibrary.org/obo/XCO_0000617) |
 
 ## `zfa`: Zebrafish anatomy and development ontology
 

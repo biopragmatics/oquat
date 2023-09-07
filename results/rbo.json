@@ -1,9 +1,35 @@
 {
-  "created": "2023-05-21T01:51:19.364918",
+  "created": "2023-09-07T13:23:53.553744",
   "messages": [
-    "could not parse JSON for rbo from http://purl.obolibrary.org/obo/rbo.json",
-    "could not parse OWL for rbo from http://purl.obolibrary.org/obo/rbo.owl",
-    "could not parse OBO for rbo from http://purl.obolibrary.org/obo/rbo.obo"
+    "[rbo] could not parse JSON from http://purl.obolibrary.org/obo/rbo.json: Expecting value: line 1 column 1 (char 0)",
+    "[rbo] could not parse OWL from http://purl.obolibrary.org/obo/rbo.owl"
   ],
-  "results": {}
+  "results": {
+    "http://purl.obolibrary.org/obo/rbo.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/rbo.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2021-08-30",
+      "version_iri": "http://purl.obolibrary.org/obo/rbo/releases/2021-08-30/rbo.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
+    }
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T00:52:15.077454",
+  "created": "2023-09-07T12:37:14.789374",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/eco.owl": {
@@ -4420,6 +4420,54 @@
           "http://purl.obolibrary.org/obo/ECO_0008008": [
             "ECO:SN"
           ],
+          "http://purl.obolibrary.org/obo/ECO_0008014": [
+            "ENA:Peter"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008015": [
+            "ECO:MG"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008016": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008017": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008018": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008019": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008020": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008021": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008022": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008023": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008024": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008025": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008026": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008027": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008028": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008029": [
+            "ECO:SN"
+          ],
           "http://purl.obolibrary.org/obo/ECO_9000000": [
             "ECO:SN"
           ],
@@ -4437,6 +4485,9 @@
           ]
         },
         "noncanonical_prefixes": {
+          "ENA": {
+            "http://purl.obolibrary.org/obo/ECO_0008014": "ENA:Peter"
+          },
           "wikipedia": {
             "http://purl.obolibrary.org/obo/ECO_0000337": "wikipedia:Gel_electrophoresis"
           }
@@ -4730,7 +4781,11 @@
             "http://purl.obolibrary.org/obo/ECO_0007645": "url:https://en.wikipedia.org/wiki/Scientific_journal",
             "http://purl.obolibrary.org/obo/ECO_0008000": "url:https://en.wikipedia.org/wiki/Machine_learning",
             "http://purl.obolibrary.org/obo/ECO_0008001": "url:https://www.uniprot.org/help/ProtNLM",
-            "http://purl.obolibrary.org/obo/ECO_0008002": "url:https://www.uniprot.org/help/arba"
+            "http://purl.obolibrary.org/obo/ECO_0008002": "url:https://www.uniprot.org/help/arba",
+            "http://purl.obolibrary.org/obo/ECO_0008010": "url:https://www.nature.com/articles/nbt1206-1565",
+            "http://purl.obolibrary.org/obo/ECO_0008011": "url:https://en.wikipedia.org/wiki/String-searching_algorithm",
+            "http://purl.obolibrary.org/obo/ECO_0008012": "url:https://en.wikipedia.org/wiki/Regular_expression",
+            "http://purl.obolibrary.org/obo/ECO_0008013": "url:https://en.wikipedia.org/wiki/Artificial_neural_network"
           }
         }
       },
@@ -4764,8 +4819,8 @@
           }
         }
       },
-      "version": "2023-04-07",
-      "version_iri": "http://purl.obolibrary.org/obo/eco/releases/2023-04-07/eco.owl",
+      "version": "2023-09-03",
+      "version_iri": "http://purl.obolibrary.org/obo/eco/releases/2023-09-03/eco.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ECO_0000324": [
@@ -4784,7 +4839,8 @@
             "http://purl.obolibrary.org/obo/ECO_0000265": "GO_REF:0000035",
             "http://purl.obolibrary.org/obo/ECO_0000354": "GO_REF:0000025",
             "http://purl.obolibrary.org/obo/ECO_0000363": "GO_REF:0000108",
-            "http://purl.obolibrary.org/obo/ECO_0000501": "GO_REF:0000116"
+            "http://purl.obolibrary.org/obo/ECO_0000501": "GO_REF:0000116",
+            "http://purl.obolibrary.org/obo/ECO_0007322": "GO_REF:0000023"
           }
         },
         "unknown_prefixes": {

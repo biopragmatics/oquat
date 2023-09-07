@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T00:12:20.104453",
+  "created": "2023-09-07T12:25:39.729277",
   "messages": [],
   "results": {
     "http://www.bioassayontology.org/bao/bao_complete.owl": {
@@ -18,7 +18,7 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2.8.2",
+      "version": "2.8.7",
       "version_iri": "http://www.bioassayontology.org/bao/bao_complete.owl",
       "xref_pack": {
         "invalid_luids": {

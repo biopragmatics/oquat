@@ -85,6 +85,7 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False, skip_messages:
         )
         for prefix, resource in bioregistry.read_registry().items()
         if prefix not in SKIP_PREFIXES
+        and prefix not in {"pr"}
         and (not minimum or minimum <= prefix)
         and not resource.no_own_terms
     )

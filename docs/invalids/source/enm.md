@@ -20,31 +20,6 @@ did not match the standard pattern `^\d+$`.
 | `AGR:IND92003154` |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
 | `AGR:IND43789627` |              1 | [CHEBI:136646](http://purl.obolibrary.org/obo/CHEBI_136646) |
 
-## `BSPO`: Biological Spatial Ontology
-
-Overall, there were 17 invalid
-xrefs to external prefixed with `BSPO` (standardized to Bioregistry
-prefix [`bspo`](https://bioregistry.io/bspo)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
-|----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `BSPO:cjm`           |             11 | [BSPO:0000096](http://purl.obolibrary.org/obo/BSPO_0000096), [BSPO:0000097](http://purl.obolibrary.org/obo/BSPO_0000097), [BSPO:0000098](http://purl.obolibrary.org/obo/BSPO_0000098), [BSPO:0000099](http://purl.obolibrary.org/obo/BSPO_0000099), [BSPO:0000100](http://purl.obolibrary.org/obo/BSPO_0000100), ... |
-| `BSPO:PATO_mtg_2009` |              6 | [BSPO:0000120](http://purl.obolibrary.org/obo/BSPO_0000120), [BSPO:0000121](http://purl.obolibrary.org/obo/BSPO_0000121), [BSPO:0000122](http://purl.obolibrary.org/obo/BSPO_0000122), [BSPO:0000123](http://purl.obolibrary.org/obo/BSPO_0000123), [BSPO:0000124](http://purl.obolibrary.org/obo/BSPO_0000124), ... |
-
-## `CALOHA`: CALIPHO Group Ontology of Human Anatomy
-
-Overall, there were 4 invalid
-xrefs to external prefixed with `CALOHA` (standardized to Bioregistry
-prefix [`caloha`](https://bioregistry.io/caloha)) that
-did not match the standard pattern `^TS-\d+$`.
-
-| external_xref    |   usages_count | usages                                                                                                           |
-|------------------|----------------|------------------------------------------------------------------------------------------------------------------|
-| `CALOHA:TS-0576` |              2 | [CL:1001603](http://purl.obolibrary.org/obo/CL_1001603), [CL:1001603](http://purl.obolibrary.org/obo/CL_1001603) |
-| `CALOHA:TS-2035` |              1 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000)                                                          |
-| `CALOHA:TS-2090` |              1 | [UBERON:0000479](http://purl.obolibrary.org/obo/UBERON_0000479)                                                  |
-
 ## `CARO`: Common Anatomy Reference Ontology
 
 Overall, there were 2 invalid
@@ -56,6 +31,18 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
 | `CARO:mah`      |              2 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000), [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) |
 
+## `CAS`: CAS Registry Number
+
+Overall, there were 2 invalid
+xrefs to external prefixed with `CAS` (standardized to Bioregistry
+prefix [`cas`](https://bioregistry.io/cas)) that
+did not match the standard pattern `^\d{1,7}\-\d{2}\-\d$`.
+
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `CAS:1583915`   |              1 | [EFO:0022198](http://www.ebi.ac.uk/efo/EFO_0022198) |
+| `CAS:5466678`   |              1 | [EFO:0022199](http://www.ebi.ac.uk/efo/EFO_0022199) |
+
 ## `doi`: Digital Object Identifier
 
 Overall, there were 1 invalid
@@ -66,17 +53,6 @@ did not match the standard pattern `^10.\d{2,9}/.*$`.
 | external_xref            |   usages_count | usages                                              |
 |--------------------------|----------------|-----------------------------------------------------|
 | `doi: 10.1111/nmo.12871` |              1 | [EFO:0011032](http://www.ebi.ac.uk/efo/EFO_0011032) |
-
-## `ENVO`: Environment Ontology
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `ENVO` (standardized to Bioregistry
-prefix [`envo`](https://bioregistry.io/envo)) that
-did not match the standard pattern `^\d{7,8}$`.
-
-| external_xref   |   usages_count | usages                                                        |
-|-----------------|----------------|---------------------------------------------------------------|
-| `ENVO:cjm`      |              1 | [ENVO:00005774](http://purl.obolibrary.org/obo/ENVO_00005774) |
 
 ## `FAO`: Fungal gross anatomy
 
@@ -127,6 +103,101 @@ did not match the standard pattern `^[1-9][0-9]{3,6}$`.
 |-----------------|----------------|-----------------------------------------------------------|
 | `Gmelin:485`    |              1 | [CHEBI:15379](http://purl.obolibrary.org/obo/CHEBI_15379) |
 
+## `HMDB`: Human Metabolome Database
+
+Overall, there were 85 invalid
+xrefs to external prefixed with `HMDB` (standardized to Bioregistry
+prefix [`hmdb`](https://bioregistry.io/hmdb)) that
+did not match the standard pattern `^HMDB\d+$`.
+
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `HMDB:0031682`  |              1 | [EFO:0803383](http://www.ebi.ac.uk/efo/EFO_0803383) |
+| `HMDB:0000958`  |              1 | [EFO:0803384](http://www.ebi.ac.uk/efo/EFO_0803384) |
+| `HMDB:0035590`  |              1 | [EFO:0803385](http://www.ebi.ac.uk/efo/EFO_0803385) |
+| `HMDB:0062477`  |              1 | [EFO:0803386](http://www.ebi.ac.uk/efo/EFO_0803386) |
+| `HMDB:0000634`  |              1 | [EFO:0803387](http://www.ebi.ac.uk/efo/EFO_0803387) |
+| `HMDB:0037285`  |              1 | [EFO:0803388](http://www.ebi.ac.uk/efo/EFO_0803388) |
+| `HMDB:0060745`  |              1 | [EFO:0803389](http://www.ebi.ac.uk/efo/EFO_0803389) |
+| `HMDB:0039972`  |              1 | [EFO:0803390](http://www.ebi.ac.uk/efo/EFO_0803390) |
+| `HMDB:0032802`  |              1 | [EFO:0803391](http://www.ebi.ac.uk/efo/EFO_0803391) |
+| `HMDB:0039133`  |              1 | [EFO:0803392](http://www.ebi.ac.uk/efo/EFO_0803392) |
+| `HMDB:0059993`  |              1 | [EFO:0803393](http://www.ebi.ac.uk/efo/EFO_0803393) |
+| `HMDB:0059784`  |              1 | [EFO:0803394](http://www.ebi.ac.uk/efo/EFO_0803394) |
+| `HMDB:0000472`  |              1 | [EFO:0803395](http://www.ebi.ac.uk/efo/EFO_0803395) |
+| `HMDB:0032822`  |              1 | [EFO:0803396](http://www.ebi.ac.uk/efo/EFO_0803396) |
+| `HMDB:0037146`  |              1 | [EFO:0803397](http://www.ebi.ac.uk/efo/EFO_0803397) |
+| `HMDB:0034022`  |              1 | [EFO:0803398](http://www.ebi.ac.uk/efo/EFO_0803398) |
+| `HMDB:0031885`  |              1 | [EFO:0803399](http://www.ebi.ac.uk/efo/EFO_0803399) |
+| `HMDB:0000446`  |              1 | [EFO:0803400](http://www.ebi.ac.uk/efo/EFO_0803400) |
+| `HMDB:0015554`  |              1 | [EFO:0803401](http://www.ebi.ac.uk/efo/EFO_0803401) |
+| `HMDB:0000194`  |              1 | [EFO:0803402](http://www.ebi.ac.uk/efo/EFO_0803402) |
+| `HMDB:0002212`  |              1 | [EFO:0803403](http://www.ebi.ac.uk/efo/EFO_0803403) |
+| `HMDB:0032173`  |              1 | [EFO:0803404](http://www.ebi.ac.uk/efo/EFO_0803404) |
+| `HMDB:0041188`  |              1 | [EFO:0803405](http://www.ebi.ac.uk/efo/EFO_0803405) |
+| `HMDB:0002322`  |              1 | [EFO:0803406](http://www.ebi.ac.uk/efo/EFO_0803406) |
+| `HMDB:0000567`  |              1 | [EFO:0803407](http://www.ebi.ac.uk/efo/EFO_0803407) |
+| `HMDB:0002035`  |              1 | [EFO:0803408](http://www.ebi.ac.uk/efo/EFO_0803408) |
+| `HMDB:0035701`  |              1 | [EFO:0803409](http://www.ebi.ac.uk/efo/EFO_0803409) |
+| `HMDB:0001413`  |              1 | [EFO:0803410](http://www.ebi.ac.uk/efo/EFO_0803410) |
+| `HMDB:0000905`  |              1 | [EFO:0803411](http://www.ebi.ac.uk/efo/EFO_0803411) |
+| `HMDB:0037173`  |              1 | [EFO:0803412](http://www.ebi.ac.uk/efo/EFO_0803412) |
+| `HMDB:0001370`  |              1 | [EFO:0803413](http://www.ebi.ac.uk/efo/EFO_0803413) |
+| `HMDB:0032216`  |              1 | [EFO:0803414](http://www.ebi.ac.uk/efo/EFO_0803414) |
+| `HMDB:0002226`  |              1 | [EFO:0803415](http://www.ebi.ac.uk/efo/EFO_0803415) |
+| `HMDB:0000954`  |              1 | [EFO:0803416](http://www.ebi.ac.uk/efo/EFO_0803416) |
+| `HMDB:0001254`  |              1 | [EFO:0803417](http://www.ebi.ac.uk/efo/EFO_0803417) |
+| `HMDB:0001514`  |              1 | [EFO:0803418](http://www.ebi.ac.uk/efo/EFO_0803418) |
+| `HMDB:0031089`  |              1 | [EFO:0803419](http://www.ebi.ac.uk/efo/EFO_0803419) |
+| `HMDB:0002259`  |              1 | [EFO:0803420](http://www.ebi.ac.uk/efo/EFO_0803420) |
+| `HMDB:0000130`  |              1 | [EFO:0803421](http://www.ebi.ac.uk/efo/EFO_0803421) |
+| `HMDB:0060039`  |              1 | [EFO:0803422](http://www.ebi.ac.uk/efo/EFO_0803422) |
+| `HMDB:0003447`  |              1 | [EFO:0803423](http://www.ebi.ac.uk/efo/EFO_0803423) |
+| `HMDB:0060001`  |              1 | [EFO:0803424](http://www.ebi.ac.uk/efo/EFO_0803424) |
+| `HMDB:0003335`  |              1 | [EFO:0803425](http://www.ebi.ac.uk/efo/EFO_0803425) |
+| `HMDB:0002250`  |              1 | [EFO:0803426](http://www.ebi.ac.uk/efo/EFO_0803426) |
+| `HMDB:0035372`  |              1 | [EFO:0803427](http://www.ebi.ac.uk/efo/EFO_0803427) |
+| `HMDB:0011482`  |              1 | [EFO:0803428](http://www.ebi.ac.uk/efo/EFO_0803428) |
+| `HMDB:0035068`  |              1 | [EFO:0803429](http://www.ebi.ac.uk/efo/EFO_0803429) |
+| `HMDB:0029598`  |              1 | [EFO:0803430](http://www.ebi.ac.uk/efo/EFO_0803430) |
+| `HMDB:0036583`  |              1 | [EFO:0803431](http://www.ebi.ac.uk/efo/EFO_0803431) |
+| `HMDB:0011561`  |              1 | [EFO:0803432](http://www.ebi.ac.uk/efo/EFO_0803432) |
+| `HMDB:0011567`  |              1 | [EFO:0803433](http://www.ebi.ac.uk/efo/EFO_0803433) |
+| `HMDB:0013250`  |              1 | [EFO:0803434](http://www.ebi.ac.uk/efo/EFO_0803434) |
+| `HMDB:0033442`  |              1 | [EFO:0803435](http://www.ebi.ac.uk/efo/EFO_0803435) |
+| `HMDB:0041537`  |              1 | [EFO:0803436](http://www.ebi.ac.uk/efo/EFO_0803436) |
+| `HMDB:0061051`  |              1 | [EFO:0803437](http://www.ebi.ac.uk/efo/EFO_0803437) |
+| `HMDB:0032740`  |              1 | [EFO:0803438](http://www.ebi.ac.uk/efo/EFO_0803438) |
+| `HMDB:0033438`  |              1 | [EFO:0803439](http://www.ebi.ac.uk/efo/EFO_0803439) |
+| `HMDB:0013287`  |              1 | [EFO:0803440](http://www.ebi.ac.uk/efo/EFO_0803440) |
+| `HMDB:0001132`  |              1 | [EFO:0803441](http://www.ebi.ac.uk/efo/EFO_0803441) |
+| `HMDB:0002059`  |              1 | [EFO:0803442](http://www.ebi.ac.uk/efo/EFO_0803442) |
+| `HMDB:0000225`  |              1 | [EFO:0803443](http://www.ebi.ac.uk/efo/EFO_0803443) |
+| `HMDB:0029239`  |              1 | [EFO:0803444](http://www.ebi.ac.uk/efo/EFO_0803444) |
+| `HMDB:0029803`  |              1 | [EFO:0803445](http://www.ebi.ac.uk/efo/EFO_0803445) |
+| `HMDB:0030527`  |              1 | [EFO:0803446](http://www.ebi.ac.uk/efo/EFO_0803446) |
+| `HMDB:0031149`  |              1 | [EFO:0803447](http://www.ebi.ac.uk/efo/EFO_0803447) |
+| `HMDB:0001565`  |              1 | [EFO:0803448](http://www.ebi.ac.uk/efo/EFO_0803448) |
+| `HMDB:0000272`  |              1 | [EFO:0803449](http://www.ebi.ac.uk/efo/EFO_0803449) |
+| `HMDB:0032472`  |              1 | [EFO:0803450](http://www.ebi.ac.uk/efo/EFO_0803450) |
+| `HMDB:0003072`  |              1 | [EFO:0803451](http://www.ebi.ac.uk/efo/EFO_0803451) |
+| `HMDB:0015436`  |              1 | [EFO:0803452](http://www.ebi.ac.uk/efo/EFO_0803452) |
+| `HMDB:0035802`  |              1 | [EFO:0803453](http://www.ebi.ac.uk/efo/EFO_0803453) |
+| `HMDB:0038140`  |              1 | [EFO:0803454](http://www.ebi.ac.uk/efo/EFO_0803454) |
+| `HMDB:0038585`  |              1 | [EFO:0803455](http://www.ebi.ac.uk/efo/EFO_0803455) |
+| `HMDB:0029890`  |              1 | [EFO:0803456](http://www.ebi.ac.uk/efo/EFO_0803456) |
+| `HMDB:0000996`  |              1 | [EFO:0803457](http://www.ebi.ac.uk/efo/EFO_0803457) |
+| `HMDB:0005792`  |              1 | [EFO:0803458](http://www.ebi.ac.uk/efo/EFO_0803458) |
+| `HMDB:0000757`  |              1 | [EFO:0803459](http://www.ebi.ac.uk/efo/EFO_0803459) |
+| `HMDB:0060412`  |              1 | [EFO:0803460](http://www.ebi.ac.uk/efo/EFO_0803460) |
+| `HMDB:0040824`  |              1 | [EFO:0803461](http://www.ebi.ac.uk/efo/EFO_0803461) |
+| `HMDB:0041785`  |              1 | [EFO:0803462](http://www.ebi.ac.uk/efo/EFO_0803462) |
+| `HMDB:0000881`  |              1 | [EFO:0803463](http://www.ebi.ac.uk/efo/EFO_0803463) |
+| `HMDB:0000208`  |              1 | [EFO:0803464](http://www.ebi.ac.uk/efo/EFO_0803464) |
+| `HMDB:0041919`  |              1 | [EFO:0803465](http://www.ebi.ac.uk/efo/EFO_0803465) |
+| `HMDB:0001852`  |              1 | [EFO:0803466](http://www.ebi.ac.uk/efo/EFO_0803466) |
+| `HMDB:0001934`  |              1 | [EFO:0803467](http://www.ebi.ac.uk/efo/EFO_0803467) |
+
 ## `HPA`: Human Protein Atlas tissue profile information
 
 Overall, there were 1 invalid
@@ -137,17 +208,6 @@ did not match the standard pattern `^ENSG\d{11}$`.
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|
 | `HPA:HPA`       |              1 | [CL:1001603](http://purl.obolibrary.org/obo/CL_1001603) |
-
-## `HPO`: Human Phenotype Ontology
-
-Overall, there were 6 invalid
-xrefs to external prefixed with `HPO` (standardized to Bioregistry
-prefix [`hp`](https://bioregistry.io/hp)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
-|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `HPO:probinson` |              6 | [HP:0001522](http://purl.obolibrary.org/obo/HP_0001522), [HP:0003674](http://purl.obolibrary.org/obo/HP_0003674), [HP:0003811](http://purl.obolibrary.org/obo/HP_0003811), [HP:0003826](http://purl.obolibrary.org/obo/HP_0003826), [HP:0005268](http://purl.obolibrary.org/obo/HP_0005268), ... |
 
 ## `ICD9`: International Classification of Diseases, 9th Revision
 
@@ -162,9 +222,20 @@ did not match the standard pattern `^(\d\d\d|V\d\d|E[8-9]\d\d)(\.\d{1,2})?$`.
 | `ICD9:V85-V85.99` |              1 | [EFO:0004340](http://www.ebi.ac.uk/efo/EFO_0004340) |
 | `ICD9:V86-V86.99` |              1 | [EFO:0005512](http://www.ebi.ac.uk/efo/EFO_0005512) |
 
+## `LANGUAL`: Langua aLimentaria Thesaurus
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `LANGUAL` (standardized to Bioregistry
+prefix [`langual`](https://bioregistry.io/langual)) that
+did not match the standard pattern `^B\d+$`.
+
+| external_xref   |   usages_count | usages                                                            |
+|-----------------|----------------|-------------------------------------------------------------------|
+| `LANGUAL:C0195` |              1 | [FOODON:00001216](http://purl.obolibrary.org/obo/FOODON_00001216) |
+
 ## `MA`: Mouse adult gross anatomy
 
-Overall, there were 13 invalid
+Overall, there were 11 invalid
 xrefs to external prefixed with `MA` (standardized to Bioregistry
 prefix [`ma`](https://bioregistry.io/ma)) that
 did not match the standard pattern `^\d+$`.
@@ -172,7 +243,6 @@ did not match the standard pattern `^\d+$`.
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `MA:ma`         |             11 | [ENVO:00000447](http://purl.obolibrary.org/obo/ENVO_00000447), [ENVO:00000873](http://purl.obolibrary.org/obo/ENVO_00000873), [ENVO:00001995](http://purl.obolibrary.org/obo/ENVO_00001995), [ENVO:00002006](http://purl.obolibrary.org/obo/ENVO_00002006), [ENVO:00002047](http://purl.obolibrary.org/obo/ENVO_00002047), ... |
-| `MA:th`         |              2 | [BSPO:0001114](http://purl.obolibrary.org/obo/BSPO_0001114), [BSPO:1000000](http://purl.obolibrary.org/obo/BSPO_1000000)                                                                                                                                                                                                       |
 
 ## `MedDRA`: Medical Dictionary for Regulatory Activities Terminology
 
@@ -228,7 +298,7 @@ did not match the standard pattern `^BAMSC\d+$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `OBO_REL` (standardized to Bioregistry
 prefix [`ro`](https://bioregistry.io/ro)) that
-did not match the standard pattern `^\d{7}$`.
+did not match the standard pattern `^(HOM)?\d{7}$`.
 
 | external_xref      |   usages_count | usages                                                      |
 |--------------------|----------------|-------------------------------------------------------------|
@@ -287,14 +357,14 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `SO`: Sequence types and features ontology
 
-Overall, there were 2 invalid
+Overall, there were 1 invalid
 xrefs to external prefixed with `SO` (standardized to Bioregistry
 prefix [`so`](https://bioregistry.io/so)) that
 did not match the standard pattern `^\d{7}$`.
 
-| external_xref   |   usages_count | usages                                                                                                                                                                           |
-|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `SO:cjm`        |              2 | [envo#disconnected:from](http://purl.obolibrary.org/obo/envo#disconnected_from), [uberon#spatially:disjoint:from](http://purl.obolibrary.org/obo/uberon#spatially_disjoint_from) |
+| external_xref   |   usages_count | usages                                                                                          |
+|-----------------|----------------|-------------------------------------------------------------------------------------------------|
+| `SO:cjm`        |              1 | [uberon#spatially:disjoint:from](http://purl.obolibrary.org/obo/uberon#spatially_disjoint_from) |
 
 ## `UBERON`: Uber Anatomy Ontology
 
@@ -306,37 +376,6 @@ did not match the standard pattern `^\d+$`.
 | external_xref   |   usages_count | usages                                                          |
 |-----------------|----------------|-----------------------------------------------------------------|
 | `UBERON:cjm`    |              1 | [UBERON:0006925](http://purl.obolibrary.org/obo/UBERON_0006925) |
-
-## `Wikipedia`: Wikipedia
-
-Overall, there were 21 invalid
-xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
-prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
-did not match the standard pattern `^\S+$`.
-
-| external_xref                                                  |   usages_count | usages                                                                                      |
-|----------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------|
-| `Wikipedia:http://en.wikipedia.org/wiki/concentration`         |              1 | [PATO:0000033](http://purl.obolibrary.org/obo/PATO_0000033)                                 |
-| `Wikipedia:http://en.wikipedia.org/wiki/frequency`             |              1 | [PATO:0000044](http://purl.obolibrary.org/obo/PATO_0000044)                                 |
-| `Wikipedia:http://en.wikipedia.org/wiki/Area`                  |              1 | [PATO:0001323](http://purl.obolibrary.org/obo/PATO_0001323)                                 |
-| `Wikipedia:http://en.wikipedia.org/wiki/Diameter`              |              1 | [PATO:0001334](http://purl.obolibrary.org/obo/PATO_0001334)                                 |
-| `Wikipedia:http://en.wikipedia.org/wiki/Area_density`          |              1 | [PATO:0001351](http://purl.obolibrary.org/obo/PATO_0001351)                                 |
-| `Wikipedia:http://en.wikipedia.org/wiki/Linear_density`        |              1 | [PATO:0001352](http://purl.obolibrary.org/obo/PATO_0001352)                                 |
-| `Wikipedia:http://en.wikipedia.org/wiki/Mass_density`          |              1 | [PATO:0001353](http://purl.obolibrary.org/obo/PATO_0001353)                                 |
-| `Wikipedia:http://en.wikipedia.org/wiki/Electric_potential`    |              1 | [PATO:0001464](http://purl.obolibrary.org/obo/PATO_0001464)                                 |
-| `Wikipedia:http://en.wikipedia.org/wiki/Specific_volume`       |              1 | [PATO:0001679](http://purl.obolibrary.org/obo/PATO_0001679)                                 |
-| `Wikipedia:http://en.wikipedia.org/wiki/Molar_volume`          |              1 | [PATO:0001680](http://purl.obolibrary.org/obo/PATO_0001680)                                 |
-| `Wikipedia:http://en.wikipedia.org/wiki/Perimeter`             |              1 | [PATO:0001711](http://purl.obolibrary.org/obo/PATO_0001711)                                 |
-| `Wikipedia:Insertion_(anatomy)#Muscles`                        |              1 | [RO:0002372](http://purl.obolibrary.org/obo/RO_0002372)                                     |
-| `Wikipedia:Insertion_(anatomy)`                                |              1 | [RO:0002373](http://purl.obolibrary.org/obo/RO_0002373)                                     |
-| `Wikipedia:Antagonist_(muscle)`                                |              1 | [uberon#has:muscle:antagonist](http://purl.obolibrary.org/obo/uberon#has_muscle_antagonist) |
-| `Wikipedia:https://en.wikipedia.org/wiki/Gas`                  |              1 | [CHEBI:138675](http://purl.obolibrary.org/obo/CHEBI_138675)                                 |
-| `Wikipedia:Glycoprotein_IIb/IIIa_inhibitors`                   |              1 | [CHEBI:50433](http://purl.obolibrary.org/obo/CHEBI_50433)                                   |
-| `Wikipedia:Matrix-assisted_laser_desorption/ionization#Matrix` |              1 | [CHEBI:64345](http://purl.obolibrary.org/obo/CHEBI_64345)                                   |
-| `Wikipedia:Stabiliser_(food)`                                  |              1 | [CHEBI:77966](http://purl.obolibrary.org/obo/CHEBI_77966)                                   |
-| `Wikipedia:Transduction_(genetics)`                            |              1 | [GO:0009293](http://purl.obolibrary.org/obo/GO_0009293)                                     |
-| `Wikipedia:Dissociation_(psychology)`                          |              1 | [EFO:0009750](http://www.ebi.ac.uk/efo/EFO_0009750)                                         |
-| `Wikipedia:17α-Hydroxyprogesterone`                            |              1 | [EFO:0010220](http://www.ebi.ac.uk/efo/EFO_0010220)                                         |
 
 ## `WWF`: World Wildlife Fund Ecoregion
 
@@ -360,15 +399,4 @@ did not match the standard pattern `^AT\d+$`.
 | `WWF:AA1306`    |              1 | [ENVO:01001580](http://purl.obolibrary.org/obo/ENVO_01001580) |
 | `WWF:IM1304`    |              1 | [ENVO:01001627](http://purl.obolibrary.org/obo/ENVO_01001627) |
 | `WWF:IM1303`    |              1 | [ENVO:01001628](http://purl.obolibrary.org/obo/ENVO_01001628) |
-
-## `ZFS`: Zebrafish developmental stages ontology
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `ZFS` (standardized to Bioregistry
-prefix [`zfs`](https://bioregistry.io/zfs)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref   |   usages_count | usages                                                  |
-|-----------------|----------------|---------------------------------------------------------|
-| `ZFS:finishes`  |              1 | [RO:0002229](http://purl.obolibrary.org/obo/RO_0002229) |
 

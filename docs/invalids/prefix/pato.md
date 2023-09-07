@@ -57,9 +57,9 @@ Identifiers for this prefix are given incorrectly in `pato`. See the [GitHub rep
 
 Identifiers for this prefix are given incorrectly in `po`. See the [GitHub repository](https://github.com/Planteome/plant-ontology).
 
-| external_xref   |   usages_count | usages                                                  |
-|-----------------|----------------|---------------------------------------------------------|
-| `PATO:01503`    |              1 | [PO:0009008](http://purl.obolibrary.org/obo/PO_0009008) |
+| external_xref   |   usages_count | usages                                                                                                           |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `PATO:01503`    |              2 | [PO:0009008](http://purl.obolibrary.org/obo/PO_0009008), [PO:0009008](http://purl.obolibrary.org/obo/PO_0009008) |
 
 ## `to`: Plant Trait Ontology
 

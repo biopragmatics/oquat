@@ -79,7 +79,7 @@ did not match the standard pattern `^\d+$`.
 Overall, there were 3 invalid
 xrefs to external prefixed with `OBO_REL` (standardized to Bioregistry
 prefix [`ro`](https://bioregistry.io/ro)) that
-did not match the standard pattern `^\d{7}$`.
+did not match the standard pattern `^(HOM)?\d{7}$`.
 
 | external_xref        |   usages_count | usages                                                      |
 |----------------------|----------------|-------------------------------------------------------------|

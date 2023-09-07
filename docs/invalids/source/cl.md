@@ -41,17 +41,6 @@ did not match the standard pattern `^\d{7}$`.
 | `CL:patterns/cellPartOfAnatomicalEntity` |              1 | [CL:0011030](http://purl.obolibrary.org/obo/CL_0011030)                                                                                                                                                                                                                                          |
 | `CL:cjm`                                 |              1 | [CL:1000742](http://purl.obolibrary.org/obo/CL_1000742)                                                                                                                                                                                                                                          |
 
-## `DOI`: Digital Object Identifier
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `DOI` (standardized to Bioregistry
-prefix [`doi`](https://bioregistry.io/doi)) that
-did not match the standard pattern `^10.\d{2,9}/.*$`.
-
-| external_xref                               |   usages_count | usages                                                  |
-|---------------------------------------------|----------------|---------------------------------------------------------|
-| `DOI:https://doi.org/10.1378/chest.12-2762` |              1 | [CL:0000158](http://purl.obolibrary.org/obo/CL_0000158) |
-
 ## `FB`: FlyBase Gene
 
 Overall, there were 25 invalid
@@ -141,22 +130,6 @@ did not match the standard pattern `^\d+$`.
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                             |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `MA:ma`         |              4 | [CL:0000362](http://purl.obolibrary.org/obo/CL_0000362), [CL:0000724](http://purl.obolibrary.org/obo/CL_0000724), [CL:0000730](http://purl.obolibrary.org/obo/CL_0000730), [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) |
-
-## `MESH`: Medical Subject Headings
-
-Overall, there were 6 invalid
-xrefs to external prefixed with `MESH` (standardized to Bioregistry
-prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
-
-| external_xref              |   usages_count | usages                                                  |
-|----------------------------|----------------|---------------------------------------------------------|
-| `MESH:A09.371.060.067.31`  |              1 | [CL:0000132](http://purl.obolibrary.org/obo/CL_0000132) |
-| `MESH:A16.254.600`         |              1 | [CL:0000333](http://purl.obolibrary.org/obo/CL_0000333) |
-| `MESH:A11.118.290.350.200` |              1 | [CL:0000547](http://purl.obolibrary.org/obo/CL_0000547) |
-| `MESH:A11.070`             |              1 | [CL:0000568](http://purl.obolibrary.org/obo/CL_0000568) |
-| `MESH:A03.492.766.440.250` |              1 | [CL:0000577](http://purl.obolibrary.org/obo/CL_0000577) |
-| `MESH:A11.329.679`         |              1 | [CL:0000588](http://purl.obolibrary.org/obo/CL_0000588) |
 
 ## `MP`: Mammalian Phenotype Ontology
 

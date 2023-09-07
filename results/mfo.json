@@ -1,7 +1,7 @@
 {
-  "created": "2023-05-21T01:15:37.477085",
+  "created": "2023-09-07T13:06:01.566407",
   "messages": [
-    "could not parse OWL for mfo from http://purl.obolibrary.org/obo/mfo.owl"
+    "[mfo] could not parse OWL from http://purl.obolibrary.org/obo/mfo.owl"
   ],
   "results": {
     "http://purl.obolibrary.org/obo/TEMP": {

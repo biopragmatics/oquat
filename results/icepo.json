@@ -1,7 +1,7 @@
 {
-  "created": "2023-05-21T01:10:58.326251",
+  "created": "2023-09-07T13:01:38.347843",
   "messages": [
-    "could not parse OBO for icepo from https://download.nextprot.org/pub/current_release/controlled_vocabularies/icepo.obo"
+    "[icepo] could not parse OBO from https://download.nextprot.org/pub/current_release/controlled_vocabularies/icepo.obo"
   ],
   "results": {}
 }

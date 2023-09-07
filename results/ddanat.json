@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T00:50:30.585521",
+  "created": "2023-09-07T12:34:20.895113",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/ddanat.owl": {
@@ -134,6 +134,7 @@
             "http://purl.obolibrary.org/obo/DDANAT_0000109": "DDB:pg",
             "http://purl.obolibrary.org/obo/DDANAT_0000110": "DDB:pg",
             "http://purl.obolibrary.org/obo/DDANAT_0000111": "DDB:pg",
+            "http://purl.obolibrary.org/obo/DDANAT_0000112": "DDB:pf",
             "http://purl.obolibrary.org/obo/DDANAT_0000402": "DDB:pg",
             "http://purl.obolibrary.org/obo/DDANAT_0000403": "DDB:pg",
             "http://purl.obolibrary.org/obo/DDANAT_0000404": "DDB:pg",
@@ -163,8 +164,6 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2020-04-13",
-      "version_iri": "http://purl.obolibrary.org/obo/ddanat/releases/2020-04-13/ddanat.owl",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

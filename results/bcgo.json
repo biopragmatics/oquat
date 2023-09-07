@@ -1,7 +1,7 @@
 {
-  "created": "2023-05-21T00:12:22.913169",
+  "created": "2023-09-07T12:25:43.199850",
   "messages": [
-    "could not parse OWL for bcgo from https://github.com/obi-bcgo/bcgo/raw/master/ontology/bcgo.owl"
+    "[bcgo] could not parse OWL from https://github.com/obi-bcgo/bcgo/raw/master/ontology/bcgo.owl"
   ],
   "results": {}
 }

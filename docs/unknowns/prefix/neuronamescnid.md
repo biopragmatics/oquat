@@ -1,6 +1,6 @@
 # `neuronamescnid`
 
-## nif
+## uberon
 
 | curie              |   usages | nodes                                                           |
 |--------------------|----------|-----------------------------------------------------------------|
@@ -10,7 +10,7 @@
 | NeuroNamesCNID:178 |        1 | [UBERON:0015708](http://purl.obolibrary.org/obo/UBERON_0015708) |
 | NeuroNamesCNID:538 |        1 | [UBERON:0034743](http://purl.obolibrary.org/obo/UBERON_0034743) |
 
-## uberon
+## nif
 
 | curie              |   usages | nodes                                                           |
 |--------------------|----------|-----------------------------------------------------------------|

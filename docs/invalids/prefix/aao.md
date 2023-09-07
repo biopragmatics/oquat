@@ -2,8 +2,16 @@
 
 This page summarize the different resources that reference `aao`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 2 resources,
+`^\d{7}$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['AAO'].
+
+## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
+
+Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
+
+| external_xref   |   usages_count | usages                                                          |
+|-----------------|----------------|-----------------------------------------------------------------|
+| `AAO:LAP`       |              1 | [UBERON:0002375](http://purl.obolibrary.org/obo/UBERON_0002375) |
 
 ## `nif`: None
 

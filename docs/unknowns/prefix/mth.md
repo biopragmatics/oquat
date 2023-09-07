@@ -1,5 +1,43 @@
 # `mth`
 
+## rdo
+
+| curie   |   usages | nodes                                                 |
+|---------|----------|-------------------------------------------------------|
+| MTH:646 |        1 | [DOID:2975](http://purl.obolibrary.org/obo/DOID_2975) |
+
+## covoc
+
+| curie      |   usages | nodes                                                         |
+|------------|----------|---------------------------------------------------------------|
+| MTH:NOCODE |        1 | [MONDO:0007186](http://purl.obolibrary.org/obo/MONDO_0007186) |
+
+## efo
+
+| curie       |   usages | nodes                                                                                                                                                                                                                                                                        |
+|-------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MTH:NOCODE  |       39 | [EFO:0000183](http://www.ebi.ac.uk/efo/EFO_0000183), [EFO:0000222](http://www.ebi.ac.uk/efo/EFO_0000222), [EFO:0000280](http://www.ebi.ac.uk/efo/EFO_0000280), [EFO:0000309](http://www.ebi.ac.uk/efo/EFO_0000309), [EFO:0000339](http://www.ebi.ac.uk/efo/EFO_0000339), ... |
+| MTH:769     |        1 | [EFO:0000731](http://www.ebi.ac.uk/efo/EFO_0000731)                                                                                                                                                                                                                          |
+| MTH:166     |        1 | [EFO:0001061](http://www.ebi.ac.uk/efo/EFO_0001061)                                                                                                                                                                                                                          |
+| MTH:302     |        1 | [EFO:0003014](http://www.ebi.ac.uk/efo/EFO_0003014)                                                                                                                                                                                                                          |
+| MTH:547     |        1 | [EFO:0004261](http://www.ebi.ac.uk/efo/EFO_0004261)                                                                                                                                                                                                                          |
+| MTH:U001372 |        1 | [EFO:0005570](http://www.ebi.ac.uk/efo/EFO_0005570)                                                                                                                                                                                                                          |
+| MTH:328     |        1 | [EFO:0007282](http://www.ebi.ac.uk/efo/EFO_0007282)                                                                                                                                                                                                                          |
+| MTH:U001377 |        1 | [EFO:0007321](http://www.ebi.ac.uk/efo/EFO_0007321)                                                                                                                                                                                                                          |
+| MTH:U001031 |        1 | [EFO:0007355](http://www.ebi.ac.uk/efo/EFO_0007355)                                                                                                                                                                                                                          |
+| MTH:646     |        1 | [EFO:0008615](http://www.ebi.ac.uk/efo/EFO_0008615)                                                                                                                                                                                                                          |
+| MTH:683     |        1 | [EFO:0009259](http://www.ebi.ac.uk/efo/EFO_0009259)                                                                                                                                                                                                                          |
+| MTH:516     |        1 | [EFO:0009387](http://www.ebi.ac.uk/efo/EFO_0009387)                                                                                                                                                                                                                          |
+| MTH:U002240 |        1 | [EFO:1000785](http://www.ebi.ac.uk/efo/EFO_1000785)                                                                                                                                                                                                                          |
+| MTH:U001249 |        1 | [EFO:1000998](http://www.ebi.ac.uk/efo/EFO_1000998)                                                                                                                                                                                                                          |
+| MTH:U002093 |        1 | [EFO:1001051](http://www.ebi.ac.uk/efo/EFO_1001051)                                                                                                                                                                                                                          |
+| MTH:733     |        1 | [EFO:1001062](http://www.ebi.ac.uk/efo/EFO_1001062)                                                                                                                                                                                                                          |
+| MTH:U000257 |        1 | [EFO:1001068](http://www.ebi.ac.uk/efo/EFO_1001068)                                                                                                                                                                                                                          |
+| MTH:639     |        1 | [EFO:1001145](http://www.ebi.ac.uk/efo/EFO_1001145)                                                                                                                                                                                                                          |
+| MTH:191     |        1 | [EFO:1001950](http://www.ebi.ac.uk/efo/EFO_1001950)                                                                                                                                                                                                                          |
+| MTH:587     |        1 | [EFO:1002023](http://www.ebi.ac.uk/efo/EFO_1002023)                                                                                                                                                                                                                          |
+| MTH:217     |        1 | [EFO:0003894](http://www.ebi.ac.uk/efo/EFO_0003894)                                                                                                                                                                                                                          |
+
 ## epso
 
 | curie       |   usages | nodes                                                 |
@@ -48,42 +86,4 @@
 | MTH:U001026 |        1 | [MONDO:0015459](http://purl.obolibrary.org/obo/MONDO_0015459)                                                                                                                                                                                                                                                                  |
 | MTH:U002240 |        1 | [MONDO:0017844](http://purl.obolibrary.org/obo/MONDO_0017844)                                                                                                                                                                                                                                                                  |
 | MTH:217     |        1 | [MONDO:0011438](http://purl.obolibrary.org/obo/MONDO_0011438)                                                                                                                                                                                                                                                                  |
-
-## rdo
-
-| curie   |   usages | nodes                                                 |
-|---------|----------|-------------------------------------------------------|
-| MTH:646 |        1 | [DOID:2975](http://purl.obolibrary.org/obo/DOID_2975) |
-
-## covoc
-
-| curie      |   usages | nodes                                                         |
-|------------|----------|---------------------------------------------------------------|
-| MTH:NOCODE |        1 | [MONDO:0007186](http://purl.obolibrary.org/obo/MONDO_0007186) |
-
-## efo
-
-| curie       |   usages | nodes                                                                                                                                                                                                                                                                        |
-|-------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MTH:NOCODE  |       40 | [EFO:0000183](http://www.ebi.ac.uk/efo/EFO_0000183), [EFO:0000222](http://www.ebi.ac.uk/efo/EFO_0000222), [EFO:0000280](http://www.ebi.ac.uk/efo/EFO_0000280), [EFO:0000309](http://www.ebi.ac.uk/efo/EFO_0000309), [EFO:0000339](http://www.ebi.ac.uk/efo/EFO_0000339), ... |
-| MTH:769     |        1 | [EFO:0000731](http://www.ebi.ac.uk/efo/EFO_0000731)                                                                                                                                                                                                                          |
-| MTH:166     |        1 | [EFO:0001061](http://www.ebi.ac.uk/efo/EFO_0001061)                                                                                                                                                                                                                          |
-| MTH:302     |        1 | [EFO:0003014](http://www.ebi.ac.uk/efo/EFO_0003014)                                                                                                                                                                                                                          |
-| MTH:547     |        1 | [EFO:0004261](http://www.ebi.ac.uk/efo/EFO_0004261)                                                                                                                                                                                                                          |
-| MTH:U001372 |        1 | [EFO:0005570](http://www.ebi.ac.uk/efo/EFO_0005570)                                                                                                                                                                                                                          |
-| MTH:328     |        1 | [EFO:0007282](http://www.ebi.ac.uk/efo/EFO_0007282)                                                                                                                                                                                                                          |
-| MTH:U001031 |        1 | [EFO:0007355](http://www.ebi.ac.uk/efo/EFO_0007355)                                                                                                                                                                                                                          |
-| MTH:646     |        1 | [EFO:0008615](http://www.ebi.ac.uk/efo/EFO_0008615)                                                                                                                                                                                                                          |
-| MTH:683     |        1 | [EFO:0009259](http://www.ebi.ac.uk/efo/EFO_0009259)                                                                                                                                                                                                                          |
-| MTH:516     |        1 | [EFO:0009387](http://www.ebi.ac.uk/efo/EFO_0009387)                                                                                                                                                                                                                          |
-| MTH:261     |        1 | [EFO:1000688](http://www.ebi.ac.uk/efo/EFO_1000688)                                                                                                                                                                                                                          |
-| MTH:U002240 |        1 | [EFO:1000785](http://www.ebi.ac.uk/efo/EFO_1000785)                                                                                                                                                                                                                          |
-| MTH:U001249 |        1 | [EFO:1000998](http://www.ebi.ac.uk/efo/EFO_1000998)                                                                                                                                                                                                                          |
-| MTH:U002093 |        1 | [EFO:1001051](http://www.ebi.ac.uk/efo/EFO_1001051)                                                                                                                                                                                                                          |
-| MTH:733     |        1 | [EFO:1001062](http://www.ebi.ac.uk/efo/EFO_1001062)                                                                                                                                                                                                                          |
-| MTH:U000257 |        1 | [EFO:1001068](http://www.ebi.ac.uk/efo/EFO_1001068)                                                                                                                                                                                                                          |
-| MTH:639     |        1 | [EFO:1001145](http://www.ebi.ac.uk/efo/EFO_1001145)                                                                                                                                                                                                                          |
-| MTH:191     |        1 | [EFO:1001950](http://www.ebi.ac.uk/efo/EFO_1001950)                                                                                                                                                                                                                          |
-| MTH:587     |        1 | [EFO:1002023](http://www.ebi.ac.uk/efo/EFO_1002023)                                                                                                                                                                                                                          |
-| MTH:217     |        1 | [EFO:0003894](http://www.ebi.ac.uk/efo/EFO_0003894)                                                                                                                                                                                                                          |
 

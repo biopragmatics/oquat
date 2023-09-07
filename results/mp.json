@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T01:16:51.244156",
+  "created": "2023-09-07T13:07:23.835465",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/mp.json": {
@@ -503,9 +503,6 @@
           ],
           "http://purl.obolibrary.org/obo/MP_0000450": [
             "MGI:csmith"
-          ],
-          "http://purl.obolibrary.org/obo/MP_0000452": [
-            "MGI:cwg"
           ],
           "http://purl.obolibrary.org/obo/MP_0000457": [
             "MGI:tc"
@@ -2763,9 +2760,6 @@
           "http://purl.obolibrary.org/obo/MP_0002089": [
             "MGI:csmith"
           ],
-          "http://purl.obolibrary.org/obo/MP_0002090": [
-            "MGI:csmith"
-          ],
           "http://purl.obolibrary.org/obo/MP_0002091": [
             "MGI:csmith"
           ],
@@ -4357,12 +4351,6 @@
             "MGI:il"
           ],
           "http://purl.obolibrary.org/obo/MP_0002779": [
-            "MGI:csmith"
-          ],
-          "http://purl.obolibrary.org/obo/MP_0002782": [
-            "MGI:csmith"
-          ],
-          "http://purl.obolibrary.org/obo/MP_0002783": [
             "MGI:csmith"
           ],
           "http://purl.obolibrary.org/obo/MP_0002784": [
@@ -11498,9 +11486,6 @@
           "http://purl.obolibrary.org/obo/MP_0006259": [
             "MGI:smb"
           ],
-          "http://purl.obolibrary.org/obo/MP_0006260": [
-            "MGI:smb"
-          ],
           "http://purl.obolibrary.org/obo/MP_0006261": [
             "MGI:smb"
           ],
@@ -11588,9 +11573,6 @@
             "MGI:anna"
           ],
           "http://purl.obolibrary.org/obo/MP_0006290": [
-            "MGI:anna"
-          ],
-          "http://purl.obolibrary.org/obo/MP_0006291": [
             "MGI:anna"
           ],
           "http://purl.obolibrary.org/obo/MP_0006292": [
@@ -12609,9 +12591,6 @@
             "MGI:monikat"
           ],
           "http://purl.obolibrary.org/obo/MP_0008279": [
-            "MGI:csmith"
-          ],
-          "http://purl.obolibrary.org/obo/MP_0008280": [
             "MGI:csmith"
           ],
           "http://purl.obolibrary.org/obo/MP_0008281": [
@@ -16592,9 +16571,6 @@
           "http://purl.obolibrary.org/obo/MP_0009880": [
             "MGI:llw2"
           ],
-          "http://purl.obolibrary.org/obo/MP_0009881": [
-            "MGI:llw2"
-          ],
           "http://purl.obolibrary.org/obo/MP_0009891": [
             "MGI:csmith"
           ],
@@ -17031,9 +17007,6 @@
             "MGI:csmith"
           ],
           "http://purl.obolibrary.org/obo/MP_0010170": [
-            "MGI:csmith"
-          ],
-          "http://purl.obolibrary.org/obo/MP_0010171": [
             "MGI:csmith"
           ],
           "http://purl.obolibrary.org/obo/MP_0010172": [
@@ -24802,9 +24775,6 @@
           "http://purl.obolibrary.org/obo/MP_0014048": [
             "MESH:A10.549.600"
           ],
-          "http://purl.obolibrary.org/obo/MP_0014052": [
-            "MGI:csmith"
-          ],
           "http://purl.obolibrary.org/obo/MP_0014053": [
             "MGI:anna"
           ],
@@ -26591,9 +26561,6 @@
           "http://purl.obolibrary.org/obo/MP_0030406": [
             "MGI:anna"
           ],
-          "http://purl.obolibrary.org/obo/MP_0030411": [
-            "MGI:anna"
-          ],
           "http://purl.obolibrary.org/obo/MP_0030412": [
             "MGI:anna"
           ],
@@ -27336,9 +27303,6 @@
             "MGI:anna"
           ],
           "http://purl.obolibrary.org/obo/MP_0030931": [
-            "MGI:anna"
-          ],
-          "http://purl.obolibrary.org/obo/MP_0030934": [
             "MGI:anna"
           ],
           "http://purl.obolibrary.org/obo/MP_0030935": [
@@ -29508,8 +29472,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2023-04-11",
-      "version_iri": "http://purl.obolibrary.org/obo/mp/releases/2023-04-11/mp.json",
+      "version": "2023-08-29",
+      "version_iri": "http://purl.obolibrary.org/obo/mp/releases/2023-08-29/mp.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MP_0009875": [

@@ -2,8 +2,16 @@
 
 This page summarize the different resources that reference `mp`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 5 resources,
+`^\d{7}$`. Of the 6 resources,
 1 variants on the standard prefix were found: ['MP'].
+
+## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
+
+Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `MP:MP`         |              9 | [UBERON:0001259](http://purl.obolibrary.org/obo/UBERON_0001259), [UBERON:0001947](http://purl.obolibrary.org/obo/UBERON_0001947), [UBERON:0005452](http://purl.obolibrary.org/obo/UBERON_0005452), [UBERON:0010396](http://purl.obolibrary.org/obo/UBERON_0010396), [UBERON:0010397](http://purl.obolibrary.org/obo/UBERON_0010397), ... |
 
 ## `cl`: Cell Ontology
 

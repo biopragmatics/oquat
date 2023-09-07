@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `cas`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{1,7}\-\d{2}\-\d$`. Of the 6 resources,
+`^\d{1,7}\-\d{2}\-\d$`. Of the 7 resources,
 1 variants on the standard prefix were found: ['CAS'].
 
 ## `chebi`: Chemical Entities of Biological Interest
@@ -22,13 +22,23 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `CAS:6/5/7780`   |              1 | [CHEBI:191626](http://purl.obolibrary.org/obo/CHEBI_191626) |
 | `CAS:03/04/6099` |              1 | [CHEBI:192607](http://purl.obolibrary.org/obo/CHEBI_192607) |
 
-## `idoden`: Dengue Fever Ontology
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given incorrectly in `idoden`.
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
-| external_xref                                                                            |   usages_count | usages                                                        |
-|------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------|
-| `CAS:7-(2-chlorophenyl)-4-ethoxy-3\,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile4-sulfide` |              1 | [MIRO:10000108](http://purl.obolibrary.org/obo/MIRO_10000108) |
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `CAS:1583915`   |              1 | [EFO:0022198](http://www.ebi.ac.uk/efo/EFO_0022198) |
+| `CAS:5466678`   |              1 | [EFO:0022199](http://www.ebi.ac.uk/efo/EFO_0022199) |
+
+## `enm`: eNanoMapper ontology
+
+Identifiers for this prefix are given incorrectly in `enm`.
+
+| external_xref   |   usages_count | usages                                              |
+|-----------------|----------------|-----------------------------------------------------|
+| `CAS:1583915`   |              1 | [EFO:0022198](http://www.ebi.ac.uk/efo/EFO_0022198) |
+| `CAS:5466678`   |              1 | [EFO:0022199](http://www.ebi.ac.uk/efo/EFO_0022199) |
 
 ## `miro`: Mosquito insecticide resistance
 

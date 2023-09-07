@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T00:11:47.815726",
+  "created": "2023-09-07T12:24:42.480521",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/apollo_sv.owl": {
@@ -19,7 +19,7 @@
         "unknown_prefixes": {}
       },
       "version": "2023-01-10",
-      "version_iri": "http://purl.obolibrary.org/obo/apollo_sv/releases/2023-05-05/apollo_sv.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/apollo_sv/releases/2023-06-02/apollo_sv.owl",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

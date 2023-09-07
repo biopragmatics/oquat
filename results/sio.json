@@ -1,29 +1,6 @@
 {
-  "created": "2023-05-21T01:53:13.677390",
-  "messages": [
-    "ERROR Input ontology contains 18 triple(s) that could not be parsed:",
-    " - _:genid-nodeid-arc6de1b1027 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b1027.",
-    " - _:genid-nodeid-arc6de1b1058 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b1058.",
-    " - _:genid-nodeid-arc6de1b1069 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b1069.",
-    " - _:genid-nodeid-arc6de1b1005 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b1005.",
-    " - _:genid-nodeid-arc6de1b986 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b986.",
-    " - _:genid-nodeid-arc6de1b1039 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b1039.",
-    " - _:genid-nodeid-arc6de1b1046 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b1046.",
-    " - _:genid-nodeid-arc6de1b1019 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b1019.",
-    " - _:genid-nodeid-arc6de1b1053 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b1053.",
-    " - _:genid-nodeid-arc6de1b1063 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b1063.",
-    " - _:genid-nodeid-arc6de1b1031 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b1031.",
-    " - _:genid-nodeid-arc6de1b1073 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b1073.",
-    " - _:genid-nodeid-arc6de1b992 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b992.",
-    " - _:genid-nodeid-arc6de1b1001 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b1001.",
-    " - _:genid-nodeid-arc6de1b1035 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b1035.",
-    " - _:genid-nodeid-arc6de1b982 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b982.",
-    " - _:genid-nodeid-arc6de1b1014 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b1014.",
-    " - _:genid-nodeid-arc6de1b996 <http://purl.org/dc/elements/1.1/identifier> :arc6de1b996.",
-    "",
-    "Hint: you have undeclared predicates - try adding 'rdf:type' declarations to the following:",
-    " - http://purl.org/dc/elements/1.1/identifier"
-  ],
+  "created": "2023-09-07T13:27:25.917369",
+  "messages": [],
   "results": {
     "http://semanticscience.org/ontology/sio.owl": {
       "graph_id": "http://semanticscience.org/ontology/sio.owl",

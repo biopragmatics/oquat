@@ -1,15 +1,6 @@
 {
-  "created": "2023-05-21T01:26:08.513733",
-  "messages": [
-    "ERROR Input ontology contains 7 triple(s) that could not be parsed:",
-    " - <http://www.wurvoc.org/bibliography/om-2/Stroemgren1956Authors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1> <http://www.wurvoc.org/bibliography/om-2/Brengt_Stroemgren>.",
-    " - <http://www.wurvoc.org/bibliography/om-2/Stroemgren1956Authors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq>.",
-    " - <http://www.wurvoc.org/bibliography/om-2/IntroAstronomicalPhotometryAuthors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq>.",
-    " - <http://www.wurvoc.org/bibliography/om-2/Crawford1958Authors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq>.",
-    " - <http://www.wurvoc.org/bibliography/om-2/IntroAstronomicalPhotometryAuthors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#_2> <http://www.wurvoc.org/bibliography/om-2/Osman_Demircan>.",
-    " - <http://www.wurvoc.org/bibliography/om-2/IntroAstronomicalPhotometryAuthors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1> <http://www.wurvoc.org/bibliography/om-2/Edwin_Budding>.",
-    " - <http://www.wurvoc.org/bibliography/om-2/Crawford1958Authors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1> <http://www.wurvoc.org/bibliography/om-2/DLCrawford>."
-  ],
+  "created": "2023-09-07T13:18:35.874663",
+  "messages": [],
   "results": {
     "http://www.ontology-of-units-of-measure.org/resource/om-2": {
       "graph_id": "http://www.ontology-of-units-of-measure.org/resource/om-2",
@@ -27,7 +18,7 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2.0.39",
+      "version": "2.0.45",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

@@ -1223,6 +1223,7 @@
 | PubChem_Cell_line:CVCL_5649 |        1 | [Cellosaurus#CVCL:5649](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5649) |
 | PubChem_Cell_line:CVCL_5653 |        1 | [Cellosaurus#CVCL:5653](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5653) |
 | PubChem_Cell_line:CVCL_5711 |        1 | [Cellosaurus#CVCL:5711](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5711) |
+| PubChem_Cell_line:CVCL_7185 |        1 | [Cellosaurus#CVCL:5735](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5735) |
 | PubChem_Cell_line:CVCL_5791 |        1 | [Cellosaurus#CVCL:5791](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5791) |
 | PubChem_Cell_line:CVCL_5799 |        1 | [Cellosaurus#CVCL:5799](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5799) |
 | PubChem_Cell_line:CVCL_5950 |        1 | [Cellosaurus#CVCL:5950](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5950) |
@@ -1273,7 +1274,6 @@
 | PubChem_Cell_line:CVCL_7138 |        1 | [Cellosaurus#CVCL:7138](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7138) |
 | PubChem_Cell_line:CVCL_7151 |        1 | [Cellosaurus#CVCL:7151](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7151) |
 | PubChem_Cell_line:CVCL_7181 |        1 | [Cellosaurus#CVCL:7181](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7181) |
-| PubChem_Cell_line:CVCL_7185 |        1 | [Cellosaurus#CVCL:7185](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7185) |
 | PubChem_Cell_line:CVCL_7201 |        1 | [Cellosaurus#CVCL:7201](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7201) |
 | PubChem_Cell_line:CVCL_7213 |        1 | [Cellosaurus#CVCL:7213](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7213) |
 | PubChem_Cell_line:CVCL_7222 |        1 | [Cellosaurus#CVCL:7222](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7222) |

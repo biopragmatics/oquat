@@ -13,6 +13,15 @@ Identifiers for this prefix are given incorrectly in `aeo`. See the [GitHub repo
 |-----------------|----------------|-----------------------------------------------------------|
 | `GO:curator`    |              1 | [AEO:0000147](http://purl.obolibrary.org/obo/AEO_0000147) |
 
+## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
+
+Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
+
+| external_xref   |   usages_count | usages                                                                                                           |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `GO:tfm`        |              2 | [CL:0000509](http://purl.obolibrary.org/obo/CL_0000509), [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) |
+| `GO:GO`         |              1 | [UBERON:0000016](http://purl.obolibrary.org/obo/UBERON_0000016)                                                  |
+
 ## `cco`: Cell Cycle Ontology
 
 Identifiers for this prefix are given incorrectly in `cco`.
@@ -51,18 +60,6 @@ Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repo
 | `GO:IEP`        |              3 | [ECO:0000008](http://purl.obolibrary.org/obo/ECO_0000008), [ECO:0007006](http://purl.obolibrary.org/obo/ECO_0007006), [ECO:0007007](http://purl.obolibrary.org/obo/ECO_0007007) |
 | `GO:IMP`        |              3 | [ECO:0000015](http://purl.obolibrary.org/obo/ECO_0000015), [ECO:0007000](http://purl.obolibrary.org/obo/ECO_0007000), [ECO:0007001](http://purl.obolibrary.org/obo/ECO_0007001) |
 | `GO:TAS`        |              1 | [ECO:0000033](http://purl.obolibrary.org/obo/ECO_0000033)                                                                                                                       |
-
-## `fypo`: Fission Yeast Phenotype Ontology
-
-Identifiers for this prefix are given incorrectly in `fypo`. See the [GitHub repository](https://github.com/pombase/fypo).
-
-| external_xref            |   usages_count | usages                                                                                                                                                                                |
-|--------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `GO:0036124,PomBase:mah` |              3 | [FYPO:0007507](http://purl.obolibrary.org/obo/FYPO_0007507), [FYPO:0007508](http://purl.obolibrary.org/obo/FYPO_0007508), [FYPO:0007509](http://purl.obolibrary.org/obo/FYPO_0007509) |
-| `GO:006355`              |              2 | [FYPO:0004526](http://purl.obolibrary.org/obo/FYPO_0004526), [FYPO:0004527](http://purl.obolibrary.org/obo/FYPO_0004527)                                                              |
-| `GO:001322`              |              1 | [FYPO:0003561](http://purl.obolibrary.org/obo/FYPO_0003561)                                                                                                                           |
-| `GO:030995`              |              1 | [FYPO:0004270](http://purl.obolibrary.org/obo/FYPO_0004270)                                                                                                                           |
-| `GO:003118`              |              1 | [FYPO:0007501](http://purl.obolibrary.org/obo/FYPO_0007501)                                                                                                                           |
 
 ## `go`: Gene Ontology
 
@@ -116,6 +113,7 @@ Identifiers for this prefix are given incorrectly in `nif`.
 | `GO:kmv`        |              3 | [GO:1901074](http://purl.obolibrary.org/obo/GO_1901074), [GO:1901075](http://purl.obolibrary.org/obo/GO_1901075), [GO:1901076](http://purl.obolibrary.org/obo/GO_1901076)                                                                                                                                               |
 | `GO:mah`        |              3 | [SO:0001861](http://purl.obolibrary.org/obo/SO_0001861), [SO:0001861](http://purl.obolibrary.org/obo/SO_0001861), [SO:0001871](http://purl.obolibrary.org/obo/SO_0001871)                                                                                                                                               |
 | `GO:dos`        |              2 | [GO:0099046](http://purl.obolibrary.org/obo/GO_0099046), [GO:0099047](http://purl.obolibrary.org/obo/GO_0099047)                                                                                                                                                                                                        |
+| `GO:dph`        |              2 | [GO:0002093](http://purl.obolibrary.org/obo/GO_0002093), [UBERON:0000089](http://purl.obolibrary.org/obo/UBERON_0000089)                                                                                                                                                                                                |
 | `GO:cvs`        |              1 | [CL:0005008](http://purl.obolibrary.org/obo/CL_0005008)                                                                                                                                                                                                                                                                 |
 | `GO:hjd`        |              1 | [GO:0002189](http://purl.obolibrary.org/obo/GO_0002189)                                                                                                                                                                                                                                                                 |
 | `GO:bf`         |              1 | [GO:0035348](http://purl.obolibrary.org/obo/GO_0035348)                                                                                                                                                                                                                                                                 |
@@ -124,7 +122,6 @@ Identifiers for this prefix are given incorrectly in `nif`.
 | `GO:bhm`        |              1 | [GO:0140091](http://purl.obolibrary.org/obo/GO_0140091)                                                                                                                                                                                                                                                                 |
 | `GO:bc`         |              1 | [GO:0150014](http://purl.obolibrary.org/obo/GO_0150014)                                                                                                                                                                                                                                                                 |
 | `GO:curator`    |              1 | [UBERON:0005863](http://purl.obolibrary.org/obo/UBERON_0005863)                                                                                                                                                                                                                                                         |
-| `GO:dph`        |              1 | [GO:0002093](http://purl.obolibrary.org/obo/GO_0002093)                                                                                                                                                                                                                                                                 |
 | `GO:curators`   |              1 | [GO:0004479](http://purl.obolibrary.org/obo/GO_0004479)                                                                                                                                                                                                                                                                 |
 | `GO:krc`        |              1 | [GO:0120132](http://purl.obolibrary.org/obo/GO_0120132)                                                                                                                                                                                                                                                                 |
 | `GO:ach`        |              1 | [GO:0120312](http://purl.obolibrary.org/obo/GO_0120312)                                                                                                                                                                                                                                                                 |
@@ -151,17 +148,6 @@ Identifiers for this prefix are given incorrectly in `pato`. See the [GitHub rep
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `GO:GO`         |              3 | [PATO:0001440](http://purl.obolibrary.org/obo/PATO_0001440), [PATO:0001441](http://purl.obolibrary.org/obo/PATO_0001441), [PATO:0001720](http://purl.obolibrary.org/obo/PATO_0001720) |
 
-## `pw`: Pathway ontology
-
-Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
-
-| external_xref        |   usages_count | usages                                                  |
-|----------------------|----------------|---------------------------------------------------------|
-| `GO:006071`          |              1 | [PW:0000200](http://purl.obolibrary.org/obo/PW_0000200) |
-| `GO:0070527, PubMed` |              1 | [PW:0000508](http://purl.obolibrary.org/obo/PW_0000508) |
-| `GO:00005978`        |              1 | [PW:0000532](http://purl.obolibrary.org/obo/PW_0000532) |
-| `GO:0016132, KEGG`   |              1 | [PW:0000552](http://purl.obolibrary.org/obo/PW_0000552) |
-
 ## `so`: Sequence types and features ontology
 
 Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
@@ -170,6 +156,14 @@ Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repos
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `GO:mah`        |              3 | [SO:0001861](http://purl.obolibrary.org/obo/SO_0001861), [SO:0001861](http://purl.obolibrary.org/obo/SO_0001861), [SO:0001871](http://purl.obolibrary.org/obo/SO_0001871) |
 
+## `to`: Plant Trait Ontology
+
+Identifiers for this prefix are given incorrectly in `to`. See the [GitHub repository](https://github.com/Planteome/plant-trait-ontology).
+
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `GO:000382`     |              1 | [TO:0000599](http://purl.obolibrary.org/obo/TO_0000599) |
+
 ## `uberon`: Uber Anatomy Ontology
 
 Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub repository](https://github.com/obophenotype/uberon).
@@ -177,6 +171,7 @@ Identifiers for this prefix are given incorrectly in `uberon`. See the [GitHub r
 | external_xref   |   usages_count | usages                                                                                                                           |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------|
 | `GO:GO`         |              2 | [UBERON:0000016](http://purl.obolibrary.org/obo/UBERON_0000016), [UBERON:0006003](http://purl.obolibrary.org/obo/UBERON_0006003) |
+| `GO:dph`        |              1 | [UBERON:0000089](http://purl.obolibrary.org/obo/UBERON_0000089)                                                                  |
 | `GO:curator`    |              1 | [UBERON:0005863](http://purl.obolibrary.org/obo/UBERON_0005863)                                                                  |
 
 ## `vsao`: Vertebrate Skeletal Anatomy Ontology

@@ -1,7 +1,7 @@
 # ito
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `ito`.
+for node, synonym, and definition cross-references in `ito`. See the [GitHub repository](https://github.com/OpenBioLink/ITO).
 
 
 ## `VT`: Vertebrate trait ontology

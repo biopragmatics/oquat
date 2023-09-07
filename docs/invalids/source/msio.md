@@ -29,14 +29,3 @@ did not match the standard pattern `^LM(FA|GL|GP|SP|ST|PR|SL|PK)[0-9]{4}([0-9a-z
 |---------------------------|----------------|-----------------------------------------------------------|
 | `LIPID_MAPS_class:LMPR01` |              1 | [CHEBI:24913](http://purl.obolibrary.org/obo/CHEBI_24913) |
 
-## `Wikipedia`: Wikipedia
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
-prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
-did not match the standard pattern `^\S+$`.
-
-| external_xref           |   usages_count | usages                                                    |
-|-------------------------|----------------|-----------------------------------------------------------|
-| `Wikipedia:1,4-Dioxane` |              1 | [CHEBI:47032](http://purl.obolibrary.org/obo/CHEBI_47032) |
-

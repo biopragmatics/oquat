@@ -1,15 +1,5 @@
 # enm
 
-## `Allen`
-
-There are 1 usages of `Allen` in `enm`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Allen).
-
-| curie          |   usages | nodes                                                     |
-|----------------|----------|-----------------------------------------------------------|
-| Allen:precedes |        1 | [BFO:0000062](http://purl.obolibrary.org/obo/BFO_0000062) |
-
 ## `Answers.com`
 
 There are 1 usages of `Answers.com` in `enm`.
@@ -129,35 +119,29 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | PATOC:CJM     |        1 | [PATO:0001555](http://purl.obolibrary.org/obo/PATO_0001555)                                                                                                                                                                                                                                                          |
 | PATOC:UMH     |        1 | [PATO:0001940](http://purl.obolibrary.org/obo/PATO_0001940)                                                                                                                                                                                                                                                          |
 
-## `PHENOSCPAE`
-
-There are 1 usages of `PHENOSCPAE` in `enm`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PHENOSCPAE).
-
-| curie                   |   usages | nodes                                                   |
-|-------------------------|----------|---------------------------------------------------------|
-| PHENOSCPAE:asilomar_mtg |        1 | [RO:0002173](http://purl.obolibrary.org/obo/RO_0002173) |
-
-## `UBERONREF`
-
-There are 1 usages of `UBERONREF` in `enm`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UBERONREF).
-
-| curie             |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|-------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| UBERONREF:0000004 |        9 | [UBREL:0000001](http://purl.obolibrary.org/obo/UBREL_0000001), [uberon#anteriorly:connected:to](http://purl.obolibrary.org/obo/uberon#anteriorly_connected_to), [uberon#connects](http://purl.obolibrary.org/obo/uberon#connects), [uberon#distally:connected:to](http://purl.obolibrary.org/obo/uberon#distally_connected_to), [uberon#posteriorly:connected:to](http://purl.obolibrary.org/obo/uberon#posteriorly_connected_to), ... |
-
 ## `URL`
 
-There are 1 usages of `URL` in `enm`.
+There are 15 usages of `URL` in `enm`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL).
 
-| curie                                      |   usages | nodes                                                         |
-|--------------------------------------------|----------|---------------------------------------------------------------|
-| URL:http://aims.fao.org/aos/agrovoc/c_5998 |        1 | [ENVO:01000404](http://purl.obolibrary.org/obo/ENVO_01000404) |
+| curie                                                                                                                                                                                                                         |   usages | nodes                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|---------------------------------------------------------------|
+| URL:http://www.britannica.com/EBchecked/topic/328083/lake/59070/Sediments-and-sedimentation                                                                                                                                   |        1 | [ENVO:00000546](http://purl.obolibrary.org/obo/ENVO_00000546) |
+| URL:http://www.stjude.org/stjude/hospital/med_terms.jsp                                                                                                                                                                       |        1 | [ENVO:00002047](http://purl.obolibrary.org/obo/ENVO_00002047) |
+| URL:http://ontology.buffalo.edu/smith/articles/niches.html                                                                                                                                                                    |        1 | [ENVO:00010483](http://purl.obolibrary.org/obo/ENVO_00010483) |
+| URL:http://www.merriam-webster.com/dictionary/surface                                                                                                                                                                         |        1 | [ENVO:00010504](http://purl.obolibrary.org/obo/ENVO_00010504) |
+| URL:http://stemcells.nih.gov/StemCells/Templates/StemCellContentPage.aspx?NRMODE=Published&NRNODEGUID=%7b3C35BAB6-0FE6-4C4E-95F2-2CB61B58D96D%7d&NRORIGINALURL=%2finfo%2fglossary%2easp&NRCACHEHINT=NoModifyGuest#cellculture |        1 | [ENVO:02000008](http://purl.obolibrary.org/obo/ENVO_02000008) |
+| URL:http://medical-dictionary.thefreedictionary.com/bodily+fluid                                                                                                                                                              |        1 | [ENVO:02000019](http://purl.obolibrary.org/obo/ENVO_02000019) |
+| URL:http://en.wikipedia.org/wiki/Amniotic_fluid                                                                                                                                                                               |        1 | [ENVO:02000021](http://purl.obolibrary.org/obo/ENVO_02000021) |
+| URL:http://medical-dictionary.thefreedictionary.com/excreta                                                                                                                                                                   |        1 | [ENVO:02000022](http://purl.obolibrary.org/obo/ENVO_02000022) |
+| URL:http://wordnet.princeton.edu/perl/webwn?s=chyle                                                                                                                                                                           |        1 | [ENVO:02000030](http://purl.obolibrary.org/obo/ENVO_02000030) |
+| URL:http://www.fcs.uga.edu/ext/bbb/info/glossary.htm                                                                                                                                                                          |        1 | [ENVO:02000031](http://purl.obolibrary.org/obo/ENVO_02000031) |
+| URL:http://www.thefreedictionary.com/tear                                                                                                                                                                                     |        1 | [ENVO:02000034](http://purl.obolibrary.org/obo/ENVO_02000034) |
+| URL:http://medical.merriam-webster.com/medical/saliva                                                                                                                                                                         |        1 | [ENVO:02000036](http://purl.obolibrary.org/obo/ENVO_02000036) |
+| URL:http://medical.merriam-webster.com/medical/lymph                                                                                                                                                                          |        1 | [ENVO:02000041](http://purl.obolibrary.org/obo/ENVO_02000041) |
+| URL:http://www.cdc.gov/oralhealth/infectioncontrol/glossary.htm                                                                                                                                                               |        1 | [ENVO:02000048](http://purl.obolibrary.org/obo/ENVO_02000048) |
+| URL:http://www.answers.com/topic/topsoil?cat=technology                                                                                                                                                                       |        1 | [ENVO:02000059](http://purl.obolibrary.org/obo/ENVO_02000059) |
 
 ## `Wiikipedia`
 
@@ -246,9 +230,9 @@ There are 1 usages of `NASA` in `enm`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NASA).
 
-| curie           |   usages | nodes                                                                                                                                                                                       |
-|-----------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NASA:earthrealm |        3 | [ENVO:00000134](http://purl.obolibrary.org/obo/ENVO_00000134), [ENVO:00000428](http://purl.obolibrary.org/obo/ENVO_00000428), [ENVO:00000546](http://purl.obolibrary.org/obo/ENVO_00000546) |
+| curie           |   usages | nodes                                                                                                                        |
+|-----------------|----------|------------------------------------------------------------------------------------------------------------------------------|
+| NASA:earthrealm |        2 | [ENVO:00000428](http://purl.obolibrary.org/obo/ENVO_00000428), [ENVO:00000546](http://purl.obolibrary.org/obo/ENVO_00000546) |
 
 ## `USGS`
 

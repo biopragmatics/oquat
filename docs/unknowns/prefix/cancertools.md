@@ -241,6 +241,14 @@
 | CancerTools:161207 |        1 | [Cellosaurus#CVCL:C7R6](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C7R6) |
 | CancerTools:161208 |        1 | [Cellosaurus#CVCL:C7R7](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C7R7) |
 | CancerTools:161203 |        1 | [Cellosaurus#CVCL:C7R8](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C7R8) |
+| CancerTools:153783 |        1 | [Cellosaurus#CVCL:C8CP](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8CP) |
+| CancerTools:153784 |        1 | [Cellosaurus#CVCL:C8CQ](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8CQ) |
+| CancerTools:157956 |        1 | [Cellosaurus#CVCL:C8EY](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8EY) |
+| CancerTools:157957 |        1 | [Cellosaurus#CVCL:C8EZ](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8EZ) |
+| CancerTools:157958 |        1 | [Cellosaurus#CVCL:C8F0](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8F0) |
+| CancerTools:157959 |        1 | [Cellosaurus#CVCL:C8F1](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8F1) |
+| CancerTools:157960 |        1 | [Cellosaurus#CVCL:C8F2](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8F2) |
+| CancerTools:157961 |        1 | [Cellosaurus#CVCL:C8F3](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8F3) |
 | CancerTools:151806 |        1 | [Cellosaurus#CVCL:D314](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D314) |
 | CancerTools:151808 |        1 | [Cellosaurus#CVCL:D315](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D315) |
 | CancerTools:151805 |        1 | [Cellosaurus#CVCL:D316](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D316) |

@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T02:02:14.861333",
+  "created": "2023-09-07T13:33:46.792558",
   "messages": [],
   "results": {
     "http://vocabularies.wikipathways.org/wpTypes#": {
@@ -18,7 +18,6 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version_iri": "http://www.w3.org/2012/pyRdfa/extract?uri=http://vocabularies.wikipathways.org/wp#",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

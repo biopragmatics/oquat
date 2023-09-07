@@ -28,23 +28,12 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 | `MeSH:Structural_Homology,_Protein` |              1 | [RO:HOM0000015](http://purl.obolibrary.org/obo/RO_HOM0000015)                                                                |
 | `MeSH:Chromosome_Pairing`           |              1 | [RO:HOM0000047](http://purl.obolibrary.org/obo/RO_HOM0000047)                                                                |
 
-## `RO`: Relation Ontology
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `RO` (standardized to Bioregistry
-prefix [`ro`](https://bioregistry.io/ro)) that
-did not match the standard pattern `^\d{7}$`.
-
-| external_xref   |   usages_count | usages                                                  |
-|-----------------|----------------|---------------------------------------------------------|
-| `RO:cjm`        |              1 | [RO:0009501](http://purl.obolibrary.org/obo/RO_0009501) |
-
 ## `RO_proposed_relation`: Relation Ontology
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `RO_proposed_relation` (standardized to Bioregistry
 prefix [`ro`](https://bioregistry.io/ro)) that
-did not match the standard pattern `^\d{7}$`.
+did not match the standard pattern `^(HOM)?\d{7}$`.
 
 | external_xref                        |   usages_count | usages                                                        |
 |--------------------------------------|----------------|---------------------------------------------------------------|

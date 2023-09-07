@@ -1,12 +1,6 @@
 {
-  "created": "2023-05-21T01:27:15.514876",
-  "messages": [
-    "ERROR Input ontology contains 4 triple(s) that could not be parsed:",
-    " - <http://purl.obolibrary.org/obo/OPMI_0000316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485647.",
-    " - <http://purl.obolibrary.org/obo/OPMI_0000317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485652.",
-    " - <http://purl.obolibrary.org/obo/OPMI_0000315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485637.",
-    " - <http://purl.obolibrary.org/obo/OPMI_0000315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2147485642."
-  ],
+  "created": "2023-09-07T13:19:49.020526",
+  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/opmi.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/opmi.owl",

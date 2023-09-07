@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T01:16:20.753082",
+  "created": "2023-09-07T13:06:49.445770",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/mmusdv.owl": {
@@ -72,7 +72,72 @@
             "http://purl.obolibrary.org/obo/MmusDv_0000102": "Bgee:curator",
             "http://purl.obolibrary.org/obo/MmusDv_0000110": "Bgee:curator",
             "http://purl.obolibrary.org/obo/MmusDv_0000112": "Bgee:curator",
-            "http://purl.obolibrary.org/obo/MmusDv_0000113": "Bgee:curator"
+            "http://purl.obolibrary.org/obo/MmusDv_0000113": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000114": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000115": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000116": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000117": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000118": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000119": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000120": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000121": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000122": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000123": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000124": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000125": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000126": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000127": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000128": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000129": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000130": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000131": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000132": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000133": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000134": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000135": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000136": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000137": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000138": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000139": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000140": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000141": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000142": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000143": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000144": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000145": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000146": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000147": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000148": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000149": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000150": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000151": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000152": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000153": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000154": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000155": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000156": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000157": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000158": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000159": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000160": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000161": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000162": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000163": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000164": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000165": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000166": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000167": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000168": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000169": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000170": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000171": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000172": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000173": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000174": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000175": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000176": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000177": "Bgee:curator",
+            "http://purl.obolibrary.org/obo/MmusDv_0000178": "Bgee:curator"
           }
         }
       },
@@ -166,8 +231,6 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2020-03-10",
-      "version_iri": "http://purl.obolibrary.org/obo/mmusdv/releases/2020-03-10/mmusdv.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MmusDv_0000003": [
@@ -251,13 +314,7 @@
           "http://purl.obolibrary.org/obo/MmusDv_0000036": [
             "EMAPA:TS27"
           ],
-          "http://purl.obolibrary.org/obo/MmusDv_0000037": [
-            "EMAPA:TS28"
-          ],
           "http://purl.obolibrary.org/obo/MmusDv_0000043": [
-            "EMAPA:TS28"
-          ],
-          "http://purl.obolibrary.org/obo/MmusDv_0000112": [
             "EMAPA:TS28"
           ]
         },

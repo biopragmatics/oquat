@@ -2,27 +2,20 @@
 
 This page summarize the different resources that reference `atcc`
 but use local unique identifiers that do not match the standard pattern of
-`^([A-Z]+-)?\d+$`. Of the 1 resources,
+`^([a-zA-Z]+-)?\d+(\.\d)?$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['ATCC'].
 
 ## `cellosaurus`: Cellosaurus
 
-Identifiers for this prefix are given incorrectly in `cellosaurus`.
+Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [GitHub repository](https://github.com/calipho-sib/cellosaurus).
 
 | external_xref            |   usages_count | usages                                                                        |
 |--------------------------|----------------|-------------------------------------------------------------------------------|
-| `ATCC:CRL-1593.2`        |              1 | [Cellosaurus#CVCL:0007](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0007) |
 | `ATCC:CRM-CCL-155`       |              1 | [Cellosaurus#CVCL:0014](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0014) |
 | `ATCC:CRM-CCL-185`       |              1 | [Cellosaurus#CVCL:0023](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0023) |
 | `ATCC:CRM-CCL-2`         |              1 | [Cellosaurus#CVCL:0030](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0030) |
-| `ATCC:CCL-2.2`           |              1 | [Cellosaurus#CVCL:0058](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0058) |
-| `ATCC:CCL-81.4`          |              1 | [Cellosaurus#CVCL:0059](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0059) |
 | `ATCC:CRM-HTB-26`        |              1 | [Cellosaurus#CVCL:0062](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0062) |
-| `ATCC:CCL-92.1`          |              1 | [Cellosaurus#CVCL:0123](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0123) |
 | `ATCC:CRM-CCL-119`       |              1 | [Cellosaurus#CVCL:0207](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0207) |
-| `ATCC:CCL-220.1`         |              1 | [Cellosaurus#CVCL:0220](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0220) |
-| `ATCC:CCL-82.1`          |              1 | [Cellosaurus#CVCL:0273](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0273) |
-| `ATCC:CCL-82.2`          |              1 | [Cellosaurus#CVCL:0276](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0276) |
 | `ATCC:CRM-TIB-161`       |              1 | [Cellosaurus#CVCL:0337](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0337) |
 | `ATCC:CRM-CRL-1420`      |              1 | [Cellosaurus#CVCL:0428](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0428) |
 | `ATCC:CRL-7347_FL`       |              1 | [Cellosaurus#CVCL:0808](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0808) |
@@ -41,55 +34,18 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`.
 | `ATCC:CRL-7660_FL`       |              1 | [Cellosaurus#CVCL:1011](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1011) |
 | `ATCC:CRM-HTB-31`        |              1 | [Cellosaurus#CVCL:1094](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1094) |
 | `ATCC:CRM-CRL-1550`      |              1 | [Cellosaurus#CVCL:1100](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1100) |
-| `ATCC:CCL-2.1`           |              1 | [Cellosaurus#CVCL:1276](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1276) |
-| `ATCC:CCL-2.3`           |              1 | [Cellosaurus#CVCL:1278](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1278) |
 | `ATCC:CRL-5874_FL`       |              1 | [Cellosaurus#CVCL:1474](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1474) |
 | `ATCC:CRL-5983_FL`       |              1 | [Cellosaurus#CVCL:1527](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1527) |
 | `ATCC:CRL-5984_FL`       |              1 | [Cellosaurus#CVCL:1528](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1528) |
 | `ATCC:CRM-HTB-174`       |              1 | [Cellosaurus#CVCL:1561](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1561) |
 | `ATCC:CRL-5836_FL`       |              1 | [Cellosaurus#CVCL:1580](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1580) |
 | `ATCC:CRM-CRL-3211`      |              1 | [Cellosaurus#CVCL:1644](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1644) |
-| `ATCC:CCL-250.1`         |              1 | [Cellosaurus#CVCL:1709](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1709) |
 | `ATCC:CRL-7945_FL`       |              1 | [Cellosaurus#CVCL:1740](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1740) |
-| `ATCC:CCL-246.1`         |              1 | [Cellosaurus#CVCL:1824](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1824) |
-| `ATCC:CCL-120.1`         |              1 | [Cellosaurus#CVCL:1859](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1859) |
-| `ATCC:CCL-81.5`          |              1 | [Cellosaurus#CVCL:1K11](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1K11) |
-| `ATCC:CCL-81.1`          |              1 | [Cellosaurus#CVCL:1K13](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1K13) |
 | `ATCC:CRL-8017A`         |              1 | [Cellosaurus#CVCL:2053](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2053) |
-| `ATCC:CCL-20.2`          |              1 | [Cellosaurus#CVCL:2260](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2260) |
-| `ATCC:CCL-256.1`         |              1 | [Cellosaurus#CVCL:2652](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2652) |
-| `ATCC:CCL-95.1`          |              1 | [Cellosaurus#CVCL:2758](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2758) |
-| `ATCC:CCL-75.1`          |              1 | [Cellosaurus#CVCL:2759](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2759) |
-| `ATCC:CCL-7.1`           |              1 | [Cellosaurus#CVCL:3009](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3009) |
-| `ATCC:CCL-46.1`          |              1 | [Cellosaurus#CVCL:3063](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3063) |
-| `ATCC:CCL-14.2`          |              1 | [Cellosaurus#CVCL:3065](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3065) |
-| `ATCC:CCL-9.1`           |              1 | [Cellosaurus#CVCL:3066](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3066) |
-| `ATCC:CCL-7.2`           |              1 | [Cellosaurus#CVCL:3069](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3069) |
-| `ATCC:CCL-64.1`          |              1 | [Cellosaurus#CVCL:3405](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3405) |
-| `ATCC:CRL-2378.1`        |              1 | [Cellosaurus#CVCL:3846](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3846) |
-| `ATCC:CCL-1.4`           |              1 | [Cellosaurus#CVCL:3984](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3984) |
-| `ATCC:CCL-34.1`          |              1 | [Cellosaurus#CVCL:4164](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4164) |
-| `ATCC:CCL-1.1`           |              1 | [Cellosaurus#CVCL:4255](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4255) |
-| `ATCC:CCL-163.3`         |              1 | [Cellosaurus#CVCL:4350](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4350) |
-| `ATCC:HB-142.1`          |              1 | [Cellosaurus#CVCL:4470](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4470) |
-| `ATCC:CCL-53.1`          |              1 | [Cellosaurus#CVCL:4512](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4512) |
-| `ATCC:CCL-1.2`           |              1 | [Cellosaurus#CVCL:4535](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4535) |
-| `ATCC:CCL-1.3`           |              1 | [Cellosaurus#CVCL:4536](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4536) |
-| `ATCC:CCL-163.1`         |              1 | [Cellosaurus#CVCL:4554](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4554) |
 | `ATCC:CRL-6105_FL`       |              1 | [Cellosaurus#CVCL:4955](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4955) |
 | `ATCC:CRL-8033-1`        |              1 | [Cellosaurus#CVCL:4974](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4974) |
 | `ATCC:CRL-8033-2`        |              1 | [Cellosaurus#CVCL:4975](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4975) |
-| `ATCC:CRL-1573.3`        |              1 | [Cellosaurus#CVCL:4W07](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4W07) |
-| `ATCC:CCL-163.2`         |              1 | [Cellosaurus#CVCL:5793](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5793) |
-| `ATCC:CL-101.1`          |              1 | [Cellosaurus#CVCL:6331](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6331) |
 | `ATCC:CRL-6465_FL`       |              1 | [Cellosaurus#CVCL:6462](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6462) |
-| `ATCC:CCL-19.1`          |              1 | [Cellosaurus#CVCL:8156](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8156) |
-| `ATCC:CCL-18.2`          |              1 | [Cellosaurus#CVCL:8189](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8189) |
-| `ATCC:CCL-18.3`          |              1 | [Cellosaurus#CVCL:8190](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8190) |
-| `ATCC:CCL-18.4`          |              1 | [Cellosaurus#CVCL:8191](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8191) |
-| `ATCC:CCL-18.1`          |              1 | [Cellosaurus#CVCL:8192](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8192) |
-| `ATCC:SCRC-1008.1`       |              1 | [Cellosaurus#CVCL:9117](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_9117) |
-| `ATCC:SCRC-1008.2`       |              1 | [Cellosaurus#CVCL:9118](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_9118) |
 | `ATCC:CRL-2003IG-LUC2`   |              1 | [Cellosaurus#CVCL:A4BL](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A4BL) |
 | `ATCC:CRL-2539-LUC2`     |              1 | [Cellosaurus#CVCL:A4BM](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A4BM) |
 | `ATCC:TIB-39-LUC2`       |              1 | [Cellosaurus#CVCL:A4BN](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A4BN) |
@@ -117,22 +73,12 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`.
 | `ATCC:CRL-6323-LUC2`     |              1 | [Cellosaurus#CVCL:A4CK](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A4CK) |
 | `ATCC:HTB-20EMT`         |              1 | [Cellosaurus#CVCL:A4CL](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A4CL) |
 | `ATCC:CRL-1642-LUC2`     |              1 | [Cellosaurus#CVCL:A4CM](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A4CM) |
-| `ATCC:SCRC-1042.1`       |              1 | [Cellosaurus#CVCL:A5UE](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A5UE) |
-| `ATCC:HB-8065.1`         |              1 | [Cellosaurus#CVCL:AS98](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_AS98) |
 | `ATCC:CRL-1573-VHG`      |              1 | [Cellosaurus#CVCL:B0NB](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B0NB) |
-| `ATCC:SCRC-1041.1`       |              1 | [Cellosaurus#CVCL:F285](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_F285) |
-| `ATCC:SCRC-1041.2`       |              1 | [Cellosaurus#CVCL:F286](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_F286) |
-| `ATCC:CRL-1721.1`        |              1 | [Cellosaurus#CVCL:F659](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_F659) |
 | `ATCC:CRL-1619IG-2`      |              1 | [Cellosaurus#CVCL:JF22](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_JF22) |
 | `ATCC:CCL-185IG`         |              1 | [Cellosaurus#CVCL:JK07](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_JK07) |
 | `ATCC:CCL-243-GFP`       |              1 | [Cellosaurus#CVCL:JM00](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_JM00) |
-| `ATCC:CRL-1581.1`        |              1 | [Cellosaurus#CVCL:JX59](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_JX59) |
-| `ATCC:SCRC-1040.1`       |              1 | [Cellosaurus#CVCL:K232](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_K232) |
 | `ATCC:SCRC-1040.2a`      |              1 | [Cellosaurus#CVCL:K233](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_K233) |
-| `ATCC:CCL-14.1`          |              1 | [Cellosaurus#CVCL:L858](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_L858) |
 | `ATCC:CCL-185EMT`        |              1 | [Cellosaurus#CVCL:LI35](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_LI35) |
-| `ATCC:CCL-3.1`           |              1 | [Cellosaurus#CVCL:M618](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_M618) |
-| `ATCC:SCRC-1042.2`       |              1 | [Cellosaurus#CVCL:N793](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_N793) |
 | `ATCC:55-X`              |              1 | [Cellosaurus#CVCL:RB14](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_RB14) |
 | `ATCC:48-X`              |              1 | [Cellosaurus#CVCL:RB15](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_RB15) |
 | `ATCC:56-X`              |              1 | [Cellosaurus#CVCL:RB16](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_RB16) |
@@ -144,9 +90,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`.
 | `ATCC:CRL-11268G-1`      |              1 | [Cellosaurus#CVCL:UE07](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_UE07) |
 | `ATCC:HTB-14IG`          |              1 | [Cellosaurus#CVCL:UE09](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_UE09) |
 | `ATCC:CRL-2003IG`        |              1 | [Cellosaurus#CVCL:UE10](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_UE10) |
-| `ATCC:CCL-185.1`         |              1 | [Cellosaurus#CVCL:UJ49](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_UJ49) |
 | `ATCC:CRL-1573Cas9`      |              1 | [Cellosaurus#CVCL:UR28](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_UR28) |
-| `ATCC:CRL-1573.1`        |              1 | [Cellosaurus#CVCL:UR29](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_UR29) |
 | `ATCC:CCL-185-LUC2`      |              1 | [Cellosaurus#CVCL:UR31](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_UR31) |
 | `ATCC:CRL-1619-LUC2`     |              1 | [Cellosaurus#CVCL:UR32](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_UR32) |
 | `ATCC:HTB-14-LUC2`       |              1 | [Cellosaurus#CVCL:UR33](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_UR33) |
@@ -155,15 +99,12 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`.
 | `ATCC:CCL-243-LUC2`      |              1 | [Cellosaurus#CVCL:UR39](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_UR39) |
 | `ATCC:CCL-247EMT`        |              1 | [Cellosaurus#CVCL:UR40](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_UR40) |
 | `ATCC:CCL-121-LUC2`      |              1 | [Cellosaurus#CVCL:UZ99](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_UZ99) |
-| `ATCC:SCRC-1045.1`       |              1 | [Cellosaurus#CVCL:VK72](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_VK72) |
 | `ATCC:CRL-1619IG-2-LUC2` |              1 | [Cellosaurus#CVCL:VR65](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_VR65) |
 | `ATCC:CCL-185IG-LUC2`    |              1 | [Cellosaurus#CVCL:VR66](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_VR66) |
 | `ATCC:HTB-26MET`         |              1 | [Cellosaurus#CVCL:VR67](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_VR67) |
 | `ATCC:CRL-4031-OAT3`     |              1 | [Cellosaurus#CVCL:VR68](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_VR68) |
 | `ATCC:CCL-185dCas9-KRAB` |              1 | [Cellosaurus#CVCL:VR73](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_VR73) |
-| `ATCC:CRL-2225.1`        |              1 | [Cellosaurus#CVCL:VT48](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_VT48) |
 | `ATCC:CCL-247-LUC2`      |              1 | [Cellosaurus#CVCL:VU38](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_VU38) |
-| `ATCC:SCRC-1045.2`       |              1 | [Cellosaurus#CVCL:Y468](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Y468) |
 | `ATCC:CCL-34-VHG`        |              1 | [Cellosaurus#CVCL:YZ44](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_YZ44) |
 | `ATCC:CCL-81-VHG`        |              1 | [Cellosaurus#CVCL:YZ45](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_YZ45) |
 

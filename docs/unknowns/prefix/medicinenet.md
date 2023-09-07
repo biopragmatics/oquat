@@ -1,11 +1,5 @@
 # `medicinenet`
 
-## xco
-
-| curie                               |   usages | nodes                                                     |
-|-------------------------------------|----------|-----------------------------------------------------------|
-| MedicineNet:http://www.medterms.com |        1 | [XCO:0000047](http://purl.obolibrary.org/obo/XCO_0000047) |
-
 ## bto
 
 | curie                                    |   usages | nodes                                                     |

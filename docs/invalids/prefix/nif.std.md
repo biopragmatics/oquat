@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `nif.std`
 but use local unique identifiers that do not match the standard pattern of
-`^BAMSC\d+$`. Of the 10 resources,
+`^BAMSC\d+$`. Of the 11 resources,
 1 variants on the standard prefix were found: ['NIFSTD'].
 
 ## `bao`: BioAssay Ontology
@@ -13,6 +13,14 @@ Identifiers for this prefix are given incorrectly in `bao`. See the [GitHub repo
 |----------------------|----------------|-----------------------------------------------------|
 | `NIFSTD:birnlex_228` |              1 | [EFO:0001272](http://www.ebi.ac.uk/efo/EFO_0001272) |
 | `NIFSTD:birnlex_681` |              1 | [EFO:0001272](http://www.ebi.ac.uk/efo/EFO_0001272) |
+
+## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
+
+Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
+
+| external_xref                    |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|----------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `NIFSTD:NeuroNames_abbrevSource` |             39 | [UBERON:0001579](http://purl.obolibrary.org/obo/UBERON_0001579), [UBERON:0001643](http://purl.obolibrary.org/obo/UBERON_0001643), [UBERON:0001644](http://purl.obolibrary.org/obo/UBERON_0001644), [UBERON:0001645](http://purl.obolibrary.org/obo/UBERON_0001645), [UBERON:0001646](http://purl.obolibrary.org/obo/UBERON_0001646), ... |
 
 ## `cl`: Cell Ontology
 

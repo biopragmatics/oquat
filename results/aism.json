@@ -1,11 +1,9 @@
 {
-  "created": "2023-05-21T00:11:34.219380",
-  "messages": [
-    "could not parse JSON for aism from http://purl.obolibrary.org/obo/aism.json"
-  ],
+  "created": "2023-09-07T12:24:33.508124",
+  "messages": [],
   "results": {
-    "http://purl.obolibrary.org/obo/aism.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/aism.owl",
+    "http://purl.obolibrary.org/obo/aism.json": {
+      "graph_id": "http://purl.obolibrary.org/obo/aism.json",
       "prov_pack": {
         "invalid_luids": {},
         "label": "Provenance Xrefs",
@@ -21,7 +19,7 @@
         "unknown_prefixes": {}
       },
       "version": "2023-04-14",
-      "version_iri": "http://purl.obolibrary.org/obo/aism/releases/2023-04-14/aism.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/aism/releases/2023-04-14/aism.json",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

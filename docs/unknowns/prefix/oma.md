@@ -15,6 +15,7 @@
 | OMA:P01590     |        1 | [PR:P01590](http://purl.obolibrary.org/obo/PR_P01590) |
 | OMA:P01731     |        1 | [PR:P01731](http://purl.obolibrary.org/obo/PR_P01731) |
 | OMA:P01831     |        1 | [PR:P01831](http://purl.obolibrary.org/obo/PR_P01831) |
+| OMA:P03995     |        1 | [PR:P03995](http://purl.obolibrary.org/obo/PR_P03995) |
 | OMA:P04370     |        1 | [PR:P04370](http://purl.obolibrary.org/obo/PR_P04370) |
 | OMA:MOUSE17014 |        1 | [PR:P05532](http://purl.obolibrary.org/obo/PR_P05532) |
 | OMA:P06332     |        1 | [PR:P06332](http://purl.obolibrary.org/obo/PR_P06332) |

@@ -1,6 +1,6 @@
 # `ilxtr`
 
-## nif
+## pato
 
 | curie                              |   usages | nodes                                                       |
 |------------------------------------|----------|-------------------------------------------------------------|
@@ -21,7 +21,7 @@
 | ilxtr:StarPyramidalPhenotype       |        1 | [PATO:0070020](http://purl.obolibrary.org/obo/PATO_0070020) |
 | ilxtr:InvertedPyramidalPhenotype   |        1 | [PATO:0070021](http://purl.obolibrary.org/obo/PATO_0070021) |
 
-## pato
+## nif
 
 | curie                              |   usages | nodes                                                       |
 |------------------------------------|----------|-------------------------------------------------------------|

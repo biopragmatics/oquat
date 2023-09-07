@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `uniprot`
 but use local unique identifiers that do not match the standard pattern of
-`^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$`. Of the 6 resources,
+`^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$`. Of the 7 resources,
 3 variants on the standard prefix were found: ['UniProt', 'UniProtKB', 'uniprot'].
 
 ## `bs`: Biosapiens Protein Feature Ontology
@@ -545,4 +545,12 @@ Identifiers for this prefix are given incorrectly in `vario`.
 | external_xref             |   usages_count | usages                                                  |
 |---------------------------|----------------|---------------------------------------------------------|
 | `UniProt:curation_manual` |              1 | [VariO:0281](http://purl.obolibrary.org/obo/VariO_0281) |
+
+## `xco`: Experimental condition ontology
+
+Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
+
+| external_xref    |   usages_count | usages                                                    |
+|------------------|----------------|-----------------------------------------------------------|
+| `UniProt:419947` |              1 | [XCO:0001037](http://purl.obolibrary.org/obo/XCO_0001037) |
 

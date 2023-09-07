@@ -2,8 +2,17 @@
 
 This page summarize the different resources that reference `dhba`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 2 resources,
+`^\d+$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['DHBA'].
+
+## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
+
+Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
+
+| external_xref   |   usages_count | usages                                                          |
+|-----------------|----------------|-----------------------------------------------------------------|
+| `DHBA:ILN`      |              1 | [UBERON:0002733](http://purl.obolibrary.org/obo/UBERON_0002733) |
+| `DHBA:HGM`      |              1 | [UBERON:0019263](http://purl.obolibrary.org/obo/UBERON_0019263) |
 
 ## `nif`: None
 

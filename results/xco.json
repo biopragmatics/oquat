@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T02:02:22.929821",
+  "created": "2023-09-07T13:33:55.704823",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/xco.owl": {
@@ -28,9 +28,6 @@
             "RGD:MS"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000022": [
-            "RGD:MS"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000024": [
             "RGD:MS"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000025": [
@@ -73,9 +70,6 @@
             "RGD:MS"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000098": [
-            "RGD:MS"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000101": [
             "RGD:MS"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000112": [
@@ -124,17 +118,8 @@
           "http://purl.obolibrary.org/obo/XCO_0000247": [
             "RGD:JRS"
           ],
-          "http://purl.obolibrary.org/obo/XCO_0000344": [
-            "PubChem_Compound:CID_13157"
-          ],
           "http://purl.obolibrary.org/obo/XCO_0000368": [
             "RGD:JRS"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000436": [
-            "PubChem_Compound:CID_13157"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000437": [
-            "PubChem_Compound:CID_13157"
           ],
           "http://purl.obolibrary.org/obo/XCO_0000485": [
             "RGD:JRS"
@@ -144,109 +129,65 @@
           ],
           "http://purl.obolibrary.org/obo/XCO_0000487": [
             "RGD:JRS"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000539": [
-            "DrugBank:https://www.drugbank.ca/drugs/DB00997"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000548": [
-            "DrugBank:https://www.drugbank.ca/drugs/DB00178"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000550": [
-            "DrugBank:https://www.drugbank.ca/drugs/DB00206"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000551": [
-            "DrugBank:https://www.drugbank.ca/drugs/DB01275"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000552": [
-            "DrugBank:https://www.drugbank.ca/drugs/DB00999"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000557": [
-            "Drugbank:https://www.drugbank.ca/drugs/DB01296"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000559": [
-            "MESH:https://meshb.nlm.nih.gov/record/ui?ui=D008550"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000563": [
-            "Medline Plus:http\\://www.nlm.nih.gov/medlineplus/"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000587": [
-            "PMID:PMID:25312437"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000588": [
-            "Drugbank:https://www.drugbank.ca/drugs/DB00790"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000603": [
-            "Drugbank:https://www.drugbank.ca/drugs/DB01094"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000604": [
-            "Drugbank:https://www.drugbank.ca/drugs/DB06692"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000605": [
-            "CHEBI:CHEBI:2504"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000607": [
-            "CHEBI:CHEBI: 15366"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000608": [
-            "CHEBI:CHEBI:73224"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000610": [
-            "CHEBI:CHEBI:17303"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000611": [
-            "MESH:https://meshb.nlm.nih.gov/record/ui?ui=D009543"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000612": [
-            "PMID:PMID: 7609754"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000614": [
-            "MESH:https://www.ncbi.nlm.nih.gov/mesh/68020889"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000616": [
-            "MESH:https://www.ncbi.nlm.nih.gov/mesh?Db=mesh&Cmd=DetailsSearch&Term=%22Verapamil%22%5BMeSH+Terms%5D"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000617": [
-            "MESH:https://www.ncbi.nlm.nih.gov/mesh/68011802"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000618": [
-            "Drugbank:https://www.drugbank.ca/categories/DBCAT000600"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000620": [
-            "NCI Thesaurus:https://ncit-stage.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C930&ns=ncit"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000627": [
-            "DRUGBANK:https://www.drugbank.ca/drugs/DB00421"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000631": [
-            "DRUGBANK:https://www.drugbank.ca/drugs/DB00572"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000635": [
-            "PMID:PMID:15894899"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000636": [
-            "CHEBI:CHEBI:35705"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000637": [
-            "CHEBI:CHEBI:4031"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000638": [
-            "CHEBI:CHEBI:70773"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000639": [
-            "PMID:PMID:27671317"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000642": [
-            "MESH:https://www.ncbi.nlm.nih.gov/mesh/68016686"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000647": [
-            "drugbank:https://www.drugbank.ca/drugs/DB04883"
           ]
         },
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
-          "Medline Plus": {
-            "http://purl.obolibrary.org/obo/XCO_0000563": "Medline Plus:http\\://www.nlm.nih.gov/medlineplus/"
+          "CID": {
+            "http://purl.obolibrary.org/obo/XCO_0001052": "CID:451668"
+          },
+          "ISBN-13": {
+            "http://purl.obolibrary.org/obo/XCO_0000024": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000101": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000210": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000212": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000319": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000579": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000640": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000748": "ISBN-13:978-1416062578",
+            "http://purl.obolibrary.org/obo/XCO_0000751": "ISBN-13:978-0323049375",
+            "http://purl.obolibrary.org/obo/XCO_0000752": "ISBN-13:978-0323049375",
+            "http://purl.obolibrary.org/obo/XCO_0000753": "ISBN-13:978-0323049375",
+            "http://purl.obolibrary.org/obo/XCO_0000754": "ISBN-13:978-0323049375",
+            "http://purl.obolibrary.org/obo/XCO_0000783": "ISBN-13:978-1608316922",
+            "http://purl.obolibrary.org/obo/XCO_0000784": "ISBN-13:978-1608316922",
+            "http://purl.obolibrary.org/obo/XCO_0000788": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000794": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000812": "ISBN-13:978-0702033896",
+            "http://purl.obolibrary.org/obo/XCO_0000829": "ISBN-13:978-1608316922",
+            "http://purl.obolibrary.org/obo/XCO_0000850": "ISBN-13:978-0683400076",
+            "http://purl.obolibrary.org/obo/XCO_0000863": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000864": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000867": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000868": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000874": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000882": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000885": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000906": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000917": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000920": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000921": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000924": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000930": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000931": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000934": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000935": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000936": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000937": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000938": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000940": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000941": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000961": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000963": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000965": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000966": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000979": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000982": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0000999": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0001000": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0001001": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0001002": "ISBN-13:978-0781733908"
           },
           "NCBI_Gene": {
             "http://purl.obolibrary.org/obo/XCO_0000195": "NCBI_Gene:4340"
@@ -257,24 +198,9 @@
             "http://purl.obolibrary.org/obo/XCO_0000288": "NCBI_GeneID:5949",
             "http://purl.obolibrary.org/obo/XCO_0000289": "NCBI_GeneID:5949"
           },
-          "NCI Thesaurus": {
-            "http://purl.obolibrary.org/obo/XCO_0000620": "NCI Thesaurus:https://ncit-stage.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C930&ns=ncit"
-          },
-          "PubChem_Compound": {
-            "http://purl.obolibrary.org/obo/XCO_0000344": "PubChem_Compound:CID_13157",
-            "http://purl.obolibrary.org/obo/XCO_0000436": "PubChem_Compound:CID_13157",
-            "http://purl.obolibrary.org/obo/XCO_0000437": "PubChem_Compound:CID_13157"
-          },
-          "Sigma-Aldrich": {
-            "http://purl.obolibrary.org/obo/XCO_0000116": "Sigma-Aldrich:http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Product_Information_Sheet/1/k3753pis.Par.0001.File.tmp/k3753pis.pdf",
-            "http://purl.obolibrary.org/obo/XCO_0000146": "Sigma-Aldrich:http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Product_Information_Sheet/1/k3753pis.Par.0001.File.tmp/k3753pis.pdf"
-          },
           "UniProtKB": {
             "http://purl.obolibrary.org/obo/XCO_0000290": "UniProtKB:P02689",
             "http://purl.obolibrary.org/obo/XCO_0000291": "UniProtKB:P02689"
-          },
-          "wikipedia": {
-            "http://purl.obolibrary.org/obo/XCO_0000633": "wikipedia:https://en.wikipedia.org/wiki/Cortisol"
           }
         },
         "unknown_prefixes": {
@@ -355,7 +281,8 @@
             "http://purl.obolibrary.org/obo/XCO_0000502": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--5th_Ed",
             "http://purl.obolibrary.org/obo/XCO_0000503": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--5th_Ed",
             "http://purl.obolibrary.org/obo/XCO_0000526": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--5th_Ed",
-            "http://purl.obolibrary.org/obo/XCO_0000677": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed"
+            "http://purl.obolibrary.org/obo/XCO_0000677": "American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed",
+            "http://purl.obolibrary.org/obo/XCO_0000727": "American_Heritage:The_American_Heritage_Medical_Dictionary_2007"
           },
           "Cambridge": {
             "http://purl.obolibrary.org/obo/XCO_0000318": "Cambridge:Cambridge_Online_Dictionary_of_American_English"
@@ -529,12 +456,9 @@
             "http://purl.obolibrary.org/obo/XCO_0000523": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
             "http://purl.obolibrary.org/obo/XCO_0000524": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
             "http://purl.obolibrary.org/obo/XCO_0000525": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
-            "http://purl.obolibrary.org/obo/XCO_0000535": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed"
-          },
-          "Drug Information Portal": {
-            "http://purl.obolibrary.org/obo/XCO_0000559": "Drug Information Portal:https://druginfo.nlm.nih.gov/drugportal/name/melatonin",
-            "http://purl.obolibrary.org/obo/XCO_0000562": "Drug Information Portal:https://druginfo.nlm.nih.gov/drugportal/name/salidroside",
-            "http://purl.obolibrary.org/obo/XCO_0000602": "Drug Information Portal:https://druginfo.nlm.nih.gov/drugportal/name/rosiglitazone"
+            "http://purl.obolibrary.org/obo/XCO_0000535": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+            "http://purl.obolibrary.org/obo/XCO_0000715": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed",
+            "http://purl.obolibrary.org/obo/XCO_0000727": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed"
           },
           "Encarta": {
             "http://purl.obolibrary.org/obo/XCO_0000003": "Encarta:Encarta_World_English_Dictionary",
@@ -574,16 +498,11 @@
             "http://purl.obolibrary.org/obo/XCO_0000248": "Gale:Gale_Encyclopedia_of_Medicine",
             "http://purl.obolibrary.org/obo/XCO_0000249": "Gale:Gale_Encyclopedia_of_Medicine",
             "http://purl.obolibrary.org/obo/XCO_0000250": "Gale:Gale_Encyclopedia_of_Medicine",
-            "http://purl.obolibrary.org/obo/XCO_0000361": "Gale:Gale_Encyclopedia_of_Medicine_2008"
+            "http://purl.obolibrary.org/obo/XCO_0000361": "Gale:Gale_Encyclopedia_of_Medicine_2008",
+            "http://purl.obolibrary.org/obo/XCO_0000728": "Gale:Gale_Encyclopedia_of_Medicine"
           },
           "McGraw-Hill": {
             "http://purl.obolibrary.org/obo/XCO_0000389": "McGraw-Hill:McGraw-Hill_Concise_Dictionary_of_Modern_Medicine"
-          },
-          "MediLexicon": {
-            "http://purl.obolibrary.org/obo/XCO_0000091": "MediLexicon:http://www.medilexicon.com/medicaldictionary.php?t=22261"
-          },
-          "MedicineNet": {
-            "http://purl.obolibrary.org/obo/XCO_0000047": "MedicineNet:http://www.medterms.com"
           },
           "Merriam-Webster": {
             "http://purl.obolibrary.org/obo/XCO_0000057": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
@@ -617,7 +536,8 @@
             "http://purl.obolibrary.org/obo/XCO_0000385": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
             "http://purl.obolibrary.org/obo/XCO_0000517": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
             "http://purl.obolibrary.org/obo/XCO_0000518": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
-            "http://purl.obolibrary.org/obo/XCO_0000519": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed"
+            "http://purl.obolibrary.org/obo/XCO_0000519": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
+            "http://purl.obolibrary.org/obo/XCO_0000694": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed"
           },
           "Mondofacto": {
             "http://purl.obolibrary.org/obo/XCO_0000178": "Mondofacto:Mondofacto_Online_Medical_Dictionary",
@@ -694,33 +614,11 @@
             "http://purl.obolibrary.org/obo/XCO_0000471": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
             "http://purl.obolibrary.org/obo/XCO_0000505": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
             "http://purl.obolibrary.org/obo/XCO_0000506": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
-            "http://purl.obolibrary.org/obo/XCO_0000508": "Mosby:Mosbys_Medical_Dictionary--8th_Ed"
+            "http://purl.obolibrary.org/obo/XCO_0000508": "Mosby:Mosbys_Medical_Dictionary--8th_Ed",
+            "http://purl.obolibrary.org/obo/XCO_0000704": "Mosby:Mosbys_Medical_Dictionary--8th_Ed"
           },
-          "Multiple_Dictionaries": {
-            "http://purl.obolibrary.org/obo/XCO_0000000": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
-            "http://purl.obolibrary.org/obo/XCO_0000026": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
-            "http://purl.obolibrary.org/obo/XCO_0000078": "Multiple_Dictionaries:http://medical-dictionary.thefreedictionary.com",
-            "http://purl.obolibrary.org/obo/XCO_0000079": "Multiple_Dictionaries:http://medical-dictionary.thefreedictionary.com",
-            "http://purl.obolibrary.org/obo/XCO_0000093": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
-            "http://purl.obolibrary.org/obo/XCO_0000120": "Multiple_Dictionaries:http://medical-dictionary.thefreedictionary.com/inhibitor",
-            "http://purl.obolibrary.org/obo/XCO_0000166": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
-            "http://purl.obolibrary.org/obo/XCO_0000275": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
-            "http://purl.obolibrary.org/obo/XCO_0000277": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
-            "http://purl.obolibrary.org/obo/XCO_0000278": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
-            "http://purl.obolibrary.org/obo/XCO_0000298": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
-            "http://purl.obolibrary.org/obo/XCO_0000299": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
-            "http://purl.obolibrary.org/obo/XCO_0000300": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
-            "http://purl.obolibrary.org/obo/XCO_0000332": "Multiple_Dictionaries:http://www.thefreedictionary.com/",
-            "http://purl.obolibrary.org/obo/XCO_0000333": "Multiple_Dictionaries:http://www.thefreedictionary.com/"
-          },
-          "NIH": {
-            "http://purl.obolibrary.org/obo/XCO_0000157": "NIH:http://grants.nih.gov/grants/olaw/Guide-for-the-care-and-use-of-Laboratory-animals.pdf",
-            "http://purl.obolibrary.org/obo/XCO_0000158": "NIH:http://grants.nih.gov/grants/olaw/Guide-for-the-care-and-use-of-Laboratory-animals.pdf",
-            "http://purl.obolibrary.org/obo/XCO_0000159": "NIH:http://grants.nih.gov/grants/olaw/Guide-for-the-care-and-use-of-Laboratory-animals.pdf",
-            "http://purl.obolibrary.org/obo/XCO_0000362": "NIH:http://grants.nih.gov/grants/olaw/Guide-for-the-care-and-use-of-Laboratory-animals.pdf"
-          },
-          "NIH Thesaurus": {
-            "http://purl.obolibrary.org/obo/XCO_0000613": "NIH Thesaurus:https://ncit.nci.nih.gov/ncitbrowser/"
+          "NCBI": {
+            "http://purl.obolibrary.org/obo/XCO_0001037": "NCBI:txid419947"
           },
           "PGA": {
             "http://purl.obolibrary.org/obo/XCO_0000129": "PGA:Renal_protocol"
@@ -746,31 +644,7 @@
             "http://purl.obolibrary.org/obo/XCO_0000529": "Segen:Segens_Medical_Dictionary_2012"
           },
           "Stedman": {
-            "http://purl.obolibrary.org/obo/XCO_0000607": "Stedman:Stedmans_Medical_Dictionary 26th ed"
-          },
-          "Website": {
-            "http://purl.obolibrary.org/obo/XCO_0000137": "Website:http://www.trinitybiotech.com/Product%20Documents/305-10-29%20EN.pdf",
-            "http://purl.obolibrary.org/obo/XCO_0000207": "Website:http://potency.berkeley.edu/chempages/3%27-METHYL-4-DIMETHYLAMINOAZOBENZENE.html",
-            "http://purl.obolibrary.org/obo/XCO_0000218": "Website:http://www.lclabs.com/PRODFILE/P-R/P-2170.php4",
-            "http://purl.obolibrary.org/obo/XCO_0000219": "Website:http://datasheets.scbt.com/sc-202578.pdf",
-            "http://purl.obolibrary.org/obo/XCO_0000235": "Website:http://www.invivogen.com/tlr3-ligands?gclid=CLDYv5u4wLICFahaMgod_H8AGg",
-            "http://purl.obolibrary.org/obo/XCO_0000238": "Website:http://www.criver.com/SiteCollectionDocuments/rm_ld_r_Rat_Parvoviruses.pdf",
-            "http://purl.obolibrary.org/obo/XCO_0000310": "Website:http://www.drugbank.ca/drugs/DB01170#pharmacology",
-            "http://purl.obolibrary.org/obo/XCO_0000331": "Website:http://www.nursa.org/molecule.cfm?molType=ligand&molId=1123",
-            "http://purl.obolibrary.org/obo/XCO_0000332": "Website:http://www.nursa.org/molecule.cfm?molType=ligand&molId=1123",
-            "http://purl.obolibrary.org/obo/XCO_0000333": "Website:http://www.nursa.org/molecule.cfm?molType=ligand&molId=1123",
-            "http://purl.obolibrary.org/obo/XCO_0000372": "Website:http://www.nlm.nih.gov/medlineplus/druginfo/meds/a682792.html",
-            "http://purl.obolibrary.org/obo/XCO_0000378": "Website:http://www.cyberlipid.org/vite/vite0001.htm",
-            "http://purl.obolibrary.org/obo/XCO_0000379": "Website:http://www.cyberlipid.org/vite/vite0001.htm",
-            "http://purl.obolibrary.org/obo/XCO_0000380": "Website:http://www.cyberlipid.org/vite/vite0001.htm",
-            "http://purl.obolibrary.org/obo/XCO_0000399": "Website:http://www.chemguide.co.uk/inorganic/complexions/whatis.html#top",
-            "http://purl.obolibrary.org/obo/XCO_0000439": "Website:http://potency.berkeley.edu/chempages/3%27-METHYL-4-DIMETHYLAMINOAZOBENZENE.html",
-            "http://purl.obolibrary.org/obo/XCO_0000440": "Website:http://potency.berkeley.edu/chempages/3%27-METHYL-4-DIMETHYLAMINOAZOBENZENE.html",
-            "http://purl.obolibrary.org/obo/XCO_0000443": "Website:http://www.nlm.nih.gov/medlineplus/druginfo/meds/a682792.html",
-            "http://purl.obolibrary.org/obo/XCO_0000444": "Website:http://www.nlm.nih.gov/medlineplus/druginfo/meds/a682792.html",
-            "http://purl.obolibrary.org/obo/XCO_0000494": "Website:http://www.medicaldictionaryweb.com/Postmenopause-definition/",
-            "http://purl.obolibrary.org/obo/XCO_0000541": "Website:https://phassociation.org/patients/treatments/bosentan/",
-            "http://purl.obolibrary.org/obo/XCO_0000551": "Website:http://cvpharmacology.com/vasodilator/direct"
+            "http://purl.obolibrary.org/obo/XCO_0000607": "Stedman:Stedmans_Medical_Dictionary_26th_ed"
           },
           "Webster": {
             "http://purl.obolibrary.org/obo/XCO_0000326": "Webster:Random_House_Kernerman_Websters_College_Dictionary_2010",
@@ -779,27 +653,6 @@
             "http://purl.obolibrary.org/obo/XCO_0000530": "Webster:Random_House_Kernerman_Websters_College_Dictionary_2010",
             "http://purl.obolibrary.org/obo/XCO_0000531": "Webster:Random_House_Kernerman_Websters_College_Dictionary_2010",
             "http://purl.obolibrary.org/obo/XCO_0000678": "Webster:Random_House_Kernerman_Websters_College_Dictionary_2010"
-          },
-          "Wiktionary": {
-            "http://purl.obolibrary.org/obo/XCO_0000502": "Wiktionary:https://en.wiktionary.org/wiki/body_part",
-            "http://purl.obolibrary.org/obo/XCO_0000503": "Wiktionary:https://en.wiktionary.org/wiki/body_part"
-          },
-          "YourDictionary": {
-            "http://purl.obolibrary.org/obo/XCO_0000021": "YourDictionary:http://www.yourdictionary.com/drink",
-            "http://purl.obolibrary.org/obo/XCO_0000297": "YourDictionary:http://www.yourdictionary.com/drink",
-            "http://purl.obolibrary.org/obo/XCO_0000327": "YourDictionary:http://www.yourdictionary.com/drink",
-            "http://purl.obolibrary.org/obo/XCO_0000328": "YourDictionary:http://www.yourdictionary.com/drink",
-            "http://purl.obolibrary.org/obo/XCO_0000329": "YourDictionary:http://www.yourdictionary.com/drink",
-            "http://purl.obolibrary.org/obo/XCO_0000355": "YourDictionary:http://www.yourdictionary.com/drink"
-          },
-          "merriam-webster": {
-            "http://purl.obolibrary.org/obo/XCO_0000655": "merriam-webster:https://www.merriam-webster.com/dictionary/prion"
-          },
-          "url": {
-            "http://purl.obolibrary.org/obo/XCO_0000661": "url:https://www.hindawi.com/journals/bmri/2015/528757/tab1/",
-            "http://purl.obolibrary.org/obo/XCO_0000662": "url:https://www.hindawi.com/journals/bmri/2015/528757/tab1/",
-            "http://purl.obolibrary.org/obo/XCO_0000663": "url:https://www.hindawi.com/journals/bmri/2015/528757/tab1/",
-            "http://purl.obolibrary.org/obo/XCO_0000675": "url:https://www.merriam-webster.com/dictionary/retrovirus"
           }
         }
       },
@@ -815,53 +668,53 @@
         },
         "unknown_prefixes": {}
       },
-      "version": "4.46",
-      "version_iri": "http://purl.obolibrary.org/obo/xco/4.46/xco.owl",
+      "version": "4.139",
+      "version_iri": "http://purl.obolibrary.org/obo/xco/4.139/xco.owl",
       "xref_pack": {
         "invalid_luids": {
-          "http://purl.obolibrary.org/obo/XCO_0000131": [
-            "CHEMBL:297362"
+          "http://purl.obolibrary.org/obo/XCO_0000617": [
+            "MESH:68011802"
           ],
-          "http://purl.obolibrary.org/obo/XCO_0000320": [
-            "CHEMBL:105608"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000321": [
-            "CHEMBL:105608"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000322": [
-            "CHEMBL:105608"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000345": [
-            "PubChem_Compound:CID_12967"
-          ],
-          "http://purl.obolibrary.org/obo/XCO_0000346": [
-            "PubChem_Compound:CID_12967"
+          "http://purl.obolibrary.org/obo/XCO_0001037": [
+            "UniProt:419947"
           ]
         },
         "label": "Node Xrefs",
-        "malformed_curies": {},
+        "malformed_curies": {
+          "http://purl.obolibrary.org/obo/XCO_0000799": [
+            "D004986"
+          ],
+          "http://purl.obolibrary.org/obo/XCO_0000835": [
+            "CVCL_5712"
+          ],
+          "http://purl.obolibrary.org/obo/XCO_0000915": [
+            "PMID30621358"
+          ],
+          "http://purl.obolibrary.org/obo/XCO_0001045": [
+            "Cellosaurus CVCL_3537"
+          ],
+          "http://purl.obolibrary.org/obo/XCO_0001053": [
+            "GSE72787"
+          ],
+          "http://purl.obolibrary.org/obo/XCO_0001054": [
+            "GSE144548"
+          ],
+          "http://purl.obolibrary.org/obo/XCO_0001056": [
+            "GSE119482"
+          ],
+          "http://purl.obolibrary.org/obo/XCO_0001070": [
+            "EC 3.4.22.2"
+          ]
+        },
         "noncanonical_prefixes": {
-          "CASRN": {
-            "http://purl.obolibrary.org/obo/XCO_0000186": "CASRN:485-35-8",
-            "http://purl.obolibrary.org/obo/XCO_0000187": "CASRN:7187-66-8",
-            "http://purl.obolibrary.org/obo/XCO_0000188": "CASRN:72803-02-2"
+          "CID": {
+            "http://purl.obolibrary.org/obo/XCO_0001024": "CID:2819453"
           },
           "EC": {
             "http://purl.obolibrary.org/obo/XCO_0000177": "EC:3.4.21.5"
           },
-          "NCBI_Taxon": {
-            "http://purl.obolibrary.org/obo/XCO_0000476": "NCBI_Taxon:1313",
-            "http://purl.obolibrary.org/obo/XCO_0000477": "NCBI_Taxon:373153",
-            "http://purl.obolibrary.org/obo/XCO_0000478": "NCBI_Taxon:170187",
-            "http://purl.obolibrary.org/obo/XCO_0000479": "NCBI_Taxon:727",
-            "http://purl.obolibrary.org/obo/XCO_0000481": "NCBI_Taxon:281310",
-            "http://purl.obolibrary.org/obo/XCO_0000485": "NCBI_Taxon:281310",
-            "http://purl.obolibrary.org/obo/XCO_0000486": "NCBI_Taxon:281310",
-            "http://purl.obolibrary.org/obo/XCO_0000487": "NCBI_Taxon:170187"
-          },
-          "PubChem_Compound": {
-            "http://purl.obolibrary.org/obo/XCO_0000345": "PubChem_Compound:CID_12967",
-            "http://purl.obolibrary.org/obo/XCO_0000346": "PubChem_Compound:CID_12967"
+          "ISBN-13": {
+            "http://purl.obolibrary.org/obo/XCO_0000813": "ISBN-13:978-0323240987"
           },
           "UniProtKB": {
             "http://purl.obolibrary.org/obo/XCO_0000226": "UniProtKB:P01500",

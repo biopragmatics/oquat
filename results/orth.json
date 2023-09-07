@@ -1,7 +1,7 @@
 {
-  "created": "2023-05-21T01:27:32.474481",
+  "created": "2023-09-07T13:21:14.276147",
   "messages": [
-    "could not parse OWL for orth from https://github.com/qfo/OrthologyOntology/raw/master/orthOntology_RC_v2_A.owl"
+    "[orth] could not parse OWL from https://github.com/qfo/OrthologyOntology/raw/master/orthOntology_RC_v2_A.owl"
   ],
   "results": {}
 }

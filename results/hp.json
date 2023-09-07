@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T01:10:17.493737",
+  "created": "2023-09-07T13:01:07.820223",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/hp.json": {
@@ -8,9 +8,6 @@
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/HP_0009659": [
             "PMID:probinson"
-          ],
-          "http://purl.obolibrary.org/obo/HP_0010780": [
-            "PMID:14645606|PMID:14647932|PMID:31669363"
           ],
           "http://purl.obolibrary.org/obo/HP_0030789": [
             "PMID:probinson"
@@ -686,29 +683,9 @@
             "http://purl.obolibrary.org/obo/HP_0031836": "HPO_CONTRIBUTOR:RGD_gthayman",
             "http://purl.obolibrary.org/obo/HP_0031837": "HPO_CONTRIBUTOR:RGD_gthayman",
             "http://purl.obolibrary.org/obo/HP_0031883": "HPO_CONTRIBUTOR:RGD_gthayman",
-            "http://purl.obolibrary.org/obo/HP_0032113": "HPO_CONTRIBUTOR:ClinGen_scottgoehringer",
             "http://purl.obolibrary.org/obo/HP_0032156": "HPO_CONTRIBUTOR:RGD_gthayman",
-            "http://purl.obolibrary.org/obo/HP_0032966": "HPO_CONTRIBUTOR:LMU_kknoflach",
-            "http://purl.obolibrary.org/obo/HP_0032972": "HPO_CONTRIBUTOR:LMU_kknoflach",
-            "http://purl.obolibrary.org/obo/HP_0032976": "HPO_CONTRIBUTOR:LMU_kknoflach",
-            "http://purl.obolibrary.org/obo/HP_0032977": "HPO_CONTRIBUTOR:LMU_kknoflach",
-            "http://purl.obolibrary.org/obo/HP_0032978": "HPO_CONTRIBUTOR:LMU_kknoflach",
-            "http://purl.obolibrary.org/obo/HP_0032981": "HPO_CONTRIBUTOR:LMU_kknoflach",
-            "http://purl.obolibrary.org/obo/HP_0032990": "HPO_CONTRIBUTOR:LMU_kknoflach",
-            "http://purl.obolibrary.org/obo/HP_0033030": "HPO_CONTRIBUTOR:LMU_kknoflach",
-            "http://purl.obolibrary.org/obo/HP_0033033": "HPO_CONTRIBUTOR:LMU_kknoflach",
-            "http://purl.obolibrary.org/obo/HP_0033040": "HPO_CONTRIBUTOR:LMU_kknoflach",
             "http://purl.obolibrary.org/obo/HP_0033088": "HPO_CONTRIBUTOR:NSTRN_jmiller",
-            "http://purl.obolibrary.org/obo/HP_0033240": "HPO_CONTRIBUTOR:LMU_kknofloch",
-            "http://purl.obolibrary.org/obo/HP_0033242": "HPO_CONTRIBUTOR:LMU_kknoflach",
-            "http://purl.obolibrary.org/obo/HP_0033245": "HPO_CONTRIBUTOR:LMU_kknofloch",
-            "http://purl.obolibrary.org/obo/HP_0033365": "HPO_CONTRIBUTOR:LMU_kknoflach",
-            "http://purl.obolibrary.org/obo/HP_0033520": "HPO_CONTRIBUTOR:KMU_kknoflach",
-            "http://purl.obolibrary.org/obo/HP_0033550": "HPO_CONTRIBUTOR:LMU_kknoflach",
             "http://purl.obolibrary.org/obo/HP_0033626": "HPO_CONTRIBUTOR:RGD_gthayman",
-            "http://purl.obolibrary.org/obo/HP_0033999": "HPO_CONTRIBUTOR:KMU_kknoflach",
-            "http://purl.obolibrary.org/obo/HP_0034000": "HPO_CONTRIBUTOR:KMU_kknoflach",
-            "http://purl.obolibrary.org/obo/HP_0034152": "HPO_CONTRIBUTOR:LMU_kknoflach",
             "http://purl.obolibrary.org/obo/HP_0100349": "HPO_CONTRIBUTOR:UToronto_htrang",
             "http://purl.obolibrary.org/obo/HP_0100493": "HPO_CONTRIBUTOR:gcarletti",
             "http://purl.obolibrary.org/obo/HP_0100525": "HPO_CONTRIBUTOR:Eurenomics_ewuehl",
@@ -779,8 +756,8 @@
         },
         "unknown_prefixes": {}
       },
-      "version": "2023-04-06",
-      "version_iri": "http://purl.obolibrary.org/obo/hp/releases/2023-04-06/hp.json",
+      "version": "2023-09-01",
+      "version_iri": "http://purl.obolibrary.org/obo/hp/releases/2023-09-01/hp.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/HP_0002893": [
@@ -3546,7 +3523,6 @@
             "http://purl.obolibrary.org/obo/HP_0001410": "SNOMEDCT_US:77981007",
             "http://purl.obolibrary.org/obo/HP_0001413": "SNOMEDCT_US:21861000",
             "http://purl.obolibrary.org/obo/HP_0001417": "SNOMEDCT_US:263934009",
-            "http://purl.obolibrary.org/obo/HP_0001428": "SNOMEDCT_US:124975008",
             "http://purl.obolibrary.org/obo/HP_0001433": "SNOMEDCT_US:36760000",
             "http://purl.obolibrary.org/obo/HP_0001476": "SNOMEDCT_US:295091000119100",
             "http://purl.obolibrary.org/obo/HP_0001480": "SNOMEDCT_US:699225003",

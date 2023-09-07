@@ -1,8 +1,32 @@
 {
-  "created": "2023-05-21T01:19:43.535605",
-  "messages": [
-    "could not parse OWL for ncit from http://purl.obolibrary.org/obo/ncit.owl",
-    "could not parse OBO for ncit from http://purl.obolibrary.org/obo/ncit.obo"
-  ],
-  "results": {}
+  "created": "2023-09-07T13:10:04.029998",
+  "messages": [],
+  "results": {
+    "http://purl.obolibrary.org/obo/ncit.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/ncit.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "22.07d",
+      "version_iri": "http://purl.obolibrary.org/obo/ncit/releases/2022-08-19/ncit.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
+    }
+  }
 }

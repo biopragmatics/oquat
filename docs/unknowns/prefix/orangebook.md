@@ -1,13 +1,5 @@
 # `orangebook`
 
-## enm
-
-| curie               |   usages | nodes                                                       |
-|---------------------|----------|-------------------------------------------------------------|
-| OrangeBook:17.2.1.4 |        1 | [CHMO:0000343](http://purl.obolibrary.org/obo/CHMO_0000343) |
-| OrangeBook:17.2.4   |        1 | [CHMO:0000351](http://purl.obolibrary.org/obo/CHMO_0000351) |
-| OrangeBook:9.4.1    |        1 | [CHMO:0001577](http://purl.obolibrary.org/obo/CHMO_0001577) |
-
 ## chmo
 
 | curie                 |   usages | nodes                                                                                                                                                                                                                                                                                                                |
@@ -39,6 +31,14 @@
 | OrangeBook:9.2.1.4    |        1 | [CHMO:0001009](http://purl.obolibrary.org/obo/CHMO_0001009)                                                                                                                                                                                                                                                          |
 | OrangeBook:10.3.4.9.3 |        1 | [CHMO:0001657](http://purl.obolibrary.org/obo/CHMO_0001657)                                                                                                                                                                                                                                                          |
 | OrangeBook:3.4.3      |        1 | [CHMO:0002354](http://purl.obolibrary.org/obo/CHMO_0002354)                                                                                                                                                                                                                                                          |
+
+## enm
+
+| curie               |   usages | nodes                                                       |
+|---------------------|----------|-------------------------------------------------------------|
+| OrangeBook:17.2.1.4 |        1 | [CHMO:0000343](http://purl.obolibrary.org/obo/CHMO_0000343) |
+| OrangeBook:17.2.4   |        1 | [CHMO:0000351](http://purl.obolibrary.org/obo/CHMO_0000351) |
+| OrangeBook:9.4.1    |        1 | [CHMO:0001577](http://purl.obolibrary.org/obo/CHMO_0001577) |
 
 ## pride
 

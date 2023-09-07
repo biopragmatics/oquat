@@ -1,9 +1,32 @@
 {
-  "created": "2023-05-21T01:53:36.909490",
-  "messages": [
-    "could not parse JSON for swo from https://github.com/allysonlister/swo/raw/master/release/swo.json",
-    "could not parse OWL for swo from https://github.com/allysonlister/swo/raw/master/release/swo.owl",
-    "could not parse OBO for swo from https://github.com/allysonlister/swo/raw/master/release/swo.obo"
-  ],
-  "results": {}
+  "created": "2023-09-07T13:27:37.677197",
+  "messages": [],
+  "results": {
+    "http://www.ebi.ac.uk/swo/swo.json": {
+      "graph_id": "http://www.ebi.ac.uk/swo/swo.json",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2023-03-05",
+      "version_iri": "http://www.ebi.ac.uk/swo/swo/releases/2023-03-05/swo.json",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
+    }
+  }
 }

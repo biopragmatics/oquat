@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `so`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 12 resources,
+`^\d{7}$`. Of the 11 resources,
 1 variants on the standard prefix were found: ['SO'].
 
 ## `bs`: Biosapiens Protein Feature Ontology
@@ -20,9 +20,9 @@ Identifiers for this prefix are given incorrectly in `bs`. See the [GitHub repos
 
 Identifiers for this prefix are given incorrectly in `enm`.
 
-| external_xref   |   usages_count | usages                                                                                                                                                                           |
-|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `SO:cjm`        |              2 | [envo#disconnected:from](http://purl.obolibrary.org/obo/envo#disconnected_from), [uberon#spatially:disjoint:from](http://purl.obolibrary.org/obo/uberon#spatially_disjoint_from) |
+| external_xref   |   usages_count | usages                                                                                          |
+|-----------------|----------------|-------------------------------------------------------------------------------------------------|
+| `SO:cjm`        |              1 | [uberon#spatially:disjoint:from](http://purl.obolibrary.org/obo/uberon#spatially_disjoint_from) |
 
 ## `ensemblglossary`: Ensembl Glossary
 
@@ -41,14 +41,6 @@ Identifiers for this prefix are given incorrectly in `fbcv`. See the [GitHub rep
 | external_xref   |   usages_count | usages                                                      |
 |-----------------|----------------|-------------------------------------------------------------|
 | `SO:ma`         |              1 | [FBcv:0003013](http://purl.obolibrary.org/obo/FBcv_0003013) |
-
-## `fypo`: Fission Yeast Phenotype Ontology
-
-Identifiers for this prefix are given incorrectly in `fypo`. See the [GitHub repository](https://github.com/pombase/fypo).
-
-| external_xref   |   usages_count | usages                                                      |
-|-----------------|----------------|-------------------------------------------------------------|
-| `SO:1861`       |              1 | [FYPO:0003251](http://purl.obolibrary.org/obo/FYPO_0003251) |
 
 ## `geno`: Genotype Ontology
 

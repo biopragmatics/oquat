@@ -7,7 +7,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 ## `cellosaurus`: Cellosaurus
 
-Identifiers for this prefix are given incorrectly in `cellosaurus`.
+Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [GitHub repository](https://github.com/calipho-sib/cellosaurus).
 
 | external_xref     |   usages_count | usages                                                                        |
 |-------------------|----------------|-------------------------------------------------------------------------------|

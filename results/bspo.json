@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T00:12:51.362559",
+  "created": "2023-09-07T12:25:58.673029",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/bspo.json": {
@@ -481,8 +481,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2022-11-16",
-      "version_iri": "http://purl.obolibrary.org/obo/bspo/releases/2022-11-16/bspo.json",
+      "version": "2023-05-27",
+      "version_iri": "http://purl.obolibrary.org/obo/bspo/releases/2023-05-27/bspo.json",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

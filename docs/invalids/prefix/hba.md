@@ -2,8 +2,18 @@
 
 This page summarize the different resources that reference `hba`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 2 resources,
+`^\d+$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['HBA'].
+
+## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
+
+Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
+
+| external_xref   |   usages_count | usages                                                          |
+|-----------------|----------------|-----------------------------------------------------------------|
+| `HBA:DTL`       |              1 | [UBERON:0002736](http://purl.obolibrary.org/obo/UBERON_0002736) |
+| `HBA:MESWM`     |              1 | [UBERON:0016554](http://purl.obolibrary.org/obo/UBERON_0016554) |
+| `HBA:PLT`       |              1 | [UBERON:0022268](http://purl.obolibrary.org/obo/UBERON_0022268) |
 
 ## `nif`: None
 

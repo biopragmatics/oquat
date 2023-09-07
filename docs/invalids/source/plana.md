@@ -15,18 +15,6 @@ did not match the standard pattern `^[0-9]{10}$`.
 |-------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `ASIN:B000M4NK9M` |             18 | [PLANA:0000224](http://purl.obolibrary.org/obo/PLANA_0000224), [PLANA:0000224](http://purl.obolibrary.org/obo/PLANA_0000224), [PLANA:0000241](http://purl.obolibrary.org/obo/PLANA_0000241), [PLANA:0000241](http://purl.obolibrary.org/obo/PLANA_0000241), [PLANA:0000472](http://purl.obolibrary.org/obo/PLANA_0000472), ... |
 
-## `CALOHA`: CALIPHO Group Ontology of Human Anatomy
-
-Overall, there were 2 invalid
-xrefs to external prefixed with `CALOHA` (standardized to Bioregistry
-prefix [`caloha`](https://bioregistry.io/caloha)) that
-did not match the standard pattern `^TS-\d+$`.
-
-| external_xref    |   usages_count | usages                                                        |
-|------------------|----------------|---------------------------------------------------------------|
-| `CALOHA:TS-2403` |              1 | [PLANA:0000470](http://purl.obolibrary.org/obo/PLANA_0000470) |
-| `CALOHA:TS-2035` |              1 | [PLANA:0000499](http://purl.obolibrary.org/obo/PLANA_0000499) |
-
 ## `ncithesaurus`: NCI Thesaurus
 
 Overall, there were 1 invalid
@@ -64,15 +52,4 @@ did not match the standard pattern `^\d+$`.
 | `PMID: 29674432` |              1 | [PLANA:0003803](http://purl.obolibrary.org/obo/PLANA_0003803)                                                                |
 | `PMID: 29674433` |              1 | [PLANA:0003804](http://purl.obolibrary.org/obo/PLANA_0003804)                                                                |
 | `PMID: 22074376` |              1 | [PLANA:0002042](http://purl.obolibrary.org/obo/PLANA_0002042)                                                                |
-
-## `Wikipedia`: Wikipedia
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `Wikipedia` (standardized to Bioregistry
-prefix [`wikipedia.en`](https://bioregistry.io/wikipedia.en)) that
-did not match the standard pattern `^\S+$`.
-
-| external_xref                      |   usages_count | usages                                                        |
-|------------------------------------|----------------|---------------------------------------------------------------|
-| `Wikipedia:Regeneration:(biology)` |              1 | [PLANA:0000137](http://purl.obolibrary.org/obo/PLANA_0000137) |
 

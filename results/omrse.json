@@ -1,11 +1,9 @@
 {
-  "created": "2023-05-21T01:26:39.851273",
-  "messages": [
-    "could not parse JSON for omrse from http://purl.obolibrary.org/obo/omrse.json"
-  ],
+  "created": "2023-09-07T13:19:04.433199",
+  "messages": [],
   "results": {
-    "http://purl.obolibrary.org/obo/omrse.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/omrse.owl",
+    "http://purl.obolibrary.org/obo/omrse.json": {
+      "graph_id": "http://purl.obolibrary.org/obo/omrse.json",
       "prov_pack": {
         "invalid_luids": {},
         "label": "Provenance Xrefs",
@@ -21,7 +19,7 @@
         "unknown_prefixes": {}
       },
       "version": "2023-05-19",
-      "version_iri": "http://purl.obolibrary.org/obo/omrse/releases/2023-05-19/omrse.owl",
+      "version_iri": "http://purl.obolibrary.org/obo/omrse/releases/2023-05-19/omrse.json",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

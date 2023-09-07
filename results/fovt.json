@@ -1,8 +1,1899 @@
 {
-  "created": "2023-05-21T00:57:05.845074",
+  "created": "2023-09-07T12:46:23.423944",
   "messages": [
-    "could not parse OWL for fovt from http://purl.obolibrary.org/obo/fovt.owl",
-    "could not parse OBO for fovt from http://purl.obolibrary.org/obo/fovt.obo"
+    "[fovt] could not parse OWL from http://purl.obolibrary.org/obo/fovt.owl"
   ],
-  "results": {}
+  "results": {
+    "http://purl.obolibrary.org/obo/fovt.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/fovt.owl",
+      "prov_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/FOVT_0000006": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000008": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000009": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000017": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000018": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000020": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000021": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000022": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000023": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001004": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001005": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001006": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001007": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001008": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001009": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001021": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001024": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001026": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001027": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001029": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001030": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001031": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001032": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001033": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001034": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001035": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001036": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001037": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001038": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001040": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001043": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001045": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001046": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001047": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001048": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001065": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001066": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001067": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001068": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001069": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001070": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001071": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001072": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001074": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001076": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001078": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001080": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001081": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001123": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001125": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001126": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001127": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001128": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001129": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001130": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001131": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001132": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001154": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001155": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001156": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001157": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001158": [
+            "ORCID: 0000-0003-2699-3066"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001161": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001162": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001165": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001174": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001175": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001354": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001355": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001356": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001357": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001358": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001361": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001365": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001558": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001559": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001560": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001561": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001562": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001563": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001564": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001565": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001566": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001567": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001568": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001571": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001572": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001573": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001574": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001575": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001577": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001578": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001579": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001580": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001603": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001604": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001605": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001606": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001607": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001608": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001609": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001611": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001612": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001613": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001614": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001615": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001616": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001617": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001619": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001620": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001622": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001623": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001625": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001626": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001627": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001628": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001673": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001676": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001677": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001678": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001680": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001681": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001682": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001683": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001684": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001685": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001686": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001687": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001688": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001689": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001691": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001692": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001693": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001694": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001695": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001696": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001697": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001698": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001699": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001700": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001701": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001702": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001705": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001706": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001707": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001714": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001715": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001716": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001718": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001719": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001720": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001722": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001723": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001724": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001725": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001726": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001727": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001728": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001729": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001730": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001732": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001733": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001734": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001735": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001736": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001738": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001741": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001742": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001743": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001745": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001747": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001752": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001760": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001761": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001763": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001766": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001767": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001768": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001770": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001772": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001774": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001776": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001780": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001781": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001782": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001784": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001786": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001792": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001800": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001805": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001813": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001818": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001826": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001827": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001829": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001831": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001833": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001835": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001837": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001838": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001839": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001841": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001842": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001843": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001847": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001849": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001851": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001854": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001855": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001856": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001858": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001859": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001860": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001863": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001865": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001867": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001869": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001870": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001871": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001873": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001874": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001875": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001878": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001880": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001882": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001884": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001885": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001886": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001888": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001889": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001890": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002067": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002068": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002069": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002070": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002071": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002073": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002074": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002075": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002076": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002077": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002079": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002080": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002081": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002082": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002083": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002084": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002085": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002086": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002087": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002088": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002097": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002098": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002099": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002100": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002101": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002102": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002103": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002104": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002105": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002106": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002107": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002108": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002109": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002110": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002111": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002112": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002113": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002114": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002115": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002116": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002117": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002118": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002119": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002121": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002122": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002123": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002124": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002125": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002126": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002127": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002128": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002129": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002130": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002131": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002137": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002138": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002141": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002142": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002143": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002144": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002145": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002146": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002156": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002157": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002158": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002168": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002169": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000000": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000001": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000002": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000003": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000004": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000009": [
+            "ISBN: 9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000011": [
+            "ISBN: 9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000012": [
+            "ISBN: 9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000013": [
+            "ISBN: 9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000014": [
+            "ISBN: 9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000015": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000022": [
+            "ISBN: 9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000023": [
+            "ISBN: 9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000024": [
+            "ISBN: 9004086161, 9789004086166"
+          ]
+        },
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/FOVT_0000006": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000008": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000009": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000017": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000018": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000020": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000021": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000022": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0000023": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001004": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001005": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001006": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001007": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001008": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001009": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001021": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001024": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001026": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001027": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001029": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001030": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001031": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001032": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001033": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001034": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001035": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001036": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001037": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001038": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001040": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001043": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001045": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001046": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001047": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001048": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001065": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001067": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001068": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001069": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001070": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001071": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001072": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001074": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001076": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001078": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001080": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001081": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001123": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001125": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001126": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001127": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001128": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001129": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001130": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001131": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001132": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001154": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001155": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001156": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001157": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001161": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001162": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001354": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001355": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001356": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001357": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001358": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001361": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001365": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001558": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001559": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001560": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001561": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001562": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001563": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001564": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001565": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001566": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001567": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001568": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001571": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001572": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001574": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001575": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001577": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001578": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001579": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001580": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001603": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001604": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001605": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001606": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001607": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001608": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001609": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001610": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001611": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001612": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001613": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001614": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001615": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001616": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001617": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001619": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001620": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001622": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001623": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001625": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001626": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001627": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001628": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001673": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001676": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001677": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001678": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001680": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001681": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001682": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001683": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001684": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001685": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001686": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001687": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001688": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001689": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001691": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001692": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001693": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001694": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001695": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001696": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001697": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001698": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001699": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001700": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001701": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001702": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001705": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001706": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001707": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001714": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001715": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001716": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001718": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001719": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001720": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001722": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001723": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001724": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001725": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001726": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001727": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001728": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001729": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001730": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001732": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001733": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001734": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001735": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001736": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001738": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001741": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001742": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001743": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001745": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001747": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001752": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001760": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001761": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001763": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001766": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001767": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001768": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001770": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001772": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001774": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001776": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001780": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001781": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001782": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001784": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001786": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001792": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001800": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001805": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001813": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001818": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001826": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001827": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001829": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001831": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001832": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001833": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001835": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001837": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001838": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001839": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001841": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001842": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001843": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001847": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001849": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001851": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001854": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001855": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001856": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001858": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001859": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001860": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001863": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001865": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001867": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001869": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001870": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001871": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001873": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001874": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001875": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001878": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001880": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001882": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001884": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001885": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001886": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001888": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001889": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0001890": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002067": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002068": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002069": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002070": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002071": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002073": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002074": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002075": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002076": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002077": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002079": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002080": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002081": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002082": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002083": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002084": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002085": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002086": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002087": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002088": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002097": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002098": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002099": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002100": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002101": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002102": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002103": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002104": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002105": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002106": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002107": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002108": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002109": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002110": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002111": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002112": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002113": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002114": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002115": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002116": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002117": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002118": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002119": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002121": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002122": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002123": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002124": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002125": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002126": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002127": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002128": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002129": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002130": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002131": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002137": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002138": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002141": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002142": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002143": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002144": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002145": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002146": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002156": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002157": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002158": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002168": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_0002169": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000000": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000001": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000002": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000003": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000004": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000009": [
+            "ISBN: 9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000011": [
+            "ISBN: 9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000012": [
+            "ISBN: 9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000013": [
+            "ISBN: 9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000014": [
+            "ISBN: 9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000015": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000016": [
+            "ISBN:9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000022": [
+            "ISBN: 9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000023": [
+            "ISBN: 9004086161, 9789004086166"
+          ],
+          "http://purl.obolibrary.org/obo/FOVT_2000024": [
+            "ISBN: 9004086161, 9789004086166"
+          ]
+        },
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2023-05-31",
+      "version_iri": "http://purl.obolibrary.org/obo/fovt/releases/2023-05-31/fovt.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
+    }
+  }
 }

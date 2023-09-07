@@ -108,16 +108,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |-----------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ICRISAT:Vincent_Vadez |        3 | [TO:0020080](http://purl.obolibrary.org/obo/TO_0020080), [TO:0020081](http://purl.obolibrary.org/obo/TO_0020081), [TO:0020082](http://purl.obolibrary.org/obo/TO_0020082) |
 
-## `IIRRI`
-
-There are 1 usages of `IIRRI` in `to`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IIRRI).
-
-| curie     |   usages | nodes                                                   |
-|-----------|----------|---------------------------------------------------------|
-| IIRRI:SES |        1 | [TO:0000286](http://purl.obolibrary.org/obo/TO_0000286) |
-
 ## `ILRI`
 
 There are 1 usages of `ILRI` in `to`.
@@ -128,15 +118,15 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |----------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ILRI:Michael_Blummel |        3 | [TO:0020080](http://purl.obolibrary.org/obo/TO_0020080), [TO:0020081](http://purl.obolibrary.org/obo/TO_0020081), [TO:0020082](http://purl.obolibrary.org/obo/TO_0020082) |
 
-## `IRRI`
+## `IRiceSES`
 
-There are 1 usages of `IRRI` in `to`.
+There are 1 usages of `IRiceSES` in `to`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IRRI).
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IRiceSES).
 
-| curie    |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| IRRI:SES |      125 | [TO:0000003](http://purl.obolibrary.org/obo/TO_0000003), [TO:0000009](http://purl.obolibrary.org/obo/TO_0000009), [TO:0000013](http://purl.obolibrary.org/obo/TO_0000013), [TO:0000019](http://purl.obolibrary.org/obo/TO_0000019), [TO:0000023](http://purl.obolibrary.org/obo/TO_0000023), ... |
+| curie        |   usages | nodes                                                   |
+|--------------|----------|---------------------------------------------------------|
+| IRiceSES:SES |        1 | [TO:0000286](http://purl.obolibrary.org/obo/TO_0000286) |
 
 ## `IWIS`
 
@@ -162,6 +152,16 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |---------|----------|---------------------------------------------------------|
 | R:pj    |        1 | [TO:0000728](http://purl.obolibrary.org/obo/TO_0000728) |
 
+## `RiceSES`
+
+There are 1 usages of `RiceSES` in `to`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20RiceSES).
+
+| curie       |   usages | nodes                                                                                                                                                                                                                                                                                            |
+|-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| RiceSES:SES |      125 | [TO:0000003](http://purl.obolibrary.org/obo/TO_0000003), [TO:0000009](http://purl.obolibrary.org/obo/TO_0000009), [TO:0000013](http://purl.obolibrary.org/obo/TO_0000013), [TO:0000019](http://purl.obolibrary.org/obo/TO_0000019), [TO:0000023](http://purl.obolibrary.org/obo/TO_0000023), ... |
+
 ## `T-CAP`
 
 There are 1 usages of `T-CAP` in `to`.
@@ -172,9 +172,62 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |----------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | T-CAP:Victoria_Blake |       27 | [TO:0020051](http://purl.obolibrary.org/obo/TO_0020051), [TO:0020052](http://purl.obolibrary.org/obo/TO_0020052), [TO:0020053](http://purl.obolibrary.org/obo/TO_0020053), [TO:0020054](http://purl.obolibrary.org/obo/TO_0020054), [TO:0020055](http://purl.obolibrary.org/obo/TO_0020055), ... |
 
+## `group`
+
+There are 1 usages of `group` in `to`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20group).
+
+| curie                     |   usages | nodes                                                                                                                                                                     |
+|---------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| group:Crop_Ontology_Group |        3 | [TO:0012010](http://purl.obolibrary.org/obo/TO_0012010), [TO:0012011](http://purl.obolibrary.org/obo/TO_0012011), [TO:0012012](http://purl.obolibrary.org/obo/TO_0012012) |
+
+## `MaizeGDB_QTL`
+
+There are 13 usages of `MaizeGDB_QTL` in `to`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MaizeGDB_QTL).
+
+| curie               |   usages | nodes                                                                                                            |
+|---------------------|----------|------------------------------------------------------------------------------------------------------------------|
+| MaizeGDB_QTL:99383  |        2 | [TO:0000687](http://purl.obolibrary.org/obo/TO_0000687), [TO:0000937](http://purl.obolibrary.org/obo/TO_0000937) |
+| MaizeGDB_QTL:61715  |        1 | [TO:0000135](http://purl.obolibrary.org/obo/TO_0000135)                                                          |
+| MaizeGDB_QTL:61714  |        1 | [TO:0000370](http://purl.obolibrary.org/obo/TO_0000370)                                                          |
+| MaizeGDB_QTL:78112  |        1 | [TO:0000431](http://purl.obolibrary.org/obo/TO_0000431)                                                          |
+| MaizeGDB_QTL:78113  |        1 | [TO:0000433](http://purl.obolibrary.org/obo/TO_0000433)                                                          |
+| MaizeGDB_QTL:62044  |        1 | [TO:0000463](http://purl.obolibrary.org/obo/TO_0000463)                                                          |
+| MaizeGDB_QTL:247869 |        1 | [TO:0000562](http://purl.obolibrary.org/obo/TO_0000562)                                                          |
+| MaizeGDB_QTL:82753  |        1 | [TO:0000678](http://purl.obolibrary.org/obo/TO_0000678)                                                          |
+| MaizeGDB_QTL:61369  |        1 | [TO:0000683](http://purl.obolibrary.org/obo/TO_0000683)                                                          |
+| MaizeGDB_QTL:65408  |        1 | [TO:0000923](http://purl.obolibrary.org/obo/TO_0000923)                                                          |
+| MaizeGDB_QTL:64797  |        1 | [TO:0000934](http://purl.obolibrary.org/obo/TO_0000934)                                                          |
+| MaizeGDB_QTL:78114  |        1 | [TO:0000938](http://purl.obolibrary.org/obo/TO_0000938)                                                          |
+| MaizeGDB_QTL:65770  |        1 | [TO:0000941](http://purl.obolibrary.org/obo/TO_0000941)                                                          |
+
+## `SOY`
+
+There are 2 usages of `SOY` in `to`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SOY).
+
+| curie       |   usages | nodes                                                   |
+|-------------|----------|---------------------------------------------------------|
+| SOY:0001342 |        1 | [TO:0000108](http://purl.obolibrary.org/obo/TO_0000108) |
+| SOY:0001341 |        1 | [TO:0000930](http://purl.obolibrary.org/obo/TO_0000930) |
+
+## `TO-GIT`
+
+There are 1 usages of `TO-GIT` in `to`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TO-GIT).
+
+| curie      |   usages | nodes                                                   |
+|------------|----------|---------------------------------------------------------|
+| TO-GIT:412 |        1 | [TO:0001124](http://purl.obolibrary.org/obo/TO_0001124) |
+
 ## `TO_GIT`
 
-There are 151 usages of `TO_GIT` in `to`.
+There are 170 usages of `TO_GIT` in `to`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20TO_GIT).
 
@@ -186,6 +239,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | TO_GIT:412 |       55 | [TO:0000995](http://purl.obolibrary.org/obo/TO_0000995), [TO:0001043](http://purl.obolibrary.org/obo/TO_0001043), [TO:0001044](http://purl.obolibrary.org/obo/TO_0001044), [TO:0001045](http://purl.obolibrary.org/obo/TO_0001045), [TO:0001046](http://purl.obolibrary.org/obo/TO_0001046), ... |
 | TO_GIT:91  |       16 | [TO:0000789](http://purl.obolibrary.org/obo/TO_0000789), [TO:0000790](http://purl.obolibrary.org/obo/TO_0000790), [TO:0000791](http://purl.obolibrary.org/obo/TO_0000791), [TO:0000792](http://purl.obolibrary.org/obo/TO_0000792), [TO:0000793](http://purl.obolibrary.org/obo/TO_0000793), ... |
 | TO_GIT:97  |       15 | [TO:0000268](http://purl.obolibrary.org/obo/TO_0000268), [TO:0000373](http://purl.obolibrary.org/obo/TO_0000373), [TO:0000581](http://purl.obolibrary.org/obo/TO_0000581), [TO:0000582](http://purl.obolibrary.org/obo/TO_0000582), [TO:0000800](http://purl.obolibrary.org/obo/TO_0000800), ... |
+| TO_GIT:437 |       15 | [TO:0001077](http://purl.obolibrary.org/obo/TO_0001077), [TO:0001078](http://purl.obolibrary.org/obo/TO_0001078), [TO:0001079](http://purl.obolibrary.org/obo/TO_0001079), [TO:0001080](http://purl.obolibrary.org/obo/TO_0001080), [TO:0001081](http://purl.obolibrary.org/obo/TO_0001081), ... |
 | TO_GIT:133 |       12 | [TO:0000098](http://purl.obolibrary.org/obo/TO_0000098), [TO:0000099](http://purl.obolibrary.org/obo/TO_0000099), [TO:0000100](http://purl.obolibrary.org/obo/TO_0000100), [TO:0000104](http://purl.obolibrary.org/obo/TO_0000104), [TO:0000105](http://purl.obolibrary.org/obo/TO_0000105), ... |
 | TO_GIT:105 |       12 | [TO:0000274](http://purl.obolibrary.org/obo/TO_0000274), [TO:0000536](http://purl.obolibrary.org/obo/TO_0000536), [TO:0000853](http://purl.obolibrary.org/obo/TO_0000853), [TO:0000854](http://purl.obolibrary.org/obo/TO_0000854), [TO:0000855](http://purl.obolibrary.org/obo/TO_0000855), ... |
 | TO_GIT:89  |       10 | [TO:0000785](http://purl.obolibrary.org/obo/TO_0000785), [TO:0000788](http://purl.obolibrary.org/obo/TO_0000788), [TO:0000795](http://purl.obolibrary.org/obo/TO_0000795), [TO:0000796](http://purl.obolibrary.org/obo/TO_0000796), [TO:0000797](http://purl.obolibrary.org/obo/TO_0000797), ... |
@@ -202,6 +256,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | TO_GIT:88  |        5 | [TO:0000546](http://purl.obolibrary.org/obo/TO_0000546), [TO:0000649](http://purl.obolibrary.org/obo/TO_0000649), [TO:0000776](http://purl.obolibrary.org/obo/TO_0000776), [TO:0000777](http://purl.obolibrary.org/obo/TO_0000777), [TO:0002691](http://purl.obolibrary.org/obo/TO_0002691), ... |
 | TO_GIT:110 |        5 | [TO:0000816](http://purl.obolibrary.org/obo/TO_0000816), [TO:0000817](http://purl.obolibrary.org/obo/TO_0000817), [TO:0000818](http://purl.obolibrary.org/obo/TO_0000818), [TO:0000819](http://purl.obolibrary.org/obo/TO_0000819), [TO:0020120](http://purl.obolibrary.org/obo/TO_0020120), ... |
 | TO_GIT:419 |        5 | [TO:0001061](http://purl.obolibrary.org/obo/TO_0001061), [TO:0001062](http://purl.obolibrary.org/obo/TO_0001062), [TO:0001063](http://purl.obolibrary.org/obo/TO_0001063), [TO:0001064](http://purl.obolibrary.org/obo/TO_0001064), [TO:0001065](http://purl.obolibrary.org/obo/TO_0001065), ... |
+| TO_GIT:503 |        5 | [TO:0001126](http://purl.obolibrary.org/obo/TO_0001126), [TO:0001127](http://purl.obolibrary.org/obo/TO_0001127), [TO:0001128](http://purl.obolibrary.org/obo/TO_0001128), [TO:0001129](http://purl.obolibrary.org/obo/TO_0001129), [TO:0001130](http://purl.obolibrary.org/obo/TO_0001130), ... |
 | TO_GIT:57  |        4 | [TO:0000077](http://purl.obolibrary.org/obo/TO_0000077), [TO:0000499](http://purl.obolibrary.org/obo/TO_0000499), [TO:0000786](http://purl.obolibrary.org/obo/TO_0000786), [TO:0000953](http://purl.obolibrary.org/obo/TO_0000953)                                                               |
 | TO_GIT:385 |        4 | [TO:0000187](http://purl.obolibrary.org/obo/TO_0000187), [TO:0000214](http://purl.obolibrary.org/obo/TO_0000214), [TO:0000531](http://purl.obolibrary.org/obo/TO_0000531), [TO:1000022](http://purl.obolibrary.org/obo/TO_1000022)                                                               |
 | TO_GIT:157 |        4 | [TO:0000361](http://purl.obolibrary.org/obo/TO_0000361), [TO:0000576](http://purl.obolibrary.org/obo/TO_0000576), [TO:0000892](http://purl.obolibrary.org/obo/TO_0000892), [TO:0000952](http://purl.obolibrary.org/obo/TO_0000952)                                                               |
@@ -232,6 +287,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | TO_GIT:179 |        3 | [TO:0000895](http://purl.obolibrary.org/obo/TO_0000895), [TO:0000896](http://purl.obolibrary.org/obo/TO_0000896), [TO:0000897](http://purl.obolibrary.org/obo/TO_0000897)                                                                                                                        |
 | TO_GIT:181 |        3 | [TO:0000898](http://purl.obolibrary.org/obo/TO_0000898), [TO:0000899](http://purl.obolibrary.org/obo/TO_0000899), [TO:0000900](http://purl.obolibrary.org/obo/TO_0000900)                                                                                                                        |
 | TO_GIT:332 |        3 | [TO:0000988](http://purl.obolibrary.org/obo/TO_0000988), [TO:0000989](http://purl.obolibrary.org/obo/TO_0000989), [TO:0000991](http://purl.obolibrary.org/obo/TO_0000991)                                                                                                                        |
+| TO_GIT:216 |        3 | [TO:0001114](http://purl.obolibrary.org/obo/TO_0001114), [TO:0001115](http://purl.obolibrary.org/obo/TO_0001115), [TO:0001118](http://purl.obolibrary.org/obo/TO_0001118)                                                                                                                        |
+| TO_GIT:140 |        2 | [TO:0000064](http://purl.obolibrary.org/obo/TO_0000064), [TO:0000193](http://purl.obolibrary.org/obo/TO_0000193)                                                                                                                                                                                 |
 | TO_GIT:69  |        2 | [TO:0000074](http://purl.obolibrary.org/obo/TO_0000074), [TO:0020015](http://purl.obolibrary.org/obo/TO_0020015)                                                                                                                                                                                 |
 | TO_GIT:247 |        2 | [TO:0000135](http://purl.obolibrary.org/obo/TO_0000135), [TO:0000370](http://purl.obolibrary.org/obo/TO_0000370)                                                                                                                                                                                 |
 | TO_GIT:209 |        2 | [TO:0000162](http://purl.obolibrary.org/obo/TO_0000162), [TO:0000931](http://purl.obolibrary.org/obo/TO_0000931)                                                                                                                                                                                 |
@@ -251,9 +308,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | TO_GIT:81  |        2 | [TO:0000967](http://purl.obolibrary.org/obo/TO_0000967), [TO:0000968](http://purl.obolibrary.org/obo/TO_0000968)                                                                                                                                                                                 |
 | TO_GIT:356 |        2 | [TO:0000986](http://purl.obolibrary.org/obo/TO_0000986), [TO:0000987](http://purl.obolibrary.org/obo/TO_0000987)                                                                                                                                                                                 |
 | TO_GIT:430 |        2 | [TO:0001073](http://purl.obolibrary.org/obo/TO_0001073), [TO:0001074](http://purl.obolibrary.org/obo/TO_0001074)                                                                                                                                                                                 |
+| TO_GIT:83  |        2 | [TO:0001113](http://purl.obolibrary.org/obo/TO_0001113), [TO:0001116](http://purl.obolibrary.org/obo/TO_0001116)                                                                                                                                                                                 |
+| TO_GIT:231 |        2 | [TO:0001120](http://purl.obolibrary.org/obo/TO_0001120), [TO:0001122](http://purl.obolibrary.org/obo/TO_0001122)                                                                                                                                                                                 |
 | TO_GIT:54  |        1 | [TO:0000017](http://purl.obolibrary.org/obo/TO_0000017)                                                                                                                                                                                                                                          |
 | TO_GIT:58  |        1 | [TO:0000043](http://purl.obolibrary.org/obo/TO_0000043)                                                                                                                                                                                                                                          |
-| TO_GIT:140 |        1 | [TO:0000064](http://purl.obolibrary.org/obo/TO_0000064)                                                                                                                                                                                                                                          |
+| TO_GIT:357 |        1 | [TO:0000084](http://purl.obolibrary.org/obo/TO_0000084)                                                                                                                                                                                                                                          |
 | TO_GIT:195 |        1 | [TO:0000146](http://purl.obolibrary.org/obo/TO_0000146)                                                                                                                                                                                                                                          |
 | TO_GIT:194 |        1 | [TO:0000149](http://purl.obolibrary.org/obo/TO_0000149)                                                                                                                                                                                                                                          |
 | TO_GIT:196 |        1 | [TO:0000181](http://purl.obolibrary.org/obo/TO_0000181)                                                                                                                                                                                                                                          |
@@ -325,10 +384,23 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | TO_GIT:407 |        1 | [TO:0001072](http://purl.obolibrary.org/obo/TO_0001072)                                                                                                                                                                                                                                          |
 | TO_GIT:429 |        1 | [TO:0001075](http://purl.obolibrary.org/obo/TO_0001075)                                                                                                                                                                                                                                          |
 | TO_GIT:461 |        1 | [TO:0001111](http://purl.obolibrary.org/obo/TO_0001111)                                                                                                                                                                                                                                          |
+| TO_GIT:411 |        1 | [TO:0001119](http://purl.obolibrary.org/obo/TO_0001119)                                                                                                                                                                                                                                          |
+| TO_GIT:215 |        1 | [TO:0001121](http://purl.obolibrary.org/obo/TO_0001121)                                                                                                                                                                                                                                          |
+| TO_GIT:491 |        1 | [TO:0001123](http://purl.obolibrary.org/obo/TO_0001123)                                                                                                                                                                                                                                          |
+| TO_GIT:77  |        1 | [TO:0001125](http://purl.obolibrary.org/obo/TO_0001125)                                                                                                                                                                                                                                          |
+| TO_GIT:498 |        1 | [TO:0001131](http://purl.obolibrary.org/obo/TO_0001131)                                                                                                                                                                                                                                          |
+| TO_GIT:497 |        1 | [TO:0001132](http://purl.obolibrary.org/obo/TO_0001132)                                                                                                                                                                                                                                          |
+| TO_GIT:499 |        1 | [TO:0001133](http://purl.obolibrary.org/obo/TO_0001133)                                                                                                                                                                                                                                          |
+| TO_GIT:501 |        1 | [TO:0001134](http://purl.obolibrary.org/obo/TO_0001134)                                                                                                                                                                                                                                          |
+| TO_GIT:500 |        1 | [TO:0001135](http://purl.obolibrary.org/obo/TO_0001135)                                                                                                                                                                                                                                          |
+| TO_GIT:278 |        1 | [TO:0001136](http://purl.obolibrary.org/obo/TO_0001136)                                                                                                                                                                                                                                          |
+| TO_GIT:495 |        1 | [TO:0001142](http://purl.obolibrary.org/obo/TO_0001142)                                                                                                                                                                                                                                          |
 | TO_GIT:267 |        1 | [TO:0002616](http://purl.obolibrary.org/obo/TO_0002616)                                                                                                                                                                                                                                          |
 | TO_GIT:256 |        1 | [TO:0002633](http://purl.obolibrary.org/obo/TO_0002633)                                                                                                                                                                                                                                          |
+| TO_GIT:211 |        1 | [TO:0002636](http://purl.obolibrary.org/obo/TO_0002636)                                                                                                                                                                                                                                          |
 | TO_GIT:307 |        1 | [TO:0002683](http://purl.obolibrary.org/obo/TO_0002683)                                                                                                                                                                                                                                          |
 | TO_GIT:263 |        1 | [TO:0002728](http://purl.obolibrary.org/obo/TO_0002728)                                                                                                                                                                                                                                          |
+| TO_GIT:489 |        1 | [TO:0007000](http://purl.obolibrary.org/obo/TO_0007000)                                                                                                                                                                                                                                          |
 | TO_GIT:113 |        1 | [TO:0011009](http://purl.obolibrary.org/obo/TO_0011009)                                                                                                                                                                                                                                          |
 | TO_GIT:275 |        1 | [TO:0012002](http://purl.obolibrary.org/obo/TO_0012002)                                                                                                                                                                                                                                          |
 | TO_GIT:213 |        1 | [TO:0020016](http://purl.obolibrary.org/obo/TO_0020016)                                                                                                                                                                                                                                          |
@@ -336,47 +408,4 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | TO_GIT:100 |        1 | [TO:0020088](http://purl.obolibrary.org/obo/TO_0020088)                                                                                                                                                                                                                                          |
 
 </details>
-
-## `group`
-
-There are 1 usages of `group` in `to`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20group).
-
-| curie                     |   usages | nodes                                                                                                                                                                     |
-|---------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| group:Crop_Ontology_Group |        3 | [TO:0012010](http://purl.obolibrary.org/obo/TO_0012010), [TO:0012011](http://purl.obolibrary.org/obo/TO_0012011), [TO:0012012](http://purl.obolibrary.org/obo/TO_0012012) |
-
-## `MaizeGDB_QTL`
-
-There are 13 usages of `MaizeGDB_QTL` in `to`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20MaizeGDB_QTL).
-
-| curie               |   usages | nodes                                                                                                            |
-|---------------------|----------|------------------------------------------------------------------------------------------------------------------|
-| MaizeGDB_QTL:99383  |        2 | [TO:0000687](http://purl.obolibrary.org/obo/TO_0000687), [TO:0000937](http://purl.obolibrary.org/obo/TO_0000937) |
-| MaizeGDB_QTL:61715  |        1 | [TO:0000135](http://purl.obolibrary.org/obo/TO_0000135)                                                          |
-| MaizeGDB_QTL:61714  |        1 | [TO:0000370](http://purl.obolibrary.org/obo/TO_0000370)                                                          |
-| MaizeGDB_QTL:78112  |        1 | [TO:0000431](http://purl.obolibrary.org/obo/TO_0000431)                                                          |
-| MaizeGDB_QTL:78113  |        1 | [TO:0000433](http://purl.obolibrary.org/obo/TO_0000433)                                                          |
-| MaizeGDB_QTL:62044  |        1 | [TO:0000463](http://purl.obolibrary.org/obo/TO_0000463)                                                          |
-| MaizeGDB_QTL:247869 |        1 | [TO:0000562](http://purl.obolibrary.org/obo/TO_0000562)                                                          |
-| MaizeGDB_QTL:82753  |        1 | [TO:0000678](http://purl.obolibrary.org/obo/TO_0000678)                                                          |
-| MaizeGDB_QTL:61369  |        1 | [TO:0000683](http://purl.obolibrary.org/obo/TO_0000683)                                                          |
-| MaizeGDB_QTL:65408  |        1 | [TO:0000923](http://purl.obolibrary.org/obo/TO_0000923)                                                          |
-| MaizeGDB_QTL:64797  |        1 | [TO:0000934](http://purl.obolibrary.org/obo/TO_0000934)                                                          |
-| MaizeGDB_QTL:78114  |        1 | [TO:0000938](http://purl.obolibrary.org/obo/TO_0000938)                                                          |
-| MaizeGDB_QTL:65770  |        1 | [TO:0000941](http://purl.obolibrary.org/obo/TO_0000941)                                                          |
-
-## `SOY`
-
-There are 2 usages of `SOY` in `to`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SOY).
-
-| curie       |   usages | nodes                                                   |
-|-------------|----------|---------------------------------------------------------|
-| SOY:0001342 |        1 | [TO:0000108](http://purl.obolibrary.org/obo/TO_0000108) |
-| SOY:0001341 |        1 | [TO:0000930](http://purl.obolibrary.org/obo/TO_0000930) |
 

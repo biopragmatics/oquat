@@ -2,8 +2,8 @@
 
 This page summarize the different resources that reference `drugbank`
 but use local unique identifiers that do not match the standard pattern of
-`^DB\d{5}$`. Of the 3 resources,
-4 variants on the standard prefix were found: ['DRUGBANK', 'DrugBank', 'Drugbank', 'drugbank'].
+`^DB\d{5}$`. Of the 2 resources,
+1 variants on the standard prefix were found: ['DrugBank'].
 
 ## `chebi`: Chemical Entities of Biological Interest
 
@@ -78,24 +78,4 @@ Identifiers for this prefix are given incorrectly in `nif`.
 | `DrugBank:DBSALT000889` |              1 | [CHEBI:5556](http://purl.obolibrary.org/obo/CHEBI_5556)   |
 | `DrugBank:DBSALT003069` |              1 | [CHEBI:91243](http://purl.obolibrary.org/obo/CHEBI_91243) |
 | `DrugBank:DBSALT001257` |              1 | [CHEBI:9925](http://purl.obolibrary.org/obo/CHEBI_9925)   |
-
-## `xco`: Experimental condition ontology
-
-Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
-
-| external_xref                                             |   usages_count | usages                                                    |
-|-----------------------------------------------------------|----------------|-----------------------------------------------------------|
-| `DrugBank:https://www.drugbank.ca/drugs/DB00997`          |              1 | [XCO:0000539](http://purl.obolibrary.org/obo/XCO_0000539) |
-| `DrugBank:https://www.drugbank.ca/drugs/DB00178`          |              1 | [XCO:0000548](http://purl.obolibrary.org/obo/XCO_0000548) |
-| `DrugBank:https://www.drugbank.ca/drugs/DB00206`          |              1 | [XCO:0000550](http://purl.obolibrary.org/obo/XCO_0000550) |
-| `DrugBank:https://www.drugbank.ca/drugs/DB01275`          |              1 | [XCO:0000551](http://purl.obolibrary.org/obo/XCO_0000551) |
-| `DrugBank:https://www.drugbank.ca/drugs/DB00999`          |              1 | [XCO:0000552](http://purl.obolibrary.org/obo/XCO_0000552) |
-| `Drugbank:https://www.drugbank.ca/drugs/DB01296`          |              1 | [XCO:0000557](http://purl.obolibrary.org/obo/XCO_0000557) |
-| `Drugbank:https://www.drugbank.ca/drugs/DB00790`          |              1 | [XCO:0000588](http://purl.obolibrary.org/obo/XCO_0000588) |
-| `Drugbank:https://www.drugbank.ca/drugs/DB01094`          |              1 | [XCO:0000603](http://purl.obolibrary.org/obo/XCO_0000603) |
-| `Drugbank:https://www.drugbank.ca/drugs/DB06692`          |              1 | [XCO:0000604](http://purl.obolibrary.org/obo/XCO_0000604) |
-| `Drugbank:https://www.drugbank.ca/categories/DBCAT000600` |              1 | [XCO:0000618](http://purl.obolibrary.org/obo/XCO_0000618) |
-| `DRUGBANK:https://www.drugbank.ca/drugs/DB00421`          |              1 | [XCO:0000627](http://purl.obolibrary.org/obo/XCO_0000627) |
-| `DRUGBANK:https://www.drugbank.ca/drugs/DB00572`          |              1 | [XCO:0000631](http://purl.obolibrary.org/obo/XCO_0000631) |
-| `drugbank:https://www.drugbank.ca/drugs/DB04883`          |              1 | [XCO:0000647](http://purl.obolibrary.org/obo/XCO_0000647) |
 

@@ -1,5 +1,5 @@
 {
-  "created": "2023-05-21T01:15:47.200896",
+  "created": "2023-09-07T13:06:11.726722",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/mi.owl": {
@@ -55,7 +55,11 @@
           ]
         },
         "label": "Node Xrefs",
-        "malformed_curies": {},
+        "malformed_curies": {
+          "http://purl.obolibrary.org/obo/MI_2423": [
+            "reference to the gene producing this interactor."
+          ]
+        },
         "noncanonical_prefixes": {},
         "unknown_prefixes": {
           "id-validation-regex": {

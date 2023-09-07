@@ -1,5 +1,5 @@
 {
-  "created": "2023-02-13T18:55:57.595447",
+  "created": "2023-09-07T13:03:54.435200",
   "messages": [],
   "results": {
     "https://identifiers.org/ito:ontology": {
@@ -278,30 +278,30 @@
         "unknown_prefixes": {
           "Moby": {
             "http://edamontology.org/data_0870": "Moby:phylogenetic_distance_matrix",
-            "http://edamontology.org/data_0872": "Moby:Tree",
+            "http://edamontology.org/data_0872": "Moby:phylogenetic_tree",
             "http://edamontology.org/data_0880": "Moby:RNAStructML",
             "http://edamontology.org/data_0881": "Moby:RNAStructAlignmentML",
-            "http://edamontology.org/data_0916": "Moby:GeneInfo",
-            "http://edamontology.org/data_0968": "Moby:QueryString",
-            "http://edamontology.org/data_0970": "Moby:GCP_SimpleCitation",
+            "http://edamontology.org/data_0916": "Moby:gene",
+            "http://edamontology.org/data_0968": "Moby:Wildcard_Query",
+            "http://edamontology.org/data_0970": "Moby:Publication",
             "http://edamontology.org/data_1011": "Moby:EC_Number",
             "http://edamontology.org/data_1025": "Moby:GeneAccessionList",
-            "http://edamontology.org/data_1052": "Moby:Link",
+            "http://edamontology.org/data_1052": "Moby:URL",
             "http://edamontology.org/data_1278": "Moby:GeneticMap",
             "http://edamontology.org/data_1691": "Moby:EmailAddress",
             "http://edamontology.org/data_1863": "Moby:Haplotyping_Study_obj",
             "http://edamontology.org/data_1868": "Moby:PotentialTaxon",
-            "http://edamontology.org/data_1872": "Moby:TaxonName",
+            "http://edamontology.org/data_1872": "Moby:iANT_organism-xml",
             "http://edamontology.org/data_1881": "Moby:Author",
             "http://edamontology.org/data_1883": "Moby:DescribedLink",
             "http://edamontology.org/data_1908": "Moby:Tropgene_locus",
-            "http://edamontology.org/data_2012": "Moby:GenePosition",
+            "http://edamontology.org/data_2012": "Moby:Position",
             "http://edamontology.org/data_2727": "Moby:GeneAccessionList",
-            "http://edamontology.org/data_2909": "Moby:InfraspecificEpithet"
+            "http://edamontology.org/data_2909": "Moby:OrganismsShortName"
           },
           "Moby_namespace": {
             "http://edamontology.org/data_0916": "Moby_namespace:Human_Readable_Description",
-            "http://edamontology.org/data_1026": "Moby_namespace:Global_GeneCommonName",
+            "http://edamontology.org/data_1026": "Moby_namespace:Global_GeneSymbol",
             "http://edamontology.org/data_1035": "Moby_namespace:GeneDB",
             "http://edamontology.org/data_1873": "Moby_namespace:iHOPorganism",
             "http://edamontology.org/data_1885": "Moby_namespace:GENEFARM_GeneID",
@@ -330,18 +330,18 @@
             "http://edamontology.org/data_1008": "WHATIF: chain",
             "http://edamontology.org/data_1016": "WHATIF: number",
             "http://edamontology.org/data_1742": "WHATIF: pdb_number",
-            "http://edamontology.org/data_1748": "WHATIF: alternate_atom",
+            "http://edamontology.org/data_1748": "WHATIF: atom_type",
             "http://edamontology.org/data_1758": "WHATIF: type",
             "http://edamontology.org/data_1759": "WHATIF: model_number",
             "http://edamontology.org/data_1856": "WHATIF: insertion_code",
             "http://edamontology.org/data_1857": "WHATIF: PDBx_occupancy",
             "http://edamontology.org/data_1858": "WHATIF: PDBx_B_iso_or_equiv",
             "http://edamontology.org/operation_0248": "WHATIF:ListSideChainContactsRelaxed",
-            "http://edamontology.org/operation_0249": "WHATIF:ResidueTorsionsBB",
-            "http://edamontology.org/operation_0321": "WHATIF: CorrectedPDBasXML",
+            "http://edamontology.org/operation_0249": "WHATIF:ShowTauAngle",
+            "http://edamontology.org/operation_0321": "WHATIF: UseResidueDB",
             "http://edamontology.org/operation_0322": "WHATIF: CorrectedPDBasXML",
             "http://edamontology.org/operation_0384": "WHATIF:AtomAccessibilitySolventPlus",
-            "http://edamontology.org/operation_0387": "WHATIF:ResidueAccessibilityMolecular",
+            "http://edamontology.org/operation_0387": "WHATIF:TotAccessibilitySolvent",
             "http://edamontology.org/operation_0394": "WHATIF:ShowHydrogenBondsM",
             "http://edamontology.org/operation_1812": "WHATIF:UploadPDB",
             "http://edamontology.org/operation_1816": "WHATIF:GetSurfaceDots",
@@ -349,10 +349,10 @@
             "http://edamontology.org/operation_1830": "WHATIF:ShowCysteineFree",
             "http://edamontology.org/operation_1831": "WHATIF:ShowCysteineMetal",
             "http://edamontology.org/operation_1836": "WHATIF:ShowBumps",
-            "http://edamontology.org/operation_1839": "WHATIF:ShowSaltBridges",
+            "http://edamontology.org/operation_1839": "WHATIF:ShowSaltBridgesH",
             "http://edamontology.org/operation_1843": "WHATIF: PackingQuality",
-            "http://edamontology.org/operation_1844": "WHATIF: ImproperQualityMax",
-            "http://edamontology.org/operation_2950": "WHATIF:HasNegativeIonContactsPlus"
+            "http://edamontology.org/operation_1844": "WHATIF: ImproperQualitySum",
+            "http://edamontology.org/operation_2950": "WHATIF:ShowProteiNucleicContacts"
           }
         }
       }

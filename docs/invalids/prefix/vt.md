@@ -7,7 +7,7 @@ but use local unique identifiers that do not match the standard pattern of
 
 ## `ito`: Intelligence Task Ontology
 
-Identifiers for this prefix are given incorrectly in `ito`.
+Identifiers for this prefix are given incorrectly in `ito`. See the [GitHub repository](https://github.com/OpenBioLink/ITO).
 
 | external_xref        |   usages_count | usages                                                                   |
 |----------------------|----------------|--------------------------------------------------------------------------|

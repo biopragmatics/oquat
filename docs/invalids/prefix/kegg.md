@@ -61,28 +61,10 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | external_xref   |   usages_count | usages                                                      |
 |-----------------|----------------|-------------------------------------------------------------|
 | `KEGG:G-5400`   |              1 | [CHEBI:166731](http://purl.obolibrary.org/obo/CHEBI_166731) |
-| `KEGG:C-1079`   |              1 | [CHEBI:169879](http://purl.obolibrary.org/obo/CHEBI_169879) |
 | `KEGG:G-1029`   |              1 | [CHEBI:172478](http://purl.obolibrary.org/obo/CHEBI_172478) |
-| `KEGG:C-1041`   |              1 | [CHEBI:173370](http://purl.obolibrary.org/obo/CHEBI_173370) |
-| `KEGG:C-5141`   |              1 | [CHEBI:173371](http://purl.obolibrary.org/obo/CHEBI_173371) |
-| `KEGG:C-4561`   |              1 | [CHEBI:176440](http://purl.obolibrary.org/obo/CHEBI_176440) |
-| `KEGG:C-4569`   |              1 | [CHEBI:176967](http://purl.obolibrary.org/obo/CHEBI_176967) |
-| `KEGG:C-8853`   |              1 | [CHEBI:177030](http://purl.obolibrary.org/obo/CHEBI_177030) |
-| `KEGG:C-8875`   |              1 | [CHEBI:177494](http://purl.obolibrary.org/obo/CHEBI_177494) |
 | `KEGG:G-7333`   |              1 | [CHEBI:177667](http://purl.obolibrary.org/obo/CHEBI_177667) |
 | `KEGG:C-8514`   |              1 | [CHEBI:177923](http://purl.obolibrary.org/obo/CHEBI_177923) |
-| `KEGG:C-1689`   |              1 | [CHEBI:179151](http://purl.obolibrary.org/obo/CHEBI_179151) |
-| `KEGG:C-5011`   |              1 | [CHEBI:179249](http://purl.obolibrary.org/obo/CHEBI_179249) |
-| `KEGG:C-5116`   |              1 | [CHEBI:179946](http://purl.obolibrary.org/obo/CHEBI_179946) |
-| `KEGG:C-6045`   |              1 | [CHEBI:180552](http://purl.obolibrary.org/obo/CHEBI_180552) |
-| `KEGG:C-1031`   |              1 | [CHEBI:180996](http://purl.obolibrary.org/obo/CHEBI_180996) |
 | `KEGG:G-5300`   |              1 | [CHEBI:181014](http://purl.obolibrary.org/obo/CHEBI_181014) |
-| `KEGG:C-1160`   |              1 | [CHEBI:181462](http://purl.obolibrary.org/obo/CHEBI_181462) |
-| `KEGG:C-4179`   |              1 | [CHEBI:182011](http://purl.obolibrary.org/obo/CHEBI_182011) |
-| `KEGG:C-5733`   |              1 | [CHEBI:183289](http://purl.obolibrary.org/obo/CHEBI_183289) |
-| `KEGG:C-8660`   |              1 | [CHEBI:189210](http://purl.obolibrary.org/obo/CHEBI_189210) |
-| `KEGG:C-9227`   |              1 | [CHEBI:191088](http://purl.obolibrary.org/obo/CHEBI_191088) |
-| `KEGG:C-5242`   |              1 | [CHEBI:194669](http://purl.obolibrary.org/obo/CHEBI_194669) |
 
 ## `covoc`: CoVoc Coronavirus Vocabulary
 
@@ -141,21 +123,11 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 |-----------------|----------------|-----------------------------------------------------|
 | `KEGG:05221`    |              1 | [EFO:0000222](http://www.ebi.ac.uk/efo/EFO_0000222) |
 | `KEGG:05220`    |              1 | [EFO:0000339](http://www.ebi.ac.uk/efo/EFO_0000339) |
-| `KEGG:05414`    |              1 | [EFO:0000407](http://www.ebi.ac.uk/efo/EFO_0000407) |
-| `KEGG:05410`    |              1 | [EFO:0000538](http://www.ebi.ac.uk/efo/EFO_0000538) |
-| `KEGG:05133`    |              1 | [EFO:0000650](http://www.ebi.ac.uk/efo/EFO_0000650) |
-| `KEGG:05323`    |              1 | [EFO:0000685](http://www.ebi.ac.uk/efo/EFO_0000685) |
 | `KEGG:05222`    |              1 | [EFO:0000702](http://www.ebi.ac.uk/efo/EFO_0000702) |
 | `KEGG:05218`    |              1 | [EFO:0000756](http://www.ebi.ac.uk/efo/EFO_0000756) |
 | `KEGG:05215`    |              1 | [EFO:0001663](http://www.ebi.ac.uk/efo/EFO_0001663) |
 | `KEGG:05223`    |              1 | [EFO:0003060](http://www.ebi.ac.uk/efo/EFO_0003060) |
-| `KEGG:05321`    |              1 | [EFO:0003767](http://www.ebi.ac.uk/efo/EFO_0003767) |
-| `KEGG:05020`    |              1 | [EFO:0004720](http://www.ebi.ac.uk/efo/EFO_0004720) |
-| `KEGG:05143`    |              1 | [EFO:0005225](http://www.ebi.ac.uk/efo/EFO_0005225) |
-| `KEGG:05131`    |              1 | [EFO:0005585](http://www.ebi.ac.uk/efo/EFO_0005585) |
 | `KEGG:05210`    |              1 | [EFO:0005842](http://www.ebi.ac.uk/efo/EFO_0005842) |
-| `KEGG:05416`    |              1 | [EFO:0009609](http://www.ebi.ac.uk/efo/EFO_0009609) |
-| `KEGG:05212`    |              1 | [EFO:1000359](http://www.ebi.ac.uk/efo/EFO_1000359) |
 
 ## `epso`: Epilepsy and Seizure Ontology
 
@@ -218,22 +190,81 @@ Identifiers for this prefix are given incorrectly in `nif`.
 
 Identifiers for this prefix are given incorrectly in `pw`. See the [GitHub repository](https://github.com/rat-genome-database/PW-Pathway-Ontology).
 
-| external_xref                                                 |   usages_count | usages                                                                                                                                                                                                                                                                                           |
-|---------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `KEGG:http://www.genome.jp/kegg-bin/get_htext?br08303.keg`    |             10 | [PW:0000919](http://purl.obolibrary.org/obo/PW_0000919), [PW:0000920](http://purl.obolibrary.org/obo/PW_0000920), [PW:0000921](http://purl.obolibrary.org/obo/PW_0000921), [PW:0000922](http://purl.obolibrary.org/obo/PW_0000922), [PW:0000923](http://purl.obolibrary.org/obo/PW_0000923), ... |
-| `KEGG:http://www.genome.jp/kegg/`                             |              3 | [PW:0000011](http://purl.obolibrary.org/obo/PW_0000011), [PW:0000754](http://purl.obolibrary.org/obo/PW_0000754), [PW:0001077](http://purl.obolibrary.org/obo/PW_0001077)                                                                                                                        |
-| `KEGG:00620`                                                  |              1 | [PW:0000043](http://purl.obolibrary.org/obo/PW_0000043)                                                                                                                                                                                                                                          |
-| `KEGG:http://www.genome.jp/kegg/pathway.html#xenobiotics`     |              1 | [PW:0000107](http://purl.obolibrary.org/obo/PW_0000107)                                                                                                                                                                                                                                          |
-| `KEGG:map4910`                                                |              1 | [PW:0000143](http://purl.obolibrary.org/obo/PW_0000143)                                                                                                                                                                                                                                          |
-| `KEGG:http://www.genome.ad.jp/kegg/pathway/map/map00040.html` |              1 | [PW:0000188](http://purl.obolibrary.org/obo/PW_0000188)                                                                                                                                                                                                                                          |
-| `KEGG:http://umbbd.msi.umn.edu/ddt/ddt_map.html`              |              1 | [PW:0000519](http://purl.obolibrary.org/obo/PW_0000519)                                                                                                                                                                                                                                          |
-| `KEGG:http://umbbd.msi.umn.edu/dcb/dcb_map.html`              |              1 | [PW:0000520](http://purl.obolibrary.org/obo/PW_0000520)                                                                                                                                                                                                                                          |
-| `KEGG:http://umbbd.msi.umn.edu/dce/dce_map.html`              |              1 | [PW:0000521](http://purl.obolibrary.org/obo/PW_0000521)                                                                                                                                                                                                                                          |
-| `KEGG:map5140`                                                |              1 | [PW:0001047](http://purl.obolibrary.org/obo/PW_0001047)                                                                                                                                                                                                                                          |
-| `KEGG:map5142`                                                |              1 | [PW:0001048](http://purl.obolibrary.org/obo/PW_0001048)                                                                                                                                                                                                                                          |
-| `KEGG:map5143`                                                |              1 | [PW:0001049](http://purl.obolibrary.org/obo/PW_0001049)                                                                                                                                                                                                                                          |
-| `KEGG:map5146`                                                |              1 | [PW:0001053](http://purl.obolibrary.org/obo/PW_0001053)                                                                                                                                                                                                                                          |
-| `KEGG:00232`                                                  |              1 | [PW:0001153](http://purl.obolibrary.org/obo/PW_0001153)                                                                                                                                                                                                                                          |
-| `KEGG:00531`                                                  |              1 | [PW:0001154](http://purl.obolibrary.org/obo/PW_0001154)                                                                                                                                                                                                                                          |
-| `KEGG:http://www.genome.jp/dbget-bin/www_bget?cpd:C09747`     |              1 | [PW:0001322](http://purl.obolibrary.org/obo/PW_0001322)                                                                                                                                                                                                                                          |
+| external_xref   |   usages_count | usages                                                                                                           |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `KEGG:00760`    |              2 | [PW:0000166](http://purl.obolibrary.org/obo/PW_0000166), [PW:0001010](http://purl.obolibrary.org/obo/PW_0001010) |
+| `KEGG:04610`    |              2 | [PW:0000474](http://purl.obolibrary.org/obo/PW_0000474), [PW:0000502](http://purl.obolibrary.org/obo/PW_0000502) |
+| `KEGG:00010`    |              2 | [PW:0000640](http://purl.obolibrary.org/obo/PW_0000640), [PW:0000641](http://purl.obolibrary.org/obo/PW_0000641) |
+| `KEGG:04310`    |              1 | [PW:0000008](http://purl.obolibrary.org/obo/PW_0000008)                                                          |
+| `KEGG:00061`    |              1 | [PW:0000029](http://purl.obolibrary.org/obo/PW_0000029)                                                          |
+| `KEGG:00230`    |              1 | [PW:0000031](http://purl.obolibrary.org/obo/PW_0000031)                                                          |
+| `KEGG:00240`    |              1 | [PW:0000032](http://purl.obolibrary.org/obo/PW_0000032)                                                          |
+| `KEGG:00920`    |              1 | [PW:0000037](http://purl.obolibrary.org/obo/PW_0000037)                                                          |
+| `KEGG:00120`    |              1 | [PW:0000039](http://purl.obolibrary.org/obo/PW_0000039)                                                          |
+| `KEGG:00140`    |              1 | [PW:0000040](http://purl.obolibrary.org/obo/PW_0000040)                                                          |
+| `KEGG:00052`    |              1 | [PW:0000042](http://purl.obolibrary.org/obo/PW_0000042)                                                          |
+| `KEGG:00620`    |              1 | [PW:0000043](http://purl.obolibrary.org/obo/PW_0000043)                                                          |
+| `KEGG:00340`    |              1 | [PW:0000051](http://purl.obolibrary.org/obo/PW_0000051)                                                          |
+| `KEGG:00350`    |              1 | [PW:0000052](http://purl.obolibrary.org/obo/PW_0000052)                                                          |
+| `KEGG:00360`    |              1 | [PW:0000053](http://purl.obolibrary.org/obo/PW_0000053)                                                          |
+| `KEGG:00380`    |              1 | [PW:0000054](http://purl.obolibrary.org/obo/PW_0000054)                                                          |
+| `KEGG:00280`    |              1 | [PW:0000071](http://purl.obolibrary.org/obo/PW_0000071)                                                          |
+| `KEGG:00310`    |              1 | [PW:0000073](http://purl.obolibrary.org/obo/PW_0000073)                                                          |
+| `KEGG:00300`    |              1 | [PW:0000074](http://purl.obolibrary.org/obo/PW_0000074)                                                          |
+| `KEGG:00460`    |              1 | [PW:0000078](http://purl.obolibrary.org/obo/PW_0000078)                                                          |
+| `KEGG:00480`    |              1 | [PW:0000134](http://purl.obolibrary.org/obo/PW_0000134)                                                          |
+| `KEGG:00740`    |              1 | [PW:0000137](http://purl.obolibrary.org/obo/PW_0000137)                                                          |
+| `KEGG:00750`    |              1 | [PW:0000138](http://purl.obolibrary.org/obo/PW_0000138)                                                          |
+| `KEGG:00780`    |              1 | [PW:0000139](http://purl.obolibrary.org/obo/PW_0000139)                                                          |
+| `KEGG:00790`    |              1 | [PW:0000140](http://purl.obolibrary.org/obo/PW_0000140)                                                          |
+| `KEGG:00130`    |              1 | [PW:0000142](http://purl.obolibrary.org/obo/PW_0000142)                                                          |
+| `KEGG:map4910`  |              1 | [PW:0000143](http://purl.obolibrary.org/obo/PW_0000143)                                                          |
+| `KEGG:03050`    |              1 | [PW:0000144](http://purl.obolibrary.org/obo/PW_0000144)                                                          |
+| `KEGG:00520`    |              1 | [PW:0000152](http://purl.obolibrary.org/obo/PW_0000152)                                                          |
+| `KEGG:00604`    |              1 | [PW:0000164](http://purl.obolibrary.org/obo/PW_0000164)                                                          |
+| `KEGG:00770`    |              1 | [PW:0000167](http://purl.obolibrary.org/obo/PW_0000167)                                                          |
+| `KEGG:00603`    |              1 | [PW:0000196](http://purl.obolibrary.org/obo/PW_0000196)                                                          |
+| `KEGG:00600`    |              1 | [PW:0000197](http://purl.obolibrary.org/obo/PW_0000197)                                                          |
+| `KEGG:03440`    |              1 | [PW:0000202](http://purl.obolibrary.org/obo/PW_0000202)                                                          |
+| `KEGG:04151`    |              1 | [PW:0000232](http://purl.obolibrary.org/obo/PW_0000232)                                                          |
+| `KEGG:04140`    |              1 | [PW:0000278](http://purl.obolibrary.org/obo/PW_0000278)                                                          |
+| `KEGG:04144`    |              1 | [PW:0000281](http://purl.obolibrary.org/obo/PW_0000281)                                                          |
+| `KEGG:04728`    |              1 | [PW:0000394](http://purl.obolibrary.org/obo/PW_0000394)                                                          |
+| `KEGG:04070`    |              1 | [PW:0000595](http://purl.obolibrary.org/obo/PW_0000595)                                                          |
+| `KEGG:04141`    |              1 | [PW:0000638](http://purl.obolibrary.org/obo/PW_0000638)                                                          |
+| `KEGG:03430`    |              1 | [PW:0000662](http://purl.obolibrary.org/obo/PW_0000662)                                                          |
+| `KEGG:04620`    |              1 | [PW:0000814](http://purl.obolibrary.org/obo/PW_0000814)                                                          |
+| `KEGG:04622`    |              1 | [PW:0000816](http://purl.obolibrary.org/obo/PW_0000816)                                                          |
+| `KEGG:04621`    |              1 | [PW:0000817](http://purl.obolibrary.org/obo/PW_0000817)                                                          |
+| `KEGG:04660`    |              1 | [PW:0000821](http://purl.obolibrary.org/obo/PW_0000821)                                                          |
+| `KEGG:04662`    |              1 | [PW:0000822](http://purl.obolibrary.org/obo/PW_0000822)                                                          |
+| `KEGG:04612`    |              1 | [PW:0000825](http://purl.obolibrary.org/obo/PW_0000825)                                                          |
+| `KEGG:04060`    |              1 | [PW:0000828](http://purl.obolibrary.org/obo/PW_0000828)                                                          |
+| `KEGG:04062`    |              1 | [PW:0000829](http://purl.obolibrary.org/obo/PW_0000829)                                                          |
+| `KEGG:04725`    |              1 | [PW:0000841](http://purl.obolibrary.org/obo/PW_0000841)                                                          |
+| `KEGG:04724`    |              1 | [PW:0000844](http://purl.obolibrary.org/obo/PW_0000844)                                                          |
+| `KEGG:04727`    |              1 | [PW:0000848](http://purl.obolibrary.org/obo/PW_0000848)                                                          |
+| `KEGG:05212`    |              1 | [PW:0000961](http://purl.obolibrary.org/obo/PW_0000961)                                                          |
+| `KEGG:04744`    |              1 | [PW:0000962](http://purl.obolibrary.org/obo/PW_0000962)                                                          |
+| `KEGG:map5140`  |              1 | [PW:0001047](http://purl.obolibrary.org/obo/PW_0001047)                                                          |
+| `KEGG:map5142`  |              1 | [PW:0001048](http://purl.obolibrary.org/obo/PW_0001048)                                                          |
+| `KEGG:map5143`  |              1 | [PW:0001049](http://purl.obolibrary.org/obo/PW_0001049)                                                          |
+| `KEGG:map5146`  |              1 | [PW:0001053](http://purl.obolibrary.org/obo/PW_0001053)                                                          |
+| `KEGG:00190`    |              1 | [PW:0001059](http://purl.obolibrary.org/obo/PW_0001059)                                                          |
+| `KEGG:00785`    |              1 | [PW:0001063](http://purl.obolibrary.org/obo/PW_0001063)                                                          |
+| `KEGG:03460`    |              1 | [PW:0001065](http://purl.obolibrary.org/obo/PW_0001065)                                                          |
+| `KEGG:03008`    |              1 | [PW:0001066](http://purl.obolibrary.org/obo/PW_0001066)                                                          |
+| `KEGG:00062`    |              1 | [PW:0001136](http://purl.obolibrary.org/obo/PW_0001136)                                                          |
+| `KEGG:00565`    |              1 | [PW:0001138](http://purl.obolibrary.org/obo/PW_0001138)                                                          |
+| `KEGG:04145`    |              1 | [PW:0001145](http://purl.obolibrary.org/obo/PW_0001145)                                                          |
+| `KEGG:00100`    |              1 | [PW:0001152](http://purl.obolibrary.org/obo/PW_0001152)                                                          |
+| `KEGG:00232`    |              1 | [PW:0001153](http://purl.obolibrary.org/obo/PW_0001153)                                                          |
+| `KEGG:00531`    |              1 | [PW:0001154](http://purl.obolibrary.org/obo/PW_0001154)                                                          |
+| `KEGG:00561`    |              1 | [PW:0001156](http://purl.obolibrary.org/obo/PW_0001156)                                                          |
+| `KEGG:00592`    |              1 | [PW:0001158](http://purl.obolibrary.org/obo/PW_0001158)                                                          |
+| `KEGG:00970`    |              1 | [PW:0001159](http://purl.obolibrary.org/obo/PW_0001159)                                                          |
+| `KEGG:03013`    |              1 | [PW:0001160](http://purl.obolibrary.org/obo/PW_0001160)                                                          |
+| `KEGG:03018`    |              1 | [PW:0001161](http://purl.obolibrary.org/obo/PW_0001161)                                                          |
+| `KEGG:04723`    |              1 | [PW:0001164](http://purl.obolibrary.org/obo/PW_0001164)                                                          |
+| `KEGG:04721`    |              1 | [PW:0002423](http://purl.obolibrary.org/obo/PW_0002423)                                                          |
 

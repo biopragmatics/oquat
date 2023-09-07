@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `hp`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 6 resources,
+`^\d{7}$`. Of the 5 resources,
 1 variants on the standard prefix were found: ['HPO'].
 
 ## `covoc`: CoVoc Coronavirus Vocabulary
@@ -23,14 +23,6 @@ Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repo
 |-----------------|----------------|-----------------------------------------------------------|
 | `HPO:PCS`       |              1 | [ECO:0006017](http://purl.obolibrary.org/obo/ECO_0006017) |
 | `HPO:ICE`       |              1 | [ECO:0006019](http://purl.obolibrary.org/obo/ECO_0006019) |
-
-## `enm`: eNanoMapper ontology
-
-Identifiers for this prefix are given incorrectly in `enm`.
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
-|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `HPO:probinson` |              6 | [HP:0001522](http://purl.obolibrary.org/obo/HP_0001522), [HP:0003674](http://purl.obolibrary.org/obo/HP_0003674), [HP:0003811](http://purl.obolibrary.org/obo/HP_0003811), [HP:0003826](http://purl.obolibrary.org/obo/HP_0003826), [HP:0005268](http://purl.obolibrary.org/obo/HP_0005268), ... |
 
 ## `mp`: Mammalian Phenotype Ontology
 

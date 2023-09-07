@@ -1,62 +1,11 @@
 {
-  "created": "2023-02-13T18:42:25.904844",
+  "created": "2023-09-07T12:42:31.973804",
   "messages": [],
   "results": {
     "http://enanomapper.github.io/ontologies/enanomapper.owl": {
       "graph_id": "http://enanomapper.github.io/ontologies/enanomapper.owl",
       "prov_pack": {
         "invalid_luids": {
-          "http://purl.obolibrary.org/obo/BSPO_0000096": [
-            "BSPO:cjm"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0000097": [
-            "BSPO:cjm"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0000098": [
-            "BSPO:cjm"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0000099": [
-            "BSPO:cjm"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0000100": [
-            "BSPO:cjm"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0000102": [
-            "BSPO:cjm"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0000107": [
-            "BSPO:cjm"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0000108": [
-            "BSPO:cjm"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0000120": [
-            "BSPO:PATO_mtg_2009"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0000121": [
-            "BSPO:PATO_mtg_2009"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0000122": [
-            "BSPO:PATO_mtg_2009"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0000123": [
-            "BSPO:PATO_mtg_2009"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0000124": [
-            "BSPO:PATO_mtg_2009"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0000125": [
-            "BSPO:PATO_mtg_2009"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0001100": [
-            "BSPO:cjm"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0001101": [
-            "BSPO:cjm"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_0001107": [
-            "BSPO:cjm"
-          ],
           "http://purl.obolibrary.org/obo/CL_0000000": [
             "CARO:mah"
           ],
@@ -186,53 +135,11 @@
           "http://purl.obolibrary.org/obo/ENVO_0010001": [
             "MA:ma"
           ],
-          "http://purl.obolibrary.org/obo/HP_0001522": [
-            "HPO:probinson"
-          ],
-          "http://purl.obolibrary.org/obo/HP_0003674": [
-            "HPO:probinson"
-          ],
-          "http://purl.obolibrary.org/obo/HP_0003811": [
-            "HPO:probinson"
-          ],
-          "http://purl.obolibrary.org/obo/HP_0003826": [
-            "HPO:probinson"
-          ],
-          "http://purl.obolibrary.org/obo/HP_0005268": [
-            "HPO:probinson"
-          ],
-          "http://purl.obolibrary.org/obo/HP_0100613": [
-            "HPO:probinson"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0000033": [
-            "Wikipedia:http://en.wikipedia.org/wiki/concentration"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0000044": [
-            "Wikipedia:http://en.wikipedia.org/wiki/frequency"
-          ],
           "http://purl.obolibrary.org/obo/PATO_0000911": [
             "PATO:GVG"
           ],
           "http://purl.obolibrary.org/obo/PATO_0000912": [
             "PATO:GVG"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001323": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Area"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001334": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Diameter"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001351": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Area_density"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001352": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Linear_density"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001353": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Mass_density"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001464": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Electric_potential"
           ],
           "http://purl.obolibrary.org/obo/PATO_0001596": [
             "PATO:GVG"
@@ -243,41 +150,17 @@
           "http://purl.obolibrary.org/obo/PATO_0001664": [
             "PATO:GVG"
           ],
-          "http://purl.obolibrary.org/obo/PATO_0001679": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Specific_volume"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001680": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Molar_volume"
-          ],
-          "http://purl.obolibrary.org/obo/PATO_0001711": [
-            "Wikipedia:http://en.wikipedia.org/wiki/Perimeter"
-          ],
           "http://purl.obolibrary.org/obo/PATO_0002390": [
             "PATO:DS"
           ],
           "http://purl.obolibrary.org/obo/PATO_0002632": [
             "PATO:MAH"
           ],
-          "http://purl.obolibrary.org/obo/RO_0002229": [
-            "ZFS:finishes"
-          ],
-          "http://purl.obolibrary.org/obo/RO_0002372": [
-            "Wikipedia:Insertion_(anatomy)#Muscles"
-          ],
-          "http://purl.obolibrary.org/obo/RO_0002373": [
-            "Wikipedia:Insertion_(anatomy)"
-          ],
           "http://purl.obolibrary.org/obo/UBERON_0002530": [
             "MGI:csmith"
           ],
           "http://purl.obolibrary.org/obo/UBERON_0006925": [
             "UBERON:cjm"
-          ],
-          "http://purl.obolibrary.org/obo/envo#disconnected_from": [
-            "SO:cjm"
-          ],
-          "http://purl.obolibrary.org/obo/uberon#has_muscle_antagonist": [
-            "Wikipedia:Antagonist_(muscle)"
           ],
           "http://purl.obolibrary.org/obo/uberon#spatially_disjoint_from": [
             "SO:cjm"
@@ -288,21 +171,10 @@
         },
         "label": "Provenance Xrefs",
         "malformed_curies": {},
-        "noncanonical_prefixes": {
-          "HPO": {
-            "http://purl.obolibrary.org/obo/HP_0001522": "HPO:probinson",
-            "http://purl.obolibrary.org/obo/HP_0003674": "HPO:probinson",
-            "http://purl.obolibrary.org/obo/HP_0003811": "HPO:probinson",
-            "http://purl.obolibrary.org/obo/HP_0003826": "HPO:probinson",
-            "http://purl.obolibrary.org/obo/HP_0005268": "HPO:probinson",
-            "http://purl.obolibrary.org/obo/HP_0100613": "HPO:probinson"
-          }
-        },
+        "noncanonical_prefixes": {},
         "unknown_prefixes": {
-          "Allen": {
-            "http://purl.obolibrary.org/obo/RO_0002082": "Allen:is_equal_to",
-            "http://purl.obolibrary.org/obo/RO_0002224": "Allen:starts",
-            "http://purl.obolibrary.org/obo/RO_0002229": "Allen:starts"
+          "ATCC_American_Cell_Type_Culture_Collection": {
+            "http://purl.obolibrary.org/obo/BTO_0004433": "ATCC_American_Cell_Type_Culture_Collection:http://www.lgcstandards-atcc.org/"
           },
           "Answers.com": {
             "http://purl.obolibrary.org/obo/PATO_0000969": "Answers.com:Answers.com"
@@ -315,6 +187,7 @@
           },
           "From_Merriam-Webster's_Online_Dictionary_at_www.Merriam-Webster.com": {
             "http://purl.obolibrary.org/obo/BTO_0000269": "From_Merriam-Webster's_Online_Dictionary_at_www.Merriam-Webster.com:http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=colon",
+            "http://purl.obolibrary.org/obo/BTO_0000759": "From_Merriam-Webster's_Online_Dictionary_at_www.Merriam-Webster.com:http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=liver",
             "http://purl.obolibrary.org/obo/BTO_0000763": "From_Merriam-Webster's_Online_Dictionary_at_www.Merriam-Webster.com:http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=lung",
             "http://purl.obolibrary.org/obo/BTO_0001279": "From_Merriam-Webster's_Online_Dictionary_at_www.Merriam-Webster.com:http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=spinal+cord"
           },
@@ -322,8 +195,7 @@
             "http://purl.obolibrary.org/obo/ENVO_00000338": "GEMINA:ls"
           },
           "GOC": {
-            "http://purl.obolibrary.org/obo/GO_0003824": "GOC:vw",
-            "http://purl.obolibrary.org/obo/uberon#site_of": "GOC:cjm"
+            "http://purl.obolibrary.org/obo/GO_0003824": "GOC:vw"
           },
           "Gemina": {
             "http://purl.obolibrary.org/obo/ENVO_02000035": "Gemina:ls"
@@ -407,22 +279,8 @@
             "http://purl.obolibrary.org/obo/PATO_0005015": "PATOC:WD",
             "http://purl.obolibrary.org/obo/PATO_0005022": "PATOC:WD"
           },
-          "PHENOSCPAE": {
-            "http://purl.obolibrary.org/obo/RO_0002173": "PHENOSCPAE:asilomar_mtg"
-          },
           "The_Dictionary_of_Cell_and_Molecular_Biology": {
             "http://purl.obolibrary.org/obo/BTO_0001025": "The_Dictionary_of_Cell_and_Molecular_Biology:Third_Edition"
-          },
-          "UBERONREF": {
-            "http://purl.obolibrary.org/obo/UBREL_0000001": "UBERONREF:0000004",
-            "http://purl.obolibrary.org/obo/uberon#anteriorly_connected_to": "UBERONREF:0000004",
-            "http://purl.obolibrary.org/obo/uberon#connects": "UBERONREF:0000004",
-            "http://purl.obolibrary.org/obo/uberon#distally_connected_to": "UBERONREF:0000004",
-            "http://purl.obolibrary.org/obo/uberon#posteriorly_connected_to": "UBERONREF:0000004",
-            "http://purl.obolibrary.org/obo/uberon#proximally_connected_to": "UBERONREF:0000004",
-            "http://purl.obolibrary.org/obo/uberon#transitively_anteriorly_connected_to": "UBERONREF:0000004",
-            "http://purl.obolibrary.org/obo/uberon#transitively_distally_connected_to": "UBERONREF:0000004",
-            "http://purl.obolibrary.org/obo/uberon#transitively_proximally_connected_to": "UBERONREF:0000004"
           },
           "URL": {
             "http://purl.obolibrary.org/obo/ENVO_00000546": "URL:http://www.britannica.com/EBchecked/topic/328083/lake/59070/Sediments-and-sedimentation",
@@ -438,6 +296,7 @@
             "http://purl.obolibrary.org/obo/ENVO_02000034": "URL:http://www.thefreedictionary.com/tear",
             "http://purl.obolibrary.org/obo/ENVO_02000036": "URL:http://medical.merriam-webster.com/medical/saliva",
             "http://purl.obolibrary.org/obo/ENVO_02000041": "URL:http://medical.merriam-webster.com/medical/lymph",
+            "http://purl.obolibrary.org/obo/ENVO_02000048": "URL:http://www.cdc.gov/oralhealth/infectioncontrol/glossary.htm",
             "http://purl.obolibrary.org/obo/ENVO_02000059": "URL:http://www.answers.com/topic/topsoil?cat=technology"
           },
           "Wiikipedia": {
@@ -477,23 +336,11 @@
       },
       "synonym_pack": {
         "invalid_luids": {
-          "http://purl.obolibrary.org/obo/BSPO_0001114": [
-            "MA:th"
-          ],
-          "http://purl.obolibrary.org/obo/BSPO_1000000": [
-            "MA:th"
-          ],
-          "http://purl.obolibrary.org/obo/CL_1001603": [
-            "CALOHA:TS-0576"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000194": [
             "Geonames:feature"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000428": [
             "WWF:Biome"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00005774": [
-            "ENVO:cjm"
           ]
         },
         "label": "Synonym Xrefs",
@@ -507,9 +354,6 @@
           "ADL": {
             "http://purl.obolibrary.org/obo/ENVO_00000003": "ADL:FTT"
           },
-          "Allen": {
-            "http://purl.obolibrary.org/obo/BFO_0000062": "Allen:precedes"
-          },
           "GOC": {
             "http://purl.obolibrary.org/obo/GO_0003824": "GOC:tb"
           },
@@ -517,7 +361,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000194": "Getty:TGN"
           },
           "NASA": {
-            "http://purl.obolibrary.org/obo/ENVO_00000134": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000428": "NASA:earthrealm",
             "http://purl.obolibrary.org/obo/ENVO_00000546": "NASA:earthrealm"
           },
@@ -542,26 +385,8 @@
           "http://purl.obolibrary.org/obo/CHEBI_136646": [
             "AGR:IND43789627"
           ],
-          "http://purl.obolibrary.org/obo/CHEBI_138675": [
-            "Wikipedia:https://en.wikipedia.org/wiki/Gas"
-          ],
           "http://purl.obolibrary.org/obo/CHEBI_15379": [
             "Gmelin:485"
-          ],
-          "http://purl.obolibrary.org/obo/CHEBI_50433": [
-            "Wikipedia:Glycoprotein_IIb/IIIa_inhibitors"
-          ],
-          "http://purl.obolibrary.org/obo/CHEBI_64345": [
-            "Wikipedia:Matrix-assisted_laser_desorption/ionization#Matrix"
-          ],
-          "http://purl.obolibrary.org/obo/CHEBI_77966": [
-            "Wikipedia:Stabiliser_(food)"
-          ],
-          "http://purl.obolibrary.org/obo/CL_0000000": [
-            "CALOHA:TS-2035"
-          ],
-          "http://purl.obolibrary.org/obo/CL_1001603": [
-            "CALOHA:TS-0576"
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000194": [
             "Geonames:T.TAL"
@@ -606,14 +431,11 @@
           "http://purl.obolibrary.org/obo/ENVO_01001628": [
             "WWF:IM1303"
           ],
-          "http://purl.obolibrary.org/obo/GO_0009293": [
-            "Wikipedia:Transduction_(genetics)"
+          "http://purl.obolibrary.org/obo/FOODON_00001216": [
+            "LANGUAL:C0195"
           ],
           "http://purl.obolibrary.org/obo/PATO_0001555": [
             "OBO_REL:has_part"
-          ],
-          "http://purl.obolibrary.org/obo/UBERON_0000479": [
-            "CALOHA:TS-2090"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0000433": [
             "NIFSTD:birnlex_2052"
@@ -667,20 +489,275 @@
           "http://www.ebi.ac.uk/efo/EFO_0009248": [
             "MedDRA:1005MedDRA:1006"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_0009750": [
-            "Wikipedia:Dissociation_(psychology)"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0010220": [
-            "Wikipedia:17α-Hydroxyprogesterone"
-          ],
           "http://www.ebi.ac.uk/efo/EFO_0010605": [
             "PMID: 31636452"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0010749": [
             "PMID: 32355309"
           ],
+          "http://www.ebi.ac.uk/efo/EFO_0022198": [
+            "CAS:1583915"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0022199": [
+            "CAS:5466678"
+          ],
           "http://www.ebi.ac.uk/efo/EFO_0600091": [
             "PR:Q92496"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803383": [
+            "HMDB:0031682"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803384": [
+            "HMDB:0000958"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803385": [
+            "HMDB:0035590"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803386": [
+            "HMDB:0062477"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803387": [
+            "HMDB:0000634"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803388": [
+            "HMDB:0037285"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803389": [
+            "HMDB:0060745"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803390": [
+            "HMDB:0039972"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803391": [
+            "HMDB:0032802"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803392": [
+            "HMDB:0039133"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803393": [
+            "HMDB:0059993"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803394": [
+            "HMDB:0059784"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803395": [
+            "HMDB:0000472"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803396": [
+            "HMDB:0032822"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803397": [
+            "HMDB:0037146"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803398": [
+            "HMDB:0034022"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803399": [
+            "HMDB:0031885"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803400": [
+            "HMDB:0000446"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803401": [
+            "HMDB:0015554"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803402": [
+            "HMDB:0000194"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803403": [
+            "HMDB:0002212"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803404": [
+            "HMDB:0032173"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803405": [
+            "HMDB:0041188"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803406": [
+            "HMDB:0002322"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803407": [
+            "HMDB:0000567"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803408": [
+            "HMDB:0002035"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803409": [
+            "HMDB:0035701"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803410": [
+            "HMDB:0001413"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803411": [
+            "HMDB:0000905"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803412": [
+            "HMDB:0037173"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803413": [
+            "HMDB:0001370"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803414": [
+            "HMDB:0032216"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803415": [
+            "HMDB:0002226"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803416": [
+            "HMDB:0000954"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803417": [
+            "HMDB:0001254"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803418": [
+            "HMDB:0001514"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803419": [
+            "HMDB:0031089"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803420": [
+            "HMDB:0002259"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803421": [
+            "HMDB:0000130"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803422": [
+            "HMDB:0060039"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803423": [
+            "HMDB:0003447"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803424": [
+            "HMDB:0060001"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803425": [
+            "HMDB:0003335"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803426": [
+            "HMDB:0002250"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803427": [
+            "HMDB:0035372"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803428": [
+            "HMDB:0011482"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803429": [
+            "HMDB:0035068"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803430": [
+            "HMDB:0029598"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803431": [
+            "HMDB:0036583"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803432": [
+            "HMDB:0011561"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803433": [
+            "HMDB:0011567"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803434": [
+            "HMDB:0013250"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803435": [
+            "HMDB:0033442"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803436": [
+            "HMDB:0041537"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803437": [
+            "HMDB:0061051"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803438": [
+            "HMDB:0032740"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803439": [
+            "HMDB:0033438"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803440": [
+            "HMDB:0013287"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803441": [
+            "HMDB:0001132"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803442": [
+            "HMDB:0002059"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803443": [
+            "HMDB:0000225"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803444": [
+            "HMDB:0029239"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803445": [
+            "HMDB:0029803"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803446": [
+            "HMDB:0030527"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803447": [
+            "HMDB:0031149"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803448": [
+            "HMDB:0001565"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803449": [
+            "HMDB:0000272"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803450": [
+            "HMDB:0032472"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803451": [
+            "HMDB:0003072"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803452": [
+            "HMDB:0015436"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803453": [
+            "HMDB:0035802"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803454": [
+            "HMDB:0038140"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803455": [
+            "HMDB:0038585"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803456": [
+            "HMDB:0029890"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803457": [
+            "HMDB:0000996"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803458": [
+            "HMDB:0005792"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803459": [
+            "HMDB:0000757"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803460": [
+            "HMDB:0060412"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803461": [
+            "HMDB:0040824"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803462": [
+            "HMDB:0041785"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803463": [
+            "HMDB:0000881"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803464": [
+            "HMDB:0000208"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803465": [
+            "HMDB:0041919"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803466": [
+            "HMDB:0001852"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0803467": [
+            "HMDB:0001934"
           ]
         },
         "label": "Node Xrefs",
@@ -708,15 +785,12 @@
           ],
           "http://www.ebi.ac.uk/efo/EFO_0020991": [
             "Quantification of ethanolamine in a sample."
-          ],
-          "http://www.ebi.ac.uk/efoIri": [
-            "suggestedNCIt"
           ]
         },
         "noncanonical_prefixes": {
           "AGR": {
             "http://purl.obolibrary.org/obo/CHEBI_136643": "AGR:IND84086009",
-            "http://purl.obolibrary.org/obo/CHEBI_136644": "AGR:IND20386178",
+            "http://purl.obolibrary.org/obo/CHEBI_136644": "AGR:IND92003154",
             "http://purl.obolibrary.org/obo/CHEBI_136646": "AGR:IND43789627"
           },
           "Beilstein": {
@@ -725,6 +799,108 @@
           },
           "Drug_Central": {
             "http://purl.obolibrary.org/obo/CHEBI_30563": "Drug_Central:4284"
+          },
+          "KEGG COMPOUND": {
+            "http://www.ebi.ac.uk/efo/EFO_0010641": "KEGG COMPOUND:C02642",
+            "http://www.ebi.ac.uk/efo/EFO_0021592": "KEGG COMPOUND:C01083",
+            "http://www.ebi.ac.uk/efo/EFO_0021622": "KEGG COMPOUND:C00149",
+            "http://www.ebi.ac.uk/efo/EFO_0022198": "KEGG COMPOUND:C00815",
+            "http://www.ebi.ac.uk/efo/EFO_0022200": "KEGG COMPOUND:C02226",
+            "http://www.ebi.ac.uk/efo/EFO_0022201": "KEGG COMPOUND:C02214",
+            "http://www.ebi.ac.uk/efo/EFO_0022202": "KEGG COMPOUND:C12986",
+            "http://www.ebi.ac.uk/efo/EFO_0022204": "KEGG COMPOUND:C01029",
+            "http://www.ebi.ac.uk/efo/EFO_0022205": "KEGG COMPOUND:C00612",
+            "http://www.ebi.ac.uk/efo/EFO_0022210": "KEGG COMPOUND:C00522",
+            "http://www.ebi.ac.uk/efo/EFO_0022211": "KEGG COMPOUND:C07273",
+            "http://www.ebi.ac.uk/efo/EFO_0022213": "KEGG COMPOUND:C00380",
+            "http://www.ebi.ac.uk/efo/EFO_0022222": "KEGG COMPOUND:C00250",
+            "http://www.ebi.ac.uk/efo/EFO_0800002": "KEGG COMPOUND:C16741",
+            "http://www.ebi.ac.uk/efo/EFO_0803384": "KEGG COMPOUND:C02341",
+            "http://www.ebi.ac.uk/efo/EFO_0803386": "KEGG COMPOUND:C00586",
+            "http://www.ebi.ac.uk/efo/EFO_0803387": "KEGG COMPOUND:C02226",
+            "http://www.ebi.ac.uk/efo/EFO_0803395": "KEGG COMPOUND:C01017",
+            "http://www.ebi.ac.uk/efo/EFO_0803400": "KEGG COMPOUND:C12989",
+            "http://www.ebi.ac.uk/efo/EFO_0803402": "KEGG COMPOUND:C01262",
+            "http://www.ebi.ac.uk/efo/EFO_0803403": "KEGG COMPOUND:C06425",
+            "http://www.ebi.ac.uk/efo/EFO_0803406": "KEGG COMPOUND:C01672",
+            "http://www.ebi.ac.uk/efo/EFO_0803407": "KEGG COMPOUND:C10438",
+            "http://www.ebi.ac.uk/efo/EFO_0803408": "KEGG COMPOUND:C00811",
+            "http://www.ebi.ac.uk/efo/EFO_0803410": "KEGG COMPOUND:C00307",
+            "http://www.ebi.ac.uk/efo/EFO_0803411": "KEGG COMPOUND:C00360",
+            "http://www.ebi.ac.uk/efo/EFO_0803413": "KEGG COMPOUND:C00666",
+            "http://www.ebi.ac.uk/efo/EFO_0803415": "KEGG COMPOUND:C16527",
+            "http://www.ebi.ac.uk/efo/EFO_0803416": "KEGG COMPOUND:C01494",
+            "http://www.ebi.ac.uk/efo/EFO_0803417": "KEGG COMPOUND:C00352",
+            "http://www.ebi.ac.uk/efo/EFO_0803418": "KEGG COMPOUND:C00329",
+            "http://www.ebi.ac.uk/efo/EFO_0803421": "KEGG COMPOUND:C00544",
+            "http://www.ebi.ac.uk/efo/EFO_0803423": "KEGG COMPOUND:C00955",
+            "http://www.ebi.ac.uk/efo/EFO_0803425": "KEGG COMPOUND:C00104",
+            "http://www.ebi.ac.uk/efo/EFO_0803443": "KEGG COMPOUND:C00322",
+            "http://www.ebi.ac.uk/efo/EFO_0803448": "KEGG COMPOUND:C00588",
+            "http://www.ebi.ac.uk/efo/EFO_0803449": "KEGG COMPOUND:C01005",
+            "http://www.ebi.ac.uk/efo/EFO_0803451": "KEGG COMPOUND:C06746",
+            "http://www.ebi.ac.uk/efo/EFO_0803457": "KEGG COMPOUND:C00606",
+            "http://www.ebi.ac.uk/efo/EFO_0803459": "KEGG COMPOUND:C00182",
+            "http://www.ebi.ac.uk/efo/EFO_0803460": "KEGG COMPOUND:C03542",
+            "http://www.ebi.ac.uk/efo/EFO_0803463": "KEGG COMPOUND:C02470",
+            "http://www.ebi.ac.uk/efo/EFO_0803464": "KEGG COMPOUND:C00026",
+            "http://www.ebi.ac.uk/efo/EFO_0803466": "KEGG COMPOUND:C00777",
+            "http://www.ebi.ac.uk/efo/EFO_0803467": "KEGG COMPOUND:C00745",
+            "http://www.ebi.ac.uk/efo/EFO_0803468": "KEGG COMPOUND:C14799",
+            "http://www.ebi.ac.uk/efo/EFO_0803469": "KEGG COMPOUND:C20603",
+            "http://www.ebi.ac.uk/efo/EFO_0803470": "KEGG COMPOUND:C19675",
+            "http://www.ebi.ac.uk/efo/EFO_0803471": "KEGG COMPOUND:C19211",
+            "http://www.ebi.ac.uk/efo/EFO_0803472": "KEGG COMPOUND:C14417",
+            "http://www.ebi.ac.uk/efo/EFO_0803473": "KEGG COMPOUND:C12836",
+            "http://www.ebi.ac.uk/efo/EFO_0803474": "KEGG COMPOUND:C16400",
+            "http://www.ebi.ac.uk/efo/EFO_0803475": "KEGG COMPOUND:C04111",
+            "http://www.ebi.ac.uk/efo/EFO_0803476": "KEGG COMPOUND:C03354",
+            "http://www.ebi.ac.uk/efo/EFO_0803477": "KEGG COMPOUND:C18152",
+            "http://www.ebi.ac.uk/efo/EFO_0803478": "KEGG COMPOUND:C20409",
+            "http://www.ebi.ac.uk/efo/EFO_0803479": "KEGG COMPOUND:C19458",
+            "http://www.ebi.ac.uk/efo/EFO_0803480": "KEGG COMPOUND:C15660",
+            "http://www.ebi.ac.uk/efo/EFO_0803481": "KEGG COMPOUND:C20422",
+            "http://www.ebi.ac.uk/efo/EFO_0803482": "KEGG COMPOUND:C15028",
+            "http://www.ebi.ac.uk/efo/EFO_0803483": "KEGG COMPOUND:C13662",
+            "http://www.ebi.ac.uk/efo/EFO_0803484": "KEGG COMPOUND:C17866",
+            "http://www.ebi.ac.uk/efo/EFO_0803485": "KEGG COMPOUND:C19020",
+            "http://www.ebi.ac.uk/efo/EFO_0803486": "KEGG COMPOUND:C04543",
+            "http://www.ebi.ac.uk/efo/EFO_0803487": "KEGG COMPOUND:C10932",
+            "http://www.ebi.ac.uk/efo/EFO_0803488": "KEGG COMPOUND:C19026",
+            "http://www.ebi.ac.uk/efo/EFO_0803489": "KEGG COMPOUND:C18514",
+            "http://www.ebi.ac.uk/efo/EFO_0803490": "KEGG COMPOUND:C13849",
+            "http://www.ebi.ac.uk/efo/EFO_0803491": "KEGG COMPOUND:C16712",
+            "http://www.ebi.ac.uk/efo/EFO_0803492": "KEGG COMPOUND:C02652",
+            "http://www.ebi.ac.uk/efo/EFO_0803493": "KEGG COMPOUND:C08677",
+            "http://www.ebi.ac.uk/efo/EFO_0803494": "KEGG COMPOUND:C17962",
+            "http://www.ebi.ac.uk/efo/EFO_0803495": "KEGG COMPOUND:C13622",
+            "http://www.ebi.ac.uk/efo/EFO_0803496": "KEGG COMPOUND:C04203",
+            "http://www.ebi.ac.uk/efo/EFO_0803497": "KEGG COMPOUND:C19030",
+            "http://www.ebi.ac.uk/efo/EFO_0803498": "KEGG COMPOUND:C07006",
+            "http://www.ebi.ac.uk/efo/EFO_0803499": "KEGG COMPOUND:C15620",
+            "http://www.ebi.ac.uk/efo/EFO_0803500": "KEGG COMPOUND:C09211",
+            "http://www.ebi.ac.uk/efo/EFO_0803501": "KEGG COMPOUND:C04611",
+            "http://www.ebi.ac.uk/efo/EFO_0803502": "KEGG COMPOUND:C17996",
+            "http://www.ebi.ac.uk/efo/EFO_0803503": "KEGG COMPOUND:C03292",
+            "http://www.ebi.ac.uk/efo/EFO_0803504": "KEGG COMPOUND:C17969",
+            "http://www.ebi.ac.uk/efo/EFO_0803505": "KEGG COMPOUND:C03149",
+            "http://www.ebi.ac.uk/efo/EFO_0803506": "KEGG COMPOUND:C13540",
+            "http://www.ebi.ac.uk/efo/EFO_0803507": "KEGG COMPOUND:C06747",
+            "http://www.ebi.ac.uk/efo/EFO_0803508": "KEGG COMPOUND:C09157",
+            "http://www.ebi.ac.uk/efo/EFO_0803509": "KEGG COMPOUND:C18606",
+            "http://www.ebi.ac.uk/efo/EFO_0803510": "KEGG COMPOUND:C18584",
+            "http://www.ebi.ac.uk/efo/EFO_0803511": "KEGG COMPOUND:C18892",
+            "http://www.ebi.ac.uk/efo/EFO_0803512": "KEGG COMPOUND:C19992",
+            "http://www.ebi.ac.uk/efo/EFO_0803513": "KEGG COMPOUND:C04264",
+            "http://www.ebi.ac.uk/efo/EFO_0803514": "KEGG COMPOUND:C10014",
+            "http://www.ebi.ac.uk/efo/EFO_0803515": "KEGG COMPOUND:C07695",
+            "http://www.ebi.ac.uk/efo/EFO_0803516": "KEGG COMPOUND:C12150",
+            "http://www.ebi.ac.uk/efo/EFO_0803517": "KEGG COMPOUND:C18386",
+            "http://www.ebi.ac.uk/efo/EFO_0803518": "KEGG COMPOUND:C14179",
+            "http://www.ebi.ac.uk/efo/EFO_0803519": "KEGG COMPOUND:C18550",
+            "http://www.ebi.ac.uk/efo/EFO_0803520": "KEGG COMPOUND:C11761",
+            "http://www.ebi.ac.uk/efo/EFO_0803521": "KEGG COMPOUND:C07182",
+            "http://www.ebi.ac.uk/efo/EFO_0803522": "KEGG COMPOUND:C17389"
           },
           "MSH": {
             "http://purl.obolibrary.org/obo/HP_0003674": "MSH:D017668",
@@ -749,20 +925,91 @@
             "http://purl.obolibrary.org/obo/CHEBI_15379": "PDBeChem:OXY"
           },
           "PMCID": {
-            "http://purl.obolibrary.org/obo/CHEBI_132889": "PMCID:PMC8540551",
+            "http://purl.obolibrary.org/obo/CHEBI_132889": "PMCID:PMC8585176",
             "http://purl.obolibrary.org/obo/CHEBI_133602": "PMCID:PMC3190904"
           },
           "Patent": {
             "http://purl.obolibrary.org/obo/CHEBI_64345": "Patent:EP2060919"
+          },
+          "PubChem": {
+            "http://www.ebi.ac.uk/efo/EFO_0022197": "PubChem:16064",
+            "http://www.ebi.ac.uk/efo/EFO_0022198": "PubChem:1081",
+            "http://www.ebi.ac.uk/efo/EFO_0022199": "PubChem:28115",
+            "http://www.ebi.ac.uk/efo/EFO_0022200": "PubChem:5280498",
+            "http://www.ebi.ac.uk/efo/EFO_0022201": "PubChem:643798",
+            "http://www.ebi.ac.uk/efo/EFO_0022202": "PubChem:443992",
+            "http://www.ebi.ac.uk/efo/EFO_0022203": "PubChem:426409",
+            "http://www.ebi.ac.uk/efo/EFO_0022204": "PubChem:496",
+            "http://www.ebi.ac.uk/efo/EFO_0022205": "PubChem:123689",
+            "http://www.ebi.ac.uk/efo/EFO_0022206": "PubChem:99715",
+            "http://www.ebi.ac.uk/efo/EFO_0022207": "PubChem:322640",
+            "http://www.ebi.ac.uk/efo/EFO_0022208": "PubChem:8398",
+            "http://www.ebi.ac.uk/efo/EFO_0022209": "PubChem:22908099",
+            "http://www.ebi.ac.uk/efo/EFO_0022210": "PubChem:5289105",
+            "http://www.ebi.ac.uk/efo/EFO_0022211": "PubChem:11439",
+            "http://www.ebi.ac.uk/efo/EFO_0022212": "PubChem:423891",
+            "http://www.ebi.ac.uk/efo/EFO_0022213": "PubChem:597",
+            "http://www.ebi.ac.uk/efo/EFO_0022215": "PubChem:150929",
+            "http://www.ebi.ac.uk/efo/EFO_0022216": "PubChem:6437063",
+            "http://www.ebi.ac.uk/efo/EFO_0022217": "PubChem:9903482",
+            "http://www.ebi.ac.uk/efo/EFO_0022218": "PubChem:18356439",
+            "http://www.ebi.ac.uk/efo/EFO_0022219": "PubChem:301941",
+            "http://www.ebi.ac.uk/efo/EFO_0022220": "PubChem:86583357",
+            "http://www.ebi.ac.uk/efo/EFO_0022221": "PubChem:7311",
+            "http://www.ebi.ac.uk/efo/EFO_0022222": "PubChem:1050"
+          },
+          "SCTID": {
+            "http://purl.obolibrary.org/obo/UBERON_0000062": "SCTID:272625005",
+            "http://purl.obolibrary.org/obo/UBERON_0002530": "SCTID:134358001"
           },
           "SNOMEDCT_US": {
             "http://purl.obolibrary.org/obo/HP_0003811": "SNOMEDCT_US:276506001",
             "http://purl.obolibrary.org/obo/HP_0003826": "SNOMEDCT_US:276507005",
             "http://purl.obolibrary.org/obo/HP_0005268": "SNOMEDCT_US:17369002"
           },
-          "UBREL": {
-            "http://purl.obolibrary.org/obo/UBREL_0000001": "UBREL:0000001",
-            "http://purl.obolibrary.org/obo/UBREL_0000002": "UBREL:0000002"
+          "SUBSET_SIREN": {
+            "http://purl.obolibrary.org/obo/FOODON_00001006": "SUBSET_SIREN:F17332",
+            "http://purl.obolibrary.org/obo/FOODON_00001008": "SUBSET_SIREN:F17604",
+            "http://purl.obolibrary.org/obo/FOODON_00001013": "SUBSET_SIREN:F1076",
+            "http://purl.obolibrary.org/obo/FOODON_00001059": "SUBSET_SIREN:F1419",
+            "http://purl.obolibrary.org/obo/FOODON_00001065": "SUBSET_SIREN:F1128",
+            "http://purl.obolibrary.org/obo/FOODON_00001070": "SUBSET_SIREN:F1971",
+            "http://purl.obolibrary.org/obo/FOODON_00001079": "SUBSET_SIREN:F16510",
+            "http://purl.obolibrary.org/obo/FOODON_00001094": "SUBSET_SIREN:F5644",
+            "http://purl.obolibrary.org/obo/FOODON_00001100": "SUBSET_SIREN:F2385",
+            "http://purl.obolibrary.org/obo/FOODON_00001172": "SUBSET_SIREN:F16972",
+            "http://purl.obolibrary.org/obo/FOODON_00001184": "SUBSET_SIREN:F10419",
+            "http://purl.obolibrary.org/obo/FOODON_00001222": "SUBSET_SIREN:F1113",
+            "http://purl.obolibrary.org/obo/FOODON_00001275": "SUBSET_SIREN:F1074",
+            "http://purl.obolibrary.org/obo/FOODON_03301073": "SUBSET_SIREN:F1073",
+            "http://purl.obolibrary.org/obo/FOODON_03301103": "SUBSET_SIREN:F11069",
+            "http://purl.obolibrary.org/obo/FOODON_03301227": "SUBSET_SIREN:F1227",
+            "http://purl.obolibrary.org/obo/FOODON_03301444": "SUBSET_SIREN:F1444",
+            "http://purl.obolibrary.org/obo/FOODON_03301467": "SUBSET_SIREN:F1467",
+            "http://purl.obolibrary.org/obo/FOODON_03302001": "SUBSET_SIREN:F2001",
+            "http://purl.obolibrary.org/obo/FOODON_03302082": "SUBSET_SIREN:F2082",
+            "http://purl.obolibrary.org/obo/FOODON_03303220": "SUBSET_SIREN:F3220",
+            "http://purl.obolibrary.org/obo/FOODON_03303909": "SUBSET_SIREN:F3909",
+            "http://purl.obolibrary.org/obo/FOODON_03304497": "SUBSET_SIREN:F4497",
+            "http://purl.obolibrary.org/obo/FOODON_03305536": "SUBSET_SIREN:F5536",
+            "http://purl.obolibrary.org/obo/FOODON_03307345": "SUBSET_SIREN:F7345",
+            "http://purl.obolibrary.org/obo/FOODON_03307539": "SUBSET_SIREN:F7539",
+            "http://purl.obolibrary.org/obo/FOODON_03310006": "SUBSET_SIREN:F10006",
+            "http://purl.obolibrary.org/obo/FOODON_03310387": "SUBSET_SIREN:F10387",
+            "http://purl.obolibrary.org/obo/FOODON_03311737": "SUBSET_SIREN:F11737",
+            "http://purl.obolibrary.org/obo/FOODON_03312053": "SUBSET_SIREN:F12053",
+            "http://purl.obolibrary.org/obo/FOODON_03315150": "SUBSET_SIREN:F15150",
+            "http://purl.obolibrary.org/obo/FOODON_03315173": "SUBSET_SIREN:F15173",
+            "http://purl.obolibrary.org/obo/FOODON_03315302": "SUBSET_SIREN:F15302",
+            "http://purl.obolibrary.org/obo/FOODON_03315552": "SUBSET_SIREN:F15552",
+            "http://purl.obolibrary.org/obo/FOODON_03315904": "SUBSET_SIREN:F15904",
+            "http://purl.obolibrary.org/obo/FOODON_03315925": "SUBSET_SIREN:F15925",
+            "http://purl.obolibrary.org/obo/FOODON_03316079": "SUBSET_SIREN:F16079",
+            "http://purl.obolibrary.org/obo/FOODON_03316271": "SUBSET_SIREN:F16271",
+            "http://purl.obolibrary.org/obo/FOODON_03316579": "SUBSET_SIREN:F16579",
+            "http://purl.obolibrary.org/obo/FOODON_03316694": "SUBSET_SIREN:F16694",
+            "http://purl.obolibrary.org/obo/FOODON_03317170": "SUBSET_SIREN:F17170",
+            "http://purl.obolibrary.org/obo/FOODON_03430130": "SUBSET_SIREN:F5105"
           },
           "WWF": {
             "http://purl.obolibrary.org/obo/ENVO_01001569": "WWF:AA1310",
@@ -819,9 +1066,6 @@
             "http://purl.obolibrary.org/obo/ENVO_01000180": "SPIRE:Tundra",
             "http://purl.obolibrary.org/obo/ENVO_01000249": "SPIRE:Urban",
             "http://purl.obolibrary.org/obo/ENVO_01001505": "SPIRE:Tundra"
-          },
-          "URL": {
-            "http://purl.obolibrary.org/obo/ENVO_01000404": "URL:http://aims.fao.org/aos/agrovoc/c_5998"
           },
           "WikipediaCategory": {
             "http://purl.obolibrary.org/obo/UBERON_0002530": "WikipediaCategory:Glands"

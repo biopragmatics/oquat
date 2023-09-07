@@ -20,6 +20,7 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `ChemIDplus:122201421`  |              1 | [CHEBI:189652](http://purl.obolibrary.org/obo/CHEBI_189652) |
 | `ChemIDplus:146047984`  |              1 | [CHEBI:189655](http://purl.obolibrary.org/obo/CHEBI_189655) |
 | `ChemIDplus:137076847`  |              1 | [CHEBI:189661](http://purl.obolibrary.org/obo/CHEBI_189661) |
+| `ChemIDplus:135048952`  |              1 | [CHEBI:195326](http://purl.obolibrary.org/obo/CHEBI_195326) |
 | `ChemIDplus:0142632335` |              1 | [CHEBI:65555](http://purl.obolibrary.org/obo/CHEBI_65555)   |
 | `ChemIDplus:0027593233` |              1 | [CHEBI:66729](http://purl.obolibrary.org/obo/CHEBI_66729)   |
 | `ChemIDplus:0192214576` |              1 | [CHEBI:67337](http://purl.obolibrary.org/obo/CHEBI_67337)   |
