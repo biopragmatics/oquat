@@ -26,10 +26,10 @@ KEYS = [
 ]
 
 
-def main():
+def main() -> None:
     """Analyze unknown prefixes."""
-    prefix_agg = defaultdict(lambda: defaultdict(lambda: defaultdict(set)))
-    source_agg = defaultdict(dict)
+    prefix_agg = defaultdict(lambda: defaultdict(lambda: defaultdict(set)))  # type:ignore
+    source_agg = defaultdict(dict)  # type:ignore
     for path in RESULTS.glob("*.json"):
         source = path.stem
         analysis_results = AnalysisResults.parse_obj(json.loads(path.read_text()))
@@ -115,7 +115,7 @@ assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5
         if not unknown_prefix:
             continue
         prefix_it.set_postfix(prefix=unknown_prefix)
-        prefix_agg = ", ".join(
+        prefix_agg_str = ", ".join(
             f"[`{source}`](source/{source})" for source in sorted(source_to_curie_to_nodes)
         )
         unique_usages = sum(len(v) for v in source_to_curie_to_nodes.values())
@@ -159,7 +159,7 @@ assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5
         summary_rows.append(
             (
                 f"[`{unknown_prefix}`](prefix/{unknown_prefix})",
-                prefix_agg,
+                prefix_agg_str,
                 unique_usages,
                 total_usages,
                 f"[{example_node}]({example_node})",

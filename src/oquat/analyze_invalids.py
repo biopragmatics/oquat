@@ -28,10 +28,10 @@ KEYS = [
 ]
 
 
-def main():
+def main() -> None:
     """Analyze invalid identifiers."""
-    source_agg = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
-    xref_agg = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+    source_agg = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))  # type:ignore
+    xref_agg = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))  # type:ignore
     for path in RESULTS.glob("*.json"):
         source = path.stem
         analysis_results = AnalysisResults.parse_obj(json.loads(path.read_text()))
@@ -112,7 +112,7 @@ def main():
 
             """
             )
-            rows = []
+            rows_external = []
             for (xref_prefix, xref_curie), nodes in inner2.items():
                 invalid_xref_curie = f"{xref_prefix}:{xref_curie}"
                 if len(nodes) > 5:
@@ -123,16 +123,16 @@ def main():
                 else:
                     examples = ", ".join(url_md(example_node) for example_node in sorted(nodes))
 
-                rows.append(
+                rows_external.append(
                     (
                         f"`{invalid_xref_curie}`",
                         len(nodes),
                         examples,
                     )
                 )
-            rows = sorted(rows, key=itemgetter(1), reverse=True)
+            rows_external = sorted(rows_external, key=itemgetter(1), reverse=True)
             source_text += tabulate(
-                rows,
+                rows_external,
                 headers=["external_xref", "usages_count", "usages"],
                 tablefmt="github",
             )
@@ -168,7 +168,7 @@ def main():
 
             """
             )
-            rows = []
+            rows_inner2 = []
             for xref_curie, nodes in inner2.items():
                 invalid_xref_curie = f"{xref_curie[0]}:{xref_curie[1]}"
                 if len(nodes) > 5:
@@ -179,16 +179,16 @@ def main():
                 else:
                     examples = ", ".join(url_md(example_node) for example_node in sorted(nodes))
 
-                rows.append(
+                rows_inner2.append(
                     (
                         f"`{invalid_xref_curie}`",
                         len(nodes),
                         examples,
                     )
                 )
-            rows = sorted(rows, key=itemgetter(1), reverse=True)
+            rows_inner2 = sorted(rows_inner2, key=itemgetter(1), reverse=True)
             source_text += tabulate(
-                rows,
+                rows_inner2,
                 headers=["external_xref", "usages_count", "usages"],
                 tablefmt="github",
             )

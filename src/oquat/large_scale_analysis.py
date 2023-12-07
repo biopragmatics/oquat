@@ -21,7 +21,6 @@ from .api import (
     AnalysisResults,
     MissingGraphIRI,
     NoParsableURIs,
-    Results,
     analyze_by_prefix,
     extended_encoder,
     secho,

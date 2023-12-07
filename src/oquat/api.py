@@ -22,7 +22,7 @@ from bioontologies import get_obograph_by_prefix
 from bioontologies.obograph import Graph, GraphDocument
 from bioontologies.robot import convert_to_obograph_local, convert_to_obograph_remote
 from more_click import verbose_option
-from pydantic import BaseModel, Field
+from pydantic import BaseModel
 from pydantic.json import ENCODERS_BY_TYPE
 from tabulate import tabulate
 from tqdm import tqdm
