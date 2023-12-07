@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T13:06:48.108766",
+  "created": "2023-12-07T09:44:55.417116",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/mmo.owl": {
@@ -872,8 +872,8 @@
           }
         }
       },
-      "version": "2.114",
-      "version_iri": "http://purl.obolibrary.org/obo/mmo/2.114/mmo.owl",
+      "version": "2.121",
+      "version_iri": "http://purl.obolibrary.org/obo/mmo/2.121/mmo.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MMO_0000642": [

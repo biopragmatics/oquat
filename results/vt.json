@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T13:33:03.400262",
+  "created": "2023-12-07T10:05:02.571927",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/vt.owl": {
@@ -2226,6 +2226,36 @@
             "RGD:cur"
           ],
           "http://purl.obolibrary.org/obo/VT_0011060": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011061": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011062": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011063": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011064": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011065": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011066": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011067": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011068": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011069": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011070": [
             "RGD:cur"
           ],
           "http://purl.obolibrary.org/obo/VT_0015027": [

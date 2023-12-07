@@ -53,6 +53,8 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `Coriell:I91S-06`       |              1 | [Cellosaurus#CVCL:CX66](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_CX66) |
 | `Coriell:I91S-07`       |              1 | [Cellosaurus#CVCL:CX66](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_CX66) |
 | `Coriell:I91S-08`       |              1 | [Cellosaurus#CVCL:CX66](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_CX66) |
+| `Coriell:AICS-0014-032` |              1 | [Cellosaurus#CVCL:D0N2](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D0N2) |
+| `Coriell:AICS-0014-035` |              1 | [Cellosaurus#CVCL:D0N3](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D0N3) |
 | `Coriell:GM03368-A`     |              1 | [Cellosaurus#CVCL:DS12](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_DS12) |
 | `Coriell:AG05965-D`     |              1 | [Cellosaurus#CVCL:H748](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_H748) |
 | `Coriell:AG05965-C`     |              1 | [Cellosaurus#CVCL:H749](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_H749) |

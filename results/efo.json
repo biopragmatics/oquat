@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T12:41:52.288646",
+  "created": "2023-12-07T09:27:44.904861",
   "messages": [],
   "results": {
     "http://www.ebi.ac.uk/efo/efo.owl": {
@@ -3855,6 +3855,9 @@
           "http://www.ebi.ac.uk/efo/EFO_0009028": [
             "MONDO:Lexical"
           ],
+          "http://www.ebi.ac.uk/efo/EFO_0009041": [
+            "Orphanet:189427-definition"
+          ],
           "http://www.ebi.ac.uk/efo/EFO_0009043": [
             "MONDO:patterns/hereditary",
             "OMIM:genemap2"
@@ -6110,8 +6113,8 @@
           }
         }
       },
-      "version": "3.57.0",
-      "version_iri": "http://www.ebi.ac.uk/efo/releases/v3.57.0/efo.owl",
+      "version": "3.60.0",
+      "version_iri": "http://www.ebi.ac.uk/efo/releases/v3.60.0/efo.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://www.ebi.ac.uk/efo/EFO_0000095": [
@@ -6770,6 +6773,9 @@
           "http://www.ebi.ac.uk/efo/EFO_0009039": [
             "UMLS:CN239183"
           ],
+          "http://www.ebi.ac.uk/efo/EFO_0009041": [
+            "UMLS:CN200644"
+          ],
           "http://www.ebi.ac.uk/efo/EFO_0009052": [
             "UMLS:CN072455"
           ],
@@ -6903,8 +6909,14 @@
           "http://www.ebi.ac.uk/efo/EFO_0022199": [
             "CAS:5466678"
           ],
-          "http://www.ebi.ac.uk/efo/EFO_0600091": [
-            "PR:Q92496"
+          "http://www.ebi.ac.uk/efo/EFO_0022408": [
+            "BTO:0002522 "
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0022445": [
+            "PMID: 19881539"
+          ],
+          "http://www.ebi.ac.uk/efo/EFO_0022452": [
+            "BTO:0005715; PMID:7520026"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0803383": [
             "HMDB:0031682"
@@ -7452,6 +7464,9 @@
           ]
         },
         "noncanonical_prefixes": {
+          " CLO": {
+            "http://www.ebi.ac.uk/efo/EFO_0002095": " CLO:0001200"
+          },
           " MedDRA": {
             "http://www.ebi.ac.uk/efo/EFO_0011048": " MedDRA:10059516"
           },
@@ -7768,6 +7783,7 @@
             "http://www.ebi.ac.uk/efo/EFO_0009029": "OMIMPS:176400",
             "http://www.ebi.ac.uk/efo/EFO_0009039": "OMIMPS:607765",
             "http://www.ebi.ac.uk/efo/EFO_0009151": "OMIMPS:617236",
+            "http://www.ebi.ac.uk/efo/EFO_0009158": "OMIMPS:617186",
             "http://www.ebi.ac.uk/efo/EFO_0009297": "OMIMPS:305400",
             "http://www.ebi.ac.uk/efo/EFO_0009441": "OMIMPS:153600",
             "http://www.ebi.ac.uk/efo/EFO_0020034": "OMIMPS:616744",
@@ -8739,6 +8755,7 @@
             "http://www.ebi.ac.uk/efo/EFO_0009005": "SCTID:237788002",
             "http://www.ebi.ac.uk/efo/EFO_0009011": "SCTID:52089001",
             "http://www.ebi.ac.uk/efo/EFO_0009029": "SCTID:237816004",
+            "http://www.ebi.ac.uk/efo/EFO_0009041": "SCTID:720459002",
             "http://www.ebi.ac.uk/efo/EFO_0009043": "SCTID:59229005",
             "http://www.ebi.ac.uk/efo/EFO_0009052": "SCTID:707670009",
             "http://www.ebi.ac.uk/efo/EFO_0009068": "SCTID:702411003",
@@ -9690,6 +9707,9 @@
           "MAP": {
             "http://www.ebi.ac.uk/efo/EFO_0000361": "MAP:0000001"
           },
+          "MPD": {
+            "http://www.ebi.ac.uk/efo/EFO_0022387": "MPD:17"
+          },
           "MTH": {
             "http://www.ebi.ac.uk/efo/EFO_0003894": "MTH:217"
           },
@@ -9714,6 +9734,35 @@
           "STRUCTURE_Formula": {
             "http://www.ebi.ac.uk/efo/EFO_0003191": "STRUCTURE_Formula:C10H16",
             "http://www.ebi.ac.uk/efo/EFO_0003237": "STRUCTURE_Formula:C64H106N8O41"
+          },
+          "TGEMO": {
+            "http://www.ebi.ac.uk/efo/EFO_0022385": "TGEMO:00097",
+            "http://www.ebi.ac.uk/efo/EFO_0022387": "TGEMO:00110",
+            "http://www.ebi.ac.uk/efo/EFO_0022395": "TGEMO:00095",
+            "http://www.ebi.ac.uk/efo/EFO_0022397": "TGEMO:00016",
+            "http://www.ebi.ac.uk/efo/EFO_0022412": "TGEMO:00107",
+            "http://www.ebi.ac.uk/efo/EFO_0022419": "TGEMO:00019",
+            "http://www.ebi.ac.uk/efo/EFO_0022463": "TGEMO:00108",
+            "http://www.ebi.ac.uk/efo/EFO_0022464": "TGEMO:00054",
+            "http://www.ebi.ac.uk/efo/EFO_0022465": "TGEMO:00113",
+            "http://www.ebi.ac.uk/efo/EFO_0022466": "TGEMO:00114",
+            "http://www.ebi.ac.uk/efo/EFO_0022467": "TGEMO:00042",
+            "http://www.ebi.ac.uk/efo/EFO_0022468": "TGEMO:00053",
+            "http://www.ebi.ac.uk/efo/EFO_0022469": "TGEMO:00106",
+            "http://www.ebi.ac.uk/efo/EFO_0022470": "TGEMO:00029",
+            "http://www.ebi.ac.uk/efo/EFO_0022471": "TGEMO:00050",
+            "http://www.ebi.ac.uk/efo/EFO_0022472": "TGEMO:00085",
+            "http://www.ebi.ac.uk/efo/EFO_0022473": "TGEMO:00035",
+            "http://www.ebi.ac.uk/efo/EFO_0022474": "TGEMO:00049",
+            "http://www.ebi.ac.uk/efo/EFO_0022475": "TGEMO:00052",
+            "http://www.ebi.ac.uk/efo/EFO_0022476": "TGEMO:00051",
+            "http://www.ebi.ac.uk/efo/EFO_0022477": "TGEMO:00030",
+            "http://www.ebi.ac.uk/efo/EFO_0022478": "TGEMO:00115",
+            "http://www.ebi.ac.uk/efo/EFO_0022479": "TGEMO:00111",
+            "http://www.ebi.ac.uk/efo/EFO_0022480": "TGEMO:00112",
+            "http://www.ebi.ac.uk/efo/EFO_0022482": "TGEMO:00036",
+            "http://www.ebi.ac.uk/efo/EFO_0022483": "TGEMO:00041",
+            "http://www.ebi.ac.uk/efo/EFO_0022484": "TGEMO:00047"
           },
           "birn_anat": {
             "http://www.ebi.ac.uk/efo/EFO_0002454": "birn_anat:birnlex_1197",

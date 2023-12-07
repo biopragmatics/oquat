@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T12:42:31.973804",
+  "created": "2023-12-07T09:28:30.970353",
   "messages": [],
   "results": {
     "http://enanomapper.github.io/ontologies/enanomapper.owl": {
@@ -369,8 +369,8 @@
           }
         }
       },
-      "version": "9.0",
-      "version_iri": "http://enanomapper.github.io/ontologies/releases/9.0/enanomapper.owl",
+      "version": "10.0",
+      "version_iri": "http://enanomapper.github.io/ontologies/releases/10.0/enanomapper.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/CHEBI_136643": [
@@ -500,9 +500,6 @@
           ],
           "http://www.ebi.ac.uk/efo/EFO_0022199": [
             "CAS:5466678"
-          ],
-          "http://www.ebi.ac.uk/efo/EFO_0600091": [
-            "PR:Q92496"
           ],
           "http://www.ebi.ac.uk/efo/EFO_0803383": [
             "HMDB:0031682"

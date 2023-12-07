@@ -26,12 +26,6 @@
 | XX:ISBN978-087969683-2 |        1 | [FBbi:00000025](http://purl.obolibrary.org/obo/FBbi_00000025) |
 | XX:-new-dbxref-        |        1 | [FBbi:00000366](http://purl.obolibrary.org/obo/FBbi_00000366) |
 
-## nif
-
-| curie                                                                     |   usages | nodes                                                   |
-|---------------------------------------------------------------------------|----------|---------------------------------------------------------|
-| XX:www.ensembl.org/info/genome/variation/predicted_data.html#consequences |        1 | [SO:0001620](http://purl.obolibrary.org/obo/SO_0001620) |
-
 ## cco
 
 | curie   |   usages | nodes                                                                                                |

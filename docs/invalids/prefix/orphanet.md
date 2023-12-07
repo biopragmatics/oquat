@@ -2,8 +2,16 @@
 
 This page summarize the different resources that reference `orphanet`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 1 resources,
+`^\d+$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['Orphanet'].
+
+## `efo`: Experimental Factor Ontology
+
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
+
+| external_xref                |   usages_count | usages                                              |
+|------------------------------|----------------|-----------------------------------------------------|
+| `Orphanet:189427-definition` |              1 | [EFO:0009041](http://www.ebi.ac.uk/efo/EFO_0009041) |
 
 ## `mondo`: Mondo Disease Ontology
 

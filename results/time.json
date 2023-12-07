@@ -1,13 +1,13 @@
 {
-  "created": "2023-09-07T13:28:07.693677",
+  "created": "2023-12-07T09:59:58.857059",
   "messages": [
-    "2023-09-07 13:28:07,597 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 6 triple(s) that could not be parsed:",
-    " - <http://www.w3.org/2006/time#generalDay> <http://www.w3.org/2002/07/owl#withRestrictions> _:genid-nodeid-node1h9nmcg36x60.",
+    "2023-12-07 09:59:58,625 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 6 triple(s) that could not be parsed:",
     " - <http://www.w3.org/2006/time#generalDay> <http://www.w3.org/2002/07/owl#onDatatype> <http://www.w3.org/2001/XMLSchema#string>.",
     " - <http://www.w3.org/2006/time#generalYear> <http://www.w3.org/2002/07/owl#onDatatype> <http://www.w3.org/2001/XMLSchema#string>.",
-    " - <http://www.w3.org/2006/time#generalMonth> <http://www.w3.org/2002/07/owl#withRestrictions> _:genid-nodeid-node1h9nmcg36x62.",
-    " - <http://www.w3.org/2006/time#generalMonth> <http://www.w3.org/2002/07/owl#onDatatype> <http://www.w3.org/2001/XMLSchema#string>.",
-    " - <http://www.w3.org/2006/time#generalYear> <http://www.w3.org/2002/07/owl#withRestrictions> _:genid-nodeid-node1h9nmcg36x64."
+    " - <http://www.w3.org/2006/time#generalMonth> <http://www.w3.org/2002/07/owl#withRestrictions> _:genid-nodeid-node1hh1o2kdrx62.",
+    " - <http://www.w3.org/2006/time#generalYear> <http://www.w3.org/2002/07/owl#withRestrictions> _:genid-nodeid-node1hh1o2kdrx64.",
+    " - <http://www.w3.org/2006/time#generalDay> <http://www.w3.org/2002/07/owl#withRestrictions> _:genid-nodeid-node1hh1o2kdrx60.",
+    " - <http://www.w3.org/2006/time#generalMonth> <http://www.w3.org/2002/07/owl#onDatatype> <http://www.w3.org/2001/XMLSchema#string>."
   ],
   "results": {
     "http://www.w3.org/2006/time": {

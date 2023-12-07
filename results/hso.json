@@ -1,32 +1,7 @@
 {
-  "created": "2023-09-07T13:01:17.093725",
-  "messages": [],
-  "results": {
-    "http://purl.obolibrary.org/obo/hso.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/hso.owl",
-      "prov_pack": {
-        "invalid_luids": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "2021-12-13",
-      "version_iri": "http://purl.obolibrary.org/obo/hso/2021-12-13/hso.owl",
-      "xref_pack": {
-        "invalid_luids": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
-    }
-  }
+  "created": "2023-12-07T09:41:10.227797",
+  "messages": [
+    "[hso] could not parse OWL from http://purl.obolibrary.org/obo/hso.owl"
+  ],
+  "results": {}
 }

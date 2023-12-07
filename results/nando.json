@@ -1,0 +1,39 @@
+{
+  "created": "2023-12-07T09:46:14.065549",
+  "messages": [
+    "2023-12-07 09:46:13,243 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 5 triple(s) that could not be parsed:",
+    " - <http://nanbyodata.jp/ontology/NANDO_1201023> <http://www.w3.org/2000/01/rdf-schema#subClassof> <http://nanbyodata.jp/ontology/NANDO_0000002>.",
+    " - <http://nanbyodata.jp/ontology/NANDO_1200879> <http://www.w3.org/2000/01/rdf-schema#subClassof> <http://nanbyodata.jp/ontology/NANDO_0000002>.",
+    " - <http://nanbyodata.jp/ontology/NANDO_1200839> <http://www.w3.org/2000/01/rdf-schema#subClassof> <http://nanbyodata.jp/ontology/NANDO_0000002>.",
+    " - <http://nanbyodata.jp/ontology/NANDO_1200880> <http://www.w3.org/2000/01/rdf-schema#subClassof> <http://nanbyodata.jp/ontology/NANDO_0000002>.",
+    " - <http://nanbyodata.jp/ontology/NANDO_2200196> <http://www.w3.org/2000/01/rdf-schema#subClassof> <http://nanbyodata.jp/ontology/NANDO_0000002>."
+  ],
+  "results": {
+    "http://nanbyodata.jp/ontology/nando.owl#": {
+      "graph_id": "http://nanbyodata.jp/ontology/nando.owl#",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "1.0.0",
+      "version_iri": "http://nanbyodata.jp/version1.0.0",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
+    }
+  }
+}

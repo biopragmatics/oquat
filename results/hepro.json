@@ -1,8 +1,34 @@
 {
-  "created": "2023-09-07T12:54:14.620784",
+  "created": "2023-12-07T09:36:33.301502",
   "messages": [
-    "[hepro] could not parse JSON from https://github.com/OpenLHS/HEPRO/raw/main/HEPRO.json: Expecting value: line 7 column 1 (char 6)",
-    "[hepro] could not parse OWL from https://github.com/OpenLHS/HEPRO/raw/main/HEPRO.owl"
+    "[hepro] could not parse JSON from https://github.com/OpenLHS/HEPRO/raw/main/HEPRO.json: Expecting value: line 7 column 1 (char 6)"
   ],
-  "results": {}
+  "results": {
+    "http://purl.obolibrary.org/obo/HEPRO.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/HEPRO.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "2023-10-20",
+      "version_iri": "http://purl.obolibrary.org/obo/HEPRO/releases/2023-10-20/HEPRO.owl",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
+    }
+  }
 }

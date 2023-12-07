@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `emapa`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 4 resources,
+`^\d+$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['EMAPA'].
 
 ## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
@@ -47,14 +47,6 @@ Identifiers for this prefix are given incorrectly in `mmusdv`. See the [GitHub r
 | `EMAPA:TS26`    |              2 | [MmusDv:0000035](http://purl.obolibrary.org/obo/MmusDv_0000035), [MmusDv:0000035](http://purl.obolibrary.org/obo/MmusDv_0000035) |
 | `EMAPA:TS27`    |              2 | [MmusDv:0000036](http://purl.obolibrary.org/obo/MmusDv_0000036), [MmusDv:0000036](http://purl.obolibrary.org/obo/MmusDv_0000036) |
 | `EMAPA:TS28`    |              1 | [MmusDv:0000043](http://purl.obolibrary.org/obo/MmusDv_0000043)                                                                  |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref   |   usages_count | usages                                                          |
-|-----------------|----------------|-----------------------------------------------------------------|
-| `EMAPA:th`      |              1 | [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) |
 
 ## `uberon`: Uber Anatomy Ontology
 

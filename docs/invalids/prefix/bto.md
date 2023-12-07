@@ -79,6 +79,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0003760` |              1 | [Cellosaurus#CVCL:0090](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0090)                                                                                |
 | `BTO:BTO:0003288` |              1 | [Cellosaurus#CVCL:0092](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0092)                                                                                |
 | `BTO:BTO:0004505` |              1 | [Cellosaurus#CVCL:0093](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0093)                                                                                |
+| `BTO:BTO:0006520` |              1 | [Cellosaurus#CVCL:0098](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0098)                                                                                |
 | `BTO:BTO:0005786` |              1 | [Cellosaurus#CVCL:0099](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0099)                                                                                |
 | `BTO:BTO:0003479` |              1 | [Cellosaurus#CVCL:0100](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0100)                                                                                |
 | `BTO:BTO:0003478` |              1 | [Cellosaurus#CVCL:0102](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0102)                                                                                |
@@ -349,6 +350,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0001599` |              1 | [Cellosaurus#CVCL:0544](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0544)                                                                                |
 | `BTO:BTO:0000033` |              1 | [Cellosaurus#CVCL:0545](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0545)                                                                                |
 | `BTO:BTO:0000038` |              1 | [Cellosaurus#CVCL:0546](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0546)                                                                                |
+| `BTO:BTO:0006552` |              1 | [Cellosaurus#CVCL:0546](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0546)                                                                                |
 | `BTO:BTO:0000675` |              1 | [Cellosaurus#CVCL:0547](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0547)                                                                                |
 | `BTO:BTO:0000971` |              1 | [Cellosaurus#CVCL:0548](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0548)                                                                                |
 | `BTO:BTO:0001240` |              1 | [Cellosaurus#CVCL:0549](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0549)                                                                                |
@@ -385,6 +387,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0005861` |              1 | [Cellosaurus#CVCL:0599](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0599)                                                                                |
 | `BTO:BTO:0000454` |              1 | [Cellosaurus#CVCL:0601](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0601)                                                                                |
 | `BTO:BTO:0004754` |              1 | [Cellosaurus#CVCL:0603](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0603)                                                                                |
+| `BTO:BTO:0000576` |              1 | [Cellosaurus#CVCL:0604](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0604)                                                                                |
 | `BTO:BTO:0003428` |              1 | [Cellosaurus#CVCL:0605](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0605)                                                                                |
 | `BTO:BTO:0000154` |              1 | [Cellosaurus#CVCL:0606](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0606)                                                                                |
 | `BTO:BTO:0002940` |              1 | [Cellosaurus#CVCL:0608](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0608)                                                                                |
@@ -414,6 +417,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0005482` |              1 | [Cellosaurus#CVCL:0B34](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0B34)                                                                                |
 | `BTO:BTO:0005554` |              1 | [Cellosaurus#CVCL:0B37](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0B37)                                                                                |
 | `BTO:BTO:0005615` |              1 | [Cellosaurus#CVCL:0B38](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0B38)                                                                                |
+| `BTO:BTO:0006557` |              1 | [Cellosaurus#CVCL:0C84](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0C84)                                                                                |
 | `BTO:BTO:0005631` |              1 | [Cellosaurus#CVCL:0D18](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0D18)                                                                                |
 | `BTO:BTO:0005485` |              1 | [Cellosaurus#CVCL:0D74](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0D74)                                                                                |
 | `BTO:BTO:0005448` |              1 | [Cellosaurus#CVCL:0D77](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0D77)                                                                                |
@@ -525,6 +529,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0003461` |              1 | [Cellosaurus#CVCL:1292](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1292)                                                                                |
 | `BTO:BTO:0006211` |              1 | [Cellosaurus#CVCL:1295](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1295)                                                                                |
 | `BTO:BTO:0002431` |              1 | [Cellosaurus#CVCL:1297](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1297)                                                                                |
+| `BTO:BTO:0006547` |              1 | [Cellosaurus#CVCL:1299](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1299)                                                                                |
 | `BTO:BTO:0005967` |              1 | [Cellosaurus#CVCL:1301](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1301)                                                                                |
 | `BTO:BTO:0002575` |              1 | [Cellosaurus#CVCL:1304](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1304)                                                                                |
 | `BTO:BTO:0002897` |              1 | [Cellosaurus#CVCL:1305](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1305)                                                                                |
@@ -587,12 +592,14 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0003004` |              1 | [Cellosaurus#CVCL:1470](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1470)                                                                                |
 | `BTO:BTO:0003244` |              1 | [Cellosaurus#CVCL:1472](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1472)                                                                                |
 | `BTO:BTO:0003024` |              1 | [Cellosaurus#CVCL:1473](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1473)                                                                                |
+| `BTO:BTO:0006524` |              1 | [Cellosaurus#CVCL:1474](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1474)                                                                                |
 | `BTO:BTO:0006042` |              1 | [Cellosaurus#CVCL:1479](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1479)                                                                                |
 | `BTO:BTO:0005243` |              1 | [Cellosaurus#CVCL:1483](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1483)                                                                                |
 | `BTO:BTO:0005975` |              1 | [Cellosaurus#CVCL:1486](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1486)                                                                                |
 | `BTO:BTO:0005966` |              1 | [Cellosaurus#CVCL:1487](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1487)                                                                                |
 | `BTO:BTO:0003009` |              1 | [Cellosaurus#CVCL:1490](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1490)                                                                                |
 | `BTO:BTO:0005836` |              1 | [Cellosaurus#CVCL:1495](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1495)                                                                                |
+| `BTO:BTO:0006525` |              1 | [Cellosaurus#CVCL:1498](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1498)                                                                                |
 | `BTO:BTO:0005779` |              1 | [Cellosaurus#CVCL:1499](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1499)                                                                                |
 | `BTO:BTO:0003021` |              1 | [Cellosaurus#CVCL:1501](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1501)                                                                                |
 | `BTO:BTO:0004426` |              1 | [Cellosaurus#CVCL:1505](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1505)                                                                                |
@@ -609,6 +616,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0006021` |              1 | [Cellosaurus#CVCL:1530](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1530)                                                                                |
 | `BTO:BTO:0003006` |              1 | [Cellosaurus#CVCL:1531](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1531)                                                                                |
 | `BTO:BTO:0003240` |              1 | [Cellosaurus#CVCL:1532](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1532)                                                                                |
+| `BTO:BTO:0006526` |              1 | [Cellosaurus#CVCL:1534](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1534)                                                                                |
 | `BTO:BTO:0005425` |              1 | [Cellosaurus#CVCL:1535](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1535)                                                                                |
 | `BTO:BTO:0005978` |              1 | [Cellosaurus#CVCL:1536](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1536)                                                                                |
 | `BTO:BTO:0006022` |              1 | [Cellosaurus#CVCL:1537](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1537)                                                                                |
@@ -642,6 +650,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0002416` |              1 | [Cellosaurus#CVCL:1600](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1600)                                                                                |
 | `BTO:BTO:0003028` |              1 | [Cellosaurus#CVCL:1602](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1602)                                                                                |
 | `BTO:BTO:0003053` |              1 | [Cellosaurus#CVCL:1603](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1603)                                                                                |
+| `BTO:BTO:0006542` |              1 | [Cellosaurus#CVCL:1604](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1604)                                                                                |
 | `BTO:BTO:0005916` |              1 | [Cellosaurus#CVCL:1609](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1609)                                                                                |
 | `BTO:BTO:0002596` |              1 | [Cellosaurus#CVCL:1611](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1611)                                                                                |
 | `BTO:BTO:0002597` |              1 | [Cellosaurus#CVCL:1612](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1612)                                                                                |
@@ -729,6 +738,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0003542` |              1 | [Cellosaurus#CVCL:1827](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1827)                                                                                |
 | `BTO:BTO:0004934` |              1 | [Cellosaurus#CVCL:1836](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1836)                                                                                |
 | `BTO:BTO:0004620` |              1 | [Cellosaurus#CVCL:1844](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1844)                                                                                |
+| `BTO:BTO:0006485` |              1 | [Cellosaurus#CVCL:1845](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1845)                                                                                |
 | `BTO:BTO:0005879` |              1 | [Cellosaurus#CVCL:1846](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1846)                                                                                |
 | `BTO:BTO:0005878` |              1 | [Cellosaurus#CVCL:1847](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1847)                                                                                |
 | `BTO:BTO:0003376` |              1 | [Cellosaurus#CVCL:1851](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1851)                                                                                |
@@ -738,6 +748,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0006444` |              1 | [Cellosaurus#CVCL:1865](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1865)                                                                                |
 | `BTO:BTO:0005913` |              1 | [Cellosaurus#CVCL:1870](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1870)                                                                                |
 | `BTO:BTO:0005914` |              1 | [Cellosaurus#CVCL:1871](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1871)                                                                                |
+| `BTO:BTO:0006480` |              1 | [Cellosaurus#CVCL:1877](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1877)                                                                                |
 | `BTO:BTO:0006414` |              1 | [Cellosaurus#CVCL:1881](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1881)                                                                                |
 | `BTO:BTO:0004847` |              1 | [Cellosaurus#CVCL:1882](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1882)                                                                                |
 | `BTO:BTO:0003558` |              1 | [Cellosaurus#CVCL:1884](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1884)                                                                                |
@@ -782,6 +793,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0000595` |              1 | [Cellosaurus#CVCL:2039](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2039)                                                                                |
 | `BTO:BTO:0000446` |              1 | [Cellosaurus#CVCL:2040](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2040)                                                                                |
 | `BTO:BTO:0003641` |              1 | [Cellosaurus#CVCL:2045](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2045)                                                                                |
+| `BTO:BTO:0006529` |              1 | [Cellosaurus#CVCL:2058](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2058)                                                                                |
 | `BTO:BTO:0004082` |              1 | [Cellosaurus#CVCL:2063](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2063)                                                                                |
 | `BTO:BTO:0005747` |              1 | [Cellosaurus#CVCL:2075](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2075)                                                                                |
 | `BTO:BTO:0004312` |              1 | [Cellosaurus#CVCL:2077](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2077)                                                                                |
@@ -794,6 +806,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0004137` |              1 | [Cellosaurus#CVCL:2091](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2091)                                                                                |
 | `BTO:BTO:0006213` |              1 | [Cellosaurus#CVCL:2092](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2092)                                                                                |
 | `BTO:BTO:0000795` |              1 | [Cellosaurus#CVCL:2097](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2097)                                                                                |
+| `BTO:BTO:0006531` |              1 | [Cellosaurus#CVCL:2102](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2102)                                                                                |
 | `BTO:BTO:0005248` |              1 | [Cellosaurus#CVCL:2106](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2106)                                                                                |
 | `BTO:BTO:0002037` |              1 | [Cellosaurus#CVCL:2107](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2107)                                                                                |
 | `BTO:BTO:0003902` |              1 | [Cellosaurus#CVCL:2111](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2111)                                                                                |
@@ -820,6 +833,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0002399` |              1 | [Cellosaurus#CVCL:2164](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2164)                                                                                |
 | `BTO:BTO:0004500` |              1 | [Cellosaurus#CVCL:2167](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2167)                                                                                |
 | `BTO:BTO:0004202` |              1 | [Cellosaurus#CVCL:2169](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2169)                                                                                |
+| `BTO:BTO:0006563` |              1 | [Cellosaurus#CVCL:2180](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2180)                                                                                |
 | `BTO:BTO:0004766` |              1 | [Cellosaurus#CVCL:2187](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2187)                                                                                |
 | `BTO:BTO:0005745` |              1 | [Cellosaurus#CVCL:2191](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2191)                                                                                |
 | `BTO:BTO:0006057` |              1 | [Cellosaurus#CVCL:2197](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2197)                                                                                |
@@ -868,6 +882,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0002255` |              1 | [Cellosaurus#CVCL:2478](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2478)                                                                                |
 | `BTO:BTO:0003320` |              1 | [Cellosaurus#CVCL:2481](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2481)                                                                                |
 | `BTO:BTO:0006399` |              1 | [Cellosaurus#CVCL:2487](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2487)                                                                                |
+| `BTO:BTO:0006484` |              1 | [Cellosaurus#CVCL:2499](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2499)                                                                                |
 | `BTO:BTO:0006210` |              1 | [Cellosaurus#CVCL:2501](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2501)                                                                                |
 | `BTO:BTO:0001947` |              1 | [Cellosaurus#CVCL:2514](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2514)                                                                                |
 | `BTO:BTO:0003035` |              1 | [Cellosaurus#CVCL:2516](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2516)                                                                                |
@@ -884,6 +899,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0005077` |              1 | [Cellosaurus#CVCL:2575](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2575)                                                                                |
 | `BTO:BTO:0002175` |              1 | [Cellosaurus#CVCL:2579](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2579)                                                                                |
 | `BTO:BTO:0000581` |              1 | [Cellosaurus#CVCL:2616](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2616)                                                                                |
+| `BTO:BTO:0006540` |              1 | [Cellosaurus#CVCL:2627](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2627)                                                                                |
 | `BTO:BTO:0005492` |              1 | [Cellosaurus#CVCL:2631](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2631)                                                                                |
 | `BTO:BTO:0003030` |              1 | [Cellosaurus#CVCL:2632](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2632)                                                                                |
 | `BTO:BTO:0004859` |              1 | [Cellosaurus#CVCL:2659](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2659)                                                                                |
@@ -980,6 +996,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0005389` |              1 | [Cellosaurus#CVCL:3424](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3424)                                                                                |
 | `BTO:BTO:0005390` |              1 | [Cellosaurus#CVCL:3425](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3425)                                                                                |
 | `BTO:BTO:0003903` |              1 | [Cellosaurus#CVCL:3439](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3439)                                                                                |
+| `BTO:BTO:0006507` |              1 | [Cellosaurus#CVCL:3443](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3443)                                                                                |
 | `BTO:BTO:0005298` |              1 | [Cellosaurus#CVCL:3447](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3447)                                                                                |
 | `BTO:BTO:0005299` |              1 | [Cellosaurus#CVCL:3448](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3448)                                                                                |
 | `BTO:BTO:0004404` |              1 | [Cellosaurus#CVCL:3454](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3454)                                                                                |
@@ -998,6 +1015,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0000461` |              1 | [Cellosaurus#CVCL:3518](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3518)                                                                                |
 | `BTO:BTO:0006304` |              1 | [Cellosaurus#CVCL:3530](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3530)                                                                                |
 | `BTO:BTO:0001589` |              1 | [Cellosaurus#CVCL:3533](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3533)                                                                                |
+| `BTO:BTO:0006548` |              1 | [Cellosaurus#CVCL:3536](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3536)                                                                                |
 | `BTO:BTO:0005080` |              1 | [Cellosaurus#CVCL:3537](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3537)                                                                                |
 | `BTO:BTO:0000591` |              1 | [Cellosaurus#CVCL:3551](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3551)                                                                                |
 | `BTO:BTO:0000871` |              1 | [Cellosaurus#CVCL:3575](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_3575)                                                                                |
@@ -1212,6 +1230,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0004066` |              1 | [Cellosaurus#CVCL:4340](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4340)                                                                                |
 | `BTO:BTO:0000228` |              1 | [Cellosaurus#CVCL:4343](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4343)                                                                                |
 | `BTO:BTO:0000181` |              1 | [Cellosaurus#CVCL:4358](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4358)                                                                                |
+| `BTO:BTO:0000745` |              1 | [Cellosaurus#CVCL:4358](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4358)                                                                                |
 | `BTO:BTO:0001550` |              1 | [Cellosaurus#CVCL:4360](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4360)                                                                                |
 | `BTO:BTO:0004734` |              1 | [Cellosaurus#CVCL:4362](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4362)                                                                                |
 | `BTO:BTO:0000593` |              1 | [Cellosaurus#CVCL:4367](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4367)                                                                                |
@@ -1252,6 +1271,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0004447` |              1 | [Cellosaurus#CVCL:4462](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4462)                                                                                |
 | `BTO:BTO:0004599` |              1 | [Cellosaurus#CVCL:4463](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4463)                                                                                |
 | `BTO:BTO:0004924` |              1 | [Cellosaurus#CVCL:4464](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4464)                                                                                |
+| `BTO:BTO:0006549` |              1 | [Cellosaurus#CVCL:4540](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4540)                                                                                |
 | `BTO:BTO:0002368` |              1 | [Cellosaurus#CVCL:4563](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4563)                                                                                |
 | `BTO:BTO:0001933` |              1 | [Cellosaurus#CVCL:4565](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4565)                                                                                |
 | `BTO:BTO:0002000` |              1 | [Cellosaurus#CVCL:4566](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4566)                                                                                |
@@ -1358,6 +1378,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0005927` |              1 | [Cellosaurus#CVCL:5063](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5063)                                                                                |
 | `BTO:BTO:0005926` |              1 | [Cellosaurus#CVCL:5077](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5077)                                                                                |
 | `BTO:BTO:0005171` |              1 | [Cellosaurus#CVCL:5079](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5079)                                                                                |
+| `BTO:BTO:0006482` |              1 | [Cellosaurus#CVCL:5086](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5086)                                                                                |
 | `BTO:BTO:0005925` |              1 | [Cellosaurus#CVCL:5105](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5105)                                                                                |
 | `BTO:BTO:0003232` |              1 | [Cellosaurus#CVCL:5120](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5120)                                                                                |
 | `BTO:BTO:0003110` |              1 | [Cellosaurus#CVCL:5121](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5121)                                                                                |
@@ -1471,6 +1492,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0006404` |              1 | [Cellosaurus#CVCL:5992](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5992)                                                                                |
 | `BTO:BTO:0003888` |              1 | [Cellosaurus#CVCL:5993](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5993)                                                                                |
 | `BTO:BTO:0003919` |              1 | [Cellosaurus#CVCL:5994](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5994)                                                                                |
+| `BTO:BTO:0006555` |              1 | [Cellosaurus#CVCL:5G13](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5G13)                                                                                |
 | `BTO:BTO:0005865` |              1 | [Cellosaurus#CVCL:5G56](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5G56)                                                                                |
 | `BTO:BTO:0004955` |              1 | [Cellosaurus#CVCL:5T76](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5T76)                                                                                |
 | `BTO:BTO:0004010` |              1 | [Cellosaurus#CVCL:5T92](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_5T92)                                                                                |
@@ -1495,6 +1517,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0005146` |              1 | [Cellosaurus#CVCL:6289](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6289)                                                                                |
 | `BTO:BTO:0004858` |              1 | [Cellosaurus#CVCL:6291](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6291)                                                                                |
 | `BTO:BTO:0004965` |              1 | [Cellosaurus#CVCL:6297](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6297)                                                                                |
+| `BTO:BTO:0006508` |              1 | [Cellosaurus#CVCL:6298](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6298)                                                                                |
 | `BTO:BTO:0005144` |              1 | [Cellosaurus#CVCL:6300](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6300)                                                                                |
 | `BTO:BTO:0005161` |              1 | [Cellosaurus#CVCL:6303](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6303)                                                                                |
 | `BTO:BTO:0003710` |              1 | [Cellosaurus#CVCL:6357](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6357)                                                                                |
@@ -1517,6 +1540,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0002569` |              1 | [Cellosaurus#CVCL:6617](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6617)                                                                                |
 | `BTO:BTO:0002957` |              1 | [Cellosaurus#CVCL:6628](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6628)                                                                                |
 | `BTO:BTO:0002958` |              1 | [Cellosaurus#CVCL:6629](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6629)                                                                                |
+| `BTO:BTO:0006500` |              1 | [Cellosaurus#CVCL:6633](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6633)                                                                                |
 | `BTO:BTO:0002289` |              1 | [Cellosaurus#CVCL:6635](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6635)                                                                                |
 | `BTO:BTO:0002288` |              1 | [Cellosaurus#CVCL:6636](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6636)                                                                                |
 | `BTO:BTO:0003032` |              1 | [Cellosaurus#CVCL:6642](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6642)                                                                                |
@@ -1552,6 +1576,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0002016` |              1 | [Cellosaurus#CVCL:6813](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6813)                                                                                |
 | `BTO:BTO:0005670` |              1 | [Cellosaurus#CVCL:6821](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6821)                                                                                |
 | `BTO:BTO:0003569` |              1 | [Cellosaurus#CVCL:6824](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6824)                                                                                |
+| `BTO:BTO:0006539` |              1 | [Cellosaurus#CVCL:6831](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6831)                                                                                |
 | `BTO:BTO:0004469` |              1 | [Cellosaurus#CVCL:6832](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6832)                                                                                |
 | `BTO:BTO:0001566` |              1 | [Cellosaurus#CVCL:6833](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6833)                                                                                |
 | `BTO:BTO:0001565` |              1 | [Cellosaurus#CVCL:6834](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6834)                                                                                |
@@ -1588,6 +1613,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0001557` |              1 | [Cellosaurus#CVCL:6950](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6950)                                                                                |
 | `BTO:BTO:0004655` |              1 | [Cellosaurus#CVCL:6952](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6952)                                                                                |
 | `BTO:BTO:0004220` |              1 | [Cellosaurus#CVCL:6954](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6954)                                                                                |
+| `BTO:BTO:0006512` |              1 | [Cellosaurus#CVCL:6955](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6955)                                                                                |
 | `BTO:BTO:0002579` |              1 | [Cellosaurus#CVCL:6973](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6973)                                                                                |
 | `BTO:BTO:0002974` |              1 | [Cellosaurus#CVCL:6974](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6974)                                                                                |
 | `BTO:BTO:0002716` |              1 | [Cellosaurus#CVCL:6977](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_6977)                                                                                |
@@ -1708,6 +1734,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0004442` |              1 | [Cellosaurus#CVCL:7858](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7858)                                                                                |
 | `BTO:BTO:0003720` |              1 | [Cellosaurus#CVCL:7870](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7870)                                                                                |
 | `BTO:BTO:0001927` |              1 | [Cellosaurus#CVCL:7876](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7876)                                                                                |
+| `BTO:BTO:0006566` |              1 | [Cellosaurus#CVCL:7904](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7904)                                                                                |
 | `BTO:BTO:0003547` |              1 | [Cellosaurus#CVCL:7910](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7910)                                                                                |
 | `BTO:BTO:0005720` |              1 | [Cellosaurus#CVCL:7916](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7916)                                                                                |
 | `BTO:BTO:0004126` |              1 | [Cellosaurus#CVCL:7927](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7927)                                                                                |
@@ -1733,6 +1760,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0002948` |              1 | [Cellosaurus#CVCL:8044](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8044)                                                                                |
 | `BTO:BTO:0002951` |              1 | [Cellosaurus#CVCL:8054](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8054)                                                                                |
 | `BTO:BTO:0002949` |              1 | [Cellosaurus#CVCL:8058](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8058)                                                                                |
+| `BTO:BTO:0006553` |              1 | [Cellosaurus#CVCL:8063](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8063)                                                                                |
 | `BTO:BTO:0004321` |              1 | [Cellosaurus#CVCL:8087](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8087)                                                                                |
 | `BTO:BTO:0004322` |              1 | [Cellosaurus#CVCL:8088](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8088)                                                                                |
 | `BTO:BTO:0004323` |              1 | [Cellosaurus#CVCL:8089](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8089)                                                                                |
@@ -1756,6 +1784,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0002890` |              1 | [Cellosaurus#CVCL:8177](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8177)                                                                                |
 | `BTO:BTO:0004073` |              1 | [Cellosaurus#CVCL:8182](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8182)                                                                                |
 | `BTO:BTO:0004595` |              1 | [Cellosaurus#CVCL:8183](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8183)                                                                                |
+| `BTO:BTO:0006536` |              1 | [Cellosaurus#CVCL:8197](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8197)                                                                                |
 | `BTO:BTO:0005499` |              1 | [Cellosaurus#CVCL:8207](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8207)                                                                                |
 | `BTO:BTO:0006091` |              1 | [Cellosaurus#CVCL:8232](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8232)                                                                                |
 | `BTO:BTO:0002899` |              1 | [Cellosaurus#CVCL:8251](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8251)                                                                                |
@@ -1774,6 +1803,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0006030` |              1 | [Cellosaurus#CVCL:8695](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8695)                                                                                |
 | `BTO:BTO:0006136` |              1 | [Cellosaurus#CVCL:8706](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8706)                                                                                |
 | `BTO:BTO:0006086` |              1 | [Cellosaurus#CVCL:8719](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8719)                                                                                |
+| `BTO:BTO:0006511` |              1 | [Cellosaurus#CVCL:8747](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8747)                                                                                |
 | `BTO:BTO:0005384` |              1 | [Cellosaurus#CVCL:8752](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8752)                                                                                |
 | `BTO:BTO:0004618` |              1 | [Cellosaurus#CVCL:8760](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8760)                                                                                |
 | `BTO:BTO:0004624` |              1 | [Cellosaurus#CVCL:8775](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_8775)                                                                                |
@@ -1851,8 +1881,11 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0005068` |              1 | [Cellosaurus#CVCL:A337](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A337)                                                                                |
 | `BTO:BTO:0005573` |              1 | [Cellosaurus#CVCL:A357](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A357)                                                                                |
 | `BTO:BTO:0005775` |              1 | [Cellosaurus#CVCL:A426](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A426)                                                                                |
+| `BTO:BTO:0006521` |              1 | [Cellosaurus#CVCL:A478](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A478)                                                                                |
 | `BTO:BTO:0006200` |              1 | [Cellosaurus#CVCL:A4ZY](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A4ZY)                                                                                |
 | `BTO:BTO:0006215` |              1 | [Cellosaurus#CVCL:A4ZZ](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A4ZZ)                                                                                |
+| `BTO:BTO:0006564` |              1 | [Cellosaurus#CVCL:A503](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A503)                                                                                |
+| `BTO:BTO:0006541` |              1 | [Cellosaurus#CVCL:A592](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A592)                                                                                |
 | `BTO:BTO:0006240` |              1 | [Cellosaurus#CVCL:A5AA](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A5AA)                                                                                |
 | `BTO:BTO:0006202` |              1 | [Cellosaurus#CVCL:A5AH](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A5AH)                                                                                |
 | `BTO:BTO:0006303` |              1 | [Cellosaurus#CVCL:A5AI](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A5AI)                                                                                |
@@ -1991,14 +2024,28 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0005717` |              1 | [Cellosaurus#CVCL:C836](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C836)                                                                                |
 | `BTO:BTO:0004826` |              1 | [Cellosaurus#CVCL:C866](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C866)                                                                                |
 | `BTO:BTO:0005015` |              1 | [Cellosaurus#CVCL:C867](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C867)                                                                                |
+| `BTO:BTO:0006490` |              1 | [Cellosaurus#CVCL:C8NH](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8NH)                                                                                |
+| `BTO:BTO:0006491` |              1 | [Cellosaurus#CVCL:C8NI](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8NI)                                                                                |
+| `BTO:BTO:0006502` |              1 | [Cellosaurus#CVCL:C8NY](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8NY)                                                                                |
+| `BTO:BTO:0006503` |              1 | [Cellosaurus#CVCL:C8P1](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8P1)                                                                                |
+| `BTO:BTO:0006498` |              1 | [Cellosaurus#CVCL:C8P4](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8P4)                                                                                |
+| `BTO:BTO:0006497` |              1 | [Cellosaurus#CVCL:C8P5](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8P5)                                                                                |
+| `BTO:BTO:0006506` |              1 | [Cellosaurus#CVCL:C8P6](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8P6)                                                                                |
+| `BTO:BTO:0006513` |              1 | [Cellosaurus#CVCL:C8P7](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8P7)                                                                                |
+| `BTO:BTO:0006543` |              1 | [Cellosaurus#CVCL:C8P8](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8P8)                                                                                |
+| `BTO:BTO:0006530` |              1 | [Cellosaurus#CVCL:C8PZ](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8PZ)                                                                                |
+| `BTO:BTO:0006554` |              1 | [Cellosaurus#CVCL:C8Q2](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8Q2)                                                                                |
+| `BTO:BTO:0006479` |              1 | [Cellosaurus#CVCL:C8Q9](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8Q9)                                                                                |
 | `BTO:BTO:0005726` |              1 | [Cellosaurus#CVCL:CW91](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_CW91)                                                                                |
 | `BTO:BTO:0003642` |              1 | [Cellosaurus#CVCL:D015](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D015)                                                                                |
+| `BTO:BTO:0006509` |              1 | [Cellosaurus#CVCL:D016](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D016)                                                                                |
 | `BTO:BTO:0003565` |              1 | [Cellosaurus#CVCL:D052](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D052)                                                                                |
 | `BTO:BTO:0003574` |              1 | [Cellosaurus#CVCL:D053](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D053)                                                                                |
 | `BTO:BTO:0003727` |              1 | [Cellosaurus#CVCL:D054](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D054)                                                                                |
 | `BTO:BTO:0004275` |              1 | [Cellosaurus#CVCL:D158](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D158)                                                                                |
 | `BTO:BTO:0004276` |              1 | [Cellosaurus#CVCL:D159](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D159)                                                                                |
 | `BTO:BTO:0003211` |              1 | [Cellosaurus#CVCL:D197](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D197)                                                                                |
+| `BTO:BTO:0006568` |              1 | [Cellosaurus#CVCL:D199](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D199)                                                                                |
 | `BTO:BTO:0004866` |              1 | [Cellosaurus#CVCL:D240](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D240)                                                                                |
 | `BTO:BTO:0003588` |              1 | [Cellosaurus#CVCL:D259](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D259)                                                                                |
 | `BTO:BTO:0003587` |              1 | [Cellosaurus#CVCL:D260](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D260)                                                                                |
@@ -2007,6 +2054,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0004034` |              1 | [Cellosaurus#CVCL:D277](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D277)                                                                                |
 | `BTO:BTO:0004040` |              1 | [Cellosaurus#CVCL:D278](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D278)                                                                                |
 | `BTO:BTO:0005887` |              1 | [Cellosaurus#CVCL:D296](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D296)                                                                                |
+| `BTO:BTO:0006556` |              1 | [Cellosaurus#CVCL:D315](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D315)                                                                                |
 | `BTO:BTO:0004488` |              1 | [Cellosaurus#CVCL:D356](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D356)                                                                                |
 | `BTO:BTO:0004118` |              1 | [Cellosaurus#CVCL:D370](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D370)                                                                                |
 | `BTO:BTO:0003956` |              1 | [Cellosaurus#CVCL:D438](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D438)                                                                                |
@@ -2094,6 +2142,8 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0005888` |              1 | [Cellosaurus#CVCL:DG15](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_DG15)                                                                                |
 | `BTO:BTO:0005895` |              1 | [Cellosaurus#CVCL:DG39](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_DG39)                                                                                |
 | `BTO:BTO:0005970` |              1 | [Cellosaurus#CVCL:DP52](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_DP52)                                                                                |
+| `BTO:BTO:0006537` |              1 | [Cellosaurus#CVCL:DR55](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_DR55)                                                                                |
+| `BTO:BTO:0006538` |              1 | [Cellosaurus#CVCL:DR59](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_DR59)                                                                                |
 | `BTO:BTO:0005463` |              1 | [Cellosaurus#CVCL:E049](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_E049)                                                                                |
 | `BTO:BTO:0006297` |              1 | [Cellosaurus#CVCL:E067](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_E067)                                                                                |
 | `BTO:BTO:0006382` |              1 | [Cellosaurus#CVCL:E068](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_E068)                                                                                |
@@ -2128,6 +2178,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0004869` |              1 | [Cellosaurus#CVCL:H631](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_H631)                                                                                |
 | `BTO:BTO:0003530` |              1 | [Cellosaurus#CVCL:H640](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_H640)                                                                                |
 | `BTO:BTO:0006327` |              1 | [Cellosaurus#CVCL:H716](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_H716)                                                                                |
+| `BTO:BTO:0006532` |              1 | [Cellosaurus#CVCL:HD73](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_HD73)                                                                                |
 | `BTO:BTO:0005876` |              1 | [Cellosaurus#CVCL:HE02](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_HE02)                                                                                |
 | `BTO:BTO:0005875` |              1 | [Cellosaurus#CVCL:HE03](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_HE03)                                                                                |
 | `BTO:BTO:0003602` |              1 | [Cellosaurus#CVCL:HP87](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_HP87)                                                                                |
@@ -2161,9 +2212,11 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0004761` |              1 | [Cellosaurus#CVCL:J294](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J294)                                                                                |
 | `BTO:BTO:0004506` |              1 | [Cellosaurus#CVCL:J295](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J295)                                                                                |
 | `BTO:BTO:0004529` |              1 | [Cellosaurus#CVCL:J296](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J296)                                                                                |
+| `BTO:BTO:0006550` |              1 | [Cellosaurus#CVCL:J303](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J303)                                                                                |
 | `BTO:BTO:0003700` |              1 | [Cellosaurus#CVCL:J349](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J349)                                                                                |
 | `BTO:BTO:0004476` |              1 | [Cellosaurus#CVCL:J351](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J351)                                                                                |
 | `BTO:BTO:0002532` |              1 | [Cellosaurus#CVCL:J354](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J354)                                                                                |
+| `BTO:BTO:0006562` |              1 | [Cellosaurus#CVCL:J385](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J385)                                                                                |
 | `BTO:BTO:0003584` |              1 | [Cellosaurus#CVCL:J405](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J405)                                                                                |
 | `BTO:BTO:0003060` |              1 | [Cellosaurus#CVCL:J442](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J442)                                                                                |
 | `BTO:BTO:0004391` |              1 | [Cellosaurus#CVCL:J654](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J654)                                                                                |
@@ -2341,6 +2394,8 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BTO:BTO:0006361` |              1 | [Cellosaurus#CVCL:X208](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_X208)                                                                                |
 | `BTO:BTO:0004191` |              1 | [Cellosaurus#CVCL:X641](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_X641)                                                                                |
 | `BTO:BTO:0003778` |              1 | [Cellosaurus#CVCL:X642](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_X642)                                                                                |
+| `BTO:BTO:0006565` |              1 | [Cellosaurus#CVCL:X980](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_X980)                                                                                |
+| `BTO:BTO:0006483` |              1 | [Cellosaurus#CVCL:Y003](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Y003)                                                                                |
 | `BTO:BTO:0005140` |              1 | [Cellosaurus#CVCL:Y296](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Y296)                                                                                |
 | `BTO:BTO:0005709` |              1 | [Cellosaurus#CVCL:Y558](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Y558)                                                                                |
 | `BTO:BTO:0004127` |              1 | [Cellosaurus#CVCL:Y905](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Y905)                                                                                |
@@ -2391,11 +2446,12 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 |-----------------|----------------|---------------------------------------------------------|
 | `BTO:000125`    |              1 | [CL:1000398](http://purl.obolibrary.org/obo/CL_1000398) |
 
-## `nif`: None
+## `efo`: Experimental Factor Ontology
 
-Identifiers for this prefix are given incorrectly in `nif`.
+Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
-| external_xref   |   usages_count | usages                                                  |
-|-----------------|----------------|---------------------------------------------------------|
-| `BTO:000125`    |              1 | [CL:1000398](http://purl.obolibrary.org/obo/CL_1000398) |
+| external_xref               |   usages_count | usages                                              |
+|-----------------------------|----------------|-----------------------------------------------------|
+| `BTO:0002522 `              |              1 | [EFO:0022408](http://www.ebi.ac.uk/efo/EFO_0022408) |
+| `BTO:0005715; PMID:7520026` |              1 | [EFO:0022452](http://www.ebi.ac.uk/efo/EFO_0022452) |
 

@@ -2,18 +2,16 @@
 
 ## `FBC`
 
-There are 6 usages of `FBC` in `fbbt`.
+There are 4 usages of `FBC` in `fbbt`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20FBC).
 
-| curie       |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
-|-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| FBC:DOS     |      125 | [FBbt:00000094](http://purl.obolibrary.org/obo/FBbt_00000094), [FBbt:00000127](http://purl.obolibrary.org/obo/FBbt_00000127), [FBbt:00000128](http://purl.obolibrary.org/obo/FBbt_00000128), [FBbt:00000197](http://purl.obolibrary.org/obo/FBbt_00000197), [FBbt:00000210](http://purl.obolibrary.org/obo/FBbt_00000210), ... |
-| FBC:SPR     |        3 | [FBbt:00007354](http://purl.obolibrary.org/obo/FBbt_00007354), [FBbt:00100296](http://purl.obolibrary.org/obo/FBbt_00100296), [FBbt:00100297](http://purl.obolibrary.org/obo/FBbt_00100297)                                                                                                                                    |
-| FBC:MMC     |        2 | [FBbt:00001685](http://purl.obolibrary.org/obo/FBbt_00001685), [FBbt:00005424](http://purl.obolibrary.org/obo/FBbt_00005424)                                                                                                                                                                                                   |
-| FBC:FlyBase |        1 | [FBbt:00004043](http://purl.obolibrary.org/obo/FBbt_00004043)                                                                                                                                                                                                                                                                  |
-| FBC:DPG     |        1 | [FBbt:00005067](http://purl.obolibrary.org/obo/FBbt_00005067)                                                                                                                                                                                                                                                                  |
-| FBC:VH      |        1 | [FBbt:00005473](http://purl.obolibrary.org/obo/FBbt_00005473)                                                                                                                                                                                                                                                                  |
+| curie       |   usages | nodes                                                                                                                                                                                       |
+|-------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| FBC:SPR     |        3 | [FBbt:00007354](http://purl.obolibrary.org/obo/FBbt_00007354), [FBbt:00100296](http://purl.obolibrary.org/obo/FBbt_00100296), [FBbt:00100297](http://purl.obolibrary.org/obo/FBbt_00100297) |
+| FBC:FlyBase |        1 | [FBbt:00004043](http://purl.obolibrary.org/obo/FBbt_00004043)                                                                                                                               |
+| FBC:DPG     |        1 | [FBbt:00005067](http://purl.obolibrary.org/obo/FBbt_00005067)                                                                                                                               |
+| FBC:VH      |        1 | [FBbt:00005473](http://purl.obolibrary.org/obo/FBbt_00005473)                                                                                                                               |
 
 ## `FlyPNS`
 

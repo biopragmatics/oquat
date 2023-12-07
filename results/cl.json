@@ -1,8 +1,6 @@
 {
-  "created": "2023-09-07T12:31:49.889109",
-  "messages": [
-    "[cl] could not parse OWL from http://purl.obolibrary.org/obo/cl.owl"
-  ],
+  "created": "2023-12-07T09:23:43.010870",
+  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/cl.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/cl.owl",
@@ -1785,6 +1783,7 @@
             "http://purl.obolibrary.org/obo/CL_0002606": "GOC:tfm",
             "http://purl.obolibrary.org/obo/CL_0002607": "GOC:tfm",
             "http://purl.obolibrary.org/obo/CL_0002608": "GOC:tfm",
+            "http://purl.obolibrary.org/obo/CL_0002609": "GOC:tfm",
             "http://purl.obolibrary.org/obo/CL_0002610": "GOC:tfm",
             "http://purl.obolibrary.org/obo/CL_0002611": "GOC:tfm",
             "http://purl.obolibrary.org/obo/CL_0002612": "GOC:tfm",
@@ -2386,8 +2385,8 @@
           }
         }
       },
-      "version": "2023-08-24",
-      "version_iri": "http://purl.obolibrary.org/obo/cl/releases/2023-08-24/cl.owl",
+      "version": "2023-12-05",
+      "version_iri": "http://purl.obolibrary.org/obo/cl/releases/2023-12-05/cl.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/CL_0000015": [

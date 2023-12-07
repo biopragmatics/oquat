@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `obi`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 7 resources,
+`^\d{7}$`. Of the 6 resources,
 2 variants on the standard prefix were found: ['OBI', 'obi'].
 
 ## `efo`: Experimental Factor Ontology
@@ -20,15 +20,6 @@ Identifiers for this prefix are given incorrectly in `geno`. See the [GitHub rep
 | external_xref                                   |   usages_count | usages                                                      |
 |-------------------------------------------------|----------------|-------------------------------------------------------------|
 | `OBI:genetic population background information` |              1 | [GENO:0000010](http://purl.obolibrary.org/obo/GENO_0000010) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref   |   usages_count | usages                                                          |
-|-----------------|----------------|-----------------------------------------------------------------|
-| `OBI:OBI`       |              1 | [PATO:0001985](http://purl.obolibrary.org/obo/PATO_0001985)     |
-| `OBI:MC`        |              1 | [UBERON:0012125](http://purl.obolibrary.org/obo/UBERON_0012125) |
 
 ## `pato`: Phenotype And Trait Ontology
 

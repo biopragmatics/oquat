@@ -1,13 +1,34 @@
 {
-  "created": "2023-09-07T13:01:07.820223",
+  "created": "2023-12-07T09:41:01.744184",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/hp.json": {
       "graph_id": "http://purl.obolibrary.org/obo/hp.json",
       "prov_pack": {
         "invalid_luids": {
+          "http://purl.obolibrary.org/obo/HP_0002494": [
+            "PMID:31910377|PMID:32179430"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0006979": [
+            "PMID:36115370|PMID:30725708|PMID:36872502"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0007159": [
+            "PMID:34557672|PMID:32374025"
+          ],
           "http://purl.obolibrary.org/obo/HP_0009659": [
             "PMID:probinson"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0010536": [
+            "PMID:35551411|PMID:36031317"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0012452": [
+            "PMID:35808955|PMID:28613628|PMID:34732752"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0025236": [
+            "PMID:32644427|PMID:30458142"
+          ],
+          "http://purl.obolibrary.org/obo/HP_0030050": [
+            "PMID:30228690|PMID:35624073"
           ],
           "http://purl.obolibrary.org/obo/HP_0030789": [
             "PMID:probinson"
@@ -23,6 +44,36 @@
           ],
           "http://purl.obolibrary.org/obo/HP_0033628": [
             "OMIM:ahamosh"
+          ],
+          "http://purl.obolibrary.org/obo/HP_5200212": [
+            "PMID:27862615|PMID:18622776"
+          ],
+          "http://purl.obolibrary.org/obo/HP_5200220": [
+            "PMID:20636189|PMID:34541953"
+          ],
+          "http://purl.obolibrary.org/obo/HP_5200235": [
+            "PMID:30416391;PMID:31582814"
+          ],
+          "http://purl.obolibrary.org/obo/HP_5200283": [
+            "PMID:29779616|PMID:34191224"
+          ],
+          "http://purl.obolibrary.org/obo/HP_5200289": [
+            "PMID:33205754|PMID:31553690"
+          ],
+          "http://purl.obolibrary.org/obo/HP_5200292": [
+            "PMID:23997705|PMID:22560828"
+          ],
+          "http://purl.obolibrary.org/obo/HP_5200294": [
+            "PMID:35388549|PMID:36866491"
+          ],
+          "http://purl.obolibrary.org/obo/HP_5200295": [
+            "PMID:32809562|PMID:36507891"
+          ],
+          "http://purl.obolibrary.org/obo/HP_5200310": [
+            "PMID:31997686;PMID:17391357"
+          ],
+          "http://purl.obolibrary.org/obo/HP_5200321": [
+            "PMID:24001164|PMID:26851616"
           ]
         },
         "label": "Provenance Xrefs",
@@ -47,9 +98,6 @@
           }
         },
         "unknown_prefixes": {
-          "DSM": {
-            "http://purl.obolibrary.org/obo/HP_0010865": "DSM:313.81"
-          },
           "HPO_CONTRIBUTOR": {
             "http://purl.obolibrary.org/obo/HP_0000074": "HPO_CONTRIBUTOR:Eurenomics_ewuehl",
             "http://purl.obolibrary.org/obo/HP_0000090": "HPO_CONTRIBUTOR:Eurenomics_fschaefer",
@@ -522,7 +570,6 @@
             "http://purl.obolibrary.org/obo/HP_0012624": "HPO_CONTRIBUTOR:Eurenomics_fschaefer",
             "http://purl.obolibrary.org/obo/HP_0012625": "HPO_CONTRIBUTOR:Eurenomics_fschaefer",
             "http://purl.obolibrary.org/obo/HP_0012626": "HPO_CONTRIBUTOR:Eurenomics_fschaefer",
-            "http://purl.obolibrary.org/obo/HP_0012671": "HPO_CONTRIBUTOR:UToronto_htrang",
             "http://purl.obolibrary.org/obo/HP_0012679": "HPO_CONTRIBUTOR:UToronto_htrang",
             "http://purl.obolibrary.org/obo/HP_0012681": "HPO_CONTRIBUTOR:UToronto_htrang",
             "http://purl.obolibrary.org/obo/HP_0012684": "HPO_CONTRIBUTOR:UToronto_htrang",
@@ -639,16 +686,11 @@
             "http://purl.obolibrary.org/obo/HP_0030208": "HPO_CONTRIBUTOR:UK_rheller",
             "http://purl.obolibrary.org/obo/HP_0030209": "HPO_CONTRIBUTOR:UNCL_mbertoli",
             "http://purl.obolibrary.org/obo/HP_0030211": "HPO_CONTRIBUTOR:UNCL_tevangelista",
-            "http://purl.obolibrary.org/obo/HP_0030213": "HPO_CONTRIBUTOR:ICM_PCaroppo",
-            "http://purl.obolibrary.org/obo/HP_0030214": "HPO_CONTRIBUTOR:ICM_PCaroppo",
-            "http://purl.obolibrary.org/obo/HP_0030215": "HPO_CONTRIBUTOR:ICM_PCaroppo",
             "http://purl.obolibrary.org/obo/HP_0030216": "HPO_CONTRIBUTOR:ICM_PCaroppo",
             "http://purl.obolibrary.org/obo/HP_0030217": "HPO_CONTRIBUTOR:ICM_PCaroppo",
             "http://purl.obolibrary.org/obo/HP_0030218": "HPO_CONTRIBUTOR:ICM_PCaroppo",
             "http://purl.obolibrary.org/obo/HP_0030219": "HPO_CONTRIBUTOR:ICM_PCaroppo",
             "http://purl.obolibrary.org/obo/HP_0030220": "HPO_CONTRIBUTOR:ICM_PCaroppo",
-            "http://purl.obolibrary.org/obo/HP_0030221": "HPO_CONTRIBUTOR:ICM_PCaroppo",
-            "http://purl.obolibrary.org/obo/HP_0030222": "HPO_CONTRIBUTOR:ICM_PCaroppo",
             "http://purl.obolibrary.org/obo/HP_0030277": "HPO_CONTRIBUTOR:UToronto_bgallinger",
             "http://purl.obolibrary.org/obo/HP_0030279": "HPO_CONTRIBUTOR:UToronto_bgallinger",
             "http://purl.obolibrary.org/obo/HP_0030282": "HPO_CONTRIBUTOR:UToronto_bgallinger",
@@ -756,8 +798,8 @@
         },
         "unknown_prefixes": {}
       },
-      "version": "2023-09-01",
-      "version_iri": "http://purl.obolibrary.org/obo/hp/releases/2023-09-01/hp.json",
+      "version": "2023-10-09",
+      "version_iri": "http://purl.obolibrary.org/obo/hp/releases/2023-10-09/hp.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/HP_0002893": [

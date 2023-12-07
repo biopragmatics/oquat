@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `caro`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 14 resources,
+`^\d{7}$`. Of the 12 resources,
 1 variants on the standard prefix were found: ['CARO'].
 
 ## `aeo`: Anatomical Entity Ontology
@@ -62,14 +62,6 @@ Identifiers for this prefix are given incorrectly in `enm`.
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
 | `CARO:mah`      |              2 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000), [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) |
 
-## `fbbt`: Drosophila gross anatomy
-
-Identifiers for this prefix are given incorrectly in `fbbt`. See the [GitHub repository](https://github.com/FlyBase/drosophila-anatomy-developmental-ontology).
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
-|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CARO:MAH`      |             12 | [FBbt:00000124](http://purl.obolibrary.org/obo/FBbt_00000124), [FBbt:00007001](http://purl.obolibrary.org/obo/FBbt_00007001), [FBbt:00007002](http://purl.obolibrary.org/obo/FBbt_00007002), [FBbt:00007003](http://purl.obolibrary.org/obo/FBbt_00007003), [FBbt:00007004](http://purl.obolibrary.org/obo/FBbt_00007004), ... |
-
 ## `idomal`: Malaria Ontology
 
 Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub repository](https://github.com/VEuPathDB-ontology/IDOMAL).
@@ -77,16 +69,6 @@ Identifiers for this prefix are given incorrectly in `idomal`. See the [GitHub r
 | external_xref   |   usages_count | usages                                                          |
 |-----------------|----------------|-----------------------------------------------------------------|
 | `CARO:00000041` |              1 | [IDOMAL:0002461](http://purl.obolibrary.org/obo/IDOMAL_0002461) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                             |
-|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CARO:DOS`      |              4 | [UBERON:0000026](http://purl.obolibrary.org/obo/UBERON_0000026), [UBERON:0000475](http://purl.obolibrary.org/obo/UBERON_0000475), [UBERON:0000478](http://purl.obolibrary.org/obo/UBERON_0000478), [UBERON:0022295](http://purl.obolibrary.org/obo/UBERON_0022295) |
-| `CARO:mah`      |              2 | [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000), [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003)                                                                                                                                                   |
-| `CARO:MAH`      |              1 | [CARO:0000000](http://purl.obolibrary.org/obo/CARO_0000000)                                                                                                                                                                                                        |
 
 ## `uberon`: Uber Anatomy Ontology
 

@@ -15,6 +15,17 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 |-----------------|----------------|-----------------------------------------------------------|
 | `MESH:68011802` |              1 | [XCO:0000617](http://purl.obolibrary.org/obo/XCO_0000617) |
 
+## `PMID`: PubMed
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+prefix [`pubmed`](https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref    |   usages_count | usages                                                    |
+|------------------|----------------|-----------------------------------------------------------|
+| `PMID:_35999905` |              1 | [XCO:0001116](http://purl.obolibrary.org/obo/XCO_0001116) |
+
 ## `RGD`: Rat Genome Database
 
 Overall, there were 42 invalid

@@ -232,7 +232,7 @@ did not match the standard pattern `^BAMSC\d+$`.
 Overall, there were 42 invalid
 xrefs to external prefixed with `PRO` (standardized to Bioregistry
 prefix [`pr`](https://bioregistry.io/pr)) that
-did not match the standard pattern `^\d+$`.
+did not match the standard pattern `^(?:\d{9}|[OPQ][0-9][A-Z0-9]{3}[0-9](?:-\d+)?|[A-NR-Z][0-9](?:[A-Z][A-Z0-9]{2}[0-9]){1,2}(?:-\d+)?)$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

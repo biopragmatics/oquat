@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T13:23:28.254935",
+  "created": "2023-12-07T09:56:31.728180",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/pw.owl": {
@@ -1177,8 +1177,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "7.81",
-      "version_iri": "http://purl.obolibrary.org/obo/pw/7.81/pw.owl",
+      "version": "7.82",
+      "version_iri": "http://purl.obolibrary.org/obo/pw/7.82/pw.owl",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

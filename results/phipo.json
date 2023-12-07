@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T13:22:42.549845",
+  "created": "2023-12-07T09:55:56.496369",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/phipo.owl": {
@@ -18,8 +18,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2023-08-03",
-      "version_iri": "http://purl.obolibrary.org/obo/phipo/releases/2023-08-03/phipo.owl",
+      "version": "2023-11-30",
+      "version_iri": "http://purl.obolibrary.org/obo/phipo/releases/2023-11-30/phipo.owl",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

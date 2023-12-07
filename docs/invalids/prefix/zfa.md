@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `zfa`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 4 resources,
+`^\d{7}$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['ZFA'].
 
 ## `go`: Gene Ontology
@@ -13,20 +13,6 @@ Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repos
 |-----------------|----------------|---------------------------------------------------------|
 | `ZFA:00001558`  |              1 | [GO:0039008](http://purl.obolibrary.org/obo/GO_0039008) |
 | `ZFA:00001557`  |              1 | [GO:0039021](http://purl.obolibrary.org/obo/GO_0039021) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref           |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
-|-------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ZFA:curator`           |              9 | [UBERON:0008229](http://purl.obolibrary.org/obo/UBERON_0008229), [UBERON:0014371](http://purl.obolibrary.org/obo/UBERON_0014371), [UBERON:0014903](http://purl.obolibrary.org/obo/UBERON_0014903), [UBERON:0018549](http://purl.obolibrary.org/obo/UBERON_0018549), [UBERON:2000120](http://purl.obolibrary.org/obo/UBERON_2000120), ... |
-| `ZFA:CVS`               |              2 | [UBERON:0016499](http://purl.obolibrary.org/obo/UBERON_0016499), [UBERON:0018674](http://purl.obolibrary.org/obo/UBERON_0018674)                                                                                                                                                                                                         |
-| `ZFA:00001558`          |              1 | [GO:0039008](http://purl.obolibrary.org/obo/GO_0039008)                                                                                                                                                                                                                                                                                  |
-| `ZFA:00001557`          |              1 | [GO:0039021](http://purl.obolibrary.org/obo/GO_0039021)                                                                                                                                                                                                                                                                                  |
-| `ZFA:yb`                |              1 | [UBERON:0002539](http://purl.obolibrary.org/obo/UBERON_0002539)                                                                                                                                                                                                                                                                          |
-| `ZFA:YMB`               |              1 | [UBERON:0016499](http://purl.obolibrary.org/obo/UBERON_0016499)                                                                                                                                                                                                                                                                          |
-| `ZFA:ZDB-PUB-060323-12` |              1 | [UBERON:2005245](http://purl.obolibrary.org/obo/UBERON_2005245)                                                                                                                                                                                                                                                                          |
 
 ## `tao`: Teleost Anatomy Ontology
 

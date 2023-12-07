@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T13:28:37.506767",
+  "created": "2023-12-07T10:00:30.503019",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/uberon.json": {
@@ -8888,7 +8888,6 @@
             "http://purl.obolibrary.org/obo/UBERON_6003024": "FBC:auto_generated_definition",
             "http://purl.obolibrary.org/obo/UBERON_6003623": "FBC:SPR",
             "http://purl.obolibrary.org/obo/UBERON_6003624": "FBC:SPR",
-            "http://purl.obolibrary.org/obo/UBERON_6004203": "FBC:VH",
             "http://purl.obolibrary.org/obo/UBERON_6004340": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6004475": "FBC:gg",
             "http://purl.obolibrary.org/obo/UBERON_6004521": "FBC:gg",
@@ -8897,7 +8896,6 @@
             "http://purl.obolibrary.org/obo/UBERON_6004668": "FBC:MMC",
             "http://purl.obolibrary.org/obo/UBERON_6004979": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6005378": "FBC:gg",
-            "http://purl.obolibrary.org/obo/UBERON_6005439": "FBC:VH",
             "http://purl.obolibrary.org/obo/UBERON_6005467": "FBC:VH",
             "http://purl.obolibrary.org/obo/UBERON_6005569": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6005830": "FBC:VH",
@@ -17123,11 +17121,7 @@
             "http://purl.obolibrary.org/obo/UBERON_6001055": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6001056": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6001059": "FBC:DOS",
-            "http://purl.obolibrary.org/obo/UBERON_6004203": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6005037": "FBC:DOS",
-            "http://purl.obolibrary.org/obo/UBERON_6005434": "FBC:DOS",
-            "http://purl.obolibrary.org/obo/UBERON_6005436": "FBC:DOS",
-            "http://purl.obolibrary.org/obo/UBERON_6005439": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6005514": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6005533": "FBC:DOS",
             "http://purl.obolibrary.org/obo/UBERON_6005541": "FBC:DOS",
@@ -18370,8 +18364,8 @@
           }
         }
       },
-      "version": "2023-09-05",
-      "version_iri": "http://purl.obolibrary.org/obo/uberon/releases/2023-09-05/uberon.json",
+      "version": "2023-10-27",
+      "version_iri": "http://purl.obolibrary.org/obo/uberon/releases/2023-10-27/uberon.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/UBERON_0000104": [

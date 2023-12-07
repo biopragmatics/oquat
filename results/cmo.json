@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T12:32:16.793664",
+  "created": "2023-12-07T09:24:04.079671",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/cmo.owl": {
@@ -852,7 +852,12 @@
             "http://purl.obolibrary.org/obo/CMO_0003918": "ISBN-13:978-0781733908",
             "http://purl.obolibrary.org/obo/CMO_0003919": "ISBN-13:978-0781733908",
             "http://purl.obolibrary.org/obo/CMO_0003920": "ISBN-13:978-0781733908",
-            "http://purl.obolibrary.org/obo/CMO_0003921": "ISBN-13:978-0781733908"
+            "http://purl.obolibrary.org/obo/CMO_0003921": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/CMO_0003967": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/CMO_0003968": "ISBN-13:978-1455756438",
+            "http://purl.obolibrary.org/obo/CMO_0003969": "ISBN-13:9780781733908",
+            "http://purl.obolibrary.org/obo/CMO_0003970": "ISBN-13:978-1455756438",
+            "http://purl.obolibrary.org/obo/CMO_0003973": "ISBN-13:978-1455756438"
           },
           "NCBI_Gene": {
             "http://purl.obolibrary.org/obo/CMO_0001435": "NCBI_Gene:7124",
@@ -4224,8 +4229,8 @@
         },
         "unknown_prefixes": {}
       },
-      "version": "2.190",
-      "version_iri": "http://purl.obolibrary.org/obo/cmo/2.190/cmo.owl",
+      "version": "2.199",
+      "version_iri": "http://purl.obolibrary.org/obo/cmo/2.199/cmo.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/CMO_0001921": [

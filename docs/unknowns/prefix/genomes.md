@@ -1,11 +1,5 @@
 # `genomes`
 
-## salmon
-
-| curie           |   usages | nodes                                                         |
-|-----------------|----------|---------------------------------------------------------------|
-| Genomes:fissure |        1 | [ENVO:01000667](http://purl.obolibrary.org/obo/ENVO_01000667) |
-
 ## envo
 
 | curie           |   usages | nodes                                                         |

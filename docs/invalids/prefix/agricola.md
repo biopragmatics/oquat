@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `agricola`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 3 resources,
+`^\d+$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['AGR'].
 
 ## `chebi`: Chemical Entities of Biological Interest
@@ -407,6 +407,7 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `AGR:FNI91003265`  |              1 | [CHEBI:16409](http://purl.obolibrary.org/obo/CHEBI_16409)                                                                                                                         |
 | `AGR:IND605478333` |              1 | [CHEBI:16522](http://purl.obolibrary.org/obo/CHEBI_16522)                                                                                                                         |
 | `AGR:IND44714295`  |              1 | [CHEBI:16548](http://purl.obolibrary.org/obo/CHEBI_16548)                                                                                                                         |
+| `AGR:IND608026418` |              1 | [CHEBI:165516](http://purl.obolibrary.org/obo/CHEBI_165516)                                                                                                                       |
 | `AGR:IND43681583`  |              1 | [CHEBI:165735](http://purl.obolibrary.org/obo/CHEBI_165735)                                                                                                                       |
 | `AGR:IND44654981`  |              1 | [CHEBI:16666](http://purl.obolibrary.org/obo/CHEBI_16666)                                                                                                                         |
 | `AGR:IND22008468`  |              1 | [CHEBI:166845](http://purl.obolibrary.org/obo/CHEBI_166845)                                                                                                                       |
@@ -698,6 +699,7 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `AGR:IND44580695`  |              1 | [CHEBI:44499](http://purl.obolibrary.org/obo/CHEBI_44499)                                                                                                                         |
 | `AGR:IND43930971`  |              1 | [CHEBI:4480](http://purl.obolibrary.org/obo/CHEBI_4480)                                                                                                                           |
 | `AGR:IND44021913`  |              1 | [CHEBI:4480](http://purl.obolibrary.org/obo/CHEBI_4480)                                                                                                                           |
+| `AGR:IND608009856` |              1 | [CHEBI:44884](http://purl.obolibrary.org/obo/CHEBI_44884)                                                                                                                         |
 | `AGR:IND605810753` |              1 | [CHEBI:4510](http://purl.obolibrary.org/obo/CHEBI_4510)                                                                                                                           |
 | `AGR:IND92004973`  |              1 | [CHEBI:45141](http://purl.obolibrary.org/obo/CHEBI_45141)                                                                                                                         |
 | `AGR:IND44323581`  |              1 | [CHEBI:4582](http://purl.obolibrary.org/obo/CHEBI_4582)                                                                                                                           |
@@ -869,6 +871,7 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `AGR:IND607344987` |              1 | [CHEBI:7524](http://purl.obolibrary.org/obo/CHEBI_7524)                                                                                                                           |
 | `AGR:IND500608991` |              1 | [CHEBI:75457](http://purl.obolibrary.org/obo/CHEBI_75457)                                                                                                                         |
 | `AGR:IND20495852`  |              1 | [CHEBI:756](http://purl.obolibrary.org/obo/CHEBI_756)                                                                                                                             |
+| `AGR:IND601331134` |              1 | [CHEBI:75627](http://purl.obolibrary.org/obo/CHEBI_75627)                                                                                                                         |
 | `AGR:IND22046067`  |              1 | [CHEBI:75644](http://purl.obolibrary.org/obo/CHEBI_75644)                                                                                                                         |
 | `AGR:IND44300259`  |              1 | [CHEBI:75703](http://purl.obolibrary.org/obo/CHEBI_75703)                                                                                                                         |
 | `AGR:IND43993797`  |              1 | [CHEBI:75845](http://purl.obolibrary.org/obo/CHEBI_75845)                                                                                                                         |
@@ -921,6 +924,8 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `AGR:IND43689111`  |              1 | [CHEBI:80940](http://purl.obolibrary.org/obo/CHEBI_80940)                                                                                                                         |
 | `AGR:IND43697387`  |              1 | [CHEBI:80940](http://purl.obolibrary.org/obo/CHEBI_80940)                                                                                                                         |
 | `AGR:IND43732322`  |              1 | [CHEBI:80940](http://purl.obolibrary.org/obo/CHEBI_80940)                                                                                                                         |
+| `AGR:IND608130822` |              1 | [CHEBI:80945](http://purl.obolibrary.org/obo/CHEBI_80945)                                                                                                                         |
+| `AGR:IND86084078`  |              1 | [CHEBI:80945](http://purl.obolibrary.org/obo/CHEBI_80945)                                                                                                                         |
 | `AGR:IND20372171`  |              1 | [CHEBI:80946](http://purl.obolibrary.org/obo/CHEBI_80946)                                                                                                                         |
 | `AGR:IND44562988`  |              1 | [CHEBI:80946](http://purl.obolibrary.org/obo/CHEBI_80946)                                                                                                                         |
 | `AGR:IND92053572`  |              1 | [CHEBI:80946](http://purl.obolibrary.org/obo/CHEBI_80946)                                                                                                                         |
@@ -1072,6 +1077,7 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `AGR:IND44337359`  |              1 | [CHEBI:8368](http://purl.obolibrary.org/obo/CHEBI_8368)                                                                                                                           |
 | `AGR:IND500602767` |              1 | [CHEBI:84033](http://purl.obolibrary.org/obo/CHEBI_84033)                                                                                                                         |
 | `AGR:IND44243411`  |              1 | [CHEBI:84220](http://purl.obolibrary.org/obo/CHEBI_84220)                                                                                                                         |
+| `AGR:IND85055668`  |              1 | [CHEBI:84284](http://purl.obolibrary.org/obo/CHEBI_84284)                                                                                                                         |
 | `AGR:IND85055597`  |              1 | [CHEBI:84287](http://purl.obolibrary.org/obo/CHEBI_84287)                                                                                                                         |
 | `AGR:IND20471871`  |              1 | [CHEBI:8475](http://purl.obolibrary.org/obo/CHEBI_8475)                                                                                                                           |
 | `AGR:IND44470815`  |              1 | [CHEBI:84896](http://purl.obolibrary.org/obo/CHEBI_84896)                                                                                                                         |
@@ -1102,6 +1108,8 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `AGR:IND44357665`  |              1 | [CHEBI:88363](http://purl.obolibrary.org/obo/CHEBI_88363)                                                                                                                         |
 | `AGR:IND601242539` |              1 | [CHEBI:88370](http://purl.obolibrary.org/obo/CHEBI_88370)                                                                                                                         |
 | `AGR:IND44244416`  |              1 | [CHEBI:88590](http://purl.obolibrary.org/obo/CHEBI_88590)                                                                                                                         |
+| `AGR:IND601328399` |              1 | [CHEBI:88653](http://purl.obolibrary.org/obo/CHEBI_88653)                                                                                                                         |
+| `AGR:IND605242894` |              1 | [CHEBI:88653](http://purl.obolibrary.org/obo/CHEBI_88653)                                                                                                                         |
 | `AGR:IND500602179` |              1 | [CHEBI:8866](http://purl.obolibrary.org/obo/CHEBI_8866)                                                                                                                           |
 | `AGR:IND500888184` |              1 | [CHEBI:8876](http://purl.obolibrary.org/obo/CHEBI_8876)                                                                                                                           |
 | `AGR:IND20363758`  |              1 | [CHEBI:88764](http://purl.obolibrary.org/obo/CHEBI_88764)                                                                                                                         |
@@ -1201,26 +1209,4 @@ Identifiers for this prefix are given incorrectly in `enm`.
 | `AGR:IND89021681` |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
 | `AGR:IND92003154` |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
 | `AGR:IND43789627` |              1 | [CHEBI:136646](http://purl.obolibrary.org/obo/CHEBI_136646) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref      |   usages_count | usages                                                      |
-|--------------------|----------------|-------------------------------------------------------------|
-| `AGR:IND84086009`  |              1 | [CHEBI:136643](http://purl.obolibrary.org/obo/CHEBI_136643) |
-| `AGR:IND20386178`  |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
-| `AGR:IND84086011`  |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
-| `AGR:IND89021681`  |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
-| `AGR:IND92003154`  |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
-| `AGR:IND81078502`  |              1 | [CHEBI:15955](http://purl.obolibrary.org/obo/CHEBI_15955)   |
-| `AGR:IND605478333` |              1 | [CHEBI:16522](http://purl.obolibrary.org/obo/CHEBI_16522)   |
-| `AGR:IND607198670` |              1 | [CHEBI:16709](http://purl.obolibrary.org/obo/CHEBI_16709)   |
-| `AGR:IND93002823`  |              1 | [CHEBI:195233](http://purl.obolibrary.org/obo/CHEBI_195233) |
-| `AGR:IND606960789` |              1 | [CHEBI:27470](http://purl.obolibrary.org/obo/CHEBI_27470)   |
-| `AGR:IND605848433` |              1 | [CHEBI:28934](http://purl.obolibrary.org/obo/CHEBI_28934)   |
-| `AGR:IND607339542` |              1 | [CHEBI:3312](http://purl.obolibrary.org/obo/CHEBI_3312)     |
-| `AGR:IND43941110`  |              1 | [CHEBI:62546](http://purl.obolibrary.org/obo/CHEBI_62546)   |
-| `AGR:IND44688035`  |              1 | [CHEBI:87230](http://purl.obolibrary.org/obo/CHEBI_87230)   |
-| `AGR:IND607175662` |              1 | [CHEBI:9506](http://purl.obolibrary.org/obo/CHEBI_9506)     |
 

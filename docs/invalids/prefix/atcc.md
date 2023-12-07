@@ -74,6 +74,15 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `ATCC:HTB-20EMT`         |              1 | [Cellosaurus#CVCL:A4CL](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A4CL) |
 | `ATCC:CRL-1642-LUC2`     |              1 | [Cellosaurus#CVCL:A4CM](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A4CM) |
 | `ATCC:CRL-1573-VHG`      |              1 | [Cellosaurus#CVCL:B0NB](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B0NB) |
+| `ATCC:CCL-213-LUC2`      |              1 | [Cellosaurus#CVCL:B5KW](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B5KW) |
+| `ATCC:TIB-202-NFAT-LUC2` |              1 | [Cellosaurus#CVCL:B5NS](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B5NS) |
+| `ATCC:CRL-2630-LUC2`     |              1 | [Cellosaurus#CVCL:B6JL](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B6JL) |
+| `ATCC:CRL-8885-LUC2`     |              1 | [Cellosaurus#CVCL:B7AE](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B7AE) |
+| `ATCC:HTB-20-LUC2`       |              1 | [Cellosaurus#CVCL:C9CU](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C9CU) |
+| `ATCC:CCL-86-LUC2`       |              1 | [Cellosaurus#CVCL:C9CV](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C9CV) |
+| `ATCC:CRL-2868-GAS-LUC2` |              1 | [Cellosaurus#CVCL:C9CW](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C9CW) |
+| `ATCC:CRL-1427-GAS-LUC2` |              1 | [Cellosaurus#CVCL:C9CX](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C9CX) |
+| `ATCC:CRL-5883-GAS-LUC2` |              1 | [Cellosaurus#CVCL:C9CY](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C9CY) |
 | `ATCC:CRL-1619IG-2`      |              1 | [Cellosaurus#CVCL:JF22](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_JF22) |
 | `ATCC:CCL-185IG`         |              1 | [Cellosaurus#CVCL:JK07](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_JK07) |
 | `ATCC:CCL-243-GFP`       |              1 | [Cellosaurus#CVCL:JM00](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_JM00) |

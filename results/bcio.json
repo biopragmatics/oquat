@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T12:25:44.934112",
+  "created": "2023-12-07T09:12:27.077264",
   "messages": [],
   "results": {
     "http://humanbehaviourchange.org/ontology/bcio.owl": {
@@ -65,7 +65,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000856": "ADL:FTT"
           },
           "Getty": {
-            "http://purl.obolibrary.org/obo/ENVO_00000062": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000064": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000106": "Getty:TGN",
             "http://purl.obolibrary.org/obo/ENVO_00000109": "Getty:TGN",
@@ -83,7 +82,7 @@
           }
         }
       },
-      "version_iri": "http://humanbehaviourchange.org/ontology/bcio.owl/2023-08-30",
+      "version_iri": "http://humanbehaviourchange.org/ontology/bcio.owl/2023-11-22",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000062": [
@@ -108,7 +107,11 @@
         },
         "label": "Node Xrefs",
         "malformed_curies": {},
-        "noncanonical_prefixes": {},
+        "noncanonical_prefixes": {
+          "SCTID": {
+            "http://purl.obolibrary.org/obo/UBERON_0000061": "SCTID:362889002"
+          }
+        },
         "unknown_prefixes": {
           "GAID": {
             "http://purl.obolibrary.org/obo/UBERON_0000061": "GAID:781"

@@ -1,0 +1,32 @@
+{
+  "created": "2023-12-07T09:43:24.692275",
+  "messages": [],
+  "results": {
+    "http://w3id.org/nfdi4ing/metadata4ing#": {
+      "graph_id": "http://w3id.org/nfdi4ing/metadata4ing#",
+      "prov_pack": {
+        "invalid_luids": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "v1.2.1",
+      "version_iri": "http://w3id.org/nfdi4ing/metadata4ing/1.2.1",
+      "xref_pack": {
+        "invalid_luids": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
+    }
+  }
+}

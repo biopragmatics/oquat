@@ -19,13 +19,6 @@
 | rsc:hib              |        1 | [CHMO:0001493](http://purl.obolibrary.org/obo/CHMO_0001493)                                                                                                                                                                                                                                                          |
 | rsc:ds               |        1 | [CHMO:0002372](http://purl.obolibrary.org/obo/CHMO_0002372)                                                                                                                                                                                                                                                          |
 
-## nif
-
-| curie   |   usages | nodes                                                                                                                                                                                                                                                                                            |
-|---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| RSC:cb  |       41 | [SO:0000348](http://purl.obolibrary.org/obo/SO_0000348), [SO:0000352](http://purl.obolibrary.org/obo/SO_0000352), [SO:0000356](http://purl.obolibrary.org/obo/SO_0000356), [SO:0000372](http://purl.obolibrary.org/obo/SO_0000372), [SO:0000391](http://purl.obolibrary.org/obo/SO_0000391), ... |
-| RSC:CB  |        1 | [SO:0000392](http://purl.obolibrary.org/obo/SO_0000392)                                                                                                                                                                                                                                          |
-
 ## rxno
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                |

@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T13:26:46.025451",
+  "created": "2023-12-07T09:58:48.567468",
   "messages": [],
   "results": {
     "https://w3id.org/rorio/rorio.owl": {
@@ -18,7 +18,7 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "1.31",
+      "version": "1.36",
       "xref_pack": {
         "invalid_luids": {
           "https://ror.org/000025p04": [
@@ -27,6 +27,9 @@
           ],
           "https://ror.org/00013q465": [
             "funderregistry:501100011871"
+          ],
+          "https://ror.org/0001paf45": [
+            "funderregistry:501100023259"
           ],
           "https://ror.org/0002exf56": [
             "funderregistry:501100007645"
@@ -52,6 +55,9 @@
           ],
           "https://ror.org/00073tb80": [
             "funderregistry:501100011150"
+          ],
+          "https://ror.org/00085m516": [
+            "funderregistry:501100019822"
           ],
           "https://ror.org/000865k88": [
             "funderregistry:501100001218"
@@ -335,6 +341,9 @@
           "https://ror.org/002epp671": [
             "funderregistry:501100007153"
           ],
+          "https://ror.org/002fjc781": [
+            "funderregistry:501100014093"
+          ],
           "https://ror.org/002gr9f09": [
             "funderregistry:501100019736"
           ],
@@ -609,6 +618,9 @@
           "https://ror.org/004pc5924": [
             "funderregistry:501100003982"
           ],
+          "https://ror.org/004pwee45": [
+            "funderregistry:501100012616"
+          ],
           "https://ror.org/004qxz190": [
             "funderregistry:501100000049"
           ],
@@ -672,6 +684,9 @@
           ],
           "https://ror.org/0058wy590": [
             "funderregistry:501100007775"
+          ],
+          "https://ror.org/0058xky36": [
+            "funderregistry:501100021787"
           ],
           "https://ror.org/005bjd415": [
             "funderregistry:501100008685"
@@ -1293,6 +1308,9 @@
           "https://ror.org/00a9yg798": [
             "funderregistry:501100021268"
           ],
+          "https://ror.org/00aack182": [
+            "funderregistry:501100010575"
+          ],
           "https://ror.org/00abnnq69": [
             "funderregistry:501100014756"
           ],
@@ -1393,6 +1411,9 @@
           ],
           "https://ror.org/00b5zg596": [
             "funderregistry:501100000549"
+          ],
+          "https://ror.org/00b61dk18": [
+            "funderregistry:501100015273"
           ],
           "https://ror.org/00b9f9778": [
             "funderregistry:501100003147",
@@ -1627,6 +1648,9 @@
           ],
           "https://ror.org/00cty0112": [
             "funderregistry:501100004369"
+          ],
+          "https://ror.org/00cv9q002": [
+            "funderregistry:501100020578"
           ],
           "https://ror.org/00cv9y106": [
             "funderregistry:501100004385",
@@ -1991,6 +2015,9 @@
           "https://ror.org/00fhc9y79": [
             "funderregistry:501100008046"
           ],
+          "https://ror.org/00fhn5k08": [
+            "funderregistry:501100016179"
+          ],
           "https://ror.org/00fjzqj15": [
             "funderregistry:501100008875"
           ],
@@ -2128,6 +2155,9 @@
           ],
           "https://ror.org/00gpt9p27": [
             "funderregistry:501100008322"
+          ],
+          "https://ror.org/00gqqed17": [
+            "funderregistry:501100011411"
           ],
           "https://ror.org/00gryma19": [
             "funderregistry:501100001558"
@@ -2313,6 +2343,9 @@
           ],
           "https://ror.org/00jg41573": [
             "funderregistry:501100012265"
+          ],
+          "https://ror.org/00jg7hp37": [
+            "funderregistry:501100009818"
           ],
           "https://ror.org/00jga9g46": [
             "funderregistry:501100013898"
@@ -2577,6 +2610,9 @@
           ],
           "https://ror.org/00msqp585": [
             "funderregistry:501100005611"
+          ],
+          "https://ror.org/00mt8k932": [
+            "funderregistry:501100007352"
           ],
           "https://ror.org/00mt8kb26": [
             "funderregistry:501100003609"
@@ -2965,6 +3001,9 @@
           "https://ror.org/00qemyc07": [
             "funderregistry:501100020409"
           ],
+          "https://ror.org/00qen7t71": [
+            "funderregistry:501100020402"
+          ],
           "https://ror.org/00qeyvx79": [
             "funderregistry:501100005924"
           ],
@@ -3009,6 +3048,9 @@
           ],
           "https://ror.org/00qy3dp86": [
             "funderregistry:501100013933"
+          ],
+          "https://ror.org/00qy6se24": [
+            "funderregistry:501100023315"
           ],
           "https://ror.org/00qyaft09": [
             "funderregistry:501100000632"
@@ -3057,6 +3099,9 @@
           ],
           "https://ror.org/00ra24d41": [
             "funderregistry:501100001417"
+          ],
+          "https://ror.org/00ra8zc69": [
+            "funderregistry:501100015266"
           ],
           "https://ror.org/00rb16m44": [
             "funderregistry:501100005881"
@@ -3322,6 +3367,9 @@
           "https://ror.org/00tf7ep30": [
             "funderregistry:501100000093"
           ],
+          "https://ror.org/00tgy9105": [
+            "funderregistry:501100022897"
+          ],
           "https://ror.org/00tjh4k26": [
             "funderregistry:501100002675"
           ],
@@ -3464,6 +3512,9 @@
           "https://ror.org/00vhfyp04": [
             "funderregistry:501100005190"
           ],
+          "https://ror.org/00vhg4k19": [
+            "funderregistry:501100021953"
+          ],
           "https://ror.org/00vhg8h29": [
             "funderregistry:501100003647"
           ],
@@ -3472,6 +3523,9 @@
           ],
           "https://ror.org/00vjrcd64": [
             "funderregistry:501100000958"
+          ],
+          "https://ror.org/00vkmnx48": [
+            "funderregistry:501100009992"
           ],
           "https://ror.org/00vr49948": [
             "funderregistry:501100020988"
@@ -3511,6 +3565,9 @@
           ],
           "https://ror.org/00vxscp81": [
             "funderregistry:501100005843"
+          ],
+          "https://ror.org/00w0nde43": [
+            "funderregistry:501100008477"
           ],
           "https://ror.org/00w0qep84": [
             "funderregistry:501100007125"
@@ -3605,6 +3662,9 @@
           "https://ror.org/00wse9j86": [
             "funderregistry:501100007405"
           ],
+          "https://ror.org/00wtgbr91": [
+            "funderregistry:501100019680"
+          ],
           "https://ror.org/00wtvfq62": [
             "funderregistry:501100007931"
           ],
@@ -3645,6 +3705,9 @@
           "https://ror.org/00x514t95": [
             "funderregistry:501100002483"
           ],
+          "https://ror.org/00x5ftp92": [
+            "funderregistry:501100020170"
+          ],
           "https://ror.org/00x69rs40": [
             "funderregistry:501100005758"
           ],
@@ -3684,6 +3747,9 @@
           ],
           "https://ror.org/00xdnjz02": [
             "funderregistry:501100003402"
+          ],
+          "https://ror.org/00xfea068": [
+            "funderregistry:501100010822"
           ],
           "https://ror.org/00xkeyj56": [
             "funderregistry:501100001316"
@@ -3787,6 +3853,9 @@
           "https://ror.org/00y9yvc25": [
             "funderregistry:501100001266"
           ],
+          "https://ror.org/00y9yvy68": [
+            "funderregistry:501100015599"
+          ],
           "https://ror.org/00ya5c561": [
             "funderregistry:501100007323"
           ],
@@ -3813,6 +3882,9 @@
           ],
           "https://ror.org/00yezxw87": [
             "funderregistry:501100002451"
+          ],
+          "https://ror.org/00ygmry26": [
+            "funderregistry:501100010782"
           ],
           "https://ror.org/00ygteq35": [
             "funderregistry:501100001141"
@@ -3863,6 +3935,9 @@
           ],
           "https://ror.org/00yqpgp96": [
             "funderregistry:501100021548"
+          ],
+          "https://ror.org/00yqqb480": [
+            "funderregistry:501100010071"
           ],
           "https://ror.org/00yqvtm78": [
             "funderregistry:501100015618"
@@ -4235,6 +4310,9 @@
           "https://ror.org/011rzkg17": [
             "funderregistry:501100001114"
           ],
+          "https://ror.org/011sqtf19": [
+            "funderregistry:501100017693"
+          ],
           "https://ror.org/011ta8654": [
             "funderregistry:501100010095",
             "funderregistry:501100014161"
@@ -4598,6 +4676,9 @@
           ],
           "https://ror.org/014c6rd81": [
             "funderregistry:501100005123"
+          ],
+          "https://ror.org/014dr4051": [
+            "funderregistry:501100010197"
           ],
           "https://ror.org/014f77s28": [
             "funderregistry:501100005937"
@@ -6171,6 +6252,9 @@
           "https://ror.org/01gbfax37": [
             "funderregistry:501100007927"
           ],
+          "https://ror.org/01gbnem66": [
+            "funderregistry:501100019945"
+          ],
           "https://ror.org/01gce3t61": [
             "funderregistry:501100013842"
           ],
@@ -6420,6 +6504,9 @@
           "https://ror.org/01j33xk10": [
             "funderregistry:501100003978"
           ],
+          "https://ror.org/01j3tkf69": [
+            "funderregistry:501100017640"
+          ],
           "https://ror.org/01j5aph50": [
             "funderregistry:501100001354"
           ],
@@ -6654,8 +6741,7 @@
             "funderregistry:501100003323"
           ],
           "https://ror.org/01kw63t33": [
-            "funderregistry:501100003101",
-            "funderregistry:501100007352"
+            "funderregistry:501100003101"
           ],
           "https://ror.org/01kzjg088": [
             "funderregistry:501100012267"
@@ -6666,9 +6752,6 @@
           ],
           "https://ror.org/01m0j3711": [
             "funderregistry:501100011907"
-          ],
-          "https://ror.org/01m0pag22": [
-            "isni:00000012155449X"
           ],
           "https://ror.org/01m1pv723": [
             "funderregistry:501100006388"
@@ -6736,6 +6819,9 @@
           "https://ror.org/01mfjs476": [
             "funderregistry:501100008239"
           ],
+          "https://ror.org/01mg9t146": [
+            "funderregistry:501100020408"
+          ],
           "https://ror.org/01mgdzc49": [
             "funderregistry:501100006757"
           ],
@@ -6800,6 +6886,9 @@
           ],
           "https://ror.org/01mzyze39": [
             "funderregistry:501100000864"
+          ],
+          "https://ror.org/01mzzkz08": [
+            "funderregistry:501100010805"
           ],
           "https://ror.org/01n09m616": [
             "funderregistry:501100005867"
@@ -7111,6 +7200,9 @@
           "https://ror.org/01qmxzb47": [
             "funderregistry:501100004522"
           ],
+          "https://ror.org/01qpm0v79": [
+            "funderregistry:501100019414"
+          ],
           "https://ror.org/01qpw1b93": [
             "funderregistry:501100009687"
           ],
@@ -7125,6 +7217,10 @@
           ],
           "https://ror.org/01qtc5416": [
             "funderregistry:501100002329"
+          ],
+          "https://ror.org/01qwh7a74": [
+            "funderregistry:501100004750",
+            "funderregistry:501100012130"
           ],
           "https://ror.org/01qyd4k24": [
             "funderregistry:501100002634"
@@ -7381,6 +7477,9 @@
           "https://ror.org/01t264m74": [
             "funderregistry:501100007707"
           ],
+          "https://ror.org/01t3kc709": [
+            "funderregistry:501100008316"
+          ],
           "https://ror.org/01t3wyv61": [
             "funderregistry:501100006325"
           ],
@@ -7401,6 +7500,9 @@
           ],
           "https://ror.org/01t8f4d28": [
             "funderregistry:501100001639"
+          ],
+          "https://ror.org/01t8fg661": [
+            "funderregistry:501100021200"
           ],
           "https://ror.org/01t8prc81": [
             "funderregistry:501100013808",
@@ -7562,6 +7664,9 @@
           "https://ror.org/01v6fb724": [
             "funderregistry:501100002796"
           ],
+          "https://ror.org/01v7ra871": [
+            "funderregistry:501100020904"
+          ],
           "https://ror.org/01v7y5b55": [
             "funderregistry:501100002590"
           ],
@@ -7597,6 +7702,9 @@
           ],
           "https://ror.org/01vf7he45": [
             "funderregistry:501100009960"
+          ],
+          "https://ror.org/01vffmg07": [
+            "funderregistry:501100020563"
           ],
           "https://ror.org/01vfzqe43": [
             "funderregistry:501100004714"
@@ -7941,6 +8049,9 @@
           "https://ror.org/01ycecr18": [
             "funderregistry:501100019737"
           ],
+          "https://ror.org/01ycnqr59": [
+            "funderregistry:501100020304"
+          ],
           "https://ror.org/01yj56c84": [
             "funderregistry:501100005022",
             "funderregistry:501100005023",
@@ -8029,6 +8140,9 @@
           ],
           "https://ror.org/01z7y3r39": [
             "funderregistry:501100010882"
+          ],
+          "https://ror.org/01z8h0e92": [
+            "funderregistry:501100022250"
           ],
           "https://ror.org/01zadmh83": [
             "funderregistry:501100020605"
@@ -8411,6 +8525,9 @@
           "https://ror.org/0224wbx43": [
             "funderregistry:501100008350"
           ],
+          "https://ror.org/0226mqz95": [
+            "funderregistry:501100010293"
+          ],
           "https://ror.org/02278tr80": [
             "funderregistry:501100007780"
           ],
@@ -8506,6 +8623,9 @@
           ],
           "https://ror.org/022rdc149": [
             "funderregistry:501100006483"
+          ],
+          "https://ror.org/022rdnn95": [
+            "funderregistry:501100011929"
           ],
           "https://ror.org/022rydv31": [
             "funderregistry:501100012354"
@@ -8716,6 +8836,9 @@
             "funderregistry:501100005041",
             "funderregistry:501100005043",
             "funderregistry:501100008135"
+          ],
+          "https://ror.org/0249g7f28": [
+            "funderregistry:501100010786"
           ],
           "https://ror.org/0249tng68": [
             "funderregistry:501100003604"
@@ -9240,6 +9363,9 @@
           "https://ror.org/0289s0476": [
             "funderregistry:501100023180"
           ],
+          "https://ror.org/0289t9g81": [
+            "funderregistry:501100016056"
+          ],
           "https://ror.org/028bzjj61": [
             "funderregistry:501100013411"
           ],
@@ -9717,6 +9843,9 @@
           "https://ror.org/02cjszf03": [
             "funderregistry:501100013251"
           ],
+          "https://ror.org/02cmjsn57": [
+            "funderregistry:501100011223"
+          ],
           "https://ror.org/02cmtcb39": [
             "funderregistry:501100006672"
           ],
@@ -9924,6 +10053,9 @@
           ],
           "https://ror.org/02e38dy05": [
             "funderregistry:501100007223"
+          ],
+          "https://ror.org/02e46j381": [
+            "funderregistry:501100011239"
           ],
           "https://ror.org/02e4cg183": [
             "funderregistry:501100000369",
@@ -10269,6 +10401,9 @@
           "https://ror.org/02gs3vg83": [
             "funderregistry:501100006105"
           ],
+          "https://ror.org/02gsf5008": [
+            "funderregistry:501100022430"
+          ],
           "https://ror.org/02gv1gw80": [
             "funderregistry:501100015778"
           ],
@@ -10394,6 +10529,9 @@
             "funderregistry:501100009509",
             "funderregistry:501100020638"
           ],
+          "https://ror.org/02hn5ny59": [
+            "funderregistry:501100018686"
+          ],
           "https://ror.org/02hngjw26": [
             "funderregistry:501100002550"
           ],
@@ -10436,6 +10574,9 @@
           "https://ror.org/02hxfx521": [
             "funderregistry:501100007549",
             "funderregistry:501100019032"
+          ],
+          "https://ror.org/02j016891": [
+            "funderregistry:501100021750"
           ],
           "https://ror.org/02j01mp63": [
             "funderregistry:501100023266"
@@ -10667,6 +10808,9 @@
           ],
           "https://ror.org/02kj38n05": [
             "funderregistry:501100020992"
+          ],
+          "https://ror.org/02kjggt26": [
+            "funderregistry:501100022793"
           ],
           "https://ror.org/02kkvpp62": [
             "funderregistry:501100005713"
@@ -10924,6 +11068,9 @@
           "https://ror.org/02nc61e46": [
             "funderregistry:501100006221"
           ],
+          "https://ror.org/02ndzm185": [
+            "funderregistry:501100010061"
+          ],
           "https://ror.org/02nfbzg04": [
             "funderregistry:501100000954",
             "funderregistry:501100000968",
@@ -10988,6 +11135,9 @@
           ],
           "https://ror.org/02nwg5t34": [
             "funderregistry:501100001318"
+          ],
+          "https://ror.org/02nx9ts82": [
+            "funderregistry:501100010030"
           ],
           "https://ror.org/02nys7898": [
             "funderregistry:501100004736"
@@ -11249,6 +11399,9 @@
           ],
           "https://ror.org/02r6kb330": [
             "funderregistry:501100003189"
+          ],
+          "https://ror.org/02r6p3x40": [
+            "funderregistry:501100020416"
           ],
           "https://ror.org/02r6sy638": [
             "funderregistry:501100009167"
@@ -11517,6 +11670,9 @@
           ],
           "https://ror.org/02t6zky14": [
             "funderregistry:501100019003"
+          ],
+          "https://ror.org/02t7c3b83": [
+            "funderregistry:501100021167"
           ],
           "https://ror.org/02tbw3b35": [
             "funderregistry:501100005161"
@@ -11885,6 +12041,9 @@
             "funderregistry:501100007696",
             "funderregistry:501100021851"
           ],
+          "https://ror.org/02x412q60": [
+            "funderregistry:501100019228"
+          ],
           "https://ror.org/02x50w080": [
             "funderregistry:501100003964"
           ],
@@ -12206,6 +12365,9 @@
             "funderregistry:501100003993",
             "funderregistry:501100004620"
           ],
+          "https://ror.org/02zg03225": [
+            "funderregistry:501100015823"
+          ],
           "https://ror.org/02zhewk16": [
             "funderregistry:501100013916"
           ],
@@ -12501,6 +12663,9 @@
           "https://ror.org/031pjfg83": [
             "funderregistry:501100001269"
           ],
+          "https://ror.org/031q76697": [
+            "funderregistry:501100021271"
+          ],
           "https://ror.org/031rekg67": [
             "funderregistry:501100001135",
             "funderregistry:501100001781",
@@ -12786,6 +12951,9 @@
             "funderregistry:501100007079",
             "funderregistry:501100007080"
           ],
+          "https://ror.org/033xbhk97": [
+            "funderregistry:501100023700"
+          ],
           "https://ror.org/033z08192": [
             "funderregistry:501100005778"
           ],
@@ -12831,6 +12999,9 @@
           ],
           "https://ror.org/034b53w38": [
             "funderregistry:501100003345"
+          ],
+          "https://ror.org/034bak880": [
+            "funderregistry:501100007368"
           ],
           "https://ror.org/034bdyc78": [
             "funderregistry:501100017000"
@@ -13616,6 +13787,9 @@
           "https://ror.org/03aay6c48": [
             "funderregistry:501100013840"
           ],
+          "https://ror.org/03ab0at74": [
+            "funderregistry:501100011272"
+          ],
           "https://ror.org/03acpnr73": [
             "funderregistry:501100004121"
           ],
@@ -13761,6 +13935,9 @@
           ],
           "https://ror.org/03bh94f16": [
             "funderregistry:501100006584"
+          ],
+          "https://ror.org/03bj0k618": [
+            "funderregistry:501100006726"
           ],
           "https://ror.org/03bj5da63": [
             "funderregistry:501100004212"
@@ -13970,6 +14147,9 @@
           "https://ror.org/03cx6bg69": [
             "funderregistry:501100018960"
           ],
+          "https://ror.org/03cz18e20": [
+            "funderregistry:501100012274"
+          ],
           "https://ror.org/03d04qg82": [
             "funderregistry:501100022347"
           ],
@@ -14126,6 +14306,9 @@
           "https://ror.org/03efxn362": [
             "funderregistry:501100004848"
           ],
+          "https://ror.org/03eg88604": [
+            "funderregistry:501100014961"
+          ],
           "https://ror.org/03egfjv78": [
             "funderregistry:501100008211"
           ],
@@ -14153,6 +14336,9 @@
           ],
           "https://ror.org/03ep3hs23": [
             "funderregistry:501100015236"
+          ],
+          "https://ror.org/03ep8d157": [
+            "funderregistry:501100015926"
           ],
           "https://ror.org/03eq6a532": [
             "funderregistry:501100004413"
@@ -14311,6 +14497,9 @@
           ],
           "https://ror.org/03frvp088": [
             "funderregistry:501100004934"
+          ],
+          "https://ror.org/03fteab26": [
+            "funderregistry:501100016386"
           ],
           "https://ror.org/03fvq2a72": [
             "funderregistry:501100021674"
@@ -14730,6 +14919,9 @@
           "https://ror.org/03ke6d638": [
             "funderregistry:501100012521"
           ],
+          "https://ror.org/03kf77330": [
+            "funderregistry:501100013964"
+          ],
           "https://ror.org/03kfmm080": [
             "funderregistry:501100007655"
           ],
@@ -14910,6 +15102,9 @@
           "https://ror.org/03n2mgj60": [
             "funderregistry:501100014830"
           ],
+          "https://ror.org/03n320c25": [
+            "funderregistry:501100013210"
+          ],
           "https://ror.org/03n3v6d52": [
             "funderregistry:501100015019"
           ],
@@ -14973,6 +15168,9 @@
           ],
           "https://ror.org/03njdre41": [
             "funderregistry:501100005999"
+          ],
+          "https://ror.org/03njeds29": [
+            "funderregistry:501100010348"
           ],
           "https://ror.org/03nk2rw89": [
             "funderregistry:501100011071"
@@ -15095,6 +15293,9 @@
           ],
           "https://ror.org/03pgxht93": [
             "funderregistry:501100003164"
+          ],
+          "https://ror.org/03phnwz81": [
+            "funderregistry:501100009049"
           ],
           "https://ror.org/03pj47d12": [
             "funderregistry:501100003445"
@@ -15312,6 +15513,9 @@
           "https://ror.org/03r72d818": [
             "funderregistry:501100003806"
           ],
+          "https://ror.org/03r7d4g46": [
+            "funderregistry:501100018732"
+          ],
           "https://ror.org/03r8nwp71": [
             "funderregistry:501100018987"
           ],
@@ -15447,6 +15651,9 @@
           ],
           "https://ror.org/03s7gtk40": [
             "funderregistry:501100008678"
+          ],
+          "https://ror.org/03s7w3c34": [
+            "funderregistry:501100011171"
           ],
           "https://ror.org/03s8xc553": [
             "funderregistry:501100004310"
@@ -15758,6 +15965,9 @@
           ],
           "https://ror.org/03v9efr22": [
             "funderregistry:501100015686"
+          ],
+          "https://ror.org/03va7tm69": [
+            "funderregistry:501100019051"
           ],
           "https://ror.org/03va9ng43": [
             "funderregistry:501100016198"
@@ -16120,6 +16330,9 @@
             "funderregistry:501100004035",
             "funderregistry:501100019004"
           ],
+          "https://ror.org/03y9tg134": [
+            "funderregistry:501100018989"
+          ],
           "https://ror.org/03y9v4j03": [
             "funderregistry:501100016135"
           ],
@@ -16452,6 +16665,9 @@
           "https://ror.org/040smqw14": [
             "funderregistry:501100003192"
           ],
+          "https://ror.org/040tp8686": [
+            "funderregistry:501100013415"
+          ],
           "https://ror.org/040v3rp82": [
             "funderregistry:501100017517"
           ],
@@ -16530,6 +16746,9 @@
           "https://ror.org/0418kp584": [
             "funderregistry:501100004142"
           ],
+          "https://ror.org/0419cgw33": [
+            "funderregistry:501100012106"
+          ],
           "https://ror.org/0419nfc77": [
             "funderregistry:501100002861"
           ],
@@ -16550,6 +16769,9 @@
           ],
           "https://ror.org/041evnj42": [
             "funderregistry:501100002999"
+          ],
+          "https://ror.org/041fzeq08": [
+            "funderregistry:501100011493"
           ],
           "https://ror.org/041g7jm83": [
             "funderregistry:501100004710"
@@ -16625,6 +16847,9 @@
           ],
           "https://ror.org/0420zvk78": [
             "funderregistry:501100002914"
+          ],
+          "https://ror.org/0422tvz87": [
+            "funderregistry:501100024102"
           ],
           "https://ror.org/042335e16": [
             "funderregistry:501100019275"
@@ -16726,6 +16951,9 @@
           "https://ror.org/042qmp147": [
             "funderregistry:501100007772"
           ],
+          "https://ror.org/042sk0r32": [
+            "funderregistry:501100023257"
+          ],
           "https://ror.org/042szwr56": [
             "funderregistry:501100000334",
             "funderregistry:501100007922"
@@ -16735,6 +16963,9 @@
           ],
           "https://ror.org/042v6xz23": [
             "funderregistry:501100004637"
+          ],
+          "https://ror.org/042veyr10": [
+            "funderregistry:501100010113"
           ],
           "https://ror.org/042w6tv86": [
             "funderregistry:501100001507"
@@ -16794,6 +17025,9 @@
           ],
           "https://ror.org/04374qe70": [
             "funderregistry:501100000165"
+          ],
+          "https://ror.org/043798m03": [
+            "funderregistry:501100013965"
           ],
           "https://ror.org/0437b3316": [
             "funderregistry:501100003337"
@@ -17000,6 +17234,9 @@
           "https://ror.org/044tecp05": [
             "funderregistry:501100019278"
           ],
+          "https://ror.org/044v96v72": [
+            "funderregistry:501100009165"
+          ],
           "https://ror.org/044vr6g03": [
             "funderregistry:501100003009"
           ],
@@ -17042,6 +17279,9 @@
           ],
           "https://ror.org/0453j3c58": [
             "funderregistry:501100007288"
+          ],
+          "https://ror.org/0454mmy42": [
+            "funderregistry:501100023256"
           ],
           "https://ror.org/04550kp61": [
             "funderregistry:501100008383"
@@ -17112,6 +17352,9 @@
           "https://ror.org/045thge14": [
             "funderregistry:501100003127",
             "funderregistry:501100005959"
+          ],
+          "https://ror.org/045thxk12": [
+            "funderregistry:501100022217"
           ],
           "https://ror.org/045vwzt11": [
             "funderregistry:501100011609"
@@ -17598,6 +17841,9 @@
           "https://ror.org/049emcs32": [
             "funderregistry:501100012645"
           ],
+          "https://ror.org/049enq829": [
+            "funderregistry:501100012110"
+          ],
           "https://ror.org/049eq0c58": [
             "funderregistry:501100019923"
           ],
@@ -17860,6 +18106,9 @@
           "https://ror.org/04bqqa360": [
             "funderregistry:501100015799"
           ],
+          "https://ror.org/04br41767": [
+            "funderregistry:501100012109"
+          ],
           "https://ror.org/04bre5f76": [
             "funderregistry:501100003966"
           ],
@@ -17960,6 +18209,9 @@
           ],
           "https://ror.org/04ckbty56": [
             "funderregistry:501100021703"
+          ],
+          "https://ror.org/04cm3mz39": [
+            "funderregistry:501100019787"
           ],
           "https://ror.org/04cnktn59": [
             "funderregistry:501100004383"
@@ -18132,6 +18384,9 @@
           ],
           "https://ror.org/04dxd1f80": [
             "funderregistry:501100003767"
+          ],
+          "https://ror.org/04dxnaz06": [
+            "funderregistry:501100011506"
           ],
           "https://ror.org/04dyhjr58": [
             "funderregistry:501100002736",
@@ -18952,6 +19207,9 @@
           ],
           "https://ror.org/04meft248": [
             "funderregistry:501100023171"
+          ],
+          "https://ror.org/04mfmy854": [
+            "wikidata:https://www.wikidata.org/wiki/Q6981959"
           ],
           "https://ror.org/04mhzgx49": [
             "funderregistry:501100004237",
@@ -20051,6 +20309,9 @@
           "https://ror.org/04wwqze12": [
             "funderregistry:501100009399"
           ],
+          "https://ror.org/04wx4nj18": [
+            "funderregistry:501100018942"
+          ],
           "https://ror.org/04wxm6g36": [
             "funderregistry:501100008121"
           ],
@@ -20194,6 +20455,9 @@
           "https://ror.org/04xv2pc41": [
             "funderregistry:501100012138"
           ],
+          "https://ror.org/04xvmv949": [
+            "funderregistry:501100009790"
+          ],
           "https://ror.org/04xx5hr10": [
             "funderregistry:501100013228"
           ],
@@ -20202,6 +20466,9 @@
           ],
           "https://ror.org/04xysgw12": [
             "funderregistry:501100002541"
+          ],
+          "https://ror.org/04xywqt24": [
+            "funderregistry:501100023406"
           ],
           "https://ror.org/04xz43j90": [
             "funderregistry:501100002524"
@@ -20997,6 +21264,9 @@
           "https://ror.org/053fzma23": [
             "funderregistry:501100004858"
           ],
+          "https://ror.org/053g4km55": [
+            "funderregistry:501100009082"
+          ],
           "https://ror.org/053g6we49": [
             "funderregistry:501100007102"
           ],
@@ -21118,6 +21388,9 @@
           ],
           "https://ror.org/054pv6659": [
             "funderregistry:501100012163"
+          ],
+          "https://ror.org/054r0wx32": [
+            "funderregistry:501100022560"
           ],
           "https://ror.org/054tfvs49": [
             "funderregistry:501100022113"
@@ -21306,6 +21579,9 @@
           "https://ror.org/0567eg765": [
             "funderregistry:501100001551"
           ],
+          "https://ror.org/0568s5a63": [
+            "funderregistry:501100011553"
+          ],
           "https://ror.org/0569s5x60": [
             "funderregistry:501100008524"
           ],
@@ -21403,6 +21679,9 @@
           ],
           "https://ror.org/056vyez31": [
             "funderregistry:501100019416"
+          ],
+          "https://ror.org/056wz7x19": [
+            "funderregistry:501100009581"
           ],
           "https://ror.org/056xnk046": [
             "funderregistry:501100005580"
@@ -21548,6 +21827,9 @@
           ],
           "https://ror.org/05803vc71": [
             "funderregistry:501100011308"
+          ],
+          "https://ror.org/0580ba928": [
+            "funderregistry:501100023857"
           ],
           "https://ror.org/0581esp57": [
             "funderregistry:501100006413"
@@ -21939,6 +22221,9 @@
           ],
           "https://ror.org/05bqfq123": [
             "funderregistry:501100004419"
+          ],
+          "https://ror.org/05bqtky90": [
+            "funderregistry:501100009070"
           ],
           "https://ror.org/05bqzfg94": [
             "funderregistry:501100004785"
@@ -22793,9 +23078,6 @@
           "https://ror.org/05jkpd189": [
             "funderregistry:501100008359"
           ],
-          "https://ror.org/05jm2v587": [
-            "isni:000000499750054"
-          ],
           "https://ror.org/05jme6y84": [
             "funderregistry:501100008974"
           ],
@@ -22828,6 +23110,9 @@
           ],
           "https://ror.org/05jv1pq83": [
             "funderregistry:501100017230"
+          ],
+          "https://ror.org/05jv39n43": [
+            "funderregistry:501100009605"
           ],
           "https://ror.org/05jvrwv37": [
             "funderregistry:501100007503"
@@ -23260,6 +23545,9 @@
           "https://ror.org/05p72vt26": [
             "funderregistry:501100008902"
           ],
+          "https://ror.org/05p7z7s64": [
+            "funderregistry:501100016996"
+          ],
           "https://ror.org/05p8nb362": [
             "funderregistry:501100000008"
           ],
@@ -23299,6 +23587,9 @@
           ],
           "https://ror.org/05pmsvm27": [
             "funderregistry:501100022500"
+          ],
+          "https://ror.org/05pn6h396": [
+            "funderregistry:501100008401"
           ],
           "https://ror.org/05pny7s12": [
             "funderregistry:501100008677"
@@ -23669,6 +23960,9 @@
           "https://ror.org/05sfep667": [
             "funderregistry:501100002906"
           ],
+          "https://ror.org/05sfnze82": [
+            "funderregistry:501100009812"
+          ],
           "https://ror.org/05sgb8g78": [
             "funderregistry:501100004352"
           ],
@@ -23895,6 +24189,9 @@
           "https://ror.org/05trd4x28": [
             "funderregistry:501100004004"
           ],
+          "https://ror.org/05trnbe45": [
+            "funderregistry:501100011001"
+          ],
           "https://ror.org/05ts9tv79": [
             "funderregistry:501100001519",
             "funderregistry:501100001520",
@@ -23987,6 +24284,9 @@
           ],
           "https://ror.org/05vkkzf98": [
             "funderregistry:501100010883"
+          ],
+          "https://ror.org/05vkxf738": [
+            "funderregistry:501100019831"
           ],
           "https://ror.org/05vmfpy67": [
             "funderregistry:501100002723"
@@ -24098,6 +24398,9 @@
           ],
           "https://ror.org/05wh02447": [
             "funderregistry:501100006591"
+          ],
+          "https://ror.org/05wmchm75": [
+            "funderregistry:501100009094"
           ],
           "https://ror.org/05wnef833": [
             "funderregistry:501100006114"

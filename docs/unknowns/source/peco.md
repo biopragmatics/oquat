@@ -23,7 +23,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 ## `PECO_GIT`
 
-There are 84 usages of `PECO_GIT` in `peco`.
+There are 85 usages of `PECO_GIT` in `peco`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PECO_GIT).
 
@@ -97,6 +97,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | PECO_GIT:116 |        1 | [PECO:0001069](http://purl.obolibrary.org/obo/PECO_0001069)                                                                                                                                                                                                                                                          |
 | PECO_GIT:123 |        1 | [PECO:0001071](http://purl.obolibrary.org/obo/PECO_0001071)                                                                                                                                                                                                                                                          |
 | PECO_GIT:128 |        1 | [PECO:0001073](http://purl.obolibrary.org/obo/PECO_0001073)                                                                                                                                                                                                                                                          |
+| PECO_GIT:134 |        1 | [PECO:0001074](http://purl.obolibrary.org/obo/PECO_0001074)                                                                                                                                                                                                                                                          |
 | PECO_GIT:85  |        1 | [PECO:0007023](http://purl.obolibrary.org/obo/PECO_0007023)                                                                                                                                                                                                                                                          |
 | PECO_GIT:83  |        1 | [PECO:0007027](http://purl.obolibrary.org/obo/PECO_0007027)                                                                                                                                                                                                                                                          |
 | PECO_GIT:52  |        1 | [PECO:0007044](http://purl.obolibrary.org/obo/PECO_0007044)                                                                                                                                                                                                                                                          |

@@ -74,7 +74,7 @@ did not match the standard pattern `^\d+$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `PMCID` (standardized to Bioregistry
 prefix [`pmc`](https://bioregistry.io/pmc)) that
-did not match the standard pattern `^PMC\d+$`.
+did not match the standard pattern `^PMC\d+(\.\d+)?$`.
 
 | external_xref    |   usages_count | usages                                                |
 |------------------|----------------|-------------------------------------------------------|

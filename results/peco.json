@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T13:22:15.133377",
+  "created": "2023-12-07T09:55:47.694312",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/peco.owl": {
@@ -219,6 +219,9 @@
           "http://purl.obolibrary.org/obo/PECO_0001073": [
             "PECO:cooperl"
           ],
+          "http://purl.obolibrary.org/obo/PECO_0001074": [
+            "PECO:cooperl"
+          ],
           "http://purl.obolibrary.org/obo/PECO_0007023": [
             "PECO:cooperl"
           ],
@@ -250,6 +253,9 @@
             "TO:moorel"
           ],
           "http://purl.obolibrary.org/obo/PECO_0007064": [
+            "PECO:cooperl"
+          ],
+          "http://purl.obolibrary.org/obo/PECO_0007067": [
             "PECO:cooperl"
           ],
           "http://purl.obolibrary.org/obo/PECO_0007116": [
@@ -355,6 +361,9 @@
             "TO:moorel"
           ],
           "http://purl.obolibrary.org/obo/PECO_0007403": [
+            "PECO:cooperl"
+          ],
+          "http://purl.obolibrary.org/obo/PECO_0007405": [
             "PECO:cooperl"
           ],
           "http://purl.obolibrary.org/obo/PECO_0007407": [
@@ -1039,8 +1048,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2023-07-25",
-      "version_iri": "http://purl.obolibrary.org/obo/peco/releases/2023-07-25/peco.owl",
+      "version": "2023-11-10",
+      "version_iri": "http://purl.obolibrary.org/obo/peco/releases/2023-11-10/peco.owl",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",
@@ -1115,6 +1124,7 @@
             "http://purl.obolibrary.org/obo/PECO_0001071": "PECO_GIT:123",
             "http://purl.obolibrary.org/obo/PECO_0001072": "PECO_GIT:120",
             "http://purl.obolibrary.org/obo/PECO_0001073": "PECO_GIT:128",
+            "http://purl.obolibrary.org/obo/PECO_0001074": "PECO_GIT:134",
             "http://purl.obolibrary.org/obo/PECO_0007023": "PECO_GIT:85",
             "http://purl.obolibrary.org/obo/PECO_0007027": "PECO_GIT:83",
             "http://purl.obolibrary.org/obo/PECO_0007041": "PECO_GIT:69",

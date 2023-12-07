@@ -4,17 +4,6 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
 
 
-## `BioRXiv`: bioRxiv
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `BioRXiv` (standardized to Bioregistry
-prefix [`biorxiv`](https://bioregistry.io/biorxiv)) that
-did not match the standard pattern `^(\d{4}\.\d{2}\.\d{2}\.)?\d{6,8}(v\d{1,3})?$`.
-
-| external_xref                            |   usages_count | usages                                                  |
-|------------------------------------------|----------------|---------------------------------------------------------|
-| `BioRXiv:https://doi.org/10.1101/584664` |              1 | [SO:0002223](http://purl.obolibrary.org/obo/SO_0002223) |
-
 ## `DOI`: Digital Object Identifier
 
 Overall, there were 7 invalid
@@ -104,7 +93,7 @@ did not match the standard pattern `^\d+$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `PMC` (standardized to Bioregistry
 prefix [`pmc`](https://bioregistry.io/pmc)) that
-did not match the standard pattern `^PMC\d+$`.
+did not match the standard pattern `^PMC\d+(\.\d+)?$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|

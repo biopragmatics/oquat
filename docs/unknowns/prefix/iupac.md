@@ -13,12 +13,6 @@
 |-------------|----------|-------------------------------------------------------------|
 | IUPAC:IUPAC |        1 | [PATO:0001674](http://purl.obolibrary.org/obo/PATO_0001674) |
 
-## nif
-
-| curie       |   usages | nodes                                                       |
-|-------------|----------|-------------------------------------------------------------|
-| IUPAC:IUPAC |        1 | [PATO:0001674](http://purl.obolibrary.org/obo/PATO_0001674) |
-
 ## vsmo
 
 | curie                                                                                                                         |   usages | nodes                                                         |

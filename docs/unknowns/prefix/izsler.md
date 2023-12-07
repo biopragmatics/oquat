@@ -69,7 +69,6 @@
 | IZSLER:BS TCL 127 |        1 | [Cellosaurus#CVCL:0285](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0285) |
 | IZSLER:BS CL 151  |        1 | [Cellosaurus#CVCL:0286](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0286) |
 | IZSLER:BS TCL 100 |        1 | [Cellosaurus#CVCL:0291](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0291) |
-| IZSLER:BS CL 116  |        1 | [Cellosaurus#CVCL:0298](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0298) |
 | IZSLER:BS TCL 188 |        1 | [Cellosaurus#CVCL:0301](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0301) |
 | IZSLER:BS TCL 69  |        1 | [Cellosaurus#CVCL:0312](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0312) |
 | IZSLER:BS TCL 170 |        1 | [Cellosaurus#CVCL:0313](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0313) |
@@ -85,6 +84,7 @@
 | IZSLER:BS TCL 83  |        1 | [Cellosaurus#CVCL:0358](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0358) |
 | IZSLER:BS TCL 182 |        1 | [Cellosaurus#CVCL:0360](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0360) |
 | IZSLER:BS TCL 181 |        1 | [Cellosaurus#CVCL:0363](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0363) |
+| IZSLER:BS TCL 110 |        1 | [Cellosaurus#CVCL:0367](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0367) |
 | IZSLER:BS TCL 151 |        1 | [Cellosaurus#CVCL:0371](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0371) |
 | IZSLER:BS TCL 34  |        1 | [Cellosaurus#CVCL:0372](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0372) |
 | IZSLER:BS TCL 190 |        1 | [Cellosaurus#CVCL:0374](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_0374) |
@@ -437,7 +437,6 @@
 | IZSLER:BS CL 138  |        1 | [Cellosaurus#CVCL:4527](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4527) |
 | IZSLER:BS CL 51   |        1 | [Cellosaurus#CVCL:4528](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4528) |
 | IZSLER:BS CL 97   |        1 | [Cellosaurus#CVCL:4529](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4529) |
-| IZSLER:BS TCL 110 |        1 | [Cellosaurus#CVCL:4530](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4530) |
 | IZSLER:BS CL 147  |        1 | [Cellosaurus#CVCL:4531](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4531) |
 | IZSLER:BS Hy 28   |        1 | [Cellosaurus#CVCL:4532](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4532) |
 | IZSLER:BS Hy 17   |        1 | [Cellosaurus#CVCL:4533](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_4533) |
@@ -492,6 +491,7 @@
 | IZSLER:BS CL 186  |        1 | [Cellosaurus#CVCL:9T09](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_9T09) |
 | IZSLER:BS CL 24   |        1 | [Cellosaurus#CVCL:9T10](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_9T10) |
 | IZSLER:BS CL 124  |        1 | [Cellosaurus#CVCL:9T11](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_9T11) |
+| IZSLER:BS CL 116  |        1 | [Cellosaurus#CVCL:C0SC](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C0SC) |
 | IZSLER:BS TCL 167 |        1 | [Cellosaurus#CVCL:F641](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_F641) |
 | IZSLER:BS Hy 59   |        1 | [Cellosaurus#CVCL:G569](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_G569) |
 | IZSLER:BS Hy 52   |        1 | [Cellosaurus#CVCL:G576](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_G576) |

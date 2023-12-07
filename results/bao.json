@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T12:25:39.729277",
+  "created": "2023-12-07T09:12:21.942078",
   "messages": [],
   "results": {
     "http://www.bioassayontology.org/bao/bao_complete.owl": {
@@ -18,7 +18,7 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2.8.7",
+      "version": "2.8.10",
       "version_iri": "http://www.bioassayontology.org/bao/bao_complete.owl",
       "xref_pack": {
         "invalid_luids": {
@@ -600,7 +600,11 @@
           ]
         },
         "label": "Node Xrefs",
-        "malformed_curies": {},
+        "malformed_curies": {
+          "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            "seeAlso"
+          ]
+        },
         "noncanonical_prefixes": {
           "FBbt_root": {
             "http://purl.obolibrary.org/obo/UBERON_0001062": "FBbt_root:00000000"

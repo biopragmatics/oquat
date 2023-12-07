@@ -4,6 +4,18 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `efo`. See the [GitHub repository](https://github.com/EBISPOT/efo/).
 
 
+## `BTO`: BRENDA Tissue Ontology
+
+Overall, there were 2 invalid
+xrefs to external prefixed with `BTO` (standardized to Bioregistry
+prefix [`bto`](https://bioregistry.io/bto)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref               |   usages_count | usages                                              |
+|-----------------------------|----------------|-----------------------------------------------------|
+| `BTO:0002522 `              |              1 | [EFO:0022408](http://www.ebi.ac.uk/efo/EFO_0022408) |
+| `BTO:0005715; PMID:7520026` |              1 | [EFO:0022452](http://www.ebi.ac.uk/efo/EFO_0022452) |
+
 ## `CAS`: CAS Registry Number
 
 Overall, there were 2 invalid
@@ -664,9 +676,20 @@ did not match the standard pattern `^C?\d+$`.
 | `ORDO:Orphanet_85414`  |              1 | [EFO:1001999](http://www.ebi.ac.uk/efo/EFO_1001999)                                                      |
 | `ORDO:Orphanet_66529`  |              1 | [EFO:1002000](http://www.ebi.ac.uk/efo/EFO_1002000)                                                      |
 
+## `Orphanet`: Orphanet
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `Orphanet` (standardized to Bioregistry
+prefix [`orphanet`](https://bioregistry.io/orphanet)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref                |   usages_count | usages                                              |
+|------------------------------|----------------|-----------------------------------------------------|
+| `Orphanet:189427-definition` |              1 | [EFO:0009041](http://www.ebi.ac.uk/efo/EFO_0009041) |
+
 ## `PMID`: PubMed
 
-Overall, there were 8 invalid
+Overall, there were 9 invalid
 xrefs to external prefixed with `PMID` (standardized to Bioregistry
 prefix [`pubmed`](https://bioregistry.io/pubmed)) that
 did not match the standard pattern `^\d+$`.
@@ -681,17 +704,7 @@ did not match the standard pattern `^\d+$`.
 | `PMID: 31636452`  |              1 | [EFO:0010605](http://www.ebi.ac.uk/efo/EFO_0010605) |
 | `PMID:25167691 `  |              1 | [EFO:0010695](http://www.ebi.ac.uk/efo/EFO_0010695) |
 | `PMID: 32355309`  |              1 | [EFO:0010749](http://www.ebi.ac.uk/efo/EFO_0010749) |
-
-## `PR`: Protein Ontology
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `PR` (standardized to Bioregistry
-prefix [`pr`](https://bioregistry.io/pr)) that
-did not match the standard pattern `^\d+$`.
-
-| external_xref   |   usages_count | usages                                              |
-|-----------------|----------------|-----------------------------------------------------|
-| `PR:Q92496`     |              1 | [EFO:0600091](http://www.ebi.ac.uk/efo/EFO_0600091) |
+| `PMID: 19881539`  |              1 | [EFO:0022445](http://www.ebi.ac.uk/efo/EFO_0022445) |
 
 ## `Reactome`: Reactome
 
@@ -743,7 +756,7 @@ did not match the standard pattern `^\d{7}$`.
 
 ## `UMLS`: Unified Medical Language System Concept Unique Identifier
 
-Overall, there were 93 invalid
+Overall, there were 94 invalid
 xrefs to external prefixed with `UMLS` (standardized to Bioregistry
 prefix [`umls`](https://bioregistry.io/umls)) that
 did not match the standard pattern `^C\d+$`.
@@ -799,6 +812,7 @@ did not match the standard pattern `^C\d+$`.
 | `UMLS:CN205981` |              1 | [EFO:0008613](http://www.ebi.ac.uk/efo/EFO_0008613) |
 | `UMLS:CL520437` |              1 | [EFO:0008614](http://www.ebi.ac.uk/efo/EFO_0008614) |
 | `UMLS:CN239183` |              1 | [EFO:0009039](http://www.ebi.ac.uk/efo/EFO_0009039) |
+| `UMLS:CN200644` |              1 | [EFO:0009041](http://www.ebi.ac.uk/efo/EFO_0009041) |
 | `UMLS:CN072455` |              1 | [EFO:0009052](http://www.ebi.ac.uk/efo/EFO_0009052) |
 | `UMLS:CN202862` |              1 | [EFO:0009068](http://www.ebi.ac.uk/efo/EFO_0009068) |
 | `UMLS:CN240512` |              1 | [EFO:0009068](http://www.ebi.ac.uk/efo/EFO_0009068) |

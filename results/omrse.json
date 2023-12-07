@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T13:19:04.433199",
+  "created": "2023-12-07T09:53:15.430029",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/omrse.json": {
@@ -18,8 +18,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2023-05-19",
-      "version_iri": "http://purl.obolibrary.org/obo/omrse/releases/2023-05-19/omrse.json",
+      "version": "2023-10-08",
+      "version_iri": "http://purl.obolibrary.org/obo/omrse/releases/2023-10-08/omrse.json",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

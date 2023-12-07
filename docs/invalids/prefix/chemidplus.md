@@ -12,7 +12,6 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | external_xref           |   usages_count | usages                                                      |
 |-------------------------|----------------|-------------------------------------------------------------|
 | `ChemIDplus:94711`      |              1 | [CHEBI:133920](http://purl.obolibrary.org/obo/CHEBI_133920) |
-| `ChemIDplus:0002096426` |              1 | [CHEBI:156351](http://purl.obolibrary.org/obo/CHEBI_156351) |
 | `ChemIDplus:0035891726` |              1 | [CHEBI:156361](http://purl.obolibrary.org/obo/CHEBI_156361) |
 | `ChemIDplus:9589606`    |              1 | [CHEBI:189649](http://purl.obolibrary.org/obo/CHEBI_189649) |
 | `ChemIDplus:11981715`   |              1 | [CHEBI:189650](http://purl.obolibrary.org/obo/CHEBI_189650) |

@@ -963,7 +963,16 @@
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=207  |        1 | [UNIMOD:207](http://purl.obolibrary.org/obo/UNIMOD_207)   |
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2070 |        1 | [UNIMOD:2070](http://purl.obolibrary.org/obo/UNIMOD_2070) |
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2072 |        1 | [UNIMOD:2072](http://purl.obolibrary.org/obo/UNIMOD_2072) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2073 |        1 | [UNIMOD:2073](http://purl.obolibrary.org/obo/UNIMOD_2073) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2074 |        1 | [UNIMOD:2074](http://purl.obolibrary.org/obo/UNIMOD_2074) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2079 |        1 | [UNIMOD:2079](http://purl.obolibrary.org/obo/UNIMOD_2079) |
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=208  |        1 | [UNIMOD:208](http://purl.obolibrary.org/obo/UNIMOD_208)   |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2080 |        1 | [UNIMOD:2080](http://purl.obolibrary.org/obo/UNIMOD_2080) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2081 |        1 | [UNIMOD:2081](http://purl.obolibrary.org/obo/UNIMOD_2081) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2082 |        1 | [UNIMOD:2082](http://purl.obolibrary.org/obo/UNIMOD_2082) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2083 |        1 | [UNIMOD:2083](http://purl.obolibrary.org/obo/UNIMOD_2083) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2084 |        1 | [UNIMOD:2084](http://purl.obolibrary.org/obo/UNIMOD_2084) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2085 |        1 | [UNIMOD:2085](http://purl.obolibrary.org/obo/UNIMOD_2085) |
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=209  |        1 | [UNIMOD:209](http://purl.obolibrary.org/obo/UNIMOD_209)   |
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=21   |        1 | [UNIMOD:21](http://purl.obolibrary.org/obo/UNIMOD_21)     |
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=211  |        1 | [UNIMOD:211](http://purl.obolibrary.org/obo/UNIMOD_211)   |

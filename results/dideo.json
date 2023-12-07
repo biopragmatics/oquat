@@ -1,31 +1,7 @@
 {
-  "created": "2023-09-07T12:35:02.760228",
-  "messages": [],
-  "results": {
-    "http://purl.obolibrary.org/obo/dideo/release/2022-06-14/dideo.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/dideo/release/2022-06-14/dideo.owl",
-      "prov_pack": {
-        "invalid_luids": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "release version 2022-06-14",
-      "xref_pack": {
-        "invalid_luids": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
-    }
-  }
+  "created": "2023-12-07T09:25:06.807925",
+  "messages": [
+    "[dideo] could not parse OWL from http://purl.obolibrary.org/obo/dideo.owl"
+  ],
+  "results": {}
 }

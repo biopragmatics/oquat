@@ -1,12 +1,5 @@
 # `iuphar`
 
-## nif
-
-| curie                                                    |   usages | nodes                                                       |
-|----------------------------------------------------------|----------|-------------------------------------------------------------|
-| IUPHAR:http://www.iuphar-db.org/GPCR/ReceptorListForward |        1 | [PR:000001094](http://purl.obolibrary.org/obo/PR_000001094) |
-| IUPHAR:GPCRListForward?class=A                           |        1 | [PR:000001094](http://purl.obolibrary.org/obo/PR_000001094) |
-
 ## orphanet
 
 | curie       |   usages | nodes                                                                                  |

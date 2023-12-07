@@ -7,13 +7,6 @@
 | WordNet:WordNet |       85 | [PATO:0000011](http://purl.obolibrary.org/obo/PATO_0000011), [PATO:0000059](http://purl.obolibrary.org/obo/PATO_0000059), [PATO:0000117](http://purl.obolibrary.org/obo/PATO_0000117), [PATO:0000396](http://purl.obolibrary.org/obo/PATO_0000396), [PATO:0000402](http://purl.obolibrary.org/obo/PATO_0000402), ... |
 | WordNet:Wordnet |        1 | [PATO:0001486](http://purl.obolibrary.org/obo/PATO_0001486)                                                                                                                                                                                                                                                          |
 
-## nif
-
-| curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
-|-----------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| WordNet:WordNet |       85 | [PATO:0000011](http://purl.obolibrary.org/obo/PATO_0000011), [PATO:0000059](http://purl.obolibrary.org/obo/PATO_0000059), [PATO:0000117](http://purl.obolibrary.org/obo/PATO_0000117), [PATO:0000396](http://purl.obolibrary.org/obo/PATO_0000396), [PATO:0000402](http://purl.obolibrary.org/obo/PATO_0000402), ... |
-| WordNet:Wordnet |        1 | [PATO:0001486](http://purl.obolibrary.org/obo/PATO_0001486)                                                                                                                                                                                                                                                          |
-
 ## enm
 
 | curie           |   usages | nodes                                                                                                                                                                                                                                                                                                                |

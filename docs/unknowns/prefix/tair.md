@@ -1,11 +1,5 @@
 # `tair`
 
-## nif
-
-| curie   |   usages | nodes                                                                                                            |
-|---------|----------|------------------------------------------------------------------------------------------------------------------|
-| TAIR:sr |        2 | [CL:0000293](http://purl.obolibrary.org/obo/CL_0000293), [CL:0000627](http://purl.obolibrary.org/obo/CL_0000627) |
-
 ## cl
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                            |

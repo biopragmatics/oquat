@@ -37,14 +37,6 @@
 |--------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | BGEE:curator |        3 | [HOM:0000000](http://purl.obolibrary.org/obo/HOM_0000000), [HOM:0000019](http://purl.obolibrary.org/obo/HOM_0000019), [HOM:0000037](http://purl.obolibrary.org/obo/HOM_0000037) |
 
-## nif
-
-| curie        |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
-|--------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bgee:AN      |        5 | [UBERON:0018241](http://purl.obolibrary.org/obo/UBERON_0018241), [UBERON:0018685](http://purl.obolibrary.org/obo/UBERON_0018685), [UBERON:0034919](http://purl.obolibrary.org/obo/UBERON_0034919), [UBERON:0034920](http://purl.obolibrary.org/obo/UBERON_0034920), [UBERON:0035602](http://purl.obolibrary.org/obo/UBERON_0035602), ... |
-| BGEE:curator |        3 | [RO:HOM0000000](http://purl.obolibrary.org/obo/RO_HOM0000000), [RO:HOM0000019](http://purl.obolibrary.org/obo/RO_HOM0000019), [RO:HOM0000037](http://purl.obolibrary.org/obo/RO_HOM0000037)                                                                                                                                              |
-| bgee:ANN     |        1 | [UBERON:0036219](http://purl.obolibrary.org/obo/UBERON_0036219)                                                                                                                                                                                                                                                                          |
-
 ## ro
 
 | curie        |   usages | nodes                                                                                                                                                                                       |

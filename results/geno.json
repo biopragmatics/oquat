@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T12:48:58.942973",
+  "created": "2023-12-07T09:31:38.883557",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/geno.json": {
@@ -18,8 +18,8 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2023-02-21",
-      "version_iri": "http://purl.obolibrary.org/obo/geno/releases/2023-02-21/geno.json",
+      "version": "2023-10-08",
+      "version_iri": "http://purl.obolibrary.org/obo/geno/releases/2023-10-08/geno.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/GENO_0000010": [

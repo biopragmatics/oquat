@@ -80,14 +80,14 @@ did not match the standard pattern `^\d{1,7}\-\d{2}\-\d$`.
 
 ## `PECO`: Plant Experimental Conditions Ontology
 
-Overall, there were 112 invalid
+Overall, there were 115 invalid
 xrefs to external prefixed with `PECO` (standardized to Bioregistry
 prefix [`peco`](https://bioregistry.io/peco)) that
 did not match the standard pattern `^\d{7}$`.
 
 | external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
 |----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PECO:cooperl`       |            109 | [PECO:0001001](http://purl.obolibrary.org/obo/PECO_0001001), [PECO:0001002](http://purl.obolibrary.org/obo/PECO_0001002), [PECO:0001003](http://purl.obolibrary.org/obo/PECO_0001003), [PECO:0001004](http://purl.obolibrary.org/obo/PECO_0001004), [PECO:0001005](http://purl.obolibrary.org/obo/PECO_0001005), ... |
+| `PECO:cooperl`       |            112 | [PECO:0001001](http://purl.obolibrary.org/obo/PECO_0001001), [PECO:0001002](http://purl.obolibrary.org/obo/PECO_0001002), [PECO:0001003](http://purl.obolibrary.org/obo/PECO_0001003), [PECO:0001004](http://purl.obolibrary.org/obo/PECO_0001004), [PECO:0001005](http://purl.obolibrary.org/obo/PECO_0001005), ... |
 | `PECO:laura_moore`   |              2 | [PECO:0001058](http://purl.obolibrary.org/obo/PECO_0001058), [PECO:0001059](http://purl.obolibrary.org/obo/PECO_0001059)                                                                                                                                                                                             |
 | `PECO:Laurel_Cooper` |              1 | [PECO:0001063](http://purl.obolibrary.org/obo/PECO_0001063)                                                                                                                                                                                                                                                          |
 

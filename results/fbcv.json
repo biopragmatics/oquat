@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T12:44:09.765600",
+  "created": "2023-12-07T09:29:25.247339",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/fbcv.json": {
@@ -1061,8 +1061,8 @@
           }
         }
       },
-      "version": "2023-08-02",
-      "version_iri": "http://purl.obolibrary.org/obo/fbcv/releases/2023-08-02/fbcv.json",
+      "version": "2023-10-19",
+      "version_iri": "http://purl.obolibrary.org/obo/fbcv/releases/2023-10-19/fbcv.json",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

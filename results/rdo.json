@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T13:24:05.217843",
+  "created": "2023-12-07T09:57:43.772088",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/rdo.owl": {
@@ -41,7 +41,6 @@
             "http://purl.obolibrary.org/obo/DOID_9004668": "NCI:C96407",
             "http://purl.obolibrary.org/obo/DOID_9004893": "NCI:C5327",
             "http://purl.obolibrary.org/obo/DOID_9004951": "NCI:C5161",
-            "http://purl.obolibrary.org/obo/DOID_9005067": "NCI:C7572",
             "http://purl.obolibrary.org/obo/DOID_9005127": "NCI:C3708",
             "http://purl.obolibrary.org/obo/DOID_9005143": "NCI:C4723",
             "http://purl.obolibrary.org/obo/DOID_9005407": "NCI:C7492",
@@ -123,7 +122,6 @@
             "http://purl.obolibrary.org/obo/DOID_10866": "ICD9CM_2006:378.52",
             "http://purl.obolibrary.org/obo/DOID_10873": "ICD9CM_2006:362.52",
             "http://purl.obolibrary.org/obo/DOID_10989": "ICD9CM_2006:372.74",
-            "http://purl.obolibrary.org/obo/DOID_11134": "ICD9CM_2006:375.16",
             "http://purl.obolibrary.org/obo/DOID_112": "ICD9CM_2006:456.1",
             "http://purl.obolibrary.org/obo/DOID_11219": "ICD9CM_2006:372.02",
             "http://purl.obolibrary.org/obo/DOID_11230": "ICD9CM_2006:376.0",
@@ -186,7 +184,6 @@
             "http://purl.obolibrary.org/obo/DOID_5364": "MTHICD9_2006:793.1",
             "http://purl.obolibrary.org/obo/DOID_5608": "MTHICD9_2006:522.2",
             "http://purl.obolibrary.org/obo/DOID_767": "MTHICD9_2006:728.2",
-            "http://purl.obolibrary.org/obo/DOID_824": "MTHICD9_2006:523.4",
             "http://purl.obolibrary.org/obo/DOID_8505": "MTHICD9_2006:694.0",
             "http://purl.obolibrary.org/obo/DOID_8573": "MTHICD9_2006:697.1",
             "http://purl.obolibrary.org/obo/DOID_8607": "MTHICD9_2006:054.6",
@@ -267,7 +264,6 @@
             "http://purl.obolibrary.org/obo/DOID_3744": "NCI2004_11_17:C4028",
             "http://purl.obolibrary.org/obo/DOID_3907": "NCI2004_11_17:C3493",
             "http://purl.obolibrary.org/obo/DOID_3953": "NCI2004_11_17:C9338",
-            "http://purl.obolibrary.org/obo/DOID_4053": "NCI2004_11_17:C5627",
             "http://purl.obolibrary.org/obo/DOID_4058": "NCI2004_11_17:C5736",
             "http://purl.obolibrary.org/obo/DOID_4060": "NCI2004_11_17:C5190",
             "http://purl.obolibrary.org/obo/DOID_4119": "NCI2004_11_17:C5695",
@@ -309,10 +305,8 @@
             "http://purl.obolibrary.org/obo/DOID_5348": "NCI2004_11_17:C27241",
             "http://purl.obolibrary.org/obo/DOID_5349": "NCI2004_11_17:C6285",
             "http://purl.obolibrary.org/obo/DOID_5350": "NCI2004_11_17:C8107",
-            "http://purl.obolibrary.org/obo/DOID_5396": "NCI2004_11_17:C7910",
             "http://purl.obolibrary.org/obo/DOID_5519": "NCI2004_11_17:C5490",
             "http://purl.obolibrary.org/obo/DOID_5535": "NCI2004_11_17:C9170",
-            "http://purl.obolibrary.org/obo/DOID_5559": "NCI2004_11_17:C3221",
             "http://purl.obolibrary.org/obo/DOID_5563": "NCI2004_11_17:C8884",
             "http://purl.obolibrary.org/obo/DOID_5576": "NCI2004_11_17:C34959",
             "http://purl.obolibrary.org/obo/DOID_5580": "NCI2004_11_17:C9069",
@@ -356,7 +350,6 @@
             "http://purl.obolibrary.org/obo/DOID_7232": "NCI2004_11_17:C7010",
             "http://purl.obolibrary.org/obo/DOID_7233": "NCI2004_11_17:C5790",
             "http://purl.obolibrary.org/obo/DOID_730": "NCI2004_11_17:C3428",
-            "http://purl.obolibrary.org/obo/DOID_7388": "NCI2004_11_17:C5374",
             "http://purl.obolibrary.org/obo/DOID_7482": "NCI2004_11_17:C5271",
             "http://purl.obolibrary.org/obo/DOID_7488": "NCI2004_11_17:C7640",
             "http://purl.obolibrary.org/obo/DOID_7515": "NCI2004_11_17:C5298",
@@ -470,8 +463,6 @@
             "http://purl.obolibrary.org/obo/DOID_13333": "SNOMEDCT_2005_07_31:196584007",
             "http://purl.obolibrary.org/obo/DOID_13444": "SNOMEDCT_2005_07_31:35322000",
             "http://purl.obolibrary.org/obo/DOID_13476": "SNOMEDCT_2005_07_31:187842004",
-            "http://purl.obolibrary.org/obo/DOID_13490": "SNOMEDCT_2005_07_31:8535002",
-            "http://purl.obolibrary.org/obo/DOID_13492": "SNOMEDCT_2005_07_31:21653008",
             "http://purl.obolibrary.org/obo/DOID_13561": "SNOMEDCT_2005_07_31:33629003",
             "http://purl.obolibrary.org/obo/DOID_13576": "SNOMEDCT_2005_07_31:13404009",
             "http://purl.obolibrary.org/obo/DOID_13620": "SNOMEDCT_2005_07_31:204318003",
@@ -533,7 +524,6 @@
             "http://purl.obolibrary.org/obo/DOID_4607": "SNOMEDCT_2005_07_31:93688006",
             "http://purl.obolibrary.org/obo/DOID_461": "SNOMEDCT_2005_07_31:126616000",
             "http://purl.obolibrary.org/obo/DOID_4863": "SNOMEDCT_2005_07_31:254948003",
-            "http://purl.obolibrary.org/obo/DOID_4871": "SNOMEDCT_2005_07_31:399968001",
             "http://purl.obolibrary.org/obo/DOID_4902": "SNOMEDCT_2005_07_31:154462002",
             "http://purl.obolibrary.org/obo/DOID_4915": "SNOMEDCT_2005_07_31:47107000",
             "http://purl.obolibrary.org/obo/DOID_4955": "SNOMEDCT_2005_07_31:277523004",
@@ -542,7 +532,6 @@
             "http://purl.obolibrary.org/obo/DOID_5274": "SNOMEDCT_2005_07_31:255096006",
             "http://purl.obolibrary.org/obo/DOID_5350": "SNOMEDCT_2005_07_31:254876005",
             "http://purl.obolibrary.org/obo/DOID_5444": "SNOMEDCT_2005_07_31:403938001",
-            "http://purl.obolibrary.org/obo/DOID_5559": "SNOMEDCT_2005_07_31:126725000",
             "http://purl.obolibrary.org/obo/DOID_5608": "SNOMEDCT_2005_07_31:57602001",
             "http://purl.obolibrary.org/obo/DOID_5632": "SNOMEDCT_2005_07_31:254978007",
             "http://purl.obolibrary.org/obo/DOID_5692": "SNOMEDCT_2005_07_31:404070007",
@@ -604,8 +593,8 @@
           }
         }
       },
-      "version": "1.241",
-      "version_iri": "http://purl.obolibrary.org/obo/rdo/1.241/rdo.owl",
+      "version": "1.253",
+      "version_iri": "http://purl.obolibrary.org/obo/rdo/1.253/rdo.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/DOID_0050120": [
@@ -1083,6 +1072,9 @@
           "http://purl.obolibrary.org/obo/DOID_0060901": [
             "OMIM:PS153600"
           ],
+          "http://purl.obolibrary.org/obo/DOID_0060913": [
+            "OMIM:PS256040"
+          ],
           "http://purl.obolibrary.org/obo/DOID_0070198": [
             "OMIM:PS254130"
           ],
@@ -1121,6 +1113,12 @@
           ],
           "http://purl.obolibrary.org/obo/DOID_0070438": [
             "OMIM:PS136550"
+          ],
+          "http://purl.obolibrary.org/obo/DOID_0070476": [
+            "OMIM:PS616901"
+          ],
+          "http://purl.obolibrary.org/obo/DOID_0070487": [
+            "OMIM:PS613135"
           ],
           "http://purl.obolibrary.org/obo/DOID_0080026": [
             "OMIM:PS184840"
@@ -1170,6 +1168,9 @@
           ],
           "http://purl.obolibrary.org/obo/DOID_0080205": [
             "OMIM:PS610805"
+          ],
+          "http://purl.obolibrary.org/obo/DOID_0080301": [
+            "OMIM:PS235400"
           ],
           "http://purl.obolibrary.org/obo/DOID_0080307": [
             "OMIM:PS601419"
@@ -1248,9 +1249,6 @@
           ],
           "http://purl.obolibrary.org/obo/DOID_0080910": [
             "OMIM:PS214150"
-          ],
-          "http://purl.obolibrary.org/obo/DOID_0080925": [
-            "NCI:131302"
           ],
           "http://purl.obolibrary.org/obo/DOID_0080942": [
             "OMIM:PS607095"
@@ -1475,6 +1473,9 @@
           "http://purl.obolibrary.org/obo/DOID_11713": [
             "OMIM:PS603933"
           ],
+          "http://purl.obolibrary.org/obo/DOID_11720": [
+            "OMIM:PS160500"
+          ],
           "http://purl.obolibrary.org/obo/DOID_11724": [
             "MONDO:0016971  ",
             "OMIM:PS609308"
@@ -1664,6 +1665,9 @@
           "http://purl.obolibrary.org/obo/DOID_1657": [
             "OMIM:PS614429"
           ],
+          "http://purl.obolibrary.org/obo/DOID_1682": [
+            "OMIM:PS212093"
+          ],
           "http://purl.obolibrary.org/obo/DOID_169": [
             "ICD9CM:209-209.99"
           ],
@@ -1672,6 +1676,9 @@
           ],
           "http://purl.obolibrary.org/obo/DOID_1825": [
             "OMIM:PS600131"
+          ],
+          "http://purl.obolibrary.org/obo/DOID_1826": [
+            "OMIM:PS617290"
           ],
           "http://purl.obolibrary.org/obo/DOID_1827": [
             "OMIM:PS600669"
@@ -2233,14 +2240,8 @@
           "http://purl.obolibrary.org/obo/DOID_9004715": [
             "OMIM:PS193670"
           ],
-          "http://purl.obolibrary.org/obo/DOID_9004752": [
-            "OMIM:PS256040"
-          ],
           "http://purl.obolibrary.org/obo/DOID_9004787": [
             "OMIM:PS607313"
-          ],
-          "http://purl.obolibrary.org/obo/DOID_9005014": [
-            "OMIM:PS613135"
           ],
           "http://purl.obolibrary.org/obo/DOID_9005329": [
             "OMIM:PS174400"
@@ -2811,6 +2812,7 @@
             "http://purl.obolibrary.org/obo/DOID_0060833": "NCI:C111814",
             "http://purl.obolibrary.org/obo/DOID_0060844": "NCI:C118634",
             "http://purl.obolibrary.org/obo/DOID_0060847": "NCI:C126560",
+            "http://purl.obolibrary.org/obo/DOID_0060848": "NCI:C201590",
             "http://purl.obolibrary.org/obo/DOID_0060849": "NCI:C130998",
             "http://purl.obolibrary.org/obo/DOID_0060850": "NCI:C98813",
             "http://purl.obolibrary.org/obo/DOID_0060851": "NCI:C34910",
@@ -2825,6 +2827,8 @@
             "http://purl.obolibrary.org/obo/DOID_0060889": "NCI:C85033",
             "http://purl.obolibrary.org/obo/DOID_0060891": "NCI:C198608",
             "http://purl.obolibrary.org/obo/DOID_0060895": "NCI:C198604",
+            "http://purl.obolibrary.org/obo/DOID_0060897": "NCI:C201520",
+            "http://purl.obolibrary.org/obo/DOID_0060900": "NCI:C201519",
             "http://purl.obolibrary.org/obo/DOID_0060901": "NCI:C80307",
             "http://purl.obolibrary.org/obo/DOID_0060911": "NCI:C173626",
             "http://purl.obolibrary.org/obo/DOID_0070004": "NCI:C9290",
@@ -2875,7 +2879,14 @@
             "http://purl.obolibrary.org/obo/DOID_0070349": "NCI:C191766",
             "http://purl.obolibrary.org/obo/DOID_0070351": "NCI:C191765",
             "http://purl.obolibrary.org/obo/DOID_0070393": "NCI:C190869",
+            "http://purl.obolibrary.org/obo/DOID_0070402": "NCI:C201587",
             "http://purl.obolibrary.org/obo/DOID_0070439": "NCI:C168999",
+            "http://purl.obolibrary.org/obo/DOID_0070475": "NCI:C7572",
+            "http://purl.obolibrary.org/obo/DOID_0070480": "NCI:C186703",
+            "http://purl.obolibrary.org/obo/DOID_0070481": "NCI:C186704",
+            "http://purl.obolibrary.org/obo/DOID_0070484": "NCI:C176941",
+            "http://purl.obolibrary.org/obo/DOID_0070487": "NCI:C129866",
+            "http://purl.obolibrary.org/obo/DOID_0070491": "NCI:C176895",
             "http://purl.obolibrary.org/obo/DOID_0080016": "NCI:C101214",
             "http://purl.obolibrary.org/obo/DOID_0080031": "NCI:C34609",
             "http://purl.obolibrary.org/obo/DOID_0080041": "NCI:C118697",
@@ -2910,6 +2921,7 @@
             "http://purl.obolibrary.org/obo/DOID_0080165": "NCI:C84275",
             "http://purl.obolibrary.org/obo/DOID_0080166": "NCI:C84276",
             "http://purl.obolibrary.org/obo/DOID_0080167": "NCI:C84277",
+            "http://purl.obolibrary.org/obo/DOID_0080169": "NCI:C85202",
             "http://purl.obolibrary.org/obo/DOID_0080187": "NCI:C3179",
             "http://purl.obolibrary.org/obo/DOID_0080188": "NCI:C3178",
             "http://purl.obolibrary.org/obo/DOID_0080190": "NCI:C3800",
@@ -2928,15 +2940,18 @@
             "http://purl.obolibrary.org/obo/DOID_0080330": "NCI:C173148",
             "http://purl.obolibrary.org/obo/DOID_0080333": "NCI:C192088",
             "http://purl.obolibrary.org/obo/DOID_0080354": "NCI:C157124",
+            "http://purl.obolibrary.org/obo/DOID_0080356": "NCI:C95992",
             "http://purl.obolibrary.org/obo/DOID_0080367": "NCI:C4563",
             "http://purl.obolibrary.org/obo/DOID_0080369": "NCI:C4862",
             "http://purl.obolibrary.org/obo/DOID_0080370": "NCI:C6803",
-            "http://purl.obolibrary.org/obo/DOID_0080390": "NCI:C122795",
+            "http://purl.obolibrary.org/obo/DOID_0080390": "NCI:C122796",
             "http://purl.obolibrary.org/obo/DOID_0080395": "NCI:C124838",
             "http://purl.obolibrary.org/obo/DOID_0080416": "NCI:C155998",
             "http://purl.obolibrary.org/obo/DOID_0080419": "NCI:C190868",
             "http://purl.obolibrary.org/obo/DOID_0080421": "NCI:C172096",
             "http://purl.obolibrary.org/obo/DOID_0080422": "NCI:C147071",
+            "http://purl.obolibrary.org/obo/DOID_0080425": "NCI:C201514",
+            "http://purl.obolibrary.org/obo/DOID_0080430": "NCI:C201518",
             "http://purl.obolibrary.org/obo/DOID_0080431": "NCI:C142802",
             "http://purl.obolibrary.org/obo/DOID_0080436": "NCI:C162472",
             "http://purl.obolibrary.org/obo/DOID_0080437": "NCI:C185237",
@@ -2994,6 +3009,7 @@
             "http://purl.obolibrary.org/obo/DOID_0080648": "NCI:C80346",
             "http://purl.obolibrary.org/obo/DOID_0080649": "NCI:C80347",
             "http://purl.obolibrary.org/obo/DOID_0080651": "NCI:C130039",
+            "http://purl.obolibrary.org/obo/DOID_0080653": "NCI:C114688",
             "http://purl.obolibrary.org/obo/DOID_0080664": "NCI:C122660",
             "http://purl.obolibrary.org/obo/DOID_0080674": "NCI:C53555",
             "http://purl.obolibrary.org/obo/DOID_0080676": "NCI:C168733",
@@ -3033,6 +3049,7 @@
             "http://purl.obolibrary.org/obo/DOID_0080799": "NCI:C54294",
             "http://purl.obolibrary.org/obo/DOID_0080800": "NCI:C62193",
             "http://purl.obolibrary.org/obo/DOID_0080829": "NCI:C132067",
+            "http://purl.obolibrary.org/obo/DOID_0080841": "NCI:C34908",
             "http://purl.obolibrary.org/obo/DOID_0080842": "NCI:C4656",
             "http://purl.obolibrary.org/obo/DOID_0080843": "NCI:C7048",
             "http://purl.obolibrary.org/obo/DOID_0080854": "NCI:C129327",
@@ -3060,6 +3077,7 @@
             "http://purl.obolibrary.org/obo/DOID_0080925": "NCI:C131302",
             "http://purl.obolibrary.org/obo/DOID_0080926": "NCI:C165597",
             "http://purl.obolibrary.org/obo/DOID_0080930": "NCI:C189282",
+            "http://purl.obolibrary.org/obo/DOID_0080933": "NCI:C158963",
             "http://purl.obolibrary.org/obo/DOID_0080952": "NCI:C185246",
             "http://purl.obolibrary.org/obo/DOID_0080954": "NCI:C84572",
             "http://purl.obolibrary.org/obo/DOID_0080956": "NCI:C6772",
@@ -3146,6 +3164,9 @@
             "http://purl.obolibrary.org/obo/DOID_0081329": "NCI:C84733",
             "http://purl.obolibrary.org/obo/DOID_0081330": "NCI:C122661",
             "http://purl.obolibrary.org/obo/DOID_0081333": "NCI:C121565",
+            "http://purl.obolibrary.org/obo/DOID_0081368": "NCI:C131861",
+            "http://purl.obolibrary.org/obo/DOID_0081379": "NCI:C189922",
+            "http://purl.obolibrary.org/obo/DOID_0081384": "NCI:C132224",
             "http://purl.obolibrary.org/obo/DOID_0090001": "NCI:C118436",
             "http://purl.obolibrary.org/obo/DOID_0090005": "NCI:C35008",
             "http://purl.obolibrary.org/obo/DOID_0090008": "NCI:C156430",
@@ -3155,6 +3176,7 @@
             "http://purl.obolibrary.org/obo/DOID_0090028": "NCI:C155996",
             "http://purl.obolibrary.org/obo/DOID_0090029": "NCI:C116380",
             "http://purl.obolibrary.org/obo/DOID_0090031": "NCI:C119676",
+            "http://purl.obolibrary.org/obo/DOID_0090034": "NCI:C201596",
             "http://purl.obolibrary.org/obo/DOID_0090038": "NCI:C123415",
             "http://purl.obolibrary.org/obo/DOID_0090039": "NCI:C156361",
             "http://purl.obolibrary.org/obo/DOID_0090043": "NCI:C116719",
@@ -3215,6 +3237,7 @@
             "http://purl.obolibrary.org/obo/DOID_0110446": "NCI:C187983",
             "http://purl.obolibrary.org/obo/DOID_0110447": "NCI:C174435",
             "http://purl.obolibrary.org/obo/DOID_0110448": "NCI:C192082",
+            "http://purl.obolibrary.org/obo/DOID_0110467": "NCI:C201586",
             "http://purl.obolibrary.org/obo/DOID_0110475": "NCI:C129022",
             "http://purl.obolibrary.org/obo/DOID_0110486": "NCI:C129023",
             "http://purl.obolibrary.org/obo/DOID_0110497": "NCI:C129874",
@@ -3222,6 +3245,7 @@
             "http://purl.obolibrary.org/obo/DOID_0110535": "NCI:C116364",
             "http://purl.obolibrary.org/obo/DOID_0110563": "NCI:C174444",
             "http://purl.obolibrary.org/obo/DOID_0110567": "NCI:C175700",
+            "http://purl.obolibrary.org/obo/DOID_0110582": "NCI:C201585",
             "http://purl.obolibrary.org/obo/DOID_0110594": "NCI:C128117",
             "http://purl.obolibrary.org/obo/DOID_0110599": "NCI:C172392",
             "http://purl.obolibrary.org/obo/DOID_0110600": "NCI:C172393",
@@ -3313,6 +3337,8 @@
             "http://purl.obolibrary.org/obo/DOID_0111237": "NCI:C128118",
             "http://purl.obolibrary.org/obo/DOID_0111240": "NCI:C126742",
             "http://purl.obolibrary.org/obo/DOID_0111242": "NCI:C126743",
+            "http://purl.obolibrary.org/obo/DOID_0111252": "NCI:C3274",
+            "http://purl.obolibrary.org/obo/DOID_0111253": "NCI:C3273",
             "http://purl.obolibrary.org/obo/DOID_0111254": "NCI:C99101",
             "http://purl.obolibrary.org/obo/DOID_0111274": "NCI:C126744",
             "http://purl.obolibrary.org/obo/DOID_0111277": "NCI:C98991",
@@ -3357,6 +3383,7 @@
             "http://purl.obolibrary.org/obo/DOID_0111561": "NCI:C118636",
             "http://purl.obolibrary.org/obo/DOID_0111563": "NCI:C3391",
             "http://purl.obolibrary.org/obo/DOID_0111580": "NCI:C177251",
+            "http://purl.obolibrary.org/obo/DOID_0111582": "NCI:C201591",
             "http://purl.obolibrary.org/obo/DOID_0111583": "NCI:C132196",
             "http://purl.obolibrary.org/obo/DOID_0111584": "NCI:C174217",
             "http://purl.obolibrary.org/obo/DOID_0111585": "NCI:C133086",
@@ -3399,7 +3426,7 @@
             "http://purl.obolibrary.org/obo/DOID_0111873": "NCI:C156433",
             "http://purl.obolibrary.org/obo/DOID_0111932": "NCI:C132293",
             "http://purl.obolibrary.org/obo/DOID_0111933": "NCI:C126738",
-            "http://purl.obolibrary.org/obo/DOID_0111936": "NCI:C176015",
+            "http://purl.obolibrary.org/obo/DOID_0111936": "NCI:C187988",
             "http://purl.obolibrary.org/obo/DOID_0111937": "NCI:C176808",
             "http://purl.obolibrary.org/obo/DOID_0111946": "NCI:C172099",
             "http://purl.obolibrary.org/obo/DOID_0111947": "NCI:C126349",
@@ -3546,6 +3573,7 @@
             "http://purl.obolibrary.org/obo/DOID_10536": "NCI:C5484",
             "http://purl.obolibrary.org/obo/DOID_10540": "NCI:C4636",
             "http://purl.obolibrary.org/obo/DOID_10541": "NCI:C27131",
+            "http://purl.obolibrary.org/obo/DOID_10544": "NCI:C188051",
             "http://purl.obolibrary.org/obo/DOID_10554": "NCI:C34813",
             "http://purl.obolibrary.org/obo/DOID_1056": "NCI:C84940",
             "http://purl.obolibrary.org/obo/DOID_10567": "NCI:C41354",
@@ -3653,7 +3681,7 @@
             "http://purl.obolibrary.org/obo/DOID_10955": "NCI:C128398",
             "http://purl.obolibrary.org/obo/DOID_10964": "NCI:C3654",
             "http://purl.obolibrary.org/obo/DOID_10965": "NCI:C34781",
-            "http://purl.obolibrary.org/obo/DOID_10966": "NCI:C34844",
+            "http://purl.obolibrary.org/obo/DOID_10966": "NCI:C35540",
             "http://purl.obolibrary.org/obo/DOID_10972": "NCI:C171201",
             "http://purl.obolibrary.org/obo/DOID_10973": "NCI:C40120",
             "http://purl.obolibrary.org/obo/DOID_10976": "NCI:C34645",
@@ -4212,7 +4240,7 @@
             "http://purl.obolibrary.org/obo/DOID_14068": "NCI:C34426",
             "http://purl.obolibrary.org/obo/DOID_14069": "NCI:C128373",
             "http://purl.obolibrary.org/obo/DOID_1407": "NCI:C35109",
-            "http://purl.obolibrary.org/obo/DOID_14080": "NCI:C123248",
+            "http://purl.obolibrary.org/obo/DOID_14080": "NCI:C127161",
             "http://purl.obolibrary.org/obo/DOID_14087": "NCI:C35067",
             "http://purl.obolibrary.org/obo/DOID_14110": "NCI:C7379",
             "http://purl.obolibrary.org/obo/DOID_14115": "NCI:C35498",
@@ -4245,6 +4273,7 @@
             "http://purl.obolibrary.org/obo/DOID_14247": "NCI:C128386",
             "http://purl.obolibrary.org/obo/DOID_1425": "NCI:C35666",
             "http://purl.obolibrary.org/obo/DOID_14250": "NCI:C43224",
+            "http://purl.obolibrary.org/obo/DOID_14256": "NCI:C197832",
             "http://purl.obolibrary.org/obo/DOID_1426": "NCI:C27148",
             "http://purl.obolibrary.org/obo/DOID_14261": "NCI:C84717",
             "http://purl.obolibrary.org/obo/DOID_14262": "NCI:C28137",
@@ -4858,6 +4887,7 @@
             "http://purl.obolibrary.org/obo/DOID_2929": "NCI:C34849",
             "http://purl.obolibrary.org/obo/DOID_293": "NCI:C6129",
             "http://purl.obolibrary.org/obo/DOID_2935": "NCI:C2941",
+            "http://purl.obolibrary.org/obo/DOID_2938": "NCI:C38759",
             "http://purl.obolibrary.org/obo/DOID_294": "NCI:C4360",
             "http://purl.obolibrary.org/obo/DOID_2942": "NCI:C39658",
             "http://purl.obolibrary.org/obo/DOID_2945": "NCI:C85064",
@@ -5265,7 +5295,7 @@
             "http://purl.obolibrary.org/obo/DOID_3814": "NCI:C9482",
             "http://purl.obolibrary.org/obo/DOID_3816": "NCI:C27335",
             "http://purl.obolibrary.org/obo/DOID_3817": "NCI:C26941",
-            "http://purl.obolibrary.org/obo/DOID_3827": "NCI:C34687",
+            "http://purl.obolibrary.org/obo/DOID_3827": "NCI:C98893",
             "http://purl.obolibrary.org/obo/DOID_3828": "NCI:C2857",
             "http://purl.obolibrary.org/obo/DOID_3829": "NCI:C3329",
             "http://purl.obolibrary.org/obo/DOID_384": "NCI:C35132",
@@ -5508,6 +5538,7 @@
             "http://purl.obolibrary.org/obo/DOID_4397": "NCI:C3505",
             "http://purl.obolibrary.org/obo/DOID_4398": "NCI:C34888",
             "http://purl.obolibrary.org/obo/DOID_4399": "NCI:C35277",
+            "http://purl.obolibrary.org/obo/DOID_440": "NCI:C189005",
             "http://purl.obolibrary.org/obo/DOID_4400": "NCI:C2984",
             "http://purl.obolibrary.org/obo/DOID_4404": "NCI:C34859",
             "http://purl.obolibrary.org/obo/DOID_4406": "NCI:C27037",
@@ -5892,7 +5923,6 @@
             "http://purl.obolibrary.org/obo/DOID_5204": "NCI:C128119",
             "http://purl.obolibrary.org/obo/DOID_5207": "NCI:C7286",
             "http://purl.obolibrary.org/obo/DOID_5208": "NCI:C4291",
-            "http://purl.obolibrary.org/obo/DOID_5209": "NCI:C40012",
             "http://purl.obolibrary.org/obo/DOID_5212": "NCI:C84615",
             "http://purl.obolibrary.org/obo/DOID_5214": "NCI:C27062",
             "http://purl.obolibrary.org/obo/DOID_5221": "NCI:C36071",
@@ -5995,7 +6025,7 @@
             "http://purl.obolibrary.org/obo/DOID_5393": "NCI:C7739",
             "http://purl.obolibrary.org/obo/DOID_5394": "NCI:C3342",
             "http://purl.obolibrary.org/obo/DOID_5395": "NCI:C8388",
-            "http://purl.obolibrary.org/obo/DOID_5396": "NCI:C7910",
+            "http://purl.obolibrary.org/obo/DOID_5396": "NCI:C5962",
             "http://purl.obolibrary.org/obo/DOID_5398": "NCI:C4159",
             "http://purl.obolibrary.org/obo/DOID_5401": "NCI:C4155",
             "http://purl.obolibrary.org/obo/DOID_5402": "NCI:C40256",
@@ -6178,7 +6208,6 @@
             "http://purl.obolibrary.org/obo/DOID_5713": "NCI:C6614",
             "http://purl.obolibrary.org/obo/DOID_5714": "NCI:C6973",
             "http://purl.obolibrary.org/obo/DOID_5715": "NCI:C4348",
-            "http://purl.obolibrary.org/obo/DOID_5716": "NCI:C7911",
             "http://purl.obolibrary.org/obo/DOID_5718": "NCI:C4827",
             "http://purl.obolibrary.org/obo/DOID_5719": "NCI:C4856",
             "http://purl.obolibrary.org/obo/DOID_5723": "NCI:C34863",
@@ -6410,7 +6439,7 @@
             "http://purl.obolibrary.org/obo/DOID_6270": "NCI:C6794",
             "http://purl.obolibrary.org/obo/DOID_6271": "NCI:C5247",
             "http://purl.obolibrary.org/obo/DOID_6274": "NCI:C5965",
-            "http://purl.obolibrary.org/obo/DOID_6275": "NCI:C8011",
+            "http://purl.obolibrary.org/obo/DOID_6275": "NCI:C7915",
             "http://purl.obolibrary.org/obo/DOID_6276": "NCI:C5964",
             "http://purl.obolibrary.org/obo/DOID_6278": "NCI:C40034",
             "http://purl.obolibrary.org/obo/DOID_628": "NCI:C27871",
@@ -6897,7 +6926,7 @@
             "http://purl.obolibrary.org/obo/DOID_7602": "NCI:C35870",
             "http://purl.obolibrary.org/obo/DOID_7603": "NCI:C4020",
             "http://purl.obolibrary.org/obo/DOID_7607": "NCI:C4154",
-            "http://purl.obolibrary.org/obo/DOID_7608": "NCI:C3916",
+            "http://purl.obolibrary.org/obo/DOID_7608": "NCI:C156757",
             "http://purl.obolibrary.org/obo/DOID_7609": "NCI:C7993",
             "http://purl.obolibrary.org/obo/DOID_7610": "NCI:C7994",
             "http://purl.obolibrary.org/obo/DOID_7611": "NCI:C27393",
@@ -6985,14 +7014,13 @@
             "http://purl.obolibrary.org/obo/DOID_7878": "NCI:C40235",
             "http://purl.obolibrary.org/obo/DOID_7880": "NCI:C40445",
             "http://purl.obolibrary.org/obo/DOID_790": "NCI:C172147",
-            "http://purl.obolibrary.org/obo/DOID_7902": "NCI:C27378",
+            "http://purl.obolibrary.org/obo/DOID_7902": "NCI:C7924",
             "http://purl.obolibrary.org/obo/DOID_7903": "NCI:C5462",
             "http://purl.obolibrary.org/obo/DOID_7907": "NCI:C8271",
             "http://purl.obolibrary.org/obo/DOID_7910": "NCI:C6064",
             "http://purl.obolibrary.org/obo/DOID_7912": "NCI:C4050",
             "http://purl.obolibrary.org/obo/DOID_7915": "NCI:C5296",
             "http://purl.obolibrary.org/obo/DOID_7921": "NCI:C6636",
-            "http://purl.obolibrary.org/obo/DOID_7922": "NCI:C6625",
             "http://purl.obolibrary.org/obo/DOID_7926": "NCI:C7997",
             "http://purl.obolibrary.org/obo/DOID_7927": "NCI:C7999",
             "http://purl.obolibrary.org/obo/DOID_7928": "NCI:C9077",
@@ -7133,7 +7161,6 @@
             "http://purl.obolibrary.org/obo/DOID_8337": "NCI:C35145",
             "http://purl.obolibrary.org/obo/DOID_8338": "NCI:C40208",
             "http://purl.obolibrary.org/obo/DOID_8339": "NCI:C40203",
-            "http://purl.obolibrary.org/obo/DOID_8340": "NCI:C40202",
             "http://purl.obolibrary.org/obo/DOID_8352": "NCI:C5375",
             "http://purl.obolibrary.org/obo/DOID_8353": "NCI:C6561",
             "http://purl.obolibrary.org/obo/DOID_8354": "NCI:C9468",
@@ -7303,6 +7330,7 @@
             "http://purl.obolibrary.org/obo/DOID_9000035": "NCI:C6915",
             "http://purl.obolibrary.org/obo/DOID_9000118": "NCI:C7488",
             "http://purl.obolibrary.org/obo/DOID_9000122": "NCI:C99070",
+            "http://purl.obolibrary.org/obo/DOID_9000233": "NCI:C201521",
             "http://purl.obolibrary.org/obo/DOID_9000283": "NCI:C34051",
             "http://purl.obolibrary.org/obo/DOID_9000294": "NCI:C4113",
             "http://purl.obolibrary.org/obo/DOID_9000295": "NCI:C185638",
@@ -7343,6 +7371,7 @@
             "http://purl.obolibrary.org/obo/DOID_9001939": "NCI:C168990",
             "http://purl.obolibrary.org/obo/DOID_9001966": "NCI:C165531",
             "http://purl.obolibrary.org/obo/DOID_9002019": "NCI:C3064",
+            "http://purl.obolibrary.org/obo/DOID_9002165": "NCI:C84417",
             "http://purl.obolibrary.org/obo/DOID_9002221": "NCI:C3113",
             "http://purl.obolibrary.org/obo/DOID_9002227": "NCI:C7540",
             "http://purl.obolibrary.org/obo/DOID_9002234": "NCI:C132194",
@@ -7361,6 +7390,7 @@
             "http://purl.obolibrary.org/obo/DOID_9002571": "NCI:C168585",
             "http://purl.obolibrary.org/obo/DOID_9002673": "NCI:C84884",
             "http://purl.obolibrary.org/obo/DOID_9002676": "NCI:C50485",
+            "http://purl.obolibrary.org/obo/DOID_9002766": "NCI:C201594",
             "http://purl.obolibrary.org/obo/DOID_9002789": "NCI:C129931",
             "http://purl.obolibrary.org/obo/DOID_9002843": "NCI:C75009",
             "http://purl.obolibrary.org/obo/DOID_9002865": "NCI:C129980",
@@ -7371,6 +7401,7 @@
             "http://purl.obolibrary.org/obo/DOID_9003196": "NCI:C3317",
             "http://purl.obolibrary.org/obo/DOID_9003268": "NCI:C154618",
             "http://purl.obolibrary.org/obo/DOID_9003273": "NCI:C36396",
+            "http://purl.obolibrary.org/obo/DOID_9003293": "NCI:C201589",
             "http://purl.obolibrary.org/obo/DOID_9003340": "NCI:C101200",
             "http://purl.obolibrary.org/obo/DOID_9003390": "NCI:C129035",
             "http://purl.obolibrary.org/obo/DOID_9003484": "NCI:C35481",
@@ -7379,6 +7410,7 @@
             "http://purl.obolibrary.org/obo/DOID_9003733": "NCI:C129302",
             "http://purl.obolibrary.org/obo/DOID_9003746": "NCI:C174218",
             "http://purl.obolibrary.org/obo/DOID_9003752": "NCI:C98880",
+            "http://purl.obolibrary.org/obo/DOID_9003781": "NCI:C84975",
             "http://purl.obolibrary.org/obo/DOID_9003785": "NCI:C84714",
             "http://purl.obolibrary.org/obo/DOID_9003830": "NCI:C188151",
             "http://purl.obolibrary.org/obo/DOID_9003853": "NCI:C7069",
@@ -7392,6 +7424,7 @@
             "http://purl.obolibrary.org/obo/DOID_9004046": "NCI:C192098",
             "http://purl.obolibrary.org/obo/DOID_9004052": "NCI:C114765",
             "http://purl.obolibrary.org/obo/DOID_9004174": "NCI:C129974",
+            "http://purl.obolibrary.org/obo/DOID_9004291": "NCI:C201597",
             "http://purl.obolibrary.org/obo/DOID_9004345": "NCI:C129975",
             "http://purl.obolibrary.org/obo/DOID_9004351": "NCI:C60682",
             "http://purl.obolibrary.org/obo/DOID_9004363": "NCI:C84390",
@@ -7406,9 +7439,7 @@
             "http://purl.obolibrary.org/obo/DOID_9004697": "NCI:C176806",
             "http://purl.obolibrary.org/obo/DOID_9004745": "NCI:C168587",
             "http://purl.obolibrary.org/obo/DOID_9004951": "NCI:C5161",
-            "http://purl.obolibrary.org/obo/DOID_9005014": "NCI:C129866",
             "http://purl.obolibrary.org/obo/DOID_9005027": "NCI:C124842",
-            "http://purl.obolibrary.org/obo/DOID_9005067": "NCI:C7572",
             "http://purl.obolibrary.org/obo/DOID_9005141": "NCI:C50802",
             "http://purl.obolibrary.org/obo/DOID_9005161": "NCI:C3412",
             "http://purl.obolibrary.org/obo/DOID_9005193": "NCI:C3295",
@@ -7442,6 +7473,7 @@
             "http://purl.obolibrary.org/obo/DOID_9006426": "NCI:C6739",
             "http://purl.obolibrary.org/obo/DOID_9006454": "NCI:C4756",
             "http://purl.obolibrary.org/obo/DOID_9006608": "NCI:C4038",
+            "http://purl.obolibrary.org/obo/DOID_9006637": "NCI:C99056",
             "http://purl.obolibrary.org/obo/DOID_9006693": "NCI:C133887",
             "http://purl.obolibrary.org/obo/DOID_9006697": "NCI:C97071",
             "http://purl.obolibrary.org/obo/DOID_9006828": "NCI:C131425",
@@ -7460,7 +7492,6 @@
             "http://purl.obolibrary.org/obo/DOID_9007274": "NCI:C3398",
             "http://purl.obolibrary.org/obo/DOID_9007324": "NCI:C192636",
             "http://purl.obolibrary.org/obo/DOID_9007340": "NCI:C116344",
-            "http://purl.obolibrary.org/obo/DOID_9007344": "NCI:C176895",
             "http://purl.obolibrary.org/obo/DOID_9007355": "NCI:C27191",
             "http://purl.obolibrary.org/obo/DOID_9007356": "NCI:C3001",
             "http://purl.obolibrary.org/obo/DOID_9007377": "NCI:C164226",
@@ -7471,7 +7502,6 @@
             "http://purl.obolibrary.org/obo/DOID_9007620": "NCI:C129718",
             "http://purl.obolibrary.org/obo/DOID_9007675": "NCI:C75458",
             "http://purl.obolibrary.org/obo/DOID_9007701": "NCI:C9293",
-            "http://purl.obolibrary.org/obo/DOID_9007720": "NCI:C132224",
             "http://purl.obolibrary.org/obo/DOID_9007747": "NCI:C188991",
             "http://purl.obolibrary.org/obo/DOID_9007802": "NCI:C168599",
             "http://purl.obolibrary.org/obo/DOID_9007817": "NCI:C84832",
@@ -7480,11 +7510,13 @@
             "http://purl.obolibrary.org/obo/DOID_9008": "NCI:C61277",
             "http://purl.obolibrary.org/obo/DOID_9008086": "NCI:C116942",
             "http://purl.obolibrary.org/obo/DOID_9008118": "NCI:C125596",
+            "http://purl.obolibrary.org/obo/DOID_9008154": "NCI:C201595",
             "http://purl.obolibrary.org/obo/DOID_9008237": "NCI:C177779",
             "http://purl.obolibrary.org/obo/DOID_9008250": "NCI:C171603",
             "http://purl.obolibrary.org/obo/DOID_9008262": "NCI:C198578",
             "http://purl.obolibrary.org/obo/DOID_9008384": "NCI:C3417",
             "http://purl.obolibrary.org/obo/DOID_9008386": "NCI:C84767",
+            "http://purl.obolibrary.org/obo/DOID_9008426": "NCI:C201593",
             "http://purl.obolibrary.org/obo/DOID_9008455": "NCI:C34663",
             "http://purl.obolibrary.org/obo/DOID_9008501": "NCI:C134961",
             "http://purl.obolibrary.org/obo/DOID_9008522": "NCI:C84282",
@@ -7820,6 +7852,7 @@
             "http://purl.obolibrary.org/obo/DOID_0050725": "ORDO:28378",
             "http://purl.obolibrary.org/obo/DOID_0050729": "ORDO:98907",
             "http://purl.obolibrary.org/obo/DOID_0050733": "ORDO:2170",
+            "http://purl.obolibrary.org/obo/DOID_0050755": "ORDO:64753",
             "http://purl.obolibrary.org/obo/DOID_0050757": "ORDO:3213",
             "http://purl.obolibrary.org/obo/DOID_0050759": "ORDO:606",
             "http://purl.obolibrary.org/obo/DOID_0050763": "ORDO:2697",
@@ -8245,6 +8278,7 @@
             "http://purl.obolibrary.org/obo/DOID_0060901": "ORDO:33226",
             "http://purl.obolibrary.org/obo/DOID_0060902": "ORDO:89844",
             "http://purl.obolibrary.org/obo/DOID_0060911": "ORDO:401996",
+            "http://purl.obolibrary.org/obo/DOID_0060913": "ORDO:324977",
             "http://purl.obolibrary.org/obo/DOID_0070058": "ORDO:404448",
             "http://purl.obolibrary.org/obo/DOID_0070062": "ORDO:457193",
             "http://purl.obolibrary.org/obo/DOID_0070121": "ORDO:3032",
@@ -8337,6 +8371,12 @@
             "http://purl.obolibrary.org/obo/DOID_0070442": "ORDO:79137",
             "http://purl.obolibrary.org/obo/DOID_0070452": "ORDO:93601",
             "http://purl.obolibrary.org/obo/DOID_0070453": "ORDO:93602",
+            "http://purl.obolibrary.org/obo/DOID_0070470": "ORDO:656279",
+            "http://purl.obolibrary.org/obo/DOID_0070474": "ORDO:500180",
+            "http://purl.obolibrary.org/obo/DOID_0070475": "ORDO:319319",
+            "http://purl.obolibrary.org/obo/DOID_0070476": "ORDO:459061",
+            "http://purl.obolibrary.org/obo/DOID_0070484": "ORDO:137605",
+            "http://purl.obolibrary.org/obo/DOID_0070489": "ORDO:238455",
             "http://purl.obolibrary.org/obo/DOID_0080028": "ORDO:93346",
             "http://purl.obolibrary.org/obo/DOID_0080033": "ORDO:1522",
             "http://purl.obolibrary.org/obo/DOID_0080037": "ORDO:2790",
@@ -8566,6 +8606,15 @@
             "http://purl.obolibrary.org/obo/DOID_0081368": "ORDO:2801",
             "http://purl.obolibrary.org/obo/DOID_0081370": "ORDO:2363",
             "http://purl.obolibrary.org/obo/DOID_0081377": "ORDO:254905",
+            "http://purl.obolibrary.org/obo/DOID_0081383": "ORDO:459033",
+            "http://purl.obolibrary.org/obo/DOID_0081384": "ORDO:251347",
+            "http://purl.obolibrary.org/obo/DOID_0081385": "ORDO:438134",
+            "http://purl.obolibrary.org/obo/DOID_0081386": "ORDO:480864",
+            "http://purl.obolibrary.org/obo/DOID_0081388": "ORDO:95432",
+            "http://purl.obolibrary.org/obo/DOID_0081389": "ORDO:250831",
+            "http://purl.obolibrary.org/obo/DOID_0081390": "ORDO:100070",
+            "http://purl.obolibrary.org/obo/DOID_0081391": "ORDO:100069",
+            "http://purl.obolibrary.org/obo/DOID_0081392": "ORDO:454887",
             "http://purl.obolibrary.org/obo/DOID_0090001": "ORDO:2052",
             "http://purl.obolibrary.org/obo/DOID_0090002": "ORDO:42665",
             "http://purl.obolibrary.org/obo/DOID_0090003": "ORDO:1496",
@@ -8967,6 +9016,8 @@
             "http://purl.obolibrary.org/obo/DOID_0111247": "ORDO:1276",
             "http://purl.obolibrary.org/obo/DOID_0111248": "ORDO:1393",
             "http://purl.obolibrary.org/obo/DOID_0111249": "ORDO:1473",
+            "http://purl.obolibrary.org/obo/DOID_0111252": "ORDO:637",
+            "http://purl.obolibrary.org/obo/DOID_0111253": "ORDO:636",
             "http://purl.obolibrary.org/obo/DOID_0111254": "ORDO:25",
             "http://purl.obolibrary.org/obo/DOID_0111255": "ORDO:2473",
             "http://purl.obolibrary.org/obo/DOID_0111256": "ORDO:163",
@@ -9157,6 +9208,7 @@
             "http://purl.obolibrary.org/obo/DOID_0111603": "ORDO:3377",
             "http://purl.obolibrary.org/obo/DOID_0111604": "ORDO:2053",
             "http://purl.obolibrary.org/obo/DOID_0111607": "ORDO:376",
+            "http://purl.obolibrary.org/obo/DOID_0111608": "ORDO:1154",
             "http://purl.obolibrary.org/obo/DOID_0111609": "ORDO:1144",
             "http://purl.obolibrary.org/obo/DOID_0111610": "ORDO:65720",
             "http://purl.obolibrary.org/obo/DOID_0111611": "ORDO:95434",
@@ -9573,6 +9625,7 @@
             "http://purl.obolibrary.org/obo/DOID_1925": "ORDO:1465",
             "http://purl.obolibrary.org/obo/DOID_1926": "ORDO:355",
             "http://purl.obolibrary.org/obo/DOID_1928": "ORDO:904",
+            "http://purl.obolibrary.org/obo/DOID_1929": "ORDO:3193",
             "http://purl.obolibrary.org/obo/DOID_1930": "ORDO:2377",
             "http://purl.obolibrary.org/obo/DOID_1932": "ORDO:72",
             "http://purl.obolibrary.org/obo/DOID_1933": "ORDO:783",
@@ -9600,6 +9653,7 @@
             "http://purl.obolibrary.org/obo/DOID_2373": "ORDO:288",
             "http://purl.obolibrary.org/obo/DOID_2394": "ORDO:213517",
             "http://purl.obolibrary.org/obo/DOID_2431": "ORDO:391651",
+            "http://purl.obolibrary.org/obo/DOID_2436": "ORDO:83454",
             "http://purl.obolibrary.org/obo/DOID_2512": "ORDO:377",
             "http://purl.obolibrary.org/obo/DOID_2538": "ORDO:98818",
             "http://purl.obolibrary.org/obo/DOID_2580": "ORDO:177",
@@ -9636,6 +9690,7 @@
             "http://purl.obolibrary.org/obo/DOID_3144": "ORDO:209",
             "http://purl.obolibrary.org/obo/DOID_3156": "ORDO:263432",
             "http://purl.obolibrary.org/obo/DOID_3191": "ORDO:607",
+            "http://purl.obolibrary.org/obo/DOID_3204": "ORDO:93921",
             "http://purl.obolibrary.org/obo/DOID_3210": "ORDO:702",
             "http://purl.obolibrary.org/obo/DOID_3246": "ORDO:99757",
             "http://purl.obolibrary.org/obo/DOID_3261": "ORDO:2314",
@@ -9761,7 +9816,7 @@
             "http://purl.obolibrary.org/obo/DOID_8552": "ORDO:521",
             "http://purl.obolibrary.org/obo/DOID_8567": "ORDO:98293",
             "http://purl.obolibrary.org/obo/DOID_8584": "ORDO:543",
-            "http://purl.obolibrary.org/obo/DOID_8712": "ORDO:93921",
+            "http://purl.obolibrary.org/obo/DOID_8712": "ORDO:634518",
             "http://purl.obolibrary.org/obo/DOID_8869": "ORDO:71211",
             "http://purl.obolibrary.org/obo/DOID_8924": "ORDO:3002",
             "http://purl.obolibrary.org/obo/DOID_898": "ORDO:730",
@@ -9782,6 +9837,7 @@
             "http://purl.obolibrary.org/obo/DOID_9002210": "ORDO:99915",
             "http://purl.obolibrary.org/obo/DOID_9002223": "ORDO:307141",
             "http://purl.obolibrary.org/obo/DOID_9002233": "ORDO:2865",
+            "http://purl.obolibrary.org/obo/DOID_9002403": "ORDO:83473",
             "http://purl.obolibrary.org/obo/DOID_9002557": "ORDO:98429",
             "http://purl.obolibrary.org/obo/DOID_9002865": "ORDO:446",
             "http://purl.obolibrary.org/obo/DOID_9002882": "ORDO:5",

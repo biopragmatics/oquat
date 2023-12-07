@@ -59,7 +59,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                                    |
 |---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| FBC:DOS |       15 | [UBERON:6000128](http://purl.obolibrary.org/obo/UBERON_6000128), [UBERON:6001055](http://purl.obolibrary.org/obo/UBERON_6001055), [UBERON:6001056](http://purl.obolibrary.org/obo/UBERON_6001056), [UBERON:6001059](http://purl.obolibrary.org/obo/UBERON_6001059), [UBERON:6004203](http://purl.obolibrary.org/obo/UBERON_6004203), ... |
+| FBC:DOS |       11 | [UBERON:6000128](http://purl.obolibrary.org/obo/UBERON_6000128), [UBERON:6001055](http://purl.obolibrary.org/obo/UBERON_6001055), [UBERON:6001056](http://purl.obolibrary.org/obo/UBERON_6001056), [UBERON:6001059](http://purl.obolibrary.org/obo/UBERON_6001059), [UBERON:6005037](http://purl.obolibrary.org/obo/UBERON_6005037), ... |
 
 ## `FEED`
 

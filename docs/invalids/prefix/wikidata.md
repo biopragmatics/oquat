@@ -12,4 +12,5 @@ Identifiers for this prefix are given incorrectly in `ror`. See the [GitHub repo
 | external_xref                                     |   usages_count | usages                                                 |
 |---------------------------------------------------|----------------|--------------------------------------------------------|
 | `wikidata:https://www.wikidata.org/wiki/Q6156698` |              1 | [https://ror.org/0481m0575](https://ror.org/0481m0575) |
+| `wikidata:https://www.wikidata.org/wiki/Q6981959` |              1 | [https://ror.org/04mfmy854](https://ror.org/04mfmy854) |
 

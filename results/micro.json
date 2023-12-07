@@ -1,31 +1,7 @@
 {
-  "created": "2023-09-07T13:06:39.554803",
-  "messages": [],
-  "results": {
-    "http://purl.obolibrary.org/obo/MicrO.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/MicrO.owl",
-      "prov_pack": {
-        "invalid_luids": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "MicrO (An Ontology of Prokaryotic Phenotypic and Metabolic Characters).  Version 1.5.1 released 6/14/2018.\n\nIncludes terms and term synonyms extracted from > 3000 prokaryotic taxonomic descriptions, collected from a large number of taxonomic descriptions from Archaea, Cyanobacteria, Bacteroidetes, Firmicutes and Mollicutes.\n\nThe ontology and the synonym lists were developed to facilitate the automated extraction of phenotypic data and character states from prokaryotic taxonomic descriptions using a natural language processing algorithm (MicroPIE).  MicroPIE was developed by Hong Cui, Elvis Hsin-Hui Wu, and Jin Mao (University of Arizona) in collaboration with Carrine E. Blank (University of Montana) and Lisa R. Moore (University of Southern Maine).\n\nDescriptions and links to MicroPIE can be found at http://avatol.org/ngp/nlp/overview-2/.\nhttps://github.com/biosemantics/micropie2\n\nThe most current version of MicrO can be downloaded from https://github.com/carrineblank/MicrO.",
-      "xref_pack": {
-        "invalid_luids": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
-    }
-  }
+  "created": "2023-12-07T09:44:46.951640",
+  "messages": [
+    "[micro] could not parse OWL from http://purl.obolibrary.org/obo/micro.owl"
+  ],
+  "results": {}
 }

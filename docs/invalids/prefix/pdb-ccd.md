@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `pdb-ccd`
 but use local unique identifiers that do not match the standard pattern of
-`^\w{1,3}$`. Of the 3 resources,
+`^\w{1,3}$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['PDBeChem'].
 
 ## `chebi`: Chemical Entities of Biological Interest
@@ -54,17 +54,4 @@ Identifiers for this prefix are given incorrectly in `dto`. See the [GitHub repo
 |---------------------|----------------|-----------------------------------------------------------|
 | `PDBeChem:GLU_LFOH` |              1 | [CHEBI:16015](http://purl.obolibrary.org/obo/CHEBI_16015) |
 | `PDBeChem:ALA_LFOH` |              1 | [CHEBI:16977](http://purl.obolibrary.org/obo/CHEBI_16977) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref       |   usages_count | usages                                                    |
-|---------------------|----------------|-----------------------------------------------------------|
-| `PDBeChem:LEU_LFOH` |              1 | [CHEBI:15603](http://purl.obolibrary.org/obo/CHEBI_15603) |
-| `PDBeChem:DAH_LFOH` |              1 | [CHEBI:15765](http://purl.obolibrary.org/obo/CHEBI_15765) |
-| `PDBeChem:GLU_LFOH` |              1 | [CHEBI:16015](http://purl.obolibrary.org/obo/CHEBI_16015) |
-| `PDBeChem:MET_LFOH` |              1 | [CHEBI:16643](http://purl.obolibrary.org/obo/CHEBI_16643) |
-| `PDBeChem:ALA_LFOH` |              1 | [CHEBI:16977](http://purl.obolibrary.org/obo/CHEBI_16977) |
-| `PDBeChem:ORN_LFOH` |              1 | [CHEBI:44667](http://purl.obolibrary.org/obo/CHEBI_44667) |
 

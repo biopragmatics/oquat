@@ -11,7 +11,7 @@ from tabulate import tabulate
 from tqdm import tqdm
 
 from oquat.api import ResultPack
-from oquat.large_scale_analysis import DOCS, RESULTS, url_md, AnalysisResults
+from oquat.large_scale_analysis import DOCS, RESULTS, AnalysisResults, url_md
 
 INVALIDS = DOCS.joinpath("invalids")
 INVALIDS.mkdir(exist_ok=True, parents=True)

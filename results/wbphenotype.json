@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T13:33:45.651848",
+  "created": "2023-12-07T10:06:06.285575",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/wbphenotype.owl": {
@@ -3691,8 +3691,8 @@
         },
         "unknown_prefixes": {}
       },
-      "version": "2023-07-10",
-      "version_iri": "http://purl.obolibrary.org/obo/wbphenotype/releases/2023-07-10/wbphenotype.owl",
+      "version": "2023-09-26",
+      "version_iri": "http://purl.obolibrary.org/obo/wbphenotype/releases/2023-09-26/wbphenotype.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/WBPhenotype_0010004": [

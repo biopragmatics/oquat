@@ -1140,6 +1140,9 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `EFO:EFO_0006360` |              1 | [Cellosaurus#CVCL:C694](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C694) |
 | `EFO:EFO_0005914` |              1 | [Cellosaurus#CVCL:C715](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C715) |
 | `EFO:EFO_0006308` |              1 | [Cellosaurus#CVCL:C865](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C865) |
+| `EFO:EFO_0007749` |              1 | [Cellosaurus#CVCL:C8QN](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8QN) |
+| `EFO:EFO_0007748` |              1 | [Cellosaurus#CVCL:C8QP](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8QP) |
+| `EFO:EFO_0007750` |              1 | [Cellosaurus#CVCL:C8QQ](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8QQ) |
 | `EFO:EFO_0007951` |              1 | [Cellosaurus#CVCL:C969](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C969) |
 | `EFO:EFO_0007111` |              1 | [Cellosaurus#CVCL:C970](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C970) |
 | `EFO:EFO_0002802` |              1 | [Cellosaurus#CVCL:D044](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D044) |

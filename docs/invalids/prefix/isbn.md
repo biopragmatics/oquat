@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `isbn`
 but use local unique identifiers that do not match the standard pattern of
-`^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`. Of the 9 resources,
+`^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{1,5}[ -]?\d{1,7}[ -]?\d{1,6}[ -]?(\d|X)$`. Of the 8 resources,
 1 variants on the standard prefix were found: ['ISBN'].
 
 ## `fovt`: FuTRES Ontology of Vertebrate Traits
@@ -38,14 +38,6 @@ Identifiers for this prefix are given incorrectly in `mpath`. See the [GitHub re
 | external_xref          |   usages_count | usages                                                |
 |------------------------|----------------|-------------------------------------------------------|
 | `ISBN: 0-7216-2921-0.` |              1 | [MPATH:859](http://purl.obolibrary.org/obo/MPATH_859) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref                   |   usages_count | usages                                                          |
-|---------------------------------|----------------|-----------------------------------------------------------------|
-| `ISBN:9004086161,9789004086166` |              1 | [UBERON:7500120](http://purl.obolibrary.org/obo/UBERON_7500120) |
 
 ## `tads`: Tick Anatomy Ontology
 

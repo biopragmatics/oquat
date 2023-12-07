@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T13:33:55.704823",
+  "created": "2023-12-07T10:06:19.905886",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/xco.owl": {
@@ -129,13 +129,19 @@
           ],
           "http://purl.obolibrary.org/obo/XCO_0000487": [
             "RGD:JRS"
+          ],
+          "http://purl.obolibrary.org/obo/XCO_0001116": [
+            "PMID:_35999905"
           ]
         },
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
           "CID": {
-            "http://purl.obolibrary.org/obo/XCO_0001052": "CID:451668"
+            "http://purl.obolibrary.org/obo/XCO_0001052": "CID:451668",
+            "http://purl.obolibrary.org/obo/XCO_0001103": "CID:222757",
+            "http://purl.obolibrary.org/obo/XCO_0001136": "CID:1030",
+            "http://purl.obolibrary.org/obo/XCO_0001138": "CID:5281006"
           },
           "ISBN-13": {
             "http://purl.obolibrary.org/obo/XCO_0000024": "ISBN-13:9780781733908",
@@ -187,7 +193,13 @@
             "http://purl.obolibrary.org/obo/XCO_0000999": "ISBN-13:978-0781733908",
             "http://purl.obolibrary.org/obo/XCO_0001000": "ISBN-13:978-0781733908",
             "http://purl.obolibrary.org/obo/XCO_0001001": "ISBN-13:978-0781733908",
-            "http://purl.obolibrary.org/obo/XCO_0001002": "ISBN-13:978-0781733908"
+            "http://purl.obolibrary.org/obo/XCO_0001002": "ISBN-13:978-0781733908",
+            "http://purl.obolibrary.org/obo/XCO_0001101": "ISBN-13:978-1455756438",
+            "http://purl.obolibrary.org/obo/XCO_0001104": "ISBN-13:978-1455756438",
+            "http://purl.obolibrary.org/obo/XCO_0001105": "ISBN-13:978-1455756438",
+            "http://purl.obolibrary.org/obo/XCO_0001106": "ISBN-13:978-1455756438",
+            "http://purl.obolibrary.org/obo/XCO_0001112": "ISBN-13:978-1455756438",
+            "http://purl.obolibrary.org/obo/XCO_0001118": "ISBN-13:978-1455756438"
           },
           "NCBI_Gene": {
             "http://purl.obolibrary.org/obo/XCO_0000195": "NCBI_Gene:4340"
@@ -197,6 +209,9 @@
             "http://purl.obolibrary.org/obo/XCO_0000287": "NCBI_GeneID:5949",
             "http://purl.obolibrary.org/obo/XCO_0000288": "NCBI_GeneID:5949",
             "http://purl.obolibrary.org/obo/XCO_0000289": "NCBI_GeneID:5949"
+          },
+          "NCI": {
+            "http://purl.obolibrary.org/obo/XCO_0001133": "NCI:C48382"
           },
           "UniProtKB": {
             "http://purl.obolibrary.org/obo/XCO_0000290": "UniProtKB:P02689",
@@ -668,8 +683,8 @@
         },
         "unknown_prefixes": {}
       },
-      "version": "4.139",
-      "version_iri": "http://purl.obolibrary.org/obo/xco/4.139/xco.owl",
+      "version": "4.147",
+      "version_iri": "http://purl.obolibrary.org/obo/xco/4.147/xco.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/XCO_0000617": [
@@ -704,11 +719,23 @@
           ],
           "http://purl.obolibrary.org/obo/XCO_0001070": [
             "EC 3.4.22.2"
+          ],
+          "http://purl.obolibrary.org/obo/XCO_0001122": [
+            "D014151"
           ]
         },
         "noncanonical_prefixes": {
           "CID": {
-            "http://purl.obolibrary.org/obo/XCO_0001024": "CID:2819453"
+            "http://purl.obolibrary.org/obo/XCO_0000609": "CID:230710",
+            "http://purl.obolibrary.org/obo/XCO_0000642": "CID:9415",
+            "http://purl.obolibrary.org/obo/XCO_0001024": "CID:2819453",
+            "http://purl.obolibrary.org/obo/XCO_0001096": "CID:23666345",
+            "http://purl.obolibrary.org/obo/XCO_0001097": "CID:25021165",
+            "http://purl.obolibrary.org/obo/XCO_0001115": "CID:135398561",
+            "http://purl.obolibrary.org/obo/XCO_0001133": "CID:400010",
+            "http://purl.obolibrary.org/obo/XCO_0001135": "CID:2554",
+            "http://purl.obolibrary.org/obo/XCO_0001139": "CID:5959",
+            "http://purl.obolibrary.org/obo/XCO_0001140": "CID:2717"
           },
           "EC": {
             "http://purl.obolibrary.org/obo/XCO_0000177": "EC:3.4.21.5"

@@ -14,15 +14,6 @@
 | wiktionary:http://en.wiktionary.org/wiki/obconical |        1 | [PATO:0002347](http://purl.obolibrary.org/obo/PATO_0002347) |
 | wiktionary:http://en.wiktionary.org/wiki/fleshy    |        1 | [PATO:0002351](http://purl.obolibrary.org/obo/PATO_0002351) |
 
-## nif
-
-| curie                                              |   usages | nodes                                                           |
-|----------------------------------------------------|----------|-----------------------------------------------------------------|
-| Wiktionary:opisthocranion                          |        1 | [UBERON:7500117](http://purl.obolibrary.org/obo/UBERON_7500117) |
-| wiktionary:superellipse                            |        1 | [PATO:0002318](http://purl.obolibrary.org/obo/PATO_0002318)     |
-| wiktionary:http://en.wiktionary.org/wiki/obconical |        1 | [PATO:0002347](http://purl.obolibrary.org/obo/PATO_0002347)     |
-| wiktionary:http://en.wiktionary.org/wiki/fleshy    |        1 | [PATO:0002351](http://purl.obolibrary.org/obo/PATO_0002351)     |
-
 ## envo
 
 | curie            |   usages | nodes                                                         |

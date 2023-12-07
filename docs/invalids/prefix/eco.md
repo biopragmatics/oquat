@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `eco`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 4 resources,
+`^\d{7}$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['ECO'].
 
 ## `eco`: Evidence ontology
@@ -28,16 +28,6 @@ Identifiers for this prefix are given incorrectly in `hom`. See the [GitHub repo
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|
 | `ECO:00000060`  |              1 | [HOM:0000017](http://purl.obolibrary.org/obo/HOM_0000017) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
-|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ECO:RCT`       |              9 | [ECO:0007636](http://purl.obolibrary.org/obo/ECO_0007636), [ECO:0007638](http://purl.obolibrary.org/obo/ECO_0007638), [ECO:0007639](http://purl.obolibrary.org/obo/ECO_0007639), [ECO:0007640](http://purl.obolibrary.org/obo/ECO_0007640), [ECO:0007642](http://purl.obolibrary.org/obo/ECO_0007642), ... |
-| `ECO:MCC`       |              1 | [ECO:0000000](http://purl.obolibrary.org/obo/ECO_0000000)                                                                                                                                                                                                                                                  |
-| `ECO:00000060`  |              1 | [RO:HOM0000017](http://purl.obolibrary.org/obo/RO_HOM0000017)                                                                                                                                                                                                                                              |
 
 ## `ro`: Relation Ontology
 

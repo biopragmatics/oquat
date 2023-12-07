@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `metacyc.compound`
 but use local unique identifiers that do not match the standard pattern of
-`^[A-Za-z0-9+_.%-:]+$`. Of the 4 resources,
+`^[A-Za-z0-9+_.%-:]+$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['MetaCyc'].
 
 ## `cco`: Cell Cycle Ontology
@@ -24,14 +24,6 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 ## `go`: Gene Ontology
 
 Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
-
-| external_xref                                 |   usages_count | usages                                                  |
-|-----------------------------------------------|----------------|---------------------------------------------------------|
-| `MetaCyc:[ACETYL-COA-CARBOXYLASE]-KINASE-RXN` |              1 | [GO:0050405](http://purl.obolibrary.org/obo/GO_0050405) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
 
 | external_xref                                 |   usages_count | usages                                                  |
 |-----------------------------------------------|----------------|---------------------------------------------------------|

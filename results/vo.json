@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T13:32:53.203172",
+  "created": "2023-12-07T10:04:53.599506",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/vo.owl": {
@@ -18,12 +18,16 @@
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "1.1.227",
+      "version": "2023-11-17",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
-        "noncanonical_prefixes": {},
+        "noncanonical_prefixes": {
+          "UMLS_CUI": {
+            "http://purl.obolibrary.org/obo/VO_0000422": "UMLS_CUI:C0796561"
+          }
+        },
         "unknown_prefixes": {}
       }
     }

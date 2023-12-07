@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T13:33:38.299313",
+  "created": "2023-12-07T10:05:49.095333",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/wbls.owl": {
@@ -3025,8 +3025,8 @@
         },
         "unknown_prefixes": {}
       },
-      "version": "2023-07-10",
-      "version_iri": "http://purl.obolibrary.org/obo/wbls/releases/2023-07-10/wbls.owl",
+      "version": "2023-09-26",
+      "version_iri": "http://purl.obolibrary.org/obo/wbls/releases/2023-09-26/wbls.owl",
       "xref_pack": {
         "invalid_luids": {},
         "label": "Node Xrefs",

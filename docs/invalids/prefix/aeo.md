@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `aeo`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 4 resources,
+`^\d{7}$`. Of the 3 resources,
 2 variants on the standard prefix were found: ['AEO', 'AEO.'].
 
 ## `aeo`: Anatomical Entity Ontology
@@ -22,15 +22,6 @@ Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repo
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------|
 | `AEO:JB`        |              2 | [UBERON:0001637](http://purl.obolibrary.org/obo/UBERON_0001637), [UBERON:0007524](http://purl.obolibrary.org/obo/UBERON_0007524) |
 | `AEO:000020`    |              1 | [UBERON:0001013](http://purl.obolibrary.org/obo/UBERON_0001013)                                                                  |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
-|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `AEO:JB`        |             30 | [UBERON:0001637](http://purl.obolibrary.org/obo/UBERON_0001637), [UBERON:0004016](http://purl.obolibrary.org/obo/UBERON_0004016), [UBERON:0005866](http://purl.obolibrary.org/obo/UBERON_0005866), [UBERON:0006846](http://purl.obolibrary.org/obo/UBERON_0006846), [UBERON:0007473](http://purl.obolibrary.org/obo/UBERON_0007473), ... |
-| `AEO:000020`    |              1 | [UBERON:0001013](http://purl.obolibrary.org/obo/UBERON_0001013)                                                                                                                                                                                                                                                                          |
 
 ## `uberon`: Uber Anatomy Ontology
 

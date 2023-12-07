@@ -2,18 +2,8 @@
 
 This page summarize the different resources that reference `neuronames`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 2 resources,
+`^\d+$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['neuronames'].
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref                  |   usages_count | usages                                                          |
-|--------------------------------|----------------|-----------------------------------------------------------------|
-| `neuronames:1192&questID=2709` |              1 | [UBERON:8440024](http://purl.obolibrary.org/obo/UBERON_8440024) |
-| `neuronames:3451&questID=1771` |              1 | [UBERON:8440026](http://purl.obolibrary.org/obo/UBERON_8440026) |
-| `neuronames:3452&questID=1771` |              1 | [UBERON:8440027](http://purl.obolibrary.org/obo/UBERON_8440027) |
 
 ## `uberon`: Uber Anatomy Ontology
 

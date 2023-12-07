@@ -1,32 +1,7 @@
 {
-  "created": "2023-09-07T13:03:00.990435",
-  "messages": [],
-  "results": {
-    "http://purl.jp/bio/4/ontology/iobc": {
-      "graph_id": "http://purl.jp/bio/4/ontology/iobc",
-      "prov_pack": {
-        "invalid_luids": {},
-        "label": "Provenance Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "synonym_pack": {
-        "invalid_luids": {},
-        "label": "Synonym Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      },
-      "version": "version 1.6.0",
-      "version_iri": "http://purl.jp/bio/4/ontology/iobc/1.6.0",
-      "xref_pack": {
-        "invalid_luids": {},
-        "label": "Node Xrefs",
-        "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {}
-      }
-    }
-  }
+  "created": "2023-12-07T09:42:50.919832",
+  "messages": [
+    "[iobc] could not parse OWL from http://aber-owl.net/media/ontologies/IOBC/25/iobc.owl"
+  ],
+  "results": {}
 }

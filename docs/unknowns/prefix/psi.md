@@ -4,7 +4,7 @@
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PSI:MS  |     1769 | [MS:0000000](http://purl.obolibrary.org/obo/MS_0000000), [MS:1000001](http://purl.obolibrary.org/obo/MS_1000001), [MS:1000002](http://purl.obolibrary.org/obo/MS_1000002), [MS:1000003](http://purl.obolibrary.org/obo/MS_1000003), [MS:1000004](http://purl.obolibrary.org/obo/MS_1000004), ... |
+| PSI:MS  |     1774 | [MS:0000000](http://purl.obolibrary.org/obo/MS_0000000), [MS:1000001](http://purl.obolibrary.org/obo/MS_1000001), [MS:1000002](http://purl.obolibrary.org/obo/MS_1000002), [MS:1000003](http://purl.obolibrary.org/obo/MS_1000003), [MS:1000004](http://purl.obolibrary.org/obo/MS_1000004), ... |
 | PSI:PI  |     1435 | [MS:1000138](http://purl.obolibrary.org/obo/MS_1000138), [MS:1000729](http://purl.obolibrary.org/obo/MS_1000729), [MS:1000730](http://purl.obolibrary.org/obo/MS_1000730), [MS:1000731](http://purl.obolibrary.org/obo/MS_1000731), [MS:1000732](http://purl.obolibrary.org/obo/MS_1000732), ... |
 
 ## xlmod

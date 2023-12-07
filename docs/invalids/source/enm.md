@@ -333,17 +333,6 @@ did not match the standard pattern `^\d+$`.
 | `PMID: 31636452`  |              1 | [EFO:0010605](http://www.ebi.ac.uk/efo/EFO_0010605) |
 | `PMID: 32355309`  |              1 | [EFO:0010749](http://www.ebi.ac.uk/efo/EFO_0010749) |
 
-## `PR`: Protein Ontology
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `PR` (standardized to Bioregistry
-prefix [`pr`](https://bioregistry.io/pr)) that
-did not match the standard pattern `^\d+$`.
-
-| external_xref   |   usages_count | usages                                              |
-|-----------------|----------------|-----------------------------------------------------|
-| `PR:Q92496`     |              1 | [EFO:0600091](http://www.ebi.ac.uk/efo/EFO_0600091) |
-
 ## `ReO`: Reagent Ontology
 
 Overall, there were 2 invalid

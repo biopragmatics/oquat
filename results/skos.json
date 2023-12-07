@@ -1,9 +1,9 @@
 {
-  "created": "2023-09-07T13:27:27.167598",
+  "created": "2023-12-07T09:59:33.306900",
   "messages": [],
   "results": {
-    "http://www.w3.org/2004/02/skos/core": {
-      "graph_id": "http://www.w3.org/2004/02/skos/core",
+    "http://vivoweb.org/ontology/core/vivo-skos-public-1.5.owl": {
+      "graph_id": "http://vivoweb.org/ontology/core/vivo-skos-public-1.5.owl",
       "prov_pack": {
         "invalid_luids": {},
         "label": "Provenance Xrefs",

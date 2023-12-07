@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `pubmed`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 17 resources,
+`^\d+$`. Of the 18 resources,
 3 variants on the standard prefix were found: ['Medline', 'PMID', 'PubMed'].
 
 ## `bto`: BRENDA Tissue Ontology
@@ -48,6 +48,7 @@ Identifiers for this prefix are given incorrectly in `efo`. See the [GitHub repo
 | `PMID: 31636452`  |              1 | [EFO:0010605](http://www.ebi.ac.uk/efo/EFO_0010605) |
 | `PMID:25167691 `  |              1 | [EFO:0010695](http://www.ebi.ac.uk/efo/EFO_0010695) |
 | `PMID: 32355309`  |              1 | [EFO:0010749](http://www.ebi.ac.uk/efo/EFO_0010749) |
+| `PMID: 19881539`  |              1 | [EFO:0022445](http://www.ebi.ac.uk/efo/EFO_0022445) |
 
 ## `enm`: eNanoMapper ontology
 
@@ -62,14 +63,41 @@ Identifiers for this prefix are given incorrectly in `enm`.
 | `PMID: 31636452`  |              1 | [EFO:0010605](http://www.ebi.ac.uk/efo/EFO_0010605) |
 | `PMID: 32355309`  |              1 | [EFO:0010749](http://www.ebi.ac.uk/efo/EFO_0010749) |
 
+## `fypo`: Fission Yeast Phenotype Ontology
+
+Identifiers for this prefix are given incorrectly in `fypo`. See the [GitHub repository](https://github.com/pombase/fypo).
+
+| external_xref   |   usages_count | usages                                                      |
+|-----------------|----------------|-------------------------------------------------------------|
+| `PMID:34805795
+PomBase:val`                 |              1 | [FYPO:0007907](http://purl.obolibrary.org/obo/FYPO_0007907) |
+| `PMID::8247131` |              1 | [FYPO:0001686](http://purl.obolibrary.org/obo/FYPO_0001686) |
+
 ## `hp`: Human Phenotype Ontology
 
 Identifiers for this prefix are given incorrectly in `hp`. See the [GitHub repository](https://github.com/obophenotype/human-phenotype-ontology).
 
-| external_xref               |   usages_count | usages                                                                                                           |
-|-----------------------------|----------------|------------------------------------------------------------------------------------------------------------------|
-| `PMID:probinson`            |              2 | [HP:0009659](http://purl.obolibrary.org/obo/HP_0009659), [HP:0030789](http://purl.obolibrary.org/obo/HP_0030789) |
-| `PMID:30085516rdfs:comment` |              1 | [HP:0033585](http://purl.obolibrary.org/obo/HP_0033585)                                                          |
+| external_xref                               |   usages_count | usages                                                                                                           |
+|---------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `PMID:probinson`                            |              2 | [HP:0009659](http://purl.obolibrary.org/obo/HP_0009659), [HP:0030789](http://purl.obolibrary.org/obo/HP_0030789) |
+| `PMID:31910377|PMID:32179430`               |              1 | [HP:0002494](http://purl.obolibrary.org/obo/HP_0002494)                                                          |
+| `PMID:36115370|PMID:30725708|PMID:36872502` |              1 | [HP:0006979](http://purl.obolibrary.org/obo/HP_0006979)                                                          |
+| `PMID:34557672|PMID:32374025`               |              1 | [HP:0007159](http://purl.obolibrary.org/obo/HP_0007159)                                                          |
+| `PMID:35551411|PMID:36031317`               |              1 | [HP:0010536](http://purl.obolibrary.org/obo/HP_0010536)                                                          |
+| `PMID:35808955|PMID:28613628|PMID:34732752` |              1 | [HP:0012452](http://purl.obolibrary.org/obo/HP_0012452)                                                          |
+| `PMID:32644427|PMID:30458142`               |              1 | [HP:0025236](http://purl.obolibrary.org/obo/HP_0025236)                                                          |
+| `PMID:30228690|PMID:35624073`               |              1 | [HP:0030050](http://purl.obolibrary.org/obo/HP_0030050)                                                          |
+| `PMID:30085516rdfs:comment`                 |              1 | [HP:0033585](http://purl.obolibrary.org/obo/HP_0033585)                                                          |
+| `PMID:27862615|PMID:18622776`               |              1 | [HP:5200212](http://purl.obolibrary.org/obo/HP_5200212)                                                          |
+| `PMID:20636189|PMID:34541953`               |              1 | [HP:5200220](http://purl.obolibrary.org/obo/HP_5200220)                                                          |
+| `PMID:30416391;PMID:31582814`               |              1 | [HP:5200235](http://purl.obolibrary.org/obo/HP_5200235)                                                          |
+| `PMID:29779616|PMID:34191224`               |              1 | [HP:5200283](http://purl.obolibrary.org/obo/HP_5200283)                                                          |
+| `PMID:33205754|PMID:31553690`               |              1 | [HP:5200289](http://purl.obolibrary.org/obo/HP_5200289)                                                          |
+| `PMID:23997705|PMID:22560828`               |              1 | [HP:5200292](http://purl.obolibrary.org/obo/HP_5200292)                                                          |
+| `PMID:35388549|PMID:36866491`               |              1 | [HP:5200294](http://purl.obolibrary.org/obo/HP_5200294)                                                          |
+| `PMID:32809562|PMID:36507891`               |              1 | [HP:5200295](http://purl.obolibrary.org/obo/HP_5200295)                                                          |
+| `PMID:31997686;PMID:17391357`               |              1 | [HP:5200310](http://purl.obolibrary.org/obo/HP_5200310)                                                          |
+| `PMID:24001164|PMID:26851616`               |              1 | [HP:5200321](http://purl.obolibrary.org/obo/HP_5200321)                                                          |
 
 ## `mi`: Molecular Interactions Controlled Vocabulary
 
@@ -105,25 +133,6 @@ Identifiers for this prefix are given incorrectly in `mpath`. See the [GitHub re
 |---------------------|----------------|-------------------------------------------------------|
 | `PMID: 11794381`    |              1 | [MPATH:40](http://purl.obolibrary.org/obo/MPATH_40)   |
 | `PMID:    21191096` |              1 | [MPATH:815](http://purl.obolibrary.org/obo/MPATH_815) |
-
-## `nif`: None
-
-Identifiers for this prefix are given incorrectly in `nif`.
-
-| external_xref                                |   usages_count | usages                                                                                                                                                                                                                                                                                      |
-|----------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `PMID: 24572720`                             |              5 | [SO:0002344](http://purl.obolibrary.org/obo/SO_0002344), [SO:0002345](http://purl.obolibrary.org/obo/SO_0002345), [SO:0002346](http://purl.obolibrary.org/obo/SO_0002346), [SO:0002347](http://purl.obolibrary.org/obo/SO_0002347), [SO:0002348](http://purl.obolibrary.org/obo/SO_0002348) |
-| `PMID:12537576:16827941`                     |              4 | [SO:0001158](http://purl.obolibrary.org/obo/SO_0001158), [SO:0001159](http://purl.obolibrary.org/obo/SO_0001159), [SO:0001160](http://purl.obolibrary.org/obo/SO_0001160), [SO:0001161](http://purl.obolibrary.org/obo/SO_0001161)                                                          |
-| `PMID: 118436`                               |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
-| `PMID: 29474379`                             |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
-| `PMID: 3136294`                              |              2 | [SO:0002336](http://purl.obolibrary.org/obo/SO_0002336), [SO:0002337](http://purl.obolibrary.org/obo/SO_0002337)                                                                                                                                                                            |
-| `Medline:http://www.nlm.nih.gov/medlineplus` |              1 | [PATO:0002048](http://purl.obolibrary.org/obo/PATO_0002048)                                                                                                                                                                                                                                 |
-| `PMID:16827941:12537576`                     |              1 | [SO:0001157](http://purl.obolibrary.org/obo/SO_0001157)                                                                                                                                                                                                                                     |
-| `PMID:12537576:15231738`                     |              1 | [SO:0001162](http://purl.obolibrary.org/obo/SO_0001162)                                                                                                                                                                                                                                     |
-| `PMID:15388847,PMID:16524884`                |              1 | [SO:0002235](http://purl.obolibrary.org/obo/SO_0002235)                                                                                                                                                                                                                                     |
-| `PMID: 19407924`                             |              1 | [SO:0002293](http://purl.obolibrary.org/obo/SO_0002293)                                                                                                                                                                                                                                     |
-| `PMID: 16236432`                             |              1 | [SO:0002350](http://purl.obolibrary.org/obo/SO_0002350)                                                                                                                                                                                                                                     |
-| `PMID: 17608616`                             |              1 | [SO:0002350](http://purl.obolibrary.org/obo/SO_0002350)                                                                                                                                                                                                                                     |
 
 ## `pato`: Phenotype And Trait Ontology
 
@@ -224,4 +233,12 @@ Identifiers for this prefix are given incorrectly in `vt`. See the [GitHub repos
 | external_xref        |   usages_count | usages                                                  |
 |----------------------|----------------|---------------------------------------------------------|
 | `PMID:0-87893-258-5` |              1 | [VT:0003359](http://purl.obolibrary.org/obo/VT_0003359) |
+
+## `xco`: Experimental condition ontology
+
+Identifiers for this prefix are given incorrectly in `xco`. See the [GitHub repository](https://github.com/rat-genome-database/XCO-experimental-condition-ontology).
+
+| external_xref    |   usages_count | usages                                                    |
+|------------------|----------------|-----------------------------------------------------------|
+| `PMID:_35999905` |              1 | [XCO:0001116](http://purl.obolibrary.org/obo/XCO_0001116) |
 

@@ -75,7 +75,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 ## `UNIMODURL`
 
-There are 1513 usages of `UNIMODURL` in `unimod`.
+There are 1522 usages of `UNIMODURL` in `unimod`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UNIMODURL).
 
@@ -1043,7 +1043,16 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=207  |        1 | [UNIMOD:207](http://purl.obolibrary.org/obo/UNIMOD_207)   |
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2070 |        1 | [UNIMOD:2070](http://purl.obolibrary.org/obo/UNIMOD_2070) |
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2072 |        1 | [UNIMOD:2072](http://purl.obolibrary.org/obo/UNIMOD_2072) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2073 |        1 | [UNIMOD:2073](http://purl.obolibrary.org/obo/UNIMOD_2073) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2074 |        1 | [UNIMOD:2074](http://purl.obolibrary.org/obo/UNIMOD_2074) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2079 |        1 | [UNIMOD:2079](http://purl.obolibrary.org/obo/UNIMOD_2079) |
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=208  |        1 | [UNIMOD:208](http://purl.obolibrary.org/obo/UNIMOD_208)   |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2080 |        1 | [UNIMOD:2080](http://purl.obolibrary.org/obo/UNIMOD_2080) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2081 |        1 | [UNIMOD:2081](http://purl.obolibrary.org/obo/UNIMOD_2081) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2082 |        1 | [UNIMOD:2082](http://purl.obolibrary.org/obo/UNIMOD_2082) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2083 |        1 | [UNIMOD:2083](http://purl.obolibrary.org/obo/UNIMOD_2083) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2084 |        1 | [UNIMOD:2084](http://purl.obolibrary.org/obo/UNIMOD_2084) |
+| UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=2085 |        1 | [UNIMOD:2085](http://purl.obolibrary.org/obo/UNIMOD_2085) |
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=209  |        1 | [UNIMOD:209](http://purl.obolibrary.org/obo/UNIMOD_209)   |
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=21   |        1 | [UNIMOD:21](http://purl.obolibrary.org/obo/UNIMOD_21)     |
 | UNIMODURL:http://www.unimod.org/modifications_view.php?editid1=211  |        1 | [UNIMOD:211](http://purl.obolibrary.org/obo/UNIMOD_211)   |
@@ -1602,7 +1611,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 ## `URL`
 
-There are 533 usages of `URL` in `unimod`.
+There are 534 usages of `URL` in `unimod`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20URL).
 
@@ -2092,6 +2101,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | URL:https://www.thermofisher.com/order/catalog/product/22311?us&en#/22311?us&en                                                                                           |        1 | [UNIMOD:2040](http://purl.obolibrary.org/obo/UNIMOD_2040)                                                                                                                                                                                                                                                  |
 | URL:https://www.thermofisher.com/order/catalog/product/A52040                                                                                                             |        1 | [UNIMOD:2050](http://purl.obolibrary.org/obo/UNIMOD_2050)                                                                                                                                                                                                                                                  |
 | URL:https://www.thermofisher.com/order/catalog/product/A52285                                                                                                             |        1 | [UNIMOD:2057](http://purl.obolibrary.org/obo/UNIMOD_2057)                                                                                                                                                                                                                                                  |
+| URL:https://www.aatbio.com/products/dabcyl-c2-maleimide                                                                                                                   |        1 | [UNIMOD:2074](http://purl.obolibrary.org/obo/UNIMOD_2074)                                                                                                                                                                                                                                                  |
 | URL:http://www.ionsource.com/Card/phos/phos.htm                                                                                                                           |        1 | [UNIMOD:21](http://purl.obolibrary.org/obo/UNIMOD_21)                                                                                                                                                                                                                                                      |
 | URL:http://betelgeuse.u-strasbg.fr/DocPARP/DocPARG/images/Structure-pADPR.jpg                                                                                             |        1 | [UNIMOD:213](http://purl.obolibrary.org/obo/UNIMOD_213)                                                                                                                                                                                                                                                    |
 | URL:http://www.shimadzu-biotech.net/literature/application_note/202_1.pdf                                                                                                 |        1 | [UNIMOD:261](http://purl.obolibrary.org/obo/UNIMOD_261)                                                                                                                                                                                                                                                    |

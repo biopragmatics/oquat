@@ -1,11 +1,5 @@
 # `invitrogen`
 
-## nif
-
-| curie         |   usages | nodes                                                   |
-|---------------|----------|---------------------------------------------------------|
-| Invitrogen:kc |        1 | [SO:0001913](http://purl.obolibrary.org/obo/SO_0001913) |
-
 ## enm
 
 | curie                                      |   usages | nodes                                                     |

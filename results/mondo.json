@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-07T13:07:09.501731",
+  "created": "2023-12-07T09:45:15.370602",
   "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/mondo.owl": {
@@ -12636,6 +12636,9 @@
           "http://purl.obolibrary.org/obo/MONDO_0020496": [
             "MONDO:patterns/hereditary"
           ],
+          "http://purl.obolibrary.org/obo/MONDO_0020507": [
+            "MONDO:patterns/disease_series_by_gene"
+          ],
           "http://purl.obolibrary.org/obo/MONDO_0020517": [
             "NCIT:P378"
           ],
@@ -14990,6 +14993,780 @@
           ],
           "http://purl.obolibrary.org/obo/MONDO_0850289": [
             "MONDO:patterns/infectious_disease_by_agent"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010001": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010002": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010003": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010004": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010005": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010006": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010007": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010008": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010009": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010010": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010011": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010012": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010013": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010014": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010015": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010016": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010017": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010018": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010019": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010020": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010021": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010022": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010023": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010024": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010025": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010026": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010027": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010028": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010031": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010032": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010033": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010034": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010035": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010036": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010037": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010038": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010039": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010040": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010041": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010042": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010043": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010044": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010045": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010046": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010047": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010048": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010049": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010050": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010051": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010052": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010053": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010054": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010055": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010056": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010057": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010058": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010059": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010060": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010061": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010062": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010063": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010066": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010067": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010068": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010069": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010070": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010071": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010072": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010073": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010074": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010075": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010076": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010077": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010078": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010079": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010080": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010081": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010082": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010083": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010085": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010086": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010090": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010091": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010092": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010093": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010094": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010095": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010099": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010101": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010102": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010103": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010104": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010105": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010106": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010107": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010109": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010110": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010113": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010114": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010115": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010118": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010119": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010121": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010123": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010124": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010126": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010127": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010129": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010130": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010133": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010134": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010135": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010136": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010137": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010138": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010139": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010140": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010141": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010142": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010143": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010147": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010149": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010153": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010155": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010156": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010157": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010158": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010159": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010160": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010161": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010162": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010163": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010164": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010166": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010167": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010170": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010171": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010172": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010191": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010192": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010195": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010196": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010197": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010198": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010199": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010201": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010202": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010203": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010208": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010209": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010210": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010211": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010212": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010213": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010214": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010215": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010216": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010217": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010220": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010222": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010223": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010224": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010225": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010226": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010227": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010228": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010229": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010230": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010231": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010232": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010233": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010234": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010235": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010236": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010237": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010238": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010239": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010240": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010241": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010242": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010243": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010244": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010245": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010247": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010249": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010252": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010258": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010259": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010260": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010261": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010262": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010264": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010265": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010266": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010267": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010268": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010269": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010270": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010272": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010275": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010276": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010277": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010278": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010279": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010280": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010281": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010282": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010284": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010285": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010286": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010287": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010289": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010290": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010291": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010292": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010293": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010294": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010295": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010296": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010297": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010298": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010299": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010300": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010302": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010303": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010304": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010305": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010306": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010310": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010312": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010313": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010314": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010315": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010316": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010318": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010319": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010320": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010321": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010322": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010323": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010324": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010325": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010326": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010327": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010328": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010329": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010330": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010334": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010337": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010343": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010344": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010350": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010351": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010352": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010358": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010359": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010360": [
+            "MONDO:patterns/nonhuman_disease"
+          ],
+          "http://purl.obolibrary.org/obo/MONDO_1010361": [
+            "MONDO:patterns/nonhuman_disease"
           ],
           "http://purl.obolibrary.org/obo/MONDO_1011300": [
             "MONDO:patterns/nonhuman_disease"
@@ -32770,9 +33547,6 @@
             "MONDO:patterns/disease_series_by_gene"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0011378": [
-            "MONDO:Lexical"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0011380": [
             "MONDO:Lexical"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0011383": [
@@ -51779,6 +52553,9 @@
           "http://purl.obolibrary.org/obo/MONDO_0800438": [
             "OMIM:genemap2"
           ],
+          "http://purl.obolibrary.org/obo/MONDO_0800448": [
+            "MONDO:Lexical"
+          ],
           "http://purl.obolibrary.org/obo/MONDO_8000006": [
             "MONDO:Lexical",
             "OMIM:genemap2"
@@ -54819,8 +55596,8 @@
           }
         }
       },
-      "version": "2023-08-02",
-      "version_iri": "http://purl.obolibrary.org/obo/mondo/releases/2023-08-02/mondo.owl",
+      "version": "2023-09-12",
+      "version_iri": "http://purl.obolibrary.org/obo/mondo/releases/2023-09-12/mondo.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MONDO_0000023": [
@@ -55949,9 +56726,6 @@
           ],
           "http://purl.obolibrary.org/obo/MONDO_0011156": [
             "UMLS:CN205889"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0011380": [
-            "UMLS:CN199219"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0011391": [
             "UMLS:CN176898"
@@ -63066,7 +63840,6 @@
             "http://purl.obolibrary.org/obo/MONDO_0003122": "OMIMPS:271930",
             "http://purl.obolibrary.org/obo/MONDO_0003233": "OMIMPS:190300",
             "http://purl.obolibrary.org/obo/MONDO_0003321": "OMIMPS:194070",
-            "http://purl.obolibrary.org/obo/MONDO_0003582": "OMIMPS:604370",
             "http://purl.obolibrary.org/obo/MONDO_0003947": "OMIMPS:308230",
             "http://purl.obolibrary.org/obo/MONDO_0004741": "OMIMPS:276700",
             "http://purl.obolibrary.org/obo/MONDO_0004822": "OMIMPS:211400",
@@ -63526,11 +64299,13 @@
             "http://purl.obolibrary.org/obo/MONDO_0100327": "OMIMPS:607748",
             "http://purl.obolibrary.org/obo/MONDO_0100328": "OMIMPS:614231",
             "http://purl.obolibrary.org/obo/MONDO_0100440": "OMIMPS:608638",
+            "http://purl.obolibrary.org/obo/MONDO_0100526": "OMIMPS:604370",
             "http://purl.obolibrary.org/obo/MONDO_0700225": "OMIMPS:600803",
             "http://purl.obolibrary.org/obo/MONDO_0800031": "OMIMPS:209880",
             "http://purl.obolibrary.org/obo/MONDO_0800166": "OMIMPS:267750",
             "http://purl.obolibrary.org/obo/MONDO_0800174": "OMIMPS:610551",
             "http://purl.obolibrary.org/obo/MONDO_0800188": "OMIMPS:145600",
+            "http://purl.obolibrary.org/obo/MONDO_0800448": "OMIMPS:603896",
             "http://purl.obolibrary.org/obo/MONDO_0859383": "OMIMPS:146590",
             "http://purl.obolibrary.org/obo/MONDO_0859390": "OMIMPS:300491",
             "http://purl.obolibrary.org/obo/MONDO_0859393": "OMIMPS:620184",
@@ -68805,7 +69580,6 @@
             "http://purl.obolibrary.org/obo/MONDO_0011365": "SCTID:699298009",
             "http://purl.obolibrary.org/obo/MONDO_0011366": "SCTID:237059008",
             "http://purl.obolibrary.org/obo/MONDO_0011376": "SCTID:233915000",
-            "http://purl.obolibrary.org/obo/MONDO_0011380": "SCTID:447351004",
             "http://purl.obolibrary.org/obo/MONDO_0011381": "SCTID:716682000",
             "http://purl.obolibrary.org/obo/MONDO_0011385": "SCTID:77547008",
             "http://purl.obolibrary.org/obo/MONDO_0011391": "SCTID:703536004",
@@ -72116,7 +72890,7 @@
             "http://purl.obolibrary.org/obo/MONDO_0025096": "SCTID:24043009",
             "http://purl.obolibrary.org/obo/MONDO_0025163": "SCTID:82642007",
             "http://purl.obolibrary.org/obo/MONDO_0025193": "SCTID:763829004",
-            "http://purl.obolibrary.org/obo/MONDO_0025303": "SCTID:13906002",
+            "http://purl.obolibrary.org/obo/MONDO_0025303": "SCTID:427481004",
             "http://purl.obolibrary.org/obo/MONDO_0025369": "SCTID:24069003",
             "http://purl.obolibrary.org/obo/MONDO_0025371": "SCTID:83223005",
             "http://purl.obolibrary.org/obo/MONDO_0025513": "SCTID:402397006",
@@ -72388,7 +73162,6 @@
             "http://purl.obolibrary.org/obo/MONDO_0044743": "SCTID:363378008",
             "http://purl.obolibrary.org/obo/MONDO_0044744": "SCTID:48976006",
             "http://purl.obolibrary.org/obo/MONDO_0044745": "SCTID:128239009",
-            "http://purl.obolibrary.org/obo/MONDO_0044747": "SCTID:427481004",
             "http://purl.obolibrary.org/obo/MONDO_0044750": "SCTID:721779001",
             "http://purl.obolibrary.org/obo/MONDO_0044751": "SCTID:236071009",
             "http://purl.obolibrary.org/obo/MONDO_0044753": "SCTID:18347007",
@@ -72551,6 +73324,7 @@
             "http://purl.obolibrary.org/obo/MONDO_0800177": "SCTID:370977006",
             "http://purl.obolibrary.org/obo/MONDO_0800436": "SCTID:720635002",
             "http://purl.obolibrary.org/obo/MONDO_0800437": "SCTID:429753001",
+            "http://purl.obolibrary.org/obo/MONDO_0800448": "SCTID:447351004",
             "http://purl.obolibrary.org/obo/MONDO_0850301": "SCTID:86142006",
             "http://purl.obolibrary.org/obo/MONDO_8000006": "SCTID:234571003",
             "http://purl.obolibrary.org/obo/MONDO_8000008": "SCTID:722380003",

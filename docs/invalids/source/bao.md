@@ -1,7 +1,7 @@
 # bao
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `bao`. See the [GitHub repository](https://github.com/BioAssayOntology/BAO/wiki).
+for node, synonym, and definition cross-references in `bao`. See the [GitHub repository](https://github.com/BioAssayOntology/BAO).
 
 
 ## `FBdv`: Drosophila development

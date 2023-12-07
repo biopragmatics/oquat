@@ -94,6 +94,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `FlyBase_Cell_line:FBtc0000329` |              1 | [Cellosaurus#CVCL:C7GC](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C7GC) |
 | `FlyBase_Cell_line:FBtc0000330` |              1 | [Cellosaurus#CVCL:C7GD](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C7GD) |
 | `FlyBase_Cell_line:FBtc0000331` |              1 | [Cellosaurus#CVCL:C7GE](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C7GE) |
+| `FlyBase_Cell_line:FBtc0000344` |              1 | [Cellosaurus#CVCL:C8XJ](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8XJ) |
 | `FlyBase_Cell_line:FBtc0000099` |              1 | [Cellosaurus#CVCL:IY66](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_IY66) |
 | `FlyBase_Cell_line:FBtc0000095` |              1 | [Cellosaurus#CVCL:IY67](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_IY67) |
 | `FlyBase_Cell_line:FBtc0000046` |              1 | [Cellosaurus#CVCL:IY68](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_IY68) |
