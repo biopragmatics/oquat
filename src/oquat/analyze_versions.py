@@ -1,12 +1,10 @@
 """Analyze invalid identifiers."""
 
 import json
-import re
-from urllib.parse import urlparse
 
 import bioregistry
+from bioregistry.parse_version_iri import parse_obo_version_iri
 from tabulate import tabulate
-from tqdm import tqdm
 
 from oquat.api import AnalysisResults
 from oquat.large_scale_analysis import DOCS, RESULTS
@@ -14,15 +12,6 @@ from oquat.large_scale_analysis import DOCS, RESULTS
 INVALIDS = DOCS.joinpath("versions")
 INVALIDS.mkdir(exist_ok=True, parents=True)
 INDEX_PATH = INVALIDS.joinpath("README.md")
-
-#: Official regex for semantic versions from
-#: https://semver.org/#is-there-a-suggested-regular-expression-regex-to-check-a-semver-string
-SEMVER_PATTERN = re.compile(
-    r"^(0|[1-9]\d*)\.(0|[1-9]\d*)(\.(0|[1-9]\d*))?(?:-((?:0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*)"
-    r"(?:\.(?:0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*))*))?(?:\+([0-9a-zA-Z-]+(?:\.[0-9a-zA-Z-]+)*))?$"
-)
-#: Regular expression for ISO 8601 compliant date in YYYY-MM-DD format
-DATE_PATTERN = re.compile(r"^([0-9]{4})-(1[0-2]|0[1-9])-(3[01]|0[1-9]|[12][0-9])$")
 
 
 def main():
@@ -48,7 +37,7 @@ def main():
                     # skip this since there are potentially many graphs contained for a given OBO prefix
                     continue
                 if version_iri:
-                    version_length, version_type, v = _parse_version_iri(version_iri, obo_prefix)
+                    version_length, version_type, v = parse_obo_version_iri(version_iri, obo_prefix)
                     standard_viri = "✅" if version_length else "⭕"
                     versioned_version_iri = "✅" if version_type else "⭕"
                     if graph_version:
@@ -129,49 +118,6 @@ multiple graphs due to imports.
 {tabulate(full_analysis_rows, tablefmt="github", headers=full_headers)}
     """
     )
-
-
-def _contains_semver(iri: str) -> bool:
-    """Return if the IRI contains a semantic version substring."""
-    return _match_any_part(iri, SEMVER_PATTERN)
-
-
-def _contains_date(iri: str) -> bool:
-    return _match_any_part(iri, DATE_PATTERN)
-
-
-def _match_any_part(iri, pattern):
-    parse_result = urlparse(iri)
-    return any(bool(pattern.match(part)) for part in parse_result.path.split("/"))
-
-
-def _parse_version_iri(version_iri: str, obo_prefix: str):
-    obo_prefix = obo_prefix.lower()
-    parts = [
-        ("long", f"http://purl.obolibrary.org/obo/{obo_prefix}/releases/"),
-        ("short", f"http://purl.obolibrary.org/obo/{obo_prefix}/"),
-    ]
-    for version_length, version_iri_prefix in parts:
-        if not version_iri.startswith(version_iri_prefix):
-            continue
-        try:
-            version, filename = version_iri[len(version_iri_prefix) :].split("/", 1)
-        except ValueError:
-            tqdm.write(f"[{obo_prefix}] issue parsing IRI back-half: {version_iri}")
-            return None, None, None
-        if not any(
-            filename.startswith(f"{obo_prefix}.{ext}") for ext in ("json", "owl", "obo", "ofn")
-        ):
-            return None, None, None
-        version_type: str | None
-        if SEMVER_PATTERN.fullmatch(version):
-            version_type = "semver"
-        elif DATE_PATTERN.fullmatch(version):
-            version_type = "date"
-        else:
-            version_type = None
-        return version_length, version_type, version
-    return None, None, None
 
 
 if __name__ == "__main__":
