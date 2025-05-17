@@ -13,7 +13,7 @@ Identifiers for this prefix are given incorrectly in `cmpo`. See the [GitHub rep
 |-----------------|----------------|--------------------------------------------------------|
 | `PomBase:mah`   |              1 | [CMPO:0000430](http://www.ebi.ac.uk/cmpo/CMPO_0000430) |
 
-## `eco`: Evidence ontology
+## `eco`: Evidence and Conclusion Ontology
 
 Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology).
 

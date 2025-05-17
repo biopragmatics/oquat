@@ -23,7 +23,7 @@ from bioontologies.obograph import Graph, GraphDocument
 from bioontologies.robot import convert_to_obograph_local, convert_to_obograph_remote
 from more_click import verbose_option
 from pydantic import BaseModel
-from pydantic.json import ENCODERS_BY_TYPE
+from pydantic.v1.json import ENCODERS_BY_TYPE
 from tabulate import tabulate
 from tqdm import tqdm
 
@@ -124,8 +124,8 @@ class Results(pydantic.BaseModel):
     """A package of assessment on a single graph."""
 
     graph_id: str
-    version_iri: Optional[str]
-    version: Optional[str]
+    version_iri: Optional[str] = None
+    version: Optional[str] = None
     xref_pack: ResultPack
     prov_pack: ResultPack
     synonym_pack: ResultPack

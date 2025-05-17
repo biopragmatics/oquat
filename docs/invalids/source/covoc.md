@@ -89,7 +89,7 @@ did not match the standard pattern `^G(PL|SM|SE|DS)\d+$`.
 Overall, there were 2 invalid
 xrefs to external prefixed with `Gmelin` (standardized to Bioregistry
 prefix [`gmelin`](https://bioregistry.io/gmelin)) that
-did not match the standard pattern `^[1-9][0-9]{3,6}$`.
+did not match the standard pattern `^[1-9][0-9]{2,6}$`.
 
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|
@@ -109,7 +109,7 @@ did not match the standard pattern `^\d{7}$`.
 | `HPO:sdoelken`  |              1 | [HP:0001945](http://purl.obolibrary.org/obo/HP_0001945)                                                                                                                                                                                                                                          |
 | `HPO:skoehler`  |              1 | [HP:0003326](http://purl.obolibrary.org/obo/HP_0003326)                                                                                                                                                                                                                                          |
 
-## `ICD11`: International Classification of Diseases, 11th Revision
+## `ICD11`: International Classification of Diseases, 11th Revision (Foundation Component)
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `ICD11` (standardized to Bioregistry
@@ -138,17 +138,6 @@ did not match the standard pattern `^(\d\d\d|V\d\d|E[8-9]\d\d)(\.\d{1,2})?$`.
 | `ICD9:500-508.99` |              1 | [EFO:0000684](http://www.ebi.ac.uk/efo/EFO_0000684)           |
 | `ICD9:510-519.99` |              1 | [EFO:0000684](http://www.ebi.ac.uk/efo/EFO_0000684)           |
 
-## `IEDB`: Immune Epitope Database
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `IEDB` (standardized to Bioregistry
-prefix [`iedb`](https://bioregistry.io/iedb)) that
-did not match the standard pattern `^[0-9]+$`.
-
-| external_xref   |   usages_count | usages                                                      |
-|-----------------|----------------|-------------------------------------------------------------|
-| `IEDB:BP`       |              1 | [PR:000000001](http://purl.obolibrary.org/obo/PR_000000001) |
-
 ## `KEGG`: Kyoto Encyclopedia of Genes and Genomes
 
 Overall, there were 1 invalid
@@ -165,7 +154,7 @@ did not match the standard pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,
 Overall, there were 1 invalid
 xrefs to external prefixed with `MeSH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
+did not match the standard pattern `^(C|D|M)\d{6,9}$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -196,7 +185,7 @@ did not match the standard pattern `^\d{7}$`.
 Overall, there were 6 invalid
 xrefs to external prefixed with `NCIT` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
-did not match the standard pattern `^C\d+$`.
+did not match the standard pattern `^[CRPA]\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

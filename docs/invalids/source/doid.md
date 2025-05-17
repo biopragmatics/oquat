@@ -28,7 +28,7 @@ did not match the standard pattern `^([A-Z][0-9][0-9AB]((-[A-Z][0-9][0-9AB])|(\.
 | `ICD10CM:E74.0+` |              1 | [DOID:0090101](http://purl.obolibrary.org/obo/DOID_0090101) |
 | `ICD10CM:G73.6*` |              1 | [DOID:0090101](http://purl.obolibrary.org/obo/DOID_0090101) |
 
-## `ICD11`: International Classification of Diseases, 11th Revision
+## `ICD11`: International Classification of Diseases, 11th Revision (Foundation Component)
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `ICD11` (standardized to Bioregistry

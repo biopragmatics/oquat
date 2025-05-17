@@ -20,7 +20,7 @@ did not match the standard pattern `^[0-9]{10}$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `ncithesaurus` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
-did not match the standard pattern `^C\d+$`.
+did not match the standard pattern `^[CRPA]\d+$`.
 
 | external_xref                 |   usages_count | usages                                                        |
 |-------------------------------|----------------|---------------------------------------------------------------|

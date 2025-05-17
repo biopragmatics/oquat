@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `wikidata`
 but use local unique identifiers that do not match the standard pattern of
-`^(Q|P)\d+$`. Of the 1 resources,
+`^(Q|P|E|L)\d+$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['wikidata'].
 
 ## `ror`: Research Organization Registry

@@ -16,12 +16,12 @@ did not match the standard pattern `^PMC\d+(\.\d+)?$`.
 | `PMC:4492366`   |              1 | [WBls:0000801](http://purl.obolibrary.org/obo/WBls_0000801) |
 | `PMC:3697962`   |              1 | [WBls:0000802](http://purl.obolibrary.org/obo/WBls_0000802) |
 
-## `WB`: Wormbase Gene
+## `WB`: WormBase
 
 Overall, there were 751 invalid
 xrefs to external prefixed with `WB` (standardized to Bioregistry
 prefix [`wormbase`](https://bioregistry.io/wormbase)) that
-did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
+did not match the standard pattern `^(CE[0-9]{5}|WB[A-Z][a-z]+\d+)$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

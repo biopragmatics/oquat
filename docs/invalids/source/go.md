@@ -4,12 +4,12 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
 
 
-## `EC`: Enzyme Commission Code
+## `EC`: Enzyme Nomenclature
 
 Overall, there were 1,018 invalid
 xrefs to external prefixed with `EC` (standardized to Bioregistry
-prefix [`eccode`](https://bioregistry.io/eccode)) that
-did not match the standard pattern `^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.n\d{1,3})?$`.
+prefix [`ec`](https://bioregistry.io/ec)) that
+did not match the standard pattern `^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.[nB]\d{1,3}|\.-\.-\.-|\.\d{1,3}\.-\.-|\.\d{1,3}\.\d{1,3}\.-)?$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -762,12 +762,12 @@ did not match the standard pattern `^KW-\d{4}$`.
 |-----------------------|----------------|---------------------------------------------------------|
 | `UniProtKB-KW:KW-984` |              1 | [GO:0039664](http://purl.obolibrary.org/obo/GO_0039664) |
 
-## `WB_REF`: Wormbase Gene
+## `WB_REF`: WormBase
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `WB_REF` (standardized to Bioregistry
 prefix [`wormbase`](https://bioregistry.io/wormbase)) that
-did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
+did not match the standard pattern `^(CE[0-9]{5}|WB[A-Z][a-z]+\d+)$`.
 
 | external_xref        |   usages_count | usages                                                  |
 |----------------------|----------------|---------------------------------------------------------|

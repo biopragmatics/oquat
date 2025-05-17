@@ -15,7 +15,7 @@ Identifiers for this prefix are given incorrectly in `covoc`. See the [GitHub re
 | `HPO:sdoelken`  |              1 | [HP:0001945](http://purl.obolibrary.org/obo/HP_0001945)                                                                                                                                                                                                                                          |
 | `HPO:skoehler`  |              1 | [HP:0003326](http://purl.obolibrary.org/obo/HP_0003326)                                                                                                                                                                                                                                          |
 
-## `eco`: Evidence ontology
+## `eco`: Evidence and Conclusion Ontology
 
 Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology).
 

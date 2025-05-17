@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `ncit`
 but use local unique identifiers that do not match the standard pattern of
-`^C\d+$`. Of the 16 resources,
+`^[CRPA]\d+$`. Of the 16 resources,
 5 variants on the standard prefix were found: ['NCI', 'NCIT', 'NCI_Thesaurus', 'NCIt', 'ncithesaurus'].
 
 ## `bao`: BioAssay Ontology

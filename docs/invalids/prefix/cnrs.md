@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `cnrs`
 but use local unique identifiers that do not match the standard pattern of
-`^(UMR|UMS|UMI|UPR|URA|USR|GDR|EA|FR|SNC|ERL|FRC|FRE|IFR|MOY)\d+$`. Of the 1 resources,
+`^(UMR|UMS|UMI|UPR|URA|USR|GDR|EA|FR|SNC|ERL|FRC|FRE|IFR|MOY|UPS)\d+$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['cnrs'].
 
 ## `ror`: Research Organization Registry

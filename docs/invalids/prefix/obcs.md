@@ -5,7 +5,7 @@ but use local unique identifiers that do not match the standard pattern of
 `^\d{7}$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['OBCS'].
 
-## `pride`: PRIDE Controlled Vocabulary
+## `pride`: Proteomics Identification Database Ontology
 
 Identifiers for this prefix are given incorrectly in `pride`. See the [GitHub repository](https://github.com/PRIDE-Utilities/pride-ontology).
 

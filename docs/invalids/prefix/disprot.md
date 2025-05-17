@@ -5,7 +5,7 @@ but use local unique identifiers that do not match the standard pattern of
 `^DP\d{5}$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['DisProt'].
 
-## `eco`: Evidence ontology
+## `eco`: Evidence and Conclusion Ontology
 
 Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology).
 

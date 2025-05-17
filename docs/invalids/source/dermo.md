@@ -1,7 +1,7 @@
 # dermo
 
 This document details the invalid local unique identifiers used in CURIEs
-for node, synonym, and definition cross-references in `dermo`.
+for node, synonym, and definition cross-references in `dermo`. See the [GitHub repository](https://github.com/dermatology-ontology/dermatology).
 
 
 ## `MP`: Mammalian Phenotype Ontology

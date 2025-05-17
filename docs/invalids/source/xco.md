@@ -9,7 +9,7 @@ for node, synonym, and definition cross-references in `xco`. See the [GitHub rep
 Overall, there were 1 invalid
 xrefs to external prefixed with `MESH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
+did not match the standard pattern `^(C|D|M)\d{6,9}$`.
 
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|

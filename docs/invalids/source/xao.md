@@ -20,7 +20,7 @@ did not match the standard pattern `^\d{7}$`.
 Overall, there were 16 invalid
 xrefs to external prefixed with `NCIt` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
-did not match the standard pattern `^C\d+$`.
+did not match the standard pattern `^[CRPA]\d+$`.
 
 | external_xref                  |   usages_count | usages                                                    |
 |--------------------------------|----------------|-----------------------------------------------------------|

@@ -1,8 +1,8 @@
-# [`wormbase`](https://bioregistry.io/wormbase): Wormbase Gene
+# [`wormbase`](https://bioregistry.io/wormbase): WormBase
 
 This page summarize the different resources that reference `wormbase`
 but use local unique identifiers that do not match the standard pattern of
-`^WB[A-Z][a-z]+\d+$`. Of the 8 resources,
+`^(CE[0-9]{5}|WB[A-Z][a-z]+\d+)$`. Of the 8 resources,
 6 variants on the standard prefix were found: ['WB', 'WB_REF', 'Wb', 'WormBase', 'Wormbase', 'wB'].
 
 ## `bto`: BRENDA Tissue Ontology

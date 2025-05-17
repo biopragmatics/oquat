@@ -229,7 +229,7 @@ did not match the standard pattern `^(([XVI]+)|([A-Z][0-9]+((-[A-Z][0-9]+)|(\.[0
 | `ICD10:H11.15`  |              1 | [EFO:1001824](http://www.ebi.ac.uk/efo/EFO_1001824) |
 | `ICD10:K68.12`  |              1 | [EFO:1001832](http://www.ebi.ac.uk/efo/EFO_1001832) |
 
-## `ICD11`: International Classification of Diseases, 11th Revision
+## `ICD11`: International Classification of Diseases, 11th Revision (Foundation Component)
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `ICD11` (standardized to Bioregistry
@@ -321,17 +321,17 @@ did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `IDO` (standardized to Bioregistry
 prefix [`ido`](https://bioregistry.io/ido)) that
-did not match the standard pattern `^[0-9]+$`.
+did not match the standard pattern `^\d{7}$`.
 
 | external_xref     |   usages_count | usages                                              |
 |-------------------|----------------|-----------------------------------------------------|
 | `IDO:IDO_0000436` |              1 | [EFO:0005741](http://www.ebi.ac.uk/efo/EFO_0005741) |
 
-## `JAX`: Jackson Laboratories Strain
+## `JAX`: Jackson Laboratories Mouse Strain
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `JAX` (standardized to Bioregistry
-prefix [`jax`](https://bioregistry.io/jax)) that
+prefix [`jaxmice`](https://bioregistry.io/jaxmice)) that
 did not match the standard pattern `^\d{6}$`.
 
 | external_xref   |   usages_count | usages                                              |
@@ -391,7 +391,7 @@ did not match the standard pattern `^\d+$`.
 Overall, there were 2 invalid
 xrefs to external prefixed with `MESH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
+did not match the standard pattern `^(C|D|M)\d{6,9}$`.
 
 | external_xref           |   usages_count | usages                                              |
 |-------------------------|----------------|-----------------------------------------------------|
@@ -403,7 +403,7 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 Overall, there were 9 invalid
 xrefs to external prefixed with `MeSH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
+did not match the standard pattern `^(C|D|M)\d{6,9}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                        |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -478,7 +478,7 @@ did not match the standard pattern `^C\d+$`.
 Overall, there were 546 invalid
 xrefs to external prefixed with `NCIT` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
-did not match the standard pattern `^C\d+$`.
+did not match the standard pattern `^[CRPA]\d+$`.
 
 | external_xref           |   usages_count | usages                                                                                                                                                                                                                                                                       |
 |-------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -491,7 +491,7 @@ did not match the standard pattern `^C\d+$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `NCIt` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
-did not match the standard pattern `^C\d+$`.
+did not match the standard pattern `^[CRPA]\d+$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|
@@ -681,7 +681,7 @@ did not match the standard pattern `^C?\d+$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `Orphanet` (standardized to Bioregistry
 prefix [`orphanet`](https://bioregistry.io/orphanet)) that
-did not match the standard pattern `^\d+$`.
+did not match the standard pattern `^C?\d+$`.
 
 | external_xref                |   usages_count | usages                                              |
 |------------------------------|----------------|-----------------------------------------------------|

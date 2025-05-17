@@ -27,7 +27,7 @@ Identifiers for this prefix are given incorrectly in `covoc`. See the [GitHub re
 | `UniProtKB:P0DTC1-1` |              1 | [PR:P0DTC1-1](http://purl.obolibrary.org/obo/PR_P0DTC1-1) |
 | `UniProtKB:P0DTD1-1` |              1 | [PR:P0DTD1-1](http://purl.obolibrary.org/obo/PR_P0DTD1-1) |
 
-## `eco`: Evidence ontology
+## `eco`: Evidence and Conclusion Ontology
 
 Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology).
 

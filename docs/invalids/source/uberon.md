@@ -275,7 +275,7 @@ did not match the standard pattern `^\d+$`.
 Overall, there were 168 invalid
 xrefs to external prefixed with `MESH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
+did not match the standard pattern `^(C|D|M)\d{6,9}$`.
 
 | external_xref                          |   usages_count | usages                                                                                                                                                                                            |
 |----------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -467,7 +467,7 @@ did not match the standard pattern `^\d{7}$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `NCIT` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
-did not match the standard pattern `^C\d+$`.
+did not match the standard pattern `^[CRPA]\d+$`.
 
 | external_xref   |   usages_count | usages                                                          |
 |-----------------|----------------|-----------------------------------------------------------------|
@@ -478,7 +478,7 @@ did not match the standard pattern `^C\d+$`.
 Overall, there were 230 invalid
 xrefs to external prefixed with `ncithesaurus` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
-did not match the standard pattern `^C\d+$`.
+did not match the standard pattern `^[CRPA]\d+$`.
 
 | external_xref                                                 |   usages_count | usages                                                                                                                           |
 |---------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------|
@@ -862,12 +862,12 @@ did not match the standard pattern `^\d{7}$`.
 | `VHOG:OG`       |              4 | [UBERON:0005872](http://purl.obolibrary.org/obo/UBERON_0005872), [UBERON:0005873](http://purl.obolibrary.org/obo/UBERON_0005873), [UBERON:0005874](http://purl.obolibrary.org/obo/UBERON_0005874), [UBERON:0005875](http://purl.obolibrary.org/obo/UBERON_0005875) |
 | `VHOG:FB`       |              1 | [UBERON:0000112](http://purl.obolibrary.org/obo/UBERON_0000112)                                                                                                                                                                                                    |
 
-## `WB`: Wormbase Gene
+## `WB`: WormBase
 
 Overall, there were 3 invalid
 xrefs to external prefixed with `WB` (standardized to Bioregistry
 prefix [`wormbase`](https://bioregistry.io/wormbase)) that
-did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
+did not match the standard pattern `^(CE[0-9]{5}|WB[A-Z][a-z]+\d+)$`.
 
 | external_xref      |   usages_count | usages                                                          |
 |--------------------|----------------|-----------------------------------------------------------------|

@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `mesh`
 but use local unique identifiers that do not match the standard pattern of
-`^(C|D)\d{6,9}$`. Of the 17 resources,
+`^(C|D|M)\d{6,9}$`. Of the 17 resources,
 2 variants on the standard prefix were found: ['MESH', 'MeSH'].
 
 ## `bao`: BioAssay Ontology

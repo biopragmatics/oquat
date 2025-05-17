@@ -51,7 +51,7 @@ Identifiers for this prefix are given incorrectly in `cmpo`. See the [GitHub rep
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `GO:jl`         |              4 | [GO:0044092](http://purl.obolibrary.org/obo/GO_0044092), [GO:0044093](http://purl.obolibrary.org/obo/GO_0044093), [GO:1902679](http://purl.obolibrary.org/obo/GO_1902679), [GO:1902680](http://purl.obolibrary.org/obo/GO_1902680) |
 
-## `eco`: Evidence ontology
+## `eco`: Evidence and Conclusion Ontology
 
 Identifiers for this prefix are given incorrectly in `eco`. See the [GitHub repository](https://github.com/evidenceontology/evidenceontology).
 

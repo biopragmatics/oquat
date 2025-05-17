@@ -4,7 +4,7 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `hom`. See the [GitHub repository](https://github.com/BgeeDB/homology-ontology).
 
 
-## `ECO`: Evidence ontology
+## `ECO`: Evidence and Conclusion Ontology
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `ECO` (standardized to Bioregistry
@@ -20,7 +20,7 @@ did not match the standard pattern `^\d{7}$`.
 Overall, there were 4 invalid
 xrefs to external prefixed with `MeSH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
+did not match the standard pattern `^(C|D|M)\d{6,9}$`.
 
 | external_xref                       |   usages_count | usages                                                                                                               |
 |-------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------|
