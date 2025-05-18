@@ -1,6 +1,5 @@
 """Analyze invalid identifiers."""
 
-import json
 import random
 from collections import defaultdict
 from operator import itemgetter

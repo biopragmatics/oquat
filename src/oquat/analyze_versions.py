@@ -1,7 +1,5 @@
 """Analyze invalid identifiers."""
 
-import json
-
 import bioregistry
 from bioregistry.parse_version_iri import parse_obo_version_iri
 from tabulate import tabulate
@@ -30,7 +28,7 @@ def main():
             graph_version = graph.version or ""
             if graph_version:
                 graph_version = graph_version.replace("\n", " ")
-            version_iri = "" # graph.version_iri or ""
+            version_iri = ""  # graph.version_iri or ""
 
             if obo_prefix:
                 if graph_iri != f"http://purl.obolibrary.org/obo/{obo_prefix.lower()}.owl":

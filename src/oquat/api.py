@@ -168,9 +168,9 @@ def analyze_by_prefix(
             return analyze_by_path(path, iri_filter=iri_filter)
         return analyze_by_iri(url, iri_filter=iri_filter)
 
-    from bioontologies.robot import convert, convert_to_obograph_local, convert_to_obograph_remote
+    from bioontologies.robot import convert
 
-    for part, url in [
+    for _part, url in [
         ("owl", bioregistry.get_owl_download(prefix)),
         ("obo", bioregistry.get_obo_download(prefix)),
     ]:

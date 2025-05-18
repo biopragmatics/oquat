@@ -1,6 +1,5 @@
 """Analyze unknown prefixes."""
 
-import json
 import random
 from collections import defaultdict
 from operator import itemgetter

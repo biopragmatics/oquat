@@ -74,7 +74,14 @@ def lsa_artifacts():
     _generate_artifacts()
 
 
-def _lsa(*, force: bool, minimum: Optional[str], test: bool = False, skip_messages: bool = True, cache: bool):
+def _lsa(
+    *,
+    force: bool,
+    minimum: Optional[str],
+    test: bool = False,
+    skip_messages: bool = True,
+    cache: bool,
+):
     rows = sorted(
         (
             prefix,
