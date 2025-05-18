@@ -103,6 +103,7 @@ class Results(pydantic.BaseModel):
     """A package of assessment on a single graph."""
 
     graph_id: str
+    version: Optional[str] = None
     version_iri: Optional[str] = None
     xref_pack: ResultPack | None = None
     prov_pack: ResultPack | None = None
@@ -116,7 +117,7 @@ class Results(pydantic.BaseModel):
 
 Graph Identifier: {self.graph_id}
 
-Graph Version IRI: {self.version_iri}
+Graph Version: {self.version}/{self.version_iri or ""}
 
 {self.xref_pack.to_markdown() if self.xref_pack else ""}
 
@@ -206,7 +207,6 @@ def analyze_by_prefix(
 def analyze_by_path(path: Union[str, Path], *, iri_filter: Optional[str] = None) -> AnalysisResults:
     """Analyze an ontology at a given IRI."""
     graph_document = obographs.read(path, squeeze=False)
-    # TODO handle OBO / OWL?
     return AnalysisResults(
         results=analyze_graphs(graph_document, iri_filter=iri_filter),
     )

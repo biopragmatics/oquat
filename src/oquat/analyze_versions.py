@@ -11,9 +11,18 @@ INVALIDS = DOCS.joinpath("versions")
 INVALIDS.mkdir(exist_ok=True, parents=True)
 INDEX_PATH = INVALIDS.joinpath("README.md")
 
+TRUE_ICON = "✅"
+FALSE_ICON = "⭕"
+
+
+def _boolean(version_length: bool) -> str:
+    return TRUE_ICON if version_length else FALSE_ICON
+
 
 def main():
     """Analyze invalid identifiers."""
+    INDEX_PATH.unlink(missing_ok=True)
+
     full_analysis_rows = []
     obo_analysis_rows = []
     for path in RESULTS.glob("*.json"):
@@ -22,14 +31,13 @@ def main():
         obo_prefix = None if resource is None else resource.get_obofoundry_prefix()
 
         analysis_results = AnalysisResults.model_validate_json(path.read_text())
-        for graph_iri, graph in analysis_results.results.items():
+        for graph_iri, results in analysis_results.results.items():
             if "import" in graph_iri:
                 continue
-            # TODO get graph version
-            graph_version = ""
-            if graph_version:
-                graph_version = graph_version.replace("\n", " ")
-            version_iri = graph.version_iri or ""
+            version = results.version
+            if version:
+                version = version.replace("\n", " ")
+            version_iri = results.version_iri or ""
 
             if obo_prefix:
                 if graph_iri != f"http://purl.obolibrary.org/obo/{obo_prefix.lower()}.owl":
@@ -37,14 +45,14 @@ def main():
                     continue
                 if version_iri:
                     version_length, version_type, v = parse_obo_version_iri(version_iri, obo_prefix)
-                    standard_viri = "✅" if version_length else "⭕"
-                    versioned_version_iri = "✅" if version_type else "⭕"
-                    if graph_version:
-                        version_in_version_iri = "✅" if graph_version == v else "⭕"
+                    standard_version_iri = _boolean(version_length)
+                    versioned_version_iri = _boolean(version_type)
+                    if version:
+                        version_in_version_iri = _boolean(version == v)
                     else:
                         version_in_version_iri = ""
                 else:
-                    standard_viri = ""
+                    standard_version_iri = ""
                     versioned_version_iri = ""
                     version_in_version_iri = ""
 
@@ -53,28 +61,28 @@ def main():
                         f"[{prefix}](http://obofoundry.org/ontology/{prefix})",
                         version_iri,
                         versioned_version_iri,
-                        standard_viri,
-                        graph_version,
+                        standard_version_iri,
+                        version,
                         version_in_version_iri,
                     )
                 )
             else:
-                if not graph_version or not version_iri:
+                if not version or not version_iri:
                     version_in_version_iri = ""
-                elif graph_version in version_iri:
-                    version_in_version_iri = "✅"
+                elif version in version_iri:
+                    version_in_version_iri = TRUE_ICON
                 else:
-                    version_in_version_iri = "⭕"
+                    version_in_version_iri = FALSE_ICON
 
             full_analysis_rows.append(
-                (prefix, graph_iri, graph_version, version_iri, version_in_version_iri)
+                (prefix, graph_iri, version, version_iri, version_in_version_iri)
             )
 
     n_has_iri = sum(bool(row[1]) for row in obo_analysis_rows)
-    n_iri_has_version = sum(row[2] == "✅" for row in obo_analysis_rows)
-    n_iri_is_standard = sum(row[3] == "✅" for row in obo_analysis_rows)
+    n_iri_has_version = sum(row[2] == TRUE_ICON for row in obo_analysis_rows)
+    n_iri_is_standard = sum(row[3] == TRUE_ICON for row in obo_analysis_rows)
     n_has_version = sum(bool(row[4]) for row in obo_analysis_rows)
-    n_version_in_iri = sum(row[5] == "✅" for row in obo_analysis_rows)
+    n_version_in_iri = sum(row[5] == TRUE_ICON for row in obo_analysis_rows)
     n_obo = len(obo_analysis_rows)
 
     obo_headers = [

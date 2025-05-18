@@ -27,6 +27,9 @@ KEYS = [
 
 def main() -> None:
     """Analyze unknown prefixes."""
+    for md_path in UNKNOWNS.glob("**/*.md"):
+        md_path.unlink()
+
     prefix_agg = defaultdict(lambda: defaultdict(lambda: defaultdict(set)))  # type:ignore
     source_agg = defaultdict(dict)  # type:ignore
     for path in RESULTS.glob("*.json"):

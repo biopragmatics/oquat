@@ -29,6 +29,9 @@ KEYS = [
 
 def main() -> None:
     """Analyze invalid identifiers."""
+    for md_path in INVALIDS.glob("**/*.md"):
+        md_path.unlink()
+
     source_agg = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))  # type:ignore
     xref_agg = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))  # type:ignore
     for path in RESULTS.glob("*.json"):
@@ -108,9 +111,14 @@ def main() -> None:
         for source, inner2 in sorted(xref_inner.items(), key=lambda t: t[0].casefold()):
             repository = bioregistry.get_repository(source)
             repo_text = f" See the [GitHub repository]({repository})." if repository else ""
+
+            title_line = f"`{source}`"
+            if source_name := bioregistry.get_name(source):
+                title_line += f": {source_name}"
+
             source_text += dedent(
                 f"""\
-            ## `{source}`: {bioregistry.get_name(source)}
+            ## {title_line}
 
             Identifiers for this prefix are given incorrectly in `{source}`.{repo_text}
 
