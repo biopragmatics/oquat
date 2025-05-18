@@ -32,7 +32,7 @@ def main() -> None:
     source_agg = defaultdict(dict)  # type:ignore
     for path in RESULTS.glob("*.json"):
         source = path.stem
-        analysis_results = AnalysisResults.parse_obj(json.loads(path.read_text()))
+        analysis_results = AnalysisResults.model_validate_json(path.read_text())
         for results in analysis_results.results.values():
             for key in KEYS:
                 pack: ResultPack = getattr(results, key)

@@ -23,14 +23,14 @@ def main():
         resource = bioregistry.get_resource(prefix)
         obo_prefix = None if resource is None else resource.get_obofoundry_prefix()
 
-        analysis_results = AnalysisResults.parse_obj(json.loads(path.read_text()))
+        analysis_results = AnalysisResults.model_validate_json(path.read_text())
         for graph_iri, graph in analysis_results.results.items():
             if "import" in graph_iri:
                 continue
             graph_version = graph.version or ""
             if graph_version:
                 graph_version = graph_version.replace("\n", " ")
-            version_iri = graph.version_iri or ""
+            version_iri = "" # graph.version_iri or ""
 
             if obo_prefix:
                 if graph_iri != f"http://purl.obolibrary.org/obo/{obo_prefix.lower()}.owl":
