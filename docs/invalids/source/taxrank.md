@@ -6,7 +6,7 @@ for node, synonym, and definition cross-references in `taxrank`. See the [GitHub
 
 ## `NCBITaxon`: NCBI Taxonomy
 
-Overall, there were 28 invalid
+Overall, there were 40 invalid
 xrefs to external prefixed with `NCBITaxon` (standardized to Bioregistry
 prefix [`ncbitaxon`](https://bioregistry.io/ncbitaxon)) that
 did not match the standard pattern `^\d+$`.
@@ -41,6 +41,18 @@ did not match the standard pattern `^\d+$`.
 | `NCBITaxon:superphylum`      |              1 | [TAXRANK:0000027](http://purl.obolibrary.org/obo/TAXRANK_0000027) |
 | `NCBITaxon:subtribe`         |              1 | [TAXRANK:0000028](http://purl.obolibrary.org/obo/TAXRANK_0000028) |
 | `NCBITaxon:subkingdom`       |              1 | [TAXRANK:0000029](http://purl.obolibrary.org/obo/TAXRANK_0000029) |
+| `NCBITaxon:strain`           |              1 | [TAXRANK:0001001](http://purl.obolibrary.org/obo/TAXRANK_0001001) |
+| `NCBITaxon:isolate`          |              1 | [TAXRANK:0001002](http://purl.obolibrary.org/obo/TAXRANK_0001002) |
+| `NCBITaxon:serotype`         |              1 | [TAXRANK:0001003](http://purl.obolibrary.org/obo/TAXRANK_0001003) |
+| `NCBITaxon:clade`            |              1 | [TAXRANK:0001004](http://purl.obolibrary.org/obo/TAXRANK_0001004) |
+| `NCBITaxon:forma_specialis`  |              1 | [TAXRANK:0001005](http://purl.obolibrary.org/obo/TAXRANK_0001005) |
+| `NCBITaxon:serogroup`        |              1 | [TAXRANK:0001006](http://purl.obolibrary.org/obo/TAXRANK_0001006) |
+| `NCBITaxon:genotype`         |              1 | [TAXRANK:0001007](http://purl.obolibrary.org/obo/TAXRANK_0001007) |
+| `NCBITaxon:biotype`          |              1 | [TAXRANK:0001008](http://purl.obolibrary.org/obo/TAXRANK_0001008) |
+| `NCBITaxon:morph`            |              1 | [TAXRANK:0001009](http://purl.obolibrary.org/obo/TAXRANK_0001009) |
+| `NCBITaxon:cohort`           |              1 | [TAXRANK:0001010](http://purl.obolibrary.org/obo/TAXRANK_0001010) |
+| `NCBITaxon:pathogroup`       |              1 | [TAXRANK:0001011](http://purl.obolibrary.org/obo/TAXRANK_0001011) |
+| `NCBITaxon:subcohort`        |              1 | [TAXRANK:0001012](http://purl.obolibrary.org/obo/TAXRANK_0001012) |
 
 ## `TAXRANK`: Taxonomic rank vocabulary
 

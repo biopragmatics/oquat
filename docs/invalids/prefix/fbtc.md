@@ -95,6 +95,16 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `FlyBase_Cell_line:FBtc0000330` |              1 | [Cellosaurus#CVCL:C7GD](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C7GD) |
 | `FlyBase_Cell_line:FBtc0000331` |              1 | [Cellosaurus#CVCL:C7GE](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C7GE) |
 | `FlyBase_Cell_line:FBtc0000344` |              1 | [Cellosaurus#CVCL:C8XJ](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C8XJ) |
+| `FlyBase_Cell_line:FBtc0000341` |              1 | [Cellosaurus#CVCL:D5B3](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5B3) |
+| `FlyBase_Cell_line:FBtc0000346` |              1 | [Cellosaurus#CVCL:D5B4](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5B4) |
+| `FlyBase_Cell_line:FBtc0000347` |              1 | [Cellosaurus#CVCL:D5B5](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5B5) |
+| `FlyBase_Cell_line:FBtc0000345` |              1 | [Cellosaurus#CVCL:D5XP](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5XP) |
+| `FlyBase_Cell_line:FBtc0000338` |              1 | [Cellosaurus#CVCL:D5XQ](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5XQ) |
+| `FlyBase_Cell_line:FBtc0000340` |              1 | [Cellosaurus#CVCL:D5XR](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5XR) |
+| `FlyBase_Cell_line:FBtc0000337` |              1 | [Cellosaurus#CVCL:D5XS](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5XS) |
+| `FlyBase_Cell_line:FBtc0000339` |              1 | [Cellosaurus#CVCL:D5XT](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5XT) |
+| `FlyBase_Cell_line:FBtc0000342` |              1 | [Cellosaurus#CVCL:D5XU](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5XU) |
+| `FlyBase_Cell_line:FBtc0000348` |              1 | [Cellosaurus#CVCL:D5XX](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5XX) |
 | `FlyBase_Cell_line:FBtc0000099` |              1 | [Cellosaurus#CVCL:IY66](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_IY66) |
 | `FlyBase_Cell_line:FBtc0000095` |              1 | [Cellosaurus#CVCL:IY67](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_IY67) |
 | `FlyBase_Cell_line:FBtc0000046` |              1 | [Cellosaurus#CVCL:IY68](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_IY68) |

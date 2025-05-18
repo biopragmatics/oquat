@@ -1,5 +1,11 @@
 # `ctd`
 
+## obci
+
+| curie        |   usages | nodes                                                     |
+|--------------|----------|-----------------------------------------------------------|
+| CTD:curators |        1 | [ExO:0000002](http://purl.obolibrary.org/obo/ExO_0000002) |
+
 ## exo
 
 | curie        |   usages | nodes                                                                                                                                                                                                                                                                                                      |

@@ -41,6 +41,26 @@ did not match the standard pattern `^\d{7}$`.
 | `CL:patterns/cellPartOfAnatomicalEntity` |              1 | [CL:0011030](http://purl.obolibrary.org/obo/CL_0011030)                                                                                                                                                                                                                                          |
 | `CL:cjm`                                 |              1 | [CL:1000742](http://purl.obolibrary.org/obo/CL_1000742)                                                                                                                                                                                                                                          |
 
+## `doi`: Digital Object Identifier
+
+Overall, there were 20 invalid
+xrefs to external prefixed with `doi` (standardized to Bioregistry
+prefix [`doi`](https://bioregistry.io/doi)) that
+did not match the standard pattern `^10.\d{2,9}/.*$`.
+
+| external_xref                             |   usages_count | usages                                                                                                                                                                                                                             |
+|-------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `doi:/10.1371/journal.pbio.3001032`       |              4 | [CL:4052008](http://purl.obolibrary.org/obo/CL_4052008), [CL:4052008](http://purl.obolibrary.org/obo/CL_4052008), [CL:4052009](http://purl.obolibrary.org/obo/CL_4052009), [CL:4052009](http://purl.obolibrary.org/obo/CL_4052009) |
+| `doi:/10.1101/2022.06.17.496207`          |              3 | [CL:4052020](http://purl.obolibrary.org/obo/CL_4052020), [CL:4052020](http://purl.obolibrary.org/obo/CL_4052020), [CL:4052021](http://purl.obolibrary.org/obo/CL_4052021)                                                          |
+| `doi:/10.1101/2024.12.15.628550`          |              3 | [CL:4052045](http://purl.obolibrary.org/obo/CL_4052045), [CL:4052046](http://purl.obolibrary.org/obo/CL_4052046), [CL:4052047](http://purl.obolibrary.org/obo/CL_4052047)                                                          |
+| `doi:/10.1101/2024.07.02.601324`          |              2 | [CL:0000114](http://purl.obolibrary.org/obo/CL_0000114), [CL:0000114](http://purl.obolibrary.org/obo/CL_0000114)                                                                                                                   |
+| `doi:/10.1016/j.autneu.2015.04.008`       |              2 | [CL:0002152](http://purl.obolibrary.org/obo/CL_0002152), [CL:0002244](http://purl.obolibrary.org/obo/CL_0002244)                                                                                                                   |
+| `doi:/10.1101/2022.09.26.509561`          |              2 | [CL:4052037](http://purl.obolibrary.org/obo/CL_4052037), [CL:4052037](http://purl.obolibrary.org/obo/CL_4052037)                                                                                                                   |
+| `doi:/10.3389/fncel.2021.703951`          |              1 | [CL:0000065](http://purl.obolibrary.org/obo/CL_0000065)                                                                                                                                                                            |
+| `doi:/10.1016/B978-0-12-410424-2.00003-2` |              1 | [CL:0000079](http://purl.obolibrary.org/obo/CL_0000079)                                                                                                                                                                            |
+| `doi:/10.1038/s41467-021-27901-5`         |              1 | [CL:4052006](http://purl.obolibrary.org/obo/CL_4052006)                                                                                                                                                                            |
+| `doi:/10.1101/2022.02.16.480779`          |              1 | [CL:4052040](http://purl.obolibrary.org/obo/CL_4052040)                                                                                                                                                                            |
+
 ## `FB`: FlyBase Gene
 
 Overall, there were 25 invalid
@@ -212,6 +232,17 @@ did not match the standard pattern `^((S\d+$)|(Y[A-Z]{2}\d{3}[a-zA-Z](\-[A-Z])?)
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `SGD:clt`       |             19 | [CL:0000596](http://purl.obolibrary.org/obo/CL_0000596), [CL:0000597](http://purl.obolibrary.org/obo/CL_0000597), [CL:0000599](http://purl.obolibrary.org/obo/CL_0000599), [CL:0000605](http://purl.obolibrary.org/obo/CL_0000605), [CL:0000606](http://purl.obolibrary.org/obo/CL_0000606), ... |
+
+## `VSAO`: Vertebrate Skeletal Anatomy Ontology
+
+Overall, there were 2 invalid
+xrefs to external prefixed with `VSAO` (standardized to Bioregistry
+prefix [`vsao`](https://bioregistry.io/vsao)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                                                                           |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
+| `VSAO:curator`  |              2 | [CL:0001039](http://purl.obolibrary.org/obo/CL_0001039), [CL:0001040](http://purl.obolibrary.org/obo/CL_0001040) |
 
 ## `ZFIN`: Zebrafish Information Network Gene
 

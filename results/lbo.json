@@ -1,15 +1,14 @@
 {
-  "created": "2023-12-07T09:43:09.745683",
-  "messages": [],
   "results": {
-    "http://purl.obolibrary.org/obo/TEMP": {
-      "graph_id": "http://purl.obolibrary.org/obo/TEMP",
+    "http://purl.obolibrary.org/obo/lbo.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/lbo.owl",
       "prov_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/LBO_0001090": [
             "VTO:CP"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -17,13 +16,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
+      "version": "http://purl.obolibrary.org/obo/lbo/releases/2025-01-28/lbo.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

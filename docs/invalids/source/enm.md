@@ -4,21 +4,17 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `enm`.
 
 
-## `AGR`: Agricultural Online Access
+## `BSPO`: Biological Spatial Ontology
 
-Overall, there were 6 invalid
-xrefs to external prefixed with `AGR` (standardized to Bioregistry
-prefix [`agricola`](https://bioregistry.io/agricola)) that
-did not match the standard pattern `^IND\d+$`.
+Overall, there were 17 invalid
+xrefs to external prefixed with `BSPO` (standardized to Bioregistry
+prefix [`bspo`](https://bioregistry.io/bspo)) that
+did not match the standard pattern `^\d{7}$`.
 
-| external_xref     |   usages_count | usages                                                      |
-|-------------------|----------------|-------------------------------------------------------------|
-| `AGR:IND84086009` |              1 | [CHEBI:136643](http://purl.obolibrary.org/obo/CHEBI_136643) |
-| `AGR:IND20386178` |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
-| `AGR:IND84086011` |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
-| `AGR:IND89021681` |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
-| `AGR:IND92003154` |              1 | [CHEBI:136644](http://purl.obolibrary.org/obo/CHEBI_136644) |
-| `AGR:IND43789627` |              1 | [CHEBI:136646](http://purl.obolibrary.org/obo/CHEBI_136646) |
+| external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
+|----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `BSPO:cjm`           |             11 | [BSPO:0000096](http://purl.obolibrary.org/obo/BSPO_0000096), [BSPO:0000097](http://purl.obolibrary.org/obo/BSPO_0000097), [BSPO:0000098](http://purl.obolibrary.org/obo/BSPO_0000098), [BSPO:0000099](http://purl.obolibrary.org/obo/BSPO_0000099), [BSPO:0000100](http://purl.obolibrary.org/obo/BSPO_0000100), ... |
+| `BSPO:PATO_mtg_2009` |              6 | [BSPO:0000120](http://purl.obolibrary.org/obo/BSPO_0000120), [BSPO:0000121](http://purl.obolibrary.org/obo/BSPO_0000121), [BSPO:0000122](http://purl.obolibrary.org/obo/BSPO_0000122), [BSPO:0000123](http://purl.obolibrary.org/obo/BSPO_0000123), [BSPO:0000124](http://purl.obolibrary.org/obo/BSPO_0000124), ... |
 
 ## `CARO`: Common Anatomy Reference Ontology
 
@@ -91,17 +87,6 @@ did not match the standard pattern `^\d+$`.
 | `Geonames:T.TAL`   |              1 | [ENVO:00000194](http://purl.obolibrary.org/obo/ENVO_00000194) |
 | `Geonames:T.RK`    |              1 | [ENVO:00001995](http://purl.obolibrary.org/obo/ENVO_00001995) |
 | `Geonames:T.RKS`   |              1 | [ENVO:00001995](http://purl.obolibrary.org/obo/ENVO_00001995) |
-
-## `Gmelin`: Gmelins Handbuch der anorganischen Chemie
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `Gmelin` (standardized to Bioregistry
-prefix [`gmelin`](https://bioregistry.io/gmelin)) that
-did not match the standard pattern `^[1-9][0-9]{2,6}$`.
-
-| external_xref   |   usages_count | usages                                                    |
-|-----------------|----------------|-----------------------------------------------------------|
-| `Gmelin:485`    |              1 | [CHEBI:15379](http://purl.obolibrary.org/obo/CHEBI_15379) |
 
 ## `HMDB`: Human Metabolome Database
 
@@ -235,7 +220,7 @@ did not match the standard pattern `^B\d+$`.
 
 ## `MA`: Mouse adult gross anatomy
 
-Overall, there were 11 invalid
+Overall, there were 13 invalid
 xrefs to external prefixed with `MA` (standardized to Bioregistry
 prefix [`ma`](https://bioregistry.io/ma)) that
 did not match the standard pattern `^\d+$`.
@@ -243,6 +228,7 @@ did not match the standard pattern `^\d+$`.
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `MA:ma`         |             11 | [ENVO:00000447](http://purl.obolibrary.org/obo/ENVO_00000447), [ENVO:00000873](http://purl.obolibrary.org/obo/ENVO_00000873), [ENVO:00001995](http://purl.obolibrary.org/obo/ENVO_00001995), [ENVO:00002006](http://purl.obolibrary.org/obo/ENVO_00002006), [ENVO:00002047](http://purl.obolibrary.org/obo/ENVO_00002047), ... |
+| `MA:th`         |              2 | [BSPO:0001114](http://purl.obolibrary.org/obo/BSPO_0001114), [BSPO:1000000](http://purl.obolibrary.org/obo/BSPO_1000000)                                                                                                                                                                                                       |
 
 ## `MedDRA`: Medical Dictionary for Regulatory Activities Terminology
 
@@ -388,4 +374,15 @@ did not match the standard pattern `^AT\d+$`.
 | `WWF:AA1306`    |              1 | [ENVO:01001580](http://purl.obolibrary.org/obo/ENVO_01001580) |
 | `WWF:IM1304`    |              1 | [ENVO:01001627](http://purl.obolibrary.org/obo/ENVO_01001627) |
 | `WWF:IM1303`    |              1 | [ENVO:01001628](http://purl.obolibrary.org/obo/ENVO_01001628) |
+
+## `ZFS`: Zebrafish developmental stages ontology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `ZFS` (standardized to Bioregistry
+prefix [`zfs`](https://bioregistry.io/zfs)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `ZFS:finishes`  |              1 | [RO:0002229](http://purl.obolibrary.org/obo/RO_0002229) |
 

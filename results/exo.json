@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:29:12.331684",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/exo.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/exo.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -90,15 +89,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2022-06-29",
-      "version_iri": "http://purl.obolibrary.org/obo/exo/releases/2022-06-29/exo.owl",
+      "version": "http://purl.obolibrary.org/obo/exo/releases/2022-06-29/exo.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

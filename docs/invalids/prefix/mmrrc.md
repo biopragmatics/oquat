@@ -15,6 +15,12 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `MMRRC:MMRRC:006159-UCD` |              1 | [Cellosaurus#CVCL:C321](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C321) |
 | `MMRRC:MMRRC:029773-UCD` |              1 | [Cellosaurus#CVCL:C695](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C695) |
 | `MMRRC:MMRRC:011986-UCD` |              1 | [Cellosaurus#CVCL:E222](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_E222) |
+| `MMRRC:MMRRC:050957-UCD` |              1 | [Cellosaurus#CVCL:J957](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J957) |
+| `MMRRC:MMRRC:050962-UCD` |              1 | [Cellosaurus#CVCL:J958](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J958) |
+| `MMRRC:MMRRC:050960-UCD` |              1 | [Cellosaurus#CVCL:J959](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J959) |
+| `MMRRC:MMRRC:050961-UCD` |              1 | [Cellosaurus#CVCL:J960](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J960) |
+| `MMRRC:MMRRC:050958-UCD` |              1 | [Cellosaurus#CVCL:J961](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J961) |
+| `MMRRC:MMRRC:050959-UCD` |              1 | [Cellosaurus#CVCL:J962](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_J962) |
 | `MMRRC:MMRRC:036879-UCD` |              1 | [Cellosaurus#CVCL:LP16](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_LP16) |
 | `MMRRC:MMRRC:036838-UCD` |              1 | [Cellosaurus#CVCL:LP17](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_LP17) |
 | `MMRRC:MMRRC:036867-UCD` |              1 | [Cellosaurus#CVCL:LP18](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_LP18) |

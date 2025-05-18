@@ -30,6 +30,8 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BCRC:SC81006`  |              1 | [Cellosaurus#CVCL:C108](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C108) |
 | `BCRC:SC81007`  |              1 | [Cellosaurus#CVCL:C109](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C109) |
 | `BCRC:SC81008`  |              1 | [Cellosaurus#CVCL:C110](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C110) |
+| `BCRC:SC81144`  |              1 | [Cellosaurus#CVCL:D3FE](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D3FE) |
+| `BCRC:SC81145`  |              1 | [Cellosaurus#CVCL:D3FF](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D3FF) |
 | `BCRC:08C0057`  |              1 | [Cellosaurus#CVCL:GT20](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_GT20) |
 | `BCRC:08C0044`  |              1 | [Cellosaurus#CVCL:GT21](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_GT21) |
 | `BCRC:SC81023`  |              1 | [Cellosaurus#CVCL:GT24](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_GT24) |
@@ -204,6 +206,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `BCRC:SC81120`  |              1 | [Cellosaurus#CVCL:XD57](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_XD57) |
 | `BCRC:SC81121`  |              1 | [Cellosaurus#CVCL:XD58](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_XD58) |
 | `BCRC:SC81001`  |              1 | [Cellosaurus#CVCL:Y013](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Y013) |
+| `BCRC:SC81143`  |              1 | [Cellosaurus#CVCL:Y013](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Y013) |
 | `BCRC:hESC-TW1` |              1 | [Cellosaurus#CVCL:Y013](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Y013) |
 | `BCRC:SC81003`  |              1 | [Cellosaurus#CVCL:Y015](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Y015) |
 | `BCRC:SC81005`  |              1 | [Cellosaurus#CVCL:Y017](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_Y017) |

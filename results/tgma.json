@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:59:57.424103",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/tgma.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/tgma.owl",
@@ -49,6 +47,7 @@
             "PubMed:PMID:15857775"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -68,6 +67,7 @@
             "ISBN:0-937548-00-6."
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -79,10 +79,10 @@
           }
         }
       },
-      "version": "2013-06-03",
-      "version_iri": "http://purl.obolibrary.org/obo/tgma/releases/2013-06-03/tgma.owl",
+      "version": "http://purl.obolibrary.org/obo/tgma/releases/2013-06-03/tgma.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

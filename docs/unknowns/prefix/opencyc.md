@@ -1,36 +1,5 @@
 # `opencyc`
 
-## bao
-
-| curie                              |   usages | nodes                                                           |
-|------------------------------------|----------|-----------------------------------------------------------------|
-| OpenCyc:Mx4rvVipEJwpEbGdrcN5Y29ycA |        1 | [UBERON:0000002](http://purl.obolibrary.org/obo/UBERON_0000002) |
-| OpenCyc:Mx4rvhmm6JwpEbGdrcN5Y29ycA |        1 | [UBERON:0000056](http://purl.obolibrary.org/obo/UBERON_0000056) |
-| OpenCyc:Mx4rvVjI8JwpEbGdrcN5Y29ycA |        1 | [UBERON:0000178](http://purl.obolibrary.org/obo/UBERON_0000178) |
-| OpenCyc:Mx4rvVjV7ZwpEbGdrcN5Y29ycA |        1 | [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) |
-| OpenCyc:Mx4rvVjM25wpEbGdrcN5Y29ycA |        1 | [UBERON:0000473](http://purl.obolibrary.org/obo/UBERON_0000473) |
-| OpenCyc:Mx4rvVjlqpwpEbGdrcN5Y29ycA |        1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
-| OpenCyc:Mx4rvVjT65wpEbGdrcN5Y29ycA |        1 | [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) |
-| OpenCyc:Mx4rvVi9QJwpEbGdrcN5Y29ycA |        1 | [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) |
-| OpenCyc:Mx4rvViojJwpEbGdrcN5Y29ycA |        1 | [UBERON:0000995](http://purl.obolibrary.org/obo/UBERON_0000995) |
-| OpenCyc:Mx4rvgAWeJwpEbGdrcN5Y29ycA |        1 | [UBERON:0000997](http://purl.obolibrary.org/obo/UBERON_0000997) |
-| OpenCyc:Mx4rvViT_pwpEbGdrcN5Y29ycA |        1 | [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) |
-| OpenCyc:Mx4rvVj9Q5wpEbGdrcN5Y29ycA |        1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
-| OpenCyc:Mx4rvVjMmZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) |
-| OpenCyc:Mx4rvVimZZwpEbGdrcN5Y29ycA |        1 | [UBERON:0001264](http://purl.obolibrary.org/obo/UBERON_0001264) |
-| OpenCyc:Mx4rvVkCG5wpEbGdrcN5Y29ycA |        1 | [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) |
-| OpenCyc:Mx4rEg4ZYrIbEduAAAAOpmP6tw |        1 | [UBERON:0001969](http://purl.obolibrary.org/obo/UBERON_0001969) |
-| OpenCyc:Mx4rvVjLT5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) |
-| OpenCyc:Mx4rvVjKy5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) |
-| OpenCyc:Mx4rvVjX3ZwpEbGdrcN5Y29ycA |        1 | [UBERON:0002097](http://purl.obolibrary.org/obo/UBERON_0002097) |
-| OpenCyc:Mx4rvVimppwpEbGdrcN5Y29ycA |        1 | [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) |
-| OpenCyc:Mx4rvVkGr5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) |
-| OpenCyc:Mx4rvVjlYpwpEbGdrcN5Y29ycA |        1 | [UBERON:0002113](http://purl.obolibrary.org/obo/UBERON_0002113) |
-| OpenCyc:Mx4rv4LJDpwpEbGdrcN5Y29ycA |        1 | [UBERON:0002114](http://purl.obolibrary.org/obo/UBERON_0002114) |
-| OpenCyc:Mx4rv6trqZwpEbGdrcN5Y29ycA |        1 | [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) |
-| OpenCyc:Mx4rvXYiz5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) |
-| OpenCyc:Mx4rvpDOU5wpEbGdrcN5Y29ycA |        1 | [UBERON:0002391](http://purl.obolibrary.org/obo/UBERON_0002391) |
-
 ## icdo
 
 | curie                                                          |   usages | nodes                                                                                                                            |

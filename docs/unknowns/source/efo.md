@@ -18,7 +18,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                        |
 |-------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MONDORULE:1 |       17 | [EFO:0000248](http://www.ebi.ac.uk/efo/EFO_0000248), [EFO:0000437](http://www.ebi.ac.uk/efo/EFO_0000437), [EFO:0000640](http://www.ebi.ac.uk/efo/EFO_0000640), [EFO:0003047](http://www.ebi.ac.uk/efo/EFO_0003047), [EFO:0004197](http://www.ebi.ac.uk/efo/EFO_0004197), ... |
+| MONDORULE:1 |       18 | [EFO:0000248](http://www.ebi.ac.uk/efo/EFO_0000248), [EFO:0000437](http://www.ebi.ac.uk/efo/EFO_0000437), [EFO:0000640](http://www.ebi.ac.uk/efo/EFO_0000640), [EFO:0003047](http://www.ebi.ac.uk/efo/EFO_0003047), [EFO:0004197](http://www.ebi.ac.uk/efo/EFO_0004197), ... |
 | MONDORULE:2 |        2 | [EFO:0009059](http://www.ebi.ac.uk/efo/EFO_0009059), [EFO:0009160](http://www.ebi.ac.uk/efo/EFO_0009160)                                                                                                                                                                     |
 
 ## `MTH`
@@ -54,7 +54,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 ## `ICD10EXP`
 
-There are 14 usages of `ICD10EXP` in `efo`.
+There are 15 usages of `ICD10EXP` in `efo`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ICD10EXP).
 
@@ -71,6 +71,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ICD10EXP:H19.1* |        1 | [EFO:0007308](http://www.ebi.ac.uk/efo/EFO_0007308) |
 | ICD10EXP:J17.3* |        1 | [EFO:0007448](http://www.ebi.ac.uk/efo/EFO_0007448) |
 | ICD10EXP:E35.1* |        1 | [EFO:0007544](http://www.ebi.ac.uk/efo/EFO_0007544) |
+| ICD10EXP:L12+   |        1 | [EFO:0008610](http://www.ebi.ac.uk/efo/EFO_0008610) |
 | ICD10EXP:M09.0* |        1 | [EFO:0009733](http://www.ebi.ac.uk/efo/EFO_0009733) |
 | ICD10EXP:G01*   |        1 | [EFO:1001040](http://www.ebi.ac.uk/efo/EFO_1001040) |
 | ICD10EXP:L99.0* |        1 | [EFO:1001882](http://www.ebi.ac.uk/efo/EFO_1001882) |

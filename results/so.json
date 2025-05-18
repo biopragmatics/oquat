@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:59:35.836707",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/so.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/so.owl",
@@ -4066,6 +4064,7 @@
             "SO:ke"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -4112,6 +4111,10 @@
             "http://purl.obolibrary.org/obo/SO_1000161": "FB:reference_manual",
             "http://purl.obolibrary.org/obo/SO_1000162": "FB:reference_manual",
             "http://purl.obolibrary.org/obo/SO_1000171": "FB:reference_manual"
+          },
+          "JAX": {
+            "http://purl.obolibrary.org/obo/SO_0001500": "JAX:hdene",
+            "http://purl.obolibrary.org/obo/SO_0001841": "JAX:hd"
           },
           "MGD": {
             "http://purl.obolibrary.org/obo/SO_0001644": "MGD:tm"
@@ -4665,6 +4668,7 @@
             "uniprot:feature"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -4690,45 +4694,21 @@
             "http://purl.obolibrary.org/obo/SO_0001634": "ftp://ftp.ncbi.nih.gov/snp/specs/docsum_3.1.xsd",
             "http://purl.obolibrary.org/obo/SO_0001636": "ftp://ftp.ncbi.nih.gov/snp/specs/docsum_3.1.xsd",
             "http://purl.obolibrary.org/obo/SO_0001819": "ftp://ftp.ncbi.nih.gov/snp/specs/docsum_3.1.xsd"
-          },
-          "unirot": {
-            "http://purl.obolibrary.org/obo/SO_0001971": "unirot:features"
           }
         }
       },
-      "version": "2021-11-22",
-      "version_iri": "http://purl.obolibrary.org/obo/so/2021-11-22/so.owl",
+      "version": "http://purl.obolibrary.org/obo/so/2024-11-18/so.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
-        "noncanonical_prefixes": {},
-        "unknown_prefixes": {
-          "EBI": {
-            "http://purl.obolibrary.org/obo/SO_0001568": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001569": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001573": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001576": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001580": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001582": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001583": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001585": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001586": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001598": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001604": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001605": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001606": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001609": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001617": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html",
-            "http://purl.obolibrary.org/obo/SO_0001819": "EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html"
-          },
-          "WIKI": {
-            "http://purl.obolibrary.org/obo/SO_0002119": "WIKI:https://en.wikipedia.org/wiki/Allele_frequency"
-          },
-          "XX": {
-            "http://purl.obolibrary.org/obo/SO_0001620": "XX:www.ensembl.org/info/genome/variation/predicted_data.html#consequences"
+        "noncanonical_prefixes": {
+          "wikipedia": {
+            "http://purl.obolibrary.org/obo/SO_0002119": "wikipedia:Allele_frequency"
           }
-        }
+        },
+        "unknown_prefixes": {}
       }
     }
   }

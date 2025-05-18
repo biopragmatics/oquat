@@ -1,27 +1,31 @@
 {
-  "created": "2023-12-07T09:11:09.628759",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/aism.json": {
       "graph_id": "http://purl.obolibrary.org/obo/aism.json",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
-        "malformed_curies": {},
+        "malformed_curies": {
+          "http://purl.obolibrary.org/obo/AISM_0004317": [
+            "Oxford Languages through Google."
+          ]
+        },
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2023-04-14",
-      "version_iri": "http://purl.obolibrary.org/obo/aism/releases/2023-04-14/aism.json",
+      "version": "http://purl.obolibrary.org/obo/aism/releases/2025-03-18/aism.json",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

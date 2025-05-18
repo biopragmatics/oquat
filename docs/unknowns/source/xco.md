@@ -10,7 +10,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | American_Heritage:The_American_Heritage_Medical_Dictionary_2007                    |       40 | [XCO:0000046](http://purl.obolibrary.org/obo/XCO_0000046), [XCO:0000052](http://purl.obolibrary.org/obo/XCO_0000052), [XCO:0000055](http://purl.obolibrary.org/obo/XCO_0000055), [XCO:0000139](http://purl.obolibrary.org/obo/XCO_0000139), [XCO:0000167](http://purl.obolibrary.org/obo/XCO_0000167), ... |
 | American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--4th_Ed |       22 | [XCO:0000043](http://purl.obolibrary.org/obo/XCO_0000043), [XCO:0000135](http://purl.obolibrary.org/obo/XCO_0000135), [XCO:0000159](http://purl.obolibrary.org/obo/XCO_0000159), [XCO:0000163](http://purl.obolibrary.org/obo/XCO_0000163), [XCO:0000233](http://purl.obolibrary.org/obo/XCO_0000233), ... |
-| American_Heritage:The_American_Heritage_Science_Dictionary_2005                    |       13 | [XCO:0000023](http://purl.obolibrary.org/obo/XCO_0000023), [XCO:0000088](http://purl.obolibrary.org/obo/XCO_0000088), [XCO:0000089](http://purl.obolibrary.org/obo/XCO_0000089), [XCO:0000103](http://purl.obolibrary.org/obo/XCO_0000103), [XCO:0000104](http://purl.obolibrary.org/obo/XCO_0000104), ... |
+| American_Heritage:The_American_Heritage_Science_Dictionary_2005                    |       12 | [XCO:0000023](http://purl.obolibrary.org/obo/XCO_0000023), [XCO:0000089](http://purl.obolibrary.org/obo/XCO_0000089), [XCO:0000103](http://purl.obolibrary.org/obo/XCO_0000103), [XCO:0000104](http://purl.obolibrary.org/obo/XCO_0000104), [XCO:0000149](http://purl.obolibrary.org/obo/XCO_0000149), ... |
 | American_Heritage:The_American_Heritage_Dictionary_of_the_English_Language--5th_Ed |        3 | [XCO:0000502](http://purl.obolibrary.org/obo/XCO_0000502), [XCO:0000503](http://purl.obolibrary.org/obo/XCO_0000503), [XCO:0000526](http://purl.obolibrary.org/obo/XCO_0000526)                                                                                                                            |
 
 ## `Cambridge`
@@ -31,7 +31,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie                                     |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |-------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Collins:Collins_Online_English_Dictionary |       18 | [XCO:0000027](http://purl.obolibrary.org/obo/XCO_0000027), [XCO:0000053](http://purl.obolibrary.org/obo/XCO_0000053), [XCO:0000054](http://purl.obolibrary.org/obo/XCO_0000054), [XCO:0000088](http://purl.obolibrary.org/obo/XCO_0000088), [XCO:0000089](http://purl.obolibrary.org/obo/XCO_0000089), ... |
+| Collins:Collins_Online_English_Dictionary |       17 | [XCO:0000027](http://purl.obolibrary.org/obo/XCO_0000027), [XCO:0000053](http://purl.obolibrary.org/obo/XCO_0000053), [XCO:0000054](http://purl.obolibrary.org/obo/XCO_0000054), [XCO:0000089](http://purl.obolibrary.org/obo/XCO_0000089), [XCO:0000117](http://purl.obolibrary.org/obo/XCO_0000117), ... |
 
 ## `Dorland`
 
@@ -41,7 +41,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie                                                    |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |----------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed |      151 | [XCO:0000001](http://purl.obolibrary.org/obo/XCO_0000001), [XCO:0000002](http://purl.obolibrary.org/obo/XCO_0000002), [XCO:0000009](http://purl.obolibrary.org/obo/XCO_0000009), [XCO:0000011](http://purl.obolibrary.org/obo/XCO_0000011), [XCO:0000013](http://purl.obolibrary.org/obo/XCO_0000013), ... |
+| Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed |      149 | [XCO:0000001](http://purl.obolibrary.org/obo/XCO_0000001), [XCO:0000002](http://purl.obolibrary.org/obo/XCO_0000002), [XCO:0000011](http://purl.obolibrary.org/obo/XCO_0000011), [XCO:0000013](http://purl.obolibrary.org/obo/XCO_0000013), [XCO:0000019](http://purl.obolibrary.org/obo/XCO_0000019), ... |
 
 ## `Encarta`
 
@@ -74,6 +74,16 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |-----------------------------|----------|-----------------------------------------------------------|
 | Fink:Encyclopedia_of_Stress |        1 | [XCO:0000189](http://purl.obolibrary.org/obo/XCO_0000189) |
 
+## `GSE`
+
+There are 1 usages of `GSE` in `xco`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20GSE).
+
+| curie      |   usages | nodes                                                                                                                |
+|------------|----------|----------------------------------------------------------------------------------------------------------------------|
+| GSE:242155 |        2 | [XCO:0001618](http://purl.obolibrary.org/obo/XCO_0001618), [XCO:0001619](http://purl.obolibrary.org/obo/XCO_0001619) |
+
 ## `Gale`
 
 There are 2 usages of `Gale` in `xco`.
@@ -94,16 +104,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | curie                                                         |   usages | nodes                                                     |
 |---------------------------------------------------------------|----------|-----------------------------------------------------------|
 | McGraw-Hill:McGraw-Hill_Concise_Dictionary_of_Modern_Medicine |        1 | [XCO:0000389](http://purl.obolibrary.org/obo/XCO_0000389) |
-
-## `Merriam-Webster`
-
-There are 1 usages of `Merriam-Webster` in `xco`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Merriam-Webster).
-
-| curie                                                       |   usages | nodes                                                                                                                                                                                                                                                                                                      |
-|-------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed |       12 | [XCO:0000057](http://purl.obolibrary.org/obo/XCO_0000057), [XCO:0000100](http://purl.obolibrary.org/obo/XCO_0000100), [XCO:0000239](http://purl.obolibrary.org/obo/XCO_0000239), [XCO:0000320](http://purl.obolibrary.org/obo/XCO_0000320), [XCO:0000321](http://purl.obolibrary.org/obo/XCO_0000321), ... |
 
 ## `Miller-Keane`
 
@@ -136,15 +136,26 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | Mosby:Mosbys_Medical_Dictionary--8th_Ed |       69 | [XCO:0000021](http://purl.obolibrary.org/obo/XCO_0000021), [XCO:0000042](http://purl.obolibrary.org/obo/XCO_0000042), [XCO:0000047](http://purl.obolibrary.org/obo/XCO_0000047), [XCO:0000048](http://purl.obolibrary.org/obo/XCO_0000048), [XCO:0000049](http://purl.obolibrary.org/obo/XCO_0000049), ... |
 | Mosby:Mosbys_Dental_Dictionary--2nd_Ed  |        2 | [XCO:0000341](http://purl.obolibrary.org/obo/XCO_0000341), [XCO:0000373](http://purl.obolibrary.org/obo/XCO_0000373)                                                                                                                                                                                       |
 
+## `NBK`
+
+There are 1 usages of `NBK` in `xco`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NBK).
+
+| curie      |   usages | nodes                                                     |
+|------------|----------|-----------------------------------------------------------|
+| NBK:554519 |        1 | [XCO:0001468](http://purl.obolibrary.org/obo/XCO_0001468) |
+
 ## `NCBI`
 
-There are 1 usages of `NCBI` in `xco`.
+There are 2 usages of `NCBI` in `xco`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NCBI).
 
 | curie           |   usages | nodes                                                     |
 |-----------------|----------|-----------------------------------------------------------|
-| NCBI:txid419947 |        1 | [XCO:0001037](http://purl.obolibrary.org/obo/XCO_0001037) |
+| NCBI:txid2      |        1 | [XCO:0001212](http://purl.obolibrary.org/obo/XCO_0001212) |
+| NCBI:txid387661 |        1 | [XCO:0001213](http://purl.obolibrary.org/obo/XCO_0001213) |
 
 ## `PGA`
 
@@ -155,6 +166,26 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | curie              |   usages | nodes                                                     |
 |--------------------|----------|-----------------------------------------------------------|
 | PGA:Renal_protocol |        1 | [XCO:0000129](http://purl.obolibrary.org/obo/XCO_0000129) |
+
+## `PatentNo`
+
+There are 1 usages of `PatentNo` in `xco`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PatentNo).
+
+| curie                     |   usages | nodes                                                                                                                |
+|---------------------------|----------|----------------------------------------------------------------------------------------------------------------------|
+| PatentNo:_US_9,365,574_B2 |        2 | [XCO:0001347](http://purl.obolibrary.org/obo/XCO_0001347), [XCO:0001348](http://purl.obolibrary.org/obo/XCO_0001348) |
+
+## `SID`
+
+There are 1 usages of `SID` in `xco`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20SID).
+
+| curie         |   usages | nodes                                                     |
+|---------------|----------|-----------------------------------------------------------|
+| SID:483925982 |        1 | [XCO:0001188](http://purl.obolibrary.org/obo/XCO_0001188) |
 
 ## `Saunders`
 

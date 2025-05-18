@@ -39,6 +39,19 @@ did not match the standard pattern `^\d+$`.
 |-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `UBERON:cjm`    |              7 | [VSAO:0000076](http://purl.obolibrary.org/obo/VSAO_0000076), [VSAO:0000155](http://purl.obolibrary.org/obo/VSAO_0000155), [VSAO:0000156](http://purl.obolibrary.org/obo/VSAO_0000156), [VSAO:0000303](http://purl.obolibrary.org/obo/VSAO_0000303), [VSAO:0000304](http://purl.obolibrary.org/obo/VSAO_0000304), ... |
 
+## `VSAO`: Vertebrate Skeletal Anatomy Ontology
+
+Overall, there were 83 invalid
+xrefs to external prefixed with `VSAO` (standardized to Bioregistry
+prefix [`vsao`](https://bioregistry.io/vsao)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
+|-----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `VSAO:curator`  |             74 | [VSAO:0000008](http://purl.obolibrary.org/obo/VSAO_0000008), [VSAO:0000009](http://purl.obolibrary.org/obo/VSAO_0000009), [VSAO:0000011](http://purl.obolibrary.org/obo/VSAO_0000011), [VSAO:0000012](http://purl.obolibrary.org/obo/VSAO_0000012), [VSAO:0000019](http://purl.obolibrary.org/obo/VSAO_0000019), ... |
+| `VSAO:NI`       |              7 | [VSAO:0000186](http://purl.obolibrary.org/obo/VSAO_0000186), [VSAO:0005007](http://purl.obolibrary.org/obo/VSAO_0005007), [VSAO:0005010](http://purl.obolibrary.org/obo/VSAO_0005010), [VSAO:0005019](http://purl.obolibrary.org/obo/VSAO_0005019), [VSAO:0005022](http://purl.obolibrary.org/obo/VSAO_0005022), ... |
+| `VSAO:MAH`      |              2 | [VSAO:0000213](http://purl.obolibrary.org/obo/VSAO_0000213), [VSAO:0000215](http://purl.obolibrary.org/obo/VSAO_0000215)                                                                                                                                                                                             |
+
 ## `ZFIN`: Zebrafish Information Network Gene
 
 Overall, there were 3 invalid

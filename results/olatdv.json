@@ -1,8 +1,4 @@
 {
-  "created": "2023-12-07T09:52:51.245919",
-  "messages": [
-    "[olatdv] could not parse OWL from http://purl.obolibrary.org/obo/olatdv.owl"
-  ],
   "results": {
     "http://purl.obolibrary.org/obo/olatdv.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/olatdv.owl",
@@ -147,6 +143,7 @@
             "OlatDv:curators"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -154,6 +151,7 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -161,6 +159,7 @@
       },
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

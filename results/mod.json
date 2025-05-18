@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:45:02.499298",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/mod.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/mod.owl",
@@ -1775,6 +1773,7 @@
             "Unimod:405#S"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -2284,15 +2283,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "1.031.6",
-      "version_iri": "http://purl.obolibrary.org/obo/mod/1.031.6/mod.owl",
+      "version": "http://purl.obolibrary.org/obo/mod/1.031.6/mod.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

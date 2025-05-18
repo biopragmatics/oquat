@@ -185,13 +185,3 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPAC:O,O-diethyl2-chloro--cyanobenzylideneaminooxyphosphonothioate                                                           |        1 | [MIRO:10000108](http://purl.obolibrary.org/obo/MIRO_10000108) |
 | IUPAC:(1R,4S,4aS,5R,6R,7S,8S,8aR)-1,2,3,4,10,10-hexachloro-1,4,4a,5,6,7,8,8a-octahydro-6,7-epoxy-1,4:5,8-dimethanonaphthalene |        1 | [MIRO:10000160](http://purl.obolibrary.org/obo/MIRO_10000160) |
 
-## `biotop`
-
-There are 1 usages of `biotop` in `vsmo`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20biotop).
-
-| curie                      |   usages | nodes                                                       |
-|----------------------------|----------|-------------------------------------------------------------|
-| biotop:ArthropodPopulation |        1 | [VSMO:0000084](http://purl.obolibrary.org/obo/VSMO_0000084) |
-

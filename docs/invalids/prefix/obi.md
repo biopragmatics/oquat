@@ -3,7 +3,7 @@
 This page summarize the different resources that reference `obi`
 but use local unique identifiers that do not match the standard pattern of
 `^\d{7}$`. Of the 6 resources,
-2 variants on the standard prefix were found: ['OBI', 'obi'].
+1 variants on the standard prefix were found: ['OBI'].
 
 ## `efo`: Experimental Factor Ontology
 
@@ -21,6 +21,15 @@ Identifiers for this prefix are given incorrectly in `geno`. See the [GitHub rep
 |-------------------------------------------------|----------------|-------------------------------------------------------------|
 | `OBI:genetic population background information` |              1 | [GENO:0000010](http://purl.obolibrary.org/obo/GENO_0000010) |
 
+## `nif`
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref   |   usages_count | usages                                                          |
+|-----------------|----------------|-----------------------------------------------------------------|
+| `OBI:OBI`       |              1 | [PATO:0001985](http://purl.obolibrary.org/obo/PATO_0001985)     |
+| `OBI:MC`        |              1 | [UBERON:0012125](http://purl.obolibrary.org/obo/UBERON_0012125) |
+
 ## `pato`: Phenotype And Trait Ontology
 
 Identifiers for this prefix are given incorrectly in `pato`. See the [GitHub repository](https://github.com/pato-ontology/pato).
@@ -28,29 +37,6 @@ Identifiers for this prefix are given incorrectly in `pato`. See the [GitHub rep
 | external_xref   |   usages_count | usages                                                      |
 |-----------------|----------------|-------------------------------------------------------------|
 | `OBI:OBI`       |              1 | [PATO:0001985](http://purl.obolibrary.org/obo/PATO_0001985) |
-
-## `pride`: Proteomics Identification Database Ontology
-
-Identifiers for this prefix are given incorrectly in `pride`. See the [GitHub repository](https://github.com/PRIDE-Utilities/pride-ontology).
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
-|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `obi:bp`        |              6 | [OBI:0000094](http://purl.obolibrary.org/obo/OBI_0000094), [OBI:0000417](http://purl.obolibrary.org/obo/OBI_0000417), [OBI:0000443](http://purl.obolibrary.org/obo/OBI_0000443), [OBI:0000796](http://purl.obolibrary.org/obo/OBI_0000796), [OBI:0000838](http://purl.obolibrary.org/obo/OBI_0000838), ... |
-| `obi:prs`       |              6 | [OBI:0000094](http://purl.obolibrary.org/obo/OBI_0000094), [OBI:0000443](http://purl.obolibrary.org/obo/OBI_0000443), [OBI:0302886](http://purl.obolibrary.org/obo/OBI_0302886), [OBI:0302888](http://purl.obolibrary.org/obo/OBI_0302888), [OBI:0302893](http://purl.obolibrary.org/obo/OBI_0302893), ... |
-| `obi:pppb`      |              2 | [OBI:0000070](http://purl.obolibrary.org/obo/OBI_0000070), [OBI:0000185](http://purl.obolibrary.org/obo/OBI_0000185)                                                                                                                                                                                       |
-| `obi:mc`        |              2 | [OBI:0000094](http://purl.obolibrary.org/obo/OBI_0000094), [OBI:0200051](http://purl.obolibrary.org/obo/OBI_0200051)                                                                                                                                                                                       |
-| `obi:ar`        |              2 | [OBI:0000417](http://purl.obolibrary.org/obo/OBI_0000417), [OBI:0000443](http://purl.obolibrary.org/obo/OBI_0000443)                                                                                                                                                                                       |
-| `obi:hp`        |              2 | [OBI:0000443](http://purl.obolibrary.org/obo/OBI_0000443), [OBI:0001032](http://purl.obolibrary.org/obo/OBI_0001032)                                                                                                                                                                                       |
-| `obi:es`        |              2 | [OBI:0001061](http://purl.obolibrary.org/obo/OBI_0001061), [OBI:0001138](http://purl.obolibrary.org/obo/OBI_0001138)                                                                                                                                                                                       |
-| `obi:jq`        |              2 | [OBI:0400064](http://purl.obolibrary.org/obo/OBI_0400064), [OBI:0400065](http://purl.obolibrary.org/obo/OBI_0400065)                                                                                                                                                                                       |
-| `obi:fg`        |              1 | [OBI:0000094](http://purl.obolibrary.org/obo/OBI_0000094)                                                                                                                                                                                                                                                  |
-| `obi:jf`        |              1 | [OBI:0000094](http://purl.obolibrary.org/obo/OBI_0000094)                                                                                                                                                                                                                                                  |
-| `obi:ppb`       |              1 | [OBI:0000443](http://purl.obolibrary.org/obo/OBI_0000443)                                                                                                                                                                                                                                                  |
-| `obi:IEDB`      |              1 | [OBI:0000661](http://purl.obolibrary.org/obo/OBI_0000661)                                                                                                                                                                                                                                                  |
-| `obi:obi`       |              1 | [OBI:0000968](http://purl.obolibrary.org/obo/OBI_0000968)                                                                                                                                                                                                                                                  |
-| `obi:EAGLE-I`   |              1 | [OBI:0001042](http://purl.obolibrary.org/obo/OBI_0001042)                                                                                                                                                                                                                                                  |
-| `obi:em`        |              1 | [OBI:0200051](http://purl.obolibrary.org/obo/OBI_0200051)                                                                                                                                                                                                                                                  |
-| `obi:jm`        |              1 | [OBI:0200051](http://purl.obolibrary.org/obo/OBI_0200051)                                                                                                                                                                                                                                                  |
 
 ## `uberon`: Uber Anatomy Ontology
 

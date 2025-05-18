@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:59:04.197624",
-  "messages": [],
   "results": {
     "http://ccdb.ucsd.edu/SAO/1.2": {
       "graph_id": "http://ccdb.ucsd.edu/SAO/1.2",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,14 +12,15 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "Version 1.2",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

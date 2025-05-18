@@ -1,14 +1,10 @@
 {
-  "created": "2023-12-07T09:56:19.872157",
-  "messages": [
-    "2023-12-07 09:56:19,589 ERROR org.obolibrary.robot.IOHelper - Input ontology contains 1 triple(s) that could not be parsed:",
-    " - _:genid2147483955 <http://www.w3.org/2002/07/owl#oneOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>."
-  ],
   "results": {
     "http://lsdis.cs.uga.edu/projects/glycomics/propreo": {
       "graph_id": "http://lsdis.cs.uga.edu/projects/glycomics/propreo",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -16,6 +12,7 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -23,6 +20,7 @@
       },
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

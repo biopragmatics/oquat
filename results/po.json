@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:56:07.401401",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/po.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/po.owl",
@@ -36,11 +34,17 @@
           "http://purl.obolibrary.org/obo/PO_0006349": [
             "PO:cooperl"
           ],
+          "http://purl.obolibrary.org/obo/PO_0007030": [
+            "PO:cooperl"
+          ],
           "http://purl.obolibrary.org/obo/PO_0008001": [
             "SGN:Naama_Menda"
           ],
           "http://purl.obolibrary.org/obo/PO_0008002": [
             "SGN:Naama_Menda"
+          ],
+          "http://purl.obolibrary.org/obo/PO_0008037": [
+            "PO:cooperl"
           ],
           "http://purl.obolibrary.org/obo/PO_0009011": [
             "PO:cooperl"
@@ -72,6 +76,30 @@
           "http://purl.obolibrary.org/obo/PO_0025208": [
             "PO:cooperl"
           ],
+          "http://purl.obolibrary.org/obo/PO_0025287": [
+            "PO:cooperl"
+          ],
+          "http://purl.obolibrary.org/obo/PO_0025289": [
+            "PO:cooperl"
+          ],
+          "http://purl.obolibrary.org/obo/PO_0025291": [
+            "PO:cooperl"
+          ],
+          "http://purl.obolibrary.org/obo/PO_0025293": [
+            "PO:cooperl"
+          ],
+          "http://purl.obolibrary.org/obo/PO_0025295": [
+            "PO:Laurel_Cooper"
+          ],
+          "http://purl.obolibrary.org/obo/PO_0025297": [
+            "PO:cooperl"
+          ],
+          "http://purl.obolibrary.org/obo/PO_0025301": [
+            "PO:Laurel_Cooper"
+          ],
+          "http://purl.obolibrary.org/obo/PO_0025471": [
+            "PO:cooperl"
+          ],
           "http://purl.obolibrary.org/obo/PO_0025546": [
             "PO:cooperl",
             "PO:curators"
@@ -92,6 +120,9 @@
             "PO:Cooperl"
           ],
           "http://purl.obolibrary.org/obo/PO_0025625": [
+            "PO:cooperl"
+          ],
+          "http://purl.obolibrary.org/obo/PO_0025626": [
             "PO:cooperl"
           ],
           "http://purl.obolibrary.org/obo/PO_0028004": [
@@ -164,6 +195,7 @@
             "PO:cooperl"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -565,7 +597,6 @@
             "http://purl.obolibrary.org/obo/PO_0008028": "Gramene:Chih-Wei_Tung",
             "http://purl.obolibrary.org/obo/PO_0008031": "Gramene:Chih-Wei_Tung",
             "http://purl.obolibrary.org/obo/PO_0008034": "Gramene:Chih-Wei_Tung",
-            "http://purl.obolibrary.org/obo/PO_0008037": "Gramene:Chih-Wei_Tung",
             "http://purl.obolibrary.org/obo/PO_0008039": "Gramene:Chih-Wei_Tung",
             "http://purl.obolibrary.org/obo/PO_0008043": "Gramene:Chih-Wei_Tung",
             "http://purl.obolibrary.org/obo/PO_0008044": "Gramene:Chih-Wei_Tung",
@@ -2012,6 +2043,7 @@
             "PATO:01503"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -5116,14 +5148,14 @@
           }
         }
       },
-      "version": "2023-07-13",
-      "version_iri": "http://purl.obolibrary.org/obo/po/releases/2023-07-13/po.owl",
+      "version": "http://purl.obolibrary.org/obo/po/releases/2024-04-17/po.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/PO_0009008": [
             "PATO:01503"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -6196,6 +6228,7 @@
             "http://purl.obolibrary.org/obo/PO_0025623": "PO_GIT:655",
             "http://purl.obolibrary.org/obo/PO_0025624": "PO_GIT:618",
             "http://purl.obolibrary.org/obo/PO_0025625": "PO_GIT:618",
+            "http://purl.obolibrary.org/obo/PO_0025626": "PO_GIT:641",
             "http://purl.obolibrary.org/obo/PO_0028002": "PO_GIT:68",
             "http://purl.obolibrary.org/obo/PO_0028003": "PO_GIT:139",
             "http://purl.obolibrary.org/obo/PO_0028005": "PO_GIT:682",

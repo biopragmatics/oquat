@@ -247,16 +247,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | Online:Various_sources                                   |        1 | [PW:0000112](http://purl.obolibrary.org/obo/PW_0000112) |
 | Online:Appl._Env._Microbiology,_2004,_v.70(9),_p4861-70. |        1 | [PW:0000114](http://purl.obolibrary.org/obo/PW_0000114) |
 
-## `PMIM`
-
-There are 1 usages of `PMIM` in `pw`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PMIM).
-
-| curie       |   usages | nodes                                                   |
-|-------------|----------|---------------------------------------------------------|
-| PMIM:266150 |        1 | [PW:0001775](http://purl.obolibrary.org/obo/PW_0001775) |
-
 ## `PW_Dictionary`
 
 There are 2 usages of `PW_Dictionary` in `pw`.

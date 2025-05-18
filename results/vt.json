@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T10:05:02.571927",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/vt.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/vt.owl",
@@ -2258,6 +2256,237 @@
           "http://purl.obolibrary.org/obo/VT_0011070": [
             "RGD:cur"
           ],
+          "http://purl.obolibrary.org/obo/VT_0011071": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011072": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011073": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011074": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011075": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011076": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011077": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011084": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011085": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011086": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011087": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011088": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011089": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011090": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011091": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011092": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011093": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011094": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011095": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011096": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011097": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011098": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011099": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011100": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011101": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011102": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011103": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011104": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011105": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011106": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011107": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011108": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011109": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011110": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011111": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011112": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011113": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011114": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011115": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011116": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011118": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011119": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011120": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011121": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011122": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011124": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011125": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011126": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011127": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011128": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011130": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011131": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011137": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011138": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011139": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011140": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011149": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011150": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011151": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011152": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011153": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011154": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011155": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011156": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011157": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011158": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011159": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011160": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011161": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011162": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011163": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011165": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011166": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011167": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011168": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011169": [
+            "RGD:cur"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0011170": [
+            "RGD:cur"
+          ],
           "http://purl.obolibrary.org/obo/VT_0015027": [
             "MGI:smb",
             "VTO:CP"
@@ -2737,9 +2966,14 @@
             "RGD:dhm"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
+          "GeneID": {
+            "http://purl.obolibrary.org/obo/VT_0011145": "GeneID:29949",
+            "http://purl.obolibrary.org/obo/VT_0011147": "GeneID:29949"
+          },
           "ISBN ": {
             "http://purl.obolibrary.org/obo/VT_0010440": "ISBN :0805375430"
           },
@@ -2756,7 +2990,7 @@
             "http://purl.obolibrary.org/obo/VT_0015024": "ABO:core"
           },
           "BioON": {
-            "http://purl.obolibrary.org/obo/VT_0000427": "BioON:Biology Online"
+            "http://purl.obolibrary.org/obo/VT_0000427": "BioON:Biology_Online"
           },
           "Dorland": {
             "http://purl.obolibrary.org/obo/VT_0001236": "Dorland:Dorlands Illustrated Medical Dictionary 31st Ed",
@@ -2792,7 +3026,11 @@
             "http://purl.obolibrary.org/obo/VT_0011002": "MPD:cur",
             "http://purl.obolibrary.org/obo/VT_0011003": "MPD:cur",
             "http://purl.obolibrary.org/obo/VT_0011004": "MPD:cur",
-            "http://purl.obolibrary.org/obo/VT_0011006": "MPD:cur"
+            "http://purl.obolibrary.org/obo/VT_0011006": "MPD:cur",
+            "http://purl.obolibrary.org/obo/VT_0011133": "MPD:cur",
+            "http://purl.obolibrary.org/obo/VT_0011134": "MPD:cur",
+            "http://purl.obolibrary.org/obo/VT_0011135": "MPD:cur",
+            "http://purl.obolibrary.org/obo/VT_0011136": "MPD:cur"
           },
           "Mosby": {
             "http://purl.obolibrary.org/obo/VT_0002796": "Mosby:Mosbys Medical Dictionary 8th Ed"
@@ -2868,13 +3106,26 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
+      "version": "http://purl.obolibrary.org/obo/vt/releases/2025-05-05/vt.owl",
       "xref_pack": {
-        "invalid_luids": {},
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/VT_0000188": [
+            "EFO:004465"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0001586": [
+            "EFO:00004305"
+          ],
+          "http://purl.obolibrary.org/obo/VT_0010504": [
+            "EFO:00022296"
+          ]
+        },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

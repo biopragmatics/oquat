@@ -41,6 +41,16 @@ Identifiers for this prefix are given incorrectly in `fypo`. See the [GitHub rep
 |----------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `SGD:phenotype_annotation` |            292 | [FYPO:0000005](http://purl.obolibrary.org/obo/FYPO_0000005), [FYPO:0000008](http://purl.obolibrary.org/obo/FYPO_0000008), [FYPO:0000011](http://purl.obolibrary.org/obo/FYPO_0000011), [FYPO:0000012](http://purl.obolibrary.org/obo/FYPO_0000012), [FYPO:0000023](http://purl.obolibrary.org/obo/FYPO_0000023), ... |
 
+## `nif`
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
+|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `SGD:jd`        |              6 | [SO:0002001](http://purl.obolibrary.org/obo/SO_0002001), [SO:0002002](http://purl.obolibrary.org/obo/SO_0002002), [SO:0002003](http://purl.obolibrary.org/obo/SO_0002003), [SO:0002004](http://purl.obolibrary.org/obo/SO_0002004), [SO:0002024](http://purl.obolibrary.org/obo/SO_0002024), ... |
+| `SGD:rb`        |              3 | [SO:0000236](http://purl.obolibrary.org/obo/SO_0000236), [SO:0000717](http://purl.obolibrary.org/obo/SO_0000717), [SO:0000718](http://purl.obolibrary.org/obo/SO_0000718)                                                                                                                        |
+| `SGD:se`        |              3 | [SO:0002048](http://purl.obolibrary.org/obo/SO_0002048), [SO:0002059](http://purl.obolibrary.org/obo/SO_0002059), [SO:0005853](http://purl.obolibrary.org/obo/SO_0005853)                                                                                                                        |
+
 ## `so`: Sequence types and features ontology
 
 Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repository](https://github.com/The-Sequence-Ontology/SO-Ontologies).
@@ -50,12 +60,4 @@ Identifiers for this prefix are given incorrectly in `so`. See the [GitHub repos
 | `SGD:jd`        |              6 | [SO:0002001](http://purl.obolibrary.org/obo/SO_0002001), [SO:0002002](http://purl.obolibrary.org/obo/SO_0002002), [SO:0002003](http://purl.obolibrary.org/obo/SO_0002003), [SO:0002004](http://purl.obolibrary.org/obo/SO_0002004), [SO:0002024](http://purl.obolibrary.org/obo/SO_0002024), ... |
 | `SGD:rb`        |              3 | [SO:0000236](http://purl.obolibrary.org/obo/SO_0000236), [SO:0000717](http://purl.obolibrary.org/obo/SO_0000717), [SO:0000718](http://purl.obolibrary.org/obo/SO_0000718)                                                                                                                        |
 | `SGD:se`        |              3 | [SO:0002048](http://purl.obolibrary.org/obo/SO_0002048), [SO:0002059](http://purl.obolibrary.org/obo/SO_0002059), [SO:0005853](http://purl.obolibrary.org/obo/SO_0005853)                                                                                                                        |
-
-## `vario`: Variation Ontology
-
-Identifiers for this prefix are given incorrectly in `vario`.
-
-| external_xref   |   usages_count | usages                                                                                                           |
-|-----------------|----------------|------------------------------------------------------------------------------------------------------------------|
-| `SGD:curators`  |              2 | [VariO:0290](http://purl.obolibrary.org/obo/VariO_0290), [VariO:0291](http://purl.obolibrary.org/obo/VariO_0291) |
 

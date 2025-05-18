@@ -4,7 +4,7 @@
 
 | curie                                     |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |-------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Collins:Collins_Online_English_Dictionary |       18 | [XCO:0000027](http://purl.obolibrary.org/obo/XCO_0000027), [XCO:0000053](http://purl.obolibrary.org/obo/XCO_0000053), [XCO:0000054](http://purl.obolibrary.org/obo/XCO_0000054), [XCO:0000088](http://purl.obolibrary.org/obo/XCO_0000088), [XCO:0000089](http://purl.obolibrary.org/obo/XCO_0000089), ... |
+| Collins:Collins_Online_English_Dictionary |       17 | [XCO:0000027](http://purl.obolibrary.org/obo/XCO_0000027), [XCO:0000053](http://purl.obolibrary.org/obo/XCO_0000053), [XCO:0000054](http://purl.obolibrary.org/obo/XCO_0000054), [XCO:0000089](http://purl.obolibrary.org/obo/XCO_0000089), [XCO:0000117](http://purl.obolibrary.org/obo/XCO_0000117), ... |
 
 ## mmo
 

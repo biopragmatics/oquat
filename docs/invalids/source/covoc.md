@@ -84,18 +84,6 @@ did not match the standard pattern `^G(PL|SM|SE|DS)\d+$`.
 |-----------------|----------------|---------------------------------------------------------------|
 | `GEO:000000374` |              1 | [COVOC:0070006](http://purl.obolibrary.org/obo/COVOC_0070006) |
 
-## `Gmelin`: Gmelins Handbuch der anorganischen Chemie
-
-Overall, there were 2 invalid
-xrefs to external prefixed with `Gmelin` (standardized to Bioregistry
-prefix [`gmelin`](https://bioregistry.io/gmelin)) that
-did not match the standard pattern `^[1-9][0-9]{2,6}$`.
-
-| external_xref   |   usages_count | usages                                                    |
-|-----------------|----------------|-----------------------------------------------------------|
-| `Gmelin:485`    |              1 | [CHEBI:15379](http://purl.obolibrary.org/obo/CHEBI_15379) |
-| `Gmelin:509`    |              1 | [CHEBI:16240](http://purl.obolibrary.org/obo/CHEBI_16240) |
-
 ## `HPO`: Human Phenotype Ontology
 
 Overall, there were 20 invalid
@@ -179,17 +167,6 @@ did not match the standard pattern `^\d{7}$`.
 | `MONDO:cjm`                                           |              1 | [MONDO:0004995](http://purl.obolibrary.org/obo/MONDO_0004995)                                                                                                                               |
 | `MONDO:patterns/chronic`                              |              1 | [MONDO:0005002](http://purl.obolibrary.org/obo/MONDO_0005002)                                                                                                                               |
 | `MONDO:Lexical`                                       |              1 | [MONDO:0007186](http://purl.obolibrary.org/obo/MONDO_0007186)                                                                                                                               |
-
-## `NCIT`: NCI Thesaurus
-
-Overall, there were 6 invalid
-xrefs to external prefixed with `NCIT` (standardized to Bioregistry
-prefix [`ncit`](https://bioregistry.io/ncit)) that
-did not match the standard pattern `^[CRPA]\d+$`.
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
-|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `NCIT:P378`     |              6 | [MONDO:0005002](http://purl.obolibrary.org/obo/MONDO_0005002), [MONDO:0005015](http://purl.obolibrary.org/obo/MONDO_0005015), [MONDO:0005091](http://purl.obolibrary.org/obo/MONDO_0005091), [MONDO:0005108](http://purl.obolibrary.org/obo/MONDO_0005108), [MONDO:0005249](http://purl.obolibrary.org/obo/MONDO_0005249), ... |
 
 ## `NIF_Subcellular`: NIF Standard Ontology: Subcellular Entities
 

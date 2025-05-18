@@ -1,5 +1,11 @@
 # `nbk`
 
+## xco
+
+| curie      |   usages | nodes                                                     |
+|------------|----------|-----------------------------------------------------------|
+| NBK:554519 |        1 | [XCO:0001468](http://purl.obolibrary.org/obo/XCO_0001468) |
+
 ## eco
 
 | curie      |   usages | nodes                                                                                                                                                                           |

@@ -7,6 +7,13 @@
 | IMG:01449 |        1 | [GO:0043745](http://purl.obolibrary.org/obo/GO_0043745) |
 | IMG:01450 |        1 | [GO:0043746](http://purl.obolibrary.org/obo/GO_0043746) |
 
+## nif
+
+| curie     |   usages | nodes                                                   |
+|-----------|----------|---------------------------------------------------------|
+| IMG:01449 |        1 | [GO:0043745](http://purl.obolibrary.org/obo/GO_0043745) |
+| IMG:01450 |        1 | [GO:0043746](http://purl.obolibrary.org/obo/GO_0043746) |
+
 ## cco
 
 | curie     |   usages | nodes                                                                                                            |

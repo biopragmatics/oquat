@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:12:48.895234",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/bto.json": {
       "graph_id": "http://purl.obolibrary.org/obo/bto.json",
@@ -343,6 +341,7 @@
             "PMID: 9522462"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -4490,17 +4489,6 @@
           "West_Virginia_University_Anatomy_Department_Beresford_Histology_Chapter_11_Central_Nervous_System": {
             "http://purl.obolibrary.org/obo/BTO_0000401": "West_Virginia_University_Anatomy_Department_Beresford_Histology_Chapter_11_Central_Nervous_System:http://wberesford.hsc.wvu.edu/histolch11.htm"
           },
-          "Wiktionary": {
-            "http://purl.obolibrary.org/obo/BTO_0002344": "Wiktionary:https://en.wiktionary.org/wiki/",
-            "http://purl.obolibrary.org/obo/BTO_0005783": "Wiktionary:https://en.wiktionary.org/wiki/",
-            "http://purl.obolibrary.org/obo/BTO_0005841": "Wiktionary:https://en.wiktionary.org/wiki/",
-            "http://purl.obolibrary.org/obo/BTO_0005842": "Wiktionary:https://en.wiktionary.org/wiki/",
-            "http://purl.obolibrary.org/obo/BTO_0005957": "Wiktionary:https://en.wiktionary.org/wiki/",
-            "http://purl.obolibrary.org/obo/BTO_0006116": "Wiktionary:https://en.wiktionary.org/wiki/",
-            "http://purl.obolibrary.org/obo/BTO_0006330": "Wiktionary:https://en.wiktionary.org/wiki/",
-            "http://purl.obolibrary.org/obo/BTO_0006331": "Wiktionary:https://en.wiktionary.org/wiki/",
-            "http://purl.obolibrary.org/obo/BTO_0006346": "Wiktionary:https://en.wiktionary.org/wiki/"
-          },
           "Wormatlas": {
             "http://purl.obolibrary.org/obo/BTO_0004719": "Wormatlas:http://www.wormatlas.org/",
             "http://purl.obolibrary.org/obo/BTO_0004876": "Wormatlas:http://www.wormatlas.org/",
@@ -4594,15 +4582,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "releases",
-      "version_iri": "http://purl.obolibrary.org/obo/bto/releases/2021-10-26",
+      "version": "http://purl.obolibrary.org/obo/bto/releases/2021-10-26",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

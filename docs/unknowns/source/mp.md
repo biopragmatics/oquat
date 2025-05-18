@@ -283,12 +283,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 ## `url`
 
-There are 20 usages of `url` in `mp`.
+There are 19 usages of `url` in `mp`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url).
-
-<details>
-<summary>Click to expand the `url` table</summary>
 
 | curie                                                                                                                        |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |------------------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -306,14 +303,11 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | url:https://www.cancer.gov/publications/dictionaries/cancer-terms/def/renal-pelvis                                           |        1 | [MP:0004194](http://purl.obolibrary.org/obo/MP_0004194)                                                                                                                                                                                                                                          |
 | url:https://medical-dictionary.thefreedictionary.com/bifid+tongue                                                            |        1 | [MP:0009909](http://purl.obolibrary.org/obo/MP_0009909)                                                                                                                                                                                                                                          |
 | url:https://radiopaedia.org/articles/vertebral-artery                                                                        |        1 | [MP:0013914](http://purl.obolibrary.org/obo/MP_0013914)                                                                                                                                                                                                                                          |
-| url:https://radiopaedia.org/articles/internal-carotid-artery-1                                                               |        1 | [MP:0013998](http://purl.obolibrary.org/obo/MP_0013998)                                                                                                                                                                                                                                          |
 | url:http://medical-dictionary.thefreedictionary.com/karyomegaly                                                              |        1 | [MP:0020427](http://purl.obolibrary.org/obo/MP_0020427)                                                                                                                                                                                                                                          |
 | url:https://ntp.niehs.nih.gov/nnl/male_reproductive/testis/setubmgcel/index.htm                                              |        1 | [MP:0020550](http://purl.obolibrary.org/obo/MP_0020550)                                                                                                                                                                                                                                          |
 | url:http://braininfo.rprc.washington.edu/centraldirectory.aspx?ID=1345                                                       |        1 | [MP:0020564](http://purl.obolibrary.org/obo/MP_0020564)                                                                                                                                                                                                                                          |
 | url:http://braininfo.rprc.washington.edu/centraldirectory.aspx?ID=2331                                                       |        1 | [MP:0020568](http://purl.obolibrary.org/obo/MP_0020568)                                                                                                                                                                                                                                          |
 | url:https://medical-dictionary.thefreedictionary.com/acute+undifferentiated+leukemia                                         |        1 | [MP:0020839](http://purl.obolibrary.org/obo/MP_0020839)                                                                                                                                                                                                                                          |
-
-</details>
 
 ## `zillmusom`
 

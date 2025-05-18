@@ -1,0 +1,32 @@
+{
+  "results": {
+    "http://www.semanticweb.com/OntoRxn": {
+      "graph_id": "http://www.semanticweb.com/OntoRxn",
+      "prov_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "http://www.semanticweb.com/OntoRxn/0.2.5",
+      "xref_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
+    }
+  }
+}

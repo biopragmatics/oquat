@@ -10,6 +10,16 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |---------|----------|----------------------------------------------------------------------------------------------------------------------|
 | GOC:MAH |        2 | [ECO:0000336](http://purl.obolibrary.org/obo/ECO_0000336), [ECO:0001603](http://purl.obolibrary.org/obo/ECO_0001603) |
 
+## `IEDB`
+
+There are 1 usages of `IEDB` in `eco`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IEDB).
+
+| curie          |   usages | nodes                                                                                                                                                                                                                                                                                                      |
+|----------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| IEDB:RandiVita |       49 | [ECO:0006398](http://purl.obolibrary.org/obo/ECO_0006398), [ECO:0008039](http://purl.obolibrary.org/obo/ECO_0008039), [ECO:0008040](http://purl.obolibrary.org/obo/ECO_0008040), [ECO:0008041](http://purl.obolibrary.org/obo/ECO_0008041), [ECO:0008042](http://purl.obolibrary.org/obo/ECO_0008042), ... |
+
 ## `NBK`
 
 There are 4 usages of `NBK` in `eco`.
@@ -90,7 +100,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 ## `url`
 
-There are 125 usages of `url` in `eco`.
+There are 127 usages of `url` in `eco`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20url).
 
@@ -213,6 +223,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | url:https://en.wikipedia.org/wiki/Quantitative_research                                                                                                                                                   |        1 | [ECO:0006343](http://purl.obolibrary.org/obo/ECO_0006343)                                                                                                                                                                                                                                                  |
 | url:https://www.merriam-webster.com/dictionary/sporulation                                                                                                                                                |        1 | [ECO:0006344](http://purl.obolibrary.org/obo/ECO_0006344)                                                                                                                                                                                                                                                  |
 | url:https://en.wikipedia.org/wiki/Bio-layer_interferometry                                                                                                                                                |        1 | [ECO:0006350](http://purl.obolibrary.org/obo/ECO_0006350)                                                                                                                                                                                                                                                  |
+| url:https://www.nature.com/articles/nrg1088                                                                                                                                                               |        1 | [ECO:0006404](http://purl.obolibrary.org/obo/ECO_0006404)                                                                                                                                                                                                                                                  |
 | url:http://www.creative-biolabs.com/drug-discovery/therapeutics/neutralization-assay.htm?gclid=Cj0KEQjwqvvLBRDIt-D7q7iqiOcBEiQAxi68ERRz00a0x9sWSKSLDu7d5-kMi4AdiLNdUq1mXzePdywaArli8P8HAQ)                |        1 | [ECO:0007033](http://purl.obolibrary.org/obo/ECO_0007033)                                                                                                                                                                                                                                                  |
 | url:https://en.wikipedia.org/wiki/Encyclopedia                                                                                                                                                            |        1 | [ECO:0007637](http://purl.obolibrary.org/obo/ECO_0007637)                                                                                                                                                                                                                                                  |
 | url:https://en.wikipedia.org/wiki/Dictionary                                                                                                                                                              |        1 | [ECO:0007641](http://purl.obolibrary.org/obo/ECO_0007641)                                                                                                                                                                                                                                                  |
@@ -224,6 +235,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | url:https://en.wikipedia.org/wiki/String-searching_algorithm                                                                                                                                              |        1 | [ECO:0008011](http://purl.obolibrary.org/obo/ECO_0008011)                                                                                                                                                                                                                                                  |
 | url:https://en.wikipedia.org/wiki/Regular_expression                                                                                                                                                      |        1 | [ECO:0008012](http://purl.obolibrary.org/obo/ECO_0008012)                                                                                                                                                                                                                                                  |
 | url:https://en.wikipedia.org/wiki/Artificial_neural_network                                                                                                                                               |        1 | [ECO:0008013](http://purl.obolibrary.org/obo/ECO_0008013)                                                                                                                                                                                                                                                  |
+| url:https://mobidb.org/                                                                                                                                                                                   |        1 | [ECO:0008032](http://purl.obolibrary.org/obo/ECO_0008032)                                                                                                                                                                                                                                                  |
 
 </details>
 

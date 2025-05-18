@@ -8,7 +8,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ADL:FTT |      190 | [ENVO:00000003](http://purl.obolibrary.org/obo/ENVO_00000003), [ENVO:00000004](http://purl.obolibrary.org/obo/ENVO_00000004), [ENVO:00000005](http://purl.obolibrary.org/obo/ENVO_00000005), [ENVO:00000006](http://purl.obolibrary.org/obo/ENVO_00000006), [ENVO:00000007](http://purl.obolibrary.org/obo/ENVO_00000007), ... |
+| ADL:FTT |      189 | [ENVO:00000003](http://purl.obolibrary.org/obo/ENVO_00000003), [ENVO:00000004](http://purl.obolibrary.org/obo/ENVO_00000004), [ENVO:00000005](http://purl.obolibrary.org/obo/ENVO_00000005), [ENVO:00000006](http://purl.obolibrary.org/obo/ENVO_00000006), [ENVO:00000007](http://purl.obolibrary.org/obo/ENVO_00000007), ... |
 
 ## `ENVOC`
 
@@ -99,7 +99,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie     |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| USGS:SDTS |      176 | [ENVO:00000011](http://purl.obolibrary.org/obo/ENVO_00000011), [ENVO:00000016](http://purl.obolibrary.org/obo/ENVO_00000016), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), [ENVO:00000020](http://purl.obolibrary.org/obo/ENVO_00000020), [ENVO:00000022](http://purl.obolibrary.org/obo/ENVO_00000022), ... |
+| USGS:SDTS |      175 | [ENVO:00000011](http://purl.obolibrary.org/obo/ENVO_00000011), [ENVO:00000016](http://purl.obolibrary.org/obo/ENVO_00000016), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), [ENVO:00000020](http://purl.obolibrary.org/obo/ENVO_00000020), [ENVO:00000022](http://purl.obolibrary.org/obo/ENVO_00000022), ... |
 
 ## `WWW`
 
@@ -111,16 +111,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
 | WWW:http://www.earthonlinemedia.com/ebooks/tpe_3e/title_page.html      |        2 | [ENVO:01000183](http://purl.obolibrary.org/obo/ENVO_01000183), [ENVO:01000184](http://purl.obolibrary.org/obo/ENVO_01000184) |
 | WWW:http://www.fs.fed.us/land/ecosysmgmt/colorimagemap/images/340.html |        1 | [ENVO:01000182](http://purl.obolibrary.org/obo/ENVO_01000182)                                                                |
-
-## `Wiktionary`
-
-There are 1 usages of `Wiktionary` in `envo`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiktionary).
-
-| curie            |   usages | nodes                                                         |
-|------------------|----------|---------------------------------------------------------------|
-| Wiktionary:layer |        1 | [ENVO:01000281](http://purl.obolibrary.org/obo/ENVO_01000281) |
 
 ## `webpage`
 
@@ -222,6 +212,66 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | SPIRE:Polar                 |        1 | [ENVO:01000238](http://purl.obolibrary.org/obo/ENVO_01000238)                                                                                                                                                                                              |
 | SPIRE:Urban                 |        1 | [ENVO:01000249](http://purl.obolibrary.org/obo/ENVO_01000249)                                                                                                                                                                                              |
 | SPIRE:Taiga                 |        1 | [ENVO:01000250](http://purl.obolibrary.org/obo/ENVO_01000250)                                                                                                                                                                                              |
+
+</details>
+
+## `IUCN-PACS`
+
+There are 7 usages of `IUCN-PACS` in `envo`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IUCN-PACS).
+
+| curie         |   usages | nodes                                                         |
+|---------------|----------|---------------------------------------------------------------|
+| IUCN-PACS:II  |        1 | [ENVO:00000367](http://purl.obolibrary.org/obo/ENVO_00000367) |
+| IUCN-PACS:Ia  |        1 | [ENVO:01001162](http://purl.obolibrary.org/obo/ENVO_01001162) |
+| IUCN-PACS:Ib  |        1 | [ENVO:01001163](http://purl.obolibrary.org/obo/ENVO_01001163) |
+| IUCN-PACS:III |        1 | [ENVO:01001165](http://purl.obolibrary.org/obo/ENVO_01001165) |
+| IUCN-PACS:IV  |        1 | [ENVO:01001166](http://purl.obolibrary.org/obo/ENVO_01001166) |
+| IUCN-PACS:V   |        1 | [ENVO:01001172](http://purl.obolibrary.org/obo/ENVO_01001172) |
+| IUCN-PACS:VI  |        1 | [ENVO:01001225](http://purl.obolibrary.org/obo/ENVO_01001225) |
+
+## `METAR`
+
+There are 1 usages of `METAR` in `envo`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20METAR).
+
+| curie      |   usages | nodes                                                         |
+|------------|----------|---------------------------------------------------------------|
+| METAR:FZRA |        1 | [ENVO:01000896](http://purl.obolibrary.org/obo/ENVO_01000896) |
+
+## `NLCD`
+
+There are 20 usages of `NLCD` in `envo`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20NLCD).
+
+<details>
+<summary>Click to expand the `NLCD` table</summary>
+
+| curie   |   usages | nodes                                                         |
+|---------|----------|---------------------------------------------------------------|
+| NLCD:11 |        1 | [ENVO:01000666](http://purl.obolibrary.org/obo/ENVO_01000666) |
+| NLCD:12 |        1 | [ENVO:01000746](http://purl.obolibrary.org/obo/ENVO_01000746) |
+| NLCD:31 |        1 | [ENVO:01000752](http://purl.obolibrary.org/obo/ENVO_01000752) |
+| NLCD:41 |        1 | [ENVO:01000816](http://purl.obolibrary.org/obo/ENVO_01000816) |
+| NLCD:42 |        1 | [ENVO:01000843](http://purl.obolibrary.org/obo/ENVO_01000843) |
+| NLCD:43 |        1 | [ENVO:01000855](http://purl.obolibrary.org/obo/ENVO_01000855) |
+| NLCD:51 |        1 | [ENVO:01000861](http://purl.obolibrary.org/obo/ENVO_01000861) |
+| NLCD:52 |        1 | [ENVO:01000869](http://purl.obolibrary.org/obo/ENVO_01000869) |
+| NLCD:21 |        1 | [ENVO:01000883](http://purl.obolibrary.org/obo/ENVO_01000883) |
+| NLCD:22 |        1 | [ENVO:01000884](http://purl.obolibrary.org/obo/ENVO_01000884) |
+| NLCD:23 |        1 | [ENVO:01000885](http://purl.obolibrary.org/obo/ENVO_01000885) |
+| NLCD:24 |        1 | [ENVO:01000886](http://purl.obolibrary.org/obo/ENVO_01000886) |
+| NLCD:72 |        1 | [ENVO:01000887](http://purl.obolibrary.org/obo/ENVO_01000887) |
+| NLCD:71 |        1 | [ENVO:01000888](http://purl.obolibrary.org/obo/ENVO_01000888) |
+| NLCD:73 |        1 | [ENVO:01000889](http://purl.obolibrary.org/obo/ENVO_01000889) |
+| NLCD:74 |        1 | [ENVO:01000890](http://purl.obolibrary.org/obo/ENVO_01000890) |
+| NLCD:81 |        1 | [ENVO:01000891](http://purl.obolibrary.org/obo/ENVO_01000891) |
+| NLCD:82 |        1 | [ENVO:01000892](http://purl.obolibrary.org/obo/ENVO_01000892) |
+| NLCD:90 |        1 | [ENVO:01000893](http://purl.obolibrary.org/obo/ENVO_01000893) |
+| NLCD:95 |        1 | [ENVO:01000894](http://purl.obolibrary.org/obo/ENVO_01000894) |
 
 </details>
 

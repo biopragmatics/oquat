@@ -79,27 +79,15 @@ did not match the standard pattern `^(C|D|M)\d{6,9}$`.
 
 ## `ORCiD`: Open Researcher and Contributor
 
-Overall, there were 3 invalid
+Overall, there were 2 invalid
 xrefs to external prefixed with `ORCiD` (standardized to Bioregistry
 prefix [`orcid`](https://bioregistry.io/orcid)) that
 did not match the standard pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`.
 
 | external_xref                |   usages_count | usages                                                    |
 |------------------------------|----------------|-----------------------------------------------------------|
-| `ORCiD:000-0002-9900-7880`   |              1 | [ZFA:0000833](http://purl.obolibrary.org/obo/ZFA_0000833) |
 | `ORCiD:CVS`                  |              1 | [ZFA:0001679](http://purl.obolibrary.org/obo/ZFA_0001679) |
 | `ORCiD:0000-0002-2244-7917,` |              1 | [ZFA:0005867](http://purl.obolibrary.org/obo/ZFA_0005867) |
-
-## `ORCID`: Open Researcher and Contributor
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `ORCID` (standardized to Bioregistry
-prefix [`orcid`](https://bioregistry.io/orcid)) that
-did not match the standard pattern `^\d{4}-\d{4}-\d{4}-\d{3}(\d|X)$`.
-
-| external_xref              |   usages_count | usages                                                    |
-|----------------------------|----------------|-----------------------------------------------------------|
-| `ORCID:000-0002-2244-7917` |              1 | [ZFA:0005927](http://purl.obolibrary.org/obo/ZFA_0005927) |
 
 ## `TAO`: Teleost Anatomy Ontology
 
@@ -137,9 +125,20 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------|----------------|-----------------------------------------------------------|
 | `vHOG:curator`  |              1 | [ZFA:0005314](http://purl.obolibrary.org/obo/ZFA_0005314) |
 
+## `VSAO`: Vertebrate Skeletal Anatomy Ontology
+
+Overall, there were 9 invalid
+xrefs to external prefixed with `VSAO` (standardized to Bioregistry
+prefix [`vsao`](https://bioregistry.io/vsao)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `VSAO:curator`  |              9 | [ZFA:0001501](http://purl.obolibrary.org/obo/ZFA_0001501), [ZFA:0001514](http://purl.obolibrary.org/obo/ZFA_0001514), [ZFA:0005494](http://purl.obolibrary.org/obo/ZFA_0005494), [ZFA:0005619](http://purl.obolibrary.org/obo/ZFA_0005619), [ZFA:0005620](http://purl.obolibrary.org/obo/ZFA_0005620), ... |
+
 ## `ZFIN`: Zebrafish Information Network Gene
 
-Overall, there were 5 invalid
+Overall, there were 6 invalid
 xrefs to external prefixed with `ZFIN` (standardized to Bioregistry
 prefix [`zfin`](https://bioregistry.io/zfin)) that
 did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
@@ -148,6 +147,7 @@ did not match the standard pattern `^ZDB\-\w+\-\d+\-\d+$`.
 |----------------------------|----------------|-----------------------------------------------------------|
 | `ZFIN:ZDB-PUB-171118-8v`   |              1 | [ZFA:0000704](http://purl.obolibrary.org/obo/ZFA_0000704) |
 | `ZFIN:ZDB-PUB-120419-3.`   |              1 | [ZFA:0005877](http://purl.obolibrary.org/obo/ZFA_0005877) |
+| `ZFIN:ZDB-PUB-210421-6.`   |              1 | [ZFA:0005962](http://purl.obolibrary.org/obo/ZFA_0005962) |
 | `ZFIN:ZDB-PUB-050623-3.`   |              1 | [ZFA:0001249](http://purl.obolibrary.org/obo/ZFA_0001249) |
 | `ZFIN:ZDB-PUB-961014-192.` |              1 | [ZFA:0001595](http://purl.obolibrary.org/obo/ZFA_0001595) |
 | `ZFIN:ZDB-PUB-050120-6.`   |              1 | [ZFA:0005737](http://purl.obolibrary.org/obo/ZFA_0005737) |

@@ -4,17 +4,6 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `fbcv`. See the [GitHub repository](https://github.com/FlyBase/flybase-controlled-vocabulary).
 
 
-## `Reactome`: Reactome
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `Reactome` (standardized to Bioregistry
-prefix [`reactome`](https://bioregistry.io/reactome)) that
-did not match the standard pattern `^R-[A-Z]{3}-\d+(-\d+)?(\.\d+)?$`.
-
-| external_xref    |   usages_count | usages                                                      |
-|------------------|----------------|-------------------------------------------------------------|
-| `Reactome:69278` |              1 | [FBcv:0000432](http://purl.obolibrary.org/obo/FBcv_0000432) |
-
 ## `SO`: Sequence types and features ontology
 
 Overall, there were 1 invalid

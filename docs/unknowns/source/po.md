@@ -108,7 +108,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Gramene:Pankaj_Jaiswal |      190 | [PO:0000042](http://purl.obolibrary.org/obo/PO_0000042), [PO:0000229](http://purl.obolibrary.org/obo/PO_0000229), [PO:0000230](http://purl.obolibrary.org/obo/PO_0000230), [PO:0005004](http://purl.obolibrary.org/obo/PO_0005004), [PO:0005006](http://purl.obolibrary.org/obo/PO_0005006), ... |
 | Gramene:Anuradha_Pujar |      123 | [PO:0001000](http://purl.obolibrary.org/obo/PO_0001000), [PO:0001027](http://purl.obolibrary.org/obo/PO_0001027), [PO:0001028](http://purl.obolibrary.org/obo/PO_0001028), [PO:0001030](http://purl.obolibrary.org/obo/PO_0001030), [PO:0001047](http://purl.obolibrary.org/obo/PO_0001047), ... |
-| Gramene:Chih-Wei_Tung  |       33 | [PO:0002004](http://purl.obolibrary.org/obo/PO_0002004), [PO:0005008](http://purl.obolibrary.org/obo/PO_0005008), [PO:0007039](http://purl.obolibrary.org/obo/PO_0007039), [PO:0007056](http://purl.obolibrary.org/obo/PO_0007056), [PO:0007058](http://purl.obolibrary.org/obo/PO_0007058), ... |
+| Gramene:Chih-Wei_Tung  |       32 | [PO:0002004](http://purl.obolibrary.org/obo/PO_0002004), [PO:0005008](http://purl.obolibrary.org/obo/PO_0005008), [PO:0007039](http://purl.obolibrary.org/obo/PO_0007039), [PO:0007056](http://purl.obolibrary.org/obo/PO_0007056), [PO:0007058](http://purl.obolibrary.org/obo/PO_0007058), ... |
 
 ## `ISRR`
 
@@ -248,7 +248,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 ## `PO_GIT`
 
-There are 431 usages of `PO_GIT` in `po`.
+There are 432 usages of `PO_GIT` in `po`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20PO_GIT).
 
@@ -650,6 +650,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | PO_GIT:627 |        1 | [PO:0025616](http://purl.obolibrary.org/obo/PO_0025616)                                                                                                                                                                                                                                          |
 | PO_GIT:661 |        1 | [PO:0025619](http://purl.obolibrary.org/obo/PO_0025619)                                                                                                                                                                                                                                          |
 | PO_GIT:655 |        1 | [PO:0025623](http://purl.obolibrary.org/obo/PO_0025623)                                                                                                                                                                                                                                          |
+| PO_GIT:641 |        1 | [PO:0025626](http://purl.obolibrary.org/obo/PO_0025626)                                                                                                                                                                                                                                          |
 | PO_GIT:139 |        1 | [PO:0028003](http://purl.obolibrary.org/obo/PO_0028003)                                                                                                                                                                                                                                          |
 | PO_GIT:682 |        1 | [PO:0028005](http://purl.obolibrary.org/obo/PO_0028005)                                                                                                                                                                                                                                          |
 | PO_GIT:313 |        1 | [PO:0030017](http://purl.obolibrary.org/obo/PO_0030017)                                                                                                                                                                                                                                          |

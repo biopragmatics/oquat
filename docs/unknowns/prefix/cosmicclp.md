@@ -342,6 +342,7 @@
 | Cosmic-CLP:906875  |        1 | [Cellosaurus#CVCL:1234](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1234) |
 | Cosmic-CLP:907291  |        1 | [Cellosaurus#CVCL:1235](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1235) |
 | Cosmic-CLP:906877  |        1 | [Cellosaurus#CVCL:1236](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1236) |
+| Cosmic-CLP:907041  |        1 | [Cellosaurus#CVCL:1237](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1237) |
 | Cosmic-CLP:907290  |        1 | [Cellosaurus#CVCL:1238](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1238) |
 | Cosmic-CLP:907042  |        1 | [Cellosaurus#CVCL:1239](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1239) |
 | Cosmic-CLP:907043  |        1 | [Cellosaurus#CVCL:1240](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1240) |

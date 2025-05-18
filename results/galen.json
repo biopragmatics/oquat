@@ -1,7 +1,31 @@
 {
-  "created": "2023-12-07T09:31:25.420445",
-  "messages": [
-    "[galen] could not parse OWL from http://aber-owl.net/media/ontologies/GALEN/1/galen.owl"
-  ],
-  "results": {}
+  "results": {
+    "http://www.co-ode.org/ontologies/galen": {
+      "graph_id": "http://www.co-ode.org/ontologies/galen",
+      "prov_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "xref_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
+    }
+  }
 }

@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:54:55.084358",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/pba.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/pba.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,6 +12,7 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -20,6 +20,7 @@
       },
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

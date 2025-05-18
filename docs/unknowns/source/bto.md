@@ -1260,16 +1260,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |--------------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------|
 | WO/2007/095583:Methods_for_treating_cancer_and_sensitizing_cancer_cells_using_the_serine_protease_inhibitor_maspin |        1 | [BTO:0004434](http://purl.obolibrary.org/obo/BTO_0004434) |
 
-## `Wiktionary`
-
-There are 1 usages of `Wiktionary` in `bto`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Wiktionary).
-
-| curie                                      |   usages | nodes                                                                                                                                                                                                                                                                                                      |
-|--------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Wiktionary:https://en.wiktionary.org/wiki/ |        9 | [BTO:0002344](http://purl.obolibrary.org/obo/BTO_0002344), [BTO:0005783](http://purl.obolibrary.org/obo/BTO_0005783), [BTO:0005841](http://purl.obolibrary.org/obo/BTO_0005841), [BTO:0005842](http://purl.obolibrary.org/obo/BTO_0005842), [BTO:0005957](http://purl.obolibrary.org/obo/BTO_0005957), ... |
-
 ## `Wormatlas`
 
 There are 1 usages of `Wormatlas` in `bto`.

@@ -26,6 +26,33 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------|----------------|-----------------------------------------------------------------|
 | `CARO:00000041` |              1 | [IDOMAL:0002461](http://purl.obolibrary.org/obo/IDOMAL_0002461) |
 
+## `IDO`: Infectious Disease Ontology
+
+Overall, there were 6 invalid
+xrefs to external prefixed with `IDO` (standardized to Bioregistry
+prefix [`ido`](https://bioregistry.io/ido)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                          |
+|-----------------|----------------|-----------------------------------------------------------------|
+| `IDO:581`       |              1 | [IDOMAL:0000028](http://purl.obolibrary.org/obo/IDOMAL_0000028) |
+| `IDO:424`       |              1 | [IDOMAL:0000058](http://purl.obolibrary.org/obo/IDOMAL_0000058) |
+| `IDO:405`       |              1 | [IDOMAL:0000063](http://purl.obolibrary.org/obo/IDOMAL_0000063) |
+| `IDO:447`       |              1 | [IDOMAL:0000352](http://purl.obolibrary.org/obo/IDOMAL_0000352) |
+| `IDO:443`       |              1 | [IDOMAL:0000995](http://purl.obolibrary.org/obo/IDOMAL_0000995) |
+| `IDO:497`       |              1 | [IDOMAL:0001039](http://purl.obolibrary.org/obo/IDOMAL_0001039) |
+
+## `ido`: Infectious Disease Ontology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `ido` (standardized to Bioregistry
+prefix [`ido`](https://bioregistry.io/ido)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                          |
+|-----------------|----------------|-----------------------------------------------------------------|
+| `ido:1`         |              1 | [IDOMAL:0000128](http://purl.obolibrary.org/obo/IDOMAL_0000128) |
+
 ## `ISBN`: International Standard Book Number
 
 Overall, there were 2 invalid

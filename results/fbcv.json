@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:29:25.247339",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/fbcv.json": {
       "graph_id": "http://purl.obolibrary.org/obo/fbcv.json",
@@ -9,13 +7,11 @@
           "http://purl.obolibrary.org/obo/FBcv_0000002": [
             "WB_REF:cgc467"
           ],
-          "http://purl.obolibrary.org/obo/FBcv_0000432": [
-            "Reactome:69278"
-          ],
           "http://purl.obolibrary.org/obo/FBcv_0003013": [
             "SO:ma"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -878,6 +874,7 @@
             "http://purl.obolibrary.org/obo/FBcv_0007031": "FBC:GM",
             "http://purl.obolibrary.org/obo/FBcv_0007032": "FBC:GM",
             "http://purl.obolibrary.org/obo/FBcv_0007033": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0007034": "FBC:SM",
             "http://purl.obolibrary.org/obo/FBcv_0007035": "FBC:GM",
             "http://purl.obolibrary.org/obo/FBcv_0007038": "FBC:CP",
             "http://purl.obolibrary.org/obo/FBcv_0007039": "FBC:GM",
@@ -894,12 +891,22 @@
             "http://purl.obolibrary.org/obo/FBcv_0007050": "FBC:AO",
             "http://purl.obolibrary.org/obo/FBcv_0007051": "FBC:CP",
             "http://purl.obolibrary.org/obo/FBcv_0007052": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0007053": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0007054": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0007055": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0007056": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0007057": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0007058": "FBC:GM",
             "http://purl.obolibrary.org/obo/FBcv_0007059": "FBC:GM",
             "http://purl.obolibrary.org/obo/FBcv_0007060": "FBC:GM",
             "http://purl.obolibrary.org/obo/FBcv_0007061": "FBC:GM",
             "http://purl.obolibrary.org/obo/FBcv_0007062": "FBC:GM",
             "http://purl.obolibrary.org/obo/FBcv_0007063": "FBC:GM",
             "http://purl.obolibrary.org/obo/FBcv_0007064": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0007065": "FBC:SM",
+            "http://purl.obolibrary.org/obo/FBcv_0007066": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0007067": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0007068": "FBC:GM",
             "http://purl.obolibrary.org/obo/FBcv_0007504": "FBC:CP",
             "http://purl.obolibrary.org/obo/FBcv_0007505": "FBC:CP",
             "http://purl.obolibrary.org/obo/FBcv_0007506": "FBC:CP",
@@ -939,7 +946,33 @@
             "http://purl.obolibrary.org/obo/FBcv_0009027": "FBC:GM",
             "http://purl.obolibrary.org/obo/FBcv_0009028": "FBC:GM",
             "http://purl.obolibrary.org/obo/FBcv_0009029": "FBC:GM",
-            "http://purl.obolibrary.org/obo/FBcv_0009030": "FBC:GM"
+            "http://purl.obolibrary.org/obo/FBcv_0009030": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009031": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009032": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009033": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009034": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009035": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009036": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009037": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009038": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009039": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009040": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009041": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009042": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009043": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009044": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009045": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009046": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009047": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009048": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009049": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009050": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009051": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009052": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009053": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009054": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009055": "FBC:GM",
+            "http://purl.obolibrary.org/obo/FBcv_0009057": "FBC:DPG"
           },
           "GOC": {
             "http://purl.obolibrary.org/obo/FBcv_0000002": "GOC:cab1",
@@ -1041,6 +1074,7 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -1061,10 +1095,10 @@
           }
         }
       },
-      "version": "2023-10-19",
-      "version_iri": "http://purl.obolibrary.org/obo/fbcv/releases/2023-10-19/fbcv.json",
+      "version": "http://purl.obolibrary.org/obo/fbcv/releases/2025-03-27/fbcv.json",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

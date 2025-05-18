@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `tcdb`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+(\.[A-Z])?(\.\d+)?(\.\d+)?(\.\d+)?$`. Of the 2 resources,
+`^\d+(\.[A-Z])?(\.\d+)?(\.\d+)?(\.\d+)?$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['TC'].
 
 ## `cco`: Cell Cycle Ontology
@@ -58,6 +58,48 @@ Identifiers for this prefix are given incorrectly in `cco`.
 ## `go`: Gene Ontology
 
 Identifiers for this prefix are given incorrectly in `go`. See the [GitHub repository](https://github.com/geneontology/go-ontology).
+
+| external_xref   |   usages_count | usages                                                                                                                                                                    |
+|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `TC:2.A.21.3.-` |              3 | [GO:0005362](http://purl.obolibrary.org/obo/GO_0005362), [GO:0005412](http://purl.obolibrary.org/obo/GO_0005412), [GO:0015371](http://purl.obolibrary.org/obo/GO_0015371) |
+| `TC:2.A.2.-.-`  |              2 | [GO:0009669](http://purl.obolibrary.org/obo/GO_0009669), [GO:0015486](http://purl.obolibrary.org/obo/GO_0015486)                                                          |
+| `TC:3.A.3.-.-`  |              1 | [GO:0003936](http://purl.obolibrary.org/obo/GO_0003936)                                                                                                                   |
+| `TC:2.A.22.-.-` |              1 | [GO:0005328](http://purl.obolibrary.org/obo/GO_0005328)                                                                                                                   |
+| `TC:2.A.21.4.-` |              1 | [GO:0005367](http://purl.obolibrary.org/obo/GO_0005367)                                                                                                                   |
+| `TC:2.A.28.-.-` |              1 | [GO:0008508](http://purl.obolibrary.org/obo/GO_0008508)                                                                                                                   |
+| `TC:2.A.53.-.-` |              1 | [GO:0008512](http://purl.obolibrary.org/obo/GO_0008512)                                                                                                                   |
+| `TC:2.A.7.-.-`  |              1 | [GO:0009670](http://purl.obolibrary.org/obo/GO_0009670)                                                                                                                   |
+| `TC:2.A.20.-.-` |              1 | [GO:0009673](http://purl.obolibrary.org/obo/GO_0009673)                                                                                                                   |
+| `TC:2.A.1.-.-`  |              1 | [GO:0009679](http://purl.obolibrary.org/obo/GO_0009679)                                                                                                                   |
+| `TC:1.A.38.-.-` |              1 | [GO:0015176](http://purl.obolibrary.org/obo/GO_0015176)                                                                                                                   |
+| `TC:1.B.1.-.-`  |              1 | [GO:0015288](http://purl.obolibrary.org/obo/GO_0015288)                                                                                                                   |
+| `TC:2.A.1.14.-` |              1 | [GO:0015296](http://purl.obolibrary.org/obo/GO_0015296)                                                                                                                   |
+| `TC:2.A.1.2.-`  |              1 | [GO:0015307](http://purl.obolibrary.org/obo/GO_0015307)                                                                                                                   |
+| `TC:2.A.1.3.-`  |              1 | [GO:0015307](http://purl.obolibrary.org/obo/GO_0015307)                                                                                                                   |
+| `TC:2.A.1.4.-`  |              1 | [GO:0015315](http://purl.obolibrary.org/obo/GO_0015315)                                                                                                                   |
+| `TC:2.A.1.9.-`  |              1 | [GO:0015317](http://purl.obolibrary.org/obo/GO_0015317)                                                                                                                   |
+| `TC:2.A.17.-.-` |              1 | [GO:0015333](http://purl.obolibrary.org/obo/GO_0015333)                                                                                                                   |
+| `TC:2.A.5.-.-`  |              1 | [GO:0015342](http://purl.obolibrary.org/obo/GO_0015342)                                                                                                                   |
+| `TC:2.A.19.-.-` |              1 | [GO:0015368](http://purl.obolibrary.org/obo/GO_0015368)                                                                                                                   |
+| `TC:2.A.19.2.-` |              1 | [GO:0015369](http://purl.obolibrary.org/obo/GO_0015369)                                                                                                                   |
+| `TC:2.A.21.5.-` |              1 | [GO:0015373](http://purl.obolibrary.org/obo/GO_0015373)                                                                                                                   |
+| `TC:2.A.30.4.-` |              1 | [GO:0015378](http://purl.obolibrary.org/obo/GO_0015378)                                                                                                                   |
+| `TC:2.A.36.-.-` |              1 | [GO:0015385](http://purl.obolibrary.org/obo/GO_0015385)                                                                                                                   |
+| `TC:2.A.37.-.-` |              1 | [GO:0015386](http://purl.obolibrary.org/obo/GO_0015386)                                                                                                                   |
+| `TC:2.A.38.-.-` |              1 | [GO:0015387](http://purl.obolibrary.org/obo/GO_0015387)                                                                                                                   |
+| `TC:3.A.2.-.-`  |              1 | [GO:0015442](http://purl.obolibrary.org/obo/GO_0015442)                                                                                                                   |
+| `TC:3.B.-.-.-`  |              1 | [GO:0015451](http://purl.obolibrary.org/obo/GO_0015451)                                                                                                                   |
+| `TC:3.C.-.-.-`  |              1 | [GO:0015452](http://purl.obolibrary.org/obo/GO_0015452)                                                                                                                   |
+| `TC:3.D.-.-.-`  |              1 | [GO:0015453](http://purl.obolibrary.org/obo/GO_0015453)                                                                                                                   |
+| `TC:1.C.1.-.-`  |              1 | [GO:0015468](http://purl.obolibrary.org/obo/GO_0015468)                                                                                                                   |
+| `TC:1.B.11.-.-` |              1 | [GO:0015473](http://purl.obolibrary.org/obo/GO_0015473)                                                                                                                   |
+| `TC:1.B.12.-.-` |              1 | [GO:0015474](http://purl.obolibrary.org/obo/GO_0015474)                                                                                                                   |
+| `TC:1.B.13.-.-` |              1 | [GO:0015477](http://purl.obolibrary.org/obo/GO_0015477)                                                                                                                   |
+| `TC:1.B.22.-.-` |              1 | [GO:0015480](http://purl.obolibrary.org/obo/GO_0015480)                                                                                                                   |
+
+## `nif`
+
+Identifiers for this prefix are given incorrectly in `nif`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                    |
 |-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

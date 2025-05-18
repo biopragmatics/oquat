@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `snomedct`
 but use local unique identifiers that do not match the standard pattern of
-`^(\w+)?\d+$`. Of the 3 resources,
+`^(\w+)?\d+$`. Of the 4 resources,
 3 variants on the standard prefix were found: ['SNOMED', 'SNOMEDCT', 'Snomed'].
 
 ## `efo`: Experimental Factor Ontology
@@ -37,4 +37,17 @@ Identifiers for this prefix are given incorrectly in `omp`. See the [GitHub repo
 | `SNOMED:P3-513150` |              1 | [OMP:0000139](http://purl.obolibrary.org/obo/OMP_0000139) |
 | `SNOMED:P3-51130`  |              1 | [OMP:0000160](http://purl.obolibrary.org/obo/OMP_0000160) |
 | `SNOMED:P3-51140`  |              1 | [OMP:0000161](http://purl.obolibrary.org/obo/OMP_0000161) |
+
+## `vo`: Vaccine Ontology
+
+Identifiers for this prefix are given incorrectly in `vo`. See the [GitHub repository](https://github.com/vaccineontology/VO).
+
+| external_xref         |   usages_count | usages                                                  |
+|-----------------------|----------------|---------------------------------------------------------|
+| `SNOMEDCT: 442561000` |              1 | [VO:0000096](http://purl.obolibrary.org/obo/VO_0000096) |
+| `SNOMEDCT: 416532007` |              1 | [VO:0000418](http://purl.obolibrary.org/obo/VO_0000418) |
+| `SNOMEDCT: 52974007`  |              1 | [VO:0000465](http://purl.obolibrary.org/obo/VO_0000465) |
+| `SNOMEDCT: 34679007`  |              1 | [VO:0000467](http://purl.obolibrary.org/obo/VO_0000467) |
+| `SNOMEDCT: 424519000` |              1 | [VO:0000667](http://purl.obolibrary.org/obo/VO_0000667) |
+| `SNOMEDCT: 55262006`  |              1 | [VO:0002452](http://purl.obolibrary.org/obo/VO_0002452) |
 

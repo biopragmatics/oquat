@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:43:23.360929",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/TEMP": {
       "graph_id": "http://purl.obolibrary.org/obo/TEMP",
@@ -1438,6 +1436,7 @@
             "VTO:CP"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -1449,6 +1448,7 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -1463,6 +1463,7 @@
             "VTO:CP"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

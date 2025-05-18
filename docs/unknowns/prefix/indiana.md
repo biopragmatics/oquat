@@ -1,5 +1,11 @@
 # `indiana`
 
+## nif
+
+| curie      |   usages | nodes                                                                                                            |
+|------------|----------|------------------------------------------------------------------------------------------------------------------|
+| Indiana:kw |        2 | [SO:0000769](http://purl.obolibrary.org/obo/SO_0000769), [SO:0000770](http://purl.obolibrary.org/obo/SO_0000770) |
+
 ## so
 
 | curie      |   usages | nodes                                                                                                            |

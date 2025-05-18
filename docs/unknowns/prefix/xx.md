@@ -6,12 +6,6 @@
 |-----------------|----------|---------------------------------------------------------|
 | XX:<new dbxref> |        1 | [VT:0000043](http://purl.obolibrary.org/obo/VT_0000043) |
 
-## mmo
-
-| curie           |   usages | nodes                                                     |
-|-----------------|----------|-----------------------------------------------------------|
-| XX:<new dbxref> |        1 | [MMO:0000075](http://purl.obolibrary.org/obo/MMO_0000075) |
-
 ## idomal
 
 | curie       |   usages | nodes                                                           |
@@ -51,19 +45,10 @@
 | XX:<new dbxref> |        1 | [MPATH:713](http://purl.obolibrary.org/obo/MPATH_713) |
 | XX:<new xref>   |        1 | [MPATH:759](http://purl.obolibrary.org/obo/MPATH_759) |
 
-## so
-
-| curie                                                                     |   usages | nodes                                                   |
-|---------------------------------------------------------------------------|----------|---------------------------------------------------------|
-| XX:www.ensembl.org/info/genome/variation/predicted_data.html#consequences |        1 | [SO:0001620](http://purl.obolibrary.org/obo/SO_0001620) |
-
 ## sibo
 
-| curie                         |   usages | nodes                                                                                                                                                                                                                                                                                                                |
-|-------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| XX:<new dbxref>               |       25 | [SIBO:0000080](http://purl.obolibrary.org/obo/SIBO_0000080), [SIBO:0000081](http://purl.obolibrary.org/obo/SIBO_0000081), [SIBO:0000082](http://purl.obolibrary.org/obo/SIBO_0000082), [SIBO:0000083](http://purl.obolibrary.org/obo/SIBO_0000083), [SIBO:0000085](http://purl.obolibrary.org/obo/SIBO_0000085), ... |
-| XX:DOI: 10.1086/522843        |        5 | [SIBO:0000261](http://purl.obolibrary.org/obo/SIBO_0000261), [SIBO:0000525](http://purl.obolibrary.org/obo/SIBO_0000525), [SIBO:0000526](http://purl.obolibrary.org/obo/SIBO_0000526), [SIBO:0000527](http://purl.obolibrary.org/obo/SIBO_0000527), [SIBO:0000529](http://purl.obolibrary.org/obo/SIBO_0000529), ... |
-| XX:0003-0147/2003/16205-20398 |        1 | [SIBO:0000152](http://purl.obolibrary.org/obo/SIBO_0000152)                                                                                                                                                                                                                                                          |
-| XX:28842                      |        1 | [SIBO:0000182](http://purl.obolibrary.org/obo/SIBO_0000182)                                                                                                                                                                                                                                                          |
-| XX:DOI:10.1093/beheco/arl105  |        1 | [SIBO:0000528](http://purl.obolibrary.org/obo/SIBO_0000528)                                                                                                                                                                                                                                                          |
+| curie                         |   usages | nodes                                                       |
+|-------------------------------|----------|-------------------------------------------------------------|
+| XX:0003-0147/2003/16205-20398 |        1 | [SIBO:0000152](http://purl.obolibrary.org/obo/SIBO_0000152) |
+| XX:28842                      |        1 | [SIBO:0000182](http://purl.obolibrary.org/obo/SIBO_0000182) |
 

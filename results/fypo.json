@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:31:17.630803",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/fypo.json": {
       "graph_id": "http://purl.obolibrary.org/obo/fypo.json",
@@ -10887,7 +10885,7 @@
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0003664": [
-            "PomBase:mah"
+            "PomBase:vw"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0003665": [
             "PomBase:mah"
@@ -13629,9 +13627,6 @@
           "http://purl.obolibrary.org/obo/FYPO_0004573": [
             "PomBase:mah"
           ],
-          "http://purl.obolibrary.org/obo/FYPO_0004574": [
-            "PomBase:mah"
-          ],
           "http://purl.obolibrary.org/obo/FYPO_0004575": [
             "PomBase:mah"
           ],
@@ -15540,9 +15535,6 @@
           "http://purl.obolibrary.org/obo/FYPO_0005209": [
             "PomBase:mah"
           ],
-          "http://purl.obolibrary.org/obo/FYPO_0005210": [
-            "PomBase:mah"
-          ],
           "http://purl.obolibrary.org/obo/FYPO_0005211": [
             "PomBase:mah"
           ],
@@ -15959,9 +15951,6 @@
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0005352": [
-            "PomBase:mah"
-          ],
-          "http://purl.obolibrary.org/obo/FYPO_0005353": [
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0005354": [
@@ -16710,9 +16699,6 @@
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0005601": [
-            "PomBase:mah"
-          ],
-          "http://purl.obolibrary.org/obo/FYPO_0005602": [
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0005603": [
@@ -17656,9 +17642,6 @@
           "http://purl.obolibrary.org/obo/FYPO_0005916": [
             "PomBase:mah"
           ],
-          "http://purl.obolibrary.org/obo/FYPO_0005917": [
-            "PomBase:mah"
-          ],
           "http://purl.obolibrary.org/obo/FYPO_0005918": [
             "PomBase:mah"
           ],
@@ -18242,9 +18225,6 @@
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0006112": [
-            "PomBase:mah"
-          ],
-          "http://purl.obolibrary.org/obo/FYPO_0006113": [
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0006114": [
@@ -19155,9 +19135,6 @@
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0006415": [
-            "PomBase:mah"
-          ],
-          "http://purl.obolibrary.org/obo/FYPO_0006416": [
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0006417": [
@@ -20155,7 +20132,7 @@
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0006748": [
-            "PomBase:mah"
+            "PomBase:vw"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0006749": [
             "PomBase:mah"
@@ -23928,6 +23905,324 @@
           "http://purl.obolibrary.org/obo/FYPO_0008026": [
             "PomBase:mlr"
           ],
+          "http://purl.obolibrary.org/obo/FYPO_0008180": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008181": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008205": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008206": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008207": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008208": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008209": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008210": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008211": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008212": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008213": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008214": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008216": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008232": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008234": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008236": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008238": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008239": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008240": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008241": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008242": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008243": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008244": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008246": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008247": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008248": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008249": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008250": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008251": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008271": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008274": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008276": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008277": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008278": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008279": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008280": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008281": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008282": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008283": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008285": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008287": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008288": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008289": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008290": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008291": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008293": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008294": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008295": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008296": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008297": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008299": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008300": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008301": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008302": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008303": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008304": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008305": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008307": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008308": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008309": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008311": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008312": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008313": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008315": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008317": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008322": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008323": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008324": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008325": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008326": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008331": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008341": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008359": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008360": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008361": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008362": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008364": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008365": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008366": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008367": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008368": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008369": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008370": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008371": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008372": [
+            "PomBase:pb"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008373": [
+            "PomBase:pb"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008374": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008376": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008379": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008380": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008381": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008382": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008383": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008384": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008398": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008401": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008403": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008404": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008405": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008406": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008407": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008408": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008409": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008410": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008411": [
+            "PomBase:pc"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008412": [
+            "PomBase:vw"
+          ],
           "http://purl.obolibrary.org/obo/FYPO_0009000": [
             "PomBase:mlr"
           ],
@@ -24133,8 +24428,16 @@
             "PomBase:mlr"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
-        "malformed_curies": {},
+        "malformed_curies": {
+          "http://purl.obolibrary.org/obo/FYPO_0008230": [
+            ""
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008233": [
+            ""
+          ]
+        },
         "noncanonical_prefixes": {},
         "unknown_prefixes": {
           "PomBae": {
@@ -24718,9 +25021,6 @@
           ],
           "http://purl.obolibrary.org/obo/FYPO_0000187": [
             "PomBase:al",
-            "PomBase:mah"
-          ],
-          "http://purl.obolibrary.org/obo/FYPO_0000188": [
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0000189": [
@@ -30443,7 +30743,8 @@
             "PomBase:vw"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0001972": [
-            "PomBase:mah"
+            "PomBase:mah",
+            "PomBase:vw"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0001973": [
             "PomBase:mah"
@@ -34140,8 +34441,7 @@
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0003182": [
-            "PomBase:mah",
-            "PomBase:vw"
+            "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0003183": [
             "PomBase:al",
@@ -35635,7 +35935,8 @@
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0003664": [
-            "PomBase:mah"
+            "PomBase:mah",
+            "PomBase:vw"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0003667": [
             "PomBase:mah"
@@ -38398,10 +38699,6 @@
             "PomBase:al",
             "PomBase:mah"
           ],
-          "http://purl.obolibrary.org/obo/FYPO_0004574": [
-            "PomBase:mah",
-            "PomBase:vw"
-          ],
           "http://purl.obolibrary.org/obo/FYPO_0004575": [
             "PomBase:mah",
             "PomBase:vw"
@@ -40381,9 +40678,6 @@
           "http://purl.obolibrary.org/obo/FYPO_0005209": [
             "PomBase:mah"
           ],
-          "http://purl.obolibrary.org/obo/FYPO_0005210": [
-            "PomBase:mah"
-          ],
           "http://purl.obolibrary.org/obo/FYPO_0005211": [
             "PomBase:mah"
           ],
@@ -40554,9 +40848,6 @@
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0005269": [
-            "PomBase:mah"
-          ],
-          "http://purl.obolibrary.org/obo/FYPO_0005270": [
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0005271": [
@@ -42570,10 +42861,6 @@
           "http://purl.obolibrary.org/obo/FYPO_0005916": [
             "PomBase:mah"
           ],
-          "http://purl.obolibrary.org/obo/FYPO_0005917": [
-            "PomBase:al",
-            "PomBase:mah"
-          ],
           "http://purl.obolibrary.org/obo/FYPO_0005918": [
             "PomBase:mah",
             "PomBase:vw"
@@ -43214,10 +43501,6 @@
             "PomBase:al",
             "PomBase:mah"
           ],
-          "http://purl.obolibrary.org/obo/FYPO_0006113": [
-            "PomBase:mah",
-            "PomBase:vw"
-          ],
           "http://purl.obolibrary.org/obo/FYPO_0006114": [
             "PomBase:mah"
           ],
@@ -43654,9 +43937,6 @@
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0006243": [
-            "PomBase:mah"
-          ],
-          "http://purl.obolibrary.org/obo/FYPO_0006244": [
             "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0006245": [
@@ -44208,10 +44488,6 @@
           "http://purl.obolibrary.org/obo/FYPO_0006415": [
             "PomBase:mah",
             "PomBase:vw"
-          ],
-          "http://purl.obolibrary.org/obo/FYPO_0006416": [
-            "PomBase:al",
-            "PomBase:mah"
           ],
           "http://purl.obolibrary.org/obo/FYPO_0006417": [
             "PomBase:mah"
@@ -48816,6 +49092,12 @@
           "http://purl.obolibrary.org/obo/FYPO_0008042": [
             "PomBase:mah"
           ],
+          "http://purl.obolibrary.org/obo/FYPO_0008141": [
+            "PomBase:vw"
+          ],
+          "http://purl.obolibrary.org/obo/FYPO_0008291": [
+            "PomBase:vw"
+          ],
           "http://purl.obolibrary.org/obo/FYPO_0009009": [
             "PomBase:mlr"
           ],
@@ -49012,15 +49294,10 @@
             "PomBase:mlr"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
-        "noncanonical_prefixes": {
-          "EC": {
-            "http://purl.obolibrary.org/obo/FYPO_0005098": "EC:2.7.7.19",
-            "http://purl.obolibrary.org/obo/FYPO_0005099": "EC:2.7.7.19",
-            "http://purl.obolibrary.org/obo/FYPO_0005100": "EC:2.7.7.52"
-          }
-        },
+        "noncanonical_prefixes": {},
         "unknown_prefixes": {
           "GOC": {
             "http://purl.obolibrary.org/obo/FYPO_0000625": "GOC:mah",
@@ -49033,8 +49310,7 @@
           }
         }
       },
-      "version": "2023-11-13",
-      "version_iri": "http://purl.obolibrary.org/obo/fypo/releases/2023-11-13/fypo.json",
+      "version": "http://purl.obolibrary.org/obo/fypo/releases/2025-05-09/fypo.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/FYPO_0007909": [
@@ -49050,6 +49326,7 @@
             "PomBase:mlr"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T10:05:41.111154",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/vto.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/vto.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -146,6 +145,7 @@
             "TTO:PEM"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -17102,10 +17102,10 @@
           }
         }
       },
-      "version": "2020-11-13",
-      "version_iri": "http://purl.obolibrary.org/obo/vto/2020-11-13/vto.owl",
+      "version": "http://purl.obolibrary.org/obo/vto/2020-11-13/vto.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {
           "http://purl.obolibrary.org/obo/VTO_9046490": [

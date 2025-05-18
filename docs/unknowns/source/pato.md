@@ -171,18 +171,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |---------------------------------------|----------|-------------------------------------------------------------|
 | Medical-dictionary:Medical-dictionary |        1 | [PATO:0001432](http://purl.obolibrary.org/obo/PATO_0001432) |
 
-## `Merriam-Webster`
-
-There are 3 usages of `Merriam-Webster` in `pato`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Merriam-Webster).
-
-| curie                           |   usages | nodes                                                                                                                                                                                                                                                                                                                |
-|---------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Merriam-Webster:Merriam-Webster |        6 | [PATO:0000261](http://purl.obolibrary.org/obo/PATO_0000261), [PATO:0000395](http://purl.obolibrary.org/obo/PATO_0000395), [PATO:0001501](http://purl.obolibrary.org/obo/PATO_0001501), [PATO:0001608](http://purl.obolibrary.org/obo/PATO_0001608), [PATO:0001701](http://purl.obolibrary.org/obo/PATO_0001701), ... |
-| Merriam-Webster:hexagonal       |        1 | [PATO:0002509](http://purl.obolibrary.org/obo/PATO_0002509)                                                                                                                                                                                                                                                          |
-| Merriam-Webster:confluent       |        1 | [PATO:0002512](http://purl.obolibrary.org/obo/PATO_0002512)                                                                                                                                                                                                                                                          |
-
 ## `NDI`
 
 There are 1 usages of `NDI` in `pato`.
@@ -452,34 +440,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | medical-dictionary:medical-dictionary                                      |        1 | [PATO:0001512](http://purl.obolibrary.org/obo/PATO_0001512) |
 | medical-dictionary:http://medical-dictionary.thefreedictionary.com/abaxial |        1 | [PATO:0002046](http://purl.obolibrary.org/obo/PATO_0002046) |
 
-## `merriam-webster`
-
-There are 9 usages of `merriam-webster` in `pato`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20merriam-webster).
-
-| curie                                                                    |   usages | nodes                                                                                                                                                                                                                                                                                                                |
-|--------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| merriam-webster:merriam-webster                                          |       13 | [PATO:0000048](http://purl.obolibrary.org/obo/PATO_0000048), [PATO:0001031](http://purl.obolibrary.org/obo/PATO_0001031), [PATO:0001171](http://purl.obolibrary.org/obo/PATO_0001171), [PATO:0001172](http://purl.obolibrary.org/obo/PATO_0001172), [PATO:0001543](http://purl.obolibrary.org/obo/PATO_0001543), ... |
-| merriam-webster:http://www.merriam-webster.com/dictionary/recurved       |        1 | [PATO:0002211](http://purl.obolibrary.org/obo/PATO_0002211)                                                                                                                                                                                                                                                          |
-| merriam-webster:http://www.merriam-webster.com/dictionary/slender        |        1 | [PATO:0002212](http://purl.obolibrary.org/obo/PATO_0002212)                                                                                                                                                                                                                                                          |
-| merriam-webster:http://www.merriam-webster.com/dictionary/falciform      |        1 | [PATO:0002215](http://purl.obolibrary.org/obo/PATO_0002215)                                                                                                                                                                                                                                                          |
-| merriam-webster:http://www.merriam-webster.com/dictionary/ligneous       |        1 | [PATO:0002348](http://purl.obolibrary.org/obo/PATO_0002348)                                                                                                                                                                                                                                                          |
-| merriam-webster:http://www.merriam-webster.com/dictionary/basal          |        1 | [PATO:0002349](http://purl.obolibrary.org/obo/PATO_0002349)                                                                                                                                                                                                                                                          |
-| merriam-webster:http://www.merriam-webster.com/dictionary/cauline        |        1 | [PATO:0002350](http://purl.obolibrary.org/obo/PATO_0002350)                                                                                                                                                                                                                                                          |
-| merriam-webster:http://www.merriam-webster.com/dictionary/subovoid       |        1 | [PATO:0002537](http://purl.obolibrary.org/obo/PATO_0002537)                                                                                                                                                                                                                                                          |
-| merriam-webster:http://www.merriam-webster.com/dictionary/concavo-convex |        1 | [PATO:0002538](http://purl.obolibrary.org/obo/PATO_0002538)                                                                                                                                                                                                                                                          |
-
-## `merriam-webster.`
-
-There are 1 usages of `merriam-webster.` in `pato`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20merriam-webster.).
-
-| curie                             |   usages | nodes                                                                                                                    |
-|-----------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
-| merriam-webster.:merriam-webster. |        2 | [PATO:0001534](http://purl.obolibrary.org/obo/PATO_0001534), [PATO:0001535](http://purl.obolibrary.org/obo/PATO_0001535) |
-
 ## `merriam-wester`
 
 There are 1 usages of `merriam-wester` in `pato`.
@@ -664,18 +624,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | curie                                              |   usages | nodes                                                                                                                                                                                                                                              |
 |----------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | wiki:http://en.wikipedia.org/wiki/Parity_(biology) |        4 | [PATO:0002369](http://purl.obolibrary.org/obo/PATO_0002369), [PATO:0002370](http://purl.obolibrary.org/obo/PATO_0002370), [PATO:0002371](http://purl.obolibrary.org/obo/PATO_0002371), [PATO:0002372](http://purl.obolibrary.org/obo/PATO_0002372) |
-
-## `wiktionary`
-
-There are 3 usages of `wiktionary` in `pato`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wiktionary).
-
-| curie                                              |   usages | nodes                                                       |
-|----------------------------------------------------|----------|-------------------------------------------------------------|
-| wiktionary:superellipse                            |        1 | [PATO:0002318](http://purl.obolibrary.org/obo/PATO_0002318) |
-| wiktionary:http://en.wiktionary.org/wiki/obconical |        1 | [PATO:0002347](http://purl.obolibrary.org/obo/PATO_0002347) |
-| wiktionary:http://en.wiktionary.org/wiki/fleshy    |        1 | [PATO:0002351](http://purl.obolibrary.org/obo/PATO_0002351) |
 
 ## `wordnetweb`
 

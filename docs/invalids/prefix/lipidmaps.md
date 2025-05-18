@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `lipidmaps`
 but use local unique identifiers that do not match the standard pattern of
-`^LM(FA|GL|GP|SP|ST|PR|SL|PK)[0-9]{4}([0-9a-zA-Z]{4,6})?$`. Of the 2 resources,
+`^LM(FA|GL|GP|SP|ST|PR|SL|PK)[0-9]{4}([0-9a-zA-Z]{4,6})?$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['LIPID_MAPS_class'].
 
 ## `chebi`: Chemical Entities of Biological Interest
@@ -29,4 +29,18 @@ Identifiers for this prefix are given incorrectly in `msio`. See the [GitHub rep
 | external_xref             |   usages_count | usages                                                    |
 |---------------------------|----------------|-----------------------------------------------------------|
 | `LIPID_MAPS_class:LMPR01` |              1 | [CHEBI:24913](http://purl.obolibrary.org/obo/CHEBI_24913) |
+
+## `nif`
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref             |   usages_count | usages                                                    |
+|---------------------------|----------------|-----------------------------------------------------------|
+| `LIPID_MAPS_class:LMSP02` |              1 | [CHEBI:17761](http://purl.obolibrary.org/obo/CHEBI_17761) |
+| `LIPID_MAPS_class:LMFA03` |              1 | [CHEBI:23899](http://purl.obolibrary.org/obo/CHEBI_23899) |
+| `LIPID_MAPS_class:LMFA05` |              1 | [CHEBI:24026](http://purl.obolibrary.org/obo/CHEBI_24026) |
+| `LIPID_MAPS_class:LMPR01` |              1 | [CHEBI:24913](http://purl.obolibrary.org/obo/CHEBI_24913) |
+| `LIPID_MAPS_class:LMFA08` |              1 | [CHEBI:29348](http://purl.obolibrary.org/obo/CHEBI_29348) |
+| `LIPID_MAPS_class:LMST04` |              1 | [CHEBI:36078](http://purl.obolibrary.org/obo/CHEBI_36078) |
+| `LIPID_MAPS_class:LMGP12` |              1 | [CHEBI:76529](http://purl.obolibrary.org/obo/CHEBI_76529) |
 

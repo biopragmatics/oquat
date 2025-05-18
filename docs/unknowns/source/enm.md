@@ -1,5 +1,15 @@
 # enm
 
+## `Allen`
+
+There are 1 usages of `Allen` in `enm`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Allen).
+
+| curie          |   usages | nodes                                                     |
+|----------------|----------|-----------------------------------------------------------|
+| Allen:precedes |        1 | [BFO:0000062](http://purl.obolibrary.org/obo/BFO_0000062) |
+
 ## `Answers.com`
 
 There are 1 usages of `Answers.com` in `enm`.
@@ -60,16 +70,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |--------------------------------------------|----------|-----------------------------------------------------------|
 | Invitrogen:http://products.invitrogen.com/ |        1 | [BTO:0004602](http://purl.obolibrary.org/obo/BTO_0004602) |
 
-## `Merriam-Webster`
-
-There are 1 usages of `Merriam-Webster` in `enm`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Merriam-Webster).
-
-| curie                           |   usages | nodes                                                       |
-|---------------------------------|----------|-------------------------------------------------------------|
-| Merriam-Webster:Merriam-Webster |        1 | [PATO:0000261](http://purl.obolibrary.org/obo/PATO_0000261) |
-
 ## `NPX`
 
 There are 1 usages of `NPX` in `enm`.
@@ -92,18 +92,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | Orange:17.2.7   |        1 | [CHMO:0000098](http://purl.obolibrary.org/obo/CHMO_0000098)                                                                                                                           |
 | Orange:17.2.1.2 |        1 | [CHMO:0000407](http://purl.obolibrary.org/obo/CHMO_0000407)                                                                                                                           |
 
-## `OrangeBook`
-
-There are 3 usages of `OrangeBook` in `enm`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20OrangeBook).
-
-| curie               |   usages | nodes                                                       |
-|---------------------|----------|-------------------------------------------------------------|
-| OrangeBook:17.2.1.4 |        1 | [CHMO:0000343](http://purl.obolibrary.org/obo/CHMO_0000343) |
-| OrangeBook:17.2.4   |        1 | [CHMO:0000351](http://purl.obolibrary.org/obo/CHMO_0000351) |
-| OrangeBook:9.4.1    |        1 | [CHMO:0001577](http://purl.obolibrary.org/obo/CHMO_0001577) |
-
 ## `PATOC`
 
 There are 6 usages of `PATOC` in `enm`.
@@ -118,6 +106,16 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | PATOC:melissa |        1 | [PATO:0000161](http://purl.obolibrary.org/obo/PATO_0000161)                                                                                                                                                                                                                                                          |
 | PATOC:CJM     |        1 | [PATO:0001555](http://purl.obolibrary.org/obo/PATO_0001555)                                                                                                                                                                                                                                                          |
 | PATOC:UMH     |        1 | [PATO:0001940](http://purl.obolibrary.org/obo/PATO_0001940)                                                                                                                                                                                                                                                          |
+
+## `UBERONREF`
+
+There are 1 usages of `UBERONREF` in `enm`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20UBERONREF).
+
+| curie             |   usages | nodes                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|-------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| UBERONREF:0000004 |        9 | [UBREL:0000001](http://purl.obolibrary.org/obo/UBREL_0000001), [uberon#anteriorly:connected:to](http://purl.obolibrary.org/obo/uberon#anteriorly_connected_to), [uberon#connects](http://purl.obolibrary.org/obo/uberon#connects), [uberon#distally:connected:to](http://purl.obolibrary.org/obo/uberon#distally_connected_to), [uberon#posteriorly:connected:to](http://purl.obolibrary.org/obo/uberon#posteriorly_connected_to), ... |
 
 ## `URL`
 

@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `icdo`
 but use local unique identifiers that do not match the standard pattern of
-`^[8-9]\d{3}(/[0-3])?$`. Of the 8 resources,
+`^[8-9]\d{3}(/[0-3])?$`. Of the 9 resources,
 2 variants on the standard prefix were found: ['ICD-O', 'ICDO'].
 
 ## `bao`: BioAssay Ontology
@@ -82,6 +82,15 @@ Identifiers for this prefix are given incorrectly in `mpath`. See the [GitHub re
 | `ICD-O:M-8900/0` |              1 | [MPATH:722](http://purl.obolibrary.org/obo/MPATH_722) |
 | `ICDO:M-8822/1`  |              1 | [MPATH:723](http://purl.obolibrary.org/obo/MPATH_723) |
 
+## `nif`
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref   |   usages_count | usages                                                |
+|-----------------|----------------|-------------------------------------------------------|
+| `ICDO:8480/6`   |              1 | [DOID:3559](http://purl.obolibrary.org/obo/DOID_3559) |
+| `ICDO:8800/9`   |              1 | [DOID:7615](http://purl.obolibrary.org/obo/DOID_7615) |
+
 ## `rdo`: RGD Disease Ontology
 
 Identifiers for this prefix are given incorrectly in `rdo`.
@@ -101,6 +110,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `ICD-O:M9450/3` |              1 | [DOID:3183](http://purl.obolibrary.org/obo/DOID_3183)       |
 | `ICD-O:M8810/3` |              1 | [DOID:3520](http://purl.obolibrary.org/obo/DOID_3520)       |
 | `ICD-O:M9390/3` |              1 | [DOID:3545](http://purl.obolibrary.org/obo/DOID_3545)       |
+| `ICDO:8480/6`   |              1 | [DOID:3559](http://purl.obolibrary.org/obo/DOID_3559)       |
 | `ICD-O:M8000/3` |              1 | [DOID:3675](http://purl.obolibrary.org/obo/DOID_3675)       |
 | `ICD-O:M9470/3` |              1 | [DOID:3869](http://purl.obolibrary.org/obo/DOID_3869)       |
 | `ICD-O:M9473/3` |              1 | [DOID:3870](http://purl.obolibrary.org/obo/DOID_3870)       |
@@ -115,7 +125,6 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `ICD-O:M9071/3` |              1 | [DOID:6083](http://purl.obolibrary.org/obo/DOID_6083)       |
 | `ICD-O:M8720/3` |              1 | [DOID:6089](http://purl.obolibrary.org/obo/DOID_6089)       |
 | `ICD-O:M9070/3` |              1 | [DOID:6162](http://purl.obolibrary.org/obo/DOID_6162)       |
-| `ICD-O:M9400/3` |              1 | [DOID:6386](http://purl.obolibrary.org/obo/DOID_6386)       |
 | `ICD-O:M9081/3` |              1 | [DOID:6474](http://purl.obolibrary.org/obo/DOID_6474)       |
 | `ICD-O:M9231/3` |              1 | [DOID:6494](http://purl.obolibrary.org/obo/DOID_6494)       |
 | `ICD-O:M9380/3` |              1 | [DOID:6576](http://purl.obolibrary.org/obo/DOID_6576)       |
@@ -129,6 +138,7 @@ Identifiers for this prefix are given incorrectly in `rdo`.
 | `ICD-O:M8901/3` |              1 | [DOID:7463](http://purl.obolibrary.org/obo/DOID_7463)       |
 | `ICD-O:M9085/3` |              1 | [DOID:7516](http://purl.obolibrary.org/obo/DOID_7516)       |
 | `ICD-O:M9195/3` |              1 | [DOID:7612](http://purl.obolibrary.org/obo/DOID_7612)       |
+| `ICDO:8800/9`   |              1 | [DOID:7615](http://purl.obolibrary.org/obo/DOID_7615)       |
 | `ICD-O:M9500/3` |              1 | [DOID:769](http://purl.obolibrary.org/obo/DOID_769)         |
 | `ICD-O:M9150/3` |              1 | [DOID:7731](http://purl.obolibrary.org/obo/DOID_7731)       |
 | `ICD-O:M9560/3` |              1 | [DOID:7732](http://purl.obolibrary.org/obo/DOID_7732)       |

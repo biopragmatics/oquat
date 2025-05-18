@@ -19,6 +19,13 @@
 | rsc:hib              |        1 | [CHMO:0001493](http://purl.obolibrary.org/obo/CHMO_0001493)                                                                                                                                                                                                                                                          |
 | rsc:ds               |        1 | [CHMO:0002372](http://purl.obolibrary.org/obo/CHMO_0002372)                                                                                                                                                                                                                                                          |
 
+## nif
+
+| curie   |   usages | nodes                                                                                                                                                                                                                                                                                            |
+|---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| RSC:cb  |       41 | [SO:0000348](http://purl.obolibrary.org/obo/SO_0000348), [SO:0000352](http://purl.obolibrary.org/obo/SO_0000352), [SO:0000356](http://purl.obolibrary.org/obo/SO_0000356), [SO:0000372](http://purl.obolibrary.org/obo/SO_0000372), [SO:0000391](http://purl.obolibrary.org/obo/SO_0000391), ... |
+| RSC:CB  |        1 | [SO:0000392](http://purl.obolibrary.org/obo/SO_0000392)                                                                                                                                                                                                                                          |
+
 ## rxno
 
 | curie   |   usages | nodes                                                                                                                                                                                                                                                                                                                |
@@ -28,16 +35,6 @@
 | RSC:xp  |       24 | [RXNO:0000448](http://purl.obolibrary.org/obo/RXNO_0000448), [RXNO:0000449](http://purl.obolibrary.org/obo/RXNO_0000449), [RXNO:0000450](http://purl.obolibrary.org/obo/RXNO_0000450), [RXNO:0000453](http://purl.obolibrary.org/obo/RXNO_0000453), [RXNO:0000454](http://purl.obolibrary.org/obo/RXNO_0000454), ... |
 | RSC:jrw |        1 | [RXNO:0000201](http://purl.obolibrary.org/obo/RXNO_0000201)                                                                                                                                                                                                                                                          |
 | rsc:djb |        1 | [RXNO:0000313](http://purl.obolibrary.org/obo/RXNO_0000313)                                                                                                                                                                                                                                                          |
-
-## pride
-
-| curie                |   usages | nodes                                                                                                                                                                                                                                                                                                                |
-|----------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| rsc:pr               |      289 | [CHMO:0000567](http://purl.obolibrary.org/obo/CHMO_0000567), [CHMO:0000591](http://purl.obolibrary.org/obo/CHMO_0000591), [CHMO:0000593](http://purl.obolibrary.org/obo/CHMO_0000593), [CHMO:0000594](http://purl.obolibrary.org/obo/CHMO_0000594), [CHMO:0000595](http://purl.obolibrary.org/obo/CHMO_0000595), ... |
-| rsc:b718132a         |        1 | [CHMO:0000766](http://purl.obolibrary.org/obo/CHMO_0000766)                                                                                                                                                                                                                                                          |
-| rsc:10.1039/b902504a |        1 | [CHMO:0001085](http://purl.obolibrary.org/obo/CHMO_0001085)                                                                                                                                                                                                                                                          |
-| rsc:hib              |        1 | [CHMO:0001493](http://purl.obolibrary.org/obo/CHMO_0001493)                                                                                                                                                                                                                                                          |
-| rsc:ds               |        1 | [CHMO:0002372](http://purl.obolibrary.org/obo/CHMO_0002372)                                                                                                                                                                                                                                                          |
 
 ## so
 

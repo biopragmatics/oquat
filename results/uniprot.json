@@ -1,7 +1,31 @@
 {
-  "created": "2023-05-21T01:55:08.965222",
-  "messages": [
-    "could not parse OBO for uniprot.location from https://www.uniprot.org/locations/?query=*&format=obo"
-  ],
-  "results": {}
+  "results": {
+    "http://purl.uniprot.org/core/": {
+      "graph_id": "http://purl.uniprot.org/core/",
+      "prov_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "xref_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
+    }
+  }
 }

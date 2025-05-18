@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:53:14.356110",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/omp.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/omp.owl",
@@ -5382,6 +5380,7 @@
             "OMP:tz"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -5466,15 +5465,13 @@
             "CHEBI::4806"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
           "CID": {
             "http://purl.obolibrary.org/obo/OMP_0000331": "CID:5583",
             "http://purl.obolibrary.org/obo/OMP_0005274": "CID:445629"
-          },
-          "EC": {
-            "http://purl.obolibrary.org/obo/OMP_0007285": "EC:1.10.3.2"
           },
           "TaxonomyID": {
             "http://purl.obolibrary.org/obo/OMP_0007462": "TaxonomyID:7091"
@@ -5486,8 +5483,7 @@
           }
         }
       },
-      "version": "2023-09-01",
-      "version_iri": "http://purl.obolibrary.org/obo/omp/releases/2023-09-01/omp.owl",
+      "version": "http://purl.obolibrary.org/obo/omp/releases/2024-03-25/omp.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/OMP_0000110": [
@@ -5521,6 +5517,7 @@
             "FYPO:000064"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {

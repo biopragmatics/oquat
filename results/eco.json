@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:26:37.777306",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/eco.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/eco.owl",
@@ -2527,6 +2525,18 @@
           "http://purl.obolibrary.org/obo/ECO_0006397": [
             "ECO:SN"
           ],
+          "http://purl.obolibrary.org/obo/ECO_0006399": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0006400": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0006404": [
+            "ECO:MG"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0006406": [
+            "ECO:SN"
+          ],
           "http://purl.obolibrary.org/obo/ECO_0007000": [
             "GO:IMP"
           ],
@@ -4468,6 +4478,312 @@
           "http://purl.obolibrary.org/obo/ECO_0008029": [
             "ECO:SN"
           ],
+          "http://purl.obolibrary.org/obo/ECO_0008033": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008034": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008035": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008036": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008037": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008038": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008087": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008088": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008089": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008090": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008091": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008092": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008093": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008094": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008095": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008096": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008097": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008098": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008099": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008100": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008101": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008102": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008103": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008104": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008105": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008106": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008107": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008108": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008109": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008110": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008111": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008112": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008113": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008114": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008115": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008116": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008117": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008118": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008119": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008120": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008121": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008122": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008123": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008124": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008125": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008126": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008127": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008128": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008129": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008130": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008131": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008132": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008133": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008134": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008135": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008136": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008137": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008138": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008139": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008140": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008141": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008142": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008143": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008144": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008145": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008146": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008147": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008148": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008149": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008150": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008151": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008152": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008153": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008154": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008155": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008156": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008157": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008158": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008159": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008160": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008161": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008162": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008163": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008164": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008165": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008166": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008167": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008168": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008169": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008170": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008171": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008172": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008173": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008174": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008175": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008176": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008177": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008178": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008179": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008180": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008181": [
+            "ECO:SN"
+          ],
+          "http://purl.obolibrary.org/obo/ECO_0008182": [
+            "ECO:SN"
+          ],
           "http://purl.obolibrary.org/obo/ECO_9000000": [
             "ECO:SN"
           ],
@@ -4475,6 +4791,7 @@
             "ECO:SN"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {
           "http://purl.obolibrary.org/obo/ECO_0006347": [
@@ -4510,6 +4827,57 @@
             "http://purl.obolibrary.org/obo/ECO_0006099": "GOC:PG",
             "http://purl.obolibrary.org/obo/ECO_0006100": "GOC:PG",
             "http://purl.obolibrary.org/obo/ECO_0006101": "GOC:PG"
+          },
+          "IEDB": {
+            "http://purl.obolibrary.org/obo/ECO_0006398": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008039": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008040": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008041": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008042": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008043": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008044": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008045": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008046": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008047": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008048": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008049": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008050": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008051": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008052": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008053": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008054": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008055": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008056": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008057": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008058": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008059": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008060": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008061": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008062": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008063": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008064": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008065": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008066": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008067": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008068": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008069": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008070": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008071": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008072": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008073": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008074": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008075": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008076": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008077": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008078": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008079": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008080": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008081": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008082": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008083": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008084": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008085": "IEDB:RandiVita",
+            "http://purl.obolibrary.org/obo/ECO_0008086": "IEDB:RandiVita"
           },
           "NBK": {
             "http://purl.obolibrary.org/obo/ECO_0000010": "NBK:22011",
@@ -4773,6 +5141,7 @@
             "http://purl.obolibrary.org/obo/ECO_0006343": "url:https://en.wikipedia.org/wiki/Quantitative_research",
             "http://purl.obolibrary.org/obo/ECO_0006344": "url:https://www.merriam-webster.com/dictionary/sporulation",
             "http://purl.obolibrary.org/obo/ECO_0006350": "url:https://en.wikipedia.org/wiki/Bio-layer_interferometry",
+            "http://purl.obolibrary.org/obo/ECO_0006404": "url:https://www.nature.com/articles/nrg1088",
             "http://purl.obolibrary.org/obo/ECO_0007033": "url:http://www.creative-biolabs.com/drug-discovery/therapeutics/neutralization-assay.htm?gclid=Cj0KEQjwqvvLBRDIt-D7q7iqiOcBEiQAxi68ERRz00a0x9sWSKSLDu7d5-kMi4AdiLNdUq1mXzePdywaArli8P8HAQ)",
             "http://purl.obolibrary.org/obo/ECO_0007061": "url:http://www.soft-matter.uni-tuebingen.de/index.html?dls.html",
             "http://purl.obolibrary.org/obo/ECO_0007063": "url:http://www.soft-matter.uni-tuebingen.de/index.html?dls.html",
@@ -4785,7 +5154,8 @@
             "http://purl.obolibrary.org/obo/ECO_0008010": "url:https://www.nature.com/articles/nbt1206-1565",
             "http://purl.obolibrary.org/obo/ECO_0008011": "url:https://en.wikipedia.org/wiki/String-searching_algorithm",
             "http://purl.obolibrary.org/obo/ECO_0008012": "url:https://en.wikipedia.org/wiki/Regular_expression",
-            "http://purl.obolibrary.org/obo/ECO_0008013": "url:https://en.wikipedia.org/wiki/Artificial_neural_network"
+            "http://purl.obolibrary.org/obo/ECO_0008013": "url:https://en.wikipedia.org/wiki/Artificial_neural_network",
+            "http://purl.obolibrary.org/obo/ECO_0008032": "url:https://mobidb.org/"
           }
         }
       },
@@ -4798,6 +5168,7 @@
             "HPO:ICE"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -4819,14 +5190,14 @@
           }
         }
       },
-      "version": "2023-09-03",
-      "version_iri": "http://purl.obolibrary.org/obo/eco/releases/2023-09-03/eco.owl",
+      "version": "http://purl.obolibrary.org/obo/eco/releases/2025-04-30/eco.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ECO_0000324": [
             "ECO:MCC"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {

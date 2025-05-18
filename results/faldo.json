@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:29:13.907475",
-  "messages": [],
   "results": {
     "http://biohackathon.org/resource/faldo": {
       "graph_id": "http://biohackathon.org/resource/faldo",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,14 +12,15 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "Created at the Biohackathon 2012 and 2013",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

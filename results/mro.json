@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:45:52.146559",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/mro.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/mro.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,15 +12,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2023-08-05",
-      "version_iri": "http://purl.obolibrary.org/obo/mro/2023-08-05/mro.owl",
+      "version": "http://purl.obolibrary.org/obo/mro/2025-04-22/mro.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

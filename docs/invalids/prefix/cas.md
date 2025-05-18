@@ -21,7 +21,6 @@ Identifiers for this prefix are given incorrectly in `chebi`. See the [GitHub re
 | `CAS:03/07/5452` |              1 | [CHEBI:191497](http://purl.obolibrary.org/obo/CHEBI_191497) |
 | `CAS:6/5/7780`   |              1 | [CHEBI:191626](http://purl.obolibrary.org/obo/CHEBI_191626) |
 | `CAS:03/04/6099` |              1 | [CHEBI:192607](http://purl.obolibrary.org/obo/CHEBI_192607) |
-| `CAS:0103-05-09` |              1 | [CHEBI:195767](http://purl.obolibrary.org/obo/CHEBI_195767) |
 
 ## `efo`: Experimental Factor Ontology
 

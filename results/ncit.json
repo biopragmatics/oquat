@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:48:59.562098",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/ncit.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/ncit.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,15 +12,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "23.09d",
-      "version_iri": "http://purl.obolibrary.org/obo/ncit/releases/2023-10-19/ncit.owl",
+      "version": "http://purl.obolibrary.org/obo/ncit/releases/2024-05-07/ncit.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

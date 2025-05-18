@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `ro`
 but use local unique identifiers that do not match the standard pattern of
-`^(HOM)?\d{7}$`. Of the 6 resources,
+`^(HOM)?\d{7}$`. Of the 7 resources,
 3 variants on the standard prefix were found: ['OBO_REL', 'RO', 'RO_proposed_relation'].
 
 ## `cmpo`: Cellular Microscopy Phenotype Ontology
@@ -30,6 +30,16 @@ Identifiers for this prefix are given incorrectly in `hom`. See the [GitHub repo
 | external_xref                        |   usages_count | usages                                                    |
 |--------------------------------------|----------------|-----------------------------------------------------------|
 | `RO_proposed_relation:homologous_to` |              1 | [HOM:0000007](http://purl.obolibrary.org/obo/HOM_0000007) |
+
+## `nif`
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref                        |   usages_count | usages                                                        |
+|--------------------------------------|----------------|---------------------------------------------------------------|
+| `OBO_REL:has_part`                   |              1 | [PATO:0001555](http://purl.obolibrary.org/obo/PATO_0001555)   |
+| `OBO_REL:lacks_part`                 |              1 | [PATO:0002000](http://purl.obolibrary.org/obo/PATO_0002000)   |
+| `RO_proposed_relation:homologous_to` |              1 | [RO:HOM0000007](http://purl.obolibrary.org/obo/RO_HOM0000007) |
 
 ## `pato`: Phenotype And Trait Ontology
 

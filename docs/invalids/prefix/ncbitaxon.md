@@ -2,8 +2,16 @@
 
 This page summarize the different resources that reference `ncbitaxon`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 2 resources,
+`^\d+$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['NCBITaxon'].
+
+## `dpbo`: DataPLANT Biology Ontology
+
+Identifiers for this prefix are given incorrectly in `dpbo`. See the [GitHub repository](https://github.com/nfdi4plants/nfdi4plants_ontology).
+
+| external_xref       |   usages_count | usages                                                    |
+|---------------------|----------------|-----------------------------------------------------------|
+| `NCBITaxon:species` |              1 | [NCIT:C45293](http://purl.obolibrary.org/obo/NCIT_C45293) |
 
 ## `taxrank`: Taxonomic rank vocabulary
 
@@ -39,6 +47,18 @@ Identifiers for this prefix are given incorrectly in `taxrank`. See the [GitHub 
 | `NCBITaxon:superphylum`      |              1 | [TAXRANK:0000027](http://purl.obolibrary.org/obo/TAXRANK_0000027) |
 | `NCBITaxon:subtribe`         |              1 | [TAXRANK:0000028](http://purl.obolibrary.org/obo/TAXRANK_0000028) |
 | `NCBITaxon:subkingdom`       |              1 | [TAXRANK:0000029](http://purl.obolibrary.org/obo/TAXRANK_0000029) |
+| `NCBITaxon:strain`           |              1 | [TAXRANK:0001001](http://purl.obolibrary.org/obo/TAXRANK_0001001) |
+| `NCBITaxon:isolate`          |              1 | [TAXRANK:0001002](http://purl.obolibrary.org/obo/TAXRANK_0001002) |
+| `NCBITaxon:serotype`         |              1 | [TAXRANK:0001003](http://purl.obolibrary.org/obo/TAXRANK_0001003) |
+| `NCBITaxon:clade`            |              1 | [TAXRANK:0001004](http://purl.obolibrary.org/obo/TAXRANK_0001004) |
+| `NCBITaxon:forma_specialis`  |              1 | [TAXRANK:0001005](http://purl.obolibrary.org/obo/TAXRANK_0001005) |
+| `NCBITaxon:serogroup`        |              1 | [TAXRANK:0001006](http://purl.obolibrary.org/obo/TAXRANK_0001006) |
+| `NCBITaxon:genotype`         |              1 | [TAXRANK:0001007](http://purl.obolibrary.org/obo/TAXRANK_0001007) |
+| `NCBITaxon:biotype`          |              1 | [TAXRANK:0001008](http://purl.obolibrary.org/obo/TAXRANK_0001008) |
+| `NCBITaxon:morph`            |              1 | [TAXRANK:0001009](http://purl.obolibrary.org/obo/TAXRANK_0001009) |
+| `NCBITaxon:cohort`           |              1 | [TAXRANK:0001010](http://purl.obolibrary.org/obo/TAXRANK_0001010) |
+| `NCBITaxon:pathogroup`       |              1 | [TAXRANK:0001011](http://purl.obolibrary.org/obo/TAXRANK_0001011) |
+| `NCBITaxon:subcohort`        |              1 | [TAXRANK:0001012](http://purl.obolibrary.org/obo/TAXRANK_0001012) |
 
 ## `tto`: Teleost taxonomy ontology
 

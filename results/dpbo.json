@@ -1,0 +1,140 @@
+{
+  "results": {
+    "http://purl.obolibrary.org/obo/dpbo.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/dpbo.owl",
+      "prov_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/PRIDE_0000463": [
+            "PRIDE:PRIDE"
+          ],
+          "http://purl.obolibrary.org/obo/PRIDE_0000513": [
+            "PRIDE:PRIDE"
+          ],
+          "http://purl.obolibrary.org/obo/PRIDE_0000650": [
+            "PRIDE:PRIDE"
+          ],
+          "http://purl.obolibrary.org/obo/SO_0000323": [
+            "SO:ke"
+          ],
+          "http://purl.obolibrary.org/obo/SO_0000327": [
+            "SO:ke"
+          ],
+          "http://purl.obolibrary.org/obo/SO_0000568": [
+            "SO:ke"
+          ]
+        },
+        "known_prefixes": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {
+          "http://purl.obolibrary.org/obo/AFQ_0000029": [
+            "Allotrope"
+          ],
+          "http://purl.obolibrary.org/obo/AFRL_0000035": [
+            "Allotrope"
+          ],
+          "http://purl.obolibrary.org/obo/AFR_0000952": [
+            "Allotrope"
+          ],
+          "http://purl.obolibrary.org/obo/AFR_0001255": [
+            "Allotrope"
+          ],
+          "http://purl.obolibrary.org/obo/AFR_0002311": [
+            "Allotrope"
+          ]
+        },
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "Biology_Dictionary_Hyperdictionary": {
+            "http://purl.obolibrary.org/obo/BTO_0001899": "Biology_Dictionary_Hyperdictionary:http://www.hyperdictionary.com/dictionary/Stationary+phase",
+            "http://purl.obolibrary.org/obo/BTO_0001900": "Biology_Dictionary_Hyperdictionary:http://www.hyperdictionary.com/dictionary/Growth+phase",
+            "http://purl.obolibrary.org/obo/BTO_0001901": "Biology_Dictionary_Hyperdictionary:http://www.hyperdictionary.com/dictionary/Death+phase",
+            "http://purl.obolibrary.org/obo/BTO_0001902": "Biology_Dictionary_Hyperdictionary:http://www.hyperdictionary.com/dictionary/Lag+phase",
+            "http://purl.obolibrary.org/obo/BTO_0001903": "Biology_Dictionary_Hyperdictionary:http://www.hyperdictionary.com/dictionary/Logarithmic+phase"
+          },
+          "Dorland": {
+            "http://purl.obolibrary.org/obo/XCO_0000058": "Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed"
+          },
+          "UOB": {
+            "http://purl.obolibrary.org/obo/DPBO_1000158": "UOB:LKSR"
+          }
+        }
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "version": "http://purl.obolibrary.org/obo/dpbo/init/2020-12-01/dpbo.owl",
+      "xref_pack": {
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/NCIT_C45293": [
+            "NCBITaxon:species"
+          ]
+        },
+        "known_prefixes": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {
+          "AFRL": {
+            "http://purl.obolibrary.org/obo/DPBO_0010012": "AFRL:0000432"
+          },
+          "ENSGLOSSARY": {
+            "http://purl.obolibrary.org/obo/DPBO_0010000": "ENSGLOSSARY:0000217"
+          },
+          "MIAPPE": {
+            "http://purl.obolibrary.org/obo/NCIT_C45293": "MIAPPE:0043",
+            "http://purl.obolibrary.org/obo/OBI_0100026": "MIAPPE:0041"
+          },
+          "NCBI SRA": {
+            "http://purl.obolibrary.org/obo/GENEPIO_0001940": "NCBI SRA: LIBRARY_SELECTION",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001941": "NCBI SRA: 5-methylcytidine antibody",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001942": "NCBI SRA: CAGE",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001943": "NCBI SRA: CF-H",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001944": "NCBI SRA: CF-M",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001945": "NCBI SRA: CF-S",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001946": "NCBI SRA: CF-T",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001947": "NCBI SRA: ChIP",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001948": "NCBI SRA: DNAse",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001949": "NCBI SRA: HMPR",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001950": "NCBI SRA: Hybrid Selection",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001951": "NCBI SRA: MBD2 protein methyl-CpG binding domain",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001952": "NCBI SRA: MF",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001953": "NCBI SRA: MNase",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001954": "NCBI SRA: MSLL",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001955": "NCBI SRA: PCR",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001956": "NCBI SRA: RACE",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001957": "NCBI SRA: RANDOM PCR",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001958": "NCBI SRA: RANDOM",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001959": "NCBI SRA: RT-PCR",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001960": "NCBI SRA: Reduced Representation",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001961": "NCBI SRA: Restriction Digest",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001962": "NCBI SRA: cDNA",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001963": "NCBI SRA: size fractionation",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001964": "NCBI SRA: other",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001966": "NCBI SRA: GENOMIC",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001967": "NCBI SRA: METAGENOMIC",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001968": "NCBI SRA: METATRANSCRIPTOMIC",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001969": "NCBI SRA: OTHER",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001970": "NCBI SRA: SYNTHETIC",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001971": "NCBI SRA: TRANSCRIPTOMIC",
+            "http://purl.obolibrary.org/obo/GENEPIO_0001972": "NCBI SRA: VIRAL RNA"
+          },
+          "NFDI4PSO": {
+            "http://purl.obolibrary.org/obo/OBI_0100026": "NFDI4PSO:0000030"
+          },
+          "OME": {
+            "http://purl.obolibrary.org/obo/DPBO_1000101": "OME:Well",
+            "http://purl.obolibrary.org/obo/DPBO_1000142": "OME:Objective"
+          },
+          "data": {
+            "http://purl.obolibrary.org/obo/DPBO_1000105": "data:1086"
+          }
+        }
+      }
+    }
+  }
+}

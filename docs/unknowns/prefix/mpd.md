@@ -4,7 +4,7 @@
 
 | curie                      |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |----------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MPD:cur                    |       10 | [VT:0010751](http://purl.obolibrary.org/obo/VT_0010751), [VT:0010808](http://purl.obolibrary.org/obo/VT_0010808), [VT:0010997](http://purl.obolibrary.org/obo/VT_0010997), [VT:0010999](http://purl.obolibrary.org/obo/VT_0010999), [VT:0011000](http://purl.obolibrary.org/obo/VT_0011000), ... |
+| MPD:cur                    |       14 | [VT:0010751](http://purl.obolibrary.org/obo/VT_0010751), [VT:0010808](http://purl.obolibrary.org/obo/VT_0010808), [VT:0010997](http://purl.obolibrary.org/obo/VT_0010997), [VT:0010999](http://purl.obolibrary.org/obo/VT_0010999), [VT:0011000](http://purl.obolibrary.org/obo/VT_0011000), ... |
 | MPD:Mouse_Phenome_Database |        1 | [VT:0002607](http://purl.obolibrary.org/obo/VT_0002607)                                                                                                                                                                                                                                          |
 
 ## mmo

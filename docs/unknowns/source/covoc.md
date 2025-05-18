@@ -73,6 +73,16 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |---------------|----------|---------------------------------------------------------|
 | UToronto:chum |        1 | [HP:0030830](http://purl.obolibrary.org/obo/HP_0030830) |
 
+## `IEDB`
+
+There are 1 usages of `IEDB` in `covoc`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IEDB).
+
+| curie   |   usages | nodes                                                       |
+|---------|----------|-------------------------------------------------------------|
+| IEDB:BP |        1 | [PR:000000001](http://purl.obolibrary.org/obo/PR_000000001) |
+
 ## `MTH`
 
 There are 1 usages of `MTH` in `covoc`.

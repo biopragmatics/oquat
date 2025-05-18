@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:44:51.687832",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/miro.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/miro.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -4369,6 +4368,7 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -5070,14 +5070,14 @@
           }
         }
       },
-      "version": "2014-05-14",
-      "version_iri": "http://purl.obolibrary.org/obo/miro/releases/2014-05-14/miro.owl",
+      "version": "http://purl.obolibrary.org/obo/miro/releases/2014-05-14/miro.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MIRO_10000108": [
             "CAS:7-(2-chlorophenyl)-4-ethoxy-3,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile4-sulfide"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

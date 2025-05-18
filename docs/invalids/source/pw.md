@@ -102,6 +102,17 @@ did not match the standard pattern `^(C|D|M)\d{6,9}$`.
 | `MeSH:Medical_Subject_Headings` |              2 | [PW:0000517](http://purl.obolibrary.org/obo/PW_0000517), [PW:0001476](http://purl.obolibrary.org/obo/PW_0001476)                                                          |
 | `MeSH:MeSH_descriptor`          |              1 | [PW:0001414](http://purl.obolibrary.org/obo/PW_0001414)                                                                                                                   |
 
+## `MIM`: Online Mendelian Inheritance in Man
+
+Overall, there were 3 invalid
+xrefs to external prefixed with `MIM` (standardized to Bioregistry
+prefix [`omim`](https://bioregistry.io/omim)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                    |
+|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `MIM:OMIM`      |              3 | [PW:0000625](http://purl.obolibrary.org/obo/PW_0000625), [PW:0000627](http://purl.obolibrary.org/obo/PW_0000627), [PW:0000631](http://purl.obolibrary.org/obo/PW_0000631) |
+
 ## `NCI`: NCI Thesaurus
 
 Overall, there were 3 invalid
@@ -113,17 +124,6 @@ did not match the standard pattern `^[CRPA]\d+$`.
 |----------------------|----------------|------------------------------------------------------------------------------------------------------------------|
 | `NCI:NCI`            |              2 | [PW:0001211](http://purl.obolibrary.org/obo/PW_0001211), [PW:0001212](http://purl.obolibrary.org/obo/PW_0001212) |
 | `NCI:www.cancer.gov` |              1 | [PW:0001217](http://purl.obolibrary.org/obo/PW_0001217)                                                          |
-
-## `OMIM`: Online Mendelian Inheritance in Man
-
-Overall, there were 3 invalid
-xrefs to external prefixed with `OMIM` (standardized to Bioregistry
-prefix [`omim`](https://bioregistry.io/omim)) that
-did not match the standard pattern `^\d+$`.
-
-| external_xref   |   usages_count | usages                                                                                                                                                                    |
-|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `OMIM:OMIM`     |              3 | [PW:0000625](http://purl.obolibrary.org/obo/PW_0000625), [PW:0000627](http://purl.obolibrary.org/obo/PW_0000627), [PW:0000631](http://purl.obolibrary.org/obo/PW_0000631) |
 
 ## `PID`: NCI Pathway Interaction Database: Pathway
 

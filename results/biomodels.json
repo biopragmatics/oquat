@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:12:37.742899",
-  "messages": [],
   "results": {
     "http://identifiers.org/teddy/": {
       "graph_id": "http://identifiers.org/teddy/",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,15 +12,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "rel-2014-04-24 (inferred)",
-      "version_iri": "http://identifiers.org/combine.specifications/teddy.rel-2014-04-24",
+      "version": "http://identifiers.org/combine.specifications/teddy.rel-2014-04-24",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

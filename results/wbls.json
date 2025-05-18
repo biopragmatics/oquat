@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T10:05:49.095333",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/wbls.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/wbls.owl",
@@ -2223,6 +2221,7 @@
             "WB:dr"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -3016,6 +3015,7 @@
             "WB:dr"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -3025,10 +3025,10 @@
         },
         "unknown_prefixes": {}
       },
-      "version": "2023-09-26",
-      "version_iri": "http://purl.obolibrary.org/obo/wbls/releases/2023-09-26/wbls.owl",
+      "version": "http://purl.obolibrary.org/obo/wbls/releases/2025-04-01/wbls.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

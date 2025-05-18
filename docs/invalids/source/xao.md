@@ -41,19 +41,37 @@ did not match the standard pattern `^[CRPA]\d+$`.
 | `NCIt:Right`                   |              1 | [XAO:0005006](http://purl.obolibrary.org/obo/XAO_0005006) |
 | `NCIt:Abdominal_Wall`          |              1 | [XAO:0005504](http://purl.obolibrary.org/obo/XAO_0005504) |
 
+## `VSAO`: Vertebrate Skeletal Anatomy Ontology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `VSAO` (standardized to Bioregistry
+prefix [`vsao`](https://bioregistry.io/vsao)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                    |
+|-----------------|----------------|-----------------------------------------------------------|
+| `VSAO:00000082` |              1 | [XAO:0004023](http://purl.obolibrary.org/obo/XAO_0004023) |
+
 ## `XAO`: Xenopus Anatomy Ontology
 
-Overall, there were 663 invalid
+Overall, there were 5 invalid
 xrefs to external prefixed with `XAO` (standardized to Bioregistry
 prefix [`xao`](https://bioregistry.io/xao)) that
 did not match the standard pattern `^\d{7}$`.
 
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                |
+|-----------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `XAO:curator`   |              5 | [XAO:0000202](http://purl.obolibrary.org/obo/XAO_0000202), [XAO:0000280](http://purl.obolibrary.org/obo/XAO_0000280), [XAO:0003228](http://purl.obolibrary.org/obo/XAO_0003228), [XAO:0004088](http://purl.obolibrary.org/obo/XAO_0004088), [XAO:0004113](http://purl.obolibrary.org/obo/XAO_0004113) |
+
+## `Xenbase`: Xenbase
+
+Overall, there were 240 invalid
+xrefs to external prefixed with `Xenbase` (standardized to Bioregistry
+prefix [`xenbase`](https://bioregistry.io/xenbase)) that
+did not match the standard pattern `^XB\-\w+\-\d+$`.
+
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `XAO:EJS`       |            352 | [XAO:0000000](http://purl.obolibrary.org/obo/XAO_0000000), [XAO:0000027](http://purl.obolibrary.org/obo/XAO_0000027), [XAO:0000054](http://purl.obolibrary.org/obo/XAO_0000054), [XAO:0000069](http://purl.obolibrary.org/obo/XAO_0000069), [XAO:0000070](http://purl.obolibrary.org/obo/XAO_0000070), ... |
-| `XAO:curators`  |            211 | [XAO:0000013](http://purl.obolibrary.org/obo/XAO_0000013), [XAO:0000029](http://purl.obolibrary.org/obo/XAO_0000029), [XAO:0000030](http://purl.obolibrary.org/obo/XAO_0000030), [XAO:0000032](http://purl.obolibrary.org/obo/XAO_0000032), [XAO:0000034](http://purl.obolibrary.org/obo/XAO_0000034), ... |
-| `XAO:CJZ`       |             56 | [XAO:0000026](http://purl.obolibrary.org/obo/XAO_0000026), [XAO:0000048](http://purl.obolibrary.org/obo/XAO_0000048), [XAO:0000062](http://purl.obolibrary.org/obo/XAO_0000062), [XAO:0000063](http://purl.obolibrary.org/obo/XAO_0000063), [XAO:0000085](http://purl.obolibrary.org/obo/XAO_0000085), ... |
-| `XAO:MEF`       |             20 | [XAO:0005225](http://purl.obolibrary.org/obo/XAO_0005225), [XAO:0005282](http://purl.obolibrary.org/obo/XAO_0005282), [XAO:0005297](http://purl.obolibrary.org/obo/XAO_0005297), [XAO:0005298](http://purl.obolibrary.org/obo/XAO_0005298), [XAO:0005299](http://purl.obolibrary.org/obo/XAO_0005299), ... |
-| `XAO:KAB`       |             19 | [XAO:0004389](http://purl.obolibrary.org/obo/XAO_0004389), [XAO:0004525](http://purl.obolibrary.org/obo/XAO_0004525), [XAO:0004526](http://purl.obolibrary.org/obo/XAO_0004526), [XAO:0004527](http://purl.obolibrary.org/obo/XAO_0004527), [XAO:0004533](http://purl.obolibrary.org/obo/XAO_0004533), ... |
-| `XAO:curator`   |              5 | [XAO:0000202](http://purl.obolibrary.org/obo/XAO_0000202), [XAO:0000280](http://purl.obolibrary.org/obo/XAO_0000280), [XAO:0003228](http://purl.obolibrary.org/obo/XAO_0003228), [XAO:0004088](http://purl.obolibrary.org/obo/XAO_0004088), [XAO:0004113](http://purl.obolibrary.org/obo/XAO_0004113)      |
+| `Xenbase:Staff` |            221 | [XAO:0000013](http://purl.obolibrary.org/obo/XAO_0000013), [XAO:0000029](http://purl.obolibrary.org/obo/XAO_0000029), [XAO:0000030](http://purl.obolibrary.org/obo/XAO_0000030), [XAO:0000032](http://purl.obolibrary.org/obo/XAO_0000032), [XAO:0000034](http://purl.obolibrary.org/obo/XAO_0000034), ... |
+| `Xenbase:KAB`   |             19 | [XAO:0004389](http://purl.obolibrary.org/obo/XAO_0004389), [XAO:0004525](http://purl.obolibrary.org/obo/XAO_0004525), [XAO:0004526](http://purl.obolibrary.org/obo/XAO_0004526), [XAO:0004527](http://purl.obolibrary.org/obo/XAO_0004527), [XAO:0004533](http://purl.obolibrary.org/obo/XAO_0004533), ... |
 

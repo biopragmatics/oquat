@@ -1,10 +1,16 @@
 # `dorland`
 
+## dpbo
+
+| curie                                                    |   usages | nodes                                                     |
+|----------------------------------------------------------|----------|-----------------------------------------------------------|
+| Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed |        1 | [XCO:0000058](http://purl.obolibrary.org/obo/XCO_0000058) |
+
 ## xco
 
 | curie                                                    |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |----------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed |      151 | [XCO:0000001](http://purl.obolibrary.org/obo/XCO_0000001), [XCO:0000002](http://purl.obolibrary.org/obo/XCO_0000002), [XCO:0000009](http://purl.obolibrary.org/obo/XCO_0000009), [XCO:0000011](http://purl.obolibrary.org/obo/XCO_0000011), [XCO:0000013](http://purl.obolibrary.org/obo/XCO_0000013), ... |
+| Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed |      149 | [XCO:0000001](http://purl.obolibrary.org/obo/XCO_0000001), [XCO:0000002](http://purl.obolibrary.org/obo/XCO_0000002), [XCO:0000011](http://purl.obolibrary.org/obo/XCO_0000011), [XCO:0000013](http://purl.obolibrary.org/obo/XCO_0000013), [XCO:0000019](http://purl.obolibrary.org/obo/XCO_0000019), ... |
 
 ## vt
 

@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:44:56.822742",
-  "messages": [],
   "results": {
-    "http://purl.obolibrary.org/obo/mmusdv.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/mmusdv.owl",
+    "http://purl.obolibrary.org/obo/life-stages/components/mmusdv.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/life-stages/components/mmusdv.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -226,11 +225,13 @@
             "UBERON:cjm"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
+      "version": "http://purl.obolibrary.org/obo/life-stages/releases/2025-01-23/components/mmusdv.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MmusDv_0000003": [
@@ -318,6 +319,7 @@
             "EMAPA:TS28"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

@@ -187,16 +187,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |---------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | McGraw-Hill:McGraw-Hill_Concise_Dictionary_of_Modern_Medicine |       80 | [CMO:0000229](http://purl.obolibrary.org/obo/CMO_0000229), [CMO:0000450](http://purl.obolibrary.org/obo/CMO_0000450), [CMO:0001088](http://purl.obolibrary.org/obo/CMO_0001088), [CMO:0001089](http://purl.obolibrary.org/obo/CMO_0001089), [CMO:0001090](http://purl.obolibrary.org/obo/CMO_0001090), ... |
 
-## `Merriam-Webster`
-
-There are 1 usages of `Merriam-Webster` in `cmo`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Merriam-Webster).
-
-| curie                                                       |   usages | nodes                                                                                                                                                                                                                                                                                                      |
-|-------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed |      187 | [CMO:0000008](http://purl.obolibrary.org/obo/CMO_0000008), [CMO:0000024](http://purl.obolibrary.org/obo/CMO_0000024), [CMO:0000068](http://purl.obolibrary.org/obo/CMO_0000068), [CMO:0000101](http://purl.obolibrary.org/obo/CMO_0000101), [CMO:0000118](http://purl.obolibrary.org/obo/CMO_0000118), ... |
-
 ## `Miller-Keane`
 
 There are 1 usages of `Miller-Keane` in `cmo`.
@@ -225,7 +215,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie                                                          |   usages | nodes                                                                                                                                                                                                                                                                                                      |
 |----------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Mosby:Mosbys_Medical_Dictionary--8th_Ed                        |      171 | [CMO:0000077](http://purl.obolibrary.org/obo/CMO_0000077), [CMO:0000229](http://purl.obolibrary.org/obo/CMO_0000229), [CMO:0000231](http://purl.obolibrary.org/obo/CMO_0000231), [CMO:0000286](http://purl.obolibrary.org/obo/CMO_0000286), [CMO:0000669](http://purl.obolibrary.org/obo/CMO_0000669), ... |
+| Mosby:Mosbys_Medical_Dictionary--8th_Ed                        |      169 | [CMO:0000077](http://purl.obolibrary.org/obo/CMO_0000077), [CMO:0000229](http://purl.obolibrary.org/obo/CMO_0000229), [CMO:0000231](http://purl.obolibrary.org/obo/CMO_0000231), [CMO:0000286](http://purl.obolibrary.org/obo/CMO_0000286), [CMO:0000669](http://purl.obolibrary.org/obo/CMO_0000669), ... |
 | Mosby:Mosbys_Manual_of_Diagnostic_and_Laboratory_Tests--4th_Ed |      108 | [CMO:0000023](http://purl.obolibrary.org/obo/CMO_0000023), [CMO:0000024](http://purl.obolibrary.org/obo/CMO_0000024), [CMO:0000025](http://purl.obolibrary.org/obo/CMO_0000025), [CMO:0000027](http://purl.obolibrary.org/obo/CMO_0000027), [CMO:0000029](http://purl.obolibrary.org/obo/CMO_0000029), ... |
 | Mosby:Mosbys_Dental_Dictionary--2nd_Ed                         |       45 | [CMO:0000004](http://purl.obolibrary.org/obo/CMO_0000004), [CMO:0000006](http://purl.obolibrary.org/obo/CMO_0000006), [CMO:0000007](http://purl.obolibrary.org/obo/CMO_0000007), [CMO:0000096](http://purl.obolibrary.org/obo/CMO_0000096), [CMO:0000097](http://purl.obolibrary.org/obo/CMO_0000097), ... |
 | Mosby:Mosbys_Medical_Dictionary--9th_Ed                        |        2 | [CMO:0002762](http://purl.obolibrary.org/obo/CMO_0002762), [CMO:0002791](http://purl.obolibrary.org/obo/CMO_0002791)                                                                                                                                                                                       |

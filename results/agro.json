@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:11:07.324530",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/agro-edit.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/agro-edit.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {
           "http://purl.obolibrary.org/obo/AGRO_00000005": [
@@ -116,15 +115,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2022-11-02",
-      "version_iri": "http://purl.obolibrary.org/obo/agro/releases/2022-11-02/agro.owl",
+      "version": "http://purl.obolibrary.org/obo/agro/releases/2022-11-02/agro.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {
           "http://purl.obolibrary.org/obo/AGRO_00000318": [

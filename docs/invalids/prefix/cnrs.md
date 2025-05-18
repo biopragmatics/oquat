@@ -11,7 +11,6 @@ Identifiers for this prefix are given incorrectly in `ror`. See the [GitHub repo
 
 | external_xref   |   usages_count | usages                                                 |
 |-----------------|----------------|--------------------------------------------------------|
-| `cnrs:UPS76`    |              1 | [https://ror.org/02mn0vt57](https://ror.org/02mn0vt57) |
 | `cnrs:U1194`    |              1 | [https://ror.org/03capj968](https://ror.org/03capj968) |
 | `cnrs:5022`     |              1 | [https://ror.org/04mp4zc06](https://ror.org/04mp4zc06) |
 | `cnrs:Q7105570` |              1 | [https://ror.org/05r2k0m61](https://ror.org/05r2k0m61) |

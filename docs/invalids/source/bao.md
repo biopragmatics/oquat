@@ -99,22 +99,6 @@ did not match the standard pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,
 | `KEGG:05210`    |              1 | [DOID:9256](http://purl.obolibrary.org/obo/DOID_9256)                                                              |
 | `KEGG:04930`    |              1 | [DOID:9352](http://purl.obolibrary.org/obo/DOID_9352)                                                              |
 
-## `MESH`: Medical Subject Headings
-
-Overall, there were 6 invalid
-xrefs to external prefixed with `MESH` (standardized to Bioregistry
-prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D|M)\d{6,9}$`.
-
-| external_xref              |   usages_count | usages                                                          |
-|----------------------------|----------------|-----------------------------------------------------------------|
-| `MESH:A03.492.411`         |              1 | [UBERON:0000160](http://purl.obolibrary.org/obo/UBERON_0000160) |
-| `MESH:A03.492.766`         |              1 | [UBERON:0000945](http://purl.obolibrary.org/obo/UBERON_0000945) |
-| `MESH:A03.365`             |              1 | [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) |
-| `MESH:A05.810.161`         |              1 | [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) |
-| `MESH:A03.492.411.620.270` |              1 | [UBERON:0002114](http://purl.obolibrary.org/obo/UBERON_0002114) |
-| `MESH:A12.207.630`         |              1 | [UBERON:0002391](http://purl.obolibrary.org/obo/UBERON_0002391) |
-
 ## `ncithesaurus`: NCI Thesaurus
 
 Overall, there were 1 invalid

@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:23:29.551305",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/cido.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/cido.owl",
@@ -22,6 +20,7 @@
             "VariO:mv"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -29,14 +28,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "1.0.369",
+      "version": "http://purl.obolibrary.org/obo/cido/releases/2024-02-16/cido.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

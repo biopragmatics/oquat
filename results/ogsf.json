@@ -1,15 +1,10 @@
 {
-  "created": "2023-12-07T09:52:34.097807",
-  "messages": [
-    "2023-12-07 09:52:33,694 ERROR org.semanticweb.owlapi.rdf.rdfxml.parser.OWLRDFConsumer - Entity not properly recognized, missing triples in input? http://org.semanticweb.owlapi/error#Error1 for type Class",
-    "2023-12-07 09:52:33,700 ERROR org.semanticweb.owlapi.rdf.rdfxml.parser.OWLRDFConsumer - Entity not properly recognized, missing triples in input? http://org.semanticweb.owlapi/error#Error2 for type Class",
-    "2023-12-07 09:52:33,702 ERROR org.semanticweb.owlapi.rdf.rdfxml.parser.OWLRDFConsumer - Entity not properly recognized, missing triples in input? http://org.semanticweb.owlapi/error#Error3 for type Class"
-  ],
   "results": {
     "http://purl.obolibrary.org/obo/ogsf-merged.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/ogsf-merged.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -17,14 +12,15 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2.0",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

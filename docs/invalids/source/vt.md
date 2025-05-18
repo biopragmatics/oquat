@@ -4,6 +4,19 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `vt`. See the [GitHub repository](https://github.com/AnimalGenome/vertebrate-trait-ontology).
 
 
+## `EFO`: Experimental Factor Ontology
+
+Overall, there were 3 invalid
+xrefs to external prefixed with `EFO` (standardized to Bioregistry
+prefix [`efo`](https://bioregistry.io/efo)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                  |
+|-----------------|----------------|---------------------------------------------------------|
+| `EFO:004465`    |              1 | [VT:0000188](http://purl.obolibrary.org/obo/VT_0000188) |
+| `EFO:00004305`  |              1 | [VT:0001586](http://purl.obolibrary.org/obo/VT_0001586) |
+| `EFO:00022296`  |              1 | [VT:0010504](http://purl.obolibrary.org/obo/VT_0010504) |
+
 ## `MESH`: Medical Subject Headings
 
 Overall, there were 2 invalid
@@ -85,14 +98,14 @@ did not match the standard pattern `^\d+$`.
 
 ## `RGD`: Rat Genome Database
 
-Overall, there were 389 invalid
+Overall, there were 466 invalid
 xrefs to external prefixed with `RGD` (standardized to Bioregistry
 prefix [`rgd`](https://bioregistry.io/rgd)) that
 did not match the standard pattern `^\d{4,}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                           |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `RGD:cur`       |            254 | [VT:0000032](http://purl.obolibrary.org/obo/VT_0000032), [VT:0002871](http://purl.obolibrary.org/obo/VT_0002871), [VT:0002928](http://purl.obolibrary.org/obo/VT_0002928), [VT:0002929](http://purl.obolibrary.org/obo/VT_0002929), [VT:0002932](http://purl.obolibrary.org/obo/VT_0002932), ... |
+| `RGD:cur`       |            331 | [VT:0000032](http://purl.obolibrary.org/obo/VT_0000032), [VT:0002871](http://purl.obolibrary.org/obo/VT_0002871), [VT:0002928](http://purl.obolibrary.org/obo/VT_0002928), [VT:0002929](http://purl.obolibrary.org/obo/VT_0002929), [VT:0002932](http://purl.obolibrary.org/obo/VT_0002932), ... |
 | `RGD:MS`        |             62 | [VT:0000073](http://purl.obolibrary.org/obo/VT_0000073), [VT:0000222](http://purl.obolibrary.org/obo/VT_0000222), [VT:0000524](http://purl.obolibrary.org/obo/VT_0000524), [VT:0000535](http://purl.obolibrary.org/obo/VT_0000535), [VT:0000544](http://purl.obolibrary.org/obo/VT_0000544), ... |
 | `RGD:dhm`       |             55 | [VT:0000050](http://purl.obolibrary.org/obo/VT_0000050), [VT:0000066](http://purl.obolibrary.org/obo/VT_0000066), [VT:0000153](http://purl.obolibrary.org/obo/VT_0000153), [VT:0000154](http://purl.obolibrary.org/obo/VT_0000154), [VT:0000170](http://purl.obolibrary.org/obo/VT_0000170), ... |
 | `RGD:ms`        |             18 | [VT:0002128](http://purl.obolibrary.org/obo/VT_0002128), [VT:0002295](http://purl.obolibrary.org/obo/VT_0002295), [VT:0002504](http://purl.obolibrary.org/obo/VT_0002504), [VT:0002726](http://purl.obolibrary.org/obo/VT_0002726), [VT:0002792](http://purl.obolibrary.org/obo/VT_0002792), ... |

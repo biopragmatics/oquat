@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:28:34.249033",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/envo.json": {
       "graph_id": "http://purl.obolibrary.org/obo/envo.json",
@@ -567,9 +565,6 @@
           "http://purl.obolibrary.org/obo/ENVO_00005803": [
             "MA:ma"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_00010483": [
-            "MA:ma"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00011764": [
             "MA:ma"
           ],
@@ -594,9 +589,6 @@
           "http://purl.obolibrary.org/obo/ENVO_01000710": [
             "GEMET:http://www.eionet.europa.eu/gemet/concept/3298"
           ],
-          "http://purl.obolibrary.org/obo/ENVO_01000739": [
-            "EnvO:EnvO"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_01001062": [
             "MA:ma"
           ],
@@ -616,6 +608,7 @@
             "GEMET:http://www.eionet.europa.eu/gemet/concept/167"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {
           "http://purl.obolibrary.org/obo/ENVO_01000784": [
@@ -722,7 +715,6 @@
           "URL": {
             "http://purl.obolibrary.org/obo/ENVO_00000546": "URL:http://www.britannica.com/EBchecked/topic/328083/lake/59070/Sediments-and-sedimentation",
             "http://purl.obolibrary.org/obo/ENVO_00002047": "URL:http://www.stjude.org/stjude/hospital/med_terms.jsp",
-            "http://purl.obolibrary.org/obo/ENVO_00010483": "URL:http://ontology.buffalo.edu/smith/articles/niches.html",
             "http://purl.obolibrary.org/obo/ENVO_00010504": "URL:http://www.merriam-webster.com/dictionary/surface",
             "http://purl.obolibrary.org/obo/ENVO_01000099": "URL:http://www.physicalgeography.net/fundamentals/8q.html",
             "http://purl.obolibrary.org/obo/ENVO_01000103": "URL:http://www.physicalgeography.net/fundamentals/8q.html",
@@ -739,7 +731,6 @@
             "http://purl.obolibrary.org/obo/ENVO_02000002": "URL:http://www.m-w.com/dictionary/bedclothes",
             "http://purl.obolibrary.org/obo/ENVO_02000005": "URL:http://www.vbgov.com/vgn.aspxLivestock",
             "http://purl.obolibrary.org/obo/ENVO_02000007": "URL:http://www.fao.org/DOCREP/003/X3910E/X3910E23.htm#TopOfPage",
-            "http://purl.obolibrary.org/obo/ENVO_02000008": "URL:http://stemcells.nih.gov/StemCells/Templates/StemCellContentPage.aspx?NRMODE=Published&NRNODEGUID=%7b3C35BAB6-0FE6-4C4E-95F2-2CB61B58D96D%7d&NRORIGINALURL=%2finfo%2fglossary%2easp&NRCACHEHINT=NoModifyGuest#cellculture",
             "http://purl.obolibrary.org/obo/ENVO_02000009": "URL:http://www.sivb.org/edu_terminology.asp",
             "http://purl.obolibrary.org/obo/ENVO_02000010": "URL:http://www.fao.org/DOCREP/003/X3910E/X3910E18.htm",
             "http://purl.obolibrary.org/obo/ENVO_02000019": "URL:http://medical-dictionary.thefreedictionary.com/bodily+fluid",
@@ -816,9 +807,6 @@
             "http://purl.obolibrary.org/obo/ENVO_01000182": "WWW:http://www.fs.fed.us/land/ecosysmgmt/colorimagemap/images/340.html",
             "http://purl.obolibrary.org/obo/ENVO_01000183": "WWW:http://www.earthonlinemedia.com/ebooks/tpe_3e/title_page.html",
             "http://purl.obolibrary.org/obo/ENVO_01000184": "WWW:http://www.earthonlinemedia.com/ebooks/tpe_3e/title_page.html"
-          },
-          "Wiktionary": {
-            "http://purl.obolibrary.org/obo/ENVO_01000281": "Wiktionary:layer"
           },
           "webpage": {
             "http://purl.obolibrary.org/obo/ENVO_00002277": "webpage:http://www.venturedeepocean.org/vents/stretching.html"
@@ -1182,6 +1170,7 @@
             "Geonames:feature"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -1259,7 +1248,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000127": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000130": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000131": "ADL:FTT",
-            "http://purl.obolibrary.org/obo/ENVO_00000132": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000133": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000135": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000136": "ADL:FTT",
@@ -1576,7 +1564,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000125": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000129": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000130": "USGS:SDTS",
-            "http://purl.obolibrary.org/obo/ENVO_00000132": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000133": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000136": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000141": "USGS:SDTS",
@@ -1695,8 +1682,7 @@
           }
         }
       },
-      "version": "2023-02-13",
-      "version_iri": "http://purl.obolibrary.org/obo/envo/releases/2023-02-13/envo.json",
+      "version": "http://purl.obolibrary.org/obo/envo/releases/2025-02-05/envo.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000005": [
@@ -2531,6 +2517,7 @@
             "WWF:IM1303"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {
           "http://purl.obolibrary.org/obo/ENVO_01001644": [
@@ -2576,6 +2563,40 @@
           }
         },
         "unknown_prefixes": {
+          "IUCN-PACS": {
+            "http://purl.obolibrary.org/obo/ENVO_00000367": "IUCN-PACS:II",
+            "http://purl.obolibrary.org/obo/ENVO_01001162": "IUCN-PACS:Ia",
+            "http://purl.obolibrary.org/obo/ENVO_01001163": "IUCN-PACS:Ib",
+            "http://purl.obolibrary.org/obo/ENVO_01001165": "IUCN-PACS:III",
+            "http://purl.obolibrary.org/obo/ENVO_01001166": "IUCN-PACS:IV",
+            "http://purl.obolibrary.org/obo/ENVO_01001172": "IUCN-PACS:V",
+            "http://purl.obolibrary.org/obo/ENVO_01001225": "IUCN-PACS:VI"
+          },
+          "METAR": {
+            "http://purl.obolibrary.org/obo/ENVO_01000896": "METAR:FZRA"
+          },
+          "NLCD": {
+            "http://purl.obolibrary.org/obo/ENVO_01000666": "NLCD:11",
+            "http://purl.obolibrary.org/obo/ENVO_01000746": "NLCD:12",
+            "http://purl.obolibrary.org/obo/ENVO_01000752": "NLCD:31",
+            "http://purl.obolibrary.org/obo/ENVO_01000816": "NLCD:41",
+            "http://purl.obolibrary.org/obo/ENVO_01000843": "NLCD:42",
+            "http://purl.obolibrary.org/obo/ENVO_01000855": "NLCD:43",
+            "http://purl.obolibrary.org/obo/ENVO_01000861": "NLCD:51",
+            "http://purl.obolibrary.org/obo/ENVO_01000869": "NLCD:52",
+            "http://purl.obolibrary.org/obo/ENVO_01000883": "NLCD:21",
+            "http://purl.obolibrary.org/obo/ENVO_01000884": "NLCD:22",
+            "http://purl.obolibrary.org/obo/ENVO_01000885": "NLCD:23",
+            "http://purl.obolibrary.org/obo/ENVO_01000886": "NLCD:24",
+            "http://purl.obolibrary.org/obo/ENVO_01000887": "NLCD:72",
+            "http://purl.obolibrary.org/obo/ENVO_01000888": "NLCD:71",
+            "http://purl.obolibrary.org/obo/ENVO_01000889": "NLCD:73",
+            "http://purl.obolibrary.org/obo/ENVO_01000890": "NLCD:74",
+            "http://purl.obolibrary.org/obo/ENVO_01000891": "NLCD:81",
+            "http://purl.obolibrary.org/obo/ENVO_01000892": "NLCD:82",
+            "http://purl.obolibrary.org/obo/ENVO_01000893": "NLCD:90",
+            "http://purl.obolibrary.org/obo/ENVO_01000894": "NLCD:95"
+          },
           "SPIRE": {
             "http://purl.obolibrary.org/obo/ENVO_00000020": "SPIRE:Lake_or_pond",
             "http://purl.obolibrary.org/obo/ENVO_00000022": "SPIRE:River",

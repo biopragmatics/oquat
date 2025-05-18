@@ -8,10 +8,11 @@
 | J:97123  |        1 | [UBERON:0003604](http://purl.obolibrary.org/obo/UBERON_0003604) |
 | J:117841 |        1 | [UBERON:0015171](http://purl.obolibrary.org/obo/UBERON_0015171) |
 
-## ccf
+## nif
 
 | curie    |   usages | nodes                                                           |
 |----------|----------|-----------------------------------------------------------------|
+| J:77634  |        1 | [UBERON:0002233](http://purl.obolibrary.org/obo/UBERON_0002233) |
 | J:97123  |        1 | [UBERON:0003604](http://purl.obolibrary.org/obo/UBERON_0003604) |
 | J:117841 |        1 | [UBERON:0015171](http://purl.obolibrary.org/obo/UBERON_0015171) |
 

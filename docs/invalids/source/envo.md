@@ -17,14 +17,14 @@ did not match the standard pattern `^\d+$`.
 
 ## `EnvO`: Environment Ontology
 
-Overall, there were 2 invalid
+Overall, there were 1 invalid
 xrefs to external prefixed with `EnvO` (standardized to Bioregistry
 prefix [`envo`](https://bioregistry.io/envo)) that
 did not match the standard pattern `^\d{7,8}$`.
 
-| external_xref   |   usages_count | usages                                                                                                                       |
-|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------|
-| `EnvO:EnvO`     |              2 | [ENVO:00002036](http://purl.obolibrary.org/obo/ENVO_00002036), [ENVO:01000739](http://purl.obolibrary.org/obo/ENVO_01000739) |
+| external_xref   |   usages_count | usages                                                        |
+|-----------------|----------------|---------------------------------------------------------------|
+| `EnvO:EnvO`     |              1 | [ENVO:00002036](http://purl.obolibrary.org/obo/ENVO_00002036) |
 
 ## `FAO`: Fungal gross anatomy
 
@@ -408,14 +408,14 @@ did not match the standard pattern `^\d+$`.
 
 ## `MA`: Mouse adult gross anatomy
 
-Overall, there were 134 invalid
+Overall, there were 133 invalid
 xrefs to external prefixed with `MA` (standardized to Bioregistry
 prefix [`ma`](https://bioregistry.io/ma)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MA:ma`         |            134 | [ENVO:00000010](http://purl.obolibrary.org/obo/ENVO_00000010), [ENVO:00000012](http://purl.obolibrary.org/obo/ENVO_00000012), [ENVO:00000014](http://purl.obolibrary.org/obo/ENVO_00000014), [ENVO:00000018](http://purl.obolibrary.org/obo/ENVO_00000018), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), ... |
+| `MA:ma`         |            133 | [ENVO:00000010](http://purl.obolibrary.org/obo/ENVO_00000010), [ENVO:00000012](http://purl.obolibrary.org/obo/ENVO_00000012), [ENVO:00000014](http://purl.obolibrary.org/obo/ENVO_00000014), [ENVO:00000018](http://purl.obolibrary.org/obo/ENVO_00000018), [ENVO:00000019](http://purl.obolibrary.org/obo/ENVO_00000019), ... |
 
 ## `WWF`: World Wildlife Fund Ecoregion
 

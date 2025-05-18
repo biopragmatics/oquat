@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:59:50.059569",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/tads.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/tads.owl",
@@ -34,6 +32,7 @@
             "ISSN:0168-8162 Exp. Appl.Acarol. 17: 631-653"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -48,15 +47,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2015-08-20",
-      "version_iri": "http://purl.obolibrary.org/obo/tads/2015-08-20/tads.owl",
+      "version": "http://purl.obolibrary.org/obo/tads/2015-08-20/tads.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

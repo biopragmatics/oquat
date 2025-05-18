@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:31:38.883557",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/geno.json": {
       "graph_id": "http://purl.obolibrary.org/obo/geno.json",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,13 +12,13 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2023-10-08",
-      "version_iri": "http://purl.obolibrary.org/obo/geno/releases/2023-10-08/geno.json",
+      "version": "http://purl.obolibrary.org/obo/geno/releases/2023-10-08/geno.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/GENO_0000010": [
@@ -29,6 +28,7 @@
             "SO:0000831 (gene member region)"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

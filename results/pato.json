@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:54:52.346123",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/pato.json": {
       "graph_id": "http://purl.obolibrary.org/obo/pato.json",
@@ -253,6 +251,7 @@
             "ENVO:pb"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -264,7 +263,45 @@
           "Medline": {
             "http://purl.obolibrary.org/obo/PATO_0002048": "Medline:http://www.nlm.nih.gov/medlineplus"
           },
+          "Merriam-Webster": {
+            "http://purl.obolibrary.org/obo/PATO_0000261": "Merriam-Webster:Merriam-Webster",
+            "http://purl.obolibrary.org/obo/PATO_0000395": "Merriam-Webster:Merriam-Webster",
+            "http://purl.obolibrary.org/obo/PATO_0001501": "Merriam-Webster:Merriam-Webster",
+            "http://purl.obolibrary.org/obo/PATO_0001608": "Merriam-Webster:Merriam-Webster",
+            "http://purl.obolibrary.org/obo/PATO_0001701": "Merriam-Webster:Merriam-Webster",
+            "http://purl.obolibrary.org/obo/PATO_0001727": "Merriam-Webster:Merriam-Webster",
+            "http://purl.obolibrary.org/obo/PATO_0002509": "Merriam-Webster:hexagonal",
+            "http://purl.obolibrary.org/obo/PATO_0002512": "Merriam-Webster:confluent"
+          },
+          "merriam-webster": {
+            "http://purl.obolibrary.org/obo/PATO_0000048": "merriam-webster:merriam-webster",
+            "http://purl.obolibrary.org/obo/PATO_0001031": "merriam-webster:merriam-webster",
+            "http://purl.obolibrary.org/obo/PATO_0001171": "merriam-webster:merriam-webster",
+            "http://purl.obolibrary.org/obo/PATO_0001172": "merriam-webster:merriam-webster",
+            "http://purl.obolibrary.org/obo/PATO_0001543": "merriam-webster:merriam-webster",
+            "http://purl.obolibrary.org/obo/PATO_0001544": "merriam-webster:merriam-webster",
+            "http://purl.obolibrary.org/obo/PATO_0001545": "merriam-webster:merriam-webster",
+            "http://purl.obolibrary.org/obo/PATO_0002085": "merriam-webster:merriam-webster",
+            "http://purl.obolibrary.org/obo/PATO_0002113": "merriam-webster:merriam-webster",
+            "http://purl.obolibrary.org/obo/PATO_0002180": "merriam-webster:merriam-webster",
+            "http://purl.obolibrary.org/obo/PATO_0002211": "merriam-webster:http://www.merriam-webster.com/dictionary/recurved",
+            "http://purl.obolibrary.org/obo/PATO_0002212": "merriam-webster:http://www.merriam-webster.com/dictionary/slender",
+            "http://purl.obolibrary.org/obo/PATO_0002215": "merriam-webster:http://www.merriam-webster.com/dictionary/falciform",
+            "http://purl.obolibrary.org/obo/PATO_0002348": "merriam-webster:http://www.merriam-webster.com/dictionary/ligneous",
+            "http://purl.obolibrary.org/obo/PATO_0002349": "merriam-webster:http://www.merriam-webster.com/dictionary/basal",
+            "http://purl.obolibrary.org/obo/PATO_0002350": "merriam-webster:http://www.merriam-webster.com/dictionary/cauline",
+            "http://purl.obolibrary.org/obo/PATO_0002391": "merriam-webster:merriam-webster",
+            "http://purl.obolibrary.org/obo/PATO_0002435": "merriam-webster:merriam-webster",
+            "http://purl.obolibrary.org/obo/PATO_0002437": "merriam-webster:merriam-webster",
+            "http://purl.obolibrary.org/obo/PATO_0002537": "merriam-webster:http://www.merriam-webster.com/dictionary/subovoid",
+            "http://purl.obolibrary.org/obo/PATO_0002538": "merriam-webster:http://www.merriam-webster.com/dictionary/concavo-convex"
+          },
+          "merriam-webster.": {
+            "http://purl.obolibrary.org/obo/PATO_0001534": "merriam-webster.:merriam-webster.",
+            "http://purl.obolibrary.org/obo/PATO_0001535": "merriam-webster.:merriam-webster."
+          },
           "wikipedia": {
+            "http://purl.obolibrary.org/obo/PATO_0001408": "wikipedia:Cilium",
             "http://purl.obolibrary.org/obo/PATO_0001895": "wikipedia:wikipedia",
             "http://purl.obolibrary.org/obo/PATO_0002131": "wikipedia:wikipedia",
             "http://purl.obolibrary.org/obo/PATO_0002133": "wikipedia:wikipedia",
@@ -381,16 +418,6 @@
           },
           "Medical-dictionary": {
             "http://purl.obolibrary.org/obo/PATO_0001432": "Medical-dictionary:Medical-dictionary"
-          },
-          "Merriam-Webster": {
-            "http://purl.obolibrary.org/obo/PATO_0000261": "Merriam-Webster:Merriam-Webster",
-            "http://purl.obolibrary.org/obo/PATO_0000395": "Merriam-Webster:Merriam-Webster",
-            "http://purl.obolibrary.org/obo/PATO_0001501": "Merriam-Webster:Merriam-Webster",
-            "http://purl.obolibrary.org/obo/PATO_0001608": "Merriam-Webster:Merriam-Webster",
-            "http://purl.obolibrary.org/obo/PATO_0001701": "Merriam-Webster:Merriam-Webster",
-            "http://purl.obolibrary.org/obo/PATO_0001727": "Merriam-Webster:Merriam-Webster",
-            "http://purl.obolibrary.org/obo/PATO_0002509": "Merriam-Webster:hexagonal",
-            "http://purl.obolibrary.org/obo/PATO_0002512": "Merriam-Webster:confluent"
           },
           "NDI": {
             "http://purl.obolibrary.org/obo/PATO_0000629": "NDI:NDI"
@@ -755,7 +782,6 @@
             "http://purl.obolibrary.org/obo/PATO_0001467": "PATOC:GVG",
             "http://purl.obolibrary.org/obo/PATO_0001468": "PATOC:GVG",
             "http://purl.obolibrary.org/obo/PATO_0001469": "PATOC:GVG",
-            "http://purl.obolibrary.org/obo/PATO_0001470": "PATOC:nw",
             "http://purl.obolibrary.org/obo/PATO_0001472": "PATOC:GVG",
             "http://purl.obolibrary.org/obo/PATO_0001475": "PATOC:GVG",
             "http://purl.obolibrary.org/obo/PATO_0001476": "PATOC:GVG",
@@ -1631,33 +1657,6 @@
             "http://purl.obolibrary.org/obo/PATO_0001512": "medical-dictionary:medical-dictionary",
             "http://purl.obolibrary.org/obo/PATO_0002046": "medical-dictionary:http://medical-dictionary.thefreedictionary.com/abaxial"
           },
-          "merriam-webster": {
-            "http://purl.obolibrary.org/obo/PATO_0000048": "merriam-webster:merriam-webster",
-            "http://purl.obolibrary.org/obo/PATO_0001031": "merriam-webster:merriam-webster",
-            "http://purl.obolibrary.org/obo/PATO_0001171": "merriam-webster:merriam-webster",
-            "http://purl.obolibrary.org/obo/PATO_0001172": "merriam-webster:merriam-webster",
-            "http://purl.obolibrary.org/obo/PATO_0001543": "merriam-webster:merriam-webster",
-            "http://purl.obolibrary.org/obo/PATO_0001544": "merriam-webster:merriam-webster",
-            "http://purl.obolibrary.org/obo/PATO_0001545": "merriam-webster:merriam-webster",
-            "http://purl.obolibrary.org/obo/PATO_0002085": "merriam-webster:merriam-webster",
-            "http://purl.obolibrary.org/obo/PATO_0002113": "merriam-webster:merriam-webster",
-            "http://purl.obolibrary.org/obo/PATO_0002180": "merriam-webster:merriam-webster",
-            "http://purl.obolibrary.org/obo/PATO_0002211": "merriam-webster:http://www.merriam-webster.com/dictionary/recurved",
-            "http://purl.obolibrary.org/obo/PATO_0002212": "merriam-webster:http://www.merriam-webster.com/dictionary/slender",
-            "http://purl.obolibrary.org/obo/PATO_0002215": "merriam-webster:http://www.merriam-webster.com/dictionary/falciform",
-            "http://purl.obolibrary.org/obo/PATO_0002348": "merriam-webster:http://www.merriam-webster.com/dictionary/ligneous",
-            "http://purl.obolibrary.org/obo/PATO_0002349": "merriam-webster:http://www.merriam-webster.com/dictionary/basal",
-            "http://purl.obolibrary.org/obo/PATO_0002350": "merriam-webster:http://www.merriam-webster.com/dictionary/cauline",
-            "http://purl.obolibrary.org/obo/PATO_0002391": "merriam-webster:merriam-webster",
-            "http://purl.obolibrary.org/obo/PATO_0002435": "merriam-webster:merriam-webster",
-            "http://purl.obolibrary.org/obo/PATO_0002437": "merriam-webster:merriam-webster",
-            "http://purl.obolibrary.org/obo/PATO_0002537": "merriam-webster:http://www.merriam-webster.com/dictionary/subovoid",
-            "http://purl.obolibrary.org/obo/PATO_0002538": "merriam-webster:http://www.merriam-webster.com/dictionary/concavo-convex"
-          },
-          "merriam-webster.": {
-            "http://purl.obolibrary.org/obo/PATO_0001534": "merriam-webster.:merriam-webster.",
-            "http://purl.obolibrary.org/obo/PATO_0001535": "merriam-webster.:merriam-webster."
-          },
           "merriam-wester": {
             "http://purl.obolibrary.org/obo/PATO_0002481": "merriam-wester:http://www.merriam-webster.com/dictionary/oblique"
           },
@@ -1801,11 +1800,6 @@
             "http://purl.obolibrary.org/obo/PATO_0002371": "wiki:http://en.wikipedia.org/wiki/Parity_(biology)",
             "http://purl.obolibrary.org/obo/PATO_0002372": "wiki:http://en.wikipedia.org/wiki/Parity_(biology)"
           },
-          "wiktionary": {
-            "http://purl.obolibrary.org/obo/PATO_0002318": "wiktionary:superellipse",
-            "http://purl.obolibrary.org/obo/PATO_0002347": "wiktionary:http://en.wiktionary.org/wiki/obconical",
-            "http://purl.obolibrary.org/obo/PATO_0002351": "wiktionary:http://en.wiktionary.org/wiki/fleshy"
-          },
           "wordnetweb": {
             "http://purl.obolibrary.org/obo/PATO_0002426": "wordnetweb:wordnetweb"
           },
@@ -1828,6 +1822,7 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -1841,8 +1836,7 @@
           }
         }
       },
-      "version": "2023-05-18",
-      "version_iri": "http://purl.obolibrary.org/obo/pato/releases/2023-05-18/pato.json",
+      "version": "http://purl.obolibrary.org/obo/pato/releases/2025-05-14/pato.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/PATO_0001555": [
@@ -1852,6 +1846,7 @@
             "OBO_REL:lacks_part"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {

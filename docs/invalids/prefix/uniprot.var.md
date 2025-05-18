@@ -5,7 +5,7 @@ but use local unique identifiers that do not match the standard pattern of
 `^\d+$`. Of the 1 resources,
 1 variants on the standard prefix were found: ['UniProtKB_VAR'].
 
-## `nif`: None
+## `nif`
 
 Identifiers for this prefix are given incorrectly in `nif`.
 

@@ -2,8 +2,8 @@
 
 This page summarize the different resources that reference `kegg.compound`
 but use local unique identifiers that do not match the standard pattern of
-`^C\d+$`. Of the 2 resources,
-1 variants on the standard prefix were found: ['KEGG COMPOUND'].
+`^C\d+$`. Of the 3 resources,
+2 variants on the standard prefix were found: ['KEGG COMPOUND', 'KEGG.COMPOUND'].
 
 ## `dto`: Drug Target Ontology
 
@@ -51,19 +51,28 @@ Identifiers for this prefix are given incorrectly in `dto`. See the [GitHub repo
 | `KEGG COMPOUND:148498-78-6` |              1 | [CHEBI:80339](http://purl.obolibrary.org/obo/CHEBI_80339) |
 | `KEGG COMPOUND:9002-04-4`   |              1 | [CHEBI:9574](http://purl.obolibrary.org/obo/CHEBI_9574)   |
 
+## `nif`
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref             |   usages_count | usages                                                    |
+|---------------------------|----------------|-----------------------------------------------------------|
+| `KEGG COMPOUND:87-51-4`   |              1 | [CHEBI:16411](http://purl.obolibrary.org/obo/CHEBI_16411) |
+| `KEGG COMPOUND:6894-38-8` |              1 | [CHEBI:18292](http://purl.obolibrary.org/obo/CHEBI_18292) |
+
 ## `sibo`: Social Insect Behavior Ontology
 
 Identifiers for this prefix are given incorrectly in `sibo`. See the [GitHub repository](https://github.com/obophenotype/sibo).
 
 | external_xref          |   usages_count | usages                                                      |
 |------------------------|----------------|-------------------------------------------------------------|
-| `KEGG COMPOUND:c00180` |              1 | [SIBO:0000171](http://purl.obolibrary.org/obo/SIBO_0000171) |
-| `KEGG COMPOUND:c00711` |              1 | [SIBO:0000172](http://purl.obolibrary.org/obo/SIBO_0000172) |
-| `KEGG COMPOUND:c00383` |              1 | [SIBO:0000175](http://purl.obolibrary.org/obo/SIBO_0000175) |
-| `KEGG COMPOUND:c00366` |              1 | [SIBO:0000179](http://purl.obolibrary.org/obo/SIBO_0000179) |
-| `KEGG COMPOUND:c01530` |              1 | [SIBO:0000182](http://purl.obolibrary.org/obo/SIBO_0000182) |
-| `KEGG COMPOUND:c02226` |              1 | [SIBO:0000188](http://purl.obolibrary.org/obo/SIBO_0000188) |
-| `KEGG COMPOUND:c01432` |              1 | [SIBO:0000190](http://purl.obolibrary.org/obo/SIBO_0000190) |
-| `KEGG COMPOUND:c00303` |              1 | [SIBO:0000204](http://purl.obolibrary.org/obo/SIBO_0000204) |
-| `KEGG COMPOUND:c02057` |              1 | [SIBO:0000205](http://purl.obolibrary.org/obo/SIBO_0000205) |
+| `KEGG.COMPOUND:c00180` |              1 | [SIBO:0000171](http://purl.obolibrary.org/obo/SIBO_0000171) |
+| `KEGG.COMPOUND:c00711` |              1 | [SIBO:0000172](http://purl.obolibrary.org/obo/SIBO_0000172) |
+| `KEGG.COMPOUND:c00383` |              1 | [SIBO:0000175](http://purl.obolibrary.org/obo/SIBO_0000175) |
+| `KEGG.COMPOUND:c00366` |              1 | [SIBO:0000179](http://purl.obolibrary.org/obo/SIBO_0000179) |
+| `KEGG.COMPOUND:c01530` |              1 | [SIBO:0000182](http://purl.obolibrary.org/obo/SIBO_0000182) |
+| `KEGG.COMPOUND:c02226` |              1 | [SIBO:0000188](http://purl.obolibrary.org/obo/SIBO_0000188) |
+| `KEGG.COMPOUND:c01432` |              1 | [SIBO:0000190](http://purl.obolibrary.org/obo/SIBO_0000190) |
+| `KEGG.COMPOUND:c00303` |              1 | [SIBO:0000204](http://purl.obolibrary.org/obo/SIBO_0000204) |
+| `KEGG.COMPOUND:c02057` |              1 | [SIBO:0000205](http://purl.obolibrary.org/obo/SIBO_0000205) |
 

@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:59:38.728642",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/TEMP": {
       "graph_id": "http://purl.obolibrary.org/obo/TEMP",
@@ -2095,6 +2093,7 @@
             "SPD:Ramirez"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -2471,6 +2470,7 @@
             "SPD:Ruhland_&_Rathmayer_1978"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -2524,6 +2524,7 @@
             "HAO:HAO:0000353"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

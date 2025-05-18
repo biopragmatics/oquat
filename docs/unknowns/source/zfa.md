@@ -1,5 +1,15 @@
 # zfa
 
+## `CVS`
+
+There are 1 usages of `CVS` in `zfa`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20CVS).
+
+| curie                   |   usages | nodes                                                     |
+|-------------------------|----------|-----------------------------------------------------------|
+| CVS:0000-0002-2244-7917 |        1 | [ZFA:0009203](http://purl.obolibrary.org/obo/ZFA_0009203) |
+
 ## `GOC`
 
 There are 1 usages of `GOC` in `zfa`.

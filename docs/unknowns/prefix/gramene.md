@@ -19,7 +19,7 @@
 |------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Gramene:Pankaj_Jaiswal |      190 | [PO:0000042](http://purl.obolibrary.org/obo/PO_0000042), [PO:0000229](http://purl.obolibrary.org/obo/PO_0000229), [PO:0000230](http://purl.obolibrary.org/obo/PO_0000230), [PO:0005004](http://purl.obolibrary.org/obo/PO_0005004), [PO:0005006](http://purl.obolibrary.org/obo/PO_0005006), ... |
 | Gramene:Anuradha_Pujar |      123 | [PO:0001000](http://purl.obolibrary.org/obo/PO_0001000), [PO:0001027](http://purl.obolibrary.org/obo/PO_0001027), [PO:0001028](http://purl.obolibrary.org/obo/PO_0001028), [PO:0001030](http://purl.obolibrary.org/obo/PO_0001030), [PO:0001047](http://purl.obolibrary.org/obo/PO_0001047), ... |
-| Gramene:Chih-Wei_Tung  |       33 | [PO:0002004](http://purl.obolibrary.org/obo/PO_0002004), [PO:0005008](http://purl.obolibrary.org/obo/PO_0005008), [PO:0007039](http://purl.obolibrary.org/obo/PO_0007039), [PO:0007056](http://purl.obolibrary.org/obo/PO_0007056), [PO:0007058](http://purl.obolibrary.org/obo/PO_0007058), ... |
+| Gramene:Chih-Wei_Tung  |       32 | [PO:0002004](http://purl.obolibrary.org/obo/PO_0002004), [PO:0005008](http://purl.obolibrary.org/obo/PO_0005008), [PO:0007039](http://purl.obolibrary.org/obo/PO_0007039), [PO:0007056](http://purl.obolibrary.org/obo/PO_0007056), [PO:0007058](http://purl.obolibrary.org/obo/PO_0007058), ... |
 
 ## bto
 

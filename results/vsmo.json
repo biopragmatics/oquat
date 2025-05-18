@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T10:04:56.354401",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/TEMP": {
       "graph_id": "http://purl.obolibrary.org/obo/TEMP",
@@ -367,6 +365,7 @@
             "BFO:span:TemporalRegion"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -1477,6 +1476,7 @@
             "ChEBI:"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -1498,6 +1498,7 @@
             "DOID: 2293"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -1511,9 +1512,6 @@
           "IUPAC": {
             "http://purl.obolibrary.org/obo/MIRO_10000108": "IUPAC:O,O-diethyl2-chloro--cyanobenzylideneaminooxyphosphonothioate",
             "http://purl.obolibrary.org/obo/MIRO_10000160": "IUPAC:(1R,4S,4aS,5R,6R,7S,8S,8aR)-1,2,3,4,10,10-hexachloro-1,4,4a,5,6,7,8,8a-octahydro-6,7-epoxy-1,4:5,8-dimethanonaphthalene"
-          },
-          "biotop": {
-            "http://purl.obolibrary.org/obo/VSMO_0000084": "biotop:ArthropodPopulation"
           }
         }
       }

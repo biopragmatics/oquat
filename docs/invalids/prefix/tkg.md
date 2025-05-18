@@ -152,6 +152,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `TKG:TKG 0308`  |              1 | [Cellosaurus#CVCL:1915](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1915) |
 | `TKG:TKG 0571`  |              1 | [Cellosaurus#CVCL:1940](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1940) |
 | `TKG:TKG 0186`  |              1 | [Cellosaurus#CVCL:1953](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1953) |
+| `TKG:TKG 0811`  |              1 | [Cellosaurus#CVCL:1970](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1970) |
 | `TKG:TKG 0340`  |              1 | [Cellosaurus#CVCL:1R13](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1R13) |
 | `TKG:TKG 0646`  |              1 | [Cellosaurus#CVCL:1R13](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_1R13) |
 | `TKG:TKG 0665`  |              1 | [Cellosaurus#CVCL:2034](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_2034) |
@@ -308,6 +309,10 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `TKG:TKG 0226`  |              1 | [Cellosaurus#CVCL:7201](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7201) |
 | `TKG:TKG 0326`  |              1 | [Cellosaurus#CVCL:7222](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7222) |
 | `TKG:TKG 0737`  |              1 | [Cellosaurus#CVCL:7883](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7883) |
+| `TKG:TKG 0738`  |              1 | [Cellosaurus#CVCL:7884](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7884) |
+| `TKG:TKG 0742`  |              1 | [Cellosaurus#CVCL:7885](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7885) |
+| `TKG:TKG 0743`  |              1 | [Cellosaurus#CVCL:7886](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7886) |
+| `TKG:TKG 0744`  |              1 | [Cellosaurus#CVCL:7887](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7887) |
 | `TKG:TKG 0745`  |              1 | [Cellosaurus#CVCL:7888](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7888) |
 | `TKG:TKG 0335`  |              1 | [Cellosaurus#CVCL:7889](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7889) |
 | `TKG:TKG 0637`  |              1 | [Cellosaurus#CVCL:7889](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_7889) |
@@ -356,7 +361,11 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `TKG:TKG 0694`  |              1 | [Cellosaurus#CVCL:A416](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A416) |
 | `TKG:TKG 0286`  |              1 | [Cellosaurus#CVCL:A782](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A782) |
 | `TKG:TKG 0370`  |              1 | [Cellosaurus#CVCL:A799](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A799) |
+| `TKG:TKG 0739`  |              1 | [Cellosaurus#CVCL:A8DN](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8DN) |
 | `TKG:TKG 0741`  |              1 | [Cellosaurus#CVCL:A8DP](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8DP) |
+| `TKG:TKG 0746`  |              1 | [Cellosaurus#CVCL:A8DR](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8DR) |
+| `TKG:TKG 0747`  |              1 | [Cellosaurus#CVCL:A8DS](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8DS) |
+| `TKG:TKG 0748`  |              1 | [Cellosaurus#CVCL:A8DT](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8DT) |
 | `TKG:TKG 0749`  |              1 | [Cellosaurus#CVCL:A8DU](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8DU) |
 | `TKG:TKG 0766`  |              1 | [Cellosaurus#CVCL:A8DW](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8DW) |
 | `TKG:TKG 0751`  |              1 | [Cellosaurus#CVCL:A8DY](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8DY) |
@@ -395,6 +404,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `TKG:TKG 0785`  |              1 | [Cellosaurus#CVCL:A8FN](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8FN) |
 | `TKG:TKG 0786`  |              1 | [Cellosaurus#CVCL:A8FP](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8FP) |
 | `TKG:TKG 0787`  |              1 | [Cellosaurus#CVCL:A8FQ](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8FQ) |
+| `TKG:TKG 0804`  |              1 | [Cellosaurus#CVCL:A8FS](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8FS) |
 | `TKG:TKG 0799`  |              1 | [Cellosaurus#CVCL:A8FT](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8FT) |
 | `TKG:TKG 0790`  |              1 | [Cellosaurus#CVCL:A8FU](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8FU) |
 | `TKG:TKG 0791`  |              1 | [Cellosaurus#CVCL:A8FV](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_A8FV) |
@@ -452,6 +462,16 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `TKG:TKG 0593`  |              1 | [Cellosaurus#CVCL:C516](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C516) |
 | `TKG:TKG 0590`  |              1 | [Cellosaurus#CVCL:C517](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C517) |
 | `TKG:TKG 0292`  |              1 | [Cellosaurus#CVCL:C832](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C832) |
+| `TKG:TKG 0812`  |              1 | [Cellosaurus#CVCL:D3W7](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D3W7) |
+| `TKG:TKG 0810`  |              1 | [Cellosaurus#CVCL:D3W8](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D3W8) |
+| `TKG:TKG 0813`  |              1 | [Cellosaurus#CVCL:D3X5](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D3X5) |
+| `TKG:TKG 0814`  |              1 | [Cellosaurus#CVCL:D3X6](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D3X6) |
+| `TKG:TKG 0807`  |              1 | [Cellosaurus#CVCL:D5J6](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5J6) |
+| `TKG:TKG 0803`  |              1 | [Cellosaurus#CVCL:D5JJ](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5JJ) |
+| `TKG:TKG 0809`  |              1 | [Cellosaurus#CVCL:D5JK](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5JK) |
+| `TKG:TKG 0805`  |              1 | [Cellosaurus#CVCL:D5JL](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5JL) |
+| `TKG:TKG 0806`  |              1 | [Cellosaurus#CVCL:D5JP](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5JP) |
+| `TKG:TKG 0808`  |              1 | [Cellosaurus#CVCL:D5JQ](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D5JQ) |
 | `TKG:TKG 0240`  |              1 | [Cellosaurus#CVCL:D721](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D721) |
 | `TKG:TKG 0692`  |              1 | [Cellosaurus#CVCL:E319](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_E319) |
 | `TKG:TKG 0703`  |              1 | [Cellosaurus#CVCL:E331](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_E331) |
@@ -652,5 +672,5 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `TKG:TKG 0732`  |              1 | [Cellosaurus#CVCL:VG99](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_VG99) |
 | `TKG:TKG 0731`  |              1 | [Cellosaurus#CVCL:VH09](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_VH09) |
 | `TKG:TKG 0733`  |              1 | [Cellosaurus#CVCL:W519](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_W519) |
-| `TKG:TKG 750`   |              1 | [Cellosaurus#CVCL:XY58](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_XY58) |
+| `TKG:TKG 0750`  |              1 | [Cellosaurus#CVCL:XY58](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_XY58) |
 

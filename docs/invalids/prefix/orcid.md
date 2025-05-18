@@ -24,7 +24,6 @@ Identifiers for this prefix are given incorrectly in `mp`. See the [GitHub repos
 | `ORCID:orcid.org/0000-0001-5256-8683` |              2 | [MP:0031199](http://purl.obolibrary.org/obo/MP_0031199), [MP:0031200](http://purl.obolibrary.org/obo/MP_0031200)                                                                                                                                                                                 |
 | `ORCID:orcid.org/0000-0003-3691-0324` |              1 | [MP:0020342](http://purl.obolibrary.org/obo/MP_0020342)                                                                                                                                                                                                                                          |
 | `ORCID:orcid.org/0000-0003-1726-4769` |              1 | [MP:0031185](http://purl.obolibrary.org/obo/MP_0031185)                                                                                                                                                                                                                                          |
-| `ORCID:orcid.org/0000-0001-5356-4174` |              1 | [MP:0031193](http://purl.obolibrary.org/obo/MP_0031193)                                                                                                                                                                                                                                          |
 
 ## `zfa`: Zebrafish anatomy and development ontology
 
@@ -32,8 +31,6 @@ Identifiers for this prefix are given incorrectly in `zfa`. See the [GitHub repo
 
 | external_xref                |   usages_count | usages                                                    |
 |------------------------------|----------------|-----------------------------------------------------------|
-| `ORCiD:000-0002-9900-7880`   |              1 | [ZFA:0000833](http://purl.obolibrary.org/obo/ZFA_0000833) |
 | `ORCiD:CVS`                  |              1 | [ZFA:0001679](http://purl.obolibrary.org/obo/ZFA_0001679) |
 | `ORCiD:0000-0002-2244-7917,` |              1 | [ZFA:0005867](http://purl.obolibrary.org/obo/ZFA_0005867) |
-| `ORCID:000-0002-2244-7917`   |              1 | [ZFA:0005927](http://purl.obolibrary.org/obo/ZFA_0005927) |
 

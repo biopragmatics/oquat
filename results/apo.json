@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:11:17.638116",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/apo.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/apo.owl",
@@ -829,6 +827,7 @@
             "SGD:mcc"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -933,13 +932,13 @@
             "SGD:mcc"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2023-12-07",
-      "version_iri": "http://purl.obolibrary.org/obo/apo/releases/2023-12-07/apo.owl",
+      "version": "http://purl.obolibrary.org/obo/apo/releases/2025-03-25/apo.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/APO_0000244": [
@@ -949,6 +948,7 @@
             "BioGRID:curators"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

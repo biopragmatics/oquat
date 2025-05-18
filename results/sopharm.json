@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:59:36.934228",
-  "messages": [],
   "results": {
     "http://www.loria.fr/~coulet/sopharm/": {
       "graph_id": "http://www.loria.fr/~coulet/sopharm/",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,14 +12,15 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "TODO: \n- update URI of concepts of outer ontologies",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

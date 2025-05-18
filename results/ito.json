@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:43:06.543895",
-  "messages": [],
   "results": {
     "https://identifiers.org/ito:ontology": {
       "graph_id": "https://identifiers.org/ito:ontology",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,18 +12,19 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "1.12 (PWC export dated 2022-07-30) - internal, just a minor fix",
       "xref_pack": {
         "invalid_luids": {
           "http://edamontology.org/topic_3315": [
             "VT:1.1 Mathematics"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {
           "http://edamontology.org/topic_0091": [

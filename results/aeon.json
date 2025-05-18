@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:11:00.678920",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/aeon.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/aeon.owl",
@@ -13,6 +11,7 @@
             "MA:ma"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -37,6 +36,7 @@
             "Geonames:feature"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -57,8 +57,7 @@
           }
         }
       },
-      "version": "2023-02-22",
-      "version_iri": "http://purl.obolibrary.org/obo/aeon/releases/2023-02-22/aeon.owl",
+      "version": "http://purl.obolibrary.org/obo/aeon/releases/2023-02-22/aeon.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ENVO_00000005": [
@@ -72,6 +71,7 @@
             "Geonames:A.PCL"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

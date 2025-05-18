@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:24:54.423751",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/DERMO.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/DERMO.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -50,6 +49,7 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -61,6 +61,7 @@
             "MP:00000"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {

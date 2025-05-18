@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:12:47.170068",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/so/subsets/biosapiens.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/so/subsets/biosapiens.owl",
@@ -168,6 +166,7 @@
             "SO:immuno_workshop"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -381,6 +380,7 @@
             "uniprot:feature"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -388,6 +388,7 @@
       },
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

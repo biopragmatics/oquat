@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T10:06:44.522712",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/zfa.json": {
       "graph_id": "http://purl.obolibrary.org/obo/zfa.json",
@@ -64,9 +62,6 @@
           "http://purl.obolibrary.org/obo/ZFA_0000704": [
             "ZFIN:ZDB-PUB-171118-8v"
           ],
-          "http://purl.obolibrary.org/obo/ZFA_0000833": [
-            "ORCiD:000-0002-9900-7880"
-          ],
           "http://purl.obolibrary.org/obo/ZFA_0000862": [
             "TAO:curator"
           ],
@@ -99,6 +94,12 @@
           ],
           "http://purl.obolibrary.org/obo/ZFA_0001184": [
             "TAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/ZFA_0001501": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/ZFA_0001514": [
+            "VSAO:curator"
           ],
           "http://purl.obolibrary.org/obo/ZFA_0001520": [
             "TAO:curator"
@@ -382,6 +383,9 @@
           "http://purl.obolibrary.org/obo/ZFA_0005488": [
             "TAO:curator"
           ],
+          "http://purl.obolibrary.org/obo/ZFA_0005494": [
+            "VSAO:curator"
+          ],
           "http://purl.obolibrary.org/obo/ZFA_0005495": [
             "TAO:curator"
           ],
@@ -568,11 +572,29 @@
           "http://purl.obolibrary.org/obo/ZFA_0005599": [
             "CL:curator"
           ],
+          "http://purl.obolibrary.org/obo/ZFA_0005619": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/ZFA_0005620": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/ZFA_0005621": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/ZFA_0005622": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/ZFA_0005623": [
+            "VSAO:curator"
+          ],
           "http://purl.obolibrary.org/obo/ZFA_0005624": [
             "TAO:curator"
           ],
           "http://purl.obolibrary.org/obo/ZFA_0005637": [
             "TAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/ZFA_0005647": [
+            "VSAO:curator"
           ],
           "http://purl.obolibrary.org/obo/ZFA_0005648": [
             "TAO:curator"
@@ -604,8 +626,8 @@
           "http://purl.obolibrary.org/obo/ZFA_0005877": [
             "ZFIN:ZDB-PUB-120419-3."
           ],
-          "http://purl.obolibrary.org/obo/ZFA_0005927": [
-            "ORCID:000-0002-2244-7917"
+          "http://purl.obolibrary.org/obo/ZFA_0005962": [
+            "ZFIN:ZDB-PUB-210421-6."
           ],
           "http://purl.obolibrary.org/obo/ZFA_0007089": [
             "CL:curator"
@@ -1082,6 +1104,7 @@
             "CL:editor"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -1090,6 +1113,9 @@
           }
         },
         "unknown_prefixes": {
+          "CVS": {
+            "http://purl.obolibrary.org/obo/ZFA_0009203": "CVS:0000-0002-2244-7917"
+          },
           "GOC": {
             "http://purl.obolibrary.org/obo/ZFA_0000000": "GOC:mh",
             "http://purl.obolibrary.org/obo/ZFA_0000001": "GOC:mh",
@@ -1480,6 +1506,7 @@
             "http://purl.obolibrary.org/obo/ZFA_0000601": "GOC:mh",
             "http://purl.obolibrary.org/obo/ZFA_0000603": "GOC:mh",
             "http://purl.obolibrary.org/obo/ZFA_0000607": "GOC:mh",
+            "http://purl.obolibrary.org/obo/ZFA_0000608": "GOC:cvs",
             "http://purl.obolibrary.org/obo/ZFA_0000609": "GOC:mh",
             "http://purl.obolibrary.org/obo/ZFA_0000610": "GOC:mh",
             "http://purl.obolibrary.org/obo/ZFA_0000614": "GOC:cvs",
@@ -1889,6 +1916,7 @@
             "http://purl.obolibrary.org/obo/ZFA_0001121": "GOC:mh",
             "http://purl.obolibrary.org/obo/ZFA_0001122": "GOC:ymb",
             "http://purl.obolibrary.org/obo/ZFA_0001127": "GOC:mh",
+            "http://purl.obolibrary.org/obo/ZFA_0001128": "GOC:cvs",
             "http://purl.obolibrary.org/obo/ZFA_0001137": "GOC:mh",
             "http://purl.obolibrary.org/obo/ZFA_0001138": "GOC:ymb",
             "http://purl.obolibrary.org/obo/ZFA_0001139": "GOC:mh",
@@ -2928,6 +2956,9 @@
             "http://purl.obolibrary.org/obo/ZFA_0005954": "GOC:cvs",
             "http://purl.obolibrary.org/obo/ZFA_0005955": "GOC:cvs",
             "http://purl.obolibrary.org/obo/ZFA_0005957": "GOC:tfm",
+            "http://purl.obolibrary.org/obo/ZFA_0005958": "GOC:CVS",
+            "http://purl.obolibrary.org/obo/ZFA_0005965": "GOC:cvs",
+            "http://purl.obolibrary.org/obo/ZFA_0005966": "GOC:cvs",
             "http://purl.obolibrary.org/obo/ZFA_0007000": "GOC:ymb",
             "http://purl.obolibrary.org/obo/ZFA_0007001": "GOC:ymb",
             "http://purl.obolibrary.org/obo/ZFA_0007002": "GOC:ymb",
@@ -3130,6 +3161,7 @@
             "ZFIN:ZDB-PUB-050120-6."
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -3139,14 +3171,14 @@
           }
         }
       },
-      "version": "2022-12-09",
-      "version_iri": "http://purl.obolibrary.org/obo/zfa/releases/2022-12-09/zfa.json",
+      "version": "http://purl.obolibrary.org/obo/zfa/releases/2025-01-28/zfa.json",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/ZFA_0005772": [
             "CL:00000365"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

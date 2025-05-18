@@ -2,16 +2,8 @@
 
 This page summarize the different resources that reference `mp`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 5 resources,
+`^\d{7}$`. Of the 6 resources,
 1 variants on the standard prefix were found: ['MP'].
-
-## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
-
-Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
-|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `MP:MP`         |              9 | [UBERON:0001259](http://purl.obolibrary.org/obo/UBERON_0001259), [UBERON:0001947](http://purl.obolibrary.org/obo/UBERON_0001947), [UBERON:0005452](http://purl.obolibrary.org/obo/UBERON_0005452), [UBERON:0010396](http://purl.obolibrary.org/obo/UBERON_0010396), [UBERON:0010397](http://purl.obolibrary.org/obo/UBERON_0010397), ... |
 
 ## `cl`: Cell Ontology
 
@@ -28,6 +20,24 @@ Identifiers for this prefix are given incorrectly in `dermo`. See the [GitHub re
 | external_xref   |   usages_count | usages                                                        |
 |-----------------|----------------|---------------------------------------------------------------|
 | `MP:00000`      |              1 | [DERMO:0000333](http://purl.obolibrary.org/obo/DERMO_0000333) |
+
+## `nif`
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `MP:anna`       |             19 | [UBERON:0001258](http://purl.obolibrary.org/obo/UBERON_0001258), [UBERON:0001338](http://purl.obolibrary.org/obo/UBERON_0001338), [UBERON:0002068](http://purl.obolibrary.org/obo/UBERON_0002068), [UBERON:0002366](http://purl.obolibrary.org/obo/UBERON_0002366), [UBERON:0002366](http://purl.obolibrary.org/obo/UBERON_0002366), ... |
+| `MP:MP`         |             17 | [UBERON:0000173](http://purl.obolibrary.org/obo/UBERON_0000173), [UBERON:0001259](http://purl.obolibrary.org/obo/UBERON_0001259), [UBERON:0001947](http://purl.obolibrary.org/obo/UBERON_0001947), [UBERON:0005452](http://purl.obolibrary.org/obo/UBERON_0005452), [UBERON:0008835](http://purl.obolibrary.org/obo/UBERON_0008835), ... |
+| `MP:000999`     |              1 | [UBERON:0035922](http://purl.obolibrary.org/obo/UBERON_0035922)                                                                                                                                                                                                                                                                          |
+
+## `obci`: Ontology for Biomarkers of Clinical Interest
+
+Identifiers for this prefix are given incorrectly in `obci`.
+
+| external_xref   |   usages_count | usages                                                          |
+|-----------------|----------------|-----------------------------------------------------------------|
+| `MP:MP`         |              1 | [UBERON:0000173](http://purl.obolibrary.org/obo/UBERON_0000173) |
 
 ## `uberon`: Uber Anatomy Ontology
 

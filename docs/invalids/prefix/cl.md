@@ -5,16 +5,6 @@ but use local unique identifiers that do not match the standard pattern of
 `^\d{7}$`. Of the 5 resources,
 1 variants on the standard prefix were found: ['CL'].
 
-## `ccf`: Human Reference Atlas Common Coordinate Framework Ontology
-
-Identifiers for this prefix are given incorrectly in `ccf`. See the [GitHub repository](https://github.com/hubmapconsortium/ccf-ontology).
-
-| external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
-|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `CL:tm`         |             10 | [UBERON:0004041](http://purl.obolibrary.org/obo/UBERON_0004041), [UBERON:0004042](http://purl.obolibrary.org/obo/UBERON_0004042), [UBERON:0005196](http://purl.obolibrary.org/obo/UBERON_0005196), [UBERON:0009039](http://purl.obolibrary.org/obo/UBERON_0009039), [UBERON:0010420](http://purl.obolibrary.org/obo/UBERON_0010420), ... |
-| `CL:CVS`        |              4 | [CL:0000212](http://purl.obolibrary.org/obo/CL_0000212), [CL:0005009](http://purl.obolibrary.org/obo/CL_0005009), [CL:0005010](http://purl.obolibrary.org/obo/CL_0005010), [CL:0005011](http://purl.obolibrary.org/obo/CL_0005011)                                                                                                       |
-| `CL:cjm`        |              1 | [CL:1000742](http://purl.obolibrary.org/obo/CL_1000742)                                                                                                                                                                                                                                                                                  |
-
 ## `cl`: Cell Ontology
 
 Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repository](https://github.com/obophenotype/cell-ontology).
@@ -26,6 +16,17 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 | `CL:curator`                             |              1 | [CL:0005018](http://purl.obolibrary.org/obo/CL_0005018)                                                                                                                                                                                                                                          |
 | `CL:patterns/cellPartOfAnatomicalEntity` |              1 | [CL:0011030](http://purl.obolibrary.org/obo/CL_0011030)                                                                                                                                                                                                                                          |
 | `CL:cjm`                                 |              1 | [CL:1000742](http://purl.obolibrary.org/obo/CL_1000742)                                                                                                                                                                                                                                          |
+
+## `nif`
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref                            |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `CL:tm`                                  |             19 | [UBERON:0001249](http://purl.obolibrary.org/obo/UBERON_0001249), [UBERON:0001249](http://purl.obolibrary.org/obo/UBERON_0001249), [UBERON:0001745](http://purl.obolibrary.org/obo/UBERON_0001745), [UBERON:0004041](http://purl.obolibrary.org/obo/UBERON_0004041), [UBERON:0004042](http://purl.obolibrary.org/obo/UBERON_0004042), ... |
+| `CL:CVS`                                 |              9 | [CL:0005000](http://purl.obolibrary.org/obo/CL_0005000), [CL:0005001](http://purl.obolibrary.org/obo/CL_0005001), [CL:0005002](http://purl.obolibrary.org/obo/CL_0005002), [CL:0005004](http://purl.obolibrary.org/obo/CL_0005004), [CL:0005009](http://purl.obolibrary.org/obo/CL_0005009), ...                                         |
+| `CL:MAH`                                 |              2 | [CL:0007008](http://purl.obolibrary.org/obo/CL_0007008), [CL:0007011](http://purl.obolibrary.org/obo/CL_0007011)                                                                                                                                                                                                                         |
+| `CL:patterns/cellPartOfAnatomicalEntity` |              1 | [CL:0011030](http://purl.obolibrary.org/obo/CL_0011030)                                                                                                                                                                                                                                                                                  |
 
 ## `tao`: Teleost Anatomy Ontology
 

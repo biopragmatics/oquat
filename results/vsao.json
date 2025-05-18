@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T10:04:55.774626",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/vsao.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/vsao.owl",
@@ -15,14 +13,72 @@
           "http://purl.obolibrary.org/obo/VSAO_0000007": [
             "TAO:curator"
           ],
+          "http://purl.obolibrary.org/obo/VSAO_0000008": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000009": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000011": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000012": [
+            "VSAO:curator"
+          ],
           "http://purl.obolibrary.org/obo/VSAO_0000014": [
             "TAO:curator"
           ],
+          "http://purl.obolibrary.org/obo/VSAO_0000019": [
+            "VSAO:curator"
+          ],
           "http://purl.obolibrary.org/obo/VSAO_0000021": [
-            "GO:[GOC:mtg_sensu, ISBN:0198547684]"
+            "GO:[GOC:mtg_sensu, ISBN:0198547684]",
+            "VSAO:curator"
           ],
           "http://purl.obolibrary.org/obo/VSAO_0000024": [
             "TAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000031": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000033": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000038": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000039": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000041": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000042": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000043": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000044": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000045": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000058": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000060": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000061": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000064": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000068": [
+            "VSAO:curator"
           ],
           "http://purl.obolibrary.org/obo/VSAO_0000076": [
             "UBERON:cjm"
@@ -30,17 +86,59 @@
           "http://purl.obolibrary.org/obo/VSAO_0000078": [
             "TAO:curator"
           ],
+          "http://purl.obolibrary.org/obo/VSAO_0000084": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000085": [
+            "VSAO:curator"
+          ],
           "http://purl.obolibrary.org/obo/VSAO_0000092": [
             "GO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000096": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000098": [
+            "VSAO:curator"
           ],
           "http://purl.obolibrary.org/obo/VSAO_0000099": [
             "TAO:curator"
           ],
+          "http://purl.obolibrary.org/obo/VSAO_0000100": [
+            "VSAO:curator"
+          ],
           "http://purl.obolibrary.org/obo/VSAO_0000111": [
             "TAO:curator"
           ],
+          "http://purl.obolibrary.org/obo/VSAO_0000112": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000116": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000117": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000124": [
+            "VSAO:curator"
+          ],
           "http://purl.obolibrary.org/obo/VSAO_0000129": [
             "TAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000140": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000141": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000142": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000143": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000144": [
+            "VSAO:curator"
           ],
           "http://purl.obolibrary.org/obo/VSAO_0000147": [
             "TAO:curator"
@@ -56,6 +154,12 @@
           ],
           "http://purl.obolibrary.org/obo/VSAO_0000156": [
             "UBERON:cjm"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000160": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000161": [
+            "VSAO:curator"
           ],
           "http://purl.obolibrary.org/obo/VSAO_0000162": [
             "TAO:curator"
@@ -84,6 +188,9 @@
           "http://purl.obolibrary.org/obo/VSAO_0000170": [
             "TAO:curator"
           ],
+          "http://purl.obolibrary.org/obo/VSAO_0000171": [
+            "VSAO:curator"
+          ],
           "http://purl.obolibrary.org/obo/VSAO_0000172": [
             "TAO:curator"
           ],
@@ -108,8 +215,26 @@
           "http://purl.obolibrary.org/obo/VSAO_0000180": [
             "TAO:curator"
           ],
+          "http://purl.obolibrary.org/obo/VSAO_0000181": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000183": [
+            "VSAO:curator"
+          ],
           "http://purl.obolibrary.org/obo/VSAO_0000184": [
             "TAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000185": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000186": [
+            "VSAO:NI"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000213": [
+            "VSAO:MAH"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000215": [
+            "VSAO:MAH"
           ],
           "http://purl.obolibrary.org/obo/VSAO_0000303": [
             "UBERON:cjm"
@@ -122,8 +247,27 @@
           ],
           "http://purl.obolibrary.org/obo/VSAO_0000306": [
             "UBERON:cjm"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0005007": [
+            "VSAO:NI"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0005010": [
+            "VSAO:NI"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0005019": [
+            "VSAO:NI"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0005022": [
+            "VSAO:NI"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0005025": [
+            "VSAO:NI"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0005028": [
+            "VSAO:NI"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -227,7 +371,111 @@
         }
       },
       "synonym_pack": {
-        "invalid_luids": {},
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/VSAO_0000022": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000025": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000028": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000030": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000033": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000035": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000037": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000040": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000046": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000047": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000053": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000054": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000055": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000056": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000059": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000062": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000063": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000065": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000066": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000069": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000071": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000074": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000076": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000078": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000079": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000082": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000094": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000106": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000113": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000114": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000119": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000123": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000127": [
+            "VSAO:curator"
+          ],
+          "http://purl.obolibrary.org/obo/VSAO_0000130": [
+            "VSAO:curator"
+          ]
+        },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -242,10 +490,10 @@
           }
         }
       },
-      "version": "2012-11-06",
-      "version_iri": "http://purl.obolibrary.org/obo/vsao/2012-11-06/vsao.owl",
+      "version": "http://purl.obolibrary.org/obo/vsao/2012-11-06/vsao.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

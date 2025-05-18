@@ -34,3 +34,14 @@ did not match the standard pattern `^\d+$`.
 | `MaizeGDB:ID# 402668`                                                                    |              1 | [ZEA:0015159](http://purl.obolibrary.org/obo/ZEA_0015159)                                                                                                                                                                                                                                                  |
 | `MaizeGDB:Esau (ID# 139825`                                                              |              1 | [ZEA:0015173](http://purl.obolibrary.org/obo/ZEA_0015173)                                                                                                                                                                                                                                                  |
 
+## `ZEA`: Maize gross anatomy
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `ZEA` (standardized to Bioregistry
+prefix [`zea`](https://bioregistry.io/zea)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref                   |   usages_count | usages                                                    |
+|---------------------------------|----------------|-----------------------------------------------------------|
+| `ZEA:Provide a defn. for this.` |              1 | [ZEA:0015028](http://purl.obolibrary.org/obo/ZEA_0015028) |
+

@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:44:55.417116",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/mmo.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/mmo.owl",
@@ -115,6 +113,7 @@
             "RGD:JRS"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -180,6 +179,21 @@
             "http://purl.obolibrary.org/obo/MMO_0000849": "ISBN-13:978-0781733908",
             "http://purl.obolibrary.org/obo/MMO_0000850": "ISBN-13:978-0781733908",
             "http://purl.obolibrary.org/obo/MMO_0000851": "ISBN-13:978-0781733908"
+          },
+          "Merriam-Webster": {
+            "http://purl.obolibrary.org/obo/MMO_0000105": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+            "http://purl.obolibrary.org/obo/MMO_0000120": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+            "http://purl.obolibrary.org/obo/MMO_0000172": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+            "http://purl.obolibrary.org/obo/MMO_0000213": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+            "http://purl.obolibrary.org/obo/MMO_0000217": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+            "http://purl.obolibrary.org/obo/MMO_0000241": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+            "http://purl.obolibrary.org/obo/MMO_0000245": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+            "http://purl.obolibrary.org/obo/MMO_0000343": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+            "http://purl.obolibrary.org/obo/MMO_0000344": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+            "http://purl.obolibrary.org/obo/MMO_0000407": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+            "http://purl.obolibrary.org/obo/MMO_0000408": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+            "http://purl.obolibrary.org/obo/MMO_0000409": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
+            "http://purl.obolibrary.org/obo/MMO_0000410": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed"
           },
           "PMCID": {
             "http://purl.obolibrary.org/obo/MMO_0000637": "PMCID:PMC2954491"
@@ -678,21 +692,6 @@
           "MedicalGlossary": {
             "http://purl.obolibrary.org/obo/MMO_0000011": "MedicalGlossary:www.medicalglossary.org"
           },
-          "Merriam-Webster": {
-            "http://purl.obolibrary.org/obo/MMO_0000105": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
-            "http://purl.obolibrary.org/obo/MMO_0000120": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
-            "http://purl.obolibrary.org/obo/MMO_0000172": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
-            "http://purl.obolibrary.org/obo/MMO_0000213": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
-            "http://purl.obolibrary.org/obo/MMO_0000217": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
-            "http://purl.obolibrary.org/obo/MMO_0000241": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
-            "http://purl.obolibrary.org/obo/MMO_0000245": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
-            "http://purl.obolibrary.org/obo/MMO_0000343": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
-            "http://purl.obolibrary.org/obo/MMO_0000344": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
-            "http://purl.obolibrary.org/obo/MMO_0000407": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
-            "http://purl.obolibrary.org/obo/MMO_0000408": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
-            "http://purl.obolibrary.org/obo/MMO_0000409": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed",
-            "http://purl.obolibrary.org/obo/MMO_0000410": "Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed"
-          },
           "Miller-Keane": {
             "http://purl.obolibrary.org/obo/MMO_0000383": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
             "http://purl.obolibrary.org/obo/MMO_0000384": "Miller-Keane:Miller-Keane_Encyclopedia_and_Dictionary_of_Medicine_Nursing_and_Allied_Health--7th_Ed",
@@ -863,17 +862,13 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
-        "unknown_prefixes": {
-          "XX": {
-            "http://purl.obolibrary.org/obo/MMO_0000075": "XX:<new dbxref>"
-          }
-        }
+        "unknown_prefixes": {}
       },
-      "version": "2.121",
-      "version_iri": "http://purl.obolibrary.org/obo/mmo/2.121/mmo.owl",
+      "version": "http://purl.obolibrary.org/obo/mmo/2.150/mmo.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MMO_0000642": [
@@ -896,6 +891,7 @@
             "efo:EFO_0000561"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

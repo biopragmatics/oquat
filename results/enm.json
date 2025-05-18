@@ -1,11 +1,60 @@
 {
-  "created": "2023-12-07T09:28:30.970353",
-  "messages": [],
   "results": {
     "http://enanomapper.github.io/ontologies/enanomapper.owl": {
       "graph_id": "http://enanomapper.github.io/ontologies/enanomapper.owl",
       "prov_pack": {
         "invalid_luids": {
+          "http://purl.obolibrary.org/obo/BSPO_0000096": [
+            "BSPO:cjm"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0000097": [
+            "BSPO:cjm"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0000098": [
+            "BSPO:cjm"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0000099": [
+            "BSPO:cjm"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0000100": [
+            "BSPO:cjm"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0000102": [
+            "BSPO:cjm"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0000107": [
+            "BSPO:cjm"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0000108": [
+            "BSPO:cjm"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0000120": [
+            "BSPO:PATO_mtg_2009"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0000121": [
+            "BSPO:PATO_mtg_2009"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0000122": [
+            "BSPO:PATO_mtg_2009"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0000123": [
+            "BSPO:PATO_mtg_2009"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0000124": [
+            "BSPO:PATO_mtg_2009"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0000125": [
+            "BSPO:PATO_mtg_2009"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0001100": [
+            "BSPO:cjm"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0001101": [
+            "BSPO:cjm"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_0001107": [
+            "BSPO:cjm"
+          ],
           "http://purl.obolibrary.org/obo/CL_0000000": [
             "CARO:mah"
           ],
@@ -156,6 +205,9 @@
           "http://purl.obolibrary.org/obo/PATO_0002632": [
             "PATO:MAH"
           ],
+          "http://purl.obolibrary.org/obo/RO_0002229": [
+            "ZFS:finishes"
+          ],
           "http://purl.obolibrary.org/obo/UBERON_0002530": [
             "MGI:csmith"
           ],
@@ -169,12 +221,22 @@
             "doi: 10.1111/nmo.12871"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
-        "noncanonical_prefixes": {},
+        "noncanonical_prefixes": {
+          "Merriam-Webster": {
+            "http://purl.obolibrary.org/obo/PATO_0000261": "Merriam-Webster:Merriam-Webster"
+          }
+        },
         "unknown_prefixes": {
           "ATCC_American_Cell_Type_Culture_Collection": {
             "http://purl.obolibrary.org/obo/BTO_0004433": "ATCC_American_Cell_Type_Culture_Collection:http://www.lgcstandards-atcc.org/"
+          },
+          "Allen": {
+            "http://purl.obolibrary.org/obo/RO_0002082": "Allen:is_equal_to",
+            "http://purl.obolibrary.org/obo/RO_0002224": "Allen:starts",
+            "http://purl.obolibrary.org/obo/RO_0002229": "Allen:starts"
           },
           "Answers.com": {
             "http://purl.obolibrary.org/obo/PATO_0000969": "Answers.com:Answers.com"
@@ -195,16 +257,14 @@
             "http://purl.obolibrary.org/obo/ENVO_00000338": "GEMINA:ls"
           },
           "GOC": {
-            "http://purl.obolibrary.org/obo/GO_0003824": "GOC:vw"
+            "http://purl.obolibrary.org/obo/GO_0003824": "GOC:vw",
+            "http://purl.obolibrary.org/obo/uberon#site_of": "GOC:cjm"
           },
           "Gemina": {
             "http://purl.obolibrary.org/obo/ENVO_02000035": "Gemina:ls"
           },
           "Invitrogen": {
             "http://purl.obolibrary.org/obo/BTO_0004602": "Invitrogen:http://products.invitrogen.com/"
-          },
-          "Merriam-Webster": {
-            "http://purl.obolibrary.org/obo/PATO_0000261": "Merriam-Webster:Merriam-Webster"
           },
           "NPX": {
             "http://purl.obolibrary.org/obo/CL_1001603": "NPX:PDR"
@@ -215,11 +275,6 @@
             "http://purl.obolibrary.org/obo/CHMO_0000346": "Orange:17.2.4",
             "http://purl.obolibrary.org/obo/CHMO_0000353": "Orange:17.2.4",
             "http://purl.obolibrary.org/obo/CHMO_0000407": "Orange:17.2.1.2"
-          },
-          "OrangeBook": {
-            "http://purl.obolibrary.org/obo/CHMO_0000343": "OrangeBook:17.2.1.4",
-            "http://purl.obolibrary.org/obo/CHMO_0000351": "OrangeBook:17.2.4",
-            "http://purl.obolibrary.org/obo/CHMO_0001577": "OrangeBook:9.4.1"
           },
           "PATOC": {
             "http://purl.obolibrary.org/obo/PATO_0000049": "PATOC:GVG",
@@ -282,6 +337,17 @@
           "The_Dictionary_of_Cell_and_Molecular_Biology": {
             "http://purl.obolibrary.org/obo/BTO_0001025": "The_Dictionary_of_Cell_and_Molecular_Biology:Third_Edition"
           },
+          "UBERONREF": {
+            "http://purl.obolibrary.org/obo/UBREL_0000001": "UBERONREF:0000004",
+            "http://purl.obolibrary.org/obo/uberon#anteriorly_connected_to": "UBERONREF:0000004",
+            "http://purl.obolibrary.org/obo/uberon#connects": "UBERONREF:0000004",
+            "http://purl.obolibrary.org/obo/uberon#distally_connected_to": "UBERONREF:0000004",
+            "http://purl.obolibrary.org/obo/uberon#posteriorly_connected_to": "UBERONREF:0000004",
+            "http://purl.obolibrary.org/obo/uberon#proximally_connected_to": "UBERONREF:0000004",
+            "http://purl.obolibrary.org/obo/uberon#transitively_anteriorly_connected_to": "UBERONREF:0000004",
+            "http://purl.obolibrary.org/obo/uberon#transitively_distally_connected_to": "UBERONREF:0000004",
+            "http://purl.obolibrary.org/obo/uberon#transitively_proximally_connected_to": "UBERONREF:0000004"
+          },
           "URL": {
             "http://purl.obolibrary.org/obo/ENVO_00000546": "URL:http://www.britannica.com/EBchecked/topic/328083/lake/59070/Sediments-and-sedimentation",
             "http://purl.obolibrary.org/obo/ENVO_00002047": "URL:http://www.stjude.org/stjude/hospital/med_terms.jsp",
@@ -336,6 +402,12 @@
       },
       "synonym_pack": {
         "invalid_luids": {
+          "http://purl.obolibrary.org/obo/BSPO_0001114": [
+            "MA:th"
+          ],
+          "http://purl.obolibrary.org/obo/BSPO_1000000": [
+            "MA:th"
+          ],
           "http://purl.obolibrary.org/obo/ENVO_00000194": [
             "Geonames:feature"
           ],
@@ -343,6 +415,7 @@
             "WWF:Biome"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -353,6 +426,9 @@
         "unknown_prefixes": {
           "ADL": {
             "http://purl.obolibrary.org/obo/ENVO_00000003": "ADL:FTT"
+          },
+          "Allen": {
+            "http://purl.obolibrary.org/obo/BFO_0000062": "Allen:precedes"
           },
           "GOC": {
             "http://purl.obolibrary.org/obo/GO_0003824": "GOC:tb"
@@ -369,25 +445,9 @@
           }
         }
       },
-      "version": "10.0",
-      "version_iri": "http://enanomapper.github.io/ontologies/releases/10.0/enanomapper.owl",
+      "version": "http://enanomapper.github.io/ontologies/releases/10.0/enanomapper.owl",
       "xref_pack": {
         "invalid_luids": {
-          "http://purl.obolibrary.org/obo/CHEBI_136643": [
-            "AGR:IND84086009"
-          ],
-          "http://purl.obolibrary.org/obo/CHEBI_136644": [
-            "AGR:IND20386178",
-            "AGR:IND84086011",
-            "AGR:IND89021681",
-            "AGR:IND92003154"
-          ],
-          "http://purl.obolibrary.org/obo/CHEBI_136646": [
-            "AGR:IND43789627"
-          ],
-          "http://purl.obolibrary.org/obo/CHEBI_15379": [
-            "Gmelin:485"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000194": [
             "Geonames:T.TAL"
           ],
@@ -757,6 +817,7 @@
             "HMDB:0001934"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {
           "http://purl.obolibrary.org/obo/ENVO_01001644": [
@@ -782,6 +843,9 @@
           ],
           "http://www.ebi.ac.uk/efo/EFO_0020991": [
             "Quantification of ethanolamine in a sample."
+          ],
+          "http://www.ebi.ac.uk/efoIri": [
+            "suggestedNCIt"
           ]
         },
         "noncanonical_prefixes": {
@@ -1007,6 +1071,10 @@
             "http://purl.obolibrary.org/obo/FOODON_03316694": "SUBSET_SIREN:F16694",
             "http://purl.obolibrary.org/obo/FOODON_03317170": "SUBSET_SIREN:F17170",
             "http://purl.obolibrary.org/obo/FOODON_03430130": "SUBSET_SIREN:F5105"
+          },
+          "UBREL": {
+            "http://purl.obolibrary.org/obo/UBREL_0000001": "UBREL:0000001",
+            "http://purl.obolibrary.org/obo/UBREL_0000002": "UBREL:0000002"
           },
           "WWF": {
             "http://purl.obolibrary.org/obo/ENVO_01001569": "WWF:AA1310",

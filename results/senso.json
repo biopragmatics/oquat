@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:59:21.197942",
-  "messages": [],
   "results": {
     "http://purl.dataone.org/odo/SENSO_": {
       "graph_id": "http://purl.dataone.org/odo/SENSO_",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,15 +12,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "Version 0.1.0",
-      "version_iri": "http://purl.dataone.org/odo/SENSO/0.1.0",
+      "version": "http://purl.dataone.org/odo/SENSO/0.1.0",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

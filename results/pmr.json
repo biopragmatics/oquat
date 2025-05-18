@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:56:04.270437",
-  "messages": [],
   "results": {
     "http://purl.bioontology.org/ontology/PMR.owl": {
       "graph_id": "http://purl.bioontology.org/ontology/PMR.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,6 +12,7 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -20,6 +20,7 @@
       },
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

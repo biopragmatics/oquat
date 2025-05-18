@@ -21,6 +21,8 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `hPSCreg:LZUSHI002-A` |              1 | [Cellosaurus#CVCL:C1UQ](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_C1UQ) |
 | `hPSCreg:NSI003-A`    |              1 | [Cellosaurus#CVCL:D0KA](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D0KA) |
 | `hPSCreg:NSI003-B`    |              1 | [Cellosaurus#CVCL:D0KB](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_D0KB) |
+| `hPSCreg:LZUSHI003-A` |              1 | [Cellosaurus#CVCL:E4XA](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_E4XA) |
+| `hPSCreg:MLUi001-c`   |              1 | [Cellosaurus#CVCL:E4XD](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_E4XD) |
 | `hPSCreg:SCHI001-A`   |              1 | [Cellosaurus#CVCL:QY96](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_QY96) |
 | `hPSCreg:CENSOi002-a` |              1 | [Cellosaurus#CVCL:VT13](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_VT13) |
 

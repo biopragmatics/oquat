@@ -6,16 +6,14 @@ for node, synonym, and definition cross-references in `msio`. See the [GitHub re
 
 ## `Gmelin`: Gmelins Handbuch der anorganischen Chemie
 
-Overall, there were 4 invalid
+Overall, there were 2 invalid
 xrefs to external prefixed with `Gmelin` (standardized to Bioregistry
 prefix [`gmelin`](https://bioregistry.io/gmelin)) that
 did not match the standard pattern `^[1-9][0-9]{2,6}$`.
 
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|
-| `Gmelin:117`    |              1 | [CHEBI:15377](http://purl.obolibrary.org/obo/CHEBI_15377) |
 | `Gmelin:79`     |              1 | [CHEBI:16134](http://purl.obolibrary.org/obo/CHEBI_16134) |
-| `Gmelin:895`    |              1 | [CHEBI:38472](http://purl.obolibrary.org/obo/CHEBI_38472) |
 | `Gmelin:97`     |              1 | [CHEBI:41981](http://purl.obolibrary.org/obo/CHEBI_41981) |
 
 ## `LIPID_MAPS_class`: LIPID MAPS

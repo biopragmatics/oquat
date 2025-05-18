@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:45:32.746884",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/mpath.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/mpath.owl",
@@ -452,6 +450,7 @@
             "MPATH:PNS"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -1001,6 +1000,7 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -1170,10 +1170,10 @@
           }
         }
       },
-      "version": "2020-05-19",
-      "version_iri": "http://purl.obolibrary.org/obo/mpath/2020-05-19/mpath.owl",
+      "version": "http://purl.obolibrary.org/obo/mpath/2020-05-19/mpath.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

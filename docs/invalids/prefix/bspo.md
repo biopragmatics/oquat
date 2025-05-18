@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `bspo`
 but use local unique identifiers that do not match the standard pattern of
-`^\d{7}$`. Of the 1 resources,
+`^\d{7}$`. Of the 3 resources,
 1 variants on the standard prefix were found: ['BSPO'].
 
 ## `bspo`: Biological Spatial Ontology
@@ -18,5 +18,27 @@ Identifiers for this prefix are given incorrectly in `bspo`. See the [GitHub rep
 | `BSPO:PATO_mtg_2009` |              6 | [BSPO:0000120](http://purl.obolibrary.org/obo/BSPO_0000120), [BSPO:0000121](http://purl.obolibrary.org/obo/BSPO_0000121), [BSPO:0000122](http://purl.obolibrary.org/obo/BSPO_0000122), [BSPO:0000123](http://purl.obolibrary.org/obo/BSPO_0000123), [BSPO:0000124](http://purl.obolibrary.org/obo/BSPO_0000124), ... |
 | `BSPO:RW`            |              5 | [BSPO:0000055](http://purl.obolibrary.org/obo/BSPO_0000055), [BSPO:0000056](http://purl.obolibrary.org/obo/BSPO_0000056), [BSPO:0000068](http://purl.obolibrary.org/obo/BSPO_0000068), [BSPO:0000195](http://purl.obolibrary.org/obo/BSPO_0000195), [BSPO:0000200](http://purl.obolibrary.org/obo/BSPO_0000200)      |
 | `BSPO:PM`            |              3 | [BSPO:0000012](http://purl.obolibrary.org/obo/BSPO_0000012), [BSPO:0000198](http://purl.obolibrary.org/obo/BSPO_0000198), [BSPO:0000199](http://purl.obolibrary.org/obo/BSPO_0000199)                                                                                                                                |
+| `BSPO:DOS`           |              1 | [BSPO:0000417](http://purl.obolibrary.org/obo/BSPO_0000417)                                                                                                                                                                                                                                                          |
+
+## `enm`: eNanoMapper ontology
+
+Identifiers for this prefix are given incorrectly in `enm`.
+
+| external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
+|----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `BSPO:cjm`           |             11 | [BSPO:0000096](http://purl.obolibrary.org/obo/BSPO_0000096), [BSPO:0000097](http://purl.obolibrary.org/obo/BSPO_0000097), [BSPO:0000098](http://purl.obolibrary.org/obo/BSPO_0000098), [BSPO:0000099](http://purl.obolibrary.org/obo/BSPO_0000099), [BSPO:0000100](http://purl.obolibrary.org/obo/BSPO_0000100), ... |
+| `BSPO:PATO_mtg_2009` |              6 | [BSPO:0000120](http://purl.obolibrary.org/obo/BSPO_0000120), [BSPO:0000121](http://purl.obolibrary.org/obo/BSPO_0000121), [BSPO:0000122](http://purl.obolibrary.org/obo/BSPO_0000122), [BSPO:0000123](http://purl.obolibrary.org/obo/BSPO_0000123), [BSPO:0000124](http://purl.obolibrary.org/obo/BSPO_0000124), ... |
+
+## `nif`
+
+Identifiers for this prefix are given incorrectly in `nif`.
+
+| external_xref        |   usages_count | usages                                                                                                                                                                                                                                                                                                               |
+|----------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `BSPO:cjm`           |             29 | [BSPO:0000000](http://purl.obolibrary.org/obo/BSPO_0000000), [BSPO:0000007](http://purl.obolibrary.org/obo/BSPO_0000007), [BSPO:0000010](http://purl.obolibrary.org/obo/BSPO_0000010), [BSPO:0000013](http://purl.obolibrary.org/obo/BSPO_0000013), [BSPO:0000017](http://purl.obolibrary.org/obo/BSPO_0000017), ... |
+| `BSPO:curators`      |              6 | [BSPO:0000016](http://purl.obolibrary.org/obo/BSPO_0000016), [BSPO:0001102](http://purl.obolibrary.org/obo/BSPO_0001102), [BSPO:0001107](http://purl.obolibrary.org/obo/BSPO_0001107), [BSPO:0015009](http://purl.obolibrary.org/obo/BSPO_0015009), [BSPO:0015012](http://purl.obolibrary.org/obo/BSPO_0015012), ... |
+| `BSPO:PATO_mtg_2009` |              6 | [BSPO:0000120](http://purl.obolibrary.org/obo/BSPO_0000120), [BSPO:0000121](http://purl.obolibrary.org/obo/BSPO_0000121), [BSPO:0000122](http://purl.obolibrary.org/obo/BSPO_0000122), [BSPO:0000123](http://purl.obolibrary.org/obo/BSPO_0000123), [BSPO:0000124](http://purl.obolibrary.org/obo/BSPO_0000124), ... |
+| `BSPO:mah`           |              3 | [BSPO:0000018](http://purl.obolibrary.org/obo/BSPO_0000018), [BSPO:0000019](http://purl.obolibrary.org/obo/BSPO_0000019), [BSPO:0000417](http://purl.obolibrary.org/obo/BSPO_0000417)                                                                                                                                |
+| `BSPO:wd`            |              1 | [BSPO:0000007](http://purl.obolibrary.org/obo/BSPO_0000007)                                                                                                                                                                                                                                                          |
 | `BSPO:DOS`           |              1 | [BSPO:0000417](http://purl.obolibrary.org/obo/BSPO_0000417)                                                                                                                                                                                                                                                          |
 

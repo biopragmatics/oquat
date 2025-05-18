@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:44:28.711810",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/MFOMD.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/MFOMD.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -17,19 +16,20 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2020-04-26",
-      "version_iri": "http://purl.obolibrary.org/obo/MFOMD/2020-04-26/MFOMD.owl",
+      "version": "http://purl.obolibrary.org/obo/MFOMD/2020-04-26/MFOMD.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/MFOMD_0000004": [
             "ICD9CM:290-319.99"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {

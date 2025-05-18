@@ -2,7 +2,7 @@
 
 ## `IUPHAR`
 
-There are 1048 usages of `IUPHAR` in `orphanet`.
+There are 1061 usages of `IUPHAR` in `orphanet`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IUPHAR).
 
@@ -108,6 +108,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:856  |        1 | [http://www.orpha.net/ORDO/Orphanet_118885](http://www.orpha.net/ORDO/Orphanet_118885) |
 | IUPHAR:1935 |        1 | [http://www.orpha.net/ORDO/Orphanet_118896](http://www.orpha.net/ORDO/Orphanet_118896) |
 | IUPHAR:368  |        1 | [http://www.orpha.net/ORDO/Orphanet_118947](http://www.orpha.net/ORDO/Orphanet_118947) |
+| IUPHAR:3237 |        1 | [http://www.orpha.net/ORDO/Orphanet_118954](http://www.orpha.net/ORDO/Orphanet_118954) |
 | IUPHAR:2774 |        1 | [http://www.orpha.net/ORDO/Orphanet_118970](http://www.orpha.net/ORDO/Orphanet_118970) |
 | IUPHAR:2471 |        1 | [http://www.orpha.net/ORDO/Orphanet_118998](http://www.orpha.net/ORDO/Orphanet_118998) |
 | IUPHAR:2844 |        1 | [http://www.orpha.net/ORDO/Orphanet_119007](http://www.orpha.net/ORDO/Orphanet_119007) |
@@ -133,6 +134,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:1976 |        1 | [http://www.orpha.net/ORDO/Orphanet_119289](http://www.orpha.net/ORDO/Orphanet_119289) |
 | IUPHAR:1986 |        1 | [http://www.orpha.net/ORDO/Orphanet_119297](http://www.orpha.net/ORDO/Orphanet_119297) |
 | IUPHAR:2872 |        1 | [http://www.orpha.net/ORDO/Orphanet_119333](http://www.orpha.net/ORDO/Orphanet_119333) |
+| IUPHAR:3248 |        1 | [http://www.orpha.net/ORDO/Orphanet_119357](http://www.orpha.net/ORDO/Orphanet_119357) |
 | IUPHAR:707  |        1 | [http://www.orpha.net/ORDO/Orphanet_119382](http://www.orpha.net/ORDO/Orphanet_119382) |
 | IUPHAR:2480 |        1 | [http://www.orpha.net/ORDO/Orphanet_119387](http://www.orpha.net/ORDO/Orphanet_119387) |
 | IUPHAR:1988 |        1 | [http://www.orpha.net/ORDO/Orphanet_119394](http://www.orpha.net/ORDO/Orphanet_119394) |
@@ -167,6 +169,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:898  |        1 | [http://www.orpha.net/ORDO/Orphanet_119709](http://www.orpha.net/ORDO/Orphanet_119709) |
 | IUPHAR:900  |        1 | [http://www.orpha.net/ORDO/Orphanet_119713](http://www.orpha.net/ORDO/Orphanet_119713) |
 | IUPHAR:2514 |        1 | [http://www.orpha.net/ORDO/Orphanet_119754](http://www.orpha.net/ORDO/Orphanet_119754) |
+| IUPHAR:3285 |        1 | [http://www.orpha.net/ORDO/Orphanet_119763](http://www.orpha.net/ORDO/Orphanet_119763) |
 | IUPHAR:3096 |        1 | [http://www.orpha.net/ORDO/Orphanet_119781](http://www.orpha.net/ORDO/Orphanet_119781) |
 | IUPHAR:2778 |        1 | [http://www.orpha.net/ORDO/Orphanet_119797](http://www.orpha.net/ORDO/Orphanet_119797) |
 | IUPHAR:3020 |        1 | [http://www.orpha.net/ORDO/Orphanet_119844](http://www.orpha.net/ORDO/Orphanet_119844) |
@@ -177,6 +180,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:770  |        1 | [http://www.orpha.net/ORDO/Orphanet_119922](http://www.orpha.net/ORDO/Orphanet_119922) |
 | IUPHAR:2527 |        1 | [http://www.orpha.net/ORDO/Orphanet_119928](http://www.orpha.net/ORDO/Orphanet_119928) |
 | IUPHAR:825  |        1 | [http://www.orpha.net/ORDO/Orphanet_119990](http://www.orpha.net/ORDO/Orphanet_119990) |
+| IUPHAR:3240 |        1 | [http://www.orpha.net/ORDO/Orphanet_120010](http://www.orpha.net/ORDO/Orphanet_120010) |
 | IUPHAR:1842 |        1 | [http://www.orpha.net/ORDO/Orphanet_120020](http://www.orpha.net/ORDO/Orphanet_120020) |
 | IUPHAR:1788 |        1 | [http://www.orpha.net/ORDO/Orphanet_120065](http://www.orpha.net/ORDO/Orphanet_120065) |
 | IUPHAR:1795 |        1 | [http://www.orpha.net/ORDO/Orphanet_120069](http://www.orpha.net/ORDO/Orphanet_120069) |
@@ -203,12 +207,15 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:3220 |        1 | [http://www.orpha.net/ORDO/Orphanet_120521](http://www.orpha.net/ORDO/Orphanet_120521) |
 | IUPHAR:2280 |        1 | [http://www.orpha.net/ORDO/Orphanet_120531](http://www.orpha.net/ORDO/Orphanet_120531) |
 | IUPHAR:2283 |        1 | [http://www.orpha.net/ORDO/Orphanet_120534](http://www.orpha.net/ORDO/Orphanet_120534) |
+| IUPHAR:3259 |        1 | [http://www.orpha.net/ORDO/Orphanet_120545](http://www.orpha.net/ORDO/Orphanet_120545) |
 | IUPHAR:2646 |        1 | [http://www.orpha.net/ORDO/Orphanet_120558](http://www.orpha.net/ORDO/Orphanet_120558) |
 | IUPHAR:2285 |        1 | [http://www.orpha.net/ORDO/Orphanet_120579](http://www.orpha.net/ORDO/Orphanet_120579) |
 | IUPHAR:394  |        1 | [http://www.orpha.net/ORDO/Orphanet_120664](http://www.orpha.net/ORDO/Orphanet_120664) |
 | IUPHAR:396  |        1 | [http://www.orpha.net/ORDO/Orphanet_120671](http://www.orpha.net/ORDO/Orphanet_120671) |
 | IUPHAR:399  |        1 | [http://www.orpha.net/ORDO/Orphanet_120678](http://www.orpha.net/ORDO/Orphanet_120678) |
 | IUPHAR:1592 |        1 | [http://www.orpha.net/ORDO/Orphanet_120780](http://www.orpha.net/ORDO/Orphanet_120780) |
+| IUPHAR:3249 |        1 | [http://www.orpha.net/ORDO/Orphanet_120790](http://www.orpha.net/ORDO/Orphanet_120790) |
+| IUPHAR:3252 |        1 | [http://www.orpha.net/ORDO/Orphanet_120795](http://www.orpha.net/ORDO/Orphanet_120795) |
 | IUPHAR:3086 |        1 | [http://www.orpha.net/ORDO/Orphanet_120811](http://www.orpha.net/ORDO/Orphanet_120811) |
 | IUPHAR:2734 |        1 | [http://www.orpha.net/ORDO/Orphanet_120814](http://www.orpha.net/ORDO/Orphanet_120814) |
 | IUPHAR:2306 |        1 | [http://www.orpha.net/ORDO/Orphanet_120855](http://www.orpha.net/ORDO/Orphanet_120855) |
@@ -341,6 +348,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:561  |        1 | [http://www.orpha.net/ORDO/Orphanet_122808](http://www.orpha.net/ORDO/Orphanet_122808) |
 | IUPHAR:562  |        1 | [http://www.orpha.net/ORDO/Orphanet_122817](http://www.orpha.net/ORDO/Orphanet_122817) |
 | IUPHAR:563  |        1 | [http://www.orpha.net/ORDO/Orphanet_122821](http://www.orpha.net/ORDO/Orphanet_122821) |
+| IUPHAR:3236 |        1 | [http://www.orpha.net/ORDO/Orphanet_122829](http://www.orpha.net/ORDO/Orphanet_122829) |
 | IUPHAR:266  |        1 | [http://www.orpha.net/ORDO/Orphanet_122857](http://www.orpha.net/ORDO/Orphanet_122857) |
 | IUPHAR:1805 |        1 | [http://www.orpha.net/ORDO/Orphanet_122862](http://www.orpha.net/ORDO/Orphanet_122862) |
 | IUPHAR:2379 |        1 | [http://www.orpha.net/ORDO/Orphanet_122872](http://www.orpha.net/ORDO/Orphanet_122872) |
@@ -365,6 +373,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:2059 |        1 | [http://www.orpha.net/ORDO/Orphanet_123301](http://www.orpha.net/ORDO/Orphanet_123301) |
 | IUPHAR:2861 |        1 | [http://www.orpha.net/ORDO/Orphanet_123361](http://www.orpha.net/ORDO/Orphanet_123361) |
 | IUPHAR:769  |        1 | [http://www.orpha.net/ORDO/Orphanet_123369](http://www.orpha.net/ORDO/Orphanet_123369) |
+| IUPHAR:3260 |        1 | [http://www.orpha.net/ORDO/Orphanet_123406](http://www.orpha.net/ORDO/Orphanet_123406) |
 | IUPHAR:889  |        1 | [http://www.orpha.net/ORDO/Orphanet_123426](http://www.orpha.net/ORDO/Orphanet_123426) |
 | IUPHAR:1637 |        1 | [http://www.orpha.net/ORDO/Orphanet_123436](http://www.orpha.net/ORDO/Orphanet_123436) |
 | IUPHAR:1629 |        1 | [http://www.orpha.net/ORDO/Orphanet_123439](http://www.orpha.net/ORDO/Orphanet_123439) |
@@ -414,6 +423,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:1779 |        1 | [http://www.orpha.net/ORDO/Orphanet_138361](http://www.orpha.net/ORDO/Orphanet_138361) |
 | IUPHAR:1807 |        1 | [http://www.orpha.net/ORDO/Orphanet_138366](http://www.orpha.net/ORDO/Orphanet_138366) |
 | IUPHAR:1804 |        1 | [http://www.orpha.net/ORDO/Orphanet_138376](http://www.orpha.net/ORDO/Orphanet_138376) |
+| IUPHAR:3253 |        1 | [http://www.orpha.net/ORDO/Orphanet_138475](http://www.orpha.net/ORDO/Orphanet_138475) |
 | IUPHAR:726  |        1 | [http://www.orpha.net/ORDO/Orphanet_138503](http://www.orpha.net/ORDO/Orphanet_138503) |
 | IUPHAR:2994 |        1 | [http://www.orpha.net/ORDO/Orphanet_138523](http://www.orpha.net/ORDO/Orphanet_138523) |
 | IUPHAR:2413 |        1 | [http://www.orpha.net/ORDO/Orphanet_138530](http://www.orpha.net/ORDO/Orphanet_138530) |
@@ -582,13 +592,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:3053 |        1 | [http://www.orpha.net/ORDO/Orphanet_239894](http://www.orpha.net/ORDO/Orphanet_239894) |
 | IUPHAR:3054 |        1 | [http://www.orpha.net/ORDO/Orphanet_239896](http://www.orpha.net/ORDO/Orphanet_239896) |
 | IUPHAR:3070 |        1 | [http://www.orpha.net/ORDO/Orphanet_239970](http://www.orpha.net/ORDO/Orphanet_239970) |
-| IUPHAR:1329 |        1 | [http://www.orpha.net/ORDO/Orphanet_241953](http://www.orpha.net/ORDO/Orphanet_241953) |
-| IUPHAR:1328 |        1 | [http://www.orpha.net/ORDO/Orphanet_241960](http://www.orpha.net/ORDO/Orphanet_241960) |
-| IUPHAR:1326 |        1 | [http://www.orpha.net/ORDO/Orphanet_241965](http://www.orpha.net/ORDO/Orphanet_241965) |
 | IUPHAR:2642 |        1 | [http://www.orpha.net/ORDO/Orphanet_241969](http://www.orpha.net/ORDO/Orphanet_241969) |
-| IUPHAR:1324 |        1 | [http://www.orpha.net/ORDO/Orphanet_241987](http://www.orpha.net/ORDO/Orphanet_241987) |
 | IUPHAR:2472 |        1 | [http://www.orpha.net/ORDO/Orphanet_241992](http://www.orpha.net/ORDO/Orphanet_241992) |
-| IUPHAR:1338 |        1 | [http://www.orpha.net/ORDO/Orphanet_241994](http://www.orpha.net/ORDO/Orphanet_241994) |
 | IUPHAR:1220 |        1 | [http://www.orpha.net/ORDO/Orphanet_241999](http://www.orpha.net/ORDO/Orphanet_241999) |
 | IUPHAR:1045 |        1 | [http://www.orpha.net/ORDO/Orphanet_244378](http://www.orpha.net/ORDO/Orphanet_244378) |
 | IUPHAR:2510 |        1 | [http://www.orpha.net/ORDO/Orphanet_244400](http://www.orpha.net/ORDO/Orphanet_244400) |
@@ -627,7 +632,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:1479 |        1 | [http://www.orpha.net/ORDO/Orphanet_281472](http://www.orpha.net/ORDO/Orphanet_281472) |
 | IUPHAR:1579 |        1 | [http://www.orpha.net/ORDO/Orphanet_281864](http://www.orpha.net/ORDO/Orphanet_281864) |
 | IUPHAR:455  |        1 | [http://www.orpha.net/ORDO/Orphanet_282786](http://www.orpha.net/ORDO/Orphanet_282786) |
-| IUPHAR:1319 |        1 | [http://www.orpha.net/ORDO/Orphanet_284125](http://www.orpha.net/ORDO/Orphanet_284125) |
 | IUPHAR:1709 |        1 | [http://www.orpha.net/ORDO/Orphanet_284155](http://www.orpha.net/ORDO/Orphanet_284155) |
 | IUPHAR:2666 |        1 | [http://www.orpha.net/ORDO/Orphanet_285156](http://www.orpha.net/ORDO/Orphanet_285156) |
 | IUPHAR:536  |        1 | [http://www.orpha.net/ORDO/Orphanet_286549](http://www.orpha.net/ORDO/Orphanet_286549) |
@@ -673,10 +677,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:603  |        1 | [http://www.orpha.net/ORDO/Orphanet_304804](http://www.orpha.net/ORDO/Orphanet_304804) |
 | IUPHAR:1628 |        1 | [http://www.orpha.net/ORDO/Orphanet_306110](http://www.orpha.net/ORDO/Orphanet_306110) |
 | IUPHAR:2504 |        1 | [http://www.orpha.net/ORDO/Orphanet_306122](http://www.orpha.net/ORDO/Orphanet_306122) |
+| IUPHAR:3255 |        1 | [http://www.orpha.net/ORDO/Orphanet_306416](http://www.orpha.net/ORDO/Orphanet_306416) |
 | IUPHAR:1130 |        1 | [http://www.orpha.net/ORDO/Orphanet_311032](http://www.orpha.net/ORDO/Orphanet_311032) |
 | IUPHAR:2442 |        1 | [http://www.orpha.net/ORDO/Orphanet_311039](http://www.orpha.net/ORDO/Orphanet_311039) |
-| IUPHAR:1014 |        1 | [http://www.orpha.net/ORDO/Orphanet_311352](http://www.orpha.net/ORDO/Orphanet_311352) |
-| IUPHAR:2367 |        1 | [http://www.orpha.net/ORDO/Orphanet_311355](http://www.orpha.net/ORDO/Orphanet_311355) |
 | IUPHAR:845  |        1 | [http://www.orpha.net/ORDO/Orphanet_311398](http://www.orpha.net/ORDO/Orphanet_311398) |
 | IUPHAR:1939 |        1 | [http://www.orpha.net/ORDO/Orphanet_312680](http://www.orpha.net/ORDO/Orphanet_312680) |
 | IUPHAR:1638 |        1 | [http://www.orpha.net/ORDO/Orphanet_314731](http://www.orpha.net/ORDO/Orphanet_314731) |
@@ -687,7 +690,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:3050 |        1 | [http://www.orpha.net/ORDO/Orphanet_317781](http://www.orpha.net/ORDO/Orphanet_317781) |
 | IUPHAR:2225 |        1 | [http://www.orpha.net/ORDO/Orphanet_317798](http://www.orpha.net/ORDO/Orphanet_317798) |
 | IUPHAR:2800 |        1 | [http://www.orpha.net/ORDO/Orphanet_318754](http://www.orpha.net/ORDO/Orphanet_318754) |
-| IUPHAR:768  |        1 | [http://www.orpha.net/ORDO/Orphanet_318801](http://www.orpha.net/ORDO/Orphanet_318801) |
 | IUPHAR:2237 |        1 | [http://www.orpha.net/ORDO/Orphanet_318865](http://www.orpha.net/ORDO/Orphanet_318865) |
 | IUPHAR:1368 |        1 | [http://www.orpha.net/ORDO/Orphanet_320192](http://www.orpha.net/ORDO/Orphanet_320192) |
 | IUPHAR:914  |        1 | [http://www.orpha.net/ORDO/Orphanet_320785](http://www.orpha.net/ORDO/Orphanet_320785) |
@@ -695,7 +697,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:1335 |        1 | [http://www.orpha.net/ORDO/Orphanet_321573](http://www.orpha.net/ORDO/Orphanet_321573) |
 | IUPHAR:2571 |        1 | [http://www.orpha.net/ORDO/Orphanet_321640](http://www.orpha.net/ORDO/Orphanet_321640) |
 | IUPHAR:1459 |        1 | [http://www.orpha.net/ORDO/Orphanet_323427](http://www.orpha.net/ORDO/Orphanet_323427) |
-| IUPHAR:62   |        1 | [http://www.orpha.net/ORDO/Orphanet_324270](http://www.orpha.net/ORDO/Orphanet_324270) |
 | IUPHAR:1896 |        1 | [http://www.orpha.net/ORDO/Orphanet_325286](http://www.orpha.net/ORDO/Orphanet_325286) |
 | IUPHAR:585  |        1 | [http://www.orpha.net/ORDO/Orphanet_325976](http://www.orpha.net/ORDO/Orphanet_325976) |
 | IUPHAR:2993 |        1 | [http://www.orpha.net/ORDO/Orphanet_326078](http://www.orpha.net/ORDO/Orphanet_326078) |
@@ -708,6 +709,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:586  |        1 | [http://www.orpha.net/ORDO/Orphanet_328924](http://www.orpha.net/ORDO/Orphanet_328924) |
 | IUPHAR:479  |        1 | [http://www.orpha.net/ORDO/Orphanet_330683](http://www.orpha.net/ORDO/Orphanet_330683) |
 | IUPHAR:2821 |        1 | [http://www.orpha.net/ORDO/Orphanet_331710](http://www.orpha.net/ORDO/Orphanet_331710) |
+| IUPHAR:3273 |        1 | [http://www.orpha.net/ORDO/Orphanet_331967](http://www.orpha.net/ORDO/Orphanet_331967) |
 | IUPHAR:2946 |        1 | [http://www.orpha.net/ORDO/Orphanet_332055](http://www.orpha.net/ORDO/Orphanet_332055) |
 | IUPHAR:1485 |        1 | [http://www.orpha.net/ORDO/Orphanet_332077](http://www.orpha.net/ORDO/Orphanet_332077) |
 | IUPHAR:2503 |        1 | [http://www.orpha.net/ORDO/Orphanet_352217](http://www.orpha.net/ORDO/Orphanet_352217) |
@@ -715,7 +717,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:865  |        1 | [http://www.orpha.net/ORDO/Orphanet_353241](http://www.orpha.net/ORDO/Orphanet_353241) |
 | IUPHAR:2357 |        1 | [http://www.orpha.net/ORDO/Orphanet_353250](http://www.orpha.net/ORDO/Orphanet_353250) |
 | IUPHAR:2914 |        1 | [http://www.orpha.net/ORDO/Orphanet_353497](http://www.orpha.net/ORDO/Orphanet_353497) |
-| IUPHAR:2637 |        1 | [http://www.orpha.net/ORDO/Orphanet_353516](http://www.orpha.net/ORDO/Orphanet_353516) |
 | IUPHAR:870  |        1 | [http://www.orpha.net/ORDO/Orphanet_353548](http://www.orpha.net/ORDO/Orphanet_353548) |
 | IUPHAR:796  |        1 | [http://www.orpha.net/ORDO/Orphanet_353576](http://www.orpha.net/ORDO/Orphanet_353576) |
 | IUPHAR:1741 |        1 | [http://www.orpha.net/ORDO/Orphanet_353734](http://www.orpha.net/ORDO/Orphanet_353734) |
@@ -751,6 +752,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:1799 |        1 | [http://www.orpha.net/ORDO/Orphanet_370064](http://www.orpha.net/ORDO/Orphanet_370064) |
 | IUPHAR:2756 |        1 | [http://www.orpha.net/ORDO/Orphanet_370413](http://www.orpha.net/ORDO/Orphanet_370413) |
 | IUPHAR:1140 |        1 | [http://www.orpha.net/ORDO/Orphanet_371162](http://www.orpha.net/ORDO/Orphanet_371162) |
+| IUPHAR:3282 |        1 | [http://www.orpha.net/ORDO/Orphanet_371170](http://www.orpha.net/ORDO/Orphanet_371170) |
 | IUPHAR:2349 |        1 | [http://www.orpha.net/ORDO/Orphanet_371315](http://www.orpha.net/ORDO/Orphanet_371315) |
 | IUPHAR:327  |        1 | [http://www.orpha.net/ORDO/Orphanet_371321](http://www.orpha.net/ORDO/Orphanet_371321) |
 | IUPHAR:1049 |        1 | [http://www.orpha.net/ORDO/Orphanet_371844](http://www.orpha.net/ORDO/Orphanet_371844) |
@@ -770,6 +772,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:2447 |        1 | [http://www.orpha.net/ORDO/Orphanet_395065](http://www.orpha.net/ORDO/Orphanet_395065) |
 | IUPHAR:3202 |        1 | [http://www.orpha.net/ORDO/Orphanet_395106](http://www.orpha.net/ORDO/Orphanet_395106) |
 | IUPHAR:26   |        1 | [http://www.orpha.net/ORDO/Orphanet_395886](http://www.orpha.net/ORDO/Orphanet_395886) |
+| IUPHAR:3280 |        1 | [http://www.orpha.net/ORDO/Orphanet_395954](http://www.orpha.net/ORDO/Orphanet_395954) |
 | IUPHAR:1236 |        1 | [http://www.orpha.net/ORDO/Orphanet_398201](http://www.orpha.net/ORDO/Orphanet_398201) |
 | IUPHAR:2155 |        1 | [http://www.orpha.net/ORDO/Orphanet_400623](http://www.orpha.net/ORDO/Orphanet_400623) |
 | IUPHAR:1176 |        1 | [http://www.orpha.net/ORDO/Orphanet_400638](http://www.orpha.net/ORDO/Orphanet_400638) |
@@ -792,6 +795,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:2750 |        1 | [http://www.orpha.net/ORDO/Orphanet_406016](http://www.orpha.net/ORDO/Orphanet_406016) |
 | IUPHAR:877  |        1 | [http://www.orpha.net/ORDO/Orphanet_406394](http://www.orpha.net/ORDO/Orphanet_406394) |
 | IUPHAR:2008 |        1 | [http://www.orpha.net/ORDO/Orphanet_406487](http://www.orpha.net/ORDO/Orphanet_406487) |
+| IUPHAR:3239 |        1 | [http://www.orpha.net/ORDO/Orphanet_406611](http://www.orpha.net/ORDO/Orphanet_406611) |
 | IUPHAR:1105 |        1 | [http://www.orpha.net/ORDO/Orphanet_408636](http://www.orpha.net/ORDO/Orphanet_408636) |
 | IUPHAR:812  |        1 | [http://www.orpha.net/ORDO/Orphanet_410340](http://www.orpha.net/ORDO/Orphanet_410340) |
 | IUPHAR:2663 |        1 | [http://www.orpha.net/ORDO/Orphanet_410615](http://www.orpha.net/ORDO/Orphanet_410615) |
@@ -806,11 +810,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:125  |        1 | [http://www.orpha.net/ORDO/Orphanet_420409](http://www.orpha.net/ORDO/Orphanet_420409) |
 | IUPHAR:3180 |        1 | [http://www.orpha.net/ORDO/Orphanet_420818](http://www.orpha.net/ORDO/Orphanet_420818) |
 | IUPHAR:2171 |        1 | [http://www.orpha.net/ORDO/Orphanet_422336](http://www.orpha.net/ORDO/Orphanet_422336) |
-| IUPHAR:1489 |        1 | [http://www.orpha.net/ORDO/Orphanet_422348](http://www.orpha.net/ORDO/Orphanet_422348) |
 | IUPHAR:2920 |        1 | [http://www.orpha.net/ORDO/Orphanet_422901](http://www.orpha.net/ORDO/Orphanet_422901) |
 | IUPHAR:1473 |        1 | [http://www.orpha.net/ORDO/Orphanet_423011](http://www.orpha.net/ORDO/Orphanet_423011) |
 | IUPHAR:943  |        1 | [http://www.orpha.net/ORDO/Orphanet_423450](http://www.orpha.net/ORDO/Orphanet_423450) |
-| IUPHAR:1337 |        1 | [http://www.orpha.net/ORDO/Orphanet_423802](http://www.orpha.net/ORDO/Orphanet_423802) |
 | IUPHAR:2197 |        1 | [http://www.orpha.net/ORDO/Orphanet_426073](http://www.orpha.net/ORDO/Orphanet_426073) |
 | IUPHAR:141  |        1 | [http://www.orpha.net/ORDO/Orphanet_426145](http://www.orpha.net/ORDO/Orphanet_426145) |
 | IUPHAR:1251 |        1 | [http://www.orpha.net/ORDO/Orphanet_426568](http://www.orpha.net/ORDO/Orphanet_426568) |
@@ -832,6 +834,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:1096 |        1 | [http://www.orpha.net/ORDO/Orphanet_436878](http://www.orpha.net/ORDO/Orphanet_436878) |
 | IUPHAR:3134 |        1 | [http://www.orpha.net/ORDO/Orphanet_437674](http://www.orpha.net/ORDO/Orphanet_437674) |
 | IUPHAR:1036 |        1 | [http://www.orpha.net/ORDO/Orphanet_437689](http://www.orpha.net/ORDO/Orphanet_437689) |
+| IUPHAR:3281 |        1 | [http://www.orpha.net/ORDO/Orphanet_438054](http://www.orpha.net/ORDO/Orphanet_438054) |
 | IUPHAR:2902 |        1 | [http://www.orpha.net/ORDO/Orphanet_438066](http://www.orpha.net/ORDO/Orphanet_438066) |
 | IUPHAR:395  |        1 | [http://www.orpha.net/ORDO/Orphanet_441279](http://www.orpha.net/ORDO/Orphanet_441279) |
 | IUPHAR:384  |        1 | [http://www.orpha.net/ORDO/Orphanet_442943](http://www.orpha.net/ORDO/Orphanet_442943) |
@@ -855,6 +858,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:1871 |        1 | [http://www.orpha.net/ORDO/Orphanet_448527](http://www.orpha.net/ORDO/Orphanet_448527) |
 | IUPHAR:2863 |        1 | [http://www.orpha.net/ORDO/Orphanet_448537](http://www.orpha.net/ORDO/Orphanet_448537) |
 | IUPHAR:219  |        1 | [http://www.orpha.net/ORDO/Orphanet_448610](http://www.orpha.net/ORDO/Orphanet_448610) |
+| IUPHAR:3251 |        1 | [http://www.orpha.net/ORDO/Orphanet_448705](http://www.orpha.net/ORDO/Orphanet_448705) |
 | IUPHAR:2423 |        1 | [http://www.orpha.net/ORDO/Orphanet_448714](http://www.orpha.net/ORDO/Orphanet_448714) |
 | IUPHAR:58   |        1 | [http://www.orpha.net/ORDO/Orphanet_449063](http://www.orpha.net/ORDO/Orphanet_449063) |
 | IUPHAR:1566 |        1 | [http://www.orpha.net/ORDO/Orphanet_449094](http://www.orpha.net/ORDO/Orphanet_449094) |
@@ -867,7 +871,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:873  |        1 | [http://www.orpha.net/ORDO/Orphanet_457197](http://www.orpha.net/ORDO/Orphanet_457197) |
 | IUPHAR:222  |        1 | [http://www.orpha.net/ORDO/Orphanet_457447](http://www.orpha.net/ORDO/Orphanet_457447) |
 | IUPHAR:2074 |        1 | [http://www.orpha.net/ORDO/Orphanet_457451](http://www.orpha.net/ORDO/Orphanet_457451) |
-| IUPHAR:1824 |        1 | [http://www.orpha.net/ORDO/Orphanet_457688](http://www.orpha.net/ORDO/Orphanet_457688) |
 | IUPHAR:1611 |        1 | [http://www.orpha.net/ORDO/Orphanet_459043](http://www.orpha.net/ORDO/Orphanet_459043) |
 | IUPHAR:488  |        1 | [http://www.orpha.net/ORDO/Orphanet_460869](http://www.orpha.net/ORDO/Orphanet_460869) |
 | IUPHAR:535  |        1 | [http://www.orpha.net/ORDO/Orphanet_460876](http://www.orpha.net/ORDO/Orphanet_460876) |
@@ -888,8 +891,8 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:1989 |        1 | [http://www.orpha.net/ORDO/Orphanet_469582](http://www.orpha.net/ORDO/Orphanet_469582) |
 | IUPHAR:779  |        1 | [http://www.orpha.net/ORDO/Orphanet_469890](http://www.orpha.net/ORDO/Orphanet_469890) |
 | IUPHAR:533  |        1 | [http://www.orpha.net/ORDO/Orphanet_470026](http://www.orpha.net/ORDO/Orphanet_470026) |
+| IUPHAR:178  |        1 | [http://www.orpha.net/ORDO/Orphanet_470064](http://www.orpha.net/ORDO/Orphanet_470064) |
 | IUPHAR:1549 |        1 | [http://www.orpha.net/ORDO/Orphanet_470140](http://www.orpha.net/ORDO/Orphanet_470140) |
-| IUPHAR:1325 |        1 | [http://www.orpha.net/ORDO/Orphanet_470162](http://www.orpha.net/ORDO/Orphanet_470162) |
 | IUPHAR:241  |        1 | [http://www.orpha.net/ORDO/Orphanet_470362](http://www.orpha.net/ORDO/Orphanet_470362) |
 | IUPHAR:411  |        1 | [http://www.orpha.net/ORDO/Orphanet_470366](http://www.orpha.net/ORDO/Orphanet_470366) |
 | IUPHAR:1441 |        1 | [http://www.orpha.net/ORDO/Orphanet_470460](http://www.orpha.net/ORDO/Orphanet_470460) |
@@ -900,15 +903,17 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:2131 |        1 | [http://www.orpha.net/ORDO/Orphanet_470810](http://www.orpha.net/ORDO/Orphanet_470810) |
 | IUPHAR:2776 |        1 | [http://www.orpha.net/ORDO/Orphanet_470874](http://www.orpha.net/ORDO/Orphanet_470874) |
 | IUPHAR:2544 |        1 | [http://www.orpha.net/ORDO/Orphanet_470892](http://www.orpha.net/ORDO/Orphanet_470892) |
+| IUPHAR:598  |        1 | [http://www.orpha.net/ORDO/Orphanet_470992](http://www.orpha.net/ORDO/Orphanet_470992) |
 | IUPHAR:600  |        1 | [http://www.orpha.net/ORDO/Orphanet_470996](http://www.orpha.net/ORDO/Orphanet_470996) |
 | IUPHAR:580  |        1 | [http://www.orpha.net/ORDO/Orphanet_471032](http://www.orpha.net/ORDO/Orphanet_471032) |
 | IUPHAR:2195 |        1 | [http://www.orpha.net/ORDO/Orphanet_471036](http://www.orpha.net/ORDO/Orphanet_471036) |
 | IUPHAR:1013 |        1 | [http://www.orpha.net/ORDO/Orphanet_471070](http://www.orpha.net/ORDO/Orphanet_471070) |
 | IUPHAR:869  |        1 | [http://www.orpha.net/ORDO/Orphanet_471072](http://www.orpha.net/ORDO/Orphanet_471072) |
 | IUPHAR:1083 |        1 | [http://www.orpha.net/ORDO/Orphanet_471076](http://www.orpha.net/ORDO/Orphanet_471076) |
-| IUPHAR:1112 |        1 | [http://www.orpha.net/ORDO/Orphanet_471078](http://www.orpha.net/ORDO/Orphanet_471078) |
+| IUPHAR:911  |        1 | [http://www.orpha.net/ORDO/Orphanet_471090](http://www.orpha.net/ORDO/Orphanet_471090) |
 | IUPHAR:937  |        1 | [http://www.orpha.net/ORDO/Orphanet_471096](http://www.orpha.net/ORDO/Orphanet_471096) |
 | IUPHAR:3196 |        1 | [http://www.orpha.net/ORDO/Orphanet_471214](http://www.orpha.net/ORDO/Orphanet_471214) |
+| IUPHAR:1878 |        1 | [http://www.orpha.net/ORDO/Orphanet_471244](http://www.orpha.net/ORDO/Orphanet_471244) |
 | IUPHAR:2887 |        1 | [http://www.orpha.net/ORDO/Orphanet_471250](http://www.orpha.net/ORDO/Orphanet_471250) |
 | IUPHAR:2255 |        1 | [http://www.orpha.net/ORDO/Orphanet_471260](http://www.orpha.net/ORDO/Orphanet_471260) |
 | IUPHAR:3014 |        1 | [http://www.orpha.net/ORDO/Orphanet_471340](http://www.orpha.net/ORDO/Orphanet_471340) |
@@ -979,9 +984,9 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:3057 |        1 | [http://www.orpha.net/ORDO/Orphanet_509152](http://www.orpha.net/ORDO/Orphanet_509152) |
 | IUPHAR:2150 |        1 | [http://www.orpha.net/ORDO/Orphanet_509184](http://www.orpha.net/ORDO/Orphanet_509184) |
 | IUPHAR:2189 |        1 | [http://www.orpha.net/ORDO/Orphanet_509234](http://www.orpha.net/ORDO/Orphanet_509234) |
-| IUPHAR:1840 |        1 | [http://www.orpha.net/ORDO/Orphanet_509238](http://www.orpha.net/ORDO/Orphanet_509238) |
 | IUPHAR:2256 |        1 | [http://www.orpha.net/ORDO/Orphanet_509298](http://www.orpha.net/ORDO/Orphanet_509298) |
 | IUPHAR:1129 |        1 | [http://www.orpha.net/ORDO/Orphanet_510688](http://www.orpha.net/ORDO/Orphanet_510688) |
+| IUPHAR:3246 |        1 | [http://www.orpha.net/ORDO/Orphanet_510896](http://www.orpha.net/ORDO/Orphanet_510896) |
 | IUPHAR:799  |        1 | [http://www.orpha.net/ORDO/Orphanet_512465](http://www.orpha.net/ORDO/Orphanet_512465) |
 | IUPHAR:1053 |        1 | [http://www.orpha.net/ORDO/Orphanet_513512](http://www.orpha.net/ORDO/Orphanet_513512) |
 | IUPHAR:2279 |        1 | [http://www.orpha.net/ORDO/Orphanet_514572](http://www.orpha.net/ORDO/Orphanet_514572) |
@@ -1030,6 +1035,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:1103 |        1 | [http://www.orpha.net/ORDO/Orphanet_599916](http://www.orpha.net/ORDO/Orphanet_599916) |
 | IUPHAR:1277 |        1 | [http://www.orpha.net/ORDO/Orphanet_600094](http://www.orpha.net/ORDO/Orphanet_600094) |
 | IUPHAR:2668 |        1 | [http://www.orpha.net/ORDO/Orphanet_600313](http://www.orpha.net/ORDO/Orphanet_600313) |
+| IUPHAR:3263 |        1 | [http://www.orpha.net/ORDO/Orphanet_600439](http://www.orpha.net/ORDO/Orphanet_600439) |
 | IUPHAR:1491 |        1 | [http://www.orpha.net/ORDO/Orphanet_601404](http://www.orpha.net/ORDO/Orphanet_601404) |
 | IUPHAR:1645 |        1 | [http://www.orpha.net/ORDO/Orphanet_601421](http://www.orpha.net/ORDO/Orphanet_601421) |
 | IUPHAR:1297 |        1 | [http://www.orpha.net/ORDO/Orphanet_601728](http://www.orpha.net/ORDO/Orphanet_601728) |
@@ -1042,6 +1048,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:537  |        1 | [http://www.orpha.net/ORDO/Orphanet_613332](http://www.orpha.net/ORDO/Orphanet_613332) |
 | IUPHAR:702  |        1 | [http://www.orpha.net/ORDO/Orphanet_617906](http://www.orpha.net/ORDO/Orphanet_617906) |
 | IUPHAR:3157 |        1 | [http://www.orpha.net/ORDO/Orphanet_618944](http://www.orpha.net/ORDO/Orphanet_618944) |
+| IUPHAR:639  |        1 | [http://www.orpha.net/ORDO/Orphanet_618952](http://www.orpha.net/ORDO/Orphanet_618952) |
 | IUPHAR:2625 |        1 | [http://www.orpha.net/ORDO/Orphanet_621997](http://www.orpha.net/ORDO/Orphanet_621997) |
 | IUPHAR:1743 |        1 | [http://www.orpha.net/ORDO/Orphanet_621999](http://www.orpha.net/ORDO/Orphanet_621999) |
 | IUPHAR:1414 |        1 | [http://www.orpha.net/ORDO/Orphanet_628844](http://www.orpha.net/ORDO/Orphanet_628844) |
@@ -1059,6 +1066,12 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | IUPHAR:1133 |        1 | [http://www.orpha.net/ORDO/Orphanet_648250](http://www.orpha.net/ORDO/Orphanet_648250) |
 | IUPHAR:2130 |        1 | [http://www.orpha.net/ORDO/Orphanet_649920](http://www.orpha.net/ORDO/Orphanet_649920) |
 | IUPHAR:47   |        1 | [http://www.orpha.net/ORDO/Orphanet_649971](http://www.orpha.net/ORDO/Orphanet_649971) |
+| IUPHAR:549  |        1 | [http://www.orpha.net/ORDO/Orphanet_663868](http://www.orpha.net/ORDO/Orphanet_663868) |
+| IUPHAR:823  |        1 | [http://www.orpha.net/ORDO/Orphanet_663918](http://www.orpha.net/ORDO/Orphanet_663918) |
+| IUPHAR:2717 |        1 | [http://www.orpha.net/ORDO/Orphanet_674734](http://www.orpha.net/ORDO/Orphanet_674734) |
+| IUPHAR:1980 |        1 | [http://www.orpha.net/ORDO/Orphanet_677320](http://www.orpha.net/ORDO/Orphanet_677320) |
+| IUPHAR:1758 |        1 | [http://www.orpha.net/ORDO/Orphanet_682951](http://www.orpha.net/ORDO/Orphanet_682951) |
+| IUPHAR:1840 |        1 | [http://www.orpha.net/ORDO/Orphanet_683720](http://www.orpha.net/ORDO/Orphanet_683720) |
 
 </details>
 

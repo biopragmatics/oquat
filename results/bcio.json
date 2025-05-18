@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:12:27.077264",
-  "messages": [],
   "results": {
     "http://humanbehaviourchange.org/ontology/bcio.owl": {
       "graph_id": "http://humanbehaviourchange.org/ontology/bcio.owl",
@@ -11,35 +9,40 @@
           ],
           "http://purl.obolibrary.org/obo/ENVO_00000070": [
             "MA:ma"
-          ],
-          "http://purl.obolibrary.org/obo/ENVO_00000469": [
-            "MA:ma"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {
-          "ADL": {
-            "http://purl.obolibrary.org/obo/ENVO_00000856": "ADL:FTT"
+          "GOC": {
+            "http://purl.obolibrary.org/obo/GO_0003008": "GOC:mtg_cardio",
+            "http://purl.obolibrary.org/obo/GO_0007610": "GOC:jl",
+            "http://purl.obolibrary.org/obo/GO_0007611": "GOC:jid",
+            "http://purl.obolibrary.org/obo/GO_0007613": "GOC:curators",
+            "http://purl.obolibrary.org/obo/GO_0008150": "GOC:pdt",
+            "http://purl.obolibrary.org/obo/GO_0032501": "GOC:tb",
+            "http://purl.obolibrary.org/obo/GO_0050877": "GOC:mtg_cardio",
+            "http://purl.obolibrary.org/obo/GO_0098596": "GOC:dos"
           },
           "USGS": {
-            "http://purl.obolibrary.org/obo/ENVO_00000062": "USGS:http://mapping.usgs.gov/www/ti/GNIS/gnis_users_guide_appendixc.html",
             "http://purl.obolibrary.org/obo/ENVO_00000064": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000109": "USGS:SDTS"
           },
           "url": {
             "http://purl.obolibrary.org/obo/IAO_0000115": "url:http://purl.obolibrary.org/obo/iao.owl",
+            "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId": "url:http://www.geneontology.org/formats/oboInOwl#hasAlternativeId",
+            "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace": "url:http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
             "http://www.geneontology.org/formats/oboInOwl#id": "url:http://purl.obolibrary.org/obo/IAO_0020000",
+            "http://www.geneontology.org/formats/oboInOwl#inSubset": "url:http://www.geneontology.org/formats/oboInOwl#inSubset",
+            "http://www.w3.org/2000/01/rdf-schema#comment": "url:http://www.w3.org/2000/01/rdf-schema#comment",
             "http://www.w3.org/2000/01/rdf-schema#label": "url:http://www.w3.org/2000/01/rdf-schema#label"
           }
         }
       },
       "synonym_pack": {
         "invalid_luids": {
-          "http://purl.obolibrary.org/obo/ENVO_00000062": [
-            "Geonames:feature"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000064": [
             "Geonames:feature"
           ],
@@ -53,6 +56,7 @@
             "Geonames:feature"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -61,8 +65,7 @@
             "http://purl.obolibrary.org/obo/ENVO_00000064": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000091": "ADL:FTT",
             "http://purl.obolibrary.org/obo/ENVO_00000109": "ADL:FTT",
-            "http://purl.obolibrary.org/obo/ENVO_00000191": "ADL:FTT",
-            "http://purl.obolibrary.org/obo/ENVO_00000856": "ADL:FTT"
+            "http://purl.obolibrary.org/obo/ENVO_00000191": "ADL:FTT"
           },
           "Getty": {
             "http://purl.obolibrary.org/obo/ENVO_00000064": "Getty:TGN",
@@ -74,7 +77,6 @@
             "http://purl.obolibrary.org/obo/ENVO_00000091": "NASA:earthrealm"
           },
           "USGS": {
-            "http://purl.obolibrary.org/obo/ENVO_00000062": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000064": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000091": "USGS:SDTS",
             "http://purl.obolibrary.org/obo/ENVO_00000106": "USGS:SDTS",
@@ -82,13 +84,9 @@
           }
         }
       },
-      "version_iri": "http://humanbehaviourchange.org/ontology/bcio.owl/2023-11-22",
+      "version": "http://humanbehaviourchange.org/ontology/bcio.owl/2025-05-01",
       "xref_pack": {
         "invalid_luids": {
-          "http://purl.obolibrary.org/obo/ENVO_00000062": [
-            "Geonames:P.PPL",
-            "Geonames:P.PPLS"
-          ],
           "http://purl.obolibrary.org/obo/ENVO_00000064": [
             "Geonames:R",
             "Geonames:R.RD",
@@ -105,6 +103,7 @@
             "Geonames:V.FRST"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {

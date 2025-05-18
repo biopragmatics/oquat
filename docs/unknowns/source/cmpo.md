@@ -104,16 +104,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | thefreedictionary:http://www.thefreedictionary.com/bilobed    |        1 | [PATO:0002214](http://purl.obolibrary.org/obo/PATO_0002214) |
 | thefreedictionary:http://www.thefreedictionary.com/fan-shaped |        1 | [PATO:0002219](http://purl.obolibrary.org/obo/PATO_0002219) |
 
-## `wiktionary`
-
-There are 1 usages of `wiktionary` in `cmpo`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20wiktionary).
-
-| curie                   |   usages | nodes                                                       |
-|-------------------------|----------|-------------------------------------------------------------|
-| wiktionary:superellipse |        1 | [PATO:0002318](http://purl.obolibrary.org/obo/PATO_0002318) |
-
 ## `wordreference`
 
 There are 1 usages of `wordreference` in `cmpo`.

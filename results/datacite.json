@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:24:44.218780",
-  "messages": [],
   "results": {
     "http://purl.org/spar/datacite": {
       "graph_id": "http://purl.org/spar/datacite",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,15 +12,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "1.2",
-      "version_iri": "http://purl.org/spar/datacite/2022-09-15",
+      "version": "http://purl.org/spar/datacite/2022-09-15",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

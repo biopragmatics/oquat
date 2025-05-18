@@ -1,11 +1,14 @@
 {
-  "created": "2023-12-07T10:00:50.633950",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/vbo.json": {
       "graph_id": "http://purl.obolibrary.org/obo/vbo.json",
       "prov_pack": {
-        "invalid_luids": {},
+        "invalid_luids": {
+          "http://purl.obolibrary.org/obo/VBO_0016892": [
+            "PMID: 22221025"
+          ]
+        },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,15 +16,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2023-09-28",
-      "version_iri": "http://purl.obolibrary.org/obo/vbo/releases/2023-09-28/vbo.json",
+      "version": "http://purl.obolibrary.org/obo/vbo/releases/2025-02-12/vbo.json",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -247,6 +251,7 @@
             "http://purl.obolibrary.org/obo/VBO_0200625": "FCI:235",
             "http://purl.obolibrary.org/obo/VBO_0200626": "FCI:235",
             "http://purl.obolibrary.org/obo/VBO_0200627": "FCI:22",
+            "http://purl.obolibrary.org/obo/VBO_0200629": "FCI:137",
             "http://purl.obolibrary.org/obo/VBO_0200631": "FCI:58",
             "http://purl.obolibrary.org/obo/VBO_0200636": "FCI:274",
             "http://purl.obolibrary.org/obo/VBO_0200638": "FCI:158",
@@ -416,7 +421,6 @@
             "http://purl.obolibrary.org/obo/VBO_0201106": "FCI:56",
             "http://purl.obolibrary.org/obo/VBO_0201107": "FCI:56",
             "http://purl.obolibrary.org/obo/VBO_0201108": "FCI:56",
-            "http://purl.obolibrary.org/obo/VBO_0201113": "FCI:137",
             "http://purl.obolibrary.org/obo/VBO_0201116": "FCI:138",
             "http://purl.obolibrary.org/obo/VBO_0201120": "FCI:96",
             "http://purl.obolibrary.org/obo/VBO_0201135": "FCI:146",

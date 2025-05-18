@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T10:06:42.774611",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/TEMP": {
       "graph_id": "http://purl.obolibrary.org/obo/TEMP",
@@ -14,6 +12,9 @@
           ],
           "http://purl.obolibrary.org/obo/ZEA_0015024": [
             "MaizeGDB:lv (ID # 165572)"
+          ],
+          "http://purl.obolibrary.org/obo/ZEA_0015028": [
+            "ZEA:Provide a defn. for this."
           ],
           "http://purl.obolibrary.org/obo/ZEA_0015031": [
             "MaizeGDB:lv"
@@ -333,6 +334,7 @@
             "MaizeGDB:lv (ID# 165572)"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -549,6 +551,7 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -556,6 +559,7 @@
       },
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

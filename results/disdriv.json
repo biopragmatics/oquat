@@ -1,31 +1,37 @@
 {
-  "created": "2023-12-07T09:25:14.950000",
-  "messages": [],
   "results": {
-    "http://purl.obolibrary.org/obo/doid/imports/disdriv_import.owl": {
-      "graph_id": "http://purl.obolibrary.org/obo/doid/imports/disdriv_import.owl",
+    "http://purl.obolibrary.org/obo/disdriv.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/disdriv.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {
           "url": {
+            "http://purl.obolibrary.org/obo/DISDRIV_0000000": "url:https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4517741/",
             "http://purl.obolibrary.org/obo/DISDRIV_0000001": "url:https://www.who.int/health-topics/micronutrients",
+            "http://purl.obolibrary.org/obo/DISDRIV_0000002": "url:https://pubmed.ncbi.nlm.nih.gov/29709281/",
+            "http://purl.obolibrary.org/obo/DISDRIV_0000003": "url:https://www.ncbi.nlm.nih.gov/books/NBK45737/",
             "http://purl.obolibrary.org/obo/DISDRIV_0000004": "url:https://ods.od.nih.gov/factsheets/Biotin-Consumer/",
-            "http://purl.obolibrary.org/obo/DISDRIV_0000005": "url:url:https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/"
+            "http://purl.obolibrary.org/obo/DISDRIV_0000005": "url:url:https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/",
+            "http://purl.obolibrary.org/obo/DISDRIV_0000006": "url:https://pubmed.ncbi.nlm.nih.gov/29351546/"
           }
         }
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
+      "version": "http://purl.obolibrary.org/obo/disdriv/releases/2025-03-20/disdriv.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

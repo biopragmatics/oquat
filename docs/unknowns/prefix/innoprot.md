@@ -14,6 +14,7 @@
 | Innoprot:P10457-IM        |        1 | [Cellosaurus#CVCL:B5WL](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B5WL)                                                                                |
 | Innoprot:P30214           |        1 | [Cellosaurus#CVCL:B5WM](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B5WM)                                                                                |
 | Innoprot:P30701           |        1 | [Cellosaurus#CVCL:B5WN](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_B5WN)                                                                                |
+| Innoprot:P30425           |        1 | [Cellosaurus#CVCL:E3DT](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_E3DT)                                                                                |
 | Innoprot:P70527           |        1 | [Cellosaurus#CVCL:YI91](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_YI91)                                                                                |
 | Innoprot:P10361-IM        |        1 | [Cellosaurus#CVCL:YJ35](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_YJ35)                                                                                |
 | Innoprot:P10361-IM-tGFP   |        1 | [Cellosaurus#CVCL:YJ36](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_YJ36)                                                                                |
@@ -66,6 +67,7 @@
 | Innoprot:P30136           |        1 | [Cellosaurus#CVCL:YK04](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_YK04)                                                                                |
 | Innoprot:P70808           |        1 | [Cellosaurus#CVCL:YK05](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_YK05)                                                                                |
 | Innoprot:P70108           |        1 | [Cellosaurus#CVCL:YK06](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_YK06)                                                                                |
+| Innoprot:P30104           |        1 | [Cellosaurus#CVCL:YK07](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_YK07)                                                                                |
 | Innoprot:P30107           |        1 | [Cellosaurus#CVCL:YK08](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_YK08)                                                                                |
 | Innoprot:P30108           |        1 | [Cellosaurus#CVCL:YK09](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_YK09)                                                                                |
 | Innoprot:P30116           |        1 | [Cellosaurus#CVCL:YK10](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_YK10)                                                                                |

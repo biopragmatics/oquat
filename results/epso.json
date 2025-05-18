@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:29:03.876019",
-  "messages": [],
   "results": {
     "https://bio.scai.fraunhofer.de/ontology/epilepsy": {
       "graph_id": "https://bio.scai.fraunhofer.de/ontology/epilepsy",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,13 +12,13 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "2021-05-28",
-      "version_iri": "https://bio.scai.fraunhofer.de/ontology/epilepsy/2021-05-28/EPSO.owl",
+      "version": "https://bio.scai.fraunhofer.de/ontology/epilepsy/2021-05-28/EPSO.owl",
       "xref_pack": {
         "invalid_luids": {
           "http://purl.obolibrary.org/obo/DOID_0050425": [
@@ -274,6 +273,7 @@
             "MESH:A08.186.211.730.885.213.270"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {

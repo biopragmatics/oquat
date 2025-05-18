@@ -1,7 +1,31 @@
 {
-  "created": "2023-12-07T09:23:12.102832",
-  "messages": [
-    "[cheminf] could not parse OWL from https://github.com/semanticchemistry/semanticchemistry/raw/master/ontology/cheminf.owl"
-  ],
-  "results": {}
+  "results": {
+    "http://semanticchemistry.github.io/semanticchemistry/ontology/cheminf.owl": {
+      "graph_id": "http://semanticchemistry.github.io/semanticchemistry/ontology/cheminf.owl",
+      "prov_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Provenance Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "synonym_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Synonym Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      },
+      "xref_pack": {
+        "invalid_luids": {},
+        "known_prefixes": {},
+        "label": "Node Xrefs",
+        "malformed_curies": {},
+        "noncanonical_prefixes": {},
+        "unknown_prefixes": {}
+      }
+    }
+  }
 }

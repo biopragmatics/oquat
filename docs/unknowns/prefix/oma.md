@@ -20,14 +20,12 @@
 | OMA:MOUSE17014 |        1 | [PR:P05532](http://purl.obolibrary.org/obo/PR_P05532) |
 | OMA:P06332     |        1 | [PR:P06332](http://purl.obolibrary.org/obo/PR_P06332) |
 | OMA:P06800     |        1 | [PR:P06800](http://purl.obolibrary.org/obo/PR_P06800) |
-| OMA:P06876     |        1 | [PR:P06876](http://purl.obolibrary.org/obo/PR_P06876) |
 | OMA:P06879     |        1 | [PR:P06879](http://purl.obolibrary.org/obo/PR_P06879) |
 | OMA:P08071     |        1 | [PR:P08071](http://purl.obolibrary.org/obo/PR_P08071) |
 | OMA:P08920     |        1 | [PR:P08920](http://purl.obolibrary.org/obo/PR_P08920) |
 | OMA:P09581     |        1 | [PR:P09581](http://purl.obolibrary.org/obo/PR_P09581) |
 | OMA:P09838     |        1 | [PR:P09838](http://purl.obolibrary.org/obo/PR_P09838) |
 | OMA:P10810     |        1 | [PR:P10810](http://purl.obolibrary.org/obo/PR_P10810) |
-| OMA:P11247     |        1 | [PR:P11247](http://purl.obolibrary.org/obo/PR_P11247) |
 | OMA:P11939     |        1 | [PR:P11939](http://purl.obolibrary.org/obo/PR_P11939) |
 | OMA:P13379     |        1 | [PR:P13379](http://purl.obolibrary.org/obo/PR_P13379) |
 | OMA:P13590     |        1 | [PR:P13590](http://purl.obolibrary.org/obo/PR_P13590) |
@@ -36,6 +34,7 @@
 | OMA:P15379     |        1 | [PR:P15379](http://purl.obolibrary.org/obo/PR_P15379) |
 | OMA:P15702     |        1 | [PR:P15702](http://purl.obolibrary.org/obo/PR_P15702) |
 | OMA:P15919     |        1 | [PR:P15919](http://purl.obolibrary.org/obo/PR_P15919) |
+| OMA:P16297     |        1 | [PR:P16297](http://purl.obolibrary.org/obo/PR_P16297) |
 | OMA:P16406     |        1 | [PR:P16406](http://purl.obolibrary.org/obo/PR_P16406) |
 | OMA:P16872     |        1 | [PR:P16872](http://purl.obolibrary.org/obo/PR_P16872) |
 | OMA:P17433     |        1 | [PR:P17433](http://purl.obolibrary.org/obo/PR_P17433) |
@@ -67,11 +66,9 @@
 | OMA:P67970     |        1 | [PR:P67970](http://purl.obolibrary.org/obo/PR_P67970) |
 | OMA:Q00342     |        1 | [PR:Q00342](http://purl.obolibrary.org/obo/PR_Q00342) |
 | OMA:Q02650     |        1 | [PR:Q02650](http://purl.obolibrary.org/obo/PR_Q02650) |
-| OMA:Q03347     |        1 | [PR:Q03347](http://purl.obolibrary.org/obo/PR_Q03347) |
 | OMA:Q05117     |        1 | [PR:Q05117](http://purl.obolibrary.org/obo/PR_Q05117) |
 | OMA:Q07763     |        1 | [PR:Q07763](http://purl.obolibrary.org/obo/PR_Q07763) |
 | OMA:Q08156     |        1 | [PR:Q08156](http://purl.obolibrary.org/obo/PR_Q08156) |
-| OMA:Q11127     |        1 | [PR:Q11127](http://purl.obolibrary.org/obo/PR_Q11127) |
 | OMA:Q2VLH6     |        1 | [PR:Q2VLH6](http://purl.obolibrary.org/obo/PR_Q2VLH6) |
 | OMA:Q61391     |        1 | [PR:Q61391](http://purl.obolibrary.org/obo/PR_Q61391) |
 | OMA:Q61575     |        1 | [PR:Q61575](http://purl.obolibrary.org/obo/PR_Q61575) |
@@ -84,10 +81,12 @@
 | OMA:Q8VBX4     |        1 | [PR:Q8VBX4](http://purl.obolibrary.org/obo/PR_Q8VBX4) |
 | OMA:Q8VCC9     |        1 | [PR:Q8VCC9](http://purl.obolibrary.org/obo/PR_Q8VCC9) |
 | OMA:Q90722     |        1 | [PR:Q90722](http://purl.obolibrary.org/obo/PR_Q90722) |
+| OMA:Q91035     |        1 | [PR:Q91035](http://purl.obolibrary.org/obo/PR_Q91035) |
 | OMA:Q9QUM0     |        1 | [PR:Q9QUM0](http://purl.obolibrary.org/obo/PR_Q9QUM0) |
 | OMA:Q9QUM4     |        1 | [PR:Q9QUM4](http://purl.obolibrary.org/obo/PR_Q9QUM4) |
 | OMA:Q9QXH4     |        1 | [PR:Q9QXH4](http://purl.obolibrary.org/obo/PR_Q9QXH4) |
 | OMA:Q9W601     |        1 | [PR:Q9W601](http://purl.obolibrary.org/obo/PR_Q9W601) |
+| OMA:Q9W770     |        1 | [PR:Q9W770](http://purl.obolibrary.org/obo/PR_Q9W770) |
 | OMA:Q9WTK5     |        1 | [PR:Q9WTK5](http://purl.obolibrary.org/obo/PR_Q9WTK5) |
 | OMA:Q9Z0D9     |        1 | [PR:Q9Z0D9](http://purl.obolibrary.org/obo/PR_Q9Z0D9) |
 

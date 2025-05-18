@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:44:31.062265",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/mi.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/mi.owl",
@@ -22,6 +20,7 @@
             "GO:GO:0016783"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -34,6 +33,7 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -54,12 +54,9 @@
             "GO:GO:0018166"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
-        "malformed_curies": {
-          "http://purl.obolibrary.org/obo/MI_2423": [
-            "reference to the gene producing this interactor."
-          ]
-        },
+        "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {
           "id-validation-regex": {
@@ -219,7 +216,8 @@
             "http://purl.obolibrary.org/obo/MI_2347": "search-url:",
             "http://purl.obolibrary.org/obo/MI_2349": "search-url:",
             "http://purl.obolibrary.org/obo/MI_2350": "search-url:",
-            "http://purl.obolibrary.org/obo/MI_2358": "search-url:"
+            "http://purl.obolibrary.org/obo/MI_2358": "search-url:",
+            "http://purl.obolibrary.org/obo/MI_2424": "search-url:"
           },
           "url": {
             "http://purl.obolibrary.org/obo/MI_1262": "url:http://iid.ophid.utoronto.ca/iid/",

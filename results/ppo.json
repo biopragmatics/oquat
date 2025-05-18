@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:56:13.119926",
-  "messages": [],
   "results": {
-    "https://raw.githubusercontent.com/PlantPhenoOntology/ppo/master/ppo.owl": {
-      "graph_id": "https://raw.githubusercontent.com/PlantPhenoOntology/ppo/master/ppo.owl",
+    "http://purl.obolibrary.org/obo/ppo.owl": {
+      "graph_id": "http://purl.obolibrary.org/obo/ppo.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,14 +12,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version_iri": "https://raw.githubusercontent.com/PlantPhenoOntology/ppo/master/releases/2018-10-26/ppo.owl",
+      "version": "http://purl.obolibrary.org/obo/ppo/releases/2025-03-13/ppo.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

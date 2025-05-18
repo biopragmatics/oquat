@@ -17,14 +17,28 @@ did not match the standard pattern `^((\d+\.-\.-\.-)|(\d+\.\d+\.-\.-)|(\d+\.\d+\
 
 ## `ECGOntology`: Electrocardiogram Ontology
 
-Overall, there were 5 invalid
+Overall, there were 4 invalid
 xrefs to external prefixed with `ECGOntology` (standardized to Bioregistry
 prefix [`ecg`](https://bioregistry.io/ecg)) that
 did not match the standard pattern `^\d+$`.
 
-| external_xref              |   usages_count | usages                                                                                                                                                                                                                                                                                                |
-|----------------------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ECGOntology:<new dbxref>` |              5 | [CMO:0000232](http://purl.obolibrary.org/obo/CMO_0000232), [CMO:0000233](http://purl.obolibrary.org/obo/CMO_0000233), [CMO:0000234](http://purl.obolibrary.org/obo/CMO_0000234), [CMO:0000235](http://purl.obolibrary.org/obo/CMO_0000235), [CMO:0000278](http://purl.obolibrary.org/obo/CMO_0000278) |
+| external_xref               |   usages_count | usages                                                    |
+|-----------------------------|----------------|-----------------------------------------------------------|
+| `ECGOntology:ECG_000000042` |              1 | [CMO:0000232](http://purl.obolibrary.org/obo/CMO_0000232) |
+| `ECGOntology:ECG_000000824` |              1 | [CMO:0000234](http://purl.obolibrary.org/obo/CMO_0000234) |
+| `ECGOntology:ECG_000000682` |              1 | [CMO:0000235](http://purl.obolibrary.org/obo/CMO_0000235) |
+| `ECGOntology:ECG_000000011` |              1 | [CMO:0000278](http://purl.obolibrary.org/obo/CMO_0000278) |
+
+## `PMID`: PubMed
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `PMID` (standardized to Bioregistry
+prefix [`pubmed`](https://bioregistry.io/pubmed)) that
+did not match the standard pattern `^\d+$`.
+
+| external_xref    |   usages_count | usages                                                    |
+|------------------|----------------|-----------------------------------------------------------|
+| `PMID:_25742564` |              1 | [CMO:0004066](http://purl.obolibrary.org/obo/CMO_0004066) |
 
 ## `QTLdb`: Animal Genome QTL
 
@@ -40,14 +54,14 @@ did not match the standard pattern `^\d+$`.
 
 ## `RGD`: Rat Genome Database
 
-Overall, there were 192 invalid
+Overall, there were 190 invalid
 xrefs to external prefixed with `RGD` (standardized to Bioregistry
 prefix [`rgd`](https://bioregistry.io/rgd)) that
 did not match the standard pattern `^\d{4,}$`.
 
 | external_xref   |   usages_count | usages                                                                                                                                                                                                                                                                                                     |
 |-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `RGD:JRS`       |            114 | [CMO:0000068](http://purl.obolibrary.org/obo/CMO_0000068), [CMO:0000069](http://purl.obolibrary.org/obo/CMO_0000069), [CMO:0000070](http://purl.obolibrary.org/obo/CMO_0000070), [CMO:0000075](http://purl.obolibrary.org/obo/CMO_0000075), [CMO:0000179](http://purl.obolibrary.org/obo/CMO_0000179), ... |
-| `RGD:MS`        |             75 | [CMO:0000011](http://purl.obolibrary.org/obo/CMO_0000011), [CMO:0000019](http://purl.obolibrary.org/obo/CMO_0000019), [CMO:0000035](http://purl.obolibrary.org/obo/CMO_0000035), [CMO:0000039](http://purl.obolibrary.org/obo/CMO_0000039), [CMO:0000040](http://purl.obolibrary.org/obo/CMO_0000040), ... |
+| `RGD:JRS`       |            113 | [CMO:0000068](http://purl.obolibrary.org/obo/CMO_0000068), [CMO:0000069](http://purl.obolibrary.org/obo/CMO_0000069), [CMO:0000070](http://purl.obolibrary.org/obo/CMO_0000070), [CMO:0000075](http://purl.obolibrary.org/obo/CMO_0000075), [CMO:0000179](http://purl.obolibrary.org/obo/CMO_0000179), ... |
+| `RGD:MS`        |             74 | [CMO:0000011](http://purl.obolibrary.org/obo/CMO_0000011), [CMO:0000019](http://purl.obolibrary.org/obo/CMO_0000019), [CMO:0000035](http://purl.obolibrary.org/obo/CMO_0000035), [CMO:0000039](http://purl.obolibrary.org/obo/CMO_0000039), [CMO:0000040](http://purl.obolibrary.org/obo/CMO_0000040), ... |
 | `RGD:SL`        |              3 | [CMO:0001037](http://purl.obolibrary.org/obo/CMO_0001037), [CMO:0001210](http://purl.obolibrary.org/obo/CMO_0001210), [CMO:0001492](http://purl.obolibrary.org/obo/CMO_0001492)                                                                                                                            |
 

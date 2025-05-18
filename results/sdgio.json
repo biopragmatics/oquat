@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:59:19.002298",
-  "messages": [],
   "results": {
     "http://purl.unep.org/sdg/sdgio.owl": {
       "graph_id": "http://purl.unep.org/sdg/sdgio.owl",
@@ -13,6 +11,7 @@
             "MA:ma"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -62,14 +61,16 @@
             "RO:cjm"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version_iri": "http://purl.unep.org/sdg/releases/2018-08-10/sdgio.owl",
+      "version": "http://purl.unep.org/sdg/releases/2018-08-10/sdgio.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

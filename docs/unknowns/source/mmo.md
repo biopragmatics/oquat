@@ -198,16 +198,6 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 |-----------------------------------------|----------|-----------------------------------------------------------|
 | MedicalGlossary:www.medicalglossary.org |        1 | [MMO:0000011](http://purl.obolibrary.org/obo/MMO_0000011) |
 
-## `Merriam-Webster`
-
-There are 1 usages of `Merriam-Webster` in `mmo`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20Merriam-Webster).
-
-| curie                                                       |   usages | nodes                                                                                                                                                                                                                                                                                                      |
-|-------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Merriam-Webster:Merriam-Websters_Online_Dictionary--11th_Ed |       13 | [MMO:0000105](http://purl.obolibrary.org/obo/MMO_0000105), [MMO:0000120](http://purl.obolibrary.org/obo/MMO_0000120), [MMO:0000172](http://purl.obolibrary.org/obo/MMO_0000172), [MMO:0000213](http://purl.obolibrary.org/obo/MMO_0000213), [MMO:0000217](http://purl.obolibrary.org/obo/MMO_0000217), ... |
-
 ## `Miller-Keane`
 
 There are 1 usages of `Miller-Keane` in `mmo`.
@@ -290,14 +280,4 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | curie                                                           |   usages | nodes                                                                                                                                                                                                                                      |
 |-----------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Webster:Random_House_Kernerman_Websters_College_Dictionary_2010 |        4 | [MMO:0000405](http://purl.obolibrary.org/obo/MMO_0000405), [MMO:0000427](http://purl.obolibrary.org/obo/MMO_0000427), [MMO:0000428](http://purl.obolibrary.org/obo/MMO_0000428), [MMO:0000443](http://purl.obolibrary.org/obo/MMO_0000443) |
-
-## `XX`
-
-There are 1 usages of `XX` in `mmo`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX).
-
-| curie           |   usages | nodes                                                     |
-|-----------------|----------|-----------------------------------------------------------|
-| XX:<new dbxref> |        1 | [MMO:0000075](http://purl.obolibrary.org/obo/MMO_0000075) |
 

@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:58:52.202281",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/rs.owl": {
       "graph_id": "http://purl.obolibrary.org/obo/rs.owl",
@@ -10,6 +8,7 @@
             "RGD:www.rgd.mcw.edu"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -28,15 +27,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "6.210",
-      "version_iri": "http://purl.obolibrary.org/obo/rs/6.210/rs.owl",
+      "version": "http://purl.obolibrary.org/obo/rs/6.248/rs.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

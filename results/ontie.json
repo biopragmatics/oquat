@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:53:27.624148",
-  "messages": [],
   "results": {
     "https://ontology.iedb.org/ontology/ontie.owl": {
       "graph_id": "https://ontology.iedb.org/ontology/ontie.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,14 +12,16 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version_iri": "https://ontology.iedb.org/ontology/2022-08-15/ontie.owl",
+      "version": "https://ontology.iedb.org/ontology/2024-10-01/ontie.owl",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

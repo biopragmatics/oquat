@@ -50,6 +50,17 @@ did not match the standard pattern `^\d{7}$`.
 | `TAO:Bird and Mabee 2003`                  |              1 | [TAO:0001553](http://purl.obolibrary.org/obo/TAO_0001553)                                                                                                                                                                                                                                                  |
 | `TAO:Fink and Fink 1981`                   |              1 | [TAO:0001553](http://purl.obolibrary.org/obo/TAO_0001553)                                                                                                                                                                                                                                                  |
 
+## `VSAO`: Vertebrate Skeletal Anatomy Ontology
+
+Overall, there were 1 invalid
+xrefs to external prefixed with `VSAO` (standardized to Bioregistry
+prefix [`vsao`](https://bioregistry.io/vsao)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref   |   usages_count | usages                                                    |
+|-----------------|----------------|-----------------------------------------------------------|
+| `VSAO:curator`  |              1 | [TAO:0005142](http://purl.obolibrary.org/obo/TAO_0005142) |
+
 ## `ZFA`: Zebrafish anatomy and development ontology
 
 Overall, there were 4 invalid

@@ -1,11 +1,10 @@
 {
-  "created": "2023-12-07T09:24:21.387518",
-  "messages": [],
   "results": {
     "http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl": {
       "graph_id": "http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl",
       "prov_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
@@ -13,14 +12,15 @@
       },
       "synonym_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},
         "unknown_prefixes": {}
       },
-      "version": "4.03",
       "xref_pack": {
         "invalid_luids": {},
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {},

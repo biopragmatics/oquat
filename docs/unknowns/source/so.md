@@ -34,13 +34,18 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 ## `EBI`
 
-There are 1 usages of `EBI` in `so`.
+There are 6 usages of `EBI` in `so`.
 If you are knowledgeable about this prefix, please consider submitting a new prefix
 request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20EBI).
 
 | curie                                                     |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |-----------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html |       16 | [SO:0001568](http://purl.obolibrary.org/obo/SO_0001568), [SO:0001569](http://purl.obolibrary.org/obo/SO_0001569), [SO:0001573](http://purl.obolibrary.org/obo/SO_0001573), [SO:0001576](http://purl.obolibrary.org/obo/SO_0001576), [SO:0001580](http://purl.obolibrary.org/obo/SO_0001580), ... |
+| EBI:www.ebi.ac.uk/mutations/recommendations/mutevent.html |       39 | [SO:0001569](http://purl.obolibrary.org/obo/SO_0001569), [SO:0001573](http://purl.obolibrary.org/obo/SO_0001573), [SO:1000005](http://purl.obolibrary.org/obo/SO_1000005), [SO:1000009](http://purl.obolibrary.org/obo/SO_1000009), [SO:1000012](http://purl.obolibrary.org/obo/SO_1000012), ... |
+| EBI:nj                                                    |       21 | [SO:0001935](http://purl.obolibrary.org/obo/SO_0001935), [SO:0001936](http://purl.obolibrary.org/obo/SO_0001936), [SO:0001937](http://purl.obolibrary.org/obo/SO_0001937), [SO:0001938](http://purl.obolibrary.org/obo/SO_0001938), [SO:0001939](http://purl.obolibrary.org/obo/SO_0001939), ... |
+| EBI:gr                                                    |       10 | [SO:0001583](http://purl.obolibrary.org/obo/SO_0001583), [SO:0001787](http://purl.obolibrary.org/obo/SO_0001787), [SO:0001818](http://purl.obolibrary.org/obo/SO_0001818), [SO:0001821](http://purl.obolibrary.org/obo/SO_0001821), [SO:0001822](http://purl.obolibrary.org/obo/SO_0001822), ... |
+| EBI:fc                                                    |        3 | [SO:0001782](http://purl.obolibrary.org/obo/SO_0001782), [SO:0001792](http://purl.obolibrary.org/obo/SO_0001792), [SO:0001878](http://purl.obolibrary.org/obo/SO_0001878)                                                                                                                        |
+| EBI:rh                                                    |        1 | [SO:0001408](http://purl.obolibrary.org/obo/SO_0001408)                                                                                                                                                                                                                                          |
+| EBI:dvga                                                  |        1 | [SO:0001837](http://purl.obolibrary.org/obo/SO_0001837)                                                                                                                                                                                                                                          |
 
 ## `EBIBS`
 
@@ -284,34 +289,4 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | curie                                           |   usages | nodes                                                                                                                                                                                                                                                                                            |
 |-------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ftp://ftp.ncbi.nih.gov/snp/specs/docsum_3.1.xsd |        9 | [SO:0001583](http://purl.obolibrary.org/obo/SO_0001583), [SO:0001587](http://purl.obolibrary.org/obo/SO_0001587), [SO:0001589](http://purl.obolibrary.org/obo/SO_0001589), [SO:0001623](http://purl.obolibrary.org/obo/SO_0001623), [SO:0001624](http://purl.obolibrary.org/obo/SO_0001624), ... |
-
-## `unirot`
-
-There are 1 usages of `unirot` in `so`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20unirot).
-
-| curie           |   usages | nodes                                                   |
-|-----------------|----------|---------------------------------------------------------|
-| unirot:features |        1 | [SO:0001971](http://purl.obolibrary.org/obo/SO_0001971) |
-
-## `WIKI`
-
-There are 1 usages of `WIKI` in `so`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20WIKI).
-
-| curie                                               |   usages | nodes                                                   |
-|-----------------------------------------------------|----------|---------------------------------------------------------|
-| WIKI:https://en.wikipedia.org/wiki/Allele_frequency |        1 | [SO:0002119](http://purl.obolibrary.org/obo/SO_0002119) |
-
-## `XX`
-
-There are 1 usages of `XX` in `so`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20XX).
-
-| curie                                                                     |   usages | nodes                                                   |
-|---------------------------------------------------------------------------|----------|---------------------------------------------------------|
-| XX:www.ensembl.org/info/genome/variation/predicted_data.html#consequences |        1 | [SO:0001620](http://purl.obolibrary.org/obo/SO_0001620) |
 

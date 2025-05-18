@@ -1,15 +1,5 @@
 # mondo
 
-## `ClinGen`
-
-There are 1 usages of `ClinGen` in `mondo`.
-If you are knowledgeable about this prefix, please consider submitting a new prefix
-request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20ClinGen).
-
-| curie                                    |   usages | nodes                                                         |
-|------------------------------------------|----------|---------------------------------------------------------------|
-| ClinGen:AminoacidopathyGeneCurationPanel |        1 | [MONDO:0009607](http://purl.obolibrary.org/obo/MONDO_0009607) |
-
 ## `MONDORULE`
 
 There are 8 usages of `MONDORULE` in `mondo`.
@@ -18,7 +8,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 
 | curie       |   usages | nodes                                                                                                                                                                                                                                                                                                                          |
 |-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MONDORULE:1 |     1654 | [MONDO:0000200](http://purl.obolibrary.org/obo/MONDO_0000200), [MONDO:0000868](http://purl.obolibrary.org/obo/MONDO_0000868), [MONDO:0000910](http://purl.obolibrary.org/obo/MONDO_0000910), [MONDO:0000912](http://purl.obolibrary.org/obo/MONDO_0000912), [MONDO:0000914](http://purl.obolibrary.org/obo/MONDO_0000914), ... |
+| MONDORULE:1 |     1650 | [MONDO:0000200](http://purl.obolibrary.org/obo/MONDO_0000200), [MONDO:0000868](http://purl.obolibrary.org/obo/MONDO_0000868), [MONDO:0000910](http://purl.obolibrary.org/obo/MONDO_0000910), [MONDO:0000912](http://purl.obolibrary.org/obo/MONDO_0000912), [MONDO:0000914](http://purl.obolibrary.org/obo/MONDO_0000914), ... |
 | MONDORULE:2 |      840 | [MONDO:0000908](http://purl.obolibrary.org/obo/MONDO_0000908), [MONDO:0007282](http://purl.obolibrary.org/obo/MONDO_0007282), [MONDO:0007283](http://purl.obolibrary.org/obo/MONDO_0007283), [MONDO:0007286](http://purl.obolibrary.org/obo/MONDO_0007286), [MONDO:0007287](http://purl.obolibrary.org/obo/MONDO_0007287), ... |
 | MONDORULE:4 |      174 | [MONDO:0000911](http://purl.obolibrary.org/obo/MONDO_0000911), [MONDO:0007175](http://purl.obolibrary.org/obo/MONDO_0007175), [MONDO:0007198](http://purl.obolibrary.org/obo/MONDO_0007198), [MONDO:0007269](http://purl.obolibrary.org/obo/MONDO_0007269), [MONDO:0007404](http://purl.obolibrary.org/obo/MONDO_0007404), ... |
 | MONDORULE:3 |       22 | [MONDO:0009290](http://purl.obolibrary.org/obo/MONDO_0009290), [MONDO:0009291](http://purl.obolibrary.org/obo/MONDO_0009291), [MONDO:0009292](http://purl.obolibrary.org/obo/MONDO_0009292), [MONDO:0009294](http://purl.obolibrary.org/obo/MONDO_0009294), [MONDO:0009295](http://purl.obolibrary.org/obo/MONDO_0009295), ... |
@@ -58,6 +48,7 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ICD10EXP:G53.0* |        1 | [MONDO:0005769](http://purl.obolibrary.org/obo/MONDO_0005769)                                                                                                                                                                                                                                                                  |
 | ICD10EXP:E35.1* |        1 | [MONDO:0006015](http://purl.obolibrary.org/obo/MONDO_0006015)                                                                                                                                                                                                                                                                  |
 | ICD10EXP:G63.3* |        1 | [MONDO:0007100](http://purl.obolibrary.org/obo/MONDO_0007100)                                                                                                                                                                                                                                                                  |
+| ICD10EXP:L12+   |        1 | [MONDO:0008109](http://purl.obolibrary.org/obo/MONDO_0008109)                                                                                                                                                                                                                                                                  |
 | ICD10EXP:N08.5* |        1 | [MONDO:0009303](http://purl.obolibrary.org/obo/MONDO_0009303)                                                                                                                                                                                                                                                                  |
 | ICD10EXP:G73.6* |        1 | [MONDO:0009867](http://purl.obolibrary.org/obo/MONDO_0009867)                                                                                                                                                                                                                                                                  |
 | ICD10EXP:H19.1* |        1 | [MONDO:0015288](http://purl.obolibrary.org/obo/MONDO_0015288)                                                                                                                                                                                                                                                                  |
@@ -69,7 +60,16 @@ request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/i
 | ICD10EXP:M09.0* |        1 | [MONDO:0019436](http://purl.obolibrary.org/obo/MONDO_0019436)                                                                                                                                                                                                                                                                  |
 | ICD10EXP:I43.1* |        1 | [MONDO:0019441](http://purl.obolibrary.org/obo/MONDO_0019441)                                                                                                                                                                                                                                                                  |
 | ICD10EXP:G20+   |        1 | [MONDO:0019977](http://purl.obolibrary.org/obo/MONDO_0019977)                                                                                                                                                                                                                                                                  |
-| ICD10EXP:L12+   |        1 | [MONDO:0020548](http://purl.obolibrary.org/obo/MONDO_0020548)                                                                                                                                                                                                                                                                  |
 
 </details>
+
+## `IEDB`
+
+There are 1 usages of `IEDB` in `mondo`.
+If you are knowledgeable about this prefix, please consider submitting a new prefix
+request to the Bioregistry [here](https://github.com/biopragmatics/bioregistry/issues/new?assignees=cthoyt&labels=New%2CPrefix&template=new-prefix.yml&title=%5BResource%5D%3A%20IEDB).
+
+| curie   |   usages | nodes                                                         |
+|---------|----------|---------------------------------------------------------------|
+| IEDB:RV |        1 | [MONDO:0025518](http://purl.obolibrary.org/obo/MONDO_0025518) |
 

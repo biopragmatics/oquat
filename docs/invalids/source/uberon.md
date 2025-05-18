@@ -862,6 +862,20 @@ did not match the standard pattern `^\d{7}$`.
 | `VHOG:OG`       |              4 | [UBERON:0005872](http://purl.obolibrary.org/obo/UBERON_0005872), [UBERON:0005873](http://purl.obolibrary.org/obo/UBERON_0005873), [UBERON:0005874](http://purl.obolibrary.org/obo/UBERON_0005874), [UBERON:0005875](http://purl.obolibrary.org/obo/UBERON_0005875) |
 | `VHOG:FB`       |              1 | [UBERON:0000112](http://purl.obolibrary.org/obo/UBERON_0000112)                                                                                                                                                                                                    |
 
+## `VSAO`: Vertebrate Skeletal Anatomy Ontology
+
+Overall, there were 73 invalid
+xrefs to external prefixed with `VSAO` (standardized to Bioregistry
+prefix [`vsao`](https://bioregistry.io/vsao)) that
+did not match the standard pattern `^\d{7}$`.
+
+| external_xref           |   usages_count | usages                                                                                                                                                                                                                                                                                                                                   |
+|-------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `VSAO:curator`          |             52 | [UBERON:0000041](http://purl.obolibrary.org/obo/UBERON_0000041), [UBERON:0001075](http://purl.obolibrary.org/obo/UBERON_0001075), [UBERON:0001752](http://purl.obolibrary.org/obo/UBERON_0001752), [UBERON:0002204](http://purl.obolibrary.org/obo/UBERON_0002204), [UBERON:0002481](http://purl.obolibrary.org/obo/UBERON_0002481), ... |
+| `VSAO:NI`               |             18 | [UBERON:0001274](http://purl.obolibrary.org/obo/UBERON_0001274), [UBERON:0001442](http://purl.obolibrary.org/obo/UBERON_0001442), [UBERON:0001445](http://purl.obolibrary.org/obo/UBERON_0001445), [UBERON:0006717](http://purl.obolibrary.org/obo/UBERON_0006717), [UBERON:0007272](http://purl.obolibrary.org/obo/UBERON_0007272), ... |
+| `VSAO:wd`               |              2 | [UBERON:0004530](http://purl.obolibrary.org/obo/UBERON_0004530), [UBERON:0011769](http://purl.obolibrary.org/obo/UBERON_0011769)                                                                                                                                                                                                         |
+| `VSAO:0000150-modified` |              1 | [UBERON:0004710](http://purl.obolibrary.org/obo/UBERON_0004710)                                                                                                                                                                                                                                                                          |
+
 ## `WB`: WormBase
 
 Overall, there were 3 invalid

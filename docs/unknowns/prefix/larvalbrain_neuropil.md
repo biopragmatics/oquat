@@ -6,9 +6,10 @@
 |--------------------------|----------|---------------------------------------------------------------|
 | larvalbrain_neuropil:570 |        1 | [FBbt:00001925](http://purl.obolibrary.org/obo/FBbt_00001925) |
 | larvalbrain_neuropil:569 |        1 | [FBbt:00001930](http://purl.obolibrary.org/obo/FBbt_00001930) |
+| larvalbrain_neuropil:580 |        1 | [FBbt:00001935](http://purl.obolibrary.org/obo/FBbt_00001935) |
 | larvalbrain_neuropil:554 |        1 | [FBbt:00001939](http://purl.obolibrary.org/obo/FBbt_00001939) |
-| larvalbrain_neuropil:556 |        1 | [FBbt:00001944](http://purl.obolibrary.org/obo/FBbt_00001944) |
-| larvalbrain_neuropil:558 |        1 | [FBbt:00001946](http://purl.obolibrary.org/obo/FBbt_00001946) |
+| larvalbrain_neuropil:578 |        1 | [FBbt:00001944](http://purl.obolibrary.org/obo/FBbt_00001944) |
+| larvalbrain_neuropil:579 |        1 | [FBbt:00001946](http://purl.obolibrary.org/obo/FBbt_00001946) |
 | larvalbrain_neuropil:515 |        1 | [FBbt:00001957](http://purl.obolibrary.org/obo/FBbt_00001957) |
 | larvalbrain_neuropil:596 |        1 | [FBbt:00001962](http://purl.obolibrary.org/obo/FBbt_00001962) |
 | larvalbrain_neuropil:564 |        1 | [FBbt:00001973](http://purl.obolibrary.org/obo/FBbt_00001973) |
@@ -30,6 +31,8 @@
 | larvalbrain_neuropil:546 |        1 | [FBbt:00007719](http://purl.obolibrary.org/obo/FBbt_00007719) |
 | larvalbrain_neuropil:631 |        1 | [FBbt:00007720](http://purl.obolibrary.org/obo/FBbt_00007720) |
 | larvalbrain_neuropil:585 |        1 | [FBbt:00007721](http://purl.obolibrary.org/obo/FBbt_00007721) |
+| larvalbrain_neuropil:577 |        1 | [FBbt:00007722](http://purl.obolibrary.org/obo/FBbt_00007722) |
+| larvalbrain_neuropil:572 |        1 | [FBbt:00007723](http://purl.obolibrary.org/obo/FBbt_00007723) |
 | larvalbrain_neuropil:583 |        1 | [FBbt:00007724](http://purl.obolibrary.org/obo/FBbt_00007724) |
 | larvalbrain_neuropil:466 |        1 | [FBbt:00007725](http://purl.obolibrary.org/obo/FBbt_00007725) |
 | larvalbrain_neuropil:563 |        1 | [FBbt:00011929](http://purl.obolibrary.org/obo/FBbt_00011929) |
@@ -131,14 +134,20 @@
 | larvalbrain_neuropil:608 |        1 | [FBbt:00015095](http://purl.obolibrary.org/obo/FBbt_00015095) |
 | larvalbrain_neuropil:623 |        1 | [FBbt:00015096](http://purl.obolibrary.org/obo/FBbt_00015096) |
 | larvalbrain_neuropil:475 |        1 | [FBbt:00015097](http://purl.obolibrary.org/obo/FBbt_00015097) |
+| larvalbrain_neuropil:549 |        1 | [FBbt:00047978](http://purl.obolibrary.org/obo/FBbt_00047978) |
+| larvalbrain_neuropil:597 |        1 | [FBbt:00047979](http://purl.obolibrary.org/obo/FBbt_00047979) |
+| larvalbrain_neuropil:557 |        1 | [FBbt:00048289](http://purl.obolibrary.org/obo/FBbt_00048289) |
+| larvalbrain_neuropil:575 |        1 | [FBbt:00051443](http://purl.obolibrary.org/obo/FBbt_00051443) |
+| larvalbrain_neuropil:547 |        1 | [FBbt:00052192](http://purl.obolibrary.org/obo/FBbt_00052192) |
+| larvalbrain_neuropil:588 |        1 | [FBbt:00052193](http://purl.obolibrary.org/obo/FBbt_00052193) |
+| larvalbrain_neuropil:567 |        1 | [FBbt:00100138](http://purl.obolibrary.org/obo/FBbt_00100138) |
+| larvalbrain_neuropil:560 |        1 | [FBbt:00110186](http://purl.obolibrary.org/obo/FBbt_00110186) |
 | larvalbrain_neuropil:571 |        1 | [FBbt:00110187](http://purl.obolibrary.org/obo/FBbt_00110187) |
 | larvalbrain_neuropil:565 |        1 | [FBbt:00110188](http://purl.obolibrary.org/obo/FBbt_00110188) |
 | larvalbrain_neuropil:599 |        1 | [FBbt:00110189](http://purl.obolibrary.org/obo/FBbt_00110189) |
 | larvalbrain_neuropil:551 |        1 | [FBbt:00110190](http://purl.obolibrary.org/obo/FBbt_00110190) |
 | larvalbrain_neuropil:561 |        1 | [FBbt:00110191](http://purl.obolibrary.org/obo/FBbt_00110191) |
-| larvalbrain_neuropil:584 |        1 | [FBbt:00110196](http://purl.obolibrary.org/obo/FBbt_00110196) |
 | larvalbrain_neuropil:463 |        1 | [FBbt:00111028](http://purl.obolibrary.org/obo/FBbt_00111028) |
-| larvalbrain_neuropil:595 |        1 | [FBbt:00111029](http://purl.obolibrary.org/obo/FBbt_00111029) |
 | larvalbrain_neuropil:589 |        1 | [FBbt:00111030](http://purl.obolibrary.org/obo/FBbt_00111030) |
 | larvalbrain_neuropil:591 |        1 | [FBbt:00111031](http://purl.obolibrary.org/obo/FBbt_00111031) |
 | larvalbrain_neuropil:593 |        1 | [FBbt:00111032](http://purl.obolibrary.org/obo/FBbt_00111032) |
@@ -151,8 +160,8 @@
 | larvalbrain_neuropil:460 |        1 | [FBbt:00111039](http://purl.obolibrary.org/obo/FBbt_00111039) |
 | larvalbrain_neuropil:461 |        1 | [FBbt:00111040](http://purl.obolibrary.org/obo/FBbt_00111040) |
 | larvalbrain_neuropil:462 |        1 | [FBbt:00111041](http://purl.obolibrary.org/obo/FBbt_00111041) |
-| larvalbrain_neuropil:567 |        1 | [FBbt:00111045](http://purl.obolibrary.org/obo/FBbt_00111045) |
 | larvalbrain_neuropil:587 |        1 | [FBbt:00111203](http://purl.obolibrary.org/obo/FBbt_00111203) |
+| larvalbrain_neuropil:574 |        1 | [FBbt:00111205](http://purl.obolibrary.org/obo/FBbt_00111205) |
 | larvalbrain_neuropil:581 |        1 | [FBbt:00111206](http://purl.obolibrary.org/obo/FBbt_00111206) |
 | larvalbrain_neuropil:576 |        1 | [FBbt:00111207](http://purl.obolibrary.org/obo/FBbt_00111207) |
 

@@ -1,6 +1,4 @@
 {
-  "created": "2023-12-07T09:24:13.259771",
-  "messages": [],
   "results": {
     "http://purl.obolibrary.org/obo/covoc.json": {
       "graph_id": "http://purl.obolibrary.org/obo/covoc.json",
@@ -74,24 +72,6 @@
           ],
           "http://purl.obolibrary.org/obo/HP_0100806": [
             "HPO:probinson"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005002": [
-            "NCIT:P378"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005015": [
-            "NCIT:P378"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005091": [
-            "NCIT:P378"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005108": [
-            "NCIT:P378"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005249": [
-            "NCIT:P378"
-          ],
-          "http://purl.obolibrary.org/obo/MONDO_0005812": [
-            "NCIT:P378"
           ],
           "http://purl.obolibrary.org/obo/MONDO_0100096": [
             "MONDO:patterns/infectious_disease_by_agent"
@@ -167,6 +147,7 @@
             "PRO:WCB"
           ]
         },
+        "known_prefixes": {},
         "label": "Provenance Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -354,7 +335,6 @@
             "MONDO:patterns/infectious_disease_by_agent"
           ],
           "http://purl.obolibrary.org/obo/PR_000000001": [
-            "IEDB:BP",
             "PRO:DAN"
           ],
           "http://purl.obolibrary.org/obo/PR_000001341": [
@@ -426,6 +406,7 @@
             "MONDO:patterns/location_top"
           ]
         },
+        "known_prefixes": {},
         "label": "Synonym Xrefs",
         "malformed_curies": {},
         "noncanonical_prefixes": {
@@ -484,21 +465,17 @@
             "http://purl.obolibrary.org/obo/GO_0040007": "GOC:mah",
             "http://purl.obolibrary.org/obo/GO_0046718": "GOC:bf"
           },
+          "IEDB": {
+            "http://purl.obolibrary.org/obo/PR_000000001": "IEDB:BP"
+          },
           "MTH": {
             "http://purl.obolibrary.org/obo/MONDO_0007186": "MTH:NOCODE"
           }
         }
       },
-      "version": "2022-10-26",
-      "version_iri": "http://purl.obolibrary.org/obo/covoc/releases/2022-10-26/covoc.json",
+      "version": "http://purl.obolibrary.org/obo/covoc/releases/2022-10-26/covoc.json",
       "xref_pack": {
         "invalid_luids": {
-          "http://purl.obolibrary.org/obo/CHEBI_15379": [
-            "Gmelin:485"
-          ],
-          "http://purl.obolibrary.org/obo/CHEBI_16240": [
-            "Gmelin:509"
-          ],
           "http://purl.obolibrary.org/obo/CHEBI_6078": [
             "ATC: D11AX22"
           ],
@@ -595,6 +572,7 @@
             "UMLS:C0026565 | UMLS:C0026566"
           ]
         },
+        "known_prefixes": {},
         "label": "Node Xrefs",
         "malformed_curies": {
           "http://purl.obolibrary.org/obo/NCIT_C15429": [
