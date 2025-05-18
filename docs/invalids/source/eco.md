@@ -15,7 +15,7 @@ did not match the standard pattern `^DP\d{5}$`.
 |--------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `DisProt:BalintMeszaros` |              7 | [ECO:0006183](http://purl.obolibrary.org/obo/ECO_0006183), [ECO:0006185](http://purl.obolibrary.org/obo/ECO_0006185), [ECO:0006187](http://purl.obolibrary.org/obo/ECO_0006187), [ECO:0006188](http://purl.obolibrary.org/obo/ECO_0006188), [ECO:0006189](http://purl.obolibrary.org/obo/ECO_0006189), ... |
 
-## `ECO`: Evidence ontology
+## `ECO`: Evidence and Conclusion Ontology
 
 Overall, there were 1,483 invalid
 xrefs to external prefixed with `ECO` (standardized to Bioregistry

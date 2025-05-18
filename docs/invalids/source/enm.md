@@ -9,7 +9,7 @@ for node, synonym, and definition cross-references in `enm`.
 Overall, there were 6 invalid
 xrefs to external prefixed with `AGR` (standardized to Bioregistry
 prefix [`agricola`](https://bioregistry.io/agricola)) that
-did not match the standard pattern `^\d+$`.
+did not match the standard pattern `^IND\d+$`.
 
 | external_xref     |   usages_count | usages                                                      |
 |-------------------|----------------|-------------------------------------------------------------|
@@ -97,7 +97,7 @@ did not match the standard pattern `^\d+$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `Gmelin` (standardized to Bioregistry
 prefix [`gmelin`](https://bioregistry.io/gmelin)) that
-did not match the standard pattern `^[1-9][0-9]{3,6}$`.
+did not match the standard pattern `^[1-9][0-9]{2,6}$`.
 
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|
@@ -260,7 +260,7 @@ did not match the standard pattern `^\d+$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `MeSH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
+did not match the standard pattern `^(C|D|M)\d{6,9}$`.
 
 | external_xref   |   usages_count | usages                                              |
 |-----------------|----------------|-----------------------------------------------------|

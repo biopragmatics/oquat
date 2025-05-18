@@ -23,7 +23,7 @@ Identifiers for this prefix are given incorrectly in `cl`. See the [GitHub repos
 
 ## `dermo`: Human Dermatological Disease Ontology
 
-Identifiers for this prefix are given incorrectly in `dermo`.
+Identifiers for this prefix are given incorrectly in `dermo`. See the [GitHub repository](https://github.com/dermatology-ontology/dermatology).
 
 | external_xref   |   usages_count | usages                                                        |
 |-----------------|----------------|---------------------------------------------------------------|

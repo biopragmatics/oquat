@@ -4,12 +4,12 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `cmpo`. See the [GitHub repository](https://github.com/EBISPOT/CMPO).
 
 
-## `EC`: Enzyme Commission Code
+## `EC`: Enzyme Nomenclature
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `EC` (standardized to Bioregistry
-prefix [`eccode`](https://bioregistry.io/eccode)) that
-did not match the standard pattern `^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.n\d{1,3})?$`.
+prefix [`ec`](https://bioregistry.io/ec)) that
+did not match the standard pattern `^\d{1,2}(((\.\d{1,3}){1,3})|(\.\d+){2}\.[nB]\d{1,3}|\.-\.-\.-|\.\d{1,3}\.-\.-|\.\d{1,3}\.\d{1,3}\.-)?$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|

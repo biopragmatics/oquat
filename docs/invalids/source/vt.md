@@ -9,7 +9,7 @@ for node, synonym, and definition cross-references in `vt`. See the [GitHub repo
 Overall, there were 2 invalid
 xrefs to external prefixed with `MESH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
+did not match the standard pattern `^(C|D|M)\d{6,9}$`.
 
 | external_xref          |   usages_count | usages                                                  |
 |------------------------|----------------|---------------------------------------------------------|
@@ -21,7 +21,7 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 Overall, there were 2 invalid
 xrefs to external prefixed with `MeSH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
+did not match the standard pattern `^(C|D|M)\d{6,9}$`.
 
 | external_xref                  |   usages_count | usages                                                  |
 |--------------------------------|----------------|---------------------------------------------------------|

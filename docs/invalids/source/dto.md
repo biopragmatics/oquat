@@ -80,7 +80,7 @@ did not match the standard pattern `^C\d+$`.
 Overall, there were 25 invalid
 xrefs to external prefixed with `MESH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
+did not match the standard pattern `^(C|D|M)\d{6,9}$`.
 
 | external_xref              |   usages_count | usages                                                          |
 |----------------------------|----------------|-----------------------------------------------------------------|
@@ -115,7 +115,7 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 Overall, there were 28 invalid
 xrefs to external prefixed with `ncithesaurus` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
-did not match the standard pattern `^C\d+$`.
+did not match the standard pattern `^[CRPA]\d+$`.
 
 | external_xref                                         |   usages_count | usages                                                          |
 |-------------------------------------------------------|----------------|-----------------------------------------------------------------|

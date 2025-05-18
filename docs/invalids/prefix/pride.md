@@ -1,4 +1,4 @@
-# [`pride`](https://bioregistry.io/pride): PRIDE Controlled Vocabulary
+# [`pride`](https://bioregistry.io/pride): Proteomics Identification Database Ontology
 
 This page summarize the different resources that reference `pride`
 but use local unique identifiers that do not match the standard pattern of
@@ -614,7 +614,7 @@ Identifiers for this prefix are given incorrectly in `cellosaurus`. See the [Git
 | `PRIDE:PXD000497` |              1 | [Cellosaurus#CVCL:ZD03](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_ZD03)                                                                                                                                                                                                                                                                                                                                  |
 | `PRIDE:PXD003509` |              1 | [Cellosaurus#CVCL:ZL51](http://purl.obolibrary.org/obo/Cellosaurus#CVCL_ZL51)                                                                                                                                                                                                                                                                                                                                  |
 
-## `pride`: PRIDE Controlled Vocabulary
+## `pride`: Proteomics Identification Database Ontology
 
 Identifiers for this prefix are given incorrectly in `pride`. See the [GitHub repository](https://github.com/PRIDE-Utilities/pride-ontology).
 

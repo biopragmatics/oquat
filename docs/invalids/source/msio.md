@@ -9,7 +9,7 @@ for node, synonym, and definition cross-references in `msio`. See the [GitHub re
 Overall, there were 4 invalid
 xrefs to external prefixed with `Gmelin` (standardized to Bioregistry
 prefix [`gmelin`](https://bioregistry.io/gmelin)) that
-did not match the standard pattern `^[1-9][0-9]{3,6}$`.
+did not match the standard pattern `^[1-9][0-9]{2,6}$`.
 
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|

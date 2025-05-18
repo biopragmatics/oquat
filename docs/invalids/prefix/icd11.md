@@ -1,4 +1,4 @@
-# [`icd11`](https://bioregistry.io/icd11): International Classification of Diseases, 11th Revision
+# [`icd11`](https://bioregistry.io/icd11): International Classification of Diseases, 11th Revision (Foundation Component)
 
 This page summarize the different resources that reference `icd11`
 but use local unique identifiers that do not match the standard pattern of

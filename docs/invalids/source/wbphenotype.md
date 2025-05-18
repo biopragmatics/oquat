@@ -4,12 +4,12 @@ This document details the invalid local unique identifiers used in CURIEs
 for node, synonym, and definition cross-references in `wbphenotype`. See the [GitHub repository](https://github.com/obophenotype/c-elegans-phenotype-ontology).
 
 
-## `WB`: Wormbase Gene
+## `WB`: WormBase
 
 Overall, there were 392 invalid
 xrefs to external prefixed with `WB` (standardized to Bioregistry
 prefix [`wormbase`](https://bioregistry.io/wormbase)) that
-did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
+did not match the standard pattern `^(CE[0-9]{5}|WB[A-Z][a-z]+\d+)$`.
 
 | external_xref         |   usages_count | usages                                                                                                                                                                                                                                                                                                                                                                                     |
 |-----------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

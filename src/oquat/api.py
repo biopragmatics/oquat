@@ -2,7 +2,6 @@
 
 """Ontology analysis."""
 
-import dataclasses
 import datetime
 import logging
 import random
@@ -21,7 +20,6 @@ import obographs
 import pydantic
 import pystow
 from more_click import verbose_option
-from pydantic import Field
 from tabulate import tabulate
 from tqdm import tqdm
 
@@ -110,7 +108,6 @@ class Results(pydantic.BaseModel):
     xref_pack: ResultPack | None = None
     prov_pack: ResultPack | None = None
     synonym_pack: ResultPack | None = None
-
     # edge_pack: ResultPack
 
     def to_markdown(self):
@@ -171,7 +168,7 @@ def analyze_by_prefix(
             return analyze_by_path(path, iri_filter=iri_filter)
         return analyze_by_iri(url, iri_filter=iri_filter)
 
-    from bioontologies.robot import convert_to_obograph_local, convert_to_obograph_remote, convert
+    from bioontologies.robot import convert, convert_to_obograph_local, convert_to_obograph_remote
 
     for part, url in [
         ("owl", bioregistry.get_owl_download(prefix)),

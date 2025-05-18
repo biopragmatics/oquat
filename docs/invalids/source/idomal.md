@@ -43,7 +43,7 @@ did not match the standard pattern `^(ISBN)?(-13|-10)?[:]?[ ]?(\d{2,3}[ -]?)?\d{
 Overall, there were 1 invalid
 xrefs to external prefixed with `NCI` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
-did not match the standard pattern `^C\d+$`.
+did not match the standard pattern `^[CRPA]\d+$`.
 
 | external_xref   |   usages_count | usages                                                            |
 |-----------------|----------------|-------------------------------------------------------------------|

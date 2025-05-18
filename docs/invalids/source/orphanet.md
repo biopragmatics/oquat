@@ -124,7 +124,7 @@ did not match the standard pattern `^(([XVI]+)|([A-Z][0-9]+((-[A-Z][0-9]+)|(\.[0
 | `ICD-10:H13.3*` |              1 | [http://www.orpha.net/ORDO/Orphanet_99922](http://www.orpha.net/ORDO/Orphanet_99922)                                                                                                                                                                                                                                                                                                                                                                        |
 | `ICD-10:L12+`   |              1 | [http://www.orpha.net/ORDO/Orphanet_99922](http://www.orpha.net/ORDO/Orphanet_99922)                                                                                                                                                                                                                                                                                                                                                                        |
 
-## `ICD-11`: International Classification of Diseases, 11th Revision
+## `ICD-11`: International Classification of Diseases, 11th Revision (Foundation Component)
 
 Overall, there were 5,210 invalid
 xrefs to external prefixed with `ICD-11` (standardized to Bioregistry

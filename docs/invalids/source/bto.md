@@ -132,23 +132,23 @@ did not match the standard pattern `^\d+$`.
 | `PMID:  29991048` |              1 | [BTO:0006394](http://purl.obolibrary.org/obo/BTO_0006394) |
 | `PMID: 9522462`   |              1 | [BTO:0006473](http://purl.obolibrary.org/obo/BTO_0006473) |
 
-## `WormBase`: Wormbase Gene
+## `WormBase`: WormBase
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `WormBase` (standardized to Bioregistry
 prefix [`wormbase`](https://bioregistry.io/wormbase)) that
-did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
+did not match the standard pattern `^(CE[0-9]{5}|WB[A-Z][a-z]+\d+)$`.
 
 | external_xref                       |   usages_count | usages                                                    |
 |-------------------------------------|----------------|-----------------------------------------------------------|
 | `WormBase:http://www.wormbase.org/` |              1 | [BTO:0003039](http://purl.obolibrary.org/obo/BTO_0003039) |
 
-## `Wormbase`: Wormbase Gene
+## `Wormbase`: WormBase
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `Wormbase` (standardized to Bioregistry
 prefix [`wormbase`](https://bioregistry.io/wormbase)) that
-did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
+did not match the standard pattern `^(CE[0-9]{5}|WB[A-Z][a-z]+\d+)$`.
 
 | external_xref                                              |   usages_count | usages                                                    |
 |------------------------------------------------------------|----------------|-----------------------------------------------------------|

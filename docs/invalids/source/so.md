@@ -54,11 +54,11 @@ did not match the standard pattern `^\d{1,5}$`.
 |-----------------|----------------|---------------------------------------------------------|
 | `HGNC:mw`       |              1 | [SO:0001877](http://purl.obolibrary.org/obo/SO_0001877) |
 
-## `JAX`: Jackson Laboratories Strain
+## `JAX`: Jackson Laboratories Mouse Strain
 
 Overall, there were 2 invalid
 xrefs to external prefixed with `JAX` (standardized to Bioregistry
-prefix [`jax`](https://bioregistry.io/jax)) that
+prefix [`jaxmice`](https://bioregistry.io/jaxmice)) that
 did not match the standard pattern `^\d{6}$`.
 
 | external_xref   |   usages_count | usages                                                  |
@@ -238,12 +238,12 @@ did not match the standard pattern `^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0
 | `uniprot:feature`      |              2 | [SO:0001655](http://purl.obolibrary.org/obo/SO_0001655), [SO:0100020](http://purl.obolibrary.org/obo/SO_0100020)                                                                                                                                                                                 |
 | `uniprot:curation`     |              1 | [SO:0001091](http://purl.obolibrary.org/obo/SO_0001091)                                                                                                                                                                                                                                          |
 
-## `WB`: Wormbase Gene
+## `WB`: WormBase
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `WB` (standardized to Bioregistry
 prefix [`wormbase`](https://bioregistry.io/wormbase)) that
-did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
+did not match the standard pattern `^(CE[0-9]{5}|WB[A-Z][a-z]+\d+)$`.
 
 | external_xref   |   usages_count | usages                                                  |
 |-----------------|----------------|---------------------------------------------------------|

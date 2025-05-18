@@ -26,12 +26,12 @@ did not match the standard pattern `^\d{7}$`.
 |-----------------|----------------|-------------------------------------------------------------|
 | `SO:ma`         |              1 | [FBcv:0003013](http://purl.obolibrary.org/obo/FBcv_0003013) |
 
-## `WB_REF`: Wormbase Gene
+## `WB_REF`: WormBase
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `WB_REF` (standardized to Bioregistry
 prefix [`wormbase`](https://bioregistry.io/wormbase)) that
-did not match the standard pattern `^WB[A-Z][a-z]+\d+$`.
+did not match the standard pattern `^(CE[0-9]{5}|WB[A-Z][a-z]+\d+)$`.
 
 | external_xref   |   usages_count | usages                                                      |
 |-----------------|----------------|-------------------------------------------------------------|

@@ -37,7 +37,7 @@ did not match the standard pattern `^\d+$`.
 |--------------------|----------------|---------------------------------------------------------------|
 | `GARD:0003995-def` |              1 | [MONDO:0044749](http://purl.obolibrary.org/obo/MONDO_0044749) |
 
-## `ICD11`: International Classification of Diseases, 11th Revision
+## `ICD11`: International Classification of Diseases, 11th Revision (Foundation Component)
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `ICD11` (standardized to Bioregistry
@@ -117,17 +117,6 @@ did not match the standard pattern `^[8-9]\d{3}(/[0-3])?$`.
 | `ICDO:8010/6`   |              1 | [MONDO:0024879](http://purl.obolibrary.org/obo/MONDO_0024879)                                                                                                                               |
 | `ICDO:8000/6`   |              1 | [MONDO:0024883](http://purl.obolibrary.org/obo/MONDO_0024883)                                                                                                                               |
 
-## `IEDB`: Immune Epitope Database
-
-Overall, there were 1 invalid
-xrefs to external prefixed with `IEDB` (standardized to Bioregistry
-prefix [`iedb`](https://bioregistry.io/iedb)) that
-did not match the standard pattern `^[0-9]+$`.
-
-| external_xref   |   usages_count | usages                                                        |
-|-----------------|----------------|---------------------------------------------------------------|
-| `IEDB:RV`       |              1 | [MONDO:0025518](http://purl.obolibrary.org/obo/MONDO_0025518) |
-
 ## `MedDRA`: Medical Dictionary for Regulatory Activities Terminology
 
 Overall, there were 2 invalid
@@ -145,7 +134,7 @@ did not match the standard pattern `^\d+$`.
 Overall, there were 6 invalid
 xrefs to external prefixed with `MESH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
+did not match the standard pattern `^(C|D|M)\d{6,9}$`.
 
 | external_xref           |   usages_count | usages                                                                                                                       |
 |-------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------|
@@ -237,7 +226,7 @@ did not match the standard pattern `^\d{7}$`.
 Overall, there were 1,590 invalid
 xrefs to external prefixed with `NCIT` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
-did not match the standard pattern `^C\d+$`.
+did not match the standard pattern `^[CRPA]\d+$`.
 
 | external_xref           |   usages_count | usages                                                                                                                                                                                                                                                                                                                         |
 |-------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -292,7 +281,7 @@ did not match the standard pattern `^\d+$`.
 Overall, there were 4 invalid
 xrefs to external prefixed with `Orphanet` (standardized to Bioregistry
 prefix [`orphanet`](https://bioregistry.io/orphanet)) that
-did not match the standard pattern `^\d+$`.
+did not match the standard pattern `^C?\d+$`.
 
 | external_xref                |   usages_count | usages                                                                                                                       |
 |------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------|

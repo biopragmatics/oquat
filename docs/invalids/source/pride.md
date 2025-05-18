@@ -41,7 +41,7 @@ did not match the standard pattern `^\d{7}$`.
 | `obi:em`        |              1 | [OBI:0200051](http://purl.obolibrary.org/obo/OBI_0200051)                                                                                                                                                                                                                                                  |
 | `obi:jm`        |              1 | [OBI:0200051](http://purl.obolibrary.org/obo/OBI_0200051)                                                                                                                                                                                                                                                  |
 
-## `PRIDE`: PRIDE Controlled Vocabulary
+## `PRIDE`: Proteomics Identification Database Ontology
 
 Overall, there were 370 invalid
 xrefs to external prefixed with `PRIDE` (standardized to Bioregistry

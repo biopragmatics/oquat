@@ -9,7 +9,7 @@ for node, synonym, and definition cross-references in `ror`. See the [GitHub rep
 Overall, there were 4 invalid
 xrefs to external prefixed with `cnrs` (standardized to Bioregistry
 prefix [`cnrs`](https://bioregistry.io/cnrs)) that
-did not match the standard pattern `^(UMR|UMS|UMI|UPR|URA|USR|GDR|EA|FR|SNC|ERL|FRC|FRE|IFR|MOY)\d+$`.
+did not match the standard pattern `^(UMR|UMS|UMI|UPR|URA|USR|GDR|EA|FR|SNC|ERL|FRC|FRE|IFR|MOY|UPS)\d+$`.
 
 | external_xref   |   usages_count | usages                                                 |
 |-----------------|----------------|--------------------------------------------------------|
@@ -23,7 +23,7 @@ did not match the standard pattern `^(UMR|UMS|UMI|UPR|URA|USR|GDR|EA|FR|SNC|ERL|
 Overall, there were 9,026 invalid
 xrefs to external prefixed with `funderregistry` (standardized to Bioregistry
 prefix [`funderregistry`](https://bioregistry.io/funderregistry)) that
-did not match the standard pattern `^\d{9,9}$`.
+did not match the standard pattern `^\d+$`.
 
 | external_xref                 |   usages_count | usages                                                                                                         |
 |-------------------------------|----------------|----------------------------------------------------------------------------------------------------------------|
@@ -9058,7 +9058,7 @@ did not match the standard pattern `^\d{9,9}$`.
 Overall, there were 2 invalid
 xrefs to external prefixed with `wikidata` (standardized to Bioregistry
 prefix [`wikidata`](https://bioregistry.io/wikidata)) that
-did not match the standard pattern `^(Q|P)\d+$`.
+did not match the standard pattern `^(Q|P|E|L)\d+$`.
 
 | external_xref                                     |   usages_count | usages                                                 |
 |---------------------------------------------------|----------------|--------------------------------------------------------|

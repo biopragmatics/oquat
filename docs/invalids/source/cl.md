@@ -78,7 +78,7 @@ did not match the standard pattern `^FB\w{2}\d{7}$`.
 
 Overall, there were 1 invalid
 xrefs to external prefixed with `GC` (standardized to Bioregistry
-prefix [`gc`](https://bioregistry.io/gc)) that
+prefix [`ncbi.gc`](https://bioregistry.io/ncbi.gc)) that
 did not match the standard pattern `^\d+$`.
 
 | external_xref   |   usages_count | usages                                                  |
@@ -147,7 +147,7 @@ did not match the standard pattern `^\d{7}$`.
 Overall, there were 1 invalid
 xrefs to external prefixed with `NCI_Thesaurus` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
-did not match the standard pattern `^C\d+$`.
+did not match the standard pattern `^[CRPA]\d+$`.
 
 | external_xref                                   |   usages_count | usages                                                  |
 |-------------------------------------------------|----------------|---------------------------------------------------------|
@@ -158,7 +158,7 @@ did not match the standard pattern `^C\d+$`.
 Overall, there were 4 invalid
 xrefs to external prefixed with `ncithesaurus` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
-did not match the standard pattern `^C\d+$`.
+did not match the standard pattern `^[CRPA]\d+$`.
 
 | external_xref                     |   usages_count | usages                                                  |
 |-----------------------------------|----------------|---------------------------------------------------------|

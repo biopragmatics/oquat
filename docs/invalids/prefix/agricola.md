@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `agricola`
 but use local unique identifiers that do not match the standard pattern of
-`^\d+$`. Of the 2 resources,
+`^IND\d+$`. Of the 2 resources,
 1 variants on the standard prefix were found: ['AGR'].
 
 ## `chebi`: Chemical Entities of Biological Interest

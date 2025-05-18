@@ -94,7 +94,7 @@ did not match the standard pattern `^([CHDEGTMKR]\d+)|(\w+:[\w\d\.-]*)|([a-z]{3,
 Overall, there were 6 invalid
 xrefs to external prefixed with `MeSH` (standardized to Bioregistry
 prefix [`mesh`](https://bioregistry.io/mesh)) that
-did not match the standard pattern `^(C|D)\d{6,9}$`.
+did not match the standard pattern `^(C|D|M)\d{6,9}$`.
 
 | external_xref                   |   usages_count | usages                                                                                                                                                                    |
 |---------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -107,7 +107,7 @@ did not match the standard pattern `^(C|D)\d{6,9}$`.
 Overall, there were 3 invalid
 xrefs to external prefixed with `NCI` (standardized to Bioregistry
 prefix [`ncit`](https://bioregistry.io/ncit)) that
-did not match the standard pattern `^C\d+$`.
+did not match the standard pattern `^[CRPA]\d+$`.
 
 | external_xref        |   usages_count | usages                                                                                                           |
 |----------------------|----------------|------------------------------------------------------------------------------------------------------------------|

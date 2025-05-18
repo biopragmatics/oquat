@@ -9,7 +9,7 @@ for node, synonym, and definition cross-references in `chebi`. See the [GitHub r
 Overall, there were 1,222 invalid
 xrefs to external prefixed with `AGR` (standardized to Bioregistry
 prefix [`agricola`](https://bioregistry.io/agricola)) that
-did not match the standard pattern `^\d+$`.
+did not match the standard pattern `^IND\d+$`.
 
 | external_xref      |   usages_count | usages                                                                                                                                                                            |
 |--------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1336,7 +1336,7 @@ did not match the standard pattern `^DB\d{5}$`.
 Overall, there were 170 invalid
 xrefs to external prefixed with `Gmelin` (standardized to Bioregistry
 prefix [`gmelin`](https://bioregistry.io/gmelin)) that
-did not match the standard pattern `^[1-9][0-9]{3,6}$`.
+did not match the standard pattern `^[1-9][0-9]{2,6}$`.
 
 | external_xref   |   usages_count | usages                                                    |
 |-----------------|----------------|-----------------------------------------------------------|

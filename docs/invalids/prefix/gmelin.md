@@ -2,7 +2,7 @@
 
 This page summarize the different resources that reference `gmelin`
 but use local unique identifiers that do not match the standard pattern of
-`^[1-9][0-9]{3,6}$`. Of the 4 resources,
+`^[1-9][0-9]{2,6}$`. Of the 4 resources,
 1 variants on the standard prefix were found: ['Gmelin'].
 
 ## `chebi`: Chemical Entities of Biological Interest

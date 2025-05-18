@@ -29,7 +29,7 @@ Identifiers for this prefix are given incorrectly in `pato`. See the [GitHub rep
 |-----------------|----------------|-------------------------------------------------------------|
 | `OBI:OBI`       |              1 | [PATO:0001985](http://purl.obolibrary.org/obo/PATO_0001985) |
 
-## `pride`: PRIDE Controlled Vocabulary
+## `pride`: Proteomics Identification Database Ontology
 
 Identifiers for this prefix are given incorrectly in `pride`. See the [GitHub repository](https://github.com/PRIDE-Utilities/pride-ontology).
 
