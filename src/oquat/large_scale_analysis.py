@@ -174,11 +174,15 @@ def _lsa(
             else:
                 # tqdm.write(f"writing {prefix} to {analysis_path}")
                 analysis_path.write_text(
-                    analysis_results.model_dump_json(
+                    json.dumps(
+                        analysis_results.model_dump(
+                            exclude_unset=True,
+                            exclude_none=True,
+                            exclude_defaults=True,
+                        ),
                         indent=2,
-                        exclude_unset=True,
-                        exclude_none=True,
-                        exclude_defaults=True,
+                        sort_keys=True,
+                        ensure_ascii=False,
                     )
                 )
 
