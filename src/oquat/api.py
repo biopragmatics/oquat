@@ -2,7 +2,6 @@
 
 """Ontology analysis."""
 
-import dataclasses
 import datetime
 import logging
 import random
@@ -12,24 +11,21 @@ from collections import defaultdict
 from functools import lru_cache
 from operator import itemgetter
 from pathlib import Path
-from typing import Any, DefaultDict, Dict, List, Optional, Set, Union
+from typing import DefaultDict, Dict, List, Optional, Set, Union
 
 import bioregistry
 import click
+import obographs
 import pydantic
 import pystow
-from bioontologies import get_obograph_by_prefix
-from bioontologies.obograph import Graph, GraphDocument
-from bioontologies.robot import convert_to_obograph_local, convert_to_obograph_remote
 from more_click import verbose_option
-from pydantic import BaseModel
-from pydantic.v1.json import ENCODERS_BY_TYPE
 from tabulate import tabulate
 from tqdm import tqdm
 
 logger = logging.getLogger(__name__)
 
 DOWNLOAD_BEFORE_PARSING = {"caloha", "genepio"}
+CACHE_MODULE = pystow.module("oquat", "data")
 
 
 def secho(s: str, fg=None) -> None:
@@ -37,28 +33,11 @@ def secho(s: str, fg=None) -> None:
     tqdm.write(click.style(s, fg=fg))
 
 
-def extended_encoder(obj: Any) -> Any:
-    """Encode objects similarly to :func:`pydantic.json.pydantic_encoder`."""
-    if isinstance(obj, BaseModel):
-        return obj.dict(exclude_none=True)
-    elif dataclasses.is_dataclass(obj):
-        return dataclasses.asdict(obj)
-
-    # Check the class type and its superclasses for a matching encoder
-    for base in obj.__class__.__mro__[:-1]:
-        try:
-            encoder = ENCODERS_BY_TYPE[base]
-        except KeyError:
-            continue
-        return encoder(obj)
-    else:  # We have exited the for loop without finding a suitable encoder
-        raise TypeError(f"Object of type '{obj.__class__.__name__}' is not JSON serializable")
-
-
 class ResultPack(pydantic.BaseModel):
     """A set of results for CURIE analysis."""
 
     label: str
+    known_prefixes: Dict[str, Dict[str, str]] | None = None
     unknown_prefixes: Dict[str, Dict[str, str]]
     noncanonical_prefixes: Dict[str, Dict[str, str]]
     malformed_curies: Dict[str, List[str]]
@@ -124,11 +103,11 @@ class Results(pydantic.BaseModel):
     """A package of assessment on a single graph."""
 
     graph_id: str
-    version_iri: Optional[str] = None
     version: Optional[str] = None
-    xref_pack: ResultPack
-    prov_pack: ResultPack
-    synonym_pack: ResultPack
+    version_iri: Optional[str] = None
+    xref_pack: ResultPack | None = None
+    prov_pack: ResultPack | None = None
+    synonym_pack: ResultPack | None = None
     # edge_pack: ResultPack
 
     def to_markdown(self):
@@ -138,13 +117,13 @@ class Results(pydantic.BaseModel):
 
 Graph Identifier: {self.graph_id}
 
-Graph Version: {self.version}/{self.version_iri}
+Graph Version: {self.version}/{self.version_iri or ""}
 
-{self.xref_pack.to_markdown()}
+{self.xref_pack.to_markdown() if self.xref_pack else ""}
 
-{self.prov_pack.to_markdown()}
+{self.prov_pack.to_markdown() if self.prov_pack else ""}
 
-{self.synonym_pack.to_markdown()}
+{self.synonym_pack.to_markdown() if self.prov_pack else ""}
         """
 
 
@@ -182,42 +161,62 @@ def analyze_by_prefix(
     prefix: str, *, cache: bool = False, iri_filter: Optional[str] = None
 ) -> AnalysisResults:
     """Analyze an ontology based on a given Bioregistry prefix."""
-    parse_results = get_obograph_by_prefix(prefix, cache=cache or prefix in DOWNLOAD_BEFORE_PARSING)
-    if parse_results.graph_document is None:
-        return AnalysisResults(
-            results={},
-            messages=parse_results.messages,
-        )
-    return AnalysisResults(
-        results=analyze_graphs(
-            parse_results.graph_document, iri_filter=iri_filter, iri=parse_results.iri
-        ),
-        messages=parse_results.messages,
-    )
+    url = bioregistry.get_json_download(prefix)
+    if url:
+        if cache:
+            try:
+                path = CACHE_MODULE.ensure(url=url)
+            except pystow.utils.DownloadError:
+                tqdm.write(f"[{prefix} (json)] failed to download {url}")
+            else:
+                return analyze_by_path(path, iri_filter=iri_filter)
+        else:
+            return analyze_by_iri(url, iri_filter=iri_filter)
+
+    from bioontologies.robot import convert
+
+    for part, url in [
+        ("owl", bioregistry.get_owl_download(prefix)),
+        ("obo", bioregistry.get_obo_download(prefix)),
+        ("ttl", bioregistry.get_rdf_download(prefix)),
+    ]:
+        if url is None:
+            continue
+        json_path = CACHE_MODULE.join(name=f"{prefix}.json")
+        if not cache:
+            # the convert command can take in a URL directly.
+            path = url
+        elif json_path.is_file():
+            return analyze_by_path(json_path, iri_filter=iri_filter)
+        else:
+            try:
+                path = CACHE_MODULE.ensure(url=url)
+            except pystow.utils.DownloadError:
+                tqdm.write(f"[{prefix} ({part})] failed to download {url}")
+                continue
+        try:
+            convert(path, json_path)
+        except Exception:
+            tqdm.write(f"[{prefix} ({part})] failed to convert")
+        else:
+            return analyze_by_path(json_path, iri_filter=iri_filter)
+
+    return AnalysisResults()
 
 
 def analyze_by_path(path: Union[str, Path], *, iri_filter: Optional[str] = None) -> AnalysisResults:
     """Analyze an ontology at a given IRI."""
-    path = Path(path).resolve()
-    parse_results = convert_to_obograph_local(path)
-    if parse_results.messages:
-        secho(f"Output from parsing {path}", fg="blue")
-        secho("\n".join(parse_results.messages), fg="blue")
+    graph_document = obographs.read(path, squeeze=False)
     return AnalysisResults(
-        results=analyze_graphs(parse_results.graphs, iri_filter=iri_filter),
-        messages=parse_results.messages,
+        results=analyze_graphs(graph_document, iri_filter=iri_filter),
     )
 
 
 def analyze_by_iri(iri: str, *, iri_filter: Optional[str] = None) -> AnalysisResults:
     """Analyze an ontology at a given IRI."""
-    parse_results = convert_to_obograph_remote(iri)
-    if parse_results.messages:
-        secho(f"Output from parsing {iri}", fg="blue")
-        secho("\n".join(parse_results.messages), fg="blue")
+    graph_document = obographs.read(iri, squeeze=False)
     return AnalysisResults(
-        results=analyze_graphs(parse_results.graphs, iri_filter=iri_filter, iri=iri),
-        messages=parse_results.messages,
+        results=analyze_graphs(graph_document, iri_filter=iri_filter, iri=iri),
     )
 
 
@@ -226,7 +225,7 @@ class MissingGraphIRI(KeyError):
 
 
 def analyze_graphs(
-    graph_document: GraphDocument,
+    graph_document: obographs.GraphDocument,
     *,
     iri_filter: Optional[str] = None,
     iri: Optional[str] = None,
@@ -245,7 +244,7 @@ def analyze_graphs(
         return {r.graph_id: r for r in results}
 
 
-def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
+def analyze_graph(graph: obographs.Graph, *, iri_filter: Optional[str] = None) -> Results:
     """Analyze a single graph."""
     node_xref_pack = PrePack("Node Xrefs")
     prov_xref_pack = PrePack("Provenance Xrefs")
@@ -264,11 +263,10 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
         if node_meta is None:
             continue
 
-        node_xrefs = node_meta.xrefs
-        for node_xref_dict in node_xrefs or []:
-            node_xref_pack.aggregate_curie_issues(node_id, node_xref_dict.value_raw)
+        for node_xref in node_meta.xrefs or []:
+            node_xref_pack.aggregate_curie_issues(node_id, node_xref.val)
 
-        definition_xrefs = node_meta.definition and node_meta.definition.xrefs_raw
+        definition_xrefs = node_meta.definition and node_meta.definition.xrefs
         for prov_xref_curie in definition_xrefs or []:
             prov_xref_pack.aggregate_curie_issues(
                 node_id=node_id,
@@ -276,7 +274,7 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
             )
 
         for synonym in node_meta.synonyms or []:
-            for synonym_xref_curie in synonym.xrefs_raw or []:
+            for synonym_xref_curie in synonym.xrefs or []:
                 syn_xref_pack.aggregate_curie_issues(
                     node_id=node_id,
                     curie=synonym_xref_curie,
@@ -299,8 +297,7 @@ def analyze_graph(graph: Graph, *, iri_filter: Optional[str] = None) -> Results:
 
     return Results(
         graph_id=graph.id,
-        version=graph.version,
-        version_iri=graph.version_iri,
+        version_iri=graph.meta.version if graph.meta else None,
         xref_pack=node_xref_pack.finalize(),
         prov_pack=prov_xref_pack.finalize(),
         synonym_pack=syn_xref_pack.finalize(),
@@ -314,6 +311,7 @@ class PrePack:
     def __init__(self, label: str):
         """Initialize the pre-results pack."""
         self.label = label
+        self.known_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
         self.unknown_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
         self.noncanonical_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
         self.malformed_curies: DefaultDict[str, Set[str]] = defaultdict(set)
@@ -330,6 +328,7 @@ class PrePack:
             node_id,
             curie,
             self.malformed_curies,
+            self.known_prefixes,
             self.unknown_prefixes,
             self.noncanonical_prefixes,
             self.invalid_luids,
@@ -340,6 +339,7 @@ class PrePack:
         """Finalize the results pack."""
         return ResultPack(
             label=self.label,
+            known_prefixes=self.known_prefixes,
             unknown_prefixes=dict(self.unknown_prefixes),
             malformed_curies=_canonicalize_dict(self.malformed_curies),
             noncanonical_prefixes=dict(self.noncanonical_prefixes),
@@ -366,6 +366,7 @@ def _aggregate_curie_issues(
     node_id,
     curie,
     malformed_curies,
+    known_prefixes,
     unknown_prefixes,
     noncanonical_prefixes,
     invalid_luids,

@@ -22,7 +22,6 @@ from .api import (
     MissingGraphIRI,
     NoParsableURIs,
     analyze_by_prefix,
-    extended_encoder,
     secho,
 )
 
@@ -36,6 +35,7 @@ TEMPLATES = HERE.joinpath("templates")
 ROOT = HERE.parent.parent.resolve()
 DOCS = ROOT.joinpath("docs")
 RESULTS = ROOT.joinpath("results")
+RESULTS.mkdir(exist_ok=True)
 FAILURES_PATH = DOCS.joinpath("failures.md")
 
 environment = jinja2.Environment(
@@ -54,16 +54,17 @@ TEST_ONTOLOGIES = {"mondo", "go", "so"}
 @click.command()
 @force_option
 @click.option("--minimum")
+@click.option("--cache", is_flag=True)
 @click.option(
     "--test",
     is_flag=True,
     help=f"Run on a small test set of ontologies ({', '.join(sorted(TEST_ONTOLOGIES))})",
 )
 @verbose_option
-def lsa(force: bool, minimum: Optional[str], test: bool):
+def lsa(force: bool, minimum: Optional[str], test: bool, cache: bool):
     """Run large-scale ontology analysis."""
     with logging_redirect_tqdm():
-        _lsa(force=force, minimum=minimum, test=test)
+        _lsa(force=force, minimum=minimum, test=test, cache=cache)
 
 
 @click.command()
@@ -73,7 +74,14 @@ def lsa_artifacts():
     _generate_artifacts()
 
 
-def _lsa(force: bool, minimum: Optional[str], test: bool = False, skip_messages: bool = True):
+def _lsa(
+    *,
+    force: bool,
+    minimum: Optional[str],
+    test: bool = False,
+    skip_messages: bool = True,
+    cache: bool,
+):
     rows = sorted(
         (
             prefix,
@@ -125,11 +133,7 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False, skip_messages:
 
         analysis_path = RESULTS.joinpath(prefix).with_suffix(".json")
         if analysis_path.is_file() and not force:
-            tqdm.write(f"loading results from {analysis_path}")
-            analysis_results = {
-                k: AnalysisResults.parse_obj(v)
-                for k, v in json.loads(analysis_path.read_text()).items()
-            }
+            analysis_results = AnalysisResults.model_validate_json(analysis_path.read_text())
         else:
             _iri_filter = iri_filter or CUSTOM_FILTERS.get(prefix)
             _obo = " (obo)" if bioregistry.get_obofoundry_prefix(prefix) else ""
@@ -139,7 +143,7 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False, skip_messages:
             tqdm.write(text)
             analysis_results = None
             try:
-                analysis_results = analyze_by_prefix(prefix, iri_filter=_iri_filter)
+                analysis_results = analyze_by_prefix(prefix, iri_filter=_iri_filter, cache=cache)
             except urllib.error.URLError:
                 failure_text = "Could not be downloaded"
                 _failure(prefix=prefix, text=failure_text)
@@ -167,11 +171,14 @@ def _lsa(force: bool, minimum: Optional[str], test: bool = False, skip_messages:
                 # tqdm.write(f"writing {prefix} to {analysis_path}")
                 analysis_path.write_text(
                     json.dumps(
-                        analysis_results,
+                        analysis_results.model_dump(
+                            exclude_unset=True,
+                            exclude_none=True,
+                            exclude_defaults=True,
+                        ),
                         indent=2,
                         sort_keys=True,
                         ensure_ascii=False,
-                        default=extended_encoder,
                     )
                 )
 
