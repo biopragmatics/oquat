@@ -7,7 +7,6 @@ import logging
 import random
 import re
 import sys
-import tempfile
 from collections import defaultdict
 from functools import lru_cache
 from operator import itemgetter
@@ -104,7 +103,7 @@ class Results(pydantic.BaseModel):
     """A package of assessment on a single graph."""
 
     graph_id: str
-    version: Optional[str] = None
+    version_iri: Optional[str] = None
     xref_pack: ResultPack | None = None
     prov_pack: ResultPack | None = None
     synonym_pack: ResultPack | None = None
@@ -117,7 +116,7 @@ class Results(pydantic.BaseModel):
 
 Graph Identifier: {self.graph_id}
 
-Graph Version: {self.version}
+Graph Version IRI: {self.version_iri}
 
 {self.xref_pack.to_markdown() if self.xref_pack else ""}
 
@@ -164,26 +163,41 @@ def analyze_by_prefix(
     url = bioregistry.get_json_download(prefix)
     if url:
         if cache:
-            path = CACHE_MODULE.ensure(url=url)
-            return analyze_by_path(path, iri_filter=iri_filter)
-        return analyze_by_iri(url, iri_filter=iri_filter)
+            try:
+                path = CACHE_MODULE.ensure(url=url)
+            except pystow.utils.DownloadError:
+                tqdm.write(f"[{prefix} (json)] failed to download {url}")
+            else:
+                return analyze_by_path(path, iri_filter=iri_filter)
+        else:
+            return analyze_by_iri(url, iri_filter=iri_filter)
 
     from bioontologies.robot import convert
 
-    for _part, url in [
+    for part, url in [
         ("owl", bioregistry.get_owl_download(prefix)),
         ("obo", bioregistry.get_obo_download(prefix)),
+        ("ttl", bioregistry.get_rdf_download(prefix)),
     ]:
         if url is None:
             continue
-        if cache:
-            path = CACHE_MODULE.ensure(url=url)
-        else:
+        json_path = CACHE_MODULE.join(name=f"{prefix}.json")
+        if not cache:
             # the convert command can take in a URL directly.
             path = url
-        with tempfile.TemporaryDirectory() as directory:
-            json_path = Path(directory).joinpath(f"{prefix}.json")
+        elif json_path.is_file():
+            return analyze_by_path(json_path, iri_filter=iri_filter)
+        else:
+            try:
+                path = CACHE_MODULE.ensure(url=url)
+            except pystow.utils.DownloadError:
+                tqdm.write(f"[{prefix} ({part})] failed to download {url}")
+                continue
+        try:
             convert(path, json_path)
+        except Exception:
+            tqdm.write(f"[{prefix} ({part})] failed to convert")
+        else:
             return analyze_by_path(json_path, iri_filter=iri_filter)
 
     return AnalysisResults()
@@ -283,7 +297,7 @@ def analyze_graph(graph: obographs.Graph, *, iri_filter: Optional[str] = None) -
 
     return Results(
         graph_id=graph.id,
-        version=graph.meta.version if graph.meta else None,
+        version_iri=graph.meta.version if graph.meta else None,
         xref_pack=node_xref_pack.finalize(),
         prov_pack=prov_xref_pack.finalize(),
         synonym_pack=syn_xref_pack.finalize(),

@@ -25,10 +25,11 @@ def main():
         for graph_iri, graph in analysis_results.results.items():
             if "import" in graph_iri:
                 continue
-            graph_version = graph.version or ""
+            # TODO get graph version
+            graph_version = ""
             if graph_version:
                 graph_version = graph_version.replace("\n", " ")
-            version_iri = ""  # graph.version_iri or ""
+            version_iri = graph.version_iri or ""
 
             if obo_prefix:
                 if graph_iri != f"http://purl.obolibrary.org/obo/{obo_prefix.lower()}.owl":

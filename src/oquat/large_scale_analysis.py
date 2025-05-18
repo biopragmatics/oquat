@@ -133,11 +133,7 @@ def _lsa(
 
         analysis_path = RESULTS.joinpath(prefix).with_suffix(".json")
         if analysis_path.is_file() and not force:
-            tqdm.write(f"loading results from {analysis_path}")
-            analysis_results = {
-                k: AnalysisResults.model_validate(v)
-                for k, v in json.loads(analysis_path.read_text()).items()
-            }
+            analysis_results = AnalysisResults.model_validate_json(analysis_path.read_text())
         else:
             _iri_filter = iri_filter or CUSTOM_FILTERS.get(prefix)
             _obo = " (obo)" if bioregistry.get_obofoundry_prefix(prefix) else ""
