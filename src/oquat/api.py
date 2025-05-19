@@ -78,7 +78,7 @@ class ResultPack(pydantic.BaseModel):
         rows = []
         for key, values in xx.items():
             rows.append((key, len(values), random.choice(values)))  # noqa:S311
-        rows = sorted(rows, key=itemgetter(1), reverse=True)
+        rows = sorted(rows, key=lambda row: (row[1], row[0].casefold()), reverse=True)
         return len(rows), tabulate(
             rows, headers=["xref", "count", "example_node_id"], tablefmt="github"
         )
@@ -240,8 +240,6 @@ def _read(s: str | Path) -> GraphDocument:
 
         with tempfile.TemporaryDirectory() as d:
             json_path = Path(d).joinpath("temp.json")
-            json_path = Path.home().joinpath("Desktop", "mondo.json")
-            return obographs.read(json_path, squeeze=False)
             try:
                 convert(s, json_path)
             except Exception:
@@ -439,7 +437,7 @@ def _tabulate_dd(dd, name) -> tuple[int, str]:
     rows = []
     for key, values in dd.items():
         rows.append((key, len(values), *random.choice(list(values.items()))))  # noqa:S311
-    rows = sorted(rows, key=itemgetter(1), reverse=True)
+    rows = sorted(rows, key=lambda row: (row[1], row[0].casefold()), reverse=True)
     return len(rows), tabulate(
         rows, headers=[name, "count", "example_node_id", "example_xref"], tablefmt="github"
     )
