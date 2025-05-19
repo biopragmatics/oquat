@@ -1,5 +1,7 @@
 """Analyze invalid identifiers."""
 
+from __future__ import annotations
+
 import bioregistry
 from bioregistry.parse_version_iri import parse_obo_version_iri
 from tabulate import tabulate
@@ -41,7 +43,8 @@ def main():
 
             if obo_prefix:
                 if graph_iri != f"http://purl.obolibrary.org/obo/{obo_prefix.lower()}.owl":
-                    # skip this since there are potentially many graphs contained for a given OBO prefix
+                    # skip this since there are potentially many
+                    # graphs contained for a given OBO prefix
                     continue
                 if version_iri:
                     version_length, version_type, v = parse_obo_version_iri(version_iri, obo_prefix)
@@ -93,7 +96,13 @@ def main():
         "version",
         "version in iri",
     ]
-    full_headers = ["source", "graph_id", "graph_version", "graph_version_iri", "version_in_iri"]
+    full_headers = [
+        "source",
+        "graph_id",
+        "graph_version",
+        "graph_version_iri",
+        "version_in_iri",
+    ]
     INDEX_PATH.write_text(
         f"""\
 # OBO Analysis
@@ -104,7 +113,8 @@ table has the following columns:
 
 1. The prefix of the ontology
 2. Has a version IRI ({n_has_iri}/{n_obo}, {n_has_iri / n_obo:.1%})
-3. Has a version IRI that contains either a semantic version string or `YYYY-MM-DD` date version string
+3. Has a version IRI that contains either a semantic version string or
+   `YYYY-MM-DD` date version string
    ({n_iri_has_version}/{n_obo}, {n_iri_has_version / n_obo:.1%})
 4. Has a version IRI that follows the standard pattern
    `http://purl.obolibrary.org/obo/<prefix>/releases/<trailing stuff>` or

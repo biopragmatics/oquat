@@ -1,5 +1,7 @@
 """Analyze unknown prefixes."""
 
+from __future__ import annotations
+
 import random
 from collections import defaultdict
 from operator import itemgetter

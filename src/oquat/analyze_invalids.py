@@ -1,5 +1,7 @@
 """Analyze invalid identifiers."""
 
+from __future__ import annotations
+
 import random
 from collections import defaultdict
 from operator import itemgetter
@@ -57,10 +59,11 @@ def main() -> None:
         """\
     # Invalid Identifier Analysis
 
-    This analysis has been conducted across all ontologies listed in the Bioregistry by loading
-    them from source with ROBOT, converting to OBO Graph JSON, then looking through all nodes’
-    xrefs, nodes’ synonyms’ xrefs, and nodes’ definitions’ xrefs to see which ones make references
-    using identifiers that don't validate against patterns in the [Bioregistry](https://bioregistry.io).
+    This analysis has been conducted across all ontologies listed in the Bioregistry
+    by loading them from source with ROBOT, converting to OBO Graph JSON, then looking
+    through all nodes' xrefs, nodes' synonyms' xrefs, and nodes' definitions' xrefs to
+    see which ones make references using identifiers that don't validate against patterns
+    in the [Bioregistry](https://bioregistry.io).
 
     """
     )
