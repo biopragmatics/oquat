@@ -10,7 +10,6 @@ import sys
 import tempfile
 from collections import defaultdict
 from functools import lru_cache
-from operator import itemgetter
 from pathlib import Path
 from typing import DefaultDict, Dict, List, Optional, Set, Union
 
@@ -118,19 +117,20 @@ class Results(pydantic.BaseModel):
 
     def to_markdown(self) -> str:
         """Build a markdown string."""
-        return f"""\
-## Ontology Metadata
-
-Graph Identifier: {self.graph_id}
-
-Graph Version: {self.version}/{self.version_iri or ""}
-
-{self.xref_pack.to_markdown() if self.xref_pack else ""}
-
-{self.prov_pack.to_markdown() if self.prov_pack else ""}
-
-{self.synonym_pack.to_markdown() if self.synonym_pack else ""}
-        """
+        rows: list[str] = [
+            "## Ontology Metadata",
+        ]
+        if self.graph_id:
+            rows.append(f"Graph Identifier: {self.graph_id}")
+        if self.version or self.version_iri:
+            rows.append(f"Graph Version: {self.version}/{self.version_iri or ""}")
+        if self.xref_pack:
+            rows.append(self.xref_pack.to_markdown())
+        if self.prov_pack:
+            rows.append(self.prov_pack.to_markdown())
+        if self.synonym_pack:
+            rows.append(self.synonym_pack.to_markdown())
+        return "\n\n".join(rows).strip()
 
 
 def _wrap_table(table: str, n: int, max_n: int = 100) -> str:
