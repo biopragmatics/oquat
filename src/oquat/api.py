@@ -7,6 +7,7 @@ import logging
 import random
 import re
 import sys
+import tempfile
 from collections import defaultdict
 from functools import lru_cache
 from operator import itemgetter
@@ -19,6 +20,7 @@ import obographs
 import pydantic
 import pystow
 from more_click import verbose_option
+from obographs import GraphDocument
 from tabulate import tabulate
 from tqdm import tqdm
 
@@ -43,34 +45,32 @@ class ResultPack(pydantic.BaseModel):
     malformed_curies: Dict[str, List[str]]
     invalid_luids: Dict[str, List[str]]
 
-    def _malformed_curies_table(self):
+    def _malformed_curies_table(self) -> str:
         bvi = [
             (k, v) for k, values in sorted(self.malformed_curies.items()) for v in sorted(values)
         ]
         return tabulate(bvi, headers=["node_id", "xref"], tablefmt="github")
 
-    def _bad_values_md(self):
-        return f"""
-### {self.label} Invalid CURIE Syntax in Xref ({sum(len(values) for values in self.malformed_curies.values())})
+    def _bad_values_md(self) -> str:
+        table = self._malformed_curies_table()
+        table = _wrap_table(table, self.malformed_curies)
+        n = sum(len(values) for values in self.malformed_curies.values())
+        header = f"### {self.label} Invalid CURIE Syntax in Xref ({n:,})"
+        return header + "\n\n" + table + "\n\n"
 
-{self._malformed_curies_table()}
-"""
+    def _unknown_prefix_md(self) -> str:
+        table = _tabulate_dd(self.unknown_prefixes, name="prefix")
+        table = _wrap_table(table, self.unknown_prefixes)
+        header = f"### {self.label} Unknown Prefixes ({len(self.unknown_prefixes):,})"
+        return header + "\n\n" + table + "\n\n"
 
-    def _unknown_prefix_md(self):
-        return f"""
-### {self.label} Unknown Prefixes ({len(self.unknown_prefixes)})
+    def _noncanonical_prefix_md(self) -> str:
+        table = _tabulate_dd(self.noncanonical_prefixes, name="prefix")
+        table = _wrap_table(table, self.noncanonical_prefixes)
+        header = f"### {self.label} Non-canonical Prefixes ({len(self.noncanonical_prefixes):,})"
+        return header + "\n\n" + table + "\n\n"
 
-{_tabulate_dd(self.unknown_prefixes, name="prefix")}
-"""
-
-    def _noncanonical_prefix_md(self):
-        return f"""
-### {self.label} Non-canonical Prefixes ({len(self.noncanonical_prefixes)})
-
-{_tabulate_dd(self.noncanonical_prefixes, name="prefix")}
-        """
-
-    def _invalid_identifiers_table(self):
+    def _invalid_identifiers_table(self) -> str:
         bvi = [
             (node_id, xref)
             for node_id, xrefs in sorted(self.invalid_luids.items())
@@ -78,12 +78,12 @@ class ResultPack(pydantic.BaseModel):
         ]
         return tabulate(bvi, headers=["node_id", "xref"], tablefmt="github")
 
-    def _invalid_identifiers_md(self):
-        return f"""
-### {self.label} Invalid Identifiers ({sum(len(v) for v in self.invalid_luids.values())})
-
-{self._invalid_identifiers_table()}
-        """
+    def _invalid_identifiers_md(self) -> str:
+        table = self._invalid_identifiers_table()
+        table = _wrap_table(table, self.invalid_luids)
+        n = sum(len(v) for v in self.invalid_luids.values())
+        header = f"### {self.label} Invalid Identifiers ({n:,})"
+        return header + "\n\n" + table + "\n\n"
 
     def to_markdown(self) -> str:
         """Build a markdown string."""
@@ -108,9 +108,10 @@ class Results(pydantic.BaseModel):
     xref_pack: ResultPack | None = None
     prov_pack: ResultPack | None = None
     synonym_pack: ResultPack | None = None
+
     # edge_pack: ResultPack
 
-    def to_markdown(self):
+    def to_markdown(self) -> str:
         """Build a markdown string."""
         return f"""\
 ## Ontology Metadata
@@ -123,8 +124,14 @@ Graph Version: {self.version}/{self.version_iri or ""}
 
 {self.prov_pack.to_markdown() if self.prov_pack else ""}
 
-{self.synonym_pack.to_markdown() if self.prov_pack else ""}
+{self.synonym_pack.to_markdown() if self.synonym_pack else ""}
         """
+
+
+def _wrap_table(table: str, x, max_n: int = 25) -> str:
+    if len(x) > max_n:
+        return f"<details><summary>Details</summary>\n\n{table}\n\n</details>"
+    return table
 
 
 PROTOCOLS = {"http://", "https://"}
@@ -206,7 +213,7 @@ def analyze_by_prefix(
 
 def analyze_by_path(path: Union[str, Path], *, iri_filter: Optional[str] = None) -> AnalysisResults:
     """Analyze an ontology at a given IRI."""
-    graph_document = obographs.read(path, squeeze=False)
+    graph_document = _read(Path(path).expanduser().resolve())
     return AnalysisResults(
         results=analyze_graphs(graph_document, iri_filter=iri_filter),
     )
@@ -214,10 +221,30 @@ def analyze_by_path(path: Union[str, Path], *, iri_filter: Optional[str] = None)
 
 def analyze_by_iri(iri: str, *, iri_filter: Optional[str] = None) -> AnalysisResults:
     """Analyze an ontology at a given IRI."""
-    graph_document = obographs.read(iri, squeeze=False)
+    graph_document = _read(iri)
     return AnalysisResults(
         results=analyze_graphs(graph_document, iri_filter=iri_filter, iri=iri),
     )
+
+
+def _read(s: str | Path) -> GraphDocument:
+    if str(s).endswith(".json"):
+        return obographs.read(s, squeeze=False)
+    elif any(str(s).endswith(x) for x in (".obo", ".owl", ".ttl")):
+        from bioontologies.robot import convert
+
+        with tempfile.TemporaryDirectory() as d:
+            json_path = Path(d).joinpath("temp.json")
+            try:
+                convert(s, json_path)
+            except Exception:
+                tqdm.write(f"failed to convert {s}")
+                raise
+            else:
+                rv = obographs.read(json_path, squeeze=False)
+        return rv
+    else:
+        raise ValueError(f"Invalid file extension: {s}")
 
 
 class MissingGraphIRI(KeyError):
@@ -427,11 +454,19 @@ def coalesce_filters(prefix, iri_filter, obo_filter):
 
 
 @click.command()
-@click.option("--iri")
-@click.option("--prefix")
-@click.option("--path", type=Path)
-@click.option("--cache", is_flag=True)
-@click.option("--iri-filter")
+@click.option("--iri", help="The IRI for an OBO Graph JSON, OBO, or OWL file")
+@click.option(
+    "--prefix",
+    help="The prefix for the ontology. If given without an --iri or --path, "
+    "will use the Bioregistry to find an appropriate IRI",
+)
+@click.option("--path", type=Path, help="The path to a local OBO Graph JSON, OBO, or OWL file")
+@click.option("--cache", is_flag=True, help="Should a cache be used?")
+@click.option(
+    "--iri-filter",
+    help="The URI prefix for terms in the ontology, e.g., "
+    "`http://purl.obolibrary.org/obo/MONDO_` for the `mondo` ontology",
+)
 @click.option("-o", "--obo-filter", is_flag=True)
 @verbose_option
 def analyze(
@@ -441,18 +476,18 @@ def analyze(
     cache: bool,
     iri_filter: Optional[str],
     obo_filter: bool,
-):
+) -> None:
     """Analyze a given ontology."""
     analysis_results: AnalysisResults
 
-    if 1 != sum(arg is not None for arg in (iri, prefix, path)):
-        secho("Can only pass one of --iri, --prefix, and --path")
-        return sys.exit(-1)
+    if iri and path:
+        secho("Can only pass one of --iri or  --path")
+        raise sys.exit(-1)
     elif path is not None:
         path = path.resolve()
         if not path.is_file():
             secho(f"File does not exist: {path}")
-            return sys.exit(-1)
+            raise sys.exit(-1)
         analysis_results = analyze_by_path(path, iri_filter=iri_filter)
     elif iri is not None:
         analysis_results = analyze_by_iri(iri, iri_filter=iri_filter)
@@ -460,12 +495,12 @@ def analyze(
         norm_prefix = bioregistry.normalize_prefix(prefix)
         if norm_prefix is None:
             secho(f"An invalid Bioregistry prefix was given: {prefix}")
-            return sys.exit(-1)
+            raise sys.exit(-1)
         iri_filter = coalesce_filters(norm_prefix, iri_filter, obo_filter)
         analysis_results = analyze_by_prefix(prefix, cache=cache, iri_filter=iri_filter)
     else:
         # This can't happen
-        return sys.exit(-1)
+        raise sys.exit(-1)
 
     result_str = "\n".join(v.to_markdown() for v in analysis_results.results.values())
     if prefix is not None:
