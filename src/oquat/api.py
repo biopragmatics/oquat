@@ -45,42 +45,47 @@ class ResultPack(pydantic.BaseModel):
     malformed_curies: Dict[str, List[str]]
     invalid_luids: Dict[str, List[str]]
 
-    def _malformed_curies_table(self) -> str:
-        bvi = [
+    def _malformed_curies_table(self) -> tuple[int, str]:
+        rows = [
             (k, v) for k, values in sorted(self.malformed_curies.items()) for v in sorted(values)
         ]
-        return tabulate(bvi, headers=["node_id", "xref"], tablefmt="github")
+        return len(rows), tabulate(rows, headers=["node_id", "xref"], tablefmt="github")
 
     def _bad_values_md(self) -> str:
-        table = self._malformed_curies_table()
-        table = _wrap_table(table, self.malformed_curies)
+        n, table = self._malformed_curies_table()
+        table = _wrap_table(table, n)
         n = sum(len(values) for values in self.malformed_curies.values())
         header = f"### {self.label} Invalid CURIE Syntax in Xref ({n:,})"
         return header + "\n\n" + table + "\n\n"
 
     def _unknown_prefix_md(self) -> str:
-        table = _tabulate_dd(self.unknown_prefixes, name="prefix")
-        table = _wrap_table(table, self.unknown_prefixes)
+        n, table = _tabulate_dd(self.unknown_prefixes, name="prefix")
+        table = _wrap_table(table, n)
         header = f"### {self.label} Unknown Prefixes ({len(self.unknown_prefixes):,})"
         return header + "\n\n" + table + "\n\n"
 
     def _noncanonical_prefix_md(self) -> str:
-        table = _tabulate_dd(self.noncanonical_prefixes, name="prefix")
-        table = _wrap_table(table, self.noncanonical_prefixes)
+        n, table = _tabulate_dd(self.noncanonical_prefixes, name="prefix")
+        table = _wrap_table(table, n)
         header = f"### {self.label} Non-canonical Prefixes ({len(self.noncanonical_prefixes):,})"
         return header + "\n\n" + table + "\n\n"
 
-    def _invalid_identifiers_table(self) -> str:
-        bvi = [
-            (node_id, xref)
-            for node_id, xrefs in sorted(self.invalid_luids.items())
-            for xref in sorted(xrefs)
-        ]
-        return tabulate(bvi, headers=["node_id", "xref"], tablefmt="github")
+    def _invalid_identifiers_table(self) -> tuple[int, str]:
+        xx = defaultdict(list)
+        for node_id, xrefs in self.invalid_luids.items():
+            for xref in xrefs:
+                xx[xref].append(node_id)
+        rows = []
+        for key, values in xx.items():
+            rows.append((key, len(values), random.choice(values)))  # noqa:S311
+        rows = sorted(rows, key=itemgetter(1), reverse=True)
+        return len(rows), tabulate(
+            rows, headers=["xref", "count", "example_node_id"], tablefmt="github"
+        )
 
     def _invalid_identifiers_md(self) -> str:
-        table = self._invalid_identifiers_table()
-        table = _wrap_table(table, self.invalid_luids)
+        n, table = self._invalid_identifiers_table()
+        table = _wrap_table(table, n)
         n = sum(len(v) for v in self.invalid_luids.values())
         header = f"### {self.label} Invalid Identifiers ({n:,})"
         return header + "\n\n" + table + "\n\n"
@@ -128,8 +133,8 @@ Graph Version: {self.version}/{self.version_iri or ""}
         """
 
 
-def _wrap_table(table: str, x, max_n: int = 25) -> str:
-    if len(x) > max_n:
+def _wrap_table(table: str, n: int, max_n: int = 100) -> str:
+    if n > max_n:
         return f"<details><summary>Details</summary>\n\n{table}\n\n</details>"
     return table
 
@@ -235,6 +240,8 @@ def _read(s: str | Path) -> GraphDocument:
 
         with tempfile.TemporaryDirectory() as d:
             json_path = Path(d).joinpath("temp.json")
+            json_path = Path.home().joinpath("Desktop", "mondo.json")
+            return obographs.read(json_path, squeeze=False)
             try:
                 convert(s, json_path)
             except Exception:
@@ -428,12 +435,12 @@ def _aggregate_curie_issues(
         invalid_luids[node_id].add(curie)
 
 
-def _tabulate_dd(dd, name) -> str:
+def _tabulate_dd(dd, name) -> tuple[int, str]:
     rows = []
     for key, values in dd.items():
         rows.append((key, len(values), *random.choice(list(values.items()))))  # noqa:S311
     rows = sorted(rows, key=itemgetter(1), reverse=True)
-    return tabulate(
+    return len(rows), tabulate(
         rows, headers=[name, "count", "example_node_id", "example_xref"], tablefmt="github"
     )
 
@@ -502,7 +509,7 @@ def analyze(
         # This can't happen
         raise sys.exit(-1)
 
-    result_str = "\n".join(v.to_markdown() for v in analysis_results.results.values())
+    result_str = "\n".join(v.to_markdown() for v in analysis_results.results.values()).strip()
     if prefix is not None:
         output_path = pystow.join("oquat", name=f"{prefix}.md")
         output_path.write_text(result_str)
