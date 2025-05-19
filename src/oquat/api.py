@@ -123,7 +123,7 @@ class Results(pydantic.BaseModel):
         if self.graph_id:
             rows.append(f"Graph Identifier: {self.graph_id}")
         if self.version or self.version_iri:
-            rows.append(f"Graph Version: {self.version}/{self.version_iri or ""}")
+            rows.append(f"Graph Version: {self.version}/{self.version_iri}")
         if self.xref_pack:
             rows.append(self.xref_pack.to_markdown())
         if self.prov_pack:
