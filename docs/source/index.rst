@@ -1,18 +1,18 @@
-Ontology Quality Assessment Toolkit |release| Documentation
-===========================================================
-Table of Contents
------------------
-.. toctree::
-   :maxdepth: 2
-   :caption: Getting Started
-   :name: start
+Ontology Quality Assessment |release| Documentation
+===================================================
 
-   installation
-   usage
-   cli
+.. toctree::
+    :maxdepth: 2
+    :caption: Getting Started
+    :name: start
+
+    installation
+    usage
+    cli
 
 Indices and Tables
 ------------------
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+- :ref:`genindex`
+- :ref:`modindex`
+- :ref:`search`
