@@ -85,7 +85,7 @@ typing = [
     { include-group = "tests" },
     "mypy",
     "pydantic",
-    # You will probably have to add additional type stubs here, especially if you're using tox-uv
+    "types-tabulate",
 ]
 docs-lint = [
     { include-group = "docs" },
@@ -213,6 +213,9 @@ extend-select = [
 ignore = [
     "D105", # Missing docstring in magic method
     "E203", # Black conflicts with the following
+    "C901",
+    "ERA001",
+    "S311",
 ]
 
 # See https://docs.astral.sh/ruff/settings/#per-file-ignores

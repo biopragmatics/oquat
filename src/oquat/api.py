@@ -169,6 +169,8 @@ def analyze_by_prefix(
     prefix: str, *, cache: bool = False, iri_filter: str | None = None
 ) -> AnalysisResults:
     """Analyze an ontology based on a given Bioregistry prefix."""
+    path: str | Path
+
     url = bioregistry.get_json_download(prefix)
     if url:
         if cache:
@@ -335,7 +337,7 @@ def analyze_graph(graph: obographs.Graph, *, iri_filter: str | None = None) -> R
 class PrePack:
     """A pre-results pack for aggregating then finalizing."""
 
-    def __init__(self, label: str):
+    def __init__(self, label: str) -> None:
         """Initialize the pre-results pack."""
         self.label = label
         self.known_prefixes: defaultdict[str, dict[str, str]] = defaultdict(dict)
@@ -349,7 +351,7 @@ class PrePack:
         node_id: str,
         curie: str,
         track_non_curies: bool = True,
-    ):
+    ) -> None:
         """Add an issue with a CURIE."""
         _aggregate_curie_issues(
             node_id,
@@ -362,7 +364,7 @@ class PrePack:
             track_non_curies=track_non_curies,
         )
 
-    def finalize(self):
+    def finalize(self) -> ResultPack:
         """Finalize the results pack."""
         return ResultPack(
             label=self.label,

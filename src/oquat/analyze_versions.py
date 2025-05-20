@@ -21,7 +21,7 @@ def _boolean(version_length: bool) -> str:
     return TRUE_ICON if version_length else FALSE_ICON
 
 
-def main():
+def main() -> None:
     """Analyze invalid identifiers."""
     INDEX_PATH.unlink(missing_ok=True)
 
@@ -48,8 +48,8 @@ def main():
                     continue
                 if version_iri:
                     version_length, version_type, v = parse_obo_version_iri(version_iri, obo_prefix)
-                    standard_version_iri = _boolean(version_length)
-                    versioned_version_iri = _boolean(version_type)
+                    standard_version_iri = _boolean(version_length is not None)
+                    versioned_version_iri = _boolean(version_type is not None)
                     if version:
                         version_in_version_iri = _boolean(version == v)
                     else:

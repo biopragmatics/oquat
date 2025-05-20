@@ -60,7 +60,7 @@ TEST_ONTOLOGIES = {"mondo", "go", "so"}
     help=f"Run on a small test set of ontologies ({', '.join(sorted(TEST_ONTOLOGIES))})",
 )
 @verbose_option
-def lsa(force: bool, minimum: str | None, test: bool, cache: bool):
+def lsa(force: bool, minimum: str | None, test: bool, cache: bool) -> None:
     """Run large-scale ontology analysis."""
     with logging_redirect_tqdm():
         _lsa(force=force, minimum=minimum, test=test, cache=cache)
@@ -68,7 +68,7 @@ def lsa(force: bool, minimum: str | None, test: bool, cache: bool):
 
 @click.command()
 @verbose_option
-def lsa_artifacts():
+def lsa_artifacts() -> None:
     """Generate large-scale ontology analysis artifacts, run only after full `lsa` command."""
     _generate_artifacts()
 
@@ -80,7 +80,7 @@ def _lsa(
     test: bool = False,
     skip_messages: bool = True,
     cache: bool,
-):
+) -> None:
     rows = sorted(
         (
             prefix,
@@ -195,7 +195,7 @@ def _lsa(
         _generate_artifacts()
 
 
-def _generate_artifacts():
+def _generate_artifacts() -> None:
     from . import analyze_invalids, analyze_unknowns, analyze_versions
 
     analyze_invalids.main()
