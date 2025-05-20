@@ -1,0 +1,30 @@
+{
+  "template": "https://github.com/cthoyt/cookiecutter-snekpack",
+  "commit": "a7158e57f8bf1b1e2e779495f82441682a2745d9",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "package_name": "oquat",
+      "package_name_stylized": "Ontology Quality Assessment",
+      "short_description": "Assess the quality of biomedical ontologies",
+      "author_name": "Charles Tapley Hoyt",
+      "author_github": "cthoyt",
+      "author_email": "cthoyt@gmail.com",
+      "github_organization_name": "biopragmatics",
+      "github_repository_name": "oquat",
+      "command_line_interface": true,
+      "gitlab": false,
+      "runner": "tox",
+      "__not_charlie": "",
+      "__runner": "tox -e",
+      "__runner_uv": "--with tox-uv tox -e",
+      "__runner_pip": "tox tox-uv",
+      "__runner_install_uv": "uv tool install tox --with tox-uv",
+      "__runner_install_pip": "python3 -m pip install tox tox-uv",
+      "__runner_tests": "py",
+      "__gh_slug": "biopragmatics/oquat",
+      "_template": "https://github.com/cthoyt/cookiecutter-snekpack"
+    }
+  },
+  "directory": null
+}

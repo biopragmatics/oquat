@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
-
 """Ontology analysis."""
+
+from __future__ import annotations
 
 import datetime
 import logging
@@ -9,9 +9,8 @@ import re
 import sys
 import tempfile
 from collections import defaultdict
-from functools import lru_cache
+from functools import cache
 from pathlib import Path
-from typing import DefaultDict, Dict, List, Optional, Set, Union
 
 import bioregistry
 import click
@@ -27,6 +26,7 @@ logger = logging.getLogger(__name__)
 
 DOWNLOAD_BEFORE_PARSING = {"caloha", "genepio"}
 CACHE_MODULE = pystow.module("oquat", "data")
+TZ_RE = re.compile(r"\d{4}-\d{2}-\d{2}T\d{2}")
 
 
 def secho(s: str, fg=None) -> None:
@@ -38,11 +38,11 @@ class ResultPack(pydantic.BaseModel):
     """A set of results for CURIE analysis."""
 
     label: str
-    known_prefixes: Dict[str, Dict[str, str]] | None = None
-    unknown_prefixes: Dict[str, Dict[str, str]]
-    noncanonical_prefixes: Dict[str, Dict[str, str]]
-    malformed_curies: Dict[str, List[str]]
-    invalid_luids: Dict[str, List[str]]
+    known_prefixes: dict[str, dict[str, str]] | None = None
+    unknown_prefixes: dict[str, dict[str, str]]
+    noncanonical_prefixes: dict[str, dict[str, str]]
+    malformed_curies: dict[str, list[str]]
+    invalid_luids: dict[str, list[str]]
 
     def _malformed_curies_table(self) -> tuple[int, str]:
         rows = [
@@ -76,7 +76,7 @@ class ResultPack(pydantic.BaseModel):
                 xx[xref].append(node_id)
         rows = []
         for key, values in xx.items():
-            rows.append((key, len(values), random.choice(values)))  # noqa:S311
+            rows.append((key, len(values), random.choice(values)))
         rows = sorted(rows, key=lambda row: (row[1], row[0].casefold()), reverse=True)
         return len(rows), tabulate(
             rows, headers=["xref", "count", "example_node_id"], tablefmt="github"
@@ -107,13 +107,12 @@ class Results(pydantic.BaseModel):
     """A package of assessment on a single graph."""
 
     graph_id: str
-    version: Optional[str] = None
-    version_iri: Optional[str] = None
+    version: str | None = None
+    version_iri: str | None = None
     xref_pack: ResultPack | None = None
     prov_pack: ResultPack | None = None
     synonym_pack: ResultPack | None = None
-
-    # edge_pack: ResultPack
+    prop_pack: ResultPack | None = None
 
     def to_markdown(self) -> str:
         """Build a markdown string."""
@@ -124,12 +123,9 @@ class Results(pydantic.BaseModel):
             rows.append(f"Graph Identifier: {self.graph_id}")
         if self.version or self.version_iri:
             rows.append(f"Graph Version: {self.version}/{self.version_iri}")
-        if self.xref_pack:
-            rows.append(self.xref_pack.to_markdown())
-        if self.prov_pack:
-            rows.append(self.prov_pack.to_markdown())
-        if self.synonym_pack:
-            rows.append(self.synonym_pack.to_markdown())
+        for pack in [self.xref_pack, self.prov_pack, self.synonym_pack, self.prop_pack]:
+            if pack:
+                rows.append(pack.to_markdown())
         return "\n\n".join(rows).strip()
 
 
@@ -157,22 +153,24 @@ NONCANONICAL_EXCEPTIONS = {
 }
 
 
-class NoParsableURIs(ValueError):
+class NoParsableURIsError(ValueError):
     """Raised when none of the URIs work."""
 
 
 class AnalysisResults(pydantic.BaseModel):
     """Results from analysis and messages from the journey."""
 
-    results: Dict[str, Results] = pydantic.Field(default_factory=dict)
-    messages: List[str] = pydantic.Field(default_factory=list)
+    results: dict[str, Results] = pydantic.Field(default_factory=dict)
+    messages: list[str] = pydantic.Field(default_factory=list)
     created: datetime.datetime = pydantic.Field(default_factory=datetime.datetime.now)
 
 
 def analyze_by_prefix(
-    prefix: str, *, cache: bool = False, iri_filter: Optional[str] = None
+    prefix: str, *, cache: bool = False, iri_filter: str | None = None
 ) -> AnalysisResults:
     """Analyze an ontology based on a given Bioregistry prefix."""
+    path: str | Path
+
     url = bioregistry.get_json_download(prefix)
     if url:
         if cache:
@@ -216,7 +214,7 @@ def analyze_by_prefix(
     return AnalysisResults()
 
 
-def analyze_by_path(path: Union[str, Path], *, iri_filter: Optional[str] = None) -> AnalysisResults:
+def analyze_by_path(path: str | Path, *, iri_filter: str | None = None) -> AnalysisResults:
     """Analyze an ontology at a given IRI."""
     graph_document = _read(Path(path).expanduser().resolve())
     return AnalysisResults(
@@ -224,7 +222,7 @@ def analyze_by_path(path: Union[str, Path], *, iri_filter: Optional[str] = None)
     )
 
 
-def analyze_by_iri(iri: str, *, iri_filter: Optional[str] = None) -> AnalysisResults:
+def analyze_by_iri(iri: str, *, iri_filter: str | None = None) -> AnalysisResults:
     """Analyze an ontology at a given IRI."""
     graph_document = _read(iri)
     return AnalysisResults(
@@ -252,36 +250,36 @@ def _read(s: str | Path) -> GraphDocument:
         raise ValueError(f"Invalid file extension: {s}")
 
 
-class MissingGraphIRI(KeyError):
+class MissingGraphIRIError(KeyError):
     """Raised for graphs with no IRI."""
 
 
 def analyze_graphs(
     graph_document: obographs.GraphDocument,
     *,
-    iri_filter: Optional[str] = None,
-    iri: Optional[str] = None,
-) -> Dict[str, Results]:
+    iri_filter: str | None = None,
+    iri: str | None = None,
+) -> dict[str, Results]:
     """Analyze an ontology that's pre-parsed into an OBO graph."""
     results = [analyze_graph(graph, iri_filter=iri_filter) for graph in graph_document.graphs]
     if len(results) == 1 and not results[0].graph_id:
         if iri is None:
-            raise MissingGraphIRI
+            raise MissingGraphIRIError
         # if there's only one graph and it's missing an ID, then let it pass
         logger.warning("missing graph IRI, using %s", iri)
         return {iri: results[0]}
     elif not all(r.graph_id for r in results):
-        raise MissingGraphIRI
+        raise MissingGraphIRIError
     else:
         return {r.graph_id: r for r in results}
 
 
-def analyze_graph(graph: obographs.Graph, *, iri_filter: Optional[str] = None) -> Results:
+def analyze_graph(graph: obographs.Graph, *, iri_filter: str | None = None) -> Results:
     """Analyze a single graph."""
     node_xref_pack = PrePack("Node Xrefs")
     prov_xref_pack = PrePack("Provenance Xrefs")
     syn_xref_pack = PrePack("Synonym Xrefs")
-    # edge_pack = PrePack("Edges")
+    node_prop_pack = PrePack("Node Properties")
 
     # if graph.id is None:
     #     # this is the URI for the ontology, e.g. "http://purl.obolibrary.org/obo/go.owl"
@@ -315,17 +313,16 @@ def analyze_graph(graph: obographs.Graph, *, iri_filter: Optional[str] = None) -
                     track_non_curies=False,
                 )
 
-        # for prop in node_meta.get("basicPropertyValues", []):
-        #     pass
-
-    # for edge in tqdm(graph.edges, unit_scale=True, unit="edge", leave=False):
-    #     if iri_filter and not edge.sub.startswith(iri_filter):
-    #         continue
-    #     if edge.pred != "is_a":
-    #         secho(str(edge))
-    #     edge_pack.aggregate_curie_issues(edge.sub, edge.sub)
-    #     edge_pack.aggregate_curie_issues(edge.sub, edge.pred)
-    #     edge_pack.aggregate_curie_issues(edge.sub, edge.obj)
+        for prop in node_meta.basicPropertyValues or []:
+            node_prop_pack.aggregate_curie_issues(node_id=node_id, curie=prop.pred)
+            if prop.val:
+                node_prop_pack.aggregate_curie_issues(
+                    node_id=node_id,
+                    curie=prop.val,
+                    # A lot of times they stick random stuff
+                    # in here that aren't CURIEs
+                    track_non_curies=False,
+                )
 
     return Results(
         graph_id=graph.id,
@@ -333,28 +330,28 @@ def analyze_graph(graph: obographs.Graph, *, iri_filter: Optional[str] = None) -
         xref_pack=node_xref_pack.finalize(),
         prov_pack=prov_xref_pack.finalize(),
         synonym_pack=syn_xref_pack.finalize(),
-        # edge_pack=edge_pack.finalize(),
+        prop_pack=node_prop_pack.finalize(),
     )
 
 
 class PrePack:
     """A pre-results pack for aggregating then finalizing."""
 
-    def __init__(self, label: str):
+    def __init__(self, label: str) -> None:
         """Initialize the pre-results pack."""
         self.label = label
-        self.known_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
-        self.unknown_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
-        self.noncanonical_prefixes: DefaultDict[str, Dict[str, str]] = defaultdict(dict)
-        self.malformed_curies: DefaultDict[str, Set[str]] = defaultdict(set)
-        self.invalid_luids: DefaultDict[str, Set[str]] = defaultdict(set)
+        self.known_prefixes: defaultdict[str, dict[str, str]] = defaultdict(dict)
+        self.unknown_prefixes: defaultdict[str, dict[str, str]] = defaultdict(dict)
+        self.noncanonical_prefixes: defaultdict[str, dict[str, str]] = defaultdict(dict)
+        self.malformed_curies: defaultdict[str, set[str]] = defaultdict(set)
+        self.invalid_luids: defaultdict[str, set[str]] = defaultdict(set)
 
     def aggregate_curie_issues(
         self,
         node_id: str,
         curie: str,
         track_non_curies: bool = True,
-    ):
+    ) -> None:
         """Add an issue with a CURIE."""
         _aggregate_curie_issues(
             node_id,
@@ -367,7 +364,7 @@ class PrePack:
             track_non_curies=track_non_curies,
         )
 
-    def finalize(self):
+    def finalize(self) -> ResultPack:
         """Finalize the results pack."""
         return ResultPack(
             label=self.label,
@@ -379,14 +376,14 @@ class PrePack:
         )
 
 
-def _canonicalize_dict(dd: DefaultDict[str, Set[str]]) -> Dict[str, List[str]]:
+def _canonicalize_dict(dd: defaultdict[str, set[str]]) -> dict[str, list[str]]:
     return {k: sorted(v) for k, v in dd.items()}
 
 
 SKIP_ISSUES = {"type", "is_a", "subPropertyOf"}
 
 
-@lru_cache(maxsize=None)
+@cache
 def _get_pattern(prefix: str):
     p = bioregistry.get_pattern(prefix)
     if not p:
@@ -407,12 +404,19 @@ def _aggregate_curie_issues(
 ) -> None:
     if curie in SKIP_ISSUES:
         return
+
+    if "\n" in curie or curie.count(" ") > 5:
+        return
+
     # Check that the CURIE syntax is used properly
     try:
         prefix, identifier = curie.split(":", 1)
     except ValueError:
         if track_non_curies:
             malformed_curies[node_id].add(curie)
+        return
+
+    if TZ_RE.match(prefix):
         return
 
     # Disregard URIs
@@ -423,7 +427,11 @@ def _aggregate_curie_issues(
     norm_prefix = bioregistry.normalize_prefix(prefix)
     if norm_prefix is None:
         unknown_prefixes[prefix][node_id] = curie
-    elif norm_prefix.casefold() != prefix.casefold():
+        return
+
+    # known_prefixes[node_id][prefix].add(curie)
+
+    if norm_prefix.casefold() != prefix.casefold():
         if prefix not in NONCANONICAL_EXCEPTIONS:
             noncanonical_prefixes[prefix][node_id] = curie
 
@@ -436,10 +444,12 @@ def _aggregate_curie_issues(
 def _tabulate_dd(dd, name) -> tuple[int, str]:
     rows = []
     for key, values in dd.items():
-        rows.append((key, len(values), *random.choice(list(values.items()))))  # noqa:S311
+        rows.append((key, len(values), *random.choice(list(values.items()))))
     rows = sorted(rows, key=lambda row: (row[1], row[0].casefold()), reverse=True)
     return len(rows), tabulate(
-        rows, headers=[name, "count", "example_node_id", "example_xref"], tablefmt="github"
+        rows,
+        headers=[name, "count", "example_node_id", "example_xref"],
+        tablefmt="github",
     )
 
 
@@ -475,11 +485,11 @@ def coalesce_filters(prefix, iri_filter, obo_filter):
 @click.option("-o", "--obo-filter", is_flag=True)
 @verbose_option
 def analyze(
-    iri: Optional[str],
-    prefix: Optional[str],
-    path: Optional[Path],
+    iri: str | None,
+    prefix: str | None,
+    path: Path | None,
     cache: bool,
-    iri_filter: Optional[str],
+    iri_filter: str | None,
     obo_filter: bool,
 ) -> None:
     """Analyze a given ontology."""

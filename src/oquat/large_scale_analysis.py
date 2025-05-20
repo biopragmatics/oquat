@@ -1,12 +1,11 @@
-# -*- coding: utf-8 -*-
-
 """Automate analysis on all ontologies listed in the Bioregistry."""
+
+from __future__ import annotations
 
 import json
 import subprocess
 import urllib.error
 from pathlib import Path
-from typing import Optional
 
 import bioregistry
 import click
@@ -19,8 +18,8 @@ from tqdm.contrib.logging import logging_redirect_tqdm
 from .api import (
     SKIP_PREFIXES,
     AnalysisResults,
-    MissingGraphIRI,
-    NoParsableURIs,
+    MissingGraphIRIError,
+    NoParsableURIsError,
     analyze_by_prefix,
     secho,
 )
@@ -61,7 +60,7 @@ TEST_ONTOLOGIES = {"mondo", "go", "so"}
     help=f"Run on a small test set of ontologies ({', '.join(sorted(TEST_ONTOLOGIES))})",
 )
 @verbose_option
-def lsa(force: bool, minimum: Optional[str], test: bool, cache: bool):
+def lsa(force: bool, minimum: str | None, test: bool, cache: bool) -> None:
     """Run large-scale ontology analysis."""
     with logging_redirect_tqdm():
         _lsa(force=force, minimum=minimum, test=test, cache=cache)
@@ -69,7 +68,7 @@ def lsa(force: bool, minimum: Optional[str], test: bool, cache: bool):
 
 @click.command()
 @verbose_option
-def lsa_artifacts():
+def lsa_artifacts() -> None:
     """Generate large-scale ontology analysis artifacts, run only after full `lsa` command."""
     _generate_artifacts()
 
@@ -77,11 +76,11 @@ def lsa_artifacts():
 def _lsa(
     *,
     force: bool,
-    minimum: Optional[str],
+    minimum: str | None,
     test: bool = False,
     skip_messages: bool = True,
     cache: bool,
-):
+) -> None:
     rows = sorted(
         (
             prefix,
@@ -150,10 +149,10 @@ def _lsa(
             except subprocess.CalledProcessError:
                 failure_text = "ROBOT could not parse"
                 _failure(prefix=prefix, text=failure_text)
-            except MissingGraphIRI:
+            except MissingGraphIRIError:
                 failure_text = "Missing graph ID"
                 _failure(prefix=prefix, text=failure_text)
-            except NoParsableURIs:
+            except NoParsableURIsError:
                 failure_text = "None of the URIs could be parsed"
                 _failure(prefix=prefix, text=failure_text)
             except (ValueError, TypeError, RuntimeError) as e:
@@ -196,7 +195,7 @@ def _lsa(
         _generate_artifacts()
 
 
-def _generate_artifacts():
+def _generate_artifacts() -> None:
     from . import analyze_invalids, analyze_unknowns, analyze_versions
 
     analyze_invalids.main()
